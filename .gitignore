@@ -1,0 +1,31 @@
+# --- Unreal Engine generated (never tracked) ---
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Plugin-generated
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# --- IDE / toolchain ---
+# Regenerate via right-click .uproject -> Generate Project Files
+*.sln
+*.xcworkspace
+*.xcodeproj
+.vs/
+.vscode/
+.idea/
+*.code-workspace
+
+# Rider
+*.DotSettings.user
+
+# --- OS noise ---
+.DS_Store
+Thumbs.db
+
+# --- Local-only config ---
+Config/UserEngine.ini
+Config/UserGame.ini
