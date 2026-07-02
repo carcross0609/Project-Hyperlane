@@ -5,7 +5,7 @@
 ## Elevator Pitch
 
 Project Hyperlane is a single-player living-galaxy sandbox set in the Star Wars
-Republic era, built in Unreal Engine 5.6 with C++. The galaxy simulates itself:
+Republic era, built in Unreal Engine 5.8 with C++. The galaxy simulates itself:
 wars advance, trade routes shift, factions pursue goals, and NPCs live their
 own lives whether or not the player is watching. The player is one being among
 trillions — free to become a trader, pilot, soldier, Jedi, Sith, bounty hunter,
