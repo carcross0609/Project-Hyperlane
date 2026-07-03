@@ -1,0 +1,34 @@
+{
+  "name": "Slasher",
+  "wookieepedia_title": "Slasher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Slasher",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Slasher was a Sienar Fleet Systems GAT-12j Skipray Blastboat. It was one of two Blastboats used by Bazak's Gang.",
+  "data": {
+    "name": "Slasher",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "GAT-12j Skipray Blastboat",
+    "length": "25 meters",
+    "max_speed": "1,200 kmh",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped (limited to 4 jumps)",
+    "armament": [
+      "1 Concussion missile launcher",
+      "2 laser cannons",
+      "3 medium ion cannons",
+      "1 proton torpedo launcher"
+    ],
+    "crew": "2; 2 gunners",
+    "skeleton": "1",
+    "passengers": "10",
+    "capacity": "20 metric tons",
+    "consumables": "1 months",
+    "affiliation": "Bazak's Gang",
+    "owners": "Lekk Bazak"
+  },
+  "scraped": "2026-07-03"
+}

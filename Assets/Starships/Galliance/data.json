@@ -1,0 +1,24 @@
+{
+  "name": "Galliance",
+  "wookieepedia_title": "Galliance",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galliance",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Galliance was a Pacifier-class sector patrol cruiser of the Republic Defense Coalition that was used by Grand Master Yoda and the fallen Jedi Azlin Rell to travel to Travyx Prime six months after the destruction of Starlight Beacon. While boarding a shuttle, Rell manipulated a Galliance crew member with the Force, and as the shuttle travelled to the surface of Travyx Prime, the crew member took control of the Galliance and crashed it into a city, killing many in the resulting explosion.",
+  "data": {
+    "name": "Galliance",
+    "model": "Pacifier-class",
+    "type": "Patrol cruiser",
+    "complement": [
+      "Jedi Vectors",
+      "A shuttle"
+    ],
+    "destroyed": "During the destruction of a Travyx Prime city",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Miy'til assault bomber",
+  "wookieepedia_title": "Miy'til assault bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Miy%27til_assault_bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Miy'til assault bomber was a Hapes Consortium starfighter.",
+  "data": {
+    "name": "Miy'til assault bomber",
+    "manufacturer": "Olanji/Charubah",
+    "model": "Miy'til assault bomber",
+    "type": "Starfighter",
+    "cost": "200,000 credits",
+    "length": "20 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "Laser cannons (2, Single-fire or linked)",
+      "Heavy Concussion missile launchers (2, Single-fire or linked)",
+      "  Standard load: 16 missiles each"
+    ],
+    "crew": "2",
+    "passengers": "None",
+    "capacity": "400 kilograms",
+    "consumables": "2 days",
+    "role": "Bomber",
+    "affiliation": "Hapes Consortium"
+  },
+  "scraped": "2026-07-03"
+}

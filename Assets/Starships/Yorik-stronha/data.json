@@ -1,0 +1,32 @@
+{
+  "name": "Yorik-stronha",
+  "wookieepedia_title": "Yorik-stronha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yorik-stronha",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Yorik-stronha were bioships used by the Yuuzhan Vong that resembled asteroids.",
+  "data": {
+    "name": "Yorik-stronha",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Yorik-stronha spy ship",
+    "type": "Capital ship",
+    "length": "228 meters",
+    "max_speed": "Varying speed",
+    "engine": "Dovin basal",
+    "hyperdrive": "Class 3",
+    "hdsystem": "None",
+    "shield_gen": "Dovin basal",
+    "hull": "Yorik coral",
+    "armament": [
+      "Yaret-Kors (10)",
+      "Dovin basals"
+    ],
+    "crew": "12",
+    "passengers": "12",
+    "capacity": "142 metric tons",
+    "consumables": "2 months",
+    "role": "Spy ship",
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

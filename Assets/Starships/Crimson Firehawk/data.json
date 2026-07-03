@@ -1,0 +1,45 @@
+{
+  "name": "Crimson Firehawk",
+  "wookieepedia_title": "Crimson Firehawk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crimson_Firehawk",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Crimson Firehawk was a shuttle piloted by Nash Durango during the High Republic Era. The ship was named after the avian firehawk. Kai, Lys and Nubs often used this shuttle to their missions.",
+  "data": {
+    "name": "Crimson Firehawk",
+    "manufacturer": "Mejson Spaceworks",
+    "model": "Chellatine-class shuttle",
+    "type": "Shuttle",
+    "modifier": [
+      "Nash Durango",
+      "RJ-83",
+      "Kryys Durango"
+    ],
+    "length": "17.1 meters (56 ft, 1 in)",
+    "mglt": "75 mglt",
+    "hdrange": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Laser turret",
+      "Twin blaster cannons"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunner (1)"
+    ],
+    "skeleton": "1",
+    "capacity": "At least 4",
+    "role": "Transport",
+    "affiliation": [
+      "Durangos",
+      "Durango Shuttle Service",
+      "Galactic Republic",
+      "Jedi Order"
+    ],
+    "owners": "Nash Durango",
+    "captains": "Nash Durango"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Bulwark Mark I",
+  "wookieepedia_title": "Bulwark Mark I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bulwark_Mark_I",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Bulwark Mark I, also known as the Bulwark-class battleship, was a kilometer-long warship, manufactured by the Techno Union in the years leading up to the Clone Wars, that was heavily armored and equipped with turbolasers and ion cannons. During the galactic conflict, several such vessels made up the Separatist Bulwark Fleet, which terrorized Republic forces in the Core Worlds before its destruction. One Bulwark Mark I later served with the New Republic's Rapid Response Task Force during the Battle of Mindor.",
+  "data": {
+    "name": "Bulwark Mark I",
+    "designer": "Techno Union engineers",
+    "manufacturer": [
+      "TransGalMeg Industries, Incorporated",
+      "Techno Union"
+    ],
+    "model": "Bulwark Mark I",
+    "length": "1,000 meters",
+    "hull": "Armored",
+    "armament": [
+      "Turbolasers",
+      "Ion cannons"
+    ],
+    "role": "Warship",
+    "firstuse": "20 BBY",
+    "affiliation": [
+      "Techno Union",
+      "Confederacy of Independent Systems",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

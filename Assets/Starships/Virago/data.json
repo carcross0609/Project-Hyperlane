@@ -1,0 +1,47 @@
+{
+  "name": "Virago",
+  "wookieepedia_title": "Virago",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Virago",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Virago was a prototype StarViper-class attack platform and the personal starship of Prince Xizor.",
+  "data": {
+    "name": "Virago",
+    "manufacturer": "MandalMotors",
+    "model": "Modified StarViper-class attack platform",
+    "length": "21 meters",
+    "max_accel": "4,240 G",
+    "mglt": "110 MGLT",
+    "max_speed": "880 km/h",
+    "engine": [
+      "Quadex IGt engines",
+      "Koensayr N2-f microthrusters"
+    ],
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 10"
+    ],
+    "power": "Heavy power generators (4) (1 per wing)",
+    "shield_gen": "Forward and aft deflector shield generators",
+    "target": "Carbanti St2x targeting computer with experimental laser sighting system",
+    "navigation": "Equipped",
+    "armament": [
+      "Taim & Bak Ht-12 heavy laser cannons (2)",
+      "Borstel proton torpedo launchers (2)",
+      "  Standard load: 3 torpedoes each"
+    ],
+    "crew": "Pilot (1)",
+    "capacity": "1 metric ton",
+    "consumables": "2 months",
+    "othersystems": "S-foil actuator",
+    "role": [
+      "Heavy assault fighter",
+      "Space superiority fighter"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Black Sun",
+    "owners": "Xizor"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Carnage",
+  "wookieepedia_title": "Carnage",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carnage",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Carnage was a Harrower-class dreadnought and flagship of the Sith Lord Darth Achelon. During the Galactic War, the Carnage fought a Republic fleet over Corellia. Moffs Valion Pyron, Dolus, Graham and Lord Kallig were discussing an alliance and decided to use this opportunity to test out the Doombringer Silencer superweapon against the fleet that was engaged against the Carnage.",
+  "data": {
+    "name": "Carnage",
+    "manufacturer": "Taerab Starship Manufacturing",
+    "model": "Harrower-class dreadnought",
+    "type": [
+      "Dreadnaught",
+      "Star Destroyer"
+    ],
+    "cost": "10 years' output of a major mining colony",
+    "length": ">800 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "4 equipped",
+    "hull": "Heavily-reinforced hull plating",
+    "armament": [
+      "Turbolaser batteries",
+      "Quad laser cannons",
+      "Ion cannons",
+      "Proton torpedos",
+      "Concussion missile launchers"
+    ],
+    "complement": [
+      "95 starfighters",
+      "  Mark VI Supremacy-class starfighters",
+      "32 B28 Extinction-class bombers",
+      "35 shuttles"
+    ],
+    "escapepods": "Many",
+    "crew": "2,400",
+    "capacity": "7,300 troops",
+    "role": [
+      "Capital ship",
+      "Warship"
+    ],
+    "affiliation": "Sith Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

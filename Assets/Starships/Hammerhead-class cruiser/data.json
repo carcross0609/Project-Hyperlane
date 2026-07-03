@@ -1,0 +1,45 @@
+{
+  "name": "Hammerhead-class cruiser",
+  "wookieepedia_title": "Hammerhead-class cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hammerhead-class_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Hammerhead-class cruiser was a type of warship used by the Republic Navy during the Old Sith Wars, the Mandalorian Wars, and the New Sith Wars. One of the most successful warship designs in galactic history, the Hammerhead-class still saw use in sector defense forces millennia after its introduction and inspired many other ship designs, such as the Thranta-class corvette and MC140 Scythe-class main battle cruiser.",
+  "data": {
+    "name": "Hammerhead-class cruiser",
+    "manufacturer": "Rendili Hyperworks",
+    "model": "Hammerhead-class cruiser",
+    "type": "Capital ship",
+    "cost": "Not available for sale (estimated value 10 million credits)",
+    "length": "315 meters",
+    "engine": "4 ion engines",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Dual light turbolaser batteries (4)",
+      "Medium turbolaser batteries (2)",
+      "Point-defense light laser cannon batteries (2)",
+      "Tractor beam battery (1)"
+    ],
+    "complement": [
+      "12 Aurek-class tactical strikefighters",
+      "2 Ministry-class orbital shuttles",
+      "Various support craft"
+    ],
+    "crew": "300",
+    "passengers": "400",
+    "capacity": "4,000 tons",
+    "consumables": "8 months",
+    "role": [
+      "Cruiser",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Sith Triumvirate"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

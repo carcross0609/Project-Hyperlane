@@ -1,0 +1,36 @@
+{
+  "name": "Tormentor",
+  "wookieepedia_title": "Tormentor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tormentor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tormentor was an Imperial II-class Star Destroyer that served as the flagship of Captain Amos and his fleet following the Battle of Endor. It was destroyed during a battle above Desevro.",
+  "data": {
+    "name": "Tormentor",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "target": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Missile launchers"
+    ],
+    "crew": "Imperial officers",
+    "communications": "Communications tower",
+    "role": "Flagship",
+    "destroyed": "4 ABY, above Desevro",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Desevro fleet",
+    "captains": "Amos"
+  },
+  "scraped": "2026-07-03"
+}

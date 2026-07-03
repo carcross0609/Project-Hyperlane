@@ -1,0 +1,25 @@
+{
+  "name": "Starhunter",
+  "wookieepedia_title": "Starhunter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starhunter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Starhunter was a further evolution of the TIE/IN interceptor starfighter that saw use with the navy of the Imperial Remnant during the latter stages of the Second Galactic Civil War. Boasting more firepower, with heavy weapons in addition to laser cannons, the Starhunter also carried a deflector shield generator. It was operated by a single pilot.",
+  "data": {
+    "name": "Starhunter",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine Interceptor starfighter",
+    "type": "Starfighter",
+    "engine": "Twin ion engine",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "Heavy weapons"
+    ],
+    "crew": "One pilot",
+    "role": "Interceptor",
+    "firstuse": "41 ABY",
+    "affiliation": "Imperial Remnant"
+  },
+  "scraped": "2026-07-03"
+}

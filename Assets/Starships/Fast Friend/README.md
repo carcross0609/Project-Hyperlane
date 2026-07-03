@@ -1,0 +1,17 @@
+# Fast Friend
+
+**Kind:** Individual ship  
+**Continuity:** Canon  
+**Source:** [Fast Friend](https://starwars.fandom.com/wiki/Fast_Friend)
+
+The Fast Friend was a starship owned and captained by the Devaronian smuggler, Kurjak. In 0 ABY, Kurjak was hired by Del Meeko and Gideon Hask, members of Inferno Squad who were posing as brothers, to deliver them and a container to Eriadu. En route to their destination, the Fast Friend was attacked and boarded by the Opportunity, a pirate ship belonging to the Blood Bone Order and their "Pirate Queen", Lassa Rhayme.
+
+## Specifications
+
+- **Name:** Fast Friend
+- **Owners:** Kurjak
+- **Captains:** Kurjak
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,46 @@
+{
+  "name": "Devastation",
+  "wookieepedia_title": "Devastation",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Devastation",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Devastation was a Separatist Subjugator-class heavy cruiser and the sister ship of the Malevolence.",
+  "data": {
+    "name": "Devastation",
+    "manufacturer": [
+      "Free Dac Volunteers Engineering Corps",
+      "Pammant Docks"
+    ],
+    "model": "Subjugator-class heavy cruiser",
+    "type": [
+      "Battleship",
+      "Heavy cruiser"
+    ],
+    "length": "7,892 meters",
+    "engine": "Equipped with 16 engines",
+    "hdsystem": "Equipped",
+    "sensor": "Sensor array",
+    "armament": [
+      "Force crystal powered ion pulse cannons (2)",
+      "Twin turbolaser batteries (dozens)"
+    ],
+    "role": [
+      "Battleship",
+      "Command ship (Flagship)"
+    ],
+    "destroyed": "21 BBY",
+    "affiliation": "Confederacy of Independent Systems",
+    "owners": [
+      "Count Dooku",
+      "Asajj Ventress",
+      "Sai Sircu"
+    ],
+    "captains": [
+      "Darth Sidious (orders via hologram)",
+      "Count Dooku",
+      "Sai Sircu"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

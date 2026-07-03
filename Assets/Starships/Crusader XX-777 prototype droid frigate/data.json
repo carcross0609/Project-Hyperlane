@@ -1,0 +1,35 @@
+{
+  "name": "Crusader XX-777 prototype droid frigate",
+  "wookieepedia_title": "Crusader XX-777 prototype droid frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crusader_XX-777_prototype_droid_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Crusader XX-777 prototype droid frigate was a prototype droid starship designed by CEC-L Shipyard Lab 6671-x42 (aka The Nerfworks).",
+  "data": {
+    "name": "Crusader XX-777 prototype droid frigate",
+    "manufacturer": "Corellian Engineering Corporation/Loronar Corporation",
+    "model": "Crusader XX-777 prototype droid frigate",
+    "type": "Capital ship",
+    "cost": "Not for sale; estimated at 1,800,000 credits",
+    "length": "120 meters",
+    "max_speed": "480 km/h",
+    "hyperdrive": [
+      "Class 1.5",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Turbolasers (2)",
+      "Heavy ion cannons (2)",
+      "Assault concussion missile tubes (2)",
+      "  30 missiles each"
+    ],
+    "crew": "0 (droid brain)",
+    "passengers": "30",
+    "capacity": "300 metric tons",
+    "consumables": "2 years",
+    "role": "Escort frigate"
+  },
+  "scraped": "2026-07-03"
+}

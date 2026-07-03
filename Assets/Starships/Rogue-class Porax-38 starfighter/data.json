@@ -1,0 +1,57 @@
+{
+  "name": "Rogue-class Porax-38 starfighter",
+  "wookieepedia_title": "Rogue-class Porax-38 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rogue-class_Porax-38_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Rogue-class Porax-38 starfighter, also known simply as the Rogue-class starfighter, Porax-38 starfighter, or P-38 fighter, was a model of starfighter manufactured by Baktoid Armor Workshop and Buuper Torsckil Abbey Devices and used by the Confederacy of Independent Systems during the Clone Wars. Often flown by specially programmed IG-100 MagnaGuards, it came to informally be known as the MagnaGuard Fighter. The bounty hunter Cad Bane owned a modified Rogue-class starfighter known as the Xanadu Blood.",
+  "data": {
+    "name": "Rogue-class Porax-38 starfighter",
+    "manufacturer": [
+      "Baktoid Armor Workshop",
+      "Buuper Torsckil Abbey Devices"
+    ],
+    "model": "Rogue-class Porax-38",
+    "type": "Starfighter",
+    "length": "12.7 meters",
+    "width": "12.88 meters",
+    "height": "2.71 meters",
+    "max_accel": "3,300 G",
+    "max_speed": "61,000 kph",
+    "hyperdrive": "Class 2",
+    "hdrange": "Sector",
+    "hdsystem": "Hyperdrive motivator",
+    "power": "Port and starboard wing-mounted reactors",
+    "shield_gen": "Equipped",
+    "sensor": [
+      "Airpseed sensors",
+      "Active scanner array"
+    ],
+    "target": "Rangefinder with targeting processor",
+    "navigation": "Local-range navigation computer",
+    "avionics": "Pilot-assist flight instruments",
+    "countermeasures": [
+      "Jamming device",
+      "Data buffers",
+      "Cloaking device (modified)"
+    ],
+    "armament": "Heavy laser cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": [
+      "1 small droid",
+      "1 baby"
+    ],
+    "lifesupport": "Equipped",
+    "communications": "Wing-mounted comlink",
+    "othersystems": [
+      "Wing-mounted maneuvering repulsorlifts",
+      "Inertial compensator",
+      "Fuel computer"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Utapau Skyforce"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Endar Spire",
+  "wookieepedia_title": "Endar Spire",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Endar_Spire",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Endar Spire was a Hammerhead-class cruiser that served with the Galactic Republic Navy during the Jedi Civil War. In 3956 BBY, it was assigned to Jedi Knight Bastila Shan and crewed by, among others, veteran commander Carth Onasi, Ensign Trask Ulgo, Revan, and several Republic soldiers. It was part of a larger Jedi battle fleet, designed to stop the invading fleets of Dark Lord of the Sith Darth Malak Sith Empire.",
+  "data": {
+    "name": "Endar Spire",
+    "manufacturer": "Rendili Hyperworks",
+    "type": "Hammerhead-class cruiser",
+    "length": "315 meters",
+    "armament": [
+      "4 double light turbolaser batteries",
+      "2 medium turbolaser batteries",
+      "2 point-defense laser cannon batteries",
+      "1 tractor beam battery"
+    ],
+    "destroyed": "3956 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ],
+    "navy": "Republic Navy",
+    "captains": "Bastila Shan"
+  },
+  "scraped": "2026-07-03"
+}

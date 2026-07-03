@@ -1,0 +1,30 @@
+{
+  "name": "Reclaimer",
+  "wookieepedia_title": "Reclaimer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reclaimer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Reclaimer was a customized salvage ship of Belinda Vog. It carried two crew, four passengers, 75 metric tons of cargo, and 1 month's consumables. It had a class 1 hyperdrive and a class 15 backup. It could fly 750 kmh in atmosphere and had a nav computer. It was equipped with shields as well as a heavy laser cannon.",
+  "data": {
+    "name": "Reclaimer",
+    "type": "Customized space vehicle",
+    "length": "22.5 meters",
+    "max_speed": "750 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15"
+    ],
+    "navigation": "Equipped",
+    "armament": "Heavy laser cannon",
+    "crew": "2",
+    "passengers": "4",
+    "capacity": "75 metric tons, 30 cubic meters",
+    "consumables": "1 month",
+    "role": "Personal transport",
+    "affiliation": "Vog Salvage, Inc.",
+    "owners": "Belinda Vog",
+    "captains": "Belinda Vog"
+  },
+  "scraped": "2026-07-03"
+}

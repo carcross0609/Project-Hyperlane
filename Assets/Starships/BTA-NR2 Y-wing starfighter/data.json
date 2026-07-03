@@ -1,0 +1,67 @@
+{
+  "name": "BTA-NR2 Y-wing starfighter",
+  "wookieepedia_title": "BTA-NR2 Y-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BTA-NR2_Y-wing_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The BTA-NR2 Y-wing starfighter, also known as the Resistance Y-wing, was a variant of the Y-wing starfighter produced by Koensayr Manufacturing that was used by the New Republic and the Resistance.",
+  "data": {
+    "name": "BTA-NR2 Y-wing starfighter",
+    "manufacturer": "Consolidated Koensayr Manufacturing & Holdings",
+    "line": "Y-wing starfighter",
+    "model": "BTA-NR2 Y-wing",
+    "type": "Starfighter/patrol craft",
+    "cost": [
+      "185,000 credits (new)",
+      "95,000 credits (used)"
+    ],
+    "length": "18.17 meters (59 ft 7 in)",
+    "width": "8.78 meters (28 ft 10 in)",
+    "height": "2.85 meters (9 ft 4 in)",
+    "max_accel": "2,750 G",
+    "mglt": "80 MGLT",
+    "max_speed": "1,050 kph",
+    "engine": "Koensayr R750 ion jet engines (2)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Koensayr R400-H hyperdrive",
+    "poweroutput": "Novaldex power generator",
+    "shield_gen": "Chempat deflector shield generator",
+    "hull": [
+      "Titanium-reinforced alusteel hull",
+      "Transparisteel viewport"
+    ],
+    "sensor": "Fabritech long-range sensor array",
+    "target": "Fabritech ANq 5.8 tracking computer",
+    "navigation": "Astromech droid",
+    "armament": [
+      "Taim & Bak IX4-B / IX8 laser cannons (2)",
+      "ArMek SW-9 ion cannons (2) (turret)",
+      "Arakyd Flex Tube proton torpedo launchers (2) / Krupx MG12 warhead launchers (2)",
+      "  Proton torpedos / variable ordnance",
+      "  Electro-chaff missiles",
+      "Proton bombs"
+    ],
+    "escapepods": "Guidenhauser ejector seat",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "consumables": "1 week",
+    "lifesupport": "Equipped",
+    "communications": "Photonic comm system",
+    "role": [
+      "Bombardment",
+      "Combat",
+      "Planetary defense",
+      "Scouting"
+    ],
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Spice Runners of Kijimi",
+      "Resistance",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

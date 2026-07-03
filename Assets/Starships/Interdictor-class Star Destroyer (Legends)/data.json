@@ -1,0 +1,44 @@
+{
+  "name": "Interdictor-class Star Destroyer",
+  "wookieepedia_title": "Interdictor-class Star Destroyer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Interdictor-class_Star_Destroyer/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Interdictor-class Star Destroyer was a variant of the Imperial I-class Star Destroyer equipped with gravity well projectors.",
+  "data": {
+    "name": "Interdictor-class Star Destroyer",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Star Destroyers",
+    "model": "Interdictor-class Star Destroyer",
+    "type": "Star Destroyer",
+    "cost": "175,000,000 credits",
+    "length": "1,600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 8 (backup)"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy turbolaser batteries (30)",
+      "Ion cannon turrets (30)",
+      "Tractor beam projectors (2)",
+      "Gravity well projectors (4)"
+    ],
+    "complement": "Starfighters (16)",
+    "crew": "37,085",
+    "passengers": "5,000 troops",
+    "consumables": "1 year",
+    "role": [
+      "Battleship (dreadnaught; downscaled)",
+      "Destroyer",
+      "Interdiction"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Thrawn's Confederation",
+      "Imperial Remnant",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

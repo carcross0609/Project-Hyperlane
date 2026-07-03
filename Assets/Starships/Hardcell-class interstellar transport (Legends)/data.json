@@ -1,0 +1,39 @@
+{
+  "name": "Hardcell-class interstellar transport",
+  "wookieepedia_title": "Hardcell-class interstellar transport/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hardcell-class_interstellar_transport/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Hardcell-class interstellar transport, or colloquially known as the Techno Union ship, was a light capital transport produced by the Techno Union prior to the onset of the Clone Wars. The Hardcell-class transport was used by both the Techno Union and the InterGalactic Banking Clan. It was known as something of a status symbol among Techno Union officials.",
+  "data": {
+    "name": "Hardcell-class interstellar transport",
+    "manufacturer": "Techno Union",
+    "model": "Hardcell-class interstellar transport",
+    "type": "Transport",
+    "cost": "Not available for sale",
+    "length": "220 meters",
+    "mglt": "40 MGLT",
+    "max_speed": "4,000 km/h",
+    "engine": "6 primary thrusters",
+    "hyperdrive": "Class 1 (backup class 8)",
+    "hull": "Titanium",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Turreted laser cannon batteries (2)",
+      "Assault concussion missile tubes (2)"
+    ],
+    "complement": "IG-227 Hailfire-class droid tank (650)",
+    "crew": "190",
+    "passengers": "1,017",
+    "capacity": "12,400 tons",
+    "consumables": "6 months",
+    "availability": "Military",
+    "role": "Transport",
+    "affiliation": [
+      "Techno Union",
+      "InterGalactic Banking Clan",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

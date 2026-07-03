@@ -1,0 +1,40 @@
+{
+  "name": "Thranta-class corvette",
+  "wookieepedia_title": "Thranta-class corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thranta-class_corvette",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Thranta-class corvette, also known as the CR-12 corvette, was a cruiser in service with the Republic Navy during the Great Galactic War.",
+  "data": {
+    "name": "Thranta-class corvette",
+    "manufacturer": "Corellia StarDrive",
+    "type": "Corvette",
+    "hdsystem": "Equipped",
+    "power": "Type-4 Hypermatter annihilator",
+    "shield_gen": "Redundant Deflector shield generators",
+    "armament": [
+      "6 Twin turbolaser cannons",
+      "Laser cannons",
+      "Ion cannon",
+      "Concussion missile launchers",
+      "Tractor beam emitters (2)"
+    ],
+    "complement": [
+      "14 Liberator-class starfighters",
+      "3 bombers",
+      "4 shuttles"
+    ],
+    "crew": "300",
+    "passengers": "200 troops",
+    "communications": "Boosted long-range communications transceiver",
+    "role": "Warship",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy",
+      "Order of Revan",
+      "Eternal Alliance",
+      "  Eternal Alliance fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

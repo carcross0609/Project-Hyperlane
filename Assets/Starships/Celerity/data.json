@@ -1,0 +1,30 @@
+{
+  "name": "Celerity",
+  "wookieepedia_title": "Celerity",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Celerity",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Celerity was an Imperial-class Star Destroyer in the navy of the Galactic Empire.",
+  "data": {
+    "name": "Celerity",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "affiliation": [
+      "Galactic Empire",
+      "Gratloe's faction"
+    ],
+    "navy": "Imperial Navy",
+    "captains": "Gratloe"
+  },
+  "scraped": "2026-07-03"
+}

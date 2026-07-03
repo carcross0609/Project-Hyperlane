@@ -1,0 +1,29 @@
+{
+  "name": "Bonderium",
+  "wookieepedia_title": "Bonderium",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bonderium",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Bonderium was a Lambda-class T-4a shuttle used by rebel agents to intercept the Imperial transport Elusive on its way from the planetary ruin of Dankayo to the Tolan Navy Yards.",
+  "data": {
+    "name": "Bonderium",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Shuttle",
+    "modifier": "Alliance to Restore the Republic",
+    "length": "20 meters",
+    "hyperdrive": "Class 1",
+    "navigation": "Equipped",
+    "armament": [
+      "4 double laser cannons",
+      "1 Proton torpedo launcher",
+      "1 tractor beam"
+    ],
+    "crew": "4-6",
+    "passengers": "10",
+    "cargohandling": "80 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "IR-3F-class light frigate",
+  "wookieepedia_title": "IR-3F-class light frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IR-3F-class_light_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The IR-3F-class light frigate, commonly referred to as the IR-3F patrol craft or IR-3F, was a light frigate designed by Sienar Fleet Systems for use as a system patrol and customs ship.",
+  "data": {
+    "name": "IR-3F-class light frigate",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": [
+      "Light frigate",
+      "Patrol craft"
+    ],
+    "cost": [
+      "2,500,000 credits (new)",
+      "1,000,000 credits (used)"
+    ],
+    "length": "110 meters",
+    "max_speed": "1,000 kph",
+    "engine": "Fast sublight engines",
+    "hdsystem": "None",
+    "shield_gen": [
+      "Equipped"
+    ],
+    "sensor": "Equipped",
+    "armament": "Turbolaser cannon turrets (4) or heavy laser cannons (4; fire-linked)",
+    "crew": "11, including 8 gunners",
+    "skeleton": "1",
+    "passengers": "10 troops",
+    "capacity": "180 metric tons",
+    "consumables": "3 months",
+    "role": "Inter-system patrol/customs craft",
+    "affiliation": [
+      "Galactic Empire",
+      "Bakuran Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

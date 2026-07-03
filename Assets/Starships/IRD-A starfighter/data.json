@@ -1,0 +1,33 @@
+{
+  "name": "IRD-A starfighter",
+  "wookieepedia_title": "IRD-A starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IRD-A_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The IRD-A starfighter, short for Intercept *Reconnaissance *Defense, was an upgraded version of the Corporate Sector's IRD starfighter.",
+  "data": {
+    "name": "IRD-A starfighter",
+    "manufacturer": "Corporate Sector Authority",
+    "model": "IRD-A starfighter",
+    "type": "Starfighter",
+    "cost": "90,000 credits",
+    "length": "10 meters",
+    "max_speed": "1,150 km/h",
+    "hdsystem": "None",
+    "shield_gen": "None",
+    "armament": [
+      "Medium blaster cannons (2)",
+      "Light concussion missile launchers (2)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "25 - 40 kg",
+    "consumables": "1 - 2days",
+    "availability": "Military",
+    "affiliation": [
+      "Corporate Sector Authority",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

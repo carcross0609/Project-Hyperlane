@@ -1,0 +1,69 @@
+{
+  "name": "Nebula-class Star Destroyer",
+  "wookieepedia_title": "Nebula-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nebula-class_Star_Destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nebula-class Star Destroyer, also known as the Defender-class Star Destroyer, was the largest, most powerful warship design in the New Republic's New Class Modernization Program.",
+  "data": {
+    "name": "Nebula-class Star Destroyer",
+    "manufacturer": "Republic Engineering Corporation",
+    "line": [
+      "Star Destroyers",
+      "Defender program (original design)",
+      "New Class Modernization Program (final development)"
+    ],
+    "model": "Nebula-class Star Destroyer",
+    "type": [
+      "Star Destroyer",
+      "Cruiser",
+      "Capital ship"
+    ],
+    "cost": "Approximately 168,528,000 credits",
+    "length": "1,040 meters",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "poweroutput": "Peak: >9,28 × 1024 W (over 20% more power than the ISD-I)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Heavy turbolasers batteries (40: 10 fore, 10 aft, 10 port, 10 starboard)",
+      "Heavy turbolasers cannons (40: 10 fore, 10 aft, 10 port, 10 starboard)",
+      "Ion cannons (20: 5 fore, 5 aft, 5 port, 5 starboard)",
+      "Assault concussion missile tubes (8, turreted)",
+      "  30 missiles each",
+      "Many pulse cannons",
+      "Tractor beam projectors (8: 3 fore, 2 port, 2 starboard, 1 aft)"
+    ],
+    "complement": [
+      "60 Starfighters",
+      "12 Transports"
+    ],
+    "escapepods": "Equipped",
+    "crew": [
+      "6,795 crew",
+      "244 gunners"
+    ],
+    "skeleton": "2,265",
+    "passengers": "1,600 troops",
+    "capacity": "15,000 metric tons",
+    "consumables": "6 months",
+    "communications": "Equipped",
+    "role": [
+      "Destroyer",
+      "Carrier",
+      "Command ship"
+    ],
+    "firstuse": "15 ABY",
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Wheel Security Force"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

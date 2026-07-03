@@ -1,0 +1,25 @@
+{
+  "name": "Sleight of Hand",
+  "wookieepedia_title": "Sleight of Hand",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sleight_of_Hand",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sleight of Hand was a modified Telgorn dropship used by Cad Bane during the Clone Wars as a go-to craft for delivering precious cargo, both living and otherwise. The ship has been heavily customized and re-purposed by Bane himself, who installed military-grade armor and weapons and an advanced hyperdrive.",
+  "data": {
+    "name": "Sleight of Hand",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Telgorn dropship",
+    "modifier": "Cad Bane",
+    "sysmods": "Military-grade armor and weapons",
+    "countermeasures": "Sensor jammer",
+    "armament": [
+      "1 top mounted laser turret",
+      "2 heavy laser cannons",
+      "1 ion cannon"
+    ],
+    "role": "Transport",
+    "owners": "Cad Bane"
+  },
+  "scraped": "2026-07-03"
+}

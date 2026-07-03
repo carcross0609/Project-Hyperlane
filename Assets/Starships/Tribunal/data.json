@@ -1,0 +1,66 @@
+{
+  "name": "Tribunal",
+  "wookieepedia_title": "Tribunal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tribunal",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tribunal was a Venator-class Star Destroyer that served in the Galactic Republic naval forces' Open Circle Fleet toward the end of the Clone Wars. In 19 BBY, the Tribunal was used to transport the former Sith apprentice Maul to the Republic's capital planet, Coruscant, following his capture by the 332nd Division and former Jedi Padawan Ahsoka Tano during the siege of the planet Mandalore. However, while traveling to Coruscant, Dark Lord of the Sith Darth Sidious enacted Order 66, which forced the clone troopers of the Grand Army of the Republic to execute their Jedi commanding officers.",
+  "data": {
+    "name": "Tribunal",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": [
+      "Ion drive thrusters (8)",
+      "Retrorockets"
+    ],
+    "hdsystem": "Multiple hyperdrive generators",
+    "armament": [
+      "8 DBY-827 heavy turbolaser turrets",
+      "2 medium dual turbolaser cannons",
+      "Laser cannons",
+      "Proton torpedo launchers",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "Alpha-3 Nimbus-class V-wing starfighters",
+      "BTL-B Y-wing starfighter/bombers",
+      "Clone Z-95 Headhunters",
+      "Low Altitude Assault Transport/infantrys",
+      "    Space gunships",
+      "At least 1 Nu-class attack/transport shuttle",
+      "At least 1 Rho-class transport shuttle"
+    ],
+    "bays": [
+      "Main hangar bay",
+      "  Bay 12"
+    ],
+    "escapepods": "Several escape pods",
+    "crew": "Clone navigation officers",
+    "passengers": [
+      "Clone troopers",
+      "  Clone shock troopers",
+      "FX-7 medical assistant droids",
+      "Astromech droids",
+      "  C1-series astromech droids",
+      "  R4 astromech droids",
+      "  R5 series astromech droids"
+    ],
+    "cargohandling": "Cargo lift",
+    "communications": "2 hyperwave comm scanners",
+    "othersystems": "Surgical pods",
+    "role": [
+      "Battleship",
+      "Starfighter carrier"
+    ],
+    "destroyed": "19 BBY, on a rocky moon",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet",
+    "captains": "Rex"
+  },
+  "scraped": "2026-07-03"
+}

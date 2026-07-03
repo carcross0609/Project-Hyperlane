@@ -1,0 +1,47 @@
+{
+  "name": "Tranquility",
+  "wookieepedia_title": "Tranquility",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tranquility",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tranquility was a Venator-class Star Destroyer of the Galactic Republic naval forces' Open Circle Fleet, where it served as the flagship of Jedi General Luminara Unduli and her fleet group during the Clone Wars. In 21 BBY, following the capture of Separatist leader and Trade Federation Viceroy Nute Gunray, the Tranquility and its commander were due to transport the Viceroy to the planet Coruscant, where he was to stand trial for war crimes. However, while en route to Coruscant, the Star Destroyer was infiltrated by Sith assassin Asajj Ventress, who managed to retrieve Gunray and escape from the vessel, but not before causing extensive damage to the Tranquility.",
+  "data": {
+    "name": "Tranquility",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Engine units (8)",
+    "power": "Reactors",
+    "armament": [
+      "DBY-827 heavy turbolaser turrets (8)",
+      "Medium dual turbolaser cannons (2)"
+    ],
+    "complement": "Low Altitude Assault Transport/infantrys",
+    "bays": "Hangar",
+    "escapepods": "Escape pods",
+    "crew": [
+      "Clone troopers",
+      "Clone navigation officers"
+    ],
+    "passengers": [
+      "At least 1 WED-15 Treadwell droid",
+      "Senate Commandos"
+    ],
+    "communications": "Equipped",
+    "role": "Flagship",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": [
+      "Open Circle Fleet",
+      "  Luminara Unduli's fleet group"
+    ],
+    "captains": [
+      "Luminara Unduli",
+      "Tranquility commander"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

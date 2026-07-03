@@ -1,0 +1,33 @@
+{
+  "name": "Refugee",
+  "wookieepedia_title": "Refugee (yacht)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Refugee_%28yacht%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": null,
+  "data": {
+    "name": "Refugee",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "LEX",
+    "model": "1550-LEX space yacht",
+    "type": "Space yacht",
+    "length": "30.4 meters",
+    "hyperdrive": [
+      "x1(primary)",
+      "x12(backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "None",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "6",
+    "capacity": "25 metric tons",
+    "consumables": "2 months",
+    "role": "Yacht",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

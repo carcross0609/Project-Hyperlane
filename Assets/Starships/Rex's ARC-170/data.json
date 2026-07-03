@@ -1,0 +1,34 @@
+{
+  "name": "Rex's ARC-170",
+  "wookieepedia_title": "Rex's ARC-170",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rex%27s_ARC-170",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A modified Aggressive ReConaissance-170 starfighter with blue markings was utilized by Clone Captain Rex as part of the Galactic Republic Navy during the Clone Wars.",
+  "data": {
+    "name": "Rex's ARC-170",
+    "line": "ARC starfighter line",
+    "model": "Aggressive ReConnaissance-170 starfighter",
+    "type": "Heavy assault starfighter",
+    "length": "12.71 meters",
+    "width": "19.85 meters (wingspan)",
+    "height": "3.81 meters",
+    "armament": [
+      "2 medium laser cannons",
+      "1 aft laser cannons"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "  Astromech droid"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Military"
+    ],
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet",
+    "owners": "Rex"
+  },
+  "scraped": "2026-07-03"
+}

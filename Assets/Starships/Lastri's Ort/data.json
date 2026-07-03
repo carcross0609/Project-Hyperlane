@@ -1,0 +1,39 @@
+{
+  "name": "Lastri's Ort",
+  "wookieepedia_title": "Lastri's Ort",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lastri%27s_Ort",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lastri's Ort was one of the starships in Talon Karrde's smuggling operation. It was a 300 meter long Kuat Drive Yards Star Galleon-class frigate, and as such was the largest and best-armed ship in Karrde's fleet.",
+  "data": {
+    "name": "Lastri's Ort",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Modified Star Galleon-class frigate",
+    "type": "Capital ship",
+    "cost": [
+      "New: 6.2 million credits",
+      "Used: 2.4 million credits"
+    ],
+    "length": "300 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 12"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turbolasers (10)",
+      "Concussion missile launcher (1)",
+      "  Concussion missiles (16)"
+    ],
+    "crew": "150",
+    "passengers": "12",
+    "capacity": "125,000 metric tons",
+    "consumables": "6 months",
+    "affiliation": [
+      "Car'das smugglers",
+      "Smugglers' Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

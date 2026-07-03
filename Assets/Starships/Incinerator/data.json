@@ -1,0 +1,32 @@
+{
+  "name": "Incinerator",
+  "wookieepedia_title": "Incinerator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Incinerator",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Incinerator was a Resurgent-class Star Destroyer that was a part of the navy of the First Order at some point by 35 ABY. It was manufactured by Kuat-Entralla Engineering and measured 2,915.84 meters (9,566.29 feet) in length.",
+  "data": {
+    "name": "Incinerator",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "model": "Resurgent-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "2,915.84 meters (9,566.29 feet)",
+    "engine": "Equipped",
+    "shield_gen": "Deflector shield generator",
+    "sensor": "Multi-spectrum sensor towers",
+    "armament": [
+      "Heavy turbolasers",
+      "Point-defense laser cannons",
+      "Concussion missile launchers",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "crew": "74,000",
+    "communications": "Hyperwave comm scanner",
+    "role": "Warship",
+    "affiliation": "First Order",
+    "navy": "First Order Navy"
+  },
+  "scraped": "2026-07-03"
+}

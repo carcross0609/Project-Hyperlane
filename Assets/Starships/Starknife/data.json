@@ -1,0 +1,30 @@
+{
+  "name": "Starknife",
+  "wookieepedia_title": "Starknife",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starknife",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Starknife was a modified Kuat Drive Yards D9 Runner light freighter owned by the Duros smuggler Kalend Thora. She received the Starknife after the ship's original owner, a fellow member of Black Sun, was ambushed and killed by an unknown party.",
+  "data": {
+    "name": "Starknife",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Modified Kuat Drive Yards D9 Runner light freighter",
+    "length": "23 meters",
+    "navigation": "Nav computer equipped",
+    "armament": [
+      "Double laser cannon",
+      "Proton torpedo launcher"
+    ],
+    "crew": "3 (2 gunners)",
+    "skeleton": "1",
+    "passengers": "4",
+    "capacity": "75 metric tons",
+    "consumables": "2 months",
+    "lifesupport": "Equipped",
+    "role": "Transport",
+    "affiliation": "Black Sun",
+    "owners": "Kalend Thora"
+  },
+  "scraped": "2026-07-03"
+}

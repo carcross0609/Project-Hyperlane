@@ -1,0 +1,28 @@
+{
+  "name": "A-36 Pathfinder-class force reconnaissance vessel",
+  "wookieepedia_title": "A-36 Pathfinder-class force reconnaissance vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A-36_Pathfinder-class_force_reconnaissance_vessel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The A-36 Pathfinder-class force reconnaissance vessel was a scout vessel produced by the Incom Corporation. It was an advanced version of the A-24 Sleuth-class scout ship.",
+  "data": {
+    "name": "A-36 Pathfinder-class force reconnaissance vessel",
+    "manufacturer": "Incom Corporation",
+    "type": "Scout ship",
+    "cost": "135,000 credits",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "armament": [
+      "Laser cannons (2)",
+      "Ion cannon (1)",
+      "Concussion missile launcher (1)",
+      "  Concussion missiles (8)"
+    ],
+    "crew": "4",
+    "passengers": "4",
+    "consumables": "9 standard months"
+  },
+  "scraped": "2026-07-03"
+}

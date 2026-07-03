@@ -1,0 +1,21 @@
+{
+  "name": "Sentinel",
+  "wookieepedia_title": "Sentinel (Interdictor cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sentinel_%28Interdictor_cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sentinel was an Interdictor cruiser serving the Galactic Empire's Imperial Navy during Grand Admiral Thrawn's campaign against the New Republic in 9 ABY. During the Battle of Bilbringi, the Sentinel, together with a set of other Interdictor cruisers that included the Constrainer, were positioned to intercept the incoming New Republic flotilla for the rest of the Imperial units to assault them. After the Interdictors pulled the New Republic forces out of hyperspace, Thrawn instructed the Constrainer and the Sentinel to return to the Imperial line of battle. The engagement eventually ended with the death of Thrawn carried out by his bodyguard, Rukh, and an Imperial retreat.",
+  "data": {
+    "name": "Sentinel",
+    "model": "Immobilizer 418 cruiser",
+    "role": "Interdictor",
+    "affiliation": [
+      "Galactic Empire",
+      "Thrawn's confederation"
+    ],
+    "navy": "Imperial Navy",
+    "fleet": "Thrawn's fleet"
+  },
+  "scraped": "2026-07-03"
+}

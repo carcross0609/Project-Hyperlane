@@ -1,0 +1,24 @@
+{
+  "name": "Nonvideor-class minelayer",
+  "wookieepedia_title": "Nonvideor-class minelayer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nonvideor-class_minelayer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nonvideor-class minelayer was a small stealth minelaying warship, operated by a crew of twenty, that was used by the Galactic Alliance's naval fleets during the Second Galactic Civil War. Equipped with powerful hyperdrives and payloads of space mines, five of the minelayers were deployed by the Galactic Alliance to create a pair of mine rings around the planet Fondor in 41 ABY, but they were destroyed before they could do so after their hyperspace reversion coordinates were betrayed to the enemy.",
+  "data": {
+    "name": "Nonvideor-class minelayer",
+    "model": "Nonvideor-class minelayer",
+    "type": "Minelayer",
+    "hyperdrive": "Equipped",
+    "armament": "Merr-Sonn Vigilante space mines",
+    "crew": "20",
+    "communications": "Equipped",
+    "othersystems": "Stealth equipment",
+    "role": "Minelayer",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "  Galactic Alliance Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

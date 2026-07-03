@@ -1,0 +1,34 @@
+{
+  "name": "Vengeance II",
+  "wookieepedia_title": "Vengeance II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vengeance_II",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vengeance II, or simply Vengeance, was an Imperial-class Star Destroyer that served in Death Squadron and under command of Inquisitor Jerec.",
+  "data": {
+    "name": "Vengeance II",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "sysmods": "Cargo space turned into hangar bay for additional starfighters",
+    "length": "1,600 meters",
+    "role": [
+      "Rebellion era",
+      "New Republic era"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron",
+    "owners": [
+      "Inquisitor Jerec",
+      "Lord Cronal"
+    ],
+    "captains": [
+      "Mordon",
+      "Coross"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

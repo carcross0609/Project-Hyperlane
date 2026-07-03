@@ -1,0 +1,26 @@
+{
+  "name": "Yawnor",
+  "wookieepedia_title": "Yawnor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yawnor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Yawnor was an Delta-class JV-7 escort shuttle that was used by the Ripoblus during the Sepan Civil War. During the First Battle of the Sepan system the Escort Shuttle was dispatched in an attempt to stop a seizure of Modular conveyor group Asbo, which contained war supplies including Imperial munitions, likely sold by Admiral Harkov who, ironically, lead the seizure. The Escort shuttle attempted to destroy Stormtrooper transports group Epsilon but was shot down by Imperial forces.",
+  "data": {
+    "name": "Yawnor",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Delta-class JV-7 escort shuttle",
+    "type": "Shuttle",
+    "length": "30 meters",
+    "width": "32.3 meters",
+    "height": "32.4 meters",
+    "armament": [
+      "Taim & Bak KX5 laser cannons (3; forward)",
+      "Taim & Bak H9 dual turbolaser (1; aft turret)",
+      "Projectile launchers (2)"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Ripoblus government"
+  },
+  "scraped": "2026-07-03"
+}

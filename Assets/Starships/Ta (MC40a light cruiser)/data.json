@@ -1,0 +1,23 @@
+{
+  "name": "Ta",
+  "wookieepedia_title": "Ta (MC40a light cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ta_%28MC40a_light_cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Ta was a MC40a light cruiser belonging to the Rebel Alliance.",
+  "data": {
+    "name": "Ta",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC40a light cruiser",
+    "type": "Light Cruiser",
+    "length": "500–600 meters",
+    "complement": [
+      "B-wing starfighters",
+      "T-65 X-wing starfighters"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

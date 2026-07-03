@@ -1,0 +1,43 @@
+# Coronet
+
+**Kind:** Individual ship  
+**Continuity:** Canon  
+**Source:** [Coronet](https://starwars.fandom.com/wiki/Coronet)
+
+The Coronet was a New Mandalorian luxury liner, transport ship, and diplomatic vessel used by Duchess Satine Kryze and her New Mandalorian government by the time of the Clone Wars. Seen as a symbol of the pacifist ways of the New Mandalorians following the Mandalorian Civil War, the Coronet showcased the best craftsmanship, diplomacy, and utility the Mandalore sector had to offer the galaxy. During the Clone Wars, Duchess Satine voyaged to the capital of the Galactic Republic, Coruscant, aboard the Coronet to assert her position of neutrality. During the voyage, she became a target for assassination by Senator Tal Merrik, who smuggled assassin probes onboard the vessel. Though she was taken hostage and the ship was nearly destroyed, both the duchess and the Coronet were saved by the Jedi Obi-Wan Kenobi and Anakin Skywalker.
+
+## Specifications
+
+- **Name:** Coronet
+- **Manufacturer:** Kalevala Spaceworks
+- **Model:** Nau'ur-class yacht
+- **Type:** Luxury spaceliner
+- **Height:** 216 meters
+- **Engine:**
+  - 5 (main)
+  - 2 (auxiliary)
+- **Hyperdrive:**
+  - Class 2,
+  - Class 5.0 (backup)
+- **Hdsystem:** Equipped
+- **Armament:**
+  - Laser cannons
+  - Ion cannons
+- **Crew:** 75
+- **Passengers:** Approx. 1,000
+- **Lifesupport:** Equipped
+- **Communications:** Bridge holoprojector
+- **Role:**
+  - Diplomatic vessel
+  - Luxury liner
+  - Transport
+- **Affiliation:**
+  - New Mandalorians
+  - Galactic Republic
+- **Navy:** Galactic Republic Navy
+- **Owners:** Duchess Satine Kryze
+- **Captains:** Andimor Gray
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

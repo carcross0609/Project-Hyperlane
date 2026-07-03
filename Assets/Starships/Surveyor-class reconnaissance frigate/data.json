@@ -1,0 +1,53 @@
+{
+  "name": "Surveyor-class reconnaissance frigate",
+  "wookieepedia_title": "Surveyor-class reconnaissance frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Surveyor-class_reconnaissance_frigate",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Surveyor-class reconnaissance frigate was a class of small, fast frigate used by the naval forces of the Galactic Empire. Manufactured by Kuat Drive Yards, the Surveyor was based on the Active-class fast attack frigate, another KDY starship. Surveyors were suited to reconnaissance and exploration with their sensor and stealth systems, allowing them to collect information undetected, although they also had weapons for naval combat. During the Imperial Era, Surveyor-class frigates were commonly deployed in battle groups in the Core Worlds and Mid Rim Territories.",
+  "data": {
+    "name": "Surveyor-class reconnaissance frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Surveyor-class reconnaissance frigate",
+    "type": "Frigate",
+    "cost": "9,600,000 credits",
+    "engine": "Main drives (at least 2)",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 11 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "hull": "Light armor",
+    "sensor": "Extremely long-ranged sensors",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Turret-mounted light turbolasers (6)",
+      "Turret-mounted medium turbolasers (4)",
+      "Turret-mounted twin light laser cannons (6)",
+      "Medium ion cannons (4)",
+      "Heavy tractor beam projectors (2)"
+    ],
+    "complement": [
+      "Shuttles",
+      "Starfighters (12)"
+    ],
+    "crew": "900 officers, pilots, and enlisted crew",
+    "passengers": "80 troops",
+    "capacity": "3,700 metric tons (configuration-dependent)",
+    "consumables": "2 standard years",
+    "communications": "Equipped",
+    "othersystems": [
+      "Computer system",
+      "Stealth systems"
+    ],
+    "role": [
+      "Reconnaissance and exploration",
+      "Combat"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

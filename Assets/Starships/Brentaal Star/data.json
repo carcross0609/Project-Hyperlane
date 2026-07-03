@@ -1,0 +1,36 @@
+{
+  "name": "Brentaal Star",
+  "wookieepedia_title": "Brentaal Star",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Brentaal_Star",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Brentaal Star was a Thranta-class corvette in service with the Republic Navy during the Cold War.",
+  "data": {
+    "name": "Brentaal Star",
+    "manufacturer": "Corellia StarDrive",
+    "model": "Thranta-class corvette",
+    "type": "Corvette",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "armament": [
+      "Twin-mounted turbolaser cannons",
+      "Laser turrets",
+      "Ion cannon",
+      "Concussion missiles"
+    ],
+    "complement": [
+      "14 Liberator-class starfighters",
+      "3 bombers",
+      "4 Fortitude-class assault shuttles"
+    ],
+    "crew": "300",
+    "othersystems": "Boosted long-range communications transceiver",
+    "role": "Warship",
+    "affiliation": [
+      "Galactic Republic",
+      "Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

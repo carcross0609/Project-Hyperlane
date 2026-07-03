@@ -1,0 +1,24 @@
+{
+  "name": "Indomitable",
+  "wookieepedia_title": "Indomitable (Carrack-class)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Indomitable_%28Carrack-class%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Indomitable was a Carrack-class cruiser. It served in the Old Republic's Home Fleet Strike Group Five during the Clone Wars, and took great damage that reduced it to a mere shell by the Invisible Hand during the Battle of Coruscant. It is unknown if the ship was repaired and returned to active duty following the battle.",
+  "data": {
+    "name": "Indomitable",
+    "model": "Carrack-class light cruiser",
+    "type": "Frigate",
+    "length": "350 meters",
+    "width": "72 meters",
+    "height": "75 meters",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ],
+    "navy": "Coruscant Defense Fleet",
+    "fleet": "Home Fleet Strike Group Five"
+  },
+  "scraped": "2026-07-03"
+}

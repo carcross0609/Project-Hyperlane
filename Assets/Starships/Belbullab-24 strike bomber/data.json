@@ -1,0 +1,38 @@
+{
+  "name": "Belbullab-24 strike bomber",
+  "wookieepedia_title": "Belbullab-24 strike bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Belbullab-24_strike_bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Belbullab-24 strike bomber, also known as the CIS Strike Bomber, was a bomber variant of the Belbullab-22 starfighter that saw action during the Clone Wars and later. The fighter was equipped with proton bombs and laser cannons.",
+  "data": {
+    "name": "Belbullab-24 strike bomber",
+    "manufacturer": "Feethan Ottraw Scalable Assemblies",
+    "model": "Belbullab-24 strike bomber",
+    "type": "Starfighter",
+    "cost": "168,000 credits (125,000 used)",
+    "length": "6.71 meters",
+    "max_speed": "1,100 km/h",
+    "hyperdrive": "Class 6 (backup class 15)",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Triple laser cannons (2)",
+      "Concussion missile launchers (2)",
+      "  12 Concussion missiles",
+      "Proton bombs"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "140 kg",
+    "consumables": "1 week",
+    "availability": "Military",
+    "role": "Bomber",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "  Gizor Dellso's navy",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

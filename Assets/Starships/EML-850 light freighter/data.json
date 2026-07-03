@@ -1,0 +1,27 @@
+{
+  "name": "EML-850 light freighter",
+  "wookieepedia_title": "EML-850 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/EML-850_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The EML-850 light freighter was a type of light freighter. The high material cost of the freighter thwarted any chance of mass production. The Trailblazer was an EML-850 light freighter designed in the Republic Era.",
+  "data": {
+    "name": "EML-850 light freighter",
+    "manufacturer": "Barsha Corporation",
+    "model": "EML-850",
+    "type": "Light freighter",
+    "engine": "4",
+    "hdsystem": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "Turret"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 co-pilot"
+    ],
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

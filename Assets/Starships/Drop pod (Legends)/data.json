@@ -1,0 +1,20 @@
+{
+  "name": "Drop pod",
+  "wookieepedia_title": "Drop pod/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drop_pod/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The drop pod was a simple ship designed to transport a ground vehicle to the surface of a planet. It was pressurized and filled with atmosphere, but there were no passenger accommodations. The drop pod was launched from space, and piloted by a droid brain to the designated landing zone. Once landed, the drop ship was blown apart by self-destructive bolt to release the vehicle inside. Drop pods were also used to carry Imperial probe droids. To keep them intact during crash landings, heat shields were often affixed to the pods.",
+  "data": {
+    "name": "Drop pod",
+    "type": "Drop pod",
+    "cost": "17000 credits",
+    "max_speed": "600 km/h",
+    "complement": "1 vehicle",
+    "crew": "0",
+    "passengers": "None",
+    "capacity": "2 tons",
+    "consumables": "None"
+  },
+  "scraped": "2026-07-03"
+}

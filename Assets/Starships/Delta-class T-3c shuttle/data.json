@@ -1,0 +1,51 @@
+{
+  "name": "Delta-class T-3c shuttle",
+  "wookieepedia_title": "Delta-class T-3c shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Delta-class_T-3c_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Delta-class T-3c shuttle, or simply the Delta-class shuttle, was a type of shuttle used by the Galactic Empire around the time of the Battle of Yavin. Director Orson Krennic owned one such vessel. It had a starkly geometric hull shape and folding bat-like wings.",
+  "data": {
+    "name": "Delta-class T-3c shuttle",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Abecederian line",
+    "model": "Delta-class T-3c shuttle",
+    "type": "Shuttle",
+    "cost": "160,000 credits",
+    "length": "14.39 meters",
+    "height": "25.1 meters (with wings upright)",
+    "max_speed": "1,000 kilometers per hour",
+    "engine": "SFS-215 ion engines (optimised for stealth operations)",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "SFS S/ig-45 hyperdrive",
+    "power": "Cryogenic power cells",
+    "shield_gen": "Deflector shield generators (2)",
+    "hull": "Sloped hull (skin composite optimized for stealth operations)",
+    "sensor": "Short-range sensors",
+    "armament": [
+      "Twin Taim & Bak KX9 laser cannons (2)",
+      "Taim & Bak KX3 laser cannons (3) (wingtip)"
+    ],
+    "crew": [
+      "6",
+      "  Pilot (1)",
+      "  Co-pilot (1)",
+      "  Navigator (1)",
+      "  Gunner (1)",
+      "  Comms operator (1)",
+      "  Engineer (1)"
+    ],
+    "passengers": "30",
+    "consumables": "Three months",
+    "communications": "Subspace and hypercomm antenna array",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

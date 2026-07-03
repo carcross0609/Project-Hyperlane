@@ -1,0 +1,47 @@
+{
+  "name": "Delta-class DX-9 stormtrooper transport",
+  "wookieepedia_title": "Delta-class DX-9 stormtrooper transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Delta-class_DX-9_stormtrooper_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Delta-class DX-9 stormtrooper transport was an assault vehicle, built by Telgorn Corporation, which was designed to carry Imperial stormtroopers into battle.",
+  "data": {
+    "name": "Delta-class DX-9 stormtrooper transport",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Delta-class DX-9 stormtrooper transport",
+    "type": [
+      "Assault starfighter/gunboat",
+      "Transport"
+    ],
+    "length": "20 meters",
+    "width": "7.8 meters",
+    "height": "5.8 meters",
+    "mglt": "55 MGLT",
+    "hdsystem": "Equipped",
+    "shield_gen": "Forward/rear projecting Novaldex shields (rated 114 SBD)",
+    "hull": "Quadanium steel armored titanium (rated 78 RU)",
+    "armament": [
+      "Taim & Bak KT4 laser cannons (8)",
+      "ArMek SW-2 ion cannons (4)",
+      "Krupx MG7 proton torpedo launchers (2)",
+      "  5 torpedoes each"
+    ],
+    "crew": "3",
+    "passengers": [
+      "30 stormtroopers",
+      "or",
+      "10 spacetroopers"
+    ],
+    "role": [
+      "Transport",
+      "Boarding craft"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Dark Empire",
+      "Lumini Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

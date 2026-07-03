@@ -1,0 +1,51 @@
+{
+  "name": "Toscan 8-Q starfighter",
+  "wookieepedia_title": "Toscan 8-Q starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Toscan_8-Q_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Toscan 8-Q starfighter was the base model of the Toscan Multipurpose Fighter (or Toscan MPF), a starfighter manufactured by Shobquix Yards long before the Clone Wars. During the Galactic Civil War, it was almost obsolete.",
+  "data": {
+    "name": "Toscan 8-Q starfighter",
+    "manufacturer": "Shobquix Yards, (components by Koensayr Manufacturing)",
+    "line": "Toscan",
+    "model": "8-Q",
+    "type": "Starfighter",
+    "cost": [
+      "180,000 credits (new)",
+      "35,000&ndash;40,000 credits (used; no longer available new)"
+    ],
+    "length": "10.2 meters",
+    "max_accel": "14 MGLT/s",
+    "mglt": "87 MGLT",
+    "max_speed": [
+      "850&ndash;1,000 km/h"
+    ],
+    "maneuverability": "72 DPF",
+    "hyperdrive": "Class 2.0",
+    "shield_gen": "Rated 68 SBD",
+    "hull": "Rated 23 RU",
+    "navigation": "Equipped",
+    "armament": [
+      "Laser cannons (2)",
+      "Typical addition:",
+      "Concussion missile launcher",
+      "  12 missiles",
+      "Sienar variant:",
+      "Laser cannons (4)",
+      "Ion cannons (2)",
+      "Concussion missile launcher",
+      "  8 missiles"
+    ],
+    "crew": "1&ndash;2",
+    "passengers": "up to 3",
+    "capacity": "75&ndash;400kg",
+    "consumables": "1&ndash;20 days",
+    "role": "Multi-Purpose starfighter",
+    "affiliation": [
+      "Pirates",
+      "Private military forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

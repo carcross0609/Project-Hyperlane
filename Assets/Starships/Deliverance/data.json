@@ -1,0 +1,35 @@
+{
+  "name": "Deliverance",
+  "wookieepedia_title": "Deliverance",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deliverance",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Deliverance was a Star Destroyer utilized by the New Republic under Twi'lek General Hera Syndulla, and served as the flagship of the Republic navy's Barma Battle Group commanded by Syndulla. The Deliverance was present during the hunt for the Galactic Empire's 204th Imperial Fighter Wing in 5 ABY, alongside Flare, Hail, and Wild Squadrons. Despite the Deliverance and New Republic squadrons pursuing the Imperial forces, the 204th's bulk freighter Yadeez and its escorts managed to escape into hyperspace multiple times. The Deliverance was also present at the Attack on Chadawa.",
+  "data": {
+    "name": "Deliverance",
+    "type": "Star Destroyer",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Turbolasers",
+    "escapepods": "Escape pods",
+    "role": "Flagship",
+    "destroyed": "5 ABY, Jakku",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "New Republic Defense Fleet"
+    ],
+    "fleet": "Barma Battle Group",
+    "captains": [
+      "Hera Syndulla",
+      "A captain",
+      "Nisteen Arvad"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

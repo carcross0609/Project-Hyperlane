@@ -1,0 +1,35 @@
+{
+  "name": "SunGem",
+  "wookieepedia_title": "SunGem",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SunGem",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The SunGem was the personal Delaya-class courier starship of the Arkanian Jedi Master Arca Jeth, who was active during the era of the Great Sith War. Jeth modified the swift but lightly-armed ship to serve as a makeshift Jedi academy, replete with lightsaber practice areas, a meditation chamber, and an extensive computer library of Jedi texts. In 4000 BBY, Jeth dispatched his three Jedi apprentices&mdash;the Human brothers Ulic and Cay Qel-Droma, and the Twi'lek Tott Doneeta&mdash;to peacefully resolve a long and bloody conflict between the monarchy of the planet Onderon and banished criminals known as the Beast Riders. The students soon discovered that the planet's rulers were dark side cultists and joined a Beast Rider army in a siege of the capital city, Iziz. Although the tide shifted to the monarchy's favor, Jeth arrived in the SunGem and used battle meditation, an exotic Force ability, aiding the Beast Riders on their way to victory.",
+  "data": {
+    "name": "SunGem",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Delaya-class courier",
+    "type": "Standard courier ship",
+    "cost": [
+      "85,000 credits (new)",
+      "45,000 credits (used)"
+    ],
+    "length": "70 meters",
+    "max_speed": "950 km/h",
+    "engine": "21 Hoersch-Kessel ion drives",
+    "armament": [
+      "Rotating laser cannons (2)",
+      "Proton torpedo launcher (1)"
+    ],
+    "escapepods": "2",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "8",
+    "capacity": "10 metric tons",
+    "consumables": "2 weeks",
+    "affiliation": "Jedi Order",
+    "owners": "Arca Jeth"
+  },
+  "scraped": "2026-07-03"
+}

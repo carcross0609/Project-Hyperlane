@@ -1,0 +1,48 @@
+{
+  "name": "Inferno",
+  "wookieepedia_title": "Inferno (Imperial I-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Inferno_%28Imperial_I-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Inferno was an Imperial I-class Star Destroyer in the service of the Imperial Navy shortly before the Battle of Yavin. It was featured in the Imperial Handbook: A Commander's Guide, a tactical manual compiled by the Galactic Empire, as an example of a standard Imperial Star Destroyer for a section detailing the Imperial Navy's primary warships.",
+  "data": {
+    "name": "Inferno",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "3 ion engines",
+      "4 supplemental thrusters"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "2 deflector shield generator globes",
+    "armament": [
+      "6 heavy turbolaser turrets",
+      "2 heavy ion cannon turrets",
+      "Numerous smaller turbolasers",
+      "Additional ion cannons and tractor beam projectors"
+    ],
+    "complement": [
+      "72 various TIE Series starfighters",
+      "  TIE/LN starfighters",
+      "  TIE/IN interceptors",
+      "  TIE/sa bombers",
+      "Additional shuttles, gunboats, dropships, and other vessels",
+      "20 All Terrain Armored Transports",
+      "Many smaller walkers"
+    ],
+    "crew": "Nearly 37,000",
+    "passengers": "9,700 (ground troops)",
+    "role": [
+      "Destroyer",
+      "Carrier"
+    ],
+    "commission": "By 0 BBY (35:3:5)",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

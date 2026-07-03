@@ -1,0 +1,35 @@
+{
+  "name": "Leviathan",
+  "wookieepedia_title": "Leviathan (Interdictor-class cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Leviathan_%28Interdictor-class_cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Leviathan was an Interdictor-class cruiser that served the Republic Navy during the Mandalorian Wars. By the outbreak of the Jedi Civil War, it had become the flagship of the former Republic Admiral, Saul Karath, as he served the Sith Empire of Darth Revan and, later, Darth Malak. The vessel was involved in a number of key battles in the latter conflict, including the Attack on the Endar Spire and subsequent blockade of Taris, as well as the skirmish that saw the death of its commander.",
+  "data": {
+    "name": "Leviathan",
+    "manufacturer": "Republic Sienar Systems",
+    "type": "Interdictor-class cruiser",
+    "length": "600 meters",
+    "armament": [
+      "Quad laser cannons (20)",
+      "Gravity well projectors (4)",
+      "Turbolaser cannons (4)",
+      "Ion cannons (2)",
+      "Tractor beam generators (1)"
+    ],
+    "complement": [
+      "48 Sith fighters",
+      "2 shuttles"
+    ],
+    "crew": "2,784",
+    "destroyed": "3956 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Sith Empire"
+    ],
+    "owners": "Darth Malak",
+    "captains": "Saul Karath"
+  },
+  "scraped": "2026-07-03"
+}

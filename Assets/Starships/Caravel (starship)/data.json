@@ -1,0 +1,20 @@
+{
+  "name": "Caravel",
+  "wookieepedia_title": "Caravel (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Caravel_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Caravel was the personal starship of Mungo Baobab. Following Mungo's capture in The Cloak of the Sith, Caravel was briefly captured by Roon's Governor Koong before eventually being returned to its owner.",
+  "data": {
+    "name": "Caravel",
+    "model": "Strato Driver",
+    "modifier": "Mungo Baobab",
+    "skeleton": "1 pilot",
+    "role": "Transport",
+    "affiliation": "Baobab Merchant Fleet",
+    "owners": "Mungo Baobab",
+    "captains": "Mungo Baobab"
+  },
+  "scraped": "2026-07-03"
+}

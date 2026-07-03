@@ -1,0 +1,36 @@
+{
+  "name": "Mining Guild",
+  "wookieepedia_title": "Mining Guild",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mining_Guild",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Company",
+  "description": "The Mining Guild, also known as the Galactic Mining Guild, was a powerful network of miners that harvested and controlled natural resources throughout the galaxy. Initially a part of the Commerce Guild, it was aligned with the Confederacy of Independent Systems during the Clone Wars before collaborating with Galactic Empire during its reign.",
+  "data": {
+    "name": "Mining Guild",
+    "parent": "Commerce Guild",
+    "subsid": "Mining Guild Field Expeditions",
+    "locations": [
+      "Throughout the galaxy, including:",
+      "Asteroid Belt Gas Refinery",
+      "Batonn",
+      "Cynda",
+      "Empress Teta",
+      "Kessel",
+      "Lothal",
+      "Moon of Kyzring",
+      "Mustafar",
+      "Ring of Kafrene",
+      "Sereeda Waypoint",
+      "Smuggler's Run",
+      "Sullust",
+      "Vergesso",
+      "Whassik IV"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+# Omen
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Omen](https://starwars.fandom.com/wiki/Omen)
+
+The Omen, later known by the Lost Tribe of Sith as the Ship of Destiny, was a Sith dreadnaught serving in Naga Sadow's Sith Empire. In 5000 BBY, Sadow tasked the Omen, captained by Yaru Korsin, to mine Lignan ore for use in the upcoming Sith invasion of the Galactic Republic. However, the Omen and its sister ship, the Harbinger, were attacked by Jedi. As the Omen fled into hyperspace, it was knocked off-course, causing it to crash-land on the remote world Kesh. There, the surviving Sith crew remained stranded for thousands of years. With the help of the native Keshiri, the Sith built a temple over the Omen crash site. In 41 ABY, however, the Sith Meditation Sphere Ship arrived on Kesh and took the Sith off-world, assisting them in ambushing starships in order to scavenge parts to rebuild the Omen. They were soon successful, and the Omen became one of the first vessels in the Tribe's fleet.
+
+## Specifications
+
+- **Name:** Omen
+- **Type:** Sith dreadnaught
+- **Hyperdrive:** Equipped
+- **Complement:** Blade-class starfighters
+- **Crew:** Over 300
+- **Capacity:** Several containers of Lignan ore
+- **Role:**
+  - Warship
+  - Mining and ore hauling
+- **Destroyed:** 5000 BBY
+- **Affiliation:**
+  - Sith Empire
+  - Lost Tribe of Sith
+- **Navy:**
+  - Sith invasion fleet
+  - Sith armada
+- **Captains:** Yaru Korsin
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,44 @@
+{
+  "name": "Tellstar",
+  "wookieepedia_title": "Tellstar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tellstar",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tellstar was an Arquitens-class command cruiser in service to the Galactic Empire's navy. After the destruction of Lothal's Imperial Communications Center, the Tellstar was used to capture and relay information from surface courier droids brought aboard.",
+  "data": {
+    "name": "Tellstar",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Arquitens-class command cruiser",
+    "type": "Light cruiser",
+    "length": "325 meters",
+    "engine": "3",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Quad laser turrets (4)",
+      "Double-barreled turbolaser batteries",
+      "Concussion missile launchers",
+      "Tractor beam projector (1)"
+    ],
+    "complement": [
+      "At least 1 Sentinel-class landing craft",
+      "  Lagos"
+    ],
+    "escapepods": "8",
+    "crew": [
+      "Imperial officers",
+      "Imperial Press Corps personnel",
+      "Imperial technicians",
+      "Stormtroopers"
+    ],
+    "role": "Communications ship",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Press Corps"
+    ],
+    "navy": "Imperial Navy",
+    "captains": "Unidentified Imperial officer"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "D'kee-class landing ship",
+  "wookieepedia_title": "D'kee-class landing ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/D%27kee-class_landing_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The D'kee-class planetary lander, also known as the D'kee-class landing ship, was used by the Ssi-ruuvi Imperium during its invasion of Bakura in 4 ABY.",
+  "data": {
+    "name": "D'kee-class landing ship",
+    "manufacturer": "Ssi-ruuvi Imperium",
+    "model": "D'kee-class planetary lander",
+    "type": "Planetary lander",
+    "length": "70 meters",
+    "max_speed": "750 kmh",
+    "power": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "Light ion cannons (6)",
+      "Laser cannons (2)",
+      "Paralysis canisters (100)"
+    ],
+    "complement": "10 P'weck collector barges",
+    "crew": [
+      "P'weck pilots (4)",
+      "Gunners (8)",
+      "P'weck collectors (100)"
+    ],
+    "skeleton": "2",
+    "passengers": "Ssi-ruu troops",
+    "capacity": "10,000 prisoners",
+    "consumables": "1 day",
+    "othersystems": [
+      "Heat-conducting filaments",
+      "Rear exhaust system",
+      "Gravitational compensation systems"
+    ],
+    "role": [
+      "Transport",
+      "Landing craft"
+    ],
+    "affiliation": "Ssi-ruuvi Imperium"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Z-95-AF4-H multi-role starfighter",
+  "wookieepedia_title": "Z-95-AF4-H multi-role starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-95-AF4-H_multi-role_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Z-95-AF4-H multi-role starfighter, also known as the Advanced Z-95 Headhunter and best known as the Heavy '95, was a series of modified Z-95 Headhunters employed by the Rebel Alliance during the Galactic Civil War",
+  "data": {
+    "name": "Z-95-AF4-H multi-role starfighter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Subpro Corporation"
+    ],
+    "line": "AF-series Z-95 Headhunter",
+    "model": "Z-95-AF4-H",
+    "type": "Starfighter",
+    "cost": "85,000 credits",
+    "engine": "4L4 fusial thrust engines (2)",
+    "hyperdrive": "Class 2.0",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Astromech droid",
+    "countermeasures": "Warhead countermeasures (Optional)",
+    "armament": [
+      "KX5 medium laser cannons (2)",
+      "Concussion missile launchers",
+      "  Concussion missiles (8)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "communications": "Equipped",
+    "othersystems": [
+      "Flight computer (Optional)",
+      "Side strakes (Optional)"
+    ],
+    "role": "Multi-role starfighter",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

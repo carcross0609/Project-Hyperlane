@@ -1,0 +1,29 @@
+{
+  "name": "Conductor-class short-haul landing craft",
+  "wookieepedia_title": "Conductor-class short-haul landing craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Conductor-class_short-haul_landing_craft",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Conductor-class short-haul landing craft was a special-purpose shuttle, used by the Galactic Republic as a military cargo transport during the Mandalorian Wars.",
+  "data": {
+    "name": "Conductor-class short-haul landing craft",
+    "manufacturer": "Republic Fleet Systems",
+    "model": "Conductor-class Short-haul Landing Craft",
+    "type": "Shuttle",
+    "cost": [
+      "250,000 credits",
+      "100,000 credits (used)"
+    ],
+    "length": "19 meters",
+    "max_speed": "500 km/h",
+    "hyperdrive": "Class 3",
+    "armament": "Light laser cannons",
+    "crew": "1",
+    "passengers": "5 (plus 2 loader droids)",
+    "capacity": "80 tons",
+    "consumables": "2 weeks",
+    "role": "Shuttle",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

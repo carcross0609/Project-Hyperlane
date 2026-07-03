@@ -1,0 +1,27 @@
+{
+  "name": "Boash'ua",
+  "wookieepedia_title": "Boash'ua",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Boash%27ua",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Boash'ua was a EF76 Nebulon-B escort frigate captained by the Bothan Kursk Mal'ia during the Galactic Civil War. It most famously took place in the Battle of Kathol System, in which it assisted in the defeat of Moff Kentor Sarne and the liberation of Kathol. The Boash'ua served as Captain Kursk Mal'ia's flagship.",
+  "data": {
+    "name": "Boash'ua",
+    "type": "EF76 Nebulon-B escort frigate",
+    "max_speed": "800 kmh",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "12 laser cannons",
+      "12 turbolaser batteries",
+      "2 tractor beam projectors"
+    ],
+    "role": "Combat vessel",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "fleet": "Bothan Combat Response Element",
+    "captains": "Captain Kursk Mal'ia"
+  },
+  "scraped": "2026-07-03"
+}

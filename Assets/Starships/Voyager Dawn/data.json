@@ -1,0 +1,22 @@
+{
+  "name": "Voyager Dawn",
+  "wookieepedia_title": "Voyager Dawn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Voyager_Dawn",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Voyager Dawn was a medium-sized cruiser used by the Jedi Order during the High Republic Era, where it carried a meditation retreat for elder Jedi. After the Great Hyperspace Disaster, the Voyager Dawn took significant damage and required immediate assistance for the rescue of its hundreds of passengers.",
+  "data": {
+    "name": "Voyager Dawn",
+    "type": "Cruiser",
+    "complement": [
+      "1 Delta-7 Aethersprite-class light interceptor",
+      "3 Eta-2 Actis-class light interceptors",
+      "1 Phi-class shuttle"
+    ],
+    "passengers": "Hundreds",
+    "destroyed": "Between 12 BBY and 9 BBY",
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

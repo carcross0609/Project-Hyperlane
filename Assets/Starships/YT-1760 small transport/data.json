@@ -1,0 +1,44 @@
+{
+  "name": "YT-1760 small transport",
+  "wookieepedia_title": "YT-1760 small transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1760_small_transport",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YT-1760 small transport was a class of transport manufactured by Corellian Engineering Corporation. The YT-1760 was marketed as a transport and shuttle designed to overcome problems common in older YT-series models, but the designs gave the YT-1760 various shortcomings and flaws. The Auric was a YT-1760 Small Transport utilized by the Rebel Alliance.",
+  "data": {
+    "name": "YT-1760 small transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1760",
+    "type": "Transport",
+    "cost": [
+      "80,000 credits",
+      "20,000 credits (used)"
+    ],
+    "length": "26.5 meters",
+    "max_speed": "990 kph",
+    "engine": "Sublight engines",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Standard laser cannon (1)",
+      "Turret mounts (ready to accommodate larger commercial laser cannons) (2)"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "8",
+    "capacity": "10 metric tons",
+    "consumables": "2 months",
+    "role": [
+      "Shuttle",
+      "Transport"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

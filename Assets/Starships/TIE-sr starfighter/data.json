@@ -1,0 +1,40 @@
+{
+  "name": "TIE/sr starfighter",
+  "wookieepedia_title": "TIE/sr starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/sr_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/sr starfighter, or TIE scout, was a limited production TIE Series starfighter used by the Galactic Empire as a scout and light reconnaissance vessel. It was one of the many TIE variants in service during the Galactic Civil War.",
+  "data": {
+    "name": "TIE/sr starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "TIE/sr starfighter",
+    "type": "Starfighter",
+    "cost": [
+      "148,000 credits (new)",
+      "75,000 credits(used)"
+    ],
+    "length": "24 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": "Class 3",
+    "shield_gen": "None",
+    "hull": "Titanium alloy",
+    "sensor": "Long-range sensor systems",
+    "navigation": "Navigation computer",
+    "armament": "SFS laser cannon (1)",
+    "crew": "1 to 3",
+    "skeleton": "1",
+    "passengers": "None",
+    "capacity": "25 tons",
+    "consumables": "6 months",
+    "availability": "Restricted",
+    "role": "Long-range reconnaissance vessel",
+    "affiliation": [
+      "Galactic Empire",
+      "Empire of the Hand",
+      "Restored Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

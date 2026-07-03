@@ -1,0 +1,41 @@
+{
+  "name": "Ainik-class scientific survey vessel",
+  "wookieepedia_title": "Ainik-class scientific survey vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ainik-class_scientific_survey_vessel",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Ainik-class scientific survey vessel was a science research starship. The Alliance to Restore the Republic had these vessels in their naval forces.",
+  "data": {
+    "name": "Ainik-class scientific survey vessel",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Survey vessel",
+    "engine": "Engines",
+    "hyperdrive": [
+      "Class 3 (Primary)",
+      "Class 12 (Backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generator",
+    "hull": [
+      "Armored hull",
+      "Transparisteel"
+    ],
+    "sensor": "Extreme-ranged sensor",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Quad laser cannon turrets (2) (Dorsal, ventral)",
+      "Forward-mounted light tractor beam projector"
+    ],
+    "complement": "2 Speeder bikes or 1 landspeeder",
+    "crew": "4 (1 pilot, 1 co-pilot, 2 engineers/scientists)",
+    "passengers": "6",
+    "capacity": "150",
+    "consumables": "6 months",
+    "role": "Research",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

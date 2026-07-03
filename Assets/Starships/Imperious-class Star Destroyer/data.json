@@ -1,0 +1,60 @@
+{
+  "name": "Imperious-class Star Destroyer",
+  "wookieepedia_title": "Imperious-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperious-class_Star_Destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperious-class Star Destroyer, also known as Advanced Star Destroyer, was the designation given to the Imperial Star Destroyer Imperious, which was built during the Second Imperial Civil War for the Imperial Navy.",
+  "data": {
+    "name": "Imperious-class Star Destroyer",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Star Destroyers",
+    "model": "Imperious-class Star Destroyer",
+    "type": [
+      "Star Destroyer",
+      "Cruiser",
+      "Capital ship"
+    ],
+    "cost": "Not available for sale",
+    "length": "Greater than a standard Star Destroyer",
+    "engine": [
+      "Main engines (2)",
+      "Secondary engines (4)"
+    ],
+    "hyperdrive": "Class 0.75",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Heavy turbolaser batteries (5)",
+      "Medium turbolaser batteries (5)",
+      "Heavy Ion cannon batteries (4)",
+      "Tractor beam projector batteries (3)",
+      "Proton torpedo launcher batteries (5)",
+      "Gravity mines"
+    ],
+    "complement": [
+      "Predator-class fighters (48)",
+      "Neutralizer-class bombers (12)",
+      "Nune-class Imperial shuttles (6)"
+    ],
+    "crew": "6,700",
+    "passengers": "3,000 (troops)",
+    "capacity": "13,000 tons",
+    "consumables": "4 years",
+    "availability": "Military",
+    "role": [
+      "Battleship",
+      "Command ship"
+    ],
+    "firstuse": "137 ABY",
+    "affiliation": [
+      "Darth Krayt's Galactic Empire",
+      "Galactic Alliance Remnant",
+      "Galactic Federation Triumvirate"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

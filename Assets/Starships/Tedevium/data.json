@@ -1,0 +1,35 @@
+{
+  "name": "Tedevium",
+  "wookieepedia_title": "Tedevium",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tedevium",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tedevium was a EF76 Nebulon-B escort frigate in service to the Alliance to Restore the Republic that later served as a training ship for starfighter recruits, and was home to the Screaming Wookiee Squadron, a starfighter training squadron that fought as Gold Squadron.",
+  "data": {
+    "name": "Tedevium",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "length": "300 meters",
+    "width": "72 meters",
+    "height": "166 meters",
+    "max_accel": "1,200 G",
+    "mglt": "40 MGLT",
+    "max_speed": "800 km/h",
+    "engine": "Galaxy-15 ion engine",
+    "complement": [
+      "BTL Y-wing starfighters",
+      "RZ-1 A-wing interceptors"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ],
+    "navy": "Solo Fleet",
+    "captains": [
+      "Colonel Atton Repness",
+      "General Edor Crespin"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

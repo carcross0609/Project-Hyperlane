@@ -1,0 +1,62 @@
+{
+  "name": "MC40a light cruiser",
+  "wookieepedia_title": "MC40a light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC40a_light_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The MC40A Light Cruiser, also known as the MC40a cruiser, or simply as the MC40A and MC40a, was a class of light cruiser that was active during the Imperial Era and served in the Alliance to Restore the Republic.",
+  "data": {
+    "name": "MC40a light cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC-series star cruiser",
+    "model": "MC40a",
+    "type": "Light cruiser",
+    "cost": "15,500,000 credits",
+    "length": "500&mdash;600 meters",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 15 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Long-range sensors",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Turret-mounted medium turbolasers (14)",
+      "  7 port",
+      "  7 starboard",
+      "Forward-mounted concussion missile launchers (2)",
+      "Medium ion cannons (18)",
+      "  4 forward",
+      "  4 aft",
+      "  5 port",
+      "  5 starboard",
+      "Heavy tractor beam projectors (6)",
+      "  1 forward",
+      "  1 aft",
+      "  2 port",
+      "  2 starboard"
+    ],
+    "complement": [
+      "1 squadron",
+      "  12 starfighters"
+    ],
+    "crew": "3,723&mdash;3,770 officers, pilots, and crew",
+    "passengers": [
+      "1 battalion",
+      "  650 soldiers"
+    ],
+    "consumables": "2 years",
+    "role": [
+      "Command ship",
+      "Diplomatic escort",
+      "Fleet support vessel",
+      "Special forces reinforcement",
+      "Starfighter base of operations"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

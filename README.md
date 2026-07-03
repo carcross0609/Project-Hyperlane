@@ -2,7 +2,7 @@
 
 A single-player living-galaxy sandbox set in the Star Wars Republic era.
 The galaxy simulates itself — wars, trade, politics — and the player is free
-to be anyone within it. Unreal Engine 5.6, C++.
+to be anyone within it. Unreal Engine 5.8, C++.
 
 **Personal, non-commercial learning project.** Uses Star Wars IP; will never
 be distributed or sold.
@@ -21,7 +21,7 @@ be distributed or sold.
 ## Getting Started (macOS)
 
 1. Install **Xcode** (from the App Store), launch it once to accept licenses.
-2. Install **Unreal Engine 5.6** via the Epic Games Launcher.
+2. Install **Unreal Engine 5.8** via the Epic Games Launcher.
 3. Install **Git LFS**: `brew install git-lfs && git lfs install`.
 4. Open `Hyperlane.uproject` — the editor prompts to compile on first open.
 

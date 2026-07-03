@@ -1,0 +1,37 @@
+{
+  "name": "Quantum Storm",
+  "wookieepedia_title": "Quantum Storm",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quantum_Storm",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Quantum Storm was a GR-75 medium transport in service to the Alliance to Restore the Republic.",
+  "data": {
+    "name": "Quantum Storm",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "GR-75 medium transport",
+    "type": "Medium transport",
+    "length": "90 meters",
+    "max_speed": "650 kph",
+    "hyperdrive": "Class 4",
+    "shield_gen": "Equipped",
+    "armament": "Four twin laser cannons",
+    "crew": "6",
+    "capacity": "19,000 metric tons",
+    "role": [
+      "Transport",
+      "Communications",
+      "Medical ship",
+      "Fireship",
+      "Resupply",
+      "Rescue",
+      "Fire support"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy"
+  },
+  "scraped": "2026-07-03"
+}

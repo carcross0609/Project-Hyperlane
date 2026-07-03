@@ -1,0 +1,25 @@
+{
+  "name": "Geist",
+  "wookieepedia_title": "Geist (cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Geist_%28cruiser%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Geist was a Mon Calamari cruiser captained by General Hera Syndulla. It was present at the Mako-Ta Space Docks when it was attacked by the Galactic Empire. It was one of the few cruisers to escape the attack.",
+  "data": {
+    "name": "Geist",
+    "model": "Unidentified Mon Calamari cruiser (Geist)",
+    "type": "Star Cruiser",
+    "engine": "5",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "complement": "Starfighters",
+    "bays": "At least 2",
+    "role": "Flagship",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Rebel Alliance Navy",
+    "fleet": "Gamma Group",
+    "captains": "Hera Syndulla"
+  },
+  "scraped": "2026-07-03"
+}

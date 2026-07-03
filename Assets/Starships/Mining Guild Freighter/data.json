@@ -1,0 +1,29 @@
+{
+  "name": "Mining Guild Freighter",
+  "wookieepedia_title": "Mining Guild Freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mining_Guild_Freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Mining Guild Freighter was a modified type of Darius G-class freighter that was active during the Imperial Era and the New Republic Era. During the age of the Galactic Empire, the Mining Guild Freighter was used by the Pyke Syndicate and Hutt Clan as a transport and warship. Later in the New Republic Era, many freighters formed part of the Citizens' Fleet that participated in the Battle of Exegol.",
+  "data": {
+    "name": "Mining Guild Freighter",
+    "model": "Darius G-class",
+    "type": "Freighter",
+    "engine": "Engines (2)",
+    "hdsystem": "Equipped",
+    "armament": "At least two twin laser cannons",
+    "role": [
+      "Transport",
+      "Warship"
+    ],
+    "affiliation": [
+      "Ashiga Clan",
+      "Crimson Dawn",
+      "Hutt Clan",
+      "Pyke Syndicate",
+      "Mining Guild",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

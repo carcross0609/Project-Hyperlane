@@ -1,0 +1,38 @@
+{
+  "name": "Ninka",
+  "wookieepedia_title": "Ninka",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ninka",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ninka was a Free Virgillia-class Bunkerbuster in service of the Resistance during its conflict with the First Order. Its commanding officer was Vice Admiral Amilyn Holdo.",
+  "data": {
+    "name": "Ninka",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Free Virgillia-class Bunkerbuster",
+    "type": "Corvette",
+    "length": "316.05 meters (1,036.9 feet)",
+    "width": "242.53 meters",
+    "height": "88.69 meters",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Heavy dual turbolaser turrets (2)",
+      "Point-defense turrets (4)",
+      "Heavy Plasma bombs (3) (100 megaton yield)",
+      "Heavy ordnance pods (8)"
+    ],
+    "complement": [
+      "At least 8 MG-100 StarFortress SF-17",
+      "At least 1 A-wing Squadron",
+      "At least 1 Resistance transport pod",
+      "2 U-55 orbital loadlifters"
+    ],
+    "skeleton": "23 (augmented via automation)",
+    "role": "Bunkerbuster",
+    "destroyed": "34 ABY, Crait system",
+    "affiliation": "Resistance",
+    "navy": "Resistance navy",
+    "captains": "Amilyn Holdo"
+  },
+  "scraped": "2026-07-03"
+}

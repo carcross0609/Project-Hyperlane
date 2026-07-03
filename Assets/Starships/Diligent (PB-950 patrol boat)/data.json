@@ -1,0 +1,37 @@
+{
+  "name": "Diligent",
+  "wookieepedia_title": "Diligent (PB-950 patrol boat)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Diligent_%28PB-950_patrol_boat%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Diligent was a PB-950 patrol boat, commanded by Lieutenant Corran Costi, a member of the CorSec in the Corellian system during the Galactic Civil War.",
+  "data": {
+    "name": "Diligent",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "PB-950 patrol boat",
+    "type": "Light corvette",
+    "cost": "Not for sale (likely to be valued at 125,000 credits)",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup: Class 12.0"
+    ],
+    "sensor": "Equipped",
+    "armament": [
+      "Quad laser cannon (1)",
+      "Ion cannons (2)",
+      "Concussion missile launcher (1)",
+      "  Concussion missiles (8)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/navigator (1)",
+      "Gunners (2)"
+    ],
+    "passengers": "8",
+    "consumables": "3 months",
+    "affiliation": "CorSec",
+    "captains": "Corran Costi"
+  },
+  "scraped": "2026-07-03"
+}

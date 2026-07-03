@@ -1,0 +1,36 @@
+{
+  "name": "Jehavey'ir-type assault ship",
+  "wookieepedia_title": "Jehavey'ir-type assault ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jehavey%27ir-type_assault_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Jehavey'ir-type assault ship, named after a Mando'a word for \"ambush\", was utilized by the Mandalorian Neo-Crusaders during the Mandalorian Wars.",
+  "data": {
+    "name": "Jehavey'ir-type assault ship",
+    "model": "Jehavey'ir-type assault ship",
+    "type": "Capital ship",
+    "cost": "10 million credits (4 million used)",
+    "length": "188 meters",
+    "engine": "5",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "navigation": "Navicomputer equipped",
+    "armament": [
+      "Medium double turbolaser batteries",
+      "Heavy ion cannon batteries",
+      "Super-heavy concussion missile battery (36 missiles total)"
+    ],
+    "bays": "None",
+    "crew": "200",
+    "passengers": "500 (Mandalorian troops)",
+    "capacity": "3,500 tons",
+    "consumables": "6 months",
+    "availability": "Restricted",
+    "role": "Assault ship",
+    "affiliation": "Mandalorian Neo-Crusaders"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Dominant",
+  "wookieepedia_title": "Dominant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dominant",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dominant was a Carrack-class light cruiser of the Imperial Navy.",
+  "data": {
+    "name": "Dominant",
+    "manufacturer": "Damorian Manufacturing Corporation",
+    "model": "Carrack-class light cruiser",
+    "type": "Frigate",
+    "length": "350 meters",
+    "width": "72 meters",
+    "height": "75 meters",
+    "armament": [
+      "Heavy turbolasers (10)",
+      "Tractor beam projectors (5)",
+      "Ion cannons (20)"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ],
+    "captains": [
+      "Pter Thanas",
+      "Dren Jamer"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

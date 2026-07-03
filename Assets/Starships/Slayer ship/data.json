@@ -1,0 +1,24 @@
+{
+  "name": "Slayer ship",
+  "wookieepedia_title": "Slayer ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Slayer_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The slayer ship was a Yuuzhan Vong starfighter created for the use of Supreme Overlord Shimrra Jamaane's Slayers in the final year of the Yuuzhan Vong War.",
+  "data": {
+    "name": "Slayer ship",
+    "manufacturer": "Yuuzhan Vong",
+    "type": "Starfighter",
+    "length": ">13 meters",
+    "hdsystem": "Dovin basals",
+    "shield_gen": "Dovin basals",
+    "hull": "Yorik coral",
+    "armament": [
+      "Yaret-Kors (6)",
+      "Dovin basals"
+    ],
+    "role": "Heavy starfighter",
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

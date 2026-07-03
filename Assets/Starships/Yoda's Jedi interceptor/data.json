@@ -1,0 +1,36 @@
+{
+  "name": "Yoda's Jedi interceptor",
+  "wookieepedia_title": "Yoda's Jedi interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yoda%27s_Jedi_interceptor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Yoda's Jedi interceptor was an Eta-2 Actis-class light interceptor used by Jedi Master Yoda during the Clone Wars.",
+  "data": {
+    "name": "Yoda's Jedi interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Eta-2 Actis-class light interceptor",
+    "type": "Starfighter",
+    "max_accel": "5,200G",
+    "mglt": "118 MGLT",
+    "max_speed": "1,500 kph",
+    "engine": "Twin ion engines (2)",
+    "hyperdrive": "Class 1 (hyperspace transport ring required)",
+    "armament": [
+      "Laser cannons (2)",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "othersystems": "S-foils",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "owners": "Yoda"
+  },
+  "scraped": "2026-07-03"
+}

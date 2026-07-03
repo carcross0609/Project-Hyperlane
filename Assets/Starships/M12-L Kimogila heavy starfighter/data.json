@@ -1,0 +1,36 @@
+{
+  "name": "M12-L Kimogila heavy starfighter",
+  "wookieepedia_title": "M12-L Kimogila heavy starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/M12-L_Kimogila_heavy_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The M12-L Kimogila heavy starfighter, also referred to as Kimogila Heavy Fighter or Kimogila, was a heavy starfighter manufactured by MandalMotors by commission from the Hutt kajidics. The Kimogila was heavily armed and armored, making it a versatile and expensive long-range fighter. Though designed for the Hutts, the Kimogila became a favored ship for mercenaries, bounty hunters, and pirates.",
+  "data": {
+    "name": "M12-L Kimogila heavy starfighter",
+    "manufacturer": "MandalMotors",
+    "model": "Heavy starfighter",
+    "type": "M12-L Kimogila",
+    "cost": "150,000 credits",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Enabled",
+    "hull": "Armored",
+    "sensor": "Short-range",
+    "armament": [
+      "Heavy laser cannon (3)",
+      "Proton torpedo launcher",
+      "Concussion missile launcher"
+    ],
+    "crew": "Pilot",
+    "passengers": "None",
+    "consumables": "Two weeks",
+    "role": [
+      "Starfighter",
+      "Patrol ship"
+    ],
+    "affiliation": [
+      "Hutt Clan",
+      "J'kari Thunderers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

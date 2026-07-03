@@ -1,0 +1,42 @@
+{
+  "name": "Delta-7B Aethersprite-class light interceptor",
+  "wookieepedia_title": "Delta-7B Aethersprite-class light interceptor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Delta-7B_Aethersprite-class_light_interceptor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Delta-7B Aethersprite-class light interceptor was a short-range light starfighter used by the Jedi Order during the Clone Wars.",
+  "data": {
+    "name": "Delta-7B Aethersprite-class light interceptor",
+    "designer": "Walex Blissex",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series fighter",
+    "model": "Delta-7B Aethersprite-class light interceptor",
+    "type": "Starfighter",
+    "length": "8 meters",
+    "width": "3.92 meters",
+    "height": "1.44 meters",
+    "max_accel": "5,500 G",
+    "max_speed": "1,250 km/h",
+    "hyperdrive": "Class 1.0 (with booster ring)",
+    "hdrange": "150,000 LY",
+    "hdsystem": "Syluire-31 hyperspace docking ring",
+    "armament": "Taim & Bak laser cannons (4)",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "60 kg (0.03 m³)",
+    "consumables": [
+      "Fuel: 5 hrs",
+      "Air: 5 hrs"
+    ],
+    "role": [
+      "Interceptor",
+      "Scout",
+      "Elite personnel transport"
+    ],
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

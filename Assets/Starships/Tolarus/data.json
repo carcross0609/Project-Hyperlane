@@ -1,0 +1,25 @@
+{
+  "name": "Tolarus",
+  "wookieepedia_title": "Tolarus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tolarus",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Tolarus was a Muurian transport owned by Viraxo Industries. It was destroyed near Destreg II in 3 ABY by Ace Azzameen and Emon Azzameen after they tried to assassinate K'Armyn Viraxo.",
+  "data": {
+    "name": "Tolarus",
+    "manufacturer": "Muurian Interstellar",
+    "model": "Muurian transport",
+    "length": "30.5 meters",
+    "width": "29.4 meters",
+    "height": "8.8 meters",
+    "armament": [
+      "2 double laser cannon turrets",
+      "3 laser cannons",
+      "2 proton torpedo launchers"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Viraxo Industries"
+  },
+  "scraped": "2026-07-03"
+}

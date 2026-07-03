@@ -1,0 +1,34 @@
+{
+  "name": "Banshee",
+  "wookieepedia_title": "Banshee (Baudo-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Banshee_%28Baudo-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Banshee was the modified Baudo-class star yacht used by Sirona Okeefe after the Clone Wars, in missions for the Alderaanian Resistance.",
+  "data": {
+    "name": "Banshee",
+    "model": "Baudo-class star yacht",
+    "type": "Space transport",
+    "cost": [
+      "New: 400,000 credits",
+      "Used: 250,000 credits"
+    ],
+    "max_speed": "1,200 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 7"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Double light laser cannons (2)",
+      "Quad laser cannons (2)"
+    ],
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "35 tons",
+    "consumables": "1 month",
+    "captains": "Sirona Okeefe"
+  },
+  "scraped": "2026-07-03"
+}

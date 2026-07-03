@@ -1,0 +1,72 @@
+{
+  "name": "BTL-A4 Y-wing assault starfighter/bomber",
+  "wookieepedia_title": "BTL-A4 Y-wing assault starfighter/bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BTL-A4_Y-wing_assault_starfighter/bomber",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The BTL-A4 Y-wing assault starfighter/bomber, also referred to simply as the BTL-A4 Y-wing starfighter or Y-wing light bomber, was a model of starfighter-bomber, part of the venerable BTL-series manufactured by Koensayr Manufacturing. Originally in service with the Republic Navy, it was more famously used as the workhorse of the Rebel Alliance Starfighter Corps during the Galactic Civil War. An effective hybrid of between speed and firepower, Y-wings served their respective causes extremely well.",
+  "data": {
+    "name": "BTL-A4 Y-wing assault starfighter/bomber",
+    "manufacturer": "Koensayr Manufacturing",
+    "line": "BTL-series Y-wing",
+    "model": "BTL-A4 Y-wing",
+    "type": "Assault starfighter/bomber",
+    "cost": [
+      "135,000 credits (new)",
+      "65,000 (used)"
+    ],
+    "length": "16.24 meters (53 ft 3 in)",
+    "width": "8.54 meters (28 ft)",
+    "height": "2.44 meters (8 ft)",
+    "max_accel": "2,700 G",
+    "mglt": "70 MGLT",
+    "max_speed": "1,000 kph",
+    "engine": "Koensayr R200 ion jet engine (2)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Koensayr R300-H hyperdrive motivator",
+    "power": [
+      "Novaldex power generator",
+      "Thiodyne 03-R cryogenic power cells"
+    ],
+    "shield_gen": "Chempat deflector shield generator",
+    "hull": "Titanium-reinforced alusteel",
+    "sensor": [
+      "Fabritech ANs-5d \"lock track\" full-spectrum transceiver with PA-9r long-range phased tachyon detection array and PG-7u short-range primary threat analysis grid",
+      "Fabritech ANx-y sensor array (2)"
+    ],
+    "target": "Fabritech ANc 2.7 tracking computer with SI 5g7 \"Quickscan\" vector imaging system",
+    "navigation": "Astromech droid",
+    "avionics": "Subpro NH-7 flight control avionics package",
+    "armament": [
+      "Taim & Bak IX4 or KX5 laser cannons (2)",
+      "ArMek SW-4 or SW-5 ion cannons (2) (on rotating turret)",
+      "Arakyd Flex Tube proton torpedo launchers (2)",
+      "  Krupx MG7 proton torpedoes (8)",
+      "  Cluster missiles",
+      "  Concussion missiles",
+      "  Ion torpedoes",
+      "  Proton bombs",
+      "Limpet charges"
+    ],
+    "escapepods": "Guidenhauser ejector seat",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "consumables": "1 week",
+    "lifesupport": "Equipped",
+    "role": [
+      "Bomber",
+      "Assault starfighter"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "New Republic",
+      "  New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

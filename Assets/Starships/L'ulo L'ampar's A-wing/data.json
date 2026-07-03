@@ -1,0 +1,50 @@
+{
+  "name": "L'ulo L'ampar's A-wing",
+  "wookieepedia_title": "L'ulo L'ampar's A-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/L%27ulo_L%27ampar%27s_A-wing",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During his time as a pilot for the Alliance to Restore the Republic and later the Resistance, the Duros L'ulo L'ampar used an RZ-1 A-wing interceptor as his mode of transportation.",
+  "data": {
+    "name": "L'ulo L'ampar's A-wing",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "RZ-1 A-wing interceptor",
+    "type": "Starfighter",
+    "length": "9.6 meters",
+    "mglt": "120 MGLT",
+    "max_speed": "1,300 kph",
+    "engine": "2",
+    "shield_gen": "Sirplex Z-9 deflector shield projector Equipped standard, removed in modified versions",
+    "armament": [
+      "Borstel RG-9 Laser cannons (2)",
+      "Dymek HM-6 Concussion Missile Launcher with Concussion missiles (12)"
+    ],
+    "escapepods": "Equipped",
+    "crew": "1 pilot",
+    "communications": "Equipped",
+    "role": [
+      "Starfighter combat",
+      "Interceptor"
+    ],
+    "destroyed": "34 ABY, Battle over a desert planet",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Starfighter Corps",
+      "Civilian Defense Force",
+      "Resistance",
+      "  Resistance Starfighter Corps"
+    ],
+    "navy": [
+      "Rebel Alliance Navy",
+      "Resistance navy"
+    ],
+    "fleet": [
+      "Starlight Squadron",
+      "Green Squadron",
+      "Black Squadron"
+    ],
+    "owners": "L'ulo L'ampar"
+  },
+  "scraped": "2026-07-03"
+}

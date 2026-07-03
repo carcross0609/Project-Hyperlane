@@ -1,0 +1,43 @@
+{
+  "name": "Force of Commerce",
+  "wookieepedia_title": "Force of Commerce",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Force_of_Commerce",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Force of Commerce was the Munificent-class star frigate used by General Grievous as his flagship during the Clone Wars at the time of the abduction of Jabba the Hutt's son, Rotta.",
+  "data": {
+    "name": "Force of Commerce",
+    "manufacturer": [
+      "Hoersch-Kessel Drive, Inc."
+    ],
+    "model": "Munificent-class star frigate",
+    "type": [
+      "Star frigate",
+      "Cruiser",
+      "Capital ship"
+    ],
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "armament": [
+      "Prow heavy turbolaser cannons (2)",
+      "Long-range heavy ion cannons (2)",
+      "Twin turbolaser cannons (26)",
+      "Light turbolaser turrets (20)",
+      "Point-defense cannons (38)",
+      "Hyperwave jammer (1)"
+    ],
+    "role": [
+      "Flagship",
+      "Frigate",
+      "Communications ship"
+    ],
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "Confederacy of Independent Systems"
+    ],
+    "captains": "General Grievous"
+  },
+  "scraped": "2026-07-03"
+}

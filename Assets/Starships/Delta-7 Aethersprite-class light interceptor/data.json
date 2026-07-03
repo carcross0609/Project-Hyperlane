@@ -1,0 +1,56 @@
+{
+  "name": "Delta-7 Aethersprite-class light interceptor",
+  "wookieepedia_title": "Delta-7 Aethersprite-class light interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Delta-7_Aethersprite-class_light_interceptor",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Delta-7 Aethersprite-class light interceptor, also known as the Delta-7 Aethersprite-class Jedi starfighter, Delta-7 Jedi starfighter, or Delta-7 Jedi Interceptor, and commonly referred to as the Jedi starfighter, was a starfighter model designed by Kuat Systems Engineering and used by the Jedi Order before and during the Clone Wars. The variant Delta-7B Aethersprite-class light interceptor was also used by the Jedi during the Clone Wars. The Delta-7 would also be used by the Alliance to Restore the Republic in their early campaigns against the Galactic Empire.",
+  "data": {
+    "name": "Delta-7 Aethersprite-class light interceptor",
+    "designer": [
+      "Walex Blissex",
+      "Kuat Systems Engineering"
+    ],
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series",
+    "model": "Delta-7 Aethersprite",
+    "type": "Starfighter",
+    "cost": [
+      "180,000 Republic dataries (new)",
+      "145,000 (used)"
+    ],
+    "length": "8 meters",
+    "width": "3.92 meters",
+    "height": "1.44 meters",
+    "max_accel": "5,000 G",
+    "mglt": "110 MGLT",
+    "max_speed": "1,260 kph",
+    "engine": "J-44 \"Jetforce\" sublight engines (2)",
+    "hdsystem": "None (requires Syliure-31 hyperspace docking ring)",
+    "shield_gen": "Sirplex J-4 deflector generator",
+    "hull": "Ultra-light alloy",
+    "navigation": "Astromech droid (permanently hardwired)",
+    "armament": [
+      "Taim Co. SDS 8/5 dual laser cannons (2) or quad-pulse laser cannons",
+      "Warhead launcher (optional)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Integrated astromech droid (1)"
+    ],
+    "capacity": "60 kilograms",
+    "consumables": "None (1 week with booster ring)",
+    "lifesupport": "Equipped",
+    "communications": "Comm/scan processor",
+    "role": [
+      "Starfighter",
+      "Interceptor"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

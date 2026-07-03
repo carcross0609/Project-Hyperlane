@@ -1,0 +1,28 @@
+{
+  "name": "XJ7 X-wing starfighter",
+  "wookieepedia_title": "XJ7 X-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/XJ7_X-wing_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Incom XJ7 X-wing starfighter was in the service of the Galactic Alliance during the Second Galactic Civil War.",
+  "data": {
+    "name": "XJ7 X-wing starfighter",
+    "manufacturer": "Incom Corporation",
+    "model": "XJ7 X-wing starfighter",
+    "type": "Starfighter",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "countermeasures": "Chaff",
+    "armament": [
+      "Laser cannons (4)",
+      "Proton torpedo launchers"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "othersystems": "S-foils",
+    "affiliation": "Galactic Federation of Free Alliances"
+  },
+  "scraped": "2026-07-03"
+}

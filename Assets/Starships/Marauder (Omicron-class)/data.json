@@ -1,0 +1,59 @@
+{
+  "name": "Marauder",
+  "wookieepedia_title": "Marauder (Omicron-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Marauder_%28Omicron-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Marauder was a modified Omicron-class attack shuttle that served as the personal starship of Clone Force 99, also known as the \"Bad Batch.\" The craft was unique compared to other Grand Army of the Republic starships, so it was used for the Bad Batch's covert and undercover missions throughout the Clone Wars. Around 18 BBY, it was destroyed by CX-2 on Pabu.",
+  "data": {
+    "name": "Marauder",
+    "manufacturer": "Cygnus Space Workshops",
+    "model": "Omicron-class attack shuttle (modified)",
+    "type": [
+      "Gunship/shuttle",
+      "  Attack shuttle",
+      "Transport"
+    ],
+    "modifier": "Clone Force 99",
+    "sysmods": "Omega's Room (a bunk within gun turret)",
+    "length": [
+      "30.33 meters (99 feet, 6 inches) (precise length)",
+      "30.30 meters (99 feet, 5 inches)"
+    ],
+    "width": "36.65 meters (120 feet, 3 inches)",
+    "height": "12.41 meters (40 feet, 9 inches)",
+    "mglt": "80 MGLT",
+    "max_speed": "750 kph",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield projectors (in solar collection surfaces)",
+    "sensor": "Primary sensor clusters (2)",
+    "countermeasures": "Scrambling its magnetic signature",
+    "armament": [
+      "Double laser cannon (1) (rear-mounted)",
+      "Fixed forward-firing heavy laser cannons (2) (forward-mounted)",
+      "Wingtip light laser cannons (5) (wing-mounted)"
+    ],
+    "crew": "Pilot (1)",
+    "communications": "Comms transmission mast",
+    "othersystems": "Position lights (3) (wingtip-mounted)",
+    "role": [
+      "Transport",
+      "Gunship"
+    ],
+    "destroyed": "During or after 18 BBY, Pabu",
+    "affiliation": [
+      "Galactic Republic",
+      "  Clone Force 99",
+      "Galactic Empire (briefly)"
+    ],
+    "navy": [
+      "Galactic Republic Navy",
+      "Imperial Navy (briefly)"
+    ],
+    "owners": "Clone Force 99",
+    "aliases": "TC-159"
+  },
+  "scraped": "2026-07-03"
+}

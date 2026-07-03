@@ -1,0 +1,39 @@
+{
+  "name": "Longrunner",
+  "wookieepedia_title": "Longrunner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Longrunner",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Longrunner was a Kazellis light freighter with improved hyperdrive that passed through several owners during the time of the Empire.",
+  "data": {
+    "name": "Longrunner",
+    "manufacturer": "Kazellis Corporation",
+    "type": "Kazellis-class light freighter",
+    "cost": "23,000",
+    "length": "28 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "x1",
+      "x8 Backup"
+    ],
+    "shield_gen": "Yes",
+    "hull": "Yes",
+    "armament": "Quad laser cannon",
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "100 tons",
+    "consumables": "2 months",
+    "owners": [
+      "Duan Zorn",
+      "Dav Kathis",
+      "Leanna Carella"
+    ],
+    "captains": [
+      "Duan Zorn",
+      "Dav Kathis",
+      "Leanna Carella"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

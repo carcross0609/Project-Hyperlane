@@ -1,0 +1,49 @@
+{
+  "name": "Darvro-class light freighter",
+  "wookieepedia_title": "Darvro-class light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darvro-class_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Darvro-class light freighter was a class of stealth cargo vessels widely used by the forces of Ord Gimmel. The craft was also designed for smuggling and was used by the Alliance to Restore the Republic to transport high-priority shipments through hostile territory. Though intended for escape or hiding rather than battle, the vessels did carry some armaments, but they were also fitted with self-destruct mechanisms to prevent enemy forces from seizing valuable cargo.",
+  "data": {
+    "name": "Darvro-class light freighter",
+    "manufacturer": "Gimmellian Shipworks",
+    "model": "Darvro-Class light freighter",
+    "type": "Light freighter",
+    "cost": "250,000 credits",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "avionics": "Equipped",
+    "countermeasures": [
+      "Electronic countermeasures",
+      "Gimmellian Stealth Device"
+    ],
+    "armament": [
+      "Medium cannon (1)",
+      "Quad laser cannon (1)",
+      "Light Tractor Beam projector (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "4",
+    "othersystems": "Self-destruct mechanism",
+    "role": [
+      "Transport",
+      "Smuggling Vessel"
+    ],
+    "affiliation": [
+      "Ord Gimmel defense forces",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

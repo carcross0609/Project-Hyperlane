@@ -1,0 +1,32 @@
+{
+  "name": "Peregrine",
+  "wookieepedia_title": "Peregrine (Dreadnaught-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Peregrine_%28Dreadnaught-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Peregrine was a Dreadnaught-class heavy cruiser that served in the Katana fleet of the Old Republic and later as General Bel Iblis's flagship during the Galactic Civil War.",
+  "data": {
+    "name": "Peregrine",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Dreadnaught-class heavy cruiser",
+    "sysmods": "Slave circuit",
+    "crew": "2,200",
+    "othersystems": "Decryption equipment in an external comm blister",
+    "role": "Flagship",
+    "affiliation": [
+      "Galactic Republic",
+      "Garm Bel Iblis's movement",
+      "New Republic"
+    ],
+    "navy": [
+      "Judicial Fleet",
+      "  Katana fleet",
+      "Bel Iblis' personal fleet",
+      "New Republic Defense Fleet"
+    ],
+    "owners": "General Garm Bel Iblis",
+    "captains": "Captain Tre-na"
+  },
+  "scraped": "2026-07-03"
+}

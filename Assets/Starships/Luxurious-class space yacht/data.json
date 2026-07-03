@@ -1,0 +1,29 @@
+{
+  "name": "Luxurious-class space yacht",
+  "wookieepedia_title": "Luxurious-class space yacht",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Luxurious-class_space_yacht",
+  "continuity": "Legends",
+  "infobox_template": "IndividualShip",
+  "description": "Luxurious-class space yachts were 31-meter long starships manufactured by Ghtroc Industries.",
+  "data": {
+    "name": "Luxurious-class space yacht",
+    "manufacturer": "Ghtroc Industries",
+    "cost": "350,000 credits",
+    "length": "31 Imperial standard meters",
+    "max_speed": "1,200 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 laser cannon",
+    "crew": "1 (gunners: 1)",
+    "passengers": "4",
+    "capacity": "75 metric tons",
+    "consumables": "1 month",
+    "role": "Personal transport"
+  },
+  "scraped": "2026-07-03"
+}

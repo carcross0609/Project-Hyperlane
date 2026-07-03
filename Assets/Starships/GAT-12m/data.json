@@ -1,0 +1,26 @@
+{
+  "name": "GAT-12m",
+  "wookieepedia_title": "GAT-12m",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GAT-12m",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The GAT-12m \"Skipray\" was part of the GAT Blastboat series produced by Sienar Fleet Systems.",
+  "data": {
+    "name": "GAT-12m",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Interception blastboat",
+    "length": "25 meters",
+    "hyperdrive": "Faster than class 2.0",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "3 medium ion cannons",
+      "1 proton torpedo launcher",
+      "2 laser cannons",
+      "1 concussion missile launcher"
+    ],
+    "crew": "2 and 2 gunners",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

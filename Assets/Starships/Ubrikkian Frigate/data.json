@@ -1,0 +1,30 @@
+{
+  "name": "Ubrikkian Frigate",
+  "wookieepedia_title": "Ubrikkian Frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ubrikkian_Frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ubrikkian Frigate was a patrol cruiser manufactured by Ubrikkian Industries at the Ubrikkian Yards.",
+  "data": {
+    "name": "Ubrikkian Frigate",
+    "manufacturer": "Ubrikkian Industries",
+    "type": "Frigate",
+    "length": "250 meters",
+    "hyperdrive": "Class 1",
+    "navigation": "Equipped",
+    "armament": "Escort quad laser cannons (20)",
+    "complement": "Varies, based on cargo configuration",
+    "crew": "Pilots, Officers, and Gunners (81)",
+    "skeleton": "81",
+    "passengers": "40 troops",
+    "capacity": "300 metric tons",
+    "role": [
+      "Frigate",
+      "Patrol craft",
+      "Transport",
+      "Shuttle"
+    ],
+    "affiliation": "Hutts"
+  },
+  "scraped": "2026-07-03"
+}

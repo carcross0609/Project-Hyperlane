@@ -1,0 +1,34 @@
+{
+  "name": "Chiss Star Destroyer",
+  "wookieepedia_title": "Chiss Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chiss_Star_Destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Chiss Star Destroyer was a kilometer-long capital ship used by the military of the Chiss Ascendancy, first observed during their conflict with the Killik Colony in 35 ABY.",
+  "data": {
+    "name": "Chiss Star Destroyer",
+    "manufacturer": "Chiss Ascendancy",
+    "line": "Star Destroyers",
+    "type": "Star Destroyer",
+    "length": "1,000 meters",
+    "countermeasures": "Cloaking device",
+    "armament": [
+      "Light turbolasers",
+      "Heavy turbolasers",
+      "Light megamasers",
+      "Heavy megamasers",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "Nssis-class Clawcraft",
+      "AirStraekers",
+      "Landing craft"
+    ],
+    "role": "Destroyer",
+    "affiliation": [
+      "Chiss Ascendancy",
+      "Empire of the Hand"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Unidentified V-wing variant",
+  "wookieepedia_title": "Unidentified V-wing variant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_V-wing_variant",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "A variant of the Alpha-3 Nimbus-class V-wing starfighter served the Republic Starfighter Corps during the Clone Wars between the Galactic Republic and the Confederacy of Independent Systems. This model was equipped with a hyperdrive and better shielding.",
+  "data": {
+    "name": "Unidentified V-wing variant",
+    "model": "Alpha-3 Nimbus-class V-wing starfighter",
+    "type": "Starfighter",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons",
+    "role": "Escort",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Starfighter Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

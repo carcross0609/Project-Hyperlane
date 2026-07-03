@@ -1,0 +1,24 @@
+{
+  "name": "ISB TAC shuttle",
+  "wookieepedia_title": "ISB TAC shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ISB_TAC_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The ISB TAC shuttle, also known as the ISB SWAT Shuttle or ISB SWAT ship, was a type of shuttle used by the Galactic Empire's ISB Tactical task force for their missions. In 1 BBY, a TAC shuttle designated TAC 171 was used by the Imperial Security Bureau during a raid on Tomkip Towers.",
+  "data": {
+    "name": "ISB TAC shuttle",
+    "type": "Shuttle",
+    "armament": "2 forward-mounted cannons",
+    "crew": "ISB pilots (2)",
+    "passengers": "ISB tactical agents (16)",
+    "role": [
+      "Tactical troop transport",
+      "SWAT team transport"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  ISB Tactical"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

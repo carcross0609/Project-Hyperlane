@@ -1,0 +1,50 @@
+{
+  "name": "Termagant",
+  "wookieepedia_title": "Termagant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Termagant",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Termagant was a Strike-class medium cruiser in Warlord Zsinj's fleet.",
+  "data": {
+    "name": "Termagant",
+    "manufacturer": "Loronar Corporation",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "1600 SDB",
+    "hull": "768 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons (10)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": [
+      "TIE Fighter squadron"
+    ],
+    "crew": [
+      "Crew members (1792)",
+      "Gunners (140)"
+    ],
+    "capacity": "6000 metric tons",
+    "consumables": "1.5 years",
+    "role": [
+      "Frigate",
+      "Carrier"
+    ],
+    "destroyed": "7 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Zsinj's Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "MC80a Star Cruiser",
+  "wookieepedia_title": "MC80a Star Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC80a_Star_Cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MC80a Star Cruiser, also styled as MC80A Star Cruiser, was a combat-focused variant of the MC80 Mon Calamari Star Cruiser fielded by the Alliance to Restore the Republic, and subsequently the New Republic, during the Galactic Civil War and Yuuzhan Vong War.",
+  "data": {
+    "name": "MC80a Star Cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC80a Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,200 meters",
+    "mglt": "60 MGLT (Maximum)",
+    "engine": "Engines (10)",
+    "hyperdrive": "Equipped",
+    "hdsystem": "TriLuna 400MGS stardrive and hyperdrive system",
+    "shield_gen": "Serridge SEAL shielding system",
+    "target": "Plat Dromma targeting computer",
+    "armament": "48 Taim & Bak XV9 turbolaser batteries",
+    "complement": [
+      "6 starfighter squadrons",
+      "  3 BTL Y-wing starfighter squadrons",
+      "  1 RZ-1 A-wing interceptor squadron",
+      "  2 T-65 X-wing starfighter squadrons"
+    ],
+    "bays": "3",
+    "crew": "5,402",
+    "passengers": "1,200 troops",
+    "role": "Cruiser",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

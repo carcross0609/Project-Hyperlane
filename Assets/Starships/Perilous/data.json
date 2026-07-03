@@ -1,0 +1,29 @@
+{
+  "name": "Perilous",
+  "wookieepedia_title": "Perilous",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Perilous",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Perilous was an Imperial-class Star Destroyer serving as the flagship of Darth Vader, up until the skirmish with the Free Ryloth Movement in which it was destroyed.",
+  "data": {
+    "name": "Perilous",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Deflector shields",
+    "complement": [
+      "Alpha-3 Nimbus-class V-wing starfighters",
+      "At least one shuttle"
+    ],
+    "destroyed": "14 BBY, above Ryloth",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Darth Vader",
+    "captains": "Luitt"
+  },
+  "scraped": "2026-07-03"
+}

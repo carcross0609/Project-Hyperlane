@@ -1,0 +1,33 @@
+{
+  "name": "II-xC Maintenance/Broadcast Ship",
+  "wookieepedia_title": "II-xC Maintenance/Broadcast Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/II-xC_Maintenance/Broadcast_Ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The II-xC Maintenance/Broadcast Ship was manufactured by Merthyog Communications.",
+  "data": {
+    "name": "II-xC Maintenance/Broadcast Ship",
+    "manufacturer": "Merthyog Communications",
+    "cost": "9,000 credits",
+    "length": "30 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup class 10"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": "None",
+    "crew": [
+      "Command Crew (4)",
+      "Comm Technicians (10)"
+    ],
+    "skeleton": "(2)",
+    "capacity": "10 metric tons",
+    "consumables": "2 weeks",
+    "role": [
+      "Broadcast and Maintenance ship"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

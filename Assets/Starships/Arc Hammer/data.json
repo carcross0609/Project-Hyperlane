@@ -1,0 +1,48 @@
+{
+  "name": "Arc Hammer",
+  "wookieepedia_title": "Arc Hammer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arc_Hammer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Arc Hammer was an Imperial spacefaring production facility used to supplement the Imperial Stormtrooper Corps with dark troopers, a new generation of battle droid stormtroopers to be used in the Galactic Civil War against the Rebel Alliance.",
+  "data": {
+    "name": "Arc Hammer",
+    "manufacturer": "Kuat Drive Yards",
+    "type": [
+      "Factory ship",
+      "Dreadnaught"
+    ],
+    "cost": "Billions of Imperial credits",
+    "length": ">9,600 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Laser cannons",
+      "Concussion missile launchers"
+    ],
+    "complement": [
+      "TIE Series starfighters",
+      "Dark Trooper hyperspace capsules"
+    ],
+    "passengers": [
+      "Stormtroopers",
+      "Dark troopers"
+    ],
+    "role": [
+      "Carrier",
+      "Mobile production facility"
+    ],
+    "destroyed": "1 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "  Stormtrooper Corps",
+      "    Dark Trooper Project"
+    ],
+    "owners": "General Rom Mohc",
+    "captains": "Captain Nonam"
+  },
+  "scraped": "2026-07-03"
+}

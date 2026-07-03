@@ -1,0 +1,30 @@
+{
+  "name": "Avenger",
+  "wookieepedia_title": "Avenger",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Avenger",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Avenger was an Imperial II-class Star Destroyer in the Imperial Navy's Death Squadron, under the command of Captain Lorth Needa. As a part of the Galactic Empire's Project Swarm, the Avenger was one of the destroyers responsible for deploying thousands of Viper probe droids across the galaxy in hyperdrive pods, in an attempt to discover the Rebel Alliance's secret base.",
+  "data": {
+    "name": "Avenger",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial II-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "complement": "Hyperdrive pods",
+    "bays": "Equipped",
+    "communications": "Communications tower",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron",
+    "captains": "Lorth Needa"
+  },
+  "scraped": "2026-07-03"
+}

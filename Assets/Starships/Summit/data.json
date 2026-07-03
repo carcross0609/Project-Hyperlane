@@ -1,0 +1,33 @@
+{
+  "name": "Summit",
+  "wookieepedia_title": "Summit",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Summit",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Summit was a Quasar Fire-class cruiser carrier which served the Galactic Empire's navy. Around 4 ABY, the vessel was assigned to transport a maintenance crew to the Kudo system on a mission to aid the Imperial II-class Star Destroyer Celerity. It also carried Squadron Five of the Empire's 204th Imperial Fighter Wing for protection. Upon arrival in the system, it deployed the TIE interceptors but was disabled by an ion cannon shot from the Celerity.",
+  "data": {
+    "name": "Summit",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "Quasar Fire-class cruiser-carrier",
+    "type": "Cruiser-carrier",
+    "length": "340 meters",
+    "max_speed": "250 kph",
+    "engine": "5",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "navigation": "Equipped",
+    "armament": [
+      "Light turbolaser batteries (2)",
+      "Dual laser cannon turrets (6)"
+    ],
+    "complement": "48 starfighters",
+    "bays": "4",
+    "destroyed": "c. 4 ABY, Kudo system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Imperial captain"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "U-55 orbital loadlifter",
+  "wookieepedia_title": "U-55 orbital loadlifter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/U-55_orbital_loadlifter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The U-55 orbital loadlifter, also known as the U-55 loadlifter or Resistance transport and, informally, as a lifeboat, was a type of transport shuttle manufactured by Sienar Fleet Systems. It was used by the Resistance during its war with the First Order.",
+  "data": {
+    "name": "U-55 orbital loadlifter",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "U-55 loadlifter",
+    "type": [
+      "Transport",
+      "Shuttle"
+    ],
+    "length": "22.63 meters (74.24 ft)",
+    "width": "12.34 meters",
+    "height": "5.15 meters",
+    "crew": [
+      "Pilots (2)",
+      "Engineer (1)"
+    ],
+    "passengers": "60",
+    "role": [
+      "Courier",
+      "Evacuation ship",
+      "Medevac",
+      "Mobile command center",
+      "Personnel transport"
+    ],
+    "affiliation": [
+      "Resistance",
+      "  Resistance navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

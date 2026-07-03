@@ -1,0 +1,19 @@
+{
+  "name": "Aurora",
+  "wookieepedia_title": "Aurora (fuel tanker)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aurora_%28fuel_tanker%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Aurora was a specialized refueling tanker utilized by the Confederacy of Independent Systems' naval forces during the Clone Wars against the Galactic Republic. It possessed a series of oval-shaped fuel storage tanks, which were separated from each other by several hangar bays. From these bays, Separatist star frigates were able to dock with the tanker and gain fuel.",
+  "data": {
+    "name": "Aurora",
+    "type": "Tanker",
+    "bays": "Hangar bays",
+    "othersystems": "Fuel storage tanks",
+    "role": "Refueling",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Riptide",
+  "wookieepedia_title": "Riptide",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Riptide",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Riptide was an Imperial Nebulon-B frigate. Riptide, along with her sister ship Havok attempted to destroy the Rebel Alliance cruiser Independence during negotiations with the Habassa delegates. Riptide and Havok were destroyed on that attempt by combined efforts of the Birkby group of CR90 corvettes and Rebel starfighters.",
+  "data": {
+    "name": "Riptide",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": [
+      "Escort starship",
+      "Capital ship"
+    ],
+    "cost": "8,500,000 credits",
+    "length": "300 meters",
+    "width": "72 meters",
+    "height": "166 meters",
+    "max_accel": "1,200 G",
+    "mglt": "40 MGLT",
+    "max_speed": "800km/h",
+    "engine": "Kuat Galaxy-15 ion engines (7)",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12"
+    ],
+    "shield_gen": [
+      "Serridge SEAL shielding system",
+      "Enhanced Delphus JC-671 projectors"
+    ],
+    "hull": "Titanium-reinforced alloy (rated 448 RU)",
+    "sensor": "Fabritech ANs-9.5w wide range sensor system",
+    "navigation": "Equipped",
+    "armament": [
+      "Taim & Bak XI7 turbolasers (12)",
+      "  6 fore",
+      "  3 port",
+      "  3 starboard",
+      "Borstel RH8 laser cannons (12)",
+      "  6 fore",
+      "  2 port",
+      "  2 starboard",
+      "  2 aft",
+      "Phylon Q7 tractor beam projectors (2)"
+    ],
+    "complement": [
+      "TIE starfighters (24)",
+      "Several Grek-class troop shuttles",
+      "Several Katarn-class boarding shuttles"
+    ],
+    "crew": [
+      "Crew (854)",
+      "Gunners (66)"
+    ],
+    "skeleton": "307",
+    "passengers": "75 troops",
+    "capacity": "6,000 metric tons",
+    "consumables": "2 years",
+    "role": "Frigate"
+  },
+  "scraped": "2026-07-03"
+}

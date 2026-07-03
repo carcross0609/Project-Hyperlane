@@ -1,0 +1,42 @@
+{
+  "name": "Nebulon-B2 frigate",
+  "wookieepedia_title": "Nebulon-B2 frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nebulon-B2_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nebulon-B2 frigate, sometimes referred to as the modified frigate, was a relative of the Nebulon-B escort frigate.",
+  "data": {
+    "name": "Nebulon-B2 frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Nebulon series",
+    "model": "Nebulon-B2 frigate",
+    "type": "Frigate",
+    "length": "253.2 meters",
+    "width": "147.7 meters",
+    "height": "94.3 meters",
+    "mglt": "47 MGLT",
+    "shield_gen": "Rated 800 SBD",
+    "hull": "Rated 384 RU",
+    "armament": [
+      "Dual turbolaser turrets (3)",
+      "Laser guns (7)",
+      "Concussion missile launcher (1)",
+      "  10 missiles (standard load)"
+    ],
+    "crew": "1,120",
+    "passengers": "150 troops",
+    "role": [
+      "Escort",
+      "Frigate",
+      "Command ship (in smaller fleets)",
+      "Hospital ship (possible Rebel-only conversion)"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Dimok government",
+      "Ripoblus government"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

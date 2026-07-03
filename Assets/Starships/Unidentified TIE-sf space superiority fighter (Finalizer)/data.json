@@ -1,0 +1,39 @@
+{
+  "name": "Unidentified TIE/sf space superiority fighter",
+  "wookieepedia_title": "Unidentified TIE/sf space superiority fighter (Finalizer)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_TIE/sf_space_superiority_fighter_%28Finalizer%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A TIE/sf space superiority fighter was used by the Resistance pilot Poe Dameron and the deserting stormtrooper FN-2187 during their escape from the Finalizer.",
+  "data": {
+    "name": "Unidentified TIE/sf space superiority fighter",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE fighter series",
+    "model": "TIE/sf space superiority fighter",
+    "type": "Starfighter",
+    "length": "6.69 meters",
+    "max_accel": "4,450 G",
+    "mglt": "140 MGLT",
+    "max_speed": "1,250 kph",
+    "engine": "SJFS P-s6 twin ion engine",
+    "power": [
+      "2 ion reactors",
+      "Pre-charged deuterium power cells"
+    ],
+    "armament": [
+      "2 SJFS L-s9.6 laser cannons",
+      "SJFS Lb-14 dual heavy laser turret"
+    ],
+    "escapepods": "Ejector seat",
+    "role": "Starfighter",
+    "destroyed": "34 ABY",
+    "affiliation": [
+      "First Order",
+      "Resistance (Stolen)"
+    ],
+    "navy": "First Order Navy",
+    "owners": "Poe Dameron"
+  },
+  "scraped": "2026-07-03"
+}

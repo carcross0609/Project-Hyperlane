@@ -1,0 +1,47 @@
+{
+  "name": "Scream of Ragnos",
+  "wookieepedia_title": "Scream of Ragnos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scream_of_Ragnos",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Scream of Ragnos was a Harrower-class dreadnought that was present during the Sacking of Coruscant. It was named after the ancient Sith Lord Marka Ragnos.",
+  "data": {
+    "name": "Scream of Ragnos",
+    "manufacturer": "Taerab Starship Manufacturing",
+    "model": "Harrower-class dreadnought",
+    "type": [
+      "Dreadnaught",
+      "Star Destroyer"
+    ],
+    "cost": "10 years' output of a major mining colony",
+    "length": "800 meters",
+    "hyperdrive": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "4 equipped",
+    "hull": "Heavily-reinforced hull plating",
+    "armament": [
+      "Turbolaser batteries",
+      "Quad laser cannons",
+      "Ion cannons",
+      "Proton torpedos",
+      "Concussion missile launchers"
+    ],
+    "complement": [
+      "95 starfighters",
+      "  Mark VI Supremacy-class starfighters",
+      "32 B28 Extinction-class bombers",
+      "35 shuttles"
+    ],
+    "escapepods": "Many",
+    "crew": "2,400",
+    "capacity": "7,300 troops",
+    "role": [
+      "Capital ship",
+      "Warship"
+    ],
+    "affiliation": "Sith Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

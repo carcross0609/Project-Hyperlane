@@ -1,0 +1,28 @@
+{
+  "name": "D-Squad's Maxillipede shuttle",
+  "wookieepedia_title": "D-Squad's Maxillipede shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/D-Squad%27s_Maxillipede_shuttle",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Maxillipede shuttle was used by D-Squad to carry out a mission to steal an encryption module from a Providence-class Dreadnought commanded by the super tactical droid Aut-O. After the module had been stolen and the squad had departed, the Maxillipede shuttle was damaged in a comet storm above Abafar, and crashed on the planet. D-Squad abandoned the destroyed ship, and headed in search of a new starship.",
+  "data": {
+    "name": "D-Squad's Maxillipede shuttle",
+    "model": "Maxillipede shuttle",
+    "type": "Shuttle",
+    "hyperdrive": "Equipped",
+    "crew": "D-Squad",
+    "role": "Transport",
+    "destroyed": "20 BBY, Abafar",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Republic (captured)"
+    ],
+    "navy": [
+      "Confederacy of Independent Systems Navy",
+      "Galactic Republic Navy (captured)"
+    ],
+    "captains": "Meebur Gascon"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pioneer",
+  "wookieepedia_title": "Pioneer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pioneer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Pioneer was a Venator-class Star Destroyer that was built in a shipyard on Allanteen Six during the Clone Wars.",
+  "data": {
+    "name": "Pioneer",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "role": [
+      "Destroyer",
+      "Carrier",
+      "Command ship"
+    ],
+    "commission": "22 BBY, Allanteen Six",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet"
+  },
+  "scraped": "2026-07-03"
+}

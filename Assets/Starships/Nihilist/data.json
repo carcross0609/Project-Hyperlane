@@ -1,0 +1,34 @@
+{
+  "name": "Nihilist",
+  "wookieepedia_title": "Nihilist",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nihilist",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Nihilist was a Providence-class carrier/destroyer used as a flagship by the Commerce Guild&ndash;allied Trandoshan forces that occupied Felucia in preparation for an attack on Coruscant. The Nihilist was destroyed when two Jedi Padawans successfully raided it with the intent of rescuing their Master, Mavra Zane, who had been captured on Kashyyyk. Together the Jedi destroyed the ship's main reactor. They escape, but their starship crashed on Felucia.",
+  "data": {
+    "name": "Nihilist",
+    "model": "Providence-class carrier/destroyer",
+    "type": "Dreadnaught",
+    "complement": "Landing crafts",
+    "crew": [
+      "Trandoshans",
+      "OOM pilot battle droids"
+    ],
+    "passengers": [
+      "Sun Guards",
+      "B2-series super battle droids",
+      "B1-series battle droids",
+      "Droidekas",
+      "IG-100 MagnaGuards"
+    ],
+    "role": "Flagship",
+    "destroyed": "c. 20 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Commerce Guild"
+    ],
+    "navy": "Confederate Navy"
+  },
+  "scraped": "2026-07-03"
+}

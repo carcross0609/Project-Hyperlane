@@ -1,0 +1,24 @@
+{
+  "name": "INT-66",
+  "wookieepedia_title": "INT-66",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/INT-66",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The INT-66 was a heavy gunship/interceptor produced by Corellian Engineering Corporation.",
+  "data": {
+    "name": "INT-66",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "INT-66",
+    "type": "Transport",
+    "length": "50 meters",
+    "crew": "1",
+    "passengers": "3",
+    "capacity": "35 metric tons",
+    "role": [
+      "Bounty hunting",
+      "Gunship",
+      "Smuggling"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

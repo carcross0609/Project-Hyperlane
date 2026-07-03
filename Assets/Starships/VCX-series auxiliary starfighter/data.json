@@ -1,0 +1,36 @@
+{
+  "name": "VCX-series auxiliary starfighter",
+  "wookieepedia_title": "VCX-series auxiliary starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/VCX-series_auxiliary_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The VCX-series auxiliary starfighter, also known as an Auxiliary Shuttle or an Attack Shuttle, was a short-range starfighter that was attachable to the VCX-100 light freighter manufactured by Corellian Engineering Corporation. The rebels of Lothal used a modified type of this fighter during various situations when fighting against the Empire.",
+  "data": {
+    "name": "VCX-series auxiliary starfighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "VCX series",
+    "model": "VCX-series auxiliary starfighter",
+    "type": "Starfighter",
+    "cost": "22,000 credits",
+    "length": "11.63 meters",
+    "engine": "Equipped",
+    "armament": [
+      "1 MS-2B twin laser cannon",
+      "1 KX4 dorsal laser turret"
+    ],
+    "crew": "1 pilot",
+    "passengers": "At least 4",
+    "consumables": "1 day",
+    "role": [
+      "Shuttle",
+      "Fighter"
+    ],
+    "affiliation": [
+      "Spectres",
+      "Phoenix Cell",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

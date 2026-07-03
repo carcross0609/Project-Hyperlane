@@ -1,0 +1,73 @@
+{
+  "name": "Alpha-class Xg-1 Star Wing",
+  "wookieepedia_title": "Alpha-class Xg-1 Star Wing/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alpha-class_Xg-1_Star_Wing/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Cygnus Spaceworks Alpha-class Xg-1 Star Wing, also known as the Xg-1 Starwing or Assault Gunboat, was one of the Galactic Empire's first general-deployment starfighters to be equipped with deflector shields and a hyperdrive.",
+  "data": {
+    "name": "Alpha-class Xg-1 Star Wing",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Alpha-class Xg-1 Star Wing",
+    "type": "Assault starfighter",
+    "cost": [
+      "125,000&ndash;135,000 credits",
+      "75,000 credits (used)"
+    ],
+    "length": "10 meters",
+    "width": "15.1 meters",
+    "height": "7.2 meters",
+    "max_accel": "20 MGLT/s",
+    "mglt": "90 MGLT",
+    "max_speed": "1,050 km/h",
+    "maneuverability": "78 DPF",
+    "engine": "2 Cygnus 4K7 Dual Line ion engines",
+    "hyperdrive": [
+      "Class 1",
+      "Backup Class 10"
+    ],
+    "hdsystem": "Cygnus HD7 Hyperdrive Activator Unit",
+    "power": [
+      "Iotek ionization reactor",
+      "Iotek 9j ion power cells"
+    ],
+    "shield_gen": "Novaldex forward and rear projecting shield system (rated 100 SBD)",
+    "hull": "Quadanium steel-armored titanium hull (rated 28 RU)",
+    "sensor": "Short-range sensors",
+    "navigation": "SFS N-s8.6 Navcon computer system",
+    "avionics": "Miradyne RCS-6 flight control computer",
+    "armament": [
+      "Medium Taim & Bak KX5 laser cannons (2)",
+      "Borstel NK-3 ion cannons (2)",
+      "SFS M-s3 concussion missile launchers (2), selective:",
+      "  8 medium concussion missiles each (standard), advanced possible",
+      "  6 proton torpedoes each, advanced possible",
+      "  4 heavy concussion missiles each",
+      "  4 shieldbuster torpedoes each",
+      "  4 heavy rockets each",
+      "  2 heavy space mines each",
+      "  Bombs",
+      "Tractor beam projector (1; optional)"
+    ],
+    "crew": "Pilot (1)",
+    "capacity": "100 kilograms",
+    "consumables": "3 days",
+    "availability": "Not available for sale",
+    "role": [
+      "Multipurpose starfighter",
+      "Assault starfighter",
+      "Gunboat",
+      "Escort",
+      "Long-range scout",
+      "Patrol",
+      "Space superiority fighter (intended)"
+    ],
+    "firstuse": "0 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Customs",
+      "Lumini Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

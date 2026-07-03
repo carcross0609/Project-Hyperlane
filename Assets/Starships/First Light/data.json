@@ -1,0 +1,28 @@
+{
+  "name": "First Light",
+  "wookieepedia_title": "First Light",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/First_Light",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "First Light was a Nau'ur-class yacht owned by the near-human crime lord Dryden Vos of Crimson Dawn who used it as a personal residence and mobile base of operations for the crime syndicate. It fell into the possession of Qi'ra after Vos's death.",
+  "data": {
+    "name": "First Light",
+    "manufacturer": "Kalevala Spaceworks",
+    "model": "Nau'ur-class yacht",
+    "type": "Yacht",
+    "height": "153 meters (502 feet)",
+    "mglt": "65 mglt",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 15 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "affiliation": "Crimson Dawn",
+    "owners": [
+      "Dryden Vos",
+      "Qi'ra"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

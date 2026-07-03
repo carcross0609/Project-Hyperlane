@@ -1,0 +1,36 @@
+{
+  "name": "Ithorian Herdship",
+  "wookieepedia_title": "Ithorian Herdship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ithorian_Herdship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Ithorian Herdships were spacecraft designed by the Ithorians at the Ithorian SkyYards to transport all manner of items across the galaxy, providing the Ithorians a home away from home by simulating the jungles of their native Ithor.",
+  "data": {
+    "name": "Ithorian Herdship",
+    "manufacturer": "Ithorian SkyYards",
+    "model": "Herdship",
+    "cost": "Not for sale",
+    "length": [
+      "1,000 meters",
+      "1,800 meters"
+    ],
+    "height": "330 meters",
+    "max_speed": "Cruising",
+    "engine": "Ion engines",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 9 (secondary)"
+    ],
+    "hdsystem": "Optional",
+    "armament": [
+      "Laser cannons (20)",
+      "Tractor beam projectors (4)"
+    ],
+    "crew": "1,500 to 3,000",
+    "passengers": "10,000",
+    "capacity": "20,000 tons",
+    "consumables": "Five years",
+    "affiliation": "Ithorians"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ye-4 gunship",
+  "wookieepedia_title": "Ye-4 gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ye-4_gunship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Ye-4 gunships, also called Imperial Gunboats, were heavily armed gunships employed by the Imperial Navy during the Galactic Civil War.",
+  "data": {
+    "name": "Ye-4 gunship",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Ye-4 gunship",
+    "type": "Gunship",
+    "cost": "Not available for sale",
+    "max_speed": "900 km/h",
+    "hyperdrive": "Class 4",
+    "navigation": "Navicomputer",
+    "armament": "Medium blaster cannons (8)",
+    "crew": "8",
+    "passengers": "6",
+    "capacity": "40 tons",
+    "consumables": "6 months",
+    "availability": "Military",
+    "role": "Gunship",
+    "affiliation": [
+      "Galactic Empire",
+      "Blackscale Clan",
+      "Corellian Security Force",
+      "Coynite mercenaries",
+      "Hidden Daggers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Fortitude",
+  "wookieepedia_title": "Fortitude (transport)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fortitude_%28transport%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Fortitude, nicknamed \"lucky lander\" by some troops, was a YC-123B transport hauler in the service of the Resistance during their war against the First Order. During the Battle of Exegol, the Fortitude carried several troops and Orbaks to attack the Sith Eternal's navigation tower, though it would be redirected and covered to attack the Resurgent-class Star Destroyer Steadfast instead when the tower signal was transferred to the First Order ship. The hauler landed on the hull of the Steadfast and deployed Resistance troops, piloted by Dreanna Conunda and Gandris Dyun. The Fortitude would ultimately survive the battle and return to the Resistance base on Ajan Kloss to celebrate the victory against the Sith.",
+  "data": {
+    "name": "Fortitude",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YC-123B transport hauler",
+    "type": "Transport",
+    "length": "26.82 meters",
+    "height": "7.01 meters",
+    "engine": "CEC-3900hh ion engines",
+    "armament": [
+      "CEC FP-35 forward heavy laser cannons (2)",
+      "CEC AG-3M triple laser cannon turret"
+    ],
+    "crew": "Pilots (2)",
+    "passengers": "120",
+    "role": "Troop transport",
+    "affiliation": "Resistance",
+    "navy": "Resistance navy",
+    "captains": [
+      "Dreanna Conunda",
+      "Gandris Dyun"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

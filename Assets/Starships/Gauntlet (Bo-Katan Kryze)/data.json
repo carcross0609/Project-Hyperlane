@@ -1,0 +1,41 @@
+{
+  "name": "Gauntlet",
+  "wookieepedia_title": "Gauntlet (Bo-Katan Kryze)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gauntlet_%28Bo-Katan_Kryze%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Gauntlet was a Kom'rk-class fighter/transport that was used by Bo-Katan Kryze, leader of the Mandalorian Nite Owls, during her search for allies who would help liberate her people's homeworld, Mandalore. Accompanied by two other Nite Owls, Kryze used the ship when pursuing Ahsoka Tano, a former Jedi, from the planet Oba Diah to Level 1313 on Coruscant.",
+  "data": {
+    "name": "Gauntlet",
+    "manufacturer": "MandalMotors",
+    "line": "Kom'rk-class fighter/transport",
+    "model": [
+      "Starfighter",
+      "Transport"
+    ],
+    "length": [
+      "52.3 meters (flight mode)",
+      "26.46 meters (86 ft, 10 in) (landed)"
+    ],
+    "width": "29.1 meters (95 ft, 6 in)",
+    "height": "29.27 meters (96 feet)",
+    "max_speed": "1,000 kph",
+    "engine": "Equipped (4)",
+    "hyperdrive": "Class 1",
+    "target": "Equipped",
+    "armament": [
+      "2 forward laser cannons",
+      "2 rear laser cannons"
+    ],
+    "crew": "Pilots (2)",
+    "affiliation": [
+      "Mandalore resistance",
+      "  Nite Owls",
+      "Mandalorian resistance",
+      "Children of the Watch"
+    ],
+    "captains": "Bo-Katan Kryze"
+  },
+  "scraped": "2026-07-03"
+}

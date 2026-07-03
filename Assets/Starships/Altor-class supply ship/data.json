@@ -1,0 +1,35 @@
+{
+  "name": "Altor-class supply ship",
+  "wookieepedia_title": "Altor-class supply ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Altor-class_supply_ship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Altor-class supply ship was a class of fuel replenishment supply ship developed by the Galactic Empire. During its war with the Empire, the Rebel Alliance utilized the Altor-class supply ship Pikka's Pride. Between 3 ABY and 4 ABY, Pikka's Pride was used to carry four rebel ships to the Core Worlds planet Coruscant so the Alliance could carry out an aerial assault.",
+  "data": {
+    "name": "Altor-class supply ship",
+    "model": "Altor-class",
+    "type": "Supply ship",
+    "length": "4,600 meters",
+    "engine": [
+      "Thrusters (7)",
+      "Auxiliary engines (56)"
+    ],
+    "bays": [
+      "Hangars",
+      "Dry docks"
+    ],
+    "othersystems": [
+      "Fuel containers (6)",
+      "Refueling arms"
+    ],
+    "role": [
+      "Refueling",
+      "Repairs"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

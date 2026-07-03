@@ -1,0 +1,37 @@
+{
+  "name": "UH-478",
+  "wookieepedia_title": "UH-478",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/UH-478",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "UH-478 was the designation of a Rothana Heavy Engineering Low Altitude Assault Transport/infantry in service with the Grand Army of the Republic.",
+  "data": {
+    "name": "UH-478",
+    "manufacturer": "Rothana Heavy Engineering",
+    "line": "LAAT-series",
+    "model": "Low Altitude Assault Transport/infantry repulsorlift gunship",
+    "type": [
+      "Aerial assault",
+      "Repulsorcraft"
+    ],
+    "length": "17.4 meters",
+    "width": "17 meters (wingspan)",
+    "max_speed": "620 km/h",
+    "armament": [
+      "Anti-personnel laser turrets (3)",
+      "Composite-beam laser turrets (6)",
+      "Mass-driver missile launchers (2)",
+      "Light air-to-air rockets (8)",
+      "Droid busters"
+    ],
+    "complement": "Speeder bikes (4)",
+    "crew": [
+      "Pilot (1)",
+      "Gunner (3)"
+    ],
+    "passengers": "30",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

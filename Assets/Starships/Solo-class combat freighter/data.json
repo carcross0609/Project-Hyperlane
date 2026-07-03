@@ -1,0 +1,47 @@
+{
+  "name": "Solo-class combat freighter",
+  "wookieepedia_title": "Solo-class combat freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Solo-class_combat_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Solo-class combat freighter was a medium sized cargo ship manufactured by the Republic Engineering Corporation and SoroSuub, working in conjunction with the Fondor Shipyards under contract from the Metalsmiths Guild of Vandelhelm.",
+  "data": {
+    "name": "Solo-class combat freighter",
+    "manufacturer": [
+      "Republic Engineering Corporation",
+      "SoroSuub Corporation",
+      "Fondor Shipyards"
+    ],
+    "model": "Solo-class combat freighter",
+    "type": [
+      "Freighter",
+      "Space transport (standard classification)"
+    ],
+    "cost": [
+      "New: 700,000 credits",
+      "Used: 500,000 credits"
+    ],
+    "length": "96.5 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 2.0",
+    "shield_gen": "200 SBD",
+    "hull": "250 RU",
+    "armament": [
+      "Dual turbolaser cannons (6)",
+      "Concussion missile launchers (2)",
+      "  6 missiles each"
+    ],
+    "crew": "6",
+    "passengers": [
+      "10 (cargo bay full)",
+      "100 (cargo bay empty)"
+    ],
+    "capacity": "22,000 tons",
+    "consumables": "1 year",
+    "role": [
+      "Combat vessel",
+      "Cargo ship"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

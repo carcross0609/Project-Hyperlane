@@ -1,0 +1,59 @@
+{
+  "name": "Imperial Patrol Frigate",
+  "wookieepedia_title": "Imperial Patrol Frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Patrol_Frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperial Patrol Frigate was a patrol vessel used by the Galactic Empire and was a modified EF76 Nebulon-B escort frigate.",
+  "data": {
+    "name": "Imperial Patrol Frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Modified EF76 Nebulon-B escort frigate",
+    "type": "Frigate",
+    "length": "300 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12"
+    ],
+    "sensor": "Towed sensor array",
+    "armament": [
+      "Turbolaser Batteries (9)",
+      ":Fire Arc: 3 Front, 3 Left, 3 Right",
+      ":Crew: 1(2), 2(7)",
+      ":Atmospheric Range: 50km",
+      "Laser Cannons (7)",
+      ":Fire Arc: 3 Front, 2 Left, 2 Right",
+      ":Crew: 1",
+      ":Atmospheric Range: 50km",
+      "Ion Cannons (3)",
+      ":Fire Arc: Front",
+      ":Crew: 2",
+      ":Atmospheric Range: 100km",
+      "Starfighter-scale Ion Cannons (3)",
+      ":Fire Arc: Front",
+      ":Crew: 1",
+      ":Atmospheric Range: 3.6km",
+      "Tractor Beam Projectors (2)",
+      ":Fire Arc: Front",
+      ":Crew: 12",
+      ":Atmospheric Range: 60km"
+    ],
+    "crew": [
+      "Crewmembers (402)",
+      "Gunners (56)"
+    ],
+    "passengers": "40",
+    "capacity": "6,000 metric tons",
+    "consumables": "2 years",
+    "role": [
+      "Scout",
+      "Patrol"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Core"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

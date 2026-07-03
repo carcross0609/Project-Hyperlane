@@ -1,0 +1,37 @@
+{
+  "name": "Vuutun Palaa",
+  "wookieepedia_title": "Vuutun Palaa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vuutun_Palaa/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vuutun Palaa was a Lucrehulk-class battleship that powered the Trade Federation Droid Army on Naboo during the Trade Federation's invasion of the planet in 32 BBY. Headed by Captain Daultay Dofine, the ship was responsible for coordinating the invading battle droid armies on the surface of Naboo.",
+  "data": {
+    "name": "Vuutun Palaa",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Droid Control Ship",
+    "type": "Lucrehulk-class battleship",
+    "length": "3,170 meters",
+    "engine": [
+      "Rendili StarDrive Proton 2 (primary)",
+      "Rendili StarDrive Proton 12 (secondary)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "42 Quad turbolaser cannons",
+      "Ceiling laser turrets in the hangars"
+    ],
+    "complement": [
+      "1,500 Droid starfighters",
+      "50 C-9979 landing craft",
+      "550 Multi-Troop Transports",
+      "6,250 Armored Assault Tanks",
+      "1,500 Platoon Attack Craft"
+    ],
+    "othersystems": "16 Receiver Stations",
+    "destroyed": "32 BBY, above Naboo",
+    "affiliation": "Trade Federation",
+    "captains": "Daultay Dofine"
+  },
+  "scraped": "2026-07-03"
+}

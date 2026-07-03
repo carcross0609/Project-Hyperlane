@@ -1,0 +1,41 @@
+{
+  "name": "TL-1800 light freighter",
+  "wookieepedia_title": "TL-1800 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TL-1800_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TL-1800 transport, also known as the TL-1800 freighter or TL-1800 light freighter, was a light freighter manufactured by Suwantek Systems as part of their TL-series line.",
+  "data": {
+    "name": "TL-1800 light freighter",
+    "manufacturer": "Suwantek Systems",
+    "line": "TL-series",
+    "model": "TL-1800 transport",
+    "type": "Light freighter",
+    "cost": [
+      "41,500 credits (new)",
+      "28,000 credits"
+    ],
+    "length": "30 meters",
+    "max_speed": "800 km/h",
+    "engine": "5 Y-v-6 model sublight drive",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 10 backup"
+    ],
+    "hdsystem": "StarBurn 4 hyperdrive",
+    "armament": "SFS Laser cannons (2)",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "7",
+    "capacity": [
+      "110 metric tons (internal)",
+      "400 metric tons (with external cargo pods)"
+    ],
+    "consumables": "3 months",
+    "affiliation": [
+      "Hand of Judgment",
+      "Imperial Security Bureau"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Drunk Dancer",
+  "wookieepedia_title": "Drunk Dancer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drunk_Dancer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Drunk Dancer was a freighter manufactured by the Corellian Engineering Corporation in 39 BBY. She was approximately 150 meters long, and was similar in appearance to a CR70 corvette, but with a circular bridge module. She was equipped with turbolaser and ion cannon emplacements, and a starboard docking bay that housed the crew's dropship and was capable of also holding craft as large as an SX troop shuttle. The ship was crewed by smugglers led by Captain Jula Shryne.",
+  "data": {
+    "name": "Drunk Dancer",
+    "manufacturer": "Corellian Engineering Corporation",
+    "length": "150 meters",
+    "armament": [
+      "Turbolasers",
+      "Ion cannons"
+    ],
+    "bays": "Starboard",
+    "commission": "39 BBY",
+    "owners": [
+      "Jula Shryne"
+    ],
+    "captains": "Jula Shryne"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Sojourner Transport",
+  "wookieepedia_title": "Sojourner Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sojourner_Transport",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Sojourner Transport, also known as the Jedi Sojourner, was a class of small transport that was used by the Jedi Order in the final years of the Old Republic and throughout the Order's history. They became very rare after the Great Jedi Purge and the Age of the Empire.",
+  "data": {
+    "name": "Sojourner Transport",
+    "manufacturer": "Kuat Systems Engineering",
+    "type": "Transport",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 12 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Long-range sensor",
+    "navigation": "Equipped",
+    "armament": [
+      "Forward-mounted twin medium laser cannon (1)",
+      "Dorsal turret-mounted light laser cannon (1)"
+    ],
+    "crew": "1 pilot",
+    "passengers": "6",
+    "consumables": "Three months",
+    "role": "Jedi missions and training",
+    "firstuse": "In the final years of the Old Republic",
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Republic police gunship",
+  "wookieepedia_title": "Republic police gunship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Republic_police_gunship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "RepulsorliftVehicle",
+  "description": "The Republic police gunship was a model of transport gunship utilized by the Coruscant Security Force and the Coruscant Guard on the planet Coruscant during the waning years of the Galactic Republic.",
+  "data": {
+    "name": "Republic police gunship",
+    "model": "Republic police gunship",
+    "type": "Gunship",
+    "length": "11.48 meters",
+    "width": "5.43 meters",
+    "height": "5.76 meters",
+    "armament": [
+      "3 laser cannons",
+      "  Twin turret laser cannons",
+      "  Tail laser cannon"
+    ],
+    "crew": "1 pilot and 1 gunner",
+    "passengers": "Troop bay",
+    "availability": "Law enforcement",
+    "role": [
+      "Search and pursue",
+      "Troop carrier"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Coruscant Security Force",
+      "  Coruscant Guard",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

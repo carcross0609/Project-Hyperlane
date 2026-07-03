@@ -1,0 +1,21 @@
+{
+  "name": "Pathfinder ship",
+  "wookieepedia_title": "Pathfinder ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pathfinder_ship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "Pathfinder ships were used during the High Republic Era in 382 BBY by Republic Pathfinder teams.",
+  "data": {
+    "name": "Pathfinder ship",
+    "type": "Utility vehicle",
+    "role": [
+      "pathfinding",
+      "transporting cargo"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Pathfinders"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Falleen's Fist",
+  "wookieepedia_title": "Falleen's Fist",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Falleen%27s_Fist",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "SpaceStation",
+  "description": "Falleen's Fist was the personal skyhook of Black Sun leader Prince Xizor. Unlike the Emperor, who kept his most prized possessions aboard his skyhook, Xizor preferred to keep his best treasures on the ground within his palace. The skyhook was armed with Xizor's personal navy, complete with corvettes, frigates, and hundreds of rebuilt surplus fighters. The command center was a deck surrounded by transparisteel plate, allowing the commander a 360-degree unimpeded view of the vicinity space.",
+  "data": {
+    "name": "Falleen's Fist",
+    "manufacturer": "Core Worlds Engineering",
+    "line": "Skyhook",
+    "model": "Skyhook Platform",
+    "type": "Space station",
+    "cost": "25 million credits",
+    "modifier": "Black Sun",
+    "length": "1,200 meters",
+    "passengers": "1,000",
+    "capacity": "50,000 metric tons",
+    "consumables": "6 months",
+    "region": "Core Worlds",
+    "sector": "Coruscant sector",
+    "system": "Coruscant system",
+    "coordinates": "L-9",
+    "orbited": "Coruscant",
+    "role": "Flagship",
+    "affiliation": [
+      "Xizor Transport Systems",
+      "Black Sun"
+    ],
+    "destroyed": "3.5 ABY",
+    "battles": "Battle over Coruscant",
+    "owners": "Prince Xizor"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Wild Karrde",
+  "wookieepedia_title": "Wild Karrde",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wild_Karrde",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Wild Karrde was a heavily modified Corellian Engineering Corporation Action VI bulk transport used by Talon Karrde for smuggling and as a mobile base of operations. The craft's dented and worn hull plates concealed an incredible mobile base of operations for Karrde and his band of smugglers.",
+  "data": {
+    "name": "Wild Karrde",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified Action VI bulk transport",
+    "type": "Transport",
+    "cost": [
+      "New: 3.78 million credits",
+      "Used: 1.8 million credits"
+    ],
+    "length": "125 meters",
+    "max_accel": "2,460 G",
+    "max_speed": "950 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup: Class 10"
+    ],
+    "shield_gen": "Warship-grade shielding with independent power",
+    "hull": "Reinforced with concealed armor",
+    "sensor": "Warship-grade sensors",
+    "navigation": "Equipped",
+    "countermeasures": "Sensor mask",
+    "armament": "Turbolasers (3)",
+    "complement": [
+      "Repulsorlift vehicle (1)",
+      "Starfighter or shuttle (1) (optional, in cargo space)"
+    ],
+    "crew": [
+      "10",
+      "Pilot (1)",
+      "Navigator (1)",
+      "Gunners (3)"
+    ],
+    "skeleton": "2",
+    "passengers": "None",
+    "capacity": "50,000 metric tons",
+    "consumables": "6 months",
+    "othersystems": [
+      "Hypercomm array",
+      "HoloNet transceiver",
+      "Medical equipment",
+      "Vornskr kennel"
+    ],
+    "role": [
+      "Smuggling vessel",
+      "Flagship"
+    ],
+    "affiliation": [
+      "Car'das smugglers",
+      "Smugglers' Alliance"
+    ],
+    "owners": "Talon Karrde",
+    "captains": "Talon Karrde"
+  },
+  "scraped": "2026-07-03"
+}

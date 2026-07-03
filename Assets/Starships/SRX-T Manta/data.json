@@ -1,0 +1,26 @@
+{
+  "name": "SRX-T Manta",
+  "wookieepedia_title": "SRX-T Manta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SRX-T_Manta",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The SRX-T Manta was a class of cruiser used by Crimson Dawn and pirates during the Imperial Era. The Manta was armed with eight laser cannon turrets and missile launchers. It was outfitted with a targeting computer, a deflector shield generator, and had six sublight engines along with a hyperdrive system.",
+  "data": {
+    "name": "SRX-T Manta",
+    "model": "SRX-T Manta",
+    "type": "Cruiser",
+    "engine": "Equipped (6)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "target": "Equipped",
+    "armament": [
+      "Laser cannon turrets (8)",
+      "Missile launchers"
+    ],
+    "affiliation": [
+      "Crimson Dawn",
+      "Hutt Clan"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

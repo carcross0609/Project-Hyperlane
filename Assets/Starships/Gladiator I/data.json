@@ -1,0 +1,41 @@
+{
+  "name": "Gladiator I",
+  "wookieepedia_title": "Gladiator I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gladiator_I",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Gladiator I was a member of the Gladiator-class Star Destroyer line. The ships were originally designed as escorts, but were used by the Galactic Empire primarily as patrol craft. One Gladiator I, the Blood Ambition, fought in the Battle of Xorrn.",
+  "data": {
+    "name": "Gladiator I",
+    "designer": "Walex Blissex",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Gladiator-class Star Destroyer",
+    "cost": "34,000,000 credits",
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 8 (backup)"
+    ],
+    "armament": [
+      "12 dual-mounted light turbolasers",
+      "10 medium laser cannons",
+      "10 assault concussion missile launchers",
+      "8 medium tractor beams"
+    ],
+    "complement": [
+      "24 starfighters",
+      "5 All Terrain Scout Transports",
+      "Shuttles",
+      "Landing craft",
+      "Utility vehicles"
+    ],
+    "crew": "1,255",
+    "passengers": "1,200 troops",
+    "consumables": "2 years",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

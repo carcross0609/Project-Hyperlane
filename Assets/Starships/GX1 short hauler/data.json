@@ -1,0 +1,38 @@
+{
+  "name": "GX1 short hauler",
+  "wookieepedia_title": "GX1 short hauler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GX1_short_hauler",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The GX1 short hauler, also known as the GX1 hauler, GX1 diplomatic ship, Lantillian short hauler, Lantillian Hauler, or Lantillian shuttle, was a shuttle model manufactured by Lantillian ShipWrights. During the Clone Wars, the Galactic Republic used several top-of-the-line GX1 short haulers, including the Phoenix and the Valorous, as diplomatic vessels. During the Age of the Empire, GX1 shuttles were used as starbuses to ferry commuters from one location to another. Although the diplomatic variant was equipped with turret-mounted double laser cannons, the civilian starbus variant had no weapons.",
+  "data": {
+    "name": "GX1 short hauler",
+    "designer": "Shil Tervo",
+    "manufacturer": "Lantillian ShipWrights",
+    "model": "GX1 short hauler",
+    "type": "Shuttle",
+    "cost": "85,000 credits",
+    "length": "37.28 meters",
+    "max_accel": "800 kph",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "sensor": "Long-range communications array tower (diplomatic version only)",
+    "armament": "Turret-mounted double laser cannons (diplomatic version only)",
+    "escapepods": "1 (diplomatic version only)",
+    "crew": "Pilot (1)",
+    "passengers": "10",
+    "consumables": "1 month",
+    "role": [
+      "Diplomatic vessel",
+      "Starbus"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Diplomatic Corps",
+      "  Galactic Republic Navy",
+      "New Republic",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

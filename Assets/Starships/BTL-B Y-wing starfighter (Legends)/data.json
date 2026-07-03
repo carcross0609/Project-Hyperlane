@@ -1,0 +1,43 @@
+{
+  "name": "BTL-B Y-wing starfighter",
+  "wookieepedia_title": "BTL-B Y-wing starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BTL-B_Y-wing_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BTL-B Y-wing starfighter was an assault starfighter/bomber that flew combat missions for the Galactic Republic during the Clone Wars.",
+  "data": {
+    "name": "BTL-B Y-wing starfighter",
+    "manufacturer": "Koensayr Manufacturing",
+    "line": "BTL Y-wing starfighters",
+    "type": "Starfighter",
+    "cost": "127,000 credits (used: 63,000)",
+    "length": "23.04 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "navigation": "10-jump memory (astromech droid)",
+    "armament": [
+      "Medium laser cannons",
+      "Double light ion cannons",
+      "  10 torpedoes",
+      "Proton bombs"
+    ],
+    "escapepods": "None",
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "130 kg",
+    "consumables": "1 week",
+    "availability": "Military",
+    "role": [
+      "Starfighter",
+      "Bomber"
+    ],
+    "firstuse": "22 BBY",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

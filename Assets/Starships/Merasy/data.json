@@ -1,0 +1,35 @@
+{
+  "name": "Merasy",
+  "wookieepedia_title": "Merasy",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Merasy",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Merasy was a Nova-Drive 3-Z light freighter that had a number of owners during the Galactic Civil War.",
+  "data": {
+    "name": "Merasy",
+    "type": "Nova-Drive 3-Z light freighter",
+    "modifier": "Geld Bernar",
+    "length": "28 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon turrets (2)",
+    "crew": "2",
+    "passengers": "3",
+    "capacity": "200 metric tons",
+    "consumables": "2 months",
+    "othersystems": "Escape pod",
+    "owners": [
+      "Iep Tumu",
+      "Geld Bernar",
+      "Vacasor"
+    ],
+    "captains": "Geld Bernar"
+  },
+  "scraped": "2026-07-03"
+}

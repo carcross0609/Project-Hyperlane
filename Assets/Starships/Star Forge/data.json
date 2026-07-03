@@ -1,0 +1,44 @@
+{
+  "name": "Star Forge",
+  "wookieepedia_title": "Star Forge",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Forge",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Device",
+  "description": "The Star Forge was a giant automated shipyard, designed to create the most powerful army of all time. It was constructed by the Rakatan Infinite Empire in 30,000 BBY, five thousand years before the rise of the Galactic Republic. The Star Forge drew energy and matter from a nearby star which, when combined with the power of the Force, was capable of creating an endless supply of ships, droids, and other war materiel. The Rakata, also known as \"The Builders,\" constructed the massive space station through the use of slaves from many subject worlds including Belsavis, Corellia, Coruscant, Dantooine, Drall, Duro, Kashyyyk, Manaan, Selonia, Sleheyron, Malastare, and Tatooine.",
+  "data": {
+    "name": "Star Forge",
+    "manufacturer": "Rakatan Infinite Empire",
+    "type": "Space-based factory",
+    "culture": [
+      "Rakatan",
+      "Sith"
+    ],
+    "creators": "Rakata",
+    "created": "30,000 BBY above Abo in the Lehon system",
+    "destroyed": "3956 BBY above Abo in the Lehon system",
+    "discovered": [
+      "3960 BBY by Revan and Malak",
+      "1000 BBY by Darth Bane"
+    ],
+    "owners": [
+      "Infinite Empire",
+      "Sith Empire"
+    ],
+    "locations": "Lehon system",
+    "protection": [
+      "Ability to quickly produce new spacecraft for defense",
+      "Shield",
+      "Turbolasers"
+    ],
+    "capacity": "High, production limits not documented",
+    "purpose": "Starship factory",
+    "heritage": "Rakata",
+    "affiliation": [
+      "Rakata",
+      "  Infinite Empire",
+      "Sith Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

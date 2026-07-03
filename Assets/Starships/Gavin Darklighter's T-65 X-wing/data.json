@@ -1,0 +1,39 @@
+{
+  "name": "Gavin Darklighter's T-65 X-wing",
+  "wookieepedia_title": "Gavin Darklighter's T-65 X-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gavin_Darklighter%27s_T-65_X-wing",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Gavin Darklighter's T-65 X-wing was a starfighter purchased for the human pilot, Gavin Darklighter, after he chose to relinquish his commission to the New Republic Navy when the New Republic refused to liberate the planet Thyferra from Ysanne Isard after she became the \"legitimate\" ruler of the world. Alongside the former members of Rogue Squadron, Gavin was given the chance to customise his own T-65 X-wing so that the newly formed Antilles's Rogues appeared distinct from the New Republic. Gavin chose to paint the hull of his snubfighter with a reddish-orange scale pattern to mimic the visage of the krayt dragons from his homeworld of Tatooine.",
+  "data": {
+    "name": "Gavin Darklighter's T-65 X-wing",
+    "manufacturer": "Incom Corporation",
+    "model": "T-65 X-wing starfighter",
+    "type": "Starfighter",
+    "engine": "4L4 fusial thrust engines (4)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "KX9 laser cannons (4)",
+      "Concussion missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "0",
+    "role": "Attack Fighter",
+    "affiliation": [
+      "Antilles's Rogues",
+      "New Republic",
+      "  Rogue Squadron"
+    ],
+    "navy": "New Republic Space Navy",
+    "owners": "Gavin Darklighter"
+  },
+  "scraped": "2026-07-03"
+}

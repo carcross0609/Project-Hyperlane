@@ -1,0 +1,41 @@
+{
+  "name": "TIE Experimental M2",
+  "wookieepedia_title": "TIE Experimental M2",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_Experimental_M2",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE Experimental M2, also known as the TIE BigGun, was an experimental member of the TIE Series and a part of the TIE Experimental Project.",
+  "data": {
+    "name": "TIE Experimental M2",
+    "designer": "TIE Experimental Project under Director Lenzer",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine Experimental M2 (T/e2)",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "length": "6.3 meters",
+    "max_accel": "18 MGLT/sec",
+    "mglt": "100 MGLT",
+    "max_speed": "1,200 km/h",
+    "maneuverability": "92 DPF",
+    "engine": "Twin ion engines",
+    "hdsystem": "None",
+    "shield_gen": [
+      "None",
+      "Optional (20 SBD)"
+    ],
+    "hull": "Titanium alloy hull (10 RU)",
+    "navigation": "None (slaved to control ship)",
+    "armament": "Turbolaser turrets (2)",
+    "crew": "Remote control system",
+    "passengers": "None",
+    "capacity": "65 kilograms",
+    "consumables": "None",
+    "availability": "Military",
+    "role": "Experimental assault fighter",
+    "firstuse": "3 ABY",
+    "retired": "Apparently 3 ABY",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

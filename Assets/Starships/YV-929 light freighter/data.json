@@ -1,0 +1,44 @@
+{
+  "name": "YV-929 light freighter",
+  "wookieepedia_title": "YV-929 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-929_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YV-929 light freighter was a model of heavily armed and armored transport that was manufactured by the Corellian Engineering Corporation. A light freighter in name only, the YV-929 served as a blockade runner and gunboat in the Rebel Alliance, as well as a military transport for private companies and individuals.",
+  "data": {
+    "name": "YV-929 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV-series",
+    "type": [
+      "Freighter",
+      "Gunboat"
+    ],
+    "cost": "380,000 credits",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 12 (Backup)"
+    ],
+    "sensor": "Medium range sensor",
+    "armament": [
+      "2 triple light blaster cannons",
+      "Twin light ion cannon",
+      "3 Concussion missile launchers"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 co-pilot",
+      "2 gunners"
+    ],
+    "passengers": "6",
+    "consumables": "6 months",
+    "role": [
+      "Blockade running",
+      "Transport"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Lancet Aerial Artillery",
+  "wookieepedia_title": "Lancet Aerial Artillery",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lancet_Aerial_Artillery",
+  "continuity": "Legends",
+  "infobox_template": "RepulsorliftVehicle",
+  "description": "The Lancet Aerial Artillery was an Imperial air vehicle derived from both the TIE Series and the Lambda-class shuttle family.",
+  "data": {
+    "name": "Lancet Aerial Artillery",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Lancet Aerial Artillery",
+    "type": "Repulsorcraft",
+    "cost": "Not available for sale",
+    "speed": "850 km/h",
+    "shield_gen": "None",
+    "armament": [
+      "Proton beam cannon (1)",
+      "Laser cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "None",
+    "capacity": "850 kilograms",
+    "consumables": "2 days",
+    "availability": "Military",
+    "role": "Air-to-ground assault",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

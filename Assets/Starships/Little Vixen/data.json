@@ -1,0 +1,21 @@
+{
+  "name": "Little Vixen",
+  "wookieepedia_title": "Little Vixen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Little_Vixen",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Little Vixen was a reconnassance transport used by the Resistance members Paige and Rose Tico, along with Bravo Rising resistance movement member Reeve Panzoro, during the Atterra campaign. The Vixen was too small to carry any kind of freight, having been a slow, outdated model by the time of the campaign, but was equipped with a small laser cannon that was pilot operated.",
+  "data": {
+    "name": "Little Vixen",
+    "type": "Transport",
+    "sysmods": [
+      "Tracking device",
+      "Power baffler"
+    ],
+    "hyperdrive": "Class 1",
+    "armament": "Small, pilot-operated laser cannon",
+    "affiliation": "Resistance"
+  },
+  "scraped": "2026-07-03"
+}

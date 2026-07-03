@@ -1,0 +1,33 @@
+{
+  "name": "Kit Fisto's Eta-2 Actis-class; light interceptor",
+  "wookieepedia_title": "Kit Fisto's Eta-2 Actis-class light interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kit_Fisto%27s_Eta-2_Actis-class_light_interceptor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Nautolan Jedi Master Kit Fisto owned an Eta-2 Actis-class light interceptor. It was painted in a light green and red color scheme similar to his older Delta-7B interceptor. At one point, he flew the interceptor in an engagement against Vulture droid starfighters.",
+  "data": {
+    "name": "Kit Fisto's Eta-2 Actis-class; light interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series fighter",
+    "model": "Eta-2 Actis-class light interceptor",
+    "type": "Starfighter",
+    "length": "5.47 meters",
+    "max_accel": "5,200G",
+    "mglt": "118 MGLT",
+    "max_speed": "1,500 kph",
+    "engine": "Twin ion engines (2)",
+    "hyperdrive": "Class 1 (hyperspace transport ring required)",
+    "armament": [
+      "Laser cannons (2)",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "othersystems": "S-foils",
+    "owners": "Kit Fisto"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Imperial Customs Corvette",
+  "wookieepedia_title": "Imperial Customs Corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Customs_Corvette",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Rendili StarDrive light corvette, commonly known as the Imperial Customs Corvette, was a light starship commonly used for patrol and inspection actions.",
+  "data": {
+    "name": "Imperial Customs Corvette",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Light Corvette",
+    "type": "Corvette",
+    "cost": [
+      "Not legally available for sale.",
+      "Black market cost varies based on market conditions."
+    ],
+    "length": "180 meters",
+    "max_speed": "1,050 kph",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 8.0 (backup)"
+    ],
+    "shield_gen": "Shield generator equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": "Double turbolaser turrets (6)",
+    "bays": "No onboard craft capacity; multiple external docking systems",
+    "crew": [
+      "Crew (52)",
+      "Gunners (6)"
+    ],
+    "skeleton": "18",
+    "passengers": "20 (stormtroopers)",
+    "capacity": "500 metric tons",
+    "consumables": "2 months (can be extended mid-mission through capture operations)",
+    "availability": [
+      "Legal: military only",
+      "Black market: available from pirates and shadowports"
+    ],
+    "role": [
+      "Picket",
+      "Patrol"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Rodian Home Fleet",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

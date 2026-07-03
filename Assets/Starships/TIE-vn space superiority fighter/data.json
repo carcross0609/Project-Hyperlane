@@ -1,0 +1,56 @@
+{
+  "name": "TIE/vn space superiority fighter",
+  "wookieepedia_title": "TIE/vn space superiority fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/vn_space_superiority_fighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/vn space superiority fighter, formally known as the TIE vendetta space superiority fighter and nicknamed the TIE silencer, was an angular variant of the TIE fighter series starfighters used by the First Order. A product of Sienar-Jaemus Fleet Systems, its aggressive design and equally impressive firepower was specifically crafted for use among the most elite members of the First Order. As such, the fighter was engineered for speed and handling, though lesser pilots were still often overwhelmed and unable to maintain control of the nimble ship.",
+  "data": {
+    "name": "TIE/vn space superiority fighter",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE fighter series",
+    "model": [
+      "TIE/vn prototype",
+      "TIE/vn space superiority fighter"
+    ],
+    "type": "Starfighter",
+    "cost": "310,000 credits",
+    "length": "17.43 meters (57.190 ft)",
+    "width": "7.62 meters (25 ft)",
+    "height": "3.76 meters (12.34 ft)",
+    "max_accel": "4,500 G",
+    "mglt": "155 MGLT",
+    "max_speed": "1,850 kph",
+    "hdsystem": "Equipped",
+    "power": [
+      "Equipped",
+      "Solar collectors"
+    ],
+    "shield_gen": "Deflector shield generator and projector",
+    "hull": "Armored cockpit canopy",
+    "sensor": "2 sensor arrays",
+    "target": "4 targeting sensors",
+    "navigation": "Torplex flight computer",
+    "armament": [
+      "Medium SJFS L-s9.6 laser cannons (4)",
+      "SJFS L-7.5 heavy laser cannons (2)",
+      "Missile and torpedo (2)",
+      "  Arakyd ST7 concussion missiles",
+      "  Mag-pulse warheads",
+      "  First Order proton torpedoes"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "consumables": "5 days",
+    "lifesupport": "Equipped",
+    "othersystems": "Advanced stealth field generator",
+    "role": "Space superiority fighter",
+    "affiliation": [
+      "First Order",
+      "Knights of Ren",
+      "Resistance (stolen)",
+      "  J-Squadron (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

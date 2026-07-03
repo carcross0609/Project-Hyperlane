@@ -1,0 +1,31 @@
+{
+  "name": "Miv'rah Firestorm",
+  "wookieepedia_title": "Miv'rah Firestorm",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Miv%27rah_Firestorm",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Miv'rah Firestorm was a highly modified Nestt-class light freighter owned and operated by the Sullustan smuggler Gaor Tembon.",
+  "data": {
+    "name": "Miv'rah Firestorm",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "Light freighter",
+    "type": "Highly modified Nestt-class light freighter",
+    "length": "29 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Class 9 (backup)"
+    ],
+    "power": "SoroSuub Corporation Nepton power core with Koensayr Manufacturing TLB power converters",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 quad laser cannons",
+    "crew": "1 with optional co-pilot",
+    "passengers": "4",
+    "capacity": "110 metric tons",
+    "consumables": "2 standard weeks",
+    "owners": "Gaor Tembon"
+  },
+  "scraped": "2026-07-03"
+}

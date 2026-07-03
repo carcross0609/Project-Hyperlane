@@ -1,0 +1,26 @@
+{
+  "name": "Eta-5 interceptor",
+  "wookieepedia_title": "Eta-5 interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eta-5_interceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Eta-5 interceptor was a type of interceptor in use by the New Jedi Order and the Galactic Alliance Navy as of 40 ABY. Developed by Kuat Drive Yards, it was a descendant of the Eta-2 interceptor, but it was also regarded as a type of A-wing.",
+  "data": {
+    "name": "Eta-5 interceptor",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "A-wing starfighter",
+    "engine": "Twin ion engines",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Laser cannons (2)",
+      "Concussion missile launchers (dual fire-linked)"
+    ],
+    "crew": "Pilot (1)",
+    "role": "Interceptor",
+    "affiliation": [
+      "Galactic Alliance Defense Fleet",
+      "New Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

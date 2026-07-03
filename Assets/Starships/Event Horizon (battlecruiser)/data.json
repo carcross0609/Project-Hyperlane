@@ -1,0 +1,20 @@
+{
+  "name": "Event Horizon",
+  "wookieepedia_title": "Event Horizon (battlecruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Event_Horizon_%28battlecruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Event Horizon was a battlecruiser which was part of the Imperial-aligned Kuati Sector Forces in 8.5 ABY during the Galactic Civil War, a conflict fought between the Galactic Empire and the Alliance to Restore the Republic and later its successor state, the New Republic. The Event Horizon, along with the rest of the Kuati fleet, guarded the planet Kuat, home to Kuat Drive Yards&mdash;a key shipyard for the Galactic Empire. During the New Republic offensive in 8.5 ABY, a Republic virus in the computer networks of the Event Horizon caused it to close its hangars while turning its guns on the rest of the Kuati fleet.",
+  "data": {
+    "name": "Event Horizon",
+    "type": "Battlecruiser",
+    "length": "~2,000-5,000 meters",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic (controlled by a coded virus)"
+    ],
+    "navy": "Kuati Sector Forces"
+  },
+  "scraped": "2026-07-03"
+}

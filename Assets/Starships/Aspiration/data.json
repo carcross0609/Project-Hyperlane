@@ -1,0 +1,28 @@
+{
+  "name": "Aspiration",
+  "wookieepedia_title": "Aspiration",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aspiration",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Aspiration was an MC75 Star Cruiser in the Rebel Alliance Navy. During its Alliance service, the Aspiration participated in a battle against a Victory-class Star Destroyer.",
+  "data": {
+    "name": "Aspiration",
+    "line": "MC-series star cruiser",
+    "model": "MC75 Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,204.44 meters (3,951 ft 7 in)",
+    "height": "435.56 meters (1,429 ft)",
+    "engine": "4 Gemon-15 sublight ion drives",
+    "sensor": "Equipped",
+    "armament": [
+      "At least 6 laser cannons",
+      "At least 2 proton torpedo launchers"
+    ],
+    "communications": "Equipped",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Rebel Alliance Navy",
+    "fleet": "Mon Calamari Exodus Fleet"
+  },
+  "scraped": "2026-07-03"
+}

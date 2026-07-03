@@ -1,0 +1,27 @@
+{
+  "name": "Resolve",
+  "wookieepedia_title": "Resolve (Epoch-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Resolve_%28Epoch-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Resolve was an Epoch-class freighter manufactured by Shobquix Yards. The Resolve was owned and operated by the Svivreni Mihalik. The vessel was a gift to Mihalik from Caleb Hctaqsas for an undefined favor. The Resolve was fitted with thrust packages from Koensayr Manufacturing and KapriCorp, giving it a better lift to mass ratio.",
+  "data": {
+    "name": "Resolve",
+    "manufacturer": "Shobquix Yards",
+    "model": "Epoch-class freighter",
+    "type": "Freighter",
+    "cost": "Not for sale",
+    "length": "23 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 1(primary)",
+      "Class 7(backup)"
+    ],
+    "armament": "(1) laser cannon",
+    "passengers": "7",
+    "capacity": "200 metric tons",
+    "consumables": "2 months"
+  },
+  "scraped": "2026-07-03"
+}

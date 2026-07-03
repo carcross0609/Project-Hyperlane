@@ -1,0 +1,35 @@
+{
+  "name": "Lambarian Crab",
+  "wookieepedia_title": "Lambarian Crab",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lambarian_Crab",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lambarian Crab was a modified Corellian Engineering Corporation YT-2400 light freighter.",
+  "data": {
+    "name": "Lambarian Crab",
+    "line": "YT-series",
+    "model": "YT-2400 light freighter",
+    "type": "Light freighter",
+    "length": "21 meters",
+    "hyperdrive": "Class 1.0",
+    "armament": [
+      "Double laser cannon (1)",
+      "Ion cannon (1)"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "200 metric tons",
+    "consumables": "2 months",
+    "owners": [
+      "Finious Crab",
+      "Matas Havel"
+    ],
+    "captains": [
+      "Finious Crab",
+      "Matas Havel"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

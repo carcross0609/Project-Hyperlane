@@ -1,0 +1,23 @@
+{
+  "name": "MC75 Ordnance Cruiser",
+  "wookieepedia_title": "MC75 Ordnance Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC75_Ordnance_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The MC75 Ordnance Cruiser, a variant of the MC75 Star Cruiser, was operated by the Rebel Alliance Navy. The Star Cruiser had a bulbous hull with a dorsal mast and a longer ventral mast, and a ventral hangar situated between the bow and the ventral mast. The ship was modified to carry more ordnance than the standard MC75. At one point, an MC75 Ordnance Cruiser in Alliance service was present in a colorful area of space.",
+  "data": {
+    "name": "MC75 Ordnance Cruiser",
+    "line": "MC-series star cruiser",
+    "model": [
+      "MC75 Star Cruiser",
+      "  MC75 Ordnance Cruiser"
+    ],
+    "type": "Star Cruiser",
+    "bays": "1 hangar",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

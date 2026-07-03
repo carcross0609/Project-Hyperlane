@@ -1,0 +1,39 @@
+{
+  "name": "TIE/ca Punisher",
+  "wookieepedia_title": "TIE/ca Punisher/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ca_Punisher/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ca Punisher, also known as the TIE Punisher, TIE Interdictor, TIE/it Interdictor starfighter, or Advanced TIE Bomber, was a heavy bomber in service to the Galactic Empire.",
+  "data": {
+    "name": "TIE/ca Punisher",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/IT Interdictor",
+    "type": "Starfighter",
+    "cost": "253,000 credits",
+    "engine": "SFS twin ion engines",
+    "hyperdrive": "None",
+    "shield_gen": "Equipped",
+    "sensor": "Enhanced scopes",
+    "navigation": "None",
+    "armament": [
+      "Linked Light laser cannons",
+      "Twin linked ordnance launchers",
+      "  12 concussion missiles or 12 proton torpedoes",
+      "  Plasma torpedoes (optional)",
+      "  Flechette torpedoes (optional)",
+      "  Advanced homing missiles (optional)",
+      "Twin linked proton bomb bay",
+      "  16 proton bomb",
+      "  Cluster mines (optional)",
+      "  Ion bombs (optional)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "consumables": "2 days",
+    "role": "Heavy space/planetary bomber",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

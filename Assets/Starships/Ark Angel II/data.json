@@ -1,0 +1,49 @@
+{
+  "name": "Ark Angel II",
+  "wookieepedia_title": "Ark Angel II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ark_Angel_II",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ark Angel II, formerly known as the Ark Angel, was a modified Bellicose-class heavy lifter owned by the rogue archaeologist Doctor Chelli Lona Aphra. It was repaired and enhanced by Aphra with exotic starship components manufactured by the Hapes Consortium, and other components from Kuat Systems Engineering and MandalMotors. During the Battle of Vrogas Vas, the Ark Angel was destroyed. Sometime after the battle, the ship had to be so extensively rebuilt that Aphra decided to rename the ship to the Ark Angel II. It was used by Aphra to transport her crew and Luke Skywalker to the Citadel of Ktath'atn.",
+  "data": {
+    "name": "Ark Angel II",
+    "manufacturer": [
+      "Kalevala Spaceworks (Designer)",
+      "Hoersch-Kessel Drive Inc. (Manufacturer)"
+    ],
+    "model": "Modified Bellicose-class heavy lifter",
+    "type": "Heavy duty lifter",
+    "cost": "525,000 credits",
+    "modifier": "Chelli Lona Aphra",
+    "sysmods": "Mandalorian Crusader&mdash;era laser turrets",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 12 (Backup)"
+    ],
+    "sensor": "Long range sensor",
+    "armament": [
+      "Twin heavy laser cannons (4)",
+      "Twin Concussion missile launchers"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 co-pilot",
+      "1 engineer",
+      "4 gunners"
+    ],
+    "passengers": "5",
+    "consumables": "3 months",
+    "othersystems": [
+      "Hapes Consortium exotic starship components",
+      "Kuat Systems Engineering components",
+      "MandalMotors components"
+    ],
+    "destroyed": "0 ABY, Vrogas Vas (rebuilt)\nBy 3 ABY",
+    "affiliation": [
+      "Chelli Lona Aphra's crew"
+    ],
+    "owners": "Chelli Lona Aphra"
+  },
+  "scraped": "2026-07-03"
+}

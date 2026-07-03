@@ -1,0 +1,21 @@
+{
+  "name": "Sand Bird",
+  "wookieepedia_title": "Sand Bird",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sand_Bird",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sand Bird was a gunship used by the bounty hunter Sevn and her droid partner IV-A4. After the Sand Bird was damaged in an attack by Basham agents, Sevn and IV-A4 traveled to the planet Genya to make repairs, where they were hired by the businessman Jin-Sim Canbelon. During the job, Sevn decided to betray Canbelon due to his use of enslaved individuals, and IV-A4 left with the Sand Bird. However, he later returned in it to help Sevn fight against Canbelon.",
+  "data": {
+    "name": "Sand Bird",
+    "type": "Gunship",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "crew": "2",
+    "owners": [
+      "Sevn",
+      "IV-A4"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

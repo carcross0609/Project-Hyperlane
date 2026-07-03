@@ -1,0 +1,40 @@
+{
+  "name": "720 light freighter",
+  "wookieepedia_title": "720 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/720_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The 720 light freighter, also known as the Ghtroc 720 or Class 720 freighter, was a light freighter manufactured by Ghtroc Industries. Though less popular than the competing YT-series, the Ghtroc 720 developed a following in the Outer Rim Territories, where Ghtroc Industries was located, and thousands of the freighters remained in use even after the manufacturer went out of business.",
+  "data": {
+    "name": "720 light freighter",
+    "manufacturer": "Ghtroc Industries",
+    "model": "Class 720 freighter",
+    "type": "Light freighter",
+    "cost": [
+      "98,500 credits",
+      "23,000 credits (used)"
+    ],
+    "length": "38 meters",
+    "max_speed": "750 kmh",
+    "engine": "GI/80.b Overthruster ion engine (2)",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 15 backup"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Double laser cannon (1)",
+    "crew": "1-2",
+    "passengers": "10",
+    "capacity": "135 metric tons",
+    "consumables": "2 months",
+    "othersystems": "1-2 escape pods",
+    "role": "Transport",
+    "affiliation": [
+      "Civilians",
+      "Smugglers",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

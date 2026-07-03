@@ -1,0 +1,32 @@
+{
+  "name": "Unidentified Flarestar-class attack shuttle",
+  "wookieepedia_title": "Unidentified Flarestar-class attack shuttle (Ohnaka Gang)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Flarestar-class_attack_shuttle_%28Ohnaka_Gang%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "A Flarestar-class attack shuttle was used by Hondo Ohnaka and his gang of pirates.",
+  "data": {
+    "name": "Unidentified Flarestar-class attack shuttle",
+    "manufacturer": "Haor Chall Engineering",
+    "model": "Flarestar-class Weequay ship",
+    "type": "Shuttle",
+    "cost": "250,000 credits (new)\n135,000 credits (used)",
+    "max_speed": "1,175 km/h",
+    "engine": "Two thrusters",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "armament": [
+      "Laser cannons (2)",
+      "Torpedo launchers (2)"
+    ],
+    "crew": "3",
+    "skeleton": "1",
+    "passengers": "10",
+    "capacity": "20 tons",
+    "consumables": "1 month",
+    "role": "Transport",
+    "affiliation": "Ohnaka Gang"
+  },
+  "scraped": "2026-07-03"
+}

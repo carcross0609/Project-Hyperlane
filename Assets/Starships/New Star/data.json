@@ -1,0 +1,35 @@
+{
+  "name": "New Star",
+  "wookieepedia_title": "New Star",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/New_Star",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The New Star was an Imperial EF76 Nebulon-B escort frigate that served as part of the Imperial Navy in 0 ABY. Commanded by Captain Miech Conar, it was assigned to accompany the convoy Shipment 1037 to the Outer Rim Territories that year. While it and the convoy were en route, they were met by the Far Orbit, a seemingly Imperial frigate that had come to help protect the convoy. However, as the Far Orbit was actually an Alliance to Restore the Republic privateer vessel, it led an Alliance strike force to capture the convoy somewhere in the Core Worlds' Ringali Shell. In the resulting battle, the New Star was captured.",
+  "data": {
+    "name": "New Star",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Escort frigate",
+    "length": "300 meters",
+    "shield_gen": "Enabled",
+    "armament": [
+      "12 turbolaser batteries",
+      "12 laser cannons",
+      "2 tractor beams"
+    ],
+    "complement": [
+      "12 TIE/LN starfighters",
+      "Full complement of shuttles"
+    ],
+    "escapepods": "Fully stocked",
+    "passengers": [
+      "A platoon of stormtroopers",
+      "A platoon of Imperial Navy troopers"
+    ],
+    "role": "Escort frigate",
+    "affiliation": "Galactic Empire",
+    "captains": "Captain Miech Conar"
+  },
+  "scraped": "2026-07-03"
+}

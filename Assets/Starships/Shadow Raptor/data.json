@@ -1,0 +1,43 @@
+{
+  "name": "Shadow Raptor",
+  "wookieepedia_title": "Shadow Raptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shadow_Raptor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Shadow Raptor, originally known as the Eccentric Lad, was an EF76 Nebulon-B escort frigate and the flagship of Alliance Intelligence operations in the Borderland Regions. General Airen Cracken and his crew liberated the vessel from the Galactic Empire at Contruum. Shortly after the Battle of Yavin, it was the site of a revolt by sabotaged droids.",
+  "data": {
+    "name": "Shadow Raptor",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Frigate",
+    "hyperdrive": "Class 2, Class 12 backup",
+    "armament": [
+      "12 turbolasers",
+      "12 light laser cannons",
+      "3 tractor beams"
+    ],
+    "complement": [
+      "Six Kappa-class shuttles",
+      "Captain's Pinnace",
+      "Utility shuttle",
+      "ISP-6 Imperial Shuttle Pods",
+      "24 Starfighters"
+    ],
+    "escapepods": "Equipped",
+    "crew": "685",
+    "passengers": [
+      "Alliance Intelligence operatives and analysts"
+    ],
+    "role": [
+      "Frigate",
+      "Flagship"
+    ],
+    "affiliation": [
+      "Galactic Empire (Formerly)",
+      "Alliance Intelligence"
+    ],
+    "captains": "Hylo Sortuli"
+  },
+  "scraped": "2026-07-03"
+}

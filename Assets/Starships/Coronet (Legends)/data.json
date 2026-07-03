@@ -1,0 +1,33 @@
+{
+  "name": "Coronet",
+  "wookieepedia_title": "Coronet/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Coronet/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Coronet was a luxurious spaceliner constructed by Kalevala Spaceworks as a testament to Mandalorian engineering. Used as the personal starship of Duchess Satine of the New Mandalorians, the Coronet was the only ship of its kind, designed and furnished with the finest materials Mandalorian space had to offer. Over two hundred meters in height, the Coronet was divided between stately cabins and elegant halls at its top, and utilitarian crew quarters and cargo holds in its long ventral spine. Despite the New Mandalorians' dedication to peace, the Coronet was equipped with both laser and ion cannons for defense.",
+  "data": {
+    "name": "Coronet",
+    "manufacturer": "Kalevala Spaceworks",
+    "model": "Custom luxury spaceliner",
+    "type": "Transport",
+    "height": "215.77 meters",
+    "engine": "8",
+    "hyperdrive": "Equipped",
+    "sensor": "Ventral and aft sensor suites",
+    "armament": [
+      "Laser cannons",
+      "Ion cannons"
+    ],
+    "escapepods": "Equipped",
+    "crew": "75",
+    "cargohandling": "Lower decks used for cargo transportation",
+    "lifesupport": "Equipped",
+    "communications": "Bridge holoprojector",
+    "role": "Personal yacht",
+    "affiliation": "New Mandalorians",
+    "owners": "Duchess Satine Kryze",
+    "captains": "Gray"
+  },
+  "scraped": "2026-07-03"
+}

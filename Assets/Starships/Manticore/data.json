@@ -1,0 +1,24 @@
+{
+  "name": "Manticore",
+  "wookieepedia_title": "Manticore",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Manticore",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Manticore was one of four Imperial I-class Star Destroyer stationed at the Maw Installation under the command of Captain Brusc as part of Admiral Daala's squadron.",
+  "data": {
+    "name": "Manticore",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "complement": "TIE/LN starfighters",
+    "destroyed": "11 ABY, Mon Calamari",
+    "affiliation": [
+      "Galactic Empire",
+      "  Admiral Daala's squadron"
+    ],
+    "captains": "Brusc"
+  },
+  "scraped": "2026-07-03"
+}

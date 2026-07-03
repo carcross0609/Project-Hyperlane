@@ -1,0 +1,37 @@
+{
+  "name": "Multi-environment Space Boat",
+  "wookieepedia_title": "Multi-environment Space Boat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Multi-environment_Space_Boat",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Multi-environment Space Boat was a space transport also capable of traveling in atmosphere and underwater. The Explorer was a modified Multi-environment Space Boat.",
+  "data": {
+    "name": "Multi-environment Space Boat",
+    "type": "Multi-environment vehicle",
+    "engine": [
+      "Repulsorlift",
+      "Sublight drive"
+    ],
+    "hyperdrive": "Class 0.5",
+    "shield_gen": "Equipped",
+    "sensor": [
+      "Energy-wave detector",
+      "Radar",
+      "Sonar"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "2 double laser cannons",
+      "Tractor beam projector"
+    ],
+    "complement": [
+      "2 speeder-rafts",
+      "6 glider-sails"
+    ],
+    "crew": "6",
+    "passengers": "6",
+    "capacity": "150 metric tons",
+    "consumables": "4 months"
+  },
+  "scraped": "2026-07-03"
+}

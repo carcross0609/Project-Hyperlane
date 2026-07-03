@@ -1,0 +1,29 @@
+{
+  "name": "Fatman",
+  "wookieepedia_title": "Fatman",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fatman",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Fatman was a heavily modified starship owned and piloted by Zeerid Korr. It was most commonly used for smuggling or delivering illegal goods but was destroyed during atmospheric entry over Coruscant in 3653 BBY while delivering Engspice.",
+  "data": {
+    "name": "Fatman",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified XS stock light freighter",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Plasma cannons",
+    "escapepods": "1 escape pod",
+    "skeleton": "1",
+    "role": [
+      "Freighter",
+      "Smuggling ship"
+    ],
+    "destroyed": "3653 BBY, Coruscant",
+    "affiliation": "Exchange",
+    "owners": "Zeerid Korr",
+    "captains": "Zeerid Korr",
+    "aliases": "Red Dwarf"
+  },
+  "scraped": "2026-07-03"
+}

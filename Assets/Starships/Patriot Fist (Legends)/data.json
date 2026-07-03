@@ -1,0 +1,48 @@
+{
+  "name": "Patriot Fist",
+  "wookieepedia_title": "Patriot Fist/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Patriot_Fist/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Patriot Fist was a Recusant-class light destroyer produced by the Commerce Guild for the Confederate Navy.",
+  "data": {
+    "name": "Patriot Fist",
+    "manufacturer": [
+      "Hoersch-Kessel Drive, Inc.",
+      "Free Dac Volunteers Engineering Corps"
+    ],
+    "model": "Recusant-class light destroyer",
+    "type": "Cruiser",
+    "length": "1,187 meters",
+    "width": "157 meters",
+    "height": "163 meters",
+    "max_accel": "2,800 G (linear in space)",
+    "hyperdrive": "Class 2 (backup Class 12)",
+    "poweroutput": "7.7 × 1023 W",
+    "power": "Main reactor (8,600 tons of fuel annihilated per second)",
+    "sensor": "Electromagnetic sensor antennae",
+    "armament": [
+      "One prow heavy turbolaser",
+      "Four heavy turbolaser cannons",
+      "Six heavy turbolaser turrets",
+      "Five turbolaser cannons",
+      "Thirty dual laser cannons",
+      "Twelve dual light laser cannons",
+      "Sixty point-defense laser cannons"
+    ],
+    "crew": "300",
+    "passengers": "40,000 deactivated battle droids",
+    "othersystems": [
+      "Internal transit shafts",
+      "Ionization chambers",
+      "Neutrino radiator"
+    ],
+    "role": "Light destroyer",
+    "affiliation": [
+      "Commerce Guild",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

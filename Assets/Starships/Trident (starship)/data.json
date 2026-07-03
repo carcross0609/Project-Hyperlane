@@ -1,0 +1,20 @@
+{
+  "name": "Trident",
+  "wookieepedia_title": "Trident (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trident_%28starship%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Trident was the personal Trident-class assault ship of Asajj Ventress during the Clone Wars.",
+  "data": {
+    "name": "Trident",
+    "model": "Trident-class assault ship",
+    "type": "Transport",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (at least two)",
+    "role": "Personal transport",
+    "affiliation": "Confederacy of Independent Systems",
+    "owners": "Asajj Ventress"
+  },
+  "scraped": "2026-07-03"
+}

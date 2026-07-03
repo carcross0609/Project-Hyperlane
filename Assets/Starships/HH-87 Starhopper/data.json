@@ -1,0 +1,34 @@
+{
+  "name": "HH-87 Starhopper",
+  "wookieepedia_title": "HH-87 Starhopper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HH-87_Starhopper",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The HH-87 Starhopper, also known as the Hutt fighter due to its service in the Hutt Clan, or simply the starhopper, was a versatile, long range single-person starfighter that had a long service history, being used by the Hutt Clans from at least the High Republic Era through the Clone Wars. These starhoppers were also in service with the Zygerrian Slave Empire, which deployed them for dogfighting at the Battle of Kadavo.",
+  "data": {
+    "name": "HH-87 Starhopper",
+    "manufacturer": "MandalMotors",
+    "model": "HH-87 Starhopper",
+    "type": "Starfighter",
+    "cost": "50,000 credits",
+    "length": "6.8 meters",
+    "width": "13.59 meter wingspan",
+    "height": "4.56 meters",
+    "hdsystem": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Double laser cannons (2)",
+    "crew": "Pilot (1)",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "affiliation": [
+      "Hutt Clan",
+      "Zygerrian Slave Empire",
+      "Ohnaka Gang",
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "The Twins",
+      "Droid Gotra"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

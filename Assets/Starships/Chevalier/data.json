@@ -1,0 +1,30 @@
+{
+  "name": "Chevalier",
+  "wookieepedia_title": "Chevalier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chevalier",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Chevalier was a New Republic shuttle under the command of Captain Krull. After a standoff near Substation Grimdock, the Chevalier was sent by Krull to inspect and board the Vermillion. Following a confrontation aboard the Vermillion, Captain Krull by orders of Senator Leia Organa, lent the shuttle to Taka Jamoreesa, Han Solo, and Lando Calrissian, so they could continue their mission to find the gangster Fyzen Gor.",
+  "data": {
+    "name": "Chevalier",
+    "type": "Shuttle",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "Proton torpedoes"
+    ],
+    "complement": "KX security droids (At least 6)",
+    "crew": "At least 1",
+    "passengers": "At least 5",
+    "communications": "Holoprojector",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "captains": [
+      "Krull"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

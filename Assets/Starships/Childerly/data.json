@@ -1,0 +1,22 @@
+{
+  "name": "Childerly",
+  "wookieepedia_title": "Childerly",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Childerly",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Childerly was one of two EF76 Nebulon-B escort frigates, along with the Markess Narn, that protected Vergesso Base, one of the largest shadowports in the galaxy.",
+  "data": {
+    "name": "Childerly",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Escort frigate",
+    "shield_gen": "Equipped",
+    "armament": [
+      "12 turbolaser batteries",
+      "12 laser cannons",
+      "2 tractor beam projectors"
+    ],
+    "affiliation": "Vergesso Base"
+  },
+  "scraped": "2026-07-03"
+}

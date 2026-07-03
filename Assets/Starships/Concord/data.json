@@ -1,0 +1,25 @@
+{
+  "name": "Concord",
+  "wookieepedia_title": "Concord",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Concord",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Concord was a Starhawk-class Battleship Mark I that served in the New Republic Defense Fleet during the Galactic Civil War in 5 ABY. It was commanded by Commodore Kyrsta Agate. The ship saw service in a skirmish in Wild Space, the Battle for Kuat Drive Yards, and was incredibly important to New Republic's efforts in the Battle of Jakku.",
+  "data": {
+    "name": "Concord",
+    "manufacturer": "Nadiri Dockyards",
+    "line": "Starhawk-class battleship",
+    "model": "Starhawk-class Battleship Mark I",
+    "type": "Battleship",
+    "escapepods": "Equipped",
+    "destroyed": "5 ABY, Jakku",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Force"
+    ],
+    "navy": "New Republic Defense Fleet",
+    "captains": "Kyrsta Agate"
+  },
+  "scraped": "2026-07-03"
+}

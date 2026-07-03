@@ -1,0 +1,31 @@
+{
+  "name": "Third Horizon",
+  "wookieepedia_title": "Third Horizon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Third_Horizon",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Third Horizon was an Emissary-class Republic Cruiser of the Galactic Republic.",
+  "data": {
+    "name": "Third Horizon",
+    "model": "Emissary-class Republic Cruiser",
+    "type": "Heavy cruiser",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "Laser batteries",
+      "External missile batteries"
+    ],
+    "complement": [
+      "Jedi Vectors",
+      "Longbeam cruisers (28)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ],
+    "captains": "Pevel Kronara"
+  },
+  "scraped": "2026-07-03"
+}

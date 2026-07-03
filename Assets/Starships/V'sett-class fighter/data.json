@@ -1,0 +1,24 @@
+{
+  "name": "V'sett-class fighter",
+  "wookieepedia_title": "V'sett-class fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V%27sett-class_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The V'sett-class fighter was a heavy starfighter used by the Ssi-ruuvi Imperium in the late New Jedi Order era.",
+  "data": {
+    "name": "V'sett-class fighter",
+    "manufacturer": "Ssi-ruuvi Imperium",
+    "model": "V'sett-class fighter",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "Tractor beam emitter"
+    ],
+    "crew": "Pilot (1)",
+    "role": "Starfighter",
+    "affiliation": "Ssi-ruuvi Imperium"
+  },
+  "scraped": "2026-07-03"
+}

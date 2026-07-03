@@ -1,0 +1,36 @@
+{
+  "name": "Darkflare",
+  "wookieepedia_title": "Darkflare",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darkflare",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Darkflare was a state-of-the-art S-46I Medium Scout Ship that was manufactured by Sienar Fleet Systems for the Galactic Empire. During the Galactic Civil War, Rebel Alliance Intelligence forces launched Operation Night Fire to capture the Darkflare while it was under construction at a Seinar Fleet Systems orbital shipyard. It was commanded by Imperial Security Bureau Commander Trey Trellen.",
+  "data": {
+    "name": "Darkflare",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "S-46I Medium Scout Ship",
+    "type": "Scout ship",
+    "cost": "524,000 credits",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 14 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turret-mounted twin light laser cannon (2)",
+      "Forward-mounted twin medium laser cannon (1)"
+    ],
+    "complement": "10 probe droids",
+    "crew": "34 (Including 1 pilot, 1 co-pilot/engineer, 2 gunners)",
+    "passengers": "10",
+    "consumables": "6 months",
+    "role": "Espionage",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Security Bureau"
+    ],
+    "owners": "Trey Trellen"
+  },
+  "scraped": "2026-07-03"
+}

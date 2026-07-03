@@ -1,0 +1,36 @@
+{
+  "name": "Kaloth-style battlecruiser",
+  "wookieepedia_title": "Kaloth-style battlecruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kaloth-style_battlecruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kaloth-style battlecruiser was a warship manufactured by Kaloth.",
+  "data": {
+    "name": "Kaloth-style battlecruiser",
+    "manufacturer": "Kaloth",
+    "model": "Kaloth-style battlecruiser",
+    "type": "Frigate",
+    "cost": "Not available for sale",
+    "length": "307 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": "Class 2 (backup class 18)",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Turbolaser batteries (4)",
+      "Point-defense medium laser cannons (4)",
+      "Tractor beam projectors (2)"
+    ],
+    "complement": "Ugly starfighters (12)",
+    "crew": "1,464",
+    "passengers": "75 (troops)",
+    "capacity": "6,540 tons",
+    "consumables": "6 months",
+    "availability": "Illegal",
+    "role": "Frigate",
+    "affiliation": [
+      "Stark Commercial Combine",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Dawnbringer",
+  "wookieepedia_title": "Dawnbringer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dawnbringer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dawnbringer was a Defender-class cruiser that was the sister starship of the Vesper, both serving in the New Republic Defense Fleet. The Dawnbringer was built at the start of the New Republic in 5 ABY. By around 9 ABY, the Dawnbringer was under the command of Captain Girard, and was tasked by Fleet Command to end General Hera Syndulla's unauthorized mission on Seatos in the Denab system. To complete this task, the Dawnbringer was accompanied by two other cruisers.",
+  "data": {
+    "name": "Dawnbringer",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "Defender-class",
+    "type": "Cruiser",
+    "length": "995.7 meters",
+    "width": "217 meters",
+    "engine": [
+      "Central sublight engines (3)",
+      "Secondary engines (8)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Equipped",
+    "armament": "Tractor beam projector (1)",
+    "bays": "Hangars (4)",
+    "crew": "New Republic officers",
+    "communications": "Equipped",
+    "role": "Cruiser",
+    "commission": "5 ABY",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "captains": "Girard"
+  },
+  "scraped": "2026-07-03"
+}

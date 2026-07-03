@@ -1,0 +1,55 @@
+{
+  "name": "Missile Boat",
+  "wookieepedia_title": "Missile Boat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Missile_Boat",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Missile Boat was an advanced Imperial starfighter designed by Admiral Thrawn and built by Cygnus Spaceworks. Designed as a countermeasure against the rogue Grand Admiral Demetrius Zaarin and his supply of TIE Defenders, the Missile Boat was a descendant of the Alpha-class Xg-1 Star Wing, also manufactured by Cygnus Spaceworks. The Missile Boat relied primarily on warheads for dogfighting and assaults, a notable difference from other Imperial starfighters, which relied more heavily on laser cannons. The Missile Boat also included an innovative propulsion feature known as the SubLight Acceleration Motor (SLAM).",
+  "data": {
+    "name": "Missile Boat",
+    "designer": "Admiral Thrawn",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Missile Boat",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "length": "10 meters",
+    "max_accel": "21 MGLT/s",
+    "mglt": [
+      "122 MGLT with all recharges set to maintenance level",
+      "426 MGLT with all recharges fully redirected to engines and SLAM overdrive active"
+    ],
+    "max_speed": "1,150 km/h",
+    "maneuverability": "91 DPF",
+    "hyperdrive": "Class 6.0",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 120 SBD",
+    "hull": "Rated 19 RU",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Medium laser cannon (1)",
+      "Advanced concussion missile launchers (2)",
+      "  Standard load: 20 advanced concussion missiles each",
+      "General purpose warhead launchers (2)",
+      "  20 advanced concussion missiles each; or",
+      "  15 advanced proton torpedoes each; or",
+      "  10 heavy rockets each; or",
+      "  5 heavy space bombs each",
+      "Optional beam weapon mounting (1)",
+      "  Tractor beam; or",
+      "  Jamming beam"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "100 kilograms",
+    "consumables": "3 days",
+    "availability": "Military",
+    "role": [
+      "Space superiority fighter",
+      "Long-range assault fighter/bomber",
+      "Scout vessel",
+      "Interceptor"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

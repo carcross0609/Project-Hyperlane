@@ -1,0 +1,21 @@
+{
+  "name": "Obedience",
+  "wookieepedia_title": "Obedience",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Obedience",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Obedience, formerly known as the Defiance, was a cruiser in the service of the Galactic Empire. The cruiser had served as a training vessel for many years under the command of Commandant Pell Baylo until he attempted to destroy the vessel and assassinate Galactic Emperor Sheev Palpatine and Darth Vader.",
+  "data": {
+    "name": "Obedience",
+    "type": "Cruiser",
+    "skeleton": "20",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ],
+    "navy": "Imperial Navy",
+    "captains": "Pell Baylo"
+  },
+  "scraped": "2026-07-03"
+}

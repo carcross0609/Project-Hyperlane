@@ -1,0 +1,30 @@
+{
+  "name": "Polan GX-8",
+  "wookieepedia_title": "Polan GX-8",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Polan_GX-8",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Polan GX-8, or Polan-GX-Eight, was the designation of a Polan-717 Jedi transport utilized by the Jedi Order during the High Republic Era. It was used by Jedi Masters Indara, Sol, and Kelnacca, as well as the Padawan Torbin, during their mission to the planet Brendok. The coven of witches on the world, led by Mother Aniseya, monitored its location. Later, Aniseya's daughters, Mae-ho and Verosha Aniseya, were tested for potential Jedi training suitability while on the starship by Indara and Sol, who were using a Jedi testing screen. Later, Jedi Master Sol and a team of Jedi utilized the starship while hunting for Mae-ho.",
+  "data": {
+    "name": "Polan GX-8",
+    "manufacturer": "Lantillian Shipwrights",
+    "model": "Polan-717 Jedi transport",
+    "type": "Shuttle",
+    "length": "78.56 meters (257 ft 8 in)",
+    "width": "58.14 meters (190 ft 9 in)",
+    "height": "20.45 meters (67 ft 1 in)",
+    "mglt": "90 MGLT",
+    "max_speed": "1,050 kph (652 mph)",
+    "engine": "Equipped",
+    "hyperdrive": "External hyperdrive",
+    "armament": [
+      "2 forward laser cannons",
+      "2 light blaster cannons",
+      "1 ordnance launcher"
+    ],
+    "affiliation": "Jedi Order",
+    "captains": "Sol"
+  },
+  "scraped": "2026-07-03"
+}

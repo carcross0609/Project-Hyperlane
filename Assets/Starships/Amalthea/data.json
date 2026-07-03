@@ -1,0 +1,38 @@
+{
+  "name": "Amalthea",
+  "wookieepedia_title": "Amalthea",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amalthea",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Amalthea was an MC80 Star Cruiser of the New Republic Navy that was active during the Galactic Civil War. Its most notable participation was during the battle for the Kuat Drive Yards where it acted as the carrier for Blade Squadron.",
+  "data": {
+    "name": "Amalthea",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "MC80 Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,200 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kph",
+    "shield_gen": "Deflector shield generators",
+    "armament": [
+      "Turbolaser batteries (48)",
+      "Ion cannon batteries (20)",
+      "Tractor beam projectors (6)"
+    ],
+    "complement": "10 squadrons of starfighters",
+    "crew": "Over 5,000",
+    "role": "Carrier",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military",
+      "New Republic",
+      "  New Republic Defense Force"
+    ],
+    "navy": [
+      "Rebel Alliance Navy",
+      "New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

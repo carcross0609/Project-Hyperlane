@@ -1,0 +1,34 @@
+{
+  "name": "Blue Queen",
+  "wookieepedia_title": "Blue Queen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blue_Queen",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blue Queen was a Corsair-class cruiser that was used by the pirate group Dharus' Buccaneers during the time of the Galactic Civil War.",
+  "data": {
+    "name": "Blue Queen",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Corsair-class cruiser",
+    "type": "Starfighter",
+    "cost": "275,000 Galactic Credit Standard",
+    "length": "18 meters",
+    "hyperdrive": "Equipped",
+    "navigation": "Limited to 3 jumps",
+    "armament": [
+      "2 turbolaser batteries",
+      ":Fire Arc: Front",
+      ":Space Range: 50 km",
+      "2 ion cannons",
+      ":Fire Arc: Turret",
+      ":Space Range: 30 km"
+    ],
+    "crew": "2",
+    "passengers": "0",
+    "capacity": "15 kilograms",
+    "consumables": "2 days",
+    "role": "Heavy assault starfighter",
+    "affiliation": "Dharus' Buccaneers"
+  },
+  "scraped": "2026-07-03"
+}

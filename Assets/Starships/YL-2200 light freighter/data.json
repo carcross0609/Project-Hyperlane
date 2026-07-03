@@ -1,0 +1,32 @@
+{
+  "name": "YL-2200 light freighter",
+  "wookieepedia_title": "YL-2200 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YL-2200_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YL-2200 light freighter was a light freighter sold around the time of the Battle of Hoth. It is known that the Rebellion made use of this craft.",
+  "data": {
+    "name": "YL-2200 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Light freighter",
+    "cost": [
+      "100,000 credits (new)",
+      "25,000 credits (used)"
+    ],
+    "length": "28.2 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "1 pilot; 1 gunner",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "role": "Freighter"
+  },
+  "scraped": "2026-07-03"
+}

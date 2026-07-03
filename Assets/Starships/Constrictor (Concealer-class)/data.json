@@ -1,0 +1,33 @@
+{
+  "name": "Constrictor",
+  "wookieepedia_title": "Constrictor (Concealer-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Constrictor_%28Concealer-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Constrictor was a Concealer-class Prison Ship. It was charged with the transport of Alliance prisoners of war.",
+  "data": {
+    "name": "Constrictor",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Concealer-class Prison Ship",
+    "length": "50 meters",
+    "max_speed": "750 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "6 laser turrets"
+    ],
+    "crew": "3; 4 gunners",
+    "passengers": "15 (guards), 60 (prisoners)",
+    "capacity": "25 metric tons",
+    "consumables": "2 month",
+    "role": "Prison transport",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

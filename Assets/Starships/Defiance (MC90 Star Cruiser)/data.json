@@ -1,0 +1,27 @@
+{
+  "name": "Defiance",
+  "wookieepedia_title": "Defiance (MC90 Star Cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defiance_%28MC90_Star_Cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Defiance was a Mon Calamari Star Cruiser that served with the New Republic Defense Fleet during Operation Shadow Hand. It was the first warship of the new MC90 Star Cruiser class of vessel.",
+  "data": {
+    "name": "Defiance",
+    "line": "Mon Calamari Star Cruisers",
+    "type": "MC90 Star Cruiser",
+    "length": "1,255 Meters",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 8.0"
+    ],
+    "role": [
+      "Cruiser",
+      "Flagship"
+    ],
+    "commission": "9 ABY",
+    "affiliation": "New Republic",
+    "captains": "Admiral Ackbar"
+  },
+  "scraped": "2026-07-03"
+}

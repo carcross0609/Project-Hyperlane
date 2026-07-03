@@ -1,0 +1,31 @@
+{
+  "name": "Gamma-class Light Personnel Carrier",
+  "wookieepedia_title": "Gamma-class Light Personnel Carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gamma-class_Light_Personnel_Carrier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Gamma-class Light Personnel Carrier was an Imperial shuttle used to supply planetary forces. It was also known as the Telgorn II lpc Gamma-class personnel shuttle, while Rebel ground forces referred to them as Gift boxes.",
+  "data": {
+    "name": "Gamma-class Light Personnel Carrier",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Gamma-class Light Personnel Carrier",
+    "type": "Transport and supply shuttle",
+    "length": "30 meters",
+    "mglt": "80 MGLT",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 18 (backup)"
+    ],
+    "navigation": "Equipped, three jump limit",
+    "armament": "Laser cannons (4)",
+    "crew": "2, gunners: 3, 4",
+    "skeleton": "1",
+    "passengers": "40",
+    "capacity": "1 metric ton",
+    "consumables": "3 days",
+    "role": "Transport",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

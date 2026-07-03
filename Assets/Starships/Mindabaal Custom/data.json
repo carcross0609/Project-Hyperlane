@@ -1,0 +1,25 @@
+{
+  "name": "Mindabaal Custom",
+  "wookieepedia_title": "Mindabaal Custom",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mindabaal_Custom",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mindabaal Custom was a type of personal yacht. Designed to meet the needs of individual customers, Mindabaal Customs had a reputation for flexibility. In their stock configuration, they were not equipped with weapons; however, some customers would order armament installed, such as James Ortell Donovan did with the Royal Flower.",
+  "data": {
+    "name": "Mindabaal Custom",
+    "type": "Yacht",
+    "cost": [
+      "400,000 credits (new)",
+      "250,000 credits (used)"
+    ],
+    "length": "30.1 meters",
+    "max_speed": "1050 km/h",
+    "hyperdrive": "Class 1.0 (stock)",
+    "armament": "None (stock)",
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "50 metric tons",
+    "consumables": "5 weeks"
+  },
+  "scraped": "2026-07-03"
+}

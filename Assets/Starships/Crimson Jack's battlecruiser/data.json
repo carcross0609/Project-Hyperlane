@@ -1,0 +1,34 @@
+{
+  "name": "Crimson Jack's battlecruiser",
+  "wookieepedia_title": "Crimson Jack's battlecruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crimson_Jack%27s_battlecruiser",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This former Imperial battlecruiser was in operation as a pirate vessel during the early years of the Galactic Civil War.",
+  "data": {
+    "name": "Crimson Jack's battlecruiser",
+    "model": "Star Destroyer",
+    "modifier": "Crimson Jack",
+    "engine": [
+      "Primary (4)",
+      "Auxiliary (at least 1)"
+    ],
+    "complement": [
+      "Imperial: TIE/LN starfighters",
+      "Pirate: Pirate starfighters"
+    ],
+    "role": [
+      "Command ship",
+      "Battlecruiser"
+    ],
+    "destroyed": "0 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Crimson Jack"
+    ],
+    "owners": "Crimson Jack",
+    "captains": "Crimson Jack"
+  },
+  "scraped": "2026-07-03"
+}

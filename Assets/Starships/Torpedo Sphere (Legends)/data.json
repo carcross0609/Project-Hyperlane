@@ -1,0 +1,47 @@
+{
+  "name": "Torpedo Sphere",
+  "wookieepedia_title": "Torpedo Sphere/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Torpedo_Sphere/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Torpedo Sphere was a massive mobile battle station manufactured by Loronar Defense Industries, a subsidiary of Loronar Corporation.",
+  "data": {
+    "name": "Torpedo Sphere",
+    "manufacturer": "Loronar Defense Industries",
+    "type": "Dedicated siege platform",
+    "cost": "Not available for sale; 327,830,000 credits (construction cost)",
+    "length": "1,900 meters",
+    "max_speed": "930 kmh",
+    "engine": "Equipped",
+    "hyperdrive": [
+      "Class 3",
+      "Class 18 (back-up)"
+    ],
+    "shield_gen": "Loronar Corporation DS-13 projectors",
+    "sensor": "Dedicated energy receptors",
+    "navigation": "Sienar Fleet Systems navigation computer",
+    "armament": [
+      "10 turbolaser batteries",
+      "500 proton torpedo tubes",
+      "Two-wave gravshock (custom ordnance)"
+    ],
+    "complement": [
+      "Lambda-class T-4a shuttles",
+      "MT/191 drop-ships"
+    ],
+    "crew": "61,245; 2,030 gunners",
+    "skeleton": "20,415",
+    "passengers": "8,540 (troops)",
+    "capacity": "3.8 million metric tons",
+    "consumables": "4 years",
+    "role": "Planetary bombardment",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Thrawn's Confederation",
+      "  Thrawn's Fleet",
+      "Dark Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

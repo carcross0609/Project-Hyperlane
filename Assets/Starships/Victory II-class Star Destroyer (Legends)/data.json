@@ -1,0 +1,58 @@
+{
+  "name": "Victory II-class Star Destroyer",
+  "wookieepedia_title": "Victory II-class Star Destroyer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Victory_II-class_Star_Destroyer/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Victory II-class Star Destroyer, also known as the Victory II-class Destroyer, or Victory Cruiser, was an improved version of the Victory I-class Star Destroyer. The Victory II-class was a more direct predecessor to the Imperial-class Star Destroyer.",
+  "data": {
+    "name": "Victory II-class Star Destroyer",
+    "manufacturer": [
+      "Rendili StarDrive",
+      "Kuat Drive Yards"
+    ],
+    "line": "Star Destroyers",
+    "model": "Victory II-class Star Destroyer",
+    "type": "Star Destroyer",
+    "cost": "50,000,000 credits",
+    "length": "900 meters",
+    "engine": "Hoersch-Kessel Drive",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Rated 2880 SBD",
+    "hull": "Rated 1360 RU",
+    "armament": [
+      "Turbolaser batteries (20)",
+      "Double heavy turbolaser Batteries (20)",
+      "Heavy Ion cannons (10)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": [
+      "TIE fighters (24)",
+      "Lambda-class shuttles (5)",
+      "AT-AT walkers (10)",
+      "AT-ST walkers (15)",
+      "Juggernauts (10)",
+      "Various support vehicles"
+    ],
+    "crew": [
+      "Crew (5,881)",
+      "Gunners (226)"
+    ],
+    "passengers": "1,600 troops",
+    "capacity": "8,100 metric tons",
+    "consumables": "4 years",
+    "role": "Star Destroyer",
+    "firstuse": "Some time around 19 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Rebel Alliance",
+      "Imperial Remnant",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

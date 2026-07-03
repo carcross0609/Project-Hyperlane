@@ -1,0 +1,34 @@
+{
+  "name": "\"Out System\" Scout Vessel",
+  "wookieepedia_title": "\"Out System\" Scout Vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/%22Out_System%22_Scout_Vessel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The \"Out System\" Scout Vessel was deployed by the Galactic Empire to be used for finding new planets (it was famously used during the search for a suitable planet with which the Empire could replace its operations on Demophon), although it was originally designed by the Loronar Corporation to serve as a scout ship. One \"Out System\" Scout Vessel was captured by the Alliance to Restore the Republic in the Stribos system, by neutralizing it before it could jump to hyperspace.",
+  "data": {
+    "name": "\"Out System\" Scout Vessel",
+    "manufacturer": "Loronar Corporation",
+    "type": "Scout vessel",
+    "length": "63 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Class 8 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": "Laser cannon turret (1)",
+    "crew": [
+      "Crew (5)",
+      "  Crew (4)",
+      "  Gunners (1)"
+    ],
+    "passengers": "4",
+    "capacity": "70 metric tons",
+    "consumables": "8 months",
+    "role": "Light scout ship",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

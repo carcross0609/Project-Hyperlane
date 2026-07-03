@@ -1,0 +1,30 @@
+{
+  "name": "Class-7 Repair Vessel",
+  "wookieepedia_title": "Class-7 Repair Vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Class-7_Repair_Vessel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Class-7 Repair Vessel were used for supplying, repairing and defending mining colonies.",
+  "data": {
+    "name": "Class-7 Repair Vessel",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "KDY Class-7 Repair Vessel",
+    "cost": "4,500,000 credits",
+    "length": "560 meters",
+    "max_speed": "850 kmh (atmosphere)",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": "1 turbolaser battery",
+    "crew": "3, 15 droids, 1 gunner",
+    "passengers": "10",
+    "capacity": "400,000 metric tons",
+    "consumables": "3 months",
+    "role": "Mine repair and supply vessel",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

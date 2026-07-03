@@ -1,0 +1,30 @@
+{
+  "name": "Imperial Assault Shuttle",
+  "wookieepedia_title": "Imperial Assault Shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Assault_Shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperial Assault Shuttle was a starship used primarily by the Galactic Empire, the Rebel Alliance and the Second Imperium. It resembled the Lambda-class shuttle.",
+  "data": {
+    "name": "Imperial Assault Shuttle",
+    "type": "Assault shuttle",
+    "hdsystem": "Equipped",
+    "navigation": "Equipped",
+    "crew": "Pilot (1)",
+    "othersystems": "Hull-cutter",
+    "role": [
+      "Shuttle",
+      "Boarding craft",
+      "Troop transport",
+      "Fighter carrier"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Second Imperium",
+      "Shadow Academy",
+      "New Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

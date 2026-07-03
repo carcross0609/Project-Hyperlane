@@ -1,0 +1,35 @@
+{
+  "name": "Stealth ship",
+  "wookieepedia_title": "Stealth ship (Galactic Republic)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stealth_ship_%28Galactic_Republic%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The stealth ship was a Galactic Republic prototype starship designed to help aid the war effort during the Clone Wars.",
+  "data": {
+    "name": "Stealth ship",
+    "manufacturer": "Sienar Design Systems",
+    "model": "Stealth ship (design model classified)",
+    "type": "Corvette",
+    "length": "99.71 meters",
+    "engine": "4",
+    "shield_gen": "Equipped",
+    "sensor": "Sensor suites and rectennae (2 each)",
+    "countermeasures": [
+      "Cloaking device",
+      "Flares"
+    ],
+    "armament": [
+      "Anti-aircraft point-defense dual laser cannon turrets (2)",
+      "Proton torpedo launchers (4)"
+    ],
+    "crew": "2 pilots, 10 crew",
+    "role": [
+      "Cargo and troop transport",
+      "Reconnaissance"
+    ],
+    "firstuse": "22 BBY",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

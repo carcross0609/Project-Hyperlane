@@ -1,0 +1,22 @@
+{
+  "name": "SGS-45 Quarrel",
+  "wookieepedia_title": "SGS-45 Quarrel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SGS-45_Quarrel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The SGS-45 Quarrel was a gunship model developed by Republic Sienar Systems for the Republic Navy that saw use during the Galactic War with the Sith Empire. Sporting long-range rail guns capable of being switched between ion, plasma or the standard slug models, the ship would fire at its targets from long range. It was well armed but had unimpressive speed.",
+  "data": {
+    "name": "SGS-45 Quarrel",
+    "manufacturer": "Republic Sienar Systems",
+    "type": "Gunship",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "rail gun"
+    ],
+    "role": "Gunship",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

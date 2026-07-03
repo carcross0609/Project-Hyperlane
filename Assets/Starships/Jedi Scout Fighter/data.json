@@ -1,0 +1,32 @@
+{
+  "name": "Jedi Scout Fighter",
+  "wookieepedia_title": "Jedi Scout Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Scout_Fighter",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "Jek-14 piloted a Jedi Scout Fighter when Jedi Masters Obi-Wan Kenobi, Yoda, Rusty, and the Padawans went to retrieve the holocrons from the Jedi Temple during the rise of the Galactic Empire. He would fly it again after the Battle of Yavin when Luke Skywalker lost the holocrons to Darth Vader. He soon used it to rescue R2-D2 from a decoy operation, and then went to the hidden Rebel base on Mustafar. He then took the Scout Fighter to help Luke Skywalker attack an Imperial fleet.",
+  "data": {
+    "name": "Jedi Scout Fighter",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "4 laser cannons",
+      "Rear turret"
+    ],
+    "crew": [
+      "2 (pilot, co-pilot)",
+      "Astromech droid"
+    ],
+    "capacity": "Two holocron",
+    "othersystems": [
+      "Storage bay",
+      "Cloaking device"
+    ],
+    "role": "Scout craft",
+    "affiliation": [
+      "Jedi Order",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

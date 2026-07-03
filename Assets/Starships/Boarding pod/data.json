@@ -1,0 +1,22 @@
+{
+  "name": "Boarding pod",
+  "wookieepedia_title": "Boarding pod",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Boarding_pod",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "Boarding pods were escape pods modified as boarding craft and used by the CR90 corvette Thunderstrike, the headquarters and troop carrier of the Rebel Alliance's 61st Mobile Infantry. Equipped with magnetic grapples and laserdrills, the maneuverability of the escape pod it once was was traded for launch power and the armor was reinforced. The pods were used by the 61st to insert personnel onto other starships, notably during a raid on an Imperial freighter.",
+  "data": {
+    "name": "Boarding pod",
+    "type": "Boarding craft",
+    "passengers": "1 squad",
+    "othersystems": [
+      "Laserdrills",
+      "Magnetic grapples"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  61st Mobile Infantry"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

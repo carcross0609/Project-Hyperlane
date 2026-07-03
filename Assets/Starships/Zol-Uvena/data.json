@@ -1,0 +1,28 @@
+{
+  "name": "Zol-Uvena",
+  "wookieepedia_title": "Zol-Uvena",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zol-Uvena",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Zol-Uvena was one of the ships used by Shistavanen scout Yurdak Fav. It had been modifed to be more maneuverable and had a different weapon system than normally installed on the model.",
+  "data": {
+    "name": "Zol-Uvena",
+    "model": "Pathfinder-class scout ship",
+    "type": "Scout vessel",
+    "cost": "35,000 credits",
+    "length": "36 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 10 (backup)"
+    ],
+    "armament": "Laser cannon (1)",
+    "crew": "1",
+    "passengers": "2",
+    "capacity": "100 metric tons",
+    "consumables": "6 months",
+    "owners": "Yurdak Fav"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "MorningStar-A starfighter",
+  "wookieepedia_title": "MorningStar-A starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MorningStar-A_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MorningStar-A was a starfighter popular with mercenaries around the time of the Invasion of Naboo.",
+  "data": {
+    "name": "MorningStar-A starfighter",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "MorningStar-A",
+    "type": "Starfighter",
+    "cost": "43,000 credits (10,000 used)",
+    "length": "14.4 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 2",
+    "armament": [
+      "Laser cannons (3)",
+      "Concussion missile launcher (1)",
+      "  4 missiles"
+    ],
+    "crew": "Pilot (1)",
+    "capacity": "75 kg",
+    "consumables": "3 days",
+    "availability": "Restricted",
+    "role": "Space superiority fighter",
+    "affiliation": "Mercenaries"
+  },
+  "scraped": "2026-07-03"
+}

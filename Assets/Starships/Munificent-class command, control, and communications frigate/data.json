@@ -1,0 +1,63 @@
+{
+  "name": "Munificent-class command, control, and communications frigate",
+  "wookieepedia_title": "Munificent-class command, control, and communications frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Munificent-class_command%2C_control%2C_and_communications_frigate",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Munificent-class command, control, and communications frigate, commonly known as the Munificent-class Comms Frigate, or C3 frigate for short, was sub-variant of the standard Munificent-class star frigate that served in the naval branch of the Separatist Alliance during the Clone Wars, and later served within the naval forces of the Alliance to Restore the Republic during the Galactic Civil War.",
+  "data": {
+    "name": "Munificent-class command, control, and communications frigate",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Munificent-class star frigate",
+    "type": "Frigate",
+    "cost": "12,300,000 credits",
+    "engine": "Engines",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Forward-mounted turbolasers (2)",
+      "Forward-mounted long-barrelled ion cannons (2)",
+      "Twin light turbolasers (26)",
+      "  Port (13)",
+      "  Starboard (13)",
+      "Turret-mounted ion turbolasers (20)",
+      "  Port (10)",
+      "  Starboard (10)",
+      "Medium flak cannons (8)",
+      "  Port (4)",
+      "  Starboard (4)",
+      "Turret-mounted retractable light laser cannons (40)",
+      "  Dorsal (10)",
+      "  Ventral (10)",
+      "  Port (10)",
+      "  Starboard (10)"
+    ],
+    "complement": [
+      "Shuttles",
+      "Starfighters (12-36) (depending on configuration)"
+    ],
+    "bays": "Multiple hangars",
+    "crew": "1,100 officers, pilots, enlisted crew",
+    "passengers": "850 troops (depending on configuration)",
+    "consumables": "Two years",
+    "communications": "C3 suite",
+    "role": [
+      "Command ship",
+      "Fleet communications",
+      "Fast reconnaissance",
+      "Advanced warning picket"
+    ],
+    "firstuse": "During the Clone Wars",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

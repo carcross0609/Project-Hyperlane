@@ -1,0 +1,27 @@
+{
+  "name": "TIE Experimental M1",
+  "wookieepedia_title": "TIE Experimental M1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_Experimental_M1",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE Experimental M1, also known as the TIE Bizarro, was an experimental member of the TIE Series and a part of the TIE Experimental Project.",
+  "data": {
+    "name": "TIE Experimental M1",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series Experimental",
+    "model": "Twin Ion Engine Experimental M1 (T/e1)",
+    "type": "Starfighter",
+    "length": "6.3 meters",
+    "mglt": "104 MGLT",
+    "engine": "2 twin ion engine sets",
+    "shield_gen": "None",
+    "hull": "Titanium alloy hull (11 RU)",
+    "navigation": "None (slaved to control ship)",
+    "armament": "Turbolaser (1)",
+    "crew": "Remote control system",
+    "passengers": "None",
+    "role": "Experimental assault fighter",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

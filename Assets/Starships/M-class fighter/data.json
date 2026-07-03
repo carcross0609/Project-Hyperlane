@@ -1,0 +1,29 @@
+{
+  "name": "M-class fighter",
+  "wookieepedia_title": "M-class fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/M-class_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The M-class fighter was a large starfighter used by the Rebel Alliance.",
+  "data": {
+    "name": "M-class fighter",
+    "model": "M-class fighter",
+    "type": "Starfighter",
+    "engine": "Koensayr R200 Ion Jet engines (3)",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Heavy laser cannons (2)",
+      "Tow cables"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "skeleton": "Pilot (1)",
+    "communications": "Directional beacon",
+    "othersystems": "Hydroboosters",
+    "role": "Starfighter",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

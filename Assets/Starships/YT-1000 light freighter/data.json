@@ -1,0 +1,36 @@
+{
+  "name": "YT-1000 light freighter",
+  "wookieepedia_title": "YT-1000 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1000_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YT-1000 freighter, also known as the YT-1000 transport, was a starship model designed to transport passengers and cargo on interstellar journeys. The ship was circular in design, with an outrigger cockpit sandwiched between a pair of rectangular mandibles. YT-1000 was considered outdated by 14 BBY, being already in use for more than a century.",
+  "data": {
+    "name": "YT-1000 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1000",
+    "type": "Freighter",
+    "cost": [
+      "85,000 credits",
+      "20,000 credits (used)"
+    ],
+    "length": "28 meters",
+    "max_speed": "740 kph",
+    "engine": "Sublight engines",
+    "hyperdrive": [
+      "Class 3",
+      "Class 16 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Simple sensor suite",
+    "navigation": "Navicomputer",
+    "armament": "Standard laser cannon (1)",
+    "crew": "2",
+    "passengers": "4",
+    "capacity": "75 metric tons",
+    "consumables": "2 months"
+  },
+  "scraped": "2026-07-03"
+}

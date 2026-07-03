@@ -1,0 +1,27 @@
+{
+  "name": "720 light freighter",
+  "wookieepedia_title": "720 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/720_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The 720 light freighter, also known as the Ghtroc 720, was a model of light freighter manufactured by Ghtroc Industries and characterized by its tortoise-like appearance. A newer and larger model than the 690 light freighter, it was meant to compete with the Corellian Engineering Corporation's popular YT-series.",
+  "data": {
+    "name": "720 light freighter",
+    "manufacturer": "Ghtroc Industries",
+    "model": "720",
+    "type": "Light freighter",
+    "cost": "112,000 credits",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 15 (Backup)"
+    ],
+    "sensor": "Medium range sensor",
+    "armament": "Twin light laser cannon",
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "135 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Citizens' Fleet"
+  },
+  "scraped": "2026-07-03"
+}

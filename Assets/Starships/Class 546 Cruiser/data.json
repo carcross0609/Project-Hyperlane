@@ -1,0 +1,53 @@
+{
+  "name": "Class 546 Cruiser",
+  "wookieepedia_title": "Class 546 Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Class_546_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Arquitens-class 546, also known as the Class 546 Cruiser, was a modified model of Arquitens-class command cruiser primarily designed for greater speed under the Class 546 program. A Class 546 Cruiser was used by an Imperial remnant led by Moff Gideon. Although similar to the command cruiser model, the Class 546 housed a large internal hangar bay that could be accessed by port and starboard hangar doors and a launch tube at the center of the vessel, along the spine of the vessel Designated as a Lightspeed Cruiser, its bridge was also different from the standard Arquitens-class models, and was equipped with three primary and four secondary sublight engines.",
+  "data": {
+    "name": "Class 546 Cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Arquitens-class command cruiser (modified)",
+    "model": "Arquitens-class 546",
+    "type": "Lightspeed Cruiser",
+    "modifier": "Class 546 program",
+    "length": "381 meters (1,250 feet)",
+    "width": "163 m",
+    "height": "66 m",
+    "mglt": "75 MGLT (Moff Gideon's light cruiser)",
+    "engine": [
+      "Primary engines (3)",
+      "Secondary engines (4)"
+    ],
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": "Dorsal and ventral quad turbolaser turrets (4)",
+    "complement": [
+      "At least 8 TIE/ln space superiority starfighters",
+      "At least 2 V-82 dropships"
+    ],
+    "bays": "Multiple hangars",
+    "crew": [
+      "Nearly 250",
+      "Multiple Imperial officers"
+    ],
+    "passengers": [
+      "A platoon of third-generation design Dark Troopers",
+      "Contingent of stormtroopers",
+      "Imperial Starfighter Pilots"
+    ],
+    "othersystems": [
+      "Dark Trooper bay",
+      "Launch tube"
+    ],
+    "role": "Capital ship",
+    "affiliation": [
+      "Gideon's Imperial remnant",
+      "  Gideon's fleet",
+      "Mandalorian resistance",
+      "  Mandalorian fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

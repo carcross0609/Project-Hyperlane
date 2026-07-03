@@ -1,0 +1,21 @@
+{
+  "name": "Imperial convoy ship",
+  "wookieepedia_title": "Imperial convoy ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_convoy_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperial convoy ship was a type of Imperial cargo ship used by the Galactic Empire.",
+  "data": {
+    "name": "Imperial convoy ship",
+    "type": "Cargo ship",
+    "hdsystem": "Equipped",
+    "complement": "At least one TIE/LN starfighter",
+    "passengers": "At least 7",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic (briefly)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

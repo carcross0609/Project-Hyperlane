@@ -1,0 +1,47 @@
+{
+  "name": "Devastator",
+  "wookieepedia_title": "Devastator/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Devastator/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Devastator was an Imperial I-class Star Destroyer of the Imperial Navy famous for its participation in the capture of the Tantive IV and as Darth Vader's flagship for a time.",
+  "data": {
+    "name": "Devastator",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Ion cannons (60)",
+      "Tractor beam projectors (10)",
+      "Additional armaments and munitions"
+    ],
+    "complement": [
+      "TIE/LN starfighters (72)",
+      "  Obsidian Squadron"
+    ],
+    "crew": "35,000",
+    "passengers": "Stormtroopers (10,000)",
+    "othersystems": "Structural alterations",
+    "role": "Flagship",
+    "destroyed": "4 ABY",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron",
+    "owners": "Darth Vader",
+    "captains": [
+      "Bolvan",
+      "Tion",
+      "Darth Vader",
+      "Pychor",
+      "Kell Bircher",
+      "Mulchive Wermis",
+      "Nevik",
+      "Sollaine"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

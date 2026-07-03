@@ -1,0 +1,27 @@
+{
+  "name": "Halberd",
+  "wookieepedia_title": "Halberd (escort carrier)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Halberd_%28escort_carrier%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Halberd was an Imperial Navy Ton-Falk-class escort carrier.",
+  "data": {
+    "name": "Halberd",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Ton-Falk-class escort carrier",
+    "type": "Carrier",
+    "length": "500 meters",
+    "height": "150 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "13 MGLT",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup class 12"
+    ],
+    "complement": "TIE/sa bombers",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

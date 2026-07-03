@@ -1,0 +1,32 @@
+{
+  "name": "Remora",
+  "wookieepedia_title": "Remora",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Remora",
+  "continuity": "Canon",
+  "infobox_template": "IndividualShip",
+  "description": "The Remora was a transport utilized by Echo during his time with the Clone Underground. The ship was once a mining vessel that had been retrofitted for stealth infiltration, making it ideal for insertion and extraction missions. The high-speed ship was also equipped with a detachable leech vessel, the Remora-one, for boarding.",
+  "data": {
+    "name": "Remora",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YG-4214 mining freighter",
+    "type": "Mining freighter",
+    "length": "43.9 meters (144 feet)",
+    "mglt": "70 mglt",
+    "engine": "4 engine units",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "2 forward-mounted laser cannons",
+      "2 laser cannon turrets"
+    ],
+    "complement": "Remora-one",
+    "skeleton": "1 pilot",
+    "lifesupport": "Equipped",
+    "affiliation": [
+      "Clone Underground",
+      "Clone Force 99"
+    ],
+    "owners": "Echo"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Invictus",
+  "wookieepedia_title": "Invictus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Invictus",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Invictus was an Imperial Lambda-class T-4a shuttle that was stolen by the Alliance to Restore the Republic. It was used by Leia Organa and Han Solo to search for a new Rebel base.",
+  "data": {
+    "name": "Invictus",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Abecederian line",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Multi-purpose transport",
+    "length": "20 meters",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "2 forward double laser cannons",
+      "2 wing-mounted double cannons",
+      "1 rear double laser cannon"
+    ],
+    "capacity": "80 metric tons",
+    "role": "Transport",
+    "destroyed": "0 ABY, unidentified planet",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic (After being stolen)"
+    ],
+    "navy": "Imperial Navy",
+    "captains": "Leia Organa"
+  },
+  "scraped": "2026-07-03"
+}

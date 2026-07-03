@@ -1,0 +1,57 @@
+{
+  "name": "Surfeik cruiser",
+  "wookieepedia_title": "Surfeik cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Surfeik_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Surfeik cruiser was the backbone of the Vagaari fleet.",
+  "data": {
+    "name": "Surfeik cruiser",
+    "designer": "Arized engineers",
+    "model": "Surfeik cruiser",
+    "type": "Cruiser",
+    "cost": "Not available for sale since the extermination of the Arized homeworld",
+    "modifier": "Vagaari",
+    "length": "550 meters",
+    "engine": "Equipped",
+    "hyperdrive": [
+      "Class 2",
+      "Backup Class 15"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": [
+      "Equipped",
+      "Living shield blisters (combat models only)"
+    ],
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannons (33)",
+      "  Laser cannon batteries (11)",
+      "Projectile launchers (7)",
+      "Pseudograv projector (1)"
+    ],
+    "complement": [
+      "Vagaari fighters (18)",
+      "Vagaari shuttles (2)"
+    ],
+    "crew": [
+      "500 (skilled)",
+      "  41 gunners"
+    ],
+    "passengers": "1,500 (prisoners)",
+    "capacity": "10,000 tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "role": [
+      "Battleship",
+      "Assault ship",
+      "Cargo transport",
+      "Starfighter carrier"
+    ],
+    "affiliation": [
+      "Arized",
+      "Vagaari Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

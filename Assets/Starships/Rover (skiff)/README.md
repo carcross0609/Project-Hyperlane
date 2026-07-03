@@ -1,0 +1,11 @@
+# Rover (skiff)
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Rover (skiff)](https://starwars.fandom.com/wiki/Rover_%28skiff%29)
+
+The Rover was a skiff assigned to the Anakin Solo. It was led by Jedi apprentice Ben Skywalker to Terephon in order to find out what became of Jaina Solo and Zekk. The ship was destroyed when it tried to warn the Queen Mother of the deception of Ducha Galney. The crew consisted of Ben Skywalker, Chief Petty Officer Tanogo, Junior Lieutenant Beta Ioli and gunner Gim Sorzo; Sorzo and Skywalker went EV with Jaina and Zekk before the Rover was destroyed.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,33 @@
+{
+  "name": "ZH-25 Questor-class light freighter",
+  "wookieepedia_title": "ZH-25 Questor-class light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ZH-25_Questor-class_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Starfeld ZH-25 Questor-class light freighter was a light freighter with starfighter range.",
+  "data": {
+    "name": "ZH-25 Questor-class light freighter",
+    "manufacturer": "Starfeld Industries",
+    "type": "Light freighter",
+    "cost": [
+      "136,000 credits (new)",
+      "89,000 credits (used)"
+    ],
+    "length": "22.4 meters",
+    "max_speed": "850 kmh",
+    "engine": "Novaldex JV-74 ion engine",
+    "hyperdrive": [
+      "Class 1.0 (primary)",
+      "Class 12.0 (backup)"
+    ],
+    "shield_gen": "Sirplex P-12 shield generator",
+    "sensor": "SoroSuub sensors",
+    "armament": "(2) Taim & Bak pulse laser cannons",
+    "crew": "1",
+    "passengers": "6",
+    "capacity": "85 metric tons",
+    "consumables": "3 months",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

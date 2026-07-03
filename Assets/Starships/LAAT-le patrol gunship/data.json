@@ -1,0 +1,53 @@
+{
+  "name": "LAAT/le patrol gunship",
+  "wookieepedia_title": "LAAT/le patrol gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/LAAT/le_patrol_gunship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The LAAT/le patrol gunship, also known as the Republic police gunship and later known as the Imperial patrol transport, was a gunship introduced during the Clone Wars to perform law enforcement functions on the Republic capital of Coruscant. Designed to be sleeker and smaller as well as less heavily armed than the Republic attack gunship, the patrol transport was better suited for policing the dense, planet-wide city while reducing the risks of collateral damage.",
+  "data": {
+    "name": "LAAT/le patrol gunship",
+    "manufacturer": "Santhe Corporation/Rothana Heavy Engineering",
+    "line": "Low Altitude Assault Transport",
+    "model": "LAAT/le",
+    "type": "Gunship",
+    "cost": "62,000 credits",
+    "length": "11.48 meters",
+    "width": "5.76 meters",
+    "height": "5.43 meters",
+    "armament": [
+      "Turret laser cannons (2)",
+      "Tail laser cannon (1)",
+      "Missile launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "Troop bay",
+    "availability": [
+      "Law enforcement (originally)",
+      "Military (later use)"
+    ],
+    "role": "Patrol",
+    "affiliation": [
+      "Galactic Republic",
+      "  Coruscant Security Force",
+      "  Coruscant Guard",
+      "Partisans",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "  Inquisitorius",
+      "Stinger Mantis crew",
+      "Batonn insurgents",
+      "Alliance to Restore the Republic",
+      "  Lothal resistance group",
+      "Son-tuul Pride",
+      "New Republic",
+      "  New Republic Defense Force",
+      "Imperial Remnants",
+      "  Thrawn's forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Redemption",
+  "wookieepedia_title": "Redemption/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Redemption/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Redemption was an EF76 Nebulon-B escort frigate in service to the Rebel Alliance Fleet. Originally a standard Nebulon-B frigate, it was heavily modified to serve as the fleet's primary medical frigate during the Galactic Civil War. The ship was fitted with the most advanced medical equipment available, including bacta tanks, operating theaters capable of treating multiple species, and a full complement of medical droids. The Redemption could treat up to 745 patients simultaneously and 98% made a full recovery, with most returning to duty within days. These changes came at the expense of its defensive capabilities, with several of the vessel's weapons removed, along with its starfighter complement.",
+  "data": {
+    "name": "Redemption",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate&ndash;Medical Variant",
+    "modifier": "Alliance to Restore the Republic",
+    "length": "300 meters",
+    "width": "72 meters",
+    "height": "166 meters",
+    "max_accel": "1,200 G",
+    "mglt": "40 MGLT",
+    "max_speed": "800 km/h",
+    "engine": "Kuat Galaxy-15 ion engines (7)",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Triple Taim hyperdrive",
+    "shield_gen": [
+      "Enhanced Delphus JC-671 projector",
+      "Serridge SEAL shielding system"
+    ],
+    "hull": "Titanium-reinforced alloy",
+    "sensor": "Fabritech ANs-9.5w wide range sensor system",
+    "armament": [
+      "Taim & Bak XI7 turbolasers (6)",
+      "Borstel Galactic Defense RH8 laser cannons (8)"
+    ],
+    "crew": [
+      "850 crew",
+      "66 gunners",
+      "75 troops",
+      "80 medical staff",
+      "30 medical droids"
+    ],
+    "passengers": "745 patients",
+    "capacity": "6,000 metric tons",
+    "othersystems": "Phylon Q7 tractor beam projectors (2)",
+    "role": "Medical frigate",
+    "destroyed": "4 ABY, Endor system",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Alliance Fleet",
+    "fleet": "Independence task force",
+    "captains": "Unidentified female"
+  },
+  "scraped": "2026-07-03"
+}

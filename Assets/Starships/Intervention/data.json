@@ -1,0 +1,30 @@
+{
+  "name": "Intervention",
+  "wookieepedia_title": "Intervention",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Intervention",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Intervention was a Venator-class Star Destroyer that served in the Fifth Fleet of the Open Circle Armada, a branch of the Republic Navy during the last stages of the Clone Wars.",
+  "data": {
+    "name": "Intervention",
+    "model": "Venator-class Star Destroyer",
+    "role": [
+      "Destroyer",
+      "Carrier",
+      "Command ship"
+    ],
+    "destroyed": "20 BBY",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": [
+      "Open Circle Fleet",
+      "  Fifth Fleet"
+    ],
+    "captains": [
+      "General Anakin Skywalker",
+      "General Obi-Wan Kenobi"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Tributum",
+  "wookieepedia_title": "Tributum",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tributum",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tributum was an Imperial II-class Star Destroyer that was under the command of Imperial officer Kanchar. During the Galactic Civil War it fought against Rebel Alliance forces during their mission to Shu-Torun.",
+  "data": {
+    "name": "Tributum",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": "TIE fighter series starfighters (72)",
+    "crew": "Stormtroopers (9,700)",
+    "consumables": "2 years",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Kanchar"
+  },
+  "scraped": "2026-07-03"
+}

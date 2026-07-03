@@ -1,0 +1,43 @@
+{
+  "name": "Conqueror-class assault ship",
+  "wookieepedia_title": "Conqueror-class assault ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Conqueror-class_assault_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Conqueror-class assault ship was manufactured by a Surronian hive guild.",
+  "data": {
+    "name": "Conqueror-class assault ship",
+    "manufacturer": "Surronian hive guild",
+    "model": "Conqueror-class assault ship",
+    "cost": "100,500 credits (46,000 used)",
+    "length": "28 meters",
+    "max_speed": "1,000 kph",
+    "hyperdrive": "Class 1 (backup class 10)",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Medium laser cannon (2)",
+      "Forward fire-linked ion cannon (1)"
+    ],
+    "crew": [
+      "3:",
+      "Pilot (1)",
+      "Gunner (1)",
+      "Engineer (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "1",
+    "capacity": "25 tons",
+    "consumables": "1 month",
+    "availability": "Restricted",
+    "role": [
+      "Assault ship",
+      "Transport"
+    ],
+    "affiliation": [
+      "Surronian planetary defense forces",
+      "Galactic Republic (at least 1)",
+      "Black Sun"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Coruscant-class Heavy Courier",
+  "wookieepedia_title": "Coruscant-class Heavy Courier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Coruscant-class_Heavy_Courier",
+  "continuity": "Legends",
+  "infobox_template": "IndividualShip",
+  "description": "The Coruscant-class Heavy Courier was a model of starship manufactured by Corellia StarDrive. It was used by the Galactic Republic some four thousand years before the Battle of Yavin. The Nebulon Ranger was a Coruscant-class Heavy Courier used by the Jedi Ulic Qel-Droma, Cay Qel-Droma, and Tott Doneeta during their mission to Onderon.",
+  "data": {
+    "name": "Coruscant-class Heavy Courier",
+    "manufacturer": "Corellia StarDrive",
+    "type": "Heavy courier",
+    "cost": [
+      "50,000 credits (new)",
+      "23,000 credits (used)"
+    ],
+    "length": "150 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 11",
+      "Class 17 (back-up)"
+    ],
+    "power": "AlderaanMotors power generator",
+    "shield_gen": "8 deflector shield generators",
+    "sensor": "Equipped",
+    "armament": [
+      "3 laser cannons",
+      "4 proton torpedo launchers",
+      "1 pulse-wave cannon",
+      "2 short-range concussion sphere launchers"
+    ],
+    "crew": "1; 1 gunner",
+    "passengers": "6",
+    "capacity": "25 metric tons",
+    "consumables": "2 weeks",
+    "role": "Courier",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

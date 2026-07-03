@@ -1,0 +1,21 @@
+{
+  "name": "Starwayman",
+  "wookieepedia_title": "Starwayman",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starwayman",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Starwayman was a freighter stolen by Booster Terrik. Terrik used the starship in his smuggling operations around the time of the Clone Wars.",
+  "data": {
+    "name": "Starwayman",
+    "type": "Freighter",
+    "max_speed": "800 km/h",
+    "armament": "Triple laser cannon (1)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "owners": "Booster Terrik"
+  },
+  "scraped": "2026-07-03"
+}

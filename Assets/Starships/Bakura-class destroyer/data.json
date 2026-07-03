@@ -1,0 +1,55 @@
+{
+  "name": "Bakura-class destroyer",
+  "wookieepedia_title": "Bakura-class destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bakura-class_destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Bakura-class destroyer formed the backbone of the Bakuran Defense Fleet that was established following the repulsion of the Ssi-ruuk at the Invasion of Bakura.",
+  "data": {
+    "name": "Bakura-class destroyer",
+    "manufacturer": "Bakuran shipyards",
+    "line": "Star Destroyers",
+    "model": "Bakura-class destroyer",
+    "type": "Star Destroyer",
+    "length": "850 meters",
+    "engine": "SFS I-a2b solar ionization reactor",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 8.0 (backup)"
+    ],
+    "armament": [
+      "Turbolaser batteries (60)",
+      ":Fire Arc: 20 front, 20 left, 20 right",
+      ":Crew: 1 (20), 2 (40)",
+      ":Space Range: 75 km",
+      ":Atmospheric Range: 150 km",
+      "Ion cannons (60)",
+      ":Fire Arc: 20 front, 15 left, 15 right, 10 back",
+      ":Crew: 1 (15), 2 (45)",
+      ":Space Range: 50 km",
+      ":Atmospheric Range: 100 km",
+      "Tractor beam projectors (10)",
+      ":Fire Arc: 6 front, 2 left, 2 right",
+      ":Crew: 1 (2), 4 (2), 10 (6)",
+      ":Space Range: 30 km",
+      ":Atmospheric Range: 60 km"
+    ],
+    "complement": "General Purpose Attack Fighters",
+    "crew": [
+      "Crew (8,250)",
+      "Gunners (275)"
+    ],
+    "skeleton": "5,000",
+    "passengers": "2,000 (troops)",
+    "capacity": "36,000 metric tons",
+    "consumables": "6 years",
+    "othersystems": "Hyperwave inertial momentum sustainer",
+    "role": [
+      "Destroyer",
+      "Cruiser",
+      "Anti-interdiction blockade runner"
+    ],
+    "affiliation": "Bakuran Defense Fleet"
+  },
+  "scraped": "2026-07-03"
+}

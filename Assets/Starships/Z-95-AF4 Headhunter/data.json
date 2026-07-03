@@ -1,0 +1,32 @@
+{
+  "name": "Z-95-AF4 Headhunter",
+  "wookieepedia_title": "Z-95-AF4 Headhunter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-95-AF4_Headhunter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The Z-95-AF4 Headhunter was a model of Z-95 Headhunter that was in use by the Hutt Clan and the Alliance to Restore the Republic.",
+  "data": {
+    "name": "Z-95-AF4 Headhunter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Sublights Products Corporation"
+    ],
+    "type": "Starfighter",
+    "cost": "55,000 credits",
+    "engine": "4 engines",
+    "sensor": "Close range",
+    "armament": [
+      "Light laser cannon",
+      "Concussion missile launcher"
+    ],
+    "crew": "One pilot",
+    "consumables": "One day",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "Hutt Clan",
+      "  Hutt enforcer fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

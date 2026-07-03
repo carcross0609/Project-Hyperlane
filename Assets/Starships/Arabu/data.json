@@ -1,0 +1,26 @@
+{
+  "name": "Arabu",
+  "wookieepedia_title": "Arabu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arabu",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Arabu was a group of 2 escort shuttles that was used by the Ripoblus during the Sepan Civil War. At Sepan 8 they were part of the Ripoblus defense force for a transfer between the children's leaders of both the Dimok and Ripoblus factions as part of a new treaty between the factions to set aside their differences and resist Imperial intervention and occupation. The Imperials however, learned of the meeting and intercepted sending Assault Gunboats, one of which was piloted by Imperial Ace Maarek Stele, to disable both shuttles Keydon and Phantele carrying the children, then sent stormtrooper transports to board them and take the leaders to the Victory I-class Star Destroyer Protector. It is likely that both Escort Shuttles were destroyed in the battle.",
+  "data": {
+    "name": "Arabu",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Delta-class JV-7 escort shuttle",
+    "type": "Shuttle",
+    "length": "30 meters",
+    "width": "32.3 meters",
+    "height": "32.4 meters",
+    "armament": [
+      "Taim & Bak KX5 laser cannons (3; forward)",
+      "Taim & Bak H9 dual turbolaser (1; aft turret)",
+      "Projectile launchers (2)"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Ripoblus government"
+  },
+  "scraped": "2026-07-03"
+}

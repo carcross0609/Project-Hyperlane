@@ -1,0 +1,32 @@
+{
+  "name": "578-R space transport",
+  "wookieepedia_title": "578-R space transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/578-R_space_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The 578-R space transport was a space transport manufactured by Amalgamated Hyperdyne.",
+  "data": {
+    "name": "578-R space transport",
+    "manufacturer": "Amalgamated Hyperdyne",
+    "model": "578-R Space Transport",
+    "type": "Transport",
+    "cost": [
+      "75,000 credits",
+      "28,000 credits Used"
+    ],
+    "length": "31.5 meters",
+    "max_speed": "800 km/h",
+    "engine": "Equipped",
+    "hyperdrive": "Class 3",
+    "navigation": "Equipped",
+    "armament": "Medium laser cannon (1)",
+    "crew": "2",
+    "passengers": "10",
+    "capacity": "40 tons",
+    "consumables": "4 months",
+    "communications": "Equipped",
+    "availability": "Licensed",
+    "role": "Junk Hauler"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Junker",
+  "wookieepedia_title": "Junker (YT-2400 light freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Junker_%28YT-2400_light_freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Junker, originally known as Blackstar, was a modified YT-2400 light freighter with a Starhawk shuttle instead of an escape pod and a power crystal that could burrow through deflector shields, although the starship was armed with no other weapons. It also featured two military grade universal docking rings and a short range tractor beam array on its rear. The ship was owned by Reegas Vance, but was taken by Khedryn Faal and Marr Idi-Shael, who used it for salvaging operations. In 41.5 ABY, Jedi Knight Jaden Korr enlisted the aid of Junker crew to resolve a Force vision he had received. This led them to take on a Sith dreadnought from 5000 BBY, the Harbinger, and track down a group of dangerous Force-sensitive clones to an ancient Rakatan space station.",
+  "data": {
+    "name": "Junker",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2400 light freighter",
+    "type": "Light freighter",
+    "modifier": [
+      "Reegas Vance",
+      "Khedryn Faal"
+    ],
+    "sysmods": "Universal docking ring",
+    "hyperdrive": "Equipped",
+    "sensor": "Amplified sensor array",
+    "navigation": "Equipped",
+    "armament": [
+      "Plasma cannons (formerly)",
+      "Power crystal",
+      "Tractor beam array"
+    ],
+    "complement": [
+      "Speeder bike",
+      "Starhawk shuttle",
+      "  Flotsam",
+      "Searing swoop bike (formerly)"
+    ],
+    "escapepods": "No",
+    "communications": "Subspace transceiver",
+    "role": "Salvage vessel",
+    "owners": [
+      "Reegas Vance",
+      "Khedryn Faal"
+    ],
+    "captains": [
+      "Reegas Vance",
+      "Khedryn Faal"
+    ],
+    "aliases": "Blackstar"
+  },
+  "scraped": "2026-07-03"
+}

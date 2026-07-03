@@ -1,0 +1,41 @@
+{
+  "name": "Corona-class frigate",
+  "wookieepedia_title": "Corona-class frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corona-class_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Corona-class frigate was a combat starship produced by Kuat Drive Yards for the New Republic. A successor to the successful EF76 Nebulon-B escort frigate, the Corona-class was designed as part of the New Republic's drive to modernize and standardize its naval forces, moving away from the eclectic collection of starships that it had inherited from the Alliance to Restore the Republic. The frigate was designed to incorporate the New Republic's philosophy of tying its ships to a home base for support, and not allowing them to operate independently for years at a time.",
+  "data": {
+    "name": "Corona-class frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Line frigate",
+    "cost": "Not available for public sale",
+    "length": "275 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "10 turbolaser cannons",
+      "10 laser cannons",
+      "4 ion cannons",
+      "2 tractor beam projectors"
+    ],
+    "complement": "36 starfighters",
+    "crew": "782; 56 gunners",
+    "skeleton": "281",
+    "passengers": "80 (troops)",
+    "capacity": "4,000 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Reconnaissance",
+      "Close-line fire support",
+      "Anti-starfighter screening"
+    ],
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

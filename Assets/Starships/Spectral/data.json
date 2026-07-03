@@ -1,0 +1,43 @@
+{
+  "name": "Spectral",
+  "wookieepedia_title": "Spectral",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spectral",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Spectral was an Interdictor-class heavy cruiser that was in service to the Galactic Empire during its reign of the galaxy. It was commanded by Admiral Ektol Traz. At some point, it crashed onto the starship graveyard on the planet Jakku after suffering damage from rebel pilot Lieutenant Bak Rychuk.",
+  "data": {
+    "name": "Spectral",
+    "model": "Interdictor-class heavy cruiser",
+    "type": "Heavy cruiser",
+    "length": "1,129 meters",
+    "max_speed": "975 kilometers per hour",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Gravity well projectors (4)",
+      "Quad laser cannons (20)",
+      "Experimental weapons array",
+      "Tractor beam"
+    ],
+    "complement": "TIE fighter series starfighters (24)",
+    "bays": "1",
+    "escapepods": "Equipped",
+    "crew": [
+      "Over 2,800",
+      "  Imperial officers",
+      "  Imperial weapons technicians",
+      "  Stormtroopers"
+    ],
+    "role": [
+      "Command ship",
+      "Interdictor vessel"
+    ],
+    "destroyed": "5 ABY",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Ektol Traz"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Executor-class Star Dreadnought",
+  "wookieepedia_title": "Executor-class Star Dreadnought/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Executor-class_Star_Dreadnought/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Executor-class Star Dreadnought, colloquially known as the Executor-class Super Star Destroyer, Executor-class Star Destroyer or simply Super Star Destroyer, was a heavy warship class in the Star Dreadnought league, often used as command ships and flagships in the Imperial Navy. At their prime, they were among the largest vessels in the galaxy, and were almost invincible in combat, although they were costly to operate.",
+  "data": {
+    "name": "Executor-class Star Dreadnought",
+    "designer": "Lira Wessex",
+    "manufacturer": [
+      "Kuat Drive Yards (majority of the ship line)",
+      "Fondor Shipyards (Executor finishing touches; unidentified variant of the class that possessed cloaking capabilities)"
+    ],
+    "line": "Star Dreadnoughts",
+    "model": "Executor-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "length": "19,000 meters",
+    "max_accel": "1230 G",
+    "mglt": "40 MGLT",
+    "engine": "Executor-50.x engine (13)",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "KDY shield generator domes (2) (local area-effect)",
+    "hull": "Titanium-reinforced alusteel",
+    "sensor": "KDY shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (2,000, fire-linked in groups of 8)",
+      "Heavy turbolaser batteries (2,000, fire-linked in groups of 8)",
+      "Assault concussion missile tubes (250)",
+      "  30 missiles each",
+      "Heavy ion cannons (250)",
+      "Phylon Transport Q7 tractor beam projectors (40)",
+      "Point-defense laser cannons (500)"
+    ],
+    "complement": [
+      "TIE Series starfighters (144) (can reach up to 2,048 TIE Series starfighters if fully loaded )",
+      "AT-ATs (30)",
+      "AT-STs (40)",
+      "Prefabricated garrison bases (3)",
+      "Various other assault and support craft (total of 200)",
+      "  Y-85 Titan dropships"
+    ],
+    "crew": [
+      "Crew (279,144)",
+      "Gunners (1,590)"
+    ],
+    "skeleton": "50,000",
+    "passengers": "38,000 troops",
+    "capacity": [
+      "250,000 metric tons",
+      "Supplies for 300,000 individuals"
+    ],
+    "cargohandling": "Beltway system",
+    "consumables": "6 years",
+    "communications": "HoloNet transceiver",
+    "role": [
+      "Command ship",
+      "Carrier",
+      "Battleship (dreadnought)"
+    ],
+    "firstuse": "Around 3 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "Thyferran Home Defense Corps",
+      "Imperial Breakaway Warlords",
+      "Imperial Remnant",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

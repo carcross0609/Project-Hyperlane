@@ -1,0 +1,23 @@
+{
+  "name": "Phoenix",
+  "wookieepedia_title": "Phoenix (BFF-1 bulk freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phoenix_%28BFF-1_bulk_freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Phoenix was a BFF-1 bulk freighter that bore a load of communications satellites, stolen from the Imperial base on Orron III.",
+  "data": {
+    "name": "Phoenix",
+    "model": "BFF-1 bulk freighter",
+    "type": "Medium-sized freighter",
+    "length": "120.9 meters",
+    "width": "75.56 meters",
+    "height": "34 meters",
+    "hyperdrive": "Equipped",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

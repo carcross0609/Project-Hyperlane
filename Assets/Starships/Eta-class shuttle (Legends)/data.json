@@ -1,0 +1,34 @@
+{
+  "name": "Eta-class shuttle",
+  "wookieepedia_title": "Eta-class shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eta-class_shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Eta-class shuttle was a Galactic Republic shuttle used during the Clone Wars.",
+  "data": {
+    "name": "Eta-class shuttle",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Eta-class shuttle",
+    "type": "Shuttle",
+    "cost": "100,000 credits",
+    "length": "14.15 m",
+    "engine": "Mk VIII Shrike Major ion engine (4)",
+    "hyperdrive": [
+      "Class 2 hyperdrive (primary)",
+      "Class 12 hyperdrive (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Short-range",
+    "armament": "Laser cannons (3)",
+    "complement": "Undicur-class jumpspeeders",
+    "crew": "Pilots (2)",
+    "passengers": "10",
+    "consumables": "Two months",
+    "role": "Shuttle",
+    "affiliation": [
+      "Galactic Republic",
+      "Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

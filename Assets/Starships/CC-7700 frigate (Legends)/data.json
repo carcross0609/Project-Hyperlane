@@ -1,0 +1,33 @@
+{
+  "name": "CC-7700 frigate",
+  "wookieepedia_title": "CC-7700 frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CC-7700_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CC-7700 frigate was an older warship from the CC-series used in the Galactic Civil War.",
+  "data": {
+    "name": "CC-7700 frigate",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CC-7700 frigate",
+    "type": "Frigate",
+    "hdsystem": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "armament": [
+      "Gravity well projector (1)",
+      "Turbolasers",
+      "Laser cannons"
+    ],
+    "role": [
+      "Frigate",
+      "Interdiction"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "  Rapid Response Task Force",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

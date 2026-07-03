@@ -1,0 +1,27 @@
+{
+  "name": "CX-5011 PeopleMover",
+  "wookieepedia_title": "CX-5011 PeopleMover",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CX-5011_PeopleMover",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CX-5011 PeopleMover was a personnel transport that was manufactured by Incom Corporation and utilized by the Galactic Empire.",
+  "data": {
+    "name": "CX-5011 PeopleMover",
+    "manufacturer": "Incom Corporation",
+    "type": "Transport",
+    "length": "42 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup hyperdrive"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 laser cannon",
+    "crew": "1",
+    "passengers": "20",
+    "capacity": "75 metric tons",
+    "consumables": "1 month",
+    "role": "Long-range personnel transport"
+  },
+  "scraped": "2026-07-03"
+}

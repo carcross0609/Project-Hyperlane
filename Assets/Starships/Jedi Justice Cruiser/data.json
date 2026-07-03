@@ -1,0 +1,34 @@
+{
+  "name": "Jedi Justice Cruiser",
+  "wookieepedia_title": "Jedi Justice Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Justice_Cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A Jedi Justice Cruiser was a heavily armed gunboat model used by the Jedi Order.",
+  "data": {
+    "name": "Jedi Justice Cruiser",
+    "manufacturer": "Republic Shipyards",
+    "type": "Starfighter",
+    "cost": [
+      "New: 775,000 credits",
+      "Used: 525,000"
+    ],
+    "length": "68 meters",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": "Class 1 (backup Class 6)",
+    "armament": [
+      "Turreted double turbolaser cannon (1)",
+      "Front-facing ion cannon (1)",
+      "Front-facing concussion missile launchers (2: 16 missiles each)"
+    ],
+    "crew": "5",
+    "passengers": "7",
+    "capacity": "100 metric tons",
+    "consumables": "3 months",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

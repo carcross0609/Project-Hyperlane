@@ -1,0 +1,41 @@
+{
+  "name": "Invulnerable",
+  "wookieepedia_title": "Invulnerable",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Invulnerable",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Invulnerable was a Providence-class Dreadnought, that served within the naval branch of the Separatist Alliance during the Clone Wars. The warship was utilized as the command ship and flagship of Harch Separatist Admiral Trench in a campaign on the planet Anaxes amid the Outer Rim Sieges in 19 BBY. It also served as the primary warship of Trench's fleet during the battle, which fought to claim control over vital Galactic Republic shipyards on the surface.",
+  "data": {
+    "name": "Invulnerable",
+    "manufacturer": "Free Dac Volunteers Engineering Corps",
+    "model": "Modified Providence-class Dreadnought",
+    "type": "Dreadnought",
+    "modifier": "Confederacy of Independent Systems",
+    "sysmods": "Communications vault added",
+    "engine": "Creveld-4 radial ion drives (3)",
+    "sensor": "Sensor masts",
+    "countermeasures": "Self-destruct mechanism",
+    "armament": [
+      "Heavy quad turbolaser cannons",
+      "Dual heavy laser cannons"
+    ],
+    "bays": "Equipped",
+    "crew": "B1-series battle droids",
+    "passengers": [
+      "B1-series battle droids",
+      "B2-series super battle droids",
+      "BX-series droid commandos",
+      "OOM-series security droids"
+    ],
+    "communications": "Communication masts",
+    "othersystems": "Scanners",
+    "role": "Flagship",
+    "destroyed": "19 BBY, Azure system",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy",
+    "fleet": "Trench's fleet",
+    "captains": "Trench"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Imperial Dropship Transport",
+  "wookieepedia_title": "Imperial Dropship Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Dropship_Transport",
+  "continuity": "Canon",
+  "infobox_template": "RepulsorliftVehicle",
+  "description": "The Imperial Dropship Transport (IDT) was a type of airspeeder manufactured by Rothana Heavy Engineering for the ground forces of the Galactic Empire. A smaller and cheaper successor to the LAAT/i gunship deployed by the Galactic Republic during the Clone Wars, it was used to transport and deliver stormtroopers, weapons, or medical droids onto the battlefield.",
+  "data": {
+    "name": "Imperial Dropship Transport",
+    "manufacturer": "Rothana Heavy Engineering",
+    "type": "Airspeeder",
+    "cost": "42,500 credits",
+    "max_alt": "100 kilometers",
+    "armament": [
+      "Light blaster cannons (2)",
+      "Laser cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "18",
+    "othersystems": "Loudhailers",
+    "role": "Dropship",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

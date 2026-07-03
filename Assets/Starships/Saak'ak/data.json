@@ -1,0 +1,52 @@
+{
+  "name": "Saak'ak",
+  "wookieepedia_title": "Saak'ak",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Saak%27ak",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Saak'ak was a modified Lucrehulk-class LH-3210 cargo freighter that was part of the private fleet of the Trade Federation and served as the Federation's flagship during the Invasion of Naboo. Commanded by Captain Daultay Dofine, the freighter was visited by Galactic Republic ambassadors, Jedi Master Qui-Gon Jinn and his Padawan, Obi-Wan Kenobi, who were sent to negotiate with the Federation Viceroy, Nute Gunray, about ceasing their blockade to resume trade with the planet Naboo. However, the negotiations did not work and the Jedi were forced to escape to the planet's surface.",
+  "data": {
+    "name": "Saak'ak",
+    "model": "Modified Lucrehulk-class LH-3210 cargo freighter",
+    "length": "3,356.9 meters",
+    "width": "3,009 meters",
+    "height": "1,028.77 meters",
+    "max_accel": "500 kph",
+    "shield_gen": "Equipped",
+    "armament": "42 Quad turbolaser cannons",
+    "complement": [
+      "C-9979 landing craft (50)",
+      "Vulture-class starfighters (1,500)",
+      "Multi-Troop Transports (550)",
+      "Armored Assault Tanks (6,520)",
+      "Core ship"
+    ],
+    "bays": "2",
+    "crew": [
+      "Neimoidians",
+      "OOM pilot battle droids"
+    ],
+    "passengers": [
+      "139,000 battle droids",
+      "  B1-series battle droids",
+      "  OOM-series security droids",
+      "  Droidekas",
+      "PK-series worker droids"
+    ],
+    "communications": "Equipped",
+    "othersystems": "Droid laser turrets",
+    "role": [
+      "Flagship",
+      "Heavy transport",
+      "Warship"
+    ],
+    "affiliation": "Trade Federation",
+    "navy": "Trade Federation fleet",
+    "captains": [
+      "Daultay Dofine",
+      "Nute Gunray"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

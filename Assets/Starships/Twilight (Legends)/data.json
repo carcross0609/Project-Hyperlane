@@ -1,0 +1,67 @@
+{
+  "name": "Twilight",
+  "wookieepedia_title": "Twilight/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Twilight/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Twilight was a G9 Rigger freighter that was originally used by Hutt crime lord Ziro Desilijic Tiure as a spice freighter during the Clone Wars. Later in the Battle of Teth, Jedi Knight Anakin Skywalker and his Padawan, Ahsoka Tano, used it to take Hutt crime lord Jabba Desilijic Tiure's son back to his home planet of Tatooine, but were shot down over the planet and were forced to crash-land the ship. After they abandoned it, the ship was scavenged by Jawas, and Skywalker later returned and reclaimed it.",
+  "data": {
+    "name": "Twilight",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "G9 Rigger-class light freighter",
+    "type": "Freighter",
+    "cost": [
+      "85,000 credits (new)",
+      "45,000 credits (used) (standard G9 Rigger freighter)"
+    ],
+    "modifier": "Anakin Skywalker",
+    "length": "34.1 meters",
+    "width": "16.97 meters",
+    "height": "15.73 meters (outrigger extended)",
+    "max_speed": "700 km/h (before upgrades)",
+    "engine": "Equipped x3",
+    "hyperdrive": "Class 3 (before upgrades)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy blasters (3)",
+      "Rotating laser cannon with periscope control (1)"
+    ],
+    "complement": "Anakin Skywalker's Delta-7B Aethersprite-class light interceptor",
+    "bays": "1",
+    "escapepods": "Equipped x1",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "skeleton": "1-2 pilots",
+    "passengers": "6",
+    "capacity": "70 tons",
+    "cargohandling": [
+      "Harpoon and tow cable",
+      "magnetic field"
+    ],
+    "consumables": "1 month/medical pills",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "role": "Spice freighter",
+    "commission": "22 BBY, Teth",
+    "destroyed": "20 BBY, Mandalore",
+    "affiliation": [
+      "Ziro Desilijic Tiure",
+      "Galactic Republic (commandeered)"
+    ],
+    "navy": "Skywalker's fleet",
+    "owners": [
+      "Ziro Desilijic Tiure (former)",
+      "Anakin Skywalker"
+    ],
+    "captains": "Anakin Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

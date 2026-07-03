@@ -1,0 +1,47 @@
+{
+  "name": "Fireball",
+  "wookieepedia_title": "Fireball",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fireball",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Fireball was an old racer that Team Fireball tried to restore in their repair shop on the Colossus, a refueling station on the planet Castilon. It was given its name because of its tendency to burst into flames and/or explode.",
+  "data": {
+    "name": "Fireball",
+    "model": "Custom",
+    "type": [
+      "Starfighter",
+      "Racing starfighter"
+    ],
+    "length": "13 meters (42 ft, 8 in)",
+    "mglt": "120 MGLT",
+    "engine": "Z-75 Headhunter engine (rumored)",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "2 KX11C laser cannons (wingtip-mounted)",
+      "Missile launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "role": [
+      "Racer",
+      "Starfighter"
+    ],
+    "affiliation": [
+      "Team Fireball",
+      "Resistance",
+      "  Team Colossus",
+      "  Ace Squadron",
+      "Citizens' Fleet"
+    ],
+    "fleet": "Citizens' Fleet",
+    "owners": [
+      "Jarek Yeager",
+      "Kazuda Xiono"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

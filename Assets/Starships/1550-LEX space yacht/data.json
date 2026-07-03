@@ -1,0 +1,29 @@
+{
+  "name": "1550-LEX space yacht",
+  "wookieepedia_title": "1550-LEX space yacht",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/1550-LEX_space_yacht",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The 1550-LEX space yacht was a luxury spacecraft produced by the SoroSuub Corporation during the Galactic Civil War.",
+  "data": {
+    "name": "1550-LEX space yacht",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "LEX",
+    "model": "1550-LEX",
+    "type": "Space yacht",
+    "length": "30.4 meters",
+    "hyperdrive": "Class 1.0",
+    "shield_gen": "Equipped",
+    "armament": "None",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "6",
+    "capacity": "25 metric tons",
+    "consumables": "2 months",
+    "role": "Yacht",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "MorningStar-C starfighter",
+  "wookieepedia_title": "MorningStar-C starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MorningStar-C_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MorningStar-C was a starfighter popular with mercenaries around the time of the Battle of Naboo. It was a variant of the MorningStar-B starfighter with 3 concussion missile launchers instead of light laser cannons.",
+  "data": {
+    "name": "MorningStar-C starfighter",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "MorningStar-C starfighter",
+    "type": "Starfighter",
+    "cost": "43,000 credits (10,000 used)",
+    "length": "16.3 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 2",
+    "armament": [
+      "Heavy laser cannons (3)",
+      "Concussion missile launchers (3)",
+      "  30 missiles total (10 each)"
+    ],
+    "crew": "Pilot (1)",
+    "capacity": "75 kg",
+    "consumables": "3 days",
+    "availability": "Restricted",
+    "role": "Space superiority fighter",
+    "affiliation": "Mercenaries"
+  },
+  "scraped": "2026-07-03"
+}

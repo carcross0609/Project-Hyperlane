@@ -1,0 +1,49 @@
+{
+  "name": "Apailana's Promise",
+  "wookieepedia_title": "Apailana's Promise",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Apailana%27s_Promise",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Apailana's Promise, or simply the Promise, was a Braha'tok-class gunship that served the Rebel Alliance during the Galactic Civil War. It bore two X-wings attached to its undercarriage and was crewed by a dozen navy veterans. Three such crew members were Commander Tohna, the second-in-command Sharn and the rebel pilot Nemenov. By 3 ABY, the Promise was serving as escort to the CR90 corvette Thunderstrike, the mobile base of the Alliance's 61st Mobile Infantry, better known as Twilight Company.",
+  "data": {
+    "name": "Apailana's Promise",
+    "manufacturer": "Dornean Braha'ket Fleetworks Conglomerate",
+    "model": "Braha'tok-class gunship",
+    "type": "Gunship",
+    "cost": "1,400,000 credits",
+    "length": "90 meters",
+    "max_speed": "800 kilometers per hour",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "hull": "Silver plating",
+    "sensor": "Long range",
+    "navigation": "Equipped",
+    "armament": [
+      "Double turbolaser cannons (8)",
+      "Concussion missile launchers (8)"
+    ],
+    "complement": "T-65B X-wing starfighters (2)",
+    "crew": "75",
+    "passengers": "15",
+    "capacity": "300",
+    "consumables": "Eight standard months",
+    "role": [
+      "Bombardment",
+      "Fast attack",
+      "Anti-starfighter",
+      "Escort",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  61st Mobile Infantry",
+      "New Republic"
+    ],
+    "navy": [
+      "Rebel Alliance Navy",
+      "New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

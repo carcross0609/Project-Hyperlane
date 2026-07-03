@@ -1,0 +1,24 @@
+{
+  "name": "Tempest Zero",
+  "wookieepedia_title": "Tempest Zero/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tempest_Zero/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Tempest Zero was an advanced Starfighter design produced by the people of Valahari.",
+  "data": {
+    "name": "Tempest Zero",
+    "type": "Starfighter",
+    "armament": [
+      "Forward-facing laser cannons (4)",
+      "Harpoon gun (1)",
+      "Missile launcher (1)",
+      "Backward-facing laser cannon (1)"
+    ],
+    "firstuse": "c. 22 BBY",
+    "affiliation": [
+      "Tofen's Raiders",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

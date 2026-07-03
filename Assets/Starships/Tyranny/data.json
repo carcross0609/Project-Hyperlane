@@ -1,0 +1,31 @@
+{
+  "name": "Tyranny",
+  "wookieepedia_title": "Tyranny",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tyranny",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tyranny was an Imperial-class Star Destroyer stationed at Fresia.",
+  "data": {
+    "name": "Tyranny",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyer",
+    "model": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "max_accel": "2,300 G",
+    "mglt": "60 MGLT",
+    "engine": [
+      "KDY Destroyer-I ion engine (3)",
+      "Cygnus Spaceworks Gemon-4 ion engine (4)"
+    ],
+    "hyperdrive": "Equipped",
+    "shield_gen": "KDY ISD-72x deflector shield generator domes (2)",
+    "complement": "TIE/LN starfighters",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Fresia Defense Fleet",
+    "captains": "Unidentified Tyranny commander"
+  },
+  "scraped": "2026-07-03"
+}

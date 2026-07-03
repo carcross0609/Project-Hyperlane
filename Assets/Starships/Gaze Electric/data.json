@@ -1,0 +1,38 @@
+{
+  "name": "Gaze Electric",
+  "wookieepedia_title": "Gaze Electric",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gaze_Electric",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Gaze Electric was a starship used by the Evereni Ro family, whose members were part of the Path of the Open Hand religious cult, and later the Nihil pirate syndicate over the course of many decades of the High Republic Era.",
+  "data": {
+    "name": "Gaze Electric",
+    "manufacturer": "Path of the Open Hand",
+    "type": "Star Cruiser",
+    "length": "Well over 300 meters",
+    "hdsystem": "Equipped",
+    "navigation": "Equipped",
+    "passengers": "Designed for thousands",
+    "communications": "Equipped",
+    "othersystems": [
+      "Path engine",
+      "Central database"
+    ],
+    "role": "Flagship",
+    "commission": "382 BBY",
+    "destroyed": "228 BBY, above Sophros",
+    "affiliation": [
+      "Path of the Open Hand",
+      "Nihil"
+    ],
+    "fleet": "Nihil fleet",
+    "owners": [
+      "Elecia Zeveron",
+      "Marda Ro",
+      "Asgar Ro",
+      "Marchion Ro"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Armos modular transport",
+  "wookieepedia_title": "Armos modular transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Armos_modular_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Armos Modular Transport was a popular model of transport in the Outer Rim Territories and produced by SoroSuub Corporation during the Galactic Civil War.",
+  "data": {
+    "name": "Armos modular transport",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Armos",
+    "type": "Transport",
+    "cost": "780,000 credits",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15 (backup)"
+    ],
+    "navigation": "Equipped",
+    "crew": "150",
+    "passengers": "1,000"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,81 @@
+{
+  "name": "T-70 X-wing starfighter",
+  "wookieepedia_title": "T-70 X-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-70_X-wing_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The T-70 X-wing starfighter, also known as the T-70 X-wing fighter, was a next-generation model of the X-wing starfighter utilized by the New Republic Defense Fleet as the successor to the T-65B X-wing starfighter, manufactured by Incom-FreiTek Corporation.",
+  "data": {
+    "name": "T-70 X-wing starfighter",
+    "manufacturer": "Incom-FreiTek Corporation",
+    "line": "X-wing starfighter",
+    "model": "T-70 X-wing",
+    "type": "Starfighter",
+    "cost": [
+      "200,000 credits (new)",
+      "110,000 (used)"
+    ],
+    "length": "12.49 meters (41 ft)",
+    "width": "11.26 meters (37 ft)",
+    "height": "1.92 meters (6 ft 3 in)",
+    "mass": "5,358 kg (11,812 lbs) (empty)",
+    "max_accel": "3,800 G",
+    "mglt": "110 MGLT (in open space)",
+    "max_speed": "1,100 kph",
+    "engine": "Incom-FreiTek 5L5 fusial thrust engines (4)",
+    "hyperdrive": "Class 1",
+    "hdsystem": [
+      "Incom GBk-685 hyperdrive units (4)",
+      "Incom GBn-682 hyperdrive motivators (4)"
+    ],
+    "shield_gen": [
+      "Chempat deflector shield generator",
+      "Rseik Hullspace S14 \"Energy Armor\" deflector shield generator"
+    ],
+    "hull": "Heavily armored",
+    "sensor": "Equipped",
+    "target": "Fabritech ANq 5.8 tracking computer with IN-622-A \"Sightline\" holographic imaging system",
+    "navigation": "Astromech droid",
+    "countermeasures": "Sensor-scattering ferrosphere paint",
+    "armament": [
+      "Taim & Bak KX12 laser cannons (4)",
+      "Several modular secondary weapon pods, either:",
+      "  Krupx MG7-A torpedo launchers (2)",
+      "    Miniaturized Krupx MG7-A proton torpedoes (8) (standard configuration)",
+      "    Concussion missiles",
+      "    Mag-pulse warheads",
+      "    Ion bombs (4+)",
+      "  Heavy laser cannons",
+      "BlasTech Ax-190-B blaster cannon (1) (automated, undercarriage-mounted)"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "consumables": "1 week",
+    "lifesupport": "Equipped",
+    "communications": "Subspace communications antenna",
+    "othersystems": [
+      "S-foils",
+      "Spotlight"
+    ],
+    "role": [
+      "Space superiority fighter",
+      "Capital ship assault",
+      "Surface attack",
+      "Escort"
+    ],
+    "firstuse": "5 ABY (prototype)",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Resistance",
+      "  Resistance navy",
+      "  Inferno Squad",
+      "First Order (stolen)",
+      "  First Order Navy (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

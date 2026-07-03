@@ -1,0 +1,34 @@
+{
+  "name": "Justice",
+  "wookieepedia_title": "Justice (MC80 Star Cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Justice_%28MC80_Star_Cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Justice was a MC80 Liberty type Mon Calamari Star Cruiser used by the New Republic.",
+  "data": {
+    "name": "Justice",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC80 Star Cruisers",
+    "model": "MC80 Liberty type Star Cruiser",
+    "type": "Battle cruiser",
+    "complement": "10 starfighter squadrons",
+    "passengers": "Nearly 8,000 troops",
+    "role": [
+      "Carrier",
+      "Flagship"
+    ],
+    "destroyed": "5.5 ABY, Mindor",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "fleet": [
+      "Third Fleet",
+      "Rapid Response Task Force"
+    ],
+    "captains": [
+      "Admiral Kalback",
+      "General Luke Skywalker"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

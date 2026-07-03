@@ -1,0 +1,68 @@
+{
+  "name": "Darksaber",
+  "wookieepedia_title": "Darksaber (superweapon)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darksaber_%28superweapon%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "SpaceStation",
+  "description": "The Darksaber battle station was a superweapon built by the crime lord Durga the Hutt in 12 ABY. A member of the Besadii kajidic, Durga wanted to use the superweapon to hold ransom entire planets and spread his influence throughout the galaxy. Based on the set of plans for the original Death Star battlestation stolen by Durga from the former Imperial Information Center on the galactic capital of Coruscant, the Darksaber was designed by the engineer Bevel Lemelisk, the creator of the Death Star and a number of other superweapons. Lemelisk adjusted the plans to the Hutt's wishes, removing all the Imperial padding and leaving only the central superlaser weapon, encased in a cylindrical durasteel shell. The resulting shape closely resembled that of the lightsaber, the traditional weapon of the Jedi Knights, so Lemelisk christened his creation accordingly: the Darksaber.",
+  "data": {
+    "is_mobile": "1",
+    "name": "Darksaber",
+    "designer": "Bevel Lemelisk",
+    "manufacturer": [
+      "Orko SkyMine Asteroid Processing Corporation",
+      "Besadii kajidic"
+    ],
+    "type": "Battlestation",
+    "length": "Several kilometers",
+    "maneuverability": "Greater than that of the Death Star (estimated)",
+    "engine": "Equipped",
+    "poweroutput": "More powerful than the Death Star (estimated)",
+    "hull": "Low-quality durasteel armor",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "maincomp": "Outdated computer cores",
+    "armament": "Superlaser (1)",
+    "bays": [
+      "Construction access bay",
+      "Bevel Lemelisk's private bay"
+    ],
+    "escapepods": "1 scooter",
+    "skeleton": "Several Devaronian, Twi'lek, and Weequay technicians",
+    "passengers": [
+      "Taurill workers",
+      "Gamorrean, Weequay, Nikto, and Aqualish guards",
+      "Hundreds of Hutts and their entourage (estimated)"
+    ],
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "othersystems": [
+      "Turbolifts",
+      "Waste heat exhaust system"
+    ],
+    "role": [
+      "Battlestation",
+      "Battleship (dreadnaught)"
+    ],
+    "affiliation": "Besadii kajidic",
+    "constructed": "12 ABY",
+    "destroyed": "12 ABY, Hoth asteroid belt",
+    "battles": "Battle for the Darksaber",
+    "owners": "Durga Besadii Tai",
+    "namedcrew": [
+      "Sulamar",
+      "Devaronian sensor chief",
+      "Twi'lek security chief",
+      "Weequay navigator"
+    ],
+    "captains": "Durga Besadii Tai",
+    "aliases": "Darksaber Project",
+    "sectors": [
+      "Engine section",
+      "Living quarters",
+      "Bridge"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

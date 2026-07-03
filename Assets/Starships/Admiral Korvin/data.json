@@ -1,0 +1,35 @@
+{
+  "name": "Admiral Korvin",
+  "wookieepedia_title": "Admiral Korvin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Admiral_Korvin",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Admiral Korvin was an ex-Trade Federation Captor-class heavy munitions cruiser, assigned by Wilhuff Tarkin as the command ship of Raith Sienar's small fleet for his mission to Zonama Sekot in 29 BBY. It is not known who the ship was named after, or indeed if it was named after anyone. Its commander was Captain Kett.",
+  "data": {
+    "name": "Admiral Korvin",
+    "model": "Captor-class heavy munitions cruiser",
+    "complement": [
+      "Droid starfighters (at least 30)",
+      "C-9979 landing craft (3)",
+      "Taxon-class probe ship (1)"
+    ],
+    "passengers": [
+      "B1-series battle droids",
+      "E-5 battle droids",
+      "Human troops (100)"
+    ],
+    "role": "Command ship",
+    "affiliation": [
+      "Trade Federation",
+      "Galactic Republic"
+    ],
+    "navy": [
+      "Trade Federation Defense Fleet",
+      "Republic Outland Regions Security Force"
+    ],
+    "owners": "Wilhuff Tarkin",
+    "captains": "Captain Kett"
+  },
+  "scraped": "2026-07-03"
+}

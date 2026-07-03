@@ -1,0 +1,40 @@
+{
+  "name": "Clone Z-95 starfighter",
+  "wookieepedia_title": "Clone Z-95 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Clone_Z-95_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The clone Z-95 starfighter, also known as the clone Z-95 Headhunter and more commonly known as the Headhunter starfighter, was a model of starfighter and variant of the standard Z-95 Headhunter used by the Galactic Republic's clone trooper pilots during the Clone Wars. Although not introduced until some time into the war, the clone Z-95 became one of the most popular forms of Republic air support. The versatile fighter saw action from the Battle of Umbara until the end of the war.",
+  "data": {
+    "name": "Clone Z-95 starfighter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Sublights Products Corporation"
+    ],
+    "line": "Z-95 Headhunter",
+    "model": "Clone Z-95 starfighter",
+    "type": "Starfighter",
+    "cost": "75,000 credits",
+    "length": "16.74 meters",
+    "width": "18.13 meters",
+    "hdsystem": "None",
+    "shield_gen": "XoLynn 9771 deflector shield generator",
+    "sensor": "Close-range sensors",
+    "armament": [
+      "Taim & Bak KX5 laser cannons",
+      "Proton torpedo launchers (2)",
+      "  8 proton torpedoes each"
+    ],
+    "crew": "1 pilot",
+    "consumables": "1 day",
+    "role": "Multi-role starfighter",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Starfighter Corps",
+      "Resistance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

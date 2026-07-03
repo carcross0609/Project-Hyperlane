@@ -1,0 +1,28 @@
+{
+  "name": "Imperial Research Ship",
+  "wookieepedia_title": "Imperial Research Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Research_Ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperial Research Ship was a ship used by the Empire in its experimental TIE starfighter program, presumably involved in the research and development of new designs. The ship's eight hangars undoubtedly held large numbers of experimental designs, though the exact number is unknown.",
+  "data": {
+    "name": "Imperial Research Ship",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Imperial Research Ship",
+    "type": "Cruiser",
+    "length": "651 meters",
+    "width": "329 meters",
+    "height": "251 meters",
+    "shield_gen": "Rated 1600 SBD",
+    "hull": "Rated 4864 RU",
+    "armament": "None",
+    "complement": "TIE Experimental starfighters",
+    "role": [
+      "Carrier",
+      "Research vessel",
+      "Control center for remotely-piloted craft"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

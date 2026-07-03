@@ -1,0 +1,33 @@
+{
+  "name": "YT-1000 light freighter",
+  "wookieepedia_title": "YT-1000 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1000_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-1000 light freighter or YT-1000 transport was a freighter produced by Corellian Engineering Corporation. It bore distinct similarities to its successor, the YT-1300 light freighter. It was a smaller vessel, and featured a top-mounted cockpit.",
+  "data": {
+    "name": "YT-1000 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1000",
+    "type": "Light freighter",
+    "cost": [
+      "85,000 credits (New)",
+      "20,000 credits (Used)"
+    ],
+    "length": "28 meters",
+    "max_speed": "740 km/h",
+    "hyperdrive": [
+      "Class 3",
+      "Backup: Class 16"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon turret",
+    "crew": "2",
+    "passengers": "4",
+    "capacity": "75 metric tons",
+    "consumables": "2 months"
+  },
+  "scraped": "2026-07-03"
+}

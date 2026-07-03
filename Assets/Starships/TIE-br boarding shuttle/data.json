@@ -1,0 +1,29 @@
+{
+  "name": "TIE/br boarding shuttle",
+  "wookieepedia_title": "TIE/br boarding shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/br_boarding_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/br boarding shuttle, also known as the TIE Boarding Craft or Imperial boarding craft, was a variant of the TIE/sa bomber used for boarding and troop transportation and as a boarding craft.",
+  "data": {
+    "name": "TIE/br boarding shuttle",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/br boarding shuttle",
+    "type": "Boarding craft",
+    "length": "7.8 meters",
+    "armament": "Rear laser cannon",
+    "crew": "Pilot (1)",
+    "passengers": ">12",
+    "othersystems": [
+      "Cutting tool",
+      "Tractor beam"
+    ],
+    "role": [
+      "Shuttle",
+      "Boarding craft"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

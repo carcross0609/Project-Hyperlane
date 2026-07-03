@@ -1,0 +1,90 @@
+{
+  "name": "EF76 Nebulon-B escort frigate",
+  "wookieepedia_title": "EF76 Nebulon-B escort frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/EF76_Nebulon-B_escort_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The EF76 Nebulon-B escort frigate was a 300-meter-long warship that was built by Kuat Drive Yards for use by the Imperial Navy, to protect convoys from Rebel Alliance starfighter actions. It was, however, used more famously by the Rebellion.",
+  "data": {
+    "name": "EF76 Nebulon-B escort frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Frigate",
+    "cost": "8,500,000 credits 6,400,300 used",
+    "length": "300 meters",
+    "width": "72 meters",
+    "height": "166 meters",
+    "max_accel": "1,200 G",
+    "mglt": "40 MGLT",
+    "max_speed": "800 km/h",
+    "engine": "Kuat Galaxy-15 ion engines (7)",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": [
+      "Serridge SEAL shielding system",
+      "Enhanced Delphus JC-671 projectors",
+      "Rated 960 SBD"
+    ],
+    "hull": "Titanium-reinforced alloy (rated 448 RU)",
+    "sensor": "Fabritech ANs-9.5w wide range sensor system",
+    "target": "Plat Dromma targeting computer",
+    "navigation": "Equipped",
+    "armament": [
+      "Medium Taim & Bak XI7 turbolaser turrets (12)",
+      "  6 fore",
+      "  3 port",
+      "  3 starboard",
+      "Light point-defense Borstel RH8 laser cannon turrets (12)",
+      "  6 fore",
+      "  2 port",
+      "  2 starboard",
+      "  2 aft",
+      "Heavy Phylon Q7 tractor beam projectors (2)",
+      "Typical:",
+      "Warhead launcher (1)",
+      "  Advanced concussion missiles",
+      "  Torpedoes"
+    ],
+    "complement": [
+      "Starfighters (24)",
+      "Shuttles, e.g.:",
+      "  Lambda-class",
+      "  Grek-class",
+      "  Katarn-class"
+    ],
+    "crew": [
+      "Crew (854)",
+      "Gunners (66)"
+    ],
+    "skeleton": "307",
+    "passengers": "75 troops",
+    "capacity": "6,000 metric tons",
+    "consumables": "2 years",
+    "availability": "Not available for sale",
+    "role": [
+      "Escort starship",
+      "Picket",
+      "Starfighter screening",
+      "Long-range patrol",
+      "Search and rescue",
+      "Command ship",
+      "Assault ship",
+      "Medical frigate (modification)"
+    ],
+    "firstuse": "19 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Zann Consortium",
+      "Ripoblus government",
+      "Zsinj's Empire",
+      "Five Worlds",
+      "Confederation",
+      "Black Sun"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

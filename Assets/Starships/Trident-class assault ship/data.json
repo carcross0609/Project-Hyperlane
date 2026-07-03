@@ -1,0 +1,36 @@
+{
+  "name": "Trident-class assault ship",
+  "wookieepedia_title": "Trident-class assault ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trident-class_assault_ship",
+  "continuity": "Canon",
+  "infobox_template": "AquaticVehicle",
+  "description": "The Trident-class assault ship, also known as the Trident assault ship, was a model of aquatic gunship manufactured by the Colicoid Creation Nest. They were used by the Confederacy of Independent Systems during the Clone Wars. The starships acted as both attack craft and transports that could travel underwater and in space. A larger version of the ship known as the Trident drill assault craft had a giant drill spike located at the bottom of the craft, which could be used to penetrate the hulls of battleships and bunkers. The ship could then release troops such as AQ-series battle droids by use of deployment racks through the hole it created.",
+  "data": {
+    "name": "Trident-class assault ship",
+    "manufacturer": "Colicoid Creation Nest",
+    "model": "Trident-class assault ship",
+    "type": [
+      "Assault ship",
+      "Transport"
+    ],
+    "cost": "120,000 credits",
+    "length": "88.71 meters",
+    "speed": "75 megalight per hour (sublight speed)",
+    "shield_gen": "Equipped",
+    "sensor": "Short-ranged sensors",
+    "armament": [
+      "Armored mechanical durasteel tentacles (4)",
+      "Drill spike (1)",
+      "Laser cannons (8)"
+    ],
+    "passengers": "12 AQ-series battle droids",
+    "capacity": "350 tons",
+    "consumables": "72 hours",
+    "othersystems": "magnetic grapples built on tentacles",
+    "affiliation": [
+      "Confederacy of Independent Systems;",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Nebulon Ranger",
+  "wookieepedia_title": "Nebulon Ranger",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nebulon_Ranger",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Nebulon Ranger was a modified Coruscant-class Heavy Courier starship that belonged to Jedi Knight Cay Qel-Droma. Originally an ordinary space transport, the Ranger was modified extensively by Qel-Droma, who transformed it into what he considered a very trustworthy vessel. In 4000 BBY, Qel-Droma, his brother Ulic, and the Twi'lek Tott Doneeta were sent to the world of Onderon by Jedi Master Arca Jeth to bring peace to the long-lasting Beast Wars planetary conflict. After traveling across the galaxy to the Inner Rim world, the three Jedi were enlisted to retrieve Onderonian Queen Amanoa's kidnapped daughter. In the search for the missing Princess over the planet's forests, the Nebulon Ranger was shot down by a seeker-torpedo fired by the Beast Riders, a group of exiled dissidents fighting Onderon's monarchy. The damage was repairable and after discovering that Princess Galia had staged the kidnapping with the Beast Riders to escape the monarchy's use of the dark side, the Jedi joined the Beast Riders' side. Once fully repaired, the Ranger headed for the capital city of Iziz with the intention of negotiating for peace. Although Amanoa rejected the occupant's overtures, she and her army were ultimately defeated in the final battle of the Beast Wars, during which the Nebulon Ranger saw minimal action.",
+  "data": {
+    "name": "Nebulon Ranger",
+    "manufacturer": "Krasten Shipyards",
+    "model": "Modified Coruscant-class Heavy Courier",
+    "type": "Space transport",
+    "cost": "Not available for sale",
+    "modifier": "Cay Qel-Droma",
+    "length": "25 meters",
+    "max_speed": "1,150 km/s",
+    "hyperdrive": "Class 1.5",
+    "armament": [
+      "Laser cannons (4)",
+      "Concussion missile launchers (2)",
+      "  8 missiles each",
+      "Pulse-wave cannon",
+      "Proton torpedo launchers (2)",
+      "  Six torpedoes each"
+    ],
+    "escapepods": "3",
+    "crew": "2",
+    "passengers": "4",
+    "capacity": "20 metric tons",
+    "consumables": "2 months",
+    "destroyed": "3996 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ],
+    "owners": "Cay Qel-Droma"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Nantex-class territorial defense starfighter",
+  "wookieepedia_title": "Nantex-class territorial defense starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nantex-class_territorial_defense_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nantex-class territorial defense starfighter, also known as the beak-wing fighter or simply the Geonosian starfighter, was a model of starfighter that was manufactured by Huppla Pasa Tisc Shipwrights Collective and designed for the exclusive use of the Geonosians when guarding Geonosis against intruders. During the Clone Wars, these small, speedy craft would see service with the naval and land forces of the Confederacy of Independent Systems in a small number of key battles, including the campaigns of Sev'rance Tann and the Battle of Muunilinst, as well as the First Battle of Geonosis itself that saw the opening shots of the galactic conflict.",
+  "data": {
+    "name": "Nantex-class territorial defense starfighter",
+    "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+    "model": "Nantex-class territorial defense starfighter",
+    "type": "Starfighter",
+    "length": "9.8 meters",
+    "width": "1.9 meters",
+    "height": "2.2 meters",
+    "max_accel": "4,500 G",
+    "max_speed": "1,250 km/h",
+    "hdsystem": "None",
+    "shield_gen": "None",
+    "hull": "Reinforced laminasteel",
+    "armament": "Laser cannon turret (1)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "50 kg",
+    "consumables": "2 days",
+    "availability": "Military",
+    "role": [
+      "Space superiority fighter",
+      "Interceptor"
+    ],
+    "affiliation": [
+      "Geonosians",
+      "Confederacy of Independent Systems",
+      "InterGalactic Banking Clan"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

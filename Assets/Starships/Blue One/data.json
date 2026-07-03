@@ -1,0 +1,63 @@
+{
+  "name": "Blue One",
+  "wookieepedia_title": "Blue One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blue_One",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Blue One was a T-65 X-wing starfighter that was used by Rebel Alliance pilot General Antoc Merrick. Merrick notably used Blue One during the Battle of Scarif, where he was killed when his fighter was shot down.",
+  "data": {
+    "name": "Blue One",
+    "manufacturer": "Incom Corporation",
+    "line": "X-wing starfighter",
+    "model": "T-65 X-wing starfighter",
+    "type": "Starfighter",
+    "length": "12.5 meters long",
+    "mass": "10 metric tons",
+    "max_speed": "1,050 kph",
+    "engine": [
+      "Incom 4L4 fusial thrust engines (4)",
+      "Alternate configuration:",
+      "Incom 4j.4 fusial thrust engines (4)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Novaldex 04-Z cryogenic power generator",
+    "shield_gen": [
+      "Chepat \"Defender\" deflector shield projector",
+      "Deflector shield generator"
+    ],
+    "sensor": [
+      "Carbanti transceiver package:",
+      "Fabritech ANs-5d \"lock track\" full-spectrum transceiver",
+      "Melihat \"Multi Imager\" dedicated energy receptor",
+      "Tana Ire Electro-photo receptor",
+      "Alternate Configuration:",
+      "Fabritech ANs-5d \"lock track\" full-spectrum transceiver",
+      "PA-9r long-range phased tachyon detection array",
+      "PG-7u short-range primary threat analysis grid"
+    ],
+    "target": "Equipped",
+    "navigation": "Astromech droid",
+    "armament": [
+      "Taim & Bak KX9 laser cannons (4)",
+      "Krupx MG7 proton torpedo launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "consumables": "One-week supply",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "othersystems": "S-foils",
+    "destroyed": "1 BBY, Scarif",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": "Blue Squadron",
+    "owners": "General Antoc Merrick"
+  },
+  "scraped": "2026-07-03"
+}

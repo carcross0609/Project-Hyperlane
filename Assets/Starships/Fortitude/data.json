@@ -1,0 +1,24 @@
+{
+  "name": "Fortitude",
+  "wookieepedia_title": "Fortitude",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fortitude",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Fortitude was a Maxima-A-class heavy cruiser in the service in the naval forces of the First Order under the command of Colonel Barrut. It attacked Grail City after the destruction of the New Republic's capital planet Hosnian Prime but was defeated by Black Squadron.",
+  "data": {
+    "name": "Fortitude",
+    "model": "Maxima-A-class heavy cruiser",
+    "type": "Heavy cruiser",
+    "complement": "Multiple TIE/fo space superiority fighters",
+    "commission": "Sometime before the Battle of Ikkrukk",
+    "destroyed": "34 ABY, Ikkrukk",
+    "affiliation": [
+      "First Order",
+      "  First Order military"
+    ],
+    "navy": "First Order Navy",
+    "captains": "Barrut"
+  },
+  "scraped": "2026-07-03"
+}

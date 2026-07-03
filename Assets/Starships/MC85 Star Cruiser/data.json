@@ -1,0 +1,84 @@
+{
+  "name": "MC85 Star Cruiser",
+  "wookieepedia_title": "MC85 Star Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC85_Star_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The MC85 Star Cruiser, alternatively spelled MC-85 Star Cruiser, also known as the Resistance Cruiser or the Resistance Carrier, was a heavy Star Cruiser manufactured by the Mon Calamari Shipyards and the Corellian Engineering Corporation after the Galactic Civil War. It was used by the New Republic fleet and the Resistance navy.",
+  "data": {
+    "name": "MC85 Star Cruiser",
+    "manufacturer": [
+      "Corellian Engineering Corporation",
+      "Mon Calamari Shipyards"
+    ],
+    "line": "MC-series star cruiser",
+    "model": "MC85 Star Cruiser",
+    "type": "Heavy Star Cruiser",
+    "length": "3,438.37 meters (11,280.74 ft)",
+    "width": "706.55 meters (2,318.08 ft)",
+    "height": "461.61 meters (1,514.84 ft)",
+    "mglt": "75 MGLT",
+    "engine": "11 Sublight ion engines",
+    "hyperdrive": "Class 2",
+    "hdsystem": "2 hyperdrive generators",
+    "power": [
+      "Main reactor",
+      "Ion scoop particle collector"
+    ],
+    "shield_gen": "Advanced experimental deflector shields",
+    "hull": "Durasteel hull plating",
+    "sensor": [
+      "1 ventral integrated sensor array",
+      "1 forward sensor array group"
+    ],
+    "target": [
+      "1 ventral integrated targeting array",
+      "1 dorsal turbolaser targeting array"
+    ],
+    "countermeasures": "Sensor jammer and stealth systems",
+    "armament": [
+      "18 heavy turbolasers",
+      "18 heavy ion cannons",
+      "12 point-defense laser cannon turrets",
+      "6 proton torpedo launchers",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "At least 7 T-70 X-wing starfighters",
+      "At least 4 RZ-2 A-wing interceptors",
+      "At least 30 U-55 orbital loadlifters",
+      "At least 1 Resistance transport pod",
+      "At least 4 squadrons of MG-100 StarFortress SF-17 heavy bombers"
+    ],
+    "bays": "2",
+    "escapepods": "Escape pods",
+    "skeleton": "About 210 - 1,139",
+    "passengers": "More than 219",
+    "capacity": "60 modular storage compartments",
+    "lifesupport": "Enabled",
+    "communications": [
+      "Short range communications array (1)",
+      "Primary communications array (1)"
+    ],
+    "othersystems": [
+      "Emergency command bridge",
+      "Vehicle repair bay",
+      "Droid repair bay",
+      "Aquatic species waterways"
+    ],
+    "role": [
+      "Battleship",
+      "Heavy warship",
+      "Carrier",
+      "Flagship"
+    ],
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Resistance",
+      "  Resistance navy",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

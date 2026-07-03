@@ -1,0 +1,25 @@
+{
+  "name": "ARC-200 Wing Cutter Fighter",
+  "wookieepedia_title": "ARC-200 Wing Cutter Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ARC-200_Wing_Cutter_Fighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The ARC-200 Wing Cutter Fighter was a starfighter used by the Ashiga Clan and the Hutt Clan during the Imperial Era. The ARC-200 used the same heavy blaster cannons used by the ARC-170 starfighter, as well as a similar prow and cockpit design. Like the ARC-170, the ARC-200 Wing Cutter also had two rear blaster turrets, missile launchers, and a dorsal astromech socket.",
+  "data": {
+    "name": "ARC-200 Wing Cutter Fighter",
+    "type": "Starfighter",
+    "engine": "Equipped (2)",
+    "armament": [
+      "Heavy blaster cannons (2)",
+      "Rear blaster turret (2)",
+      "Missile launchers"
+    ],
+    "role": "Starfighter combat",
+    "affiliation": [
+      "Ashiga Clan",
+      "Hutt Clan",
+      "Zerek Besh"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

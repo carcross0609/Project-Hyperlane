@@ -1,0 +1,41 @@
+{
+  "name": "Etherway",
+  "wookieepedia_title": "Etherway",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Etherway",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Etherway was one of Talon Karrde's starships. It was a modified Corellian Engineering Corporation Action V transport. It sometimes operated under the alias Garret's Gold. The Etherway was present at the Smugglers' Alliance meeting on Hijarna. After being impounded on Abregado-rae, Aves piloted it during the Battle of Bilbringi. While trying to rescue a group of Jedi students at Yavin 4, its power grid shut down and may have been destroyed by the Yuuzhan Vong.",
+  "data": {
+    "name": "Etherway",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Action V transport",
+    "type": "Capital ship",
+    "cost": [
+      "New: 2 million credits",
+      "Used: 1 million credits"
+    ],
+    "length": "115 meters",
+    "hyperdrive": [
+      "Class 3",
+      "Backup: Class 12"
+    ],
+    "hdsystem": "Equipped",
+    "armament": "Turbolasers (3)",
+    "crew": [
+      "Pilot (1)",
+      "Navigator (1)",
+      "Gunners (3)"
+    ],
+    "passengers": "6",
+    "capacity": "75,000 metric tons",
+    "consumables": "3 months",
+    "affiliation": [
+      "Car'das smugglers",
+      "Smugglers' Alliance"
+    ],
+    "owners": "Talon Karrde",
+    "captains": "Aves"
+  },
+  "scraped": "2026-07-03"
+}

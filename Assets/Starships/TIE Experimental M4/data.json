@@ -1,0 +1,30 @@
+{
+  "name": "TIE Experimental M4",
+  "wookieepedia_title": "TIE Experimental M4",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_Experimental_M4",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE Experimental M4, also known as the TIE Bomb, was a guided missile based on TIE Series technology and a part of the TIE Experimental Project.",
+  "data": {
+    "name": "TIE Experimental M4",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series Experimental",
+    "model": "Twin Ion Engine Experimental M4 (T/e4)",
+    "type": "Starfighter",
+    "length": "8.7 meters",
+    "mglt": "144 MGLT",
+    "engine": [
+      "Twin Ion Engines",
+      "1 booster engine"
+    ],
+    "hdsystem": "Equipped",
+    "hull": "Titanium alloy hull (38 RU)",
+    "navigation": "None (slaved to control ship)",
+    "armament": "Suicide explosive payload",
+    "crew": "Remote control system",
+    "passengers": "None",
+    "role": "Long-range anti-capital ship missile",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

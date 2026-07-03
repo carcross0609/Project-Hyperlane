@@ -1,0 +1,31 @@
+{
+  "name": "Guarlara",
+  "wookieepedia_title": "Guarlara (Venator-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Guarlara_%28Venator-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Guarlara was a Venator-class Star Destroyer that served in the Fifth Fleet of the Galactic Republic naval forces' Open Circle Fleet, and participated in the Battle of Coruscant during the Clone Wars in 19 BBY. During the battle, the Guarlara crossed paths with the Confederacy of Independent Systems' naval forces flagship, the Providence-class Dreadnought Invisible Hand, which resulted in a brief confrontation between the two warships.",
+  "data": {
+    "name": "Guarlara",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Ion drive thrusters (8)",
+    "armament": [
+      "AV-7 Anti-vehicle Artillery Cannons",
+      "DBY-827 heavy turbolaser turrets (8)",
+      "Medium dual turbolaser cannons (2)"
+    ],
+    "crew": "Clone troopers",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "fleet": [
+      "Open Circle Fleet",
+      "  Fifth Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

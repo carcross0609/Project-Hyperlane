@@ -1,0 +1,30 @@
+{
+  "name": "Abron Mar's R-41 Starchaser",
+  "wookieepedia_title": "Abron Mar's R-41 Starchaser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Abron_Mar%27s_R-41_Starchaser",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The crime lieutenant Abron Mar owned an R-41 Starchaser. He used it to fly in between Takara's stronghold and the planet Katraasii. While being chased by Mara Jade, Mar would have used his R-41 Starchaser to escape the Katraasii Spaceport, but Jade had sealed the hangar that Mar had parked his ship in. As a result, Mar decided to lay a trap for Jade instead of escape.",
+  "data": {
+    "name": "Abron Mar's R-41 Starchaser",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "R-41 Starchaser",
+    "type": "Starfighter",
+    "length": "16.3 meters",
+    "engine": "Model 4Yb ion fusion engines (4)",
+    "hyperdrive": "Class 2.0",
+    "armament": [
+      "Light laser cannons (2)",
+      "Light ion cannons (2)",
+      "Concussion missile launcher (1)",
+      "  8 concussion missiles"
+    ],
+    "crew": "Pilot (1)",
+    "othersystems": "S-foils",
+    "role": "Multi-role starfighter",
+    "affiliation": "Takara's crime operations",
+    "owners": "Abron Mar"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Monarch",
+  "wookieepedia_title": "Monarch (Star Destroyer)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Monarch_%28Star_Destroyer%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Monarch was an Imperial Star Destroyer, commanded by Captain Averen and serving under Director of Imperial Intelligence Ysanne Isard. It was one of two ships left to defend Imperial Center against the impending New Republic invasion. It surrendered and was eventually added to the New Republic fleet.",
+  "data": {
+    "name": "Monarch",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Victory-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "900 meters",
+    "hdsystem": "Equipped",
+    "complement": "TIE/LN starfighters",
+    "role": "Cruiser",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ],
+    "navy": [
+      "Coruscant Defense Fleet",
+      "New Republic Defense Fleet"
+    ],
+    "captains": "Averen"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Sunulok",
+  "wookieepedia_title": "Sunulok",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sunulok",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sunulok was the flagship of Warmaster Tsavong Lah during the early stage of the Yuuzhan Vong War. It command area was the Glory Room and its mess was the High Chew.",
+  "data": {
+    "name": "Sunulok",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Flagship interdictor",
+    "type": "Capital ship",
+    "length": "908 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 6"
+    ],
+    "armament": [
+      "Yaret-Kors (20)",
+      "Heavy Yaret-Kot (1)",
+      "Gravity well projectors (4)"
+    ],
+    "crew": "638",
+    "passengers": "1,144",
+    "capacity": "17,450 metric tons",
+    "consumables": "9 months",
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Emperor's Glory",
+  "wookieepedia_title": "Emperor's Glory",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Emperor%27s_Glory",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Emperor's Glory was a Harrower-class dreadnought that served as the flagship of the Imperial Navy's Fifth Fleet, under the command of Grand Moff Rycus Kilran during the Cold War between the reconstituted Sith Empire and the Galactic Republic. In 3643 BBY, the Emperor's Glory attacked the Wanderer-class transport Esseles so that Kilran could capture the Republic ambassador Vyn Asara and from this vessel he sent Imperials and Mandalorians onto Esseles. In the battle, it was boarded by individuals from the Esseles, and its tractor beam shut down, allowing Esseles to escape. After failing to capture Ambassador Asara, it later led the Fifth Fleet in ambushing the First Expeditionary Fleet in the Maelstrom nebula, but the Telos under the command of Admiral Oteg was able to destroy the Glory with the combined firepower of his fleet.",
+  "data": {
+    "name": "Emperor's Glory",
+    "manufacturer": "Taerab Starship Manufacturing",
+    "model": "Harrower-class dreadnought",
+    "type": "Dreadnaught",
+    "length": "≈800 meters",
+    "hyperdrive": "Equipped",
+    "hull": "Heavily-reinforced hull plating",
+    "armament": [
+      "Turbolaser batteries",
+      "Quad laser cannons",
+      "Ion cannons",
+      "Proton torpedos",
+      "Concussion missile launchers"
+    ],
+    "complement": [
+      "95 starfighters",
+      "  Mark VI Supremacy-class starfighters",
+      "32 bombers",
+      "35 shuttles"
+    ],
+    "crew": "2,400",
+    "passengers": "7,300 troops",
+    "role": "Flagship",
+    "destroyed": "c. 3642 BBY, The Maelstrom",
+    "affiliation": [
+      "Sith Empire",
+      "  Imperial Navy"
+    ],
+    "navy": "Imperial Fifth Fleet",
+    "owners": "Grand Moff Rycus Kilran"
+  },
+  "scraped": "2026-07-03"
+}

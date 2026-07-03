@@ -1,0 +1,48 @@
+{
+  "name": "Dread Omen",
+  "wookieepedia_title": "Dread Omen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dread_Omen",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dread Omen was an Imperial-class Star Destroyer in the Imperial Navy during the Galactic Civil War. It was one of the many ships used in Governor Ubrik Adelhard's Iron Blockade of the Anoat sector following the death of Emperor Sheev Palpatine.",
+  "data": {
+    "name": "Dread Omen",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": [
+      "TIE fighter series starfighters (72)",
+      "  TIE/ln space superiority starfighters",
+      "  TIE/sa bombers",
+      "Lambda-class T-4a shuttles"
+    ],
+    "crew": [
+      "Imperial officers",
+      "Stormtroopers (9,700)"
+    ],
+    "consumables": "2 years",
+    "communications": "Communications tower",
+    "affiliation": [
+      "Galactic Empire",
+      "Ubrik Adelhard's Imperial remnant"
+    ],
+    "navy": "Imperial Navy",
+    "fleet": "Anoat sector fleet"
+  },
+  "scraped": "2026-07-03"
+}

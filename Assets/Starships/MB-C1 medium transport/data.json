@@ -1,0 +1,45 @@
+{
+  "name": "MB-C1 medium transport",
+  "wookieepedia_title": "MB-C1 medium transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MB-C1_medium_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MB-C1 medium transport, also known as the Mobquet Medium Transport or Mobquet Medium Cargo Hauler, was a transport ship produced by Mobquet Swoops and Speeders.",
+  "data": {
+    "name": "MB-C1 medium transport",
+    "manufacturer": "Mobquet Swoops and Speeders",
+    "type": "Medium transport",
+    "cost": [
+      "750,000 credits (new)",
+      "225,000 credits (used)"
+    ],
+    "length": "113 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 11 (backup)"
+    ],
+    "shield_gen": "Rated 240 SBD",
+    "hull": "Rated 160 RU",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannon",
+      "Concussion missile launcher",
+      "  32 missiles total"
+    ],
+    "crew": "2-8",
+    "skeleton": "2",
+    "passengers": "Varies, up to 32",
+    "capacity": "700 tons",
+    "consumables": "2 months",
+    "availability": "Licensed",
+    "role": "Medium transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Viraxo Industries",
+      "Xizor Transport Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

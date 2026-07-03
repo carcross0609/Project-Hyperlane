@@ -1,0 +1,32 @@
+{
+  "name": "Manticore",
+  "wookieepedia_title": "Manticore (Strike-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Manticore_%28Strike-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Manticore was a Strike-class medium cruiser belonging to the Empire. It was scheduled to be repaired at Depot XLS, but was attacked by Rebel B-wing starfighters intending to destroy all the capital ships while they were at their weakest condition.",
+  "data": {
+    "name": "Manticore",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "1600 SBD",
+    "hull": "768 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

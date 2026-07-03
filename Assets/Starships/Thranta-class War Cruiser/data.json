@@ -1,0 +1,24 @@
+{
+  "name": "Thranta-class War Cruiser",
+  "wookieepedia_title": "Thranta-class War Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thranta-class_War_Cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Thranta-class War Cruiser was one of the last starship classes manufactured by Alderaan.",
+  "data": {
+    "name": "Thranta-class War Cruiser",
+    "type": "Light cruiser",
+    "length": "Around 350 meters",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Five heavy turbolasers",
+      "Ten laser cannons"
+    ],
+    "role": [
+      "Warship",
+      "Escort"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

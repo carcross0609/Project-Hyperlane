@@ -1,0 +1,57 @@
+{
+  "name": "Pursuer-class enforcement ship",
+  "wookieepedia_title": "Pursuer-class enforcement ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pursuer-class_enforcement_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Pursuer-class enforcement ship was a heavy patrol craft designed by MandalMotors. During the Clone Wars this type of starship was employed in policing Separatist-controlled worlds.",
+  "data": {
+    "name": "Pursuer-class enforcement ship",
+    "manufacturer": "MandalMotors",
+    "model": "Pursuer-class enforcement ship",
+    "type": [
+      "Heavy patrol ship",
+      "Prisoner transport"
+    ],
+    "cost": [
+      "200,000 credits (new)",
+      "40,000 credits (used)"
+    ],
+    "length": "30.1 meters",
+    "max_accel": "15 MGLT/s",
+    "mglt": "95 MGLT",
+    "max_speed": "1,000 km/h",
+    "maneuverability": "67 DPF",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 16 (backup)"
+    ],
+    "shield_gen": "Rated 100 SBD",
+    "hull": "Rated 60 RU",
+    "navigation": "Equipped",
+    "armament": [
+      "Twin blaster cannons (1)",
+      "Ion cannon turret (1)",
+      "Proton torpedo launcher (1; common modification)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": [
+      "Guards (2)",
+      "Prisoners (5)"
+    ],
+    "capacity": "35 metric tons",
+    "consumables": "5 weeks",
+    "availability": "Restricted",
+    "role": [
+      "Patrol craft",
+      "Law enforcement vessel"
+    ],
+    "affiliation": [
+      "Mandalorian Protectors",
+      "Confederacy of Independent Systems",
+      "Viraxo Industries",
+      "Police forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

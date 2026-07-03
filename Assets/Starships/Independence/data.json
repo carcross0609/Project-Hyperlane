@@ -1,0 +1,35 @@
+{
+  "name": "Independence",
+  "wookieepedia_title": "Independence",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Independence",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Independence was an MC80A Home One Type Heavy Star Cruiser in service to the Alliance to Restore the Republic by the ending stages of the Galactic Civil War against the Galactic Empire. It participated in the climactic Battle of Endor that witnessed the destruction of the second Death Star and the death of Galactic Emperor Sheev Palpatine.",
+  "data": {
+    "name": "Independence",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC80 Star Cruiser",
+    "model": "MC80A Home One Type Heavy Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,300 meters",
+    "max_speed": "975 kph",
+    "engine": "Sublight engines (10)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "armament": [
+      "Turbolaser cannons (29)",
+      "Ion cannons (36)",
+      "Tractor beam projectors (6)"
+    ],
+    "complement": "10 starfighter squadrons",
+    "crew": "Over 5,000",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy"
+  },
+  "scraped": "2026-07-03"
+}

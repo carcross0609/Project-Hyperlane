@@ -1,0 +1,41 @@
+{
+  "name": "Arkanian Dragon",
+  "wookieepedia_title": "Arkanian Dragon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arkanian_Dragon",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Arkanian Dragon was a Victory II-class Star Destroyer.",
+  "data": {
+    "name": "Arkanian Dragon",
+    "model": "Victory II-class Star Destroyer",
+    "armament": [
+      "4 Heavy Turbolaser batteries",
+      "2 Double Turbolaser batteries",
+      "2 Heavy Ion cannon batteries",
+      "2 Tractor beam projectors"
+    ],
+    "complement": [
+      "24 V-wing starfighters",
+      "5 Lambda-class T-4a shuttles",
+      "15 AT-STs",
+      "10 Juggernauts",
+      "Various support vehicles"
+    ],
+    "crew": [
+      "5200 crew",
+      "2040 troops"
+    ],
+    "capacity": "6107 tons",
+    "consumables": "4 years",
+    "role": [
+      "Carrier",
+      "Destroyer"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

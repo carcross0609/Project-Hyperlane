@@ -1,0 +1,30 @@
+{
+  "name": "Defiant",
+  "wookieepedia_title": "Defiant (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defiant_%28Imperial-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Defiant was an Imperial-class Star Destroyer that served in the Imperial Remnant's navy in 28 ABY, at the time of the Yuuzhan Vong War. Commanded by Captain Essenton, Defiant was positioned that year with other warships of the Imperial Navy near the planet Borosk in a defensive effort against an attacking Yuuzhan Vong fleet. During the fighting, a gravitic amplitude modulator was installed upon Defiant, which allowed the Star Destroyer to disrupt the telepathic command signals from the enemy yammosk war coordinators long enough to smash through disrupted Yuuzhan Vong battle lines and help destroy a yammosk. Following a successful defense of Borosk, Defiant was dispatched to the planet Yaga Minor to fend off an imminent Yuuzhan Vong strike.",
+  "data": {
+    "name": "Defiant",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Imperial-class Star Destroyer",
+    "length": "1,600 meters",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Targeting sensors",
+    "countermeasures": "Gravitic amplitude modulator",
+    "armament": [
+      "Turbolaser banks",
+      "Torpedoes",
+      "Concussion missiles"
+    ],
+    "role": "Warship",
+    "affiliation": "Imperial Remnant",
+    "navy": "Imperial Navy",
+    "captains": "Captain Essenton"
+  },
+  "scraped": "2026-07-03"
+}

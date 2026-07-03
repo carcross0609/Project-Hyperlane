@@ -1,0 +1,85 @@
+{
+  "name": "Core ship",
+  "wookieepedia_title": "Core ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Core_ship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "Core ships, also known as Command Spheres, were modified Lucrehulk-class battleship central spheres that were used by the Trade Federation for planetary landings during the Clone Wars and often hosted Separatist leaders. Equipped with both land and air defenses, those autonomous spheres were 696 meters in diameter and could carry numerous B1-series battle droids.",
+  "data": {
+    "name": "Core ship",
+    "manufacturer": "Hoersch-Kessel Drive Inc.",
+    "line": "Lucrehulk-class",
+    "model": "Lucrehulk-class freighter core",
+    "type": "Lander",
+    "width": "696 meters (2,883 ft, 6 in)",
+    "height": "914 meters (2,998 ft, 8 in)",
+    "engine": "Ion-drive nozzles",
+    "hdsystem": "Unequipped",
+    "poweroutput": "Massive energy generation",
+    "power": [
+      "Hypermatter-annihilation main-reactor core",
+      "Several auxiliary reactors"
+    ],
+    "shield_gen": "Deflector shield generator (particle shielding)",
+    "sensor": "Scanner array",
+    "navigation": "Navigation computers",
+    "armament": [
+      "21 quad point-defense laser batteries",
+      "280 point-defense laser cannons",
+      "48 assault laser cannons",
+      "3 turbolasers"
+    ],
+    "complement": [
+      "100+ Armored Assault Tanks",
+      "40+ Multi-Troop Transports",
+      "Platoon Attack Craft",
+      "C-9979 landing craft",
+      "1,000+ support vehicles"
+    ],
+    "bays": [
+      "Several vehicle bays",
+      "Escape pod bay"
+    ],
+    "escapepods": "Equipped",
+    "crew": [
+      "60 Trade Federation supervisors",
+      "3,000 droids",
+      "200,000 maintenance droids"
+    ],
+    "passengers": [
+      "60,000 Trade Federation representatives",
+      "1,000+ battle droids, including B1-series models (battalions)",
+      "Security droids"
+    ],
+    "cargohandling": "Heavy cargo lift",
+    "communications": [
+      "Military droid-feedback rectenna",
+      "Military-grade transmitter mast",
+      "Superluminal hyperwave transceiver"
+    ],
+    "othersystems": [
+      "Antigravity repulsorlift suspensors",
+      "Central computer",
+      "Scanner array",
+      "Thermal exhaust-vent",
+      "Transmission generator radiator"
+    ],
+    "role": [
+      "Container ship",
+      "Droid army coordination",
+      "Tanker"
+    ],
+    "firstuse": "c. 122 BBY",
+    "affiliation": [
+      "Trade Federation",
+      "  Trade Federation fleet",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Galactic Republic (stolen)",
+      "  Galactic Republic Navy (stolen)",
+      "Bedlam Raiders",
+      "Kiza's droid army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

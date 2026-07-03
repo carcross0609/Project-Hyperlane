@@ -1,0 +1,24 @@
+{
+  "name": "Scorpion-class Intercept Shuttle",
+  "wookieepedia_title": "Scorpion-class Intercept Shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scorpion-class_Intercept_Shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Scorpion-class Intercept Shuttle was a model of shuttle used by the Mandalorians of the Hidden Chain during the Third Galactic War. A spacecrafts of this class possessed with light armaments and features variable wing configurations for swift, maneuverable flight in-atmosphere. It carries a 12-person armored squad, their gear, a pilot, and a navigator. Mandalorians can deploy via a ladder in vertical mode, exiting rapidly with jetpacks.",
+  "data": {
+    "name": "Scorpion-class Intercept Shuttle",
+    "manufacturer": "Cindev shipyards",
+    "type": "Shuttle",
+    "crew": [
+      "Pilot (1)",
+      "Navigator flight crew (1)"
+    ],
+    "passengers": "12",
+    "affiliation": [
+      "Cindev shipyards",
+      "InterStellar Regulators",
+      "Hidden Chain"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

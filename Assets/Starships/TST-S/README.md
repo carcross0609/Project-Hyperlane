@@ -1,0 +1,11 @@
+# TST-S
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [TST-S](https://starwars.fandom.com/wiki/TST-S)
+
+The designation TST-S referred to a pair of Lambda-class T-4a shuttles owned and operated by the Twin Suns Transport Services run by the Azzameen family. They were present on the Twin Sun Station when the Viraxo and their allies from the Galactic Empire attacked the Azzameen family assets. Both shuttles evacuated some of the crew from the platform before it was attacked, and they managed to escape thanks to the help of Ace and Aeron Azzameen, who were recovering station supplies.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

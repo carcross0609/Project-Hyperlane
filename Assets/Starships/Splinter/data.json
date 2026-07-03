@@ -1,0 +1,21 @@
+{
+  "name": "Splinter",
+  "wookieepedia_title": "Splinter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Splinter",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Splinter was a Lambda-class T-4a shuttle that saw service with the Rebel Alliance during the Galactic Civil War.",
+  "data": {
+    "name": "Splinter",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Shuttle",
+    "role": [
+      "Shuttle",
+      "Troop transport"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Rebel Alliance"
+  },
+  "scraped": "2026-07-03"
+}

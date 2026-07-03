@@ -1,0 +1,31 @@
+{
+  "name": "G-1A starfighter",
+  "wookieepedia_title": "G-1A starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G-1A_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The G-1A starfighter, also known as the G-1A transport, was a model of starfighter manufactured by Byblos Drive Yards. One such vessel was the Mist Hunter owned by the bounty hunter Zuckuss. The starship was small enough that it could be equipped with a cloaking device and, during the reign of the Galactic Empire, at least one G-1A starfighter was equipped with cloaking ability.",
+  "data": {
+    "name": "G-1A starfighter",
+    "manufacturer": "Byblos Drive Yards",
+    "type": "Starfighter",
+    "cost": "130,000 credits",
+    "engine": "Byblos BPS-980 ion drives (2)",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 10 (Backup)"
+    ],
+    "sensor": "Short range sensor",
+    "armament": [
+      "Medium laser cannons",
+      "Concussion missile launchers"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 co-pilot/gunner"
+    ],
+    "passengers": "3",
+    "consumables": "1 month"
+  },
+  "scraped": "2026-07-03"
+}

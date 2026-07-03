@@ -1,0 +1,33 @@
+{
+  "name": "Stalwart-class light freighter",
+  "wookieepedia_title": "Stalwart-class light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stalwart-class_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Stalwart-class light freighter was a starship class in the era of the Galactic Civil War, more often seen in the core, and was competitive against the standard setting YT-1300.",
+  "data": {
+    "name": "Stalwart-class light freighter",
+    "type": "Stock Light freighter",
+    "cost": [
+      "21,000 credits (used)"
+    ],
+    "length": "19.7 meters",
+    "max_speed": "850 kmh (atmosphere)",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup class 15"
+    ],
+    "shield_gen": "Equipped",
+    "hull": "Armor plating",
+    "sensor": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Turreted Laser cannon (1)"
+    ],
+    "crew": "2",
+    "passengers": "5",
+    "capacity": "120 metric tons",
+    "consumables": "3 months"
+  },
+  "scraped": "2026-07-03"
+}

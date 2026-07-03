@@ -1,0 +1,41 @@
+{
+  "name": "YV-865 Aurore-class freighter",
+  "wookieepedia_title": "YV-865 Aurore-class freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-865_Aurore-class_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YV-865 Aurore-class freighter was a bulky freighter transport used during the Clone Wars. It became known as the Zygerrian slave ship due to its widespread use by slavers such as Zygerrians and Thalassians.",
+  "data": {
+    "name": "YV-865 Aurore-class freighter",
+    "manufacturer": "Corellian Engineering Corp.",
+    "line": "YV series",
+    "type": "Freighter",
+    "cost": "240,000 credits",
+    "length": "52.3 meters",
+    "width": "42.33 meters",
+    "height": "16.44 meters",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "armament": [
+      "Twin forward-mounted medium laser cannons",
+      "Grappling turret"
+    ],
+    "escapepods": "1",
+    "crew": "1 pilot",
+    "passengers": "15",
+    "capacity": "100 slaves",
+    "consumables": "2 months",
+    "role": "Slave transport",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Republic",
+      "Nightbrothers",
+      "  Jiro's faction",
+      "Zygerrian Slavers Guild",
+      "Zygerrian Slave Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

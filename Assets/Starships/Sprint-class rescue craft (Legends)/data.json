@@ -1,0 +1,40 @@
+{
+  "name": "Sprint-class rescue craft",
+  "wookieepedia_title": "Sprint-class rescue craft/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sprint-class_rescue_craft/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sprint-class rescue craft, also known as a Med Runner, was a medical rescue craft manufactured by SoroSuub Corporation.",
+  "data": {
+    "name": "Sprint-class rescue craft",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Sprint-class rescue craft",
+    "type": "Medical rescue craft",
+    "length": "30 meters",
+    "max_speed": "1,150 kph",
+    "maneuverability": "Extremely high",
+    "engine": "Ion drive",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Sophisticated Life form indicator",
+    "armament": "None",
+    "crew": [
+      "Pilots (2)",
+      "Other crew (1)",
+      "Medics (5)"
+    ],
+    "passengers": "40 patients",
+    "capacity": "2 metric tons",
+    "consumables": "1 month",
+    "role": "Medical rescue craft",
+    "affiliation": [
+      "Galactic Republic",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

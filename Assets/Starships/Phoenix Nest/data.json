@@ -1,0 +1,56 @@
+{
+  "name": "Phoenix Nest",
+  "wookieepedia_title": "Phoenix Nest",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phoenix_Nest",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Phoenix Nest, also known as Phoenix Home and originally known as the Liberator, was an Imperial light carrier used by the Galactic Empire as a mobile base of operations to periodically launch bombers on the planet Ryloth. Three years before the Battle of Yavin the Spectres, alongside Cham Syndulla of the Free Ryloth Movement, stole the ship for the rebellion.",
+  "data": {
+    "name": "Phoenix Nest",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "Quasar Fire-class cruiser-carrier",
+    "type": "Cruiser-carrier",
+    "length": "340 meters",
+    "max_speed": "250 kph",
+    "engine": "5",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "armament": [
+      "Light turbolaser batteries (2)",
+      "Dual laser cannon turrets (6)"
+    ],
+    "complement": [
+      "48 starfighters",
+      "Imperial control:",
+      "  TIE/ln space superiority starfighters",
+      "  TIE/sa bombers",
+      "Rebel control:",
+      "  BTL-A4 Y-wing assault starfighter/bombers",
+      "  Ghost",
+      "  RZ-1 A-wing interceptors"
+    ],
+    "bays": "4",
+    "role": [
+      "Starfighter carrier",
+      "Mobile base",
+      "Command ship"
+    ],
+    "destroyed": "2 BBY, during the battle of Atollon",
+    "affiliation": [
+      "Galactic Empire",
+      "Phoenix Cell",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "Rebel Alliance Navy"
+    ],
+    "captains": [
+      "An Imperial captain",
+      "Jun Sato"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

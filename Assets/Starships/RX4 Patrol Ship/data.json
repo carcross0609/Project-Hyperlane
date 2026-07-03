@@ -1,0 +1,33 @@
+{
+  "name": "RX4 Patrol Ship",
+  "wookieepedia_title": "RX4 Patrol Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RX4_Patrol_Ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The RX4 Patrol Ship was a vessel used by the Trianii Rangers for long term patrols of Trianii Space. Due to the family nature of Trianii Rangers, these ships had a much more homey interior than was usual for military vessels. Though not a heavy combat vessel, it was more than capable of dealing with the small-time smugglers and pirates that operated in Trianii space.",
+  "data": {
+    "name": "RX4 Patrol Ship",
+    "type": "Patrol ship",
+    "length": "33 meters",
+    "max_speed": "850 KMH",
+    "hyperdrive": [
+      "Class 1",
+      "Class 14"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 twin turbolasers",
+      "1 ion cannon"
+    ],
+    "crew": "2; 2 gunners",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "30 metric tons",
+    "consumables": "2 years",
+    "role": "System patrol",
+    "affiliation": "Trianii Rangers"
+  },
+  "scraped": "2026-07-03"
+}

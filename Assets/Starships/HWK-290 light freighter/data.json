@@ -1,0 +1,38 @@
+{
+  "name": "HWK-290 light freighter",
+  "wookieepedia_title": "HWK-290 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HWK-290_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The HWK-290 light freighter was a model of light freighter manufactured by the Corellian Engineering Corporation decades prior to the Invasion of Naboo. It saw moderate sales and continued to be in use into the Galactic Civil War. It was marketed toward wealthy executives and elite government officials.",
+  "data": {
+    "name": "HWK-290 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Light freighter",
+    "type": "HWK-290",
+    "cost": "70,000 credits",
+    "hyperdrive": "Class 2",
+    "sensor": "Short range sensor",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Incendiary bombs (modified)",
+      "Proton torpedo launcher (modified)",
+      "Heavy laser cannons (modified)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "2",
+    "consumables": "3 months",
+    "lifesupport": "Equipped",
+    "role": [
+      "Bomber (modified)",
+      "Courier",
+      "Freighter",
+      "Heavy starfighter (with modifications)"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

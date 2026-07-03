@@ -1,0 +1,35 @@
+{
+  "name": "Chu'unthor",
+  "wookieepedia_title": "Chu'unthor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chu%27unthor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Chu'unthor (the Cerean word for \"academy\") was a praxeum ship designed by Cerean Jedi Fin-So-Rowan and Human Jedi Ivixa Delbaeth. The ship was built in orbit around the planet Abhean by Republic Fleet Systems in 400 BBY.",
+  "data": {
+    "name": "Chu'unthor",
+    "manufacturer": [
+      "Republic Fleet Systems",
+      "Abhean Shipyards"
+    ],
+    "type": "Capital ship",
+    "cost": "Not available for sale",
+    "length": "2,000 meters",
+    "width": "1,000 meters",
+    "height": "≥40 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 18 (backup)"
+    ],
+    "armament": "Tractor beam projector (8)",
+    "crew": "4,000",
+    "passengers": "10,000",
+    "capacity": "40,000 tons",
+    "consumables": "5 years",
+    "role": "Jedi academy",
+    "commission": "400 BBY",
+    "destroyed": "230 BBY, Dathomir",
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Transport One",
+  "wookieepedia_title": "Transport One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Transport_One",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Transport One was the callsign of a CR90 corvette that served with the Phoenix Cell sometime before the Galactic Civil War. During the Galactic Empire's blockade of the planet Ibaar, Transport One was stocked with various supplies and attempted to run through the Imperial blockade and deliver food to the famished people of Ibaar. Despite protection from the starship Ghost and the rest of Phoenix Squadron, Transport One became the focus of Imperial fire and was subsequently destroyed. The ship's allies quickly retreated afterwards.",
+  "data": {
+    "name": "Transport One",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Alderaanian diplomatic cruiser",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "length": "126.68 meters",
+    "max_speed": "950 kph",
+    "armament": [
+      "Dual turbolaser turrets (2)",
+      "Single turbolasers (4)"
+    ],
+    "complement": "3 RZ-1 A-wing interceptors (Externally mounted)",
+    "crew": "At least 1 captain",
+    "role": "Supply ship",
+    "destroyed": "During the blockade of Ibaar",
+    "affiliation": "Phoenix Cell"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Qektoth attack cruiser",
+  "wookieepedia_title": "Qektoth attack cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Qektoth_attack_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Qektoth attack cruiser was a modified strike cruiser employed by the Qektoth Confederation in 8 ABY. The ships were armed with four plasma cannons and a Bio-energy array. However, due to the energy requirements of its weapon systems, the attack cruiser could only use its shields in a single fire arc, leaving it vulnerable to flanking attacks.",
+  "data": {
+    "name": "Qektoth attack cruiser",
+    "manufacturer": "Qektoth Confederation",
+    "type": "Modified strike cruiser",
+    "length": "103 meters",
+    "hyperdrive": "x3/x12",
+    "armament": [
+      "4 Plasma cannons",
+      "1 Bio-energy array"
+    ],
+    "crew": "30",
+    "skeleton": "10",
+    "passengers": "50",
+    "cargohandling": "100 metric tonnes",
+    "consumables": "1 year",
+    "firstuse": "8 ABY",
+    "affiliation": "Qektoth Confederation"
+  },
+  "scraped": "2026-07-03"
+}

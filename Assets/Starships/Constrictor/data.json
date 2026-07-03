@@ -1,0 +1,37 @@
+{
+  "name": "Constrictor",
+  "wookieepedia_title": "Constrictor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Constrictor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Constrictor was a CR90 corvette in the service of Warlord Zsinj. Like the Night Caller, its enlarged forward hold was modified to carry four TIE/LN starfighters. Along with the Nebulon-B frigate Provocateur and Night Caller, Constrictor was assigned to support Admiral Apwar Trigit's Imperial II-class Star Destroyer Implacable at the Battle of Talasea. Trigit realized at the last minute that he was heading into a trap and abandoned his support ships, and after taking severe damage from Wraith Squadron's attack, Constrictor surrendered to the New Republic forces.",
+  "data": {
+    "name": "Constrictor",
+    "manufacturer": "CEC (presumed)",
+    "line": "CR series",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "modifier": "Imperial Intelligence or Warlord Zsinj",
+    "sysmods": [
+      "One deck removed",
+      "Larger tractor beam installed",
+      "Forward hold modified for four TIE/LN starfighters"
+    ],
+    "armament": [
+      "1 Taim & Bak H9 dual turbolasers",
+      "4 Laser cannons on escape pods"
+    ],
+    "complement": "4 TIE/LN starfighters",
+    "role": [
+      "Carrier",
+      "Fleet Infiltration Unit"
+    ],
+    "affiliation": [
+      "Imperial Intelligence",
+      "Warlord Zsinj",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

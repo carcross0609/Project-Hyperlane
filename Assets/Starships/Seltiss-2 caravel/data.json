@@ -1,0 +1,31 @@
+{
+  "name": "Seltiss-2 caravel",
+  "wookieepedia_title": "Seltiss-2 caravel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Seltiss-2_caravel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Seltiss-2 caravel was a pleasure ship manufactured by Ubrikkian Industries and commonly used by the Hutts. Because of this, it was often referred to as the Hutt caravel or Hutt chariot.",
+  "data": {
+    "name": "Seltiss-2 caravel",
+    "manufacturer": "Ubrikkian Industries",
+    "type": "Caravel",
+    "cost": "550,000 - 800,000 credits (160,000 used)",
+    "length": "30 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": "None",
+    "navigation": "None",
+    "armament": "Medium laser cannons (2)",
+    "crew": [
+      "1 Pilot",
+      "1 Co-pilot",
+      "2 Gunners"
+    ],
+    "passengers": "12",
+    "capacity": "50 tons",
+    "consumables": "1 month",
+    "availability": "Licensed",
+    "role": "Yacht",
+    "affiliation": "Hutts"
+  },
+  "scraped": "2026-07-03"
+}

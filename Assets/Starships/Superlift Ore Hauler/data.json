@@ -1,0 +1,33 @@
+{
+  "name": "Superlift Ore Hauler",
+  "wookieepedia_title": "Superlift Ore Hauler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Superlift_Ore_Hauler",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Superlift Ore Hauler, sometimes referred to as a Superlifter, was a deep space ore hauler. The vessel was manufactured by Corellian Engineering Corporation. The ore hauler was slow, sluggish, unarmed, and had a tiny crew. It could carry 90,000 metric tons, cost 1.5 million credits and was 155 meters long.",
+  "data": {
+    "name": "Superlift Ore Hauler",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Medium ore hauler",
+    "cost": [
+      "1,500,000 credits (new)",
+      "500,000 credits (used)"
+    ],
+    "length": "155 meters",
+    "max_speed": "650 kmh",
+    "hyperdrive": [
+      "Class 4",
+      "Class 20 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped (limited to 4 jumps)",
+    "crew": "10",
+    "skeleton": "5",
+    "passengers": "5",
+    "capacity": "90,000 metric tons",
+    "consumables": "3 months",
+    "role": "Ore transport"
+  },
+  "scraped": "2026-07-03"
+}

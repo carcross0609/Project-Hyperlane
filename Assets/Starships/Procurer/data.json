@@ -1,0 +1,32 @@
+{
+  "name": "Procurer",
+  "wookieepedia_title": "Procurer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Procurer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Procurer was a Lucrehulk-class battleship that served as Captain Mar Tuuk's flagship during the Confederacy of Independent Systems' blockade and invasion of Ryloth. It was destroyed when Jedi General Anakin Skywalker rammed the Venator-class Star Destroyer Defender into it, paving the way for a Republic attempt to liberate Ryloth.",
+  "data": {
+    "name": "Procurer",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Lucrehulk-class battleship",
+    "type": "Battleship",
+    "length": "3,170 meters",
+    "shield_gen": "Equipped",
+    "armament": "Turbolasers",
+    "escapepods": "Equipped",
+    "role": [
+      "Battleship",
+      "Command ship"
+    ],
+    "destroyed": "22 BBY, over Ryloth",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ],
+    "navy": "Confederate Navy",
+    "fleet": "Ryloth blockade",
+    "captains": "Mar Tuuk"
+  },
+  "scraped": "2026-07-03"
+}

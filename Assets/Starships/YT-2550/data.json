@@ -1,0 +1,34 @@
+{
+  "name": "YT-2550",
+  "wookieepedia_title": "YT-2550",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-2550",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-2550 was a medium freighter from Corellian Engineering Corporation's YT-series.",
+  "data": {
+    "name": "YT-2550",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2550",
+    "type": "Medium freighter",
+    "length": "65.9 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 4.0"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon turrets (2)",
+    "crew": [
+      "Crew (2)",
+      "Gunners (2)"
+    ],
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "80 metric tons",
+    "consumables": "1 month",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

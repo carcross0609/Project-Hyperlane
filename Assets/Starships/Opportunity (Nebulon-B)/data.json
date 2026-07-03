@@ -1,0 +1,24 @@
+{
+  "name": "Opportunity",
+  "wookieepedia_title": "Opportunity (Nebulon-B)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Opportunity_%28Nebulon-B%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Opportunity was a EF76 Nebulon-B escort frigate that served under the banner of Jinata Security during the Cold War. The vessel was eventually disabled above Athulla by Inferno Squad while carrying out Project Resurrection.",
+  "data": {
+    "name": "Opportunity",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Modified EF76 Nebulon-B escort frigate",
+    "type": "Frigate",
+    "length": "300 meters",
+    "armament": "Laser cannons",
+    "complement": "Leema Kai's N-1 starfighter",
+    "affiliation": [
+      "First Order",
+      "  Jinata Security"
+    ],
+    "captains": "Leema Kai"
+  },
+  "scraped": "2026-07-03"
+}

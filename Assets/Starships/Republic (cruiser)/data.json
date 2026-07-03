@@ -1,0 +1,24 @@
+{
+  "name": "Republic",
+  "wookieepedia_title": "Republic (cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Republic_%28cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Republic was a cruiser in the New Republic.",
+  "data": {
+    "name": "Republic",
+    "type": "Cruiser",
+    "height": ">34 meters",
+    "hdsystem": "Equipped",
+    "armament": "Several gun batteries",
+    "complement": [
+      "Jedi Explorer II",
+      "Millennium Falcon",
+      "1 I-7 Howlrunner"
+    ],
+    "role": "Command ship",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

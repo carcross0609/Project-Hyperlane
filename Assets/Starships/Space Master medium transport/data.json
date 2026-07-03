@@ -1,0 +1,32 @@
+{
+  "name": "Space Master medium transport",
+  "wookieepedia_title": "Space Master medium transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Space_Master_medium_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Space Master medium transport was a cargo vessel built by Kuat Drive Yards.",
+  "data": {
+    "name": "Space Master medium transport",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Space Master medium transport",
+    "type": "Transport",
+    "cost": [
+      "550,000 credits (new)",
+      "175,000 credits (used)"
+    ],
+    "length": "80 meters",
+    "max_speed": "740 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "  Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "4 twin laser cannon turrets",
+    "crew": "8",
+    "passengers": "4",
+    "capacity": "19,000 metric tons",
+    "consumables": "3 months",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

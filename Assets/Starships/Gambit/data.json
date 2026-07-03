@@ -1,0 +1,33 @@
+{
+  "name": "Gambit",
+  "wookieepedia_title": "Gambit",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gambit",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Gambit was a Luxury 2800 yacht manufactured by SoroSuub Corporation. Originally belonging to a Ho'Din crime lord, the vessel came into the possession of the Alliance to Restore the Republic after a clash between them and the crime lord's organization. Captain Amarith, commander of Chiron Base, claimed the vessel for herself. She loaned the vessel to a Rebel team investigating an Imperial operation on the planet Ando.",
+  "data": {
+    "name": "Gambit",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Luxury 2800",
+    "length": "37 meters",
+    "max_speed": "1,000 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "  Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Double laser cannon",
+      "Blaster cannon"
+    ],
+    "crew": "1; 2 gunners",
+    "passengers": "8",
+    "capacity": "50 metric tons",
+    "consumables": "1 month",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

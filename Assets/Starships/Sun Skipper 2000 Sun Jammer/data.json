@@ -1,0 +1,27 @@
+{
+  "name": "Sun Skipper 2000 Sun Jammer",
+  "wookieepedia_title": "Sun Skipper 2000 Sun Jammer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sun_Skipper_2000_Sun_Jammer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sun Skipper 2000 Sun Jammer was a model of sun jammer from Starshipwrights and Aerospace Engineers Incorporated. Its command pylon was 450 meters long; its solar collector dish was 1,000 meters wide. It could carry two crew, one passenger, 300 kilograms of cargo, and one week's consumables. Its only sensors were passive. It cost 250,000 credits new (150,000 credits used).",
+  "data": {
+    "name": "Sun Skipper 2000 Sun Jammer",
+    "manufacturer": "Starshipwrights and Aerospace Engineers Incorporated",
+    "model": "Sun jammer",
+    "cost": [
+      "250,000 credits (new)",
+      "150,000 credits (used)"
+    ],
+    "length": "450 meters",
+    "width": "1,000 meters",
+    "engine": "Solar collector dish",
+    "sensor": "Equipped",
+    "crew": "2",
+    "passengers": "1",
+    "capacity": "300 kilograms",
+    "consumables": "1 week",
+    "role": "Pleasure craft"
+  },
+  "scraped": "2026-07-03"
+}

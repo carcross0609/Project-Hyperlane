@@ -1,0 +1,49 @@
+{
+  "name": "Azure Angel",
+  "wookieepedia_title": "Azure Angel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Azure_Angel",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Azure Angel was a unique customized Delta-7 Aethersprite-class light interceptor starfighter that was modified and piloted by the Jedi Padawan Anakin Skywalker during the early months of the Clone Wars.",
+  "data": {
+    "name": "Azure Angel",
+    "manufacturer": [
+      "Kuat Systems Engineering",
+      "Anakin Skywalker"
+    ],
+    "model": "Modified Delta-7 Aethersprite-class light interceptor",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "modifier": "Anakin Skywalker",
+    "sysmods": "Hyperdrive",
+    "max_speed": "1,260 km/h",
+    "hyperdrive": "Class 1",
+    "hdsystem": "TransGalMeg hyperdrive thrusters (2)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "10-jump memory (astromech droid)",
+    "armament": [
+      "Taim & Bak laser cannons (4)",
+      "Proton torpedo launcher (1)",
+      "  16 Proton torpedos"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "R4-series agromech droid (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "None",
+    "consumables": "1 week",
+    "role": "Customized interceptor starfighter",
+    "destroyed": "22 BBY",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "owners": "Anakin Skywalker",
+    "captains": "Anakin Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

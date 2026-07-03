@@ -1,0 +1,50 @@
+{
+  "name": "Sable III",
+  "wookieepedia_title": "Sable III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sable_III",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sable III, originally known as the Anto's Star, was a modified Corellian CR90 corvette used by the flamboyant pirate Drek Drednar and his crew. The ship was stolen by a group of starship thieves working for Drednar who was planning a mutiny against Captain Karn Granzor.",
+  "data": {
+    "name": "Sable III",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "CR90 corvette",
+    "modifier": "Drek Drednar's pirates",
+    "sysmods": [
+      "Shields",
+      "Hull",
+      "Weapons",
+      "Hangar bay"
+    ],
+    "length": "150 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 10"
+    ],
+    "shield_gen": "Improved",
+    "hull": "Improved",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "5 Double turbolaser cannons",
+      "1 ion cannon",
+      "2 tractor beam projectors"
+    ],
+    "complement": "6 starfighters",
+    "bays": "1",
+    "crew": "145, gunners: 19",
+    "skeleton": "40, gunners: 10",
+    "passengers": "40",
+    "capacity": "2,500 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Flagship",
+      "Pirate ship"
+    ],
+    "affiliation": "Drek Drednar's pirates",
+    "owners": "Drek Drednar",
+    "captains": "Drek Drednar"
+  },
+  "scraped": "2026-07-03"
+}

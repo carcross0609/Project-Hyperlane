@@ -1,0 +1,26 @@
+{
+  "name": "Voxen Tass",
+  "wookieepedia_title": "Voxen Tass",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Voxen_Tass",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Voxen Tass was a modified Brayl-class bulk freighter that was operational during the Galactic Civil War. Captained by Leona Makk, the Voxen Tass was a ship from Shang Lines. At one point it delivered an Alliance strike team to Argovia, where the team destroyed a sensornet established by the Galactic Empire.",
+  "data": {
+    "name": "Voxen Tass",
+    "type": "Brayl-class bulk freighter",
+    "length": "100 meters",
+    "max_speed": "600 kmh",
+    "hyperdrive": [
+      "x3(primary)",
+      "x12(backup)"
+    ],
+    "navigation": "Equipped",
+    "crew": "1 pilot and 7 other crew",
+    "capacity": "75,000 metric tons",
+    "consumables": "3 months",
+    "affiliation": "Alliance to Restore the Republic",
+    "captains": "Leona Makk"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Vengeance",
+  "wookieepedia_title": "Vengeance (Executor-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vengeance_%28Executor-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vengeance was an Executor-class Star Dreadnought that served with the Imperial Navy, under the command of Admiral Wooyou Senn. It was thought to have perished as a result of the Battle of Nocto.",
+  "data": {
+    "name": "Vengeance",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Executor-class Star Dreadnought",
+    "length": "19,000 meters",
+    "complement": "TIE/LN starfighters",
+    "role": [
+      "Command ship",
+      "Carrier",
+      "Battleship (dreadnought)"
+    ],
+    "destroyed": "3.5 ABY, Nocto system (probably)",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Task Force Vengeance",
+    "captains": "Admiral Wooyou Senn"
+  },
+  "scraped": "2026-07-03"
+}

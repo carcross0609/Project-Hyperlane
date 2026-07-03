@@ -1,0 +1,48 @@
+{
+  "name": "TIE/rb heavy starfighter",
+  "wookieepedia_title": "TIE/rb heavy starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/rb_heavy_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/rb heavy starfighter, more formally known as the TIE reinforcement battery heavy starfighter, and simply known as the heavy TIE fighter, TIE Brute, or the Infiltrator was a variant of the TIE fighter series starfighters used by the Galactic Empire, distinguished by its extra pod housing more powerful laser cannons.",
+  "data": {
+    "name": "TIE/rb heavy starfighter",
+    "designer": "SFS",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/rb heavy starfighter",
+    "type": "Starfighter",
+    "cost": [
+      "90,000 credits",
+      "40,000 (used)"
+    ],
+    "length": "8.9 meters",
+    "width": "12.2 meters",
+    "height": "10.97 meters",
+    "max_accel": "2,300 G",
+    "mglt": "90 MGLT",
+    "max_speed": "800 km/h",
+    "engine": "P-s4 twin ion engine",
+    "hyperdrive": "None",
+    "hull": "Triple-laminate quadranium-reinforced titanium armor",
+    "sensor": "Close range sensors",
+    "target": "T-s8 targeting computer",
+    "navigation": "MGK-300 droid",
+    "armament": "Pivoting self-powered H-s9.3 twin laser cannons",
+    "escapepods": "Ejector seat",
+    "crew": [
+      "1 pilot",
+      "Optional gunner"
+    ],
+    "consumables": "2 days",
+    "lifesupport": "Equipped",
+    "othersystems": [
+      "MGK-300 droid intelligence",
+      "Solar collectors"
+    ],
+    "availability": "Military",
+    "role": "Starfighter combat",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

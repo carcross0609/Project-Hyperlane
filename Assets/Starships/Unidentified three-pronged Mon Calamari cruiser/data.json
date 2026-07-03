@@ -1,0 +1,25 @@
+{
+  "name": "Unidentified three-pronged Mon Calamari cruiser",
+  "wookieepedia_title": "Unidentified three-pronged Mon Calamari cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_three-pronged_Mon_Calamari_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "A cruiser was a class of Mon Calamari starship that was active during the Imperial Era. It was part of the Mon Cala Mercantile Fleet and later part of the naval forces of the Alliance to Restore the Republic. It had three prongs on its dorsal side, seven engines, and a hyperdrive.",
+  "data": {
+    "name": "Unidentified three-pronged Mon Calamari cruiser",
+    "type": "Star Cruiser",
+    "engine": "7",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shields",
+    "othersystems": "Proximity sensors",
+    "affiliation": [
+      "Mon Calamari monarchy",
+      "  Mon Cala Mercantile Fleet",
+      "Galactic Empire",
+      "  Mon Cala Imperial Trade Fleet",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

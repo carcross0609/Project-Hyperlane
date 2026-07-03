@@ -1,0 +1,47 @@
+{
+  "name": "Ixiyen-class fast attack craft",
+  "wookieepedia_title": "Ixiyen-class fast attack craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ixiyen-class_fast_attack_craft",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ixiyen-class fast attack craft was a starfighter designed by TransGalMeg Industries, Incorporated during the Galactic Civil War.",
+  "data": {
+    "name": "Ixiyen-class fast attack craft",
+    "manufacturer": "TransGalMeg Industries, Incorporated",
+    "model": "Ixiyen-class fast attack craft",
+    "type": "Starfighter",
+    "cost": "180,000 credits (40,000 used)",
+    "length": "20 meters (approximate)",
+    "max_accel": "1,050 km/h",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "hull": "Armor plating",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Double medium laser cannons",
+      "5 Concussion missiles"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "availability": "Restricted",
+    "role": "Medium fighter",
+    "affiliation": [
+      "Black Sun",
+      "Ay'Nat pirates",
+      "Blood Razors",
+      "Bothan Spynet",
+      "Canyon Corsairs",
+      "Chiss Poachers",
+      "Dark Veil Order",
+      "Death Watch",
+      "Debris Cult",
+      "Ghrag Mercenaries",
+      "Krask Pirates",
+      "Privateers",
+      "Trandoshan slavers",
+      "Valarian Syndicate",
+      "Velocity Mercenaries"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

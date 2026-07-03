@@ -1,0 +1,61 @@
+{
+  "name": "Assault Frigate Mark I",
+  "wookieepedia_title": "Assault Frigate Mark I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Assault_Frigate_Mark_I",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Assault Frigate Mark I was a modification of the Dreadnaught-class cruiser that was used in the Rebel fleet.",
+  "data": {
+    "name": "Assault Frigate Mark I",
+    "manufacturer": [
+      "Rendili StarDrive (original Dreadnaught)",
+      "Alliance shipyards (conversion)"
+    ],
+    "model": "Assault frigate Mark I",
+    "type": "Assault frigate",
+    "cost": "Not available for sale",
+    "length": "700 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Rated 2240 SBD",
+    "hull": "Rated 976 RU",
+    "navigation": "Equipped",
+    "armament": [
+      "Laser cannons (15)",
+      "  5 fore",
+      "  5 port",
+      "  5 starboard",
+      "Quad laser cannons (20)",
+      "  8 fore",
+      "  6 port",
+      "  6 starboard",
+      "Turbolaser batteries (15)",
+      "  5 fore",
+      "  5 port",
+      "  5 starboard"
+    ],
+    "complement": [
+      "Gamma-class assault shuttle] (At least 1)",
+      "20 ships (external umbilical docks)"
+    ],
+    "crew": [
+      "Crew (4,882)",
+      "Gunners (118)"
+    ],
+    "skeleton": "1,500",
+    "passengers": "100 troops",
+    "capacity": "7,500 metric tons",
+    "consumables": "1.5 years",
+    "role": "Frigate",
+    "firstuse": "By approximately 1 BBY",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Alliance of Free Planets",
+      "New Republic",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

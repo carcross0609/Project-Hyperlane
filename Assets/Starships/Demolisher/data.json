@@ -1,0 +1,32 @@
+{
+  "name": "Demolisher",
+  "wookieepedia_title": "Demolisher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Demolisher",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Demolisher was a Gladiator-class Star Destroyer used by the Galactic Empire around 15 BBY.",
+  "data": {
+    "name": "Demolisher",
+    "model": "Gladiator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "modifier": "Gir Kybo Ren-Cha",
+    "armament": [
+      "Heavy turbolasers (6)",
+      "Proton torpedo tubes",
+      "Tractor beams"
+    ],
+    "complement": "Multiple starfighter squadrons",
+    "bays": "3",
+    "role": [
+      "Carrier",
+      "Destroyer"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Pirates of Tarnoonga (stolen)"
+    ],
+    "captains": "Terrinald Screed"
+  },
+  "scraped": "2026-07-03"
+}

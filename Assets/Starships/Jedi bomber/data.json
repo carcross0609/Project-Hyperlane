@@ -1,0 +1,24 @@
+{
+  "name": "Jedi bomber",
+  "wookieepedia_title": "Jedi bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Jedi Bomber was a starfighter used by members of the Jedi Order during the Clone Wars.",
+  "data": {
+    "name": "Jedi bomber",
+    "type": "Bomber",
+    "armament": "Unknown Munitions Launcher (2)",
+    "crew": [
+      "Pilot",
+      "Astromech droid",
+      "Bombardier"
+    ],
+    "role": [
+      "Bomber",
+      "Transport"
+    ],
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Starhound",
+  "wookieepedia_title": "Starhound",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starhound",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Starhound was a Simiyiar-class light freighter that was used by the undercover Imperial Security Bureau agent Eren Garai.",
+  "data": {
+    "name": "Starhound",
+    "manufacturer": "Mon Calamari Shipyards",
+    "type": "Simiyiar-class light freighter",
+    "crew": [
+      "2:",
+      "1 Pilot",
+      "1 Co-pilot"
+    ],
+    "passengers": "5",
+    "consumables": "2 months",
+    "affiliation": "Imperial Security Bureau",
+    "captains": "Eren Garai"
+  },
+  "scraped": "2026-07-03"
+}

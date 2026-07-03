@@ -1,0 +1,35 @@
+{
+  "name": "Logrus",
+  "wookieepedia_title": "Logrus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Logrus",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Logrus was an ExcelStar Lone Scout-A used by Dhar Bullwin in an attempt to recover a power that he hoped to use to rule the galaxy. The Logrus was destroyed by a group of New Republic scouts over Koda's World. Dhar Bullwin was able to escape in an escape pod and land on the planet to continue harassing the scouts.",
+  "data": {
+    "name": "Logrus",
+    "manufacturer": "ExcelStar",
+    "model": "Modified Lone Scout-A",
+    "type": "Scout vessel",
+    "length": "24 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "4 laser cannons",
+    "crew": "1",
+    "passengers": "3",
+    "capacity": [
+      "150 metric tons",
+      "60 cubic meters"
+    ],
+    "consumables": "1 standard year",
+    "othersystems": "Escape pod",
+    "role": "Personal transport",
+    "owners": "Dhar Bullwin"
+  },
+  "scraped": "2026-07-03"
+}

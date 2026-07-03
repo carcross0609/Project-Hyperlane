@@ -1,0 +1,24 @@
+{
+  "name": "Combat utility vehicle",
+  "wookieepedia_title": "Combat utility vehicle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Combat_utility_vehicle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Combat Utility Vehicles were manufactured by BTS Enterprises and used by the Galactic Empire.",
+  "data": {
+    "name": "Combat utility vehicle",
+    "manufacturer": "BTS Enterprises",
+    "model": "Combat Utility Vehicle",
+    "length": "15 meters",
+    "shield_gen": "None",
+    "hull": "Rated 28 RU",
+    "armament": [
+      "Laser cannons (2)",
+      "Ion cannons (2)"
+    ],
+    "crew": "Pilot (1)",
+    "role": "Combat service support",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

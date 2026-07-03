@@ -1,0 +1,42 @@
+{
+  "name": "TIE/ag \"Aggressor\" Starfighter",
+  "wookieepedia_title": "TIE/ag \"Aggressor\" Starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ag_%22Aggressor%22_Starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ag \"Aggressor\" Starfighter, also referred to simply as the TIE Aggressor or simply Aggressor, was a model of TIE series starfighter that was used by the Galactic Empire during the Imperial Era, including during the Galactic Civil War. As a fast attack and medium strike fighter, the TIE Aggressor was deployed by the Galactic Empire in multiple roles, including against smuggling, shipping, and surveillance.",
+  "data": {
+    "name": "TIE/ag \"Aggressor\" Starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/ag \"Aggressor\" Starfighter",
+    "type": "Medium strike starfighter",
+    "cost": "75,000 credits",
+    "length": "Longer than 7.24 meters",
+    "engine": "Twin ion engine",
+    "hdsystem": "None",
+    "power": "Solar collectors (2)",
+    "shield_gen": "None",
+    "sensor": "Close-range sensor",
+    "navigation": "None",
+    "armament": [
+      "Turret-mounted twin light laser cannon",
+      "Forward-mounted medium laser cannons",
+      "Barrage Rockets"
+    ],
+    "crew": "1 pilot, 1 gunner",
+    "consumables": "1 week",
+    "role": [
+      "Anti-shipping",
+      "Anti-smuggling",
+      "Fast attack",
+      "Patrol",
+      "Surveillance"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Starfighter Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

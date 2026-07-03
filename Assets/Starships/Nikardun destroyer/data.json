@@ -1,0 +1,19 @@
+{
+  "name": "Nikardun destroyer",
+  "wookieepedia_title": "Nikardun destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nikardun_destroyer",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Nikardun destroyer was a class of destroyer used by the Nikardun Destiny hegemony's battle forces. They were equipped with engines and a hyperdrive. In 19 BBY, several Nikardun destroyers orbited the Unknown Regions planet Primea as part of the Destiny's Primea fleet, which was blockading the world. The warships participated in the battle over Primea between the Nikardun and the Chiss Ascendancy nation, and one destroyer engaged two Chiss missile boats. Ultimately, the battle ended with the Nikardun forces' defeat.",
+  "data": {
+    "name": "Nikardun destroyer",
+    "type": "Destroyer",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "affiliation": [
+      "Nikardun Destiny",
+      "  Primea fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

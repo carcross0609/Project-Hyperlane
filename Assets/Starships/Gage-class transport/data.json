@@ -1,0 +1,26 @@
+{
+  "name": "Gage-class transport",
+  "wookieepedia_title": "Gage-class transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gage-class_transport",
+  "continuity": "Legends",
+  "infobox_template": "IndividualShip",
+  "description": "The Gage-class transport was a transport design used by the reconstituted Sith Empire during the Great Galactic War.",
+  "data": {
+    "name": "Gage-class transport",
+    "model": "Gage-class",
+    "type": "Transport",
+    "armament": "Turbolasers (&lt;7)",
+    "complement": [
+      "ISF interceptors",
+      "Shuttles"
+    ],
+    "role": [
+      "Logistical support"
+    ],
+    "affiliation": [
+      "Sith Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

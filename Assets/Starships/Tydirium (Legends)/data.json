@@ -1,0 +1,38 @@
+{
+  "name": "Tydirium",
+  "wookieepedia_title": "Tydirium/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tydirium/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tydirium was a Sienar Fleet Systems Imperial Lambda-class shuttle, which operated as a courier and a transport in the Prefsbelt system. It was later present at Outpost 327 over Zhar, where it was captured by General Crix Madine of the Alliance to Restore the Republic. Madine hoped to use the shuttle and the clearance codes it carried to have a strike team infiltrate the Forest Moon of Endor, around which orbited a new Imperial battle station, the second Death Star. The strike team would then, if all went as planned, deactivate the deflector shield protecting the still-under-construction Death Star.",
+  "data": {
+    "name": "Tydirium",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Lambda-class T-4a shuttle",
+    "length": "20 meters",
+    "max_accel": "1,400 G",
+    "max_speed": "850 km/h",
+    "engine": "2 SFS-204 sublight ion engines",
+    "hyperdrive": "SFS S/ig-37 hyperdrive (Class 1.0)",
+    "shield_gen": "100 SBD",
+    "hull": "66 RU",
+    "armament": [
+      "Forward twin Taim & Bak KX5 laser cannons (2)",
+      "Taim & Bak GA-60s twin laser cannons (2)",
+      "Aft retractable ArMek R-T0 twin blaster cannon (1)"
+    ],
+    "crew": "6",
+    "skeleton": "1",
+    "passengers": "20",
+    "capacity": "80 metric tons (without passengers)",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": "Alliance Fleet",
+    "captains": "Han Solo"
+  },
+  "scraped": "2026-07-03"
+}

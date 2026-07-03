@@ -1,0 +1,51 @@
+{
+  "name": "MG-100 StarFortress SF-17 heavy bomber",
+  "wookieepedia_title": "MG-100 StarFortress SF-17 heavy bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MG-100_StarFortress_SF-17_heavy_bomber",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The MG-100 StarFortress SF-17 heavy bomber, also known as the B/SF-17 heavy bomber, was a model of heavy bomber manufactured by Slayn & Korpil for use by the New Republic during the late stages of the Galactic Civil War. Following the Galactic Concordance and New Republic disarmament, the ship was primarily used in civilian applications. Several ships were used by the Resistance during its war with the First Order around 34 ABY, earning it the name Resistance Bomber.",
+  "data": {
+    "name": "MG-100 StarFortress SF-17 heavy bomber",
+    "manufacturer": [
+      "Slayn & Korpil",
+      "Sublights Products Corporation"
+    ],
+    "model": "MG-100 StarFortress SF-17",
+    "type": "Heavy bomber",
+    "length": "29.67 meters (97.34 ft)",
+    "width": "15.3 meters (50.2 ft)",
+    "height": "21.65 meters (71.03 ft)",
+    "max_speed": "650 kph",
+    "engine": "Sublight ion thrusters (6)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generator",
+    "target": [
+      "Remote-linked laser cannon array",
+      "Targeting sensor with active-tracking array",
+      "Wireless remote payload release"
+    ],
+    "countermeasures": "Electronic countermeasures (ECM)",
+    "armament": [
+      "Merr-Sonn Munitions EM-1919 paired repeating laser cannons (3) (ball turret mounted)",
+      "Medium laser cannons (6)",
+      "Modular bombing magazine (\"clip\"):",
+      "  Magnetic proton bombs (1,048)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Bombardier (1)",
+      "Flight engineer (1)",
+      "Gunner (2)"
+    ],
+    "role": "Bomber",
+    "affiliation": [
+      "New Republic",
+      "Central Ridge Mining Company",
+      "First Order",
+      "Resistance",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

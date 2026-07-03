@@ -1,0 +1,38 @@
+{
+  "name": "Caisson-class engineering troop carrier",
+  "wookieepedia_title": "Caisson-class engineering troop carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Caisson-class_engineering_troop_carrier",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Caisson-class engineering troop carrier was a class of troop transport that was a derivative of the CR-20 troop carrier and was a survivor of the Clone Wars. It was deployed by the Alliance to Restore the Republic in the Galactic Civil War against the Galactic Empire.",
+  "data": {
+    "name": "Caisson-class engineering troop carrier",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Troop transport",
+    "cost": "190,000",
+    "engine": "Sublight engines (3)",
+    "hyperdrive": [
+      "Class 3 (Primary)",
+      "Class 12 (Backup)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Short-range sensor",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Ventral turret-mounted twin medium laser cannons",
+      "  Port (1)",
+      "  Starboard (1)",
+      "Aft-mounted twin auto-blaster (1)"
+    ],
+    "complement": "UEV-M1 Marauder Engineer Squad Carrier (1)",
+    "crew": "3 (1 pilot, 1 co-pilot, 1 comms operator)",
+    "passengers": "40 combat engineers",
+    "capacity": "110",
+    "consumables": "2 months",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

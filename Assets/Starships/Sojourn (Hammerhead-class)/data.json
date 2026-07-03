@@ -1,0 +1,27 @@
+{
+  "name": "Sojourn",
+  "wookieepedia_title": "Sojourn (Hammerhead-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sojourn_%28Hammerhead-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sojourn was a Hammerhead-class cruiser that served as Admiral Carth Onasi's flagship in the years following the Jedi Civil War. Following the events that saw the destruction of the Peragus Mining Facility, the Sojourn was deployed to investigate what happened. Later, the vessel fought in the Battle of Telos IV alongside a Galactic Republic task force against Darth Nihilus and his Sith fleet.",
+  "data": {
+    "name": "Sojourn",
+    "manufacturer": "Rendili Hyperworks",
+    "type": "Hammerhead-class cruiser",
+    "length": "315 meters",
+    "engine": "4 Ion engines",
+    "armament": [
+      "4 double light turbolaser batteries",
+      "2 medium turbolaser batteries",
+      "2 point-defense cannon batteries",
+      "1 tractor beam battery"
+    ],
+    "crew": "About 300",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "captains": "Carth Onasi"
+  },
+  "scraped": "2026-07-03"
+}

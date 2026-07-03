@@ -1,0 +1,38 @@
+{
+  "name": "StarSpeeder 1000",
+  "wookieepedia_title": "StarSpeeder 1000",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/StarSpeeder_1000",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The StarSpeeder 1000 was a model of transport starship once operated by the interstellar spaceline Star Tours and the five other travel agencies that made up the Galactic Tourist Bureau. They could accommodate forty seated passengers and required a crew of only three to operate effectively. While all StarSpeeder 1000s bore the Star Tours logo, the color and markings of an individual craft varied according to its destination. The StarSpeeder 1000s were the predecessors of the mostly identical StarSpeeder 3000 that were seen shortly after the Battle of Endor.",
+  "data": {
+    "name": "StarSpeeder 1000",
+    "designer": "Sacul Aerospace",
+    "type": "Spaceliner",
+    "hdsystem": "T-14 hyperdrive generator",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Flash cannons (2)",
+      "Laser cannons (2)",
+      "Plasma cannons"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)",
+      "Systems analyst (1)"
+    ],
+    "passengers": "40",
+    "othersystems": "Binary motivator",
+    "role": "Passenger transport",
+    "firstuse": "Between 1 BBY and 0 BBY",
+    "affiliation": [
+      "Star Tours",
+      "Air Alderaan",
+      "Bespin Direct",
+      "Dantooine Express",
+      "Naboo Spacelines",
+      "Tatooine Transit"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

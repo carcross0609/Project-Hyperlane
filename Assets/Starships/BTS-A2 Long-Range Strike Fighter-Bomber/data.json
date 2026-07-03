@@ -1,0 +1,37 @@
+{
+  "name": "BTS-A2 Long-Range Strike Fighter/Bomber",
+  "wookieepedia_title": "BTS-A2 Long-Range Strike Fighter/Bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BTS-A2_Long-Range_Strike_Fighter/Bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BTS-A2 Long-Range Strike Fighter/Bomber (Rebel Alliance designation H-Wing) was an addition to Rebel fighter wings manufactured by Koensayr Manufacturing, a company made famous for their rugged Y-Wing starfighters.",
+  "data": {
+    "name": "BTS-A2 Long-Range Strike Fighter/Bomber",
+    "manufacturer": "Koensayr Manufacturing",
+    "type": "Starfighter",
+    "length": "17.1 meters",
+    "engine": "Koensayr R440 Ion Jet Engines",
+    "hyperdrive": "Class 1.0",
+    "sensor": "Fabritech ANx-y sensor package",
+    "avionics": "NH-7 flight control avionics package",
+    "armament": [
+      "1 KY12 medium laser cannon turret",
+      "2 light ion cannons (fire linked)",
+      "2 proton torpedo launchers",
+      "  Standard load: 6 proton torpedoes each"
+    ],
+    "crew": [
+      "1 pilot",
+      "2 weapons personnel"
+    ],
+    "passengers": "1",
+    "capacity": "220 kilograms",
+    "consumables": "1 month",
+    "role": [
+      "Assault starfighter",
+      "Bomber"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

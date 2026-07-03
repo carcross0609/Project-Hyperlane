@@ -1,0 +1,39 @@
+{
+  "name": "Shuttle Six",
+  "wookieepedia_title": "Shuttle Six",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shuttle_Six",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Shuttle Six was a Lambda-class T-4a shuttle used by the Galactic Empire to transport Doctor Aphra and the low-riskers from the wreckage of Hivebase-1 to Accresker Jail.",
+  "data": {
+    "name": "Shuttle Six",
+    "line": "Abecederian line",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Shuttle",
+    "length": "20 meters",
+    "mglt": "54 MGLT",
+    "max_speed": "850 kph",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield",
+    "armament": [
+      "Laser cannons (5)",
+      "  Forward-facing double laser cannons (2)",
+      "  Forward-facing wing-mounted double laser cannons (2)",
+      "  Retractable rear-mounted double laser cannon (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Copilot (1)",
+      "Emperor's Royal Guards"
+    ],
+    "passengers": "20",
+    "capacity": "80 metric tons",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

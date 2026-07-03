@@ -1,0 +1,37 @@
+{
+  "name": "Worthless Fool",
+  "wookieepedia_title": "Worthless Fool",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Worthless_Fool",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Worthless Fool was a VR-10 Cuirilla-Rayl Xylines-class spacetug belonging to the Alliance to Restore the Republic. It was captained by Maytoc Kollene.",
+  "data": {
+    "name": "Worthless Fool",
+    "model": "VR-10 Cuirilla-Rayl Xylines-class spacetug",
+    "type": "Modified space tug",
+    "cost": "15,000 credits",
+    "length": "42 meters",
+    "max_speed": "650 KMH",
+    "hyperdrive": [
+      "Class 2",
+      "Class 9"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Two laser cannons",
+      "One heavy laser cannon",
+      "Two tractor beam projectors"
+    ],
+    "crew": "4; 3 gunners",
+    "skeleton": "1",
+    "passengers": "18",
+    "capacity": "125 metric tons",
+    "consumables": "2 standard weeks",
+    "othersystems": "Assault tube",
+    "affiliation": "Alliance to Restore the Republic",
+    "captains": "Maytoc Kollene"
+  },
+  "scraped": "2026-07-03"
+}

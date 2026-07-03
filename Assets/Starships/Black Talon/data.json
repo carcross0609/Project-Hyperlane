@@ -1,0 +1,28 @@
+{
+  "name": "Black Talon",
+  "wookieepedia_title": "Black Talon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Black_Talon",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Black Talon was a Gage-class transport in service with the Sith Empire during the Cold War. It was captained by Revinal Orzik.",
+  "data": {
+    "name": "Black Talon",
+    "model": "Gage-class transport",
+    "type": "Transport",
+    "armament": "Turbolasers (&lt;7)",
+    "complement": [
+      "Mark VI Supremacy-class starfighter",
+      "Imperial assault shuttles"
+    ],
+    "crew": "380",
+    "role": [
+      "Armed transport",
+      "Logistical support"
+    ],
+    "affiliation": "Sith Empire",
+    "navy": "Imperial Navy",
+    "captains": "Captain Revinal Orzik"
+  },
+  "scraped": "2026-07-03"
+}

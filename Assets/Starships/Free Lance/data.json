@@ -1,0 +1,48 @@
+{
+  "name": "Free Lance",
+  "wookieepedia_title": "Free Lance",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Free_Lance",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Free Lance was a modified Nebulon-B frigate owned by the privateer Urias Xhaxin.",
+  "data": {
+    "name": "Free Lance",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Modified EF76 Nebulon-B escort frigate",
+    "type": "Capital ship",
+    "length": "300 meters",
+    "hyperdrive": "Class 2",
+    "armament": [
+      "10 turbolasers",
+      "2 ion cannons",
+      "12 laser cannons",
+      "2 tractor beam projectors"
+    ],
+    "complement": [
+      "At the time of the Yuuzhan Vong War: Two Ugly starfighter squadrons",
+      "  TYE-wings",
+      "  X-ceptors",
+      "  Trifighters",
+      "Boarding shuttles"
+    ],
+    "crew": [
+      "Crew (854)",
+      "Gunners (66)"
+    ],
+    "skeleton": "307",
+    "passengers": "75 (45 boarders)",
+    "capacity": "6,000 metric tons",
+    "consumables": "2 years (6 months in stock)",
+    "role": [
+      "Privateer",
+      "Pirate"
+    ],
+    "commission": "Before 0 BBY",
+    "retired": "25 ABY",
+    "affiliation": "Rebel Alliance",
+    "owners": "Urias Xhaxin",
+    "captains": "Urias Xhaxin"
+  },
+  "scraped": "2026-07-03"
+}

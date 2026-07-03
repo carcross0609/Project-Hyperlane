@@ -1,0 +1,27 @@
+{
+  "name": "Vagaari plunder ship",
+  "wookieepedia_title": "Vagaari plunder ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vagaari_plunder_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Vagaari plunder ships were used around 27 BBY by the Vagaari Empire to temporarily store and transport all types of valuable objects stolen from defeated starships and other civilizations. They were maintained by slaves captured from the Vagaari's raids. A large Vagaari plunder ship was once captured by the Chiss Expansionary Defense Force with a main storage area that stretched out over two decks and was filled with coins, jewels, spices, artwork and other treasures from many worlds.",
+  "data": {
+    "name": "Vagaari plunder ship",
+    "type": "Freighter",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Living shield blisters",
+    "armament": [
+      "Laser cannons",
+      "4 clusters of missile launchers (1 port, 1 starboard, 1 bottomside, 1 topside)"
+    ],
+    "bays": "Equipped",
+    "passengers": "Slaves",
+    "role": [
+      "Treasury ship",
+      "Transport"
+    ],
+    "affiliation": "Vagaari Empire"
+  },
+  "scraped": "2026-07-03"
+}

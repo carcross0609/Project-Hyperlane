@@ -1,0 +1,26 @@
+{
+  "name": "Orbital service shuttle 23K",
+  "wookieepedia_title": "Orbital service shuttle 23K",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orbital_service_shuttle_23K",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The orbital service shuttle 23K was a shuttle design produced by Gallofree Yards.",
+  "data": {
+    "name": "Orbital service shuttle 23K",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "type": "Shuttle",
+    "cost": [
+      "36,000 credits (new)",
+      "20,000 credites (used)"
+    ],
+    "length": "18 meters",
+    "max_accel": "650 kmh",
+    "sensor": "Equipped",
+    "crew": "1",
+    "passengers": "6",
+    "capacity": "1 metric ton",
+    "consumables": "1 standard day",
+    "availability": "Licensed"
+  },
+  "scraped": "2026-07-03"
+}

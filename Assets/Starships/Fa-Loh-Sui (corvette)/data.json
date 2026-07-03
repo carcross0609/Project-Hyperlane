@@ -1,0 +1,52 @@
+{
+  "name": "Fa-Loh-Sui",
+  "wookieepedia_title": "Fa-Loh-Sui (corvette)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fa-Loh-Sui_%28corvette%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Fa-Loh-Sui was the flagship of the Abin-Ral-Xufush. It was a CR90 corvette that originally belonged to an Outer Rim-based Rebel Alliance command before the Shadow Wing seized it. Abin named the ship after his former love interest, Fa-Loh-Sui.",
+  "data": {
+    "name": "Fa-Loh-Sui",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "cost": "1.5 million (used)",
+    "length": "150 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Nav computer",
+    "armament": [
+      "4 double turbolaser cannons (fire-linked)",
+      "1 ion cannon",
+      "Tractor beams"
+    ],
+    "crew": [
+      "50 crew",
+      "  12 gunners"
+    ],
+    "skeleton": [
+      "20 crew",
+      "  5 gunners"
+    ],
+    "passengers": "20",
+    "capacity": "3,000 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Flagship",
+      "Multipurpose vessel"
+    ],
+    "affiliation": [
+      "Shadow Wing",
+      "Alliance to Restore the Republic (formerly)"
+    ],
+    "owners": "Abin-Ral-Xufush"
+  },
+  "scraped": "2026-07-03"
+}

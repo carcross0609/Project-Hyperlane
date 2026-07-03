@@ -1,0 +1,24 @@
+{
+  "name": "Krix Kamerat's ship",
+  "wookieepedia_title": "Krix Kamerat's ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krix_Kamerat%27s_ship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A starship was owned by the Nihil marauder organization during the High Republic Era. In 228 BBY, the starship was given to the former human commander of the Nihil, Krix Kamerat, on the planet Corellia by the Gotal Nihil Bledloe Seven at Kamerat's request, which he planned to use to infiltrate the Nihil flagship Gaze Electric as part of a bigger scheme to assassinate the Eye of the Nihil Marchion Ro.",
+  "data": {
+    "name": "Krix Kamerat's ship",
+    "engine": [
+      "Equipped",
+      "  Path engine installed"
+    ],
+    "hdsystem": "Equipped",
+    "communications": "Equipped",
+    "affiliation": "Nihil",
+    "owners": [
+      "Bledloe Seven",
+      "Krix Kamerat"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Executioner",
+  "wookieepedia_title": "Executioner (Harrower-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Executioner_%28Harrower-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Executioner was a Harrower-class dreadnought that served the reconstituted Sith Empire during the renewed conflict with the Galactic Republic. The ship was sent to assist the Imperial operation on Manaan.",
+  "data": {
+    "name": "Executioner",
+    "model": "Harrower-class dreadnought",
+    "type": "Dreadnaught",
+    "armament": "Turbolasers",
+    "complement": [
+      "Mark VI Supremacy-class starfighters",
+      "Shuttles"
+    ],
+    "affiliation": [
+      "Sith Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Patriot Fist",
+  "wookieepedia_title": "Patriot Fist",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Patriot_Fist",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Patriot Fist was a Recusant-class light destroyer that served within the naval forces of the Confederacy of Independent Systems during the Clone Wars. In 19 BBY, the destroyer participated in an unprecedented assault on the Galactic Republic's capital world of Coruscant, alongside a large Separatist fleet commanded by General Grievous in an attempt to capture Supreme Chancellor Sheev Palpatine.",
+  "data": {
+    "name": "Patriot Fist",
+    "model": "Recusant-class light destroyer",
+    "type": "Destroyer",
+    "engine": "Thrusters",
+    "sensor": "Electromagnetic sensor antennas",
+    "armament": [
+      "Prow heavy turbolaser cannon (1)",
+      "Heavy turbolaser cannons"
+    ],
+    "othersystems": "Neutrino radiator grille",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy"
+  },
+  "scraped": "2026-07-03"
+}

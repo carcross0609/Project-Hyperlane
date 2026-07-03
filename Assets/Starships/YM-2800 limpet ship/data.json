@@ -1,0 +1,32 @@
+{
+  "name": "YM-2800 limpet ship",
+  "wookieepedia_title": "YM-2800 limpet ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YM-2800_limpet_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "YM-2800 limpet ship was a survey and mining vessel used by the Rebel Alliance to deploy troopers into Imperial starships.",
+  "data": {
+    "name": "YM-2800 limpet ship",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YM-2800 limpet ship",
+    "type": "Mining vessel",
+    "cost": "150,000 credits (70,000 used)",
+    "max_speed": "800 km/h",
+    "shield_gen": "Heavy particle shielding",
+    "armament": [
+      "Medium laser cannons",
+      "Plasma beam cutter"
+    ],
+    "crew": "6",
+    "passengers": "6",
+    "capacity": "125 tons",
+    "consumables": "2 months",
+    "availability": "Restricted",
+    "role": [
+      "Mining vessel",
+      "Assault/boarding craft"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

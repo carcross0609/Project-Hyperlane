@@ -1,0 +1,42 @@
+{
+  "name": "Albedo Brave",
+  "wookieepedia_title": "Albedo Brave",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Albedo_Brave",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Albedo Brave was a Venator-class Star Destroyer in the navy of the Galactic Republic during the Clone Wars. It served as the command ship of Jedi General Jaro Tapal and his 13th Battalion of clone troopers, who led a campaign to defend the Bracca system from the Confederacy of Independent Systems. Shortly after the campaign, Order 66 was executed, forcing Tapal and his Padawan, Cal Kestis, to escape from their clone troopers. Tapal sabotaged the reactor of the Albedo Brave to conceal their escape, but was fatally wounded before he could board an escape pod. Kestis escaped the Albedo Brave before its destruction, landing on Bracca, where he would remain for the next five years.",
+  "data": {
+    "name": "Albedo Brave",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Ion drive thrusters (8)",
+    "power": "Reactors",
+    "armament": [
+      "Heavy turbolasers",
+      "Laser cannons",
+      "Proton torpedo launchers",
+      "Tractor beam projectors"
+    ],
+    "bays": "Escape pod bay",
+    "escapepods": "Escape pods",
+    "crew": [
+      "Clone troopers",
+      "R2-series astromech droids",
+      "GNK-series power droids"
+    ],
+    "role": [
+      "Battleship",
+      "Command ship",
+      "Starfighter carrier"
+    ],
+    "destroyed": "19 BBY, Bracca system",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "captains": "Jaro Tapal"
+  },
+  "scraped": "2026-07-03"
+}

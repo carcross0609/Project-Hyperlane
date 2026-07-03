@@ -1,0 +1,11 @@
+# Firethorn
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Firethorn](https://starwars.fandom.com/wiki/Firethorn)
+
+Firethorn was a frigate in the Galactic Alliance Defense Fleet. It was stationed at Toryaz Station during the Corellian-Galactic Alliance negotiations in 40 ABY to protect the Narsacc Habitat.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

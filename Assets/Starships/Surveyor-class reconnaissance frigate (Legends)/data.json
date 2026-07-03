@@ -1,0 +1,38 @@
+{
+  "name": "Surveyor-class reconnaissance frigate",
+  "wookieepedia_title": "Surveyor-class reconnaissance frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Surveyor-class_reconnaissance_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Surveyor-class reconnaissance frigate was an Imperial scout craft manufactured by Kuat Drive Yards for the Imperial Navy. It was based on the Active-class fast attack frigate, with a hull that resembled that of the Vindicator-class heavy cruisers, while the bridge and primary sensor arrays were in a structure resembling the bridge of a Bellator-class dreadnought.",
+  "data": {
+    "name": "Surveyor-class reconnaissance frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Surveyor-class reconnaissance frigate",
+    "type": "Frigate",
+    "cost": "9,600,000 credits",
+    "hyperdrive": [
+      "Class 1",
+      "Backup class 11"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Light turbolasers (6)",
+      "Medium turbolasers (4)",
+      "Twin Light laser cannons (6)",
+      "Medium ion cannons (4)",
+      "Heavy Tractor beam emitterss (2)"
+    ],
+    "complement": [
+      "starfighters (12)",
+      "Shuttles"
+    ],
+    "crew": "900",
+    "passengers": "80",
+    "consumables": "2 years",
+    "role": "Reconnaissance and long range exploration",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

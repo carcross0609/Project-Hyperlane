@@ -1,0 +1,28 @@
+{
+  "name": "ZD-8000 cruise ship",
+  "wookieepedia_title": "ZD-8000 cruise ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ZD-8000_cruise_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The ZD-8000 cruise ship was a Corellian luxury liner model in use during the Galactic Civil War.",
+  "data": {
+    "name": "ZD-8000 cruise ship",
+    "type": "Luxury liner",
+    "cost": "19 million credits",
+    "length": "500 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 4"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "None",
+    "crew": "350",
+    "skeleton": "50",
+    "passengers": "2,200",
+    "capacity": "20,000 metric tons",
+    "consumables": "6 months",
+    "role": "Luxury liner"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Annihilator",
+  "wookieepedia_title": "Annihilator (Executor-class)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Annihilator_%28Executor-class%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Annihilator was an Imperial Executor-class Star Dreadnought under the command of Admiral Gaarn that was active shortly after the Battle of Endor. The Annihilator was sent to pacify the forces of the Zann Consortium, led by the crime lord Tyber Zann, which had recently taken control of the partially-constructed superweapon Eclipse at the Imperial shipyards above Kuat. Joining the Imperial vessels already present, the Annihilator deployed its TIE fighter squadrons and opened fire on both the Zann Consortium forces and the Eclipse. The Annihilator, along with the rest of the Imperial fleet, was destroyed during the battle.",
+  "data": {
+    "name": "Annihilator",
+    "model": "Executor-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "length": "19,000 meters",
+    "engine": "13 engine units",
+    "hdsystem": "Equipped",
+    "shield_gen": "Two deflector shield generator domes",
+    "armament": [
+      "Turbolaser batteries",
+      "Ion cannons",
+      "Concussion missile launchers",
+      "Proton torpedo launchers",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "Numerous TIE Series starfighter squadrons",
+      "  TIE/LN starfighters",
+      "  TIE/sa bombers",
+      "  TIE/IN interceptors",
+      "  TIE/D Defenders"
+    ],
+    "role": [
+      "Command ship",
+      "Carrier"
+    ],
+    "destroyed": "4 ABY, Kuat system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Admiral Gaarn"
+  },
+  "scraped": "2026-07-03"
+}

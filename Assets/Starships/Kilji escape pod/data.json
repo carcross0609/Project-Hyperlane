@@ -1,0 +1,19 @@
+{
+  "name": "Kilji escape pod",
+  "wookieepedia_title": "Kilji escape pod",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kilji_escape_pod",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "A type of escape pod was found aboard the Kilji Illumine government war cruiser Anvil. Small and made of metal, they were equipped with a viewport, thrusters, and an automatic beacon that broadcast its location after they were jettisoned. A passenger aboard a Kilji escape pod could survive for hours before running out of oxygen. Two pods were located aboard Illumine General Crofyp's Anvil, one to the bridge's portside, covered by an orange-rimmed door, and the other to starboard.",
+  "data": {
+    "name": "Kilji escape pod",
+    "type": "Escape pod",
+    "engine": "Equipped",
+    "hull": "Metal",
+    "lifesupport": "Several hours",
+    "communications": "An automatic beacon",
+    "role": "Escape craft",
+    "affiliation": "Kilji Illumine"
+  },
+  "scraped": "2026-07-03"
+}

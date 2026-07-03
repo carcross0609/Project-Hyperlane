@@ -1,0 +1,42 @@
+{
+  "name": "Curich-class shuttle",
+  "wookieepedia_title": "Curich-class shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Curich-class_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Curich-class shuttle was an Imperial shuttle design.",
+  "data": {
+    "name": "Curich-class shuttle",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Curich-class shuttle",
+    "type": "Transport",
+    "cost": "130,000 credits",
+    "length": "54 meters",
+    "max_speed": "800 kph",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12.0 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": "Turreted heavy blaster cannon (2)",
+    "crew": [
+      "3",
+      "Pilot (1)",
+      "Co-pilot/Engineer (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "50",
+    "capacity": "300 metric tons",
+    "consumables": "2 months",
+    "role": "Shuttle",
+    "affiliation": [
+      "Civilian",
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

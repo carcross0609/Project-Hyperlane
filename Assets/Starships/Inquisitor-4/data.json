@@ -1,0 +1,41 @@
+{
+  "name": "Inquisitor-4",
+  "wookieepedia_title": "Inquisitor-4",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Inquisitor-4",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": null,
+  "data": {
+    "name": "Inquisitor-4",
+    "type": "World Devastator",
+    "length": "1,700 meters",
+    "height": "900 meters",
+    "max_speed": "230 KPH",
+    "hyperdrive": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy turbolasers (80)",
+      "Blaster cannons (80)",
+      "Proton torpedo tubes (30)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": "Unlimited; self-contained manufacturing facilities",
+    "crew": [
+      "Crew (21,640)",
+      "Gunners (1,020)",
+      "Slaves (1,800)",
+      "Droids (1,211)"
+    ],
+    "skeleton": "3,880",
+    "passengers": [
+      "Troops (6,700)",
+      "Pilots (1,000)"
+    ],
+    "capacity": "31,500 tons",
+    "consumables": "2 years",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

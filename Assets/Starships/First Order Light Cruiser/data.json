@@ -1,0 +1,35 @@
+{
+  "name": "First Order Light Cruiser",
+  "wookieepedia_title": "First Order Light Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/First_Order_Light_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The First Order Light Cruiser was a model of light cruiser used by the First Order. It could be docked on the nose of a Resurgent-class Star Destroyer, and was also used as a crew transfer shuttle. The Enshado was one such ship. Following the discovery of Lor San Tekka, the First Order dispatched another cruiser to recover him, but it was destroyed by Black Squadron.",
+  "data": {
+    "name": "First Order Light Cruiser",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "type": "Light cruiser",
+    "length": "211.2 meters",
+    "engine": "4",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Twin guns",
+      "Missiles"
+    ],
+    "complement": [
+      "24 TIE/fo/TIE/sf space superiority fighters",
+      "1 Xi-class light shuttle"
+    ],
+    "role": [
+      "Light cruiser",
+      "Command ship",
+      "Crew transfer shuttle"
+    ],
+    "affiliation": [
+      "First Order",
+      "  First Order Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

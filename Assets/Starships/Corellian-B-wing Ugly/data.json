@@ -1,0 +1,44 @@
+{
+  "name": "Corellian/B-wing Ugly",
+  "wookieepedia_title": "Corellian/B-wing Ugly",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corellian/B-wing_Ugly",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Corellian/B-wing Ugly, also known as the C-Wing Ugly, was an Ugly starfighter built by bolting the cockpit of a Corellian YT-series light freighter onto the fuselage of a B-wing starfighter.",
+  "data": {
+    "name": "Corellian/B-wing Ugly",
+    "manufacturer": [
+      "Corellian Engineering Corporation (cockpit)",
+      "Slayn & Korpil (fuselage)",
+      "Pirates (final assembly)"
+    ],
+    "model": "Corellian B-wing \"ugly\"",
+    "type": "Ugly starfighter",
+    "cost": "110,000 credits",
+    "length": "16.9 meters",
+    "max_speed": "650 - 950 km/h",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped (two-jump limit)",
+    "armament": [
+      "Anti-infantry turbolaser cannon turret (1)",
+      "Light ion cannons",
+      "Proton torpedo launcher",
+      "  8 torpedoes"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "2",
+    "capacity": "65 - 450 kg",
+    "consumables": "1 - 2 weeks",
+    "availability": "Restricted",
+    "role": "Assault fighter",
+    "affiliation": [
+      "Pirates",
+      "Sacorrian Triad"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "KT 1A-Telak",
+  "wookieepedia_title": "KT 1A-Telak",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/KT_1A-Telak",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The KT 1A-Telak was a light freighter developed by the Telak's Terrors pirate group.",
+  "data": {
+    "name": "KT 1A-Telak",
+    "manufacturer": "Telak's Terrors",
+    "type": "Light freighter",
+    "length": "19 meters",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Dual laser cannons",
+      "Concussion missiles"
+    ],
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "500 kilograms",
+    "consumables": "1 month",
+    "role": "Pirate ship",
+    "affiliation": "Telak's Terrors"
+  },
+  "scraped": "2026-07-03"
+}

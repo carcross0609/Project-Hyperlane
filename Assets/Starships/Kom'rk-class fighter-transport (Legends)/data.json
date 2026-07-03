@@ -1,0 +1,33 @@
+{
+  "name": "Kom'rk-class fighter/transport",
+  "wookieepedia_title": "Kom'rk-class fighter/transport/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kom%27rk-class_fighter/transport/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kom'rk-class fighter/transport, also called Gauntlet starfighter, was a starship designed by rogue members of the MandalMotors corporation for use by the violent Mandalorian splinter-group known as the Death Watch. Taking its name from the Mando'a word for \"gauntlet,\" Death Watch's leader by 21 BBY, Pre Vizsla, owned a Kom'rk-class fighter during the Clone Wars, which he named Gauntlet, and made use of as his personal transport. Over fifty meters in length, and equipped with laser cannons and powerful engines, each Kom'rk model was an able assault craft and fighter.",
+  "data": {
+    "name": "Kom'rk-class fighter/transport",
+    "manufacturer": "MandalMotors",
+    "model": "Kom'rk-class fighter/transport",
+    "type": "Transport",
+    "length": [
+      "68.1 meters (larger model)",
+      "52.3 meters (smaller model)"
+    ],
+    "width": "52.4 meters",
+    "height": "13.23 meters",
+    "engine": "2",
+    "hyperdrive": "Equipped",
+    "armament": "4 laser cannons; 2 fore, 2 aft",
+    "crew": "4",
+    "passengers": "24",
+    "lifesupport": "Equipped",
+    "role": [
+      "Starfighter",
+      "Transport"
+    ],
+    "firstuse": "Prior to 22 BBY",
+    "affiliation": "Death Watch"
+  },
+  "scraped": "2026-07-03"
+}

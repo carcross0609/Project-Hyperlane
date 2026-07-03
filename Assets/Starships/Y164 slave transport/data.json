@@ -1,0 +1,30 @@
+{
+  "name": "Y164 slave transport",
+  "wookieepedia_title": "Y164 slave transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Y164_slave_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Y164 Slave Transport was used by the Thalassian slavers to transport their slaves to the new owners. It was bulky but durable. It had decent firepower, but usually was protected by Kaloth-style battlecruisers.",
+  "data": {
+    "name": "Y164 slave transport",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Y164 slave transport",
+    "type": "Transport",
+    "cost": "245,000 credits (122,000 used)",
+    "length": "90 meters",
+    "hyperdrive": "Class 3 (backup class 15)",
+    "navigation": "Navicomputer",
+    "armament": "Quad light laser cannons (2)",
+    "crew": "15",
+    "passengers": "1,200 (slaves)",
+    "capacity": "10 tons",
+    "consumables": "3 months",
+    "availability": "Illegal",
+    "role": "Slave transport",
+    "affiliation": [
+      "Hutts",
+      "Thalassian slavers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

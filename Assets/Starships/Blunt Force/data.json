@@ -1,0 +1,36 @@
+{
+  "name": "Blunt Force",
+  "wookieepedia_title": "Blunt Force",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blunt_Force",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blunt Force was a YV-929 armed freighter that was used by the Peace Brigade during the Yuuzhan Vong War. At some point during the conflict, the Blunt Force and the Peace Brigade Corellian gunship Vigor attacked the refugee ship Wanderhome.",
+  "data": {
+    "name": "Blunt Force",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YV-929 armed freighter",
+    "type": "Transport",
+    "cost": [
+      "250,000 credits (new)",
+      "100,000 credits (new)"
+    ],
+    "length": "22 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup class 12"
+    ],
+    "armament": [
+      "Concussion missile launchers (4)",
+      "Double turbolaser cannons (2)",
+      "Ion cannons (2)",
+      "Triple blasters (2)"
+    ],
+    "crew": "4",
+    "passengers": "6",
+    "capacity": "150 metric tons",
+    "consumables": "3 months",
+    "affiliation": "Peace Brigade"
+  },
+  "scraped": "2026-07-03"
+}

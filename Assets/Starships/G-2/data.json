@@ -1,0 +1,22 @@
+{
+  "name": "G-2",
+  "wookieepedia_title": "G-2",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G-2",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "G-2, also called Xiri's starfighter or just Xiri's fighter, was a Forward ReCon fighter starfighter that Princess Xiri A'lbaran and her husband Phan-tu Zenn discovered in a hangar north of the Path compound on the planet Dalna during the Night of Sorrow in 382 BBY. After using it to fight in the battle, they fled Dalna in it to try and contact their planets, Eiram and E'ronoh, for help.",
+  "data": {
+    "name": "G-2",
+    "line": "Forward ReCon fighter",
+    "model": "FRC-40",
+    "type": "Starfighter",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "armament": "Forward and rear laser cannons",
+    "capacity": "2",
+    "communications": "Equipped",
+    "captains": "Xiri A'lbaran"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Theta-class T-2c shuttle",
+  "wookieepedia_title": "Theta-class T-2c shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Theta-class_T-2c_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Theta-class T-2c shuttle, also known as the Theta-class shuttle, was a model of shuttle used by the Galactic Republic and later, the Galactic Empire. The Emperor and Sith Lord Darth Sidious ordered Grand Vizier Mas Amedda to inform Captain Kagi to prepare his Theta-class for immediate takeoff to rescue Darth Vader on Mustafar following a duel there against his former Jedi Master Obi-Wan Kenobi. The shuttle would also be used to transport a number of incarcerated Imperial senators in the aftermath of a mass arrest by Imperial Intelligence. In the early days of the Empire, a Theta-class shuttle transported Sidious and Vader to Gattering in the Mid Rim, and later transported Sidious and Vader to the Inquisitorius Headquarters in order for Vader to take command of the Inquisitorius. During the Berch Teller campaign, Moff Wilhuff Tarkin asked the captain of the Liberator for a Theta-class for transport to the Goliath.",
+  "data": {
+    "name": "Theta-class T-2c shuttle",
+    "manufacturer": "Cygnus Spaceworks",
+    "line": "Abecederian line",
+    "model": "Theta-class T-2c shuttle",
+    "type": "Shuttle",
+    "length": "18.5 meters (excluding guns)",
+    "width": "29.3 meters",
+    "height": "18.5 meters",
+    "max_speed": "2,000 kilometers per hour",
+    "maneuverability": "Maneuvering jets",
+    "engine": [
+      "Ion drives (2)",
+      "Repulsorlift"
+    ],
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "power": "Reactor",
+    "shield_gen": [
+      "Ray shield",
+      "Wing-mounted shield projectors"
+    ],
+    "navigation": "Navigation computer",
+    "armament": [
+      "Aft automated laser cannon (1)",
+      "Quad laser cannons (2)"
+    ],
+    "crew": [
+      "1 pilot",
+      "4 crewmembers (optional)"
+    ],
+    "skeleton": "1 pilot",
+    "passengers": "At least 4",
+    "lifesupport": "At least 1 medical capsule",
+    "communications": "Communications transponders",
+    "role": "Personal shuttle",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

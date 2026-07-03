@@ -1,0 +1,29 @@
+{
+  "name": "Sudden Restoration",
+  "wookieepedia_title": "Sudden Restoration",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sudden_Restoration",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sudden Restoration was a Carosite-built and operated hospital ship that saw service throughout the Galactic Civil War, offering free health care to all beings, regardless of political affiliation.",
+  "data": {
+    "name": "Sudden Restoration",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Class-C frigate",
+    "length": "330 meters",
+    "armament": "2 laser cannons",
+    "complement": "2 X-wing starfighters",
+    "crew": [
+      "Officers (20)",
+      "Crewmen (200)"
+    ],
+    "passengers": [
+      "Medics (380)",
+      "Medical droids (1,000)",
+      "2,000 patients"
+    ],
+    "role": "Hospital ship",
+    "affiliation": "Carosites"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cargo freighter EF-75",
+  "wookieepedia_title": "Cargo freighter EF-75",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cargo_freighter_EF-75",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Cargo freighter EF-75 was a class four container transport used by the Imperial Navy in 1 BBY.",
+  "data": {
+    "name": "Cargo freighter EF-75",
+    "model": "Class four container transport",
+    "type": "Freighter",
+    "engine": "Sublight engines (3)",
+    "hdsystem": "Equipped",
+    "maincomp": "Equipped",
+    "armament": [
+      "Top-mounted double-barreled turbolaser battery (1)",
+      "Side-mounted laser turrets (2)"
+    ],
+    "capacity": "Up to 126 large containers",
+    "role": "Transport",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

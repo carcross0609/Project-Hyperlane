@@ -1,0 +1,54 @@
+{
+  "name": "Outbound Flight",
+  "wookieepedia_title": "Outbound Flight",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Outbound_Flight",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Outbound Flight was the main ship of the Outbound Flight Project. It consisted of a central fuselage surrounded by six Dreadnaught-class heavy cruisers designated D-One through D-Six; together, the massive ship was known as Outbound Flight.",
+  "data": {
+    "name": "Outbound Flight",
+    "manufacturer": "Rendili StarDrive (Dreadnaughts)",
+    "type": "Six Dreadnaught-class heavy cruisers around a central core",
+    "modifier": "Galactic Republic",
+    "sysmods": "Storage core and framework",
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 18 (backup)"
+    ],
+    "armament": [
+      "15 turbolaser batteries",
+      "3 laser cannon batteries",
+      "5 quad laser cannon batteries"
+    ],
+    "complement": [
+      "1 Delta-12 Skysprite-class",
+      "Various shuttlecraft"
+    ],
+    "crew": "5,000",
+    "passengers": [
+      "46,000",
+      "20 Jedi",
+      "  6 Jedi Masters",
+      "  13 Jedi Knights",
+      "  1 Padawan"
+    ],
+    "consumables": "10 years",
+    "role": [
+      "Exploratory vessel",
+      "Research vessel"
+    ],
+    "commission": "27 BBY",
+    "destroyed": "27 BBY, a planetoid",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi"
+    ],
+    "captains": [
+      "Pakmillu",
+      "Jorus C'baoth (unofficially)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

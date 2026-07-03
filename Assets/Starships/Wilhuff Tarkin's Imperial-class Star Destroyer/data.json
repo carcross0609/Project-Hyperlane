@@ -1,0 +1,33 @@
+{
+  "name": "Wilhuff Tarkin's Imperial-class Star Destroyer",
+  "wookieepedia_title": "Wilhuff Tarkin's Imperial-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wilhuff_Tarkin%27s_Imperial-class_Star_Destroyer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "An Imperial-class Star Destroyer served under the command of Admiral Wilhuff Tarkin during the early months of the Galactic Empire. Serving in the Empire's campaign against Separatist holdouts in the Western Reaches, the Star Destroyer underwent repairs at a shipyard over Kartoosh because of damages sustained in the fighting. During that time, Lieutenant Commander Orson Callan Krennic met with Tarkin aboard the starship to discuss plans for a top-secret project.",
+  "data": {
+    "name": "Wilhuff Tarkin's Imperial-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Space Workshops Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Wilhuff Tarkin"
+  },
+  "scraped": "2026-07-03"
+}

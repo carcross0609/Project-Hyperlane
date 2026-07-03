@@ -1,0 +1,52 @@
+{
+  "name": "Raider-class corvette",
+  "wookieepedia_title": "Raider-class corvette/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raider-class_corvette/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Raider-class corvette was a starship manufactured by Kuat Drive Yards in 6 BBY. The 150 meter-long corvette was used by the Galactic Empire to support the TIE fighters used to engage the fleet of the Alliance to Restore the Republic during the Galactic Civil War. Lira Wessex, chief designer of both the Venator-class and Imperial-class Star Destroyers, designed the Raider-class corvette to fill a tactical void the Empire had against the Rebel Alliance's starfighter-oriented strategies. The hardy corvette was armed with dual heavy laser cannons, turbolasers, and ion cannons, with some variants carrying concussion missiles. The corvette was equipped with a hyperdrive to complement its use in the Outer Rim Territories as a patrol ship. There were two sub-classes for this line of vessel, the Raider I-class and the Raider II-class corvette.",
+  "data": {
+    "name": "Raider-class corvette",
+    "designer": "Lira Wessex",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Raider-class corvette",
+    "type": "Corvette",
+    "cost": "3,000,000 credits",
+    "length": "150 meters",
+    "engine": [
+      "2 small engines",
+      "1 large engine"
+    ],
+    "hyperdrive": [
+      "Class 2",
+      "Class 15 (backup)"
+    ],
+    "power": "Solar panel wings (3)",
+    "sensor": "Long-range sensors",
+    "target": "Tracking sensors",
+    "navigation": "Navicomputer",
+    "countermeasures": "Experimental jammer (most models)",
+    "armament": [
+      "Twin heavy laser cannon turrets (6)",
+      "Light single turbolasers",
+      "Ion cannons",
+      "  Replaced by cluster missiles in early models"
+    ],
+    "crew": [
+      "15 officers",
+      "77 enlisted crew"
+    ],
+    "passengers": "30 troops",
+    "consumables": "3 months",
+    "role": [
+      "Anti-starfighter/attack craft platform",
+      "Patrol craft"
+    ],
+    "firstuse": [
+      "6 BBY (Raider I-class)",
+      "Ca. 0 BBY (Raider II-class)"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

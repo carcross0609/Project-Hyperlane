@@ -1,0 +1,29 @@
+{
+  "name": "Valorum",
+  "wookieepedia_title": "Valorum (Victory-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Valorum_%28Victory-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Valorum was a Victory-class Star Destroyer in the Confederation Fleet. It was originally commissioned during the final days of the Old Republic.",
+  "data": {
+    "name": "Valorum",
+    "type": "Victory-class Star Destroyer",
+    "length": "900 meters",
+    "hyperdrive": "Equipped",
+    "role": "Cruiser",
+    "destroyed": "40 ABY",
+    "affiliation": [
+      "Galactic Republic",
+      "Five Worlds",
+      "Confederation"
+    ],
+    "navy": [
+      "Confederation Fleet",
+      "  Corellian fleet",
+      "    Decoy fleet"
+    ],
+    "captains": "Captain Hoclaw"
+  },
+  "scraped": "2026-07-03"
+}

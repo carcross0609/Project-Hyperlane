@@ -1,0 +1,36 @@
+{
+  "name": "Minstrel-class space yacht",
+  "wookieepedia_title": "Minstrel-class space yacht",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Minstrel-class_space_yacht",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Minstrel-class space yacht was a model of large luxury space yacht manufactured by Ubrikkian Industries. Every Minstrel-class vessel was built to the specifications of its buyer.",
+  "data": {
+    "name": "Minstrel-class space yacht",
+    "manufacturer": "Ubrikkian Industries",
+    "type": "Yacht",
+    "cost": "1,750,000 credits",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "sensor": "Medium range",
+    "armament": [
+      "Concealed turret-mounted light turbolaser batteries (6)",
+      "Medium ion cannons (6)",
+      "Heavy tractor beam projector (1)"
+    ],
+    "complement": [
+      "Starfighters (6)",
+      "Shuttles (2)"
+    ],
+    "crew": "37",
+    "passengers": "75",
+    "consumables": "One year",
+    "affiliation": [
+      "Hutt Clan",
+      "  Jabba Desilijic Tiure's criminal empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

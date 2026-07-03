@@ -1,0 +1,39 @@
+{
+  "name": "Booster BX",
+  "wookieepedia_title": "Booster BX",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Booster_BX",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Booster BX was a custom light freighter owned by the Broken Horn Syndicate that served as a raiding vessel during the Age of the Empire.",
+  "data": {
+    "name": "Booster BX",
+    "manufacturer": "Beysh Custom Craft",
+    "type": "Light freighter",
+    "cost": "225,000 credits",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 14 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "hull": "Magnetized hull platings",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Turret-mounted twin light laser cannon (1)",
+      "Turret-mounted twin light ion cannon (1)",
+      "Light tractor beam turret (1)"
+    ],
+    "crew": "6 (1 pilot, 1 copilot, 1 engineer, 3 gunners)",
+    "passengers": "2",
+    "consumables": "1 month",
+    "othersystems": [
+      "Specialized slicing systems",
+      "Sophisticated computer array"
+    ],
+    "role": "Raiding vessel",
+    "affiliation": "Broken Horn Syndicate",
+    "owners": "Cikatro Vizago"
+  },
+  "scraped": "2026-07-03"
+}

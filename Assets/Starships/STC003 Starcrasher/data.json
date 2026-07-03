@@ -1,0 +1,42 @@
+{
+  "name": "STC003 \"Starcrasher\"",
+  "wookieepedia_title": "STC003 Starcrasher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/STC003_Starcrasher",
+  "continuity": "Unknown",
+  "infobox_template": "IndividualShip",
+  "description": "The STC003 Starcrasher was an Imperial Heavy Fighter, developed by Incom Corporation, then manufactured by Sienar Fleet Systems and Yoyodine Propulsion Systems after the defection of Incom Corporation's engineers.",
+  "data": {
+    "name": "STC003 \"Starcrasher\"",
+    "manufacturer": [
+      "Incom Corporation (prototype)",
+      "Sienar Fleet Systems",
+      "Yoyodine Propulsion Systems"
+    ],
+    "model": "STC003",
+    "type": "Heavy Ground/Space fighter",
+    "length": "35 meters",
+    "width": "29 meters",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 2.0 (backup)"
+    ],
+    "power": "LTC 12G generator",
+    "armament": [
+      "2 heavy laser turrets",
+      "2 ion cannons",
+      "Concussion missile launcher",
+      "  6 Concussion missiles",
+      "Bomb hold (capacity : one metric ton)",
+      "  Detonite bomb"
+    ],
+    "crew": "4",
+    "passengers": "2",
+    "cargohandling": "100 kilograms",
+    "consumables": "2 weeks",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "role": "Heavy Ground/Space Fighter",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

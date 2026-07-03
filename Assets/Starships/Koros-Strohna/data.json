@@ -1,0 +1,35 @@
+{
+  "name": "Koros-Strohna",
+  "wookieepedia_title": "Koros-Strohna",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Koros-Strohna",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Koros-Strohna, known as worldships in Galactic Basic Standard, were immense spacefaring vessels that housed entire communities of the extra-galactic Yuuzhan Vong, providing them with food and shelter. The worldships also served as staging grounds for more arduous battles or confrontations. As Yuuzhan Vong culture and religion professed a deep-rooted, zealous condemnation of any \"modern\" technology, such as droids, advanced computer systems, electronics or nuclear power (among other concepts), their worldships were always built from organic materials. Many vessels were constructed from and/or powered by functioning organisms, such as yorik coral or other living invertebrates.",
+  "data": {
+    "name": "Koros-Strohna",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Koros-Strohna",
+    "type": "Worldship",
+    "length": "10 kilometers (on average), up to the size of the Death Star (the Baanu Rass)",
+    "width": "10 kilometers (on average), up to the size of the Death Star (the Baanu Rass)",
+    "max_accel": "1,100 G",
+    "max_speed": "400 km/h",
+    "engine": [
+      "Dovin basals",
+      "Outer Ganglia"
+    ],
+    "hyperdrive": "Class 1.5 (equivalent)",
+    "shield_gen": "Dovin basals",
+    "armament": [
+      "Dovin basals",
+      "Yaret-Kors"
+    ],
+    "passengers": "Varied",
+    "role": [
+      "Battleship",
+      "Carrier",
+      "Transport"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

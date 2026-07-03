@@ -1,0 +1,37 @@
+{
+  "name": "Razor Crest",
+  "wookieepedia_title": "Razor Crest",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Razor_Crest",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Razor Crest was an ST-70 M-111 Razor Crest series used by the Mandalorian bounty hunter Din Djarin. Prior to the rise of the Galactic Empire, it served as a military patrol craft. The vessel eventually fell into the hands of Din Djarin, who lived and worked from it as he hunted bounties in the Outer Rim Territories in the early years of the New Republic. He used it throughout the search for the child named Grogu, and continued to use it on the quest to find Grogu's species in 9 ABY. The Razor Crest was destroyed by a single shot fired by Gideon's light cruiser during a skirmish on Tython.",
+  "data": {
+    "name": "Razor Crest",
+    "manufacturer": [
+      "Corellian Engineering Corporation",
+      "  Belsmuth Consolidations Ltd."
+    ],
+    "model": "ST-70 M-111 Razor Crest series",
+    "type": [
+      "Gunship",
+      "Transport"
+    ],
+    "length": "24.27 meters (79 feet 8 in)",
+    "width": "16.3 meters (53 feet 6 in)",
+    "height": "7.4 meters (24 feet 3 in)",
+    "mglt": "75 MGLT",
+    "engine": "Engines (2)",
+    "hdsystem": "Class 1",
+    "armament": "Mk 3e/W heavy laser cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "At least 4",
+    "othersystems": "Carbon-freezing chamber",
+    "role": "Local military patrol",
+    "commission": "During or prior to 19 BBY",
+    "destroyed": "9 ABY, Tython",
+    "affiliation": "Bounty Hunters' Guild",
+    "owners": "Din Djarin"
+  },
+  "scraped": "2026-07-03"
+}

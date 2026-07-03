@@ -1,0 +1,34 @@
+{
+  "name": "Alabak's Gold",
+  "wookieepedia_title": "Alabak's Gold",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alabak%27s_Gold",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Alabak's Gold was a modified Mon Calamari Wander-class jump freighter used by the Alliance to Restore the Republic.",
+  "data": {
+    "name": "Alabak's Gold",
+    "manufacturer": "Mon Calamari Shipyards",
+    "type": "Wander-class jump freighter",
+    "length": "30 Imperial standard meters",
+    "max_speed": "950 kilometers per hour",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Two double laser cannons",
+    "crew": "1 pilot, 2 gunners",
+    "passengers": "6",
+    "capacity": "75 metric tons",
+    "consumables": "1 month",
+    "role": [
+      "Freighter",
+      "Transport"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "TUG-314",
+  "wookieepedia_title": "TUG-314",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TUG-314",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The TUG-314, also known as the Republic tugboat, was a spacetug employed by the Galactic Republic during the Clone Wars. Manufactured by MandalMotors, the TUG-314 used massive tractor beams to help guide other, larger ships through busy orbital docking lanes. Republic tugboats were also equipped with emergency response instruments such as firefighting gear as well as salvage scanners which were used to sort through wreckage for survivors in case of a catastrophic collision.",
+  "data": {
+    "name": "TUG-314",
+    "manufacturer": "MandalMotors",
+    "model": "TUG-314",
+    "type": [
+      "Utility vehicle",
+      "Space transport",
+      "Spacetug"
+    ],
+    "length": "32.27 meters",
+    "hyperdrive": "None",
+    "armament": "None",
+    "othersystems": [
+      "2 tractor beam projectors",
+      "Firefighting gear",
+      "Salvage scanners"
+    ],
+    "role": [
+      "Moving starships",
+      "Emergency vehicle"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

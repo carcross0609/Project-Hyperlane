@@ -1,0 +1,11 @@
+# Havor's spacecraft
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Havor's spacecraft](https://starwars.fandom.com/wiki/Havor%27s_spacecraft)
+
+Havor's spacecraft was the smuggling vessel of Captain Havor. He used it to smuggle Aayla Secura to restricted space over Kiffex. The ship was intercepted by a Guardian vessel. Since Havor had not spent much money on his ship's shields, they soon gave way under fire. The vessel was destroyed, although Aayla ejected in an escape pod in time.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

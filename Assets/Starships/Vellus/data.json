@@ -1,0 +1,20 @@
+{
+  "name": "Vellus",
+  "wookieepedia_title": "Vellus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vellus",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vellus was a GR-75 medium transport belonging to the Rebel Alliance and was destroyed by Darth Vader between 2 BBY and 4 ABY.",
+  "data": {
+    "name": "Vellus",
+    "model": "GR-75 medium transport",
+    "type": "Transport",
+    "destroyed": "Between 2 BBY and 4 ABY",
+    "affiliation": [
+      "Alliance to Restore the Republic"
+    ],
+    "fleet": "Rebel Alliance Navy"
+  },
+  "scraped": "2026-07-03"
+}

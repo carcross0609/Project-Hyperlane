@@ -1,0 +1,40 @@
+{
+  "name": "Liberator-class starfighter",
+  "wookieepedia_title": "Liberator-class starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liberator-class_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Liberator-class starfighter, known by the reconstituted Sith Empire as the Talon fighter, was a model of fighter used by the Galactic Republic prior to and during the Great Galactic War.",
+  "data": {
+    "name": "Liberator-class starfighter",
+    "type": "Starfighter",
+    "armament": [
+      "2 Laser cannons",
+      "Concussion missile launcher (6 missiles)",
+      "4 Concussion missiles (Striker variant)"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 Astromech droid (Striker variant)"
+    ],
+    "consumables": [
+      "Field survival kit",
+      "Medpac",
+      "Blaster pistol"
+    ],
+    "lifesupport": "150 hours",
+    "role": [
+      "Multi-use starfighter",
+      "  Escort",
+      "  Interceptor",
+      "  Air-to-ground attack craft"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy",
+      "Eternal Alliance",
+      "  Eternal Alliance fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

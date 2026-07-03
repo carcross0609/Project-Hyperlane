@@ -1,0 +1,26 @@
+{
+  "name": "Valor",
+  "wookieepedia_title": "Valor (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Valor_%28Imperial-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Valor was an Imperial-class Star Destroyer that served in the Imperial Navy.",
+  "data": {
+    "name": "Valor",
+    "model": "Imperial-class Star Destroyer",
+    "length": "1,600 meters",
+    "complement": [
+      "48 TIE/LN starfighters",
+      "12 TIE/IN interceptors",
+      "12 TIE/sa bombers"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": [
+      "Imperial Navy",
+      "  Goroth task force"
+    ],
+    "captains": "Admiral Val DeGoort"
+  },
+  "scraped": "2026-07-03"
+}

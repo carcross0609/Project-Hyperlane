@@ -1,0 +1,30 @@
+{
+  "name": "891c Akorec-class strike cruiser",
+  "wookieepedia_title": "891c Akorec-class strike cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/891c_Akorec-class_strike_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The 891c Akorec-class strike cruiser, simply known as the Akorec strike cruiser, was a small capital ship used by the Centrality during the reign of the Galactic Empire.",
+  "data": {
+    "name": "891c Akorec-class strike cruiser",
+    "manufacturer": "Scillal Designs",
+    "model": "891c Akorec-class strike cruiser",
+    "type": "Frigate",
+    "length": "250 meters",
+    "max_speed": "930 kph",
+    "armament": [
+      "Laser cannons (12)",
+      "Tractor beam projector (1)"
+    ],
+    "crew": [
+      "205",
+      "  Gunners (15)"
+    ],
+    "skeleton": "70",
+    "passengers": "700",
+    "capacity": "4,000 metric tons",
+    "role": "Frigate",
+    "affiliation": "Centrality"
+  },
+  "scraped": "2026-07-03"
+}

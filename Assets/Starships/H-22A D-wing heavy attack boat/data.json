@@ -1,0 +1,29 @@
+{
+  "name": "H-22A D-wing heavy attack boat",
+  "wookieepedia_title": "H-22A D-wing heavy attack boat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/H-22A_D-wing_heavy_attack_boat",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The H-22A D-wing heavy attack boat was a shuttle manufactured by Incom Corporation. A combination of a starfighter and a landing craft, the H-22A was designed for use in combat environments. It was heavily armored and shielded, and armed with both heavy laser cannons and proton torpedo launchers. The H-22A was often used by Outer Rim pirates and mercenary companies.",
+  "data": {
+    "name": "H-22A D-wing heavy attack boat",
+    "manufacturer": "Incom Corporation",
+    "type": "Shuttle",
+    "cost": "145,000 credits",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Dorsal turret-mounted twin heavy laser cannons",
+      "Ventral turret-mounted auto-blasters",
+      "Forward-mounted light laser cannons",
+      "Wing-mounted proton torpedo launchers"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunners (2)"
+    ],
+    "passengers": "12",
+    "consumables": "Two weeks"
+  },
+  "scraped": "2026-07-03"
+}

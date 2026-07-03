@@ -1,0 +1,46 @@
+{
+  "name": "Action VI bulk transport",
+  "wookieepedia_title": "Action VI bulk transport/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Action_VI_bulk_transport/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Action VI bulk transport, sometimes referred to as the bulk transport and the modified action transport, was a popular freighter built by Corellian Engineering Corporation.",
+  "data": {
+    "name": "Action VI bulk transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Action series",
+    "model": "Action VI transport",
+    "type": "Freighter",
+    "length": "110 meters",
+    "max_speed": "650 km/h",
+    "hyperdrive": "Class 3.0",
+    "hdsystem": "Damper",
+    "power": [
+      "Power converters",
+      "Power couplings"
+    ],
+    "shield_gen": "Rated 220 SBD",
+    "hull": "Rated 152 RU",
+    "navigation": "None",
+    "armament": "None",
+    "crew": "8",
+    "passengers": "0",
+    "capacity": "80,000 metric tons",
+    "consumables": "3 months",
+    "othersystems": [
+      "Acceleration compensator",
+      "Cooling unit"
+    ],
+    "role": "Medium bulk freighter",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Smugglers' Alliance",
+      "Galactic Federation of Free Alliances",
+      "Zann Consortium",
+      "Veiled Sorority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Predator-class fighter",
+  "wookieepedia_title": "Predator-class fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Predator-class_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Predator-class fighter, also called the TIE Predator and nicknamed Eyeballs by the Galactic Alliance, was a TIE Series starfighter produced by Sienar Fleet Systems and used by the Fel Empire as of 130 ABY.",
+  "data": {
+    "name": "Predator-class fighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Predator-class fighter",
+    "type": "Starfighter",
+    "cost": [
+      "250,000 new",
+      "100,000 used"
+    ],
+    "max_speed": "1,500 km/h",
+    "engine": "Equipped",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": "L-s9.3 laser cannon (4)",
+    "crew": "Pilot (1)",
+    "capacity": "70 kilograms",
+    "consumables": "1 week",
+    "availability": "Military",
+    "role": [
+      "Space superiority fighter",
+      "Interceptor"
+    ],
+    "affiliation": [
+      "Fel Empire",
+      "Darth Krayt's Galactic Empire",
+      "Empire-in-exile",
+      "Galactic Federation Triumvirate"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

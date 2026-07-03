@@ -1,0 +1,37 @@
+{
+  "name": "Nautical Star",
+  "wookieepedia_title": "Nautical Star",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nautical_Star",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Nautical Star was a 30-meter-long Mon Calamari light freighter.",
+  "data": {
+    "name": "Nautical Star",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "Light freighter",
+    "type": "Mon Calamari light freighter",
+    "cost": "99,000 credits",
+    "length": "30 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannons (2)",
+    "crew": "1 or 2",
+    "passengers": "6",
+    "capacity": "75 or 85 metric tons",
+    "consumables": "2 months",
+    "othersystems": [
+      "Controls for many non-Mon Calamari species",
+      "Experimental back-up shields"
+    ],
+    "role": "Transport",
+    "affiliation": "Independent"
+  },
+  "scraped": "2026-07-03"
+}

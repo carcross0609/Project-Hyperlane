@@ -1,0 +1,33 @@
+{
+  "name": "Formidable",
+  "wookieepedia_title": "Formidable (Strike-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Formidable_%28Strike-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Formidable was a Strike-class medium cruiser used by the Galactic Empire. Along with Strike cruisers Triumph, Indomitable and the Imperial-class Star Destroyer Grey Wolf it was to ambush a strike force, sent by Grand Admiral Demetrius Zaarin, that was supposed to ambush a convoy of what was supposed to carry Missile Boats, when in reality they carried munitions. The strike force was destroyed and the ships went into hyperspace.",
+  "data": {
+    "name": "Formidable",
+    "manufacturer": "Loronar Corporation",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "1600 SBD",
+    "hull": "768 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

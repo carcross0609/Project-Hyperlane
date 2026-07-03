@@ -1,0 +1,36 @@
+{
+  "name": "Republic light assault cruiser",
+  "wookieepedia_title": "Republic light assault cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Republic_light_assault_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Republic light assault cruiser was the term for armed and modified variants of the Corellian Engineering Corporation Consular-class cruiser and the CSS-1 Corellian star shuttle used by members of the Judicial Forces and the Jedi Order during the time of the Galactic Republic.",
+  "data": {
+    "name": "Republic light assault cruiser",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": [
+      "Modified Consular-class cruiser",
+      "Modified CSS-1 Corellian Star Shuttle"
+    ],
+    "type": "Light assault cruiser",
+    "engine": "One extra engine",
+    "sensor": "Additonal communications equipment",
+    "armament": [
+      "Turbolasers",
+      "Additional weaponry"
+    ],
+    "escapepods": [
+      "Escape pods",
+      "Evac pods"
+    ],
+    "role": [
+      "Gunship",
+      "Troopship"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Judicial Forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

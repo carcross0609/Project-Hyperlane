@@ -1,0 +1,44 @@
+{
+  "name": "Lictor-class dungeon ship",
+  "wookieepedia_title": "Lictor-class dungeon ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lictor-class_dungeon_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Lictor-class dungeon ship, also known as an Imperial dungeon ship or Mandalorian Dungeon Ship, was a versatile warship and mobile prison based on a design used by the Mandalorian Neo-Crusaders during the Mandalorian Wars. The design proved resilient enough that it was still in use nearly four thousand years after its conception.",
+  "data": {
+    "name": "Lictor-class dungeon ship",
+    "manufacturer": [
+      "MandalMotors",
+      "Rendili StarDrive"
+    ],
+    "model": "Lictor-class dungeon ship",
+    "type": "Dungeon ship",
+    "cost": "7,800,000 credits",
+    "length": "764 meters",
+    "hyperdrive": "Equipped",
+    "navigation": "Limited to two consecutive hyperspace jumps",
+    "armament": [
+      "Quad turbolaser batteries (10)",
+      "Tractor beam projectors (2)"
+    ],
+    "crew": "860",
+    "skeleton": "370",
+    "passengers": [
+      "400 security wardens",
+      "9,000 prisoners",
+      "  8,000 in standard cells",
+      "  1,000 in special holding cells"
+    ],
+    "capacity": "1,500 metric tons",
+    "consumables": "2 months",
+    "role": [
+      "Prison ship",
+      "Transport"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Dark Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

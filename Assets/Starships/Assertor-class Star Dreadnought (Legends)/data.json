@@ -1,0 +1,68 @@
+{
+  "name": "Assertor-class Star Dreadnought",
+  "wookieepedia_title": "Assertor-class Star Dreadnought/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Assertor-class_Star_Dreadnought/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Assertor-class Star Dreadnought, also known as the Assertor-class Command Dreadnought and Assertor-class dreadnought, was a class of Imperial Star Dreadnought. The Wrath belonged to this class.",
+  "data": {
+    "name": "Assertor-class Star Dreadnought",
+    "line": [
+      "Super Star Destroyer",
+      "  Star Dreadnoughts"
+    ],
+    "model": "Assertor-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "cost": "1,100,000,000 credits",
+    "length": "15,000 meters",
+    "engine": "28 aft thrusters",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "40 Quad heavy turbolaser batteries",
+      "  20 port batteries",
+      "  20 starboard batteries",
+      "30 quad battleship ion cannon batteries",
+      "  15 port batteries",
+      "  15 starboard batteries",
+      "10 dorsal twin heavy turbolasers",
+      "30 quad light turbolaser batteries",
+      "  10 forward",
+      "  10 port",
+      "  10 starboard",
+      "20 ventral twin battleship ion cannons",
+      "20 dorsal medium ion cannons",
+      "  10 port",
+      "  10 starboard",
+      "60 turret-mounted quad laser cannons",
+      "  20 forward",
+      "  20 port",
+      "  20 starboard",
+      "90 concussion missile launchers",
+      "  30 forward",
+      "  30 port",
+      "  30 starboard",
+      "20 heavy tractor beam emitters"
+    ],
+    "complement": [
+      "120 starfighters",
+      "Numerous shuttles, landing craft, gunboats, assault craft, landing barges, ground combat vehicles, and AT-series walkers"
+    ],
+    "crew": "125,000 officers, pilots, and enlisted crew",
+    "passengers": "20,000 troops and support staff",
+    "capacity": "145,000",
+    "consumables": "3 years",
+    "role": [
+      "Dreadnought",
+      "Command ship",
+      "Sector command and control ship"
+    ],
+    "firstuse": "c. 2 BBY-0 BBY",
+    "retired": "By 137 ABY",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

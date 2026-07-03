@@ -1,0 +1,31 @@
+{
+  "name": "Acushnet",
+  "wookieepedia_title": "Acushnet/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Acushnet/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Acushnet was a Corona-class armed frigate, a ship derived from an ancient Surronian cruiser design, used by a Weequay pirate gang on Florrum.",
+  "data": {
+    "name": "Acushnet",
+    "manufacturer": "Haor Chall Engineering",
+    "model": "Corona-class armed frigate",
+    "type": "Transport",
+    "cost": "3,700,000 credits",
+    "length": "At least 320 meters",
+    "width": "At least 320 meters",
+    "hyperdrive": "Class 1.0",
+    "hdsystem": "Equipped",
+    "complement": [
+      "6 Flarestar-class Weequay ships",
+      "12 WLO-5 speeder tanks"
+    ],
+    "crew": "64",
+    "passengers": "200",
+    "capacity": "450 tons",
+    "consumables": "1 year",
+    "role": "Transport",
+    "affiliation": "Ohnaka Gang"
+  },
+  "scraped": "2026-07-03"
+}

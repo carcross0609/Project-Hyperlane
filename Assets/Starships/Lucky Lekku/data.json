@@ -1,0 +1,46 @@
+{
+  "name": "Lucky Lekku",
+  "wookieepedia_title": "Lucky Lekku",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lucky_Lekku",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lucky Lekku was a Low Altitude Assault Transport/infantry that participated in various battles during the Clone Wars. In service of the Galactic Republic, it would be utilized fighting against the Confederacy of Independent Systems. It was distinguished, the nose art of a Twi'lek pin-up model, who bore clone trooper armor, emblazoned on both sides of the gunship's fore-end. The Lucky Lekku had been further exemplified by the Battle of Cato Neimoidia in 19 BBY, since its crew had destroyed sixty-three Vulture-class droid starfighters and twenty-six droid tri-fighters, resulting in an amassed total of eighty-nine starfighters destroyed&mdash;these kills were tallied on the right-hand side of the gunship.",
+  "data": {
+    "name": "Lucky Lekku",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Low Altitude Assault Transport/infantry",
+    "type": [
+      "Repulsorcraft",
+      "Gunship"
+    ],
+    "length": "17.69 meters",
+    "width": "17 meters",
+    "height": "6.94 meters",
+    "engine": "Equipped",
+    "armament": [
+      "3 antipersonnel turrets (2 chin-mounted, 1 tail-mounted)",
+      "4 composite-beam pinpoint laser turrets (2 remote wing-mounted, 2 optional manned bow-side mounted)",
+      "8 light air-to-air rockets (ventral wing-mounted)",
+      "2 mass-driver missile launchers (dorsal-mounted/variable payload)",
+      "  Missile belts (rear dorsal-mounted)"
+    ],
+    "crew": [
+      "Clone trooper pilots (2)",
+      "  Co-pilot/Forward gunner",
+      "2 Auxiliary turret clone gunners (optional)"
+    ],
+    "othersystems": "Blast doors",
+    "role": "Troop transport",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Military"
+    ],
+    "navy": "Galactic Republic Navy",
+    "fleet": [
+      "Open Circle Armada",
+      "  Skywalker's fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

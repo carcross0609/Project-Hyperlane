@@ -1,0 +1,29 @@
+{
+  "name": "XS-800 light freighter",
+  "wookieepedia_title": "XS-800 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/XS-800_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The XS-800 light freighter was designed and introduced several years before the Battle of Yavin.",
+  "data": {
+    "name": "XS-800 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "XS-800 light freighter",
+    "type": "Light freighter",
+    "cost": "37,500 credits",
+    "length": "30.2 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": [
+      "Class 3.0 (primary)",
+      "Class 15 (backup)"
+    ],
+    "armament": "Double laser cannon (1)",
+    "escapepods": "2 escape pods",
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "115 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Civilian"
+  },
+  "scraped": "2026-07-03"
+}

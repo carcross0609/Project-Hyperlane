@@ -1,0 +1,30 @@
+{
+  "name": "Venomator",
+  "wookieepedia_title": "Venomator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Venomator",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Venomator was a highly advanced starfighter designed by the Geonosian engineer known as Bogg.",
+  "data": {
+    "name": "Venomator",
+    "manufacturer": "Bogg",
+    "type": "Starfighter",
+    "cost": "15,000,000 credits (illegal auction)",
+    "armament": [
+      "Laser cannons",
+      "Missile launchers"
+    ],
+    "crew": "Pilot (1)",
+    "destroyed": "c. 20 BBY, Callos",
+    "affiliation": [
+      "Clawfish Roaming Auction of Illicit and Illegal Weaponry",
+      "Black Sun"
+    ],
+    "owners": [
+      "Clawfish",
+      "T'orn Zorc"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

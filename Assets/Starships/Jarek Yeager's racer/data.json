@@ -1,0 +1,42 @@
+{
+  "name": "Jarek Yeager's racer",
+  "wookieepedia_title": "Jarek Yeager's racer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jarek_Yeager%27s_racer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Jarek Yeager’s racer or Yeager's ship was a racer that belonged to Jarek Yeager. He had used it to compete in races on the Colossus platform, but by 34 ABY Yeager no longer did so, keeping the ship in his private hangar in his repair shop. Jarek continued to refuse to fly the racer, until the Platform Classic. Jarek again flew his racer in this race against his brother, Marcus Speedstar.",
+  "data": {
+    "name": "Jarek Yeager's racer",
+    "model": "Custom Zaxxovian Special",
+    "type": [
+      "Racer",
+      "Starfighter"
+    ],
+    "length": "15 meters (49 ft, 2 in)",
+    "mglt": "135 MGLT",
+    "engine": [
+      "Large engines (3)",
+      "Small engines (2)"
+    ],
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Laser cannons (3)",
+      "Missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "commission": "By 34 ABY",
+    "affiliation": [
+      "Team Fireball",
+      "Resistance",
+      "  Team Colossus",
+      "Citizens' Fleet"
+    ],
+    "owners": "Jarek Yeager"
+  },
+  "scraped": "2026-07-03"
+}

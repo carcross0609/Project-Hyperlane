@@ -1,0 +1,31 @@
+{
+  "name": "Unyielding",
+  "wookieepedia_title": "Unyielding",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unyielding",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Unyielding was an Imperial-class Star Destroyer of the Galactic Empire which was awarded to Colonel Madrighast during the Empire's reign. During the aftermath of the Battle of Endor in 4 ABY, the colonel, from the Unyielding, invited the Empire's 204th Imperial Fighter Wing to join his forces. However, while the Star Destroyer attempted to meet with forces under Admiral Rae Sloane, the vessel was met with New Republic forces which deteriorated Madrighast's forces and forced them to take refuge at the planet Chadawa, joining the Chadawan navy.",
+  "data": {
+    "name": "Unyielding",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "Turbolasers"
+    ],
+    "destroyed": "5 ABY, Chadawa system",
+    "affiliation": [
+      "Galactic Empire",
+      "  Madrighast's unit",
+      "Chadawan government",
+      "  Chadawan navy"
+    ],
+    "navy": "Imperial Navy",
+    "captains": "Madrighast"
+  },
+  "scraped": "2026-07-03"
+}

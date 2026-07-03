@@ -1,0 +1,37 @@
+{
+  "name": "Crimson Axe",
+  "wookieepedia_title": "Crimson Axe",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crimson_Axe",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Crimson Axe was the starship of Rav that later served as his permanent headquarters.",
+  "data": {
+    "name": "Crimson Axe",
+    "type": [
+      "Frigate",
+      "Capital Ship"
+    ],
+    "cost": "Not available for sale",
+    "hyperdrive": "Class 2 (Backup class 12)",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Turbolaser battery (1)",
+      "Point-defense cannon batteries (2)",
+      "Tractor beam projector (1)"
+    ],
+    "complement": [
+      "2 shuttles",
+      "1 light freighter",
+      "12 starfighters"
+    ],
+    "crew": "550",
+    "passengers": "150 (prisoners)",
+    "cargohandling": "3,000 tons",
+    "consumables": "1 year",
+    "role": "Pirate vessel",
+    "affiliation": "Rav's pirate gang",
+    "owners": "Rav"
+  },
+  "scraped": "2026-07-03"
+}

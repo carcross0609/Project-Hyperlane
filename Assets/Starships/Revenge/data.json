@@ -1,0 +1,27 @@
+{
+  "name": "Revenge",
+  "wookieepedia_title": "Revenge",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Revenge",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Revenge was a Galactic Empire Imperial-class Star Destroyer in service at some point between 0 ABY and 3 ABY. It once accompanied five Imperial Customs Frigates traveling through hyperspace. Their travel was interrupted, however, when an asteroid towed by pirates into the hyperlane the fleet was in forced it to emerge in realspace. While the pirate freighters subsequently prepared to escape into hyperspace, the Revenge proceeded to attack and eventually destroy their Corellian corvette. The Star Destroyer later transmitted to the light freighter Arion Star their current coordinates, enabling the freighter to continue on its journey that had likewise been interrupted by the pirates.",
+  "data": {
+    "name": "Revenge",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4)"
+    ],
+    "power": "I-a2b solar ionization reactor",
+    "shield_gen": "At least 1 ISD-72x deflector shield generator dome",
+    "complement": "TIE/ln space superiority starfighters",
+    "communications": "Communications tower",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

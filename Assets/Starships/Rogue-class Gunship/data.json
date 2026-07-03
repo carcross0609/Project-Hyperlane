@@ -1,0 +1,21 @@
+{
+  "name": "Rogue-class Gunship",
+  "wookieepedia_title": "Rogue-class Gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rogue-class_Gunship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Rogue-class Gunship was a gunship used by criminal factions during the Imperial Era and the New Republic Era. During the age of the Galactic Empire, the Pyke Syndicate used the gunship for to support its criminal operations. Later, the crew of mercenaries led by Ranzar Malk out of his space station Roost, used a hidden Rogue-class Gunship to betray the Mandalorian Din Djarin and attempt to shoot him down in the Razor Crest. As the gunship was attempted to takeoff, however, a homing beacon placed by Djarin summoned a New Republic starfighter squadron to the station and they destroyed the gunship and destroyed Roost.",
+  "data": {
+    "name": "Rogue-class Gunship",
+    "model": "Modified Rogue-class Porax-38 starfighter",
+    "type": "Gunship",
+    "engine": "Equipped (2)",
+    "armament": "Multiple laser cannons",
+    "role": "Starfighter combat",
+    "affiliation": [
+      "Pyke Syndicate",
+      "Ranzar Malk's crew"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

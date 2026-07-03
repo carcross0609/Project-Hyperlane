@@ -1,0 +1,43 @@
+{
+  "name": "Star Galleon-class frigate",
+  "wookieepedia_title": "Star Galleon-class frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Galleon-class_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Star Galleon-class frigate was an armed cargo freighter and escort frigate used by the Imperial Navy. The Star Galleon-class was manufactured by Kuat Drive Yards.",
+  "data": {
+    "name": "Star Galleon-class frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Star Galleon-class frigate",
+    "type": "Frigate",
+    "cost": "17,503,500 credits",
+    "length": "300 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Rated 320 SBD",
+    "hull": "Rated 228 RU",
+    "armament": [
+      "10 turbolasers (5 on each side)",
+      "1 forward concussion missile launcher",
+      "  16 heavy concussion missiles"
+    ],
+    "crew": [
+      "130",
+      "20 gunners"
+    ],
+    "skeleton": "50",
+    "passengers": "300 troops",
+    "capacity": "100,000 metric tons",
+    "consumables": "6 months",
+    "othersystems": "Hyperdrive-equipped cargo bay",
+    "role": "Cargo/escort frigate",
+    "affiliation": [
+      "Galactic Empire",
+      "Viraxo Industries",
+      "Zann Consortium"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

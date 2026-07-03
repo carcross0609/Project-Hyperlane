@@ -1,0 +1,19 @@
+{
+  "name": "TZ-86 transport",
+  "wookieepedia_title": "TZ-86 transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TZ-86_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TZ-86 transport, otherwise known as the Consortium Vehicle Transport, was a starship used by the Zann Consortium during the Galactic Civil War to land vehicles on planets. It was armed with two laser cannons.",
+  "data": {
+    "name": "TZ-86 transport",
+    "model": "TZ-86 transport",
+    "type": "Transport",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (2)",
+    "role": "Barge",
+    "affiliation": "Zann Consortium"
+  },
+  "scraped": "2026-07-03"
+}

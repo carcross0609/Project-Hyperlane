@@ -1,0 +1,47 @@
+{
+  "name": "Primacy",
+  "wookieepedia_title": "Primacy",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Primacy",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Primacy, also known as the Sunken Lucrehulk, was a Lucrehulk-class LH-3210 cargo freighter that served as the base of operations for the Bedlam Raiders, a group of marauders on the Outer Rim planet Koboh.",
+  "data": {
+    "name": "Primacy",
+    "manufacturer": "Hoersch-Kessel Drive Inc.",
+    "model": "Modified Lucrehulk-class LH-3210 cargo freighter",
+    "type": "Freighter",
+    "cost": "500,000,000 credits",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "complement": [
+      "Core ship",
+      "Vulture-class starfighters",
+      "Multi-Troop Transports",
+      "Armored Assault Tanks",
+      "HMP droid gunships"
+    ],
+    "escapepods": "At least 3",
+    "crew": [
+      "B1-series battle droids"
+    ],
+    "passengers": [
+      "B1-series battle droids",
+      "  B1 melee battle droids",
+      "B2-HA super battle droids",
+      "BX-series droid commandos",
+      "IG-100 MagnaGuards",
+      "Droidekas",
+      "T-series military strategic analysis and tactics droids",
+      "Marauders"
+    ],
+    "destroyed": "By 9 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Bedlam Raiders"
+    ],
+    "navy": "Confederacy of Independent Systems Navy",
+    "owners": "Rayvis"
+  },
+  "scraped": "2026-07-03"
+}

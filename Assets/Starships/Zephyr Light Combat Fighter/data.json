@@ -1,0 +1,27 @@
+{
+  "name": "Zephyr Light Combat Fighter",
+  "wookieepedia_title": "Zephyr Light Combat Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zephyr_Light_Combat_Fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Zephyr Light Combat Fighter was a model of starfighter produced by Mestapol. Vohrkrewel Yahrkar owned a Zephyr Light Combat Fighter named the Blood Hawk.",
+  "data": {
+    "name": "Zephyr Light Combat Fighter",
+    "manufacturer": "Mestapol",
+    "model": "Zephyr",
+    "type": "Light Combat Fighter",
+    "length": "50 meters",
+    "hyperdrive": "x1",
+    "shield_gen": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "Photon torpedo"
+    ],
+    "crew": "1 pilot",
+    "passengers": "2",
+    "capacity": "300 kilograms",
+    "consumables": "1 month",
+    "role": "Attack craft"
+  },
+  "scraped": "2026-07-03"
+}

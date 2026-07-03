@@ -1,0 +1,26 @@
+{
+  "name": "Liquidator",
+  "wookieepedia_title": "Liquidator (Neutron Star-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liquidator_%28Neutron_Star-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Liquidator was a Neutron Star-class bulk cruiser in the Imperial Navy, commanded by Admiral Winstel Greelanx.",
+  "data": {
+    "name": "Liquidator",
+    "model": "Neutron Star-class bulk cruiser",
+    "type": "Bulk cruiser",
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 12"
+    ],
+    "armament": [
+      "Quad laser cannons (30)",
+      "Tractor beam projectors (2)"
+    ],
+    "destroyed": "3 BBY",
+    "captains": "Admiral Winstel Greelanx"
+  },
+  "scraped": "2026-07-03"
+}

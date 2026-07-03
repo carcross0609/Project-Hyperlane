@@ -1,0 +1,42 @@
+{
+  "name": "M22-T Krayt gunship",
+  "wookieepedia_title": "M22-T Krayt gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/M22-T_Krayt_gunship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The largest of MandalMotors line of space combat vessels, the M22-T Krayt Gunship, true to its namesake the krayt dragon, was a behemoth on the battlefield.",
+  "data": {
+    "name": "M22-T Krayt gunship",
+    "manufacturer": "MandalMotors",
+    "model": "M22-T Krayt Gunship",
+    "type": "Starfighter",
+    "cost": "185,000-350,000 credits (210,000 used)\ncredits",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Heavy laser cannon (2)",
+      "Medium Ion cannons (3)",
+      "Concussion missile launcher (1) with 16 Concussion missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "2 (Prisoners)",
+    "capacity": "440 kg",
+    "consumables": "1 week",
+    "availability": "Military",
+    "role": [
+      "Heavy fighter",
+      "Gunship"
+    ],
+    "affiliation": [
+      "Hutt Cartel",
+      "Privateers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

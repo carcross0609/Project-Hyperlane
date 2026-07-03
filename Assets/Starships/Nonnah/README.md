@@ -1,0 +1,19 @@
+# Nonnah
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Nonnah](https://starwars.fandom.com/wiki/Nonnah)
+
+The Nonnah was a Rebel Alliance transport with a central portion and two spars on the side. As part of Alliance operations on marginal worlds, it was carrying troops and stolen Imperial supplies, but was shot down by the Empire around 6 months after the pivotal Battle of Yavin. Both Rebel and Imperial forces were sent immediately to the crash site on Chorax in an attempt to retrieve the downed craft. The Empire arrived first, but the Rebellion's Rogue Squadron proved more than a match for the small force. The Rogues' A-wings competed with viper probe droids to find the downed starship. Once the Nonnah was located in a river valley, Imperial reinforcements, in the form of a Sentinel-class landing craft carrying an AT-ST, AT-PTs, and XR-85 tank droids, along with TIE Bombers were dispatched to destroy the Nonnah, but the Rogues were able to fend off all attacks until the arrival of a Rebel rescue shuttle. In a last ditch effort to prevent the Alliance securing the cargo, a squad of TIE Interceptors were dispatched to destroy the shuttle escaping the planet's atmosphere, but the timely intervention of Rogue Leader Luke Skywalker and his wingmen stopped the shuttle from sustaining any serious hull damage.
+
+## Specifications
+
+- **Name:** Nonnah
+- **Type:** Transport
+- **Role:** Transport
+- **Destroyed:** 0 ABY
+- **Affiliation:** Rebel Alliance
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,24 @@
+{
+  "name": "Imperial Heavy Transport",
+  "wookieepedia_title": "Imperial Heavy Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Heavy_Transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "This particular model of Star Destroyer served in the Galactic Empire.",
+  "data": {
+    "name": "Imperial Heavy Transport",
+    "line": "Star Destroyers",
+    "engine": "4 engine units",
+    "armament": [
+      "Taim & Bak XX-9 heavy turbolaser batteries (7)"
+    ],
+    "complement": "TIE/In starfighter",
+    "othersystems": "Extending/retracting structure",
+    "availability": "Military",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

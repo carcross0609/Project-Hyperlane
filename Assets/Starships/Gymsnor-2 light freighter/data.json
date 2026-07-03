@@ -1,0 +1,28 @@
+{
+  "name": "Gymsnor-2 light freighter",
+  "wookieepedia_title": "Gymsnor-2 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gymsnor-2_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Gymsnor-2 was the second ship in the Gymsnor series produced by CorelliSpace.",
+  "data": {
+    "name": "Gymsnor-2 light freighter",
+    "manufacturer": "CorelliSpace",
+    "line": "Gymsnor series",
+    "model": "CorelliSpace Gymsnor-2 light freighter",
+    "type": "Light freighter",
+    "length": "31.7 meters",
+    "max_speed": "750 km/h",
+    "hyperdrive": [
+      "Class 3",
+      "Backup Class 14"
+    ],
+    "armament": "1 heavy blaster cannon",
+    "crew": "1",
+    "passengers": "4",
+    "capacity": "82 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Civilian"
+  },
+  "scraped": "2026-07-03"
+}

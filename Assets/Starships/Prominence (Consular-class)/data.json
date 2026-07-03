@@ -1,0 +1,26 @@
+{
+  "name": "Prominence",
+  "wookieepedia_title": "Prominence (Consular-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Prominence_%28Consular-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Prominence was a Judicial Forces Consular-class cruiser.",
+  "data": {
+    "name": "Prominence",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Consular-class cruiser",
+    "length": "115 meters",
+    "engine": "Dyne 577 radial atomizer engines (3)",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "Longe Voltrans tri-arc CD-3.2 hyperdrive",
+    "escapepods": [
+      "Detachable salon pod",
+      "2 escape pods"
+    ],
+    "crew": "12",
+    "destroyed": "33 BBY",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Yorik-trema",
+  "wookieepedia_title": "Yorik-trema",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yorik-trema",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The yorik-trema or airskiff was a bio-engineered transport vessel used by the extragalactic Yuuzhan Vong invaders.",
+  "data": {
+    "name": "Yorik-trema",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Yorik-trema transport carrier",
+    "type": "Transport",
+    "length": "48 meters (on average)",
+    "max_accel": "1,500 G",
+    "max_speed": "3,000 km/h (descent)/1,000 km/h (ascent)",
+    "engine": "Dovin basals",
+    "hdsystem": "None",
+    "shield_gen": "Dovin basals",
+    "hull": "Yorik coral hull with ablative coating",
+    "armament": [
+      "Yaret-Kors (2)",
+      "Dovin basals"
+    ],
+    "crew": [
+      "4",
+      "Pilot (1)",
+      "Commander (1)"
+    ],
+    "passengers": [
+      "36",
+      "6 Warriors",
+      "30 support troops"
+    ],
+    "capacity": "35 metric tons",
+    "consumables": "3 days",
+    "othersystems": "Molleung worms (boarding/disembarking tubes)",
+    "role": "Landing craft",
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

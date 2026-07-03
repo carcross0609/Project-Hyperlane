@@ -1,0 +1,45 @@
+{
+  "name": "Agave-class picket ship",
+  "wookieepedia_title": "Agave-class picket ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Agave-class_picket_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Agave-class picket ship was a tactical/operational reconnaissance ship produced under the New Republic's New Class Modernization Program. Task force commanders sent these ships ahead of the main battlegroup to either scout quietly, or in force. They were assigned to the New Republic Fifth Battle Group.",
+  "data": {
+    "name": "Agave-class picket ship",
+    "manufacturer": "Republic Engineering Corporation",
+    "line": "New Class Modernization Program",
+    "model": "Agave-class picket ship",
+    "length": "190 meters",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Powerful sensors",
+    "countermeasures": "Stealth package",
+    "armament": [
+      "Turbolaser cannons (2)",
+      ":Fire arc: Forward",
+      ":Crew: 2",
+      ":Atmospheric range: 150 km",
+      "Twin laser cannon turrets (2)",
+      ":Fire arc: Turret",
+      ":Crew: 1",
+      ":Atmospheric range: 50 km",
+      "Gravity well projector (1; optional)"
+    ],
+    "crew": [
+      "Crew members (28)",
+      "Gunners (8)"
+    ],
+    "skeleton": "10",
+    "passengers": "5",
+    "capacity": "500 metric tons",
+    "consumables": "3 months",
+    "role": "Tactical/operational reconnaissance",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

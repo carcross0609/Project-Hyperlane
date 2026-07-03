@@ -1,0 +1,39 @@
+{
+  "name": "X-83 TwinTail starfighter",
+  "wookieepedia_title": "X-83 TwinTail starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X-83_TwinTail_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The X-83 TwinTail starfighter was a model of X-wing series starfighter used before and during Darth Krayt's rise to power in 130 ABY. Manufactured by Incom Corporation, the X-83 was a cutting-edge vessel and the primary starfighter of the New Jedi Order until its fall and decline following the Sith-Imperial War. Krayt's Empire banned the manufacture of the X-83, claiming it was too powerful for civilian use, but Incom continued producing the X-wings in secret, selling them to opponents of the Empire.",
+  "data": {
+    "name": "X-83 TwinTail starfighter",
+    "manufacturer": "Incom Corporation",
+    "line": "X-wing series",
+    "model": "X-83 TwinTail starfighter",
+    "type": "Starfighter",
+    "cost": "160,000 credits (75,000 credits used)",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Transport/light frigate-grade",
+    "hull": "Over shuttle-grade",
+    "navigation": "Navigation computer/astromech droid with 10-jump memory",
+    "armament": [
+      "Enhanced heavy laser cannons (4)",
+      "Proton torpedo launchers (2)",
+      "  Proton torpedoes (16)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Integrated astromech droid (1)"
+    ],
+    "capacity": "70 kg",
+    "consumables": "6 days",
+    "availability": "Restricted",
+    "affiliation": [
+      "New Jedi Order",
+      "Alliance (Second Imperial Civil War)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

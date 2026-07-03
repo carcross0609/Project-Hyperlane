@@ -1,0 +1,33 @@
+{
+  "name": "Battlecruiser 19",
+  "wookieepedia_title": "Battlecruiser 19",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Battlecruiser_19",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Battlecruiser 19 was the callsign of a Munificent-class star frigate of the naval forces of the Confederacy of Independent Systems during the Clone Wars. In 21 BBY, Battlecruiser 19 was one of many frigates that served in the Confederacy's blockade of the planet Ryloth during the Battle of Ryloth. Placed under the command of Neimoidian Captain Mar Tuuk, the frigate was positioned elsewhere by the Neimoidian, who was expecting an attack by Galactic Republic forces. Following the arrival of a Republic task force led by Jedi General Anakin Skywalker, Tuuk ordered Battlecruiser 19 and three other Munificents, including Battlecruiser 17, to the Ryloth system, forcing the Republic to retreat.",
+  "data": {
+    "name": "Battlecruiser 19",
+    "model": "Munificent-class star frigate",
+    "type": "Frigate",
+    "length": "825 meters (2707 ft)",
+    "width": "426 meters",
+    "height": "243 meters",
+    "mglt": "70 mglt",
+    "engine": "Ion drive thrusters (7)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Heavy turbolaser cannons (2)",
+      "Long-range heavy ion cannons (2)",
+      "Twin light turbolaser cannons (34)"
+    ],
+    "communications": "Long-range hyperwave transceiver masts (2)",
+    "destroyed": "21 BBY, Ryloth system",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy",
+    "fleet": "Ryloth blockade",
+    "captains": "An OOM command battle droid"
+  },
+  "scraped": "2026-07-03"
+}

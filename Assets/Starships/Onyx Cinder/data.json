@@ -1,0 +1,45 @@
+{
+  "name": "Onyx Cinder",
+  "wookieepedia_title": "Onyx Cinder",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Onyx_Cinder",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Onyx Cinder was a Galactic Republic starship utilized for credit ingot transportation from a Republic mint. At some point, it was stolen by the notorious pirate Tak Rennod. Based in Skull Ridge Mountain on the planet Lanupa, Rennod ruled the spacelanes for years, and ultimately used the ship to bypass the Barrier of the mint planet At Attin, but the mission resulted in the death of the entire crew after a mutiny and the Cinder became buried in a forest. The only surviving crew member was the droid SM-33.",
+  "data": {
+    "name": "Onyx Cinder",
+    "type": "Starship",
+    "length": "55.06 meters",
+    "width": "40.24 meters",
+    "height": "13.5 meters",
+    "engine": [
+      "Sublight engines (8)",
+      "6 with armored hull-sleeve"
+    ],
+    "hdsystem": "Equipped",
+    "avionics": "Autopilot",
+    "armament": [
+      "Twin laser cannon turrets (2)",
+      "Dual laser cannon turrets (5, on armor plating) (stolen)"
+    ],
+    "bays": [
+      "At least one cargo bay",
+      "At least 1 docking port"
+    ],
+    "cargohandling": "Cargo-lifting arm",
+    "othersystems": "Emergency hull demolition sequencer",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Republic (originally)",
+      "Tak Rennod's pirates",
+      "Silvo's pirates (briefly)",
+      "Skeleton Crew"
+    ],
+    "captains": [
+      "Tak Rennod",
+      "Fern",
+      "Jod Na Nawood (briefly)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

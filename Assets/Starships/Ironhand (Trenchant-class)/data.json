@@ -1,0 +1,40 @@
+{
+  "name": "Ironhand",
+  "wookieepedia_title": "Ironhand (Trenchant-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ironhand_%28Trenchant-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ironhand was High Inquisitor Mox Slosin's personal ship. A modified Merkuni Drives Trenchant-class cruiser, it was used by Slosin personally to patrol the Lesser Plooriod Cluster looking for Rebel activity. The ship frequently traveled through the Entana Run and the Burna Trade Route.",
+  "data": {
+    "name": "Ironhand",
+    "manufacturer": "Merkuni Drives",
+    "model": "Trenchant-class cruiser",
+    "type": "Light cruiser",
+    "length": "215 meters",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Yes",
+    "armament": [
+      "Turbolaser cannons (6)",
+      "Quad laser cannons (8)"
+    ],
+    "crew": [
+      "140",
+      "Gunners (20)"
+    ],
+    "skeleton": [
+      "64",
+      "Gunners (10)"
+    ],
+    "passengers": "80 troops",
+    "capacity": "400 metric tons",
+    "consumables": "3 months",
+    "role": "Transport",
+    "affiliation": "Galactic Empire",
+    "owners": "Mox Slosin"
+  },
+  "scraped": "2026-07-03"
+}

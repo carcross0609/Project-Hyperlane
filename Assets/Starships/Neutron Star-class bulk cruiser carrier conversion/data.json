@@ -1,0 +1,54 @@
+{
+  "name": "Neutron Star-class bulk cruiser carrier conversion",
+  "wookieepedia_title": "Neutron Star-class bulk cruiser carrier conversion",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Neutron_Star-class_bulk_cruiser_carrier_conversion",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Neutron Star-class bulk cruiser was a class of capital ship used by the Galactic Empire and Rebel Alliance, manufactured by Rendili StarDrive. They were designed during the Clone Wars to serve as second-line ships. After the Clone Wars most were sold to local defense forces or private interests, and several were eventually modified to serve as carriers.",
+  "data": {
+    "name": "Neutron Star-class bulk cruiser carrier conversion",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Neutron Star-class bulk cruiser",
+    "type": "Bulk cruiser",
+    "cost": [
+      "5,000,000 credits (new)",
+      "2,500,000 credits (used)"
+    ],
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Quad laser cannons (30)",
+      "  10 fore",
+      "  10 port",
+      "  10 starboard",
+      "Tractor beam projectors (2)",
+      "  2 fore"
+    ],
+    "complement": [
+      "36 starfighters"
+    ],
+    "crew": [
+      "Crew (1,993)",
+      "Gunners (57)"
+    ],
+    "skeleton": "840",
+    "passengers": "200 troops",
+    "capacity": "5,000 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Freighter",
+      "Frigate",
+      "Patrol vessel"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Private companies"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

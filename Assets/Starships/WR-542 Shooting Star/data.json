@@ -1,0 +1,36 @@
+{
+  "name": "WR-542 Shooting Star",
+  "wookieepedia_title": "WR-542 Shooting Star",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/WR-542_Shooting_Star",
+  "continuity": "Unknown",
+  "infobox_template": "StarshipClass",
+  "description": "The WR-542 Shooting Star light liaison frigate was a 35-meter courier built by Sienar Fleet Systems before the Galactic Civil War.",
+  "data": {
+    "name": "WR-542 Shooting Star",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "WR-542",
+    "type": "Courier",
+    "length": "35 meters",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 0.5",
+    "armament": "Laser cannon turrets (2)",
+    "crew": [
+      "1 person",
+      "1 droid brain"
+    ],
+    "passengers": "3 people",
+    "capacity": [
+      "100 metric tons or",
+      "50 cubic meters"
+    ],
+    "role": [
+      "Courier",
+      "Scout"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Rebel Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

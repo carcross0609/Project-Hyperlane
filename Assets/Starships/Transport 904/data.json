@@ -1,0 +1,33 @@
+{
+  "name": "Transport 904",
+  "wookieepedia_title": "Transport 904",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Transport_904",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Transport 904 was a, Imperial research transport of the Galactic Empire. During or after 18 BBY, it was bound for the planet Wayland and the new facilities there when its cargo, a cloned Zillo Beast, broke loose and drastically damaged the ship. The crippled vessel dropped out of hyperspace and crash-landed on Silla. The information broker Ciddarin Scaleback caught wind of the vessel's state and sent Clone Force 99 to scavenge its cargo, unaware of what it was carrying.",
+  "data": {
+    "name": "Transport 904",
+    "model": "Imperial research transport",
+    "type": [
+      "Science vessel",
+      "Transport"
+    ],
+    "height": "More than 97 meters",
+    "hyperdrive": "Equipped",
+    "armament": "Ventral-mounted NNJ-40 \"Thunderbolt\" long-range ion cannon",
+    "crew": [
+      "At least 1 Imperial clone commando",
+      "At least one medical droid"
+    ],
+    "lifesupport": "Equipped",
+    "role": "Containment and transport of Zillo Beast clones",
+    "destroyed": "During or after 18 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Advanced Science Division"
+    ],
+    "registry": "904"
+  },
+  "scraped": "2026-07-03"
+}

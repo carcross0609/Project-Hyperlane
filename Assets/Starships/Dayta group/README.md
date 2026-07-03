@@ -1,0 +1,11 @@
+# Dayta group
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Dayta group](https://starwars.fandom.com/wiki/Dayta_group)
+
+Dayta group was a pair of Delta-class DX-9 stormtrooper transports in commercial hands ferrying workers that passed close to the Imperial XQ1 Platform Outpost D-34 shortly after the Battle of Hoth. During their transit of the station's jurisdiction, a flight of TIE/LN starfighters led by Maarek Stele scanned them for contraband but found nothing. However, a group of Rebel refugees from Hoth were discovered aboard the one of the bulk freighters of Onece group that were passing through the checkpoint at the same time. Transports Dayta made a swift exit into hyperspace once raiders entered the system the shooting began.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

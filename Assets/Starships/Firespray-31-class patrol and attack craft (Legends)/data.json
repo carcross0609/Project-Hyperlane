@@ -1,0 +1,70 @@
+{
+  "name": "Firespray-31-class patrol and attack craft",
+  "wookieepedia_title": "Firespray-31-class patrol and attack craft/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Firespray-31-class_patrol_and_attack_craft/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Firespray-31-class patrol and attack craft, or Firespray-class starship, or Firespray-class interceptor, was a patrol and transport starship designed by Kuat Systems Engineering initially for use by the Republic Correctional Authority. The most well known of the starships was Jango and Boba Fett's ship, the Slave I.",
+  "data": {
+    "name": "Firespray-31-class patrol and attack craft",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Firespray-31-class patrol and attack craft",
+    "type": [
+      "Patrol craft",
+      "Prisoner transport"
+    ],
+    "length": "21.5 meters",
+    "width": "21.3 meters",
+    "height": "7.8 meters",
+    "max_accel": [
+      "2,700 G",
+      "16 MGLT/s"
+    ],
+    "mglt": "91 MGLT",
+    "max_speed": "850 km/h",
+    "maneuverability": "72 DPF",
+    "engine": "F-31 drive engines (3)",
+    "hyperdrive": [
+      "Class 3.0",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Rated 106 SBD",
+    "hull": "Rated 62 RU",
+    "armament": [
+      "Laser cannons (2)",
+      "Warhead launchers (2)",
+      "  5 concussion missiles each",
+      "Tractor beam projector (1)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": [
+      "6 total",
+      "Guards (2)",
+      "Prisoners (4)"
+    ],
+    "capacity": "70 tons",
+    "consumables": "1 month",
+    "role": [
+      "Patrol craft",
+      "Law enforcement vessel",
+      "Prisoner transport"
+    ],
+    "affiliation": [
+      "Republic Correctional Authority",
+      "Various other law enforcement agencies",
+      "Asteroid Bandits",
+      "Bounty hunters",
+      "Civilian Protection Guild",
+      "Corellian Security Force",
+      "Hidden Daggers",
+      "Mandalorians",
+      "  Mandalorian Protectors",
+      "Mercenaries",
+      "  CDMC's mercenaries",
+      "Ohnaka Gang",
+      "Royal Naboo Security Forces",
+      "Ter-Doac Vaine's forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

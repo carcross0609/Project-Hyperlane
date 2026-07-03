@@ -1,0 +1,38 @@
+{
+  "name": "Drammel",
+  "wookieepedia_title": "Drammel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drammel",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Drammel was an EF76 Nebulon-B escort frigate in service to the Galactic Empire during the Galactic Civil War.",
+  "data": {
+    "name": "Drammel",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Frigate",
+    "length": "300 meters",
+    "max_speed": "800 KMH",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "12 turbolaser batteries",
+      "12 laser cannons",
+      "2 tractor beam projectors"
+    ],
+    "crew": "854; gunners: 66",
+    "skeleton": "307; gunners: 10",
+    "passengers": "75 (soldiers)",
+    "capacity": "6,000 metric tons",
+    "consumables": "2 years",
+    "role": "Escort warship",
+    "affiliation": "Galactic Empire",
+    "navy": "Trax Sector Group"
+  },
+  "scraped": "2026-07-03"
+}

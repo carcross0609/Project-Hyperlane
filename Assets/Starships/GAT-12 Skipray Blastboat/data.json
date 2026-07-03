@@ -1,0 +1,78 @@
+{
+  "name": "GAT-12 Skipray Blastboat",
+  "wookieepedia_title": "GAT-12 Skipray Blastboat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GAT-12_Skipray_Blastboat",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sienar Fleet Systems GAT-12 Skipray Blastboat was, early in the Galactic Civil War, the smallest hyperspace-capable combat starship in use by the Imperial Navy.",
+  "data": {
+    "name": "GAT-12 Skipray Blastboat",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "GAT-12 Skipray Blastboat",
+    "type": "Heavy starfighter",
+    "cost": [
+      "285,000 credits (new)",
+      "150,000 credits (used)"
+    ],
+    "length": "25 meters",
+    "width": [
+      "9.2 meters in flight configuration",
+      "14.3 meters in landing configuration"
+    ],
+    "height": [
+      "14.3 meters in flight configuration",
+      "7.2 meters in landing configuration"
+    ],
+    "max_accel": "16 MGLT/s",
+    "mglt": "91 MGLT",
+    "max_speed": "1,200 km/h",
+    "maneuverability": "64 DPF",
+    "hyperdrive": "Class 2.0",
+    "power": "Sarylcorp ViX multiflux reactor",
+    "shield_gen": "Rated 102 SBD",
+    "hull": "Rated 61 RU",
+    "sensor": "Siep-Irol \"Omni-Vu\" sensor pylons (2)",
+    "navigation": "Equipped (4 jump limit)",
+    "armament": [
+      "GAT-12g:",
+      "Medium ion cannons (3)",
+      "Laser cannons (2)",
+      "Proton torpedo launcher (1)",
+      "Tractor beam projector (1)",
+      "GAT-12h/i/j:",
+      "Mendarn Arms medium Dar-2 ion cannons (3)",
+      "Twin Senko Systems 5000x2 \"Tru-Lok\" laser cannon turret (1)",
+      "Starboard proton torpedo launcher (1)",
+      "  4 heavy proton torpedoes (12 for GAT-12j)",
+      "Port concussion missile launcher (1)",
+      "  8 heavy concussion missiles (18 for GAT-12j)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Sensor operator (1)",
+      "Gunners (2)"
+    ],
+    "skeleton": "1",
+    "passengers": "None",
+    "capacity": "20 metric tons",
+    "consumables": "1 month",
+    "othersystems": "Rotating wing assembly",
+    "role": [
+      "Bomber",
+      "Patrol craft",
+      "Scout",
+      "Assault starfighter"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Zann Consortium",
+      "Dark Empire",
+      "Imperial Remnant",
+      "Smugglers",
+      "Pirates",
+      "Defense forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

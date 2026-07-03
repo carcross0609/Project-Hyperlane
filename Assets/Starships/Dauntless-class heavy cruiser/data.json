@@ -1,0 +1,31 @@
+{
+  "name": "Dauntless-class heavy cruiser",
+  "wookieepedia_title": "Dauntless-class heavy cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dauntless-class_heavy_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Dauntless-class heavy cruiser was the second largest cruiser that saw service with the Rebel Alliance fleet during the course of the Galactic Civil War.",
+  "data": {
+    "name": "Dauntless-class heavy cruiser",
+    "model": "Dauntless-class heavy cruiser",
+    "type": "Heavy cruiser",
+    "length": ">1,200 meters",
+    "hdsystem": "Equipped",
+    "sensor": "Equipped with an excellent sensor-package",
+    "countermeasures": "Equipped with an excellent countermeasures system",
+    "armament": [
+      "Turbolasers",
+      "Ion cannons"
+    ],
+    "complement": [
+      "4 starfighter squadrons",
+      "2 troop regiments"
+    ],
+    "role": "Cruiser",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

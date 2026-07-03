@@ -1,0 +1,63 @@
+{
+  "name": "Eta-2 Actis-class interceptor",
+  "wookieepedia_title": "Eta-2 Actis-class interceptor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eta-2_Actis-class_interceptor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Eta-2 Actis-class interceptor, also known as the Jedi interceptor or Jedi starfighter due to its extensive use by Jedi pilots, was a Republic starfighter used late in the Clone Wars that shared design elements with the Republic's Delta-7 and Delta-7B starfighters, as well as the TIE fighters of the later Galactic Empire. The Galactic Alliance would later come to utilize a successor, the Eta-5 interceptor.",
+  "data": {
+    "name": "Eta-2 Actis-class interceptor",
+    "designer": "Walex Blissex",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Eta-2 Actis Interceptor",
+    "type": "Starfighter",
+    "cost": [
+      "290,000 credits (140,000 used) (standard model)",
+      "320,000 credits (240,000 used) (High-Maneuver variant)",
+      "310,000 credits (230,000 used) (Heavy-Defenses variant)"
+    ],
+    "length": "5.47 meters",
+    "width": "4.3 meters",
+    "height": "2.5 meters (wings extended)",
+    "max_accel": "5,200 G",
+    "mglt": "125",
+    "max_speed": "1,500 km/h",
+    "engine": "Twin ion engines (2)",
+    "hyperdrive": "Class 1.0 (with hyperdrive docking ring)",
+    "hdrange": "150,000 LY",
+    "hdsystem": "Syliure-45 hyperdrive module",
+    "shield_gen": [
+      "None",
+      "Equipped (Heavy-Defenses variant only)"
+    ],
+    "navigation": "10-jump memory (astromech droid)",
+    "armament": [
+      "Laser cannons (2)",
+      "Secondary ion cannons (2)",
+      "or",
+      "Laser cannons (2)",
+      "Concussion missile launcher (unusual modification)",
+      "  Concussion missiles (4)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "60 kilograms",
+    "consumables": "2 days",
+    "lifesupport": "Equipped",
+    "availability": "Military",
+    "role": [
+      "Patrol",
+      "Reconnaissance",
+      "Interceptor"
+    ],
+    "firstuse": "20 BBY",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

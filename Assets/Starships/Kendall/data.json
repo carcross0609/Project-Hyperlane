@@ -1,0 +1,34 @@
+{
+  "name": "Kendall",
+  "wookieepedia_title": "Kendall",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kendall",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Kendall was a Hapan Battle Dragon owned by House AlGray that was serving with the Hapan Royal Navy as of 35 ABY. That year, the Kendall served as the flagship of the Hapan Fleet of the Glorious Defender Queen, which was dispatched to aid the Killiks of the Colony in the Unknown Regions. In doing so, the Kendall briefly went up against the forces of the Chiss Ascendancy in the Gyuel system before helping to relocate the Killiks in order to maintain peace between them and the Chiss. Five years later, the Kendall became the flagship of the Heritage Fleet, whose purpose was to aid Ducha AlGray and the other Hapan members of the Heritage Council in overthrowing the current Hapan monarch, Queen Mother Tenel Ka Djo. However, their plot ultimately failed, and the Kendall was pummeled by a quarter of the Hapan Royal Navy at the planet Hapes.",
+  "data": {
+    "name": "Kendall",
+    "manufacturer": "Olanji/Charubah",
+    "model": "Hapan Battle Dragon",
+    "length": "500 meters",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "bays": "Capture hangar",
+    "lifesupport": "Equipped",
+    "role": "Flagship",
+    "affiliation": [
+      "Hapes Consortium",
+      "  House AlGray"
+    ],
+    "navy": [
+      "Hapan Royal Navy",
+      "  Fleet of the Glorious Defender Queen",
+      "Heritage Fleet"
+    ],
+    "captains": [
+      "Dukat Aleson Gray (Battle of Qoribu)",
+      "Ducha AlGray (Battle of Hapes)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

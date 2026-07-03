@@ -1,0 +1,110 @@
+{
+  "name": "Executor",
+  "wookieepedia_title": "Executor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Executor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Executor was an Executor-class Star Dreadnought and personal flagship of the Sith Lord Darth Vader and was the most powerful vessel ever created by the Galactic Empire. Under Lord Vader's command, the Executor led the Death Squadron following the Battle of Yavin and oversaw the assault on the Rebel Alliance's base during the Battle of Hoth. While finally serving as the command ship during the Battle of Endor under Admiral Firmus Piett, the Executor was destroyed after a wayward rebel A-wing starfighter piloted by Arvel Crynyd crashed into its bridge, causing the Super Star Destroyer to lose power and collide with the DS-2 Death Star II Mobile Battle Station.",
+  "data": {
+    "name": "Executor",
+    "manufacturer": [
+      "Fondor Shipyards",
+      "Kuat Drive Yards"
+    ],
+    "line": "Modified Executor-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "cost": "325,000,000,000 credits",
+    "sysmods": "Equipped",
+    "length": "19,000 meters",
+    "mglt": "40 MGLT",
+    "max_speed": "100 kilometers per hour",
+    "engine": "Executor-50.x engines (13)",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "KDY deflector shield generator domes",
+    "hull": "Titanium-reinforced alusteel",
+    "sensor": "Long-ranged sensors",
+    "navigation": "Equipped",
+    "armament": [
+      "Over 5,000 turbolasers",
+      "  Twin heavy turbolaser batteries (750)",
+      "  Turret-mounted twin light turbolaser batteries (1000)",
+      "Twin battleship ion cannons (100)",
+      "Assault concussion missile launchers (125)",
+      "Turret-mounted quad laser cannons (250)"
+    ],
+    "complement": [
+      "Over 1,000 ships",
+      "  TIE Series starfighters (144) (12 squadrons)",
+      "    TIE/ln space superiority starfighters",
+      "    TIE/sa bombers",
+      "    TIE/IN interceptors",
+      "    1 TIE Advanced x1",
+      "      Darth Vader's TIE Advanced",
+      "    At least 1 TIE/sh shuttle",
+      "  Assault shuttles, transport shuttles, and support craft (200)",
+      "    Lambda-class T-4a shuttles",
+      "      ST 321",
+      "      ST-718",
+      "  Y-85 Titan dropships",
+      "Walkers",
+      "  All Terrain Armored Transports (24)",
+      "  All Terrain Scout Transports (50)",
+      "IM-455 modular garrisons (2)"
+    ],
+    "bays": [
+      "At least 1",
+      "Airlocks"
+    ],
+    "crew": [
+      "1 Dark Lord of the Sith",
+      "280,784 officers, pilots, and enlisted crew",
+      "  Imperial officers",
+      "  At least 1 Vehicle commander",
+      "  Imperial Navy Troopers",
+      "  Imperial Starfighter Pilots",
+      "  Stormtroopers (38,000 troops)",
+      "    Team Five",
+      "    Stormtrooper Commanders",
+      "    Riot control stormtroopers",
+      "    Jumptroopers",
+      "KX-series security droids",
+      "At least 1 RA-7 protocol droid",
+      "B1-series battle droids",
+      "B2-series super battle droids",
+      "A service droid model",
+      "A monster droid model",
+      "Viper probe droids",
+      "MSE-6 series repair droids"
+    ],
+    "passengers": [
+      "Support staff",
+      "Imperial cadets"
+    ],
+    "capacity": "105,000 tons (encumbrance)",
+    "consumables": "6 years",
+    "lifesupport": "Equipped",
+    "communications": "Bridge communications domes",
+    "role": [
+      "Command ship",
+      "  Flagship"
+    ],
+    "destroyed": "4 ABY, Endor system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron",
+    "owners": [
+      "Cassio Tagge",
+      "Darth Vader"
+    ],
+    "captains": [
+      "Kendal Ozzel",
+      "Firmus Piett"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

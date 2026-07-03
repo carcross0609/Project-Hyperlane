@@ -1,0 +1,36 @@
+{
+  "name": "MedStar-class frigate",
+  "wookieepedia_title": "MedStar-class frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MedStar-class_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MedStar-class frigate was a medical supply ship commissioned during the Clone Wars.",
+  "data": {
+    "name": "MedStar-class frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "MedStar-class frigate",
+    "type": "Medical frigate",
+    "cost": "4,875,000 credits (used: 2,550,000)",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "armament": [
+      "Turbolaser battery (1)",
+      "Point-defense laser cannon batteries (2)",
+      "Tractor beam projector"
+    ],
+    "complement": "Up to 12 vessels",
+    "crew": "440",
+    "passengers": "655",
+    "capacity": "4,800 tons",
+    "consumables": "3 years",
+    "availability": "Licenced",
+    "role": "Mobile hospital unit",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

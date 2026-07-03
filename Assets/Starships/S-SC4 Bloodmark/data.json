@@ -1,0 +1,22 @@
+{
+  "name": "S-SC4 Bloodmark",
+  "wookieepedia_title": "S-SC4 Bloodmark",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/S-SC4_Bloodmark",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The S-SC4 Bloodmark was a starfighter used by the Sith Empire which performed in scout roles. Created by the Tandankin shipyards, the Bloodmark sacrificed some speed and maneuverability in exchange for advanced sensors and communications technology, as it served as squadron coordinator in battle.",
+  "data": {
+    "name": "S-SC4 Bloodmark",
+    "manufacturer": "Tandankin shipyards",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "equipable rockets or missiles"
+    ],
+    "role": "Scout",
+    "affiliation": "Sith Empire"
+  },
+  "scraped": "2026-07-03"
+}

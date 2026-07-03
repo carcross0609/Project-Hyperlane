@@ -1,0 +1,31 @@
+{
+  "name": "Ministry-class orbital shuttle",
+  "wookieepedia_title": "Ministry-class orbital shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ministry-class_orbital_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Ministry-class orbital shuttles were standard issue orbital shuttles produced by the Zentine Dynamics shipyards at Foerost and used by Galactic Republic after the Great Sith War and during the conflicts that followed it.",
+  "data": {
+    "name": "Ministry-class orbital shuttle",
+    "manufacturer": "Zentine Dynamics",
+    "line": "Transport",
+    "model": "Ministry-class orbital shuttle",
+    "type": "Orbital shuttle",
+    "cost": [
+      "160,000 credits (new)",
+      "80,000 credits (used)"
+    ],
+    "length": "20 meters",
+    "max_speed": "750 km/h",
+    "hdsystem": "None",
+    "armament": "Laser cannons",
+    "crew": "2",
+    "passengers": "36",
+    "capacity": "1,500 kg",
+    "consumables": "1 week",
+    "availability": "Licensed",
+    "role": "Transport",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

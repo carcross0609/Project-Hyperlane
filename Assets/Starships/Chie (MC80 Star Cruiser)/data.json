@@ -1,0 +1,22 @@
+{
+  "name": "Chie",
+  "wookieepedia_title": "Chie (MC80 Star Cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chie_%28MC80_Star_Cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Chie was a MC80 Star Cruiser used by the Rebel Alliance.",
+  "data": {
+    "name": "Chie",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC80 Star Cruiser",
+    "complement": [
+      "B-wing starfighters",
+      "RZ-1 A-wing interceptors",
+      "T-65 X-wing starfighters"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

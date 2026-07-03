@@ -1,0 +1,22 @@
+{
+  "name": "Angelus",
+  "wookieepedia_title": "Angelus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Angelus",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Angelus was a EF76 Nebulon-B escort frigate that saw service with the Alliance Fleet during the Galactic Civil War.",
+  "data": {
+    "name": "Angelus",
+    "model": "EF76 Nebulon-B escort frigate",
+    "complement": [
+      "B-wing starfighters",
+      "T-65 X-wing starfighters"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

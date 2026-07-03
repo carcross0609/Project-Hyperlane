@@ -1,0 +1,40 @@
+{
+  "name": "Black One",
+  "wookieepedia_title": "Black One (35 ABY)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Black_One_%2835_ABY%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Black One, also known as Poe Dameron's X-wing fighter, or Poe's X-wing, was a Resistance T-70 X-wing starfighter that was utilized by Commander Poe Dameron during the war between the First Order and the Resistance.",
+  "data": {
+    "name": "Black One",
+    "manufacturer": "Incom-FreiTek Corporation",
+    "line": "X-wing starfighter",
+    "model": "T-70 X-wing starfighter",
+    "type": "Starfighter",
+    "length": "12.48 meters",
+    "width": "11.3 meters (36 ft 11 in)",
+    "height": "2.71 meters",
+    "mass": "5,358 kg (11,812 lbs) (empty)",
+    "engine": "Incom-FreiTek 5L5 fusial thrust engines (4)",
+    "hyperdrive": "Equipped",
+    "hdsystem": [
+      "Incom GBk-685 hyperdrive units (4)",
+      "Incom GBn-682 hyperdrive motivators (4)"
+    ],
+    "armament": [
+      "Taim & Bak KX12 laser cannons (4)",
+      "Krupx MG7-A torpedo launchers (2)"
+    ],
+    "crew": [
+      "1 Pilot",
+      "1 astromech droid"
+    ],
+    "role": "Starfighter",
+    "affiliation": "Resistance",
+    "navy": "Resistance navy",
+    "fleet": "Exegol air team",
+    "owners": "Poe Dameron"
+  },
+  "scraped": "2026-07-03"
+}

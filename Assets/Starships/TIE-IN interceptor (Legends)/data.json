@@ -1,0 +1,62 @@
+{
+  "name": "TIE/IN interceptor",
+  "wookieepedia_title": "TIE/IN interceptor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/IN_interceptor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "IndividualShip",
+  "description": "The TIE/IN starfighter, simply known as the TIE Interceptor or T/I, was a TIE Series starfighter used by the Galactic Empire. The TIE Interceptor was identifiable by its arrow-shaped solar collection panels, a distinct difference from the hexagonal solar arrays of its predecessor, the TIE/LN Fighter. The Interceptor was one of the fastest starfighters in the galaxy at its prime, nearly rivaling the Alliance's RZ-1 A-wing interceptor.",
+  "data": {
+    "name": "TIE/IN interceptor",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine Interceptor",
+    "type": "Starfighter",
+    "cost": "75,000 credits",
+    "length": "9.6 meters",
+    "max_accel": [
+      "4,240 G",
+      "21 MGLT/s"
+    ],
+    "mglt": "110 MGLT",
+    "max_speed": "1,250 km/h",
+    "maneuverability": "104 DPF",
+    "engine": "SFS P-s5.6 twin ion engines (rated 175 KTU)",
+    "hdsystem": "None standard, can be equipped as upgrade",
+    "power": "SFS I-s3a solar ionization reactor",
+    "shield_gen": "None standard, can be equipped as an upgrade,",
+    "hull": "Titanium hull with Quadanium steel solar panels (rated 16 RU)",
+    "target": "SFS T-s9a targeting computer",
+    "navigation": "SFS N-s6 Navcon",
+    "avionics": "SFS F-s4 flight avionics system",
+    "armament": [
+      "Original design:",
+      "SFS L-s9.3 laser cannons(6)",
+      "Later refit:",
+      "SFS L-s9.3 laser cannons (2)",
+      "Blaster cannons (4)",
+      "Multipurpose Warhead Launchers can be mounted with optionally varying payload (2)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "75 kilograms",
+    "consumables": "2 days",
+    "othersystems": [
+      "AE-35 subspace transceiver",
+      "Ejection seat"
+    ],
+    "role": [
+      "Space superiority fighter",
+      "Interceptor"
+    ],
+    "commission": "1 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic",
+      "Empire of the Hand",
+      "Imperial Remnant",
+      "Galactic Federation of Free Alliances",
+      "Peace Brigade"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

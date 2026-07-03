@@ -1,0 +1,39 @@
+{
+  "name": "Lady Luck",
+  "wookieepedia_title": "Lady Luck/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lady_Luck/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lady Luck&mdash;a SoroSuub Personal Luxury Yacht 3000&mdash;was the personal starship of gambler and Rebel Alliance/New Republic hero Lando Calrissian. The ship was named after Ymile, the girlfriend of Dominic Raynor, who secretly helped Lando win Cloud City from Raynor, and whom Lando nicknamed his \"Lady Luck\" for her assistance.",
+  "data": {
+    "name": "Lady Luck",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Personal Luxury Yacht 3000",
+    "type": "Yacht",
+    "modifier": "Lando Calrissian",
+    "length": "50 meters",
+    "max_accel": "2,200 G",
+    "max_speed": "820 km/h",
+    "hyperdrive": "Class 1.0",
+    "shield_gen": "Chempat-6 (2)",
+    "navigation": "Droid Brain, Homing Beacon",
+    "armament": [
+      "Retractable laser cannon turrets (5)",
+      "Ion cannon (1)"
+    ],
+    "crew": "1 pilot, 1 co-pilot",
+    "skeleton": "1 pilot",
+    "passengers": "10",
+    "capacity": "100 metric tons",
+    "consumables": "1 month",
+    "role": "Personal starship",
+    "affiliation": [
+      "New Republic",
+      "Galactic Alliance"
+    ],
+    "owners": "Lando Calrissian",
+    "aliases": "Stardream"
+  },
+  "scraped": "2026-07-03"
+}

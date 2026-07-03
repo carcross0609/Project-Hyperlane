@@ -1,0 +1,36 @@
+{
+  "name": "G-1 starfighter",
+  "wookieepedia_title": "G-1 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G-1_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The G-1 starfighter was a vessel created through a joint venture between Gungan BullbaBong and the Theed Palace Space Vessel Engineering Corps.",
+  "data": {
+    "name": "G-1 starfighter",
+    "manufacturer": "BullbaBong/Theed Palace Space Vessel Engineering Corps",
+    "type": "Starfighter",
+    "cost": [
+      "125,000 (new)",
+      "80,000 (used)"
+    ],
+    "length": "11m",
+    "hyperdrive": "Class 4",
+    "shield_gen": "Equipped",
+    "armament": [
+      "2 Laser cannons",
+      "2 Proton torpedo launchers"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "capacity": "90kg",
+    "consumables": "2 weeks",
+    "firstuse": "After 32 BBY",
+    "affiliation": [
+      "Gungans",
+      "Naboo"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

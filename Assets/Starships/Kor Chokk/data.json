@@ -1,0 +1,36 @@
+{
+  "name": "Kor Chokk",
+  "wookieepedia_title": "Kor Chokk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kor_Chokk",
+  "continuity": "Legends",
+  "infobox_template": "SpaceStation",
+  "description": "The Kor Chokk was a battleship analog used by the Yuuzhan Vong.",
+  "data": {
+    "is_mobile": "1",
+    "name": "Kor Chokk",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Kor Chokk grand cruiser",
+    "type": "Space station",
+    "length": "8,180 meters",
+    "engine": "Dovin basals",
+    "hyperdrive": "Class 3",
+    "shield_gen": "Dovin basals",
+    "hull": "Yorik coral",
+    "armament": [
+      "Yaret-Kors (120)",
+      "Dovin basals"
+    ],
+    "complement": [
+      "Coralskippers (216)",
+      "Yorik-trema transports (30)",
+      "Various ground vehicles"
+    ],
+    "crew": "2,140",
+    "capacity": "26,880 metric tons",
+    "consumables": "1 year",
+    "role": "Battleship",
+    "affiliation": "Yuuzhan Vong",
+    "population": "4,640"
+  },
+  "scraped": "2026-07-03"
+}

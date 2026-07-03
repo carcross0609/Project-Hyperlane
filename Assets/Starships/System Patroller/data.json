@@ -1,0 +1,26 @@
+{
+  "name": "System Patroller",
+  "wookieepedia_title": "System Patroller",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/System_Patroller",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The System Patroller was the standard patrol craft used by the Lant Mining Corporation's Security Patrol. The design of the vessel was a modified IPV-1 System Patrol Craft manufactured by Sienar Fleet Systems.",
+  "data": {
+    "name": "System Patroller",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Modified IPV-1 System Patrol Craft",
+    "length": "120 meters",
+    "max_speed": "1,000 kmh",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "4 turbolaser cannons",
+    "crew": "12; 8 gunners",
+    "skeleton": "5",
+    "passengers": "10 (troops)",
+    "capacity": "200 metric tons",
+    "consumables": "3 months",
+    "role": "System patrol",
+    "affiliation": "Lant Mining Corporation"
+  },
+  "scraped": "2026-07-03"
+}

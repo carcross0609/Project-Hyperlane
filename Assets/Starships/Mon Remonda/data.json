@@ -1,0 +1,36 @@
+{
+  "name": "Mon Remonda",
+  "wookieepedia_title": "Mon Remonda",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mon_Remonda",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Mon Remonda was the first Mon Calamari MC80B Star Cruiser delivered to the New Republic. One of the most advanced and heavily armed vessels in the Alliance fleet, it was commanded by Captain Onoma and served as the flagship of Han Solo's Zsinj-hunting task force.",
+  "data": {
+    "name": "Mon Remonda",
+    "model": "MC80B Star Cruiser",
+    "length": "1,200 meters",
+    "armament": [
+      "Turbolaser (48)",
+      "Ion cannons (20)",
+      "Tractor beams (6)"
+    ],
+    "complement": [
+      "Starfighter squadrons (4)",
+      "  Polearm Squadron",
+      "  Nova Squadron",
+      "  Rogue Squadron",
+      "  Wraith Squadron"
+    ],
+    "role": [
+      "Carrier",
+      "Cruiser"
+    ],
+    "commission": "5 ABY (40:9 GrS)",
+    "destroyed": "10 ABY",
+    "affiliation": "New Republic",
+    "fleet": "Solo Fleet",
+    "captains": "Onoma"
+  },
+  "scraped": "2026-07-03"
+}

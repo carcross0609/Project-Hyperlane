@@ -1,0 +1,64 @@
+{
+  "name": "Black One",
+  "wookieepedia_title": "Black One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Black_One",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Black One was a T-70 X-wing starfighter that was used by Resistance pilot Commander Poe Dameron. Dameron was usually accompanied by his trusty co-pilot, the spherical astromech droid BB-8.",
+  "data": {
+    "name": "Black One",
+    "manufacturer": "Incom-FreiTek Corporation",
+    "line": "X-wing starfighter",
+    "model": "Modified T-70 X-wing starfighter",
+    "type": "Starfighter",
+    "length": "12.48 meters",
+    "max_speed": "1,150 kph",
+    "engine": [
+      "Incom-FreiTek 5L5 fusial thrust engines (4)",
+      "Add-on Overdrive Thruster"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators (2)",
+    "hull": "Sensor-scattering ferrosphere paint",
+    "sensor": "Equipped",
+    "target": "Targeting computer",
+    "countermeasures": "Ferrosphere paint",
+    "armament": [
+      "Taim & Bak KX12 laser cannons (4)",
+      "Several modular secondary weapon pods, either:",
+      "  Krupx MG7-A torpedo launchers (2)",
+      "    Miniaturized Krupx MG7-A proton torpedoes (8) (standard configuration)",
+      "    Concussion missiles",
+      "    Mag-pulse warheads",
+      "  Heavy laser cannons",
+      "BlasTech Ax-190-B blaster cannon (1) (automated, undercarriage-mounted)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "Droid boxes (2; interlinear)",
+    "lifesupport": "Equipped",
+    "communications": "Subspace communications antenna",
+    "othersystems": [
+      "S-foils",
+      "Spotlight"
+    ],
+    "role": [
+      "Starfighter",
+      "Capital ship assault",
+      "Surface attack"
+    ],
+    "destroyed": "34 ABY, Raddus, Oetchi system",
+    "affiliation": [
+      "Resistance",
+      "  Resistance Starfighter Corps",
+      "First Order (stolen)"
+    ],
+    "navy": "Resistance navy",
+    "fleet": "Black Squadron",
+    "owners": "Poe Dameron"
+  },
+  "scraped": "2026-07-03"
+}

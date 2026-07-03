@@ -1,0 +1,42 @@
+{
+  "name": "YU-410 light freighter",
+  "wookieepedia_title": "YU-410 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YU-410_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YU-410 light freighter was a light freighter produced by Corellian Engineering Corporation.",
+  "data": {
+    "name": "YU-410 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YU series",
+    "model": "YU-410 light freighter",
+    "type": "Transport",
+    "cost": [
+      "200,000 credits (new)",
+      "30,000 credits (used)"
+    ],
+    "length": "44 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Double laser cannons (4)",
+    "crew": [
+      "4",
+      "Gunners (4)"
+    ],
+    "passengers": "12",
+    "capacity": "250 metric tons",
+    "consumables": "2 months",
+    "role": "Freighter",
+    "affiliation": [
+      "Civilian",
+      "Smugglers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

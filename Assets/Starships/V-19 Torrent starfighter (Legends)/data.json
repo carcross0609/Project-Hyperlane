@@ -1,0 +1,45 @@
+{
+  "name": "V-19 Torrent starfighter",
+  "wookieepedia_title": "V-19 Torrent starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V-19_Torrent_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The V-19 Torrent starfighter was an assault fighter with exceptional speed and maneuverability used by the Galactic Republic during the Clone Wars.",
+  "data": {
+    "name": "V-19 Torrent starfighter",
+    "manufacturer": "Slayn & Korpil",
+    "model": "V-19 Torrent starfighter",
+    "type": "Starfighter",
+    "cost": [
+      "135,000 credits (new)",
+      "70,000 credits (used)"
+    ],
+    "length": "6 meters",
+    "width": "26 meters",
+    "height": "9 meters (in flight)",
+    "max_speed": "1,150 km/h",
+    "hyperdrive": "Class 1.0",
+    "hdsystem": [
+      "Equipped",
+      "Early models used a hyperdrive ring"
+    ],
+    "shield_gen": "None",
+    "armament": [
+      "Laser cannons (2)",
+      "Concussion missile launchers (2)",
+      "  Medium concussion missiles (6)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "70 kg",
+    "consumables": "1 week",
+    "availability": "Military",
+    "firstuse": "22 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Separatist holdouts"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

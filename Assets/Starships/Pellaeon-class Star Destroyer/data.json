@@ -1,0 +1,56 @@
+{
+  "name": "Pellaeon-class Star Destroyer",
+  "wookieepedia_title": "Pellaeon-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pellaeon-class_Star_Destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Pellaeon-class Star Destroyer was a warship design produced by Kuat Drive Yards to serve as part of the starfleet of the Fel Empire. It was succeeded by the Imperious-class Star Destroyer, which was the result of Darth Krayt's Galactic Empire forcing the Mon Calamari Shipyards to reverse engineer an improved version of the Pellaeon-class.",
+  "data": {
+    "name": "Pellaeon-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Pellaeon-class Star Destroyer",
+    "type": [
+      "Star Destroyer",
+      "Cruiser",
+      "Capital ship"
+    ],
+    "cost": "Not available for sale",
+    "length": "1600 meters",
+    "hyperdrive": "Class 0.75",
+    "shield_gen": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Heavy turbolaser (5)",
+      "Turbolaser (5)",
+      "Ion cannon (4)",
+      "Tractor beam projectors (3)",
+      "Proton torpedo launchers (5)",
+      "Interdiction field"
+    ],
+    "complement": [
+      "Predator-class fighters (48)",
+      "Nune-class Imperial Shuttles (6)"
+    ],
+    "crew": "8,450",
+    "passengers": "2,700 troops",
+    "capacity": "11,000 metric tons",
+    "consumables": "6 months",
+    "availability": "Military",
+    "role": [
+      "Destroyer",
+      "Carrier",
+      "Command ship"
+    ],
+    "firstuse": "Sometime between 104 and 127 ABY",
+    "affiliation": [
+      "Fel Empire",
+      "Darth Krayt's Galactic Empire",
+      "Empire-in-exile",
+      "Galactic Alliance Remnant",
+      "Galactic Federation Triumvirate"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

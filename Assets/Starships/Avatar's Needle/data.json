@@ -1,0 +1,31 @@
+{
+  "name": "Avatar's Needle",
+  "wookieepedia_title": "Avatar's Needle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Avatar%27s_Needle",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Avatar's Needle was a Guardian-class light cruiser owned and operated by the bacta pirate Shanto Dhil. A former Imperial Customs ship, Dhil refused to divulge how he obtained the ship. Dhil personally modified the vessel at Port Bianco, expanding the cargo capacity by removing the existing hold and brige and replacing it with half-spherical cradle designed to connect with the storage tanks used by bacta transports.",
+  "data": {
+    "name": "Avatar's Needle",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Guardian-class light cruiser",
+    "length": "42 meters",
+    "max_speed": "1,150 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "  Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "4 heavy laser cannons",
+    "crew": "5; 4 gunners",
+    "passengers": "2",
+    "capacity": "1,000 metric tons",
+    "consumables": "3 months",
+    "role": "Pirate ship",
+    "captains": "Shanto Dhil"
+  },
+  "scraped": "2026-07-03"
+}

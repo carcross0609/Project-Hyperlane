@@ -1,0 +1,43 @@
+{
+  "name": "Liberty",
+  "wookieepedia_title": "Liberty (Venator-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liberty_%28Venator-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Liberty was a Venator-class Star Destroyer that served as a command ship by the Galactic Republic's Fifth Fleet, of the Republic Navy's Open Circle Fleet. The command ship and flagship of Jedi General Aayla Secura and her Republic task force during the Clone Wars by 21 BBY, the Liberty was deployed to the planet Quell in that year, where it and Secura's three other Venators were attacked by a Separatist Alliance squadron of five Munificent-class star frigates. Led by the T-series tactical droid TF-1726, the lead Venator was inflicted extensive damage by the Separatist squadron, while the other two Star Destroyers were destroyed, bringing Jedi General Anakin Skywalker to the Quell system aboard the Venator-class Star Destroyer Resolute from across the galaxy.",
+  "data": {
+    "name": "Liberty",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Ion drive thrusters",
+    "shield_gen": "Equipped",
+    "armament": [
+      "DBY-827 heavy turbolaser turrets (8)",
+      "Medium dual turbolaser cannons (2)",
+      "Laser cannons"
+    ],
+    "bays": "Ventral and starboard hangars",
+    "crew": [
+      "Clone navigation officers",
+      "Clone troopers"
+    ],
+    "communications": "Hyperwave comm scanners (2)",
+    "role": [
+      "Command ship",
+      "Flagship"
+    ],
+    "destroyed": "21 BBY, Quell",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "fleet": [
+      "Open Circle Fleet",
+      "  Aayla Secura's task force"
+    ],
+    "captains": "Jedi General Aayla Secura"
+  },
+  "scraped": "2026-07-03"
+}

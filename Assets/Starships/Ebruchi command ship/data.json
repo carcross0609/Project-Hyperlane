@@ -1,0 +1,22 @@
+{
+  "name": "Ebruchi command ship",
+  "wookieepedia_title": "Ebruchi command ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ebruchi_command_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ebruchi command ship, also known as the Ebruchi command vessel, was a type of frigate used by the Ebruchi Pirates. It served as the backbone of the Ebruchi fleets. The vessels were utilized as command ships for Ebruchi flotillas and scout squadrons. They were also utilized as scout ships for the rest of an Ebruchi clan's fleet.",
+  "data": {
+    "name": "Ebruchi command ship",
+    "type": "Frigate",
+    "length": "~ 200-400 meters",
+    "hdsystem": "Equipped",
+    "bays": "At least one",
+    "role": [
+      "Frigate",
+      "Command ship",
+      "Scout ship"
+    ],
+    "affiliation": "Ebruchi Pirates"
+  },
+  "scraped": "2026-07-03"
+}

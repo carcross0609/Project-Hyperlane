@@ -1,0 +1,34 @@
+{
+  "name": "Simiyiar-class light freighter",
+  "wookieepedia_title": "Simiyiar-class light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Simiyiar-class_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Simiyiar-class light freighter was a popular Mon Calamari transport in use during the Galactic Civil War.",
+  "data": {
+    "name": "Simiyiar-class light freighter",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "Simiyiar-class light freighter",
+    "type": "Light freighter",
+    "length": "26.3 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped, with backup shield generator",
+    "navigation": "Equipped",
+    "armament": [
+      "Dual laser cannon turret (1)",
+      "Ion cannon (1)"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "5",
+    "capacity": "150 metric tons",
+    "consumables": "2 months",
+    "role": "Transport",
+    "affiliation": "Civilians"
+  },
+  "scraped": "2026-07-03"
+}

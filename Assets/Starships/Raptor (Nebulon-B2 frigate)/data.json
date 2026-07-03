@@ -1,0 +1,26 @@
+{
+  "name": "Raptor",
+  "wookieepedia_title": "Raptor (Nebulon-B2 frigate)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raptor_%28Nebulon-B2_frigate%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Raptor was a Nebulon-B2 frigate under the command of Grand Admiral Zaarin during his attempted coup d'état.",
+  "data": {
+    "name": "Raptor",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Nebulon-B2 frigate",
+    "type": "Frigate",
+    "length": "253.2 meters",
+    "width": "147.7 meters",
+    "height": "94.3 meters",
+    "armament": "Turbolasers",
+    "destroyed": "3 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Zaarin coup forces"
+    ],
+    "captains": "Grand Admiral Demetrius Zaarin"
+  },
+  "scraped": "2026-07-03"
+}

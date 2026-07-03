@@ -1,0 +1,27 @@
+# Trickster
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Trickster](https://starwars.fandom.com/wiki/Trickster)
+
+The Trickster, originally the Ksstarr, was a Yuuzhan Vong frigate analog renamed in the latter half of the Yuuzhan Vong War. It held three scourges of warriors. She was Executor Nom Anor's personal warship, but was stolen by Jacen Solo and Vergere to aid the rest of the Jedi strike team in their getaway after the Mission to Myrkr. Jaina Solo, who became the owner, first piloted the ship to Coruscant, hoping the New Republic could gain much-needed intel from a still-living Yuuzhan Vong ship. Upon their arrival, However, they found themselves in the midst of a large-scale battle. Realizing that it would be impossible to make contact with their allies, the Jedi opted instead to jump to the Hapes Cluster. Once the crew had arrived safely in the Hapes Consortium, the warship was closely examined by Jaina and Lowbacca, who used it to better understand how Yuuzhan Vong biotechnology worked. Renamed Trickster in honor of Yun-Harla, the so-called Trickster Goddess of the Yuuzhan Vong pantheon, it was outfitted with a comm system and controls fit for normal usage, as opposed to the cognition hoods normally used by the ship's former masters. During Jaina and Lowie's efforts, much was learned about how the Yuuzhan Vong fought their battles, with the result that work on several versions of countermeasures and other 'tricks' was begun. Trickster would serve as a testbed for many of these developments, which included the yammosk jammer.
+
+## Specifications
+
+- **Name:** Trickster
+- **Model:** Ro'ik chuun m'arh
+- **Type:** Capital ship
+- **Othersystems:** Gravitic amplitude modulator
+- **Affiliation:**
+  - Yuuzhan Vong empire
+  - New Jedi Order
+  - New Republic
+  - Galactic Federation of Free Alliances
+- **Owners:**
+  - Nom Anor
+  - Jaina Solo
+- **Captains:** Jaina Solo
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

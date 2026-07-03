@@ -1,0 +1,43 @@
+{
+  "name": "The Gunship",
+  "wookieepedia_title": "The Gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Gunship",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Gunship was Niles Ferrier's personal DP20 gunship.",
+  "data": {
+    "name": "The Gunship",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified DP20 gunship",
+    "type": "Capital ship",
+    "cost": [
+      "New: 1.6 million credits",
+      "Used: 950,000 credits"
+    ],
+    "length": "120 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 6"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Double turbolaser cannons (8)",
+      "Quad laser cannons (6)",
+      "Concussion missile launchers (4)",
+      "  16 rounds each",
+      "Conner net (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunners (8)"
+    ],
+    "passengers": "4",
+    "capacity": "450 metric tons",
+    "consumables": "6 months",
+    "affiliation": "Smugglers' Alliance",
+    "owners": "Niles Ferrier"
+  },
+  "scraped": "2026-07-03"
+}

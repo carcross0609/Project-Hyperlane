@@ -1,0 +1,30 @@
+{
+  "name": "Blaze of Glory",
+  "wookieepedia_title": "Blaze of Glory",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blaze_of_Glory",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blaze of Glory was a modified YT-1930 light freighter owned and operated by the Bimm smuggler Rycar Ryjerd. The Blaze of Glory was at one time docked in Rycar's hidden asteroid base in the Obana Belt.",
+  "data": {
+    "name": "Blaze of Glory",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified YT-1930 light freighter",
+    "type": "Space transport",
+    "cost": "137,000 credits",
+    "length": "35 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 12"
+    ],
+    "armament": "Laser cannon (1)",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "2",
+    "capacity": "200 metric tons",
+    "consumables": "4 months",
+    "owners": "Rycar Ryjerd",
+    "captains": "Rycar Ryjerd"
+  },
+  "scraped": "2026-07-03"
+}

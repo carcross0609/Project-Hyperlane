@@ -1,0 +1,33 @@
+{
+  "name": "Crystal",
+  "wookieepedia_title": "Crystal (starfighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crystal_%28starfighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Crystal was a heavily modified Z-95 Headhunter owned and piloted by Jaina Solo.",
+  "data": {
+    "name": "Crystal",
+    "manufacturer": "Incom/Subpro",
+    "model": "Z-95 Headhunter",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "length": "11.8 meters",
+    "hyperdrive": "Class 1 or Class 2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Triple blasters (2)",
+      "Concussion missile launcher (1)",
+      "  Concussion missiles (6)",
+      "or",
+      "Laser cannons (4)",
+      "Proton torpedo launcher (1)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "60 kg",
+    "consumables": "1 week",
+    "owners": "Jaina Solo"
+  },
+  "scraped": "2026-07-03"
+}

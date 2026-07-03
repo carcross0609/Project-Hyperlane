@@ -1,0 +1,81 @@
+{
+  "name": "MC80A Home One Type Heavy Star Cruiser",
+  "wookieepedia_title": "MC80A Home One Type Heavy Star Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC80A_Home_One_Type_Heavy_Star_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The MC80A Home One Type Heavy Star Cruiser, also known as the MC80A star cruiser, or MC80a cruiser, was a variant of MC80 Star Cruiser used by the Alliance to Restore the Republic and New Republic. During the Galactic Civil War, several of these ships participated in battles such as Endor and Jakku. Around 30 years after the Battle of Endor, the MC80A Star Cruiser was still used by the Resistance.",
+  "data": {
+    "name": "MC80A Home One Type Heavy Star Cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC-series star cruiser",
+    "model": [
+      "MC80 Star Cruiser",
+      "  MC80A Home One Type"
+    ],
+    "type": "Heavy Star Cruiser",
+    "cost": "112,000,000",
+    "length": "1,200&ndash;1,300 meters (4,265 feet&mdash;)",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kph",
+    "engine": [
+      "M8.0 StarDrive engines (4)",
+      "M4.5-StarDrive manoeuvring engines (6)"
+    ],
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 9 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Serridge SEAL Shielding System",
+    "sensor": "Long range sensor",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Quad heavy turbolaser batteries (29-36)",
+      "  9 foreward, 10 port, 10 starboard",
+      "Twin battleship ion cannon batteries (36)",
+      "  12 foreward, 12 port, 12 starboard",
+      "Quad laser cannon batteries (80)",
+      "  20 foreward, 30 port, 30 starboard",
+      "Hull mounted heavy tractor beam projectors (6)"
+    ],
+    "complement": [
+      "10 squadrons of starfighters",
+      "  120 starfighters",
+      "Shuttles",
+      "Landing craft",
+      "Utility vehicles"
+    ],
+    "bays": "Hangars (20)",
+    "crew": [
+      "5,402–5,480",
+      "  Officers",
+      "  Pilots",
+      "  Enlisted crew"
+    ],
+    "passengers": "1,200 troops and support staff",
+    "consumables": "2 years",
+    "role": [
+      "Flagship",
+      "Battleship",
+      "Carrier",
+      "Passenger liner",
+      "Deep-space exploration vessel",
+      "Command ship"
+    ],
+    "firstuse": "By 2 BBY",
+    "affiliation": [
+      "Mon Calamari monarchy",
+      "  Mon Cala Mercantile Fleet",
+      "Galactic Empire",
+      "  Mon Cala Imperial Trade Fleet",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Resistance",
+      "  Resistance navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

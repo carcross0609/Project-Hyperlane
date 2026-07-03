@@ -1,0 +1,26 @@
+{
+  "name": "EX-1-8",
+  "wookieepedia_title": "EX-1-8",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/EX-1-8",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "EX-1-8 was an Imperial Navy TIE/sa bomber that was manufactured by Sienar Fleet Systems. As a TIE/sa bomber, EX-1-8 carried a destructive payload consisting of proton torpedoes, guided concussion missiles, space mines, and free-falling thermal detonators. Around 3 ABY, EX-1-8 flew through the Hoth asteroid field.",
+  "data": {
+    "name": "EX-1-8",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "TIE/sa bomber",
+    "type": "Bomber",
+    "armament": [
+      "Proton torpedoes",
+      "Guided concussion missiles",
+      "Space mines",
+      "Free-falling thermal detonators"
+    ],
+    "role": "Bomber",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

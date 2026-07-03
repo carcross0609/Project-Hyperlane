@@ -1,0 +1,51 @@
+{
+  "name": "836-VS",
+  "wookieepedia_title": "836-VS",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/836-VS",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "836-VS was a Sentinel-class landing craft that was stolen by the Alliance to Restore the Republic and used for a mission to the moon Killun 71. Crewed by members of Phoenix Cell, namely the former Imperial pilot Wedge Antilles, the former Imperial inventory droid AP-5, and the C1-series astromech droid C1-10P \"Chopper,\" 836-VS arrived at Killun Station, where they attempted to steal Imperial clearance codes.",
+  "data": {
+    "name": "836-VS",
+    "designer": [
+      "Sienar Fleet Systems",
+      "Cygnus Spaceworks"
+    ],
+    "model": "Sentinel-class landing craft",
+    "type": "Assault shuttle",
+    "cost": "240,000 credits",
+    "length": "38 meters",
+    "mglt": "70 MGLT",
+    "max_speed": "1,000 kph",
+    "engine": "HD7 engine array (2)",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Four deflector shield generators",
+    "hull": "Heavily armored (25% heavier than Lambda-class)",
+    "sensor": "Close-range sensors",
+    "navigation": "Equipped",
+    "armament": [
+      "8 laser cannons",
+      "2 concussion missile launchers",
+      "2 blaster cannon turrets",
+      "Ion cannon turret"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/sensor operator (1)",
+      "Gunners (3)"
+    ],
+    "capacity": "180 tonnes",
+    "cargohandling": "Attack vehicle cargo pod (optional)",
+    "consumables": "One month",
+    "affiliation": [
+      "Alliance to Restore the Republic (stolen)",
+      "  Phoenix Cell (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

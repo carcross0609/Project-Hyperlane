@@ -1,0 +1,33 @@
+{
+  "name": "Jedi Vector",
+  "wookieepedia_title": "Jedi Vector",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Vector",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "Jedi Vectors were a model of light interceptor starfighter utilized exclusively by the Jedi Order during the High Republic Era. Designed to be a physical extension of the Jedi's connection to the Force, the Vector was a sleek and streamlined vessel that emphasized performance and maneuverability. Renowned for its speed, it was a highly-precise craft that demanded extreme concentration from its pilot. Further cementing itself as the premier ship of the Jedi Order, the Vector's weapons systems could only be activated with the use of a lightsaber as a key. This prevented non-Force-sensitives from using the ships and ensured deadly force could only be used in carefully considered situations.",
+  "data": {
+    "name": "Jedi Vector",
+    "manufacturer": "Valkeri Enterprises",
+    "type": "Light interceptor starfighter",
+    "length": "14.62 meters",
+    "engine": "Equipped",
+    "shield_gen": "None",
+    "armament": [
+      "Laser cannons (2)",
+      "Tractor beam"
+    ],
+    "passengers": "1-2",
+    "communications": "Minimal",
+    "othersystems": "Rescue droid",
+    "role": [
+      "Starfighter combat",
+      "Search and rescue",
+      "Escort fighter"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

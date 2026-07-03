@@ -1,0 +1,29 @@
+{
+  "name": "Nestt-class light freighter",
+  "wookieepedia_title": "Nestt-class light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nestt-class_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nestt-class light freighter was one of SoroSuub Corporation's later attempts to seize a portion of the small starship market, while simultaneously appeasing the Empire. The Nestt had a fairly short cruising range, but was a little higher than average on cargo tonnage. Its major weakness was that it was not designed to carry weapons, nor did it have surplus power for adding them later (an addition intended to keep the Empire from squashing the project). To add weapons systems required an upgrade of the power core, generally considered to be more trouble than it was worth.",
+  "data": {
+    "name": "Nestt-class light freighter",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Light freighter",
+    "cost": "30,000 credits",
+    "length": "29 meters",
+    "max_accel": "800 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 9 (backup)"
+    ],
+    "power": "SoroSuub Corporation Nepton power core",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "crew": "1 with optional co-pilot",
+    "passengers": "4",
+    "capacity": "150 metric tons",
+    "consumables": "1 standard month"
+  },
+  "scraped": "2026-07-03"
+}

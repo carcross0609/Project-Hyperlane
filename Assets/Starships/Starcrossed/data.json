@@ -1,0 +1,30 @@
+{
+  "name": "Starcrossed",
+  "wookieepedia_title": "Starcrossed",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starcrossed",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Starcrossed was a SoroSuub Luxury Cruiser 200 operated by Captain Heedon during the Galactic Civil War. It was refurbished by Heedon to resemble a bird, but much of the interior was left undone due to the fact that, due to Imperial oppression, not many could afford passage onboard the ship.",
+  "data": {
+    "name": "Starcrossed",
+    "manufacturer": "SoroSuub",
+    "model": "Luxury Cruiser 200",
+    "type": "Yacht",
+    "length": "100 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "x2(primary)",
+      "x12(backup)"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "28",
+    "capacity": "15 metric tons",
+    "consumables": "3 months",
+    "role": "Luxury yacht",
+    "affiliation": "Alliance to Restore the Republic",
+    "captains": "Captain Heedon"
+  },
+  "scraped": "2026-07-03"
+}

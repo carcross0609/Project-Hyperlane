@@ -1,0 +1,37 @@
+{
+  "name": "Corellian Thunder",
+  "wookieepedia_title": "Corellian Thunder (DP20 gunship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corellian_Thunder_%28DP20_gunship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Corellian Thunder was a DP20 gunship in service to the Alliance to Restore the Republic during the Galactic Civil War.",
+  "data": {
+    "name": "Corellian Thunder",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "DP20 gunship",
+    "type": "Gunship",
+    "length": "120 meters",
+    "max_speed": "1,000 KMH",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 16 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "8 double turbolaser cannons",
+      "6 quad laser cannons",
+      "4 concussion missile tubes"
+    ],
+    "crew": "45; gunners: 46",
+    "skeleton": "10; gunners: 10",
+    "capacity": "300 metric tons",
+    "consumables": "8 months",
+    "role": "Anti-starfighter warship",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Trax Sector Force"
+  },
+  "scraped": "2026-07-03"
+}

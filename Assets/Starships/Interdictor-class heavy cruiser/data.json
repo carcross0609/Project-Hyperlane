@@ -1,0 +1,58 @@
+{
+  "name": "Interdictor-class heavy cruiser",
+  "wookieepedia_title": "Interdictor-class heavy cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Interdictor-class_heavy_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Interdictor-class heavy cruiser, also called the Interdictor-class cruiser, the Interdictor-class Star Destroyer, or simply the Imperial Interdictor, was an Interdictor vessel that served as the successor to the Immobilizer 418 cruiser. Developed and used by the Galactic Empire, the craft was capable of emitting an interdiction field to pull passing ships out of hyperspace or prevent them from going to lightspeed. Despite being a relatively rare sight in the Imperial Navy, it was considered a dangerous design by rebel groups that relied on hit-and-run tactics. It was used against the rebellion in 4 BBY, and several featured as part of the 7th Fleet.",
+  "data": {
+    "name": "Interdictor-class heavy cruiser",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Interdictor line",
+    "model": "Interdictor-class heavy cruiser",
+    "type": "Heavy cruiser-classed Star Destroyer",
+    "cost": "15,400,000 credits",
+    "length": "1,129 meters",
+    "max_speed": "975 km/h",
+    "engine": "Engines (3)",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Auxilliary reactors",
+    "shield_gen": "Equipped",
+    "sensor": "Long range sensor",
+    "navigation": "Navicomputor",
+    "armament": [
+      "G7-X gravity well projectors (4)",
+      "Quad laser cannons (20)",
+      "  5 dorsal, 5 ventral, 4 port, 4 starboard, 2 aft"
+    ],
+    "complement": [
+      "TIE fighter series starfighters (24)",
+      "  Typically one squadron of TIE/ln fighters or TIE/IN interceptors",
+      "  Typically one squadron of TIE/sa bombers or TIE/ca \"Punisher\" Starfighters"
+    ],
+    "bays": "1",
+    "escapepods": "Equipped",
+    "crew": [
+      "2,807",
+      "  Imperial officers",
+      "  Imperial weapons technicians",
+      "  Stormtroopers"
+    ],
+    "passengers": "80 troops",
+    "consumables": "16 months",
+    "othersystems": "Power trunking",
+    "role": [
+      "Command ship",
+      "Interdictor vessel"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

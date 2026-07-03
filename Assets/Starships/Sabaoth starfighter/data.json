@@ -1,0 +1,27 @@
+{
+  "name": "Sabaoth starfighter",
+  "wookieepedia_title": "Sabaoth starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sabaoth_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sabaoth starfighter was a starfighter used by Captain Cavik Toth's Sabaoth Squadron during the years leading up to the Clone Wars. They carried a total of four laser cannons and were piloted by one individual. Sabaoth starfighters saw extensive action during the Occupation of Karthakk.",
+  "data": {
+    "name": "Sabaoth starfighter",
+    "model": "Sabaoth starfighter",
+    "type": "Starfighter",
+    "cost": "170,000 credits (72,000 used)",
+    "max_speed": "1,110 km/h",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (4)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "50 kg",
+    "consumables": "1 week",
+    "availability": "Military",
+    "affiliation": [
+      "Sabaoth Squadron",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

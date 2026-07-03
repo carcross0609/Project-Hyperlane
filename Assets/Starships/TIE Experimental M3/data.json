@@ -1,0 +1,44 @@
+{
+  "name": "TIE Experimental M3",
+  "wookieepedia_title": "TIE Experimental M3",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_Experimental_M3",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE Experimental M3, also known as the TIE Warhead, was an experimental member of the TIE Series and a part of the TIE Experimental Project.",
+  "data": {
+    "name": "TIE Experimental M3",
+    "designer": "TIE Experimental Project under Director Lenzer",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine Experimental M3 (T/e3)",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "length": "9.6 meters",
+    "max_accel": "20 MGLT/sec",
+    "mglt": "102 MGLT",
+    "max_speed": "1,250 km/h",
+    "maneuverability": "102 DPF",
+    "engine": "Twin ion engines",
+    "hdsystem": "None",
+    "shield_gen": [
+      "Equipped",
+      "Optional (30 SBD)"
+    ],
+    "hull": "Titanium alloy hull (16 RU)",
+    "navigation": "None (slaved to control ship)",
+    "armament": [
+      "2 warhead launchers",
+      "Standard load: 8 concussion missiles"
+    ],
+    "crew": "Remote control system",
+    "passengers": "None",
+    "capacity": "75 kilograms",
+    "consumables": "None",
+    "availability": "Military",
+    "role": "Experimental bomber",
+    "firstuse": "3 ABY",
+    "retired": "Apparently 3 ABY",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Survivor",
+  "wookieepedia_title": "Survivor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Survivor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Survivor was a Corellian Engineering Corporation&ndash;manufactured class of lifeboat. They had enough fuel for six hours of spaceflight, and a week's worth of consumables. Emergency gear included tents, thermosuits, portable hand scanners, substance analyzers, and a hunting rifle for small game.",
+  "data": {
+    "name": "Survivor",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Lifeboat",
+    "cost": [
+      "18,000 credits (new)",
+      "5,600 credits (used)"
+    ],
+    "length": "10 meters",
+    "max_speed": "650 KMH",
+    "sensor": "Equipped",
+    "crew": "1",
+    "passengers": "14",
+    "capacity": "Emergency survival gear",
+    "consumables": "1 week",
+    "role": "Emergency survival"
+  },
+  "scraped": "2026-07-03"
+}

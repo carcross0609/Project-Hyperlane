@@ -1,0 +1,31 @@
+{
+  "name": "Caged Animal",
+  "wookieepedia_title": "Caged Animal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Caged_Animal",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Caged Animal was a Concealer-class Prison Ship. It was charged with the transport of Alliance prisoners of war and was targeted by the Brak Sector Force. However, the Galactic Empire anticipated the Alliance's move and instead filled the ship with Zero-G assault stormtroopers.",
+  "data": {
+    "name": "Caged Animal",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Concealer-class Prison Ship",
+    "length": "50 meters",
+    "max_speed": "750 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "6 laser turrets",
+    "crew": "3; 4 gunners",
+    "passengers": "15 (guards), 60 (prisoners)",
+    "capacity": "25 metric tons",
+    "consumables": "2 month",
+    "role": "Prison transport",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

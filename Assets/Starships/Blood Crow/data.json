@@ -1,0 +1,32 @@
+{
+  "name": "Blood Crow",
+  "wookieepedia_title": "Blood Crow",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blood_Crow",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blood Crow was an Imperial Gozanti-class cruiser originally commanded by Captain Rik Virgilio, and later by Captain Filia Rossi. It was the first assignment of Lieutenant Thrawn and Ensign Eli Vanto.",
+  "data": {
+    "name": "Blood Crow",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Imperial Gozanti-class cruiser",
+    "type": "Cruiser",
+    "length": "63.8 meters",
+    "width": "32 meters",
+    "height": "14.7 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Dorsal twin laser cannon turret (1)",
+      "Ventral heavy laser cannon turret (1)"
+    ],
+    "crew": "Stormtrooper squads (1)",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": [
+      "Rik Virgilio",
+      "Filia Rossi"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

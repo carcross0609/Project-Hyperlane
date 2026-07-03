@@ -1,0 +1,46 @@
+{
+  "name": "Indomitable",
+  "wookieepedia_title": "Indomitable (Scythe-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Indomitable_%28Scythe-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Indomitable was a MC140 Scythe-class battle cruiser serving the Galactic Alliance from at least 130 ABY.",
+  "data": {
+    "name": "Indomitable",
+    "model": "MC140 Scythe-class battle cruiser",
+    "type": [
+      "Cruiser",
+      "Capital ship"
+    ],
+    "cost": "Not available for sale",
+    "hyperdrive": "Class 0.75 (Backup class 0.8)",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Heavy turbolaser batteries (3)",
+      "Turbolaser batteries (6)",
+      "Ion cannon batteries (2)",
+      "Tractor beam batteries (2)",
+      "Proton torpedo batteries (4)",
+      "  160 Proton torpedoes"
+    ],
+    "complement": [
+      "CF9 Crossfire starfighters (36)",
+      "Crix-class assault shuttles (6)",
+      "YT-2400 light freighters"
+    ],
+    "crew": "5,200",
+    "passengers": "1,500 (Troops)",
+    "capacity": "18,000 ton",
+    "consumables": "1 year",
+    "role": "Flagship",
+    "destroyed": "137 ABY",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant"
+    ],
+    "navy": "Galactic Alliance Core Fleet",
+    "captains": "Admiral Gar Stazi"
+  },
+  "scraped": "2026-07-03"
+}

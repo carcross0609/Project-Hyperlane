@@ -1,0 +1,51 @@
+{
+  "name": "MC40a light cruiser",
+  "wookieepedia_title": "MC40a light cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC40a_light_cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MC40a light cruiser or Mon Calamari Light Cruiser was a Mon Calamari Star Cruiser design.",
+  "data": {
+    "name": "MC40a light cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC40a light cruiser",
+    "type": "Light cruiser",
+    "cost": "15,500,000 credits",
+    "length": "500&ndash;600 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": ">60 MGLT",
+    "engine": "3 thrusters",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Rated 1696 SBD",
+    "hull": "Rated 784 RU",
+    "armament": [
+      "Medium Turbolaser turrets (14)",
+      "Concussion Missile launchers (2)",
+      "  Standard load: 25 concussion missiles each",
+      "Medium Ion cannons (18)",
+      "Heavy tractor beam projectors (6)"
+    ],
+    "complement": "Starfighter squadron (1)",
+    "crew": [
+      "Crewmen (3,723)",
+      "Gunners (35)"
+    ],
+    "passengers": "650 troops",
+    "consumables": "2 years",
+    "role": [
+      "Light cruiser",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Dimok government",
+      "Rneekii pirates",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "YV-929 light freighter",
+  "wookieepedia_title": "YV-929 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-929_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YV-929 light freighter was a variant of the YV-929 armed freighter.",
+  "data": {
+    "name": "YV-929 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV series",
+    "model": "YV-929",
+    "type": "Transport",
+    "cost": "380,000 credits",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Ion cannons (2)",
+      "Triple light blaster cannons (2)",
+      "Concussion missile launchers (3)"
+    ],
+    "crew": [
+      "1 Pilot",
+      "1 Co-pilot",
+      "2 Gunners"
+    ],
+    "passengers": "6",
+    "consumables": "6 months",
+    "role": "Freighter",
+    "affiliation": [
+      "Civilian",
+      "Alliance to Restore the Republic",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

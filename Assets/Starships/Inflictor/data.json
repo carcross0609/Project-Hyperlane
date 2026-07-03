@@ -1,0 +1,47 @@
+{
+  "name": "Inflictor",
+  "wookieepedia_title": "Inflictor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Inflictor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Inflictor was an Imperial-class Star Destroyer that participated in the Battle of Jakku, between the Galactic Empire and the New Republic one year after the Battle of Endor. During the battle, the Star Destroyer was boarded by New Republic soldiers with the intent of capturing it. After the commandos disabled the ship's ability to self destruct, its commander, Captain Ciena Ree, scuttled the Inflictor by crashing it into the surface of the planet, where its wreckage remained for decades. Eventually, squatters came to live in the Inflictor conning towers, chasing anybody who might step in their territory. The wreckage could be seen from Niima Outpost.",
+  "data": {
+    "name": "Inflictor",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "countermeasures": "Self-destruct mechanism",
+    "armament": "Turbolasers",
+    "complement": [
+      "TIE/ln space superiority starfighters",
+      "At least 1 TIE/IN interceptor"
+    ],
+    "escapepods": "Escape pods",
+    "crew": [
+      "Imperial officers",
+      "  Junior officers",
+      "At least 1 Imperial Security Bureau Commander",
+      "Imperial Starfighter Pilots",
+      "  At least 1 Flight Commander",
+      "Stormtroopers"
+    ],
+    "communications": "Communications tower",
+    "othersystems": [
+      "Remote blast door sealing system",
+      "Oral password access system"
+    ],
+    "destroyed": "5 ABY, Jakku (scuttled)",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Ciena Ree"
+  },
+  "scraped": "2026-07-03"
+}

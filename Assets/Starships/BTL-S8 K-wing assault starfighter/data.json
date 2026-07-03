@@ -1,0 +1,61 @@
+{
+  "name": "BTL-S8 K-wing assault starfighter",
+  "wookieepedia_title": "BTL-S8 K-wing assault starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BTL-S8_K-wing_assault_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BTL-S8 K-wing assault starfighter, commonly known as the K-wing, was a heavy starfighter/bomber.",
+  "data": {
+    "name": "BTL-S8 K-wing assault starfighter",
+    "manufacturer": "Koensayr Manufacturing",
+    "model": "BTL-S8 K-wing",
+    "type": "Starfighter",
+    "cost": [
+      "250,000 credits (new)",
+      "120,000 credits (used)"
+    ],
+    "length": "16 meters",
+    "max_accel": "2,700 G",
+    "max_speed": "1,000 km/h",
+    "engine": "Ion engines (3)",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Medium-range twin laser cannon turret (1)",
+      "Short-range quad turbolaser turret (1)",
+      "Hardpoints (18; various configurations)",
+      "  Concussion missiles",
+      "  Proton torpedoes",
+      "  Plasma torpedoes",
+      "  Flechétte missiles",
+      "  Advanced homing missiles (unusual)",
+      "  Ion bombs (unusual)",
+      "  Conner net (unusual)"
+    ],
+    "escapepods": "Detachable cockpit",
+    "crew": [
+      "4",
+      "Pilot (1)",
+      "Bombardier (1)",
+      "Gunners (2)"
+    ],
+    "passengers": "0",
+    "cargohandling": "440 kg",
+    "consumables": "1 day",
+    "othersystems": "SLAM",
+    "availability": "Military",
+    "role": [
+      "Bomber",
+      "Heavy starfighter",
+      "Reconnaissance",
+      "Escort"
+    ],
+    "firstuse": "16 ABY",
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

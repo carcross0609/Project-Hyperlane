@@ -1,0 +1,45 @@
+{
+  "name": "Davaab-type starfighter",
+  "wookieepedia_title": "Davaab-type starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Davaab-type_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Davaab-type starfighter was a type of starfighter used by the Mandalorians from before and during the Mandalorian Wars.",
+  "data": {
+    "name": "Davaab-type starfighter",
+    "manufacturer": [
+      "Core Galaxy Systems (initial design)",
+      "Mandalorian Neo-Crusader War Forges"
+    ],
+    "model": "Davaab-type starfighter",
+    "type": "Starfighter",
+    "cost": [
+      "150,000 credits",
+      "80,000 credits used"
+    ],
+    "modifier": "Individual Mandalorian Crusaders",
+    "length": "8.8 meters",
+    "max_speed": "1,100 km/h",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Limited navicomputer (5-jump memory)",
+    "armament": [
+      "Light laser cannons (2)",
+      "Medium concussion missiles (3)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "capacity": "40 kg",
+    "consumables": "1 week",
+    "availability": "Restricted",
+    "role": "Capital ship protection",
+    "affiliation": [
+      "Mandalorian Crusaders",
+      "Mandalorian Neo-Crusaders"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

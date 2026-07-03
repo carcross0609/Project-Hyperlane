@@ -1,0 +1,30 @@
+{
+  "name": "ARX-T3 Suncutter light interceptor",
+  "wookieepedia_title": "ARX-T3 Suncutter light interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ARX-T3_Suncutter_light_interceptor",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The ARX-T3 Suncutter light interceptor was a starfighter manufactured by Koensayr Manufacturing.",
+  "data": {
+    "name": "ARX-T3 Suncutter light interceptor",
+    "manufacturer": "Koensayr Manufacturing",
+    "type": "Starfighter",
+    "cost": "110,000 credits",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "sensor": "Short range",
+    "navigation": "Astromech droid",
+    "armament": [
+      "Forward-mounted medium laser cannons",
+      "Forward-mounted proton torpedo launcher"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "consumables": "One week",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

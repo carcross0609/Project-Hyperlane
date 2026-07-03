@@ -1,0 +1,34 @@
+{
+  "name": "ND-47 Stalwart-class bulk freighter",
+  "wookieepedia_title": "ND-47 Stalwart-class bulk freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ND-47_Stalwart-class_bulk_freighter",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The ND-47 Stalwart-class bulk freighter was a bulk freighter manufactured by Nova-Drive.",
+  "data": {
+    "name": "ND-47 Stalwart-class bulk freighter",
+    "manufacturer": "Nova-Drive",
+    "model": "ND-47 Stalwart-class bulk freighter",
+    "type": "Bulk freighter",
+    "cost": "70,000 credits",
+    "hyperdrive": [
+      "Class 3",
+      "Backup class 12"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "crew": [
+      "Pilot (1)",
+      "Copilot (1)",
+      "Engineer (1)",
+      "Loadmaster (1)"
+    ],
+    "passengers": "10",
+    "consumables": "Two months",
+    "role": "Bulk freighter",
+    "affiliation": "Military"
+  },
+  "scraped": "2026-07-03"
+}

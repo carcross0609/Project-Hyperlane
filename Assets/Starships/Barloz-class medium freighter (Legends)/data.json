@@ -1,0 +1,46 @@
+{
+  "name": "Barloz-class medium freighter",
+  "wookieepedia_title": "Barloz-class medium freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barloz-class_medium_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Barloz-class medium freighter was a medium stock ship popular during the time of the Galactic Republic.",
+  "data": {
+    "name": "Barloz-class medium freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Pre-YT-series",
+    "model": "Barloz-class",
+    "type": "medium freighter",
+    "cost": "120,000 credits (17,500 used)",
+    "length": "41 meters",
+    "height": "20 meters",
+    "max_speed": "850 km/h",
+    "engine": "CEC NovaQuad-D",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Nav computer",
+    "armament": "Laser cannon (1)",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "4",
+    "capacity": "85 to 120 metric tons",
+    "consumables": "2 months",
+    "othersystems": "2 escape pods",
+    "availability": "Licensed",
+    "role": [
+      "Transport",
+      "Smuggling vessel"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Alliance to Restore the Republic",
+      "Smugglers",
+      "Various others"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

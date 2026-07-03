@@ -1,0 +1,36 @@
+{
+  "name": "SCT Scout craft",
+  "wookieepedia_title": "SCT Scout craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SCT_Scout_craft",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mesens Corporation SCT Scout Craft were long range reconnaissance vessels, commonly used for deep space patrols on the far edges of planetary systems.",
+  "data": {
+    "name": "SCT Scout craft",
+    "manufacturer": "Mesens Corporation",
+    "model": "SCT Scout Craft",
+    "type": "Transport",
+    "cost": "1.2 million credits",
+    "length": "75 meters",
+    "max_speed": "820 km/h",
+    "engine": "3 primary and 2 secondary sublight engines",
+    "hyperdrive": [
+      "x3 (primary)",
+      "x12 (backup)"
+    ],
+    "shield_gen": "Rated 200 SBD",
+    "hull": "Rated 114 RU",
+    "sensor": "Advanced sensor package for long range reconnaissance",
+    "armament": [
+      "Dual turbolaser turret (1)",
+      "Dual laser cannon turret (2)"
+    ],
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "275 tons",
+    "consumables": "3 months",
+    "role": "Long range reconnaissance vessel",
+    "affiliation": "Various"
+  },
+  "scraped": "2026-07-03"
+}

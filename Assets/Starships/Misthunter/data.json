@@ -1,0 +1,25 @@
+{
+  "name": "Misthunter",
+  "wookieepedia_title": "Misthunter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Misthunter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Misthunter was a Star Destroyer in the naval forces of the Galactic Empire as a part of Third Fleet.",
+  "data": {
+    "name": "Misthunter",
+    "type": "Star Destroyer",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Ion cannons (6)"
+    ],
+    "communications": "Equipped",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Third Fleet",
+    "captains": "Rasdel"
+  },
+  "scraped": "2026-07-03"
+}

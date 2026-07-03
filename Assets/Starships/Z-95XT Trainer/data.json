@@ -1,0 +1,31 @@
+{
+  "name": "Z-95XT Trainer",
+  "wookieepedia_title": "Z-95XT Trainer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-95XT_Trainer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Z-95XT Trainer was a training model of the Z-95 Headhunter. It possessed a second seat for a passenger such as a flight trainer, but lacked the standard Z-95's concussion missile system. They were often used by the Rebel Alliance for ferrying personnel in-system or between ships within the same fleet, in addition to their stated use of personnel training.",
+  "data": {
+    "name": "Z-95XT Trainer",
+    "manufacturer": "Incom/Subpro",
+    "line": "Z-95 Headhunter",
+    "type": "Starfighter",
+    "cost": "49,860 Galactic Credit Standards",
+    "length": "12.2 Imperial standard meters",
+    "max_speed": "1,000 kilometers per hour",
+    "armament": "Two triple blasters",
+    "crew": "1",
+    "passengers": "1",
+    "capacity": "200 kilograms",
+    "consumables": "1 week",
+    "role": [
+      "In-system courier",
+      "Training vessel"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

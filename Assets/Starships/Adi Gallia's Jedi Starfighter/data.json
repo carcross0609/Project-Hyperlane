@@ -1,0 +1,29 @@
+{
+  "name": "Adi Gallia's Jedi Starfighter",
+  "wookieepedia_title": "Adi Gallia's Jedi Starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adi_Gallia%27s_Jedi_Starfighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Adi Gallia's Jedi Starfighter was a Red Delta-7B Aethersprite-class light interceptor flown by Jedi Master Adi Gallia during the Clone Wars.",
+  "data": {
+    "name": "Adi Gallia's Jedi Starfighter",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series",
+    "model": "Delta-7B Aethersprite-class light interceptor",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (2)",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "role": [
+      "Starfighter",
+      "Personal transport"
+    ],
+    "affiliation": "Jedi Order",
+    "captains": "Adi Gallia"
+  },
+  "scraped": "2026-07-03"
+}

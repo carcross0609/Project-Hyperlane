@@ -1,0 +1,23 @@
+{
+  "name": "Gladiator I-class Star Destroyer",
+  "wookieepedia_title": "Gladiator I-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gladiator_I-class_Star_Destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Gladiator I-class Star Destroyer was the first sub-class of the Gladiator-class line of Star Destroyers used by the Galactic Empire after the Clone Wars and during the Galactic Civil War. It was succeeded by the Gladiator II-class Star Destroyer.",
+  "data": {
+    "name": "Gladiator I-class Star Destroyer",
+    "line": "Gladiator-class Star Destroyer",
+    "model": "Gladiator I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "armament": [
+      "Dual light turbolaser batteries (6)",
+      "Point-defense laser cannon batteries (3)",
+      "Torpedo or medium concussion missile launcher batteries (2)",
+      "  Medium concussion missiles (300)",
+      "Tractor beam batteries (3)"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

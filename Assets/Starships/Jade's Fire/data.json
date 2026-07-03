@@ -1,0 +1,37 @@
+{
+  "name": "Jade's Fire",
+  "wookieepedia_title": "Jade's Fire",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jade%27s_Fire",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Jade's Fire was a highly modified Personal Luxury Yacht 3000. Originally owned by the industrialist Ja Bardrin and named The Winning Gamble, the ship later belonged to Mara Jade, who named it Jade's Fire.",
+  "data": {
+    "name": "Jade's Fire",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "Personal Luxury Yachts",
+    "model": "Personal Luxury Yacht 3000",
+    "type": "Yacht",
+    "length": "50 meters",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup: Class 14.0"
+    ],
+    "avionics": "Veeone",
+    "armament": [
+      "Quad turbolasers (3)",
+      "One \"Shoot-Back\" Blaster (1)",
+      "Tractor beam projector (1)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "10",
+    "capacity": "100 metric tons",
+    "consumables": "1 month",
+    "role": "Personal starship",
+    "destroyed": "19 ABY, Nirauan",
+    "owners": "Mara Jade",
+    "captains": "Mara Jade"
+  },
+  "scraped": "2026-07-03"
+}

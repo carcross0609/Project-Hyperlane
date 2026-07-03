@@ -1,0 +1,31 @@
+{
+  "name": "Lifeline",
+  "wookieepedia_title": "Lifeline (YT-1300 light freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lifeline_%28YT-1300_light_freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lifeline was a Corellian YT-1300 light freighter owned by smuggler Dannen Lifehold.",
+  "data": {
+    "name": "Lifeline",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300 light freighter",
+    "type": "Light freighter",
+    "length": "26.7 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "x2 (Primary)",
+      "x12 (Backup)"
+    ],
+    "armament": "(1) laser cannon",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "owners": "Dannen Lifehold",
+    "aliases": "Black Knight"
+  },
+  "scraped": "2026-07-03"
+}

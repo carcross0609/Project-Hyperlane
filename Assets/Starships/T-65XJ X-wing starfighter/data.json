@@ -1,0 +1,40 @@
+{
+  "name": "T-65XJ X-wing starfighter",
+  "wookieepedia_title": "T-65XJ X-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-65XJ_X-wing_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Incom T-65XJ X-wing starfighter was a starfighter used by the New Republic and the Galactic Federation of Free Alliances.",
+  "data": {
+    "name": "T-65XJ X-wing starfighter",
+    "manufacturer": "Incom Corporation",
+    "model": "T65XJ X-wing",
+    "type": "Starfighter",
+    "cost": [
+      "New: 140,000 credits",
+      "Used: 125,000 credits"
+    ],
+    "length": "12.5 meters",
+    "max_speed": "1,050 km/h",
+    "engine": "Incom 4j.4 fusial thrust engine (4)",
+    "hyperdrive": "Class 1",
+    "armament": [
+      "Heavy laser cannons (4)",
+      "Proton torpedo launchers (3)",
+      "  3 torpedoes each"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "25 kg",
+    "consumables": "3 days",
+    "role": [
+      "Reconnaissance",
+      "Escort"
+    ],
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

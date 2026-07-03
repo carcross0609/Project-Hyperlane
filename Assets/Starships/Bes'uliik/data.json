@@ -1,0 +1,31 @@
+{
+  "name": "Bes'uliik",
+  "wookieepedia_title": "Bes'uliik",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bes%27uliik",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Bes'uliik was a cutting-edge starfighter created by MandalMotors after the Yuuzhan Vong War, the first prototypes of which entered service with the Mandalorians in 40 ABY, during the Second Galactic Civil War.",
+  "data": {
+    "name": "Bes'uliik",
+    "manufacturer": "MandalMotors",
+    "model": "Bes'uliik",
+    "type": "Starfighter",
+    "length": "15 meters",
+    "width": "8 meters",
+    "height": "4 meters or less",
+    "hyperdrive": "Class 0.4",
+    "hull": "Mandalorian iron armor",
+    "armament": [
+      "Blaster cannons (4)",
+      "Additional weapons mounts (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Up to two more crew depending on configuration"
+    ],
+    "role": "Starfighter",
+    "firstuse": "40 ABY",
+    "affiliation": "Mandalorians"
+  },
+  "scraped": "2026-07-03"
+}

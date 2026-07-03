@@ -1,0 +1,27 @@
+{
+  "name": "X-26 StarHaul",
+  "wookieepedia_title": "X-26 StarHaul",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X-26_StarHaul",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The X-26 StarHaul was a freighter developed by Incom Corporation and utilized most by the Galactic Empire.",
+  "data": {
+    "name": "X-26 StarHaul",
+    "manufacturer": "Incom Corporation",
+    "type": "Space barge",
+    "cost": [
+      "400,000 Galactic Credit Standard (new)",
+      "175,000 credits (used)"
+    ],
+    "length": "55 meters",
+    "max_speed": "200 kmh",
+    "hyperdrive": "Class 4",
+    "navigation": "Equipped",
+    "armament": "Double laser cannon",
+    "crew": "2; 1 droid",
+    "capacity": "5,000 metric tons, 2,000 cubic meters",
+    "consumables": "1 week",
+    "role": "Cargo barge"
+  },
+  "scraped": "2026-07-03"
+}

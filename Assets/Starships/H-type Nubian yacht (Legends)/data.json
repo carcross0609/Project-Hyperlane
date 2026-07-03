@@ -1,0 +1,53 @@
+{
+  "name": "H-type Nubian yacht",
+  "wookieepedia_title": "H-type Nubian yacht/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/H-type_Nubian_yacht/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The H-type Nubian yacht was a sleek, rocket-shaped yacht created by the Nubian Design Collective, and customized by the Theed Palace Space Vessel Engineering Corps for the Royal House of Naboo.",
+  "data": {
+    "name": "H-type Nubian yacht",
+    "manufacturer": [
+      "Nubia Star Drives, Incorporated",
+      "Theed Palace Space Vessel Engineering Corps"
+    ],
+    "model": "Customized H-type Nubian yacht",
+    "type": "Yacht",
+    "length": "47.9 meters",
+    "width": "8.1 meters",
+    "height": "7.1 meters",
+    "max_accel": "2,800 G",
+    "max_speed": "2,000 km/h",
+    "engine": "Nubian Sossen-3 ion drives (2) (primary and backup engines)",
+    "hyperdrive": "Class 0.9",
+    "hdrange": "20,000 LY",
+    "hdsystem": [
+      "Nubian 150 core (1)",
+      "Nubian S-5 generator (1)"
+    ],
+    "poweroutput": "7 × 1012 MW",
+    "power": "Redundant power generators",
+    "shield_gen": "Naboo-Gungan co-designed layered shield system",
+    "hull": "Reinforced hull with royal chromium plating",
+    "navigation": "Equipped",
+    "countermeasures": "Various electronic countermeasures",
+    "armament": "None",
+    "escapepods": "Breakaway escape capsule (1)",
+    "crew": [
+      "Standard version:",
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Navigator (1)",
+      "Sensor/shield technician (1)",
+      "Astromech droids (2)",
+      "Modified version:",
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "1 luxury cabin",
+    "role": "Transport",
+    "affiliation": "Royal House of Naboo"
+  },
+  "scraped": "2026-07-03"
+}

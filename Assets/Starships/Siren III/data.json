@@ -1,0 +1,38 @@
+{
+  "name": "Siren III",
+  "wookieepedia_title": "Siren III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Siren_III",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Siren III was a heavily modified Aavman Extravagance Model 11-S Space Yacht owned by Leger DeMain. The ship had been modified to allow it to service as a theater. The bow had been rebuilt to act as a stage and many of the original cabins had been converted into dressing rooms and prop storage. The upper level served as living space for the performers. When landed a large section of the performance area of the ship could be separated from the rest of the ship and moved around to use as a stage.",
+  "data": {
+    "name": "Siren III",
+    "manufacturer": "Aavman Extravagance",
+    "type": "Model 11-S Space Yacht",
+    "cost": "250,000 credits (as modified)",
+    "modifier": "Leger DeMain",
+    "length": "44 meters",
+    "max_speed": "800 KMH",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 10"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 laser cannons (concealed)",
+    "crew": "2; 2 gunners",
+    "skeleton": "1",
+    "passengers": "24",
+    "capacity": "40 metric tons",
+    "consumables": "1 month",
+    "role": [
+      "Mobile theater",
+      "Smuggling"
+    ],
+    "affiliation": "Rebel Alliance",
+    "owners": "Leger DeMain"
+  },
+  "scraped": "2026-07-03"
+}

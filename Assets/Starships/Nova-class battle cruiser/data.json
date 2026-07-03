@@ -1,0 +1,56 @@
+{
+  "name": "Nova-class battle cruiser",
+  "wookieepedia_title": "Nova-class battle cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nova-class_battle_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nova-class battle cruiser was a capital ship that formed a large portion of the Hapan fleet. The Hapes Consortium had several different warships at their disposal. The backbone of their fleet was the distinctive Battle Dragon, but Nova-class battle cruisers were regularly used to supplement the Dragons.",
+  "data": {
+    "name": "Nova-class battle cruiser",
+    "manufacturer": "Hapes Consortium",
+    "model": "Nova-class battle cruiser",
+    "type": "Cruiser",
+    "cost": "15,000,000 credits",
+    "length": "400 meters",
+    "hyperdrive": [
+      "Class 1.5",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped (backup systems equipped on newer builds and retrofits)",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Hapan turbolaser batteries (25)",
+      ":Fire Arc: 5 fore, 5 aft, 5 port, 5 starboard, 5 turret",
+      ":Crew: 3",
+      ":Space Range: 75 km",
+      "Heavy point-defense laser cannons (10)",
+      ":Fire Arc: Front",
+      ":Crew: 2",
+      ":Space Range: 25 km",
+      "Ion cannons (10)",
+      ":Fire Arc: Front",
+      ":Crew: 1",
+      ":Space Range: 50 km",
+      ":Atmospheric Range: 100 km"
+    ],
+    "complement": [
+      "Miy'til starfighters (24)",
+      "Hetrinar assault bombers (6)"
+    ],
+    "crew": [
+      "Crew (1,700)",
+      "Gunners (90)"
+    ],
+    "passengers": "600 (troops and support personnel)",
+    "capacity": "600 metric tons",
+    "consumables": "1 year",
+    "othersystems": "Retractable bridge armor",
+    "role": "Frigate",
+    "affiliation": [
+      "Hapes Consortium",
+      "Heritage Council",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

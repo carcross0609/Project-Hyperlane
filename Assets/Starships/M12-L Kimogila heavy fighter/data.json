@@ -1,0 +1,65 @@
+{
+  "name": "M12-L Kimogila heavy fighter",
+  "wookieepedia_title": "M12-L Kimogila heavy fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/M12-L_Kimogila_heavy_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The M12-L Kimogila heavy fighter was the heaviest in MandalMotors line of snubfighters. The M12 was used by the Hutt crime organizations to protect their 'interests' and were often crewed by mercenary pilots.",
+  "data": {
+    "name": "M12-L Kimogila heavy fighter",
+    "manufacturer": "MandalMotors",
+    "model": "M12-L Kimogila heavy fighter",
+    "type": "Heavy starfighter",
+    "cost": "175,000 credits (125,000 used)",
+    "max_accel": "850 km/h",
+    "hyperdrive": "Class 2",
+    "navigation": "10-jump memory (Astromech droid)",
+    "armament": [
+      "Heavy Laser cannons (2)",
+      "Concussion missile launcher",
+      "  12 concussion missiles",
+      "Proton torpedo launcher (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid"
+    ],
+    "skeleton": "Pilot",
+    "passengers": "None",
+    "capacity": "110 kg",
+    "consumables": "2 weeks",
+    "availability": "Restricted",
+    "role": [
+      "Long-range multi-role starfighter",
+      "Heavy fighter",
+      "Bomber"
+    ],
+    "affiliation": [
+      "Mandalorians",
+      "  Aka'liit",
+      "Hutt Cartel",
+      "Ay'Nat",
+      "Binayre Pirates",
+      "Black Sun",
+      "Blacklight Pirates",
+      "Canyon Corsairs",
+      "Contraband Incorporated",
+      "Corellian Security Force",
+      "Coynite mercenaries",
+      "Evil Raiders",
+      "Force Assassins",
+      "Gotal Bandits",
+      "Sharfree Pirates",
+      "Lok Revenants",
+      "Nal Raka Criminal Empire",
+      "Nova Orion Industries",
+      "O.S.S. D-502 Junk Guild",
+      "Privateers",
+      "Railgun mercenaries",
+      "Rancor Clan",
+      "Valarian Syndicate",
+      "Witchblood Clan"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

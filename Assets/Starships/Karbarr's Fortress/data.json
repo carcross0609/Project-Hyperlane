@@ -1,0 +1,38 @@
+{
+  "name": "Karbarr's Fortress",
+  "wookieepedia_title": "Karbarr's Fortress",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Karbarr%27s_Fortress",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Karbarr's Fortress was a modified Corellian HT-2200 medium freighter which was for sale by the Bith used space transport salesman Fiz Cor'gril.",
+  "data": {
+    "name": "Karbarr's Fortress",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Transport",
+    "type": "Modified HT-2200 medium freighter",
+    "cost": "170,000 credits",
+    "modifier": "Fizzi's Slightly Used Starships",
+    "sysmods": [
+      "Armor",
+      "Deflector shields",
+      "Engines"
+    ],
+    "length": "54.8 meters",
+    "max_speed": "750 km/h",
+    "engine": "Boav Ion Drives",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 15"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 Pulse Laser cannons",
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "800 metric tons",
+    "consumables": "3 months",
+    "affiliation": "Independent"
+  },
+  "scraped": "2026-07-03"
+}

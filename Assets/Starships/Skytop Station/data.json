@@ -1,0 +1,64 @@
+{
+  "name": "Skytop Station",
+  "wookieepedia_title": "Skytop Station",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skytop_Station",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "SpaceStation",
+  "description": "Skytop Station was a repurposed Trade Federation core ship and battlesphere that was operated by the Hyper-Communications Cartel. During the Clone Wars, it served as a listening post for the Confederacy of Independent Systems. In 22 BBY, the astromech droid R2-D2 was captured by General Grievous, who hoped to dissect the astromech in order to extract Republic secrets that were embedded within his memory core. The Jedi Knight Anakin Skywalker and his apprentice Ahsoka Tano infiltrated the station in order to rescue the droid. Their mission successful, they proceeded to destroy the station.",
+  "data": {
+    "name": "Skytop Station",
+    "manufacturer": [
+      "Hyper-Communications Cartel",
+      "Trade Federation"
+    ],
+    "model": "Battlesphere",
+    "type": "Modified core ship",
+    "length": "696 meters",
+    "height": "914 meters",
+    "power": "Reactor",
+    "complement": [
+      "Rogue-class Porax-38 starfighters",
+      "Soulless One",
+      "Vulture-class droid starfighters"
+    ],
+    "bays": "South landing bay",
+    "crew": [
+      "Aqualish technicians",
+      "Numerous battle droids"
+    ],
+    "passengers": [
+      "B1-series battle droids",
+      "  631 model B1 battle droids",
+      "B2-series super battle droids",
+      "IG-100 MagnaGuards"
+    ],
+    "communications": "Equipped",
+    "othersystems": [
+      "Internal ray shields",
+      "Repulsorlift generators"
+    ],
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Teraab sector",
+    "system": "Ruusan system",
+    "coordinates": "P-11",
+    "orbited": "Ruusan 2",
+    "role": "Listening post",
+    "affiliation": [
+      "Hyper-Communications Cartel",
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ],
+    "destroyed": "22 BBY, Ruusan moon",
+    "battles": [
+      "Skytop Station campaign",
+      "  Mission to Skytop Station"
+    ],
+    "captains": "Grievous",
+    "interest": "Disassembly chamber"
+  },
+  "scraped": "2026-07-03"
+}

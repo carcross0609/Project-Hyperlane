@@ -1,0 +1,32 @@
+{
+  "name": "B-12 Bacta Transport",
+  "wookieepedia_title": "B-12 Bacta Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/B-12_Bacta_Transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The B-12 bacta transport was manufactured by Kuat Drive Yards specifically to transport bacta.",
+  "data": {
+    "name": "B-12 Bacta Transport",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Transport",
+    "cost": "1.2 million credits",
+    "length": "238 meters",
+    "engine": "Ion engines (4)",
+    "hyperdrive": [
+      "Class 2",
+      "Class 10"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "None",
+    "crew": "26",
+    "skeleton": "4",
+    "passengers": "6",
+    "capacity": "600,000 metric tons",
+    "consumables": "1 year",
+    "role": "Bacta transport",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

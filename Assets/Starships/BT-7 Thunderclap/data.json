@@ -1,0 +1,33 @@
+{
+  "name": "BT-7 Thunderclap",
+  "wookieepedia_title": "BT-7 Thunderclap",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BT-7_Thunderclap",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BT-7 Thunderclap was an assault ship model in the Republic Military, commonly used by Republic troopers. It was based on smaller rapid-assault ships used during the Great Galactic War.",
+  "data": {
+    "name": "BT-7 Thunderclap",
+    "designer": "Ryden Pollad",
+    "manufacturer": "Rendili Hyperworks",
+    "type": "Rapid assault/deployment craft",
+    "length": "96 meters",
+    "width": "61 meters",
+    "height": "80 meters",
+    "shield_gen": "Modular shields",
+    "armament": [
+      "Heavy laser cannons (3)",
+      "Missiles"
+    ],
+    "communications": "Long-range encrypted holotransmitter",
+    "availability": "Military",
+    "role": "Rapid assault ship",
+    "firstuse": "Before 3653 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Military",
+      "  Republic Navy",
+      "  Republic Special Forces Division"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

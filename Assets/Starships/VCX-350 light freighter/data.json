@@ -1,0 +1,49 @@
+{
+  "name": "VCX-350 light freighter",
+  "wookieepedia_title": "VCX-350 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/VCX-350_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The VCX-350 light freighter was a Corellian Engineering Corporation starship in the VCX series introduced to the starship market during the transition of power from the Galactic Empire to the New Republic. Benefiting from the New Republic's less-intrusive policies toward independent companies, CEC was able to create a more powerful freighter; the end result combined lavish staterooms, a large cargo hold, and heightened performance. Despite the higher prices, the ship garnered much popularity among trading companies and smuggler convoys; Talon Karrde used the VCX-350 in his own fleet. Pirates would also exclusively target the ship due to its demand. This popularity put the ship into direct competition with the older YT-series as the CEC's best known design.",
+  "data": {
+    "name": "VCX-350 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "VCX series",
+    "model": "VCX-350 freighter",
+    "type": "Transport",
+    "cost": [
+      "300,000 credits (new)",
+      "175,000 credits (used)"
+    ],
+    "length": "31 meters",
+    "max_speed": "980 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 11 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Fire-linked laser cannons (2)",
+      ":Fire arc: Partial turret (fore, port, and starboard positioning)"
+    ],
+    "crew": "3",
+    "skeleton": "2",
+    "passengers": "8",
+    "capacity": "250 metric tons",
+    "consumables": "6 months",
+    "role": [
+      "Freighter",
+      "Transport"
+    ],
+    "affiliation": [
+      "Civilians",
+      "Trading companies",
+      "Pirates",
+      "Smugglers",
+      "Talon Karrde's fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

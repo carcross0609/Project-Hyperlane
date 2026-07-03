@@ -1,0 +1,21 @@
+{
+  "name": "Vanguard",
+  "wookieepedia_title": "Vanguard (Warrior-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vanguard_%28Warrior-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vanguard was a Warrior-class gunship serving in the navy of the New Republic, which fought in the Black Fleet Crisis in 17 ABY.",
+  "data": {
+    "name": "Vanguard",
+    "model": "Warrior-class gunship",
+    "affiliation": "New Republic",
+    "navy": "Combined Defense Forces of the New Republic",
+    "fleet": [
+      "New Republic Fifth Fleet",
+      "  Task Force Aster"
+    ],
+    "captains": "Inadi"
+  },
+  "scraped": "2026-07-03"
+}

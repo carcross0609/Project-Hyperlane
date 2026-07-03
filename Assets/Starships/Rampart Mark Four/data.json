@@ -1,0 +1,25 @@
+{
+  "name": "Rampart Mark Four",
+  "wookieepedia_title": "Rampart Mark Four",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rampart_Mark_Four",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Rampart Mark Four was a bomber model manufactured by Elsinore-Cordova Engineering for the Galactic Republic that saw use during the Galactic War with the Sith Empire. Primarily a minelayer, the Rampart Mark Four featured extended ammunition caches and room for two types of mines, along with the baseline defenses of most gunships, a moderate sensor range, and particularly good communication systems.",
+  "data": {
+    "name": "Rampart Mark Four",
+    "manufacturer": "Elsinore-Cordova Engineering",
+    "type": "Bomber",
+    "armament": [
+      "Laser cannons",
+      "Seismic mines",
+      "Concussion mines",
+      "Ion mines",
+      "Interdiction mines",
+      "Seeker mines"
+    ],
+    "availability": "Military",
+    "role": "Bomber",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

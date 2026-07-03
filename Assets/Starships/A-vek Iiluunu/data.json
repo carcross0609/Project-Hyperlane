@@ -1,0 +1,30 @@
+{
+  "name": "A-vek Iiluunu",
+  "wookieepedia_title": "A-vek Iiluunu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A-vek_Iiluunu",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The A-vek Iiluunu was a type of Yuuzhan Vong capital ship designed to deploy a large force of the alien fightercraft known as coralskippers, and various referred to as a carrier analog, fighter-carrier, or skip carrier.",
+  "data": {
+    "name": "A-vek Iiluunu",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "A-vek Iiluunu fighter carrier",
+    "type": "Capital ship",
+    "length": "800 meters",
+    "engine": "Dovin basals",
+    "hyperdrive": "Class 3",
+    "shield_gen": "Dovin basals",
+    "armament": [
+      "Yaret-Kors (20)",
+      "Dovin basals"
+    ],
+    "complement": "200 Coralskippers",
+    "crew": "320",
+    "passengers": "480",
+    "capacity": "280 metric tons",
+    "consumables": "6 months",
+    "role": "Carrier",
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

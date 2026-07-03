@@ -1,0 +1,37 @@
+{
+  "name": "Pulsar Skate",
+  "wookieepedia_title": "Pulsar Skate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pulsar_Skate",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Pulsar Skate was a modified Baudo-class star yacht owned by Booster Terrik and later inherited by his daughter Mirax.",
+  "data": {
+    "name": "Pulsar Skate",
+    "model": "Modified Baudo-class star yacht",
+    "length": "37.5 meters",
+    "mglt": "70 MGLT",
+    "max_speed": "1,200 km/h",
+    "engine": "Twin ion engine",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 7.0"
+    ],
+    "armament": "Laser cannon turret (1)",
+    "crew": "Pilot (1)",
+    "passengers": "8",
+    "capacity": "35 metric tons",
+    "consumables": "1 month",
+    "role": "Smuggler",
+    "affiliation": "New Jedi Order",
+    "owners": [
+      "Booster Terrik",
+      "Mirax Terrik Horn"
+    ],
+    "captains": [
+      "Booster Terrik",
+      "Mirax Terrik Horn"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

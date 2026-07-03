@@ -1,0 +1,39 @@
+{
+  "name": "Diamond-class cruiser",
+  "wookieepedia_title": "Diamond-class cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Diamond-class_cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Diamond-class cruiser, also known as Diamond-class courier ship and the Commerce Guild cruiser, was a cruiser used by the Commerce Guild prior to and during the Clone Wars.",
+  "data": {
+    "name": "Diamond-class cruiser",
+    "manufacturer": "Commerce Guild",
+    "model": "Diamond-class cruiser",
+    "type": "Cruiser",
+    "cost": "5,000,000 credits (2,125,000 used)",
+    "length": "200 meters",
+    "mglt": "80 MGLT",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": "Class 0.75 (backup class 4)",
+    "navigation": "Navicomputer",
+    "armament": "Laser cannon batteries (2)",
+    "complement": [
+      "OG-9 homing spider droids (600)",
+      "DSD1 dwarf spider droids (2,400)"
+    ],
+    "crew": "148",
+    "passengers": "45",
+    "capacity": "1,380 tons",
+    "consumables": "3 months",
+    "availability": "Military",
+    "role": [
+      "Transport",
+      "Cruiser"
+    ],
+    "affiliation": [
+      "Commerce Guild",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

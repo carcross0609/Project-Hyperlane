@@ -1,0 +1,96 @@
+{
+  "name": "Executor",
+  "wookieepedia_title": "Executor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Executor/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Super Star Destroyer Executor was the personal flagship of the Lord Darth Vader, the premier command ship of the Imperial Navy, and the first of the Executor-class Star Dreadnought line. Designed by starship engineer Lira Wessex as a successor to the original Imperial-class Star Destroyer, the Executor, at a monumental 19,000 meters in length, represented the largest traditional warship the galaxy had ever seen by the time of its completion. The Executor bristled with more than 5,000 weapon emplacements, enough firepower to blast any planetary surface to slag in hours, and a military complement capable of annihilating any ground installation. The Executor presence alone, however, was enough to frighten an entire star system into submission.",
+  "data": {
+    "name": "Executor",
+    "manufacturer": "Kuat Drive Yards/Fondor Shipyards",
+    "model": "Executor-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "cost": [
+      "1,143,350,000 credits (estimated)",
+      "Not available for public sale"
+    ],
+    "length": "19,000 meters",
+    "max_accel": "1,230 G",
+    "mglt": "40 MGLT",
+    "engine": "13 KDY Executor-50.x engines",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "2 KDY ISD-72x deflector shield generator domes",
+    "hull": "Titanium-reinforced alusteel",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Over 5,000 turbolaser batteries and ion cannons",
+      "  2,000 turbolaser batteries",
+      "  2,000 heavy turbolaser batteries",
+      "  250 heavy ion cannons",
+      "500 laser point-defense cannons",
+      "250 heavy concussion missile batteries",
+      "40 Phylon Transport Q7 tractor beam projectors"
+    ],
+    "complement": [
+      "144 various TIE Series starfighters",
+      "  TIE/LN starfighters",
+      "  TIE/sa bombers",
+      "  TIE/IN interceptors",
+      "  TIE/D Defenders",
+      "  TIE/ad starfighters",
+      "  Darth Vader's TIE Advanced x1",
+      "200 miscellaneous combat and support ships",
+      "  Gamma-class ATR-6 assault transports",
+      "  Lambda-class T-4a shuttles",
+      "  Y-85 Titan dropships",
+      "3 prefabricated garrison bases",
+      "Hundreds of heavy walkers",
+      "  All Terrain Armored Transports (30)",
+      "  All Terrain Scout Transports (50)",
+      "  All Terrain Personal Transports",
+      "Various speeder bikes and other ground vehicles",
+      "Supplies for 300,000 individuals",
+      "50,000 heavy concussion missiles"
+    ],
+    "crew": [
+      "279,144",
+      "1,590 gunners",
+      "10,000 droids"
+    ],
+    "skeleton": "50,000",
+    "passengers": [
+      "38,000 (ground troops)",
+      "  501st Legion",
+      "  Blizzard Force"
+    ],
+    "capacity": "250,000 metric tons",
+    "consumables": "6 years",
+    "role": [
+      "Command ship",
+      "Carrier",
+      "Battle cruiser"
+    ],
+    "commission": [
+      "0.5 ABY, Fondor system",
+      "2.5 ABY, Kuat system"
+    ],
+    "destroyed": "4 ABY, Endor system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron",
+    "owners": "Darth Vader",
+    "captains": [
+      "Amise Griff",
+      "Unidentified admiral",
+      "Bentro",
+      "Kendal Ozzel",
+      "Firmus Piett",
+      "Ledre Okins"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

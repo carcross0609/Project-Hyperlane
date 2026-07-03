@@ -1,0 +1,36 @@
+{
+  "name": "Fortressa",
+  "wookieepedia_title": "Fortressa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fortressa",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Fortressa was a modified Hoersch-Kessel Drive, Inc. Lucrehulk-class LH-3210 cargo freighter commissioned by the Trade Federation megacorp. Converted to a battleship as part of the Federation's desire to better protect its cargo convoys, the Fortressa was later part of the naval forces of the Confederacy of Independent Systems&mdash;with whom the Trade Federation had allied themselves&mdash;which fought against the Galactic Republic during the Clone Wars. The Fortressa survived the war, and it was decommissioned and sold off when the Galactic Empire&mdash;the successor state to the Republic&mdash;nationalized the Trade Federation. Falling into the hands of the Alliance to Restore the Republic, the Fortressa served as starfighter carrier and anchored the Alliance Fleet's main battle line. In 0 BBY, the Fortressa engaged the Death Star battle station in the Horuz system in an effort to destroy the immense superweapon before it became operational. The Death Star used its superlaser on the Fortressa, destroying the vessel in a single shot.",
+  "data": {
+    "name": "Fortressa",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Lucrehulk-class battleship (modified Lucrehulk-class LH-3210 cargo freighter)",
+    "type": "Star Destroyer",
+    "length": "3,356.9 meters",
+    "width": "3,009 meters",
+    "height": "1,028.77 meters",
+    "hdsystem": "Equipped",
+    "complement": "500 T-65 X-wing starfighters",
+    "role": [
+      "Battleship",
+      "Carrier"
+    ],
+    "destroyed": "0 BBY, Horuz system",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": [
+      "Trade Federation Defense Fleet",
+      "Confederate Navy",
+      "Alliance Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

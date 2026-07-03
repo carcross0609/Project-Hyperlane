@@ -1,0 +1,40 @@
+{
+  "name": "Singularity",
+  "wookieepedia_title": "Singularity",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Singularity",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Singularity was an Imperial I-class Star Destroyer under the command of Imperial Intelligence Director and Emperor's Hand Cronal, better known as Blackhole, during the Galactic Civil War.",
+  "data": {
+    "name": "Singularity",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Capital ship",
+    "cost": "Not available for sale",
+    "length": "1,600 meters",
+    "max_speed": "Cruising",
+    "hyperdrive": [
+      "Main: Class 1.5",
+      "Backup: Class 6"
+    ],
+    "hull": "Black; coated in a stygian-triprismatic polymer",
+    "armament": [
+      "60 turbolasers",
+      "60 ion cannons",
+      "10 tractor beams"
+    ],
+    "complement": [
+      "1 TIE fighter wing",
+      "  123rd Nightstalker Group"
+    ],
+    "crew": "37,085",
+    "skeleton": "5,000",
+    "passengers": "9,700 troops",
+    "capacity": "36,000 tons",
+    "consumables": "6 years",
+    "affiliation": "Galactic Empire",
+    "captains": "Blackhole"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Dagger-class starfighter",
+  "wookieepedia_title": "Dagger-class starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dagger-class_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Dagger-class starfighter was a fighter craft designed by Republic Sienar Systems in the last century of the Republic and produced in large numbers around the time of the Battle of Naboo.",
+  "data": {
+    "name": "Dagger-class starfighter",
+    "manufacturer": "Republic Sienar Systems",
+    "model": "Dagger-class starfighter",
+    "type": "Starfighter",
+    "cost": "35,000 credits (8,000 used)",
+    "length": "14.8 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": "Class 2",
+    "shield_gen": "None",
+    "navigation": "Navicomputer, stores 3 sets of coordinates",
+    "armament": "Laser cannons (3)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "55 kg",
+    "consumables": "1 week",
+    "availability": "Restricted",
+    "role": "Space superiority fighter",
+    "affiliation": [
+      "Pirates",
+      "Mercenaries",
+      "Planetary Security Forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

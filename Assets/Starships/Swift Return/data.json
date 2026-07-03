@@ -1,0 +1,36 @@
+{
+  "name": "Swift Return",
+  "wookieepedia_title": "Swift Return",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Swift_Return",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Swift Return was a Consular-class cruiser that served in the Republic Navy's Open Circle Fleet. It was destroyed by Admiral Trench prior to the Battle of Christophsis. At one point prior to its destruction, the Swift Return fired its weapons while in an asteroid field. When Galactic Republic Admiral Wullf Yularen researched Trench, believing the presumed-dead commander to be leading Separatist forces above Christophsis, he saw information on the Swift Return.",
+  "data": {
+    "name": "Swift Return",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Retrofitted Consular-class cruiser",
+    "type": "Frigate",
+    "length": "138.55 meters",
+    "max_speed": "1,200 kilometers per hour",
+    "engine": "Sublight engines (3)",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Armored-plated hull",
+    "armament": [
+      "Twin Turbolaser turrets (5)",
+      "Twin Laser cannon turret (1)"
+    ],
+    "escapepods": [
+      "Detachable salon pod (1)",
+      "Republic escape pods (4)"
+    ],
+    "role": "Frigate",
+    "destroyed": "Prior to 22 BBY",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet"
+  },
+  "scraped": "2026-07-03"
+}

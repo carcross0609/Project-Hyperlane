@@ -1,0 +1,29 @@
+{
+  "name": "A-Z-Z-3 Light Freighter",
+  "wookieepedia_title": "A-Z-Z-3 Light Freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A-Z-Z-3_Light_Freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The A-Z-Z-3 Light Freighter was a popular Mon Calamari transport in use during the Galactic Civil War.",
+  "data": {
+    "name": "A-Z-Z-3 Light Freighter",
+    "type": "Light freighter",
+    "length": "24 meters",
+    "max_speed": "850 KMH",
+    "hyperdrive": [
+      "Class 1",
+      "Class 12"
+    ],
+    "shield_gen": "Equipped, including backup shield generators",
+    "sensor": "Equipped, including backup sensors",
+    "navigation": "Equipped",
+    "armament": "2 laser cannon",
+    "crew": "2; 2 gunners",
+    "passengers": "8",
+    "capacity": "60 metric tons",
+    "consumables": "2 months",
+    "lifesupport": "Primary and backup systems",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

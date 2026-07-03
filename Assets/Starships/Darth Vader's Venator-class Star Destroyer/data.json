@@ -1,0 +1,27 @@
+{
+  "name": "Darth Vader's Venator-class Star Destroyer",
+  "wookieepedia_title": "Darth Vader's Venator-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader%27s_Venator-class_Star_Destroyer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Darth Vader's Venator-class Star Destroyer was a Venator-class Star Destroyer owned by Darth Vader during the reign of the Galactic Empire. He murdered several of the ship's crew, including Admiral Mummert, after being interrupted while meditating in his chamber. By 14 BBY, it had been replaced as Vader's flagship by the Perilous.",
+  "data": {
+    "name": "Darth Vader's Venator-class Star Destroyer",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "complement": [
+      "At least 1 TIE Advanced x1",
+      "  Darth Vader's TIE Advanced"
+    ],
+    "role": [
+      "Destroyer",
+      "Carrier"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Darth Vader",
+    "captains": "Mummert"
+  },
+  "scraped": "2026-07-03"
+}

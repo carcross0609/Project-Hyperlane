@@ -1,0 +1,17 @@
+# 1-138
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [1-138](https://starwars.fandom.com/wiki/1-138)
+
+The 1-138 was an automated hauler transporting cortosis from Cloud City to the Imperial Cairn Installation during the brief period that the city was occupied by the Empire Reborn. After the defeat of Tavion Axmis by Kyle Katarn in the Battle of Cloud City, Katarn sneaked aboard 1-138 which took him to the Cairn Installation.
+
+## Specifications
+
+- **Name:** 1-138
+- **Type:** Transport
+- **Affiliation:** Empire Reborn
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,42 @@
+{
+  "name": "Space ARC battle cruiser",
+  "wookieepedia_title": "Space ARC battle cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Space_ARC_battle_cruiser",
+  "continuity": "Unknown",
+  "infobox_template": "StarshipClass",
+  "description": "The Space ARC battle cruiser were huge star cruisers which were generally associated with the Galderian space pirates, although a few found their way into the hands of the Rebel Alliance also.",
+  "data": {
+    "name": "Space ARC battle cruiser",
+    "manufacturer": "Advanced Race",
+    "model": "Space ARC battle cruiser",
+    "type": "Cruiser",
+    "length": "1,000 meters",
+    "hyperdrive": "Class 1.0",
+    "armament": [
+      "Dual Turbolaser Batteries (42)",
+      "Ion cannon batteries (16)",
+      "Tractor beam projectors (16)"
+    ],
+    "complement": [
+      "I-BEAM Star Fighters (at least 24 in 6 fighter A Racks)",
+      "Other shuttles (at least 3)"
+    ],
+    "crew": [
+      "500 Officers",
+      "3,050 Crew",
+      "1,000 Slaves"
+    ],
+    "capacity": "27,000 metric tons",
+    "consumables": "4 years",
+    "role": [
+      "Carrier",
+      "Cruiser",
+      "Pirate vessel"
+    ],
+    "affiliation": [
+      "Galderian Pirates",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,11 @@
+# Argent Lady
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Argent Lady](https://starwars.fandom.com/wiki/Argent_Lady)
+
+Argent Lady was a Cargo Empress-class super freighter manufactured by Ghtroc Industries and owned by Cosmohaul Shipping. It was loaned to a group of freelance mercenaries by Paxtrell Snoygal, in the hopes that the mercenaries could stop a piracy epidemic which was plaguing Cosmohaul's transports. Snoygal had hired a new crew to transport one hundred R5-series astromech droids to Sullust. The crew turned out to be Xalto Sneerzick, the leader of the Droid Abolitionist Movement, and his followers, who were trying to free the droids. He had inserted an emancipation virus into their programming, but one of his droids rebelled and shot him. The Argent Lady was pursued and captured by an Imperial ship, but its crew was overtaken by the mercenaries and left stranded. The Argent Lady returned to Cosmohaul, but not before one of the infected R5 droids escaped in a escape pod.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

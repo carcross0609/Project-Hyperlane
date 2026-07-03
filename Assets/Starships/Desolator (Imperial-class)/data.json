@@ -1,0 +1,37 @@
+{
+  "name": "Desolator",
+  "wookieepedia_title": "Desolator (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Desolator_%28Imperial-class%29",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Desolator was an Imperial-class Star Destroyer that participated in the assault near Alzoc III between the Galactic Empire and the Alliance to Restore the Republic. The Desolator was under the command of Commander Estoc during the Galactic Civil War",
+  "data": {
+    "name": "Desolator",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "sensor": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Tractor beam projector (1)"
+    ],
+    "crew": [
+      "Imperial officers",
+      "At least 1 AT-AT commander",
+      "Imperial technicians"
+    ],
+    "communications": "Holoprojector",
+    "destroyed": "4 ABY, Alzoc system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Estoc"
+  },
+  "scraped": "2026-07-03"
+}

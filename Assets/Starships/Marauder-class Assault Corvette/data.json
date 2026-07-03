@@ -1,0 +1,44 @@
+{
+  "name": "Marauder-class Assault Corvette",
+  "wookieepedia_title": "Marauder-class Assault Corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Marauder-class_Assault_Corvette",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Marauder-class Assault Corvette was a class of small and nimble corvette that was initially slated for the Republic Navy but sold to the Corporate Sector Authority. It was armed with eight light double turbolasers and had a complement of embarked craft. By the Imperial Era it saw widespread use in legitimate and criminal enterprises throughout the Outer Rim Territories.",
+  "data": {
+    "name": "Marauder-class Assault Corvette",
+    "manufacturer": [
+      "Republic Sienar Systems (Design)",
+      "Corporate Sector Authority (Production)"
+    ],
+    "model": "Marauder-class",
+    "type": "Assault Corvette",
+    "cost": "3,000,000 credits",
+    "hyperdrive": "Class 2",
+    "sensor": "Medium range sensor",
+    "navigation": "Equipped",
+    "armament": [
+      "8 light double turbolasers",
+      "3 light tractor beam emitters"
+    ],
+    "complement": [
+      "1 squadron",
+      "2 shuttles"
+    ],
+    "crew": "177",
+    "passengers": "80 troops",
+    "consumables": "3 months",
+    "role": [
+      "Pocket warship",
+      "Patrol",
+      "Escort"
+    ],
+    "affiliation": [
+      "Galactic Republic (intended)",
+      "  Galactic Republic Navy (intended)",
+      "Corporate Sector Authority",
+      "Mercenary groups"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pursuit-class light cruiser",
+  "wookieepedia_title": "Pursuit-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pursuit-class_light_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Pursuit-class light cruiser was a type of capital ship in the Imperial Navy.",
+  "data": {
+    "name": "Pursuit-class light cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Pursuit-class light cruiser",
+    "type": "Light cruiser",
+    "length": "500 meters",
+    "armament": [
+      "Turrets (2)",
+      "  2 barrels per turret",
+      "Additional flanking weaponry"
+    ],
+    "complement": [
+      "TIE squadrons (2)",
+      "TIE/LN starfighters",
+      "TIE Advanced x1s"
+    ],
+    "role": "Patrol ship",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

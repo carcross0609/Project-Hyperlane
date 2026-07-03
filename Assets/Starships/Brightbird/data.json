@@ -1,0 +1,25 @@
+{
+  "name": "Brightbird",
+  "wookieepedia_title": "Brightbird",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Brightbird",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Brightbird was a minicruiser that was the starship of pilot Sky Graf. In 384 BBY, it was built offworld but finished on Thelj. The Brightbird eventually became a personal cruiser for some time and then became a warship of the Nihil marauders. The vessel later came to be owned by San Tekka family member Cair San Tekka, who refurbished the Brightbird. San Tekka additionally registered the vessel with the Nihil as the Blood Vulture, acting as a smuggler.",
+  "data": {
+    "name": "Brightbird",
+    "type": "Minicruiser",
+    "armament": "3 laser cannons",
+    "affiliation": [
+      "Graf family",
+      "San Tekka clan",
+      "Nihil"
+    ],
+    "owners": [
+      "Sky Graf",
+      "Cair San Tekka"
+    ],
+    "aliases": "Blood Vulture"
+  },
+  "scraped": "2026-07-03"
+}

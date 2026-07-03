@@ -1,0 +1,26 @@
+# Invictus
+
+**Kind:** Individual ship  
+**Continuity:** Canon  
+**Source:** [Invictus (Pacifier-class)](https://starwars.fandom.com/wiki/Invictus_%28Pacifier-class%29)
+
+The Invictus was a Pacifier-class transport ship utilized by the Republic Defense Coalition during the High Republic Era. In 228 BBY, the Invictus was utilized on a Republic and Jedi Order mission to the planet Angoth in order to capture a Nameless creature from the Nihil marauders. The starship carried Jedi Master Mirro Lox, his Padawan Amadeo Azzazzo, mercenaries Ashton Vol and L-77, RDC medical officer Dorian Innes, and a team of RDC volunteers. After managing to capture one Nameless, the RDC team transported it back to Coruscant on the secondary vessel Orchid while Azzazzo, Vol, L-77, and Innes took the Invictus to the planet Tolis to assist former Jedi Master Cohmac Vitus and Jedi Knight Reath Silas on their own mission. After firing missiles on the shuttle of the Nihil Child of the Storm Sicarus, the detonation caught the Invictus as it swung around, causing it to crash.
+
+## Specifications
+
+- **Name:** Invictus
+- **Model:** Pacifier-class sector patrol cruiser
+- **Type:** Patrol cruiser
+- **Engine:** Equipped
+- **Hyperdrive:** Equipped
+- **Armament:** Missiles
+- **Complement:** Orchid
+- **Bays:** At least 1
+- **Destroyed:** 228 BBY, Tolis
+- **Affiliation:**
+  - Galactic Republic
+  -   Republic Defense Coalition
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

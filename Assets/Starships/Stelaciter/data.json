@@ -1,0 +1,28 @@
+{
+  "name": "Stelaciter",
+  "wookieepedia_title": "Stelaciter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stelaciter",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Stelaciter was an Iskallon Light Frigate in service of the Iskalloni after the Battle of Endor.",
+  "data": {
+    "name": "Stelaciter",
+    "model": "Iskallon Light Frigate",
+    "type": "Frigate",
+    "length": "83 meters",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 double laser cannons",
+      "1 heavy laser cannon"
+    ],
+    "crew": "39",
+    "passengers": "15",
+    "capacity": "400 metric tons",
+    "consumables": "4 months",
+    "affiliation": "Iskalloni"
+  },
+  "scraped": "2026-07-03"
+}

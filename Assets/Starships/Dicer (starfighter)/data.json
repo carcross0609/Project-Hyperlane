@@ -1,0 +1,30 @@
+{
+  "name": "Dicer",
+  "wookieepedia_title": "Dicer (starfighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dicer_%28starfighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dicer was the name given to Eelo Begraas' Z-95 Headhunter. The elite Bothan pilot customized his ship, making it incredibly maneuverable. It was also rumored to contain some prototype technology obtained by the Bothan from a job for the Hutts. Begraas painted the fighter black, with highlights in blood red. Begraas' personal insignia of a clenched fist was also painted on either side of the cockpit.",
+  "data": {
+    "name": "Dicer",
+    "manufacturer": "Incom/Subpro",
+    "model": "Customized Z-95 Headhunter",
+    "type": "Starfighter",
+    "cost": "Not for sale",
+    "length": "11.8 meters",
+    "hyperdrive": "Unknown; rumored to be Class 1/2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Blaster cannons (2)",
+      "Proton torpedos (10)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "Astromech droid (1)",
+    "capacity": "90 kg",
+    "consumables": "5 days",
+    "affiliation": "Navy of Thaere",
+    "owners": "Eelo Begraas"
+  },
+  "scraped": "2026-07-03"
+}

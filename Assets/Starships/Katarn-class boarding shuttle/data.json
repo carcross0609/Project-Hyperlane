@@ -1,0 +1,41 @@
+{
+  "name": "Katarn-class boarding shuttle",
+  "wookieepedia_title": "Katarn-class boarding shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Katarn-class_boarding_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The 28 meter-long Katarn-class boarding shuttle was a Rendili StarDrive design made with a nose-end airlock. It could carry up to 50 troops and 500 kilograms of equipment, with a crew requirement of 3 people.",
+  "data": {
+    "name": "Katarn-class boarding shuttle",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Katarn-class boarding shuttle",
+    "type": "Boarding shuttle",
+    "cost": [
+      "100,000 credits (new)",
+      "55,000 credits (used)"
+    ],
+    "length": "28 meters",
+    "max_speed": "1,050 kmh",
+    "hdsystem": "None",
+    "armament": [
+      "1 double laser cannon",
+      "1 plasma torch boarding device"
+    ],
+    "crew": [
+      "2 crew",
+      "1 gunner"
+    ],
+    "passengers": "50 (troops)",
+    "capacity": "500 kilograms",
+    "consumables": "1 day",
+    "role": [
+      "Boarding craft",
+      "Troop transport"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

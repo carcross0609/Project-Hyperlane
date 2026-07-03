@@ -1,0 +1,44 @@
+{
+  "name": "Rihkxyrk assault fighter",
+  "wookieepedia_title": "Rihkxyrk assault fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rihkxyrk_assault_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Rihkxyrk (rik-zerk) Assault Fighter was a heavy assault fighter built by TransGalMeg Industries, Incorporated.",
+  "data": {
+    "name": "Rihkxyrk assault fighter",
+    "manufacturer": "TransGalMeg Industries, Incorporated",
+    "model": "Rihkxyrk Assault Fighter",
+    "type": "Starfighter",
+    "cost": "240,000 credits (150,000 used)",
+    "max_speed": "750 km/h",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "countermeasures": "Warhead countermeasure launcher (1)",
+    "armament": [
+      "Triple heavy laser cannons",
+      "Concussion missile launchers"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "80 kg",
+    "consumables": "1 day",
+    "availability": "Restricted",
+    "role": "Heavy fighter",
+    "affiliation": [
+      "Ay'Nat pirates",
+      "Black Sun",
+      "Blood Razors",
+      "Commerce Raiders",
+      "Dark Veil Order",
+      "Death Watch",
+      "Ghrag Mercenaries",
+      "Hidden Daggers",
+      "Krask Pirates",
+      "Privateers",
+      "Velocity Mercenaries",
+      "Void Wings"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

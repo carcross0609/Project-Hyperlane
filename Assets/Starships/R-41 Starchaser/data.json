@@ -1,0 +1,45 @@
+{
+  "name": "R-41 Starchaser",
+  "wookieepedia_title": "R-41 Starchaser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R-41_Starchaser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The R-41 Starchaser was a multi-role starfighter manufactured by Hoersch-Kessel Drive, Inc.",
+  "data": {
+    "name": "R-41 Starchaser",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "R-41 Starchaser",
+    "type": "Starfighter",
+    "cost": "55,000 credits",
+    "length": "16.3 meters",
+    "max_accel": "16 MGLT/s",
+    "mglt": "100 MGLT",
+    "max_speed": "1,050 km/h",
+    "maneuverability": "75 DPF",
+    "engine": "Model 4Yb ion fusion engines (4)",
+    "hyperdrive": "Class 2.0",
+    "shield_gen": "Rated 30 SBD",
+    "hull": "Rated 14 RU",
+    "navigation": "Equipped",
+    "armament": [
+      "Light laser cannons (2)",
+      "Light ion cannons (2)",
+      "Concussion missile launcher (1)",
+      "  2 missiles"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "110 kg",
+    "consumables": "1 week",
+    "othersystems": "S-foils",
+    "role": "Multi-role starfighter",
+    "firstuse": "22 BBY",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Black Sun",
+      "Airam Clans",
+      "Rneeki pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

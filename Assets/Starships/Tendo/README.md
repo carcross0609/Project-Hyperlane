@@ -1,0 +1,21 @@
+# Tendo
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Tendo](https://starwars.fandom.com/wiki/Tendo)
+
+Tendo was a MB-C1 medium transport in the service of the Imperial Navy during the Galactic Civil War. The vessel was part of the Imperial II-class Star Destroyer Corrupters resupply convoy, which was lead by the EF76 Nebulon-B escort frigate Monitor to where the Corrupter lay damaged in the Mev system. The ship, which bore a cargo of engineering droids, was then attacked by Rebel Alliance raiders and was destroyed along with the rest of the convoy.
+
+## Specifications
+
+- **Name:** Tendo
+- **Manufacturer:** Mobquet Swoops and Speeders
+- **Model:** MB-C1 medium transport
+- **Type:** Medium transport
+- **Length:** 113 meters
+- **Affiliation:** Galactic Empire
+- **Navy:** Corrupter repair convoy
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

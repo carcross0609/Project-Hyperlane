@@ -1,0 +1,26 @@
+{
+  "name": "Post 1",
+  "wookieepedia_title": "Post 1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Post_1",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Post 1 was a Delta-class JV-7 escort shuttle that served the Alliance to Restore the Republic. It fought at the Second Battle of Javin. Carrying a small amount of equipment that was presumably stolen from Outpost D-34, the shuttle, along with Post 2, was destroyed by the frigate Fogger.",
+  "data": {
+    "name": "Post 1",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Delta-class JV-7 escort shuttle",
+    "type": "Shuttle",
+    "length": "30 meters",
+    "width": "32.3 meters",
+    "height": "32.4 meters",
+    "armament": [
+      "Taim & Bak KX5 laser cannons (3; forward)",
+      "Taim & Bak H9 dual turbolaser (1; aft turret)",
+      "Projectile launchers (2)"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

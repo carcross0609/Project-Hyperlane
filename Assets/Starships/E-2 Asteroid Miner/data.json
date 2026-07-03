@@ -1,0 +1,29 @@
+{
+  "name": "E-2 Asteroid Miner",
+  "wookieepedia_title": "E-2 Asteroid Miner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/E-2_Asteroid_Miner",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The E-2 Asteroid Miner was a craft used for mining asteroids in 3999 BBY.",
+  "data": {
+    "name": "E-2 Asteroid Miner",
+    "manufacturer": "Byblos Drive Yards",
+    "type": "Mining ship",
+    "cost": [
+      "20,000 credits (new)",
+      "12,000 credits (used)"
+    ],
+    "length": "110 meters",
+    "max_speed": "900 kmh",
+    "hyperdrive": "Class 12",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "2 plasma drill",
+    "crew": "14; 4 gunners",
+    "passengers": "150",
+    "capacity": "200 metric tons",
+    "consumables": "1 weeks",
+    "role": "Mining ship"
+  },
+  "scraped": "2026-07-03"
+}

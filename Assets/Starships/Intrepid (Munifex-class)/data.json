@@ -1,0 +1,30 @@
+{
+  "name": "Intrepid",
+  "wookieepedia_title": "Intrepid (Munifex-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Intrepid_%28Munifex-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Intrepid was a Munifex-class light cruiser of the Imperial Navy. At the time of the Galactic Civil War, it orbited the planet Gesaril under the command of Captain Dulrain serving a dual purpose: to enforce the quarantine on Gesaril, and to guard the prison that was located on a nearby ateroid.",
+  "data": {
+    "name": "Intrepid",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Munifex-class light cruiser",
+    "length": "300 meters",
+    "armament": [
+      "28 Turbolasers",
+      "12 Ion cannons"
+    ],
+    "crew": [
+      "580",
+      "  80 gunners"
+    ],
+    "skeleton": "200/+10",
+    "passengers": "200 troops",
+    "cargohandling": "500 metric tons",
+    "consumables": "2 years",
+    "affiliation": "Galactic Empire",
+    "captains": "Dulrain"
+  },
+  "scraped": "2026-07-03"
+}

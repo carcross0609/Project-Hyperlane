@@ -1,0 +1,44 @@
+{
+  "name": "YKL-37R Nova Courier",
+  "wookieepedia_title": "YKL-37R Nova Courier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YKL-37R_Nova_Courier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YKL-37R Nova Courier was a last ditch foray by Gallofree Yards, Inc. into the realm of light transports, a market nearly dominated by the vast offerings of the Corellian Engineering Corporation.",
+  "data": {
+    "name": "YKL-37R Nova Courier",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "YKL-37R Nova Courier",
+    "type": "Light freighter",
+    "cost": "150,000 credits (45,000 credits used)",
+    "length": "30 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 2 (Backup class 12)",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "2 laser cannon turrets",
+      "3 concussion missile launchers",
+      "  12 missiles per tube"
+    ],
+    "crew": [
+      "2 pilots",
+      "2 gunners"
+    ],
+    "skeleton": "2",
+    "passengers": "6",
+    "capacity": "60 tons",
+    "consumables": "2 months",
+    "availability": "Licensed",
+    "role": [
+      "Transport",
+      "Smuggling vessel"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Chiss Poachers",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

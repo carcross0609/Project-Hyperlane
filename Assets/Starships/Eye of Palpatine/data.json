@@ -1,0 +1,44 @@
+{
+  "name": "Eye of Palpatine",
+  "wookieepedia_title": "Eye of Palpatine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eye_of_Palpatine",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eye of Palpatine was a dreadnaught constructed by Galactic Empire at the behest of Emperor Palpatine during the Imperial Era. It was designed by Ohran Keldor as the Empire's first functional superweapon while resembling an asteroid as a means of camouflage.",
+  "data": {
+    "name": "Eye of Palpatine",
+    "manufacturer": [
+      "Imperial Department of Military Research",
+      "Rothana Heavy Engineering",
+      "Patriim shipyards"
+    ],
+    "type": "Dreadnaught",
+    "length": "19,000 meters",
+    "hyperdrive": [
+      "Class 5",
+      "Class 20 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Merr-Sonn Guardian-class shield generators",
+    "navigation": "Advanced AI Navicomputer",
+    "armament": "Turbolaser cannons",
+    "complement": [
+      "TIE squadrons",
+      "Beta-class ETR-3 escort transports",
+      "Telgorn Corporation shuttles",
+      "  Blue Shuttle",
+      "  Red Shuttle",
+      "GAT-12 Skipray Blastboats"
+    ],
+    "crew": "Unmanned",
+    "passengers": "Imperial stormtroopers",
+    "consumables": "90 days (estimated)",
+    "role": "Dreadnaught",
+    "destroyed": "12 ABY, Belsavis",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Emperor Palpatine"
+  },
+  "scraped": "2026-07-03"
+}

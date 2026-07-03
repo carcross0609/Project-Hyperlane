@@ -1,0 +1,30 @@
+{
+  "name": "Grievous's Munificent-class star frigate",
+  "wookieepedia_title": "Grievous's Munificent-class star frigate (suspected Confederate space)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grievous%27s_Munificent-class_star_frigate_%28suspected_Confederate_space%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During the Clone Wars, a Munificent-class star frigate served in the naval forces of the Confederacy of Independent Systems, and was used by Kaleesh Separatist General Grievous. Following the destruction of his previous Munificent-class star frigate at the Battle of Bothawui, in 22 BBY, Grievous used the new Munificent alongside another in an ambush on Jedi Knight Anakin Skywalker during the Jedi's mission to sweep an outer corridor of suspected Separatist space. However, Skywalker managed to escape Grievous and his Munificent.",
+  "data": {
+    "name": "Grievous's Munificent-class star frigate",
+    "model": "Munificent-class star frigate",
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "engine": "Ion drive thrusters (7)",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Heavy turbolaser cannons (2)",
+      "Long-range heavy ion cannons (2)",
+      "Twin light turbolaser cannons (34)"
+    ],
+    "complement": "Vulture-class droid starfighters",
+    "bays": "Equipped",
+    "communications": "Long-range hyperwave transceiver masts (2)",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy",
+    "captains": "Grievous"
+  },
+  "scraped": "2026-07-03"
+}

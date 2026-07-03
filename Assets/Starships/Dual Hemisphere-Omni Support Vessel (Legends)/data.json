@@ -1,0 +1,31 @@
+{
+  "name": "Dual Hemisphere-Omni Support Vessel",
+  "wookieepedia_title": "Dual Hemisphere-Omni Support Vessel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dual_Hemisphere-Omni_Support_Vessel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Dual Hemisphere-Omni Support Vessel, otherwise identified as the DH-Omni Support Vessel or DH-O Support Vessel, and dubbed as the Separatist supply ship, Separatist support ship or the Separatist transport, was a massive transport and supply ship utilized by the Confederacy of Independent Systems during the Clone Wars. Originally a corporate vessel, the supply ship was adapted to compensate for the inadequate cargo capacities of other craft in the Confederate Navy, particularly the Lucrehulk-class battleship. The supply ship was over one thousand meters wide and housed several hangar bays, which could accommodate multiple C-9979 landing craft to transport the battle droid infantry of the Separatist Droid Army to battlefields across the galaxy. Being able to store over five million metric tons of cargo, it was primarily used for arms and resupply shipments to the organic defense armies in the Confederacy military, often supporting planetary campaigns from orbit. It was armed with point-defense laser cannons and could be crewed by B1-Series battle droids overseen by a T-series tactical droid.",
+  "data": {
+    "name": "Dual Hemisphere-Omni Support Vessel",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Supply ship",
+    "type": "Heavy transport starship",
+    "length": "908.78 meters",
+    "width": "1257.32 meters",
+    "height": "910.35 meters",
+    "hdsystem": "Equipped",
+    "armament": "Point-defense laser cannons",
+    "complement": "Multiple C-9979 landing craft",
+    "capacity": ">5 million metric tons",
+    "role": [
+      "Arms shipment and supply",
+      "Troop landing craft transport"
+    ],
+    "firstuse": "Late 21 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederate Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

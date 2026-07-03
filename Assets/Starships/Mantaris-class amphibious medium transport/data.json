@@ -1,0 +1,50 @@
+{
+  "name": "Mantaris-class amphibious medium transport",
+  "wookieepedia_title": "Mantaris-class amphibious medium transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mantaris-class_amphibious_medium_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mantaris-class amphibious medium transport was a starship designed and constructed jointly by Theed Palace Space Vessel Engineering Corps and Otoh Gunga Bongowerks in 32 BBY. Because of its unique design based on a manta ray, that transport was also referred to as the Ray Ship, or simply Ray. It was developed in the months that followed the Invasion of Naboo, as part of a cooperative effort between the Gungans and the Naboo to colonize the empty aquatic moon of Ohma-D'un. Due to its conception, the Mantaris-class was remarkably adaptable to different environments, which included atmospheric flight, realspace, and underwater. Ultimately, the commissioning of the Mantaris-class transport helped the Gungans join the galactic community at large. Queen Amidala's Master of Sciences Graf Zapalo, who had supervised the conception of the Mantaris-class, also adopted it as his personal means of transport.",
+  "data": {
+    "name": "Mantaris-class amphibious medium transport",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps/Otoh Gunga Bongameken Cooperative",
+    "model": "Mantaris-class amphibious medium transport",
+    "type": "Medium transport",
+    "cost": "280,000 credits",
+    "length": "98 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 8.0"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "Concussion missile launchers (2):",
+      "Forward facing (6 missiles)",
+      "Rear facing (6 missiles)"
+    ],
+    "crew": [
+      "4",
+      "  Pilot (1)",
+      "  Navigator/shield operator (1)",
+      "  Communications/security officer (1)",
+      "  Engineer/gunner (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "20",
+    "capacity": "250 tons",
+    "cargohandling": [
+      "Detachable pods (4 max):",
+      "cargo",
+      "passengers",
+      "wildlife"
+    ],
+    "consumables": "3-month capacity",
+    "role": "Colonization of Ohma-D'un",
+    "firstuse": "32 BBY",
+    "affiliation": [
+      "Gungan society",
+      "Naboo"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

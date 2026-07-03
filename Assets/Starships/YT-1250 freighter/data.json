@@ -1,0 +1,40 @@
+{
+  "name": "YT-1250 freighter",
+  "wookieepedia_title": "YT-1250 freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1250_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-1250 freighter was a model of freighter produced by the Corellian Engineering Corporation.",
+  "data": {
+    "name": "YT-1250 freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1250 light freighter",
+    "type": "Light freighter",
+    "cost": "120,000 credits (30,000 used)",
+    "length": "32.25 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 2 (Backup class 16)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": "Double laser cannons",
+    "crew": [
+      "Pilot",
+      "Copilot",
+      "Gunner"
+    ],
+    "passengers": "5",
+    "capacity": "80 tons",
+    "consumables": "3 months",
+    "availability": "Licensed",
+    "role": "Transport",
+    "affiliation": [
+      "Smuggler",
+      "Pirates & Privateers",
+      "Couriers",
+      "Bounty hunter"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

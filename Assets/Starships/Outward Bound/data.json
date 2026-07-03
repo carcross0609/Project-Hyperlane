@@ -1,0 +1,31 @@
+{
+  "name": "Outward Bound",
+  "wookieepedia_title": "Outward Bound",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Outward_Bound",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Outward Bound was a modified Vangaard Industries Pathfinder scout vessel that was owned by the Cyrs family. Over the years, the starship was handed down through generations of the family and it underwent numerous overhauls and upgrades. During the Galactic Civil War, the Outward Bound was operated by Jobany Cyrs, a freelance scout who was employed by the Rebel Alliance. Cyrs developed a strong emotional attachment to the vessel and he considered it to be a family heirloom.",
+  "data": {
+    "name": "Outward Bound",
+    "manufacturer": "Vangaard Industries",
+    "model": "Pathfinder",
+    "type": "Scout vessel",
+    "length": "36 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15 (backup)"
+    ],
+    "armament": "1 double laser cannon",
+    "crew": "1",
+    "passengers": "2",
+    "capacity": "100 metric tons",
+    "consumables": "6 months",
+    "affiliation": [
+      "Cyrs family",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

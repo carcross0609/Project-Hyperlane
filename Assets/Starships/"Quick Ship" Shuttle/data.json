@@ -1,0 +1,30 @@
+{
+  "name": "\"Quick Ship\" Shuttle",
+  "wookieepedia_title": "\"Quick Ship\" Shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/%22Quick_Ship%22_Shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The \"Quick Ship\" Shuttle was produced by Heckson Industries during the Galactic Civil War.",
+  "data": {
+    "name": "\"Quick Ship\" Shuttle",
+    "manufacturer": "Heckson Industries",
+    "type": "Shuttle",
+    "cost": [
+      "75,000 credits (new)",
+      "35,000 credits (used)"
+    ],
+    "length": "17 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Astromech droid",
+    "armament": "Two triple blasters",
+    "crew": "1; 1 gunner",
+    "passengers": "6",
+    "capacity": "100 kilograms",
+    "consumables": "5 days",
+    "role": "Transport shuttle"
+  },
+  "scraped": "2026-07-03"
+}

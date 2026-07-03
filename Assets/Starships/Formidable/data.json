@@ -1,0 +1,30 @@
+{
+  "name": "Formidable",
+  "wookieepedia_title": "Formidable",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Formidable",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Formidable was an Imperial-class Star Destroyer used by the Imperial Navy during the Imperial Era. In 1 BBY, during bounty hunter Beilert Valance's hunt for Darth Vader, the Formidable was under the Sith Lord's command. Under Vader's control, the Star Destroyer arrived at the world Heva to engage Valance and his team of bounty hunters, but it was ultimately destroyed in the skirmish by bot-drones controlled by the slicer Chio Fain.",
+  "data": {
+    "name": "Formidable",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "ISD-72x shield generator domes (2)",
+    "complement": [
+      "TIE/ln space superiority starfighters",
+      "Darth Vader's TIE Advanced"
+    ],
+    "bays": "Hangar (1)",
+    "communications": "Communications tower",
+    "destroyed": "1 BBY, over Heva",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Darth Vader"
+  },
+  "scraped": "2026-07-03"
+}

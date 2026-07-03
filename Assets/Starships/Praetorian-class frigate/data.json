@@ -1,0 +1,43 @@
+{
+  "name": "Praetorian-class frigate",
+  "wookieepedia_title": "Praetorian-class frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Praetorian-class_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Praetorian-class frigate was a capital ship manufactured by Rendili Hyperworks for the Republic Navy during the Great Sith War.",
+  "data": {
+    "name": "Praetorian-class frigate",
+    "manufacturer": "Rendili Hyperworks",
+    "model": "Praetorian-class frigate",
+    "type": "Frigate",
+    "cost": [
+      "12,000,000 credits (new)",
+      "6,000,000 credits (used)"
+    ],
+    "length": "180 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Light turbolaser batteries (2)",
+      "Point-defense laser cannon batteries (2)",
+      "Tractor beam batteries (2)"
+    ],
+    "complement": [
+      "12 starfighters",
+      "6 shuttles"
+    ],
+    "crew": "1,470",
+    "passengers": "2,700",
+    "capacity": "10,000 tons",
+    "consumables": "2 years",
+    "availability": "Restricted",
+    "role": "Escort",
+    "firstuse": "Great Sith War",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

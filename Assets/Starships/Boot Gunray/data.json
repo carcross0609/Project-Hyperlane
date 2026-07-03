@@ -1,0 +1,34 @@
+{
+  "name": "Boot Gunray",
+  "wookieepedia_title": "Boot Gunray",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Boot_Gunray",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Boot Gunray was a LAAT gunship used by the Grand Army of the Republic.",
+  "data": {
+    "name": "Boot Gunray",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Low Altitude Assault Transport/infantry",
+    "length": "17.69 meters",
+    "height": "6.94 meters",
+    "max_speed": "620 kph",
+    "armament": [
+      "Pair of Laser cannon turrets (Chin-mounted)",
+      "Pair of laser-beam turrets (optional)",
+      "Pair of Rocket Launchers (Dorsal surface)",
+      "  Missile belts (Rear-mounted)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)",
+      "Gunner (2-4)(optional)"
+    ],
+    "passengers": "30",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Military"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

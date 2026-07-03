@@ -1,0 +1,42 @@
+{
+  "name": "BTL-A4 LP",
+  "wookieepedia_title": "BTL-A4 LP/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BTL-A4_LP/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BTL-A4 LP, nicknamed the Longprobe, was a variant of the standard BTL Y-wing starfighter used as a reconnaissance and scouting fighter by the Alliance to Restore the Republic during the Galactic Civil War.",
+  "data": {
+    "name": "BTL-A4 LP",
+    "manufacturer": "Koensayr Manufacturing",
+    "line": "BTL Y-wing starfighters",
+    "model": "BTL-A4 LP \"Longprobe\"",
+    "type": "Starfighter",
+    "cost": [
+      "185,000 credits (new)",
+      "90,000 credits (used)"
+    ],
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 12"
+    ],
+    "armament": [
+      "Laser cannons (2)",
+      "Ion cannons (2)",
+      "Proton torpedo launchers (2)",
+      "  8 torpedoes total"
+    ],
+    "crew": [
+      "1 pilot plus astromech droid"
+    ],
+    "passengers": "None",
+    "cargohandling": "220 kilograms",
+    "consumables": "1 month",
+    "availability": "Military",
+    "role": [
+      "Long-range reconnaissance",
+      "Bomber"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

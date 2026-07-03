@@ -1,0 +1,34 @@
+{
+  "name": "Sato's Hammer",
+  "wookieepedia_title": "Sato's Hammer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sato%27s_Hammer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sato's Hammer was a YT-2400 light freighter used by Iron Squadron.",
+  "data": {
+    "name": "Sato's Hammer",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2400 light freighter",
+    "type": "Light freighter",
+    "length": "23.84 meters (78 ft 3 in)",
+    "width": "31.75 meters (104 ft 2 in)",
+    "height": "6.45 meters (21 ft 2 in)",
+    "max_speed": "800 kph",
+    "hyperdrive": "Class 2 (faulty)",
+    "armament": [
+      "Double laser turrets (2)",
+      "Concussion missile launchers",
+      "Variable"
+    ],
+    "escapepods": "Primary escape pod",
+    "affiliation": [
+      "Phoenix Cell",
+      "  Iron Squadron"
+    ],
+    "owners": "Jun Sato",
+    "captains": "Mart Mattin"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Vanguard",
+  "wookieepedia_title": "Vanguard",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vanguard",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vanguard was an EF76 Nebulon-B escort frigate commanded by General Jan Dodonna that was a part of the Rebel Alliance's fleet. Dodonna took the Vanguard and several other ships that were a part of his unit to the planet Atollon in the year 2 BBY, home to the Phoenix Cell Rebel unit. Dodonna's forces and Phoenix Squadron, led by Commander Jun Sato, planned to attack an Imperial factory on Lothal, however the location of Phoenix Squadron's base was discovered by the Imperial grand admiral Thrawn, who brought his fleet to Atollon in an effort to crush the Rebellion. The Vanguard was destroyed in the ensuing battle, though Dodonna and several members of the ship's crew managed to escape shortly before its destruction.",
+  "data": {
+    "name": "Vanguard",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Frigate",
+    "length": "300 meters",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Dual tractor beams",
+      "Laser cannons (12)",
+      "Turbolasers (12)"
+    ],
+    "escapepods": "At least 8 escape pods",
+    "consumables": "Recycled drinking water",
+    "communications": "Primary communications array",
+    "destroyed": "2 BBY",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Rebel Alliance Navy",
+    "fleet": "Massassi Group",
+    "captains": "Jan Dodonna"
+  },
+  "scraped": "2026-07-03"
+}

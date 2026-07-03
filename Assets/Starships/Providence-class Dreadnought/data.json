@@ -1,0 +1,92 @@
+{
+  "name": "Providence-class Dreadnought",
+  "wookieepedia_title": "Providence-class Dreadnought",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Providence-class_Dreadnought",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Providence-class Dreadnought, otherwise referred to as the Providence-class carrier/destroyer, Providence-class cruiser-carrier, or generally as the Separatist Dreadnought, was a model of dreadnought designed by Quarren engineers on the planet Pammant, seeing extensive deployment by the Confederacy of Independent Systems naval branch throughout the duration of the Clone Wars. Initially utilized as command ships by the private fleet of the Trade Federation, where it was debuted with the Invisible Hand, the personal flagship of Viceroy Nute Gunray. The warship was cautiously deployed by the Confederacy's naval admiralty, due to the high operational costs for such a vessel, but was utilized in situations where its capabilities were necessary.",
+  "data": {
+    "name": "Providence-class Dreadnought",
+    "designer": "Quarren",
+    "manufacturer": [
+      "Free Dac Volunteers Engineering Corps",
+      "Rendili StarDrive"
+    ],
+    "model": [
+      "Providence-class Dreadnought",
+      "  Carrier variant"
+    ],
+    "type": [
+      "Battleship",
+      "Destroyer",
+      "Dreadnought"
+    ],
+    "cost": "400,585,000 credits (larger model)",
+    "length": [
+      "1,088 meters (smaller model)",
+      "2,177.35 meters (larger model)"
+    ],
+    "max_accel": "2,500 G",
+    "mglt": "70 MGLT",
+    "max_speed": "2,000 kph",
+    "engine": "Creveld-4 radial ion drives (3)",
+    "hyperdrive": [
+      "Class 1.5",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Reactors",
+    "shield_gen": "Heavy deflector shielding (thermal shields)",
+    "hull": "Thick armor",
+    "sensor": "Long-range sensors",
+    "navigation": "Navigation computer",
+    "armament": [
+      "14 quad heavy turbolaser batteries",
+      "34 dual heavy laser cannons",
+      "2 battleship ion cannons",
+      "12 heavy flak cannons/mass-driver cannons",
+      "12 twin light Point-defense ion cannons",
+      "102 proton torpedo launchers (3 proton torpedoes each)",
+      "10 heavy tractor beam projectors"
+    ],
+    "complement": [
+      "240 starfighters",
+      "  120 Vulture-class droid starfighters",
+      "  120 droid tri-fighters",
+      "100+ armored vehicles, landing craft, shuttles, and ship's boats"
+    ],
+    "bays": "Main hangar",
+    "escapepods": "Escape pods",
+    "crew": "900 officers, droids, and enlisted crew",
+    "skeleton": "30 crew",
+    "passengers": [
+      "48,247",
+      "1.5 million deactivated battle droids"
+    ],
+    "capacity": "18,000 tons",
+    "consumables": "4 years",
+    "lifesupport": "Equipped",
+    "communications": "Communications masts",
+    "othersystems": "Tensor fields",
+    "role": [
+      "Configurable",
+      "Assault ship",
+      "Blockade vessel",
+      "Command ship (primary function)",
+      "Planetary assault",
+      "Starfighter and vehicle carrier",
+      "Theater command"
+    ],
+    "firstuse": "By 32 BBY",
+    "retired": "Imperial Era",
+    "affiliation": [
+      "Trade Federation",
+      "  Trade Federation fleet",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Separatist holdouts",
+      "Berch Teller's rebel cell"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

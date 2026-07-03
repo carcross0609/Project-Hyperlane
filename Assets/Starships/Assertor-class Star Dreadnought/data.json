@@ -1,0 +1,62 @@
+{
+  "name": "Assertor-class Star Dreadnought",
+  "wookieepedia_title": "Assertor-class Star Dreadnought",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Assertor-class_Star_Dreadnought",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Assertor-class Star Dreadnought, also known as the Assertor-class Command Dreadnought, was a class of Star Dreadnought manufactured by Kuat Drive Yards that served in the Galactic Empire. One of the largest vessels in the Imperial Navy in terms of size and power, it was characterized by its long and thin arrow-shaped hull. The dreadnought boasted a large array of armaments and utilities to fulfill its roles as a command ship, sector patrol vessel, and fleet operations craft. Introduced between 19 BBY and 3 BBY, when the Empire experimented on larger battlecruiser models, few of the large warships were built.",
+  "data": {
+    "name": "Assertor-class Star Dreadnought",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Assertor-class",
+    "type": [
+      "Star Dreadnought",
+      "Battlecruiser"
+    ],
+    "cost": "1,100,000,000 galactic credits",
+    "engine": "Ion engines",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Long-range sensor suites",
+    "navigation": "Equipped",
+    "armament": [
+      "Quad heavy turbolaser batteries (40)",
+      "Quad battleship ion cannon batteries (30)",
+      "Twin heavy turbolaser batteries (10)",
+      "Quad light turbolaser batteries (30)",
+      "Twin battleship ion cannons (20)",
+      "Medium ion cannons (20)",
+      "Turret-mounted quad laser cannons (60)",
+      "Concussion missile launchers (90)",
+      "Heavy tractor beam projectors (20)"
+    ],
+    "complement": [
+      "Starfighters (120)",
+      "Assault ships",
+      "Gunboats",
+      "Landing barges",
+      "Shuttles",
+      "Ground assault vehicles",
+      "AT-series walkers"
+    ],
+    "crew": "125,000 officers, pilots, and enlisted crew",
+    "passengers": "20,000 troops and support staff",
+    "consumables": "Three years",
+    "communications": "Communications suites",
+    "role": [
+      "Command ship",
+      "Flagship",
+      "Fleet operations",
+      "Sector patrol"
+    ],
+    "firstuse": "Between 19 BBY&ndash;3 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Krayt Fang",
+  "wookieepedia_title": "Krayt Fang",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krayt_Fang",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Krayt Fang was a YT-1300 light freighter that belonged to Trex, a Trandoshan bounty hunter in the employ of Hutt Cartel crime lord Teemo. The Krayt Fang was docked at Landing Bay Aurek, in Mos Shuuta spaceport on Tatooine, with a broken hypermatter reactor igniter. A group of adventurers stole the ship to escape from Teemo the Hutt's Gamorrean thugs, as well as stormtroopers led by Lieutenant Herkin, an Imperial commander with illegal connections to Teemo.",
+  "data": {
+    "name": "Krayt Fang",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300",
+    "type": "Light freighter",
+    "modifier": "Trex",
+    "armament": [
+      "Laser turret (2)",
+      "  Dorsal turret",
+      "    Medium laser cannon",
+      "  Ventral turret",
+      "    Medium laser cannon"
+    ],
+    "role": "Prisoner transport",
+    "affiliation": [
+      "Hutt Cartel",
+      "  Teemo the Hutt",
+      "Bounty Hunters' Guild"
+    ],
+    "owners": [
+      "Trex",
+      "Pash"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

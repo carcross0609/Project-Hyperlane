@@ -1,0 +1,78 @@
+{
+  "name": "Resolute",
+  "wookieepedia_title": "Resolute/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Resolute/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Resolute was a Venator-class Star Destroyer and flagship of Jedi General Anakin Skywalker during the Clone Wars.",
+  "data": {
+    "name": "Resolute",
+    "manufacturer": "Allanteen Six shipyards",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "modifier": "Anakin Skywalker",
+    "engine": "8",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": [
+      "Deep-space comsats",
+      "Long-range scanning"
+    ],
+    "armament": [
+      "DBY-827 heavy turbolaser turrets (8)",
+      "Medium dual turbolaser cannons (2)",
+      "Laser cannons (52)"
+    ],
+    "complement": [
+      "All Terrain Tactical Enforcers",
+      "Starfighters",
+      "  BTL-B Y-wing starfighters",
+      "  Delta-7B Aethersprite-class light interceptors (2)",
+      "  V-19 Torrent starfighters",
+      "Various support ships",
+      "  Low Altitude Assault Transports/infantry",
+      "  Nu-class attack shuttles",
+      "  Twilight"
+    ],
+    "bays": [
+      "2 main docking bays",
+      "1 ventral docking bay"
+    ],
+    "crew": [
+      "Clone troopers",
+      "Various droids"
+    ],
+    "passengers": [
+      "501st Legion",
+      "Blue Squadron",
+      "Gold Squadron",
+      "Shadow Squadron"
+    ],
+    "communications": [
+      "HoloNet access and hologram technology",
+      "Visual interfaces"
+    ],
+    "role": [
+      "Carrier",
+      "Command ship",
+      "Destroyer",
+      "Military transport"
+    ],
+    "destroyed": "c. 21 BBY, Sullust system",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ],
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet",
+    "captains": [
+      "Jedi General Anakin Skywalker",
+      "Admiral Wullf Yularen",
+      "Jedi Commander Ahsoka Tano",
+      "Clone Captain CT-7567"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

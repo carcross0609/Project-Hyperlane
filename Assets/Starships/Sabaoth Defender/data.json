@@ -1,0 +1,31 @@
+{
+  "name": "Sabaoth Defender",
+  "wookieepedia_title": "Sabaoth Defender",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sabaoth_Defender",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sabaoth Defender was a heavy assault starfighter used by the Sabaoth Squadron, a mercenary navy/starfighter squadron under the command of Captain Cavik Toth. The Defender was a heavy version of the Sabaoth starfighter.",
+  "data": {
+    "name": "Sabaoth Defender",
+    "model": "Sabaoth Defender",
+    "type": "Heavy assault starfighter",
+    "length": "15 meters",
+    "mglt": "17 MGLT/s",
+    "hyperdrive": "Class 2",
+    "hull": "35 RU",
+    "armament": [
+      "4 Heavy laser cannons",
+      "2 Concussion missile launchers"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "1",
+    "capacity": "20 kilograms",
+    "consumables": "7 days",
+    "role": "Bomber/Heavy fighter",
+    "affiliation": [
+      "Sabaoth Squadron",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

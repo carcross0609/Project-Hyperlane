@@ -1,0 +1,62 @@
+{
+  "name": "Immobilizer 418 Interdictor-class Heavy Cruiser",
+  "wookieepedia_title": "Immobilizer 418 Interdictor-class Heavy Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Immobilizer_418_Interdictor-class_Heavy_Cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Immobilizer 418 Interdictor-class Heavy Cruiser, also known simply as the Interdictor-class heavy cruiser, Interdictor-class medium frigate, Interdictor Dreadnaught, or simply the Interdictor, and sometimes colloqually as the Drag Ship, was a 600-meter-long cruiser built on the standard Vindicator-class heavy cruiser hull (later used for the Enforcer-class picket cruiser).",
+  "data": {
+    "name": "Immobilizer 418 Interdictor-class Heavy Cruiser",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Immobilizer 418 cruiser",
+    "type": "Cruiser (standard classification)",
+    "cost": "52,240,000 credits (black market value)",
+    "length": "600 meters",
+    "width": "300 meters",
+    "height": "100 meters",
+    "max_accel": "1,210 G",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 8.0 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield created by more than a dozen shield generators (rated 2240 SBD)",
+    "hull": "Rated 960 RU",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Taim & Bak GX-7 quad laser cannons (20)",
+      "  10 fore",
+      "  5 port",
+      "  5 starboard",
+      "SFS G7-x gravity well projectors (4)"
+    ],
+    "complement": [
+      "TIE Series starfighters (24)",
+      "Shuttles (4)"
+    ],
+    "crew": [
+      "Crew (2,807)",
+      "Gunners (24)",
+      "Officers (427)",
+      "Enlisted (2,380)"
+    ],
+    "skeleton": "1,500",
+    "passengers": "80 troops",
+    "capacity": "5,500 metric tons",
+    "consumables": "1.2 years",
+    "role": [
+      "Medium cruiser",
+      "Interdiction"
+    ],
+    "firstuse": "2 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "Zann Consortium",
+      "New Republic",
+      "Galactic Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

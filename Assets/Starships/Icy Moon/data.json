@@ -1,0 +1,34 @@
+{
+  "name": "Icy Moon",
+  "wookieepedia_title": "Icy Moon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Icy_Moon",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Icy Moon was a Sienar Fleet Systems Light Patrol Ship owned and operated by the bounty hunter Rafe Finna. During the Galactic Civil War, it was present at Gadde on Lish V to transport Rebel prisoners.",
+  "data": {
+    "name": "Icy Moon",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Light Patrol Ship",
+    "length": "38 meters",
+    "max_speed": "1,050 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "3 laser turrets",
+      "Twin laser cannons"
+    ],
+    "crew": "3; 3 gunners",
+    "passengers": "8 (in brig)",
+    "capacity": "100 metric tons",
+    "consumables": "1 month",
+    "role": "Bounty hunter vessel",
+    "owners": "Rafe Finna"
+  },
+  "scraped": "2026-07-03"
+}

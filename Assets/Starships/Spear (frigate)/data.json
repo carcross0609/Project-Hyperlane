@@ -1,0 +1,20 @@
+{
+  "name": "Spear",
+  "wookieepedia_title": "Spear (frigate)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spear_%28frigate%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Spear was a DP20 gunship that saw service with the Rebel Alliance Fleet during the Galactic Civil War. It was usually seen escorting the Defiance Task Force, and carried a cargo of tauntauns. It managed to escape with the rest of the fleet after Rebel pilots eliminated their pursuers after the disastrous Battle of Hoth.",
+  "data": {
+    "name": "Spear",
+    "model": "DP20 gunship",
+    "type": "Gunship",
+    "engine": "Equipped",
+    "armament": "Turbolasers",
+    "capacity": "Equipped",
+    "affiliation": "Alliance to Restore the Republic",
+    "fleet": "Defiance Task Force"
+  },
+  "scraped": "2026-07-03"
+}

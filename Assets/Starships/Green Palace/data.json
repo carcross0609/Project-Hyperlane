@@ -1,0 +1,40 @@
+{
+  "name": "Green Palace",
+  "wookieepedia_title": "Green Palace",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Green_Palace",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Green Palace was the name of Brasck's smuggling ship, a modified Lantillian GX1 short hauler that always looked as if it had seen better days. Armed with a turret-mounted laser cannon, a front-mounted ion cannon, and a concussion missile launcher, the Green Palace had been obtained by Brasck from an orbital scrapyard and refitted to meet his needs. Most of the ship's interior was gutted in favor of cramped cells that could transport slaves.",
+  "data": {
+    "name": "Green Palace",
+    "manufacturer": "Lantillian ShipWrights",
+    "model": "Modified GX1 short hauler",
+    "type": "Space transport",
+    "cost": [
+      "New: 200,000 credits",
+      "Used: 25,000 credits"
+    ],
+    "length": "27 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 8"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Laser cannon (1)",
+      "Ion cannon (1)",
+      "Concussion missile launcher (1)",
+      "  Concussion missiles (12)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)"
+    ],
+    "passengers": "12",
+    "capacity": "85 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Smugglers' Alliance"
+  },
+  "scraped": "2026-07-03"
+}

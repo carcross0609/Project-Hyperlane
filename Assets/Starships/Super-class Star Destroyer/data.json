@@ -1,0 +1,35 @@
+{
+  "name": "Super-class Star Destroyer",
+  "wookieepedia_title": "Super-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Super-class_Star_Destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Super-class Star Destroyer was a fictional Star Destroyer model invented for budgetary reasons, whose name later became a popular military colloquialism for heavy warships of the Galactic Empire and successor-governments.",
+  "data": {
+    "name": "Super-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Super Star Destroyers",
+    "model": "Super-class Star Destroyer",
+    "type": "Super Star Destroyer",
+    "length": "8,000 meters",
+    "max_accel": "1230 g",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Heavy turbolaser batteries (250)",
+      "Turbolaser batteries (250)",
+      "Ion cannons (250)",
+      "Concussion missile tubes (250)",
+      "Tractor beam emplacements (40)"
+    ],
+    "crew": "280,734",
+    "passengers": "38,000 troops",
+    "role": [
+      "Command ship",
+      "Carrier",
+      "Battleship"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

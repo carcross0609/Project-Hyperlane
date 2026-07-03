@@ -1,0 +1,26 @@
+{
+  "name": "Lancer-class frigate",
+  "wookieepedia_title": "Lancer-class frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lancer-class_frigate",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "Lancer-class frigates were warships employed by the First Order around 30 years after the Battle of Endor. Commander Poe Dameron discovered two of the venerable frigates at a staging point as the Cold War heated up.",
+  "data": {
+    "name": "Lancer-class frigate",
+    "type": "Frigate",
+    "cost": "High",
+    "length": "250 meters",
+    "hdsystem": "Dynamic hyperdrive systems",
+    "armament": "Point-defense laser cannons (20)",
+    "crew": "800",
+    "passengers": "40 soldiers",
+    "capacity": "300 metric tons",
+    "role": "Hunting down starfighters",
+    "affiliation": [
+      "Galactic Empire",
+      "First Order",
+      "  First Order Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Unidentified Lucrehulk-class battleship",
+  "wookieepedia_title": "Unidentified Lucrehulk-class battleship (Ryloth)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Lucrehulk-class_battleship_%28Ryloth%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During the Clone Wars, a Lucrehulk-class battleship served in the naval forces of the Confederacy of Independent Systems, where it was used as the flagship of Neimoidian Captain Mar Tuuk. In 21 BBY, the Lucrehulk was placed in command of the Confederacy's blockade of the planet Ryloth, and was contested by a Galactic Republic fleet led by Jedi General Anakin Skywalker.",
+  "data": {
+    "name": "Unidentified Lucrehulk-class battleship",
+    "model": "Lucrehulk-class battleship",
+    "type": "Battleship",
+    "length": "3,356.9 meters",
+    "width": "3,009 meters",
+    "height": "1,028.77 meters",
+    "engine": "Rendili StarDrive Proton 2 (3)",
+    "sensor": "Sensor rectennas (4)",
+    "armament": "Equipped",
+    "escapepods": "Equipped",
+    "crew": "B1-series battle droids",
+    "communications": "Equipped",
+    "othersystems": [
+      "Control signal transmission towers",
+      "Droid signal receiver stations (16)",
+      "Signal pickup boost panels"
+    ],
+    "role": [
+      "Battleship",
+      "Command ship"
+    ],
+    "destroyed": "21 BBY, Ryloth system",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ],
+    "navy": "Confederacy of Independent Systems Navy",
+    "fleet": "Ryloth blockade",
+    "captains": "Mar Tuuk"
+  },
+  "scraped": "2026-07-03"
+}

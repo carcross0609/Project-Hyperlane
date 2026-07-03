@@ -1,0 +1,30 @@
+{
+  "name": "TIE/rc vanguard",
+  "wookieepedia_title": "TIE/rc vanguard",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/rc_vanguard",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/rc vanguard was a variant of the TIE/rc starfighter reconnaissance craft. Like the TIE/rc, it was a short-range ship based on the common TIE/LN starfighter concept.",
+  "data": {
+    "name": "TIE/rc vanguard",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine Vanguard",
+    "type": "Starfighter",
+    "length": "6.3 meters",
+    "hyperdrive": "None",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "hull": "Titanium alloy hull (15 RU)",
+    "sensor": "Additional sensor and communications gear",
+    "armament": "SFS L-s1 laser cannon (1)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "role": "Reconnaissance",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Unidentified Hutt transport model",
+  "wookieepedia_title": "Unidentified Hutt transport model",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Hutt_transport_model",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A model of transport vessel was used by the Hutt Cartel at the time of the Galactic Civil War. It was a high speed multi purpose transport vessel.",
+  "data": {
+    "name": "Unidentified Hutt transport model",
+    "type": "Transport",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "role": "Transport",
+    "affiliation": [
+      "Hutt Cartel",
+      "Debris Cult",
+      "Ni'lyahin Smugglers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

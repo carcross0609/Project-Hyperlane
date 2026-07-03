@@ -1,0 +1,82 @@
+{
+  "name": "Pelta-class frigate",
+  "wookieepedia_title": "Pelta-class frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pelta-class_frigate",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Pelta-class frigate was a versatile and long-used model of frigate manufactured by Kuat Drive Yards that had several different configured variants. During the Clone Wars between the Galactic Republic and Separatist Alliance, the frigates were used by the Republic Navy as a critical component of its war effort. The most common combat configuration was the Pelta-class strike frigate, while other configurations served as hospital ships, such as the Pelta-class Medical Frigate, which was used to safely ferry injured clone troopers to medical stations for treatment. Pelta-class Transport Frigates also served as supply ships to deliver armaments, medical supplies, and food rations.",
+  "data": {
+    "name": "Pelta-class frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": [
+      "Pelta-class frigate",
+      "  Pelta-class Assault Ship",
+      "  Pelta-class Command Cruiser",
+      "  Pelta-class strike frigate"
+    ],
+    "type": [
+      "Cruiser",
+      "Frigate"
+    ],
+    "cost": "7,250,000 credits",
+    "length": "282 meters",
+    "max_speed": "800 kilometers per hour",
+    "engine": "Engine (1) (standard)",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 16 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "sensor": "Long-range sensor",
+    "navigation": "Equipped",
+    "armament": [
+      "Point-defense laser cannons",
+      "Turbolasers (retrofitted)",
+      "Tractor beams (retrofitted)"
+    ],
+    "complement": [
+      "8 starfighters (retrofitted)",
+      "  RZ-1 A-wing interceptors"
+    ],
+    "bays": [
+      "Port and starboard docking tubes",
+      "Ventral hangar (retrofitted)"
+    ],
+    "escapepods": [
+      "16",
+      "  Republic escape pods",
+      "  RGC-6b escape pods (retrofitted)"
+    ],
+    "crew": "900 officers and enlisted crew",
+    "passengers": "200 troops",
+    "consumables": "5 months",
+    "othersystems": "Autopilot",
+    "role": [
+      "Anti-starfighter",
+      "Assault ship",
+      "Command ship",
+      "Communications",
+      "Escorting",
+      "Fire support",
+      "Freighter",
+      "Medcenter",
+      "Picket ship",
+      "Supply ship"
+    ],
+    "firstuse": "By 232 BBY",
+    "affiliation": [
+      "Jedi Order",
+      "Trade Federation",
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Phoenix Cell",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

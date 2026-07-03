@@ -1,0 +1,34 @@
+{
+  "name": "G'Neeznow",
+  "wookieepedia_title": "G'Neeznow",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G%27Neeznow",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "G'neeznow was a Strike-class medium cruiser that was an escort ship for Task Force Whirlwind.",
+  "data": {
+    "name": "G'Neeznow",
+    "manufacturer": "Loronar Corporation",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "1600 SBD",
+    "hull": "768 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "affiliation": "Galactic Empire",
+    "fleet": "Task Force Whirlwind"
+  },
+  "scraped": "2026-07-03"
+}

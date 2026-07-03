@@ -1,0 +1,24 @@
+{
+  "name": "Indefatigable",
+  "wookieepedia_title": "Indefatigable (Inexpugnable-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Indefatigable_%28Inexpugnable-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Indefatigable was one of six Inexpugnable-class tactical command ships to serve the Galactic Republic during the Mandalorian Wars.",
+  "data": {
+    "name": "Indefatigable",
+    "model": "Inexpugnable-class tactical command ship",
+    "type": "Command ship",
+    "length": "3,100 meters",
+    "width": "3,100 meters",
+    "armament": [
+      "Double turbolaser batteries (5)",
+      "Light turbolaser batteries (5)",
+      "Point-defense light laser cannon batteries (2)",
+      "Tractor beam batteries (2)"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

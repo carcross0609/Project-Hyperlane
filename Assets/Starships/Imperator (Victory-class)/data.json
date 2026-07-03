@@ -1,0 +1,25 @@
+{
+  "name": "Imperator",
+  "wookieepedia_title": "Imperator (Victory-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperator_%28Victory-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Imperator was a Victory-class Star Destroyer in the Imperial Navy. During the New Republic push to take Coruscant in 6 ABY, intelligence indicated that a Star Destroyer named Imperator was part of the defensive fleet guarding the Galactic capital. It was apparently a well-regarded ship, but it is implied that that the squadron defending Coruscant was composed entirely of Victory-class Star Destroyers, which would suggest that this Imperator belonged to this class of smaller, older Star Destroyers.",
+  "data": {
+    "name": "Imperator",
+    "line": "Victory-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "900 meters",
+    "hdsystem": "Equipped",
+    "role": "Cruiser",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Duskhan League",
+      "  Black Fleet"
+    ],
+    "navy": "Coruscant Defense Fleet"
+  },
+  "scraped": "2026-07-03"
+}

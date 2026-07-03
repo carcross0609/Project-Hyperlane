@@ -1,0 +1,47 @@
+# MC-series star cruiser
+
+**Continuity:** Canon  
+**Source:** [MC-series star cruiser](https://starwars.fandom.com/wiki/MC-series_star_cruiser)
+
+The MC-series star cruiser, or simply the Mon Calamari cruiser, was a series of starships that were produced by Mon Calamari Shipyards. The ships were known for their organic-looking, bulbous shape. Many MC-series Star Cruisers were used as part of the Rebel Alliance, and were their main capital ships. After the Battle of Yavin, Han Solo, Leia Organa and Luke Skywalker went to Mon Cala to convince the Mon Calamari to donate their fleet to the rebel cause. After seeing the broadcast of the death of their king, the Mon Calamari mutinied against the Galactic Empire and joined the Rebel Alliance. During the Battle of Endor, the Rebel Alliance fielded a number of similar Mon Calamari cruisers to Home One in an attempt to conceal the identity of Admiral Gial Ackbar's command ship.
+
+## Specifications
+
+- **Name:** MC-series star cruiser
+- **Manufacturer:** Mon Calamari Shipyards
+- **Line:** MC-series
+- **Type:**
+  - Frigate
+  - Heavy cruiser
+  - Light cruiser
+  - Star Cruiser
+- **Models:**
+  - MC30C frigate
+  - MC40a light cruiser
+  - MC75 Star Cruiser
+  -   MC75 Armored Cruiser
+  -   MC75 Ordnance Cruiser
+  -   MC75B Star Cruiser
+  -   MC75C Star Cruiser
+  - MC80 Star Cruiser
+  -   MC80 Liberty Type Heavy Star Cruiser
+  -   MC80A Home One Type Heavy Star Cruiser
+  - MC85 Star Cruiser
+  - MC95 Star Cruiser
+  -   MC95A Star Cruiser
+  -   MC95B Star Cruiser
+  -   MC95C Star Cruiser
+  -   MC95D Star Cruiser
+  -   MC95E Star Cruiser
+- **Role:** Capital ship
+- **Affiliation:**
+  - Mon Calamari monarchy
+  - Galactic Empire
+  - Alliance to Restore the Republic
+  - New Republic
+  - Resistance
+  - Citizens' Fleet
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

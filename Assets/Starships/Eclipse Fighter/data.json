@@ -1,0 +1,30 @@
+{
+  "name": "Eclipse Fighter",
+  "wookieepedia_title": "Eclipse Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eclipse_Fighter",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eclipse Fighter was a starship owned by Naare, a female Sith agent who worked for the Galactic Empire. The vessel consisted of a centralized cockpit built around a part of retractable wings. The Eclipse Fighter could take considerable punishment and served Naare well during her quest to find the Kyber Saber crystals and to hunt down the Freemakers.",
+  "data": {
+    "name": "Eclipse Fighter",
+    "hdsystem": "Equipped",
+    "passengers": [
+      "Kordi Freemaker",
+      "Rowan Freemaker",
+      "Zander Freemaker",
+      "R0-GR"
+    ],
+    "communications": [
+      "Intercom",
+      "Hologram"
+    ],
+    "destroyed": "3 ABY, Hoth, later rebuilt",
+    "affiliation": [
+      "Galactic Empire",
+      "Sith"
+    ],
+    "owners": "Naare"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Scourge",
+  "wookieepedia_title": "Scourge (Victory I-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scourge_%28Victory_I-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Scourge was an Imperial Victory I-class Star Destroyer that was active and well known in the Darpa sector of the Core Worlds by 0 ABY. Manufactured by Rendili StarDrive, the Scourge was 900 meters in length. Commanded by Vice Admiral Alpiett Gredge, the vessel patrolled the area around the planet Ralltiir, and regularly inspected the sector's two military space stations, Station 2LC/Blue and Station 1B6/Green.",
+  "data": {
+    "name": "Scourge",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Victory I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "cost": "Not available for sale",
+    "length": "900 meters",
+    "max_speed": "800 kilometers per hour",
+    "hyperdrive": "Class 1 (primary), Class 15 (backup)",
+    "shield_gen": "Enabled",
+    "sensor": "Enabled",
+    "navigation": "Enabled",
+    "armament": [
+      "10 quad turbolaser cannons",
+      "40 double turbolaser cannons",
+      "80 concussion missile launchers",
+      "10 tractor beam projectors"
+    ],
+    "crew": [
+      "4,798 crew members",
+      "402 gunners"
+    ],
+    "skeleton": [
+      "1,785 crew members",
+      "15 gunners"
+    ],
+    "passengers": "2,040 troopers",
+    "capacity": "8,100 metric tons",
+    "consumables": "4 years",
+    "role": "Destroyer",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ],
+    "captains": "Alpiett Gredge"
+  },
+  "scraped": "2026-07-03"
+}

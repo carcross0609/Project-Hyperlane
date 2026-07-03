@@ -1,0 +1,32 @@
+{
+  "name": "Bode's Z-95 Headhunter",
+  "wookieepedia_title": "Bode's Z-95 Headhunter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bode%27s_Z-95_Headhunter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Z-95 Headhunter was used by fallen Jedi Bode Akuna during the Imperial Era.",
+  "data": {
+    "name": "Bode's Z-95 Headhunter",
+    "manufacturer": "Incom Corporation",
+    "model": "Z-95 Headhunter",
+    "type": "Starfighter",
+    "length": "16.74 meters",
+    "width": "18.12 meters",
+    "height": "3.24 meters",
+    "max_speed": "1150 kph",
+    "engine": "Incom 2a fission engines (4)",
+    "shield_gen": "XoLynn 9771 deflector shield generator",
+    "sensor": "ANS-5c sensor unit",
+    "navigation": "Equipped",
+    "armament": [
+      "Ion cannon (1)",
+      "Taim & Bak KX5 linked laser cannons (2)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "1",
+    "role": "Close air support",
+    "owners": "Bode Akuna"
+  },
+  "scraped": "2026-07-03"
+}

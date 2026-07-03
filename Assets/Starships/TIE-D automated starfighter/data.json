@@ -1,0 +1,38 @@
+{
+  "name": "TIE/D automated starfighter",
+  "wookieepedia_title": "TIE/D automated starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/D_automated_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/D automated fighter, or droid/drone TIE fighter, was a TIE Series starfighter used by the reborn Emperor Palpatine during his attacks on the New Republic in 10 ABY.",
+  "data": {
+    "name": "TIE/D automated starfighter",
+    "manufacturer": [
+      "Sienar Fleet Systems",
+      "Cybot Galactica (piloting system)",
+      "World Devastator factories (primary manufacturer)"
+    ],
+    "line": "TIE Series",
+    "model": "Twin Ion Engine Drone automated fighter",
+    "type": "Droid starfighter",
+    "cost": "170,000 credits",
+    "length": "6.1 meters",
+    "mglt": "100 MGLT",
+    "max_speed": "1,300 km/h",
+    "engine": "SFS twin ion engines",
+    "hdsystem": "None",
+    "power": "SFS solar ionization reactor",
+    "shield_gen": "None",
+    "hull": "Titanium alloy hull with quadanium steel armor",
+    "maincomp": "Cybot Galactica Ace-6 droid brain (1)",
+    "armament": "Laser cannons (2)",
+    "crew": "None",
+    "passengers": "None",
+    "capacity": "None",
+    "consumables": "1 day",
+    "role": "Multi-environment attack fighter",
+    "firstuse": "10 ABY",
+    "affiliation": "Dark Empire"
+  },
+  "scraped": "2026-07-03"
+}

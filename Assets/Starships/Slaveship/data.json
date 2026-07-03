@@ -1,0 +1,27 @@
+{
+  "name": "Slaveship",
+  "wookieepedia_title": "Slaveship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Slaveship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Slaveships or slave transports were the space vessels used by the Yuuzhan Vong to capture and transport living prisoners from the planets they seized. The Maledoth and Tsam P'ah were slaveships.",
+  "data": {
+    "name": "Slaveship",
+    "manufacturer": "Yuuzhan Vong",
+    "type": "Transport",
+    "length": "~500 meters",
+    "engine": "Dovin basal",
+    "hyperdrive": "Dovin basal",
+    "shield_gen": "Dovin basal",
+    "hull": "Yorik coral",
+    "complement": "Coralskippers (5) (docking points)",
+    "crew": [
+      "Flight crew (2)",
+      "Warriors (a few squads)"
+    ],
+    "passengers": ">200 slaves",
+    "role": "Transport",
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

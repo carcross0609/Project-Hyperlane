@@ -1,0 +1,11 @@
+# Haven group
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Haven group](https://starwars.fandom.com/wiki/Haven_group)
+
+in a TIE Defender.]] Haven group was a trio of Delta-class JV-7 escort shuttles that were used by the Imperial Navy during the Galactic Civil War. Grand Admiral Demetrius Zaarin deployed Haven shuttles in an attempt to kidnap Emperor Palpatine. This plan was foiled, however, as Maarek Stele's flight group aided in destroying the shuttles save for the Emperor's, Haven 3, which was disabled by Steele's TIE Defender. With his coup d'etat failed, Grand Admiral Zaarin escaped with his flagship the Glory.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

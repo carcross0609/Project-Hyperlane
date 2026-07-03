@@ -1,0 +1,32 @@
+{
+  "name": "Admiral Ackbar",
+  "wookieepedia_title": "Admiral Ackbar (Victory-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Admiral_Ackbar_%28Victory-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Admiral Ackbar was a Victory-class Star Destroyer that served as the flagship of Admiral Nek Bwua'tu of the Galactic Alliance Defense Force following the Yuuzhan Vong War.",
+  "data": {
+    "name": "Admiral Ackbar",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Victory-class",
+    "type": "Star Destroyer",
+    "length": "900 meters",
+    "armament": [
+      "Turbolaser batteries (10+)",
+      "Gravity well projectors",
+      "Asteroid-tug Tractor beam turret"
+    ],
+    "role": "Flagship",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "The Colony"
+    ],
+    "navy": "Galactic Alliance Fifth Fleet",
+    "captains": [
+      "Admiral Nek Bwua'tu",
+      "Prime Unu Unuthul"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Lucky Tortle",
+  "wookieepedia_title": "Lucky Tortle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lucky_Tortle",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lucky Tortle, formerly known as the Sarlacc's Scorn, was a refitted Viperi-class cargo shuttle utilized by Dahara the Hutt. The shuttle was equipped with a Class One hyperdrive, shield technology, and four laser cannons, including one that rotated. It also featured a scouting shuttle. Alongside her brother, Churo, and a number of enforcers from her crew, Dahara used the Sarlacc's Scorn on a mission to meet with the Nihil marauders.",
+  "data": {
+    "name": "Lucky Tortle",
+    "model": "Viperi-class cargo shuttle",
+    "type": "Shuttle",
+    "engine": "Equipped",
+    "hyperdrive": "Class One hyperdrive",
+    "shield_gen": "Equipped",
+    "armament": "4 laser cannons",
+    "complement": "Scouting shuttle",
+    "affiliation": [
+      "Hutt Clan",
+      "  Dahara's crew"
+    ],
+    "owners": [
+      "Dahara",
+      "Churo"
+    ],
+    "captains": "Tronk"
+  },
+  "scraped": "2026-07-03"
+}

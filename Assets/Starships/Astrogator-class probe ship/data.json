@@ -1,0 +1,24 @@
+{
+  "name": "Astrogator-class probe ship",
+  "wookieepedia_title": "Astrogator-class probe ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Astrogator-class_probe_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Astrogator-class probe ship was a survey ship used by a number of exploratory and scientific organizations.",
+  "data": {
+    "name": "Astrogator-class probe ship",
+    "model": "Astrogator-class probe ship",
+    "type": "Astrographic charting vessel",
+    "length": "35 meters",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15 backup"
+    ],
+    "crew": "3",
+    "capacity": "1 metric ton",
+    "consumables": "1 week",
+    "affiliation": "Astrographic Survey Institute"
+  },
+  "scraped": "2026-07-03"
+}

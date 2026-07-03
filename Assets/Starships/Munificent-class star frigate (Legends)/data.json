@@ -1,0 +1,83 @@
+{
+  "name": "Munificent-class star frigate",
+  "wookieepedia_title": "Munificent-class star frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Munificent-class_star_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Munificent-class star frigate, commonly referred to as the Banking Clan frigate or the Banking Clan comms ship, was a warship used by the InterGalactic Banking Clan and by extension the Confederacy of Independent Systems.",
+  "data": {
+    "name": "Munificent-class star frigate",
+    "manufacturer": [
+      "Hoersch-Kessel Drive, Inc.",
+      "Gwori Revolutionary Industries"
+    ],
+    "model": "Munificent-class star frigate",
+    "type": [
+      "Star frigate",
+      "Heavy cruiser"
+    ],
+    "cost": [
+      "57,000,000 credits",
+      "12,300,000 - 40,000,000 credits (used)"
+    ],
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "max_accel": "2,300 G",
+    "engine": "Ion drive thrusters (3 big, 4 smaller)",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "hdrange": "150,000 light year effective range",
+    "poweroutput": "Peak: 2,07 × 1023 W",
+    "power": "Main reactors (2; together up to 2,300 tons of fuel per second)",
+    "shield_gen": "Deflector shields",
+    "hull": "Lightly armored",
+    "sensor": "Long-range sensors",
+    "armament": [
+      "Heavy turbolaser cannons (2)",
+      "Long-range heavy ion cannons (2)",
+      "Twin light turbolaser cannons (26)",
+      "Light turbolaser turrets (20)",
+      "Point-defense light laser cannons (38 - 40 (C3))",
+      "Medium flak guns (8)",
+      "Hyperwave jammer (1)"
+    ],
+    "complement": [
+      "12 - 36 starfighters (depending on configuration)",
+      "12 landing craft/shuttles"
+    ],
+    "crew": [
+      "200 droids",
+      "1,100 officers, pilots and enlisted crew (lifeforms)"
+    ],
+    "passengers": [
+      "150,000 deactivated battle droids",
+      "Up to 850 troops and support staff (depending on configuration)"
+    ],
+    "capacity": "40,000 tons",
+    "consumables": "2 years",
+    "communications": "Hyperwave supralight transceivers",
+    "availability": "Not available for sale",
+    "role": [
+      "Light warship",
+      "Communications ship",
+      "Escort",
+      "Troop transport",
+      "Command ship",
+      "\"Pocket cruiser\"",
+      "Reconnaissance vessel",
+      "Picket",
+      "Support ship"
+    ],
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

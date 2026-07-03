@@ -1,0 +1,27 @@
+{
+  "name": "YX-1980 space transport",
+  "wookieepedia_title": "YX-1980 space transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YX-1980_space_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YX-1980 space transport was a one of the most popular transports in use around 137 ABY. Smugglers Chak and Kee used a YX-1980 named Grinning Liar as their vessel.",
+  "data": {
+    "name": "YX-1980 space transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YX-1980",
+    "type": "Transport",
+    "cost": "150,000 credits (80,000 used)",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 2 (backup class 10)",
+    "navigation": "Navicomputer",
+    "armament": "Medium laser cannons",
+    "bays": "6 cargo bays",
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "110 tons",
+    "consumables": "2 months",
+    "availability": "Licensed",
+    "role": "Cargo hauler"
+  },
+  "scraped": "2026-07-03"
+}

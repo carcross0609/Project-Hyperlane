@@ -1,0 +1,44 @@
+{
+  "name": "Foray-class blockade runner",
+  "wookieepedia_title": "Foray-class blockade runner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Foray-class_blockade_runner",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Foray-class blockade runners were capital ships used by the Republic Navy during the Mandalorian Wars (c. 3964 BBY), the Jedi Civil War, and afterwards.",
+  "data": {
+    "name": "Foray-class blockade runner",
+    "manufacturer": "Republic Fleet Systems",
+    "model": "Foray-class blockade runner",
+    "type": [
+      "Frigate",
+      "Capital ship"
+    ],
+    "cost": "3,000,000 credits (estimated)",
+    "length": "155 meters",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Dual turbolaser turrets (2)",
+      "Anti-starfighter medium laser cannons (2)"
+    ],
+    "complement": "None",
+    "crew": "40 to 100",
+    "passengers": "300",
+    "capacity": "2,800 tons",
+    "consumables": "9 months",
+    "othersystems": "Navicomputer",
+    "availability": "Military",
+    "role": [
+      "Protection",
+      "Interdiction"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Onderon separatists",
+      "  Sith Triumvirate"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

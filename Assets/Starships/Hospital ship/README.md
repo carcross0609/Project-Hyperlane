@@ -1,0 +1,10 @@
+# Hospital ship
+
+**Continuity:** Canon  
+**Source:** [Hospital ship](https://starwars.fandom.com/wiki/Hospital_ship)
+
+Hospital ships, also known as medcenter ships or medical frigates, were vessels used to treat wounded soldiers. During the Clone Wars, Pelta-class frigates were used as medical frigates to serve as hospital ships. When clone trooper Tup was required to be sent to Kamino for a medical evaluation and required protection, Medical Frigate 517, a Republic frigate, was used. Luke Skywalker was treated in one following the duel at Cloud City, after Darth Vader revealed to Luke that he is indeed his father, and cut off his right hand.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,38 @@
+{
+  "name": "Darth Vader's TIE Advanced",
+  "wookieepedia_title": "Darth Vader's TIE Advanced",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader%27s_TIE_Advanced",
+  "continuity": "Canon",
+  "infobox_template": "IndividualShip",
+  "description": "Darth Vader's TIE Advanced was a modified TIE Advanced x1 prototype starfighter personally employed by the Dark Lord of the Sith Darth Vader during the reign of the Galactic Empire.",
+  "data": {
+    "name": "Darth Vader's TIE Advanced",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE fighter series",
+    "model": "TIE Advanced x1 prototype",
+    "type": "Starfighter",
+    "length": "5.8 meters (19 feet)",
+    "max_accel": "1,200 kph",
+    "mglt": "105 MGLT",
+    "engine": "Twin ion engines",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "target": "Targeting computer",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Cold-tip laser cannons (2)",
+      "Cluster missiles"
+    ],
+    "crew": "Pilot (1)",
+    "lifesupport": "Equipped",
+    "othersystems": "Wiborg Jenssen fuel cell",
+    "destroyed": "c. 3 ABY, Coruscant",
+    "affiliation": [
+      "Galactic Empire",
+      "Sith"
+    ],
+    "navy": "Imperial Starfighter Corps",
+    "owners": "Darth Vader"
+  },
+  "scraped": "2026-07-03"
+}

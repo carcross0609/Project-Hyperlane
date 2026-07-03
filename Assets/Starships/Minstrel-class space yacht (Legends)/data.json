@@ -1,0 +1,58 @@
+{
+  "name": "Minstrel-class space yacht",
+  "wookieepedia_title": "Minstrel-class space yacht/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Minstrel-class_space_yacht/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Minstrel-class space yacht, also known as the Ubrikkian luxury space yacht, was a large yacht produced by Ubrikkian Industries.",
+  "data": {
+    "name": "Minstrel-class space yacht",
+    "manufacturer": "Ubrikkian Industries",
+    "model": "Minstrel-class space yacht",
+    "type": "Yacht",
+    "cost": [
+      "1,450,000 credits (new)",
+      "1,750,000 credits"
+    ],
+    "length": "160 meters",
+    "max_speed": "800 kilometers per hour",
+    "engine": [
+      "2 N2 ion engines",
+      "3 T-c40 ion engines"
+    ],
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12.0 (backup)"
+    ],
+    "hdsystem": "Standard Ubrikkian hyperdrive unit",
+    "power": "Power core",
+    "navigation": "Equipped",
+    "armament": [
+      "Light turbolasers (6)",
+      "Medium ion cannons (6)",
+      "Tractor beam projector (1)"
+    ],
+    "complement": [
+      "Starfighters (6)",
+      "Shuttles (2)"
+    ],
+    "crew": [
+      "35",
+      "2 gunners"
+    ],
+    "skeleton": "10",
+    "passengers": "75",
+    "capacity": "90 metric tons",
+    "consumables": [
+      "3 months",
+      "1 year"
+    ],
+    "role": [
+      "Transport",
+      "Corvette",
+      "Interstellar pleasure craft"
+    ],
+    "affiliation": "Hutts"
+  },
+  "scraped": "2026-07-03"
+}

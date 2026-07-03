@@ -1,0 +1,22 @@
+{
+  "name": "RZ-52 Dekard transport",
+  "wookieepedia_title": "RZ-52 Dekard transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RZ-52_Dekard_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The RZ-52 Dekard transport, otherwise known as the Consortium Light Transport, was a starship used by the Zann Consortium during the Galactic Civil War.",
+  "data": {
+    "name": "RZ-52 Dekard transport",
+    "model": "RZ-52 Dekard transport",
+    "type": "Transport",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (2)",
+    "role": [
+      "Troop transport",
+      "Boarding craft"
+    ],
+    "affiliation": "Zann Consortium"
+  },
+  "scraped": "2026-07-03"
+}

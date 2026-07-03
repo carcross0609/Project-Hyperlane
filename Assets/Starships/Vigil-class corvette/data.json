@@ -1,0 +1,39 @@
+{
+  "name": "Vigil-class corvette",
+  "wookieepedia_title": "Vigil-class corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vigil-class_corvette",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Vigil-class corvette was a warship in the Imperial Navy.",
+  "data": {
+    "name": "Vigil-class corvette",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Vigil-class corvette",
+    "type": "Corvette",
+    "cost": "3,500,000 credits",
+    "length": "255 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 10 (backup)"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Twin heavy turbolaser turrets (3)",
+      "Twin light turbolaser turrets (3)",
+      "Multiple laser cannon turrets (3)",
+      "Medium Tractor beam emitters"
+    ],
+    "complement": "TIE Series",
+    "crew": "200",
+    "passengers": "200",
+    "consumables": "1 year",
+    "role": [
+      "Corvette",
+      "Picket ship",
+      "Scoutcraft",
+      "Escort"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

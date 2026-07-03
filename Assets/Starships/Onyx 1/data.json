@@ -1,0 +1,27 @@
+{
+  "name": "Onyx 1",
+  "wookieepedia_title": "Onyx 1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Onyx_1",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "By 4 ABY, shortly before the Battle of Endor, Sienar Fleet Systems began manufacturing TIE/D Defenders for the Galactic Empire. Onyx 1 was one such TIE/D Defender produced during that time, with the starfighter's design intended to emulate advantages of starfighters fighting for the Alliance to Restore the Republic. Onyx 1's crew consisted of a TIE pilot, and the Defender was armed with laser cannons, ion cannons, and missile launchers.",
+  "data": {
+    "name": "Onyx 1",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/D Defender",
+    "type": "Starfighter",
+    "armament": [
+      "Laser cannons",
+      "Ion cannons",
+      "Missile launchers"
+    ],
+    "crew": "TIE pilot",
+    "role": "Defender",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Onyx Squadron"
+  },
+  "scraped": "2026-07-03"
+}

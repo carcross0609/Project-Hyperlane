@@ -1,0 +1,47 @@
+{
+  "name": "Alpha-3 Nimbus-class V-wing starfighter",
+  "wookieepedia_title": "Alpha-3 Nimbus-class V-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alpha-3_Nimbus-class_V-wing_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Alpha-3 Nimbus-class V-wing starfighter, also known as the Alpha-3 Nimbus, V-wing starfighter, or Nimbus fighter, was a starfighter model manufactured by Kuat Systems Engineering near the end of the Clone Wars. It was the primary starfighter model employed by the Imperial Navy during the early years of the Galactic Empire.",
+  "data": {
+    "name": "Alpha-3 Nimbus-class V-wing starfighter",
+    "designer": "Walex Blissex",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series fighter",
+    "model": "Alpha-3 Nimbus-class V-wing starfighter",
+    "type": "Starfighter",
+    "cost": "120,000 credits",
+    "length": "7.9 meters (25 feet 11 inches)",
+    "width": "3.8 meters",
+    "height": "5.84 meters",
+    "max_accel": "5,200G",
+    "mglt": "130 MGLT",
+    "engine": "Two ion engines",
+    "hdsystem": "None (Syliure-45 hyperdrive module required)",
+    "sensor": "Close-ranged sensors",
+    "armament": "Twin rapid-fire laser cannons (2)",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "consumables": "One day",
+    "role": [
+      "Interceptor",
+      "Escort"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "New Republic",
+      "  New Republic Starfighter Corps",
+      "Jinata Security",
+      "Resistance",
+      "  Resistance navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

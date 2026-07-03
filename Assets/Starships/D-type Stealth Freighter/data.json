@@ -1,0 +1,36 @@
+{
+  "name": "D-type Stealth Freighter",
+  "wookieepedia_title": "D-type Stealth Freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/D-type_Stealth_Freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The D-Type Stealth Freighter was designed by Nubia Star Drives, Incorporated following the Nubian tradition of designing unusual vessels. Most craft intended for smuggling depended on speed or firepower to avoid capture. The D-type instead relied almost entirely on stealth, carrying no weapons and only managing a low sublight speed due to the baffle shielding drive it was equipped with. Unlike most light freighters, the D-Type was not designed to allow modification of any kind. Instead, if an owner wishes a modified version of the ship, they must commission a customized one from the manufacturer.",
+  "data": {
+    "name": "D-type Stealth Freighter",
+    "manufacturer": "Nubia Star Drives, Incorporated",
+    "model": "D-type Stealth Freighter",
+    "type": "Light freighter",
+    "cost": "200,000 credits",
+    "hyperdrive": [
+      "Class 3",
+      "Backup: Class 13"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "avionics": "Equipped",
+    "armament": "None",
+    "crew": [
+      "Pilot (1)",
+      "Systems Engineer (1)"
+    ],
+    "passengers": "3",
+    "role": [
+      "Transport",
+      "Smuggling Vessel"
+    ],
+    "affiliation": "Civilians"
+  },
+  "scraped": "2026-07-03"
+}

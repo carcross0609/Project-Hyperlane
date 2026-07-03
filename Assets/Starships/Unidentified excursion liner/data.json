@@ -1,0 +1,24 @@
+{
+  "name": "Unidentified excursion liner",
+  "wookieepedia_title": "Unidentified excursion liner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_excursion_liner",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "An excursion liner was owned by the Chiss Ascendancy's Boadil family, one of the Ascendancy's Nine Ruling Families, and captained by a member of the Ruling Ufsa family. The liner had a compact cylindrical shape, with two wide D-shaped wings on either side, housing expensive passenger suites. On one of the liner's voyages prior to 19 BBY, the captain took the vessel too close to a gas giant, and the liner was caught in its gravity well with 8,000 passengers aboard.",
+  "data": {
+    "name": "Unidentified excursion liner",
+    "type": "Luxury liner",
+    "engine": "Equipped",
+    "escapepods": "Equipped",
+    "passengers": "At least 8,000",
+    "role": "Luxury excursions",
+    "affiliation": [
+      "Chiss Ascendancy",
+      "  Boadil family"
+    ],
+    "owners": "Boadil family",
+    "captains": "Liner captain"
+  },
+  "scraped": "2026-07-03"
+}

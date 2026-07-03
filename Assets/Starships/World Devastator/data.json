@@ -1,0 +1,50 @@
+{
+  "name": "World Devastator",
+  "wookieepedia_title": "World Devastator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/World_Devastator",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "World Devastators, also known as World Smashers, World Sweepers, Planet Smashers, or City Eaters, were gigantic superweapons with strong tractor beams attached to them that could wreak havoc on planets. They were designed by Umak Leth and employed by the Dark Empire led by the reborn Emperor Palpatine.",
+  "data": {
+    "name": "World Devastator",
+    "designer": "Qwi Xux",
+    "manufacturer": "Imperial Department of Military Research",
+    "line": "Superweapons",
+    "model": "World Devastator",
+    "length": "Varies",
+    "width": "Varies",
+    "height": "Varies",
+    "engine": [
+      "Ion drives",
+      "Repulsorlifts"
+    ],
+    "hyperdrive": "Class 6",
+    "hdsystem": "Equipped",
+    "power": "Miniature black holes",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Tractor beam projectors",
+      "Ion cannons",
+      "Turbolasers",
+      "Proton torpedoes",
+      "Gun towers",
+      "Missile launchers"
+    ],
+    "complement": [
+      "TIE/LN starfighters",
+      "TIE/D automated starfighters",
+      "AQ-5 Waveskimmers"
+    ],
+    "othersystems": "Molecular furnace",
+    "role": [
+      "Superweapon",
+      "Automated factory"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Dark Empire",
+      "New Republic (captured)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

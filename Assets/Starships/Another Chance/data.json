@@ -1,0 +1,38 @@
+{
+  "name": "Another Chance",
+  "wookieepedia_title": "Another Chance",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Another_Chance",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Another Chance was an Alderaanian War Frigate of the Alderaanian fleet during the last years of the Galactic Republic.",
+  "data": {
+    "name": "Another Chance",
+    "model": "Alderaanian War Frigate",
+    "length": "250 meters",
+    "max_speed": "1,050 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "10 quad turbolaser batteries",
+      "4 medium ion cannons"
+    ],
+    "crew": "700 droids",
+    "capacity": "2,000 metric tons",
+    "consumables": "1 year",
+    "role": "Armory ship",
+    "affiliation": [
+      "Alderaan",
+      "Galactic Republic",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": [
+      "Alderaan Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

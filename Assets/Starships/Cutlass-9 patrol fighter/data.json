@@ -1,0 +1,47 @@
+{
+  "name": "Cutlass-9 patrol fighter",
+  "wookieepedia_title": "Cutlass-9 patrol fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cutlass-9_patrol_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Cutlass-9 patrol fighter, also known as the SoroSuub patrol fighter, was a starfighter manufactured by SoroSuub Corporation prior to the Clone Wars.",
+  "data": {
+    "name": "Cutlass-9 patrol fighter",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Cutlass-9 patrol fighter",
+    "type": "Starfighter",
+    "cost": [
+      "140,000 credits (new)",
+      "65,000 (used)"
+    ],
+    "length": "12 meters",
+    "max_accel": "4,800 G",
+    "max_speed": "800 km/h",
+    "engine": "Advanced ion engine array",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Medium Laser cannons (2)",
+      "Concussion missile launcher (1)",
+      "  8 concussion missiles"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "110 kg",
+    "consumables": "2 weeks",
+    "role": "Patrol starfighter",
+    "firstuse": "c. 22 BBY",
+    "affiliation": [
+      "SoroSuub Corporation",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Antarian Rangers",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Veiled Sorority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

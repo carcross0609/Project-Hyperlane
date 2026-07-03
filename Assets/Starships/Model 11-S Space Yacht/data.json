@@ -1,0 +1,30 @@
+{
+  "name": "Model 11-S Space Yacht",
+  "wookieepedia_title": "Model 11-S Space Yacht",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Model_11-S_Space_Yacht",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Aavman Extravagance Model 11-S Space Yacht was a large and luxurious space yacht, favored by wealthy senior citizens. Leger DeMain's starship, Siren III, was a heavily modified Model 11-S Space Yacht.",
+  "data": {
+    "name": "Model 11-S Space Yacht",
+    "manufacturer": "Aavman Extravagance",
+    "type": "Yacht",
+    "cost": "250,000 credits (used)",
+    "length": "44 meters",
+    "max_speed": "800 KMH",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 10"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Sensor",
+    "navigation": "Navigation computer",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "24",
+    "capacity": "40 metric tons",
+    "consumables": "1 month",
+    "role": "Personal transport"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Hoplite",
+  "wookieepedia_title": "Hoplite",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hoplite",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hoplite was a Gladiator-class Star Destroyer that served as the flagship of a small Imperial Navy battle group at Ilum. The Hoplite was helmed by Captain Malthegn and was escorted by small frigates and gunboats. As a Gladiator, the Hoplite was 600 meters in length.",
+  "data": {
+    "name": "Hoplite",
+    "model": "Gladiator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "600 meters",
+    "role": "Flagship",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Ilum blockade",
+    "captains": "Malthegn"
+  },
+  "scraped": "2026-07-03"
+}

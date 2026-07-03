@@ -1,0 +1,23 @@
+{
+  "name": "Continent-class crawler",
+  "wookieepedia_title": "Continent-class crawler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Continent-class_crawler",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Continent-class crawler was a starship class used by the Kingdom of Shu-Torun. The Leviathan was deployed against Jedha in 1 ABY.",
+  "data": {
+    "name": "Continent-class crawler",
+    "model": "Continent-class crawler",
+    "type": "Crawler",
+    "armament": [
+      "Anti-air weapons",
+      "Ion torpedos"
+    ],
+    "role": "Orbital drill",
+    "affiliation": [
+      "Kingdom of Shu-Torun",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

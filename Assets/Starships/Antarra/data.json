@@ -1,0 +1,28 @@
+{
+  "name": "Antarra",
+  "wookieepedia_title": "Antarra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Antarra",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Antarra was a stolen Imperial Lambda-class T-4a shuttle used by Commander Luke Skywalker of the Alliance to Restore the Republic to go on a mission to the planet Vetine to recover a Great Tree.",
+  "data": {
+    "name": "Antarra",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Abecederian line",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Multi-purpose transport",
+    "length": "20 meters",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "2 forward double laser cannons",
+      "2 wing-mounted double cannons",
+      "1 rear double laser cannon"
+    ],
+    "capacity": "80 metric tons",
+    "role": "Transport",
+    "affiliation": "Alliance to Restore the Republic",
+    "captains": "Luke Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

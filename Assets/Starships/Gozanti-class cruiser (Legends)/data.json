@@ -1,0 +1,52 @@
+{
+  "name": "Gozanti-class cruiser",
+  "wookieepedia_title": "Gozanti-class cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gozanti-class_cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Gozanti-class cruiser, also known as the Gozanti-class armored cruiser, Gozanti-class armed transport, or simply the Gozanti Cruiser, was a slow but powerful independent transport designed by Corellian Engineering Corporation.",
+  "data": {
+    "name": "Gozanti-class cruiser",
+    "manufacturer": [
+      "Corellian Engineering Corporation (Design and some manufacturing)",
+      "Gallofree Yards, Inc.",
+      "Other shipyards"
+    ],
+    "type": "Cruiser",
+    "cost": [
+      "150,000 credits (new)",
+      "50,000 credits (used)"
+    ],
+    "length": "41.8 meters",
+    "max_speed": "400 km/h",
+    "hyperdrive": [
+      "Class 3",
+      "Class 12 (backup)"
+    ],
+    "armament": [
+      "Retractable Heavy laser cannons (4)",
+      "Retractable Quad laser cannon turrets (2)",
+      "Proton torpedo launcher"
+    ],
+    "complement": [
+      "Original configuration: 0",
+      "Rebel Alliance refit: Starfighters (1 or 2)"
+    ],
+    "crew": "12",
+    "passengers": "12",
+    "capacity": "75 tons",
+    "consumables": "1 month",
+    "role": [
+      "Anti-piracy cruiser",
+      "Transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Black Sun",
+      "Rebel Alliance",
+      "Independent"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Harrow",
+  "wookieepedia_title": "Harrow/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Harrow/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Harrow was an Imperial Victory-class Star Destroyer variant.",
+  "data": {
+    "name": "Harrow",
+    "model": "Victory-class Star Destroyer",
+    "engine": [
+      "Main thrusters (2)",
+      "Vertically placed secondary thrusters (2)"
+    ],
+    "hdsystem": "Equipped",
+    "role": "Destroyer",
+    "destroyed": "4 ABY",
+    "affiliation": "Galactic Empire",
+    "captains": "Marl Semtin"
+  },
+  "scraped": "2026-07-03"
+}

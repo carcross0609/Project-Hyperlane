@@ -1,0 +1,32 @@
+{
+  "name": "Steadfast",
+  "wookieepedia_title": "Steadfast (720 light freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Steadfast_%28720_light_freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Steadfast was a Ghtroc Industries light freighter that belonged to Drake Paulsen.",
+  "data": {
+    "name": "Steadfast",
+    "manufacturer": "Ghtroc Industries",
+    "model": "720 light freighter",
+    "type": "Light freighter",
+    "length": "35 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 14"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "1 or 2",
+    "passengers": "10",
+    "capacity": "135 metric tons",
+    "consumables": "6 months",
+    "role": "Smuggling ship",
+    "captains": "Drake Paulsen"
+  },
+  "scraped": "2026-07-03"
+}

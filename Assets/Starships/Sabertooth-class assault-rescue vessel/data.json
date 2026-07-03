@@ -1,0 +1,41 @@
+{
+  "name": "Sabertooth-class assault/rescue vessel",
+  "wookieepedia_title": "Sabertooth-class assault/rescue vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sabertooth-class_assault/rescue_vessel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sabertooth-class assault/rescue vessel was a capital ship class in the service of the Galactic Alliance Remnant during the Second Imperial Civil War.",
+  "data": {
+    "name": "Sabertooth-class assault/rescue vessel",
+    "model": "Sabertooth-class assault/rescue vessel",
+    "type": [
+      "Frigate",
+      "Capital ship"
+    ],
+    "cost": "Not available for sale",
+    "hyperdrive": "Class 1 (Backup class 10)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Reinforced superstructure",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Turbolaser batteries (3)",
+      "Point defense laser cannon batteries (2)",
+      "Tractor beam batteries (2)"
+    ],
+    "crew": "800",
+    "passengers": "300",
+    "capacity": "3,000 tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "role": [
+      "Assault boarding craft",
+      "Rescue vessel"
+    ],
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

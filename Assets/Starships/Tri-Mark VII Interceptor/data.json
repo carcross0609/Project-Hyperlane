@@ -1,0 +1,45 @@
+{
+  "name": "Tri-Mark VII Interceptor",
+  "wookieepedia_title": "Tri-Mark VII Interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tri-Mark_VII_Interceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Tri-Mark VII Interceptor was a multi-purpose starship built by Elsinore-Cordova Engineering to serve as a heavy starfighter/bomber/light transport/prison ship. Equipped with three Elsinore-Cordova Turbodyne engines, the Tri-Mark VII was very fast, and its large cargo capacity allowed for the transport of up to twenty troops and four prisoners, in addition to a crew of three. General maintenance was provided by two astromech droids.",
+  "data": {
+    "name": "Tri-Mark VII Interceptor",
+    "manufacturer": "Elsinore-Cordova Engineering",
+    "type": "Heavy Starfighter",
+    "length": "20 meters",
+    "width": "30 meters",
+    "height": "15 meters",
+    "engine": "3 Elsinore-Cordova Turbodyne engines",
+    "navigation": "Equipped",
+    "armament": [
+      "6 dual laser cannon turrets (auto-targeting)",
+      "1 ventral concussion missile launcher"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 copilot/gunner",
+      "1 auxiliary turret gunner",
+      "2 astromech droids"
+    ],
+    "passengers": [
+      "20 troops",
+      "4 prisoners"
+    ],
+    "capacity": "Approximately 90 cubic meters",
+    "consumables": "2 weeks",
+    "role": [
+      "Starfighter",
+      "Bomber",
+      "Light transport",
+      "Prisoner ship"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Security Forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

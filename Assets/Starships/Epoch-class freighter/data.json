@@ -1,0 +1,22 @@
+{
+  "name": "Epoch-class freighter",
+  "wookieepedia_title": "Epoch-class freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Epoch-class_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Epoch-class freighter was a type of transport starship in use during the Clone Wars.",
+  "data": {
+    "name": "Epoch-class freighter",
+    "manufacturer": "Shobquix Yards",
+    "model": "Epoch-class freighter",
+    "type": "Freighter",
+    "length": "23 meters",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 7 (backup)"
+    ],
+    "armament": "(1) laser cannon",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

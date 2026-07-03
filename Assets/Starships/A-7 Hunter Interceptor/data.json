@@ -1,0 +1,31 @@
+{
+  "name": "A-7 Hunter Interceptor",
+  "wookieepedia_title": "A-7 Hunter Interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A-7_Hunter_Interceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The A-7 Hunter Interceptor was a starfighter class made by Kuat Drive Yards.",
+  "data": {
+    "name": "A-7 Hunter Interceptor",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "A-series interceptors",
+    "model": "A-7 Hunter interceptor",
+    "type": "Starfighter",
+    "cost": "80,000 credits (45,000 used)",
+    "max_speed": "1,200 km/h",
+    "hdsystem": "None",
+    "shield_gen": "None",
+    "armament": "Laser cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "55 kg",
+    "consumables": "1 day",
+    "role": "Interceptor",
+    "affiliation": [
+      "Galactic Empire",
+      "Mercenaries",
+      "Insurgents"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

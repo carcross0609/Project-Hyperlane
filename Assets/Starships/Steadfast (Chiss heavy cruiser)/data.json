@@ -1,0 +1,26 @@
+{
+  "name": "Steadfast",
+  "wookieepedia_title": "Steadfast (Chiss heavy cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Steadfast_%28Chiss_heavy_cruiser%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Steadfast was a Chiss heavy cruiser of the Chiss Ascendancy serving under the Expansionary Defense Fleet during the Imperial Era. It was under the command of Admiral Ar'alani.",
+  "data": {
+    "name": "Steadfast",
+    "model": "Modified Chiss heavy cruiser",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shields",
+    "sensor": "Equipped",
+    "armament": [
+      "Plasma sphere launchers",
+      "Spectrum lasers",
+      "Breacher missiles"
+    ],
+    "affiliation": "Chiss Ascendancy",
+    "navy": "Chiss Expansionary Defense Fleet",
+    "owners": "Ar'alani",
+    "captains": "Khresh"
+  },
+  "scraped": "2026-07-03"
+}

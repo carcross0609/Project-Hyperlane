@@ -1,0 +1,67 @@
+{
+  "name": "CR90 corvette",
+  "wookieepedia_title": "CR90 corvette/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CR90_corvette/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CR90 corvette, commonly referred to as the Corellian corvette or the Rebel blockade runner, also known as an Alderaan cruiser, was a small, multi-purpose capital ship manufactured by Corellian Engineering Corporation.",
+  "data": {
+    "name": "CR90 corvette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "CR series",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "cost": [
+      "3,500,000/2,700,000 credits (new)",
+      "1,500,000 credits (used)"
+    ],
+    "length": "150 meters",
+    "max_accel": "2,100 G",
+    "mglt": "60 MGLT",
+    "max_speed": "950 km/h",
+    "engine": "Girodyne Ter58 high-output ion turbine engines (11, in trireme configuration)",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "CEC subspace hyperdrive",
+    "power": "Mason-Branger 7085 ionization reactor and regulator",
+    "shield_gen": "Phoah-Kingsmeyer 484-J4E screen control and shield projector (rated 400 SBD)",
+    "hull": "Ferro-magnesium ceramic (rated 188 RU)",
+    "sensor": "Pax Hustana variable array sensor units (2)",
+    "navigation": "Corellian Chain Management NavCom Unit (26640 limited non-AI processing)",
+    "armament": [
+      "Taim & Bak H9 dual turbolasers (2 turrets: 1 dorsal, 1 ventral)",
+      "Taim & Bak H9 single turbolasers (4 turrets mounted on dorsal escape pods: 2 port, 2 starboard)"
+    ],
+    "bays": "Ventral starfighter-scale landing bay (1)",
+    "escapepods": [
+      "Faberstien-Lago 37s emergency escape pods (8, ventral)",
+      "Armed Faberstien Maximum capacity life ships (4, dorsal)"
+    ],
+    "crew": "30-165 (depending on configuration)",
+    "skeleton": "7",
+    "passengers": "Up to 600 (depending on configuration)",
+    "capacity": "Up to 3,000 metric tons (depending on configuration)",
+    "consumables": "1 year",
+    "role": [
+      "Corvette",
+      "Light escort",
+      "Transport"
+    ],
+    "firstuse": "Prior to 22 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Kota's Militia",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Corellian Defense Force",
+      "Hutt Cartel",
+      "  Besadii kajidic",
+      "Zann Consortium",
+      "Mandalorians",
+      "Zsinj's Empire",
+      "Airam Clans"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

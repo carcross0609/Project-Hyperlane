@@ -1,0 +1,56 @@
+{
+  "name": "Malevolence",
+  "wookieepedia_title": "Malevolence/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Malevolence/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Malevolence was a Subjugator-class heavy cruiser active during the Clone Wars. It served as the flagship of the Confederate General Grievous. The massive ship was longer than four Venator-class Star Destroyers and sported massive ion cannons, capable of disabling enemy ships, mounted on both sides of its hull. The ship was first spotted by Republic forces around 22 BBY by Jedi General Ares Nune and Clone Commander Kite, who were on an inspection in the Phu system. Grievous took the opportunity to fire the ion cannons on Nune's fleet, destroying it. High Jedi General Plo Koon led a fleet to engage the Malevolence after losing contact with Nune.",
+  "data": {
+    "name": "Malevolence",
+    "manufacturer": [
+      "Free Dac Volunteers Engineering Corps",
+      "Pammant Docks"
+    ],
+    "model": "Subjugator-class heavy cruiser",
+    "type": [
+      "Battleship",
+      "Heavy cruiser",
+      "Dreadnought"
+    ],
+    "length": "4,845 meters",
+    "engine": "Equipped with 16 engines",
+    "hdsystem": "Equipped",
+    "sensor": "Sensor array",
+    "armament": [
+      "Ion pulse cannons (2)",
+      "Twin turbolaser batteries (500)",
+      "Tractor beam batteries (2)",
+      "Point-defense light laser cannon batteries (5)",
+      "Proton torpedo"
+    ],
+    "complement": [
+      "Vulture-class droid fighters",
+      "Droch-class boarding ship (at least 1)",
+      "Soulless One"
+    ],
+    "crew": "900 (battle droids)",
+    "cargohandling": "Dedicated internal rail jet system",
+    "role": [
+      "Battleship",
+      "Command ship (flagship)"
+    ],
+    "commission": "Early as 22 BBY",
+    "destroyed": "22 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Order of the Sith Lords"
+    ],
+    "owners": "General Grievous",
+    "captains": [
+      "General Grievous",
+      "Count Dooku"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

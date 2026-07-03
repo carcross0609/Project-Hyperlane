@@ -1,0 +1,27 @@
+{
+  "name": "Krayt's Honor",
+  "wookieepedia_title": "Krayt's Honor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krayt%27s_Honor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Krayt's Honor was a modified Gozanti-class cruiser owned by the Kel Dor Siqo Vass prior to the Clone Wars. It attained notoriety for protecting merchant ships and shipping companies in the Outer Rim Territories, who would often be raided by pirates hired by the Trade Federation.",
+  "data": {
+    "name": "Krayt's Honor",
+    "model": "Gozanti-class cruiser",
+    "type": "Cruiser",
+    "modifier": "Siqo Vass",
+    "engine": "Upgraded sublight engine",
+    "shield_gen": "Military-grade deflector shield generator",
+    "armament": [
+      "Laser turrets (8)",
+      "Proton torpedo launchers (2)",
+      "Quad laser cannons (2)",
+      "Turbolasers (3)"
+    ],
+    "affiliation": "Jabba Desilijic Tiure's criminal empire",
+    "owners": "Siqo Vass",
+    "captains": "Siqo Vass"
+  },
+  "scraped": "2026-07-03"
+}

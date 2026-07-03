@@ -1,0 +1,44 @@
+{
+  "name": "Phoenix Home",
+  "wookieepedia_title": "Phoenix Home",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phoenix_Home",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Phoenix Home, or Phoenix Base, was a repurposed Pelta-class frigate under the command of Commander Jun Sato in the years prior to the Battle of Yavin. The vessel, the headquarters of Phoenix Cell, participated in a number of battles with the rebel fleet that it led until it was destroyed by Darth Vader in his TIE Advanced x1 during an attack on the fleet in 4 BBY. Following the destruction of Phoenix Home, Sato transferred his command to the CR90 corvette Liberator. The loss of Phoenix Home was a devastating blow to the Rebels, severely limiting their ability to fight the Empire.",
+  "data": {
+    "name": "Phoenix Home",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Pelta-class frigate",
+    "type": "Frigate",
+    "cost": "7,265,000 credits",
+    "modifier": "Phoenix Cell",
+    "length": "282 meters",
+    "hyperdrive": [
+      "Primary: Class 2",
+      "Backup: Class 16"
+    ],
+    "shield_gen": "Deflector shield generators",
+    "sensor": "Long range",
+    "navigation": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Point-defense laser cannons",
+      "Tractor beams"
+    ],
+    "complement": "8 starfighters, including at least 5 RZ-1 A-wing interceptors",
+    "bays": "Starfighter hangar",
+    "escapepods": [
+      "16 Escape pods",
+      "  RGC-6b escape pods"
+    ],
+    "crew": "900",
+    "passengers": "200",
+    "consumables": "5 months",
+    "role": "Rebel command ship",
+    "destroyed": "4 BBY",
+    "affiliation": "Phoenix Cell",
+    "captains": "Jun Sato"
+  },
+  "scraped": "2026-07-03"
+}

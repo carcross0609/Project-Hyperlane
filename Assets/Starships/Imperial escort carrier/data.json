@@ -1,0 +1,33 @@
+{
+  "name": "Imperial escort carrier",
+  "wookieepedia_title": "Imperial escort carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_escort_carrier",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "An Imperial escort carrier was a starship used by the Galactic Empire by 14 BBY. In that same year, the Imperial escort carrier Goliath took part in the hunt for Moff Wilhuff Tarkin's stolen corvette Carrion Spike. The Goliath was involved in a skirmish with Berch Teller's rebel cell above Phindar.",
+  "data": {
+    "name": "Imperial escort carrier",
+    "model": "Imperial escort carrier",
+    "type": "Carrier",
+    "engine": "Engine (at least 2)",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Not much",
+    "armament": [
+      "10 Taim & Bak H-eights",
+      "Krupx missile delivery system",
+      "  Proton torpedoes",
+      "Tractor beam projector"
+    ],
+    "complement": [
+      "1 wing of starfighters",
+      "  V-Wings",
+      "  TIE fighters"
+    ],
+    "firstuse": "By 14 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

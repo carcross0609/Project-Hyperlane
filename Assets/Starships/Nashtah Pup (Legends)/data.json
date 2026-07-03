@@ -1,0 +1,23 @@
+{
+  "name": "Nashtah Pup",
+  "wookieepedia_title": "Nashtah Pup/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nashtah_Pup/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Nashtah Pup was a modified Z-95 Headhunter used by the bounty hunter Bossk as a scout ship. It was carried aboard the hunter's primary vessel, the Hound's Tooth in a modified cargo bay. It could carry only two people and had limited life support capabilities.",
+  "data": {
+    "name": "Nashtah Pup",
+    "model": "Modified Z-95 Headhunter",
+    "shield_gen": "Equipped",
+    "armament": "Equipped",
+    "crew": "2",
+    "lifesupport": "Limited",
+    "role": [
+      "Scout ship",
+      "Shuttle"
+    ],
+    "owners": "Bossk"
+  },
+  "scraped": "2026-07-03"
+}

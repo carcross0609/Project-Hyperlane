@@ -1,0 +1,27 @@
+{
+  "name": "Reverent",
+  "wookieepedia_title": "Reverent",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reverent",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Reverent was an Imperial Dreadnought that served as the flagship of the Jedi lord Hanrai. The ship was white and flecked with gold, and the former Sith known as the Ronin compared it to a palace in the shape of a knife. The ship had lavish halls made of organic material, and gardens styled to evoke the current season in the territory on the planet Watoru where Hanrai's home estate was located. The Reverent was destroyed by the Ronin after he was captured and brought aboard it in the Dekien system.",
+  "data": {
+    "name": "Reverent",
+    "model": "Imperial Dreadnought",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "cargohandling": [
+      "Main hold",
+      "Sub-hold",
+      "Sub-sub-holds"
+    ],
+    "destroyed": "Dekien system",
+    "affiliation": [
+      "The Empire",
+      "Hanrai's clan"
+    ],
+    "owners": "Hanrai"
+  },
+  "scraped": "2026-07-03"
+}

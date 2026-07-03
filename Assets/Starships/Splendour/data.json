@@ -1,0 +1,25 @@
+{
+  "name": "Splendour",
+  "wookieepedia_title": "Splendour",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Splendour",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Splendour was a Kom'rk-class fighter/transport owned by the Besalisk criminal Galus Vez. Vez used the starship to race opponents on his private racing track, the Fool's Run, where he could activate asteroid thrusters remotely from his ship to drive asteroids into opponents. About five years before the Battle of Yavin, Vez used the Splendour to race against the Twi'lek Hera Syndulla, who piloted the Ghost. The Besalisk used asteroids to slow his opponent, but was struck by asteroids himself when Sydnulla's companions used the Force to aid their friend.",
+  "data": {
+    "name": "Splendour",
+    "model": "Kom'rk-class fighter/transport",
+    "length": "52.3 meters",
+    "width": "52.4 meters",
+    "height": "13.23 meters",
+    "armament": [
+      "2 forward-facing laser cannons",
+      "2 rear-facing laser cannons"
+    ],
+    "crew": "24",
+    "othersystems": "Asteroid thruster controls",
+    "role": "Racing vessel",
+    "owners": "Galus Vez"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "SkyBlind",
+  "wookieepedia_title": "SkyBlind",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SkyBlind",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The SkyBlind was a reconnaissance starship designed by Loronar Corporation for planetary exploration. The main idea in mind for the design was to stay concealed while gathering information over a planet, to avoid hostile reactions from unknown lifeforms or primitive cultures. The SkyBlind used both sensor jammers and visually cloaking optical shields to conceal itself. To a casual observer on the ground, a SkyBlind would appear as a discoloration in atmosphere that would be easily confused with natural phenomena.",
+  "data": {
+    "name": "SkyBlind",
+    "manufacturer": "Loronar Corporation",
+    "type": "Reconnaissance scout vessel",
+    "cost": [
+      "650,000 credits (new)",
+      "400,000 credits (used)"
+    ],
+    "length": "21 meters",
+    "max_speed": "650 kmh",
+    "hyperdrive": [
+      "Class 3",
+      "Class 20"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Proton torpedo launcher",
+      "  Payload: 6 proton torpedoes"
+    ],
+    "complement": "Landing sphere (1)",
+    "crew": "1",
+    "passengers": "7",
+    "capacity": [
+      "50 metric tons",
+      "20 cubic meters"
+    ],
+    "consumables": "6 months",
+    "availability": "Licensed",
+    "role": "Reconnaissance"
+  },
+  "scraped": "2026-07-03"
+}

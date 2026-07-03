@@ -1,0 +1,34 @@
+{
+  "name": "Halo",
+  "wookieepedia_title": "Halo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Halo",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Halo was an SS-54 assault ship owned by the Zabrak bounty hunter Sugi during the Clone Wars. Over the course of the Galactic Civil War, this ship came into the possession of Sugi's niece, Jas Emari.",
+  "data": {
+    "name": "Halo",
+    "manufacturer": "Botajef Shipyards",
+    "model": "SS-54 assault ship",
+    "type": "Gunship",
+    "length": "24.2 meters",
+    "max_speed": "800 kph",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "2 twin ZX7 laser cannons",
+      "Under Sugi:",
+      "1 aft-mounted dual laser cannon",
+      "Under Jas:",
+      "1 Quad rail-thrower turret"
+    ],
+    "bays": "1",
+    "crew": "2",
+    "affiliation": "Norra Wexley's team",
+    "owners": [
+      "Jas Emari",
+      "Sugi"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

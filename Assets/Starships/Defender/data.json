@@ -1,0 +1,44 @@
+{
+  "name": "Defender",
+  "wookieepedia_title": "Defender",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defender",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Venator-class Star Destroyer, the Defender served as part of the Galactic Republic's naval branch, in the Open Circle Fleet, during the Clone Wars. Under the command of Jedi General Anakin Skywalker, the Star Destroyer was incorporated into the Jedi Knight's fleet by the time of 21 BBY. In that year, the Defender and Skywalker's fleet, which also consisted of the Venator-class Star Destroyers Resolute&mdash;Skywalker's flagship&mdash;and Redeemer, were sent to attack and break through a Confederacy of Independent Systems blockade over the planet Ryloth.",
+  "data": {
+    "name": "Defender",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Ion drive thrusters (8)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "8 DBY-827 heavy turbolaser turrets",
+      "2 medium dual turbolaser cannons",
+      "52 point-defense laser cannons",
+      "4 proton torpedo launchers",
+      "6 tractor beam projectors"
+    ],
+    "complement": "V-19 Torrent starfighters",
+    "bays": "Dorsal hangar",
+    "escapepods": "Escape pods",
+    "communications": "2 hyperwave comm scanners",
+    "role": [
+      "Battleship",
+      "Starfighter carrier"
+    ],
+    "destroyed": "21 BBY, Ryloth system",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "fleet": [
+      "Open Circle Fleet",
+      "  Skywalker's fleet"
+    ],
+    "captains": "Anakin Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

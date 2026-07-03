@@ -1,0 +1,45 @@
+{
+  "name": "Mandator IV-class Siege Dreadnought",
+  "wookieepedia_title": "Mandator IV-class Siege Dreadnought",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mandator_IV-class_Siege_Dreadnought",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Mandator IV-class Siege Dreadnought, also known as the Mandator IV-class warship and the First Order Dreadnought, was a model of Siege Dreadnought utilized by the First Order during the Cold War against the New Republic and during the First Order-Resistance War.",
+  "data": {
+    "name": "Mandator IV-class Siege Dreadnought",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "line": "Mandator line",
+    "model": "Mandator IV-class Siege Dreadnought",
+    "type": "Siege Dreadnought",
+    "length": "7,669.71 meters (25,163.09 feet)",
+    "width": "4,121.02 meters",
+    "height": "770.85 meters",
+    "engine": [
+      "Main sublight and hyperdrive engines (4)",
+      "Maneuvering engines (6)"
+    ],
+    "hyperdrive": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators (6)",
+    "armament": [
+      "Orbital autocannons (2)",
+      "Dorsal point-defense anti-aircraft cannons (26)",
+      "Tractor beam projectors (6)"
+    ],
+    "complement": [
+      "TIE/fo space superiority fighters",
+      "TIE/sf space superiority fighters"
+    ],
+    "crew": [
+      "53,000 officers",
+      "140,000 enlisted",
+      "22,000 Stormtroopers"
+    ],
+    "role": "Orbital bombardment",
+    "affiliation": [
+      "First Order",
+      "  First Order Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

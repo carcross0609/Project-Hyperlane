@@ -1,0 +1,37 @@
+{
+  "name": "Jabitha",
+  "wookieepedia_title": "Jabitha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jabitha",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Jabitha was a starship of Sekotan design that was built for and used briefly by Obi-Wan Kenobi and Anakin Skywalker. Like all ships produced by the builders of Zonama Sekot, it was a melding of ordinary manufactured components such as engines, a hyperdrive, shields, navigational systems, and other such equipment with an organic body and \"mind\" that was bonded to those for whom it was crafted. Shortly after the vessel's birth, the world that produced it was attacked by forces of the Galactic Republic under Wilhuff Tarkin; damaged in the battle, Jabitha suffered critical damage, dying before the Jedi could make their way back to Coruscant.",
+  "data": {
+    "name": "Jabitha",
+    "manufacturer": "Zonama Sekot Shipbuilders",
+    "model": "Handcrafted Sekotan personal starship",
+    "type": "Space transport",
+    "cost": "1,000,000 credits (new)",
+    "length": "25 meters",
+    "width": "30 meters (wingspan)",
+    "max_accel": "5,200 G",
+    "max_speed": "1,200 km/h",
+    "engine": "Modified HCE Type-7 Silver-class light starship engines (2)",
+    "hyperdrive": "Class 1.0 (Class 0.4 with Anakin Skywalker piloting)",
+    "hdsystem": "Modified HCE hyperdrive motivator",
+    "shield_gen": "Equipped",
+    "armament": "None",
+    "crew": "Pilot (1)",
+    "passengers": "6",
+    "capacity": "22 tons",
+    "consumables": "1 month",
+    "role": "High-speed personnel shuttle",
+    "destroyed": "29 BBY",
+    "affiliation": [
+      "Zonama Sekot",
+      "Jedi Order (owned by Anakin and Obi-Wan)"
+    ],
+    "captains": "Anakin Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Mayjeln",
+  "wookieepedia_title": "Mayjeln (freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mayjeln_%28freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Mayjeln was a transport ship used in times of the Galactic Empire.",
+  "data": {
+    "name": "Mayjeln",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "XS-800 light freighter",
+    "type": "Light freighter",
+    "length": "30.2 meters",
+    "max_speed": "900 kmh",
+    "hyperdrive": [
+      "x1 (Primary)",
+      "x12 (Backup)"
+    ],
+    "armament": [
+      "Quad laser cannon",
+      "Double laser cannon",
+      "Blaster cannon"
+    ],
+    "crew": "1 to 2",
+    "passengers": "8",
+    "capacity": "115 metric tons",
+    "consumables": "2 months",
+    "owners": "Rai-Kalei"
+  },
+  "scraped": "2026-07-03"
+}

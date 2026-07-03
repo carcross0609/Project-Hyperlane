@@ -1,0 +1,58 @@
+{
+  "name": "Saak'ak",
+  "wookieepedia_title": "Saak'ak/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Saak%27ak/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Saak'ak, known as Profiteer in Basic, was the flagship of the Trade Federation blockade fleet over the planet Naboo. During that time, it was captained by Daultay Dofine. The vessel started as a Lucrehulk-class freighter before being extensively modified to become a battleship. The Saak'ak retained its basic outward shape of two cargo arms in a crescent shape with a center sphere connected to the engine blocks. During the blockade of Naboo, the Saak'ak was visited by two Jedi Knights, ambassadors to the Galactic Republic's Supreme Chancellor. Darth Sidious ordered the Jedi's destruction, and Viceroy Nute Gunray attempted to carry out the order. The Jedi escaped the dioxis gas and tried to cut through the bridge's blast doors, but were forced to escape the vessel after an ambush by destroyer droids. After the occupation was complete, the Saak'ak commanders transferred to the Lucrehulk-class Droid Control Ship Vuutun Palaa.",
+  "data": {
+    "name": "Saak'ak",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Modified Lucrehulk-class LH-3210 cargo freighter",
+    "type": "Battleship",
+    "length": "3,170 meters (diameter)",
+    "max_speed": "500 KPH",
+    "engine": [
+      "3 Rendili StarDrive proton 2 (primary)",
+      "4 proton 12 (secondary)"
+    ],
+    "hyperdrive": "Class 2",
+    "hull": "Durasteel plating",
+    "armament": "Quad Turbolaser emplacements (42)",
+    "complement": [
+      "50 C-9979 landing craft",
+      "  A C-9979 landing craft",
+      "1,500 Vulture droid starfighters",
+      "  DFS Starfighter Squadron",
+      "1,500 Platoon Attack Craft",
+      "550 Multi-Troop Transports",
+      "6,250 Armored Assault Tanks",
+      "B1-Series battle droids",
+      "OOM security battle droids",
+      "OOM pilot battle droids",
+      "A Loader Droid",
+      "Trade Federation maintenance droids",
+      "P-series destroyer droids",
+      "PK-series worker droids",
+      "TC-series protocol droids"
+    ],
+    "crew": "2,500",
+    "communications": [
+      "Holoprojectors",
+      "Military-strength array"
+    ],
+    "othersystems": [
+      "Cloaking device",
+      "50 conference rooms",
+      "Core ship"
+    ],
+    "role": [
+      "Freighter",
+      "Battleship"
+    ],
+    "affiliation": "Trade Federation",
+    "captains": "Captain Daultay Dofine"
+  },
+  "scraped": "2026-07-03"
+}

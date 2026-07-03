@@ -1,0 +1,38 @@
+{
+  "name": "Munifex-class light cruiser",
+  "wookieepedia_title": "Munifex-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Munifex-class_light_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Munifex-class light cruiser, colloquially known as the Class 1000 cruiser, was a light cruiser design from Kuat Drive Yards, used by the Trade Defense Force and the Galactic Empire.",
+  "data": {
+    "name": "Munifex-class light cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Munifex-class light cruiser",
+    "type": "Cruiser",
+    "length": "300 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "armament": [
+      "Turbolasers (28)",
+      "Ion cannons (12)"
+    ],
+    "complement": "TIE starfighter squadron (1)",
+    "crew": [
+      "Crew (580)",
+      "Gunners (80)"
+    ],
+    "passengers": "200 troops",
+    "capacity": "500 metric tons",
+    "role": "Patrol",
+    "firstuse": "By 214 BBY",
+    "affiliation": [
+      "Trade Federation of Planets",
+      "  Trade Defense Force",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

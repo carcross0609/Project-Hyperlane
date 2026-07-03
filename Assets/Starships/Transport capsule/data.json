@@ -1,0 +1,17 @@
+{
+  "name": "Transport capsule",
+  "wookieepedia_title": "Transport capsule",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Transport_capsule",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A transport capsule is a type of vehicle used to transport equipment and/or biological beings across the galaxy.",
+  "data": {
+    "name": "Transport capsule",
+    "engine": [
+      "1 primary engine",
+      "4 secondary engines"
+    ],
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

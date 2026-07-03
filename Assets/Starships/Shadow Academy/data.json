@@ -1,0 +1,33 @@
+{
+  "name": "Shadow Academy",
+  "wookieepedia_title": "Shadow Academy",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shadow_Academy",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Shadow Academy was a battle station that was used as a hidden training center by the Second Imperium. The center was founded by the fallen Jedi Brakiss to train Dark Jedi in 23 ABY.",
+  "data": {
+    "name": "Shadow Academy",
+    "manufacturer": "Second Imperium",
+    "type": "Battlestation",
+    "countermeasures": "Cloaking device",
+    "armament": "Various gun emplacements",
+    "complement": [
+      "TIE Fighters",
+      "TIE/sa bombers",
+      "GAT-12 Skipray Blastboats",
+      "Imperial Assault Shuttles",
+      "Battle Platforms"
+    ],
+    "role": [
+      "Mobile training center",
+      "Battlestation",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Brakiss",
+      "Second Imperium"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

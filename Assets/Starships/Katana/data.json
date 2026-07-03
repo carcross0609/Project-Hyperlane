@@ -1,0 +1,27 @@
+{
+  "name": "Katana",
+  "wookieepedia_title": "Katana",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Katana",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Katana was a Dreadnaught-class heavy cruiser that served in the Judicial Starfleet of the Old Republic. It was the flagship of the fleet that bore its name.",
+  "data": {
+    "name": "Katana",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Dreadnaught-class heavy cruiser",
+    "sysmods": "Slave circuit",
+    "complement": "AT-PT walkers",
+    "crew": "2,200",
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic"
+    ],
+    "navy": [
+      "Judicial Fleet",
+      "  Katana fleet",
+      "New Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

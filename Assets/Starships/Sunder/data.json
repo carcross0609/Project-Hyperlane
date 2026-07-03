@@ -1,0 +1,23 @@
+{
+  "name": "Sunder",
+  "wookieepedia_title": "Sunder",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sunder",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sunder was an Onager-class Star Destroyer that belonged to the Imperial Navy during the Imperial Era. At one point, it sustained damage to its hull when exchanging fire with an enemy MC80 Star Cruiser in an asteroid field. The Star Destroyer was equipped with engines, and was armed with multiple turbolaser emplacements and a pair of superweapons on its bow. The Sunder was 1,288 meters in length.",
+  "data": {
+    "name": "Sunder",
+    "model": "Onager-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,288 meters",
+    "engine": "Equipped",
+    "armament": [
+      "Superweapons (2)",
+      "Turbolasers"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

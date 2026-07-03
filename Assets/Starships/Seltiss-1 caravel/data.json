@@ -1,0 +1,32 @@
+{
+  "name": "Seltiss-1 caravel",
+  "wookieepedia_title": "Seltiss-1 caravel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Seltiss-1_caravel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Seltiss-1 caravel was a Hutt transport vessel.",
+  "data": {
+    "name": "Seltiss-1 caravel",
+    "manufacturer": "Ubrikkian Industries",
+    "model": "Seltiss-1 caravel",
+    "type": "Caravel",
+    "cost": "Not available for sale (valued at 1,255,000 credits)",
+    "length": "30 meters",
+    "hyperdrive": "None (typically)",
+    "armament": [
+      "(4) Turret-mounted turbolasers",
+      "(1) Concussion missile launcher (15 missiles)",
+      "(1) Tractor beam projector"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunners (3)"
+    ],
+    "passengers": "65",
+    "capacity": "150 metric tons",
+    "role": "Transport",
+    "affiliation": "Hutts"
+  },
+  "scraped": "2026-07-03"
+}

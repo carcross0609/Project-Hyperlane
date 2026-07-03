@@ -1,0 +1,28 @@
+{
+  "name": "Arquitens-class light cruiser",
+  "wookieepedia_title": "Arquitens-class light cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arquitens-class_light_cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Arquitens-class light cruiser, known more commonly as the Republic light cruiser or the Jedi light cruiser, was a Galactic Republic ship used by the Republic Navy during the Clone Wars.",
+  "data": {
+    "name": "Arquitens-class light cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Arquitens-class light cruiser",
+    "type": "Light cruiser",
+    "engine": "3",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Quad laser turrets (4)",
+      "Dual turbolaser cannons (4)",
+      "Missile tubes (4)"
+    ],
+    "crew": "100",
+    "skeleton": "Pilots (20)",
+    "passengers": "At least 100 troops",
+    "role": "Escort cruiser",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

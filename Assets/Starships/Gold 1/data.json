@@ -1,0 +1,22 @@
+{
+  "name": "Gold 1",
+  "wookieepedia_title": "Gold 1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gold_1",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Gold 1 was the designation of a BTL-A4 Y-wing in service to the Alliance to Restore the Republic. It was flown by Jon \"Dutch\" Vander and had previously been designated as Specter 1 when the starfighter had been part of Specter Squadron and stationed at Renforra Base. Gold 1 was destroyed by Darth Vader during the Battle of Yavin when Vander attempted to launch proton torpedoes into the Death Star's thermal exhaust port.",
+  "data": {
+    "name": "Gold 1",
+    "line": "BTL Y-wing starfighter",
+    "model": "BTL-A4 Y-wing starfighter",
+    "destroyed": "0 BBY, Yavin system",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Specter Squadron",
+      "  Gold Squadron"
+    ],
+    "captains": "Jon \"Dutch\" Vander"
+  },
+  "scraped": "2026-07-03"
+}

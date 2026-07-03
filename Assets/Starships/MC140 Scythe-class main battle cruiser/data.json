@@ -1,0 +1,53 @@
+{
+  "name": "MC140 Scythe-class main battle cruiser",
+  "wookieepedia_title": "MC140 Scythe-class main battle cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC140_Scythe-class_main_battle_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MC140 Scythe-class main battle cruiser was the primary warship of the Galactic Alliance Defense Fleet approximately one hundred years after the Yuuzhan Vong War. Designed and produced by the famed Mon Calamari Shipyards, the Scythe was a radical departure from normal Mon Calamari starship design. In addition to the unique front blade, the Scythe-class was a mass-produced, standardized design, unlike prior generations of the Mon Calamari Star Cruiser.",
+  "data": {
+    "name": "MC140 Scythe-class main battle cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "Scythe-class main battle cruiser",
+    "type": "Battle cruiser",
+    "cost": "Not available for sale",
+    "hyperdrive": "Class 0.75 (backup class 8)",
+    "hdsystem": "Equipped",
+    "power": "Main and auxiliary power generators",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Heavy turbolaser batteries (3)",
+      "Turbolaser batteries (6)",
+      "Heavy ion cannon batteries (2)",
+      "Proton torpedo tubes (40)",
+      "  160 proton torpedoes",
+      "Tractor beam batteries (2)"
+    ],
+    "complement": [
+      "CF9 Crossfire starfighters (36)",
+      "Shuttles (4)",
+      "Assault ships",
+      "Supply ships"
+    ],
+    "crew": "5,200",
+    "passengers": "1,500 (troops)",
+    "cargohandling": "18,000 tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "role": [
+      "Battlecruiser",
+      "Fleet carrier",
+      "Command ship"
+    ],
+    "firstuse": "92 ABY",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Core Fleet",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

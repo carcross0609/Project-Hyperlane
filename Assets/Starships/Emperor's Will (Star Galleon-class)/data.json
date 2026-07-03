@@ -1,0 +1,43 @@
+{
+  "name": "Emperor's Will",
+  "wookieepedia_title": "Emperor's Will (Star Galleon-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Emperor%27s_Will_%28Star_Galleon-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Emperor's Will was a Star Galleon-class frigate operated by the Imperial Taxation Bureau in 0 ABY, at the time of the Galactic Civil War between the Galactic Empire and the Alliance to Restore the Republic. That year, the ship set out on a journey to the planet Esseles with a cargo amounting to 400 million credits and accompanied by the Imperial Navy's EF76 Nebulon-B escort frigate Zaff Jendinpurg. However, its cargo was captured by the Far Orbit, a Nebulon-B frigate that was acting as a privateer vessel for the Alliance, on the way to Esseles after the privateers destroyed the Zaff Jendinpurg. The Emperor's Will was forced to release its ejectable cargo bay pod in an attempt to get it and the treasure it contained away from the privateers, though the Far Orbit was still able to capture the pod.",
+  "data": {
+    "name": "Emperor's Will",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Star Galleon-class frigate",
+    "type": "Frigate",
+    "cost": "Not available for sale",
+    "length": "300 meters",
+    "hyperdrive": "Class 2 (primary), Class 15 (backup)",
+    "shield_gen": "Enabled",
+    "sensor": "Enabled",
+    "navigation": "Enabled",
+    "armament": [
+      "10 Turbolasers",
+      "1 Concussion missile launcher"
+    ],
+    "crew": [
+      "130 crew",
+      "20 gunners"
+    ],
+    "skeleton": [
+      "50 crew",
+      "10 gunners"
+    ],
+    "passengers": "300 (troopers)",
+    "capacity": "100,000 metric tons",
+    "consumables": "3 months",
+    "role": "Cargo/escort frigate",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Taxation Bureau"
+    ],
+    "captains": "Emperor's Will captain"
+  },
+  "scraped": "2026-07-03"
+}

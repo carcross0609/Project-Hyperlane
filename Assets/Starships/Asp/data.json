@@ -1,0 +1,33 @@
+{
+  "name": "Asp",
+  "wookieepedia_title": "Asp",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Asp",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Asp was a Strike-class medium cruiser used by the Galactic Empire. Asp and Eel were to go up against MC40a light cruisers Ta and Re. Both ships had TIE Avengers from Avenger Squadron and Assault Gunboats from Talon Squadron.",
+  "data": {
+    "name": "Asp",
+    "manufacturer": "Loronar Corporation",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "1600 SBD",
+    "hull": "768 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

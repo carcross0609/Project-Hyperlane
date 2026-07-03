@@ -1,0 +1,41 @@
+{
+  "name": "Terminus-class destroyer",
+  "wookieepedia_title": "Terminus-class destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Terminus-class_destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Terminus-class destroyer was a capital ship of the reconstituted Sith Empire in use by the Cold War.",
+  "data": {
+    "name": "Terminus-class destroyer",
+    "model": "Terminus-class",
+    "type": [
+      "Destroyer",
+      "Capital ship"
+    ],
+    "sensor": "Dual long-range sensor towers",
+    "armament": [
+      "Turbolaser cannons",
+      "Laser turrets",
+      "1 Ion cannon",
+      "Concussion missiles"
+    ],
+    "complement": [
+      "Starfighters (14)",
+      "Bombers (2)",
+      "Shuttles (3)"
+    ],
+    "crew": "520",
+    "passengers": "285 (troops)",
+    "role": [
+      "Patrol vessel",
+      "Destroyer"
+    ],
+    "affiliation": [
+      "Sith Empire",
+      "  Imperial Navy",
+      "Eternal Alliance",
+      "  Eternal Alliance fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

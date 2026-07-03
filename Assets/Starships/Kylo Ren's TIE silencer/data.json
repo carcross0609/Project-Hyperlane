@@ -1,0 +1,41 @@
+{
+  "name": "Kylo Ren's TIE silencer",
+  "wookieepedia_title": "Kylo Ren's TIE silencer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kylo_Ren%27s_TIE_silencer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Kylo Ren's TIE silencer was a prototype TIE/vn space superiority fighter used by Kylo Ren during the First Order's war with the Resistance. Ren's use of the TIE silencer allowed Sienar-Jaemus Fleet Systems to refine its onboard system from his detailed post-flight reports.",
+  "data": {
+    "name": "Kylo Ren's TIE silencer",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE fighter series",
+    "model": "TIE/vn space superiority fighter prototype",
+    "type": "Starfighter",
+    "length": "17.43 meters (57.190 ft)",
+    "width": "7.62 meters (25 ft)",
+    "height": "3.76 meters (12.34 ft)",
+    "engine": "Twin ion engine arrays",
+    "hdsystem": "Equipped",
+    "power": "Equipped",
+    "shield_gen": "Deflector shield generator and projector",
+    "target": "Equipped",
+    "armament": [
+      "SJFS L-s9.6 laser cannons (2)",
+      "SJFS L-7.5 heavy laser cannons (2)",
+      "Arakyd ST7 concussion missile and mag-pulse warhead launchers (~1)",
+      "Proton torpedo launcher (2)"
+    ],
+    "crew": "Pilot (1)",
+    "othersystems": "Advanced stealth field generator",
+    "role": "Space superiority fighter",
+    "affiliation": [
+      "First Order",
+      "Knights of Ren"
+    ],
+    "navy": "First Order Navy",
+    "fleet": "Supremacy task force",
+    "owners": "Kylo Ren"
+  },
+  "scraped": "2026-07-03"
+}

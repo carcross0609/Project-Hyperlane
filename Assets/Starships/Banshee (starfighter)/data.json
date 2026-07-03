@@ -1,0 +1,22 @@
+{
+  "name": "Banshee",
+  "wookieepedia_title": "Banshee (starfighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Banshee_%28starfighter%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Banshee was a Ginivex-class fanblade starfighter used by Separatist Alliance commander and Sith assassin Asajj Ventress during the Clone Wars. Ventress used the Banshee during the Battle of Sullust, and survived thanks to its design. Later, during her time as a bounty hunter, Ventress used a modified Lancer-class pursuit craft that was also named the Banshee.",
+  "data": {
+    "name": "Banshee",
+    "model": "Ginivex-class fanblade starfighter",
+    "type": "Starfighter",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Sith Order"
+    ],
+    "navy": "Confederacy of Independent Systems Navy",
+    "fleet": "Ventress's fleet",
+    "owners": "Asajj Ventress"
+  },
+  "scraped": "2026-07-03"
+}

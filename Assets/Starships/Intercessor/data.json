@@ -1,0 +1,36 @@
+{
+  "name": "Intercessor",
+  "wookieepedia_title": "Intercessor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Intercessor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Intercessor was a Valor-class cruiser in the service of the Republic Navy that participated in multiple battles during the Great Galactic War against the Sith Empire. The Intercessor was part of the Republic fleet that defended Bothawui during the First Battle of Bothawui in 3671 BBY, and it was one of the few ships that escaped the Battle of Hoth intact six years later. However, the Intercessor was damaged by an Imperial ambush above Vondoru over two decades later when the Galactic War broke out in 3642 BBY, and the elite Empire's Fury squadron destroyed the Valor-class cruiser and its reinforcements not long afterwards.",
+  "data": {
+    "name": "Intercessor",
+    "model": "Valor-class cruiser",
+    "type": "Capital ship",
+    "length": ">500 meters",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Turbolaser cannons",
+      "Quad-laser turrets",
+      "Ion cannons",
+      "Proton torpedo",
+      "Concussion missiles"
+    ],
+    "complement": [
+      "110 Starfighters",
+      "  Liberator-class starfighters",
+      "40 bombers",
+      "25 shuttles"
+    ],
+    "crew": "1,900",
+    "passengers": "5,000 troops",
+    "role": "Capital ship",
+    "destroyed": "3642 BBY",
+    "affiliation": "Republic Navy"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Sheathipede-class transport shuttle",
+  "wookieepedia_title": "Sheathipede-class transport shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sheathipede-class_transport_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Sheathipede-class transport shuttle, also known as the Sheathipede-class shuttle and as the Neimoidian escort shuttle, was a short-range transport used by the Trade Federation and the Confederacy of Independent Systems. Multiple versions of the shuttle existed including a a larger version with an extended midsection, weaponized and weaponless variants, and a droid-pilot variant. The Sheathipede shuttle also shared many of its characteristics with the much larger Maxillipede shuttle.",
+  "data": {
+    "name": "Sheathipede-class transport shuttle",
+    "manufacturer": "Haor Chall Engineering Corporation",
+    "type": "Transport shuttle",
+    "cost": "120,000 credits",
+    "length": "14.4 meters",
+    "max_speed": "880 kph",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Short-ranged sensor",
+    "navigation": "Equipped",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Comms operator (1)",
+      "Engineer (1)"
+    ],
+    "passengers": "8",
+    "capacity": "150 tons (without passengers)",
+    "consumables": "Two months",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Galactic Republic (appropriated)",
+      "  Galactic Republic Navy (appropriated)",
+      "Nightsisters",
+      "  Mother Talzin's clan",
+      "Agamar garrison",
+      "Alliance to Restore the Republic",
+      "  Phoenix Cell",
+      "  Spectres",
+      "New Republic",
+      "Warbird gang"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

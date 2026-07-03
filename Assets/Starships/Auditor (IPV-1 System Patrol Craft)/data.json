@@ -1,0 +1,28 @@
+{
+  "name": "Auditor",
+  "wookieepedia_title": "Auditor (IPV-1 System Patrol Craft)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Auditor_%28IPV-1_System_Patrol_Craft%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Auditor was a Sienar Fleet Systems IPV-1 System Patrol Craft assigned to the planet Demophon during the Galactic Civil War. It attempted to stop the Black Obsession as it smuggled political prisoners off world.",
+  "data": {
+    "name": "Auditor",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "IPV-1 System Patrol Craft",
+    "length": "120 meters",
+    "max_speed": "850 KMH",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "4 laser cannon",
+    "crew": "12; 4 gunners",
+    "skeleton": "3",
+    "passengers": "10 (troops)",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "lifesupport": "Equipped",
+    "role": "Inter-system patrol",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Vulture's Claw",
+  "wookieepedia_title": "Vulture's Claw",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vulture%27s_Claw",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vulture's Claw was a GS-100 salvage ship owned by the Trandoshan scavenger Gha Nachkt. Following the Battle of Bothawui, Nachkt scavenged Jedi Knight Anakin Skywalker's astromech droid, R2-D2, from the debris and stored him aboard the Vulture's Claw. Skywalker and his Padawan Ahsoka Tano visited Nachkt onboard his ship in search of the droid, but did not discover him and left shortly after fighting and destroying two IG-86 sentinel droids. Nachkt would later deliver R2 to General Grievous and the Separatists at Skytop Station.",
+  "data": {
+    "name": "Vulture's Claw",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "GS-100 salvage ship",
+    "type": "Salvage freighter",
+    "length": "174.8 meters",
+    "max_speed": "400 kilometers per hour",
+    "engine": "4",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Torpedoes",
+      "Dual laser cannon"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilots (2)"
+    ],
+    "passengers": "20 (droid workers)",
+    "capacity": "140 tons",
+    "consumables": "1 month",
+    "owners": "Gha Nachkt"
+  },
+  "scraped": "2026-07-03"
+}

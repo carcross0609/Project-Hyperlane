@@ -1,0 +1,49 @@
+{
+  "name": "Ravager",
+  "wookieepedia_title": "Ravager",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ravager",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ravager was an Executor-class Star Dreadnought of the Imperial Navy. It was also one of the largest and most powerful military warships ever constructed by the Galactic Empire. By the time of the Rebellion on Akiva, the Ravager was known to be the last remaining Super Star Destroyer in the Imperial Navy, commanded by Fleet Admiral&mdash;and later Counselor to the Empire&mdash;Gallius Rax, who was presumed dead by the majority of the remaining Imperials in the months following the Battle of Endor.",
+  "data": {
+    "name": "Ravager",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Executor-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "length": "19,000 meters",
+    "max_speed": "100 kilometers per hour",
+    "engine": "Engine thrusters (13)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "hull": "Titanium-reinforced",
+    "armament": [
+      "Turbolasers (5,000)",
+      "Ion cannons",
+      "Concussion missile tubes"
+    ],
+    "complement": [
+      "Over 1,000 ships",
+      "  TIE/ln space superiority starfighters",
+      "  TIE/sa bombers",
+      "  TIE/IN interceptors"
+    ],
+    "bays": "At least 1",
+    "crew": "Thousands",
+    "role": [
+      "Command ship",
+      "Warship",
+      "Flagship"
+    ],
+    "destroyed": "5 ABY, Jakku",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Gallius Rax",
+    "captains": [
+      "Rae Sloane",
+      "Randd",
+      "Gaelan"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

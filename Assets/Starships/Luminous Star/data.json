@@ -1,0 +1,25 @@
+{
+  "name": "Luminous Star",
+  "wookieepedia_title": "Luminous Star",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Luminous_Star",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Luminous Star was a Seltiss-1 caravel that was built by Ubrikkian Industries and used by the company Skydove Freight to carry goods between the planet Nal Hutta and the moon Nar Shaddaa. In about 19 ABY, Luminous Star became damaged during an encounter with some space pirates, which rendered the starship's weapons systems inoperable, and the vessel was subsequently berthed in a Skydove Freight warehouse on Nar Shaddaa.",
+  "data": {
+    "name": "Luminous Star",
+    "manufacturer": "Ubrikkian Industries",
+    "model": "Seltiss-1 caravel",
+    "length": "30 meters",
+    "armament": [
+      "4 turbolaser cannons",
+      "1 concussion missile launcher",
+      "1 tractor beam projector"
+    ],
+    "crew": "5",
+    "passengers": "65",
+    "capacity": "150 metric tons",
+    "affiliation": "Skydove Freight"
+  },
+  "scraped": "2026-07-03"
+}

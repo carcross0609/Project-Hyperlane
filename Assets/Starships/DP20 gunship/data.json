@@ -1,0 +1,38 @@
+{
+  "name": "DP20 gunship",
+  "wookieepedia_title": "DP20 gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DP20_gunship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The DP20 gunship, also known as the DP20 Frigate or simply as the DP20 and colloquially referred to as the Corellian Gunship, was a warship model manufactured by the Corellian Engineering Corporation. It saw service in the Galactic Republic, the Galactic Empire, and then notably in the Alliance to Restore the Republic.",
+  "data": {
+    "name": "DP20 gunship",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "DP20 Frigate",
+    "type": "Frigate",
+    "cost": "3,200,000 credits",
+    "power": "Oversized ionization reactor",
+    "shield_gen": "Deflector shield generator",
+    "sensor": "Long-range sensor",
+    "target": "Powerful targeting computer",
+    "armament": [
+      "Turret-mounted twin light turbolaser batteries (8)",
+      "Retractable turret-mounted quad laser cannons (6)",
+      "Concussion missile launchers (4)"
+    ],
+    "crew": "91 officers and crew",
+    "role": [
+      "Anti-starfighter",
+      "Anti-capital ship"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

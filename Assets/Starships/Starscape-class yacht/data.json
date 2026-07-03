@@ -1,0 +1,30 @@
+{
+  "name": "Starscape-class yacht",
+  "wookieepedia_title": "Starscape-class yacht",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starscape-class_yacht",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Starscape-class yacht was an elegant and very rare yacht created by Eleaor Propulsion. The most notable ship of this class was the Visionary, the personal transport of Exchange boss G0-T0.",
+  "data": {
+    "name": "Starscape-class yacht",
+    "manufacturer": "Eleaor Propulsion",
+    "model": "Starscape-class Yacht",
+    "type": "Yacht",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Light laser cannons (2)",
+      "Medium laser cannons (2)"
+    ],
+    "crew": "14",
+    "passengers": "12",
+    "capacity": "50 metric tons",
+    "consumables": "6 months",
+    "availability": "Unique",
+    "role": "Colossal space transport",
+    "affiliation": "Exchange"
+  },
+  "scraped": "2026-07-03"
+}

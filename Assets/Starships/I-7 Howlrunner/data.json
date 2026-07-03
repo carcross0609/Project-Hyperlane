@@ -1,0 +1,47 @@
+{
+  "name": "I-7 Howlrunner",
+  "wookieepedia_title": "I-7 Howlrunner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/I-7_Howlrunner",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Incom Corporation I-7 Howlrunner was a short range attack starfighter employed by the Galactic Empire during the Galactic Civil War.",
+  "data": {
+    "name": "I-7 Howlrunner",
+    "designer": "Jo Ewsli",
+    "manufacturer": "Incom Corporation",
+    "model": "I-7 Howlrunner",
+    "type": "Starfighter",
+    "cost": "165,000 credits",
+    "length": "11.4 meters",
+    "width": "7.8 meters",
+    "height": "2.3 meters",
+    "max_accel": "4,100 G",
+    "max_speed": "1,300 km/h",
+    "hdsystem": "None",
+    "power": [
+      "Main power generator (1)",
+      "Independent laser power generator (1)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (2)",
+    "crew": "Pilot (1)",
+    "capacity": "80 kilograms",
+    "consumables": "2 days",
+    "role": [
+      "Multi-environment attack fighter",
+      "Defense",
+      "Scout/shuttle (with optional hyperdrive)"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Dark Empire",
+      "Imperial Remnant",
+      "New Republic",
+      "Wild Knights",
+      "Peace Brigade",
+      "Five Worlds",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Count Dooku's solar sailer",
+  "wookieepedia_title": "Count Dooku's solar sailer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Count_Dooku%27s_solar_sailer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Count Dooku's solar sailer, also known as Count Dooku's Punworcca 116-class interstellar sloop, was a Punworcca 116-class interstellar sloop owned by Count Dooku after receiving it as a gift from the Geonosians. He used it as a private transport throughout the Clone Wars.",
+  "data": {
+    "name": "Count Dooku's solar sailer",
+    "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+    "model": "Punworcca 116-class",
+    "type": [
+      "Yacht",
+      "Solar sailer",
+      "Transport"
+    ],
+    "modifier": "Dooku",
+    "sysmods": "Solar-energy collecting sail",
+    "length": "16.7&ndash;16.76",
+    "width": "112.5 meters (sail width)",
+    "max_accel": [
+      "1,000G (with sail)",
+      "30G (with backup repulsors)"
+    ],
+    "mglt": "110 MGLT",
+    "max_speed": "1,600 kph (in atmosphere)",
+    "engine": "Backup repulsor engines",
+    "hyperdrive": "Class 1.5",
+    "hdsystem": "Equipped",
+    "armament": "84 narrow tractor/repulsor beams",
+    "crew": [
+      "1 droid pilot",
+      "Optional living copilot"
+    ],
+    "passengers": [
+      "1 in cabin",
+      "Standing room for 10"
+    ],
+    "othersystems": "Onboard databook library",
+    "role": "Transport",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Sith"
+    ],
+    "owners": "Dooku"
+  },
+  "scraped": "2026-07-03"
+}

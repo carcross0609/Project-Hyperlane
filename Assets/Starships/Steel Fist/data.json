@@ -1,0 +1,43 @@
+{
+  "name": "Steel Fist",
+  "wookieepedia_title": "Steel Fist",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Steel_Fist",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Steel Fist was a heavily-modified Corellian Engineering Corporation YT-1300 light freighter owned and operated by the bounty hunter Kolig during the early years of the New Republic. The craft also served as the main vessel and command base of Qulok's Fist, a small group of criminals who engaged in bounty hunting, smuggling, slavery, and mercenary work. The ship was used by the gang throughout the Outer Rim Territories, the Minos Cluster, and the Kathol sector. Well-armed, it was a considerable threat to smaller ships and merchant vessels.",
+  "data": {
+    "name": "Steel Fist",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300 light freighter",
+    "modifier": "Kolig",
+    "length": "26.7 meters",
+    "max_speed": "800 km/h",
+    "engine": "2",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "hull": "Reinforced armor plating",
+    "armament": [
+      "2 quad laser cannons",
+      "1 proton torpedo tube"
+    ],
+    "crew": [
+      "1",
+      "3 gunners"
+    ],
+    "passengers": "4",
+    "capacity": "75 metric tons",
+    "consumables": "2 months",
+    "role": [
+      "Mobile command ship",
+      "Personal transport"
+    ],
+    "affiliation": "Qulok's Fist",
+    "owners": "Kolig"
+  },
+  "scraped": "2026-07-03"
+}

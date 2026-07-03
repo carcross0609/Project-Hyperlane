@@ -1,0 +1,57 @@
+{
+  "name": "Y-4 Transport",
+  "wookieepedia_title": "Y-4 Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Y-4_Transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Y-4 Transport was a military transport manufactured by Incom Corporation. Quite common during the Zsinj campaign, they came to be so synonymous with Zsinj's Raptors that the vessels were called Y-4 Raptors in common conversation.",
+  "data": {
+    "name": "Y-4 Transport",
+    "manufacturer": "Incom Corporation",
+    "model": "Y-4 Transport",
+    "type": "Military Transport",
+    "cost": [
+      "250,000 credits (military model)",
+      "160,000 credits (civilian model)"
+    ],
+    "length": "28 meters",
+    "engine": "3 engine units",
+    "hyperdrive": [
+      "Class 1.5",
+      "Backup Class 8.0"
+    ],
+    "shield_gen": "Equipped",
+    "hull": "Heat-shielded armored hull with optional ablative coating",
+    "navigation": "Dedicated navigation computer",
+    "armament": [
+      "1 chin-mounted dual laser cannon",
+      "1 dorsal twin laser cannon turret",
+      "1 recessed concussion missile launcher",
+      "  Standard load: 6 missiles"
+    ],
+    "complement": [
+      "4 All Terrain Scout Transports",
+      "Several PX-10 CAVws and military speeder bikes"
+    ],
+    "crew": [
+      "1 pilot",
+      "2 gunners",
+      "1 astromech droid (optional)"
+    ],
+    "skeleton": "1",
+    "passengers": "40 (troops)",
+    "capacity": "300 metric tons",
+    "consumables": "1 month",
+    "role": [
+      "Military transport",
+      "Landing craft",
+      "Shuttle"
+    ],
+    "affiliation": [
+      "Imperial Navy",
+      "Warlord Zsinj",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

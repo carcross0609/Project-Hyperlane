@@ -1,0 +1,32 @@
+{
+  "name": "A519 Invader close support starfighter",
+  "wookieepedia_title": "A519 Invader close support starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A519_Invader_close_support_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The A519 Invader close support starfighter was a starfighter manufactured by Kuat Drive Yards.",
+  "data": {
+    "name": "A519 Invader close support starfighter",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "A519 Invader Close Support Starfighter",
+    "type": "Starfighter",
+    "cost": "125,000 credits (75,000 used)",
+    "max_speed": "1,450 km/h",
+    "hyperdrive": "Class 2",
+    "navigation": "Limited (2-jump capability)",
+    "armament": "Twin laser cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "75 kg",
+    "consumables": "6 days",
+    "availability": "Licensed",
+    "role": "Escort",
+    "affiliation": [
+      "Mercenaries",
+      "Law enforcement",
+      "Pirates",
+      "Black Sun"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Gios",
+  "wookieepedia_title": "Gios",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gios",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Gios was a Longbeam cruiser used by the Galactic Republic during the High Republic Era under the command of Jedi Master Keeve Trennis. Trennis used the Gios to fight an insurgent on the edge of the Republic. The cruiser shared its name with Jedi Master Stellan Gios, who died during the destruction of Starlight Beacon.",
+  "data": {
+    "name": "Gios",
+    "model": "Longbeam cruiser",
+    "type": "Cruiser",
+    "complement": [
+      "Z-28 Skywings",
+      "Jedi Vectors"
+    ],
+    "crew": "Republic peacekeeping troopers",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "navy": [
+      "Republic Defense Coalition",
+      "Stormwall Defense Fleet"
+    ],
+    "captains": "Keeve Trennis"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Trade Federation Dropship",
+  "wookieepedia_title": "Trade Federation Dropship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trade_Federation_Dropship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Trade Federation Dropship was a dropship used by the Trade Federation during the later years of the Galactic Republic.",
+  "data": {
+    "name": "Trade Federation Dropship",
+    "type": "Dropship",
+    "shield_gen": "Equipped",
+    "armament": "None",
+    "complement": [
+      "6 Armored Assault Tanks",
+      ":or",
+      "2 AMTs",
+      "6 B1-Series battle droids"
+    ],
+    "role": [
+      "Dropship",
+      "Freighter"
+    ],
+    "affiliation": "Trade Federation"
+  },
+  "scraped": "2026-07-03"
+}

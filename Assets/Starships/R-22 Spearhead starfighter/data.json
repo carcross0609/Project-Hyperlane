@@ -1,0 +1,29 @@
+{
+  "name": "R-22 Spearhead starfighter",
+  "wookieepedia_title": "R-22 Spearhead starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R-22_Spearhead_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The R-22 Spearhead starfighter, also known as the Tammuz-an R-22 Spearhead fighter and nicknamed the \"A-wing,\" was a state-of-the-art starfighter prototype developed by the Tammuz-an species as an escort fighter for their space navy. Inspired by the Aurek-class tactical strikefighter, its design was copied by Alliance Underground Engineering and Incom Corporation when they were developing the RZ-1 A-wing interceptor, an evolution of the R-22 Spearhead and Delta-7 Aethersprite-class light interceptor.",
+  "data": {
+    "name": "R-22 Spearhead starfighter",
+    "manufacturer": "Tammuz-an",
+    "model": "R-22 Spearhead",
+    "type": "Starfighter",
+    "armament": [
+      "Laser cannons (2)",
+      "Concussion-missile launchers (2)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "1 (two-seater only)",
+    "role": [
+      "Escort",
+      "Interceptor"
+    ],
+    "affiliation": [
+      "Tammuz-an space navy",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

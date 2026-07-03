@@ -1,0 +1,58 @@
+{
+  "name": "Eclipse",
+  "wookieepedia_title": "Eclipse (Executor-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eclipse_%28Executor-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eclipse was an Executor-class Star Dreadnought in service of the Galactic Empire. It also served as the flagship of Emperor Sheev Palpatine during the Age of the Empire.",
+  "data": {
+    "name": "Eclipse",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Executor-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "length": "19,000 meters",
+    "max_speed": "100 kilometers per hour",
+    "engine": "Engine thrusters (13)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "hull": "Titanium-reinforced",
+    "sensor": "Long-ranged sensors",
+    "navigation": "Equipped",
+    "armament": [
+      "Over 5,000 turbolasers",
+      "  Twin heavy turbolaser batteries (750)",
+      "  Turret-mounted twin light turbolaser batteries (1000)",
+      "Twin battleship ion cannons (100)",
+      "Assault concussion missile launchers (125)",
+      "Turret-mounted quad laser cannons (250)"
+    ],
+    "complement": [
+      "Over 1,000 ships",
+      "  TIE Series starfighters (144) (12 squadrons)",
+      "    TIE/ln space superiority starfighters",
+      "    TIE/sa bombers",
+      "    TIE/IN interceptors",
+      "  Assault shuttles, transport shuttles, and support craft (200)",
+      "  Y-85 Titan dropships",
+      "Walkers",
+      "  All Terrain Armored Transports (24)",
+      "  All Terrain Scout Transports (50)",
+      "IM-455 modular garrisons (2)"
+    ],
+    "bays": "At least ventral 1",
+    "escapepods": "Equipped",
+    "crew": "280,784 officers, pilots, and enlisted crew",
+    "passengers": "38,000 troops and support staff",
+    "capacity": "105,000 tons (encumbrance)",
+    "consumables": "6 years",
+    "role": [
+      "Flagship",
+      "Command ship"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Sheev Palpatine"
+  },
+  "scraped": "2026-07-03"
+}

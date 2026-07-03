@@ -1,0 +1,35 @@
+{
+  "name": "H-60 Tempest bomber",
+  "wookieepedia_title": "H-60 Tempest bomber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/H-60_Tempest_bomber/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The H-60 Tempest bomber, sometimes nicknamed B-wing, was a flying wing-style bomber that was a predecessor of the A/SF-01 B-wing starfighter.",
+  "data": {
+    "name": "H-60 Tempest bomber",
+    "manufacturer": "Slayn & Korpil",
+    "model": "H-60 Tempest bomber",
+    "type": "Starfighter",
+    "cost": "172,000 credits",
+    "max_speed": "950 km/h",
+    "hdsystem": "None (after-market additions possible)",
+    "navigation": "None",
+    "armament": [
+      "Medium laser cannons",
+      "Twin light ion cannons",
+      "Proton torpedo launcher",
+      "Ventral proton bomb bay"
+    ],
+    "crew": "2",
+    "passengers": "none",
+    "capacity": "110 kg",
+    "consumables": "1 week",
+    "role": "Heavy bomber",
+    "affiliation": [
+      "Galactic Republic",
+      "Independents",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

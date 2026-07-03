@@ -1,0 +1,21 @@
+{
+  "name": "Gilded Aegis",
+  "wookieepedia_title": "Gilded Aegis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gilded_Aegis",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Gilded Aegis was a Recusant-class light destroyer that served within the Confederacy of Independent Systems' naval forces during the Clone Wars against the Galactic Republic. As a Recusant-class vessel, the destroyer possessed several thrusters, electromagnetic sensor antennas, several heavy turbolaser cannons, and a starboard neutrino radiator grille. On its starboard hull, the Gilded Aegis featured the symbol of the Separatist Alliance. At some point during the war, the destroyer was positioned in orbit of an aquatic celestial body alongside twelve Trident-class assault ships.",
+  "data": {
+    "name": "Gilded Aegis",
+    "model": "Recusant-class light destroyer",
+    "type": "Destroyer",
+    "engine": "Thrusters",
+    "sensor": "Electromagnetic sensor antennas",
+    "armament": "Heavy turbolaser cannons",
+    "othersystems": "Neutrino radiator grille",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy"
+  },
+  "scraped": "2026-07-03"
+}

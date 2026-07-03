@@ -1,0 +1,36 @@
+{
+  "name": "Black Hawk",
+  "wookieepedia_title": "Black Hawk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Black_Hawk",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Black Hawk was an Imperial Lancer-class frigate that, along with its sister ship Furious escorted a convoy through the Eidoloni system which, belonging to Xizor Transport Systems, transported a wide range of heavy materials used for the construction of the Death Star II.",
+  "data": {
+    "name": "Black Hawk",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Lancer-class frigate",
+    "type": "Frigate",
+    "length": "250 meters",
+    "width": "57 meters",
+    "height": "60 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "20",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 15"
+    ],
+    "shield_gen": "576 SBD",
+    "hull": "304 RU",
+    "navigation": "Navigation computer equipped",
+    "armament": "AG-2G quad laser cannons",
+    "crew": "810, 40 gunners",
+    "skeleton": "375",
+    "passengers": "40 troops",
+    "capacity": "300 metric tons",
+    "consumables": "1 week",
+    "role": "Anti-starfighter frigate",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Acclamator-class transgalactic military assault ship",
+  "wookieepedia_title": "Acclamator-class transgalactic military assault ship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Acclamator-class_transgalactic_military_assault_ship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Acclamator-class transgalactic military assault ship, alternatively referred to as the Acclamator-class assault ship or Acclamator-class trans-galactic military transport ship, or by the shorter names Acclamator-class transport, Acclamator-class troopship, or the rarer Acclamator I transport, was an assault-class capital ship created for the Galactic Republic by Rothana Heavy Engineering. It was the predecessor of the later Republic and Imperial models in the Star Destroyer line.",
+  "data": {
+    "name": "Acclamator-class transgalactic military assault ship",
+    "manufacturer": "Rothana Heavy Engineering",
+    "type": "Heavy cruiser",
+    "cost": "29,000,000 credits",
+    "length": "752 meters",
+    "width": "460 meters",
+    "height": [
+      "200 meters (with landing gear)",
+      "183 meters (in flight)"
+    ],
+    "max_accel": "3,500 G",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 0.6",
+    "hdrange": "250,000 light-years (fully fueled)",
+    "poweroutput": [
+      "Reactor: 2 x 1023 watts (peak)",
+      "Shields: 7 x 1022 watts (peak)"
+    ],
+    "shield_gen": "Equipped",
+    "hull": "Neutronium-impregnated hull",
+    "navigation": "Advanced navicomputer",
+    "armament": [
+      "12 quad turbolaser turrets",
+      "  200 gigatons per shot",
+      "24 point-defense light laser cannons",
+      "  6 megatons per shot",
+      "4 Heavy missile/torpedo launch tubes, selective:",
+      "  100 high-yield proton torpedoes",
+      "  20 Assault concussion missiles each"
+    ],
+    "crew": "700",
+    "passengers": "16,000 clone troopers and support personnel",
+    "capacity": [
+      "320 speeder bikes",
+      "80 Low Altitude Assault Transport",
+      "  c. 66 LAAT/i",
+      "  c. 14 LAAT/c",
+      "48 All Terrain Tactical Enforcer",
+      "36 Self-Propelled Heavy Artillery",
+      "11,250 tons"
+    ],
+    "role": [
+      "Trans-galactic military transport ship",
+      "Assault ship",
+      "Carrier"
+    ],
+    "firstuse": "22 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Zann Consortium",
+      "Alliance to Restore the Republic",
+      "  Alliance Fleet",
+      "Restored Empire",
+      "Maw Irregular Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

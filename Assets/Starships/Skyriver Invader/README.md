@@ -1,0 +1,11 @@
+# Skyriver Invader
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Skyriver Invader](https://starwars.fandom.com/wiki/Skyriver_Invader)
+
+The Skyriver Invader was a starship used by the genetic decoy of Zeta Magnus during his stint as Magister of Skye in 22 BBY. A strange, triangular craft, it reminded the Jedi Halagad Ventor of a T-11 model he used to play with as a youngling. Zeta Magnus named the ship after the main galaxy used by the Nagai, an extragalactic species who he encountered in the Unknown Regions and acquired cloaking technology from. The clone of Zeta Magnus held his ship in the hangar bay of his mountaintop fortress on the planet Skye. When Magnus tried to escape the planet after a group of three Jedi foiled his plans, Padawan Ventor stopped the mutant by impaling him with a liquid cable spike. While the mutant attempted to eat the padawan, he was betrayed by his droid Blue-Tark who ignited the ship's thrusters and blasted off. The Zeta Magnus clone was slain by Ventor after he was burned and irradiated by his ship's ion drive.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

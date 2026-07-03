@@ -1,0 +1,26 @@
+{
+  "name": "Iskallon Light Frigate",
+  "wookieepedia_title": "Iskallon Light Frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iskallon_Light_Frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Iskallon Light Frigate was a class of frigate employed by the Iskalloni species. The Stelaciter was of this class.",
+  "data": {
+    "name": "Iskallon Light Frigate",
+    "type": "Frigate",
+    "length": "83 meters",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 double laser cannons",
+      "1 heavy laser cannon"
+    ],
+    "crew": "39",
+    "passengers": "15",
+    "capacity": "400 metric tons",
+    "consumables": "4 months",
+    "affiliation": "Iskalloni"
+  },
+  "scraped": "2026-07-03"
+}

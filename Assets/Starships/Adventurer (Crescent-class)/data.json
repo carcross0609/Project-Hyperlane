@@ -1,0 +1,32 @@
+{
+  "name": "Adventurer",
+  "wookieepedia_title": "Adventurer (Crescent-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adventurer_%28Crescent-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Adventurer was a Hyrotii Corporation Crescent-class transport, Mark II. It had only limited use and almost no customizations even twenty years after being bought.",
+  "data": {
+    "name": "Adventurer",
+    "manufacturer": "Hyrotii Corporation",
+    "model": "Crescent-class Transport Mark II",
+    "type": "Light freighter",
+    "length": "21 meters",
+    "max_speed": "900 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 10"
+    ],
+    "armament": "Light blaster cannon (1)",
+    "crew": "1",
+    "passengers": "8",
+    "capacity": "80 metric tons",
+    "consumables": "2 months",
+    "owners": [
+      "Aelon Reglis",
+      "Lynx Reglis"
+    ],
+    "captains": "Aelon Reglis"
+  },
+  "scraped": "2026-07-03"
+}

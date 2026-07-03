@@ -1,0 +1,10 @@
+# Flagship
+
+**Continuity:** Canon  
+**Source:** [Flagship](https://starwars.fandom.com/wiki/Flagship)
+
+A flagship referred to the personal starship of a fleet commander in command of a group of naval vessels. The Executor-class Star Dreadnought Executor served as the Dark Lord of the Sith Darth Vader's flagship as well as the command ship of Death Squadron. The Ravager served as the command ship of Counselor to the Empire Gallius Rax and the Galactic Empire at the Battle of Jakku. Galactic Emperor Sheev Palpatine utilized the Eclipse as his personal flagship.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

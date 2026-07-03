@@ -1,0 +1,30 @@
+{
+  "name": "Mediator-class battle cruiser",
+  "wookieepedia_title": "Mediator-class battle cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mediator-class_battle_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mediator-class battle cruiser was an advanced warship developed by the Mon Calamari for use by the New Republic Defense Fleet.",
+  "data": {
+    "name": "Mediator-class battle cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "Mediator-class battle cruiser",
+    "type": "Battle cruiser",
+    "length": "Over half the size of the prototype Viscount (>1,500 meters)",
+    "hdsystem": "Equipped",
+    "hull": "Strong enough to protect reactor and thrusters from internal nuclear detonation",
+    "armament": [
+      "Turbolasers",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "complement": "Several starfighter squadrons",
+    "role": "Battlecruiser",
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

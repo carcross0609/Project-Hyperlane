@@ -1,0 +1,45 @@
+{
+  "name": "Eighth Brother's TIE fighter",
+  "wookieepedia_title": "Eighth Brother's TIE fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eighth_Brother%27s_TIE_fighter",
+  "continuity": "Canon",
+  "infobox_template": "IndividualShip",
+  "description": "The Eighth Brother's TIE fighter was a TIE/ad v1 starfighter used by the Eighth Brother, a Jedi hunter of the Galactic Empire's Inquisitorius. It was manufactured by Sienar Fleet Systems sometime between 4 BBY and 3 BBY. The TIE was equipped with shield generators and an armament of two L-s9.1 laser cannons and a projectile launcher. With a P-s5.2 twin ion engine, the TIE fighter could reach speeds up to 1,600 kilometers per hour, or 994 miles per hour, in atmosphere with a maximum acceleration of 4,150 G.",
+  "data": {
+    "name": "Eighth Brother's TIE fighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/ad v1",
+    "type": "Starfighter",
+    "cost": "150,000 credits",
+    "length": "3.6 m (11 ft 7 in)",
+    "width": "6.6 m (21 ft 9 in)",
+    "height": "5.7 m (18 ft 8 in)",
+    "max_accel": "4,150 G",
+    "mglt": "105 mglt",
+    "max_speed": "1,600 kph (994 mph)",
+    "engine": "P-s5.2 twin ion engine",
+    "hdrange": "Class 4.5",
+    "shield_gen": "Equipped",
+    "target": "T-s8.a targeting computer",
+    "navigation": "N-s6.a Navcon",
+    "armament": [
+      "Two L-s9.1 laser cannons",
+      "Projectile launcher"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": "One pilot",
+    "consumables": "Two days",
+    "lifesupport": "Equipped",
+    "commission": "Sometime between 4 BBY and 3 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inquisitorius"
+    ],
+    "owners": [
+      "Eighth Brother",
+      "Maul"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Rand Ecliptic",
+  "wookieepedia_title": "Rand Ecliptic/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rand_Ecliptic/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Rand Ecliptic was an Imperial II-class frigate during the time of the Galactic Civil War, captured by Imperial defectors to the Rebel Alliance among its crew.",
+  "data": {
+    "name": "Rand Ecliptic",
+    "model": "Imperial II-class frigate",
+    "type": "Frigate",
+    "complement": [
+      "Twilight Squadron",
+      "  At least 6 TIE/LN starfighters"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "Alliance Fleet"
+    ],
+    "captains": [
+      "Heliesk",
+      "Derek Klivian"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

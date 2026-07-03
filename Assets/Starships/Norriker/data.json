@@ -1,0 +1,22 @@
+{
+  "name": "Norriker",
+  "wookieepedia_title": "Norriker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Norriker",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Norriker was an old Dynamic-class freighter owned by a Gharal family from the planet Langston, who used it to haul ores. After the older members of the family were killed during a Separatist attack there early in the Clone Wars, Rokura, the eldest of the surviving generation of the family, loaned the starship to Jedi Knight Anakin Skywalker and Jedi Initiate Mill Alibeth so they could travel covertly to Cato Neimoidia, in exchange for supplies.",
+  "data": {
+    "name": "Norriker",
+    "model": "Dynamic-class freighter",
+    "type": "Freighter",
+    "hdsystem": "Equipped",
+    "affiliation": [
+      "Rokura's family",
+      "Jedi Order (loaned)"
+    ],
+    "owners": "Rokura",
+    "captains": "Anakin Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

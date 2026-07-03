@@ -1,0 +1,38 @@
+{
+  "name": "Raider I-class corvette",
+  "wookieepedia_title": "Raider I-class corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raider_I-class_corvette",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Raider I-class corvette was a member of the Raider line of corvettes used by the Imperial Navy. The wedge-shaped corvette was often used against starfighters and to patrol isolated star systems. Two Raider I-class corvettes, the Sargantuan and the Warhawk, participated in the Battle of Xorrn.",
+  "data": {
+    "name": "Raider I-class corvette",
+    "designer": "Lira Wessex",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Raider-class corvette",
+    "type": "Corvette",
+    "cost": "3,000,000 credits",
+    "length": "150 meters",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 15 (backup)"
+    ],
+    "armament": [
+      "1 Chin-mounted twin light turbolaser",
+      "6 turret-mounted twin heavy laser cannons",
+      "1 chin-mounted ion cannon"
+    ],
+    "crew": [
+      "93",
+      "15 officers",
+      "77 enlisted"
+    ],
+    "passengers": "30 soldiers",
+    "consumables": "Three months",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

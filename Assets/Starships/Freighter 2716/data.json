@@ -1,0 +1,42 @@
+{
+  "name": "Freighter 2716",
+  "wookieepedia_title": "Freighter 2716",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Freighter_2716",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Freighter 2716 was an Orca-class freighter used by the Galactic Empire to transport a giant kyber crystal to the Tonnis sector. It was disguised as a civilian freighter to avoid notice. In 1 BBY, it was infiltrated by rebels Saw Gerrera, Ezra Bridger, Sabine Wren, and Chopper during a brief stop at Faos Station. When Gerrera discovered the freighter's cargo, he wired the crystal up to the ship's hyperdrive to create a bomb, which destroyed both the freighter and the Imperial I-class Star Destroyer it was rendezvousing with when it went off.",
+  "data": {
+    "name": "Freighter 2716",
+    "model": "Orca-class freighter",
+    "type": "Freighter",
+    "engine": "Sublight engines (6)",
+    "hdsystem": "Equipped",
+    "complement": "At least 1 Lambda-class T-4a shuttle",
+    "bays": [
+      "At least 1 cargo bay",
+      "  Hold 12"
+    ],
+    "escapepods": "Escape pods",
+    "crew": [
+      "At least 3 Imperial officers",
+      "DT-F16's squad",
+      "  5 Death troopers",
+      "Stormtroopers"
+    ],
+    "passengers": [
+      "At least 8 prisoners",
+      "  Mich Matt",
+      "  An Ithorian",
+      "  A Theelin"
+    ],
+    "capacity": "Multiple large containers",
+    "communications": "Equipped",
+    "role": "Cargo transport",
+    "destroyed": "1 BBY, Tonnis sector",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Wells"
+  },
+  "scraped": "2026-07-03"
+}

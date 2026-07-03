@@ -1,0 +1,33 @@
+{
+  "name": "Class VI bulk freighter",
+  "wookieepedia_title": "Class VI bulk freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Class_VI_bulk_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Class VI bulk freighter was a type of cargo hauler built by Corellian Engineering Corporation, considered antiquated by the time of the Galactic Civil War. It was developed from the earlier Praetorian-class frigate.",
+  "data": {
+    "name": "Class VI bulk freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Class VI freighter",
+    "type": "Freighter",
+    "length": "180 meters",
+    "max_speed": "650 kph",
+    "hyperdrive": "Class 3.0",
+    "armament": [
+      "Laser cannon (1)",
+      ":Fire arc: Turret",
+      ":Atmospheric range: 2,500 meters"
+    ],
+    "crew": "4",
+    "skeleton": "2",
+    "passengers": "2",
+    "capacity": "2,000 metric tons",
+    "consumables": "6 months",
+    "affiliation": [
+      "Galactic Empire",
+      "  Thrawn's confederation",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

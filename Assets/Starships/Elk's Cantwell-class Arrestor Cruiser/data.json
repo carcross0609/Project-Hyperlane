@@ -1,0 +1,42 @@
+{
+  "name": "Elk's Cantwell-class Arrestor Cruiser",
+  "wookieepedia_title": "Elk's Cantwell-class Arrestor Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Elk%27s_Cantwell-class_Arrestor_Cruiser",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This Cantwell-class Arrestor Cruiser was commanded by Captain Elk and was a part of the Segra-Milo Imperial patrol. In 5 BBY, Luthen Rael was briefly stopped by this Arrestor cruiser while entering the orbit of Segra Milo aboard his Fondor Haulcraft. Although he gave the Imperials a convincing&mdash;if fake&mdash;transponder signal, Rael soon found his ship trapped into the Arrestor's tractor beam. However, Rael broke away, and his haulcraft's powerful countermeasures allowed him to damage the Arrestor's main beam emitter. An irate Captain Elk then launched an air wing from the cruiser's docking bays, but Rael managed to defeat the enemy starfighters and jump to hyperspace.",
+  "data": {
+    "name": "Elk's Cantwell-class Arrestor Cruiser",
+    "model": "Cantwell-class Arrestor Cruiser",
+    "type": "Arrestor cruiser",
+    "engine": [
+      "1 large sublight engine",
+      "2 smaller sublight engines"
+    ],
+    "sensor": "Equipped",
+    "armament": "RT-17 repulsor-tractor beam emitters (3)",
+    "complement": [
+      "Segra-Milo Imperial patrol's air wing",
+      "  Several TIE/ln space superiority starfighters",
+      "  At least 1 TIE Boarding Craft"
+    ],
+    "bays": "Launch bays",
+    "crew": [
+      "Imperial officers",
+      "Imperial Navy Troopers",
+      "Imperial Starfighter Pilots",
+      "Stormtroopers"
+    ],
+    "communications": "Equipped",
+    "role": [
+      "Patrol ship",
+      "Capture ship"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Segra-Milo Imperial patrol",
+    "captains": "Elk"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Corona-class transport",
+  "wookieepedia_title": "Corona-class transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corona-class_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Corona-class transport was a class of transport that was manufactured by Kuat Drive Yards. Ships of this class were intended to compete with the Corellian Engineering Corporation's YT-series of light freighter, however they did not sell well, being overpriced for their cargo capacity. Some ships were used by the Alliance to Restore the Republic during the Galactic Civil War.",
+  "data": {
+    "name": "Corona-class transport",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Corona-class transport",
+    "type": "Transport",
+    "length": "30.4 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Class 10 (backup)"
+    ],
+    "armament": "Laser turret (1)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "skeleton": "Pilot (1)",
+    "passengers": "6",
+    "capacity": "80 metric tons",
+    "consumables": "2 months",
+    "role": "Transport",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

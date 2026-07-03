@@ -1,0 +1,27 @@
+{
+  "name": "Pirate CR90 corvette",
+  "wookieepedia_title": "Pirate CR90 corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pirate_CR90_corvette",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A CR90 corvette was owned by a group of pirates who were supported by the Crymorah Syndicate.",
+  "data": {
+    "name": "Pirate CR90 corvette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Alderaanian diplomatic cruiser",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "length": "126.68 meters",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "lifesupport": "Equipped",
+    "affiliation": [
+      "Crymorah Syndicate",
+      "  Crymorah-backed pirates",
+      "Galactic Empire (appropriated)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

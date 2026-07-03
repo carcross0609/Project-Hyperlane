@@ -1,0 +1,28 @@
+{
+  "name": "Reaver",
+  "wookieepedia_title": "Reaver (Sabaoth destroyer)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reaver_%28Sabaoth_destroyer%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Reaver was a Sabaoth destroyer under the command of Lieutenant Bella, ensign to Captain Cavik Toth. The Reaver saw combat just prior to the Clone Wars.",
+  "data": {
+    "name": "Reaver",
+    "type": "Sabaoth destroyer",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Six capital ship turrets",
+      "11 anti-starfighter turrets"
+    ],
+    "affiliation": [
+      "Sabaoth Squadron",
+      "Confederacy of Independent Systems"
+    ],
+    "owners": "Cavik Toth",
+    "captains": "Bella"
+  },
+  "scraped": "2026-07-03"
+}

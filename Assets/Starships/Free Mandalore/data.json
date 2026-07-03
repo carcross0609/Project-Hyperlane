@@ -1,0 +1,33 @@
+{
+  "name": "Free Mandalore",
+  "wookieepedia_title": "Free Mandalore",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Free_Mandalore",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Free Mandalore was a modified Kubrai-class S4 transport produced by Kubrai Transportation. In addition it served as Fenn Shysa's personal starship, which he used during the race for the Tessent.",
+  "data": {
+    "name": "Free Mandalore",
+    "manufacturer": "Kubrai Transportation",
+    "model": "Modified Kubrai-class S4 transport",
+    "type": "Space transport",
+    "cost": "Not for sale (likely to be valued at 590,000 credits)",
+    "length": "20 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Class 4 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Blaster cannons (4)",
+      "Proton torpedo tubes",
+      "  Proton tracking beacons (4; each)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "4",
+    "capacity": "32 metric tons",
+    "consumables": "1 month",
+    "owners": "Fenn Shysa"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Liberty's Misrule",
+  "wookieepedia_title": "Liberty's Misrule",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liberty%27s_Misrule",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Liberty's Misrule, originally known as the Annihilator, was an Executor-class Star Dreadnought that served as the flagship of Grand General Cassio Tagge in the aftermath of the Battle of Yavin. It was later captured by the pirate Eleodie Maracavanya, who expressed distaste at the name Annihilator, and renamed the vessel Liberty's Misrule. The Liberty's Misrule became the center of Maracavanya's nation.",
+  "data": {
+    "name": "Liberty's Misrule",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Executor-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "length": "19,000 meters",
+    "max_speed": "100 kilometers per hour",
+    "engine": "Engine thrusters (13)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Bridge deflector shield generators",
+    "hull": "Titanium-reinforced",
+    "target": "Tractor beam targeting array",
+    "armament": [
+      "Turbolasers (5,000)",
+      "  Twin heavy turbolaser batteries (750)",
+      "  Turret-mounted twin light turbolaser batteries (1000)",
+      "Twin battleship ion cannons (100)",
+      "Assault Concussion missile tubes (125)",
+      "Turret-mounted quad laser cannons (250)"
+    ],
+    "complement": [
+      "Over 1,000 ships",
+      "  TIE/ln space superiority starfighters",
+      "  TIE/sa bombers",
+      "  TIE/IN interceptors",
+      "  1 TIE Advanced x1",
+      "    Darth Vader's TIE Advanced",
+      "Starfall"
+    ],
+    "bays": "At least 1",
+    "crew": [
+      "1,000s",
+      "  Imperial officers (Imperial control)",
+      "  Pirates (Sovereign control)"
+    ],
+    "role": "Command ship",
+    "affiliation": [
+      "Galactic Empire",
+      "Sovereign Latitudes of Maracavanya"
+    ],
+    "navy": "Imperial Navy",
+    "owners": [
+      "Cassio Tagge",
+      "Eleodie Maracavanya"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

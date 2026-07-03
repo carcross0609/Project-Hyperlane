@@ -1,0 +1,46 @@
+{
+  "name": "Kylo Ren's command shuttle",
+  "wookieepedia_title": "Kylo Ren's command shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kylo_Ren%27s_command_shuttle",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Kylo Ren's command shuttle was an Upsilon-class command shuttle utilized by Kylo Ren, who was a leader of the Knights of Ren and a warlord of the First Order around thirty years after the Battle of Endor. His ship led a group of Atmospheric Assault Landers to the Resurgent-class Star Destroyer Finalizer.",
+  "data": {
+    "name": "Kylo Ren's command shuttle",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "model": "Upsilon-class shuttle",
+    "type": "Shuttle/Transport",
+    "height": "37.2 meters (122.04 feet) (with wings extended)",
+    "engine": "SJFS-200a sublight ion engines (2)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators (2)",
+    "hull": "Durasteel",
+    "sensor": [
+      "Long-range scan-mode sensor array",
+      "passive-mode sensors",
+      "primary sensor node"
+    ],
+    "countermeasures": [
+      "Sensor jammer",
+      "Anti-projectile deflection system"
+    ],
+    "armament": "SJFS L-s10.2 twin heavy laser cannons",
+    "crew": [
+      "1-5 including",
+      "  Flight officer pilot (1)",
+      "  Copilot (1)"
+    ],
+    "passengers": "10",
+    "communications": [
+      "Subspace communications antenna",
+      "Hyperwave comm scanner"
+    ],
+    "role": "Transport",
+    "affiliation": "First Order",
+    "navy": "First Order Navy",
+    "owners": "Kylo Ren",
+    "captains": "Armitage Hux"
+  },
+  "scraped": "2026-07-03"
+}

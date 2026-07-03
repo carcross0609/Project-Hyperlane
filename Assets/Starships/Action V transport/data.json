@@ -1,0 +1,32 @@
+{
+  "name": "Action V transport",
+  "wookieepedia_title": "Action V transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Action_V_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Corellian Engineering Corporation's Action V transport was a member of the Action series of bulk transports.",
+  "data": {
+    "name": "Action V transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Action series",
+    "model": "Action V transport",
+    "type": "Transport",
+    "cost": [
+      "975,000 credits (new)",
+      "450,000 credits (used)"
+    ],
+    "length": "115 meters",
+    "max_speed": "650 km/h",
+    "hyperdrive": "Class 4.0",
+    "shield_gen": "Equipped",
+    "navigation": "None",
+    "armament": "None",
+    "crew": "10",
+    "passengers": "None",
+    "capacity": "80,500 metric tons",
+    "consumables": "3 months",
+    "role": "Medium bulk freighter",
+    "affiliation": "Various"
+  },
+  "scraped": "2026-07-03"
+}

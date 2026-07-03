@@ -1,0 +1,46 @@
+{
+  "name": "Nightbrother",
+  "wookieepedia_title": "Nightbrother (Gauntlet fighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nightbrother_%28Gauntlet_fighter%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Nightbrother was a modified Kom'rk-class fighter/transport, named and used by the former Sith Lord Maul during the Clone Wars and the Imperial Era. Following Maul's death at the hands of Obi-Wan Kenobi in 2 BBY, the Nightbrother was acquired by the Spectres rebel cell, where it was simply called the Gauntlet.",
+  "data": {
+    "name": "Nightbrother",
+    "line": "Mandalorian starfighter",
+    "model": "Modified Kom'rk-class fighter/transport of the Kryze Gauntlet ship variant",
+    "type": "Combat transport",
+    "length": "52.3 meters",
+    "width": "52.4 meters",
+    "height": "13.23 meters",
+    "hdsystem": "Equipped",
+    "armament": [
+      "2 forward laser cannons",
+      "2 rear laser cannons"
+    ],
+    "skeleton": "1",
+    "passengers": "24",
+    "role": [
+      "Air combat",
+      "Flagship",
+      "Troop transport"
+    ],
+    "affiliation": [
+      "Death Watch",
+      "Shadow Collective",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": [
+      "Massassi Group",
+      "Phoenix Cell"
+    ],
+    "owners": [
+      "Maul",
+      "Ezra Bridger"
+    ],
+    "captains": "Rook Kast"
+  },
+  "scraped": "2026-07-03"
+}

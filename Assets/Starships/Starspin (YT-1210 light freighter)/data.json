@@ -1,0 +1,24 @@
+{
+  "name": "Starspin",
+  "wookieepedia_title": "Starspin (YT-1210 light freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starspin_%28YT-1210_light_freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Starspin was a YT-1210 light freighter owned and operated by the smugglers Cev Malanx and Regec Sloom. During the early years of the New Republic, the Starspin smuggled goods throughout the Corva sector.",
+  "data": {
+    "name": "Starspin",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YT-1210 light freighter",
+    "max_speed": "800 kmh",
+    "armament": [
+      "1 laser cannon",
+      "2 Concussion missile launchers"
+    ],
+    "owners": [
+      "Cev Malanx",
+      "Regec Sloom"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

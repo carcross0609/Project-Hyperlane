@@ -1,0 +1,40 @@
+{
+  "name": "Fw'Sen-class picket ship",
+  "wookieepedia_title": "Fw'Sen-class picket ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fw%27Sen-class_picket_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Fw'sen-class picket ships were small gunships used by the Ssi-ruuvi Imperium. Although the vessel's main role was to disable enemy vessels and guard Ssi-ruuvi fleets, their delicate frameworks and inefficient shields resulted in them frequently being used in suicide missions.",
+  "data": {
+    "name": "Fw'Sen-class picket ship",
+    "manufacturer": "Ssi-ruuvi Imperium",
+    "model": "Fw'Sen-class picket ship",
+    "type": "Picket ship",
+    "length": "45-50 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Navigation computer; Limited to 4 jumps",
+    "armament": [
+      "Laser cannons (2)",
+      "Turbolasers (2)",
+      "Ion cannons (6)"
+    ],
+    "crew": [
+      "13 P'wecks",
+      "  10 gunners",
+      "6 servant droids"
+    ],
+    "skeleton": "2",
+    "consumables": "3 months",
+    "role": [
+      "Escort ship",
+      "Gunship",
+      "Picket ship"
+    ],
+    "affiliation": "Ssi-ruuvi Imperium"
+  },
+  "scraped": "2026-07-03"
+}

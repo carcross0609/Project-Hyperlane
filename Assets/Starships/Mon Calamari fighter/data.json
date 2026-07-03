@@ -1,0 +1,20 @@
+{
+  "name": "Mon Calamari fighter",
+  "wookieepedia_title": "Mon Calamari fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mon_Calamari_fighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Mon Calamari fighter was a class of starfighter produced by the Mon Calamari and was active in the New Republic Era during the war between the First Order and the Resistance. During a Resistance mission to Mon Cala, General Nossor Ri used one such starfighter to distract the First Order and allowed the Mon Cala fleet to exit the planet and after a brief encounter, escape the Mon Calamari system. The starfighter was crewed by at least one pilot, was armed with at least two laser cannons, and had at least one engine.",
+  "data": {
+    "name": "Mon Calamari fighter",
+    "type": "Starfighter",
+    "engine": "Equipped",
+    "armament": "At least 2 laser cannons",
+    "crew": "At least 1 pilot",
+    "affiliation": [
+      "Mon Calamari monarchy",
+      "  Mon Cala fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

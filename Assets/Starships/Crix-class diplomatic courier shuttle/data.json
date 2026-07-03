@@ -1,0 +1,38 @@
+{
+  "name": "Crix-class diplomatic courier shuttle",
+  "wookieepedia_title": "Crix-class diplomatic courier shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crix-class_diplomatic_courier_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Crix-class diplomatic courier shuttle, also designated as DC-4a, was a diplomatic shuttle used by the Galactic Alliance and later by the Galactic Alliance Core Fleet.",
+  "data": {
+    "name": "Crix-class diplomatic courier shuttle",
+    "manufacturer": [
+      "Corellian Engineering Corporation",
+      "Mon Calamari Shipyards"
+    ],
+    "model": "Crix-class diplomatic courier shuttle",
+    "type": "Shuttle",
+    "cost": "500,000 credits (200,000 used)",
+    "max_speed": "850 km/h",
+    "hyperdrive": "Class 1 (backup class 10)",
+    "shield_gen": "Equipped",
+    "sensor": "Long-range communication sensors",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Twin laser cannons",
+      "Blaster cannon battery"
+    ],
+    "crew": "5",
+    "passengers": "30",
+    "capacity": "50 tons",
+    "consumables": "2 months",
+    "availability": "Military",
+    "role": "Diplomatic courier",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

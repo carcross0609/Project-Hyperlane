@@ -1,0 +1,37 @@
+{
+  "name": "Valiant",
+  "wookieepedia_title": "Valiant (Valor-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Valiant_%28Valor-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Valiant was a Valor-class cruiser that served as the flagship of Admiral Dabrin of the Republic Navy during the Galactic War with the reconstitited Sith Empire. A celebrated war hero, Dabrin was targeted by the corrupted Jedi Knight Warren Sedoru&mdash;under the mental control of the Sith Emperor&mdash;and the Valiant was seized by Imperial forces under Sedoru. The Hero of Tython successfully rescued Dabrin and redeemed the fallen Jedi Master, and the Valiant later served in the invasion of the Empire's capital Dromund Kaas. After the battle, the Hero and crew were awarded the Cross of Glory on the Valiant flight deck.",
+  "data": {
+    "name": "Valiant",
+    "model": "Capital ship",
+    "type": "Valor-class cruiser",
+    "width": ">500 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "armament": [
+      "Turbolasers",
+      "Quad laser cannons",
+      "Ion cannons",
+      "Proton torpedos",
+      "Concussion missile"
+    ],
+    "complement": [
+      "110 starfighters",
+      "Liberator-class starfighters",
+      "40 bombers",
+      "25 Fortitude-class assault shuttles"
+    ],
+    "crew": "1,900",
+    "passengers": "5,000 troops",
+    "role": "Flagship",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "captains": "Admiral Dabrin"
+  },
+  "scraped": "2026-07-03"
+}

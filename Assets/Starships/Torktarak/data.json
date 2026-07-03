@@ -1,0 +1,30 @@
+{
+  "name": "Torktarak",
+  "wookieepedia_title": "Torktarak",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Torktarak",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Torktarak was a Braha'tok-class gunship under the command of the Dornean Etahn A'baht in the planet Dornea's navy. In 4 ABY, during the Galactic Civil War, Dornea loaned the Torktarak, along with its sister ship, the Braha'tok, to the Rebel Alliance Fleet, which needed the ships for its upcoming assault on the second Death Star&mdash;an Imperial superweapon capable of destroying entire planets&mdash;above the Forest Moon of Endor.",
+  "data": {
+    "name": "Torktarak",
+    "manufacturer": "Dornean Braha'ket Fleetworks Conglomerate",
+    "model": "Braha'tok-class gunship",
+    "length": "90 meters",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Double turbolaser cannons (8)",
+      "Concussion missile launchers (8)"
+    ],
+    "crew": "75",
+    "role": "Gunship",
+    "affiliation": [
+      "Dornean Navy",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": "Alliance Fleet",
+    "captains": "Etahn A'baht"
+  },
+  "scraped": "2026-07-03"
+}

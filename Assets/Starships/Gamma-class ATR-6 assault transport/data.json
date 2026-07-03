@@ -1,0 +1,38 @@
+{
+  "name": "Gamma-class ATR-6 assault transport",
+  "wookieepedia_title": "Gamma-class ATR-6 assault transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gamma-class_ATR-6_assault_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Gamma-class ATR-6 assault transport was a heavily armed and shielded vessel produced by KonGar Ship Works for transporting stormtroopers and conducting boarding actions against starships and space stations. The Rebel Alliance and various pirate factions also made wide usage of the craft.",
+  "data": {
+    "name": "Gamma-class ATR-6 assault transport",
+    "manufacturer": "KonGar Ship Works",
+    "model": "Gamma-class ATR-6 assault transport",
+    "type": "Heavy assault transport",
+    "length": "45 meters",
+    "mglt": "64 MGLT",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Rated 200 SBD",
+    "hull": "Rated 142 RU",
+    "armament": [
+      "Taim & Bak H6 turbolasers (4)",
+      "ArMek SW-3 ion cannons (2)",
+      "Krupx MG7 proton torpedo launchers (2)",
+      "  8 torpedoes each"
+    ],
+    "crew": "15",
+    "passengers": "40 troops",
+    "role": [
+      "Transport",
+      "Boarding craft",
+      "Convoy escort"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Ripoblus government"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

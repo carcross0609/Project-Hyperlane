@@ -1,0 +1,33 @@
+{
+  "name": "Safonne's Sword",
+  "wookieepedia_title": "Safonne's Sword",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Safonne%27s_Sword",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Safonne's Sword was the flagship of the pirate Safonne Pendon's modest, but effective fleet. It was a CR90 corvette, which was modified to include six turret-mounted double-turbolaser cannons. The ship's drive systems and shields were also upgraded by the Rodian pirate.",
+  "data": {
+    "name": "Safonne's Sword",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Corvette",
+    "type": "CR90 corvette",
+    "length": "150 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 8 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "6 double turbolaser cannons",
+    "crew": "45",
+    "passengers": "75",
+    "capacity": "3,000 metric tons",
+    "consumables": "1 standard year",
+    "role": "Pirate ship",
+    "affiliation": "Pendon's pirates",
+    "owners": "Safonne Pendon"
+  },
+  "scraped": "2026-07-03"
+}

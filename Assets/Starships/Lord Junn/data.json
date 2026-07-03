@@ -1,0 +1,43 @@
+{
+  "name": "Lord Junn",
+  "wookieepedia_title": "Lord Junn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lord_Junn",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lord Junn was a pleasure craft that originally belonged to Junn, a male human who lived as a Lord on the planet Naboo during the Galactic Civil War. In the aftermath of the Battle of Yavin, Junn betrayed his old friend Leia Organa by revealing her presence on Naboo to her Imperial pursuers. When Organa confronted Junn about his betrayal and threatened to kill him, he let her have his pleasure craft in exchange for his life. Organa put the Lord Junn to good use in her mission to rescue the remaining sons and daughters of her homeworld of Alderaan, which had been destroyed by the Empire recently.",
+  "data": {
+    "name": "Lord Junn",
+    "type": "Yacht",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 quad laser cannons",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunner (2)"
+    ],
+    "passengers": "Upwards of twenty",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "role": "Transport",
+    "affiliation": [
+      "House of Organa",
+      "Espirion military",
+      "Alliance to Restore the Republic"
+    ],
+    "owners": [
+      "Junn",
+      "Leia Organa"
+    ],
+    "captains": [
+      "Leia Organa",
+      "Uwa Pareece"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

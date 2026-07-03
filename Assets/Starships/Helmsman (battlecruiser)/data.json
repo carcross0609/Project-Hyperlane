@@ -1,0 +1,32 @@
+{
+  "name": "Helmsman",
+  "wookieepedia_title": "Helmsman (battlecruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Helmsman_%28battlecruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Helmsman was a Praetor II-class Star Battlecruiser commanded by Mils Giel at some point in the year preceding the Battle of Endor.",
+  "data": {
+    "name": "Helmsman",
+    "model": "Praetor II-class Star Battlecruiser",
+    "type": "Super Star Destroyer",
+    "length": "4,800 meters",
+    "engine": [
+      "Primary (3)",
+      "Secondary (at least 4)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "countermeasures": "Teezl jamming system",
+    "armament": "Various cannons (at least 90).",
+    "othersystems": "Transportation cage",
+    "role": [
+      "Command ship",
+      "Transport"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Secret armada",
+    "captains": "Mils Giel"
+  },
+  "scraped": "2026-07-03"
+}

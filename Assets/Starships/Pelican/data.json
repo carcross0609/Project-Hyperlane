@@ -1,0 +1,23 @@
+{
+  "name": "Pelican",
+  "wookieepedia_title": "Pelican",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pelican",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Pelican was a Muurian transport owned by scavengers.",
+  "data": {
+    "name": "Pelican",
+    "manufacturer": "Muurian Interstellar",
+    "model": "Muurian transport",
+    "length": "30.5 meters",
+    "width": "29.4 meters",
+    "height": "8.8 meters",
+    "armament": [
+      "2 double laser cannon turrets",
+      "3 laser cannons",
+      "2 proton torpedo launchers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

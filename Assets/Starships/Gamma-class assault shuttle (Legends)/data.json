@@ -1,0 +1,55 @@
+{
+  "name": "Gamma-class assault shuttle",
+  "wookieepedia_title": "Gamma-class assault shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gamma-class_assault_shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Gamma-class assault shuttle was an Imperial shuttle used to ferry spacetroopers into battle.",
+  "data": {
+    "name": "Gamma-class assault shuttle",
+    "manufacturer": "Telgorn Corporation",
+    "type": "Assault shuttle",
+    "cost": [
+      "850,000 credits (new)",
+      "340,000 credits (used)"
+    ],
+    "length": "30 Imperial standard meters",
+    "max_accel": "9 MGLT/second",
+    "mglt": "66 MGLT",
+    "max_speed": "1,050 kilometers an hour",
+    "maneuverability": "52 DPF",
+    "engine": "Telgorn Corporation IA/4 Fusial Thrust Reactors",
+    "hyperdrive": [
+      "Class 2",
+      "Class 18 (backup)"
+    ],
+    "power": "Fabritech UL.2 Power Modulator",
+    "shield_gen": "Novaldex deflector shield generator (rated 180 SBD)",
+    "hull": "Telgorn Corporation tri-level armor plate hull (rated 85 RU)",
+    "sensor": "Equipped",
+    "navigation": "Equipped (three-jump limit)",
+    "avionics": "Telgorn Corporation Twin-tandem Flight Computer",
+    "armament": [
+      "4 Taim & Bak KT6 Heavy Blaster Cannons",
+      "2 Nordoxicon Wavefront-active Tractor Beam Projector",
+      "Concussion missile launcher",
+      "  15 concussion missiles total"
+    ],
+    "crew": "5; (2 crew, 3 gunners)",
+    "skeleton": "1",
+    "passengers": "40 Zero-G assault stormtroopers",
+    "capacity": "5 metric tons",
+    "consumables": "1 week",
+    "othersystems": [
+      "Kel-Mar Steady-state Power Coupler",
+      "Zero-G assault stormtrooper boarding hatches"
+    ],
+    "availability": "Military",
+    "role": [
+      "Assault shuttle",
+      "Troop transport"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

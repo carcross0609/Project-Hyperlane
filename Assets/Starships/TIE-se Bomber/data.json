@@ -1,0 +1,24 @@
+{
+  "name": "TIE/se Bomber",
+  "wookieepedia_title": "TIE/se Bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/se_Bomber",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/se Bomber, also known as the First Order TIE bomber, was a class of TIE fighter series bomber using by the First Order during its war with the Resistance.",
+  "data": {
+    "name": "TIE/se Bomber",
+    "line": "TIE series",
+    "type": "Bomber",
+    "engine": "Twin ion engine",
+    "armament": [
+      "Bombs",
+      "Laser cannons (4)"
+    ],
+    "role": "Bombardment",
+    "affiliation": [
+      "First Order",
+      "  First Order starfighter corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

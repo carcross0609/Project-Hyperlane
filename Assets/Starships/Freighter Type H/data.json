@@ -1,0 +1,31 @@
+{
+  "name": "Freighter Type H",
+  "wookieepedia_title": "Freighter Type H",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Freighter_Type_H",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Freighter Type H was a medium-sized cargo freighter manufactured by Galarne/Ferges Industries. The craft's unusual design and slightly smoother than usual handling characteristics allowed this small manufacturer to squeeze into the crowded freighter market.",
+  "data": {
+    "name": "Freighter Type H",
+    "manufacturer": "Galarne/Ferges Industries",
+    "type": "Medium freighter",
+    "length": "122.54 meters",
+    "width": "61.41 meters",
+    "height": "36.22 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "15 MGLT",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 248 SBD",
+    "hull": "Rated 148 RU",
+    "armament": "None",
+    "crew": "6",
+    "skeleton": "1",
+    "role": "Freight transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Various: private and commercial"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

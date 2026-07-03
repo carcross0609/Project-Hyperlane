@@ -1,0 +1,38 @@
+{
+  "name": "Shadow Droid",
+  "wookieepedia_title": "Shadow Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shadow_Droid",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Shadow Droids were Imperial starfighters piloted by surgically implanted organic brains, making the Shadow Droid more of a cyborg rather than a true battle droid.",
+  "data": {
+    "name": "Shadow Droid",
+    "manufacturer": "Imperial Department of Military Research",
+    "model": "Imperial Shadow Droid",
+    "type": "Droid starfighter",
+    "cost": "Not available for sale",
+    "length": "6 meters",
+    "max_speed": "1,150 km/h",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "countermeasures": "Stealth coating",
+    "armament": [
+      "Laser cannons (2)",
+      "Ion cannon (1)",
+      "Repeating blaster cannon (1)",
+      "Electromagnetic pulse gun (1)",
+      "Concussion missile launcher (1)",
+      "Proton torpedo launcher (1)"
+    ],
+    "crew": "Disembodied organic brain (1)",
+    "passengers": "None",
+    "capacity": "None",
+    "consumables": "None",
+    "role": "Starfighter",
+    "affiliation": [
+      "Galactic Empire",
+      "Dark Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

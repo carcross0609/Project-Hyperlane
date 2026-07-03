@@ -1,0 +1,52 @@
+{
+  "name": "Bright Hope",
+  "wookieepedia_title": "Bright Hope/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bright_Hope/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Bright Hope, also known as Transport C One Seven, was a modified Gallofree Yards GR-75 medium transport that saw service with the Alliance to Restore the Republic during the height of the Galactic Civil War. Acquired as one of several outdated and dilapidated transports by the Rebellion, the Bright Hope nevertheless played an invaluable role in the rapid transit of war matériel. By 3 ABY, the ship was one of thirty GR-75 transports stationed at the Alliance High Command headquarters of Echo Base on the planet Hoth. As the final transport to evacuate the besieged base late during the Battle of Hoth, the Bright Hope carried an overloaded number of wounded and dying passengers in its attempt to run the Imperial blockade of the planet. The ship was disabled and all but destroyed by concentrated fire from Imperial Star Destroyers and the Mist Hunter, the craft of the bounty hunters Zuckuss and 4-LOM. Due to the efforts of Echo Base's chief controller, Toryn Farr, the Bright Hope 108 surviving passengers were safely recovered.",
+  "data": {
+    "name": "Bright Hope",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "GR-75 medium transport",
+    "type": "Medium transport",
+    "modifier": "Alliance to Restore the Republic",
+    "length": "90 meters",
+    "max_accel": "900 G",
+    "mglt": "20",
+    "max_speed": "650 km/h",
+    "engine": [
+      "3 primary ion drive engines",
+      "6 secondary drive engines"
+    ],
+    "hyperdrive": "Class 4.0",
+    "power": "Reactor",
+    "shield_gen": "Single deflector shield generator",
+    "hull": "Durasteel",
+    "sensor": "Equipped",
+    "countermeasures": "Advanced countermeasure systems",
+    "armament": "Fire-linked twin laser cannons (4)",
+    "escapepods": "At least 3 escape pods",
+    "crew": [
+      "6 (crew)",
+      "1 gunner"
+    ],
+    "skeleton": "3",
+    "passengers": [
+      "90 (standard)",
+      "Hundreds during escape from Hoth"
+    ],
+    "capacity": "19,000 metric tons",
+    "consumables": "6 months",
+    "role": [
+      "Cargo transportation",
+      "Transportation of Echo Base personnel"
+    ],
+    "destroyed": "3 ABY, Hoth system",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Alliance Fleet",
+    "registry": "Transport C One Seven"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Intrepid",
+  "wookieepedia_title": "Intrepid (EF76 Nebulon-B escort frigate)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Intrepid_%28EF76_Nebulon-B_escort_frigate%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Intrepid was a Nebulon-B frigate of the New Republic Defense Fleet.",
+  "data": {
+    "name": "Intrepid",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "length": "300 meters",
+    "width": "72 meters",
+    "height": "166 meters",
+    "engine": "Galaxy-15 ion engine",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup: Class 12"
+    ],
+    "armament": [
+      "Taim & Bak XI7 turbolasers (12)",
+      "Borstel Galactic Defense RH8 laser cannons (12)",
+      "Phylon Q7 tractor beam projectors (2)"
+    ],
+    "destroyed": "9 ABY",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

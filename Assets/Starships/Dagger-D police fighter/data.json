@@ -1,0 +1,32 @@
+{
+  "name": "Dagger-D police fighter",
+  "wookieepedia_title": "Dagger-D police fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dagger-D_police_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Dagger-D police fighter was a short-range starfighter used by the Duro Defense Force to patrol the Duro system. The fighter was sleek and blade-shaped, and possessed a large Novaldex BlasterDrive engine nacelle. Not designed to take heavy damage, the Dagger-D was inexpensive and used primarily for police duty.",
+  "data": {
+    "name": "Dagger-D police fighter",
+    "manufacturer": [
+      "Duro Shipwrights Guild",
+      "FreiTek Incorporated"
+    ],
+    "model": "Dagger-D police fighter",
+    "type": "Starfighter",
+    "length": "11.8 meters",
+    "max_speed": "1,200 km/h",
+    "engine": "Novaldex BlasterDrive",
+    "hyperdrive": "None",
+    "armament": "Triple blasters (2)",
+    "crew": "Pilot (1)",
+    "passengers": "2",
+    "capacity": "85 kilograms",
+    "consumables": "2 days",
+    "role": "Police fighter",
+    "affiliation": [
+      "Duro Defense Force",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

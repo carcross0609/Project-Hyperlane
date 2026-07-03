@@ -1,0 +1,29 @@
+{
+  "name": "Harrier",
+  "wookieepedia_title": "Harrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Harrier",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Harrier was a Dreadnaught-class heavy cruiser under command of the New Republic.",
+  "data": {
+    "name": "Harrier",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Dreadnaught-class heavy cruiser",
+    "sysmods": "Slave circuit",
+    "crew": "2,200",
+    "affiliation": [
+      "Galactic Republic",
+      "Garm Bel Iblis's movement",
+      "New Republic"
+    ],
+    "navy": [
+      "Judicial Fleet",
+      "  Katana fleet",
+      "Bel Iblis' personal fleet",
+      "New Republic Navy",
+      "  Coruscant defense fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

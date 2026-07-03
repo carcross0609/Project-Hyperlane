@@ -1,0 +1,31 @@
+{
+  "name": "Mu-3 Shuttle",
+  "wookieepedia_title": "Mu-3 Shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mu-3_Shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mu-3 Shuttle was a Sienar Fleet Systems general purpose shuttle.",
+  "data": {
+    "name": "Mu-3 Shuttle",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Mu-class shuttle",
+    "type": "Shuttle",
+    "length": "20 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 20"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "2",
+    "passengers": "40",
+    "capacity": "50 metric tons",
+    "consumables": "2 months",
+    "role": "Combat transport",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

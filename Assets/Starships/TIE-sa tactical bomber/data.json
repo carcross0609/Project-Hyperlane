@@ -1,0 +1,78 @@
+{
+  "name": "TIE/sa tactical bomber",
+  "wookieepedia_title": "TIE/sa tactical bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/sa_tactical_bomber",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/sa tactical bomber, also known as the TIE Surface Assault Bomber, TIE/sa bomber or simply the TIE bomber, was a bombing variant of the TIE series used by the Galactic Empire. An evolution of the TIE/gt, the TIE bomber was their main source of anti-emplacement air-support. They were nicknamed \"dupes\" by the New Republic pilot Wyl Lark and known as First Order bombers during their service in the First Order Navy.",
+  "data": {
+    "name": "TIE/sa tactical bomber",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "Twin Ion Engine bomber",
+    "type": "Light bomber",
+    "cost": [
+      "150,000 credits (new)",
+      "60,000 credits (used; military requisition charges)"
+    ],
+    "length": "7.8 meters",
+    "width": "9.3 meters",
+    "height": "5.1 meters",
+    "max_accel": "2,380 G",
+    "mglt": "60 MGLT",
+    "max_speed": "850 kph",
+    "engine": "P-s4 ion engine",
+    "hyperdrive": "None",
+    "hdsystem": "None (optional upgrade)",
+    "shield_gen": "None (optional upgrade)",
+    "hull": "Quadanium steel alloyed with titanium",
+    "sensor": "Short range sensors",
+    "target": [
+      "T-s7b targeting computer",
+      "398X bomb sight"
+    ],
+    "navigation": "N-s4 Navcon",
+    "armament": [
+      "L-s1 laser cannon (2)",
+      "T-s5 proton torpedo launchers",
+      "  LX-4 proton torpedoes (6)",
+      "M-s3 concussion missile launcher (2)",
+      "  Concussion missiles (8)",
+      "Bombing chute",
+      "  Merr-Sonn thermal detonators",
+      "  SJ-62/68 orbital mines",
+      "  VL-61/79 proton bombs",
+      "  Fusion bomb",
+      "  Various munitions"
+    ],
+    "escapepods": "Ejector seats",
+    "crew": "Pilot (1)",
+    "passengers": [
+      "6 (passenger pod configuration)",
+      "0 (standard model)"
+    ],
+    "consumables": [
+      "2 day supply of air",
+      "2 day supply of rations"
+    ],
+    "lifesupport": "Equipped",
+    "role": "Bombing",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Starfighter Corps",
+      "  68th Legion",
+      "Free Ryloth Movement (stolen)",
+      "Phoenix Cell (stolen)",
+      "  Spectres (stolen)",
+      "Alliance to Restore the Republic (stolen)",
+      "  Tatooine rebel cell (stolen)",
+      "Imperial Remnants",
+      "  Ubrik Adelhard's Imperial remnant",
+      "  Neo-Imperial forces",
+      "    Gideon's Imperial remnant",
+      "Ranc Gang",
+      "First Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

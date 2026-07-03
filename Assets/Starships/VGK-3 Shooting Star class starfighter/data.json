@@ -1,0 +1,29 @@
+{
+  "name": "VGK-3 Shooting Star class starfighter",
+  "wookieepedia_title": "VGK-3 Shooting Star class starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/VGK-3_Shooting_Star_class_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The VGK-3 Shooting Star class starfighter was a high performance prototype starfighter designed by Koensayr Manufacturing.",
+  "data": {
+    "name": "VGK-3 Shooting Star class starfighter",
+    "manufacturer": "Koensayr Manufacturing",
+    "type": "Heavy assault starfighter",
+    "cost": "135,000",
+    "length": "19 meters",
+    "max_speed": "1,000 kmh",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "5 wing-tipped laser cannons",
+      "2 forward proton torpedo launchers",
+      "1 rear twin ion cannon"
+    ],
+    "crew": "1; 1 gunner",
+    "capacity": "150 kilograms",
+    "consumables": "1 week"
+  },
+  "scraped": "2026-07-03"
+}

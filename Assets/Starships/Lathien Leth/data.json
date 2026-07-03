@@ -1,0 +1,27 @@
+{
+  "name": "Lathien Leth",
+  "wookieepedia_title": "Lathien Leth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lathien_Leth",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lathien Leth was a Nella 342 light freighter owned by the Sullustan smuggler Rani Quanic.",
+  "data": {
+    "name": "Lathien Leth",
+    "model": "Nella 342 light freighter",
+    "type": "Light freighter",
+    "cost": "Not available for sale",
+    "length": "29.7 meters",
+    "max_speed": "1,000 kmh",
+    "hdrange": [
+      "Class 1(primary)",
+      "Class 12(backup)"
+    ],
+    "armament": "(1) dorsal quad laser cannon",
+    "crew": "1",
+    "passengers": "5",
+    "capacity": "50 metric tons",
+    "consumables": "2 months"
+  },
+  "scraped": "2026-07-03"
+}

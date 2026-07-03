@@ -1,0 +1,24 @@
+{
+  "name": "End of Days",
+  "wookieepedia_title": "End of Days",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/End_of_Days",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The End of Days was a Keldabe-class cruiser of the Zann Consortium's pirate fleet, that served as the flagship of Admiral Jerid Sykes. The End of Days was staffed by some of the Consortium's best officers and crew, and was often used as Tyber Zann's personal transport. Following the Battle of Yavin, Admiral Sykes and the End of Days led a Consortium fleet in a battle against the pirates of the Veiled Sorority.",
+  "data": {
+    "name": "End of Days",
+    "manufacturer": "MandalMotors/Zann Consortium",
+    "type": "Keldabe-class cruiser",
+    "cost": "200,000,000 credits",
+    "sensor": "Long range",
+    "complement": "Sabacc Squadron",
+    "role": [
+      "Cruiser",
+      "Command ship"
+    ],
+    "affiliation": "Zann Consortium",
+    "captains": "Jerid Sykes"
+  },
+  "scraped": "2026-07-03"
+}

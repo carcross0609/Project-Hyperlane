@@ -1,0 +1,31 @@
+{
+  "name": "Woern's Assault Shuttle",
+  "wookieepedia_title": "Woern's Assault Shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Woern%27s_Assault_Shuttle",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Woern's Assault Shuttle was a modified Gamma-class assault shuttle that was used by Laerron Woern as his command ship. He received it after the ship was found abandoned after a battle. He removed all of the launch ports for the Zero-G assault stormtroopers except for two and converted the excess space into storage and benches.",
+  "data": {
+    "name": "Woern's Assault Shuttle",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Gamma-class assault shuttle",
+    "length": "30 meters",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 18 (backup)"
+    ],
+    "navigation": "Equipped (3 jump limit)",
+    "armament": [
+      "4 laser cannons",
+      "Concussion missile launcher",
+      "Tractor beam"
+    ],
+    "crew": "5",
+    "passengers": "50",
+    "capacity": "5 metric tons",
+    "consumables": "1 week",
+    "captains": "Laerron Woern"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Tide of Progress XII",
+  "wookieepedia_title": "Tide of Progress XII/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tide_of_Progress_XII/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tide of Progress XII was one of the InterGalactic Banking Clan's Munificent-class star frigates.",
+  "data": {
+    "name": "Tide of Progress XII",
+    "manufacturer": [
+      "Hoersch-Kessel Drive, Inc.",
+      "Gwori Revolutionary Industries"
+    ],
+    "model": "Munificent-class star frigate",
+    "type": "Frigate",
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "max_accel": "2,300 G",
+    "engine": "Eight ion drive thrusters",
+    "hyperdrive": "Class 1",
+    "hdrange": "150,000 light-years",
+    "poweroutput": "2.1 × 1023 W",
+    "power": "Twin main reactors",
+    "shield_gen": "Ray shield generator",
+    "sensor": "High-performance sensors",
+    "armament": [
+      "Two prow heavy turbolaser cannons",
+      "Two long-range heavy ion cannons",
+      "Twenty-six twin turbolaser cannons",
+      "Twenty light turbolaser turrets",
+      "Thirty-eight point-defense laser cannons"
+    ],
+    "crew": "200",
+    "passengers": "150,000 deactivated battle droids",
+    "communications": "Long-range hyperwave transceiver masts (2)",
+    "othersystems": [
+      "Inertial compensators",
+      "Superdense reactant tanks"
+    ],
+    "role": [
+      "Frigate",
+      "Communications ship"
+    ],
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

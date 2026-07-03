@@ -1,0 +1,29 @@
+{
+  "name": "MT/191 drop-ship",
+  "wookieepedia_title": "MT/191 drop-ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MT/191_drop-ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MT/191 drop-ship was a shuttle, troop transport, and dropship manufactured by Meller & Dax.",
+  "data": {
+    "name": "MT/191 drop-ship",
+    "manufacturer": "Meller & Dax",
+    "type": "Special-purpose shuttle and troop transport",
+    "length": "52.5 meters",
+    "max_speed": [
+      "1,200 kmh (during drop)",
+      "650 kmh (during return flight)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "1 light laser cannon",
+    "crew": "1",
+    "passengers": "160 (troops)",
+    "capacity": "200 metric tons",
+    "consumables": "1 day",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

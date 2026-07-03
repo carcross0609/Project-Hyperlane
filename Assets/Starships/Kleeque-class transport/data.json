@@ -1,0 +1,35 @@
+{
+  "name": "Kleeque-class transport",
+  "wookieepedia_title": "Kleeque-class transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kleeque-class_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kleeque-class transport was a medium-range transport vessel for military personnel and equipment.",
+  "data": {
+    "name": "Kleeque-class transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Kleeque-class transport",
+    "type": "Shuttle",
+    "length": "250 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 10"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon turrets (2)",
+    "crew": "16",
+    "skeleton": "4",
+    "passengers": "100 or 1,000",
+    "capacity": "5,000 metric tons",
+    "consumables": "1 month",
+    "role": [
+      "Evacuation vehicle",
+      "Landing craft",
+      "Troop transport"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Rebel One",
+  "wookieepedia_title": "Rebel One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rebel_One",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Rebel One was a heavily modified Providence-class carrier/destroyer that was used by the Alliance to Restore the Republic in 0 ABY.",
+  "data": {
+    "name": "Rebel One",
+    "model": "Modified Providence-class carrier/destroyer",
+    "sysmods": [
+      "Shell-like hull with additional engines",
+      "Fin-like protrusion with auxiliary engines added to stern"
+    ],
+    "hyperdrive": [
+      "Class (original fitting): 1.5",
+      "Backup class (original fitting): 10"
+    ],
+    "hdsystem": "Equipped",
+    "capacity": [
+      "BTL Y-wing starfighters",
+      "Limpet ships",
+      "T-65 X-wing starfighters",
+      "Escape pods"
+    ],
+    "role": [
+      "Carrier",
+      "Frigate",
+      "Command ship"
+    ],
+    "destroyed": "0 ABY (35:12 GrS)",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": [
+      "Confederate Navy",
+      "Alliance Fleet"
+    ],
+    "captains": "Tungo Li"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Keldabe-class cruiser",
+  "wookieepedia_title": "Keldabe-class cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Keldabe-class_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Keldabe-class cruiser, also known as the Keldabe-class battleship, was one of several different warship classes utilized by Tyber Zann's faction and others in the Galactic Civil War. At least one vessel of this class was employed by the Mandalorians during the Galactic Civil War.",
+  "data": {
+    "name": "Keldabe-class cruiser",
+    "manufacturer": [
+      "MandalMotors",
+      "Mandal Hypernautics",
+      "Zann Consortium"
+    ],
+    "model": "Keldabe-class battleship",
+    "type": [
+      "Cruiser",
+      "Capital ship"
+    ],
+    "cost": "200,000,000 credits",
+    "hyperdrive": "Class 2 (backup class 10)",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Heavy Turbolasers (25)",
+      "Heavy Ion cannons (15)",
+      "Mass driver missile launchers batteries (2)",
+      "  10 missiles",
+      "Heavy Tractor beams (5)",
+      "Shield leecher weapon (1)"
+    ],
+    "complement": [
+      "Starfighters (36)",
+      "Shuttles (2)",
+      "Light freighters (2)"
+    ],
+    "crew": "6,000",
+    "passengers": "1,000",
+    "capacity": "20,000 tons",
+    "consumables": "2 years",
+    "availability": "Restricted",
+    "role": "Battleship",
+    "affiliation": [
+      "Mandalorians",
+      "Zann Consortium"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

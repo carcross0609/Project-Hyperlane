@@ -1,0 +1,35 @@
+{
+  "name": "Tyrant",
+  "wookieepedia_title": "Tyrant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tyrant",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tyrant was an Imperial II-class Star Destroyer in the Imperial Navy. Under the command of Captain Lennox, it served as part of Darth Vader's personal fleet, Death Squadron. In 3 ABY, along with the rest of the fleet, it took part in the Battle of Hoth, where the Empire assaulted the Rebel Alliance's secret base on the ice planet Hoth.",
+  "data": {
+    "name": "Tyrant",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial II-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Missile launchers",
+      "Heavy tractor beam emitters (10)",
+      "Octuple turbolaser barbettes (8)"
+    ],
+    "bays": "Equipped",
+    "communications": "Communications tower",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron",
+    "captains": "Lennox"
+  },
+  "scraped": "2026-07-03"
+}

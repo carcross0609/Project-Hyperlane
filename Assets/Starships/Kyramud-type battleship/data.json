@@ -1,0 +1,46 @@
+{
+  "name": "Kyramud-type battleship",
+  "wookieepedia_title": "Kyramud-type battleship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kyramud-type_battleship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kyramud-type battleship, named after the Mando'a word for killer or assassin, comprised a series of capital ships used by the Mandalorian Crusaders and Neo-Crusaders.",
+  "data": {
+    "name": "Kyramud-type battleship",
+    "manufacturer": "Basiliskans",
+    "model": "Kyramud-type battleship",
+    "type": "Battleship",
+    "cost": "40 million credits (22 million used)",
+    "length": "752 meters",
+    "max_speed": "1,250 km/h",
+    "hyperdrive": "Class 2 (backup class 15)",
+    "hdsystem": "Equipped",
+    "navigation": "Navicomputer equipped",
+    "armament": [
+      "Medium double turbolasers (5)",
+      "Point-defense medium ion cannons (4)",
+      "Heavy concussion missile launchers (2)",
+      "  80 missiles",
+      "Tractor beam projectors (2)"
+    ],
+    "complement": [
+      "Basilisk war droids",
+      "Starfighters (36)",
+      "Shaadlar-type troopships (3)"
+    ],
+    "crew": "1,200",
+    "passengers": "2,000 (Mandalorian troops)",
+    "capacity": "8,000 tons",
+    "consumables": "1 year",
+    "availability": "Restricted",
+    "role": [
+      "Battleship",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Mandalorian Crusaders",
+      "Mandalorian Neo-Crusaders"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

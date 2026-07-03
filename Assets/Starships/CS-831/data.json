@@ -1,0 +1,30 @@
+{
+  "name": "CS-831",
+  "wookieepedia_title": "CS-831",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CS-831",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "CS-831 was a Lambda-class T-4a shuttle used by Grand Admiral Rae Sloane to travel to the planet Coruscant.",
+  "data": {
+    "name": "CS-831",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Abecederian line",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Multi-purpose transport",
+    "length": "20 meters",
+    "max_speed": "850 kph",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield",
+    "armament": [
+      "Laser cannons (5)",
+      "  Forward-facing double laser cannons (2)",
+      "  Forward-facing wing-mounted double laser cannons (2)",
+      "  Retractable rear-mounted double laser cannon (1)"
+    ],
+    "capacity": "80 metric tons",
+    "role": "Transport",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

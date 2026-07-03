@@ -1,0 +1,23 @@
+{
+  "name": "G-400",
+  "wookieepedia_title": "G-400",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G-400",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "G-400 was the name of a type of starfighter used by the Lok Revenants.",
+  "data": {
+    "name": "G-400",
+    "model": "G-400",
+    "type": "Starfighter",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "One laser cannon",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "role": "Starfighter",
+    "affiliation": [
+      "Lok Revenants"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Hammerhead Torpedo Corvette",
+  "wookieepedia_title": "Hammerhead Torpedo Corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hammerhead_Torpedo_Corvette",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Hammerhead Torpedo Corvette was a model of Sphyrna-class Hammerhead corvette used by the fleet of the Rebel Alliance. It was equipped with at least two laser cannons, torpedoes, and three engines. During the Imperial Era, three Hammerhead Torpedo Corvettes engaged in battle alongside several UT-60D U-wing starfighter/support craft and destroyed a Quasar Fire-class cruiser-carrier and several TIE fighters above a celestial body. In another instance, a Hammerhead Torpedo Corvette traversed through asteroids.",
+  "data": {
+    "name": "Hammerhead Torpedo Corvette",
+    "line": "Sphyrna-class Hammerhead corvette",
+    "model": "Hammerhead Torpedo Corvette",
+    "type": "Corvette",
+    "engine": "3",
+    "armament": [
+      "At least two laser cannons",
+      "Torpedoes"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Defender-class cruiser",
+  "wookieepedia_title": "Defender-class cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defender-class_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Defender-class cruiser was a type of cruiser manufactured by Mon Calamari Shipyards in the years after the Galactic Civil War in the New Republic Era by 9 ABY. At that time, the cruiser was considered new and was deployed in numbers by the New Republic Defense Fleet in several roles, including patrol, prisoner transport, and combat, such as during the Fenril crisis. Multiple ships comprised the New Republic fleet led by General Hera Syndulla, while others were stationed above Corellia.",
+  "data": {
+    "name": "Defender-class cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "Defender-class",
+    "type": "Cruiser",
+    "length": "995.7 meters",
+    "width": "217 meters",
+    "mglt": "80 MGLT",
+    "engine": [
+      "Central sublight engines (3)",
+      "Secondary engines (8)"
+    ],
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Turbolaser Turret",
+      "Point-defense laser cannon Turrets (6)",
+      "Tractor beam projector"
+    ],
+    "complement": [
+      "RZ-1 A-wing interceptors",
+      "T-65B X-wing starfighters"
+    ],
+    "bays": "Hangars (4)",
+    "communications": "Equipped",
+    "role": [
+      "Combat",
+      "Patrol",
+      "Prisoner transport"
+    ],
+    "firstuse": "By c. 6 ABY",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

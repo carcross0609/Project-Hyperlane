@@ -1,0 +1,40 @@
+{
+  "name": "Star Seeder-class Colony Ship",
+  "wookieepedia_title": "Star Seeder-class Colony Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Seeder-class_Colony_Ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Star Seeder-class Colony Ship was a hyperspace-capable colony transport made by Kuat Drive Yards.",
+  "data": {
+    "name": "Star Seeder-class Colony Ship",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Colony ship",
+    "cost": [
+      "3,000,000 credits (new)",
+      "1,000,000 credits (used)"
+    ],
+    "length": "280 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 3",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "6 turbolaser batteries",
+      "Tractor beam projector"
+    ],
+    "crew": "169",
+    "passengers": "800",
+    "capacity": [
+      "7,500 metric tons",
+      "3,000 cubic meters"
+    ],
+    "consumables": "5 years",
+    "availability": "Licensed",
+    "role": "Colonization"
+  },
+  "scraped": "2026-07-03"
+}

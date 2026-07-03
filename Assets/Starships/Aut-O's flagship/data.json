@@ -1,0 +1,36 @@
+{
+  "name": "Aut-O's flagship",
+  "wookieepedia_title": "Aut-O's flagship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aut-O%27s_flagship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Providence-class Dreadnought served in the Confederacy of Independent Systems's naval forces and served as the flagship of a Separatist fleet commanded by the ST-series military strategic analysis and tactics droid Commander Aut-O during the Clone Wars. In 20 BBY, the dreadnought was infiltrated by a squad of Galactic Republic droids, who had been sent to retrieve an encryption module located aboard. The squad later escaped the vessel with the encryption module, but not before Aut-O was destroyed in a brief incursion with the droids.",
+  "data": {
+    "name": "Aut-O's flagship",
+    "model": "Providence-class Dreadnought",
+    "type": "Dreadnought",
+    "engine": "Nubian Creveld-4 radial ion drives (3)",
+    "armament": [
+      "Heavy quad turbolaser cannons",
+      "Tractor beam"
+    ],
+    "complement": [
+      "Vulture-class droid starfighters",
+      "Hyena-class Droid Fighter/Bombers"
+    ],
+    "bays": "Main hangar",
+    "crew": "B1-series battle droids",
+    "passengers": [
+      "B1-series battle droids",
+      "B2-series super battle droids"
+    ],
+    "communications": "Equipped",
+    "role": "Flagship",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy",
+    "fleet": "Aut-O's fleet",
+    "captains": "Aut-O"
+  },
+  "scraped": "2026-07-03"
+}

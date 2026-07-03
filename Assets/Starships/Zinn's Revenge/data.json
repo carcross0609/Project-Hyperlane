@@ -1,0 +1,36 @@
+{
+  "name": "Zinn's Revenge",
+  "wookieepedia_title": "Zinn's Revenge",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zinn%27s_Revenge",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Zinn's Revenge was a modified CorelliSpace Gymsnor-3 light freighter.",
+  "data": {
+    "name": "Zinn's Revenge",
+    "manufacturer": "CorelliSpace",
+    "line": "Gymsnor series",
+    "model": "Gymsnor-3 light freighter",
+    "type": "Light freighter",
+    "length": "34.1 meters",
+    "max_speed": "800 KMH",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "4 heavy laser cannons",
+    "crew": "2; gunners: 4",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "10 metric tons, 10 cubic meters",
+    "consumables": "1 month",
+    "role": "Personal transport",
+    "affiliation": "Zinn Classet",
+    "owners": "Zinn Classet",
+    "captains": "Zinn Classet"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Ooryl Qrygg's T-65 X-wing",
+  "wookieepedia_title": "Ooryl Qrygg's T-65 X-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ooryl_Qrygg%27s_T-65_X-wing",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Ooryl Qrygg's T-65 X-wing was a starfighter purchased for the Gand pilot after he resigned his commission to the New Republic Navy to help the former members of Rogue Squadron liberate the planet Thyferra from the Galactic Empire. In order to ensure that Antilles's Rogues appeared distinct from the New Republic, Ooryl Qrygg and his squadmates were given the chance to customise their T-65 X-wings. Ooryl chose to paint the hull of his fighter in a beautiful and complex pattern that could only be seen by those who can view the ultraviolet spectrum. To the Verpine, Zraii, it was a masterpiece, but to the rest of the Rogues it looked stark white.",
+  "data": {
+    "name": "Ooryl Qrygg's T-65 X-wing",
+    "manufacturer": "Incom Corporation",
+    "model": "T-65 X-wing starfighter",
+    "type": "Starfighter",
+    "engine": "4L4 fusial thrust engines (4)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "KX9 laser cannons (4)",
+      "Concussion missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "0",
+    "role": "Attack Fighter",
+    "affiliation": [
+      "Antilles's Rogues",
+      "New Republic",
+      "  Rogue Squadron"
+    ],
+    "navy": "New Republic Space Navy",
+    "owners": "Ooryl Qrygg"
+  },
+  "scraped": "2026-07-03"
+}

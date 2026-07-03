@@ -1,0 +1,29 @@
+{
+  "name": "Wanderer-class transport",
+  "wookieepedia_title": "Wanderer-class transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wanderer-class_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Wanderer-class transport was a catch-all ship designation that was used by the Galactic Republic, and applied to military vessels that had been converted to civilian use during both the Great Galactic War and Galactic War, as well as the Cold War between them. Most Wanderer-class transports were stripped-down Thranta-class corvettes. The Daybreaker, a transport under the command of Captain Dal in 3643 BBY, served as a Navy medical frigate, and the Esseles was a civilian transport that was attacked by Grand Moff Rycus Kilran in an attempt to capture the Twi'lek ambassador Vyn Asara.",
+  "data": {
+    "name": "Wanderer-class transport",
+    "type": [
+      "Transport",
+      "Corvette"
+    ],
+    "armament": "Laser cannons",
+    "availability": [
+      "Civilian",
+      "Military"
+    ],
+    "role": [
+      "Cargo transport",
+      "Medical frigate"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

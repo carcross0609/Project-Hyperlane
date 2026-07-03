@@ -1,0 +1,35 @@
+{
+  "name": "Bearing Lifter",
+  "wookieepedia_title": "Bearing Lifter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bearing_Lifter",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Bearing Lifter was a modified Gallofree Yards GR-75 medium transport of the Rebel Alliance Fleet during the Galactic Civil War. With enhanced sensor, navigation, and communications systems and other stealth countermeasures, the Bearing Lifter was designed to evade long-range Imperial scanning. As one of thirty GR-75 medium transports stationed at the Alliance High Command's Echo Base on the ice planet Hoth, the Bearing Lifter participated in the Rebel Alliance defeat at the Battle of Hoth in 3 ABY. Rebel pilot Gemmer Sojan conducted the Bearing Lifter safe evacuation from Hoth, though it was one of just thirteen Rebel transports to survive the engagement.",
+  "data": {
+    "name": "Bearing Lifter",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "GR-75 medium transport",
+    "type": "Medium transport",
+    "modifier": "Alliance to Restore the Republic",
+    "sysmods": [
+      "Sensor",
+      "Navigation",
+      "Communications"
+    ],
+    "length": "90 meters",
+    "engine": "Equipped",
+    "sensor": "Enhanced",
+    "navigation": "Enhanced",
+    "countermeasures": [
+      "Anti-sensor/scanning armor plating",
+      "Other anti-scanning systems"
+    ],
+    "armament": "Laser cannons",
+    "communications": "Enhanced",
+    "role": "Personnel and equipment transportation",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Alliance Fleet"
+  },
+  "scraped": "2026-07-03"
+}

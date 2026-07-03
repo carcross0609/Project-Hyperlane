@@ -1,0 +1,45 @@
+{
+  "name": "Turbostorm-class gunship",
+  "wookieepedia_title": "Turbostorm-class gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Turbostorm-class_gunship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Turbostorm-class gunship was a heavily-armored gunship model produced by Sienar Fleet Systems, considered ancient by the time of the Clone Wars.",
+  "data": {
+    "name": "Turbostorm-class gunship",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Turbostorm-class gunship",
+    "type": "Gunship",
+    "max_speed": "0.5 past supersonic",
+    "engine": "turbojets (modified for atmospheric flight), repulsorlifts",
+    "shield_gen": "Antisepsis field generators",
+    "armament": [
+      "KX-4 laser cannon turrets (2)",
+      "MG3 mini-missile launchers (2)",
+      "Ventral mounted Sunfire 1000 flame thrower"
+    ],
+    "bays": "1 troop bay",
+    "crew": [
+      "Pilot (1)",
+      "Navigator (1)",
+      "Ball turret gunners (2)"
+    ],
+    "skeleton": "1",
+    "passengers": "24 soldiers",
+    "cargohandling": "Port and starboard",
+    "lifesupport": "Artificial gravity",
+    "role": [
+      "Gunship",
+      "Patrol craft",
+      "Scout",
+      "Troop carrier"
+    ],
+    "affiliation": [
+      "Balawai militia",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Defense forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

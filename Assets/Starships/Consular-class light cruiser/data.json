@@ -1,0 +1,55 @@
+{
+  "name": "Consular-class light cruiser",
+  "wookieepedia_title": "Consular-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Consular-class_light_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Consular-class light cruiser, also known as the Consular-class space cruiser, and commonly referred to as the Republic Cruiser, was a starship used by the Galactic Republic during the events leading up to the Invasion of Naboo and during the Clone Wars.",
+  "data": {
+    "name": "Consular-class light cruiser",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Republic Cruiser",
+    "model": [
+      "Consular-class space cruiser",
+      "Republic frigate"
+    ],
+    "type": [
+      "Light cruiser",
+      "Corvette"
+    ],
+    "cost": "3,000,000 credits",
+    "length": "115 meters (377.2 feet)",
+    "max_speed": "900 kph",
+    "engine": "Dyne 577 radial atomizer engine (3)",
+    "hyperdrive": [
+      "Class 2",
+      "Class 14 (backup)"
+    ],
+    "hdsystem": "Longe Voltrans tri-arc CD-3.2 hyperdrive",
+    "shield_gen": "Equipped",
+    "sensor": "Extreme-range sensors",
+    "navigation": "Navigation computer",
+    "escapepods": [
+      "Detachable salon pod (1)",
+      "2 8-person escape pods"
+    ],
+    "crew": [
+      "1 captain",
+      "1 pilot",
+      "1 copilot",
+      "1 navigator",
+      "1 comms operator",
+      "4 engineers"
+    ],
+    "passengers": "Up to 24 (depending on configuration)",
+    "consumables": "1 year",
+    "role": "Diplomatic cruiser",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Diplomatic Fleet",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

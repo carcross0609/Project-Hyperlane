@@ -1,0 +1,32 @@
+{
+  "name": "P1",
+  "wookieepedia_title": "P1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/P1",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The P1 was a Sphyrna-class Hammerhead corvette that served in the Alliance to Restore the Republic's fleet. Before the Galactic Civil War, the ship was sent by Senator Bail Organa to reinforce Commander Jun Sato's unit of the rebellion along with two other Hammerheads, the P2 and P3. The three ships were stolen by one of Sato's sub-units, the Spectres, during a raid on the planet Lothal. When part of Phoenix Cell, it was one of the few ships to escape the disastrous Battle of Atollon, where its sister ship P2 was destroyed by the Galactic Empire, along with many other ships.",
+  "data": {
+    "name": "P1",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Sphyrna-class Hammerhead corvette",
+    "type": "Corvette",
+    "length": "315 meters",
+    "max_speed": "900 kph",
+    "hyperdrive": "Equipped",
+    "armament": "Dual laser cannons (3)",
+    "escapepods": "Equipped",
+    "skeleton": "1",
+    "affiliation": [
+      "House of Organa",
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": [
+      "Royal Alderaan Civil Fleet",
+      "Phoenix Cell"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

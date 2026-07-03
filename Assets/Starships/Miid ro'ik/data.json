@@ -1,0 +1,44 @@
+{
+  "name": "Miid ro'ik",
+  "wookieepedia_title": "Miid ro'ik",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Miid_ro%27ik",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The miid ro'ik warship was a Yuuzhan Vong bio-engineered capital starship and the rough analog to an Imperial-class Star Destroyer.",
+  "data": {
+    "name": "Miid ro'ik",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Miid ro'ik warship",
+    "type": "Capital ship",
+    "length": "1,620 meters",
+    "max_accel": "2,340 G",
+    "engine": "Dovin basals",
+    "hyperdrive": "Class 3.0 (equivalent)",
+    "shield_gen": "Dovin basals",
+    "hull": "Yorik coral",
+    "armament": [
+      "Yaret-Kors (60)",
+      "Qworlth skaal (1)",
+      "Dovin basals"
+    ],
+    "complement": [
+      "Coralskippers",
+      "Rakamats",
+      "Yorik-tremas",
+      "Yorik-vec assault cruiser",
+      "Fire Breathers",
+      "Tsik-Vai",
+      "Tsik-Seru"
+    ],
+    "crew": "1,280",
+    "passengers": "1,950",
+    "capacity": "8,200 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Cruiser",
+      "Carrier"
+    ],
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

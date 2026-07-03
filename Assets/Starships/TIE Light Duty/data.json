@@ -1,0 +1,35 @@
+{
+  "name": "TIE Light Duty",
+  "wookieepedia_title": "TIE Light Duty",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_Light_Duty",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE Light Duty was a light starfighter used by the Galactic Empire during the Galactic Civil War, frequently serving as training ships. They were often reconditioned standard TIEs. TIE Light Duty starfighters had inferior components, lighter armor, and less firepower in order not to be too dangerous to novice pilots. This reduction in firepower also helped to put less stress on fragile reactors and superstructures.",
+  "data": {
+    "name": "TIE Light Duty",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine light starfighter",
+    "type": "Light starfighter",
+    "length": "6.3 meters",
+    "engine": [
+      "SFS twin ion engines",
+      "SFS ion maneuvering jets"
+    ],
+    "hdsystem": "None",
+    "power": [
+      "SFS solar ionization reactor (with limiters)",
+      "Secondary generator for cannons"
+    ],
+    "shield_gen": "None",
+    "armament": "SFS L-s1 laser cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "role": [
+      "Light starfighter",
+      "Training ship"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

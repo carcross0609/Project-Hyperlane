@@ -1,0 +1,35 @@
+{
+  "name": "Etti light cruiser",
+  "wookieepedia_title": "Etti light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Etti_light_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Etti light cruiser was a small capital ship built by the Corporate Sector Authority, and built off of the same space frame as the Etti-class light transport.",
+  "data": {
+    "name": "Etti light cruiser",
+    "manufacturer": "Corporate Sector Authority",
+    "model": "Modified CSA Etti light cruiser",
+    "type": "Capital ship",
+    "cost": "Not for sale. valued at 1,641,000",
+    "length": "125 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 2.0",
+    "armament": [
+      "Quad laser cannon turrets (10; 4 fore, 2 port, 2 starboard, 2 aft)",
+      "Tractor beam projector"
+    ],
+    "crew": "25",
+    "skeleton": "15",
+    "passengers": "15",
+    "capacity": "400 metric tons",
+    "consumables": "3 weeks",
+    "role": [
+      "Cargo hauler",
+      "Passenger transport",
+      "Patrol craft",
+      "Q-ships (modified cargo vessels with hidden weapons, designed to lure in and destroy pirate forces)"
+    ],
+    "affiliation": "Corporate Sector Authority"
+  },
+  "scraped": "2026-07-03"
+}

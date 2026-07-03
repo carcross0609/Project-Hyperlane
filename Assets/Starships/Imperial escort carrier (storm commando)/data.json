@@ -1,0 +1,40 @@
+{
+  "name": "Imperial escort carrier",
+  "wookieepedia_title": "Imperial escort carrier (storm commando)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_escort_carrier_%28storm_commando%29",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperial escort carrier was a type of capital ship used exclusively by the Galactic Empire's storm commandos.",
+  "data": {
+    "name": "Imperial escort carrier",
+    "model": "Imperial escort carrier",
+    "type": "Escort carrier",
+    "engine": "3",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Single-barreled turrets (2)",
+      "Double-barreled cannon (2)",
+      "Single-barreled laser turrets (2)"
+    ],
+    "complement": [
+      "TIE/LN starfighters",
+      "TIE/sa bomber",
+      "TIE Hunters",
+      "Escape pods (4)"
+    ],
+    "passengers": [
+      "Storm commandos",
+      "Stormtroopers"
+    ],
+    "role": [
+      "Medium assault craft",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Stormtrooper Corps",
+      "    Storm commandos"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

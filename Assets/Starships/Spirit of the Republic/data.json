@@ -1,0 +1,44 @@
+{
+  "name": "Spirit of the Republic",
+  "wookieepedia_title": "Spirit of the Republic",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spirit_of_the_Republic",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Spirit of the Republic was a Venator-class Star Destroyer in the service of the navy of the Galactic Republic during the pan-galactic conflict known as the Clone Wars. The Spirit served as transport for Jedi Master and Grand Army of the Republic General Obi-Wan Kenobi both to and from the planet Tatooine for negotiations with Jabba the Hutt, and also as the flagship of Republic Admiral Wullf Yularen, during the Battle of Teth in the year 22 BBY.",
+  "data": {
+    "name": "Spirit of the Republic",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "engine": "8",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Transponder code scanner",
+    "armament": "Aft laser cannons",
+    "complement": [
+      "Starfighters",
+      "  Delta-7B Aethersprite-class light interceptor",
+      "  V-19 Torrent starfighters",
+      "Gunships",
+      "  Low Altitude Assault Transports/infantry"
+    ],
+    "bays": [
+      "2 aft hangars",
+      "1 bow hangar",
+      "1 ventral docking bay"
+    ],
+    "crew": "Clone naval officers",
+    "passengers": "212th Attack Battalion",
+    "role": [
+      "Carrier",
+      "Command ship",
+      "Destroyer"
+    ],
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet",
+    "captains": "Admiral Wullf Yularen"
+  },
+  "scraped": "2026-07-03"
+}

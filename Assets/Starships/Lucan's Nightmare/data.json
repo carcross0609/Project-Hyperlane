@@ -1,0 +1,33 @@
+{
+  "name": "Lucan's Nightmare",
+  "wookieepedia_title": "Lucan's Nightmare",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lucan%27s_Nightmare",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lucan's Nightmare was a modified starship owned by the New Republic agent, Trask Lucan.",
+  "data": {
+    "name": "Lucan's Nightmare",
+    "manufacturer": "Arden Industries",
+    "model": "Model 47",
+    "type": "Light freighter",
+    "cost": "155,000 credits",
+    "length": "30 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 7"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "2; 2 gunners",
+    "skeleton": "1",
+    "passengers": "6",
+    "cargohandling": "100 metric tons",
+    "consumables": "2 months",
+    "role": "Personal transport",
+    "owners": "Trask Lucan"
+  },
+  "scraped": "2026-07-03"
+}

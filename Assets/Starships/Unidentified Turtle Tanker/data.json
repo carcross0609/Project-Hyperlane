@@ -1,0 +1,30 @@
+{
+  "name": "Unidentified Turtle Tanker",
+  "wookieepedia_title": "Unidentified Turtle Tanker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Turtle_Tanker",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Terrapin-class Bulk Tanker was owned by a Sakiyan cargo hauler during the Clone Wars. In 20 BBY, it was used by Savage Opress in order to escape from the planet Stobar and retrieve his brother Darth Maul from Lotho Minor to take him back to Dathomir.",
+  "data": {
+    "name": "Unidentified Turtle Tanker",
+    "manufacturer": "Corellia Mining Corporation",
+    "model": "Terrapin-class Bulk Tanker",
+    "type": "Transport/walker hybrid",
+    "cost": "350,000 credits",
+    "length": "38.2 meters",
+    "height": "26.1 meters",
+    "max_speed": "750 kph",
+    "hdsystem": "Equipped",
+    "escapepods": "1",
+    "cargohandling": "Detachable cargo pod",
+    "role": "Cargo freighter",
+    "affiliation": "Nightbrothers",
+    "owners": [
+      "Unidentified Sakiyan cargo hauler",
+      "Savage Opress",
+      "Darth Maul"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

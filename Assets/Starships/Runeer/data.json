@@ -1,0 +1,20 @@
+{
+  "name": "Runeer",
+  "wookieepedia_title": "Runeer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Runeer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Runeer was the designation of a group of two Assassin-class corvettes under the service of the Rebel Alliance during the Galactic Civil War. They were used by the Alliance as part of their first attack on Space Installation NL-1. But were destroyed by the stations defenses, which included Imperial Ace Maarek Stele.",
+  "data": {
+    "name": "Runeer",
+    "model": "Assassin-class corvette",
+    "role": [
+      "Transport",
+      "Corvette"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Rebel Alliance"
+  },
+  "scraped": "2026-07-03"
+}

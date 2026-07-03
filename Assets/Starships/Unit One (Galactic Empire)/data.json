@@ -1,0 +1,23 @@
+{
+  "name": "Unit One",
+  "wookieepedia_title": "Unit One (Galactic Empire)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unit_One_%28Galactic_Empire%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Repulsorlift_vehicle",
+  "description": "Unit One was an armored vehicle using by a contingent in the Galactic Empire's Imperial Army led by Lieutenant Krole.",
+  "data": {
+    "name": "Unit One",
+    "model": "Imperial armored vehicle",
+    "type": "Repulsorcraft",
+    "armament": "1 mounted blaster cannon",
+    "crew": "1 driver, 1 gunner",
+    "passengers": "At least 3",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire",
+      "  Krole's contingent"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

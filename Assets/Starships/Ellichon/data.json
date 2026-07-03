@@ -1,0 +1,24 @@
+{
+  "name": "Ellichon",
+  "wookieepedia_title": "Ellichon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ellichon",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Ellichon was an Airam Delta-class JV-7 escort shuttle. During the operations of Task Force Vengeance, it was unfortunate enough to cross paths with the Star Destroyer Rage and the Interdictor Cruiser Compellor near the Blair Cluster where the two Imperial vessels were watching for illegal activity. Being less than legal itself, Ellichon was among those captured.",
+  "data": {
+    "name": "Ellichon",
+    "model": "Delta-class JV-7 escort shuttle",
+    "type": "Shuttle",
+    "length": "30 meters",
+    "width": "32.3 meters",
+    "height": "32.4 meters",
+    "armament": [
+      "Taim & Bak KX5 laser cannons (3; forward)",
+      "Taim & Bak H9 dual turbolaser (1; aft turret)",
+      "Projectile launchers (2)"
+    ],
+    "affiliation": "Airam"
+  },
+  "scraped": "2026-07-03"
+}

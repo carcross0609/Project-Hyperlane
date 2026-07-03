@@ -1,0 +1,36 @@
+{
+  "name": "Implacable",
+  "wookieepedia_title": "Implacable (Acclamator-class)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Implacable_%28Acclamator-class%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Implacable was an Acclamator-class assault ship that served the Republic Navy during the Clone Wars and was present at the First Battle of Geonosis. It survived the Clone Wars to serve the Imperial Navy in the Galactic Civil War.",
+  "data": {
+    "name": "Implacable",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Acclamator-class assault ship",
+    "type": "Assault ship",
+    "length": "752 meters",
+    "width": "460 meters",
+    "height": [
+      "200 meters (with landing gear)",
+      "183 meters (in flight)"
+    ],
+    "hull": "Ablative armor modifications",
+    "armament": [
+      "Quad turbolaser cannons (12)",
+      "Point-defense laser cannons (24)",
+      "Proton torpedo tubes (4)"
+    ],
+    "role": [
+      "Transport",
+      "Medium frigate"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

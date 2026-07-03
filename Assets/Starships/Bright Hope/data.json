@@ -1,0 +1,30 @@
+{
+  "name": "Bright Hope",
+  "wookieepedia_title": "Bright Hope",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bright_Hope",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Bright Hope was a GR-75 medium transport that served the Rebel Alliance. There were twenty-nine other transports of the same model used by the rebels to escape Hoth. During the Battle of Hoth in 3 ABY, the transport was a part of the evacuation plan. Rebel personnel like Lieutenant Harlize Dana, Rainn Poras and communications officer Toryn Farr boarded the Bright Hope while the kitchen worker Chase Wilsorr helped Doctor Tristan Melthabi, Officer Sendak and the Tauntaun handler Jordan Smythe make it to the transport. The Bright Hope then took off, escorted by three T-65B X-wing starfighters piloted by Wedge Antilles, Wes Janson and Tarrin. It was the last transport to leave Hoth.",
+  "data": {
+    "name": "Bright Hope",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "GR-75 medium transport",
+    "type": "Medium transport",
+    "length": "90 meters",
+    "max_speed": "650 kph",
+    "hyperdrive": "Class 4",
+    "shield_gen": "Equipped",
+    "armament": "Four twin laser cannons",
+    "crew": "6",
+    "capacity": "19,000 metric tons",
+    "role": "Transport",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": "Fourth Division"
+  },
+  "scraped": "2026-07-03"
+}

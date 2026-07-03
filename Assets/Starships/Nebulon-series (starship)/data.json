@@ -1,0 +1,28 @@
+{
+  "name": "Nebulon-series",
+  "wookieepedia_title": "Nebulon-series (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nebulon-series_%28starship%29",
+  "continuity": "Canon",
+  "infobox_template": "ShipSeries",
+  "description": "The Nebulon-series, also known as the Nebulon frigate series, was a line of frigates manufactured by Kuat Drive Yards and used by a variety of factions throughout history. The EF76 Nebulon-B escort frigate was deployed by the Galactic Empire, planetary defense forces such as Jinata Security, the Alliance to Restore the Republic, and the New Republic. The Nebulon-C escort frigate, the B's successor, was also used by the New Republic as well as the Resistance. The Nebulon-K frigate saw service with the First Order. The Citizens' Fleet was composed of multiple configurations of the Nebulon-C, as well as multiple Nebulon-Bs.",
+  "data": {
+    "name": "Nebulon-series",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Frigate",
+    "models": [
+      "EF76 Nebulon-B escort frigate",
+      "Nebulon-C escort frigate",
+      "Nebulon-K frigate"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Jinata Security",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Resistance",
+      "First Order",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

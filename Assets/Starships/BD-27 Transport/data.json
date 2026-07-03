@@ -1,0 +1,33 @@
+{
+  "name": "BD-27 Transport",
+  "wookieepedia_title": "BD-27 Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BD-27_Transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BD-27 Transport was a Corellian Engineering Corporation barge driver. It was the predecessor to the Action series of medium freighters, and defined the basic shape of that transport.",
+  "data": {
+    "name": "BD-27 Transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "BD-series",
+    "type": "Barge driver",
+    "cost": [
+      "800,000 credits (New)",
+      "350,000 credits (Used)"
+    ],
+    "length": "110 meters",
+    "max_speed": "650 kmh",
+    "hyperdrive": [
+      "x3 (Primary)",
+      "x15 (Backup)"
+    ],
+    "armament": "None",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "4",
+    "capacity": "75,000 metric tons",
+    "consumables": "3 months"
+  },
+  "scraped": "2026-07-03"
+}

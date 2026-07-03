@@ -1,0 +1,41 @@
+{
+  "name": "Maka-Eekai L4000 transport",
+  "wookieepedia_title": "Maka-Eekai L4000 transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maka-Eekai_L4000_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Maka-Eekai L4000 Transport was a space transport design made by Gallofree Yards.",
+  "data": {
+    "name": "Maka-Eekai L4000 transport",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "Maka-Eekai L4000 Transport",
+    "type": "Light transport",
+    "cost": [
+      "180,000 credits (new)",
+      "85,000 (used)"
+    ],
+    "length": "66 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 2.0",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Dual laser cannon turrets(2)"
+    ],
+    "crew": [
+      "Total (4)",
+      "Pilot (1)",
+      "Gunner (2)",
+      "Operations (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "9",
+    "capacity": "140 metric tons",
+    "consumables": "6 months",
+    "role": [
+      "Transport",
+      "Modified versions:"
+    ],
+    "affiliation": "Independent"
+  },
+  "scraped": "2026-07-03"
+}

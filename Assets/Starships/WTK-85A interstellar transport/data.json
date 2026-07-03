@@ -1,0 +1,43 @@
+{
+  "name": "WTK-85A interstellar transport",
+  "wookieepedia_title": "WTK-85A interstellar transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/WTK-85A_interstellar_transport",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The WTK-85A interstellar transport was a model of transport manufactured by Sublights Products Corporation. Designed for scouts or pilots who worked with minimal crew requirements, the WTK-85A only needed one pilot, though had space for a co-pilot.",
+  "data": {
+    "name": "WTK-85A interstellar transport",
+    "manufacturer": "Sublights Products Corporation",
+    "model": "WTK-85A",
+    "type": "Transport",
+    "length": "21 meters",
+    "height": "7.28 meters",
+    "engine": "Ion engine (2)",
+    "hdsystem": "Equipped",
+    "shield_gen": [
+      "Equipped",
+      "Particle shield"
+    ],
+    "armament": [
+      "Double laser turret",
+      "Forward laser cannons",
+      "Stabilizing fins"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "skeleton": "Pilot (1)",
+    "cargohandling": [
+      "Entry ramp",
+      "Topside hatch above the pilot station"
+    ],
+    "affiliation": [
+      "Hutt Clan",
+      "Pyke Syndicate",
+      "Sith Eternal",
+      "  Acolytes of the Beyond"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

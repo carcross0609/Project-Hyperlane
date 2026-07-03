@@ -1,0 +1,41 @@
+{
+  "name": "Endurance",
+  "wookieepedia_title": "Endurance (Endurance-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Endurance_%28Endurance-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Endurance was an Endurance-class fleet carrier in service to the New Republic Defense Force in 12 ABY. Commanded by Admiral Areta Bell, the Endurance was dispatched to assist General Wedge Antilles and the Executor-class Star Dreadnought Lusankya in opposing Imperial Admiral Gilad Pellaeon's capture of the planet Orinda and six other systems along the Entralla Route in the Mid Rim. The Endurance fought alongside the Lusankya at Obredaan, eventually forcing a confrontation with Pellaeon's forces&mdash;led by the Executor-class Star Dreadnought Reaper&mdash;at Orinda.",
+  "data": {
+    "name": "Endurance",
+    "manufacturer": "Republic Engineering Corporation",
+    "type": "Endurance-class fleet carrier",
+    "cost": "Not available for sale",
+    "length": "1,040 meters",
+    "max_speed": "1,000 km/h",
+    "engine": "Equipped",
+    "hyperdrive": [
+      "x1",
+      "x10 (back-up)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "12 turbolaser cannons",
+      "20 laser cannons",
+      "8 ion cannons",
+      "4 tractor beam projectors"
+    ],
+    "complement": "Squadrons of E-wing escort starfighters",
+    "crew": "6,795; 76 gunners",
+    "skeleton": "2,265",
+    "passengers": "1,600 (troops)",
+    "capacity": "15,000 metric tons",
+    "consumables": "5 months",
+    "role": "Fleet carrier",
+    "destroyed": "12 ABY, Orinda",
+    "affiliation": "New Republic",
+    "captains": "Admiral Areta Bell"
+  },
+  "scraped": "2026-07-03"
+}

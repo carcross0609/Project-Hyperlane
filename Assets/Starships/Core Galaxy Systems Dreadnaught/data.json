@@ -1,0 +1,52 @@
+{
+  "name": "Core Galaxy Systems Dreadnaught",
+  "wookieepedia_title": "Core Galaxy Systems Dreadnaught",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Core_Galaxy_Systems_Dreadnaught",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Core Galaxy Systems Dreadnaught was a military vessel built by Core Galaxy Systems for the Republic Navy before the time of the Great Sith War.",
+  "data": {
+    "name": "Core Galaxy Systems Dreadnaught",
+    "manufacturer": "Core Galaxy Systems",
+    "model": "Core Galaxy Systems Dreadnaught (statistics for the modified Enforcer One only)",
+    "type": "Dreadnaught",
+    "cost": [
+      "900,000 credits (new)",
+      "500,000 credits (used)"
+    ],
+    "length": "900 meters",
+    "hyperdrive": [
+      "Class 10",
+      "  Class 22 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "Heavy turbolaser (1)",
+      "Laser cannons (16)",
+      "Tractor beam projectors (4)"
+    ],
+    "crew": [
+      "Crewmen (45)",
+      "Gunners (20)"
+    ],
+    "skeleton": [
+      "Crewmen (25)",
+      "Gunners (15)"
+    ],
+    "passengers": "50",
+    "capacity": "3,000 metric tons",
+    "consumables": "2 weeks",
+    "role": [
+      "Dreadnaught",
+      "Planetary assault",
+      "Planetary occupation"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Bogga the Hutt",
+      "Crimson Nova"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

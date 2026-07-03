@@ -1,0 +1,30 @@
+{
+  "name": "Liberty",
+  "wookieepedia_title": "Liberty (Venator-class)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liberty_%28Venator-class%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Liberty was a Venator-class Star Destroyer that served as the flagship of General Aayla Secura's fleet during the Clone Wars.",
+  "data": {
+    "name": "Liberty",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "engine": "Equipped",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "armament": "Several DBY-827 heavy dual turbolaser turrets",
+    "role": [
+      "Destroyer",
+      "Carrier",
+      "Command ship"
+    ],
+    "destroyed": "22 BBY, Quell",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet",
+    "captains": "Jedi General Aayla Secura"
+  },
+  "scraped": "2026-07-03"
+}

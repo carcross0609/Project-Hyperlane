@@ -1,0 +1,48 @@
+{
+  "name": "Pursuer",
+  "wookieepedia_title": "Pursuer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pursuer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Pursuer was an Imperial I-class Star Destroyer that was in service to the Imperial Navy of the Galactic Empire. The Pursuer became the headquarters of the Empire's 204th Imperial Fighter Wing, and assisted the fighter wing in a number of operations. The Star Destroyer earned its name as a result of a chase through the Redspace Reefs.",
+  "data": {
+    "name": "Pursuer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hyperdrive": "Class 2",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "target": "Tractor beam targeting array",
+    "armament": [
+      "Taim & Bak XX-9 heavy turbolaser batteries (60)",
+      "Borstel NK-7 ion cannons (60)",
+      "Dual heavy turbolaser turrets (6)",
+      "Dual heavy ion cannon turrets (2)",
+      "Quad heavy turbolasers (2)",
+      "Triple medium turbolasers (3)",
+      "Medium turbolasers (2)",
+      "Phylon 07 tractor beam projectors (10)"
+    ],
+    "complement": "TIE fighter series starfighters (72)",
+    "affiliation": [
+      "Galactic Empire",
+      "  204th Imperial Fighter Wing"
+    ],
+    "navy": "Imperial Navy",
+    "captains": [
+      "Shakara Nuress",
+      "Imperial captain"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

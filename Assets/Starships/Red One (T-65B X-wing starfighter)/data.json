@@ -1,0 +1,26 @@
+{
+  "name": "Red One",
+  "wookieepedia_title": "Red One (T-65B X-wing starfighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Red_One_%28T-65B_X-wing_starfighter%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Red One was the T-65B X-wing starfighter used by Garven Dreis in the Battle of Yavin.",
+  "data": {
+    "name": "Red One",
+    "line": "X-wing starfighter",
+    "model": "T-65B X-wing starfighter",
+    "type": "Starfighter",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "destroyed": "During the Battle of Yavin, Yavin system",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Red Squadron"
+    ],
+    "owners": "Garven Dreis"
+  },
+  "scraped": "2026-07-03"
+}

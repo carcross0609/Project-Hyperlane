@@ -1,0 +1,11 @@
+# Unidentified Separatist CR90 corvette
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Unidentified Separatist CR90 corvette](https://starwars.fandom.com/wiki/Unidentified_Separatist_CR90_corvette)
+
+During the Clone Wars, a CR90 corvette was used by the Confederacy of Independent Systems. In about 21 BBY, the corvette was dispatched to a Separatist base in the Ando system. However, while en-route to the base, the corvette was attacked in the Ando system by Strike Force Cularin, a Galactic Republic flotilla. The corvette was bombarded by the Republic cruiser Relentless and the starfighter squadron Alpha Flight, causing the ship to explode. Most of the corvette's crew were killed and only four survived: the Techno Union representative Solenoid, the Thaereian military envoy Gura Tran, the Tarasin Sheel and Lieutenant Rame Cartroll, the ship's second-in-command. The Heroes of Cularin, a group of Republic-allied freelance agents, subsequently boarded the corvette, to search for survivors and to gather intelligence.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

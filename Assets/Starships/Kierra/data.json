@@ -1,0 +1,33 @@
+{
+  "name": "Kierra",
+  "wookieepedia_title": "Kierra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kierra",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Kierra was the ship of the Corellian smuggler Thaddeus Ross. She was a YT-1300 transport whose computer systems were inhabited by a droid consciousness of the same name with a feminine voice and personality. Ross stumbled across and activated her subroutines when he acquired the ship. It was Ross who first applied the ship's name to the virtual entity.",
+  "data": {
+    "name": "Kierra",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "Modified YT-1300 light freighter",
+    "type": "Light freighter",
+    "length": "26.7 meters",
+    "max_speed": "750 kmh",
+    "hyperdrive": [
+      "Class 1 (Primary)",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "1 double laser cannon, 1 laser cannon",
+    "crew": "1 or 2",
+    "skeleton": "1",
+    "passengers": "10",
+    "capacity": "135 metric tons",
+    "consumables": "3 months",
+    "othersystems": "Droid intelligence to monitor ship systems",
+    "owners": "Thaddeus Ross",
+    "captains": "Thaddeus Ross"
+  },
+  "scraped": "2026-07-03"
+}

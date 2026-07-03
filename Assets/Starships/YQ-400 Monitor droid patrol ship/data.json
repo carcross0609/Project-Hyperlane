@@ -1,0 +1,29 @@
+{
+  "name": "YQ-400 Monitor droid patrol ship",
+  "wookieepedia_title": "YQ-400 Monitor droid patrol ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YQ-400_Monitor_droid_patrol_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A product of the jointly funded design team of the Loronar Corporation and Corellian Engineering Corporation known as The Nerfworks, the YQ-400 Monitor Droid Patrol Ship was a small (36 meters long) ship designed to work in areas where high docking fees and trade tariffs provided most of a system's profits. Its primary job was to detect, locate and follow ships entering the system, although the lack of hyperdrive limited the ship to local areas only.",
+  "data": {
+    "name": "YQ-400 Monitor droid patrol ship",
+    "manufacturer": "Loronar Corporation and Corellian Engineering Corporation",
+    "line": "YQ series",
+    "model": "YQ-400",
+    "type": "Space transport",
+    "cost": "175,000 credits",
+    "length": "36 meters",
+    "max_speed": "960 Kilometers per hour",
+    "hyperdrive": "None",
+    "armament": [
+      "2 laser cannons",
+      "2 dual heavy ion cannons"
+    ],
+    "crew": "0",
+    "skeleton": "0",
+    "capacity": "0",
+    "consumables": "20 years",
+    "role": "Patrol ship"
+  },
+  "scraped": "2026-07-03"
+}

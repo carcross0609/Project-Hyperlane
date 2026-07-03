@@ -1,0 +1,29 @@
+{
+  "name": "Hand of Justice",
+  "wookieepedia_title": "Hand of Justice",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hand_of_Justice",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hand of Justice was an Arquitens-class light cruiser which served in the navies of the Galactic Republic and Galactic Empire. During the Clone Wars, the Hand of Justice participated in the Battle of Kadavo under the command of Admiral Barton Coburn, who flew the cruiser underneath the Kadavo slave processing facility to rescue enslaved Togruta who were in danger of falling to their death in the crater beneath the structure. After the reorganization of the Republic into the Empire, the Hand of Justice continued to serve in the Imperial Navy, being refitted into an Arquitens-class command cruiser.",
+  "data": {
+    "name": "Hand of Justice",
+    "model": [
+      "Arquitens-class light cruiser",
+      "Arquitens-class command cruiser (after refit)"
+    ],
+    "type": "Light cruiser",
+    "engine": "Engines (3)",
+    "armament": "Twin turbolaser batteries (2)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ],
+    "navy": [
+      "Galactic Republic Navy",
+      "Imperial Navy"
+    ],
+    "captains": "Barton Coburn"
+  },
+  "scraped": "2026-07-03"
+}

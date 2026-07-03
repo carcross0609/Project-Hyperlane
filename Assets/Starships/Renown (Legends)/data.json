@@ -1,0 +1,43 @@
+{
+  "name": "Renown",
+  "wookieepedia_title": "Renown/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Renown/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Renown was a Venator-class Star Destroyer that was stolen from the Republic by the Separatists and stationed above planet Abafar, where it was loaded with huge amounts of rhydonium fuel contained in canisters.",
+  "data": {
+    "name": "Renown",
+    "manufacturer": [
+      "Kuat Drive Yards",
+      "Allanteen Six shipyards"
+    ],
+    "model": "Venator-class Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "max_accel": "3,000 G",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 15 (backup)"
+    ],
+    "armament": "Rhydonium canisters loaded",
+    "passengers": [
+      "CIS-affiliated",
+      "  Unidentified super tactical droid",
+      "  B1-series battle droids",
+      "  Pistoeka sabotage droid",
+      "Republic-affiliated",
+      "  Meebur Gascon",
+      "  D-Squad",
+      "  Other Republic droids"
+    ],
+    "destroyed": "c. 20 BBY",
+    "affiliation": [
+      "Galactic Republic (formerly)",
+      "Confederacy of Independent Systems"
+    ],
+    "navy": "Republic Navy (formerly)"
+  },
+  "scraped": "2026-07-03"
+}

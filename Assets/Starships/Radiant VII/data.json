@@ -1,0 +1,48 @@
+{
+  "name": "Radiant VII",
+  "wookieepedia_title": "Radiant VII",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Radiant_VII",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Radiant VII was a Consular-class space cruiser of the Galactic Republic. It transported Jedi Master Qui-Gon Jinn and Padawan Obi-Wan Kenobi to the planet Naboo, where they were to negotiate with Viceroy Nute Gunray of the Trade Federation. The cruiser delivered the Jedi ambassadors on time, but was destroyed along with its crew by order of Darth Sidious, the Federation's secret master.",
+  "data": {
+    "name": "Radiant VII",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Republic Cruiser",
+    "model": "Space Cruiser",
+    "type": "Modified Consular-class light cruiser",
+    "length": "115 meters",
+    "max_speed": "900 kph",
+    "engine": "Dyne 577 radial atomizer engines (3)",
+    "power": "Power cells",
+    "shield_gen": "Equipped",
+    "sensor": "Navigational sensor dish",
+    "armament": "None",
+    "escapepods": [
+      "Escape pod (1)",
+      "Detachable salon pod (1)"
+    ],
+    "crew": [
+      "1 captain",
+      "2 co-pilots",
+      "2 com-officers",
+      "3 engineers"
+    ],
+    "passengers": "16 passengers",
+    "othersystems": "Radiation dampers",
+    "role": "Diplomatic cruiser",
+    "commission": "66 BBY",
+    "destroyed": "32 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Diplomatic Fleet",
+      "Jedi Order"
+    ],
+    "captains": [
+      "Maoi Madakor",
+      "Antidar Williams"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

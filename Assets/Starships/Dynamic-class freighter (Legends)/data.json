@@ -1,0 +1,40 @@
+{
+  "name": "Dynamic-class freighter",
+  "wookieepedia_title": "Dynamic-class freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dynamic-class_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Dynamic-class freighter was a light freighter built by a subsidiary of Core Galaxy Systems on the remote Republic world of Transel around the period of the Mandalorian Wars. A stock Dynamic-class freighter was only modestly armed and shielded; however, the ship was designed to accept modifications without compromising existing systems and most ships were therefore heavily customized by their owners. Though prized for its ability to be modified with ease&mdash;a trait advertised by the class's name&mdash;Dynamic-class starships were rare throughout the galaxy as only one ship was produced at a time. Dynamic-class freighters had relatively less area onboard to hold cargo than other light freighters but possessed ample space for passengers, allowing the class to operate as a transport. Some of the class's distinct elements such as the cockpit and saucer-shaped hull designs, would appear in later craft; starshipwright Corellian Engineering Corporation drew inspiration from the freighter when designing some of their own ships, including the YT-series freighters released several millennia after the Dynamic-class starship began production.",
+  "data": {
+    "name": "Dynamic-class freighter",
+    "manufacturer": "Core Galaxy Systems subsidiary",
+    "model": "Dynamic-class freighter",
+    "type": "Light freighter",
+    "cost": [
+      "80,000 credits (new)",
+      "30,000 credits (used)"
+    ],
+    "length": "27.24 meters",
+    "width": "25.94 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 3.0",
+    "navigation": "Navigation computer",
+    "armament": "Dual laser cannon turrets (port and starboard)",
+    "crew": "Pilot/Gunner (2)",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "60 tons",
+    "consumables": "2 months",
+    "role": [
+      "Freighter",
+      "Transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order",
+      "Smugglers",
+      "  Exchange"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Defector",
+  "wookieepedia_title": "Defector",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defector",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Defector was an EF76 Nebulon-B escort frigate in service to the Alliance to Restore the Republic during the Galactic Civil War.",
+  "data": {
+    "name": "Defector",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Frigate",
+    "length": "300 meters",
+    "max_speed": "800 KMH",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "12 turbolaser batteries",
+      "12 laser cannons",
+      "2 tractor beam projectors"
+    ],
+    "crew": "854; gunners: 66",
+    "skeleton": "307; gunners: 10",
+    "passengers": "75 (soldiers)",
+    "capacity": "6,000 metric tons",
+    "consumables": "2 years",
+    "role": "Escort warship",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Trax Sector Force"
+  },
+  "scraped": "2026-07-03"
+}

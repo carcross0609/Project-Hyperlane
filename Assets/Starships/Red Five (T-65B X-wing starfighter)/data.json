@@ -1,0 +1,76 @@
+{
+  "name": "Red Five",
+  "wookieepedia_title": "Red Five (T-65B X-wing starfighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Red_Five_%28T-65B_X-wing_starfighter%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During the Galactic Civil War, several X-wing starfighters used by Rebel pilots bore the name Red Five and the designation AA-589. Cadet Pedrin Gaul operated an X-wing dubbed Red Five in the Battle of Scarif and also used the corresponding callsign, but he was shot down and killed by TIE/ln space superiority starfighters. However, the X-wing's designation became most famous for its use by Luke Skywalker, who first flew under the callsign in the Battle of Yavin. After that victory, the name \"Red Five\" became synonymous with the X-wing fighter itself that Skywalker flew.",
+  "data": {
+    "name": "Red Five",
+    "manufacturer": "Incom Corporation",
+    "line": "X-wing starfighter",
+    "model": [
+      "T-65 X-wing starfighter",
+      "T-65B X-wing starfighter"
+    ],
+    "type": "Starfighter",
+    "length": "12.5 meters long",
+    "mass": "10 metric tons",
+    "max_speed": "1,050 kph",
+    "engine": [
+      "Incom 4L4 fusial thrust engines (4)",
+      "Alternate configuration:",
+      "Incom 4j.4 fusial thrust engines (4)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Novaldex 04-Z cryogenic power generator",
+    "shield_gen": [
+      "Chepat \"Defender\" deflector shield projector",
+      "Deflector shield generator"
+    ],
+    "sensor": [
+      "Carbanti transceiver package:",
+      "Fabritech ANs-5d \"lock track\" full-spectrum transceiver",
+      "Melihat \"Multi Imager\" dedicated energy receptor",
+      "Tana Ire Electro-photo receptor",
+      "Alternate configuration:",
+      "Fabritech ANs-5d \"lock track\" full-spectrum transceiver",
+      "PA-9r long-range phased tachyon detection array",
+      "PG-7u short-range primary threat analysis grid"
+    ],
+    "target": "Equipped",
+    "navigation": "Astromech droid",
+    "armament": [
+      "Taim & Bak KX9 laser cannons (4)",
+      "Krupx MG7 proton torpedo launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "consumables": "One-week supply",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "othersystems": "S-foils",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Red Squadron",
+      "Jedi Order",
+      "New Republic",
+      "Resistance"
+    ],
+    "navy": [
+      "Rebel Alliance Navy",
+      "New Republic Defense Fleet",
+      "Resistance navy"
+    ],
+    "fleet": "Massassi Group",
+    "owners": [
+      "Luke Skywalker",
+      "Rey"
+    ],
+    "aliases": "AA-589"
+  },
+  "scraped": "2026-07-03"
+}

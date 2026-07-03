@@ -1,0 +1,22 @@
+{
+  "name": "Vanguard",
+  "wookieepedia_title": "Vanguard (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vanguard_%28Imperial-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Vanguard was an Imperial-class Star Destroyer commanded by Commander Ritton in the years following the Battle of Hoth.",
+  "data": {
+    "name": "Vanguard",
+    "model": "Imperial-class Star Destroyer",
+    "complement": [
+      "TIE/LN starfighters",
+      "Walkers"
+    ],
+    "role": "Flagship",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Vice Admiral Thrawn"
+  },
+  "scraped": "2026-07-03"
+}

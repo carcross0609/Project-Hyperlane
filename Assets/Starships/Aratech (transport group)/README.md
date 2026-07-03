@@ -1,0 +1,11 @@
+# Aratech (transport group)
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Aratech (transport group)](https://starwars.fandom.com/wiki/Aratech_%28transport_group%29)
+
+Aratech was a group of three MB-C1 medium transports. All three of their cargo contained weapon systems. They were present at Camen Spaceport when Merte, the Hurrim Lambda-class T-4a shuttle, was stolen by two members of Dunari's coalition escaped the Hurrim's asteroid base under heavy pursuit of Preybird-class starfighters.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

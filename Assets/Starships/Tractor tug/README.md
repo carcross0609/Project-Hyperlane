@@ -1,0 +1,16 @@
+# Tractor tug
+
+**Continuity:** Canon  
+**Source:** [Tractor tug](https://starwars.fandom.com/wiki/Tractor_tug)
+
+A tractor tug was a type of spacetug utilized by the Galactic Empire during the Galactic Civil War. After being stranded on Accresker Jail with Chelli Lona Aphra, Sana Starros, and Lopset Yas, Captain-Inspector Magna Tolvan contacted Imperial Sector Control and ordered for the collision course between the jail and Tiferep Major to be aborted and to dispatch tractor tugs, although she was denied as she was believed to be a Rebel Alliance member impersonating her.
+
+## Specifications
+
+- **Name:** Tractor tug
+- **Type:** Spacetug
+- **Affiliation:** Galactic Empire
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,57 @@
+{
+  "name": "Scimitar",
+  "wookieepedia_title": "Scimitar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scimitar/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Scimitar, also known as the Sith Infiltrator, or just The Infiltrator before Maul gave it its name, was a prototype stealth-ship used as the personal starship of Darth Maul, the Sith apprentice of Darth Sidious, prior to the Invasion of Naboo around 32 BBY.",
+  "data": {
+    "name": "Scimitar",
+    "designer": "Darth Tenebrous",
+    "manufacturer": "Republic Sienar Systems",
+    "model": "Heavily modified Star Courier",
+    "type": "Space transport",
+    "cost": "valued at 55,000,000 credits",
+    "length": "26.5 meters",
+    "max_accel": "3,730 G",
+    "max_speed": "1,180 km/h",
+    "engine": "Sienar X-C 2 ion drive array (1)",
+    "hyperdrive": [
+      "Class 1.5",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Sienar SSDS 11-A",
+    "power": "Heavy power generators (4)",
+    "shield_gen": "Equipped",
+    "sensor": "Several advanced sensors and tracking devices",
+    "navigation": "Equipped",
+    "countermeasures": [
+      "Stygium cloaking device",
+      "Thrust trace dampers",
+      "Other advanced countermeasures"
+    ],
+    "armament": "Concealed solar ionization cannons (6)",
+    "complement": [
+      "DRK-1 Dark Eye probe droids (3)",
+      "Bloodfin"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Several interrogation and security droids"
+    ],
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "2.5 metric tons",
+    "consumables": "30 days",
+    "othersystems": "Hypercomm array and Medical equipment",
+    "role": "Shuttle",
+    "affiliation": "Order of the Sith Lords",
+    "owners": [
+      "Darth Plagueis",
+      "Darth Sidious",
+      "Darth Maul"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Acclamator II-class assault ship",
+  "wookieepedia_title": "Acclamator II-class assault ship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Acclamator_II-class_assault_ship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Acclamator II-class assault ship, also referred to as the Acclamator II-class transgalactic military assault ship, was an assault ship based on the Acclamator-class assault ship and was first used by the Galactic Republic near the end of the Clone Wars. The Acclamator II-class was designed primarily to carry out orbital bombardments, and as such its troop complement was reduced by nearly eighty percent in order to make room for the added weaponry. Under the Galactic Empire, Acclamator II-class assault ships were often used to reinforce the defense of Cardan-class space stations. At least two were also used by the New Republic at the Battle of Mindor.",
+  "data": {
+    "name": "Acclamator II-class assault ship",
+    "manufacturer": "Rothana Heavy Engineering",
+    "line": "Acclamator-class",
+    "type": "Cruiser",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 0.6",
+    "shield_gen": "Equipped",
+    "armament": [
+      "24 turbolasers",
+      "2 heavy proton torpedo launch tubes",
+      "  100 heavy proton torpedoes"
+    ],
+    "complement": [
+      "64 speeder bikes",
+      "10 All Terrain Tactical Enforcers",
+      "16 Low Altitude Assault Transports",
+      "8 Self-Propelled Heavy Artillery"
+    ],
+    "crew": "20,141",
+    "passengers": "3,200 clone troopers and support personnel",
+    "capacity": "10,000 tons",
+    "consumables": "2 years",
+    "role": [
+      "Planetary bombardment",
+      "Trans-galactic military assault ship"
+    ],
+    "firstuse": "c. 19 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

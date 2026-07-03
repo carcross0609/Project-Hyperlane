@@ -1,0 +1,39 @@
+{
+  "name": "Emerald Lance",
+  "wookieepedia_title": "Emerald Lance",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Emerald_Lance",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Emerald Lance was a modified YV-330 light freighter.",
+  "data": {
+    "name": "Emerald Lance",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Modified YV-330 light freighter",
+    "cost": "100,000 credts (used value)",
+    "length": "26 meters",
+    "max_speed": "1050 km/h",
+    "hyperdrive": "x1 (backup x12)",
+    "armament": [
+      "Heavy laser cannons (2 turrets, fire-linked)",
+      "Light ion cannons (4 front, fire-linked)",
+      "Autoblaster (1 front)",
+      "Concussion missile launchers (4 front, fire linked)",
+      "  3 missiles each"
+    ],
+    "crew": [
+      "1 pilot",
+      "4 gunners"
+    ],
+    "skeleton": "1 pilot",
+    "passengers": "6",
+    "capacity": "5 metric tons",
+    "consumables": "1 month",
+    "role": "Pirate hunter",
+    "affiliation": [
+      "Corellian Security Force",
+      "Pirate hunters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

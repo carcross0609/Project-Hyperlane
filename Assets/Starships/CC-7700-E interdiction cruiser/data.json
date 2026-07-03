@@ -1,0 +1,32 @@
+{
+  "name": "CC-7700/E interdiction cruiser",
+  "wookieepedia_title": "CC-7700/E interdiction cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CC-7700/E_interdiction_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CC-7700/E interdiction cruiser, nicknamed the Double Seven or Slash-E, was a model of the CC-7700 frigate.",
+  "data": {
+    "name": "CC-7700/E interdiction cruiser",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CC-7700/E interdiction cruiser",
+    "type": "Cruiser",
+    "hdsystem": "Equipped",
+    "shield_gen": "Six shield generators",
+    "hull": [
+      "Carbon-nanofilament armor"
+    ],
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "armament": [
+      "Gravity well projector",
+      "Quad laser turret (8)",
+      "Dorsal 360-degree proton torpedo launcher (1)",
+      "Ventral 360-degree proton torpedo launcher (1)",
+      "Anti-starfighter cluster bomb"
+    ],
+    "crew": "Gunners",
+    "role": "Interdiction",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

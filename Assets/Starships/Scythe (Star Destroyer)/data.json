@@ -1,0 +1,33 @@
+{
+  "name": "Scythe",
+  "wookieepedia_title": "Scythe (Star Destroyer)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scythe_%28Star_Destroyer%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Scythe was a Star Destroyer that saw service during the Age of the Empire. It was commanded by Commander Valent, a rival of Fleet Admiral Gallius Rax. Posing as the mysterious intelligence source known as \"the Operator,\" Rax leaked intelligence about the whereabouts of the Scythe to the New Republic. The ship was destroyed during a skirmish near Wild Space in 5 ABY. New Republic Commodore Kyrsta Agate estimated that about 15,000 lives including Commander Valent were lost during the skirmish.",
+  "data": {
+    "name": "Scythe",
+    "type": "Star Destroyer",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Turbolaser main battery",
+      "Laser cannons",
+      "Twin turrets"
+    ],
+    "complement": "TIE/ln space superiority starfighters",
+    "crew": "40,000",
+    "skeleton": "15,000",
+    "role": "Capital ship",
+    "destroyed": "5 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Kenner Loring's faction"
+    ],
+    "navy": "Imperial Navy",
+    "captains": "Valent"
+  },
+  "scraped": "2026-07-03"
+}

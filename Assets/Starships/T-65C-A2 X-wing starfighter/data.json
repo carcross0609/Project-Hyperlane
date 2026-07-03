@@ -1,0 +1,40 @@
+{
+  "name": "T-65C-A2 X-wing starfighter",
+  "wookieepedia_title": "T-65C-A2 X-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-65C-A2_X-wing_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The T-65C-A2 X-wing starfighter or simply the T-65C-A2 X-wing was a model of space superiority starfighter in use by the Alliance to Restore the Republic during the Galactic Civil War, part of the versatile X-wing starfighter line. Red Squadron used at least one at the Battle of Scarif in 1 BBY. By 5 ABY, the T-65C was considered an older model, but one was used by Temmin Wexley as part of the New Republic's Phantom Squadron in the Battle of Jakku.",
+  "data": {
+    "name": "T-65C-A2 X-wing starfighter",
+    "manufacturer": "Incom Corporation",
+    "line": [
+      "X-wing starfighter",
+      "  T-65 X-wing starfighter"
+    ],
+    "model": "T-65C-A2 space superiority starfighter",
+    "type": "Space superiority starfighter",
+    "length": "13.4 meters",
+    "width": "11.76 meters",
+    "max_speed": "1,050 kph",
+    "engine": "Incom 4L4 fusial thrust engines (4)",
+    "hyperdrive": "Class 1",
+    "armament": [
+      "Taim & Bak KX9 laser cannons (4)",
+      "Krupx MG7 proton torpedo launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "lifesupport": "Equipped",
+    "othersystems": "S-foils",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "New Republic",
+      "  New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

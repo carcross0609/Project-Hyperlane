@@ -1,0 +1,35 @@
+{
+  "name": "T-65BR X-wing reconnaissance starfighter",
+  "wookieepedia_title": "T-65BR X-wing reconnaissance starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-65BR_X-wing_reconnaissance_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The T-65BR X-wing reconnaissance starfighter, commonly called the Recon-X or Snoopscoot, was a variant of the Incom T-65 X-wing starfighter modified for reconnaissance missions.",
+  "data": {
+    "name": "T-65BR X-wing reconnaissance starfighter",
+    "manufacturer": "Incom Corporation",
+    "line": "X-wing",
+    "model": "T-65BR",
+    "type": "Reconnaissance starfighter",
+    "cost": [
+      "150,000 credits (new)",
+      "95,000 credits (used)"
+    ],
+    "max_speed": "1,150 km/h",
+    "engine": "4L4 fusial thrust engine (4)",
+    "hyperdrive": "Class 1",
+    "armament": "Laser cannons (4)",
+    "crew": [
+      "Pilot (1)",
+      "R2-R-series astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "110 kg",
+    "consumables": "1 week",
+    "othersystems": "Deadman baradium charge (destroys the vessel and its recorded data if pilot is killed)",
+    "availability": "Military",
+    "role": "Scout",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

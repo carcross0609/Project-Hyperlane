@@ -1,0 +1,46 @@
+{
+  "name": "Kihraxz assault fighter",
+  "wookieepedia_title": "Kihraxz assault fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kihraxz_assault_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kihraxz assault fighter, also known as the Kihraxz light fighter, was a light starfighter developed specifically for Black Sun during the reign of the Galactic Empire. While intended for the criminal organization, many Kihraxz starfighters found their way into the hands of various independent fringers.",
+  "data": {
+    "name": "Kihraxz assault fighter",
+    "manufacturer": "TransGalMeg Industries, Incorporated",
+    "type": "Starfighter",
+    "cost": "70,000 credits (45,000 used)",
+    "length": "11 meters",
+    "max_accel": "1,050 km/h",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Light blaster cannons",
+      "Concussion missile launchers"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "130 kg",
+    "consumables": "2 days",
+    "availability": "Restricted",
+    "role": "Light fighter",
+    "affiliation": [
+      "Black Sun",
+      "Blood Razors",
+      "Bothan Spynet",
+      "Bounty hunters",
+      "Chiss Poachers",
+      "Dark Veil Order",
+      "Death Watch",
+      "Debris Cult",
+      "Ghrag Mercenaries",
+      "Hutt Cartel",
+      "Krask Pirates",
+      "Naboo pirates",
+      "Privateers",
+      "Trandoshan Slavers",
+      "Velocity Mercenaries"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "GAT-12j",
+  "wookieepedia_title": "GAT-12j",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GAT-12j",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The GAT-12j \"Skipray\" was part of the GAT Blastboat series produced by Sienar Fleet Systems.",
+  "data": {
+    "name": "GAT-12j",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Defense and patrol blastboat",
+    "length": "25 meters",
+    "max_speed": "1,200 kmh",
+    "hyperdrive": "Class 2",
+    "power": "Sarylcorp ViX multi-flux reactor",
+    "shield_gen": "Equipped",
+    "sensor": "Siep-Irol \"Omni-Vu\" sensor pylons (2)",
+    "navigation": "Equipped (4 jump limit)",
+    "armament": [
+      "Mendarn Arms Dar-2 ion cannons (3)",
+      "Senko Systems 5000x2 \"Tru-Lok\" laser cannon turret (1)",
+      "Starboard proton torpedo launcher (1)",
+      "  12 torpedoes",
+      "Port concussion missile launcher (1)",
+      "  18 missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Sensor officer (1)",
+      "Gunners (2)"
+    ],
+    "skeleton": "1",
+    "passengers": "None",
+    "capacity": "20 metric tons",
+    "consumables": "1 month",
+    "othersystems": "Rotating wing assembly",
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

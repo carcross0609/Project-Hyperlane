@@ -1,0 +1,29 @@
+{
+  "name": "F7 \"Landing Brick\" Drop-Ship",
+  "wookieepedia_title": "F7 \"Landing Brick\" Drop-Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/F7_%22Landing_Brick%22_Drop-Ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kuat Drive Yards F7 \"Landing Brick\" Drop-ship was a landing craft used by the Imperial Military.",
+  "data": {
+    "name": "F7 \"Landing Brick\" Drop-Ship",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "F7 Drop-ship",
+    "type": "Medium transport",
+    "length": "60 meters",
+    "max_speed": [
+      "1,200 kph (drop)",
+      "650 kph (standard)"
+    ],
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannon (1)",
+    "crew": "3",
+    "passengers": "40",
+    "cargohandling": "250 metric tons",
+    "consumables": "2 days (emergency rations)",
+    "role": "Troop dropship",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

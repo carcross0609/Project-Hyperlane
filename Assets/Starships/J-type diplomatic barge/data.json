@@ -1,0 +1,73 @@
+{
+  "name": "J-type diplomatic barge",
+  "wookieepedia_title": "J-type diplomatic barge",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/J-type_diplomatic_barge",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The J-type diplomatic barge, also called the Naboo Royal Cruiser or simply the Naboo cruiser, was a diplomatic transport used by representatives of the planet Naboo. Senator Padmé Amidala utilized a custom-built cruiser during the Separatist Crisis, which was damaged on Coruscant in an attempt on her life. She later used the J-type during the Clone Wars, when she was targeted by the bounty hunter Aurra Sing.",
+  "data": {
+    "name": "J-type diplomatic barge",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "line": "J-type",
+    "model": "Custom-built J-type diplomatic barge",
+    "type": [
+      "Transport (diplomatic barge)",
+      "Yacht"
+    ],
+    "length": "39 meters",
+    "width": "91 meters",
+    "height": "6.8 meters",
+    "max_speed": "2,000 kph (1,243 mph)",
+    "engine": [
+      "Superluminal drive",
+      "Wing repulsorlifts",
+      "Wing antigrav projectors"
+    ],
+    "hyperdrive": "Class 0.7",
+    "hdsystem": "Paired S-6 hyperdrive generators",
+    "power": [
+      "Engine-mounted reactors",
+      "Power generators"
+    ],
+    "shield_gen": [
+      "Deflector shield",
+      "  Wing projector modules",
+      "  Engine-mounted projectors",
+      "  Stern projector",
+      "Ray shield"
+    ],
+    "hull": "Chrome plating",
+    "sensor": [
+      "Forward portside sensor array",
+      "Sensor processors"
+    ],
+    "navigation": "Navigation computer",
+    "armament": "None",
+    "complement": "N-1 starfighters (4)",
+    "crew": [
+      "5 crew",
+      "  Pilot",
+      "  Co-pilot",
+      "  Navigator (optional)",
+      "  Communications Officer (optional)",
+      "  Shield operator (optional)",
+      "5 astromech droids",
+      "6 guards"
+    ],
+    "passengers": "4",
+    "capacity": "Cargo hold",
+    "lifesupport": [
+      "Life support air scrubber",
+      "Condensed oxygen tanks"
+    ],
+    "role": [
+      "Transport",
+      "Starfighter carrier craft"
+    ],
+    "affiliation": [
+      "Royal House of Naboo",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

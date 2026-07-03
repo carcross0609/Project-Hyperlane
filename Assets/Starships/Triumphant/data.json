@@ -1,0 +1,43 @@
+{
+  "name": "Triumphant",
+  "wookieepedia_title": "Triumphant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Triumphant",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Triumphant was a Venator-class Star Destroyer and the flagship of Jedi Master Plo Koon during the Clone Wars. The starship was destroyed in the Battle of Abregado, during which Koon and his fleet encountered the Subjugator-class heavy cruiser Malevolence.",
+  "data": {
+    "name": "Triumphant",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Ion drive thrusters (8)",
+    "armament": [
+      "DBY-827 heavy turbolaser turrets (8)",
+      "Medium dual turbolaser cannons (2)"
+    ],
+    "escapepods": [
+      "Escape pods",
+      "Pod 1977"
+    ],
+    "crew": [
+      "A Jedi General",
+      "Clone troopers",
+      "Clone navigation officers"
+    ],
+    "communications": "Hyperwave comm scanners (2)",
+    "destroyed": "22 BBY, Abregado system",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "fleet": [
+      "Open Circle Fleet",
+      "  Fifth Fleet",
+      "  Fourth Fleet"
+    ],
+    "owners": "Plo Koon",
+    "captains": "Wolffe"
+  },
+  "scraped": "2026-07-03"
+}

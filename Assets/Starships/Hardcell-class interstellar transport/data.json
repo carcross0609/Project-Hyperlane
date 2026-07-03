@@ -1,0 +1,68 @@
+{
+  "name": "Hardcell-class interstellar transport",
+  "wookieepedia_title": "Hardcell-class interstellar transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hardcell-class_interstellar_transport",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Hardcell-class interstellar transport, also known as the Hardcell-class transport, the Hardcell transport, Techno Union transport, or Techno Union starship, was a model of transport manufactured by the Techno Union and utilized by the Confederacy of Independent Systems during the First Battle of Geonosis, the opening battle of the Clone Wars.",
+  "data": {
+    "name": "Hardcell-class interstellar transport",
+    "designer": "Techno Union",
+    "manufacturer": "Techno Union",
+    "model": [
+      "Hardcell-class interstellar transport",
+      "  Hardcell-class Battle Refit"
+    ],
+    "type": "Transport",
+    "length": "220 meters",
+    "max_accel": "800 kph",
+    "mglt": "40 MGLT",
+    "max_speed": "4,000 kph",
+    "engine": [
+      "6 rocket boosters",
+      "Retrorockets"
+    ],
+    "hyperdrive": [
+      "Class 1",
+      "Class 8 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "hull": "Titanium hull",
+    "sensor": "Advanced sensors",
+    "armament": [
+      "2 laser cannon batteries",
+      "Missile launchers",
+      "Three turbolaser cannons"
+    ],
+    "complement": [
+      "100+ IG-227 Hailfire-class droid tanks",
+      "1,000+ liters of fuel"
+    ],
+    "crew": [
+      "190",
+      "1 organic commander"
+    ],
+    "passengers": [
+      "1,017",
+      "100+ IG-series battle droids"
+    ],
+    "capacity": "12,400 tons",
+    "cargohandling": "Turbolift network",
+    "othersystems": "6 fuel cells",
+    "role": [
+      "Multi-purpose",
+      "Bureaucratic and diplomatic transport (initial purpose)",
+      "Cargo carrier",
+      "Landing craft",
+      "Tax collection",
+      "Warship escort"
+    ],
+    "affiliation": [
+      "Techno Union",
+      "InterGalactic Banking Clan",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

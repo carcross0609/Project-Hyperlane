@@ -1,0 +1,11 @@
+# Benevolence
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Benevolence](https://starwars.fandom.com/wiki/Benevolence)
+
+Benevolence was an EF76 Nebulon-B escort frigate modified as a medical frigate. The captain of Benevolence was a Herglic called Melchi who discovered it drifting in orbit around the planet Pelagon after the Mecetti Purge of House Pelagia. He assumed control of the vessel and began to mount a medical relief effort. He expanded his efforts to disaster zones across the Tapani sector and later got funding from the Great Council on Procopia. The frigate had 550 beds, 12 Bacta tanks and five operating theaters. The medical personnel included 25 medics and 50 Emdee medical droids. Unbeknownst to most outside of the Pelagia government and a selected few of his high ranking crew, the relief effort was a cover for Melchi to smuggle supplies to House Pelagia.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

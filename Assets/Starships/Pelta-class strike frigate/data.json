@@ -1,0 +1,25 @@
+{
+  "name": "Pelta-class strike frigate",
+  "wookieepedia_title": "Pelta-class strike frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pelta-class_strike_frigate",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Pelta-class strike frigate was the most common combat variant of the Pelta-class frigate, which was manufactured by Kuat Drive Yards unarmed until they were fitted with weapons systems upon receipt by the Republic Navy. The Pelta-class strike frigate was active during the Clone Wars between the Galactic Republic and the Confederacy of Independent Systems. It was armed with light turbolasers, point-defense laser cannons, and tractor beams.",
+  "data": {
+    "name": "Pelta-class strike frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Pelta-class frigate",
+    "model": "Pelta-class strike frigate",
+    "type": "Frigate",
+    "armament": [
+      "Light turbolasers",
+      "Point-defense laser cannons",
+      "Tractor beam"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Yorik-vec assault cruiser",
+  "wookieepedia_title": "Yorik-vec assault cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yorik-vec_assault_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Yorik-vec assault cruiser was an assault cruiser used by the extragalactic Yuuzhan Vong during their invasion of the galaxy.",
+  "data": {
+    "name": "Yorik-vec assault cruiser",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Yorik-vec assault cruiser",
+    "type": "Transport",
+    "cost": "Unknown",
+    "length": "30 meters",
+    "engine": "Dovin basals",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "shield_gen": "Dovin basals",
+    "armament": [
+      "Quad volcanic cannon (1)",
+      "Twin volcanic cannon (2)"
+    ],
+    "crew": [
+      "Pilots (2)",
+      "Gunners (3)"
+    ],
+    "passengers": "8",
+    "capacity": "100 metric tons",
+    "consumables": "1 month",
+    "role": "Gunship",
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "The Inquisitor's TIE Advanced",
+  "wookieepedia_title": "The Inquisitor's TIE Advanced",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Inquisitor%27s_TIE_Advanced",
+  "continuity": "Canon",
+  "infobox_template": "IndividualShip",
+  "description": "The Inquisitor's TIE Advanced was the personal TIE/ad v1 prototype TIE fighter entrusted to the Grand Inquisitor in his mission to hunt down Jedi for the Galactic Empire.",
+  "data": {
+    "name": "The Inquisitor's TIE Advanced",
+    "line": "TIE fighter series",
+    "model": "TIE/ad v1 prototype",
+    "type": "Starfighter",
+    "length": "3.57 meters",
+    "max_speed": "1,600 kph / 960 miles per hour",
+    "engine": "Twin ion engine",
+    "armament": [
+      "2 laser cannons",
+      "Projectile launcher that fired XX-23 S-thread trackers",
+      "  20 missile shells"
+    ],
+    "crew": "1 as standard, 2-3 in cramped and unintended quarters",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inquisitorius",
+      "Spectres"
+    ],
+    "navy": "Imperial Starfighter Corps",
+    "owners": "The Grand Inquisitor"
+  },
+  "scraped": "2026-07-03"
+}

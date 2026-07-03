@@ -1,0 +1,31 @@
+{
+  "name": "Battlesphere",
+  "wookieepedia_title": "Battlesphere/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Battlesphere/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The battlesphere was a variant of the Trade Federation Lucrehulk-class Core Ship, used by the Confederacy of Independent Systems during the Clone Wars.",
+  "data": {
+    "name": "Battlesphere",
+    "manufacturer": [
+      "Trade Federation",
+      "Hyper-Communications Cartel"
+    ],
+    "line": "Lucrehulk-class Core Ship",
+    "type": "Core ship",
+    "power": "Multiple reactors",
+    "shield_gen": "Equipped",
+    "complement": [
+      "Variable Geometry Self-Propelled Battle Droid, Mark Is (at least 3)",
+      "Rogue-class starfighter (at least 3)",
+      "Other fighter craft"
+    ],
+    "role": [
+      "Listening post",
+      "Battlestation"
+    ],
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "scraped": "2026-07-03"
+}

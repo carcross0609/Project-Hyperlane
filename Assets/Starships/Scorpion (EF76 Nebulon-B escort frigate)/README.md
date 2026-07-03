@@ -1,0 +1,11 @@
+# Scorpion (EF76 Nebulon-B escort frigate)
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Scorpion (EF76 Nebulon-B escort frigate)](https://starwars.fandom.com/wiki/Scorpion_%28EF76_Nebulon-B_escort_frigate%29)
+
+The Scorpion was an EF76 Nebulon-B escort frigate that was owned and operated by a band of pirates who attempted an assault on a group of CR90 corvettes, designated Qiluiy, which was escorting the BFF-1 bulk freighter group Xroi in the Mennaalii system. The pirates in question possessed several starfighters typically operated by the Rebel Alliance, attacking with several squads of X-wings, A-wings, and Y-wings. The Alliance quickly deployed a responsive force led by Keyan Farlander to rush to the convoy's aid and to drive off the Scorpion. The assault was quickly thwarted, resulting in the frigate and her squadrons being destroyed.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

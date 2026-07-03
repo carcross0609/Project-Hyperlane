@@ -1,0 +1,39 @@
+{
+  "name": "BR-23 courier",
+  "wookieepedia_title": "BR-23 courier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BR-23_courier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BR-23 Courier was a durable personnel transport and courier ship that served in Galactic Republic fleets and militias. After finding the market for TIE/LN starfighters enormously more profitable due to the Empire's swift move away from transports like the BR-23, Sienar partially refitted its large back stock of BR-23s with civilian-grade systems and dumped them onto the open market. These inexpensive craft, which were easy to repair, proved to be a boon of profit for Sienar.",
+  "data": {
+    "name": "BR-23 courier",
+    "manufacturer": "Republic Sienar Systems",
+    "model": "BR-23 Courier",
+    "type": "Long-Range Troop Transport",
+    "cost": [
+      "70,000 credits (new)",
+      "35,000 credits (used)"
+    ],
+    "length": "20.7 meters",
+    "mass": "38 tons/650 m3",
+    "mglt": "50",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 2.0 (primary)",
+      "Class 12.0 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "Laser cannon turrets (2)",
+    "escapepods": "2",
+    "crew": "2",
+    "passengers": "40 troops",
+    "capacity": "40 metric tons",
+    "consumables": "2 weeks",
+    "role": "Combat Transport",
+    "affiliation": [
+      "Galactic Republic",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

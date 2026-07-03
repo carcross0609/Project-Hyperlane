@@ -1,0 +1,21 @@
+{
+  "name": "Tala 1",
+  "wookieepedia_title": "Tala 1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tala_1",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Manufactured by Alliance to Restore the Republic tactician Adar Tallon, Tala 1 was a Z-95t Headhunter produced during the Galactic Civil War fought by the Alliance against the Galactic Empire. As with all other Z-95t Headhunters, Tala 1 had a class 3 hyperdrive, which was added to allow the starfighter to allow it to operate independently of capital ship support. In addition to the class 3 hyperdrive, the Z-95t Headhunter model also had increased maneuverability compared to the Z-95 Headhunter, and Tala 1 was individually a heavily modified Headhunter.",
+  "data": {
+    "name": "Tala 1",
+    "model": "Z-95t Headhunter",
+    "type": "Starfighter",
+    "modifier": "Adar Tallon",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "crew": "Pilot",
+    "affiliation": "Alliance to Restore the Republic",
+    "fleet": "Tala Squadron"
+  },
+  "scraped": "2026-07-03"
+}

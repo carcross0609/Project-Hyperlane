@@ -1,0 +1,31 @@
+{
+  "name": "Scupper Bantoo",
+  "wookieepedia_title": "Scupper Bantoo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scupper_Bantoo",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Scupper Bantoo was a CorelliSpace Gymsnor-2 light freighter operated by the Bith Maddie Macatten in the Kathol Outback. Battered and considered to be an obsolete design by 12 BBY, the vessel formerly belonged to Macatten's enslaver. When her master was killed by an Aing-Tii ship while on a trading junket, Macatten took the craft from its dock on Kal'Shebbol, the capital planet of the Kathol sector. Macatten used the Scupper Bantoo to supply the colonies of the Kathol Outback with replacement parts and luxury items, as well as to track down information regarding the Aing-Tii.",
+  "data": {
+    "name": "Scupper Bantoo",
+    "manufacturer": "CorelliSpace",
+    "type": "Modified Gymsnor-2 light freighter",
+    "length": "31.7 meters",
+    "max_speed": "750 kmh",
+    "hyperdrive": [
+      "Class 3",
+      "Class 14 (backup)"
+    ],
+    "armament": "1 heavy blaster cannon",
+    "crew": "1",
+    "passengers": "4",
+    "capacity": "82 metric tons",
+    "consumables": "2 months",
+    "role": "Freighter",
+    "owners": [
+      "Merchant and enslaver",
+      "Maddie Macatten"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

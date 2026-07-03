@@ -1,0 +1,26 @@
+{
+  "name": "X3-13",
+  "wookieepedia_title": "X3-13",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X3-13",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The X3-13, also known as the tactical infiltration pod, was a model of short-distance hyperdrive pod manufactured by Arakyd Industries and used by the Galactic Empire for short-distance transportation and reconnaissance. Due to its role, it sacrificed maneuverability and weaponry for advanced communications equipment, including a long-range transmitter and encryption abilities. The pods were designed to look like normal escape pods in order to aid in infiltration. One such pod was used by the E-XD-series infiltrator droid EXD-9 to travel to Atollon to search for the Phoenix Cell's base.",
+  "data": {
+    "name": "X3-13",
+    "manufacturer": "Arakyd Industries",
+    "model": "Hyperdrive pod",
+    "length": "11.7 meters",
+    "max_accel": "750 kilometers per hour",
+    "hyperdrive": "Class 0.5",
+    "hdsystem": "Equipped",
+    "passengers": "1",
+    "communications": "Long-range transmitter",
+    "role": [
+      "Infiltration",
+      "Reconnaissance",
+      "Short-distance transportation"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

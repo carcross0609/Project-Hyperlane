@@ -1,0 +1,26 @@
+{
+  "name": "SkySlayer",
+  "wookieepedia_title": "SkySlayer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SkySlayer",
+  "continuity": "Legends",
+  "infobox_template": "IndividualShip",
+  "description": "The SkySlayer was a model of light assault starship manufactured by Aratech Repulsor Company. The Grasp, owned by the bounty hunter Teehl, was an Aratech SkySlayer.",
+  "data": {
+    "name": "SkySlayer",
+    "manufacturer": "Aratech Repulsor Company",
+    "model": "SkySlayer",
+    "type": "Light assault ship",
+    "length": "20 meters",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 quad laser cannons",
+      "4 blaster cannon"
+    ],
+    "crew": "7",
+    "capacity": "50 metric tons",
+    "consumables": "4 months"
+  },
+  "scraped": "2026-07-03"
+}

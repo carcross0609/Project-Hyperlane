@@ -1,0 +1,21 @@
+{
+  "name": "Axiom",
+  "wookieepedia_title": "Axiom",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Axiom",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Axiom was a Republic Defense Coalition cruiser in the service of the Galactic Republic by 228 BBY, commanded by Captain Ba'luun. It took part in the assault on Naboo.",
+  "data": {
+    "name": "Axiom",
+    "type": "Cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ],
+    "captains": "Ba'luun"
+  },
+  "scraped": "2026-07-03"
+}

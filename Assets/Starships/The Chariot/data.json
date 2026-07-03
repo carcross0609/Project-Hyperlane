@@ -1,0 +1,38 @@
+{
+  "name": "The Chariot",
+  "wookieepedia_title": "The Chariot",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Chariot",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Chariot was a Victory I-class Star Destroyer stationed in the Minos Cluster as the command ship of the Imperial Navy's sector fleet during the Galactic Civil War.",
+  "data": {
+    "name": "The Chariot",
+    "manufacturer": [
+      "Rendili StarDrive",
+      "Kuat Drive Yards"
+    ],
+    "line": "Star Destroyers",
+    "model": "Victory I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "900 meters",
+    "armament": [
+      "Double turbolaser batteries (24+)",
+      "Assault concussion missile tubes (68)"
+    ],
+    "complement": [
+      "TIE squadrons (2)"
+    ],
+    "availability": "Restricted to military",
+    "role": [
+      "Command ship"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Link",
+  "wookieepedia_title": "Link",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Link",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Link was an MC80 Star Cruiser belonging to the Rebel Alliance.",
+  "data": {
+    "name": "Link",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC80 Star Cruiser",
+    "type": "Star Cruiser",
+    "armament": [
+      "Turbolasers (48)",
+      "Ion batteries (20)",
+      "Tractor beam projectors (6)"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Quasar Fire-class cruiser-carrier",
+  "wookieepedia_title": "Quasar Fire-class cruiser-carrier/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quasar_Fire-class_cruiser-carrier/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Quasar Fire-class cruiser-carrier, also referred to as the Quasar Fire-class bulk cruiser or Alliance escort carrier, was a modular starship typically used for freight.",
+  "data": {
+    "name": "Quasar Fire-class cruiser-carrier",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Quasar Fire-class bulk cruiser",
+    "type": "Bulk cruiser",
+    "length": "350 meters",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "armament": [
+      "2 light turbolaser batteries",
+      "2 medium tractor beam projectors"
+    ],
+    "complement": [
+      "48 starfighters",
+      "Shuttles",
+      "Utility/landing craft"
+    ],
+    "crew": "250",
+    "skeleton": "100",
+    "consumables": "One year",
+    "role": [
+      "Freighter",
+      "Starfighter carrier (Rebel use)"
+    ],
+    "affiliation": [
+      "Virgillian Free Alignment",
+      "Sullustan Home Guard",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Zsinj's Empire",
+      "Fringe groups"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

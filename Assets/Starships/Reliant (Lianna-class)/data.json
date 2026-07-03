@@ -1,0 +1,25 @@
+{
+  "name": "Reliant",
+  "wookieepedia_title": "Reliant (Lianna-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reliant_%28Lianna-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Reliant was a Lianna-class corvette in service to the Imperial Navy during the Galactic Civil War.",
+  "data": {
+    "name": "Reliant",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Lianna-class corvette",
+    "type": "Corvette",
+    "length": "156 meters",
+    "shield_gen": "Equipped",
+    "armament": "Four double laser cannons",
+    "crew": "75",
+    "role": "Picket ship",
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

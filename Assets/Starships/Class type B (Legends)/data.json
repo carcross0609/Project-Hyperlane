@@ -1,0 +1,24 @@
+{
+  "name": "Class type B",
+  "wookieepedia_title": "Class type B/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Class_type_B/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Class Type B escort shuttles were transports used by the Confederacy of Independent Systems during the Clone Wars. At least one Type B shuttle was captured by the Galactic Republic.",
+  "data": {
+    "name": "Class type B",
+    "manufacturer": "Haor Chall Engineering",
+    "type": "Sheathipede-class shuttle",
+    "length": "20 meters",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (3)",
+    "role": "Transport",
+    "firstuse": "21 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

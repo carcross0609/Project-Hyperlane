@@ -1,0 +1,30 @@
+{
+  "name": "Z-95mk1 Headhunter",
+  "wookieepedia_title": "Z-95mk1 Headhunter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-95mk1_Headhunter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Z-95mk1 Headhunter, also known as the Z-95 Mark I Headhunter or Z-95 S Headhunter, was the first model in the Z-95 Headhunter series produced by Incom/Subpro. An atmospheric fighter craft, it was outfitted with a bubble-cockpit, swing-wings and had twin engines on its forked tail. Weapons hardpoints were located on the fighter's wings and fuselage.",
+  "data": {
+    "name": "Z-95mk1 Headhunter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Subpro Corporation"
+    ],
+    "line": "Z-95 Headhunter",
+    "model": "Z-95mk1",
+    "type": "Starfighter",
+    "length": "11.8 meters",
+    "max_speed": "1,050 km/h",
+    "hdsystem": "None",
+    "armament": [
+      "Triple blasters (2)",
+      "Concussion missiles"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "50 kg",
+    "consumables": "1 day"
+  },
+  "scraped": "2026-07-03"
+}

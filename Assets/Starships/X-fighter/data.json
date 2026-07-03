@@ -1,0 +1,23 @@
+{
+  "name": "X-fighter",
+  "wookieepedia_title": "X-fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X-fighter",
+  "continuity": "Unknown",
+  "infobox_template": "StarshipClass",
+  "description": "The X-fighter was a type of Imperial ship.",
+  "data": {
+    "name": "X-fighter",
+    "model": "T-65B X-wing starfighter/TIE/ln space superiority starfighter",
+    "type": [
+      "Starfighter"
+    ],
+    "crew": [
+      "Pilot (1)"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

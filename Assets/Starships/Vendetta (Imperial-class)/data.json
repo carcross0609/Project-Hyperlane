@@ -1,0 +1,44 @@
+{
+  "name": "Vendetta",
+  "wookieepedia_title": "Vendetta (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vendetta_%28Imperial-class%29",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vendetta was an Imperial-class Star Destroyer.",
+  "data": {
+    "name": "Vendetta",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "sensor": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "TIE/ln space superiority starfighters",
+      "1 N-1 starfighter",
+      "1 modified Class-D cargo container"
+    ],
+    "crew": [
+      "1 Sith Lord",
+      "Imperial officers",
+      "Imperial Starfighter Pilots",
+      "Stormtroopers",
+      "At least 1 IT-O Interrogation Unit"
+    ],
+    "communications": "Equipped",
+    "othersystems": "Loudspeaker",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Darth Vader"
+  },
+  "scraped": "2026-07-03"
+}

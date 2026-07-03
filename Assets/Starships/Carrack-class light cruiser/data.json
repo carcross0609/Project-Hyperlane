@@ -1,0 +1,53 @@
+{
+  "name": "Carrack-class light cruiser",
+  "wookieepedia_title": "Carrack-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carrack-class_light_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Carrack-class light cruiser, sometimes identified as the Carrack-class Imperial Ship during the Imperial Era, was a class of light cruiser that was introduced during the Clone Wars for the Galactic Republic, and continued to serve under the Galactic Empire and the New Republic during the Galactic Civil War.",
+  "data": {
+    "name": "Carrack-class light cruiser",
+    "manufacturer": "Damorian Manufacturing Corporation",
+    "model": "Carrack-class light cruiser",
+    "type": "Light cruiser",
+    "length": "350 meters",
+    "width": "72 meters",
+    "height": "75 meters",
+    "mglt": "80 MGLT",
+    "engine": "Equipped (16)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "power": "Aft ionization reactor",
+    "shield_gen": "Equipped (forward and aft)",
+    "hull": "Armor-plated hull",
+    "armament": [
+      "Heavy turbolaser batteries (10)",
+      "Ion cannon batteries or laser cannon batteries (20)",
+      "Tractor beam projectors (5)"
+    ],
+    "bays": "External starfighter racks (5 TIE fighter series ships each)",
+    "crew": "1,092",
+    "skeleton": "2",
+    "passengers": "142",
+    "capacity": "3,500 tons",
+    "communications": "Rectenna",
+    "othersystems": "Automatic hatches",
+    "role": [
+      "Anti-starfighter",
+      "Escort",
+      "Patrol",
+      "Star system defense",
+      "Transportation"
+    ],
+    "firstuse": "Between 22 BBY&ndash;19 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "New Republic",
+      "  New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

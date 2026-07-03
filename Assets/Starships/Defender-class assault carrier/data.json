@@ -1,0 +1,44 @@
+{
+  "name": "Defender-class assault carrier",
+  "wookieepedia_title": "Defender-class assault carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defender-class_assault_carrier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Defender-class assault carrier was a starfighter carrier first deployed by the New Republic shortly before the Black Fleet Crisis.",
+  "data": {
+    "name": "Defender-class assault carrier",
+    "manufacturer": "Republic Engineering Corporation",
+    "line": [
+      "Defender program (Original design)",
+      "New Class Modernization Program (Final development)"
+    ],
+    "model": "Defender-class assault carrier",
+    "type": "Carrier",
+    "length": "700 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "Light anti-fighter laser cannons (20)\n:Fire arc: 5 fore, 5 port, 5 starboard, 5 aft\n:Crew: 1\n:Atmospheric range: 50 km",
+    "complement": [
+      "3 wings of starfighters",
+      "Assault shuttles",
+      "Various personnel transports"
+    ],
+    "crew": [
+      "Crew (4,050)",
+      "Gunners (20)"
+    ],
+    "skeleton": "1,350",
+    "passengers": "700 (troops)",
+    "capacity": "12,000 metric tons",
+    "consumables": "5 months",
+    "availability": "Not available for sale",
+    "role": "Assault carrier",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

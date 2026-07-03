@@ -1,0 +1,50 @@
+{
+  "name": "Crusader-class corvette",
+  "wookieepedia_title": "Crusader-class corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crusader-class_corvette",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Crusader-class corvette, also referred to as the Crusader-class gunship, was a warship produced by Mandal Hypernautics that was in use during the Galactic Civil War.",
+  "data": {
+    "name": "Crusader-class corvette",
+    "manufacturer": "Mandal Hypernautics",
+    "model": "Crusader-class corvette",
+    "type": "Corvette",
+    "cost": [
+      "5,200,000 credits (new)",
+      "2,600,000 credits (used)"
+    ],
+    "engine": "Innovative sublight drive systems",
+    "hyperdrive": [
+      "Class 1",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Point-defense laser cannon batteries (2 batteries of 5)",
+      "Point-defense laser cannons (3)"
+    ],
+    "crew": "80",
+    "passengers": "none",
+    "capacity": "3,600 tons",
+    "consumables": "1 year",
+    "role": [
+      "Patrol",
+      "Anti-starfighter/-bomber",
+      "Support craft",
+      "Planetary defense",
+      "Reconnaissance"
+    ],
+    "firstuse": "Several years after 19 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "Mandalorians",
+      "Zann Consortium",
+      "Imperial Remnant",
+      "Maw Irregular Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

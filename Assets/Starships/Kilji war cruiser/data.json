@@ -1,0 +1,37 @@
+{
+  "name": "Kilji war cruiser",
+  "wookieepedia_title": "Kilji war cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kilji_war_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Kilji war cruiser or Kilji battle cruiser was a type of war cruiser used by the nation of the Kilji species, the Kilji Illumine. Longer than Kilji picket cruisers and larger than Chiss heavy cruisers, the Kilji cruisers were armed with spectrum lasers and missiles covered by peace-sealing. Used in ship-to-ship naval warfare, the Illumine's war cruisers were outfitted with an engine, a hyperdrive, and escape pods. Generalirius Nakirre, the ruler of the Illumine, commanded a Kilji war cruiser, the Whetstone. Illumine General Crofyp commanded the Anvil, another war cruiser, which served as the flagship of the general's task force, which also included the picket cruiser Hammer.",
+  "data": {
+    "name": "Kilji war cruiser",
+    "model": [
+      "Kilji war cruiser",
+      "Kilji battle cruiser"
+    ],
+    "type": "War cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "Missiles",
+      "  Missile tubes",
+      "Spectrum lasers"
+    ],
+    "bays": "Equipped",
+    "escapepods": "Kilji escape pods",
+    "communications": "Equipped",
+    "othersystems": "Peace-sealing",
+    "role": [
+      "Flagship",
+      "Transport"
+    ],
+    "affiliation": [
+      "Kilji Illumine",
+      "  Crofyp's task force",
+      "  Illumine Kilhorde"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

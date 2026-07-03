@@ -1,0 +1,34 @@
+{
+  "name": "AEG-77 Vigo",
+  "wookieepedia_title": "AEG-77 Vigo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/AEG-77_Vigo",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The AEG-77 Vigo was a transport vessel of the criminal Black Sun organization that was also used by Xizor Transport Systems and other organizations and individuals at the time of the Galactic Civil War. Some ships were heavily modified for use as convoy escorts.",
+  "data": {
+    "name": "AEG-77 Vigo",
+    "model": "AEG-77 Vigo",
+    "type": "Transport",
+    "cost": "200,000 credits (75,000 used)",
+    "hyperdrive": "Class 3 (backup class 15)",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannon (2)",
+      "Laser cannon turrets (6)"
+    ],
+    "crew": "8",
+    "passengers": "6",
+    "capacity": "25 tons (100 tons in unarmed transport version)",
+    "consumables": "1 month",
+    "availability": "Licensed",
+    "role": [
+      "Cargo transport",
+      "Convoy escort"
+    ],
+    "affiliation": [
+      "Black Sun",
+      "Ay'Nat pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

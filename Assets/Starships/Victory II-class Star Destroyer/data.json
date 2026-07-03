@@ -1,0 +1,58 @@
+{
+  "name": "Victory II-class Star Destroyer",
+  "wookieepedia_title": "Victory II-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Victory_II-class_Star_Destroyer",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The Victory II-class Star Destroyer, or simply Victory II Star Destroyer, was a class of Star Destroyer of the Galactic Empire that served as a successor to the Victory I-class Star Destroyer.",
+  "data": {
+    "name": "Victory II-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Victory-class Star Destroyer",
+    "model": "Victory II-class Star Destroyer",
+    "type": "Star Destroyer",
+    "cost": "50,000,000 credits",
+    "length": "900 meters",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 15 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Long-range sensor suite",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Configuration 1 (original Victory I-class armament)",
+      "128 turbolasers (12 × 4, 40 × 2)",
+      "Concussion missile launchers",
+      "10 tractor beam projectors",
+      "Configuration 2",
+      "40 medium turbolasers (20 × 2)",
+      "40 light turbolasers (10 × 4)",
+      "20 assault concussion missile launchers, or ion cannons",
+      "10 heavy tractor beam projectors"
+    ],
+    "complement": [
+      "24 starfighters",
+      "Shuttles",
+      "Landing craft",
+      "AT-series walkers"
+    ],
+    "bays": "At least 1",
+    "escapepods": "Escape pods",
+    "crew": "6,107 officers, pilots, and enlisted crew",
+    "passengers": "1,600 stormtroopers",
+    "capacity": "6,500 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Fleet command ship",
+      "Patrol ship",
+      "Planetary defense",
+      "System defense"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

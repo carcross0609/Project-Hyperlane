@@ -1,0 +1,34 @@
+{
+  "name": "Battlecruiser 17",
+  "wookieepedia_title": "Battlecruiser 17",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Battlecruiser_17",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Battlecruiser 17 was a Munificent-class star frigate that was active in the Confederacy of Independent Systems' naval forces. In 21 BBY, when the Separatists blockaded the planet Ryloth during the Clone Wars, the frigate was assigned to the command of Captain Mar Tuuk. Aboard his Lucrehulk-class Battleship command vessel, Tuuk expected the Galactic Republic to retaliate and positioned Battlecruiser 17 away from the battlezone.",
+  "data": {
+    "name": "Battlecruiser 17",
+    "model": "Munificent-class star frigate",
+    "type": "Frigate",
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "engine": "7 ion drive thrusters",
+    "hdsystem": "Equipped",
+    "armament": [
+      "2 heavy turbolaser cannons",
+      "2 heavy ion cannons",
+      "34 twin light turbolaser cannons"
+    ],
+    "complement": "48 Vulture-class droid starfighters (4 squadrons)",
+    "skeleton": "200",
+    "passengers": "150,000 battle droids",
+    "communications": "2 hyperwave supralight transceivers",
+    "destroyed": "21 BBY, Ryloth system",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy",
+    "fleet": "Ryloth blockade",
+    "captains": "OOM command battle droid"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "CSS-1 Corellian Star Shuttle",
+  "wookieepedia_title": "CSS-1 Corellian Star Shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CSS-1_Corellian_Star_Shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The CSS-1 Corellian Star Shuttle, sometimes referred to simply as the CSS-1 shuttle or as the Republic shuttle, was a transport used by the Galactic Republic during at least a decade before the start of the Clone Wars.",
+  "data": {
+    "name": "CSS-1 Corellian Star Shuttle",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CSS-1 Corellian",
+    "type": "Star Shuttle",
+    "length": "80 meters",
+    "max_speed": "800 kilometer per hour",
+    "engine": "Ion engine (3)",
+    "hyperdrive": "Equipped",
+    "hdrange": "Class 1.5",
+    "shield_gen": "Equipped",
+    "passengers": "200",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Alliance to Restore the Republic",
+      "  Tatooine rebel cell",
+      "Sidon Ithano's crew"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

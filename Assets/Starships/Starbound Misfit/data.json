@@ -1,0 +1,38 @@
+{
+  "name": "Starbound Misfit",
+  "wookieepedia_title": "Starbound Misfit",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starbound_Misfit",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Starbound Misfit was a heavily modified Corellian YT-1930 light freighter that was owned by the Near-Human tramp freighter captain Lynnori during the Galactic Civil War, after the Battle of Yavin. Lynnori's boyfriend, Talandro Starlyte, purchased the ship as a gift for her and had his Ugnaught mechanic, Scizzic, make some modifications that improved the ship's capabilities. After the modifications, it boasted a much faster hyperdrive and heavier armaments than a stock ship of its class. Lynnori enjoyed having the freedom that came with owning her own ship and she used it as often as she could.",
+  "data": {
+    "name": "Starbound Misfit",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1930 transport",
+    "type": "Light freighter",
+    "cost": "Not for sale",
+    "modifier": "Scizzic",
+    "length": "35 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 0.5",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Twin fire-linked heavy laser cannons",
+      "Concussion missile launcher"
+    ],
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "200 metric tons",
+    "consumables": "4 months",
+    "role": "Transport",
+    "owners": "Lynnori",
+    "captains": "Lynnori"
+  },
+  "scraped": "2026-07-03"
+}

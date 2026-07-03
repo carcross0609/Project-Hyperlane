@@ -1,0 +1,47 @@
+{
+  "name": "Consular-class cruiser; (Charger c70 retrofit)",
+  "wookieepedia_title": "Consular-class cruiser (Charger c70 retrofit)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Consular-class_cruiser_%28Charger_c70_retrofit%29/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Consular-class cruiser (Charger c70 retrofit), or the Republic frigate, was a model of retrofitted Consular-class cruiser that turned the ships into small frigates. Corellian Engineering Corporation created this for Supreme Chancellor Palpatine during the early part of the Clone Wars.",
+  "data": {
+    "name": "Consular-class cruiser; (Charger c70 retrofit)",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Refitted Consular-class cruiser",
+    "type": "Frigate",
+    "cost": "1,650,000 credits (700,000 used)",
+    "length": "138.55 meters",
+    "hyperdrive": "Class 1.5",
+    "hdsystem": "Equipped",
+    "power": "Advanced power generator",
+    "shield_gen": "Equipped",
+    "navigation": "Advanced navicomputer",
+    "armament": [
+      "Clone Wars-era",
+      "Twin turbolaser cannon batteries (5)",
+      "Point-defense medium laser cannons (2)",
+      "Galactic Civil War-era",
+      "Twin Light turbolasers (4)",
+      "Twin heavy ion cannon (1)"
+    ],
+    "complement": "2-1B surgical droid (1)",
+    "escapepods": [
+      "Detachable salon pod",
+      "Escape pods (4)"
+    ],
+    "crew": "9",
+    "passengers": "20 (troops)",
+    "capacity": "6,000 tons",
+    "availability": "Military",
+    "role": [
+      "Diplomatic ship",
+      "Frigate (refit)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Rebel Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

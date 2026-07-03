@@ -1,0 +1,47 @@
+{
+  "name": "Mega-class Star Dreadnought",
+  "wookieepedia_title": "Mega-class Star Dreadnought",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mega-class_Star_Dreadnought",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Mega-class Star Dreadnought, also known as the Mega-class Star Destroyer, the Mega Star Destroyer, or the First Order Mega-Destroyer, was a class of Star Dreadnought utilized by the First Order during their conflict with the Resistance. It was believed to be the largest ship ever constructed in galactic history.",
+  "data": {
+    "name": "Mega-class Star Dreadnought",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "model": "Mega-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "length": "13,239.68 meters",
+    "width": "60,542.68 meters",
+    "height": "3,975.35 meters",
+    "mglt": "50 mglt",
+    "engine": "~x32",
+    "hyperdrive": "Class 0.3",
+    "armament": [
+      "Heavy turbolasers",
+      "Anti-ship missile batteries",
+      "Heavy ion cannons",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "First Order dropships",
+      "First Order All Terrain Armored Transports",
+      "All Terrain MegaCaliber Six walkers",
+      "First Order All Terrain Scout Transports",
+      "8 Star Destroyers",
+      "  2 docked internally",
+      "  6 docked externally",
+      "TIE/fo space superiority fighters",
+      "TIE/sf space superiority fighters"
+    ],
+    "crew": "2,225,000",
+    "role": [
+      "Flagship",
+      "Command ship"
+    ],
+    "affiliation": [
+      "First Order",
+      "  First Order Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Freefall",
+  "wookieepedia_title": "Freefall",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Freefall",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Freefall was a Freefall-class bomber and the personal starfighter of Jinkins.",
+  "data": {
+    "name": "Freefall",
+    "model": "Modified Freefall-class bomber",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "length": "30 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 10"
+    ],
+    "armament": [
+      "Laser cannons (4)",
+      "Rotating laser turrets (2)",
+      "Bomb chute",
+      "  Bombs (20)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunners (3)",
+      "Navigator (1)",
+      "Bomber (1)"
+    ],
+    "passengers": "8",
+    "capacity": "20 metric tons",
+    "consumables": "4 weeks",
+    "affiliation": "Lok Revenants",
+    "owners": "Jinkins"
+  },
+  "scraped": "2026-07-03"
+}

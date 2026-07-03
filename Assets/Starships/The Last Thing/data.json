@@ -1,0 +1,42 @@
+{
+  "name": "The Last Thing",
+  "wookieepedia_title": "The Last Thing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Last_Thing",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Last Thing was a modified Guardian 334-class light cruiser owned by Dorok Zalaster.",
+  "data": {
+    "name": "The Last Thing",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Guardian 334-class light cruiser",
+    "type": "Light cruiser",
+    "cost": "375,000 credits",
+    "length": "42 meters",
+    "max_speed": "1,150 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 10"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "4 laser cannons",
+    "crew": "4; 4 gunners",
+    "skeleton": "2",
+    "passengers": [
+      "10 (troops)",
+      "6 (prisoners)"
+    ],
+    "capacity": "150 metric tons",
+    "consumables": "3 months",
+    "role": "Pirate ship",
+    "affiliation": [
+      "Galactic Empire (formerly)",
+      "Dorok Zalaster"
+    ],
+    "owners": "Dorok Zalaster",
+    "captains": "Dorok Zalaster"
+  },
+  "scraped": "2026-07-03"
+}

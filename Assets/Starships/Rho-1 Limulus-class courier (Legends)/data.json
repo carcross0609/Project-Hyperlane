@@ -1,0 +1,40 @@
+{
+  "name": "Rho-1 Limulus-class courier",
+  "wookieepedia_title": "Rho-1 Limulus-class courier/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rho-1_Limulus-class_courier/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Rho-1 Limulus-class courier was a type of Courier in common use during the Clone Wars.",
+  "data": {
+    "name": "Rho-1 Limulus-class courier",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Rho-series",
+    "model": "Rho-1 Limulus-class courier",
+    "type": "Courier",
+    "cost": "Galactic Civil War: 55,000 credits",
+    "engine": "L1011.a fusial thrust ion engine (2)",
+    "hyperdrive": [
+      "Primary: Class 2",
+      "Backup: Class 10"
+    ],
+    "sensor": "Short-range",
+    "armament": "Light laser cannon(2)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "1",
+    "capacity": "Several tons",
+    "consumables": "1 month",
+    "availability": "Military (Jedi only)",
+    "role": [
+      "Starfighter",
+      "Elite personnel transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

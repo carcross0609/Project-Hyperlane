@@ -1,0 +1,31 @@
+{
+  "name": "Eternal Wrath",
+  "wookieepedia_title": "Eternal Wrath",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eternal_Wrath",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eternal Wrath was an Interdictor-class Star Destroyer that served in the Imperial Navy during the Galactic Civil War.",
+  "data": {
+    "name": "Eternal Wrath",
+    "manufacturer": "Siener fleet systems",
+    "model": "Interdictor-class Star Destroyer",
+    "cost": "175,000,000 Credits",
+    "length": "1,600 meters",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 8 (Backup)"
+    ],
+    "sensor": "Long range Sensor",
+    "navigation": "Equipped",
+    "complement": [
+      "37,085 Officers, TIE pilots, Enlisted",
+      "16 Starfighters"
+    ],
+    "consumables": "up to 1 Standard year",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Captain Wellam Adarios"
+  },
+  "scraped": "2026-07-03"
+}

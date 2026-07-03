@@ -1,0 +1,26 @@
+{
+  "name": "Whisperbird",
+  "wookieepedia_title": "Whisperbird (Chiss light cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Whisperbird_%28Chiss_light_cruiser%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Whisperbird was a light cruiser in service to the Chiss Ascendancy's Expansionary Defense Fleet. In 19 BBY, it served as part of Picket Force Six under Admiral Ar'alani and assisted in defeating forces of the Nikardun Destiny nation and their leader, General Yiv, at a battle over the Unknown Regions planet of Primea. About a year later in 18 BBY, after Admiral Ar'alani had invited them to join, the light cruiser also fought as a part of Senior Captain Thrawn's fleet over the planet nicknamed Sunrise against the forces of the warlike Grysk species at Thrawn's last stand.",
+  "data": {
+    "name": "Whisperbird",
+    "type": "Light cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "hull": "Nyix-alloy",
+    "countermeasures": "Electrostatic barrier",
+    "armament": [
+      "Spectrum lasers",
+      "Plasma spheres",
+      "Breachers"
+    ],
+    "affiliation": "Chiss Ascendancy",
+    "navy": "Chiss Expansionary Defense Fleet",
+    "fleet": "Picket Force Six"
+  },
+  "scraped": "2026-07-03"
+}

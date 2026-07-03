@@ -1,0 +1,47 @@
+{
+  "name": "Invincible-class Dreadnaught Heavy Cruiser",
+  "wookieepedia_title": "Invincible-class Dreadnaught Heavy Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Invincible-class_Dreadnaught_Heavy_Cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Invincible-class Dreadnaught Heavy Cruiser, sometimes referred to as the Invincible-class Heavy Cruiser or Invincible-class Dreadnaught, was a type of warship that served for many centuries in naval forces around the galaxy.",
+  "data": {
+    "name": "Invincible-class Dreadnaught Heavy Cruiser",
+    "manufacturer": [
+      "Rendili StarDrive",
+      "Vaufthau Shipyards Ltd."
+    ],
+    "type": "Heavy cruiser",
+    "length": "2,011 meters",
+    "hyperdrive": [
+      "Class 4",
+      "Class 25"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "6 concussion missile launchers",
+      "30 quad laser cannons",
+      "6 tractor beam projectors",
+      "12 turbolaser cannons"
+    ],
+    "crew": "23,014; 114 gunners",
+    "skeleton": "12,795",
+    "passengers": "6,000 (troops)",
+    "capacity": "700 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Warship",
+      "Picket and interdiction"
+    ],
+    "affiliation": [
+      "Corporate Sector Authority",
+      "Galactic Republic",
+      "  Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

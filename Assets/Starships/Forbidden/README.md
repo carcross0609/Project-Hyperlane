@@ -1,0 +1,20 @@
+# Forbidden
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Forbidden](https://starwars.fandom.com/wiki/Forbidden)
+
+The Forbidden was a modified Lambda-class T-4a shuttle, which was assigned to Rogue Squadron in 6 ABY. It had been modified by the New Republic for training purposes. It was intended to simulate an Alpha-class Xg-1 Star Wing assault gunboat, and was equipped with a targeting system for concussion missiles. However, it did not have any launch tubes for such missiles, and was also stripped of its laser cannons. The process of restoring the lasers would have taken at least an hour. The Forbidden was kept unarmed because it was piloted by Captain Tycho Celchu, who was suspected by New Republic Intelligence of being an Imperial sleeper agent. Though the lack of weapons limited Celchu's ability to contribute in battle, he used the Forbidden to provide targeting data to other Rogue pilots, and to rescue downed pilots in battle. When piloting the Forbidden, Celchu's callsign was Rogue Null.
+
+## Specifications
+
+- **Name:** Forbidden
+- **Model:** Modified Lambda-class T-4a shuttle
+- **Type:** Shuttle
+- **Affiliation:**
+  - New Republic
+  -   Rogue Squadron
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

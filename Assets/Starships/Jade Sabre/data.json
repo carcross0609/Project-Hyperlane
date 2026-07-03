@@ -1,0 +1,41 @@
+{
+  "name": "Jade Sabre",
+  "wookieepedia_title": "Jade Sabre",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jade_Sabre",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Jade Sabre was a custom-built and modified shuttle that was constructed by Jedi Master Luke Skywalker as a gift to his wife, Mara Jade Skywalker, shortly after their wedding in 19 ABY. He gave her the starship to replace the Jade's Fire, her previous ship that Jade Skywalker sacrificed during their mission to the planet Nirauan. The Jade Sabre was an fast, fish-head shaped green starship equipped with military-grade hyperdrives shield generators and concealed quad laser cannon weaponry.",
+  "data": {
+    "name": "Jade Sabre",
+    "manufacturer": "Luke Skywalker",
+    "type": "Shuttle",
+    "cost": [
+      "Not available for sale",
+      "Likely valued at 1,675,500 credits"
+    ],
+    "length": "50 meters",
+    "max_speed": "Greater than 1,050 km/h",
+    "engine": "Ion drive (2)",
+    "hyperdrive": [
+      "Class 0.3",
+      "Class 4 (backup)"
+    ],
+    "hdsystem": "Military-grade hyperdrive motivator",
+    "shield_gen": "Military-grade shield generator",
+    "armament": [
+      "Retractable quad laser cannon turrets (4)",
+      "Tractor beam projector (1)"
+    ],
+    "complement": "Starfighter (1)",
+    "crew": "Pilot (1)",
+    "passengers": "15",
+    "capacity": "100 metric tons",
+    "consumables": "6 months",
+    "role": "Transport",
+    "destroyed": "25 ABY, Dantooine",
+    "affiliation": "New Jedi Order",
+    "owners": "Mara Jade Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

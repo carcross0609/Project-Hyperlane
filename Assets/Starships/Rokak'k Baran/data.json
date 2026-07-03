@@ -1,0 +1,29 @@
+{
+  "name": "Rokak'k Baran",
+  "wookieepedia_title": "Rokak'k Baran",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rokak%27k_Baran",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Rokak'k Baran was an immense, ancient starship that was the product of Gree technology. Disk-shaped and measuring five kilometers in diameter, the vessel was the only means of travel between the worlds of the Gree Enclave, a small region of space in the Outer Rim Territories governed by the Gree, a species of six-tentacled cephalopods. Requiring a crew of 5,000 Gree to operate, the vessel relied on other Gree devices&mdash;such as the Varat'k Snarap and Karkak'k Marek&mdash;for defense.",
+  "data": {
+    "name": "Rokak'k Baran",
+    "model": "Unique transportation habitat",
+    "type": "Capital (standard classification)",
+    "length": "5,000 meters",
+    "width": "5,000 meters",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Karkak'k Marek",
+    "armament": "Varat'k Snarap (1)",
+    "crew": "5,000",
+    "passengers": "10,000",
+    "capacity": "250,000 metric tons",
+    "consumables": "6 months",
+    "role": "Transport",
+    "affiliation": "Gree Enclave",
+    "captains": "Rokak'k"
+  },
+  "scraped": "2026-07-03"
+}

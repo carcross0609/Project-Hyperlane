@@ -1,0 +1,32 @@
+{
+  "name": "Emperor's Royal Guard TIE/IN starfighter",
+  "wookieepedia_title": "Emperor's Royal Guard TIE/IN starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Emperor%27s_Royal_Guard_TIE/IN_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Emperor's Royal Guard TIE/IN starfighter was a specially modified version of the TIE/IN interceptor. These TIE Interceptors were flown only by Emperor Palpatine's Royal Guard.",
+  "data": {
+    "name": "Emperor's Royal Guard TIE/IN starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Emperor's Royal Guard Twin Ion Engine Interceptor starfighter",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "length": "9.6 meters",
+    "max_speed": "1,250 km/h",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "75 kg",
+    "consumables": "2 days",
+    "availability": "Military",
+    "role": "Interceptor",
+    "affiliation": [
+      "Galactic Empire",
+      "  Emperor's Royal Guard"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

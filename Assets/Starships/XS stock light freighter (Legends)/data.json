@@ -1,0 +1,28 @@
+{
+  "name": "XS stock light freighter",
+  "wookieepedia_title": "XS stock light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/XS_stock_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The XS stock light freighter was a model of freighter used mostly by smugglers during the Great Galactic War and its resultant Cold War. One is used by Voidhound.",
+  "data": {
+    "name": "XS stock light freighter",
+    "designer": "Bravis Halcyon",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Light freighter",
+    "length": "101 meters",
+    "width": "88 meters",
+    "height": "27 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "2 Soniver Arms HSG-67 laser cannons",
+      "Missile batteries"
+    ],
+    "escapepods": "1",
+    "skeleton": "1",
+    "availability": "General civilians",
+    "role": "Freighter"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Advanced X-wing fighter",
+  "wookieepedia_title": "Advanced X-wing fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Advanced_X-wing_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The advanced X-wing fighter, also known as heavy X-wing starfighter, was a heavy variant of the T-65 X-wing starfighter, developed as a result of the success of the Heavy '95.",
+  "data": {
+    "name": "Advanced X-wing fighter",
+    "manufacturer": "Incom Corporation",
+    "line": "T-65 X-wing starfighter",
+    "type": "Starfighter",
+    "modifier": "Alliance to Restore the Republic",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Astromech droid",
+    "countermeasures": "Warhead countermeasures (Optional)",
+    "armament": [
+      "Double cannons (3)",
+      "Warhead launcher (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "None",
+    "othersystems": [
+      "Flight computer (Optional)",
+      "Side strakes (Optional)"
+    ],
+    "availability": "Military",
+    "role": "Multi-role starfighter",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

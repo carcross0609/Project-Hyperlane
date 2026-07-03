@@ -1,0 +1,73 @@
+{
+  "name": "Recusant-class light destroyer",
+  "wookieepedia_title": "Recusant-class light destroyer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Recusant-class_light_destroyer/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Recusant-class light destroyer, also known as the Recusant-class support destroyer, commonly referred to as the Commerce Guild destroyer, and additionally known as the Separatist destroyer, were a class of starship used by the CIS Navy during the Clone Wars.",
+  "data": {
+    "name": "Recusant-class light destroyer",
+    "designer": "Mon Calamari Shipyards",
+    "manufacturer": [
+      "Hoersch-Kessel Drive, Inc.",
+      "Free Dac Volunteers Engineering Corps"
+    ],
+    "model": "Recusant-class light destroyer",
+    "type": [
+      "Cruiser (standard classification)",
+      "Capital ship (standard classification)"
+    ],
+    "cost": "Not available for sale (likely valued at 61 million credits)",
+    "length": [
+      "1,187 meters (stock)",
+      "2,544 meters (larger variant)"
+    ],
+    "width": "157 meters",
+    "height": "163 meters",
+    "max_accel": "2,800 G",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "hdrange": "30.000 LY",
+    "poweroutput": "Peak: 7,73 × 1023 W",
+    "power": "Hypermatter annihilation reactor",
+    "shield_gen": "Equipped",
+    "hull": "430 (DR 60)",
+    "armament": [
+      "Prow heavy turbolaser cannon (1)",
+      "Heavy turbolaser cannons (4)",
+      "Heavy turbolaser turrets (6)",
+      "Turbolaser cannons (5)",
+      "Point-defense dual laser cannons (30)",
+      "Point-defense dual light laser cannons (12)",
+      "Point-defense light laser cannons (60)"
+    ],
+    "complement": [
+      "Droid starfighters (stock)",
+      "At least one C-9979 landing craft (larger variant)"
+    ],
+    "bays": [
+      "None (stock)",
+      "Two, one on port/starboard side (larger variant)"
+    ],
+    "crew": "300",
+    "passengers": "40,000 deactivated battle droids",
+    "capacity": "10,000 tons",
+    "consumables": "2 years",
+    "othersystems": "Docking clamp (larger variant)",
+    "role": [
+      "Support ship",
+      "Light destroyer"
+    ],
+    "firstuse": "22 BBY",
+    "affiliation": [
+      "Commerce Guild",
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "Alliance to Restore the Republic",
+      "Corporate Sector Authority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

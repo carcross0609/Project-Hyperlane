@@ -1,0 +1,75 @@
+{
+  "name": "MC80 Liberty Type Heavy Star Cruiser",
+  "wookieepedia_title": "MC80 Liberty Type Heavy Star Cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC80_Liberty_Type_Heavy_Star_Cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MC80 Liberty Type Heavy Star Cruiser or MC80 Liberty type Star Cruiser was an early type of Mon Calamari Star Cruiser put into service for the Rebel Alliance during the Galactic Civil War.",
+  "data": {
+    "name": "MC80 Liberty Type Heavy Star Cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC80 Star Cruisers",
+    "model": "MC80 Liberty type Star Cruiser",
+    "type": "Heavy Star Cruiser",
+    "cost": "104,000,000 credits",
+    "length": [
+      "Standard length: 1,200 meters",
+      "Individual ships: 1,500 meters"
+    ],
+    "max_accel": "2,750 G",
+    "engine": "Thrusters of various sizes (9)",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 9.0 (backup)"
+    ],
+    "shield_gen": "Advanced main and backup shield generators",
+    "hull": "Thick armor",
+    "sensor": "Long-range sensors",
+    "navigation": "Navi computer",
+    "armament": [
+      "Heavy turbolaser batteries (48)",
+      "  12 fore",
+      "  12 port",
+      "  12 starboard",
+      "  12 aft",
+      "SW-7 heavy ion cannon batteries (20)",
+      "  5 fore",
+      "  5 port",
+      "  5 starboard",
+      "  5 aft",
+      "Cluster bombs",
+      "Heavy tractor beam projectors (6)"
+    ],
+    "complement": [
+      "Starfighters",
+      "  A-, B-, X- and/or Y-wings",
+      "Shuttles",
+      "Landing craft",
+      "Stock light freighters (2)",
+      "Utility vehicles",
+      "Light mixture of ground vehicles"
+    ],
+    "crew": [
+      "Crew (5,400 - 5,402)",
+      "  Officers (668)",
+      "  Enlisted (4,734)"
+    ],
+    "passengers": "1,200 troops (standard),",
+    "consumables": "2 years",
+    "availability": "Not available for sale",
+    "role": [
+      "Heavy battleship",
+      "Battlecruiser",
+      "Long-range exploration craft",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant",
+      "Black Sun"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

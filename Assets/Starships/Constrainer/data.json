@@ -1,0 +1,36 @@
+{
+  "name": "Constrainer",
+  "wookieepedia_title": "Constrainer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Constrainer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Constrainer was an Interdictor-class heavy cruiser in service to the Imperial Navy during the Galactic Civil War. Equipped with gravity well projectors, it was capable of generating an interdiction field, an artificial gravity well that allowed the Interdictor to prevent other vessels from entering hyperspace. During the campaign against the rebel Phoenix Cell, the heavy cruiser was attached to the Seventh Fleet under Grand Admiral Thrawn. In 2 BBY, the Constrainer formed part of an Imperial squadron sent to the planet Atollon, where the Phoenix Cell had set up their base.",
+  "data": {
+    "name": "Constrainer",
+    "line": "Interdictor line",
+    "model": "Interdictor-class heavy cruiser",
+    "type": [
+      "Heavy cruiser",
+      "Star Destroyer"
+    ],
+    "length": "1,129 meters",
+    "engine": "Sublight engines (5)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shields",
+    "armament": [
+      "Gravity well projectors (4)",
+      "Laser cannons"
+    ],
+    "bays": "Hangars (2)",
+    "role": "Interdictor vessel",
+    "destroyed": "2 BBY, Atollon system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": [
+      "Seventh Fleet",
+      "  Dark Omen squadron"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

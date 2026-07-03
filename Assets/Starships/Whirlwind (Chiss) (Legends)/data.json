@@ -1,0 +1,25 @@
+{
+  "name": "Whirlwind",
+  "wookieepedia_title": "Whirlwind (Chiss)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Whirlwind_%28Chiss%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Whirlwind was a starship. In 27 BBY, it was one of the main combat vessels of Picket Force Two under Commander Mitth'raw'nuruodo.",
+  "data": {
+    "name": "Whirlwind",
+    "modifier": "Thrawn",
+    "sysmods": "Vagaari ship net",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Conner net",
+      "Masers",
+      "Missile launcher"
+    ],
+    "affiliation": "Chiss Ascendancy",
+    "navy": "Chiss Expansionary Fleet",
+    "fleet": "Picket Force Two",
+    "captains": "Commander Thrawn"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Unidentified Torpedo Sphere",
+  "wookieepedia_title": "Unidentified Torpedo Sphere (Tallaan)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Torpedo_Sphere_%28Tallaan%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During the Galactic Civil War, a Torpedo Sphere was undergoing refit and upgrade at the Tallaani Shipyards. Under the command of Captain Edric Darius, the Sphere had its weapons and primary hyperdrive offline, and the crew were not present, replaced by 14,000 technicians and guards. While at Tallaan, the Torpedo Sphere became the target of both the Justice Action Network and the Pelagia Freedom Force.",
+  "data": {
+    "name": "Unidentified Torpedo Sphere",
+    "manufacturer": "Loronar Defense Industries",
+    "type": "Dedicated siege platform",
+    "length": "1,900 meters",
+    "max_speed": "930 kmh",
+    "hyperdrive": [
+      "Primary hyperdrive offline",
+      "Class 18 (back-up)"
+    ],
+    "shield_gen": "Loronar Corporation DS-13 projectors",
+    "sensor": "Dedicated energy receptors",
+    "navigation": "Sienar Fleet Systems navigation computer",
+    "armament": [
+      "10 turbolaser batteries (offline)",
+      "500 proton torpedo tubes (offline)"
+    ],
+    "complement": [
+      "Lambda-class T-4a shuttles",
+      "MT/191 drop-ships"
+    ],
+    "crew": "14,000 (technicians and guards)",
+    "passengers": "1,200 (troops)",
+    "capacity": "3.8 million metric tons",
+    "consumables": "4 years",
+    "role": "Planetary bombardment",
+    "affiliation": "Galactic Empire",
+    "captains": "Captain Edric Darius"
+  },
+  "scraped": "2026-07-03"
+}

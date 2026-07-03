@@ -1,0 +1,29 @@
+{
+  "name": "Alpha-52 starfighter",
+  "wookieepedia_title": "Alpha-52 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alpha-52_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Alpha-52 starfighter was a starfighter model that was manufactured by Incom Corporation. Only a prototype that never reached the open market, the only known example, the Shrike, was kept by Talon Karrde, who loaned it to Mara Jade.",
+  "data": {
+    "name": "Alpha-52 starfighter",
+    "manufacturer": "Incom Corporation",
+    "type": "Starfighter",
+    "engine": [
+      "Sublight",
+      "Repulsorlift"
+    ],
+    "hdsystem": "Equipped",
+    "crew": "1 pilot",
+    "skeleton": "1",
+    "othersystems": "Comm unit",
+    "role": [
+      "Starfighter"
+    ],
+    "affiliation": [
+      "Talon Karrde",
+      "Mara Jade"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

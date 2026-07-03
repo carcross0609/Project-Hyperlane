@@ -1,0 +1,26 @@
+{
+  "name": "DF-11 Scourge",
+  "wookieepedia_title": "DF-11 Scourge",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DF-11_Scourge",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The DF-11 Scourge was a starfighter used by the Ashiga Clan, Crimson Dawn, the Hutt Clan, the Pyke Syndicate and pirates during the Imperial Era. The DF-11 was armed with two laser cannons and two large sublight engines.",
+  "data": {
+    "name": "DF-11 Scourge",
+    "model": "DF-11 Scourge",
+    "type": "Starfighter",
+    "engine": "Equipped (2)",
+    "hdsystem": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "At least 1",
+    "role": "Starfighter combat",
+    "affiliation": [
+      "Ashiga Clan",
+      "Crimson Dawn",
+      "Hutt Clan",
+      "Pirates",
+      "Pyke Syndicate"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

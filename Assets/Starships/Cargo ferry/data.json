@@ -1,0 +1,29 @@
+{
+  "name": "Cargo ferry",
+  "wookieepedia_title": "Cargo ferry",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cargo_ferry",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The cargo ferry was a transport manufactured by Kiara Cargo Corporation. It was a freighter with six engines. The ferry could carry cargo both internally and externally in attached containers, or externally carry captured spacecraft. The Galactic Empire and the Alliance to Restore the Republic employed such ferries, as did various space pirates and civilians.",
+  "data": {
+    "name": "Cargo ferry",
+    "manufacturer": "Kiara Cargo Corporation",
+    "type": "Medium-sized freighter",
+    "length": "90 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 160 SBD",
+    "hull": "Rated 92 RU",
+    "armament": "Laser cannons (3)",
+    "crew": "6",
+    "role": "Cargo transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Dimok government",
+      "Pirates",
+      "Airam Clans",
+      "Civilians"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

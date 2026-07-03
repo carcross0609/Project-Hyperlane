@@ -1,0 +1,30 @@
+{
+  "name": "Solar Flare",
+  "wookieepedia_title": "Solar Flare (Barloz-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Solar_Flare_%28Barloz-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Solar Flare was a modified Barloz-class medium freighter used by the Alliance to Restore the Republic during the Galactic Civil War. It saw heavy usage throughout the war, and was at one stage used by a group of Rebel spacers who attempted to set up a Rebel cell in the Tapani sector. Its modifications included changes to the weaponry, as well as reduced cargo capacity but increased passenger space.",
+  "data": {
+    "name": "Solar Flare",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Barloz-class medium freighter",
+    "type": "medium freighter",
+    "length": "41 meters",
+    "navigation": "Navigation computer",
+    "countermeasures": "Yes",
+    "armament": [
+      "Quad turbolaser cannon",
+      "2 double-laser cannons",
+      "2 concussion missile launchers"
+    ],
+    "crew": "4",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "100 tonnes",
+    "consumables": "2 months",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

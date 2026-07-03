@@ -1,0 +1,32 @@
+{
+  "name": "TIE/ph \"Phantom\" Multi-Role Stealth Starfighter",
+  "wookieepedia_title": "TIE/ph \"Phantom\" Multi-Role Stealth Starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ph_%22Phantom%22_Multi-Role_Stealth_Starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ph \"Phantom\" Multi-Role Stealth Starfighter, also known simply as the TIE/ph phantom or the TIE phantom, was a class of stealth starfighter that was deployed by the Galactic Empire during the Imperial Era.",
+  "data": {
+    "name": "TIE/ph \"Phantom\" Multi-Role Stealth Starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE fighter series",
+    "model": "TIE/ph \"Phantom\" Starfighter",
+    "type": "Stealth starfighter",
+    "cost": "365,000 credits",
+    "engine": "Twin ion engine",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "power": "Solar collectors (3)",
+    "shield_gen": "Deflector shield generator",
+    "sensor": "Short-range sensor",
+    "navigation": "Navigation computer",
+    "armament": "Forward-mounted medium laser cannons",
+    "crew": "1 pilot, 1 co-pilot/gunner",
+    "consumables": "2 weeks",
+    "othersystems": "Stygium cloaking device",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Starfighter Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,168 @@
+# Millennium Falcon
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Millennium Falcon/Legends](https://starwars.fandom.com/wiki/Millennium_Falcon/Legends)
+
+The Millennium Falcon, originally known as YT-1300 492727ZED, was a modified YT-1300 light freighter known under various aliases and pseudonyms such as Corell's Pride, Fickle Flyer, Meetyl's Misery, Jackpot, Hardwired, Wayward Son, Stellar Envoy, Second Chance, Gone to Pieces, Close Shave, Sunfighter Franchise, Victory Ring, Belle of Byblos, Longshot, Regina Galas, Sunlight Franchise, Sweet Surprise, Shadow Bird, Princess of Blood, Star Princess, Star Tripper, and Naboo Duckling with a storied history stretching back to the decades before the Clone Wars and the rise of the Galactic Empire. Manufactured by the Corellian Engineering Corporation in 60 BBY, the light freighter was first owned by Corell Industries Limited and underwent several name changes before being bought by the smugglers Kal and Dova Brigger in 48 BBY, and the ship eventually ended up as the property of the secretive Republic Group under the name Stellar Envoy by 29 BBY. The Envoy was destroyed in a collision with a bulk freighter above Nar Shaddaa, but it was rebuilt and served various owners under different names before Quip Fargil named it after the bat-falcon, and it eventually fell into the hands of Lando Calrissian after a game of sabacc&mdash;but Calrissian himself lost the ship in another game of sabacc to the smuggler Han Solo several years later.
+
+## Specifications
+
+- **Name:** Millennium Falcon
+- **Manufacturer:** Corellian Engineering Corporation
+- **Line:** YT-series
+- **Model:** Modified YT-1300fp light freighter
+- **Type:** Light freighter
+- **Cost:** Not available for sale
+- **Modifier:**
+  - Kal Brigger
+  - Dova Brigger
+  - Tobb Jadak
+  - Bammy Decree
+  - Shug Ninx
+  - Quip Fargil
+  - Parlay Thorp
+  - Lando Calrissian
+  - Han Solo
+  - Chewbacca
+  - Klaus Vandangante
+  - Jowdrrl
+- **Length:** 34.37 meters
+- **Width:** 25.61 meters
+- **Height:** 8.27 meters (including lower cannon and upper sensor array)
+- **Mglt:** 75 MGLT
+- **Max Speed:** 1,050 km/h
+- **Engine:** 2 Girodyne SRB42 sublight engines (heavily modified)
+- **Hyperdrive:**
+  - Class 0.5
+  - Class 10 (backup)
+- **Hdsystem:**
+  - Avatar-10 (original)
+  - Isu-Sim SSP05 hyperdrive generator (heavily modified), later upgraded to a Series 401 hyperdrive motivator
+- **Power:**
+  - Quadex power core
+  - Incom N2I-4 power converter
+  - Koensayr TLB power converter
+  - CEC emergency power generator
+  - Cryogenic reserve power cells
+- **Shield Gen:**
+  - Torplex fore deflector shield generator
+  - Novaldex stasis-type shield generator (port and starboard projectors)
+  - Kuat Drive Yards aft deflector shield generator
+  - Nordoxicon-38 anti-concussion field generator
+  - Navigational deflector system
+- **Hull:** Duralloy plating (rated 102 RU)
+- **Sensor:**
+  - Siep-Irol passive sensor antenna
+  - Sienar Fleet Systems active sensor pulse generator
+  - Fabritech ANq-51 sensor array computer
+  - Fabritech ANy-20 active sensor transceiver
+  - Stellar navigation sensors
+  - Electromagnetic discharge filter
+- **Navigation:**
+  - Rubicon navigation computer
+  - Microaxial HyD modular navicomputer (backup)
+- **Avionics:** Torplex tandem flight computer
+- **Maincomp:**
+  - Hanx-Wargel SuperFlow IV rebuilt with 3 droid brains:
+  - R3-series astromech droid
+  - Slicer droid
+  - V-5 transport droid
+- **Countermeasures:**
+  - Carbanti 29L electromagnetic countermeasures package
+  - Carbanti signal-augmented sensor jammer
+  - Carbanti Whistler encryption module
+- **Armament:**
+  - Modified Corellian Engineering Corporation AG-2G quad laser cannons (2)
+  - Concealed BlasTech Ax-108 "Ground Buzzer" surface-defense blaster cannon (1)
+  - Arakyd ST2 concussion missile tubes (2)
+  -   4 missiles each
+  - Landing jets modified as anti-personnel weapons
+  - Ganathan lightning gun (temporary)
+  - High-power Mark VII tractor beam generator (temporary)
+  - Minelayer (temporary)
+- **Complement:**
+  - Explorer craft
+  - YT-XC
+- **Escapepods:** Up to 5 CEC Class-1 escape pods
+- **Crew:**
+  - Pilot (1)
+  - Co-pilot (1)
+  - Gunners (2)
+- **Skeleton:** 2
+- **Passengers:** 6
+- **Capacity:** 100 metric tons
+- **Cargohandling:**
+  - 2 Phylon C5 tractor beam emitters
+  - X-wing mounting clips
+  - Freight loading arms
+  - Electromagnetic freight barge clamps
+- **Consumables:** 2 months
+- **Lifesupport:**
+  - Corellstand C-8 life support system
+- **Communications:**
+  - Chedak Frequency Agile subspace transceiver
+  - Imperial IFF transponder
+- **Othersystems:**
+  - KapriCorp acceleration compensator
+  - Gelieg 20m-cp Strobe/C-Beam Lamp high-intensity floodlamps
+  - Ion flux stabilizer with alluvial dampers
+  - Gravity flux compensator
+  - Athakam Med Unit
+- **Role:**
+  - Freighter
+  - Hospital ship
+  - Smuggling ship
+- **Commission:** 60 BBY
+- **Affiliation:**
+  - Corell Industries Limited
+  - Smugglers' Confederation
+  - Republic Group
+  - Molpol's Traveling Circus
+  - Alliance to Restore the Republic
+  - Alliance of Free Planets
+  - New Republic
+  - Doole's Defense Fleet
+  - Jedi Order
+  - Galactic Federation of Free Alliances
+  - Five Worlds
+- **Owners:**
+  - Kal Brigger
+  - Dova Brigger
+  - Rej Taunt
+  - Cix Trouvee
+  - Lando Calrissian
+  - Han Solo
+- **Captains:**
+  - Parlay Thorp
+  - Lando Calrissian
+  - Han Solo
+- **Aliases:**
+  - YT-1300 492727ZED
+  - Corell's Pride
+  - Fickle Flyer
+  - Meetyl's Misery
+  - Jackpot
+  - Hardwired
+  - Wayward Son
+  - Stellar Envoy
+  - Second Chance
+  - Gone to Pieces
+  - Under Han Solo:
+  - Close Shave
+  - Sunfighter Franchise
+  - Victory Ring
+  - Belle of Byblos
+  - Longshot
+  - Regina Galas
+  - Sunlight Franchise
+  - Sweet Surprise
+  - Shadow Bird
+  - Princess of Blood
+  - Star Princess
+  - Star Tripper
+  - Naboo Duckling
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

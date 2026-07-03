@@ -1,0 +1,38 @@
+{
+  "name": "Obi-Wan Kenobi's prototype Delta-7 Aethersprite-class light interceptor",
+  "wookieepedia_title": "Obi-Wan Kenobi's prototype Delta-7 Aethersprite-class light interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi%27s_prototype_Delta-7_Aethersprite-class_light_interceptor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This starfighter was a prototype used by the Jedi Knight Obi-Wan Kenobi during the final days of the Separatist Crisis.",
+  "data": {
+    "name": "Obi-Wan Kenobi's prototype Delta-7 Aethersprite-class light interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series",
+    "model": "Prototype Delta-7 Aethersprite-class light interceptor",
+    "type": "Starfighter",
+    "sysmods": [
+      "Additional armament",
+      "S-foils"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Dual laser cannons (2)",
+      "While in fight mode:",
+      "Laser cannons (10)",
+      "Missile launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "role": "Interceptor",
+    "affiliation": "Jedi Order",
+    "owners": "Obi-Wan Kenobi"
+  },
+  "scraped": "2026-07-03"
+}

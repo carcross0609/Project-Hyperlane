@@ -1,0 +1,41 @@
+{
+  "name": "Spinward-class tender",
+  "wookieepedia_title": "Spinward-class tender",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spinward-class_tender",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Spinward-class tender was a mobile repair ship used by the Galactic Federation of Free Alliances nearly 100 years after the Yuuzhan Vong War. As large as bulk freighters, these tenders performed major repairs on damaged Alliance warships.",
+  "data": {
+    "name": "Spinward-class tender",
+    "model": "Spinward-class tender",
+    "type": "Fleet tender",
+    "cost": "Not available for sale",
+    "hyperdrive": "Class 2 (Backup class 10)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Laser cannon battery",
+      "Tractor beams"
+    ],
+    "complement": [
+      "Shuttles (4)",
+      "Repair pods (25)"
+    ],
+    "crew": "1,000",
+    "passengers": "500 (technicians)",
+    "capacity": "15,000 tons",
+    "consumables": "1 year",
+    "othersystems": [
+      "Ship-mounted robotic arms",
+      "Zero-g damage repair units"
+    ],
+    "availability": "Military",
+    "role": "Fleet tender",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Core Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Halcyon",
+  "wookieepedia_title": "Halcyon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Halcyon",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Halcyon was a Corellian passenger MPO-1400 Purgill-class star cruiser operated by Chandrila Star Line.",
+  "data": {
+    "name": "Halcyon",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "MPO-1400",
+    "type": "Purrgil-class Star Cruiser",
+    "length": "278 meters",
+    "mglt": "75 mglt",
+    "engine": [
+      "13x MakerTek GW-L44 ion turbine sublight engines",
+      "5x MakerTek RDA-12 repulsorlift drive adaptors"
+    ],
+    "hyperdrive": "Class 5",
+    "hdsystem": "2x Corellian Engineering Corporation JP-GA17d(PH1) (FT2) Fusion hyperdrive generators",
+    "shield_gen": "Equipped",
+    "armament": "12 Turbolasers cannons (foward-mounted)",
+    "bays": "Hangar",
+    "crew": "102",
+    "passengers": "Between 100 and 500",
+    "communications": "Comms Tower",
+    "othersystems": "Autopilot",
+    "role": "Passenger liner",
+    "commission": "241 BBY",
+    "affiliation": [
+      "Chandrila Star Line",
+      "Hutt Clan",
+      "Galactic Empire"
+    ],
+    "navy": "Imperial Navy",
+    "fleet": "Chandrila Star Line fleet",
+    "owners": "An Anzellan family",
+    "captains": [
+      "Gol Ponk",
+      "A captain",
+      "Oswin Dicto",
+      "Riyola Keevan"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

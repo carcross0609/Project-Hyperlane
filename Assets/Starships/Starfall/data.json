@@ -1,0 +1,30 @@
+{
+  "name": "Starfall",
+  "wookieepedia_title": "Starfall",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starfall",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Starfall was a New Republic CR90 corvette that was carrying a diplomatic delegation led by Senator Tia'dor Emshwa. In 5 ABY, Starfall was traveling on a mission to win over the Ithorians of the planet Ithor when it was ambushed by the Super Star Destroyer Annihilator, commanded by the alien pirate Eleodie Maracavanya. Eleodie took possession of the ship's cargo of Ithorian artifacts, food, medicine, and technological goods and allowed the crew and passengers to leave in escape pods. A young Chandrilan woman named Kartessa and her reluctant mother joined Eleodie's pirate empire.",
+  "data": {
+    "name": "Starfall",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Alderaanian diplomatic cruiser",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "length": "126.68 meters",
+    "max_speed": "950 kph",
+    "armament": [
+      "Dual turbolaser turrets (2)",
+      "Single turbolasers (4)"
+    ],
+    "complement": [
+      "3 RZ-1 A-wing interceptors (Imperial era) (Externally mounted)"
+    ],
+    "escapepods": "Equipped",
+    "passengers": "Hundreds",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet"
+  },
+  "scraped": "2026-07-03"
+}

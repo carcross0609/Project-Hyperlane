@@ -1,0 +1,37 @@
+{
+  "name": "Unidentified Torpedo Sphere",
+  "wookieepedia_title": "Unidentified Torpedo Sphere (Chasin)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Torpedo_Sphere_%28Chasin%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During the Imperial Civil War, a Torpedo Sphere was present at Chasin. During a battle fought between two Imperial factions, the Torpedo Sphere was destroyed when it was rammed by the Vengeance-class dreadnought Javelin.",
+  "data": {
+    "name": "Unidentified Torpedo Sphere",
+    "manufacturer": "Loronar Defense Industries",
+    "type": "Dedicated siege platform",
+    "length": "1,900 meters",
+    "max_speed": "930 kmh",
+    "hyperdrive": [
+      "Class 3",
+      "Class 18 (back-up)"
+    ],
+    "shield_gen": "Loronar Corporation DS-13 projectors",
+    "sensor": "Dedicated energy receptors",
+    "navigation": "Sienar Fleet Systems navigation computer",
+    "armament": [
+      "10 turbolaser batteries",
+      "500 proton torpedo tubes"
+    ],
+    "crew": "61,245; 2,030 gunners",
+    "skeleton": "20,415",
+    "passengers": "8,540 (troops)",
+    "capacity": "3.8 million metric tons",
+    "consumables": "4 years",
+    "role": "Planetary bombardment",
+    "destroyed": "10 ABY, Chasin",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

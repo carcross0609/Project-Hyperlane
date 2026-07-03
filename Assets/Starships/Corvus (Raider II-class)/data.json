@@ -1,0 +1,39 @@
+{
+  "name": "Corvus",
+  "wookieepedia_title": "Corvus (Raider II-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corvus_%28Raider_II-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Corvus was a Raider II-class corvette used by Inferno Squad during the Galactic Civil War. Originally an Imperial vessel, the Corvus joined the New Republic following Commander Iden Versio and Agent Del Meeko's defection from the Empire. Some time after joining the Republic, the Corvus participated in the final battle that marked the end of the war and the Empire. Decades later, it was used as a cargo hauler by Meeko and was captured by the First Order on Pillio while looking for Lor San Tekka and the map to Luke Skywalker. It would later be shot down and destroyed over Vardos by the Retribution under the orders of First Order Commander Gideon Hask in an attempt to kill Zay Versio, Iden and Del's daughter.",
+  "data": {
+    "name": "Corvus",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Raider-class corvette",
+    "model": "Modified Raider II-class corvette",
+    "type": "Corvette",
+    "length": "150 meters",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Concussion missiles",
+      "Dual heavy laser cannons",
+      "Ion cannons",
+      "Turbolasers"
+    ],
+    "destroyed": "34 ABY, Vardos",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inferno Squad",
+      "New Republic",
+      "  Inferno Squad",
+      "Resistance"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "New Republic Defense Fleet",
+      "Resistance navy"
+    ],
+    "captains": "Iden Versio"
+  },
+  "scraped": "2026-07-03"
+}

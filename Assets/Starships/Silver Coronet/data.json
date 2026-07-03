@@ -1,0 +1,46 @@
+{
+  "name": "Silver Coronet",
+  "wookieepedia_title": "Silver Coronet",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Silver_Coronet",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Silver Coronet was a New Republic MC75 Star Cruiser that served as the flagship of Anvil Squadron during the Galactic Civil War. It was destroyed during a scouring of Mon Cala when the Silver Coronet arrived as reinforcements against the attacking forces of the Galactic Empire, which included Titan Squadron and the Star Destroyer Overseer.",
+  "data": {
+    "name": "Silver Coronet",
+    "line": "MC-series star cruiser",
+    "model": "MC75 Star Cruiser",
+    "type": "Star Cruiser",
+    "engine": [
+      "Gemon-15 sublight ion drives (4)",
+      "Another type of KDY sublight engine (8)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Equipped",
+    "shield_gen": "Redundant deflector shield projectors",
+    "hull": "Reinforced battleship hull",
+    "target": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Ion cannons",
+      "Proton torpedo launchers",
+      "Hull mounted Tractor beam projectors"
+    ],
+    "complement": [
+      "At least 12 starfighters",
+      "  Anvil Squadron",
+      "  RZ-1 A-wing interceptors",
+      "  T-65B X-wing starfighters",
+      "  BTL-A4 Y-wing assault starfighter/bombers",
+      "  UT-60D U-wing starfighter/support craft"
+    ],
+    "crew": "New Republic pilots",
+    "communications": "Communications transmission mast",
+    "role": "Flagship",
+    "destroyed": "4 ABY, Mon Calamari system",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "owners": "Anvil Squadron"
+  },
+  "scraped": "2026-07-03"
+}

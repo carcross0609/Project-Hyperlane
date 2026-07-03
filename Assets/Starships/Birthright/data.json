@@ -1,0 +1,36 @@
+{
+  "name": "Birthright",
+  "wookieepedia_title": "Birthright",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Birthright",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Birthright was a modified Barloz-class freighter that was purchased by the Duros Thes Cilgris during the waning years of the Galactic Republic. The freighter was later flown by Thes' son Yett Cilgris during the Galactic Civil War and around the time of the Yuuzhan Vong War, the Birthright was operated by Thes' nephew Naul Cilgris.",
+  "data": {
+    "name": "Birthright",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Barloz-class freighter",
+    "type": "Medium freighter",
+    "cost": "311,500 credits",
+    "length": "41 meters",
+    "hyperdrive": [
+      "Class 1.5",
+      "Backup Class 6"
+    ],
+    "armament": [
+      "3 Escort quad laser cannons",
+      "1 Heavy ion cannon"
+    ],
+    "crew": "1",
+    "passengers": "12",
+    "cargohandling": "100 metric tons",
+    "consumables": "6 months",
+    "affiliation": "Cilgris family",
+    "owners": [
+      "Thes Cilgris",
+      "Yett Cilgris",
+      "Naul Cilgris"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

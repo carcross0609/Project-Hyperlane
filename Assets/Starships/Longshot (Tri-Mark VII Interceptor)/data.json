@@ -1,0 +1,41 @@
+{
+  "name": "Longshot",
+  "wookieepedia_title": "Longshot (Tri-Mark VII Interceptor)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Longshot_%28Tri-Mark_VII_Interceptor%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Longshot was a modified Tri-Mark VII Interceptor and Meeko Ghintee's personal starship.",
+  "data": {
+    "name": "Longshot",
+    "manufacturer": "Elsinore-Cordova Engineering",
+    "model": "Modified Tri-Mark VII Interceptor",
+    "type": "Heavy starfighter",
+    "length": "20 meters",
+    "width": "30 meters",
+    "height": "15 meters",
+    "engine": "3 Elsinore-Cordova Turbodyne engines",
+    "armament": [
+      "6 dual laser cannon turrets (auto-targeting)",
+      "1 ventral concussion missile launcher"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 copilot/gunner",
+      "1 auxiliary turret gunner",
+      "2 astromech droids"
+    ],
+    "passengers": [
+      "20 troops",
+      "4 prisoners"
+    ],
+    "capacity": "90 cubic meters (approximate)",
+    "role": "Bounty hunter vessel",
+    "destroyed": "32 BBY",
+    "affiliation": [
+      "Republic Security Force",
+      "Meeko Ghintee (Stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

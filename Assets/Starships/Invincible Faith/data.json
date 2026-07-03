@@ -1,0 +1,55 @@
+{
+  "name": "Invincible Faith",
+  "wookieepedia_title": "Invincible Faith",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Invincible_Faith",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Invincible Faith was an MC80 Star Cruiser in service to the Alliance to Restore the Republic prior to the Battle of Endor.",
+  "data": {
+    "name": "Invincible Faith",
+    "line": "MC80 Star Cruiser",
+    "model": "MC80 Liberty Type Heavy Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,200 meters - 1,500 meters",
+    "engine": "Sublight engines (10)",
+    "hdsystem": [
+      "Equipped",
+      "  Hyperdrive control bay"
+    ],
+    "armament": "Port-side ion cannons (3)",
+    "complement": [
+      "T-65B X-wing starfighters",
+      "BTL-A4 Y-wing assault starfighter/bombers",
+      "At least 1 UT-60D U-wing starfighter/support craft",
+      "At least 2 RZ-1 A-wing interceptors"
+    ],
+    "bays": "At least 1 Airlock",
+    "crew": [
+      "Alliance officers",
+      "Rebel technicians",
+      "Rebel troopers",
+      "  Heavy Soldiers",
+      "3PO-series protocol droids",
+      "WED Treadwell repair droids",
+      "R-series astromech droids",
+      "  R4 astromech droids",
+      "  R5-series astromech droids"
+    ],
+    "communications": "Communications center",
+    "othersystems": [
+      "Internal security protocols",
+      "Systems control",
+      "Lockdown sytstem",
+      "Databanks"
+    ],
+    "role": "Security",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "captains": "A captain"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Arquitens-class light cruiser",
+  "wookieepedia_title": "Arquitens-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arquitens-class_light_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Arquitens-class light cruiser, also known as the Jedi light cruiser or Republic light cruiser and later the Imperial light cruiser, was a line of light cruisers designed by Kuat Drive Yards that saw extensive service with the Republic Navy during the Clone Wars. They would go on to see limited service under the Galactic Empire, though Kuat Drive Yards would later refit them into an updated variant for the Imperial Navy, the Arquitens-class command cruiser.",
+  "data": {
+    "name": "Arquitens-class light cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Arquitens-class light cruiser",
+    "type": "Light cruiser",
+    "cost": "4,000,000 credits",
+    "length": "325 meters",
+    "max_accel": "1,800G",
+    "max_speed": "750 km/h",
+    "engine": "Dyne 577 radial atomizer engines (3)",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Reactor",
+    "shield_gen": "Energy shielding layers",
+    "hull": "Armored hull",
+    "sensor": "Medium-range sensors",
+    "target": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Configuration 1:",
+      "  Turret-mounted twin light turbolaser batteries (4)",
+      "  Heavy port and starboard quad laser cannon batteries (4)",
+      "  Missile/torpedo launchers (4)",
+      "    Concussion missiles (typically)",
+      "Configuration 2:",
+      "  Turret-mounted twin light turbolaser batteries (4)",
+      "  Missile/torpedo launchers (4)",
+      "  Ventral quad laser cannon (1)"
+    ],
+    "complement": [
+      "3 TIE fighter series starfighters",
+      "2 Lambda-class shuttles",
+      "Landspeeders",
+      "Ship's boats"
+    ],
+    "bays": "Circular docking bays (2)",
+    "crew": "100 officers, enlisted crew and pilots",
+    "passengers": "100",
+    "capacity": "1,200 tons (encumbrance)",
+    "consumables": "3 months",
+    "role": [
+      "All-purpose",
+      "Escort",
+      "Support ship",
+      "Picket",
+      "Light warship",
+      "Patrol"
+    ],
+    "firstuse": "By 22 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

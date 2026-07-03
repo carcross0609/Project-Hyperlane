@@ -1,0 +1,17 @@
+# White Nova
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [White Nova (star liner)](https://starwars.fandom.com/wiki/White_Nova_%28star_liner%29)
+
+The White Nova was a luxurious star liner that was used to transport passengers during the waning years of the Galactic Republic. In about 31 BBY, the White Nova journeyed to the Cularin system, from where it was scheduled to travel to the planet Coruscant, and a number of shuttles were sent from the liner to the planet Cularin to pick up passengers. After selling a batch of tainted ryll to Merik Darou, the assistant of Cularin's senator, the drug dealer Kelkan D'vrosh was forced to go on the run, so he boarded the White Nova and planned to flee aboard the vessel to Coruscant. The Heroes of Cularin, a group of local freelance agents that sought to capture D'vrosh, secured places aboard the White Nova and boarded the vessel, to search for their target. On arrival aboard the liner, they were searched by the security specialist Esker and subsequently escorted to their personal quarters by the protocol droid C4-P5. An announcement was then made to the passengers of the White Nova, to inform them that the ship was set to depart from the Cularin system in about an hour's time, and that all passengers were requested to return to their cabins until the vessel had made they jump to hyperspace. After searching D'vrosh's cabin, the agents tracked the drug dealer to the ship's lower sections and captured him.
+
+## Specifications
+
+- **Name:** White Nova
+- **Type:** Star liner
+- **Hyperdrive:** Equipped
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

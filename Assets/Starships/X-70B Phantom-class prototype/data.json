@@ -1,0 +1,35 @@
+{
+  "name": "X-70B Phantom-class prototype",
+  "wookieepedia_title": "X-70B Phantom-class prototype",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X-70B_Phantom-class_prototype",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The X-70B Phantom-class prototype was a prototype starship of the reconstituted Sith Empire used by Imperial Intelligence.",
+  "data": {
+    "name": "X-70B Phantom-class prototype",
+    "manufacturer": "Classified",
+    "type": "Prototype covert operations craft",
+    "length": "80 meters",
+    "width": "94 meters",
+    "height": "18 meters",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Stealth plating",
+    "sensor": "High-power sensor array",
+    "countermeasures": [
+      "Limited-use cloaking device"
+    ],
+    "armament": [
+      "Heavy laser cannons",
+      "Missiles"
+    ],
+    "communications": "Long-range holotransmitter",
+    "availability": "Restricted to Imperial Intelligence",
+    "role": "Covert operations craft",
+    "affiliation": [
+      "Sith Empire",
+      "  Imperial Intelligence"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

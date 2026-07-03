@@ -25,7 +25,7 @@ version control.
 - [x] Vision.md, CorePillars.md, Roadmap.md
 - [x] TechnicalArchitecture.md, CodingStandards.md, GitWorkflow.md
 - [x] Repo scaffolding (.gitignore, .gitattributes, .editorconfig, README)
-- [ ] UE 5.6 C++ project created (`Hyperlane.uproject`), compiles, runs
+- [ ] UE 5.8 C++ project created (`Hyperlane.uproject`), compiles, runs
 - [ ] Git LFS verified working with a first binary asset
 - [ ] Dev environment proven: edit C++ → compile → hot reload → see change
 

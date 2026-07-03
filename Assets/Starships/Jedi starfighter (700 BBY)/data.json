@@ -1,0 +1,22 @@
+{
+  "name": "Jedi starfighter",
+  "wookieepedia_title": "Jedi starfighter (700 BBY)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_starfighter_%28700_BBY%29",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "This starfighter was in use with the Jedi Order in 700 BBY.",
+  "data": {
+    "name": "Jedi starfighter",
+    "type": "Interceptor",
+    "engine": "At least two thrusters",
+    "armament": "Cannons (3)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "role": "Interceptor",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

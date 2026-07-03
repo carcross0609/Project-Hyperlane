@@ -1,0 +1,36 @@
+{
+  "name": "Z-'ceptor",
+  "wookieepedia_title": "Z-'ceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-%27ceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Z-'ceptor was a type of \"Ugly\" starfighter that was cobbled together from the salvaged parts of Z-95 Headhunters and TIE Interceptors.",
+  "data": {
+    "name": "Z-'ceptor",
+    "model": [
+      "Z-95 Headhunter (main body)",
+      "TIE/IN interceptor (solar arrays)"
+    ],
+    "type": "Ugly starfighter",
+    "cost": "Typically 25,000 to 40,000 credits",
+    "length": "16 meters",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (4)\nIon cannons (2)",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "80 kg",
+    "consumables": "1 day",
+    "role": "Starfighter",
+    "affiliation": [
+      "Pirates",
+      "Smugglers",
+      "Private defense fleets",
+      "Other groups"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

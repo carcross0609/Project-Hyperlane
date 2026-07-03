@@ -1,0 +1,25 @@
+{
+  "name": "Detainer CC-2200",
+  "wookieepedia_title": "Detainer CC-2200/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Detainer_CC-2200/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Detainer CC-2200 or Detainer CC-twenty-two-hundred was an type of Interdictor cruiser.",
+  "data": {
+    "name": "Detainer CC-2200",
+    "model": "Detainer CC-2200",
+    "type": "Interdictor ship",
+    "hdsystem": "Equipped",
+    "sensor": "Scanners",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Gravity well projectors",
+    "role": [
+      "Frigate",
+      "Cruiser",
+      "Interdiction"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Dominion",
+  "wookieepedia_title": "Dominion",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dominion",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dominion was a Star Destroyer at the time of the Liberation of Kashyyyk in 5 ABY. At this time, it was infiltrated by New Republic forces, and used to attack two other Star Destroyers over Kashyyyk, the Neutralizer and the Vitiator, the latter of which it destroyed.",
+  "data": {
+    "name": "Dominion",
+    "type": "Star Destroyer",
+    "shield_gen": "Equipped",
+    "armament": "Equipped",
+    "complement": "TIE fighter series starfighters",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "New Republic Defense Fleet"
+    ],
+    "captains": "Domm Korgale"
+  },
+  "scraped": "2026-07-03"
+}

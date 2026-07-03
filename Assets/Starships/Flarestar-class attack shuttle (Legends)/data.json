@@ -1,0 +1,39 @@
+{
+  "name": "Flarestar-class attack shuttle",
+  "wookieepedia_title": "Flarestar-class attack shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Flarestar-class_attack_shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Flarestar-class attack shuttle, also known as the Flarestar-class Weequay ship, the Penumbra-class attack shuttle, or the Weequay saucer craft, was a small saucer-shaped shuttle used by the Weequay pirates of Florrum.",
+  "data": {
+    "name": "Flarestar-class attack shuttle",
+    "manufacturer": "Haor Chall Engineering",
+    "model": "Flarestar-class attack shuttle",
+    "type": "Shuttle",
+    "cost": [
+      "250,000 credits (new)",
+      "135,000 credits (used)"
+    ],
+    "length": "22.56 meters (diameter)",
+    "max_speed": "1175 km/h",
+    "engine": "Two thrusters",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "armament": [
+      "Laser cannons (2)",
+      "Torpedo launchers (2)"
+    ],
+    "crew": "3",
+    "skeleton": "1",
+    "passengers": "10",
+    "capacity": "20 tons",
+    "consumables": "1 month",
+    "role": "Transport",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Ohnaka Gang"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

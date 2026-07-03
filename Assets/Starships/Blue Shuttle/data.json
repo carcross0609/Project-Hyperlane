@@ -1,0 +1,45 @@
+{
+  "name": "Blue Shuttle",
+  "wookieepedia_title": "Blue Shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blue_Shuttle",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "Blue Shuttle was a Beta-class assault shuttle made by Telgorn Corporation and stationed aboard the Eye of Palpatine. In 12 ABY, Triv Pothman used it to evacuate the inhabitants of the Eye.",
+  "data": {
+    "name": "Blue Shuttle",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Beta-class assault shuttle",
+    "type": "Assault shuttle",
+    "length": "30 meters",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": "Class 3.0",
+    "shield_gen": "Equipped",
+    "hull": "Modular",
+    "navigation": "Equipped, three jump limit",
+    "avionics": "Telgorn twin-tandem flight computers",
+    "armament": [
+      "Laser cannons (4)",
+      "Concussion missile launcher (1)",
+      "Tractor beam projector (1)"
+    ],
+    "crew": "5",
+    "skeleton": "3",
+    "passengers": [
+      "Depending on cargo module:",
+      "40 spacetroopers",
+      "68 standard troops",
+      "none (cargo or weapons)"
+    ],
+    "capacity": "500 kg",
+    "consumables": "5 days",
+    "role": [
+      "Transport",
+      "Boarding craft",
+      "Gunship",
+      "Convoy escort"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

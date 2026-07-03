@@ -1,0 +1,38 @@
+{
+  "name": "Unidentified Venator-class Star Destroyer",
+  "wookieepedia_title": "Unidentified Venator-class Star Destroyer (Clone Force 99)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Venator-class_Star_Destroyer_%28Clone_Force_99%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Venator-class Star Destroyer was in service to the Galactic Republic and its navy during the Clone Wars, and was one of many scuttled on the planet Bracca following the war's end and the formation of the Galactic Empire in 19 BBY. An original Venator-class Star Destroyer, the warship originated from the first batch to be produced. Early in the Imperial Era, the former clone trooper Rex, along with the clone commandos of Clone Force 99, traveled to Bracca, where they used the wrecked Star Destroyer's medical bay to remove the so-called \"Bad Batch's\" inhibitor chips.",
+  "data": {
+    "name": "Unidentified Venator-class Star Destroyer",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Eight ion drive thrusters",
+    "power": "Main power core",
+    "sensor": "Proximity sensor",
+    "armament": "AV-7 Anti-vehicle Artillery Cannons",
+    "complement": [
+      "Cargo skiffs",
+      "Proton torpedoes",
+      "Pyro denton explosives"
+    ],
+    "bays": "Equipped",
+    "communications": "Hyperwave comm scanners (2)",
+    "othersystems": [
+      "Data imprint",
+      "Surgical pods"
+    ],
+    "role": "Warship",
+    "commission": "By 22 BBY",
+    "destroyed": "By 19 BBY (scuttled)",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "M-7 Razorwire",
+  "wookieepedia_title": "M-7 Razorwire",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/M-7_Razorwire",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The M-7 Razorwire was a model of bomber produced by the shipyards at the planet Sernpidal for the reconstituted Sith Empire. Primarily a minelayer, the Razorwire was equipped with laser cannons, seismic mines, and concussion mines as a standard payload.",
+  "data": {
+    "name": "M-7 Razorwire",
+    "manufacturer": "Imperial Sernpidal shipyards",
+    "type": "Bomber",
+    "armament": [
+      "Laser cannons",
+      "Seismic mines",
+      "Concussion mines",
+      "Ion mines",
+      "Interdiction mines",
+      "Seeker mines"
+    ],
+    "availability": "Military",
+    "role": "Drone bomber",
+    "affiliation": "Sith Empire"
+  },
+  "scraped": "2026-07-03"
+}

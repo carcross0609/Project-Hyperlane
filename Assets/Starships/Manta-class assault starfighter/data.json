@@ -1,0 +1,31 @@
+{
+  "name": "Manta-class assault starfighter",
+  "wookieepedia_title": "Manta-class assault starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Manta-class_assault_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Manta-class assault starfighter was manufactured by the Tapani Starship Cooperative at the Tallaani Shipyards during the time of the Galactic Empire. It was the starfighter of choice in the Tapani sector.",
+  "data": {
+    "name": "Manta-class assault starfighter",
+    "manufacturer": "Tapani Starship Cooperative",
+    "type": "Starfighter",
+    "cost": "95,000 credits (new)",
+    "length": "12 meters",
+    "hyperdrive": "None",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 light ion cannons",
+      "2 medium laser cannons",
+      "2 heavy laser cannons"
+    ],
+    "crew": [
+      "1 Pilot",
+      "1 Gunner"
+    ],
+    "capacity": "100 Kilograms",
+    "consumables": "1 week",
+    "role": "Assault starfighter"
+  },
+  "scraped": "2026-07-03"
+}

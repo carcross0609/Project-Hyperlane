@@ -1,0 +1,24 @@
+{
+  "name": "YT-1220",
+  "wookieepedia_title": "YT-1220",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1220",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-1220 was a type of starship that was used during the time of the Clone Wars. The Tourism Council of Oluna Biqua owned one, called the Headliner.",
+  "data": {
+    "name": "YT-1220",
+    "line": "YT-series",
+    "length": "24 meters",
+    "hyperdrive": "Class 2",
+    "crew": "1 or 2",
+    "passengers": "5",
+    "cargohandling": "75 tonnes",
+    "consumables": "1 month",
+    "role": [
+      "Transport",
+      "Shuttle"
+    ],
+    "affiliation": "Tourism Council of Oluna Biqua"
+  },
+  "scraped": "2026-07-03"
+}

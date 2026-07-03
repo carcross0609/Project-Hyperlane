@@ -1,0 +1,30 @@
+{
+  "name": "Scourge 01",
+  "wookieepedia_title": "Scourge 01",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scourge_01",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Scourge 01, or Scourge One, formerly designated the Chelator, was a former Imperial I-class Star Destroyer that served in the navy of the Galactic Empire during the Imperial Era. Between 3 ABY and 4 ABY, the Star Destroyer was deployed to the Amaxine Station to carry out a mission requested by Emperor Sheev Palpatine to gather up everything within the station. After it had been completed, the Star Destroyer was taken over and its entire crew of humans and droids were killed by Imperial droids that had been corrupted by the Scourge. The Star Destroyer was then heavily modified by the Scourge.",
+  "data": {
+    "name": "Scourge 01",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "complement": [
+      "At least 2 Lambda-class T-4a shuttles",
+      "At least 1 Sentinel-class landing craft",
+      "At least 1 TIE/ln space superiority starfighter"
+    ],
+    "crew": [
+      "46,785 humans",
+      "2,518 droids"
+    ],
+    "role": "Flagship",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Scourge (corrupted)"
+  },
+  "scraped": "2026-07-03"
+}

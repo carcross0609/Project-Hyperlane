@@ -1,0 +1,30 @@
+{
+  "name": "Rex's BTL-B Y-wing fighter-bomber",
+  "wookieepedia_title": "Rex's BTL-B Y-wing fighter-bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rex%27s_BTL-B_Y-wing_fighter-bomber",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A BTL-B Y-wing fighter-bomber was utilized by the Galactic Republic near the end of the Clone Wars. The BTL-B Y-wing starfighter/bomber was aboard the Venator-class Star Destroyer Tribunal when Order 66 was issued, which caused the clone troopers onboard to turn against former Jedi Padawan Ahsoka Tano. After Tano had freed Clone Commander Rex from his inhibitor chip, the two attempted to escape the Tribunal, which had fallen into a collision course with a moon after Darth Maul, a former prisoner on the starship, destroyed its hyperdrive. Maul stole the shuttle Tano and Rex had intended to take, and the two found the starfighter in the repair bay at the last minute as enemy clones fired on them, effecting a narrow and dangerous escape.",
+  "data": {
+    "name": "Rex's BTL-B Y-wing fighter-bomber",
+    "line": "BTL Y-wing starfighter",
+    "model": "BTL-B Y-wing starfighter/bomber",
+    "type": "Starfighter",
+    "length": "23.4 meters",
+    "engine": "Ion jet engines (2)",
+    "crew": [
+      "3",
+      "1 pilot",
+      "1 gunner",
+      "1 astromech droid"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Rex's resistance network"
+    ],
+    "navy": "Republic Navy",
+    "owners": "Rex"
+  },
+  "scraped": "2026-07-03"
+}

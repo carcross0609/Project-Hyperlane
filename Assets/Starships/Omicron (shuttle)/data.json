@@ -1,0 +1,27 @@
+{
+  "name": "Omicron",
+  "wookieepedia_title": "Omicron (shuttle)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Omicron_%28shuttle%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Omicron was an Imperial Gamma-class assault shuttle that was stationed near Comm Center. It attempted to stop the Azzameen family from hacking into one of the station's satellites by deploying spacetroopers. It was either driven off or destroyed.",
+  "data": {
+    "name": "Omicron",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Gamma-class assault shuttle",
+    "type": "Shuttle",
+    "length": "30 meters",
+    "width": "13 meters",
+    "height": "9 meters",
+    "engine": "Telgorn IA/4 fusial thrust engines",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup class 18"
+    ],
+    "power": "Fabritech UL.2 power modulator",
+    "armament": "Turbolaser cannons (4)",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

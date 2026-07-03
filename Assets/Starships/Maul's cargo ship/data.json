@@ -1,0 +1,29 @@
+{
+  "name": "Maul's cargo ship",
+  "wookieepedia_title": "Maul's cargo ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maul%27s_cargo_ship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Maul's cargo ship was a YV-865 Aurore-class freighter that owned by the Snivvian Morlimur Snugg, superintendent of the InterGalactic Banking Clan's Cybloc Transfer Station. In 19 BBY, the renegade Sith Lord Maul and his brother, Savage Opress, raided the station and stole the freighter, which they flew to Florrum, where it was soon destroyed.",
+  "data": {
+    "name": "Maul's cargo ship",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV-series",
+    "model": "YV-865 Aurore-class freighter",
+    "type": "Freighter",
+    "length": "52.3 meters",
+    "width": "42.33 meters",
+    "height": "16.44 meters",
+    "max_speed": "900 kph",
+    "hyperdrive": "Class 1",
+    "escapepods": "1",
+    "destroyed": "19 BBY, Florrum",
+    "affiliation": "InterGalactic Banking Clan",
+    "owners": [
+      "Morlimur Snugg",
+      "Maul"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

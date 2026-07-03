@@ -1,0 +1,25 @@
+{
+  "name": "Takara",
+  "wookieepedia_title": "Takara (ship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Takara_%28ship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Takara was a starship used by the Jedi Order in 700 BBY.",
+  "data": {
+    "name": "Takara",
+    "type": "Starship",
+    "hdsystem": "Equipped",
+    "complement": "At least five starfighters",
+    "othersystems": "Landing gear",
+    "role": [
+      "Transport",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "Single-player living-galaxy sandbox set in the Star Wars Republic era. Personal, non-commercial learning project.",
+	"Modules": [
+		{
+			"Name": "Hyperlane",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

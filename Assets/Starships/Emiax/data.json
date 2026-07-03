@@ -1,0 +1,26 @@
+{
+  "name": "Emiax",
+  "wookieepedia_title": "Emiax",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Emiax",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Emiax was the personal shuttle of High Lord Sarasu Taalon of the Lost Tribe of Sith. He took the shuttle with his fleet of ChaseMaster frigates during his mission to capture Abeloth in 44 ABY. After the Sith alliance with the Jedi was broken, Luke and Ben Skywalker stole the Emiax and tracked Abeloth to Pydyr.",
+  "data": {
+    "name": "Emiax",
+    "type": "Shuttle",
+    "hyperdrive": "Equipped",
+    "skeleton": "1",
+    "passengers": "At least 2",
+    "communications": [
+      "Comm unit",
+      "Auxiliary Comm station",
+      "Subspace transceiver"
+    ],
+    "role": "Shuttle",
+    "affiliation": "Lost Tribe of Sith",
+    "navy": "Sith armada",
+    "owners": "Sarasu Taalon"
+  },
+  "scraped": "2026-07-03"
+}

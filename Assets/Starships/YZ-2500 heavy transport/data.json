@@ -1,0 +1,40 @@
+{
+  "name": "YZ-2500 heavy transport",
+  "wookieepedia_title": "YZ-2500 heavy transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YZ-2500_heavy_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Corellian Engineering Corporation YZ-2500 heavy transport was a capital-scale transport that was sometimes used as a military vessel in the Galactic Alliance.",
+  "data": {
+    "name": "YZ-2500 heavy transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YZ-2500 heavy transport",
+    "type": [
+      "Heavy transport",
+      "Frigate"
+    ],
+    "cost": "1.5 million credits (590,000 used)",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 2 (Backup class 10)",
+    "hdsystem": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Double medium turbolaser battery",
+      "Heavy laser cannons"
+    ],
+    "crew": "10",
+    "passengers": "16",
+    "capacity": "60,000 tons",
+    "consumables": "2 months",
+    "availability": "Restricted",
+    "role": [
+      "Transport",
+      "Frigate"
+    ],
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Core Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

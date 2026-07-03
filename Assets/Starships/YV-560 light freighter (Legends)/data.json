@@ -1,0 +1,32 @@
+{
+  "name": "YV-560 light freighter",
+  "wookieepedia_title": "YV-560 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-560_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YV-560 light freighter was an exploration class freighter made by the Corellian Engineering Corporation. Similar in design to CEC's YT-1300 light freighter, the YV-560 was slightly smaller, with a 30.1 meter length and a 22.4 meter saucer diameter.",
+  "data": {
+    "name": "YV-560 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV series",
+    "model": "YV-560",
+    "type": "Light freighter",
+    "cost": "120,000 credits",
+    "length": "30.1 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup: Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Twin Medium Laser cannon (1)",
+    "crew": [
+      "1 pilot",
+      "1 co-pilot/engineer"
+    ],
+    "passengers": "5",
+    "capacity": "40 tons",
+    "consumables": "8 months"
+  },
+  "scraped": "2026-07-03"
+}

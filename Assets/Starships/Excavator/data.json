@@ -1,0 +1,21 @@
+{
+  "name": "Excavator",
+  "wookieepedia_title": "Excavator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Excavator",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Excavator was a Venture-class cruiser used by the former Jedi Master Cohmac Vitus during the High Republic Era. Vitus utilized the cruiser during his search for the Tolemite civilization.",
+  "data": {
+    "name": "Excavator",
+    "model": "Venture-class cruiser",
+    "type": [
+      "Cruiser",
+      "Light freighter"
+    ],
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "owners": "Cohmac Vitus"
+  },
+  "scraped": "2026-07-03"
+}

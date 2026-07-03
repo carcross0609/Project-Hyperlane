@@ -1,0 +1,31 @@
+{
+  "name": "Merry Thrubidor",
+  "wookieepedia_title": "Merry Thrubidor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Merry_Thrubidor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Merry Thrubidor was a 720 light freighter manufactured by Ghtroc Industries. It was used by Alliance to Restore the Republic operatives to retrieve stolen cargo from pirates on the planet Prexiar.",
+  "data": {
+    "name": "Merry Thrubidor",
+    "manufacturer": "Ghtroc Industries",
+    "model": "Light freighter",
+    "type": "720 light freighter",
+    "length": "35 meters",
+    "max_speed": "750 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "  Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 double laser cannons",
+    "crew": "1; 1 gunner",
+    "passengers": "10",
+    "capacity": "135 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

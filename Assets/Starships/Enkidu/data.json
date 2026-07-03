@@ -1,0 +1,38 @@
+{
+  "name": "Enkidu",
+  "wookieepedia_title": "Enkidu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Enkidu",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "Enkidu was a MandalMotors Pursuer-class enforcement ship employed by K'Armyn Viraxo in a mercenary role to intimidate business rivals and defend Viraxo interests against pirates. She was a thorn in her enemies' sides as she always managed to escape from its various missions without damage.",
+  "data": {
+    "name": "Enkidu",
+    "manufacturer": "MandalMotors",
+    "model": "Pursuer-class enforcement ship",
+    "type": "Patrol craft",
+    "length": "30.1 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Backup Class 16"
+    ],
+    "shield_gen": "Military-grade shield generators",
+    "navigation": "Equipped",
+    "armament": [
+      "1 twin blaster cannon",
+      "1 dual ion cannon turret",
+      "1 proton torpedo launcher (common modification)"
+    ],
+    "crew": "1 pilot",
+    "passengers": [
+      "2 guards",
+      "5 prisoners"
+    ],
+    "capacity": "35 metric tons",
+    "consumables": "5 weeks",
+    "role": "Patrol craft",
+    "affiliation": "Viraxo Industries"
+  },
+  "scraped": "2026-07-03"
+}

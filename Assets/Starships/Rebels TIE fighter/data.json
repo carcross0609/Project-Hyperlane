@@ -1,0 +1,43 @@
+{
+  "name": "Rebels TIE fighter",
+  "wookieepedia_title": "Rebels TIE fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rebels_TIE_fighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The rebels TIE fighter, nicknamed \"Sabine's masterpiece,\" was an Imperial TIE/ln space superiority starfighter, piloted by Baron of the Empire Valen Rudor, that was stolen by Ezra Bridger and Garazeb Orrelios, two members of a rebel cell on the Outer Rim planet Lothal. The two rebels used the fighter to attack an Imperial Troop Transport that was carrying Imperial prisoners, who the rebels were able to liberate. The two rebels lied to their leaders, Hera Syndulla and Kanan Jarrus, by saying that they purposefully crashed the fighter, but in reality they hid it elsewhere on Lothal. Sabine Wren, an artist on the crew, was told about it and painted the fighter, and she considered it some of her best work. The fighter was later used as part of a mission to rescue Jarrus from Imperial captivity.",
+  "data": {
+    "name": "Rebels TIE fighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE fighter series",
+    "model": "TIE/ln space superiority starfighter",
+    "type": "Twin Ion Engine starfighter",
+    "modifier": "Sabine Wren (repaint)",
+    "length": "8.99 meters",
+    "max_speed": "1,200 kph",
+    "engine": "SFS P-s4 ion engines",
+    "hdsystem": "None",
+    "armament": [
+      "SFS L-s1 laser cannons (2)",
+      "Proton torpedo launcher",
+      "Concealed electromagnetic pulse"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "skeleton": "None (remote control)",
+    "passengers": "2 (cramped)",
+    "othersystems": "Locator beacon",
+    "role": [
+      "Dogfighting",
+      "Patrolling the skies of Lothal"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Spectres",
+      "Phoenix Cell"
+    ],
+    "navy": "Imperial Starfighter Corps",
+    "aliases": "\"Sabine's masterpiece\" (After repainting)"
+  },
+  "scraped": "2026-07-03"
+}

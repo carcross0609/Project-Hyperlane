@@ -1,0 +1,34 @@
+{
+  "name": "R-42 Starchaser",
+  "wookieepedia_title": "R-42 Starchaser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R-42_Starchaser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The R-42 Starchaser was a modified variant of R-41 Starchaser with a second seat for a gunner. Apart from being a two-seated version, it was completely identical to the earlier model. It was also much less common&mdash;only a few hundred were ever produced.",
+  "data": {
+    "name": "R-42 Starchaser",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "R-42 Starchaser",
+    "type": "Starfighter",
+    "cost": "115,000 credits (55,000 used)",
+    "length": "16.3 Meters",
+    "mglt": "100",
+    "max_speed": "1,050 km/h",
+    "engine": "4 engine units",
+    "hyperdrive": "Class 2",
+    "armament": [
+      "Laser cannons (2)",
+      "Ion cannons (2)",
+      "Warhead launchers (2)",
+      "  Standard load: 4 concussion missiles each"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "1",
+    "capacity": "110 kg",
+    "consumables": "2 weeks"
+  },
+  "scraped": "2026-07-03"
+}

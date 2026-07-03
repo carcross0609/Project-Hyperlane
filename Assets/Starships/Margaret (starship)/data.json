@@ -1,0 +1,24 @@
+{
+  "name": "Margaret",
+  "wookieepedia_title": "Margaret (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Margaret_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Margaret was an MC40a light cruiser that saw service with the Rebel Alliance fleet.",
+  "data": {
+    "name": "Margaret",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC40a light cruiser",
+    "type": "Light Cruiser",
+    "length": "500–600 meters",
+    "hdsystem": "Equipped",
+    "complement": [
+      "BTL-B Y-wing starfighters",
+      "T-65A2 X-wing starfighters"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

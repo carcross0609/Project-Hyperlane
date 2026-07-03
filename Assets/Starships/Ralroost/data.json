@@ -1,0 +1,40 @@
+{
+  "name": "Ralroost",
+  "wookieepedia_title": "Ralroost",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ralroost",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ralroost was a Bothan Assault Cruiser commissioned at the end of the Galactic Civil War for the defense of Bothawui.",
+  "data": {
+    "name": "Ralroost",
+    "model": "Bothan Assault Cruiser",
+    "type": "Capital",
+    "cost": [
+      "970,000,000 credits (estimated)",
+      "Not available for public sale"
+    ],
+    "length": "850 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 8"
+    ],
+    "armament": [
+      "Turbolasers (20)",
+      "Heavy double turbolaser cannons (24)",
+      "Ion cannons (10)",
+      "Proton torpedo launchers (20)",
+      "  16 torpedoes each",
+      "Tractor beam projectors (4)"
+    ],
+    "crew": "1,240",
+    "passengers": "250 troops and pilots",
+    "capacity": "5,000 metric tons",
+    "consumables": "2 years",
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Shelltooth",
+  "wookieepedia_title": "Shelltooth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shelltooth",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Shelltooth was a modified CorelliSpace Gymsnor-3 light freighter owned by the Quor'sav trader Kal'Falnl C'ndros. It possessed a Class 1 hyperdrive. It was customized to have corridors that accommodated her 3.5 meter height, and to have a protected chamber where her clutch of eggs was kept for the year necessary for them to hatch.",
+  "data": {
+    "name": "Shelltooth",
+    "manufacturer": "CorelliSpace",
+    "line": "Gymsnor series",
+    "model": "Gymsnor-3 light freighter",
+    "type": "Freighter",
+    "length": "34.1 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 heavy blaster cannon",
+    "crew": "1",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "10 metric tons",
+    "lifesupport": "Equipped",
+    "captains": "Kal'Falnl C'ndros"
+  },
+  "scraped": "2026-07-03"
+}

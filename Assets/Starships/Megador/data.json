@@ -1,0 +1,33 @@
+{
+  "name": "Megador",
+  "wookieepedia_title": "Megador",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Megador",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Megador was a Star Dreadnought in the service of the Galactic Federation of Free Alliances during the Swarm War, when it served as the flagship of Supreme Commander Gilad Pellaeon and then later at the Battle of Uroro Station during the Second Galactic Civil War.",
+  "data": {
+    "name": "Megador",
+    "line": [
+      "Star Dreadnought",
+      "Star Destroyer"
+    ],
+    "model": "Star Dreadnought",
+    "type": "Star Dreadnought",
+    "length": "Between 5,000 and 19,000 meters",
+    "engine": "Ion engines (16)",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Long-range turbolasers (3)",
+      "Other weapons-systems"
+    ],
+    "othersystems": "Observation dome",
+    "role": "Command ship",
+    "affiliation": [
+      "Zero Command",
+      "Imperial Remnant",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

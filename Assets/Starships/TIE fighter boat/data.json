@@ -1,0 +1,22 @@
+{
+  "name": "TIE fighter boat",
+  "wookieepedia_title": "TIE fighter boat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_fighter_boat",
+  "continuity": "Legends",
+  "infobox_template": "AquaticVehicle",
+  "description": "The TIE fighter boat was an aquatic superiority variant of the original TIE/LN starfighter. This specialized TIE fighter had been designed to operate underwater but was able to participate in surface assaults.",
+  "data": {
+    "name": "TIE fighter boat",
+    "model": "Twin Ion Engine fighter boat",
+    "type": "Aquatic vessel",
+    "speed": "90 km/h",
+    "armament": "2 laser cannons (fire-linked)",
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "None",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

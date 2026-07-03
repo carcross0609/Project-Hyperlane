@@ -1,0 +1,37 @@
+{
+  "name": "Jumpstar HPF starfighter",
+  "wookieepedia_title": "Jumpstar HPF starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jumpstar_HPF_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Jumpstar HPF starfighter was a specialized starfighter deployed by the Galactic Alliance during the Sith–Imperial War and the subsequent Second Imperial Civil War.",
+  "data": {
+    "name": "Jumpstar HPF starfighter",
+    "model": "Jumpstar HPF starfighter",
+    "type": "Starfighter",
+    "cost": "275,000 credits (125,000 used)",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannons",
+      "Marker missile launchers",
+      "  8 marker missiles"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "0",
+    "capacity": "70 kg",
+    "consumables": "1 week",
+    "lifesupport": "Equipped",
+    "availability": "Military",
+    "affiliation": [
+      "Galactic Alliance",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

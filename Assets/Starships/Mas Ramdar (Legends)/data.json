@@ -1,0 +1,29 @@
+{
+  "name": "Mas Ramdar",
+  "wookieepedia_title": "Mas Ramdar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mas_Ramdar/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Mas Ramdar was a Dreadnaught-class heavy cruiser in Republic Navy during the Clone Wars. Part of Home Fleet Strike Group Five, the Mas Ramdar served during the Battle of Coruscant in 19 BBY, destroying or disabling many Confederate warships during the seven day space engagement over Coruscant. On the final day of the battle, Strike Group Five clashed with the Providence-class destroyer Invisible Hand, which was holding the captured Republic Supreme Chancellor Palpatine on board. The Mas Ramdar and the rest of the Strike Group Five prevented the Invisible Hand from escaping the Coruscant system, allowing a pair of Jedi to infiltrate the Invisible Hand and rescue Palpatine. However, the Mas Ramdar was seriously damaged by the Invisible Hand heavy turbolaser turrets during the fight, forcing the dreadnaught to retreat during the battle.",
+  "data": {
+    "name": "Mas Ramdar",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Dreadnaught-class heavy cruiser",
+    "type": "Heavy cruiser",
+    "length": "600 meters",
+    "armament": [
+      "Quad turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Turbolaser cannons (10)"
+    ],
+    "role": "Cruiser",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": [
+      "Coruscant Defense Fleet",
+      "  Home Fleet Strike Group Five"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

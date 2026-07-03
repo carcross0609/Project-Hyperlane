@@ -1,0 +1,68 @@
+{
+  "name": "Vuutun Palaa",
+  "wookieepedia_title": "Vuutun Palaa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vuutun_Palaa",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vuutun Palaa was a Lucrehulk-class battleship that served as part of the Trade Federation in the capacity of a droid-controlling vessel during the Invasion of Naboo, where it was at the heart of the Federation blockade. It was destroyed by Anakin Skywalker during the Battle of Naboo.",
+  "data": {
+    "name": "Vuutun Palaa",
+    "model": "Custom-fitted Lucrehulk-class battleship",
+    "type": "Battleship",
+    "sysmods": "Extensive system additions",
+    "length": "3,356.9 meters",
+    "width": "3,009 meters",
+    "height": "1,028.77 meters",
+    "engine": [
+      "3 Proton 2 drive engines",
+      "12 Proton sublight drives"
+    ],
+    "power": [
+      "Two main reactors",
+      "Additional reactors"
+    ],
+    "shield_gen": "Equipped",
+    "hull": "Exotic alloy (antenna array)",
+    "sensor": [
+      "1 main sensor rectenna",
+      "4 auxiliary sensors",
+      "Monitor sensors"
+    ],
+    "target": "Targeting sensors",
+    "armament": "42 quad turbolaser emplacements",
+    "complement": [
+      "1,500 Vulture-class droid starfighters",
+      "550 Multi-Troop Transports",
+      "6,250 Armored Assault Tanks",
+      "1,500 Platoon Attack Craft",
+      "50 C-9979 landing craft",
+      "Other smaller vessels"
+    ],
+    "bays": "2",
+    "crew": "203,060",
+    "passengers": [
+      "10,000+ battle droids",
+      "Other droid models"
+    ],
+    "communications": [
+      "2 main communications antennae (16,500 kilometer broadcast range)",
+      "6 auxiliary antennae",
+      "16 signal receiver dishes",
+      "Other transmitters (post-fitting)"
+    ],
+    "othersystems": [
+      "Central Control Computer",
+      "Control Brain Network"
+    ],
+    "role": "Control ship",
+    "destroyed": "32 BBY, Naboo system",
+    "affiliation": "Trade Federation",
+    "fleet": "Trade Federation fleet",
+    "captains": [
+      "Nute Gunray",
+      "Daultay Dofine (transferred from Saak'ak)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

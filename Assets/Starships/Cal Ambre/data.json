@@ -1,0 +1,43 @@
+{
+  "name": "Cal Ambre",
+  "wookieepedia_title": "Cal Ambre",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cal_Ambre",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Cal Ambre was a heavily modified Cal-class battleship.",
+  "data": {
+    "name": "Cal Ambre",
+    "model": "Kumauri Battleship",
+    "type": "Cal-class battleship",
+    "sysmods": [
+      "Weapons mostly removed",
+      "Luxurious interior"
+    ],
+    "length": "3,000 meters",
+    "hyperdrive": [
+      "Class 6",
+      "Backup class 15"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipeed",
+    "armament": [
+      "1 Mass-driver cannon",
+      "2 turbolaser cannons",
+      "6 tractor beams"
+    ],
+    "complement": [
+      "Skiffs",
+      "Ferries"
+    ],
+    "crew": "2,150, gunners: 46",
+    "passengers": "9,000",
+    "capacity": "20,000 metric tons",
+    "consumables": "3 months",
+    "lifesupport": "Equipped",
+    "communications": "Equipped"
+  },
+  "scraped": "2026-07-03"
+}

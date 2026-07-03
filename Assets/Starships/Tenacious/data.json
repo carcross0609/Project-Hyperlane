@@ -1,0 +1,31 @@
+{
+  "name": "Tenacious",
+  "wookieepedia_title": "Tenacious",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tenacious",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tenacious was an Imperial I-class Star Destroyer in service to the Galactic Empire that was under the command of Captain Adre L'Mendi. After being notified that there was a Rebel Alliance starship above Wobani, Captain L'Mendi and the Tenacious arrived in the Wobani system and destroyed the rebel CR90 corvette Vigilant and engaged Red Flight.",
+  "data": {
+    "name": "Tenacious",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hyperdrive": "Class 2",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "target": "Tractor beam targeting array",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Adre L'Mendi"
+  },
+  "scraped": "2026-07-03"
+}

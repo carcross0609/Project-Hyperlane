@@ -1,0 +1,30 @@
+{
+  "name": "Taylander shuttle",
+  "wookieepedia_title": "Taylander shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Taylander_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Taylander shuttle was a model of civilian transport shuttle manufactured by Gallofree Yards, Inc. and found throughout the galaxy. It was used as a transport ship for undercover operations by the early rebellion and the Alliance to Restore the Republic. There was also a smaller model, known as the Taylander-XCE shuttle.",
+  "data": {
+    "name": "Taylander shuttle",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "Taylander shuttle",
+    "type": "Shuttle",
+    "length": "43.5 meters",
+    "max_accel": "950 kilometers per hour",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": "None",
+    "role": [
+      "Civilian shuttle",
+      "Transport ship",
+      "Cargo vessel"
+    ],
+    "affiliation": [
+      "Phoenix Cell",
+      "Massassi Group",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

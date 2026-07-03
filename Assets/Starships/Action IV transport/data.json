@@ -1,0 +1,32 @@
+{
+  "name": "Action IV transport",
+  "wookieepedia_title": "Action IV transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Action_IV_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Action IV transport was a Corellian Engineering Corporation medium bulk freighter of the Action series.",
+  "data": {
+    "name": "Action IV transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Action series",
+    "model": "Action IV transport",
+    "type": "Transport",
+    "cost": [
+      "945,000 credits (new)",
+      "345,000 credits (used)"
+    ],
+    "length": "100 meters",
+    "max_speed": "650 kmh",
+    "hyperdrive": "Class 3.0",
+    "shield_gen": "None",
+    "navigation": "None",
+    "armament": "None",
+    "escapepods": "2",
+    "crew": "8",
+    "passengers": "None",
+    "capacity": "75,000 metric tons",
+    "consumables": "3 months",
+    "role": "Medium bulk freighter"
+  },
+  "scraped": "2026-07-03"
+}

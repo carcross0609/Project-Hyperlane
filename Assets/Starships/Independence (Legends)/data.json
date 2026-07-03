@@ -1,0 +1,50 @@
+{
+  "name": "Independence",
+  "wookieepedia_title": "Independence/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Independence/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Independence was a MC80A Home One Type Heavy Star Cruiser that, under the command of Admiral Gial Ackbar, acted as the Rebel Alliance Fleet's flagship in the early years of the Galactic Civil War. Originally constructed as an exploration ship, the Independence joined the Alliance to Restore the Republic after the Galactic Empire subjugated the Mon Calamari homeworld. It acted as a staging ground for several hit and fade attacks against the Galactic Empire and saw action several times against Imperial forces, including the Alliance victory at the Battle of Turkana. During this time it also oversaw the training of several promising Alliance recruits.",
+  "data": {
+    "name": "Independence",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "MC80A Home One Type Heavy Star Cruiser",
+    "cost": "150,000,000 credits",
+    "hyperdrive": [
+      "Class 1",
+      "Class 9 (backup)"
+    ],
+    "armament": [
+      "Twin heavy turbolaser batteries (36)",
+      "Twin battleship ion cannon batteries (36)",
+      "Heavy tractor beam projectors (6)"
+    ],
+    "complement": [
+      "Starfighters (120)",
+      "Shuttles",
+      "Landing craft",
+      "Utility vehicles"
+    ],
+    "crew": "5,400",
+    "skeleton": "1,230",
+    "passengers": "1,200",
+    "consumables": "2 years",
+    "role": [
+      "Battleship",
+      "Carrier",
+      "Communications control ship"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ],
+    "navy": [
+      "Alliance Fleet",
+      "New Republic Defense Fleet"
+    ],
+    "fleet": "Independence task force",
+    "captains": "Admiral Gial Ackbar"
+  },
+  "scraped": "2026-07-03"
+}

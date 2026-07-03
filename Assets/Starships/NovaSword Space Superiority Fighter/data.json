@@ -1,0 +1,29 @@
+{
+  "name": "NovaSword Space Superiority Fighter",
+  "wookieepedia_title": "NovaSword Space Superiority Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/NovaSword_Space_Superiority_Fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The NovaSword Space Superiority Fighter was a Subpro Corporation starfighter designed during the Clone Wars.",
+  "data": {
+    "name": "NovaSword Space Superiority Fighter",
+    "manufacturer": "Sublight Products Corporation",
+    "model": "NovaSword Space Superiority Fighter",
+    "type": "Starfighter",
+    "cost": "145,000 credits (65,000 used)",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "Equipped",
+    "armament": [
+      "2 Laser cannons",
+      "1 Medium concussion missile launcher (3 medium missiles)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "1",
+    "capacity": "110 kg",
+    "consumables": "4 weeks",
+    "role": "Space superiority fighter",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "scraped": "2026-07-03"
+}

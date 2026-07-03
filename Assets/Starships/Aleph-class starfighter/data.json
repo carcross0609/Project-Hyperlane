@@ -1,0 +1,40 @@
+{
+  "name": "Aleph-class starfighter",
+  "wookieepedia_title": "Aleph-class starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aleph-class_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Aleph-class starfighter, originally nicknamed the Pondskipper, but more commonly known as the Aleph or Twee, was a heavy two-seater starfighter designed by Sienar Fleet Systems for use by the Galactic Alliance Navy. The fighter was utilized by the Alliance during the Second Galactic Civil War and beyond.",
+  "data": {
+    "name": "Aleph-class starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Aleph-class starfighter",
+    "type": "Starfighter",
+    "max_speed": "Interceptor-grade",
+    "engine": "Twin thruster pods",
+    "poweroutput": "High",
+    "power": "High-powered generators",
+    "shield_gen": "Equipped",
+    "hull": "Extra-thick hull plating",
+    "target": "Equipped",
+    "armament": [
+      "Quad laser cannon turrets (2)",
+      "Proton torpedo launcher (1)",
+      "Concussion missile launcher (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)",
+      "Astromech droid (1)"
+    ],
+    "role": [
+      "Starfighter",
+      "Picket"
+    ],
+    "affiliation": [
+      "Galactic Alliance",
+      "  Galactic Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

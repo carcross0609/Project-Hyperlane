@@ -1,0 +1,25 @@
+{
+  "name": "CEC Class-1 escape pod",
+  "wookieepedia_title": "CEC Class-1 escape pod",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CEC_Class-1_escape_pod",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The CEC Class-1 escape pod, also referred to as the Model CEC Class-1, was a model of escape pod made by the Corellian Engineering Corporation. The modified YT-1300 light freighter known as the Millennium Falcon was equipped with five Model CEC Class-1s as part of its standard factory-issued equipment. Each pod was built for a single passenger and carried consumables, emergency supplies, and a portable shelter. It was also equipped with a primitive navigation computer, a one-way comlink transceiver, and an emergency beacon.",
+  "data": {
+    "name": "CEC Class-1 escape pod",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Escape pod",
+    "shield_gen": "Deflector shield",
+    "sensor": "Sensor band",
+    "navigation": "Basic navigation computer",
+    "passengers": "1",
+    "consumables": "Rations and water",
+    "lifesupport": "Life support system",
+    "communications": [
+      "Emergency beacon",
+      "Comlink transceiver"
+    ],
+    "role": "Emergency evacuation craft"
+  },
+  "scraped": "2026-07-03"
+}

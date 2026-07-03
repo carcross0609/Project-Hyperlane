@@ -1,0 +1,62 @@
+{
+  "name": "J-type diplomatic barge",
+  "wookieepedia_title": "J-type diplomatic barge/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/J-type_diplomatic_barge/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The J-type diplomatic barge was a starship used by the royalty of Naboo for diplomatic transport. Designed by the Theed Palace Space Vessel Engineering Corps, the craft succeeded the J-type 327 Nubian royal starship as primary transport for Naboo's queen and royal entourage.",
+  "data": {
+    "name": "J-type diplomatic barge",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
+    "model": "Custom-Built J-type diplomatic barge",
+    "type": "Diplomatic barge",
+    "cost": "1,000,000 to 2,000,000 credits",
+    "length": "39 meters",
+    "width": "91 meters",
+    "height": "6.8 meters",
+    "max_accel": "2,500 G",
+    "max_speed": "2,000 km/h",
+    "engine": "J-type sublight engines (4)",
+    "hyperdrive": [
+      "Class 0.7 or 1.0",
+      "Class 7.0 (backup)"
+    ],
+    "hdrange": "80.000 lightyears",
+    "hdsystem": "2 S-6 generators with Nubian 288 cores",
+    "poweroutput": [
+      "Peak (reactor): 3 × 1012 watts",
+      "Peak (shields): 6 × 1012 watts"
+    ],
+    "shield_gen": "Redundant shield generators",
+    "hull": "Chromium plating",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "countermeasures": "Jamming system",
+    "armament": "None",
+    "complement": "Naboo N-1 fighters (4)",
+    "crew": [
+      "Crew (5)",
+      "  Pilot (1)",
+      "  Co-pilot (1)",
+      "  Navigator (1)",
+      "  Communications officer (1)",
+      "  Shield operator (1)",
+      "Astromech droids (5)"
+    ],
+    "skeleton": "2",
+    "passengers": [
+      "Diplomats (4)",
+      "Guards (6)"
+    ],
+    "consumables": "3 months to 1 Year",
+    "lifesupport": "1 Year",
+    "communications": "Equipped",
+    "role": [
+      "Diplomatic vessel",
+      "Yacht"
+    ],
+    "affiliation": "Royal House of Naboo"
+  },
+  "scraped": "2026-07-03"
+}

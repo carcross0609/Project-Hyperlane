@@ -1,0 +1,61 @@
+{
+  "name": "CloakShape fighter",
+  "wookieepedia_title": "CloakShape fighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CloakShape_fighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CloakShape fighter, or CS fighter, was a space and atmospheric fighter built by Kuat Systems Engineering decades before the Clone Wars, which saw use by a variety of factions throughout the years.",
+  "data": {
+    "name": "CloakShape fighter",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "CloakShape fighter",
+    "type": "Starfighter",
+    "cost": [
+      "60,000 credits (new)",
+      "15,000 credits (used)"
+    ],
+    "modifier": "Curich Engineering",
+    "sysmods": [
+      "Maneuvering Fin",
+      "Hyperdrive sled"
+    ],
+    "length": "15 meters",
+    "max_accel": [
+      "3,200 G",
+      "20 MGLT/s"
+    ],
+    "mglt": "93 MGLT",
+    "max_speed": "950 km/h",
+    "maneuverability": "72 DPF",
+    "engine": "807b/9 ion drive (2)",
+    "hyperdrive": "Class: 3.0",
+    "hdsystem": [
+      "Stock: None",
+      "  Hyperdrive sled or hyperdrive ring",
+      "Equipped (usual modification)"
+    ],
+    "shield_gen": [
+      "Stock: None",
+      "Equipped (usual modification)",
+      "  Rated 96 SBD"
+    ],
+    "hull": "Rated 28 RU",
+    "navigation": [
+      "Stock: None",
+      "Astromech droid (1) (usual modification)"
+    ],
+    "armament": [
+      "Laser cannons (2)",
+      "Concussion missile launchers (2)",
+      "  Medium concussion missiles (16)",
+      "Proton torpedo launchers (usual modification)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "40 kilograms",
+    "consumables": "1 day",
+    "availability": "Restricted",
+    "role": "Stock multipurpose starfighter"
+  },
+  "scraped": "2026-07-03"
+}

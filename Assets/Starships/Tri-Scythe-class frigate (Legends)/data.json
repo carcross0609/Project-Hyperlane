@@ -1,0 +1,47 @@
+{
+  "name": "Tri-Scythe-class frigate",
+  "wookieepedia_title": "Tri-Scythe-class frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tri-Scythe-class_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Tri-Scythe-class frigate was a variant of the Scythe-class main battle cruiser.",
+  "data": {
+    "name": "Tri-Scythe-class frigate",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Scythe-class main battle cruiser",
+    "model": "Tri-Scythe-class frigate",
+    "type": [
+      "Frigate",
+      "Capital ship"
+    ],
+    "cost": "Not available for sale",
+    "hyperdrive": "Class 1 (backup Class 10)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Turbolaser batteries (10)",
+      "Point-defense laser cannon batteries (2)",
+      "Tractor beam battery (1)",
+      "Proton torpedo batteries (4)",
+      "  Payload (160)"
+    ],
+    "complement": [
+      "CF9 Crossfire starfighters (12)",
+      "Shuttles (2)"
+    ],
+    "crew": "1,400",
+    "passengers": "250 troops",
+    "capacity": "7,000 tons",
+    "consumables": "2 years",
+    "availability": "Military",
+    "role": "Frigate",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

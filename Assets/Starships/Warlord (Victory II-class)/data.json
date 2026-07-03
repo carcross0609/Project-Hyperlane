@@ -1,0 +1,40 @@
+{
+  "name": "Warlord",
+  "wookieepedia_title": "Warlord (Victory II-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Warlord_%28Victory_II-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Warlord was a Victory II-class Star Destroyer in service in the Imperial Navy during the Galactic Civil War.",
+  "data": {
+    "name": "Warlord",
+    "manufacturer": "Rendili StarDrive",
+    "line": "Victory-class Star Destroyer",
+    "model": "Victory II-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "900 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Backup hyperdrive"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "20 turbolaser batteries",
+      "20 double turbolaser cannons",
+      "10 ion cannons",
+      "10 tractor beam projectors"
+    ],
+    "complement": [
+      "Standard fighter wing",
+      "48 TIE/LN starfighters",
+      "12 TIE/IN interceptors",
+      "12 TIE/sa bombers"
+    ],
+    "crew": "6,100",
+    "passengers": "1,550 soldiers",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

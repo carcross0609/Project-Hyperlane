@@ -1,0 +1,40 @@
+{
+  "name": "Dauntless",
+  "wookieepedia_title": "Dauntless (Imperial I-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dauntless_%28Imperial_I-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dauntless was an Imperial I-class Star Destroyer that was in service of the Galactic Empire. The Star Destroyer was stationed above Jedha City in 1 BBY after Imperial Intelligence claimed a single destroyer would shut down any resistance to the Empire's kyber crystal mining operation on Jedha. Despite the deployment of the ship's considerable resources, including TIE fighter escorts for Imperial cargo shuttles ferrying kyber crystals to and from the city, Rebel attacks on Imperial forces continued, led by the rogue Saw Gerrera and his partisans.",
+  "data": {
+    "name": "Dauntless",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hyperdrive": "Class 2",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "target": "Tractor beam targeting array (pre-upgrade)",
+    "armament": [
+      "Taim & Bak XX-9 heavy turbolaser batteries (60)",
+      "Borstel NK-7 ion cannons (60)",
+      "Dual heavy turbolaser turrets (6)",
+      "Dual heavy ion cannon turrets (2)",
+      "Quad heavy turbolasers (2)",
+      "Triple medium turbolasers (3)",
+      "Medium turbolasers (2)",
+      "Phylon Q7 tractor beam projectors (10)"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

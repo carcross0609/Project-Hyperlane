@@ -1,0 +1,26 @@
+{
+  "name": "Emissary-class Republic Cruiser",
+  "wookieepedia_title": "Emissary-class Republic Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Emissary-class_Republic_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Emissary-class Republic Cruiser was a class of heavy cruiser used by the Galactic Republic and its Republic Defense Coalition during the High Republic Era. Being constructed in an era of peace, Emissary-class starships resembled works of art, covered with crenellations and spires, having been designed to be symbolic of the Republic. One such cruiser, the Third Horizon, was sent to the Hetzal system during the Great Hyperspace Disaster to assist in saving the system from the hyperspace debris threatening it.",
+  "data": {
+    "name": "Emissary-class Republic Cruiser",
+    "type": "Heavy cruiser",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "Laser batteries",
+    "complement": [
+      "53 Jedi Vectors",
+      "28 Longbeam cruisers"
+    ],
+    "bays": "Several",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

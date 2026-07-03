@@ -1,0 +1,11 @@
+# DS
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [DS](https://starwars.fandom.com/wiki/DS)
+
+DS was the designation given to a group of two CR90 corvettes used by the Rebel Alliance during the Galactic Civil War. They participated in the diplomatic meeting between the Sullustans and the Alliance to Restore the Republic near Sullust during Operation Strike Fear, carrying part of the Alliance delegation. The meeting was interrupted by the arrival of the Imperial-class Star Destroyer Invincible. Hamo Blastwell and Keyan Farlander, flying R-22 Spearheads, held off the Imperial fighters until the meeting was concluded and all ships fled into hyperspace.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

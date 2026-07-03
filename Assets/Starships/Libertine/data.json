@@ -1,0 +1,30 @@
+{
+  "name": "Libertine",
+  "wookieepedia_title": "Libertine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Libertine",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Libertine, christened by its first owner as the Steadfast, was a Star Yacht that Finn, Rose Tico, BB-8 and DJ used to escape from Canto Bight. Its previous owner was Korfé Bennux-Ai, a manager of the Sienar-Jaemus corporation who sold weapons to independent worlds during the war between the First Order and the Resistance.",
+  "data": {
+    "name": "Libertine",
+    "manufacturer": "Guild d'Lanseaux",
+    "model": "Custom Star Yacht",
+    "type": "Transport",
+    "length": "52.92 meters",
+    "width": "26.13 meters",
+    "height": "7.03 meters",
+    "engine": "d'Lanseaux engines",
+    "hyperdrive": "Equipped",
+    "countermeasures": "Anti-theft defenses",
+    "crew": "2 (pilot, co-pilot)",
+    "passengers": "14",
+    "commission": "66 BBY",
+    "owners": [
+      "Valis of Kuhlvult",
+      "Korfé Bennux-Ai",
+      "DJ"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

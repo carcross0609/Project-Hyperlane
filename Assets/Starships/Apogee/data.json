@@ -1,0 +1,24 @@
+{
+  "name": "Apogee",
+  "wookieepedia_title": "Apogee",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Apogee",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Apogee was a light cruiser in service to the Chiss Ascendancy's Xodlak family, serving as part of their planetary defense fleet, though it was stationed in orbit as a defense platform. The Apogee was activated when the Xodlak family declared an emergency, allowing it to use its private military forces and call its family members from across the Chiss Expansionary Defense Fleet to serve on its starships, which would be used to \"colonize\" a Nyix mine owned by the Agbui. The Apogee joined the frigate Midsummer, the flagship of Task Force Xodlak under the command of Senior Captain Irizi'in'daro.",
+  "data": {
+    "name": "Apogee",
+    "type": "Light cruiser",
+    "affiliation": [
+      "Chiss Ascendancy",
+      "  Xodlak family"
+    ],
+    "navy": "Xodlak fleet",
+    "fleet": "Task Force Xodlak",
+    "captains": [
+      "A Chiss captain",
+      "A Chiss first officer"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

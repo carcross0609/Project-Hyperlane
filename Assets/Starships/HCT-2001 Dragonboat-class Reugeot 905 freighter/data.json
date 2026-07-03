@@ -1,0 +1,33 @@
+{
+  "name": "HCT-2001 Dragonboat-class Reugeot 905 freighter",
+  "wookieepedia_title": "HCT-2001 Dragonboat-class Reugeot 905 freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HCT-2001_Dragonboat-class_Reugeot_905_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The HCT-2001 Dragon-class Reugeot 905 freighter, also known as the Trandoshan prisoner ship, also known as the Trandoshan transport, or Trandoshan slave ship, was a model of freighter which was well-suited to transporting captive beings. Garnac's hunting guild used one of these ships to ferry prisoners intended to be hunted as prey on the moon Wasskah. The HCT-2001 was also later used by pirate gangs, including that of the Syvik Delegation.",
+  "data": {
+    "name": "HCT-2001 Dragonboat-class Reugeot 905 freighter",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "HCT-2001 Dragonboat-class Reugeot 905",
+    "type": "Bulk freighter",
+    "length": "95.28 meters",
+    "engine": "2",
+    "hdsystem": "Equipped",
+    "armament": "Chin gun turret (1)",
+    "crew": [
+      "2 pilots",
+      "1 gunner"
+    ],
+    "passengers": "At least 12 prisoners",
+    "cargohandling": "7 cargo modules attached",
+    "role": [
+      "Transport",
+      "Slave ship"
+    ],
+    "affiliation": [
+      "Garnac's hunting guild",
+      "Syvik Delegation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Gauntlet starfighter",
+  "wookieepedia_title": "Gauntlet starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gauntlet_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Gauntlet starfighter was manufactured by Shobquix Yards.",
+  "data": {
+    "name": "Gauntlet starfighter",
+    "manufacturer": "Shobquix Yards",
+    "type": "Starfighter",
+    "cost": [
+      "165,000 credits (new)",
+      "85,000 credits (used)"
+    ],
+    "length": "14 meters",
+    "max_speed": "850 kmh",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "Two laser cannons (front)",
+      "Two laser cannons (turret)",
+      "Proton torpedoes"
+    ],
+    "crew": "1 pilot, 1 gunner",
+    "capacity": "85 kilograms",
+    "consumables": "2 days",
+    "role": "Assault starfighter",
+    "affiliation": [
+      "Black Sun",
+      "Tenloss Syndicate",
+      "Rebel Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

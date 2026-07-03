@@ -1,0 +1,23 @@
+{
+  "name": "Freedom Fighter",
+  "wookieepedia_title": "Freedom Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Freedom_Fighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Freedom Fighter was a GR-75 medium transport that served in the Alliance Fleet of the Alliance to Restore the Republic. Following the Battle of Yavin, the Freedom Fighter was one of multiple transports that evacuated Alliance personnel on the surface. When the Galactic Empire launched an attack on the rebel base, the last Alliance personnel escaped on the Freedom Fighter and several other accompanying starships.",
+  "data": {
+    "name": "Freedom Fighter",
+    "line": "GR-series",
+    "model": "GR-75 medium transport",
+    "type": "Transport",
+    "complement": "T-47 airspeeders",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "captains": "Darpik"
+  },
+  "scraped": "2026-07-03"
+}

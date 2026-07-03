@@ -1,0 +1,29 @@
+{
+  "name": "Super Transport XI",
+  "wookieepedia_title": "Super Transport XI",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Super_Transport_XI",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Super Transport XI was a colossal container ship built by Kuat Drive Yards.",
+  "data": {
+    "name": "Super Transport XI",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Container ship",
+    "cost": [
+      "35 million credits (new)",
+      "17 million credits (used)"
+    ],
+    "length": "840 meters",
+    "hyperdrive": [
+      "Class 3",
+      "Class 20 (backup)"
+    ],
+    "crew": "100",
+    "skeleton": "50",
+    "capacity": "25 million metric tons",
+    "consumables": "500 days",
+    "role": "Super container",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

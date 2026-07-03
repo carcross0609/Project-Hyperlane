@@ -1,0 +1,30 @@
+{
+  "name": "XS stock light freighter",
+  "wookieepedia_title": "XS stock light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/XS_stock_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The XS stock light freighter, known simply as the XS freighter, was a type of starship manufactured by Corellian Engineering Corporation. Armed with two pairs of laser cannons, XS stock light freighters were used for a variety of purposes, including smuggling and deploying soldiers. Despite becoming outdated, XS freighters saw continued use through the Clone Wars and Imperial Era. One of these ships was used by the Onderon rebels, and another was used by smugglers on the planet Tatooine.",
+  "data": {
+    "name": "XS stock light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "XS stock light freighter",
+    "type": "Light freighter",
+    "engine": "2",
+    "hull": "Heavily armored aft",
+    "armament": [
+      "Dorsal laser cannons (2)",
+      "Port-side laser cannons (2)"
+    ],
+    "passengers": "At least 2",
+    "role": [
+      "Deploying soldiers",
+      "Smuggling"
+    ],
+    "affiliation": [
+      "Onderon rebels",
+      "Spice Runners of Kijimi"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

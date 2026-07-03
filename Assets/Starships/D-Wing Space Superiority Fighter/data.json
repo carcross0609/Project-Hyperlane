@@ -1,0 +1,34 @@
+{
+  "name": "D-Wing Space Superiority Fighter",
+  "wookieepedia_title": "D-Wing Space Superiority Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/D-Wing_Space_Superiority_Fighter",
+  "continuity": "Unknown",
+  "infobox_template": "StarshipClass",
+  "description": "The D-Wing Space Superiority Fighter, nicknamed Phoenix, was designed by Elhon Tay of Tay Industries to be a break from the traditional design of most Imperial starfighters due to the fact that many in the Empire had found flaws with the standard TIE/LN starfighters.",
+  "data": {
+    "name": "D-Wing Space Superiority Fighter",
+    "manufacturer": "Tay Industries",
+    "model": "D-Wing Space Superiority Fighter",
+    "type": "Starfighter",
+    "length": "19 meters",
+    "hyperdrive": [
+      "Class 2 (limited to 10 jumps)"
+    ],
+    "armament": [
+      "Firelinked Laser cannons (2)",
+      ":Fire Arc: Front",
+      "Bi-Cannon (1)",
+      ":Fire Arc: Rear",
+      "Concussion missiles",
+      ":Fire Arc: Front"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Rear gunner (1)"
+    ],
+    "skeleton": "Pilot (1)",
+    "passengers": "1, if no rear gunner",
+    "role": "Starfighter"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,10 @@
+# Chryya-class very fast courier
+
+**Continuity:** Legends  
+**Source:** [Chryya-class very fast courier](https://starwars.fandom.com/wiki/Chryya-class_very_fast_courier)
+
+The Chryya-class very fast courier was a type of heavy starfighter built by Hoersch-Kessel Drive, Inc., and used by the Jedi Knights during the Clone Wars. Whereas in this period, HKD were best known for the large capital ships used by the Trade Federation, the Chryya belonged to a design lineage of fast scouts that stretched back to the Delaya-class courier of four thousand years earlier, also embodied by the contemporary Tavya-class armored picket and Seltaya-class fast courier. Like those other ships, the Chryya took its class-name from a planet ending in -a, in this case Chryya, once visited by Darth Maul.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

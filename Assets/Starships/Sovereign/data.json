@@ -1,0 +1,66 @@
+{
+  "name": "Sovereign",
+  "wookieepedia_title": "Sovereign",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sovereign",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sovereign was an Imperial I-class Star Destroyer belonging to the starfleet of the Galactic Empire, and served as Grand Moff Wilhuff Tarkin's flagship for a period of time before the Battle of Yavin.",
+  "data": {
+    "name": "Sovereign",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "width": "900 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hdsystem": "Equipped",
+    "power": [
+      "Solar ionization reactor",
+      "Auxiliary power"
+    ],
+    "shield_gen": "Deflector shield generator domes (2)",
+    "target": "Tractor beam targeting array",
+    "armament": "XX-9 heavy turbolaser batterys",
+    "complement": [
+      "All Terrain Armored Transports",
+      "All Terrain Defense Pods",
+      "K79-S80 Imperial Troop Transports",
+      "Lambda-class T-4a shuttle",
+      "Low Altitude Assault Transport carriers",
+      "Sentinel-class landing craft",
+      "TIE/ln space superiority starfighters",
+      "TIE/ad v1 (1)",
+      "  The Inquisitor's TIE Advanced"
+    ],
+    "bays": [
+      "Hangars (3)",
+      "  Bay 5"
+    ],
+    "crew": [
+      "Imperial officers",
+      "At least 1 IDC ambassador",
+      "At least 1 ISB commander",
+      "Imperial Starfighter Pilots",
+      "Stormtroopers",
+      "R2-series astromech droids",
+      "IT-O interrogation droids"
+    ],
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "role": "Flagship",
+    "commission": "By 18 BBY",
+    "destroyed": "4 BBY, Mustafar system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Wilhuff Tarkin",
+    "captains": [
+      "Abel LaSal",
+      "Kassius Konstantine (temporarily)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

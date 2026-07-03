@@ -1,0 +1,30 @@
+{
+  "name": "Krakana's Claw",
+  "wookieepedia_title": "Krakana's Claw",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krakana%27s_Claw",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Krakana's Claw was a modified GAT-12 Skipray Blastboat that was flown by the Mon Calamari bounty hunter Irackant around the time of the Yuuzhan Vong War. The ship was constructed from a stripped-down version of the GAT-12 Skipray Blastboat in order to track down Imperial war criminals. Irackant modified the ship's environmental systems to give it a more moist atmosphere, as well as fitting the ship with a cell, enhancing the starship's automated systems and fitting the Krakana's Claw with a proton torpedo launcher holding 16 heavy torpedoes.",
+  "data": {
+    "name": "Krakana's Claw",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "GAT-12 Skipray Blastboat",
+    "type": "Transport",
+    "cost": "About 367,000 credits",
+    "length": "25 meters",
+    "hyperdrive": "Class 1",
+    "armament": [
+      "2 Fire-linked Assault lasers",
+      "3 Fire-linked Ion cannons",
+      "Proton torpedo launcher"
+    ],
+    "crew": "1 pilot",
+    "passengers": "3 captives",
+    "cargohandling": "20 metric tons",
+    "consumables": "6 months",
+    "role": "Bounty hunter starship",
+    "owners": "Irackant"
+  },
+  "scraped": "2026-07-03"
+}

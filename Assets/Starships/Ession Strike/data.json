@@ -1,0 +1,48 @@
+{
+  "name": "Ession Strike",
+  "wookieepedia_title": "Ession Strike",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ession_Strike",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ession Strike, originally named the Night Caller, was a modified CR90 corvette.",
+  "data": {
+    "name": "Ession Strike",
+    "manufacturer": "CEC (presumed)",
+    "type": "CEC CR90 corvette",
+    "modifier": "Imperial Intelligence or Warlord Zsinj",
+    "sysmods": "One deck removed, large tractor beam",
+    "armament": [
+      "1 Taim & Bak H9 dual turbolaser",
+      "4 Laser cannons on escape pods",
+      "Empion mines"
+    ],
+    "complement": [
+      "2 TIE/LN starfighters fitted to escape pod hatches",
+      "12 X-wings in the cargo bays"
+    ],
+    "role": [
+      "Pocket Carrier",
+      "Fleet Infiltration Unit",
+      "Minelayer"
+    ],
+    "affiliation": [
+      "Imperial Intelligence",
+      "Warlord Zsinj",
+      "New Republic"
+    ],
+    "navy": [
+      "Zsinj's Fleet",
+      "Solo Fleet"
+    ],
+    "owners": [
+      "Zsinj"
+    ],
+    "captains": [
+      "Zurel Darillian",
+      "Choday Hrakness",
+      "Atril Tabanne"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

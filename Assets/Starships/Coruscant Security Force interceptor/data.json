@@ -1,0 +1,26 @@
+{
+  "name": "Coruscant Security Force interceptor",
+  "wookieepedia_title": "Coruscant Security Force interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Coruscant_Security_Force_interceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Coruscant Security Force interceptor was an interceptor utilized by the Coruscant Security Force during the Galactic Republic, Galactic Empire, and New Republic.",
+  "data": {
+    "name": "Coruscant Security Force interceptor",
+    "model": "Security forces interceptor",
+    "type": "Starfighter",
+    "shield_gen": "Military grade",
+    "armament": "Laser cannons",
+    "passengers": "Pilot/Police officer",
+    "availability": "Law enforcement",
+    "role": [
+      "Patrol",
+      "Pursuit",
+      "Arial/space combat"
+    ],
+    "firstuse": "Waning years of the Republic",
+    "retired": "27 ABY (Last known use)",
+    "affiliation": "Coruscant Security Force"
+  },
+  "scraped": "2026-07-03"
+}

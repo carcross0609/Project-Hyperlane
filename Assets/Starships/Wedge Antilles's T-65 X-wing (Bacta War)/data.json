@@ -1,0 +1,39 @@
+{
+  "name": "Wedge Antilles's T-65 X-wing",
+  "wookieepedia_title": "Wedge Antilles's T-65 X-wing (Bacta War)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wedge_Antilles%27s_T-65_X-wing_%28Bacta_War%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Wedge Antilles's T-65 X-wing was a starfighter purchased for the Corellian pilot after he resigned his commission to the New Republic Navy to lead the former members of Rogue Squadron in liberating the planet Thyferra from Ysanne Isard and the Galactic Empire.",
+  "data": {
+    "name": "Wedge Antilles's T-65 X-wing",
+    "manufacturer": "Incom Corporation",
+    "model": "T-65 X-wing starfighter",
+    "type": "Starfighter",
+    "engine": "4L4 fusial thrust engines (4)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "KX9 laser cannons (4)",
+      "Concussion missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "0",
+    "role": "Attack Fighter",
+    "affiliation": [
+      "Antilles's Rogues",
+      "New Republic",
+      "  Rogue Squadron"
+    ],
+    "navy": "New Republic Space Navy",
+    "owners": "Wedge Antilles"
+  },
+  "scraped": "2026-07-03"
+}

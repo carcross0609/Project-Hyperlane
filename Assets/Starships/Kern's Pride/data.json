@@ -1,0 +1,36 @@
+{
+  "name": "Kern's Pride",
+  "wookieepedia_title": "Kern's Pride",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kern%27s_Pride",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Kern's Pride, a modified Corellian Engineering Corporation CR90 corvette, was the flagship of the smuggler Samuel Tomas Gillespee.",
+  "data": {
+    "name": "Kern's Pride",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified CR90 corvette",
+    "type": "Capital ship",
+    "cost": [
+      "New: 3.5 million credits",
+      "Used: 1.5 million credits"
+    ],
+    "length": "150 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup: Class 8.0"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Double turbolaser cannons (6)",
+      "Ion cannons (2)"
+    ],
+    "crew": "145",
+    "passengers": "45",
+    "capacity": "10,000 metric tons",
+    "consumables": "9 months",
+    "affiliation": "Smugglers' Alliance",
+    "owners": "Samuel Tomas Gillespee"
+  },
+  "scraped": "2026-07-03"
+}

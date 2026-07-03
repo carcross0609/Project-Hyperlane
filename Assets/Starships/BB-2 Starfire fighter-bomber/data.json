@@ -1,0 +1,48 @@
+{
+  "name": "BB-2 Starfire fighter-bomber",
+  "wookieepedia_title": "BB-2 Starfire fighter-bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BB-2_Starfire_fighter-bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BB-2 Starfire fighter-bomber was the main bomber of the Galactic Alliance during the Sith–Imperial War and of the Galactic Alliance Remnant during the subsequent Second Imperial Civil War. It was a sleek, multipurpose starfighter made by SoroSuub Corporation that was crewed by three people and armed with multiple warhead launchers, a forward-firing laser cannon, and turrets for self-defense.",
+  "data": {
+    "name": "BB-2 Starfire fighter-bomber",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "BB-2 Starfire fighter-bomber",
+    "type": "Starfighter",
+    "cost": [
+      "200,000 credits (new)",
+      "90,000 credits (used)"
+    ],
+    "max_speed": "1200 km/h",
+    "engine": "Equipped",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannons",
+      "Light laser cannons",
+      "Proton torpedo launcher",
+      "  10 interceptor missiles",
+      "  2 proton torpedo salvos",
+      "  3 ion bombs"
+    ],
+    "crew": "3",
+    "capacity": "90 kilograms",
+    "consumables": "1 week",
+    "lifesupport": "Equipped",
+    "availability": "Military",
+    "role": [
+      "Starfighter",
+      "Bomber"
+    ],
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

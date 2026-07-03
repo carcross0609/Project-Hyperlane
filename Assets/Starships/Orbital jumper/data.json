@@ -1,0 +1,33 @@
+{
+  "name": "Orbital jumper",
+  "wookieepedia_title": "Orbital jumper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orbital_jumper",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The orbital jumper was a light shuttle produced by Poranji. Not hyperspace-capable, orbital jumpers were popular on Core Worlds such as Coruscant for travel in near-planetary space. Vessels of this type were used by high-ranking military and government officers for travel on short notice during the Black Fleet Crisis.",
+  "data": {
+    "name": "Orbital jumper",
+    "manufacturer": "Poranji",
+    "model": "Orbital jumper",
+    "type": "Shuttle",
+    "cost": [
+      "35,000 credits (new)",
+      "20,000 credits (used)"
+    ],
+    "length": "3 meters",
+    "max_speed": "650 km/h",
+    "engine": [
+      "Repulsorlift engines",
+      "Limited ion drive engines"
+    ],
+    "hdsystem": "None",
+    "armament": "None",
+    "crew": "Pilot (1)",
+    "passengers": "3",
+    "capacity": "500 kilograms",
+    "consumables": "1 day",
+    "role": "Ground-to-space transport",
+    "firstuse": "16 ABY"
+  },
+  "scraped": "2026-07-03"
+}

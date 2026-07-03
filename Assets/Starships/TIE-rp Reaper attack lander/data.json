@@ -1,0 +1,59 @@
+{
+  "name": "TIE/rp Reaper attack lander",
+  "wookieepedia_title": "TIE/rp Reaper attack lander",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/rp_Reaper_attack_lander",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/rp Reaper attack lander, also known simply as the TIE Reaper, was a troop carrier variant of Sienar Fleet Systems's TIE fighter series used by the Galactic Empire. The TIE Reaper differed from the standard craft of the TIE line as it was primarily a troop dropship; it was designed for ferrying troops amidst the heat of battle, such as the death troopers during the Battle of Scarif.",
+  "data": {
+    "name": "TIE/rp Reaper attack lander",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE fighter series",
+    "model": "TIE Reaper",
+    "type": [
+      "Dropship",
+      "Troop carrier",
+      "Starfighter"
+    ],
+    "cost": [
+      "140,000 credits (new)",
+      "65,000 credits (used)"
+    ],
+    "length": "24.2 meters",
+    "width": "16.5 meters",
+    "height": "4.7 meters",
+    "max_accel": "Not applicable",
+    "mglt": "90 MGLT",
+    "max_speed": "950 kph",
+    "engine": "Twin ion engines",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "sensor": "Medium range sensors",
+    "target": "T-s9a targeting computer",
+    "navigation": "SFS N-a1 Navcon",
+    "armament": "SFS L-s9.3 laser cannons (2)",
+    "escapepods": "Ejector seats",
+    "crew": [
+      "2",
+      "  Pilot (1)",
+      "  Comms operator (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "10",
+    "consumables": "5 days",
+    "lifesupport": "Equipped",
+    "othersystems": "Solar collectors",
+    "role": [
+      "Troop transport",
+      "Personal starship"
+    ],
+    "firstuse": "By 14 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Starfighter Corps",
+      "  Inquisitorius",
+      "Ranc Gang"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

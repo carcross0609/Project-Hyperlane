@@ -1,0 +1,35 @@
+{
+  "name": "Asteroid Prospector AP-300",
+  "wookieepedia_title": "Asteroid Prospector AP-300",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Asteroid_Prospector_AP-300",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Asteroid Prospector AP-300 was a capital-size asteroid refining starship produced by Kuat Drive Yards. The AP-300 was capable of mining asteroids and refining the metals found in them into high grade ores. The onboard refinery was able to ensure the ore recovered from the asteroids was at least 25% pure. Due to the dangerous environment they worked and their valuable cargo, such ships were equipped with heavy shields, a durable hull, and armament of eight laser cannons and four tractor beams. It was meant for operations involving small to medium-sized asteroid belts. Lant Mining Corporation operated these vessels as part of their mining fleet, including The Pulverizer commanded by Captain Niree.",
+  "data": {
+    "name": "Asteroid Prospector AP-300",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Asteroid mining starship",
+    "cost": [
+      "8,000,000 credits (new)",
+      "6,000,000 credits (used)"
+    ],
+    "length": "350 meters",
+    "hyperdrive": [
+      "Class 3",
+      "  Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "8 laser cannons",
+      "4 tractor beam projectors"
+    ],
+    "crew": "500 (36 gunners)",
+    "skeleton": "300",
+    "passengers": "50",
+    "capacity": "80,000 metric tons",
+    "consumables": "2 years"
+  },
+  "scraped": "2026-07-03"
+}

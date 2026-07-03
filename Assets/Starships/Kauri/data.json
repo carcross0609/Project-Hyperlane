@@ -1,0 +1,25 @@
+{
+  "name": "Kauri",
+  "wookieepedia_title": "Kauri",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kauri",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Kauri was an Agave-class picket ship assigned by the New Republic to assist in the capture of the Teljkon Vagabond. It was attacked and badly damaged.",
+  "data": {
+    "name": "Kauri",
+    "manufacturer": "Republic Engineering Corporation",
+    "line": "New Class Modernization Program",
+    "model": "Agave-class picket ship",
+    "length": "190 meters",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 10"
+    ],
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

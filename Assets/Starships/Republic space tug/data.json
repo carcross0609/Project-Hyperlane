@@ -1,0 +1,22 @@
+{
+  "name": "Republic space tug",
+  "wookieepedia_title": "Republic space tug",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Republic_space_tug",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Republic space tug, or Republic tugboat, was a model of spacetug deployed by the Republic Navy during the Clone Wars. Several tugs were launched following the Carida incident to rescue the astromech droid of Jedi General Anakin Skywalker, R2-D2, from the wreckage of the Venator-class Star Destroyer Renown, which was turned by Separatist Alliance forces into a large bomb.",
+  "data": {
+    "name": "Republic space tug",
+    "type": "Spacetug",
+    "engine": "Sublight engines (8)",
+    "role": [
+      "Rescue",
+      "Salvage"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

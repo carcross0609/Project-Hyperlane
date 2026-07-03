@@ -1,0 +1,34 @@
+{
+  "name": "Baleen-class heavy freighter",
+  "wookieepedia_title": "Baleen-class heavy freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Baleen-class_heavy_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Baleen-class heavy freighter was a bulk freighter model used to move huge amounts of cargo.",
+  "data": {
+    "name": "Baleen-class heavy freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Baleen-class heavy freighter",
+    "type": "Bulk freighter",
+    "length": "425.99 meters",
+    "armament": [
+      "Tractor beam emplacements",
+      "Docking bay doors",
+      "Propulsion module",
+      "Transport grid for Cargo containers"
+    ],
+    "escapepods": "2",
+    "crew": "6",
+    "skeleton": "2",
+    "role": [
+      "Freighter",
+      "Smuggling ship"
+    ],
+    "affiliation": [
+      "Han Solo's shipping company",
+      "Guavian Death Gang",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Tech 4 PDV",
+  "wookieepedia_title": "Tech 4 PDV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tech_4_PDV",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Tech 4 PDV, also known as Plexus Droid Vessels (PDV), were used by Imperial Intelligence courier droids which operated as communications and relay ships.",
+  "data": {
+    "name": "Tech 4 PDV",
+    "manufacturer": "Imperial Intelligence",
+    "type": "Unmanned messenger pod",
+    "cost": "Not available for sale",
+    "length": "9 meters",
+    "hyperdrive": "Class 0.5",
+    "navigation": "Equipped",
+    "crew": [
+      "1 I2-CG (storage/receiving)",
+      "1 I2AM (captain/astrogator)",
+      "Analysis/encoding computer (analysis/encoding/translation)"
+    ],
+    "role": "Courier vessel",
+    "affiliation": "Imperial Intelligence"
+  },
+  "scraped": "2026-07-03"
+}

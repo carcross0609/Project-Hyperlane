@@ -1,0 +1,38 @@
+{
+  "name": "Resistance transport",
+  "wookieepedia_title": "Resistance transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Resistance_transport",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Resistance transport was a model of transport used by the Resistance composed by parts taken from different craft during their conflict against the First Order. One of these vehicles was carrying Leia Organa and her entourage at the end of the Battle of Takodana.",
+  "data": {
+    "name": "Resistance transport",
+    "manufacturer": "Slayn & Korpil",
+    "model": "Customized Resistance transport",
+    "type": "Transport",
+    "width": "16.18 meters (53.08 ft)",
+    "engine": "Tandem engine pods",
+    "hdsystem": "Miniaturised SJFS S/min-12a hyperdrives (2)",
+    "shield_gen": "Deflector shield projectors (2)",
+    "hull": "Durasteel",
+    "sensor": "Sensor suite",
+    "target": "Precision targeting laser (1)",
+    "navigation": "Astromech droid (optional)",
+    "armament": [
+      "Weapons pod:",
+      "  Gyrhil R-9X heavy laser cannon (1) (standard)",
+      "  Ion cannon (1) (optional)",
+      "  Proton torpedo launcher (1) (optional)",
+      "Cockpit:",
+      "  Auto-blasters (2) (optional)"
+    ],
+    "complement": "Resistance transport pod (1)",
+    "crew": "Pilot (1)",
+    "passengers": "20 (2 modular compartments)",
+    "lifesupport": "Equipped",
+    "othersystems": "Boarding ramp",
+    "role": "Troop transport",
+    "affiliation": "Resistance"
+  },
+  "scraped": "2026-07-03"
+}

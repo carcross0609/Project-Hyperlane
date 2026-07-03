@@ -1,0 +1,30 @@
+{
+  "name": "Sparrowhawk",
+  "wookieepedia_title": "Sparrowhawk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sparrowhawk",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sparrowhawk was an aging Kom'rk-class fighter/transport owned by the retired pirate Delphi Kloda. He let his former student Bazine Netal borrow it for her mission to Vashka if she helped train the slicer Orri Tenro. After Kloda betrayed Netal during the mission, Bazine seized it for herself.",
+  "data": {
+    "name": "Sparrowhawk",
+    "line": "Mandalorian starfighter",
+    "model": "Kom'rk-class fighter/transport",
+    "type": "Combat transport",
+    "armament": [
+      "2 forward-facing laser cannons",
+      "2 rear-facing laser cannons"
+    ],
+    "crew": "24",
+    "role": [
+      "Air combat",
+      "Starfighter",
+      "Troop transport"
+    ],
+    "owners": [
+      "Delphi Kloda",
+      "Bazine Netal"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

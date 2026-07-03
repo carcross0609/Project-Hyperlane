@@ -1,0 +1,31 @@
+{
+  "name": "Imperial Cargo Transport 241",
+  "wookieepedia_title": "Imperial Cargo Transport 241",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Cargo_Transport_241",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Imperial Cargo Transport 241 was a cargo ship of the Galactic Empire helmed by a mustachioed captain. At some point during 3 BBY, the transport docked at the Horizon Base. Upon leaving the dock, however, an astromech droid known as Chopper, affiliated with anti-Empire rebels, had embarked as a stowaway on the transport. After incapacitating the captain and jettisoning the Imperial stormtroopers along with the freight assembly, Chopper took control of the transport, with the help of the craft's own inventory droid, AP-5.",
+  "data": {
+    "name": "Imperial Cargo Transport 241",
+    "model": "Class four container transport",
+    "type": "Freighter",
+    "engine": "Sublight engines (3)",
+    "hdsystem": "Equipped",
+    "maincomp": "Equipped",
+    "armament": [
+      "Top-mounted double-barreled turbolaser battery (1)",
+      "Side-mounted laser turrets (2)"
+    ],
+    "capacity": "Up to 126 large containers",
+    "role": "Hauling cargo crates and containers",
+    "destroyed": "3 BBY (parts used to create Chopper Base)",
+    "affiliation": [
+      "Galactic Empire",
+      "Phoenix Cell (stolen)"
+    ],
+    "navy": "Imperial Navy",
+    "captains": "A captain"
+  },
+  "scraped": "2026-07-03"
+}

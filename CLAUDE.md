@@ -5,15 +5,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## What this is
 
 Project Hyperlane — a single-player, living-galaxy sandbox set in the Star Wars
-Republic era, built in **Unreal Engine 5.6 with C++**. Personal, non-commercial
+Republic era, built in **Unreal Engine 5.8 with C++**. Personal, non-commercial
 learning project. The galaxy simulates itself (wars, trade, factions) whether or
 not the player is watching; the player is one agent among many.
 
-**Current status: Phase 0 (Foundation).** Documentation and repo scaffolding
-exist, but the Unreal project itself does **not yet exist** — there is no
-`Hyperlane.uproject`, no `Source/`, no `Content/`, and the git repo has no
-commits. Creating the compiling UE project is the next deliverable (Roadmap
-Phase 0). Until then, most "build/run" instructions below are forward-looking.
+**Current status: Phase 0 (Foundation).** Documentation, repo scaffolding, and
+the hand-authored project skeleton exist: `Hyperlane.uproject`, `Source/` with
+the initial framework classes (TechnicalArchitecture §7), and `Config/`. The
+**first successful compile has not happened yet** — UE 5.8 was still installing
+when the skeleton was written. Remaining Phase 0 deliverables: compile + first
+editor open, Git LFS verified with a first binary asset, and the proven
+edit → compile → hot reload loop.
 
 ## The documentation is the source of truth
 
@@ -29,6 +31,8 @@ them:
 | `Docs/GitWorkflow.md` | Trunk-based flow, LFS, commit format, phase rituals |
 | `Docs/Roadmap.md` | Phase goals, deliverables, exit criteria |
 | `Docs/Vision.md` | What the game is and (importantly) is not |
+| `Docs/Design/SimulationFramework.md` | The simulation GDD — factions, economy, fleets, NPCs; how the galaxy runs itself |
+| `Docs/Design/DecisionRegister.md` | Every design decision (DR-IDs) + open questions (OQ-IDs) — check before re-litigating anything |
 
 When a design or technical decision is contested, resolve it by asking "which
 pillar wins?" (CorePillars are ranked 1–8; lower wins). Document any knowing
@@ -66,7 +70,7 @@ These are the constraints most likely to be violated by code that "just works":
    ("traveling Corellia→Duro, 62%"), promoted to a real Actor only when it needs
    to be seen. Sim LOD: `Active` / `Nearby` / `Abstract`.
 
-## Source layout (once `Source/` exists)
+## Source layout
 
 Single C++ module `Hyperlane` with layer-named folders (a deliberate choice —
 physical module split is deferred until it pays for itself; see
@@ -115,9 +119,9 @@ change; diff self-reviewed like a hostile senior engineer would.
 
 ## Building and running
 
-Once the UE project exists (macOS):
+On macOS:
 
-- Requires **Xcode** (launched once to accept licenses), **Unreal Engine 5.6**
+- Requires **Xcode** (launched once to accept licenses), **Unreal Engine 5.8**
   via the Epic Games Launcher, and **Git LFS** (`brew install git-lfs && git lfs install`).
 - Open `Hyperlane.uproject`; the editor offers to compile C++ on first open.
 - Regenerate IDE project files via right-click `.uproject` → Generate Project

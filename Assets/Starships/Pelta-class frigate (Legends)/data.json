@@ -1,0 +1,48 @@
+{
+  "name": "Pelta-class frigate",
+  "wookieepedia_title": "Pelta-class frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pelta-class_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Pelta-class frigate was a highly modular capital ship used by Galactic Republic personnel as both a medical frigate and cargo frigate during the Clone Wars.",
+  "data": {
+    "name": "Pelta-class frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Pelta-class frigate",
+    "type": [
+      "Multi-purpose",
+      "  Medical frigate",
+      "  Cargo frigate"
+    ],
+    "cost": "Not available for sale",
+    "length": "282.24 meters",
+    "engine": [
+      "Primary (1)",
+      "Auxiliary (2)"
+    ],
+    "hyperdrive": [
+      "Class 2",
+      "Class 16 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Light turbolaser batteries (2)",
+      "Point-defense light laser cannon batteries (3)",
+      "Tractor beam batteries (3)"
+    ],
+    "complement": "None",
+    "escapepods": "At least 8",
+    "crew": "900",
+    "passengers": "300 to 1000",
+    "capacity": "275 tons",
+    "consumables": "1 month",
+    "othersystems": "Autopilot",
+    "availability": "Military",
+    "role": "Hospital ship",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

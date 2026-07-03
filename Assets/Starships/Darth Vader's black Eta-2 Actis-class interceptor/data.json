@@ -1,0 +1,38 @@
+{
+  "name": "Darth Vader's black Eta-2 Actis-class interceptor",
+  "wookieepedia_title": "Darth Vader's black Eta-2 Actis-class interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader%27s_black_Eta-2_Actis-class_interceptor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Several black Eta-2 Actis-class light interceptors served as the personal starfighter of the Sith Lord Darth Vader in the early years of the Galactic Empire's reign.",
+  "data": {
+    "name": "Darth Vader's black Eta-2 Actis-class interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Customized Eta-2 Actis-class light interceptor",
+    "type": "Starfighter",
+    "length": "5.47 meters",
+    "max_accel": "5,200G",
+    "mglt": "118 MGLT",
+    "max_speed": "1,500 kph",
+    "engine": "Twin ion engines (2)",
+    "hyperdrive": "Class 1 (hyperspace transport ring required)",
+    "armament": [
+      "Laser cannons (2)",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1; Darth Vader)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "othersystems": "S-foils",
+    "destroyed": "At least two destroyed in 14 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "Sith"
+    ],
+    "captains": "Darth Vader"
+  },
+  "scraped": "2026-07-03"
+}

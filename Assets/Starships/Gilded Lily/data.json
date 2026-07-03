@@ -1,0 +1,33 @@
+{
+  "name": "Gilded Lily",
+  "wookieepedia_title": "Gilded Lily",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gilded_Lily",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Gilded Lily was a yacht owned by Rollo Morsai. She converted the space yacht into a freighter to earn credits after she was blacklisted from the acting profession.",
+  "data": {
+    "name": "Gilded Lily",
+    "model": "Yacht",
+    "type": "Baudo-class star yacht",
+    "modifier": "Rollo Morsai",
+    "length": "32 meters",
+    "max_speed": "1,200 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 7 (back-up)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 laser cannon",
+    "crew": "1",
+    "passengers": "4",
+    "capacity": "75 metric tons, 30 cubic meters",
+    "consumables": "1 month",
+    "role": "Tramp freighter",
+    "owners": "Rollo Morsai",
+    "captains": "Rollo Morsai"
+  },
+  "scraped": "2026-07-03"
+}

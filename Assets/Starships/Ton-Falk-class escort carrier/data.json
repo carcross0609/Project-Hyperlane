@@ -1,0 +1,59 @@
+{
+  "name": "Ton-Falk-class escort carrier",
+  "wookieepedia_title": "Ton-Falk-class escort carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ton-Falk-class_escort_carrier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ton-Falk-class escort carrier, also known as Imperial escort carrier, was a transport ship designed to carry Imperial starfighters.",
+  "data": {
+    "name": "Ton-Falk-class escort carrier",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Ton-Falk-class escort carrier",
+    "type": "Heavy carrier",
+    "cost": [
+      "Estimated value: 3,500,000 credits",
+      "Likely to be valued at 9,775,000 credits"
+    ],
+    "length": "500 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "13 MGLT",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 8.0 (backup) or 12"
+    ],
+    "shield_gen": "Rated 1600 SBD",
+    "hull": "Rated 912 RU",
+    "sensor": "Long-range sensors",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Point-defense Taim & Bak H8 dual laser cannons (10)",
+      "Krupx Munitions VL-6 warhead launch system",
+      "  60 medium concussion missiles",
+      "Medium tractor beam projectors (4)"
+    ],
+    "complement": [
+      "TIE Series starfighters (72)",
+      "  At least 12 TIE interceptors",
+      "6 shuttles/landing craft",
+      "  Lambda-class",
+      "  Sentinel-class",
+      "  Theta-class",
+      "Utility vehicles"
+    ],
+    "crew": [
+      "Crew (3,485)",
+      "Gunners (20)"
+    ],
+    "skeleton": "1,500",
+    "passengers": "800 pilots and troops",
+    "capacity": "1,500 - 5,000 metric tons",
+    "consumables": "9 months - 1 year",
+    "availability": "Not available for sale",
+    "role": "Heavy starfighter/shuttle carrier",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

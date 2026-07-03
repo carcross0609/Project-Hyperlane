@@ -1,0 +1,32 @@
+{
+  "name": "Lightmaker",
+  "wookieepedia_title": "Lightmaker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lightmaker",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lightmaker, also known by its callsign \"Corvette Five,\" was a Sphyrna-class Hammerhead corvette that served in the Alliance to Restore the Republic's fleet.",
+  "data": {
+    "name": "Lightmaker",
+    "model": "Sphyrna-class Hammerhead corvette",
+    "type": "Corvette",
+    "hyperdrive": "Equipped",
+    "armament": "Dual laser cannons (3)",
+    "escapepods": "Equipped",
+    "skeleton": "1",
+    "destroyed": "1 BBY, Scarif system",
+    "affiliation": [
+      "House of Organa",
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": [
+      "Royal Alderaan Civil Fleet",
+      "Phoenix Cell",
+      "Raddus' task force"
+    ],
+    "captains": "Kado Oquoné"
+  },
+  "scraped": "2026-07-03"
+}

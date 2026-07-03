@@ -1,0 +1,38 @@
+{
+  "name": "D-Squad's shuttle",
+  "wookieepedia_title": "D-Squad's shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/D-Squad%27s_shuttle",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Rho-class transport shuttle was used by the Confederacy of Independent Systems to load rhydonium onto a Venator-class Star Destroyer to destroy the Republic strategy conference taking place on the space station Valor above Carida. It was stolen by D-Squad to escape from Abafar. The squad, upon landing on the Star Destroyer, discovered that the capital ship had been turned into a flying bomb. After the Star Destroyer dropped out of hyperspace in the Carida system, all of the members of D-Squad except R2-D2, and the surviving service droids from the capital ship, escaped its destruction in the shuttle.",
+  "data": {
+    "name": "D-Squad's shuttle",
+    "model": "Rho-class transport shuttle",
+    "type": "Transport shuttle",
+    "engine": "6",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (6)",
+    "complement": "Rhydonium canisters",
+    "crew": "Pilots (2)",
+    "passengers": "Multiple",
+    "cargohandling": "Magnetic clamps",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ],
+    "navy": [
+      "Republic Navy",
+      "Confederacy of Independent Systems Navy"
+    ],
+    "owners": [
+      "Confederacy of Independent Systems",
+      "D-Squad"
+    ],
+    "captains": "Meebur Gascon (Republic control)"
+  },
+  "scraped": "2026-07-03"
+}

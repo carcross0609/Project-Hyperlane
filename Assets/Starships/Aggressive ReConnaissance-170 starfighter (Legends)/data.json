@@ -1,0 +1,59 @@
+{
+  "name": "Aggressive ReConnaissance-170 starfighter",
+  "wookieepedia_title": "Aggressive ReConnaissance-170 starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aggressive_ReConnaissance-170_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Aggressive ReConnaissance-170 starfighter, also known as the ARC-170 starfighter and Advanced Recon fighter, was a heavy starfighter that saw widespread use by the Republic Navy throughout the Clone Wars.",
+  "data": {
+    "name": "Aggressive ReConnaissance-170 starfighter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Subpro Corporation"
+    ],
+    "model": "ARC-170 Aggressive ReConnaissance starfighter",
+    "type": "Starfighter",
+    "cost": [
+      "155,000 credits (new)",
+      "70,000 credits (used)"
+    ],
+    "length": "14.5 meters",
+    "width": "22.6 meters (wingspan)",
+    "height": "4.78 meters",
+    "max_accel": "2,600 G",
+    "mglt": "100",
+    "max_speed": "1,000 km/h to 44,000 km/h (with deflector shields on)",
+    "hyperdrive": "Class 1.5",
+    "hdrange": "5,000 LY",
+    "shield_gen": "5 × 1016 W",
+    "countermeasures": "Sensor jammers",
+    "armament": [
+      "Forward-mounted medium laser cannons (2)",
+      "Rear-mounted laser cannons (2)",
+      "Proton torpedo launcher (1)",
+      "  6 torpedoes",
+      "Concussion missile hardpoints"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunner (1)",
+      "R4-series or R2-series astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "110 kg",
+    "consumables": "5 days",
+    "othersystems": "S-foils",
+    "role": [
+      "Heavy starfighter"
+    ],
+    "firstuse": "c. 22 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Starfighter Corps",
+      "Galactic Empire",
+      "  Starfighter Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

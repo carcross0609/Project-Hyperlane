@@ -1,0 +1,48 @@
+{
+  "name": "Punworcca 116-class interstellar sloop",
+  "wookieepedia_title": "Punworcca 116-class interstellar sloop",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Punworcca_116-class_interstellar_sloop",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Punworcca 116-class interstellar sloop, also known as the Punworcca 116 sloop, was a yacht developed by Huppla Pasa Tisc Shipwrights Collective. It was also known as a Geonosian solar sailer or simply a solar sailer due to Dooku, a Sith Lord, Count of Serenno, and leader of the Confederacy of Independent Systems, being a notable owner of a Punworcca 116-class sloop, that he had modified to include a solar sail.",
+  "data": {
+    "name": "Punworcca 116-class interstellar sloop",
+    "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+    "model": "Punworcca 116-class interstellar sloop",
+    "type": "Star yacht",
+    "cost": "240,000 credits",
+    "length": "15.2 meters",
+    "width": "4.6 meters",
+    "height": "4.8 meters",
+    "max_accel": [
+      "1,000G (with sail)",
+      "30G (with backup repulsors)"
+    ],
+    "mglt": "110 MGLT (Count Dooku's solar sailer)",
+    "max_speed": "1,600 kph",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Short-range sensors",
+    "navigation": "Equipped",
+    "armament": "84 narrow tractor/repulsor beams",
+    "crew": [
+      "1 droid pilot",
+      "Optional living copilot"
+    ],
+    "passengers": [
+      "1 in cabin",
+      "Standing room for 10"
+    ],
+    "capacity": "20 metric tons (encumbrance)",
+    "consumables": "One month",
+    "role": "Transport",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

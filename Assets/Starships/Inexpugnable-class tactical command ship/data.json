@@ -1,0 +1,50 @@
+{
+  "name": "Inexpugnable-class tactical command ship",
+  "wookieepedia_title": "Inexpugnable-class tactical command ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Inexpugnable-class_tactical_command_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Inexpugnable-class tactical command ship was a large warship class used by the Republic Navy during the Mandalorian Wars. Designed and manufactured by Rendili Hyperworks and Rendili/Vanjervalis Drive Yards, the Inexpugnable-class was used as a flagship and command ship. Often described as a mobile space station, at 3,100 meters in diameter it was one of the largest Republic spacecraft of its time. Warships of the class saw combat at a number of battles in the Mandalorian Wars, including the Battle of Serroco. The Inexpugnable-class was renowned for its ability to lead massive Republic fleets, employing advanced command techniques such as the Vanjervalis Chain to command up to sixty-four Hammerhead-class cruisers simultaneously. Despite its usefulness as a fleet flagship, the ship had several weaknesses, and as such, only six Inexpugnable-class ships were manufactured&mdash;one of which, the Courageous, was destroyed in early 3963 BBY, shortly following the Republic's involvement in the Mandalorian Wars. They were replaced as Republic command ships by the Centurion-class battlecruiser before the end of the Mandalorian Wars.",
+  "data": {
+    "name": "Inexpugnable-class tactical command ship",
+    "designer": "Rendili Hyperworks",
+    "manufacturer": "Rendili/Vanjervalis Drive Yards (construction)",
+    "type": "Command ship",
+    "cost": "70,000,000 credits (estimated)",
+    "length": "3,100 meters",
+    "width": "3,100 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Enhanced sensor package",
+    "navigation": "Navigation computer&ndash;equipped",
+    "maincomp": "Vanjervalis Systems main computer",
+    "armament": [
+      "Double turbolaser batteries (5)",
+      "Light turbolaser batteries (5)",
+      "Point-defense light laser cannon batteries (2)",
+      "Tractor beam batteries (2)"
+    ],
+    "complement": [
+      "Aurek-class tactical strikefighter (144)",
+      "S-250 Chela-class starfighters (24)",
+      "Conductor-class short-haul landing craft (24)",
+      "Ministry-class orbital shuttles (6)",
+      "Various support craft"
+    ],
+    "escapepods": "Lifepods equipped",
+    "crew": "4,300",
+    "passengers": "2,000 troops",
+    "capacity": "50,000 metric tons",
+    "consumables": "2 years",
+    "availability": "Restricted to military",
+    "role": [
+      "Command ship",
+      "Starfighter carrier"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

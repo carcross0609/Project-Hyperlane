@@ -1,0 +1,56 @@
+{
+  "name": "B-wing/E starfighter",
+  "wookieepedia_title": "B-wing/E starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/B-wing/E_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The B-wing/E starfighter, or B-wing Expanded, was an upgraded B-wing starfighter with an extended cabin to accommodate a gunner, in addition to a pilot.",
+  "data": {
+    "name": "B-wing/E starfighter",
+    "manufacturer": "Slayn & Korpil",
+    "model": "B-wing/E assault fighter",
+    "type": "Heavy assault starfighter",
+    "cost": "250,000 credits (new)",
+    "modifier": "Gial Ackbar",
+    "length": "16.9 meters",
+    "max_accel": "2,390 G",
+    "mglt": "70 MGLT",
+    "max_speed": "1,000 km/h (higher speeds possible with deflector shields on)",
+    "engine": [
+      "Quadex Kryomaster engine (1)",
+      "or",
+      "Slayn & Korpil JZ-5 Fusial Thrust Engine (Rated 290 KTU) (4)"
+    ],
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "Slayn & Korpil HYd-997 hyperdrive motivator",
+    "power": "Vinop O2 K cryogenic power cells and ionization reactor",
+    "shield_gen": "Sirplex Zr-41 Deflector shield generators (Rated 125 SBD)",
+    "hull": "Reinforced durasteel (Rated 60 RU)",
+    "sensor": "Fabritech ANv-9q Sensor Array with PH-5s Phased Tachyon Detection Array and PK-8f short-range primary threat analysis grid",
+    "target": "Fabritech ANq 3.6 tracking computer with IN-344-B \"Sightline\" imaging system",
+    "navigation": "Microaxial LpM-549 navigation computer",
+    "avionics": "Narmox HG.6w flight control avionics",
+    "armament": [
+      "Standard configuration:",
+      "ArMek SW-7a light ion cannons (3)",
+      "Fire-linked laser cannons (2)",
+      "Krupx Munitions MG9 proton torpedo launchers (B-Wing/E: 1; B-Wing/E2: 2)",
+      "  8 proton torpedoes total",
+      "Removable ammo magazine (B-Wing/E2)",
+      "  Additional 12 proton torpedoes"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "capacity": "50 kilograms",
+    "consumables": "1 week",
+    "role": "Heavy assault starfighter",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Alliance of Free Planets",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

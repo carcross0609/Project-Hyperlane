@@ -1,0 +1,26 @@
+{
+  "name": "Unidentified patrol cruiser",
+  "wookieepedia_title": "Unidentified patrol cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_patrol_cruiser",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A patrol cruiser belonged to the Malarian Alliance.",
+  "data": {
+    "name": "Unidentified patrol cruiser",
+    "type": "Patrol cruiser",
+    "length": "150 meters",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "Laser cannons",
+    "complement": [
+      "1 shuttle",
+      "Escape pods"
+    ],
+    "lifesupport": "Equipped",
+    "othersystems": "Tractor beam",
+    "affiliation": "Malarian Alliance",
+    "captains": "Krempil"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Experimental V-wing",
+  "wookieepedia_title": "Experimental V-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Experimental_V-wing",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Experimental V-wing was an experimental model of the Alpha-3 Nimbus-class V-wing starfighter, which served the Republic Starfighter Corps during the Clone Wars between the Galactic Republic and the Confederacy of Independent Systems. This model was equipped with a compact hyperdrive of limited capacity. A number of these fighters were rumored to belong to an elite crimson-clad pilot brigade that reported directly to Supreme Chancellor Palpatine.",
+  "data": {
+    "name": "Experimental V-wing",
+    "model": "Alpha-3 Nimbus-class V-wing starfighter",
+    "type": "Starfighter",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons",
+    "role": "Escort",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Starfighter Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

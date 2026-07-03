@@ -1,0 +1,27 @@
+{
+  "name": "Ocean",
+  "wookieepedia_title": "Ocean (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ocean_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ocean was a Destroyer employed by the Galactic Alliance during the Second Galactic Civil War.",
+  "data": {
+    "name": "Ocean",
+    "type": "Destroyer",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Well armored",
+    "armament": "Cannons",
+    "complement": "Rogue Squadron",
+    "role": "Fleet flagship",
+    "affiliation": [
+      "Galactic Alliance",
+      "Alliance-in-exile",
+      "Jedi Coalition"
+    ],
+    "navy": "Galactic Alliance Third Fleet",
+    "captains": "Supreme Commander Cha Niathal"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Xanadu Blood",
+  "wookieepedia_title": "Xanadu Blood",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xanadu_Blood",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Xanadu Blood was a modified Rogue-class Porax-38 starfighter owned by the Duros bounty hunter Cad Bane. The Xanadu Blood was given to Cad Bane by Darth Sidious as payment for his theft of a holocron and the kyber memory crystal as well as his usual rate times three. Bane used it during his kidnapping of Wee Dunn from Rodia and Zinn Toa from Glee Anselm, and lost the ship when he was captured. Bane regained custody of his ship and used it to hunt down Ziro the Hutt. At some point, Bane replaced the Xanadu Blood with a new ship, the Justifier.",
+  "data": {
+    "name": "Xanadu Blood",
+    "manufacturer": "Baktoid Armor Workshop",
+    "model": "Modified Rogue-class",
+    "type": "Starfighter",
+    "sysmods": "Altered engine for silent operation",
+    "length": "12.7 meters (41 feet 8 inches)",
+    "mglt": "120 MGLT",
+    "max_speed": "1,200 kph",
+    "hyperdrive": "Class 2",
+    "countermeasures": "Cloaking device",
+    "armament": "Laser cannons (2)",
+    "owners": "Cad Bane"
+  },
+  "scraped": "2026-07-03"
+}

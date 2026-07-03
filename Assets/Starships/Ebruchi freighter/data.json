@@ -1,0 +1,26 @@
+{
+  "name": "Ebruchi freighter",
+  "wookieepedia_title": "Ebruchi freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ebruchi_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ebruchi freighter was a type of attack craft used by the Ebruchi Pirates. The light freighter was often heavily modified with nonstandard weapons welded to the ship's hull. The vessel typically traveled in flotillas consisting of up to a dozen of these ships being led by an Ebruchi command ship.",
+  "data": {
+    "name": "Ebruchi freighter",
+    "type": "Light freighter",
+    "engine": "Gas-drive landing jets",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Torpedo launchers (add-on)",
+      "Net traps (add-on)",
+      "Solid-projectile cannons (add-on)",
+      "Magnetic grapples"
+    ],
+    "role": [
+      "Attack craft",
+      "Planetary base"
+    ],
+    "affiliation": "Unidentified Ebruchi clan"
+  },
+  "scraped": "2026-07-03"
+}

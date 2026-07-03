@@ -1,0 +1,26 @@
+{
+  "name": "Dust Dancer",
+  "wookieepedia_title": "Dust Dancer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dust_Dancer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dust Dancer was a Kuat Drive Yards cargo transport arranged by former smuggler Booster Terrik to be loaned to the Jedi Order. The Jedi Order used it in 44 ABY to transport well-known individuals off the planet Borleias in the Pyria system to Coruscant, capital of the Galactic Alliance. Shuttles attached to the Dust Dancer were then used to take the individuals to the Senate Building on Coruscant.",
+  "data": {
+    "name": "Dust Dancer",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Transport",
+    "length": "80 meters",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "complement": [
+      "2 shuttles",
+      "  DeepRay"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "role": "Transport",
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

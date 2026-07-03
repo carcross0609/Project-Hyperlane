@@ -1,0 +1,36 @@
+{
+  "name": "Slavin's Star Destroyer",
+  "wookieepedia_title": "Slavin's Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Slavin%27s_Star_Destroyer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "An Imperial I-class Star Destroyer was used by Captain Slavin of the Imperial Navy in 1 BBY. Slavin brought the Star Destroyer to the Tonnis sector to rendezvous with Freighter 2716, which was transporting a giant kyber crystal from the Jedha system. The Star Destroyer, along with with the freighter were destroyed when the rebel Saw Gerrera destabilized the crystal in an attempt to stop the Galactic Empire from weaponizing the crystal.",
+  "data": {
+    "name": "Slavin's Star Destroyer",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "sensor": "Equipped",
+    "target": "Tractor beam targeting array",
+    "armament": "Turbolasers",
+    "complement": "At least 2 LAAT/le patrol gunships",
+    "crew": [
+      "Imperial officers",
+      "At least 1 boarding party"
+    ],
+    "communications": "Equipped",
+    "destroyed": "1 BBY, Tonnis sector",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Slavin"
+  },
+  "scraped": "2026-07-03"
+}

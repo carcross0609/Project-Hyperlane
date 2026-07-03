@@ -1,0 +1,33 @@
+{
+  "name": "Daring",
+  "wookieepedia_title": "Daring (Strike-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Daring_%28Strike-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Daring was a Strike-class medium cruiser involved in the Battle of To-phalion Base. It was also a member of task force that arrived late to the battle and rescued Grand Admiral Thrawn.",
+  "data": {
+    "name": "Daring",
+    "manufacturer": "Loronar Corporation",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "1600 SBD",
+    "hull": "768 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

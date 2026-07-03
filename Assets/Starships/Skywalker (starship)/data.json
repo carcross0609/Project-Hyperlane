@@ -1,0 +1,19 @@
+{
+  "name": "Skywalker",
+  "wookieepedia_title": "Skywalker (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skywalker_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Skywalker was the name given to an Acclamator-class assault ship after its capture by the Alliance to Restore the Republic.",
+  "data": {
+    "name": "Skywalker",
+    "model": "Acclamator-class assault ship",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ],
+    "captains": "Commander Luke Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Emerald Empress",
+  "wookieepedia_title": "Emerald Empress",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Emerald_Empress",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Emerald Empress was a Personal Luxury Yacht 3000 owned by the politician Zethe Raskin.",
+  "data": {
+    "name": "Emerald Empress",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "Personal Luxury Yachts",
+    "model": "Personal Luxury Yacht 3000",
+    "type": "Space transport",
+    "cost": [
+      "250,000 credits (new)",
+      "150,000 credits (used)"
+    ],
+    "length": "50 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Backup class 14"
+    ],
+    "crew": "2",
+    "skeleton": "1 pilot",
+    "passengers": "10",
+    "capacity": "100 metric tons",
+    "consumables": "1 month",
+    "othersystems": "Gourmet Master 500",
+    "owners": "Zethe Raskin"
+  },
+  "scraped": "2026-07-03"
+}

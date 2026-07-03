@@ -1,0 +1,30 @@
+{
+  "name": "Modified Strike Cruiser",
+  "wookieepedia_title": "Modified Strike Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Modified_Strike_Cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Modified Strike Cruisers were Loronar Corporation Strike-class medium cruisers modified by the Alliance to Restore the Republic to carry gravity well projectors.",
+  "data": {
+    "name": "Modified Strike Cruiser",
+    "manufacturer": "Loronar Corporation (initially)",
+    "model": "Modified Strike-class medium cruiser",
+    "type": "Cruiser",
+    "modifier": "Alliance to Restore the Republic",
+    "length": "451 meters",
+    "width": "271.91 meters",
+    "height": "103.95 meters",
+    "mglt": "16",
+    "engine": "Sublight engines (2)",
+    "hyperdrive": "Equipped",
+    "shield_gen": "2560 SBD",
+    "hull": "1520 RU",
+    "armament": "Quad laser cannons (2)",
+    "crew": "1,000",
+    "othersystems": "Gravity well projectors (4)",
+    "role": "Interdictor",
+    "firstuse": "3 ABY",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

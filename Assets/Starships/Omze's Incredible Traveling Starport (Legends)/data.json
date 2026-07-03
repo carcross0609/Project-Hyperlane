@@ -1,0 +1,31 @@
+{
+  "name": "Omze's Incredible Traveling Starport",
+  "wookieepedia_title": "Omze's Incredible Traveling Starport/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Omze%27s_Incredible_Traveling_Starport/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Omze's Incredible Traveling Starport, originally named Allanthia, was a Neutron Star-class bulk cruiser.",
+  "data": {
+    "name": "Omze's Incredible Traveling Starport",
+    "manufacturer": "Rendili StarDrive",
+    "type": "Neutron Star-class bulk cruiser",
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "  Backup Class 12"
+    ],
+    "armament": "30 quad laser cannons",
+    "crew": [
+      "1,000",
+      "  30 gunners"
+    ],
+    "skeleton": "600",
+    "passengers": "300",
+    "capacity": "1,000 metric tons",
+    "consumables": "1 year",
+    "role": "Mobile starport",
+    "captains": "Omze'kehr Kahr"
+  },
+  "scraped": "2026-07-03"
+}

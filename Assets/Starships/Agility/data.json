@@ -1,0 +1,25 @@
+{
+  "name": "Agility",
+  "wookieepedia_title": "Agility",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Agility",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Agility was a Tartan-class patrol cruiser that served in the Imperial Navy during the Galactic Civil War.",
+  "data": {
+    "name": "Agility",
+    "manufacturer": "Damorian Manufacturing Corporation",
+    "type": "Tartan-class patrol cruiser",
+    "length": "250 meters",
+    "armament": "Laser cannons (20)",
+    "crew": "70",
+    "passengers": "50",
+    "capacity": "1,000 Tons",
+    "role": [
+      "Anti-Starfighter Corvette",
+      "Patrol"
+    ],
+    "affiliation": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

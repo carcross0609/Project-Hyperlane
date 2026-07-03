@@ -1,0 +1,55 @@
+{
+  "name": "Naritus",
+  "wookieepedia_title": "Naritus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Naritus",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Naritus was an aging MC80a Star Cruiser in the New Republic Defense Fleet that served in the Outer Rim Territories as a pirate hunter.",
+  "data": {
+    "name": "Naritus",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC80a Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,200 meters",
+    "hyperdrive": "Equipped",
+    "hdsystem": [
+      "Class 1.0",
+      "Class 8.0 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "Turbolaser batteries (48)",
+      "  12 fore",
+      "  12 port",
+      "  12 starboard",
+      "  12 aft",
+      "Ion batteries (20)",
+      "  8 fore",
+      "  4 port",
+      "  4 starboard",
+      "  4 aft",
+      "Tractor beam projectors (6)",
+      "  4 fore",
+      "  1 port",
+      "  1 starboard"
+    ],
+    "crew": [
+      "5,156",
+      "256 gunners"
+    ],
+    "skeleton": "1,230",
+    "passengers": "1,200 troops",
+    "capacity": "20,000 metric tons",
+    "consumables": "2 years",
+    "role": [
+      "Rescue craft",
+      "Flight coordination control"
+    ],
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "captains": "Captain Genkal"
+  },
+  "scraped": "2026-07-03"
+}

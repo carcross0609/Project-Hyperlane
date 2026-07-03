@@ -1,0 +1,29 @@
+{
+  "name": "Iso-One",
+  "wookieepedia_title": "Iso-One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iso-One",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Iso-One was the wreck of a BFF-1 bulk freighter owned by the Twi'lek Reom, the president of IsoTech, and was his secret headquarters after the loss of his previous base on Raxus Prime.",
+  "data": {
+    "name": "Iso-One",
+    "manufacturer": "Phylon Freight",
+    "model": "BFF-1 bulk freighter",
+    "type": "Armed freighter",
+    "cost": "150,000 credits",
+    "hyperdrive": [
+      "Class 3",
+      "Backup class 12"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannons (4)",
+    "crew": "50",
+    "passengers": "25",
+    "capacity": "1,000 metric tons",
+    "role": "Freighter",
+    "owners": "Reom"
+  },
+  "scraped": "2026-07-03"
+}

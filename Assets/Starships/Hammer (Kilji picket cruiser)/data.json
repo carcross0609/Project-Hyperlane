@@ -1,0 +1,29 @@
+{
+  "name": "Hammer",
+  "wookieepedia_title": "Hammer (Kilji picket cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hammer_%28Kilji_picket_cruiser%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hammer was a Kilji picket cruiser commanded by Colonel Tildnis, who served the Kilji Illumine, the nation of the Kilji species. It was armed with spectrum lasers and equipped with a main drive, a hyperdrive, and a tractor beam. The picket cruiser was one of the two Kilji cruisers in Illumine General Crofyp's task force, the other being Crofyp's Kilji war cruiser Anvil, which was longer than the Hammer.",
+  "data": {
+    "name": "Hammer",
+    "model": "Kilji picket cruiser",
+    "type": "Picket cruiser",
+    "engine": "A main drive",
+    "hyperdrive": "Equipped",
+    "armament": "Spectrum lasers",
+    "bays": "A docking port",
+    "crew": "12 Kiljis",
+    "othersystems": "Tractor beam",
+    "destroyed": "In 18 BBY, \"Sunrise\" system",
+    "affiliation": "Kilji Illumine",
+    "fleet": "Crofyp's task force",
+    "captains": "Colonel Tildnis",
+    "aliases": [
+      "\"Bogey Two\"",
+      "\"Cruiser Two\""
+    ]
+  },
+  "scraped": "2026-07-03"
+}

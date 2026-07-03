@@ -1,0 +1,34 @@
+{
+  "name": "One in a Million",
+  "wookieepedia_title": "One in a Million",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/One_in_a_Million",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The One in a Million was a Personal Luxury Yacht 3000 owned by the collector Oolak Goyl.",
+  "data": {
+    "name": "One in a Million",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "Personal Luxury Yachts",
+    "model": "Personal Luxury Yacht 3000",
+    "type": "Space transport",
+    "cost": [
+      "250,000 credits (new)",
+      "150,000 credits (used)"
+    ],
+    "length": "50 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Backup class 14"
+    ],
+    "crew": "2",
+    "skeleton": "1 pilot",
+    "passengers": "10",
+    "capacity": "100 metric tons",
+    "consumables": "1 month",
+    "othersystems": "Gourmet Master 500",
+    "owners": "Oolak Goyl"
+  },
+  "scraped": "2026-07-03"
+}

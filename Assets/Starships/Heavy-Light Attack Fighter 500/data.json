@@ -1,0 +1,36 @@
+{
+  "name": "Heavy/Light Attack Fighter 500",
+  "wookieepedia_title": "Heavy/Light Attack Fighter 500",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Heavy/Light_Attack_Fighter_500",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Heavy/Light Attack Fighter 500, commonly known as the HLAF-500 starfighter,was a modified version of Corellian Engineering Corporation's earlier LAF-250 patrol fighter, which the Corellian Defense Force demanded to compensate for the combat weakness of the original design.",
+  "data": {
+    "name": "Heavy/Light Attack Fighter 500",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Starfighter",
+    "cost": [
+      "70,000 credits",
+      "40,000 credits (used)"
+    ],
+    "length": "12 meters",
+    "max_speed": "1,300 kmh",
+    "engine": "9X2 fusial thrust engines",
+    "hyperdrive": "Class 2.0",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 light laser cannons",
+      "2 proton torpedo launchers"
+    ],
+    "crew": "1",
+    "capacity": "65 kilograms",
+    "consumables": "2 days",
+    "role": "Multi-purpose starfighter",
+    "affiliation": [
+      "Corellian Defense Force",
+      "Sacorrian Triad"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

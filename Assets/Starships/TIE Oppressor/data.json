@@ -1,0 +1,37 @@
+{
+  "name": "TIE Oppressor",
+  "wookieepedia_title": "TIE Oppressor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_Oppressor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE Oppressor, officially known as the Sienar Fleet Systems TIE Oppressor Strike Fighter, was a variant of the TIE Series of starfighters that was deployed in limited numbers among selected units of the Imperial Navy's starfighter cadre. The craft was introduced into combat shortly after the Battle of Yavin.",
+  "data": {
+    "name": "TIE Oppressor",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "TIE Oppressor",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "max_speed": "1,450 km/h",
+    "hyperdrive": "None",
+    "armament": [
+      "SFS L-s9.3 laser cannons (2)",
+      "Missile launchers (2)",
+      "2 projectile mounts"
+    ],
+    "crew": "Pilot (1)",
+    "capacity": "50 kilograms",
+    "consumables": "2 days",
+    "othersystems": "Flight Computer (upgradeable)",
+    "availability": "Military",
+    "role": [
+      "Heavy starfighter",
+      "Light bomber",
+      "Anti-starfighter",
+      "Assault starfighter",
+      "Space superiority fighter"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

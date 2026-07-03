@@ -1,0 +1,24 @@
+{
+  "name": "Kilji picket cruiser",
+  "wookieepedia_title": "Kilji picket cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kilji_picket_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Kilji picket cruiser was a type of picket cruiser used by the Kilji Illumine, the nation of the Kilji species. The cruisers were shorter than Kilji war cruisers and used in ship-to-ship naval warfare. The Hammer, a Kilji picket cruiser commanded by Illumine Colonel Tildnis, was one of the two cruisers of Illumine General Crofyp's task force, the other being Crofyp's war cruiser Anvil.",
+  "data": {
+    "name": "Kilji picket cruiser",
+    "model": "Kilji picket cruiser",
+    "type": "Picket cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "armament": "Spectrum lasers",
+    "bays": "A docking port",
+    "othersystems": "Tractor beam",
+    "role": "Ship-to-ship naval warfare",
+    "affiliation": [
+      "Kilji Illumine",
+      "  Crofyp's task force"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

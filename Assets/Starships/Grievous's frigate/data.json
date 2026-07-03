@@ -1,0 +1,52 @@
+{
+  "name": "Grievous's frigate",
+  "wookieepedia_title": "Grievous's frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grievous%27s_frigate",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Grievous's frigate was a Munificent-class star frigate used as the personal flagship of General Grievous in the Confederacy of Independent Systems' naval forces during the Clone Wars between the Confederacy and Galactic Republic. In 22 BBY, when the heavy cruiser Malevolence was lost under his command, Grievous was forced to post his command aboard numerous disposable frigates, using one in a number of engagements and claiming several victories with it. With five other frigates accompanying his own, the general targeted the strategic world Bothawui after capturing the planet Falleen.",
+  "data": {
+    "name": "Grievous's frigate",
+    "model": "Munificent-class star frigate",
+    "type": "Frigate",
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "engine": "Ion drive thrusters (7)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "High-performance sensor antennas",
+    "armament": [
+      "2 heavy turbolaser cannons",
+      "2 heavy ion cannons",
+      "34 twin light turbolaser cannons"
+    ],
+    "complement": [
+      "48 Vulture-class droid starfighters (4 squadrons; maximum load)",
+      "Soulless One"
+    ],
+    "bays": [
+      "1 hangar bay",
+      "Docking rings"
+    ],
+    "crew": [
+      "200",
+      "  1 OOM command battle droid",
+      "  B1-series battle droids",
+      "  OOM pilot battle droids"
+    ],
+    "passengers": "150,000 battle droids (maximum load)",
+    "communications": "2 hyperwave supralight transceivers",
+    "othersystems": "Superdense reactant tanks",
+    "role": [
+      "Flagship",
+      "Warship"
+    ],
+    "destroyed": "22 BBY, Fervse'dra asteroid belt",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy",
+    "captains": "Grievous"
+  },
+  "scraped": "2026-07-03"
+}

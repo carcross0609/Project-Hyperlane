@@ -1,0 +1,28 @@
+{
+  "name": "Gymsnor-3 light freighter",
+  "wookieepedia_title": "Gymsnor-3 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gymsnor-3_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Gymsnor-3 light freighter was a long, segmented craft capable of transporting 95 tons of cargo. This light freighter was armed with a turret-mounted laser cannon which gave it better protection against pirate attacks than the old blaster cannons in the Gymsnor-2 light freighter, its precursor. In addition, the ship's entire forward cockpit module could be detached as an escape pod. Unfortunately, the placement of the laser gave it large blind spots which pirates could exploit. CorelliSpace designed this freighter to compete with the YT-series produced by Corellian Engineering Corporation, but these aspirations failed. The Gymsnor-3 was very rare outside Corellian space.",
+  "data": {
+    "name": "Gymsnor-3 light freighter",
+    "manufacturer": "CorelliSpace",
+    "line": "Gymsnor series",
+    "model": "Gymsnor-3 light freighter",
+    "type": "Freighter",
+    "cost": "38,000 credits (19,000 used)",
+    "length": "34.1 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 2",
+    "navigation": "Navicomputer",
+    "armament": "Laser cannon (1)",
+    "crew": "Pilot (1)",
+    "passengers": "4",
+    "capacity": "95 tons",
+    "consumables": "1 month",
+    "availability": "Licensed",
+    "affiliation": "Civilian"
+  },
+  "scraped": "2026-07-03"
+}

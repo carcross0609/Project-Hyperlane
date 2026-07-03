@@ -1,0 +1,39 @@
+{
+  "name": "The Black Butcher",
+  "wookieepedia_title": "The Black Butcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Black_Butcher",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Black Butcher was the personal starship of Vin Feal. Originally a stock Nova-Drive 3-Z light freighter, Feal modified the vessel by adding a starboard dual laser cannon and a top-mounted laser cannon.",
+  "data": {
+    "name": "The Black Butcher",
+    "manufacturer": "Nova-Drive",
+    "model": "3-Z light freighter",
+    "cost": "48,500 credits",
+    "modifier": "Vin Feal",
+    "length": "28 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15"
+    ],
+    "power": "Quadex power core",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Dual laser cannons",
+      "Single laser cannon"
+    ],
+    "escapepods": "1",
+    "crew": "1; 2 gunners",
+    "passengers": "10",
+    "capacity": "150 metric tons",
+    "consumables": "1 month",
+    "role": "Personal transport",
+    "owners": "Vin Feal",
+    "captains": "Vin Feal"
+  },
+  "scraped": "2026-07-03"
+}

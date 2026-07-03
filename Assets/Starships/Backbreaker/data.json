@@ -1,0 +1,35 @@
+{
+  "name": "Backbreaker",
+  "wookieepedia_title": "Backbreaker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Backbreaker",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Backbreaker was an Imperial Lancer-class frigate in service to Warlord Zsinj and part of his third group. It was present, alongside the rest of the group, at the Battle of Levian Two after being called in to reinforce Zsinj's first group in order to ambush General Solo's fleet.",
+  "data": {
+    "name": "Backbreaker",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Lancer-class frigate",
+    "type": "Frigate",
+    "length": "250 meters",
+    "width": "57 meters",
+    "height": "60 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "20",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 15"
+    ],
+    "shield_gen": "576 SBD",
+    "hull": "304 RU",
+    "navigation": "Navigation computer equipped",
+    "armament": "AG-2G quad laser cannons",
+    "role": "Anti-starfighter frigate",
+    "affiliation": "Zsinj's Empire",
+    "fleet": [
+      "Zsinj's Fleet",
+      "  Group Three"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

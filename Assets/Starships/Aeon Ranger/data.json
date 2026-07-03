@@ -1,0 +1,36 @@
+{
+  "name": "Aeon Ranger",
+  "wookieepedia_title": "Aeon Ranger",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aeon_Ranger",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Aeon Ranger was a highly modified YG-4210 transport built by the Corellian Engineering Corporation.",
+  "data": {
+    "name": "Aeon Ranger",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YG-series",
+    "model": "Modified YG-4210",
+    "type": "Light freighter",
+    "length": "26 meters",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "2 light ion cannons",
+      "2 blaster cannons",
+      "Rear-facing heavy concussion missile launcher"
+    ],
+    "crew": "4",
+    "passengers": "12",
+    "capacity": "10 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Scout ship",
+      "Patrol boat",
+      "Space transport"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "YT-1760 small transport",
+  "wookieepedia_title": "YT-1760 small transport/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1760_small_transport/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-1760 was a light transport built by Corellian Engineering Corporation.",
+  "data": {
+    "name": "YT-1760 small transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1760 small transport",
+    "type": "Transport",
+    "cost": [
+      "80,000 credits (new)",
+      "20,000 credits (used)"
+    ],
+    "length": "26.5 meters",
+    "max_speed": "990 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 15"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Not standard equipment, added to most ships as an upgrade",
+    "navigation": "Equipped",
+    "armament": "Laser cannon turrets (2; not standard equipment, but added to most ships)",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "8",
+    "capacity": "10 metric tons",
+    "consumables": "2 months",
+    "role": [
+      "Transport",
+      "Shuttle",
+      "Courier"
+    ],
+    "affiliation": [
+      "Independent traders",
+      "Smugglers",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

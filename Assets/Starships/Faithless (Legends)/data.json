@@ -1,0 +1,34 @@
+{
+  "name": "Faithless",
+  "wookieepedia_title": "Faithless/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Faithless/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Faithless was a YT-2000 light freighter owned and operated by Luca.",
+  "data": {
+    "name": "Faithless",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "type": "YT-2000 light freighter",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "target": "Equipped",
+    "armament": "2 double laser cannons",
+    "complement": "2 speeder bikes",
+    "crew": "1",
+    "passengers": "at least 1",
+    "lifesupport": "Equipped",
+    "destroyed": "3 ABY",
+    "affiliation": [
+      "Rebel Alliance",
+      "Galactic Empire"
+    ],
+    "owners": "Luca",
+    "captains": [
+      "Luca",
+      "Darth Vader"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

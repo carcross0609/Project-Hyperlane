@@ -1,0 +1,51 @@
+{
+  "name": "IG-2000",
+  "wookieepedia_title": "IG-2000/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IG-2000/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The IG-2000 was the starship designed and used by the bounty hunting assassin droid IG-88. It was produced on the foundry world Mechis III.",
+  "data": {
+    "name": "IG-2000",
+    "manufacturer": "Trilon, Inc.",
+    "model": "Modified Aggressor assault fighter",
+    "type": "Starfighter",
+    "cost": "Not for sale (likely valued at 650,000 credits)",
+    "length": "20 meters",
+    "max_accel": "2,500 G",
+    "max_speed": "1,200 km/h",
+    "engine": "KDY Galaxy-15 ion engine (1)",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "Equipped",
+    "power": "Quadex power cores (3)",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Arakyd heavy laser cannons (2)",
+      "Long-range ion cannon (1)",
+      "Tractor beam projectors (2)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "Prisoners (8)",
+    "capacity": "465 kilograms",
+    "consumables": "1 week",
+    "othersystems": [
+      "Magnetic attachment mandibles",
+      "S-foil actuator",
+      "Stasis tube (1)"
+    ],
+    "role": [
+      "Assault fighter",
+      "Bounty hunting vessel"
+    ],
+    "destroyed": "4 ABY",
+    "affiliation": [
+      "IG-88's Droid Army",
+      "Bounty Hunters' Guild",
+      "Zann Consortium"
+    ],
+    "owners": "IG-88"
+  },
+  "scraped": "2026-07-03"
+}

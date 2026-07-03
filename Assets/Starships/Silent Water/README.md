@@ -1,0 +1,11 @@
+# Silent Water
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Silent Water](https://starwars.fandom.com/wiki/Silent_Water)
+
+The Silent Water was a Mon Calamari Star Cruiser of the Rebel Alliance starfleet. The ship was commanded by Adar Tallon and acted as the flagship of his Alliance fleet. It also played a major role in the Battle of Heterkus. Other crew members included communications officer G'hengle and lieutenant Tole Warren.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

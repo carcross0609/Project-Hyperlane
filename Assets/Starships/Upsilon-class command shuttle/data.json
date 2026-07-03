@@ -1,0 +1,43 @@
+{
+  "name": "Upsilon-class command shuttle",
+  "wookieepedia_title": "Upsilon-class command shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Upsilon-class_command_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "An Upsilon-class command shuttle, also referred to simply as an Upsilon-class shuttle or a First Order Command Shuttle, was a multi-purpose transport utilized by the First Order as an armored shuttle for high-class dignitaries and top-ranking military officials. Armed with twin heavy laser cannons and advanced sensor suites, the Upsilon-class shuttle was able to monitor and scan enemy communications to effectively avoid hostile encounters. Inspired by decades of Imperial shuttle design, it mimicked the Lambda-class T-4a shuttle, and was upgraded with powerful technologies resulting from the acquisition of chief scientists following the collapse of the Old Empire.",
+  "data": {
+    "name": "Upsilon-class command shuttle",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "model": "Upsilon-class shuttle",
+    "type": "Shuttle/Transport",
+    "length": "19.1 meters",
+    "width": "13.5 meters",
+    "height": "37.2 meters (with wings extended)",
+    "mglt": "100 MGLT",
+    "max_speed": "950 kph",
+    "engine": "SJFS-SJFS-200a sublight ion engines (2)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators (2)",
+    "hull": "Durasteel",
+    "sensor": "Equipped",
+    "countermeasures": [
+      "Sensor jammer",
+      "Anti-projectile deflection system"
+    ],
+    "armament": "2 SJFS L-s10.2 twin heavy laser cannons",
+    "crew": [
+      "1-5 including",
+      "  Flight officer pilot (1)",
+      "  Copilot (1)"
+    ],
+    "passengers": "10",
+    "communications": [
+      "Subspace communications antenna",
+      "Hyperwave comm scanner"
+    ],
+    "role": "Transport",
+    "affiliation": "First Order"
+  },
+  "scraped": "2026-07-03"
+}

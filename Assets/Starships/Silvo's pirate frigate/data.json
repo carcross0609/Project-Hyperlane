@@ -1,0 +1,36 @@
+{
+  "name": "Silvo's pirate frigate",
+  "wookieepedia_title": "Silvo's pirate frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Silvo%27s_pirate_frigate",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The pirate frigate was operated by Silvo's pirates in the New Republic Era. It was equipped with multiple Turbolaser batteries and a large central hanger that could launch out pirate Snub fighters. The ship was adorned in a black and white color scheme, the livery of the Pirate Nation.",
+  "data": {
+    "name": "Silvo's pirate frigate",
+    "type": "Frigate",
+    "width": "185.42 meters",
+    "height": "237.19 meters",
+    "mglt": "75 mglt",
+    "engine": "Thrusters (7+)",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": "Turbolaser batteries (36)",
+    "complement": "F3-Vara snubfighters\nPirate dropship",
+    "bays": [
+      "Hangar",
+      "Airlocks"
+    ],
+    "crew": "Pirates",
+    "communications": "Holoprojectors",
+    "othersystems": "Docking clamps",
+    "role": "Piracy activity",
+    "destroyed": "c. 9 ABY, At Attin",
+    "affiliation": "Silvo's pirates",
+    "captains": [
+      "Silvo",
+      "Brutus&dagger; (temporarily)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

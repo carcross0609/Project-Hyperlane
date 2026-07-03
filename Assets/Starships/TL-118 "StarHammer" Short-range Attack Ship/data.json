@@ -1,0 +1,32 @@
+{
+  "name": "TL-118 \"StarHammer\" Short-range Attack Ship",
+  "wookieepedia_title": "TL-118 \"StarHammer\" Short-range Attack Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TL-118_%22StarHammer%22_Short-range_Attack_Ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TL-118 \"StarHammer\" Short-range Attack Ship was a heavy assault starfighter manufactured by Subpro Corporation. It was 35 meters long, it carried 1 pilot, 1 gunner, and 1 week's worth of consumables.",
+  "data": {
+    "name": "TL-118 \"StarHammer\" Short-range Attack Ship",
+    "manufacturer": "Subpro Corporation",
+    "type": "Heavy assault starfighter",
+    "cost": "72,000 credits",
+    "length": "35 meters",
+    "max_speed": "300 km/h",
+    "hyperdrive": "Class 3.0",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Heavy laser cannons (2)",
+      "Light laser cannons (2)",
+      "Fire-linked twin laser cannons (2)",
+      "Concussion missile launcher",
+      "Air-to-surface bombs"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "consumables": "1 week",
+    "affiliation": "Various: private and local forces\nIntended Buyer: Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

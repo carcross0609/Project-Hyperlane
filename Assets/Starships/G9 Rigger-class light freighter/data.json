@@ -1,0 +1,38 @@
+{
+  "name": "G9 Rigger-class light freighter",
+  "wookieepedia_title": "G9 Rigger-class light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G9_Rigger-class_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The G9 Rigger-class light freighter, or simply the G9 Rigger freighter was a model of light freighter manufactured by the Corellian Engineering Corporation and used during the Clone Wars. Its only weapons were small blaster cannons attached to the wings and top of the freighter. Jedi General Anakin Skywalker acquired a G9 Rigger, the Twilight, during the Battle of Teth and kept it as a personal project throughout the war, periodically modifying it and making repairs, until its eventual destruction at the hands of the Shadow Collective.",
+  "data": {
+    "name": "G9 Rigger-class light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "G9 Rigger-class light freighter",
+    "type": "Freighter",
+    "length": "34.1 meters",
+    "max_speed": "700 kilometers per hour",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Heavy blaster cannons (3)",
+      "Rotating laser cannon (1)"
+    ],
+    "crew": "2",
+    "role": "Freighter",
+    "affiliation": [
+      "Ziro the Hutt's criminal organization",
+      "Confederacy of Independent Systems",
+      "  4-A7's battle droid platoon",
+      "Galactic Republic",
+      "Hutt Clan",
+      "  Jabba's criminal empire",
+      "Batonn insurgents",
+      "Alliance to Restore the Republic",
+      "  Tatooine rebel cell",
+      "Spice Runners of Kijimi",
+      "Hackjackers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

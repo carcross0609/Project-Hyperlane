@@ -1,0 +1,41 @@
+{
+  "name": "Ferret-class reconnaissance vessel",
+  "wookieepedia_title": "Ferret-class reconnaissance vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ferret-class_reconnaissance_vessel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ferret-class reconnaissance vessel, commonly known as a ferret, was an intelligence-gathering vessel created by Republic Engineering Corporation as part of the New Class Modernization Program.",
+  "data": {
+    "name": "Ferret-class reconnaissance vessel",
+    "manufacturer": "Republic Engineering Corporation",
+    "line": "New Class Modernization Program",
+    "type": [
+      "Drone",
+      "Scout vessel"
+    ],
+    "cost": "890,000 credits",
+    "length": "28 meters",
+    "engine": "Ion drive",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 8 (backup)"
+    ],
+    "shield_gen": "none",
+    "hull": "20 RU",
+    "armament": [
+      "CM-5 missile launchers (2)",
+      "6 concussion missiles"
+    ],
+    "crew": "3 linked droid brains",
+    "passengers": "2 (with modifications)",
+    "capacity": "2 tons",
+    "consumables": "3 months",
+    "othersystems": [
+      "Baffled sublight drive",
+      "Sensor decoys"
+    ],
+    "role": "Reconnaissance",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

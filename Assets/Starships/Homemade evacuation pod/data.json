@@ -1,0 +1,24 @@
+{
+  "name": "Homemade evacuation pod",
+  "wookieepedia_title": "Homemade evacuation pod",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Homemade_evacuation_pod",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Homemade evacuation pods, also called Kashyyyk Pods, were simple vessels constructed by the Uurbahhahvoovv Joiners & Artisans for last-resort evacuation by the Wookiees of Kashyyyk. Capable of propelling a single passengers into interplanetary space, one of these escape pods was utilized by Jedi Grand Master Yoda to flee Kashyyyk after the Clone Wars battle during which Order 66 was executed.",
+  "data": {
+    "name": "Homemade evacuation pod",
+    "manufacturer": "Uurbahhahvoovv Joiners & Artisans",
+    "model": "Homemade evacuation pod",
+    "type": "Escape pod",
+    "width": "2.3 meters (diameter)",
+    "height": "3.4 meters",
+    "max_accel": "140 G",
+    "max_speed": "Over 70,000 km/h (during descent)",
+    "engine": "3 sublight thrusters",
+    "hdsystem": "None",
+    "passengers": "1",
+    "consumables": "1 week",
+    "affiliation": "Wookiees"
+  },
+  "scraped": "2026-07-03"
+}

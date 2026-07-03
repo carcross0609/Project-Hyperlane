@@ -1,0 +1,33 @@
+{
+  "name": "Light Patrol Ship",
+  "wookieepedia_title": "Light Patrol Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Light_Patrol_Ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sienar Fleet Systems Light Patrol Ship was used by the Sector Rangers, the Ringali Shell Security Forces, as well as bounty hunters.",
+  "data": {
+    "name": "Light Patrol Ship",
+    "manufacturer": "Sienar Fleet Systems",
+    "length": "38 meters",
+    "max_speed": "1,050 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "(3) Laser cannon turrets",
+      "(2) Twin laser cannons"
+    ],
+    "crew": "6 (includes 3 gunners)",
+    "passengers": "Prisoners (8)",
+    "capacity": "100 metric tons",
+    "consumables": "1 month",
+    "affiliation": [
+      "Sector Rangers",
+      "Ringali Shell Security Forces",
+      "Bounty hunters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

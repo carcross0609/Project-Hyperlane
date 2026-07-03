@@ -1,0 +1,38 @@
+{
+  "name": "Droch-class boarding ship",
+  "wookieepedia_title": "Droch-class boarding ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Droch-class_boarding_ship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Droch-class boarding ship, also referred to as the Droch dropship, the Separatist boarding ship, droid landing pod, or pod-hunter, was a model of boarding craft manufactured by Colicoid Creation Nest and used by the Confederacy of Independent Systems during the Clone Wars against the Galactic Republic.",
+  "data": {
+    "name": "Droch-class boarding ship",
+    "designer": "Colicoid Creation Nest",
+    "model": "Droch-class boarding ship",
+    "type": "Boarding craft",
+    "cost": "43,000 credits",
+    "length": "18.5 meters",
+    "width": "~9.3 meters",
+    "height": "~9.3 meters",
+    "max_speed": "850 kph",
+    "hdsystem": "None",
+    "sensor": "Close-range sensors",
+    "navigation": "No navigation computer",
+    "armament": "4 twin light laser cannon turrets",
+    "crew": "Pilot (1)",
+    "passengers": "6 battle droids",
+    "consumables": "1 day",
+    "role": [
+      "Boarding craft",
+      "Maintenance checks",
+      "Salvage",
+      "Dropship",
+      "Escape pod"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

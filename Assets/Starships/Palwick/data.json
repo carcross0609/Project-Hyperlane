@@ -1,0 +1,31 @@
+{
+  "name": "Palwick",
+  "wookieepedia_title": "Palwick",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Palwick",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Palwick was a DTE-CSA-17 Calaboose prison ship that operated during the High Republic Era, ferrying a number of prisoners to Coruscant. The meknek Osha Aniseya, incriminated for the murder of Jedi Master Indara by her twin sister Mae, was held aboard the prison transport. While in hyperspace, the other convicts plotted to escape the starship, deactivating the pilot droids and destroying the droid warden, using its arm to open their cells. As the transport dropped out of hyperspace over Carlac, the prisoners fled in an escape pod, leaving Aniseya and another convict behind. When Aniseya attempted to help the other convict, the prisoner ran to the last escape pod and abandoned her. The transport soon crashed onto Carlac, although Aniseya survived, while the other convicts were recaptured by the Jedi Order. Jedi Master Sol, his Padawan Jecki Lon, and the Jedi Knight Yord Fandar investigated the wreckage of the transport, eventually locating Aniseya on Carlac.",
+  "data": {
+    "name": "Palwick",
+    "manufacturer": "Kazellan Corporation",
+    "model": "DTE-CSA-17 Calaboose prison ship",
+    "type": "Long-range prisoner transport vessel",
+    "length": "125.94 meters (413 ft)",
+    "width": "81.65 meters (267 ft 10 in)",
+    "height": "31.65 meters (103 ft 10 in)",
+    "mglt": "75 MGLT",
+    "max_speed": "850 kph (528 mph)",
+    "engine": "K-DT17c sublight engine",
+    "hyperdrive": "Equipped",
+    "escapepods": "At least two",
+    "crew": "Two pilot droids",
+    "role": "Prison transport",
+    "destroyed": "132 BBY, Carlac",
+    "affiliation": [
+      "Galactic Republic",
+      "Corporate Sector Authority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

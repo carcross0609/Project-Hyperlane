@@ -1,0 +1,59 @@
+{
+  "name": "Lambda-class T-4a shuttle",
+  "wookieepedia_title": "Lambda-class T-4a shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lambda-class_T-4a_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Lambda-class T-4a shuttle, also known as the Lambda-class shuttle, Imperial Lambda, Imperial Transport or the Imperial Shuttle, was a multi-purpose transport with a trihedral foil design used by the Galactic Empire, and was considered an elegant departure from the standards of brutish Imperial engineering. The shuttles were often used by dignitaries and high-ranking officers, but were more commonly found ferrying stormtroopers or cargo.",
+  "data": {
+    "name": "Lambda-class T-4a shuttle",
+    "manufacturer": [
+      "Sienar Fleet Systems",
+      "Cygnus Space Workshops"
+    ],
+    "line": "Abecederian line",
+    "model": [
+      "Lambda-class T-4a shuttle",
+      "T-5 Deliverance"
+    ],
+    "type": "Multi-purpose transport",
+    "cost": "140,000 credits",
+    "length": "23.7 meters (77 ft, 9 in)",
+    "width": "32.72 meters (107 ft, 4 in)",
+    "height": "36.21 meters (118 ft, 10 in)",
+    "mglt": "54 MGLT",
+    "max_speed": "850 kph",
+    "engine": "SFS-204 sublight ion engine (2)",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield",
+    "sensor": "Short-ranged sensors",
+    "navigation": "Equipped",
+    "armament": [
+      "Laser cannons (5)",
+      "  Taim & Bak KX5 laser cannons (2)",
+      "  Taim & Bak GA-60s twin rotating blaster cannons (2)",
+      "  ArMek R-Z0 retractable double blaster cannon (1)"
+    ],
+    "escapepods": "Detachable cockpit module",
+    "crew": [
+      "Pilot (1) (required)",
+      "Copilot (1)"
+    ],
+    "passengers": "20",
+    "capacity": "80 metric tons",
+    "consumables": "Two months",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Crimson Dawn (stolen)",
+      "Alliance to Restore the Republic (stolen)",
+      "Imperial Remnants",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}
