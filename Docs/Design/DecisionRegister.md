@@ -67,6 +67,12 @@ and a changelog note, never silently.
 | DR-23 | Art sourcing | **Learn 3D modeling as part of the project** (player choice over placeholder-first rec). *Guardrail:* modeling is a parallel learning track — placeholders remain the in-engine default, and no phase exit criterion may ever depend on custom art | Chosen for the learning mission (Vision success criterion 1). The guardrail keeps a second multi-year curriculum off the critical path |
 | DR-24 | This register | **Lives at `Docs/Design/DecisionRegister.md`**; Bible sections cite DR-IDs | Decisions without a register get re-litigated by accident |
 
+### Later Decisions
+
+| ID | Decision | Choice | Why |
+|---|---|---|---|
+| DR-25 (2026-07-02) | Hidden-actor concealment (closes OQ-8) | **Influence stakes + host-verb bias + evidence records with exposure thresholds** (Bible 02 §5) | Concealment becomes statistical, not authored immunity; the conspiracy is discoverable in principle from tick one (Pillar 2), and the player can be the one who exposes it |
+
 ---
 
 ## Open Questions
@@ -80,10 +86,10 @@ blocks current work; anything that starts to, gets promoted to a decision.
 | OQ-2 | The Phase 2 authored-systems shortlist (10–15 worlds; must include Bible 01 §4.3 chokepoints + one world per allegiance state) | Bible 02–04 will inform; finalize before Phase 2 content |
 | OQ-3 | Commodity roster & production chains v0 | Bible 06 |
 | OQ-4 | Ship class roster + attribute schema | Bible 05 |
-| OQ-5 | Trigger conditions for the CIS/Republic coalition split upgrade (DR-09) | Bible 03 (design the seam now, build later) |
+| OQ-5 | Trigger conditions for the CIS/Republic coalition split upgrade (DR-09) — *sharpened by Bible 02 P7: the CIS cohesion track is the designated splitting number; Bible 03 defines its thresholds* | Bible 03 (design the seam now, build later) |
 | OQ-6 | Ironman successor mechanics (who/where the successor is, what carries over) | Bible 09; save design lands Phase 2 |
 | OQ-7 | Character skills model (capability modifiers, never gates) | Phase 6 planning (logged in SimulationFramework §2.11) |
-| OQ-8 | Sidious-faction concealment mechanics (how a hidden faction acts without the info system leaking it) | Bible 02 §pressures + Bible 03; framework touch expected in §2.10 |
+| ~~OQ-8~~ | **Resolved 2026-07-02 → DR-25.** Hidden-actor concealment designed in Bible 02 §5: influence stakes on other factions' entities, action-through-hosts'-legal-verbs (decision bias, not commands), evidence records with exposure thresholds — discoverable in principle from tick one | Bible 02 §5 |
 
 ---
 
@@ -124,3 +130,5 @@ agenda governs *design* work and the current blockers.)
 *Changelog*
 - 2026-07-02 — v1. Initial register: DR-01…DR-24 from the founding design
   interview; OQ-1…OQ-8; agenda established.
+- 2026-07-02 — v1.1. Bible 02 written: OQ-8 resolved as DR-25; OQ-5
+  sharpened (CIS cohesion track is the splitting number).
