@@ -1,0 +1,27 @@
+{
+  "name": "The Panada's Kiss",
+  "wookieepedia_title": "The Panada's Kiss",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Panada%27s_Kiss",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Panada's Kiss was a modified YT-1760 small transport that was used by the smuggler Gern Zott during the waning years of the Galactic Republic. In about 31 BBY, the Cerean slicer Krol-Pek hired Zott to transport the fugitive Sullustan Salld Nrump from the planet Genarius to the nearby world Cularin, and Zott docked The Panada's Kiss in hangar 12C in the city Varna Biqua on Genarius, to await Nrump's arrival. However, Nrump was assassinated by a group of mercenaries and the Heroes of Cularin, a team of freelance agents that were investigating Nrump's demise, arrived at the hangar bay and negotiated with Zott to be transported to Cularin aboard the Kiss in place of the Sullustan. The mercenaries arrived in the bay shortly afterward and opened fire on The Panada's Kiss, so Zott powered up the starship and fled Genarius, and he subsequently transported the agents to Cularin.",
+  "data": {
+    "name": "The Panada's Kiss",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YT-1760 small transport",
+    "type": "Transport",
+    "length": "20 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15 (backup)"
+    ],
+    "armament": "2 laser cannons",
+    "crew": "1 pilot",
+    "passengers": "8",
+    "capacity": "10 metric tons",
+    "consumables": "2 months",
+    "owners": "Gern Zott"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Surrogator",
+  "wookieepedia_title": "Surrogator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Surrogator",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Surrogator was an Arquitens-class light cruiser of the Galactic Republic that was used by Jedi General Obi-Wan Kenobi during the Battle of Saleucami to lure General Grievous.",
+  "data": {
+    "name": "Surrogator",
+    "model": "Arquitens-class light cruiser",
+    "type": "Light cruiser",
+    "length": "325 meters",
+    "engine": "Engines (3)",
+    "hdsystem": "Equipped",
+    "power": "Reactor",
+    "shield_gen": "Deflector shield",
+    "hull": "Armored hull",
+    "armament": [
+      "Double-barreled turbolaser batteries (4)",
+      "Quad laser turrets (4)",
+      "Concussion missile launchers"
+    ],
+    "role": "Flagship",
+    "destroyed": "21 BBY, over Saleucami",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "owners": "Obi-Wan Kenobi"
+  },
+  "scraped": "2026-07-03"
+}

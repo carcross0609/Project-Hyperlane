@@ -1,0 +1,33 @@
+{
+  "name": "Best Cargo",
+  "wookieepedia_title": "Best Cargo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Best_Cargo",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Best Cargo was a modified light freighter assigned to the some Rebels for a mission to the Graveyard. It was 35 meters long. It could be operated by a single person in a pinch but typically had five crew including one gunner. It carried six passengers, 150 metric tons of cargo, and two months' consumables. It had a class 1 hyperdrive and a class 15 backup. It could fly 750 kmh in atmosphere and had a nav computer. It was equipped with shields and two laser cannon turrets.",
+  "data": {
+    "name": "Best Cargo",
+    "type": "Modified light freighter",
+    "length": "35 meters",
+    "max_speed": "750 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Two laser cannons",
+      "One heavy laser cannon"
+    ],
+    "crew": "4; 1 gunner",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "150 metric tons, 40 cubic meters",
+    "consumables": "2 months",
+    "role": "Personal transport",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

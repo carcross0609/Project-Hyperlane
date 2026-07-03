@@ -1,0 +1,26 @@
+{
+  "name": "Unidentified Turtle Tanker",
+  "wookieepedia_title": "Unidentified Turtle Tanker/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Turtle_Tanker/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "An unidentified Turtle Tanker was owned by a Sakiyan cargo hauler around 21 BBY, during the Clone Wars. Savage Opress used the ship to escape from planet Stobar and get to the planet Lotho Minor in order to rescue his brother Darth Maul and return him to Dathomir. Following this the ship was taken to Raydonia, during which time Obi-Wan Kenobi found a surprising ally in Asajj Ventress when they fought Savage Opress and Darth Maul in a lightsaber duel known as the Skirmish above Raydonia aboard the Turtle Tanker. Obi-Wan and Ventress escaped via the Tanker's escape pod cockpit, after which the ship was piloted by the brothers to Orto Norwe and abandoned.",
+  "data": {
+    "name": "Unidentified Turtle Tanker",
+    "model": "Turtle Tanker",
+    "type": "Transport/Walker hybrid",
+    "length": "38.2 meters",
+    "height": "26.1 meters",
+    "hdsystem": "Equipped",
+    "escapepods": "1",
+    "role": "Cargo freighter",
+    "affiliation": "Nightbrothers",
+    "owners": [
+      "Unidentified Sakiyan cargo hauler",
+      "Savage Opress",
+      "Darth Maul"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

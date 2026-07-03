@@ -1,0 +1,54 @@
+{
+  "name": "Grievous's Munificent-class star frigate",
+  "wookieepedia_title": "Grievous's Munificent-class star frigate (suspected Confederate space)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grievous%27s_Munificent-class_star_frigate_%28suspected_Confederate_space%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "In 22 BBY, a Munificent-class star frigate was used by the Confederate General Grievous. Grievous used the frigate when he was attempting to track Jedi Knight Anakin Skywalker's position in Confederate space.",
+  "data": {
+    "name": "Grievous's Munificent-class star frigate",
+    "manufacturer": [
+      "Hoersch-Kessel Drive, Inc.",
+      "Gwori Revolutionary Industries"
+    ],
+    "model": "Munificent-class star frigate",
+    "type": [
+      "Star frigate",
+      "Capital ship (standard classification)"
+    ],
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "max_accel": "2,300 G",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "hdrange": "150,000 light year effective range",
+    "poweroutput": "Peak: 2,07 × 1023 W",
+    "power": "Hypermatter annihilation reactors (2)",
+    "armament": [
+      "Prow heavy turbolaser cannons (2)",
+      "Long-range heavy ion cannons (2)",
+      "Twin turbolaser cannons (26)",
+      "Light turbolaser turrets (20)",
+      "Point-defense laser cannons (38)",
+      "Flak guns (8)",
+      "Hyperwave jammer (1)"
+    ],
+    "complement": "If configured: Several starfighters",
+    "crew": "200",
+    "passengers": "150,000 deactivated battle droids",
+    "capacity": "40,000 tons",
+    "consumables": "2 years",
+    "role": [
+      "Frigate",
+      "Communications ship"
+    ],
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederate Navy",
+    "captains": "General Grievous"
+  },
+  "scraped": "2026-07-03"
+}

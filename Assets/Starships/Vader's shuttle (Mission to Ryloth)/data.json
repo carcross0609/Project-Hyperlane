@@ -1,0 +1,21 @@
+{
+  "name": "Vader's shuttle",
+  "wookieepedia_title": "Vader's shuttle (Mission to Ryloth)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vader%27s_shuttle_%28Mission_to_Ryloth%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This shuttle was owned by the Sith Lord Darth Vader in 14 BBY. When the Imperial Star Destroyer Perilous fell under attack and was crippled by the Free Ryloth Movement, Darth Vader, with his master, Darth Sidious, used this shuttle to escape. When Isval, a member of the movement, rammed it with her escort craft, the shuttle crashed in Ryloth's equatorial forest. Vader and Sidious survived the crash, but the shuttle was destroyed.",
+  "data": {
+    "name": "Vader's shuttle",
+    "type": "Shuttle",
+    "role": "Shuttle",
+    "destroyed": "14 BBY, Ryloth's equatorial forest",
+    "affiliation": [
+      "Galactic Empire",
+      "Sith"
+    ],
+    "owners": "Darth Vader"
+  },
+  "scraped": "2026-07-03"
+}

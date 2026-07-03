@@ -1,0 +1,45 @@
+{
+  "name": "Kylo Ren's TIE whisper",
+  "wookieepedia_title": "Kylo Ren's TIE whisper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kylo_Ren%27s_TIE_whisper",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Kylo Ren's TIE whisper was a set of two modified TIE/wi interceptors utilized by the First Order's Supreme Leader, Kylo Ren, during the war against the Resistance. He used this ship to confront Rey on Pasaana, where it was destroyed when the Jedi aspirant sliced off one of the wings with her lightsaber, though Ren survived the subsequent crash. After having it replaced with an identical model, Ren flew it to Kef Bir after Rey traveled there to claim the wayfinder. Following a duel between Rey and Ren in the wreckage of the second Death Star, Rey took the TIE Whisper, stranding Ren on the moon while she used it to return to Ahch-To. Planning to exile herself, Rey destroyed the second TIE Whisper by burning it on the shores of Temple island.",
+  "data": {
+    "name": "Kylo Ren's TIE whisper",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE fighter series",
+    "model": "TIE/wi interceptor (modified)",
+    "type": "Starfighter",
+    "length": "15.9 meters",
+    "width": "6.4 meters",
+    "height": "4.1 meters",
+    "mglt": "140 MGLT",
+    "engine": "Twin ion engine (bolstered)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Wing bracket-mounted laser cannons (10) (5 on each wing)",
+      "Heavy weapons turret (anterior)"
+    ],
+    "crew": "Pilot (1)",
+    "othersystems": "Sensor-confusing technology",
+    "role": "Starfighter",
+    "destroyed": [
+      "35 ABY, Pasaana (First)",
+      "35 ABY, Ahch-To (Second)"
+    ],
+    "affiliation": [
+      "First Order",
+      "Knights of Ren",
+      "Jedi Order (stolen)"
+    ],
+    "navy": "First Order Navy",
+    "owners": [
+      "Kylo Ren",
+      "Rey Skywalker (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

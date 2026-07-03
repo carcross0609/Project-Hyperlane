@@ -1,0 +1,37 @@
+{
+  "name": "World Devastator",
+  "wookieepedia_title": "World Devastator (New Republic)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/World_Devastator_%28New_Republic%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This World Devastator was a former Imperial starship used by the New Republic.",
+  "data": {
+    "name": "World Devastator",
+    "designer": "Umak Leth",
+    "manufacturer": "Imperial Department of Military Research",
+    "line": "Superweapon",
+    "model": "World Devastator",
+    "engine": [
+      "Ion drives",
+      "Repulsorlifts"
+    ],
+    "hyperdrive": "Class 6",
+    "othersystems": "Molecular furnace",
+    "role": [
+      "Superweapon",
+      "Automated factory"
+    ],
+    "destroyed": "Sometime after 11 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Dark Empire",
+      "New Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Karvoss Dawn",
+  "wookieepedia_title": "Karvoss Dawn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Karvoss_Dawn",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Karvoss Dawn was a Longbeam cruiser utilized by the Republic Defense Coalition during the High Republic Era. In 231 BBY, the Karvoss Dawn was deployed alongside the Longbeam Aurora IX and the Jedi cruiser Ataraxia to the Galov system, where Tempest Runner Lourna Dee of the Nihil marauders had launched an attack on the Relay Post Epsilon One space station. During the battle, the Karvoss Dawn was hit by the laser turrets of Dee's starship, the Lourna Dee, and destroyed.",
+  "data": {
+    "name": "Karvoss Dawn",
+    "model": "Longbeam cruiser",
+    "type": "Cruiser",
+    "hyperdrive": "Equipped",
+    "destroyed": "231 BBY, Galov system",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

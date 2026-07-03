@@ -1,0 +1,43 @@
+{
+  "name": "Guardian Mantis",
+  "wookieepedia_title": "Guardian Mantis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Guardian_Mantis",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Guardian Mantis was Vana Sage's trademark ship. It was a unique starfighter of Xi Char design.",
+  "data": {
+    "name": "Guardian Mantis",
+    "manufacturer": "A rogue Xi Char engineer",
+    "model": "Modified prototype Nubian bomber",
+    "type": "Starfighter/Bomber",
+    "cost": "Not for sale",
+    "length": "22 meters",
+    "max_speed": "1,150 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Laser cannons (2)",
+      "Rotating laser turret (1)",
+      "Proton torpedo launcher (1)",
+      "  Nano missiles (10)",
+      "Ion encumbrance system (1)",
+      "  10 ion-enabled tags"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)",
+      "Navigator (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "3",
+    "capacity": "10 metric tons",
+    "consumables": "2 weeks",
+    "role": "Starfighter",
+    "owners": "Vana Sage"
+  },
+  "scraped": "2026-07-03"
+}

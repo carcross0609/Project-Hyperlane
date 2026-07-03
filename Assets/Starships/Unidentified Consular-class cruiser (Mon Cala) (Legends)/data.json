@@ -1,0 +1,32 @@
+{
+  "name": "Unidentified Consular-class cruiser",
+  "wookieepedia_title": "Unidentified Consular-class cruiser (Mon Cala)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Consular-class_cruiser_%28Mon_Cala%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This Consular-class cruiser was used by the Galactic Republic and was in service to Jedi Knight Anakin Skywalker and Senator Padmé Amidala to travel to the watery planet known as Dac in a effort to stop a civil war between the Mon Calamari and the Quarren after the assassination of King Yos Kolina",
+  "data": {
+    "name": "Unidentified Consular-class cruiser",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Retrofitted Consular-class cruiser",
+    "type": "Frigate",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Advanced navicomputer",
+    "armament": [
+      "Twin light Turbolaser cannon batteries (5)",
+      "Point-defense medium laser cannons (2)"
+    ],
+    "crew": "8",
+    "passengers": "20 (troops)",
+    "capacity": "6,000 tons",
+    "role": [
+      "Diplomatic ship",
+      "Frigate (Refit)"
+    ],
+    "destroyed": "c. 21 BBY, Dac",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

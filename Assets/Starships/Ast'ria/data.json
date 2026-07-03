@@ -1,0 +1,24 @@
+{
+  "name": "Ast'ria",
+  "wookieepedia_title": "Ast'ria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ast%27ria",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ast'ria was a New Republic CR90 corvette during the Galactic Civil War. It served in the Bothan Combat Response Element and fought in the Battle of Kathol System, in which it assisted in the defeat of Moff Kentor Sarne.",
+  "data": {
+    "name": "Ast'ria",
+    "type": "CR90 corvette",
+    "max_speed": "950 kmh",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "6 double turbolaser cannons"
+    ],
+    "role": "Combat vessel",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "fleet": "Bothan Combat Response Element"
+  },
+  "scraped": "2026-07-03"
+}

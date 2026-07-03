@@ -1,0 +1,37 @@
+{
+  "name": "Protector",
+  "wookieepedia_title": "Protector (Victory I-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Protector_%28Victory_I-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Protector was a Victory I-class Star Destroyer that served as the flagship of Imperial Admiral Harkov.",
+  "data": {
+    "name": "Protector",
+    "manufacturer": [
+      "Rendili StarDrive",
+      "Kuat Drive Yards"
+    ],
+    "line": "Star Destroyers",
+    "model": "Victory I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "900 meters",
+    "width": "578 meters",
+    "height": "248 meters",
+    "role": [
+      "Flagship",
+      "Peacekeeping battleship",
+      "Destroyer"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Alliance to Restore the Republic",
+      "  Alliance Fleet"
+    ],
+    "navy": "Admiral Harkov's fleet",
+    "captains": "Admiral Harkov"
+  },
+  "scraped": "2026-07-03"
+}

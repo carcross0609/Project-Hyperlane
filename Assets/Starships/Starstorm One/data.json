@@ -1,0 +1,25 @@
+{
+  "name": "Starstorm One",
+  "wookieepedia_title": "Starstorm One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starstorm_One",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Starstorm One was the personal starship of Jedi Knight and later Dark Lord of the Sith Exar Kun during the period of the Great Sith War. A curious young man who was fascinated by the ancient powers of the Sith, Kun set out in Starstorm One on a quest to learn forbidden secrets in 3997 BBY. His search led him and Starstorm One to Onderon, where he found two dark side cultists to guide him to the tomb of the dead Dark Lord of the Sith Freedon Nadd. The cultists, Nebo and Rask, traveled aboard Starstorm One and directed him to the tomb, where Kun found two Sith scrolls that gave him directions to the Sith homeworld, Korriban. Kun flew the ship to the lost planet, where the spirit of Nadd converted Kun to the dark side.",
+  "data": {
+    "name": "Starstorm One",
+    "engine": "3",
+    "hyperdrive": "Equipped",
+    "navigation": "Navigation computer",
+    "skeleton": "1",
+    "passengers": "Up to 2",
+    "role": "Personal starship",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order",
+      "Exar Kun's Sith Empire"
+    ],
+    "owners": "Exar Kun"
+  },
+  "scraped": "2026-07-03"
+}

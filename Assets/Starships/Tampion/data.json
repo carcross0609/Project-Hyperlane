@@ -1,0 +1,26 @@
+{
+  "name": "Tampion",
+  "wookieepedia_title": "Tampion",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tampion",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tampion was a fleet shuttle in the Combined Defense Forces of the New Republic.",
+  "data": {
+    "name": "Tampion",
+    "model": "Fleet shuttle",
+    "type": "Shuttle",
+    "length": "~12 meters",
+    "crew": [
+      "Pilot (1)",
+      "Engineer (1)"
+    ],
+    "passengers": "1",
+    "affiliation": [
+      "New Republic",
+      "Combined Defense Forces of the New Republic"
+    ],
+    "captains": "Captain Sreas"
+  },
+  "scraped": "2026-07-03"
+}

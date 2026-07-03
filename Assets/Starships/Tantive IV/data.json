@@ -1,0 +1,73 @@
+{
+  "name": "Tantive IV",
+  "wookieepedia_title": "Tantive IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tantive_IV",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tantive IV was a CR90 corvette in the service of the House of Organa. The ship was a central player in the events at the beginning of the Galactic Civil War, serving as Princess Leia Organa's personal starship in the leadup to the Battle of Yavin. Decades later, the vessel would play a crucial role during the war between the First Order and the Resistance when it took part in the climactic Battle of Exegol. During the battle, the Tantive IV was destroyed by Darth Sidious' torrent of Force lightning.",
+  "data": {
+    "name": "Tantive IV",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Alderaanian diplomatic cruiser",
+    "model": "CR90 corvette",
+    "type": [
+      "Capital ship",
+      "Corvette"
+    ],
+    "cost": "1,200,000 credits",
+    "length": "150 meters (495 ft)",
+    "max_speed": "950 kph (590 mph)",
+    "engine": "Equipped",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Long range sensors",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Double Taim & Bak H9 turbolasers (2)",
+      "Single Taim & Bak H9 turbolasers (4)"
+    ],
+    "escapepods": [
+      "4 12-passenger escape pods",
+      "8 small escape pods"
+    ],
+    "crew": [
+      "46 crew"
+    ],
+    "passengers": [
+      "Up to 600 (dependant on configuration)",
+      "39 diplomats"
+    ],
+    "consumables": "1 year",
+    "lifesupport": "Equipped",
+    "role": [
+      "Troop carrier",
+      "Cargo liner",
+      "Consular ship",
+      "Escort vessel"
+    ],
+    "commission": "By 22 BBY",
+    "destroyed": "35 ABY, Exegol",
+    "affiliation": [
+      "House of Organa",
+      "  Alderaanian consular security",
+      "Galactic Republic",
+      "Alliance to Restore the Republic",
+      "Resistance"
+    ],
+    "navy": [
+      "Galactic Republic Navy",
+      "Rebel Alliance Navy",
+      "Resistance navy"
+    ],
+    "fleet": "Royal Alderaan Civil Fleet",
+    "owners": [
+      "Royal House of Alderaan",
+      "Bail Organa",
+      "Leia Organa"
+    ],
+    "captains": "Raymus Antilles"
+  },
+  "scraped": "2026-07-03"
+}

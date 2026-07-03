@@ -1,0 +1,37 @@
+{
+  "name": "Golandras",
+  "wookieepedia_title": "Golandras",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Golandras",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Golandras was a MedStar-class frigate under the command of Captain Brisha Shard during the Clone Wars. It was destroyed shortly before the Battle of Skye in 21 BBY, when the Galactic Republic dispatched that medical frigate to the Marat system. The Golandras fell into an orbital ambush set by the terrorist Zeta Magnus, who had installed a minefield cloaked with N'Gai technology in the vicinity of Skye.",
+  "data": {
+    "name": "Golandras",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "MedStar-class frigate",
+    "type": "Medical frigate",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 10"
+    ],
+    "armament": [
+      "Turbolaser battery (1)",
+      "Point-defense laser cannon batteries (2)",
+      "Tractor beam projector"
+    ],
+    "crew": "440",
+    "passengers": "655",
+    "capacity": "4,800 tons",
+    "consumables": "3 years",
+    "role": "Mobile hospital",
+    "destroyed": "21 BBY, Skye",
+    "affiliation": [
+      "Galactic Republic",
+      "Republic Military",
+      "  Republic Navy"
+    ],
+    "captains": "Captain Brisha Shard"
+  },
+  "scraped": "2026-07-03"
+}

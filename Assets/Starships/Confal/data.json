@@ -1,0 +1,24 @@
+{
+  "name": "Confal",
+  "wookieepedia_title": "Confal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Confal",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Confal was a Muurian transport belonging to the Rebel Alliance. The Confal attempted to repair the MC80 Star Cruiser Link, but instead was destroyed by Tan Maarek Stele.",
+  "data": {
+    "name": "Confal",
+    "manufacturer": "Muurian Interstellar",
+    "model": "Muurian transport",
+    "length": "30.5 meters",
+    "width": "29.4 meters",
+    "height": "8.8 meters",
+    "armament": [
+      "2 double laser cannon turrets",
+      "3 laser cannons",
+      "2 proton torpedo launchers"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

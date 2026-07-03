@@ -1,0 +1,26 @@
+{
+  "name": "Gauntlet",
+  "wookieepedia_title": "Gauntlet (Pre Vizsla)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gauntlet_%28Pre_Vizsla%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Gauntlet was a Kom'rk-class fighter/transport owned by the Mandalorian soldier Pre Vizsla. Designed and constructed by the Mandalorian starship manufacturing corporation, MandalMotors, the Gauntlet measured 52.3 meters in length, and took its name from the Basic language translation of the Mando'a word, Kom'rk. Equipped with powerful engines and twin laser cannons, Gauntlet fulfilled dual roles as a troop transport and starfighter, and was maintained by Vizsla—leader of the radical Mandalorian splinter-group known as the Death Watch—as his personal transport during the galaxy-spanning Clone Wars.",
+  "data": {
+    "name": "Gauntlet",
+    "manufacturer": "MandalMotors",
+    "model": "Kom'rk-class fighter/transport",
+    "type": "Transport",
+    "length": "52.3 meters",
+    "width": "52.4 meters",
+    "height": "13.23 meters",
+    "engine": "2",
+    "armament": "2 laser cannons",
+    "crew": "4",
+    "role": [
+      "Starfighter"
+    ],
+    "affiliation": "Death Watch"
+  },
+  "scraped": "2026-07-03"
+}

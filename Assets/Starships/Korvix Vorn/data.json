@@ -1,0 +1,24 @@
+{
+  "name": "Korvix Vorn",
+  "wookieepedia_title": "Korvix Vorn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Korvix_Vorn",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Korvix Vorn was a prison ship of the Nihil marauders during the High Republic Era. Run by the former enforcer known as \"The Warden,\" the starship was active within the Nihil's Occlusion Zone territory behind the Stormwall, but made occasional delivery runs outside Nihil space. A number of Jedi, including Torban Buck and Farzala Tarabal, were imprisoned on the Korvix Vorn after the destruction of the Starlight Beacon space station, but hid their identities. The Warden wished for the young Nihil scientist Niv Drendow Apruk to use his Nameless creatures to identify Jedi among his prisoners, and Apruk eventually chose to head for the Korvix Vorn with fellow Nihil Driggit Parse, hoping to use its space to hatch more Nameless.",
+  "data": {
+    "name": "Korvix Vorn",
+    "type": "Prison ship",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Hull blister bombs",
+      "Laser cannons"
+    ],
+    "bays": "1",
+    "affiliation": "Nihil",
+    "captains": "The Warden"
+  },
+  "scraped": "2026-07-03"
+}

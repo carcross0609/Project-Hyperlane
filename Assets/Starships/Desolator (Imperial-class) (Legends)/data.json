@@ -1,0 +1,28 @@
+{
+  "name": "Desolator",
+  "wookieepedia_title": "Desolator (Imperial-class)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Desolator_%28Imperial-class%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Desolator was an Imperial-class Star Destroyer serving as a flagship under the command of Admiral Grendreef during the Galactic Civil War.",
+  "data": {
+    "name": "Desolator",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "complement": [
+      "TIE/LN starfighters",
+      "Lambda-class shuttles"
+    ],
+    "passengers": "Stormtroopers",
+    "role": "Flagship",
+    "destroyed": "1 ABY",
+    "affiliation": "Galactic Empire",
+    "captains": [
+      "Imperial commander",
+      "Admiral Grendreef"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

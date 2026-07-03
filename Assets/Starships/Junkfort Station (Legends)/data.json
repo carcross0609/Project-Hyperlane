@@ -1,0 +1,41 @@
+{
+  "name": "Junkfort Station",
+  "wookieepedia_title": "Junkfort Station/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Junkfort_Station/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "SpaceStation",
+  "description": "Junkfort Station was an Outer Rim Territories space station located in the Tharin sector at the junction of three hyperlanes. A notable shadowport and spice-smuggling point, Junkfort Station was often visited by starships in order to receive illegal modifications and equipment. Historically located in an area of space influenced by the Hutt species, by 17 BBY Junkfort Station was a part of the Galactic Empire.",
+  "data": {
+    "name": "Junkfort Station",
+    "type": "Space station",
+    "bays": "Several",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice",
+      "Hutt Space (between 1004 BBY and 1000 BBY)"
+    ],
+    "sector": "Tharin sector",
+    "system": "Junkfort system",
+    "coordinates": "T-8",
+    "routes": [
+      "Cadma Conduit",
+      "Lesser Lantillian Route",
+      "Triellus Trade Route"
+    ],
+    "role": "Shadowport",
+    "affiliation": [
+      "Sith",
+      "Galactic Empire"
+    ],
+    "battles": "Attack on Junkfort Station",
+    "population": "1&ndash;10 million (Junkfort system) (c. 25 ABY)",
+    "interest": "Junkfort Station cantina",
+    "services": "Illegal starship equipment and modifications",
+    "modules": [
+      "Airlink tunnels",
+      "Living modules"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

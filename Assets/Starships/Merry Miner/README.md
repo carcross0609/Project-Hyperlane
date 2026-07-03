@@ -1,0 +1,11 @@
+# Merry Miner
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Merry Miner](https://starwars.fandom.com/wiki/Merry_Miner)
+
+The Merry Miner was an iceborer transport ship kept by Lando Calrissian on Destrillion in 25 ABY. It was piloted by Jaina Solo in the Battle of Helska IV, where she used it to drop Jacen Solo's iceborer on top of the Praetorite Vong base. It was also used to safely transport Danni Quee off the surface of Helska IV following her rescue. The crew would later transfer to either the Millennium Falcon or the Jade Sabre before returning to destroy the Yuuzhan Vong forces.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

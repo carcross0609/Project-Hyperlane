@@ -1,0 +1,37 @@
+{
+  "name": "Pride of Tarlandia",
+  "wookieepedia_title": "Pride of Tarlandia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pride_of_Tarlandia/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Pride of Tarlandia was a battlecruiser and Destroyer that served as a communications ship in the Imperial Navy. As part of the Sith Lord Darth Vader's personal fleet, Death Squadron, the starship fought in the Battle of Endor in 4 ABY as part of the war between the Galactic Empire and the Rebel Alliance. During the battle, it served as the Empire's main communications ship and prevented the Alliance from detecting the deflector shield that protected the second Death Star.",
+  "data": {
+    "name": "Pride of Tarlandia",
+    "type": [
+      "Battlecruiser",
+      "Destroyer"
+    ],
+    "power": "Reactor",
+    "hull": "Gunmetal",
+    "countermeasures": "Jamming devices",
+    "armament": [
+      "Several different sizes of guns",
+      "  Front batteries",
+      "  Lasers"
+    ],
+    "crew": "Reactor personnel",
+    "role": [
+      "Communications ship",
+      "Battlecruiser"
+    ],
+    "destroyed": "4 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Death Squadron"
+    ],
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron"
+  },
+  "scraped": "2026-07-03"
+}

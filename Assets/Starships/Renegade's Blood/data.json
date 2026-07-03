@@ -1,0 +1,52 @@
+{
+  "name": "Renegade's Blood",
+  "wookieepedia_title": "Renegade's Blood",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Renegade%27s_Blood",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Renegade's Blood was a Consular-class cruiser that served as the flagship of the Veiled Sorority pirate fleet.",
+  "data": {
+    "name": "Renegade's Blood",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Consular-class cruiser",
+    "type": "Light cruiser",
+    "cost": "3,400,000 credits",
+    "sysmods": [
+      "Reinforced shield generator",
+      "Tractor beam projector",
+      "Engine Ring Stabilizer",
+      "High-Output Ion Turbine",
+      "Advanced Targeting Array"
+    ],
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup: Class 14.0"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Twin heavy ion cannons (2)",
+      "Twin light turbolasers (4)",
+      "Heavy tractor beam emitter (1)"
+    ],
+    "crew": [
+      "8",
+      "Captain (1)",
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Navigator (1)",
+      "Comms operator (1)",
+      "Engineers (4)"
+    ],
+    "passengers": "16+",
+    "consumables": "8 months",
+    "role": [
+      "Light cruiser",
+      "Flagship"
+    ],
+    "affiliation": "Veiled Sorority",
+    "captains": "Noira"
+  },
+  "scraped": "2026-07-03"
+}

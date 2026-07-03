@@ -1,0 +1,26 @@
+{
+  "name": "Bright Nebula",
+  "wookieepedia_title": "Bright Nebula",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bright_Nebula",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Bright Nebula was a GR-75 medium transport in service to the New Republic Defense Fleet. It was one of three GR-75 medium transports stationed at Folor Base in 7.5 ABY, and was the second transport to evacuate the moon base during the Battle of Folor.",
+  "data": {
+    "name": "Bright Nebula",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "type": "GR-75 medium transport",
+    "length": "90 meters",
+    "max_accel": "900 G",
+    "mglt": "20 MGLT",
+    "max_speed": "650 km/h",
+    "hyperdrive": "Class 4",
+    "shield_gen": "240 SBD",
+    "hull": "160 RU",
+    "crew": "7",
+    "role": "Troop/Equipment Transport",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet"
+  },
+  "scraped": "2026-07-03"
+}

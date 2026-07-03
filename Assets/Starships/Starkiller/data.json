@@ -1,0 +1,43 @@
+{
+  "name": "Starkiller",
+  "wookieepedia_title": "Starkiller",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starkiller",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Starkiller was a freighter used by the bounty hunter Leshy Drobo prior to 20,000 BBY. Drobo and his partner, the assassin droid XT-8, captured the Jedi Knight Roni von Wasaki, on whom a bounty had been placed. The Jedi was carbon-frozen and transported in a secret compartment aboard the Starkiller to the crime boss who had originated the bounty. While the starship was still in hyperspace transit, however, Wasaki, while still imprisoned in carbonite, planted a telepathic suggestion in Drobo's mind so that the latter would release the former. When XT-8 learned of his partner's intention, the droid attacked and killed him but incidentally also damaged the Starkiller hyperdrive. The ship reverted to realspace, and XT-8 simply resigned to carrying on the trip at sublight speed, which made the journey drag on for twenty millennia.",
+  "data": {
+    "name": "Starkiller",
+    "model": "Frommon longhaul all-purpose transport",
+    "type": [
+      "Freighter",
+      "Transport"
+    ],
+    "sysmods": "Upper hull",
+    "length": "30 meters",
+    "engine": "Ion coil engines (2)",
+    "hyperdrive": "Class 4",
+    "shield_gen": "Equipped",
+    "navigation": "Nav computer",
+    "avionics": "Autopilot",
+    "armament": "Laser cannon turret (1)",
+    "crew": "2",
+    "passengers": "None",
+    "capacity": "100 metric tons",
+    "cargohandling": [
+      "Cargo hold (1)",
+      "Cargo lift (1)",
+      "Secret compartment (1)"
+    ],
+    "consumables": "2 months' worth",
+    "lifesupport": "Equipped",
+    "othersystems": [
+      "Alarm",
+      "Autochef",
+      "Holoprojection disc"
+    ],
+    "role": "Freight-hauling starship",
+    "owners": "Leshy Drobo"
+  },
+  "scraped": "2026-07-03"
+}

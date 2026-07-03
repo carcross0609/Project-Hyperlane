@@ -1,0 +1,36 @@
+{
+  "name": "Ultima",
+  "wookieepedia_title": "Ultima",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ultima",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ultima was an Imperial I-class Star Destroyer.",
+  "data": {
+    "name": "Ultima",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 8"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "60 turbolaser batteries",
+      "60 ion cannons",
+      "10 tractor beam projectors"
+    ],
+    "complement": "TIE/LN starfighters",
+    "crew": "36,810; 275 gunners",
+    "skeleton": "5,000",
+    "passengers": "9,700 (soldiers)",
+    "capacity": "36,000 metric tons",
+    "consumables": "6 years",
+    "role": "Warship",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

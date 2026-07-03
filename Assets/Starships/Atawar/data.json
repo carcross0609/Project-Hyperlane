@@ -1,0 +1,26 @@
+{
+  "name": "Atawar",
+  "wookieepedia_title": "Atawar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Atawar",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Atawar was an Delta-class JV-7 escort shuttle that was used during the Sepan Civil War by the Dimoks. The Escort Shuttle was part of a defense force for Science Station Youst, an XQ1 Platform that was officially a science station, but was also secretly a weapons lab. The station fell under attack by Ripoblus forces as retaliation for an attack on a convoy by Dimok raiders. The station called for assistance and Imperial forces under the command of Harkov arrived to intervene. The Escort Shuttle was destroyed in the battle, likely by Ripoblus forces.",
+  "data": {
+    "name": "Atawar",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Delta-class JV-7 escort shuttle",
+    "type": "Shuttle",
+    "length": "30 meters",
+    "width": "32.3 meters",
+    "height": "32.4 meters",
+    "armament": [
+      "Taim & Bak KX5 laser cannons (3; forward)",
+      "Taim & Bak H9 dual turbolaser (1; aft turret)",
+      "Projectile launchers (2)"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Dimok government"
+  },
+  "scraped": "2026-07-03"
+}

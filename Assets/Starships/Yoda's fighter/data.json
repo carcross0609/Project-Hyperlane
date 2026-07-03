@@ -1,0 +1,23 @@
+{
+  "name": "Yoda's fighter",
+  "wookieepedia_title": "Yoda's fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yoda%27s_fighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Yoda's fighter was a modified Jedi starfighter at one point during the Clone Wars, stationed in the Jedi Temple hangar. Jedi Master Yoda, accompanied by the astromech droid R2-D2, used the starfighter to go on a series of missions of discovery: traveling to Dagobah, to a mysterious planet inhabited by the Force Priestesses, and to Moraband. Similar to the standard Eta-2 Actis-class light interceptor used by other Jedi, it had hexagonal panels at the end of its wings, an astromech socket, and a compact, sphere-shaped cockpit.",
+  "data": {
+    "name": "Yoda's fighter",
+    "model": "Modified Jedi starfighter",
+    "type": "Starfighter",
+    "armament": "2 Laser cannons",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "role": "Starfighter",
+    "affiliation": "Jedi Order",
+    "owners": "Yoda"
+  },
+  "scraped": "2026-07-03"
+}

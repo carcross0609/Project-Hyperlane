@@ -1,0 +1,20 @@
+{
+  "name": "Outrunner",
+  "wookieepedia_title": "Outrunner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Outrunner",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Outrunner was a freighter purchased by Dash Rendar with the profits from his career as a freelance pilot, smuggler, and mercenary. The black ship was heavily armed with both laser turrets and proton torpedo launchers, and could be powered up quickly to enable a rapid escape. Rendar used the Outrunner to disable the luxury liner Star of Empire after the crew abandoned ship when the liner's artificial intelligence, SIM, seized control of the vessel.",
+  "data": {
+    "name": "Outrunner",
+    "type": "Freighter",
+    "armament": [
+      "Laser turrets (at least 1 turbolaser)",
+      "Proton torpedo launchers"
+    ],
+    "crew": "1 (Pilot)",
+    "owners": "Dash Rendar"
+  },
+  "scraped": "2026-07-03"
+}

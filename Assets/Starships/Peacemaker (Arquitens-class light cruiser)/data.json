@@ -1,0 +1,50 @@
+{
+  "name": "Peacemaker",
+  "wookieepedia_title": "Peacemaker (Arquitens-class light cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Peacemaker_%28Arquitens-class_light_cruiser%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Peacemaker was an Arquitens-class light cruiser that operated for the Galactic Empire at the planet Arieli.",
+  "data": {
+    "name": "Peacemaker",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Arquitens-class light cruiser",
+    "type": "Light cruiser",
+    "cost": "4,000,000 credits",
+    "length": "325 meters",
+    "width": "135 meters",
+    "height": "56 meters",
+    "max_accel": "1,800G",
+    "max_speed": "750 km/h",
+    "engine": "Dyne 577 radial atomizer engines (3)",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Reactor",
+    "shield_gen": "Energy shielding layers",
+    "hull": "Armored hull",
+    "sensor": "Medium-range sensors",
+    "target": "Targeting system",
+    "navigation": "Navigation computer",
+    "bays": "Circular docking bays (2)",
+    "crew": "100 officers, enlisted crew and pilots",
+    "passengers": "100",
+    "capacity": "1,200 tons (encumbrance)",
+    "consumables": "3 months",
+    "role": [
+      "All-purpose",
+      "Escort",
+      "Support ship",
+      "Picket",
+      "Light warship",
+      "Patrol"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Imperial captain"
+  },
+  "scraped": "2026-07-03"
+}

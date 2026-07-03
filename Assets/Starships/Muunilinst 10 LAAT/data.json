@@ -1,0 +1,45 @@
+{
+  "name": "Muunilinst 10 LAAT",
+  "wookieepedia_title": "Muunilinst 10 LAAT",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Muunilinst_10_LAAT",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This Low Altitude Assault Transport was used by The Muunilinst 10 during their mission to Hypori. It was heavily modified and sported a unique paint job.",
+  "data": {
+    "name": "Muunilinst 10 LAAT",
+    "manufacturer": "Rothana Heavy Engineering",
+    "line": "LAAT series",
+    "model": "Low Altitude Assault Transport/infantry",
+    "type": "Repulsorlift gunship",
+    "modifier": "The Muunilinst 10",
+    "length": "17.4 meters",
+    "width": "17 meters (wingspan)",
+    "height": "6.1 meters",
+    "mglt": "50",
+    "max_speed": "620 km/h",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Anti-personnel laser turrets (1 behind the doors and 2 at the front)",
+      "Composite-beam laser turrets (2 on the wings)",
+      "Mass-driver missile launchers (2) (30 missiles each)"
+    ],
+    "escapepods": "1 (cockpit capsule)",
+    "crew": "Unidentified Advanced Recon Commando pilot",
+    "passengers": "30",
+    "capacity": "17 m³",
+    "consumables": "Fuel for 8 hours",
+    "othersystems": "Blast shields",
+    "role": [
+      "Aerial assault",
+      "Troop transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "    The Muunilinst 10"
+    ],
+    "owners": "The Muunilinst 10"
+  },
+  "scraped": "2026-07-03"
+}

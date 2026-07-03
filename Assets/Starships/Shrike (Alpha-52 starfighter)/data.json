@@ -1,0 +1,34 @@
+{
+  "name": "Shrike",
+  "wookieepedia_title": "Shrike (Alpha-52 starfighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shrike_%28Alpha-52_starfighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Shrike was a modified Incom Corporation Alpha-52 starfighter prototype owned by Talon Karrde that was never developed for the open market.",
+  "data": {
+    "name": "Shrike",
+    "manufacturer": "Incom Corporation",
+    "line": "Alpha-52 starfighter",
+    "model": "Alpha-52 starfighter (modified)",
+    "type": "Starfighter",
+    "engine": [
+      "Sublight",
+      "Repulsorlift"
+    ],
+    "crew": "1 pilot",
+    "skeleton": "1",
+    "othersystems": "Comm unit",
+    "role": [
+      "Starfighter",
+      "Transport",
+      "Freighter"
+    ],
+    "affiliation": [
+      "Talon Karrde",
+      "Mara Jade",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Limping Lady",
+  "wookieepedia_title": "Limping Lady",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Limping_Lady",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Limping Lady was a modified YT-1300 light freighter which had been owned several times by Sithless Leethe.",
+  "data": {
+    "name": "Limping Lady",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "Modified YT-1300 light freighter",
+    "type": "Light freighter",
+    "hyperdrive": "Class 2",
+    "armament": [
+      "1 laser cannon (dorsally mounted)",
+      "1 mass-driver cannon (ventrally mounted)"
+    ],
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

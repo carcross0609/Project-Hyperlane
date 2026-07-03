@@ -1,0 +1,23 @@
+{
+  "name": "Fairwind",
+  "wookieepedia_title": "Fairwind",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fairwind",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Fairwind was a large gunship of a design reminiscent of large sailing ships. The vessel was built with a rounded hull, twin masts, wings, and a large figurehead. When the ship flew in atmosphere, its upper surface operated as an open-air deck. The heavily-armed Fairwind sported three double-barrelled laser cannons and two laser turrets. Its wooden hull was covered with deflector shield skins.",
+  "data": {
+    "name": "Fairwind",
+    "type": "Gunship",
+    "hull": "Wroshyr timber",
+    "armament": "9 double laser cannons",
+    "passengers": "300 troops",
+    "affiliation": [
+      "Galactic Republic",
+      "Army of Light",
+      "Farfalla's Knights"
+    ],
+    "owners": "Valenthyne Farfalla"
+  },
+  "scraped": "2026-07-03"
+}

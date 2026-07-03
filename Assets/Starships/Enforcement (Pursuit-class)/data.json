@@ -1,0 +1,33 @@
+{
+  "name": "Enforcement",
+  "wookieepedia_title": "Enforcement (Pursuit-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Enforcement_%28Pursuit-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Enforcement was a Pursuit-class light cruiser which served in the Imperial Navy of the Galactic Empire in their Galactic Civil War against the Alliance to Restore the Republic. The starship served as the lead for the fleet of Commander Zertik Strom, whilst he was stationed as guardian of the Imperial-free zone surrounding the Wheel space station.",
+  "data": {
+    "name": "Enforcement",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Pursuit-class light cruiser",
+    "type": "Light cruiser",
+    "length": "500 meters",
+    "armament": [
+      "Turrets (2)",
+      "  2 barrels per turret",
+      "Additional flanking weaponry"
+    ],
+    "complement": [
+      "TIE squadrons (2)",
+      "TIE/LN starfighters",
+      "TIE Advanced x1s"
+    ],
+    "role": "Patrol Ship",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ],
+    "captains": "Zertik Strom"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Interrogator",
+  "wookieepedia_title": "Interrogator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Interrogator",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Interrogator was an Imperial-class Star Destroyer of the Galactic Empire that participated in the Battle of Endor under the command of Captain Inalis, as well as the Battle of Jakku, the final battle of the Galactic Civil War between the Empire and the fledgling New Republic. During the battle, Interrogator deployed Hellhound Two, an All Terrain Armored Transport of the Hellhound attack force in a last ditched defense of an Imperial research base. The walker was abandoned after the Empire's defeat on Jakku, and eventually became the home of the scavenger, Rey. In the battle, the Star Destroyer crashed onto the surface of Jakku, where the wreck of the ship remained for decades. Rey salvaged parts from the Interrogator's interior during her time on Jakku, and presented her findings to Unkar Plutt.",
+  "data": {
+    "name": "Interrogator",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Space Workshops Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": [
+      "All Terrain Armored Transports",
+      "  Hellhound Two",
+      "TIE fighter series starfighters (72)"
+    ],
+    "destroyed": "5 ABY, Jakku",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Inalis"
+  },
+  "scraped": "2026-07-03"
+}

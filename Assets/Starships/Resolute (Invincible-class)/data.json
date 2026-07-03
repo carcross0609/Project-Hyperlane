@@ -1,0 +1,40 @@
+{
+  "name": "Resolute",
+  "wookieepedia_title": "Resolute (Invincible-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Resolute_%28Invincible-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Resolute was an Invincible-class Dreadnaught used by the Corporate Sector Authority early on in the reign of the Galactic Empire. Its commander was Angela Krin.",
+  "data": {
+    "name": "Resolute",
+    "manufacturer": "Rendili/Vanjervalis Drive Yards",
+    "model": "Invincible-class Heavy Cruiser",
+    "type": "Heavy cruiser",
+    "cost": "52,000,000 credits (estimated)",
+    "length": "2,011 meters",
+    "hyperdrive": [
+      "Class 4",
+      "Class 25 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Concussion missile tubes (6, 30 assault missiles per tube)",
+      "Turbolaser cannons (12)",
+      "Point-defense quad laser cannons (30)",
+      "Tractor beam projectors (6)"
+    ],
+    "crew": "23,014 (highly skilled)",
+    "passengers": "6,000 (troops)",
+    "capacity": "700 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Battleship (Dreadnaught)",
+      "Picket (later use)"
+    ],
+    "affiliation": "Corporate Sector Authority",
+    "captains": "Angela Krin"
+  },
+  "scraped": "2026-07-03"
+}

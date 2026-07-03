@@ -1,0 +1,24 @@
+{
+  "name": "Timespan",
+  "wookieepedia_title": "Timespan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Timespan",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Timespan was a transport ship used by Trux Zissu, Stuart Zissu, R2-D2, C-3PO and 4B-X to travel from Yavin 4 to Delantine. Trux Zissu was to be the governor of Delantine. Although it was an older ship, the Timespan was the only available ship the Rebel Alliance had to spare for this mission.",
+  "data": {
+    "name": "Timespan",
+    "type": "Transport",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generator",
+    "navigation": "Equipped",
+    "escapepods": "Escape pods (4+)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "affiliation": "Alliance to Restore the Republic",
+    "captains": "Trux Zissu"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Storm Killer",
+  "wookieepedia_title": "Storm Killer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Storm_Killer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Storm Killer was a heavily modified CEC YT-1300 light freighter which was optimized for combat and put on sale by the Bith used space transport salesman Fiz Cor'gril.",
+  "data": {
+    "name": "Storm Killer",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified light freighter",
+    "type": "YT-1300 light freighter",
+    "cost": "95,000 credits",
+    "modifier": "\"Original owner\"",
+    "sysmods": [
+      "Capacity",
+      "Deflector shields",
+      "Fuselage",
+      "Thrusters",
+      "Weapons"
+    ],
+    "length": "26.7 meters",
+    "max_speed": "750 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "1 Arakyd Tomral Heavy Laser Cannon turret",
+      "1 Incom W-34t turbolaser turret",
+      "1 Arakyd Hi-fex proton torpedo launcher",
+      "2 Retractable Taim & Bak Kd-3 light blaster cannons"
+    ],
+    "crew": "1 or 2 (can coordinate)",
+    "passengers": "3",
+    "capacity": "20 metric tons",
+    "consumables": "1 month",
+    "affiliation": "Independent"
+  },
+  "scraped": "2026-07-03"
+}

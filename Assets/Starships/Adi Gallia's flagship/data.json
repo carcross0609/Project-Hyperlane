@@ -1,0 +1,45 @@
+{
+  "name": "Adi Gallia's flagship",
+  "wookieepedia_title": "Adi Gallia's flagship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adi_Gallia%27s_flagship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Venator-class Star Destroyer was in service to the Galactic Republic naval forces' Open Circle Fleet, where it also served as the flagship for Jedi Master Adi Gallia during the Clone Wars. In 20 BBY, the Venator had traveled to the planet Aleen, where clone troopers of the Republic's 104th Battalion delivered the protocol droid C-3PO and the astromech droid R2-D2 to Gallia's flagship. Sometime after receiving the two droids, the Star Destroyer was ambushed near the planet Patitite Pattuna by a Confederacy of Independent Systems fleet led by the Kaleesh General Grievous, who boarded the Venator and captured Gallia, resulting in its destruction after her capture.",
+  "data": {
+    "name": "Adi Gallia's flagship",
+    "line": "Venator-class Star Destroyer",
+    "type": [
+      "Cruiser",
+      "Star Destroyer"
+    ],
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Ion drive thrusters (8)",
+    "power": "Main reactor",
+    "armament": [
+      "DBY-827 heavy turbolaser turrets (8)",
+      "Medium dual turbolaser cannons (2)"
+    ],
+    "complement": [
+      "Aggressive ReConnaissance-170 starfighters",
+      "BTL-B Y-wing starfighter/bombers",
+      "Low Altitude Assault Transport/infantrys"
+    ],
+    "bays": "Main hangar",
+    "crew": [
+      "Clone navigation officers",
+      "Clone trooper flight crews",
+      "Clone troopers",
+      "R-series astromech droids"
+    ],
+    "communications": "Hyperwave comm scanners (2)",
+    "destroyed": "20 BBY, space near Patitite Pattuna",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "fleet": "Open Circle Fleet",
+    "captains": "Adi Gallia"
+  },
+  "scraped": "2026-07-03"
+}

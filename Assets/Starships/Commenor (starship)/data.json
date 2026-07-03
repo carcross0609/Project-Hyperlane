@@ -1,0 +1,22 @@
+{
+  "name": "Commenor",
+  "wookieepedia_title": "Commenor (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Commenor_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Commenor was a cruiser in the Galactic Republic Navy during the Cold War. The Commenor was was commanded by Anx captain Pipalidi, and saw action during the Independent Operation Sebaddon in 3643 BBY.",
+  "data": {
+    "name": "Commenor",
+    "type": "Cruiser",
+    "complement": [
+      "XA-8 starfighters",
+      "PT-7 Raven-class starfighters",
+      "NR2 Gully Jumper-class shuttles",
+      "1 Personal shuttle."
+    ],
+    "affiliation": "Galactic Republic",
+    "captains": "Captain Pipalidi"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Lialic II",
+  "wookieepedia_title": "Lialic II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lialic_II",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lialic II was a Corellian Engineering Corporation CR90 corvette in service to the Galactic Empire. Assigned to the Kathol Sector Imperial Fleet, the Lialic II was commanded by Captain Rolf Treidum. In 4 ABY, following the death of Emperor Palpatine at the Battle of Endor, the Kathol sector's Moff, Kentor Sarne, withdrew his sector from the Empire. The Lialic II ended its service to the Empire and became part of Sarne's forces. In 8 ABY, the New Republic liberated the Kathol sector capital of Kal'Shebbol, forcing Sarne to flee into the Kathol Outback. The Lialic II was part of the fleet of ships that accompanied Sarne on his retreat. After learning that the New Republic had tasked the corvette FarStar to hunt him down, Sarne ordered Treidum to take the Lialic II on detached duty to slow their progress. Rechristening the ship as the Lance of Endor, Treidum posed as a New Republic vessel and intimidated worlds throughout the Outback, turning public opinion against the New Republic and denying the FarStar potential allies.",
+  "data": {
+    "name": "Lialic II",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CR90 corvette",
+    "length": "150 meters",
+    "hyperdrive": "Class 2 (primary), Class 10 (backup)",
+    "armament": "6 double turbolaser cannons",
+    "complement": "Gamma-class assault shuttle",
+    "crew": "85",
+    "skeleton": "65",
+    "passengers": "90",
+    "capacity": "2,500 metric tons",
+    "consumables": "1 year",
+    "role": "Multi-purpose vessel",
+    "destroyed": "8 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Kathol Sector Imperial Fleet",
+      "Moff Sarne's forces"
+    ],
+    "captains": "Captain Rolf Treidum",
+    "aliases": "Lance of Endor"
+  },
+  "scraped": "2026-07-03"
+}

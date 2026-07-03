@@ -1,0 +1,21 @@
+{
+  "name": "Meryx",
+  "wookieepedia_title": "Meryx (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Meryx_%28starship%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Meryx was a Gozanti-class cruiser owned by the gemstone thief Pax Maripher and co-piloted by Rahara Wick around 40 BBY. Before their partnership, Maripher went through several pilots, none of whom could stand his quirks. Maripher modified the systems, and also installed a custom scanner-blocking field. The Facet, a small starfighter, was stored in the lower cargo hold.",
+  "data": {
+    "name": "Meryx",
+    "model": "Gozanti-class cruiser",
+    "type": "Freighter",
+    "modifier": "Pax Maripher",
+    "hyperdrive": "Equipped",
+    "armament": "Antiplasma charges",
+    "complement": "Facet",
+    "othersystems": "Scanner-blocking field",
+    "owners": "Pax Maripher"
+  },
+  "scraped": "2026-07-03"
+}

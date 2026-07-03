@@ -1,0 +1,34 @@
+{
+  "name": "Lindsey's CR90 corvette",
+  "wookieepedia_title": "Lindsey's CR90 corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lindsey%27s_CR90_corvette",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A CR90 corvette served in the New Republic Defense Fleet and notably participated in the Battle of Jakku ferrying Captain Lindsey and his unit to Carbon Ridge to destroy a Imperial research base before the corvette crashed on the surface. Lindsey and some of his men survived the crash, their position however was later attacked by Imperial forces and became in danger of being overrun by Imperial walkers. They were later assisted by Inferno Squad Commander Iden Versio and Shriv Suurgav, together they ultimately destroyed the walkers and other Imperial forces as the Corvus evacuated Lindsey and his men to Carbon Ridge to complete their mission.",
+  "data": {
+    "name": "Lindsey's CR90 corvette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Alderaanian diplomatic cruiser",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "length": "150 meters",
+    "mglt": "81 MGLT",
+    "max_speed": "950 kph",
+    "armament": [
+      "Dual turbolaser turrets (2)",
+      "Single turbolasers (4)"
+    ],
+    "complement": [
+      "3 RZ-1 A-wing interceptors (docked externally)"
+    ],
+    "crew": "165",
+    "passengers": "Hundreds",
+    "destroyed": "5 ABY",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

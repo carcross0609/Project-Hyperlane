@@ -1,0 +1,11 @@
+# Blackburn
+
+**Kind:** Individual ship  
+**Continuity:** Canon  
+**Source:** [Blackburn](https://starwars.fandom.com/wiki/Blackburn)
+
+"Blackburn" was the codename for a new starship design that was developed for the Galactic Empire at some point between 5 BBY and 4 BBY. The Gand engineer who had created it under Imperial duress managed to warn the Rebel Alliance. Consequently, the rebel crew of the starship Ghost, led by Hera Syndulla and Kanan Jarrus, were sent to both rescue the engineer from the Imperial base in which she worked, and sabotage the core plan for the Blackburn. The mission was successful, and all that was left of the ship's blueprints was a crudely drawn bantha, courtesy of the astromech droid C1-10P.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

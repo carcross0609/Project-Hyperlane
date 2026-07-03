@@ -1,0 +1,45 @@
+{
+  "name": "Soulless One",
+  "wookieepedia_title": "Soulless One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Soulless_One",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Soulless One was a customized Feethan Ottraw Scalable Assemblies Belbullab-22 starfighter which served as the personal ship of General Grievous, the leader of the Confederacy of Independent Systems' Droid Army. However, because Grievous used the fighter to retreat, some opponents nicknamed the ship Spineless One.",
+  "data": {
+    "name": "Soulless One",
+    "manufacturer": "Feethan Ottraw Scalable Assemblies",
+    "model": "Customized Belbullab-22 heavy starfighter",
+    "type": "Starfighter",
+    "modifier": "General Grievous",
+    "length": "6.71 meters (22 ft)",
+    "width": "5.4 meters",
+    "mglt": "90 MGLT",
+    "max_speed": "1,100 kph (683 mph)",
+    "engine": "Twin ion engine",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 5 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Impervium coating",
+    "navigation": "Equipped",
+    "avionics": "Pilot-assist flight instruments",
+    "countermeasures": "Sensor jamming system",
+    "armament": "Triple rapid-fire laser cannons (2)",
+    "crew": "Pilot (1)",
+    "lifesupport": "Equipped",
+    "role": "Personal starfighter",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Jedi Order (appropriated)"
+    ],
+    "owners": [
+      "Grievous",
+      "Obi-Wan Kenobi (stolen)",
+      "Bail Organa"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

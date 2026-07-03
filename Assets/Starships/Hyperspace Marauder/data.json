@@ -1,0 +1,33 @@
+{
+  "name": "Hyperspace Marauder",
+  "wookieepedia_title": "Hyperspace Marauder",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hyperspace_Marauder",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hyperspace Marauder was Lo Khan's personal smuggling starship.",
+  "data": {
+    "name": "Hyperspace Marauder",
+    "model": "Xiytiar-class transport",
+    "type": "Freighter",
+    "modifier": [
+      "Lo Khan",
+      "Luwingo"
+    ],
+    "length": "164.8 meters",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Armored",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 700-Penetrator laser cannons",
+    "crew": "2",
+    "passengers": "12",
+    "capacity": "5,000 tons",
+    "consumables": "3 months",
+    "othersystems": "Custom multi-band computer interface antenna",
+    "owners": "Lo Khan",
+    "captains": "Lo Khan"
+  },
+  "scraped": "2026-07-03"
+}

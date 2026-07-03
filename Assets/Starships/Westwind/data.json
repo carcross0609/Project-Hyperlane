@@ -1,0 +1,21 @@
+{
+  "name": "Westwind",
+  "wookieepedia_title": "Westwind",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Westwind",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Westwind was a T-6 shuttle piloted by Rissa Mano to transport a squad of Jedi to the Outer Rim planet Hissrich during the early stages of the Clone Wars.",
+  "data": {
+    "name": "Westwind",
+    "model": "T-6 shuttle",
+    "type": "Shuttle",
+    "modifier": "Rissa Mano",
+    "length": "22.8 meters",
+    "hyperdrive": "Equipped",
+    "role": "Transport",
+    "affiliation": "Jedi Order",
+    "captains": "Rissa Mano"
+  },
+  "scraped": "2026-07-03"
+}

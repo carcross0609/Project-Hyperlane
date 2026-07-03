@@ -1,0 +1,37 @@
+{
+  "name": "Night Buzzard",
+  "wookieepedia_title": "Night Buzzard",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Night_Buzzard",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Night Buzzard was a modified Oubliette-class transport used by the Knights of Ren. The Knights made several alterations to the Night Buzzard to better suit their tastes, such as altering the vessel's appearance to match their dark side aesthetic. The vessel's engines were also crudely modified to generate more thrust, although this took a toll on the insulation baffles, causing the Buzzard to spew noxious gas as it flew. It was well armed, with a forward laser cannon turret, a mid ship laser cannon turret, a rear heavy laser cannon turret, and rear-facing fixed laser cannons. The Knight Kuruk served as the pilot of the heavily armed ship.",
+  "data": {
+    "name": "Night Buzzard",
+    "manufacturer": "Osseriton Assemblages",
+    "model": "Oubliette-class transport",
+    "type": "Transport",
+    "modifier": "Knights of Ren",
+    "sysmods": "Engines",
+    "length": "35.94 meters (117 ft, 9 in)",
+    "height": "5.88 meters",
+    "mglt": "90 mglt",
+    "engine": "Equipped",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Forward laser cannon turret (1)",
+      "Midship laser cannon turret (1)",
+      "Rear heavy laser cannon turret (1)",
+      "Rear-facing fixed laser cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunners (4)"
+    ],
+    "skeleton": "1",
+    "role": "Prison ship",
+    "affiliation": "Knights of Ren"
+  },
+  "scraped": "2026-07-03"
+}

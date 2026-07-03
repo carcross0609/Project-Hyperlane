@@ -1,0 +1,32 @@
+{
+  "name": "Grinning Liar",
+  "wookieepedia_title": "Grinning Liar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grinning_Liar",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Grinning Liar was a YX-1980 space transport vessel employed by smugglers Chak and Kee.",
+  "data": {
+    "name": "Grinning Liar",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YX-1980 space transport",
+    "type": "Transport",
+    "cost": "Not available for sale",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 1 (backup class 10)",
+    "hull": "Red",
+    "navigation": "Navicomputer",
+    "armament": "Medium laser cannons",
+    "bays": "6 cargo bays",
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "90 tons",
+    "consumables": "2 months",
+    "role": "Cargo hauler",
+    "owners": [
+      "Chak",
+      "Kee"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

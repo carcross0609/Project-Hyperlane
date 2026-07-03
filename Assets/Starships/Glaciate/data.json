@@ -1,0 +1,27 @@
+{
+  "name": "Glaciate",
+  "wookieepedia_title": "Glaciate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Glaciate",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Glaciate was an Immobilizer 418 cruiser in service of the Imperial Navy. It participated in the Battle of Jakku, where the Galactic Empire was defeated, ending the Galactic Civil War. During the battle, the Glaciate was infiltrated and captured by a New Republic group dispatched by General Carlist Rieekan.",
+  "data": {
+    "name": "Glaciate",
+    "model": "Immobilizer 418 cruiser",
+    "type": "Cruiser",
+    "length": "600 meters",
+    "armament": "Laser cannons (20)",
+    "passengers": "Stormtroopers",
+    "role": "Interdictor vessel",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

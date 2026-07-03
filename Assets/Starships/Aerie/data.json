@@ -1,0 +1,24 @@
+{
+  "name": "Aerie",
+  "wookieepedia_title": "Aerie",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aerie",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Aerie was a Quasar Fire-class cruiser-carrier used by the Galactic Empire's 204th Imperial Fighter Wing. It pursued and destroyed the New Republic frigate Hellion's Dare.",
+  "data": {
+    "name": "Aerie",
+    "model": "Quasar Fire-class cruiser-carrier",
+    "type": "Cruiser-carrier",
+    "hyperdrive": "Equipped",
+    "complement": "32 TIE/ln space superiority starfighters",
+    "destroyed": "5 ABY, Cerberon system",
+    "affiliation": [
+      "Galactic Empire",
+      "  204th Imperial Fighter Wing"
+    ],
+    "navy": "Imperial Navy",
+    "captains": "Rassus"
+  },
+  "scraped": "2026-07-03"
+}

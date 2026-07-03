@@ -1,0 +1,32 @@
+{
+  "name": "Valorous",
+  "wookieepedia_title": "Valorous (Victory-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Valorous_%28Victory-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Valorous was a Victory-class Star Destroyer of the Imperial Navy assigned to Black Sword Command. It was later captured by the Yevetha following an uprising led by them, and the ship was renamed the Devotion of Yevetha or simply the Devotion.",
+  "data": {
+    "name": "Valorous",
+    "model": "Victory-class Star Destroyer",
+    "length": "900 meters",
+    "complement": "TIE/rc starfighters",
+    "lifesupport": "Present",
+    "role": "Destroyer",
+    "affiliation": [
+      "Galactic Empire",
+      "  Black Sword Command",
+      "Duskhan League"
+    ],
+    "navy": "Imperial Navy",
+    "fleet": "Black Fleet",
+    "captains": [
+      "Primate Jip Toorr"
+    ],
+    "aliases": [
+      "Valorous (under the Empire)",
+      "Devotion of the Yevetha (under the Yevetha)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

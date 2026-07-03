@@ -1,0 +1,32 @@
+{
+  "name": "Sharp Spiral",
+  "wookieepedia_title": "Sharp Spiral",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sharp_Spiral",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sharp Spiral was the cherished personal starfighter of Jedi Master Saesee Tiin during the waning days of the Galactic Republic.",
+  "data": {
+    "name": "Sharp Spiral",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Modified Cutlass-9 patrol fighter",
+    "modifier": "Saesee Tiin",
+    "length": "12 meters",
+    "max_accel": "4,800 G",
+    "max_speed": "8,000 km/h",
+    "engine": "Advanced ion engine array",
+    "hyperdrive": "Class 1 (Class 0.6 equivalent with Saesee Tiin piloting)",
+    "hdsystem": "Custom-built hyperdrive system",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Laser cannons (2; adjustable power levels)",
+      "Proton torpedo launcher (1)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "role": "Starfighter",
+    "affiliation": "Jedi Order",
+    "captains": "Saesee Tiin"
+  },
+  "scraped": "2026-07-03"
+}

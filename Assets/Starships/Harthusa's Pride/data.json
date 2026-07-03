@@ -1,0 +1,44 @@
+{
+  "name": "Harthusa's Pride",
+  "wookieepedia_title": "Harthusa's Pride",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Harthusa%27s_Pride",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Harthusa's Pride was a modified space yacht owned by the Devaronian slaver, Harthusa. Confiscated by agents of the Alliance to Restore the Republic in the Bissillirus system shortly after the liberation of Kentara, they kept the ship as they continued to investigate the Bissillirus Resupply Base",
+  "data": {
+    "name": "Harthusa's Pride",
+    "manufacturer": "Ghtroc Industries",
+    "model": "Luxurious-class space yacht",
+    "type": "Space yacht",
+    "cost": "350,000 credits",
+    "sysmods": "Sensor stealth package",
+    "length": "31 meters",
+    "max_speed": "1,200 KMH",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 laser cannon",
+    "crew": "1; gunners: 1",
+    "passengers": [
+      "4 (in passenger compartment)",
+      "30 (in slave pens in cargo hold)"
+    ],
+    "capacity": "75 metric tons, 30 cubic meters",
+    "consumables": "1 month",
+    "role": [
+      "Personal transport",
+      "Slave ship"
+    ],
+    "affiliation": [
+      "Harthusa",
+      "Alliance to Restore the Republic"
+    ],
+    "owners": "Harthusa"
+  },
+  "scraped": "2026-07-03"
+}

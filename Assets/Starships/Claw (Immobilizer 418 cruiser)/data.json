@@ -1,0 +1,30 @@
+{
+  "name": "Claw",
+  "wookieepedia_title": "Claw (Immobilizer 418 cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Claw_%28Immobilizer_418_cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Claw was an Immobilizer 418 cruiser in service with the Imperial Navy during the Galactic Civil War.",
+  "data": {
+    "name": "Claw",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Immobilizer 418 cruiser",
+    "length": "600 meters",
+    "width": "300 meters",
+    "height": "100 meters",
+    "max_accel": "1,210 G",
+    "hyperdrive": [
+      "Class 2",
+      "Backup Class 8"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "SFS G-7x gravity well projectors (4)",
+      "Taim & Bak GX-7 quad laser cannons (20)"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

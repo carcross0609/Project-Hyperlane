@@ -1,0 +1,41 @@
+{
+  "name": "Testament",
+  "wookieepedia_title": "Testament",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Testament",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Testament was the Republic Hammerhead-class cruiser in the Republic Navy around 3963 BBY. Commanded by Captain Telettoh, the ship made a stop on the planet Wor Tandell, where Telettoh and Jedi General Malak were looking for Zayne Carrick and his band of renegades, before departing on the front line of the Mandalorian Wars.",
+  "data": {
+    "name": "Testament",
+    "manufacturer": "Rendili Hyperworks",
+    "model": "Hammerhead-class cruiser",
+    "type": "Cruiser",
+    "length": "315 meters",
+    "hyperdrive": "Class 2",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Dual heavy turbolasers (4)",
+      "Turbolaser (2)",
+      "Point-defense laser cannon batteries (2)",
+      "Laser cannon turrets (2)"
+    ],
+    "complement": [
+      "12 Aurek-class tactical strikefighters",
+      "2 Ministry-class orbital shuttles",
+      "Various support craft"
+    ],
+    "crew": "300",
+    "passengers": "400",
+    "capacity": "4,000 tons",
+    "consumables": "8 months",
+    "othersystems": "Tractor beam",
+    "role": "Cruiser",
+    "affiliation": [
+      "Galactic Republic",
+      "Republic Navy"
+    ],
+    "captains": "Telettoh"
+  },
+  "scraped": "2026-07-03"
+}

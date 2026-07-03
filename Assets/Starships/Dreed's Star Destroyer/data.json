@@ -1,0 +1,41 @@
+{
+  "name": "Dreed's Star Destroyer",
+  "wookieepedia_title": "Dreed's Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dreed%27s_Star_Destroyer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "An Imperial-class Star Destroyer belonged to Commander Dreed of the Imperial Navy.",
+  "data": {
+    "name": "Dreed's Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": "TIE fighter series starfighters (72)",
+    "crew": "Stormtroopers (9,700)",
+    "consumables": "2 years",
+    "communications": "Communications tower",
+    "destroyed": "0 ABY",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": [
+      "Dreed",
+      "Venk"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

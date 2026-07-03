@@ -1,0 +1,30 @@
+{
+  "name": "DFS-1308",
+  "wookieepedia_title": "DFS-1308",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DFS-1308",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "DFS-1308 was one of the Vulture-class starfighters assigned to Saak'ak during the Blockade of Naboo. It analyzed but was unable to calculate the \"Human element\" inside the N-1 starfighter.",
+  "data": {
+    "type": "Corporate",
+    "name": "DFS-1308",
+    "death": "32 BBY",
+    "manufacturer": [
+      "Haor Chall Engineering",
+      "Baktoid Armor Workshop"
+    ],
+    "line": "Droid starfighter",
+    "model": "Vulture-class starfighter",
+    "class": "Droid starfighter",
+    "cost": "19,000 credfits",
+    "length": "3.6 meters",
+    "height": "3.5 meters",
+    "gender": "None",
+    "sensor": "Red",
+    "plating": "Grey",
+    "armament": "• Blaster cannons (4)\n• Energy torpedo launchers (2)",
+    "affiliation": "Trade Federation"
+  },
+  "scraped": "2026-07-03"
+}

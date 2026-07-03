@@ -1,0 +1,26 @@
+{
+  "name": "Anvil",
+  "wookieepedia_title": "Anvil",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anvil",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Anvil was a Kilji war cruiser commanded by General Crofyp of the Kilji Illumine, the nation of the Kilji species. The Anvil was one of two Kilji warships in Crofyp's task force, the other being the Kilji picket cruiser Hammer. Crofyp's war cruiser was equipped with escape pods and electrostatic barriers, which shielded the Anvil hull. Its armament included spectrum lasers.",
+  "data": {
+    "name": "Anvil",
+    "model": "Kilji war cruiser",
+    "type": "War cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "armament": "Spectrum lasers",
+    "escapepods": "At least two",
+    "othersystems": "Electrostatic barriers",
+    "role": "Flagship",
+    "destroyed": "18 BBY, Rapacc system",
+    "affiliation": "Kilji Illumine",
+    "fleet": "Crofyp's task force",
+    "captains": "Crofyp",
+    "aliases": "\"Cruiser One\""
+  },
+  "scraped": "2026-07-03"
+}

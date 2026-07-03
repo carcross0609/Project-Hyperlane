@@ -1,0 +1,23 @@
+{
+  "name": "Facet",
+  "wookieepedia_title": "Facet (starfighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Facet_%28starfighter%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Facet was a Cieran-made Nivex-class starfighter owned by the thieves Pax Maripher and Rahara Wick, who modified it and stored it in the lower cargo hold aboard their freighter Meryx. It had a coppery surface.",
+  "data": {
+    "name": "Facet",
+    "model": "Nivex-class starfighter",
+    "type": "Starfighter",
+    "modifier": "Pax Maripher",
+    "engine": "At least 1",
+    "target": "Autopursuit",
+    "crew": "1 pilot",
+    "owners": [
+      "Pax Maripher",
+      "Rahara Wick"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

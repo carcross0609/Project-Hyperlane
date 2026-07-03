@@ -1,0 +1,31 @@
+{
+  "name": "Yavin Runner II",
+  "wookieepedia_title": "Yavin Runner II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yavin_Runner_II",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Yavin Runner II was one of a number of shuttles that served the Jedi Praxeum on Yavin 4.",
+  "data": {
+    "name": "Yavin Runner II",
+    "type": "Shuttle",
+    "hdsystem": "Damper",
+    "power": [
+      "Power converters",
+      "Power couplings"
+    ],
+    "skeleton": "1",
+    "passengers": "60",
+    "othersystems": [
+      "Acceleration compensator",
+      "Cooling unit"
+    ],
+    "role": [
+      "Shuttle",
+      "Rescue ship"
+    ],
+    "affiliation": "New Jedi Order",
+    "captains": "Yavin Runner pilot"
+  },
+  "scraped": "2026-07-03"
+}

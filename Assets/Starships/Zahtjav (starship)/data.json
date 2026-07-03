@@ -1,0 +1,54 @@
+{
+  "name": "Zahtjav",
+  "wookieepedia_title": "Zahtjav (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zahtjav_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Named after a legendary Rodian monster by the pirate Venslas Beeli, the Zahtjav was a CR90 corvette produced by the Corellian Engineering Corporation. The ship was owned by the Galactic Republic and used as an exploration vessel until Beeli acquired it sometime after 19 BBY, making it a part of his Solar Terrors pirate band. Beeli and his pirates used it until shortly after 0 ABY, when an Imperial task force captured them. Imperial Captain Vocis Kenit forced Beeli and his pirates into a confrontation with the Alliance to Restore the Republic privateer frigate Far Orbit; the Zahtjav was destroyed in the battle, and Beeli killed.",
+  "data": {
+    "name": "Zahtjav",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "CR series",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "length": "150 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "4 double turbolaser cannons",
+      "2 tractor beams"
+    ],
+    "crew": [
+      "50 crew",
+      "12 gunners"
+    ],
+    "skeleton": [
+      "20 crew",
+      "5 gunners"
+    ],
+    "passengers": "20",
+    "capacity": "3,000 metric tons",
+    "consumables": "1 year",
+    "lifesupport": "Equipped",
+    "role": [
+      "Modified mid-sized raiding vessel",
+      "Exploration vessel",
+      "Transport"
+    ],
+    "destroyed": "0 ABY",
+    "affiliation": [
+      "Galactic Republic",
+      "Solar Terrors"
+    ],
+    "owners": "Venslas Beeli",
+    "captains": "Venslas Beeli"
+  },
+  "scraped": "2026-07-03"
+}

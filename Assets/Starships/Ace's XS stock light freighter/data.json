@@ -1,0 +1,48 @@
+{
+  "name": "Ace's XS stock light freighter",
+  "wookieepedia_title": "Ace's XS stock light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ace%27s_XS_stock_light_freighter",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The smuggler more commonly known as Ace owned an XS stock light freighter during the Cold War and the Galactic War between the Galactic Republic and the Sith Empire. Having owned it for a while already, the smuggler had the freighter stolen by the criminal Skavak. Ace followed Skavak to the planet Coruscant, where he had taken the vessel, and eventually retrieved it.",
+  "data": {
+    "name": "Ace's XS stock light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "XS stock light freighter",
+    "type": "Light freighter",
+    "modifier": "Risha Drayen",
+    "sysmods": [
+      "Arkanian hyperdrive",
+      "Modified sensor computer",
+      "Prototype anti-radiation shield",
+      "Prototype engine"
+    ],
+    "length": "101 meters",
+    "width": "88 meters",
+    "height": "27 meters",
+    "hdsystem": "Arkanian hyperdrive",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Missile batteries",
+      "2 HSG-67 laser cannons"
+    ],
+    "escapepods": "1",
+    "skeleton": "1 pilot",
+    "role": [
+      "Freighter",
+      "Smuggling ship"
+    ],
+    "affiliation": "Galactic Republic",
+    "fleet": "Coruscant Aegis",
+    "owners": [
+      "Ace",
+      "Skavak"
+    ],
+    "captains": [
+      "Ace",
+      "Skavak"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

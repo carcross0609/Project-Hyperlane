@@ -1,0 +1,36 @@
+{
+  "name": "The Bug Stomper",
+  "wookieepedia_title": "The Bug Stomper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Bug_Stomper",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Bug Stomper was a Low Altitude Assault Transport/infantry that took part in the Second Battle of Geonosis. The nose of the gunship was painted with a clone trooper's foot squashing a Geonosian, and the ship's name written in Aurebesh.",
+  "data": {
+    "name": "The Bug Stomper",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Low Altitude Assault Transport/infantry",
+    "type": "Gunship",
+    "length": "17.69 meters",
+    "height": "6.94 meters",
+    "max_speed": "620 kph",
+    "armament": [
+      "Pair of Laser cannon turrets (Chin-mounted)",
+      "Pair of laser-beam turrets (optional)",
+      "Pair of Rocket Launchers (Dorsal surface)",
+      "  Missile belts (Rear-mounted)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)",
+      "Gunner (2-4)"
+    ],
+    "role": [
+      "Infantry transport",
+      "Air-to-ground support",
+      "Air-to-air support"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Defiance",
+  "wookieepedia_title": "Defiance",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defiance",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Defiance was an MC80A Home One Type Heavy Star Cruiser in service to the Alliance to Restore the Republic by the closing stages of the Galactic Civil War against the Galactic Empire. It participated in the decisive Battle of Endor and other important battles against the Empire.",
+  "data": {
+    "name": "Defiance",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "MC80A Home One Type Heavy Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,200 - 1,500 meters",
+    "max_speed": "975 kph",
+    "engine": "Ion engines (10)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "armament": "Turbolasers",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy"
+  },
+  "scraped": "2026-07-03"
+}

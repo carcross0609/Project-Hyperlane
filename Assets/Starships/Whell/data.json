@@ -1,0 +1,21 @@
+{
+  "name": "Whell",
+  "wookieepedia_title": "Whell",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Whell",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Whell was a Cargo ferry used by Admiral Harkov's fleet when they defected to the Rebellion.",
+  "data": {
+    "name": "Whell",
+    "model": "Cargo ferry",
+    "length": "90 meters",
+    "destroyed": "3 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Admiral Harkov's fleet",
+      "Rebel Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

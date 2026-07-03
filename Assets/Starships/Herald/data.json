@@ -1,0 +1,37 @@
+{
+  "name": "Herald",
+  "wookieepedia_title": "Herald",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Herald",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Herald was an Imperial-class Star Destroyer serving under Prelate Verge. Near the end of the Mid Rim Retreat, Verge pulled Captain Tabor Seitaron from his retirement to help him hunt Governor Everi Chalis who defected from her post at Haidoral Prime to the Alliance to Restore the Republics 61st Mobile Infantry. They followed leads on her and had imperial spies capture the Light freighter Trumpet's Call which was meant to rendezvous with the Sixty-First at a flotilla in the Elochar sector. There the spies seized the Sixty-Firsts CR90 corvette the Thunderstrike and gave their location to the Herald. The Herald then went there and found the Thunderstrike and its escort the Braha'tok-class gunship Apailana's Promise being the only ships in the sector. By then the Sixty-First had regained control of the Corvette and began to flee. The Herald damaged the ship as it fled. For that whole battle, Chalis had been at Hoth with the Sixty-Firsts Captain Micha Evon.",
+  "data": {
+    "name": "Herald",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": "TIE fighter series starfighters (72)",
+    "crew": "Stormtroopers (9,700)",
+    "consumables": "2 years",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Verge",
+    "captains": "Tabor Seitaron"
+  },
+  "scraped": "2026-07-03"
+}

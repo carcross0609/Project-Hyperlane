@@ -1,0 +1,29 @@
+{
+  "name": "Daunted Gypsy",
+  "wookieepedia_title": "Daunted Gypsy",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Daunted_Gypsy",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Daunted Gypsy was a Jermaguim-class Light Freighter operated by the New Republic. It was used by Republic operatives during the Freedom Strike Seltos operation.",
+  "data": {
+    "name": "Daunted Gypsy",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Jermaguim-class Light Freighter",
+    "length": "25 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "3 double laser cannons",
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "85 metric tons",
+    "consumables": "2 months",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

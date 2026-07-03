@@ -1,0 +1,37 @@
+{
+  "name": "Goshyn Queen",
+  "wookieepedia_title": "Goshyn Queen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Goshyn_Queen",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Goshyn Queen, a modified Kuat Drive Yards Space Master medium transport, was the flagship of the smuggler Billey. It was named for the Goshyn Detention Center, where Billey had served time prior to buying the ship. The ship was often in poor condition, as Billey was only willing to pay for the most essential repairs.",
+  "data": {
+    "name": "Goshyn Queen",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Space Master medium transport",
+    "type": "Space transport",
+    "cost": [
+      "New: 550,000 credits",
+      "Used: 175,000 credits"
+    ],
+    "length": "80 meters",
+    "hyperdrive": [
+      "Class 2",
+      "backup: Class 10"
+    ],
+    "hdsystem": "Equipped",
+    "armament": "Twin laser cannons (4)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)",
+      "Gunner (3)"
+    ],
+    "passengers": "4",
+    "capacity": "19,000 metric tons",
+    "consumables": "3 months",
+    "affiliation": "Smugglers' Alliance",
+    "owners": "Billey"
+  },
+  "scraped": "2026-07-03"
+}

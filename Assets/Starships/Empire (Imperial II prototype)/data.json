@@ -1,0 +1,21 @@
+{
+  "name": "Empire",
+  "wookieepedia_title": "Empire (Imperial II prototype)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Empire_%28Imperial_II_prototype%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Empire, was a prototype Imperial II-class Star Destroyer that served within the Imperial Navy. It was modified with superior shielding, and was commanded by Admiral Kiez.",
+  "data": {
+    "name": "Empire",
+    "model": "Imperial II-class Star Destroyer",
+    "sysmods": "Superior shielding to other ships in its class",
+    "role": [
+      "Destroyer",
+      "Battleship (downscaled)"
+    ],
+    "affiliation": "Galactic Empire",
+    "captains": "Admiral Feyet Kiez"
+  },
+  "scraped": "2026-07-03"
+}

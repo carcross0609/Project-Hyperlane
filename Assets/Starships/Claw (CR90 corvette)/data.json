@@ -1,0 +1,31 @@
+{
+  "name": "Claw",
+  "wookieepedia_title": "Claw (CR90 corvette)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Claw_%28CR90_corvette%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Claw was a CR90 corvette crewed by former associates of the pirate Butler during the Galactic Civil War. After Butler's death his crew became convinced that he had left behind a treasure on Butler's Cove. When they saw Alliance to Restore the Republic agents piloting the Hard Shell away from the planet they mistakenly believed it to be hauling Butler's treasure, and they gave chase.",
+  "data": {
+    "name": "Claw",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "cost": "1,200,000 credits",
+    "length": "150 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 2.0",
+    "armament": "Double turbolasers (3 front, 1 left, 1 right, 1 back)",
+    "crew": [
+      "30 Crew",
+      "6 Gunners"
+    ],
+    "skeleton": "15",
+    "passengers": "100",
+    "capacity": "3,000 metric tons",
+    "consumables": "1 year",
+    "role": "Corvette",
+    "affiliation": "Pirate"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Drone vessel 171",
+  "wookieepedia_title": "Drone vessel 171",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drone_vessel_171",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Drone vessel 171 was a drone freighter used by the Galactic Empire during the Galactic Civil War.",
+  "data": {
+    "name": "Drone vessel 171",
+    "model": "Drone freighter",
+    "type": "Freighter",
+    "hdsystem": "Equipped",
+    "armament": "Equipped",
+    "bays": "At least 1 docking bay",
+    "escapepods": "At least 3 escape pods",
+    "crew": "None required",
+    "skeleton": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": [
+      "Commander Traneel",
+      "At least 9 stormtroopers"
+    ],
+    "lifesupport": "Equipped",
+    "othersystems": "Command relay",
+    "role": "Unmanned freighter",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

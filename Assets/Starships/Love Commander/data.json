@@ -1,0 +1,25 @@
+{
+  "name": "Love Commander",
+  "wookieepedia_title": "Love Commander",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Love_Commander",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Love Commander was a Luxury 2400 yacht. Its original owner lost the ship in a sabacc game to Lando Calrissian. It had a sky-blue and green exterior paint job and specially rebuilt sublight engines which gave it considerable speed in realspace, despite its mediocre hyperspace capabilities. The interior of the ship was lavishly decorated, including a replica of a famous waterfall on Naboo, although the yacht did boast hidden weapons, including a laser turret and a missile launcher, and a shield generator. However, one weakness of the ship's defensive capabilities was its relatively long power up time.",
+  "data": {
+    "name": "Love Commander",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Luxury 2400 yacht",
+    "length": "50 meters",
+    "armament": [
+      "Pop-up turbolaser turret",
+      "Concussion missile"
+    ],
+    "role": "Yacht",
+    "owners": [
+      "Bescat Offdurmin",
+      "Lando Calrissian"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Prosecutor",
+  "wookieepedia_title": "Prosecutor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Prosecutor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Prosecutor was a slightly modified Acclamator-class assault ship in the Republic Navy during the Clone Wars. The ship became infamous in 21 BBY when it was boarded by a hostile crew of Trandoshan slavers and mercenaries. After wiping out the majority of the crew and taking control of the ship, the Trandoshans planned to hand the damaged but functional Prosecutor over to the Confederacy of Independent Systems. The Clone Commandos of Delta Squad were later sent to investigate what had happened and ultimately kept the Prosecutor from being handed over to the enemy.",
+  "data": {
+    "name": "Prosecutor",
+    "model": "Acclamator-class assault ship",
+    "type": "Assault ship",
+    "length": "752 meters",
+    "width": "460 meters",
+    "height": "183 meters",
+    "sensor": "Equipped",
+    "armament": [
+      "Quad turbolaser cannons",
+      "Heavy missile/torpedo launch tubes"
+    ],
+    "bays": "Several",
+    "crew": [
+      "Clone troopers",
+      "MSE-series droids",
+      "R2-series astromech droids",
+      "R5-series astromech droids",
+      "Trandoshans (after hijacking)",
+      "Trandoshan Elites (after hijacking)",
+      "Salvage droids (after hijacking)",
+      "B1-series battle droids (after hijacking)",
+      "B2-series super battle droids (after hijacking)",
+      "Droidekas (after hijacking)"
+    ],
+    "othersystems": [
+      "57C holocams",
+      "Datacores (4)",
+      "Internal autoturrets",
+      "Power conduits"
+    ],
+    "role": "Assault ship",
+    "affiliation": [
+      "Galactic Republic",
+      "Trandoshan mercenaries (stolen)"
+    ],
+    "navy": "Republic Navy",
+    "captains": "Martz"
+  },
+  "scraped": "2026-07-03"
+}

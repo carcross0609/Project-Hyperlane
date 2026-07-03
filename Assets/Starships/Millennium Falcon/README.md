@@ -1,0 +1,162 @@
+# Millennium Falcon
+
+**Kind:** Individual ship  
+**Continuity:** Canon  
+**Source:** [Millennium Falcon](https://starwars.fandom.com/wiki/Millennium_Falcon)
+
+The Millennium Falcon, originally designated YT 492727ZED and formerly known as the Stellar Envoy, and registered or known under various aliases and pseudonyms including Broken Bell, Corell's Pride, Close Shave, Fickle Flyer, Foul Matter, Graphite Skipper, Jin-Den Smoke, Longshot, Lost and Found, Star Princess, Sunfighter Franchise, Sweet Suprise, Meetyl's Misery, Wayward Son, and Victory Ring, was a Corellian YT-1300 light freighter built around 60 BBY. Earning a legendary status under their ownership, the ship was most famously used by the smugglers Han Solo and Chewbacca before, during, and following the Galactic Civil War.
+
+## Specifications
+
+- **Name:** Millennium Falcon
+- **Manufacturer:** Corellian Engineering Corporation
+- **Line:** YT-series
+- **Model:**
+  - YT-1300 light freighter (modified)
+  -   Modified YT-1300f light freighter (model configuration)
+- **Type:**
+  - Star freighter
+  -   Light freighter (heavily modified)
+- **Modifier:**
+  - A technician
+  - Lando Calrissian
+  - Han Solo
+  - Chewbacca
+  - Gannis Ducain
+  - Vanver and Toursant Irving
+  - Unkar Plutt
+  - Rey
+  - Rose Tico
+  - Klaus "Doc" Vandagante
+- **Length:** 34.52 meters (113.25 feet) (by 34 ABY)
+- **Width:** 25.61 meters (84 ft)
+- **Height:** 7.8 meters (26 ft)
+- **Mglt:** 75 MGLT
+- **Max Speed:**
+  - 1,200 kph (under Calrissian)
+  - 1,050 kph (later)
+- **Engine:**
+  - Girodyne SRB42 sublight engines (2) (heavily modified)
+  - Landing jets
+- **Hyperdrive:**
+  - Class 1.0 (under Calrissian)
+  - Class 0.5 (later)
+  - Class 10 (backup)
+- **Hdsystem:**
+  - Avatar-10 hyperdrive (under Calrissian)
+  - Isu-Sim SSP05 hyperdrive (heavily modified)
+  - 401 series hyperdrive (later)
+  - Backup hyperdrive
+- **Power:**
+  - Quadex power core
+  - InCom N2I-4 power converter
+  - Koensayr TLB power converter
+  - CEC emergency power converter
+  - Cryogenic reserve power cells
+- **Shield Gen:**
+  - Torplex deflector shield projector
+  - Nordoxicon Unlimited Anti-concussion field generator
+  - Novaldex stasis-type shield generator
+  - Kuat Drive Yards & Nordoxicon-38 deflector shield projector
+- **Hull:**
+  - Torplex & Novaldex Durasteel shell
+  -   Duralloy and durasteel plating
+  -   Military-grade armor
+- **Sensor:**
+  - Fabritech ANq-51 sensor array computer
+  - Fabritech ANy-20 active sensor transceiver
+  - Siep-Irol passive sensor antenna
+  - Sienar Fleet Systems pulse generator
+- **Navigation:** Microaxial Rubicon navicomputer with HyD modular navicomputer backup (modified)
+- **Maincomp:**
+  - Hanx-Wargel SuperFlow IV computer (modified with 3 droid brains)
+  -   V-5 transport droid brain
+  -   Corporate espionage slicer droid brain
+  -   L3-37's droid brain
+- **Countermeasures:** Carbanti 29L electromagnetic countermeasures package with signal-augmented sensor jammer
+- **Armament:**
+  - Arakyd Tomral RM-76 heavy laser cannons (2)
+  - CEC AG-2G quad laser cannons (2)
+  - Arakyd ST2 concussion missile tubes (2) (carrying 8 missiles)
+  - BlasTech Ax-108 "Ground Buzzer" blaster cannon (1)
+  - Ion cannon
+  - Phylon Transport C5 tractor beam emitters (2)
+- **Complement:** YT Dart (under Lando)
+- **Escapepods:** Model CEC Class-1s (5)
+- **Crew:**
+  - Two (minimum)
+  -   Pilot (1)
+  -   Co-pilot (1)
+  - Gunners (2)
+- **Skeleton:** 1
+- **Passengers:** 6
+- **Capacity:** 100 metric tons
+- **Cargohandling:** Freight elevator
+- **Consumables:** 2 months' supply
+- **Lifesupport:** Equipped
+- **Communications:**
+  - Upgraded Chedak subspace radio
+  - Chedak Frequency Agile subspace transceiver
+- **Othersystems:**
+  - Gelieg 20m-cp Strobe/C-Beam Lamps
+  - Dejarik table
+  - Autopilot
+  - Flotation pontoons
+  - Athakam II Med Unit
+  - Thermal regulators
+  - KapriCorp Acceleration compensator
+  - Alluvial dampers
+- **Role:**
+  - Freighter
+  - Smuggling ship
+- **Commission:** c. 60 BBY
+- **Affiliation:**
+  - Corell Industries Limited
+  - Republic Group
+  - Crimson Dawn
+  - Jabba Desilijic Tiure's criminal empire
+  - Alliance to Restore the Republic
+  - New Republic
+  - Resistance
+  - Ohnaka Transport Solutions
+- **Navy:**
+  - Rebel Alliance Navy
+  - New Republic Defense Fleet
+  - Resistance navy
+- **Fleet:** Citizens' Fleet
+- **Owners:**
+  - Lando Calrissian
+  - Han Solo
+  - Gannis Ducain
+  - Vanver and Toursant Irving
+  - Unkar Plutt
+  - Chewbacca
+  - Rey
+- **Captains:**
+  - Lando Calrissian
+  - Han Solo
+  - Chewbacca
+  - Rey
+  - Poe Dameron
+- **Registry:** YT 492727ZED
+- **Aliases:**
+  - Broken Bell
+  - Close Shave
+  - Corell's Pride
+  - Fickle Flyer
+  - Foul Matter
+  - Graphite Skipper
+  - Jin-Den Smoke
+  - Longshot
+  - Lost and Found
+  - Meetyl's Misery
+  - Star Princess
+  - Stellar Envoy
+  - Sunfighter Franchise
+  - Sweet Surprise
+  - Wayward Son
+  - Victory Ring
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

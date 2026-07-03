@@ -1,0 +1,35 @@
+{
+  "name": "Blue Ace",
+  "wookieepedia_title": "Blue Ace",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blue_Ace",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blue Ace was a custom-built state-of-the-art starship piloted by Torra Doza that suited to her personality and racing skills, during the time of the Cold War. It could hold an astromech droid and was able to change the power of its laserblasts. Doza used it in several races, missions and helped defend the Colossus several times. It was also present at the Battle of Exegol between the Resistance and the Sith Eternal.",
+  "data": {
+    "name": "Blue Ace",
+    "manufacturer": "Joben and Sons",
+    "type": [
+      "Racer",
+      "Starfighter"
+    ],
+    "engine": "2",
+    "armament": [
+      "Laser cannons (2)",
+      "Missile launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "affiliation": [
+      "Ace Squadron",
+      "Resistance",
+      "  Team Colossus",
+      "Citizens' Fleet"
+    ],
+    "fleet": "Galaxy fleet",
+    "owners": "Torra Doza"
+  },
+  "scraped": "2026-07-03"
+}

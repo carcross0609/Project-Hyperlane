@@ -1,0 +1,28 @@
+{
+  "name": "Perpetuus",
+  "wookieepedia_title": "Perpetuus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Perpetuus",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Perpetuus was a red-and-white CSS-1 Corellian Star Shuttle that was used by the Galactic Republic. In 32 BBY, Supreme Chancellor Sheev Palpatine and the Jedi High Council used the transport to travel from the Republic capital Coruscant to the planet Naboo after the Battle of Naboo had concluded.",
+  "data": {
+    "name": "Perpetuus",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CSS-1 Corellian Star Shuttle",
+    "type": [
+      "Cruiser",
+      "Transport"
+    ],
+    "length": "80 meters (262 feet, 5 inches)",
+    "max_speed": "800 kph",
+    "engine": "Ion engine (3)",
+    "hyperdrive": "Class 1.5",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "None",
+    "passengers": "200",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

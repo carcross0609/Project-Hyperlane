@@ -1,0 +1,32 @@
+{
+  "name": "D-Squad's shuttle",
+  "wookieepedia_title": "D-Squad's shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/D-Squad%27s_shuttle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Nu-class attack Transport was captured by the Confederacy of Independent Systems during the Clone Wars, being used to help load Rhydonium explosives from Abafar to the captured cruiser Renown as part of a terrorist plot. It was eventually stolen by the Galactic Republic's D-Squad during their escape from Abafar.",
+  "data": {
+    "name": "D-Squad's shuttle",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Nu-class attack shuttle",
+    "engine": "6",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "At least 4 laser cannons",
+      "  Multiple medium laser cannons",
+      "  1 double light laser cannon"
+    ],
+    "crew": "At least 2 clone troopers",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "role": "Transport",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "owners": [
+      "Confederacy of Independent Systems",
+      "D-Squad"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

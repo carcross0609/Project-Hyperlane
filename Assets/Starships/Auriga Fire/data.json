@@ -1,0 +1,32 @@
+{
+  "name": "Auriga Fire",
+  "wookieepedia_title": "Auriga Fire",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Auriga_Fire",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Auriga Fire was the personal starship of smuggler Jet Nebula around a decade after the Treaty of Coruscant. From above it appeared almost perfectly triangular, with hyperdrives at the base; sensor arrays, shield generators, and comms at the upper point; and a cockpit slightly off-center in the middle, above the main holds. Its interior hallways were arranged in a \"Y\" shape. The ship also possessed a compact tractor beam generator in recessed hatch on its ventral side, as well as a crude interdictor.",
+  "data": {
+    "name": "Auriga Fire",
+    "engine": "Ion Engines",
+    "hyperdrive": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Triple Laser cannon emplacements (4)",
+      "Tractor beam (1)"
+    ],
+    "escapepods": "1",
+    "crew": [
+      "Minimum: 5",
+      "Maximum: 10"
+    ],
+    "communications": "Equipped",
+    "othersystems": "Interdiction Device",
+    "role": "Freighter",
+    "owners": "Jet Nebula"
+  },
+  "scraped": "2026-07-03"
+}

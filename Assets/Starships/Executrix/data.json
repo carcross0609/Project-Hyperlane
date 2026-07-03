@@ -1,0 +1,69 @@
+{
+  "name": "Executrix",
+  "wookieepedia_title": "Executrix",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Executrix",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Executrix was an Imperial I-class Star Destroyer belonging to the starfleet of the Galactic Empire. It served as Wilhuff Tarkin's personal flagship during his service as Moff and later Grand Moff, from 18 BBY, up until Tarkin took command of the Death Star in 1 BBY, where the Governor was killed.",
+  "data": {
+    "name": "Executrix",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": [
+      "Deflector shield generator domes (2)",
+      "Navigational deflector generator"
+    ],
+    "sensor": [
+      "Equipped",
+      "  Antenna"
+    ],
+    "target": "Tractor beam targeting array",
+    "armament": [
+      "Taim & Bak XX-9 heavy turbolaser batteries (60)",
+      "Borstel NK-7 ion cannons (60)",
+      "Laser turrets",
+      "Phylon Q7 tractor beam projectors (10)"
+    ],
+    "complement": [
+      "TIE/ln space superiority starfighters",
+      "  C-patrol",
+      "TIE/sa bombers",
+      "Alpha-3 Nimbus-class V-wing starfighters",
+      "Imperial Dropship Transports",
+      "Transports",
+      "  Transport three-six-six",
+      "At least 1 Modified IPV-2C Stealth Corvette",
+      "  Carrion Spike"
+    ],
+    "bays": "Primary docking bay",
+    "crew": [
+      "Imperial officers (9,235)",
+      "Enlisted crew (27,850)",
+      "Imperial Starfighter Pilots",
+      "Stormtroopers (9,700)",
+      "MSE-6 series repair droids"
+    ],
+    "passengers": "At least 1 KX-series security droid",
+    "communications": "Holotables",
+    "role": "Flagship",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": [
+      "Tarkin's task force",
+      "Carrion Spike task force"
+    ],
+    "owners": "Wilhuff Tarkin",
+    "captains": "Hindane Darcc"
+  },
+  "scraped": "2026-07-03"
+}

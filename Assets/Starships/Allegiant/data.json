@@ -1,0 +1,22 @@
+{
+  "name": "Allegiant",
+  "wookieepedia_title": "Allegiant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Allegiant",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Allegiant was an MC80B Star Cruiser in the New Republic Defense Fleet.",
+  "data": {
+    "name": "Allegiant",
+    "type": "MC80B Star Cruiser",
+    "complement": "Nomad Squadron",
+    "role": [
+      "Carrier",
+      "Cruiser"
+    ],
+    "commission": "&lt;25 ABY",
+    "affiliation": "New Republic",
+    "fleet": "Meridian sector patrol defense"
+  },
+  "scraped": "2026-07-03"
+}

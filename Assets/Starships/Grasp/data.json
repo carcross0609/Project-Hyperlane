@@ -1,0 +1,27 @@
+{
+  "name": "Grasp",
+  "wookieepedia_title": "Grasp",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grasp",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Grasp was the personal starship of the pirate Teehl.",
+  "data": {
+    "name": "Grasp",
+    "manufacturer": "Aratech Repulsor Company",
+    "model": "SkySlayer",
+    "type": "Light assault ship",
+    "length": "20 meters",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 quad laser cannons",
+      "4 blaster cannon"
+    ],
+    "crew": "7",
+    "capacity": "50 metric tons",
+    "consumables": "4 months"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Unidentified Consular-class cruiser",
+  "wookieepedia_title": "Unidentified Consular-class cruiser (Noggox)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Consular-class_cruiser_%28Noggox%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Consular-class cruiser was owned by Noggox the Hutt during the Clone Wars. It was captured by the pirate Dool Pundar in 22 BBY.",
+  "data": {
+    "name": "Unidentified Consular-class cruiser",
+    "model": "Cruiser",
+    "type": "Consular-class cruiser",
+    "length": "115 meters",
+    "shield_gen": "Equipped",
+    "escapepods": "Equipped",
+    "role": "Freighter",
+    "owners": [
+      "Noggox the Hutt",
+      "Dool Pundar"
+    ],
+    "captains": "A Klatooinian captain"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Bror Jace's T-65 X-wing",
+  "wookieepedia_title": "Bror Jace's T-65 X-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bror_Jace%27s_T-65_X-wing",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Bror Jace's T-65 X-wing was a starfighter purchased for the Thyferran Human after he reunited with Rogue Squadron following his presumed death.",
+  "data": {
+    "name": "Bror Jace's T-65 X-wing",
+    "manufacturer": "Incom Corporation",
+    "model": "T-65 X-wing starfighter",
+    "type": "Starfighter",
+    "engine": "4L4 fusial thrust engines (4)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "KX9 laser cannons (4)",
+      "Concussion missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "0",
+    "role": "Attack Fighter",
+    "affiliation": [
+      "Antilles's Rogues",
+      "Zaltin Corporation",
+      "New Republic",
+      "  Rogue Squadron"
+    ],
+    "navy": "New Republic Space Navy",
+    "owners": "Bror Jace"
+  },
+  "scraped": "2026-07-03"
+}

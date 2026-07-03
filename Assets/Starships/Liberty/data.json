@@ -1,0 +1,38 @@
+{
+  "name": "Liberty",
+  "wookieepedia_title": "Liberty",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liberty",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Liberty was a MC80 Liberty Type Heavy Star Cruiser of the MC80 Star Cruiser line that served in the Alliance Fleet during the Galactic Civil War. The ship served as Corona Squadron's headquarters, and notably participated in the decisive battle fought at Endor, where it was the first victim of the second Death Star.",
+  "data": {
+    "name": "Liberty",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC80 Star Cruiser",
+    "model": "MC80 Liberty Type Heavy Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,200 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kph",
+    "engine": "Sublight thrusters (10)",
+    "shield_gen": "Deflector shield generators",
+    "armament": [
+      "Turbolaser batteries (48)",
+      "Ion cannon batteries (20)",
+      "Tractor beam projectors (6)"
+    ],
+    "complement": [
+      "T-65B X-wing starfighters",
+      "10 squadrons of starfighters"
+    ],
+    "crew": "Over 5,000",
+    "destroyed": "4 ABY, Endor system",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Corona Squadron"
+    ],
+    "navy": "Rebel Alliance Navy"
+  },
+  "scraped": "2026-07-03"
+}

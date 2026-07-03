@@ -1,0 +1,45 @@
+{
+  "name": "Vengeful Sandstorm",
+  "wookieepedia_title": "Vengeful Sandstorm",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vengeful_Sandstorm",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "Vengeful Sandstorm was a modified SS-19 cargo transport owned by Armanda Durkin of the Notsub Shipping Company sometime during the Galactic Civil War. Durkin used the ship to raid others, which allowed her to finance Notsub Shipping. The first time it was used in this capacity was to steal a load of plastisteel from a CR90 corvette destined for Myomar.",
+  "data": {
+    "name": "Vengeful Sandstorm",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified SS-19 cargo transport",
+    "type": "Transport",
+    "length": "25 meters",
+    "max_speed": "210 kph",
+    "engine": "Modified Kuat Drive Yards subspace engine",
+    "hyperdrive": [
+      "Class 1",
+      "Unknown Class Backup"
+    ],
+    "hdsystem": "Modified Kuat Drive Yards hyperdrive engine",
+    "armament": [
+      "Taim & Bak heavy laser cannons (2);",
+      "Fire Arc: Front;",
+      "Crew:1 person;",
+      "Space Range: 25 km;",
+      "Atmospheric Range: 2.5 km",
+      "Torplex heavy laser cannon (2)",
+      "Fire Arc: 1 Front, 1 Back;",
+      "Crew:1 person;",
+      "Space Range: 25 km;"
+    ],
+    "crew": "2 people",
+    "passengers": "4 people",
+    "capacity": [
+      "100 metric tons OR",
+      "42 cubic meters"
+    ],
+    "consumables": "1 week",
+    "othersystems": "Carbanti communications jammer",
+    "role": "Piracy",
+    "affiliation": "Armanda Durkin"
+  },
+  "scraped": "2026-07-03"
+}

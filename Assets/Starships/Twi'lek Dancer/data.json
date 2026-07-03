@@ -1,0 +1,35 @@
+{
+  "name": "Twi'lek Dancer",
+  "wookieepedia_title": "Twi'lek Dancer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Twi%27lek_Dancer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Twi'lek Dancer was a CEC Barloz-class freighter that had a number of owners through the years.",
+  "data": {
+    "name": "Twi'lek Dancer",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Barloz-class freighter",
+    "cost": "19,200",
+    "length": "41 meters",
+    "max_speed": "1,000 kmh",
+    "hyperdrive": [
+      "x1",
+      "x8 backup"
+    ],
+    "armament": [
+      "Quad laser cannons (2)"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "3",
+    "capacity": "65 tons",
+    "consumables": "1 month",
+    "aliases": [
+      "Harvest",
+      "Venom Sting",
+      "Twi'lek Dancer"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

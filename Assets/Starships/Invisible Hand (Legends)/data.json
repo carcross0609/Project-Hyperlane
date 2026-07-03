@@ -1,0 +1,84 @@
+{
+  "name": "Invisible Hand",
+  "wookieepedia_title": "Invisible Hand/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Invisible_Hand/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Invisible Hand was a modified Providence-class carrier/destroyer and one of General Grievous's flagships during the Clone Wars. The vessel was colored a light blue-gray, with subtle yellow bow stripes which distinguished it from other Providence-class vessels.",
+  "data": {
+    "name": "Invisible Hand",
+    "manufacturer": [
+      "Free Dac Volunteers Engineering Corps",
+      "Pammant Docks"
+    ],
+    "model": "Modified Providence-class carrier/destroyer",
+    "type": "Capital ship",
+    "cost": "Is available for sale (likely valued at 125 million credits)",
+    "modifier": "Confederacy of Independent Systems",
+    "sysmods": [
+      "Main communications and sensor pod refitted as Count Dooku's private sanctum.",
+      "Hangars expanded to fill up space usually reserved for thrusters and reactors."
+    ],
+    "length": "1,088 meters",
+    "width": "198 meters",
+    "height": "374 meters",
+    "max_accel": "2,500G",
+    "max_speed": "1,050 km/h",
+    "engine": "4 Nubian Creveld-4 radial ion drives",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "armament": [
+      "Heavy ion cannons (2)",
+      ":Fire Arc: Front",
+      "Quad turbolaser cannons (14)",
+      ":Fire Arc: 4 front, 5 left, 5 right",
+      "Dual laser cannons (34)",
+      ":Fire Arc: 6 turreted batteries, 2 batteries front, 4 batteries left, 4 batteries right, 1 battery rear",
+      "Point-defense ion cannons (12)",
+      ":Fire Arc: 6 left, 6 right",
+      "Mass-driver cannons (12)",
+      ":Fire Arc: 6 left, 6 right",
+      "Proton torpedo tubes (102)",
+      ":Fire Arc: Turreted",
+      ":Ammo: 16 torpedoes each",
+      "Tractor beam projectors (8)",
+      ":Fire Arc: 4 left, 4 right"
+    ],
+    "complement": [
+      "120 Droid tri-fighters",
+      "120 Vulture Droids",
+      "160 MTTs",
+      "280 assorted droid armored vehicles including AATs, Hailfire droids, OG-9 homing spider droids and LM-432 crab droids"
+    ],
+    "bays": [
+      "2 main Hangars",
+      "Bay One"
+    ],
+    "escapepods": "Equipped",
+    "crew": "350",
+    "skeleton": "2",
+    "passengers": "Up to 1,5 million battle droids",
+    "capacity": "50,000 tons",
+    "consumables": "4 years",
+    "role": [
+      "Carrier",
+      "Destroyer",
+      "Command ship (Flagship)"
+    ],
+    "destroyed": "19 BBY (bridge remained)",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ],
+    "navy": "Confederate Navy",
+    "owners": [
+      "General Grievous",
+      "Nute Gunray"
+    ],
+    "captains": "Lushros Dofine"
+  },
+  "scraped": "2026-07-03"
+}

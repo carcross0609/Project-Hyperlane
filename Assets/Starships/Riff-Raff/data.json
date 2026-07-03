@@ -1,0 +1,32 @@
+{
+  "name": "Riff-Raff",
+  "wookieepedia_title": "Riff-Raff",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Riff-Raff",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Riff-Raff was a modified Gymsnor-3 light freighter owned and operated by Korkeal Hai. The Riff-Raff could often be found hauling freight in the Minos Cluster.",
+  "data": {
+    "name": "Riff-Raff",
+    "manufacturer": "CorelliSpace",
+    "model": "Modified light freighter",
+    "type": "Gymsnor-3 light freighter",
+    "modifier": "Korkeal Hai",
+    "length": "34.1 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "maincomp": "High grade Clone Wars-era computer",
+    "armament": "1 heavy blaster cannon",
+    "crew": "1",
+    "passengers": "4",
+    "capacity": "75 metric tons, 30 cubic meters",
+    "consumables": "1 month",
+    "role": "Tramp freighter",
+    "owners": "Korkeal Hai",
+    "captains": "Korkeal Hai"
+  },
+  "scraped": "2026-07-03"
+}

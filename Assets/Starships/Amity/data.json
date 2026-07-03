@@ -1,0 +1,23 @@
+{
+  "name": "Amity",
+  "wookieepedia_title": "Amity",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amity",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Amity was a Starhawk-class Battleship Mark I that served in the New Republic Defense Fleet during the Galactic Civil War in 5 ABY. The Amity took part in the Battle of Jakku where it was subsequently destroyed.",
+  "data": {
+    "name": "Amity",
+    "manufacturer": "Nadiri Dockyards",
+    "line": "Starhawk-class battleship",
+    "model": "Starhawk-class Battleship Mark I",
+    "type": "Battleship",
+    "destroyed": "5 ABY, Jakku system",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Force"
+    ],
+    "navy": "New Republic Defense Fleet"
+  },
+  "scraped": "2026-07-03"
+}

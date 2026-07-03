@@ -1,0 +1,51 @@
+{
+  "name": "Courageous",
+  "wookieepedia_title": "Courageous (YT-1300 light freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Courageous_%28YT-1300_light_freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Courageous was a highly modified YT-1300 light freighter.",
+  "data": {
+    "name": "Courageous",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300 light freighter",
+    "type": "Light freighter",
+    "cost": "Valued at 150,000 credits",
+    "sysmods": [
+      "Power systems",
+      "Reduced cargo space",
+      "Reinforced keel and spine",
+      "Shields",
+      "Weapons"
+    ],
+    "length": "29 meters",
+    "hyperdrive": [
+      "Class 3",
+      "Backup: Class 13"
+    ],
+    "power": "Addidional power generators",
+    "shield_gen": "Reinforced",
+    "hull": "Reinforced keel and spine",
+    "armament": [
+      "2 Taim & Bak XI7 turbolasers",
+      "1 Dual laser cannon turret (most common configuration)"
+    ],
+    "crew": [
+      "2",
+      "2 gunners"
+    ],
+    "passengers": "2",
+    "capacity": "2 metric tons of cargo",
+    "consumables": "1 month",
+    "role": "Warship",
+    "commission": "Between 40 BBY-32 BBY",
+    "affiliation": [
+      "Pirates",
+      "Planetary defense forces",
+      "Bounty hunters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

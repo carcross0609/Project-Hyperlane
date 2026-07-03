@@ -1,0 +1,30 @@
+{
+  "name": "Revenue",
+  "wookieepedia_title": "Revenue",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Revenue",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Revenue was a Lucrehulk-class LH-3210 cargo freighter commanded by Daultay Dofine.",
+  "data": {
+    "name": "Revenue",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Lucrehulk-class LH-3210 cargo freighter",
+    "length": "3,000 meters (diameter)",
+    "hyperdrive": "Class 2",
+    "armament": "Turbolasers",
+    "complement": "200 B1-series battle droids or troops",
+    "crew": "500",
+    "passengers": "50",
+    "capacity": "25,000,000 metric tons",
+    "consumables": "500 days",
+    "role": [
+      "Freighter",
+      "Carrier"
+    ],
+    "destroyed": "33 BBY",
+    "affiliation": "Trade Federation",
+    "captains": "Daultay Dofine"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Probe ship",
+  "wookieepedia_title": "Probe ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Probe_ship",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This probe ship was used by Princess Leia Organa to scout for possible new locations, including Kharzet III, for the Rebel base after the Battle of Hoth.",
+  "data": {
+    "name": "Probe ship",
+    "type": "Transport",
+    "role": [
+      "Scout vessel",
+      "Transport"
+    ],
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Alliance Fleet",
+    "captains": "Leia Organa"
+  },
+  "scraped": "2026-07-03"
+}

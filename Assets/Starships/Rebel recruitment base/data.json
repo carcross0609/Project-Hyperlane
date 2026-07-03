@@ -1,0 +1,20 @@
+{
+  "name": "Rebel recruitment base",
+  "wookieepedia_title": "Rebel recruitment base",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rebel_recruitment_base",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A GR-75 medium transport served as a mobile recruitment base for the Alliance to Restore the Republic during the Galactic Civil War. A number of Galactic Empire personnel who defected were directed to the base, leading the Empire to become aware of it, though they could not locate it, and did not know it was mobile. After the Imperial Security Bureau discovered that Zin Graw, a TIE fighter pilot in the 204th Imperial Fighter Wing, was attempting to defect to the Rebellion. While Graw was killed in a previous mission, the Empire used the time and location that she had been given to launch an attack on the base. Squadron Five of the 204th, accompanied by TIE bombers, ambushed the base as it left hyperspace, and managed to destroy both the base and the X-wing starfighters that had been sent out to defend it.",
+  "data": {
+    "name": "Rebel recruitment base",
+    "model": "GR-75 medium transport",
+    "type": "Transport",
+    "complement": "T-65B X-wing starfighters",
+    "role": "Mobile recruitment base",
+    "destroyed": "4 ABY",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Rebel Alliance Navy"
+  },
+  "scraped": "2026-07-03"
+}

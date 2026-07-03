@@ -1,0 +1,31 @@
+{
+  "name": "NeHimmep",
+  "wookieepedia_title": "NeHimmep (freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/NeHimmep_%28freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "NeHimmep was a Starfeld Industries ZH-25 Questor-class freighter, named for a famous Duros explorer. Her owner, Captain Mirchidi NeMall, used it for non-smuggling trading purposes.",
+  "data": {
+    "name": "NeHimmep",
+    "manufacturer": "Starfeld Industries",
+    "model": "ZH-25 Questor-class",
+    "type": "Light freighter",
+    "cost": "89,000 credits",
+    "modifier": "1",
+    "length": "22.4 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "x1",
+      "x12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (2, fire-linked)",
+    "crew": "1",
+    "passengers": "6",
+    "capacity": "85 metric tons",
+    "consumables": "3 months",
+    "owners": "Mirchidi NeMall"
+  },
+  "scraped": "2026-07-03"
+}

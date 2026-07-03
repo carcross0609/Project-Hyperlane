@@ -1,0 +1,22 @@
+{
+  "name": "IG-1000",
+  "wookieepedia_title": "IG-1000",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IG-1000",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "IG-1000 was a TIE variant starfighter piloted by the assassin droid IG-88.",
+  "data": {
+    "name": "IG-1000",
+    "line": "TIE Series",
+    "type": "Modified TIE variant",
+    "armament": "Laser cannons (2)",
+    "crew": "Pilot (1)",
+    "role": [
+      "Starfighter",
+      "Transport"
+    ],
+    "affiliation": "IG-88"
+  },
+  "scraped": "2026-07-03"
+}

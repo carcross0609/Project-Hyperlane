@@ -1,0 +1,45 @@
+{
+  "name": "Sabra",
+  "wookieepedia_title": "Sabra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sabra",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sabra was one of two YT-1300 transports owned and operated by the Azzameen family, the other being the Selu.",
+  "data": {
+    "name": "Sabra",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "Modified YT-1300 light freighter",
+    "type": "Light freighter",
+    "modifier": "Azzameen family",
+    "length": "34.75 meters",
+    "mglt": "88 MGLT",
+    "maneuverability": "64 DPF",
+    "shield_gen": "Rated 120 SBD",
+    "hull": "Rated 76 RU",
+    "navigation": "Equipped",
+    "countermeasures": [
+      "Chaff (optional)",
+      "Flares (optional)"
+    ],
+    "armament": [
+      "Laser cannon (1)",
+      "Laser cannon turret (1)",
+      "Warhead launcher (2)",
+      "  3 proton torpedoes each"
+    ],
+    "communications": "Equipped",
+    "affiliation": [
+      "Azzameen family",
+      "Twin Suns Transport Services",
+      "Alliance to Restore the Republic (Private vessel used in Alliance missions)"
+    ],
+    "owners": "Azzameen family",
+    "captains": [
+      "Ace Azzameen",
+      "Aeron Azzameen"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

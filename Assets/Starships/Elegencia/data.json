@@ -1,0 +1,29 @@
+{
+  "name": "Elegencia",
+  "wookieepedia_title": "Elegencia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Elegencia",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Elegencia was a corvette-sized starship owned by Pan Eyta, a Tempest Runner of the Nihil marauder organization. It had a beautiful interior, with surfaces covered in soft leather and lighting that accented Eyta's design choices.",
+  "data": {
+    "name": "Elegencia",
+    "type": "Battle cruiser",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Bombing bays (3)"
+    ],
+    "complement": "Hundreds of scav droids",
+    "escapepods": "Hidden escape pod (1)",
+    "othersystems": "Path engine",
+    "role": "Tempest Runner flagship",
+    "destroyed": "231 BBY, Cyclor",
+    "affiliation": [
+      "Nihil",
+      "  Pan Eyta's Tempest"
+    ],
+    "owners": "Pan Eyta"
+  },
+  "scraped": "2026-07-03"
+}

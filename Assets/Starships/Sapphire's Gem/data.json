@@ -1,0 +1,34 @@
+{
+  "name": "Sapphire's Gem",
+  "wookieepedia_title": "Sapphire's Gem",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sapphire%27s_Gem",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Sapphire's Gem, previously known as New Cov Quasar, was a Crescent-class transport Mark I built by Hyrotii Corporation and used by the smuggler Kevas Startron until he gave it to fellow smuggler Sapphire as a gift.",
+  "data": {
+    "name": "Sapphire's Gem",
+    "manufacturer": "Hyrotii Corporation",
+    "type": "Crescent-class transport",
+    "length": "30 meters",
+    "max_speed": "1,150 km/h",
+    "hyperdrive": "x1; backup x10",
+    "shield_gen": "Yes",
+    "hull": "Yes",
+    "sensor": "Yes, including countermeasures",
+    "navigation": "Nav computer",
+    "armament": "concussion missile launchers (2, fire-linked)",
+    "crew": "1",
+    "skeleton": "1",
+    "passengers": "4",
+    "capacity": "50 tons",
+    "consumables": "2 months",
+    "owners": [
+      "Kevas Startron",
+      "Sapphire"
+    ],
+    "captains": "Sapphire",
+    "aliases": "New Cov Quasar"
+  },
+  "scraped": "2026-07-03"
+}

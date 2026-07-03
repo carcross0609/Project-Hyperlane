@@ -1,0 +1,53 @@
+{
+  "name": "Tide of Progress XII",
+  "wookieepedia_title": "Tide of Progress XII",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tide_of_Progress_XII",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tide of Progress XII was a Munificent-class star frigate active in the naval forces of the Confederacy of Independent Systems during the Clone Wars. At some point during the conflict, between 22 BBY and 19 BBY, the frigate was situated above an orange-clouded celestial body where it engaged in naval combat with an opponent. The vessel also fought at the Battle of Crombach Nebula in the war, where the Jedi Master Wom-Nii Gnaden died flying into the frigate, leaving an impact mark.",
+  "data": {
+    "name": "Tide of Progress XII",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Munificent-class star frigate",
+    "type": "Frigate",
+    "length": "825 meters (2,706ft, 8in)",
+    "width": "426 meters (1,397ft, 8in)",
+    "height": "243 meters (797ft, 3in)",
+    "engine": "Ion drive thrusters (7)",
+    "hdsystem": "Several hyperdrive units",
+    "power": [
+      "Energy cells",
+      "Main reactors (2)",
+      "Power cells"
+    ],
+    "shield_gen": "Ray shield generator",
+    "sensor": [
+      "High-performance sensors",
+      "Sensory antennas"
+    ],
+    "armament": [
+      "2 heavy turbolaser cannons",
+      "2 long-range heavy ion cannons",
+      "26 twin turbolaser turrets",
+      "20 light turbolaser turrets",
+      "38 point-defense laser cannons"
+    ],
+    "complement": "48 Vulture-class droid starfighters; (4 squadrons; maximum load)",
+    "crew": "200 (up to 150,000 battle droids)",
+    "communications": "Long-range hyperwave transceiver masts (2)",
+    "othersystems": [
+      "5 starboard-mounted docking rings",
+      "Inertial compensators",
+      "1 neutrino radiator",
+      "Scanner",
+      "Shield heat sinks",
+      "Superdense reactant tanks",
+      "Tensor field generators"
+    ],
+    "role": "Warship",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy"
+  },
+  "scraped": "2026-07-03"
+}

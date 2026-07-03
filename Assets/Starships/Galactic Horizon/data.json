@@ -1,0 +1,34 @@
+{
+  "name": "Galactic Horizon",
+  "wookieepedia_title": "Galactic Horizon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galactic_Horizon",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Galactic Horizon was an Ithorian Manollium-class herdship.",
+  "data": {
+    "name": "Galactic Horizon",
+    "manufacturer": "Brathflen Corporation",
+    "line": "Ithorian Herdship",
+    "type": "Manollium-class",
+    "length": "980 meters",
+    "hyperdrive": [
+      "Class 4",
+      "Backup: Class 14"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Ion cannons (10)",
+      "Tractor beam projectors (2)"
+    ],
+    "crew": "800",
+    "skeleton": "375",
+    "passengers": "1,050",
+    "capacity": "500,000 metric tons",
+    "consumables": "1 month",
+    "role": "Traveling merchant ship",
+    "affiliation": "Ithorians",
+    "captains": "Roogak"
+  },
+  "scraped": "2026-07-03"
+}

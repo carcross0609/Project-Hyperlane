@@ -1,0 +1,20 @@
+{
+  "name": "Dragon",
+  "wookieepedia_title": "Dragon (CR90 corvette)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dragon_%28CR90_corvette%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Dragon was a CR90 corvette in the service of the Rebel Alliance. It was presumably trying to destroy the Imperial heavy tugs under the command of Vice Admiral Thrawn in order to stop a salvage attempt. It was destroyed by attacking TIE/sa bombers.",
+  "data": {
+    "name": "Dragon",
+    "model": "CR90 corvette",
+    "role": [
+      "Light escort",
+      "Transport"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Rebel Alliance"
+  },
+  "scraped": "2026-07-03"
+}

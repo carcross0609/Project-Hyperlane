@@ -1,0 +1,40 @@
+{
+  "name": "Storm",
+  "wookieepedia_title": "Storm (Miy'til starfighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Storm_%28Miy%27til_starfighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Storm was a modified Hapan Miy'til starfighter used by Prince Isolder.",
+  "data": {
+    "name": "Storm",
+    "manufacturer": "Olanji/Charubah",
+    "type": "Modified Miy'til starfighter",
+    "length": "7.2 meters",
+    "mglt": "160 MGLT",
+    "engine": [
+      "Tykannin Class-4 power converters",
+      "Cygnus turbo generators (4)"
+    ],
+    "countermeasures": [
+      "Taibolt-12 anticoncussion-field generators (4)"
+    ],
+    "armament": [
+      "Triple-linked laser cannon (1)",
+      "Mini concussion missile launcher",
+      "  Custom-built missiles (10)",
+      "Ion cannons (2)",
+      "Thermal detonator bombing tubes (2)",
+      "  Thermal detonators (16)"
+    ],
+    "crew": [
+      "1 Pilot",
+      "1 R2-Series5 astromech droid"
+    ],
+    "passengers": "None",
+    "affiliation": "Hapes Consortium",
+    "owners": "Isolder",
+    "captains": "Isolder"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Leema Kai's N-1 starfighter",
+  "wookieepedia_title": "Leema Kai's N-1 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Leema_Kai%27s_N-1_starfighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Leema Kai flew a modified N-1 starfighter during the Cold War. It was destroyed in a dogfight with Iden Versio.",
+  "data": {
+    "name": "Leema Kai's N-1 starfighter",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "model": "Modified N-1 starfighter",
+    "type": "Starfighter",
+    "modifier": "Leema Kai",
+    "length": "11 meters",
+    "max_speed": "1,100 kph",
+    "engine": "Two J-type",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Monarc C-4 hyperdrive",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Blaster cannons (2)",
+      "Seismic charge launcher"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 astromech droid"
+    ],
+    "othersystems": "Autopilot",
+    "destroyed": "34 ABY",
+    "affiliation": "Jinata Security",
+    "owners": "Leema Kai"
+  },
+  "scraped": "2026-07-03"
+}

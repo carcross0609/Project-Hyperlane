@@ -1,0 +1,42 @@
+{
+  "name": "Eye of Shiblizar",
+  "wookieepedia_title": "Eye of Shiblizar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eye_of_Shiblizar",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eye of Shiblizar was an old Ulig Abaha Ltd. Dimel-class assault ship that was modified by the slavers Zlarb and Magg. Magg used his position as a Detached Duty agent in the Corporate Sector Authority to enable the theft of the Eye of Shiblizar before it could be destroyed in a Picket Fleet target practice session. Although Magg and Zlarb used the Eye of Shiblizar to carry slaves, they did not use it to make any direct deliveries, fearing that if the Authority identified it, their slaving operation would be severely compromised. They instead used the Eye of Shiblizar to hijack a vessel, transfer the slaves to it, and then use the hijacked vessel to deliver the slaves.",
+  "data": {
+    "name": "Eye of Shiblizar",
+    "manufacturer": "Ulig Abaha Ltd.",
+    "type": "Dimel assault ship",
+    "cost": "450,000 credits",
+    "length": "95 meters",
+    "max_speed": "750 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 16"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "Double laser cannons (10)",
+      "ion cannon (1)",
+      "Tractor beam projector (1)"
+    ],
+    "crew": [
+      "23 crew members",
+      "43 gunners"
+    ],
+    "skeleton": "16",
+    "passengers": "34 (troops)",
+    "cargohandling": "600 tons",
+    "consumables": "3 weeks",
+    "role": "Slave ship",
+    "owners": [
+      "Magg",
+      "Zlarb"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

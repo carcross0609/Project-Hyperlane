@@ -1,0 +1,40 @@
+{
+  "name": "Dawn Beat",
+  "wookieepedia_title": "Dawn Beat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dawn_Beat",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dawn Beat was one of the many starships that worked for and participated in Talon Karrde's vast and varied smuggling operations. The ship was a modified Corellian Engineering Corporation YZ-775 light freighter.",
+  "data": {
+    "name": "Dawn Beat",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified YZ-775 transport",
+    "type": "Space transport",
+    "cost": [
+      "New: 600,000 credits",
+      "Used: 350,000 credits"
+    ],
+    "length": "52 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 12"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turbolaser cannons (2)",
+      "Twin laser cannons (2)",
+      "Proton torpedo tubes (2)",
+      "  Torpedoes (16)"
+    ],
+    "crew": "8",
+    "passengers": "12",
+    "capacity": "400 metric tons",
+    "consumables": "6 months",
+    "affiliation": [
+      "Car'das smugglers",
+      "Smugglers' Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

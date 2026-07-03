@@ -1,0 +1,37 @@
+{
+  "name": "Thor",
+  "wookieepedia_title": "Thor (Strike-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thor_%28Strike-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Thor was a Strike-class medium cruiser in the service of the Rebel Alliance. The ship was part of a convoy along with the Zeus and the Odysseus. The convoy was attacked by Assault Gunboats and TIE Avengers, and the starships had to rely on X-wings from Rogue and Blue squadrons to give the starships enough time to escape into hyperspace.",
+  "data": {
+    "name": "Thor",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "1600 SBD",
+    "hull": "768 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "Alpha-class Xg-1 Star Wings",
+      "TIE/ad starfighter"
+    ],
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Alliance Fleet"
+  },
+  "scraped": "2026-07-03"
+}

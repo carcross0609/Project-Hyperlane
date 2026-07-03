@@ -1,0 +1,29 @@
+{
+  "name": "Chandrila Mistress",
+  "wookieepedia_title": "Chandrila Mistress",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chandrila_Mistress",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Chandrila Mistress was a Taylander shuttle used by the former Imperial senator and rebel leader Mon Mothma. It was equipped with a signature modulator to mask its true identity. In 2 BBY, the Chandrila Mistress and Gold Squadron rendezvoused with the Spectres rebel cell in deep space. Mothma was forced to abandon the ship after it was attacked by Imperial forces.",
+  "data": {
+    "name": "Chandrila Mistress",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "Taylander shuttle",
+    "type": "Shuttle",
+    "length": "43.5 meters",
+    "max_accel": "950 kilometers per hour",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": "None",
+    "role": [
+      "Civilian shuttle",
+      "Transport ship"
+    ],
+    "destroyed": "2 BBY",
+    "affiliation": "Massassi Group",
+    "navy": "Gold Squadron",
+    "owners": "Senator Mon Mothma"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Evening Star",
+  "wookieepedia_title": "Evening Star",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Evening_Star",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Evening Star was a Corona-class transport. During the Galactic Civil War a group of rebel agents piloted the Evening Star to the Kantel system during the Mynock virus outbreak.",
+  "data": {
+    "name": "Evening Star",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Corona-class transport",
+    "type": "Transport",
+    "cost": [
+      "105,000 credits (new)",
+      "27,000 credits (used)"
+    ],
+    "length": "28.4 meters",
+    "max_speed": "800 KMH",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 10.0"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "Laser cannon turret (1)",
+    "crew": "2, 1 gunner",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "80 metric tons",
+    "consumables": "2 months",
+    "lifesupport": "Equipped",
+    "role": "Transport",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

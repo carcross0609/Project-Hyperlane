@@ -1,0 +1,38 @@
+{
+  "name": "Blockade runner 0-9-9",
+  "wookieepedia_title": "Blockade runner 0-9-9",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blockade_runner_0-9-9",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Blockade runner 0-9-9 was the designation of a Pelta-class Transport Frigate in the naval forces of the Galactic Republic during the Clone Wars against the Confederacy of Independent Systems. During the Battle of Ryloth, Blockade runner 0-9-9, along with two other Pelta-class frigates. broke through the Ryloth blockade of the planet Ryloth to deliver food and medical supplies to the Twi'lek Resistance during the Battle of Ryloth in 22 BBY.",
+  "data": {
+    "name": "Blockade runner 0-9-9",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Pelta-class Transport Frigate",
+    "type": "Frigate",
+    "cost": "7,265,000 credits",
+    "length": "282 meters",
+    "max_speed": "800 kilometers per hour",
+    "engine": "Engine (1) (standard)",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 16 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "navigation": "Equipped",
+    "armament": "Point-defense laser cannons",
+    "bays": "Port and Starboard Docking bays",
+    "escapepods": "16 republic escape pods",
+    "crew": "900 officers and enlisted crew",
+    "passengers": "200 troops",
+    "consumables": "5 months",
+    "role": "Supply ship",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

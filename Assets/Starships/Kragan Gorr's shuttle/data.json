@@ -1,0 +1,34 @@
+{
+  "name": "Kragan Gorr's shuttle",
+  "wookieepedia_title": "Kragan Gorr's shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kragan_Gorr%27s_shuttle",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Kragan Gorr's shuttle was a unique shuttle made from scavenged Imperial Lambda-class T-4a shuttle parts by the pirate organization known as the Warbird gang. In 34 ABY, the shuttle served as the personal transport of the pirate leader, Kragan Gorr, and used during several raids against the Supertanker fuel depot Colossus. Some time later the shuttle was kept inside the Colossus after the pirates were betrayed by the First Order and were given shelter by Captain Imanuel Doza.",
+  "data": {
+    "name": "Kragan Gorr's shuttle",
+    "manufacturer": "Warbird gang",
+    "type": "Shuttle",
+    "engine": "Thrusters (8)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "Ion cannons"
+    ],
+    "role": [
+      "Personal shuttle",
+      "Attack starship"
+    ],
+    "affiliation": [
+      "Warbird gang",
+      "Team Colossus"
+    ],
+    "owners": [
+      "Kragan Gorr",
+      "Synara San"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Brazen",
+  "wookieepedia_title": "Brazen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Brazen",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Brazen was an Imperial II-class Star Destroyer of the Galactic Empire's Navy that served in the Elrood sector under the command of Captain Alistar Dadefra.",
+  "data": {
+    "name": "Brazen",
+    "type": "Imperial II-class Star Destroyer",
+    "engine": [
+      "3 KDY Destroyer-I ion engine",
+      "4 Cygnus Spaceworks Gemon-4 ion engine"
+    ],
+    "complement": [
+      "TIE/LN starfighters",
+      "Gamma-class assault shuttles"
+    ],
+    "passengers": "Spacetroopers",
+    "destroyed": "1 ABY",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Elrood Sector Fleet",
+    "captains": "Captain Alistar Dadefra"
+  },
+  "scraped": "2026-07-03"
+}

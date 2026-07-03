@@ -1,0 +1,34 @@
+{
+  "name": "Nal Hutta Jewel",
+  "wookieepedia_title": "Nal Hutta Jewel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nal_Hutta_Jewel",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Nal Hutta Jewel was a Minstrel-class space yacht manufactured by Ubrikkian Industries. It was the base of operations for Ganis the Hutt.",
+  "data": {
+    "name": "Nal Hutta Jewel",
+    "manufacturer": "Ubrikkian Industries",
+    "type": "Minstrel-class space yacht",
+    "cost": "1,450,000 credits",
+    "length": "160 meters",
+    "hyperdrive": [
+      "Class 1",
+      "  Class 10 (back up)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Tractor beam projector",
+      "Triple blaster"
+    ],
+    "complement": "6 Z-95 Headhunters",
+    "crew": "35; 2 gunners",
+    "skeleton": "10",
+    "capacity": "90 metric tons",
+    "consumables": "3 months",
+    "owners": "Ganis the Hutt"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Tireless Wanderer",
+  "wookieepedia_title": "Tireless Wanderer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tireless_Wanderer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tireless Wanderer was a SoroSuub Luxury 3000 space yacht. It was bought used by Yeel Dresk from a scam artist, and crash-landed on Toydaria soon after his purchase. The experience made Dresk distrustful of the planet's residents, so he lived in the ship for weeks while waiting for offworld mechanics to arrive and repair the ship.",
+  "data": {
+    "name": "Tireless Wanderer",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Personal Luxury Yacht 3000",
+    "type": "Yacht",
+    "cost": "120,000 credits",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 14 (backup)"
+    ],
+    "crew": [
+      "2",
+      "One pilot",
+      "One co-pilot/engineer"
+    ],
+    "passengers": "10",
+    "consumables": "1 month",
+    "owners": "Yeel Dresk"
+  },
+  "scraped": "2026-07-03"
+}

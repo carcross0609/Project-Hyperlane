@@ -1,0 +1,41 @@
+{
+  "name": "Calrissian Runner",
+  "wookieepedia_title": "Calrissian Runner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Calrissian_Runner",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "In 25 ABY, Anakin Solo flew the Calrissian Runner&mdash;a modified racing TIE Advanced x1&mdash;at the Lando's Folly asteroid belt obstacle course. Like other \"Belt-Runner\" TIE Advanced x1s, the Calrissian Runner was customized for speed and the rigors of the course.",
+  "data": {
+    "name": "Calrissian Runner",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Modified TIE Advanced x1",
+    "type": "Starfighter",
+    "cost": "78400 credits",
+    "modifier": "Lando Calrissian",
+    "length": "7.8 meters",
+    "hyperdrive": "Class 4",
+    "hdsystem": "Equipped",
+    "shield_gen": "None",
+    "armament": [
+      "Heavy blaster cannons (2)",
+      "Proton torpedo launcher (1)",
+      "  Proton torpedoes (16)"
+    ],
+    "crew": "1 pilot",
+    "passengers": "None",
+    "capacity": "150 kg",
+    "consumables": "5 days",
+    "role": [
+      "Racing vessel",
+      "Planetary defense"
+    ],
+    "affiliation": [
+      "Belt-Runner I",
+      "New Jedi Order"
+    ],
+    "owners": "Lando Calrissian"
+  },
+  "scraped": "2026-07-03"
+}

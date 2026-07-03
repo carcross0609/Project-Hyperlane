@@ -1,0 +1,23 @@
+{
+  "name": "Majestic",
+  "wookieepedia_title": "Majestic (Venator-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Majestic_%28Venator-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Majestic was a Venator-class Star Destroyer in the Republic Navy during the Clone Wars.",
+  "data": {
+    "name": "Majestic",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "destroyed": "22 BBY, Valahari",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

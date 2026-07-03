@@ -1,0 +1,32 @@
+{
+  "name": "P3",
+  "wookieepedia_title": "P3",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/P3",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "P3 was one of three Sphyrna-class Hammerhead corvettes that was sent by Senator Bail Organa to reinforce Commander Jun Sato's unit of the rebellion. P3 could be identified by its distinctive faded yellow and orange markings.",
+  "data": {
+    "name": "P3",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Sphyrna-class Hammerhead corvette",
+    "type": "Corvette",
+    "length": "315 meters",
+    "max_speed": "900 kph",
+    "hyperdrive": "Equipped",
+    "armament": "Dual laser cannons (3)",
+    "escapepods": "Equipped",
+    "skeleton": "1",
+    "affiliation": [
+      "House of Organa",
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": [
+      "Royal Alderaan Civil Fleet",
+      "Phoenix Cell"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

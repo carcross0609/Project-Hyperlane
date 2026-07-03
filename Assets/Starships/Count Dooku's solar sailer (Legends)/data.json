@@ -1,0 +1,30 @@
+{
+  "name": "Count Dooku's solar sailer",
+  "wookieepedia_title": "Count Dooku's solar sailer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Count_Dooku%27s_solar_sailer/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Dooku's solar sailer was a heavily modified Punworcca 116-class interstellar sloop belonging to Count Dooku, also known as Darth Tyranus. Dooku used this yacht to escape from the First Battle of Geonosis in 22 BBY. Tyranus's vessel was a unique mix of Geonosian engineering and pre-Republic Gree technology. The vessel was piloted by a FA-4 pilot droid and could travel through realspace and hyperspace.",
+  "data": {
+    "name": "Count Dooku's solar sailer",
+    "model": "Punworcca 116-class interstellar sloop",
+    "type": "Yacht",
+    "length": "15.2 meters",
+    "width": "4.6 meters",
+    "height": "4.8 meters",
+    "max_accel": [
+      "Sail: approx. 1,000G",
+      "Thrusters: 30G"
+    ],
+    "max_speed": "1,600 kph",
+    "engine": "Solar sailer",
+    "hyperdrive": "Class 1.5",
+    "armament": "84 narrow tractor/repulsor beams",
+    "othersystems": "Holoprojector",
+    "role": "Transport",
+    "affiliation": "Confederacy of Independent Systems",
+    "owners": "Dooku"
+  },
+  "scraped": "2026-07-03"
+}

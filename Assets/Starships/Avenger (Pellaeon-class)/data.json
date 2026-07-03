@@ -1,0 +1,25 @@
+{
+  "name": "Avenger",
+  "wookieepedia_title": "Avenger (Pellaeon-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Avenger_%28Pellaeon-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Avenger was a Pellaeon-class Star Destroyer in the service of the Darth Krayt's Galactic Empire.",
+  "data": {
+    "name": "Avenger",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Pellaeon-class Star Destroyer",
+    "type": "Star Destroyer",
+    "hyperdrive": "Class 0.75",
+    "shield_gen": "Equipped",
+    "destroyed": "137 ABY, over Ralltiir",
+    "affiliation": "Darth Krayt's Galactic Empire",
+    "navy": "Coruscant Third Fleet",
+    "captains": [
+      "Admiral Peto Kelsan",
+      "Captain Furske"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Hininbirg",
+  "wookieepedia_title": "Hininbirg",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hininbirg",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hininbirg was a Ton-Falk-class escort carrier in the Imperial Navy. Following the Battle of Hoth, the Hininbirg was set to receive TIE/D Defender prototypes from the cargo ferry group Sela near Vinzen Neela 5 but came under fire from Rebel Alliance forces when it entered the area. As the carrier engaged the Rebels, Imperial starfighters protected the transfer operation. After receiving all of the TIE Defenders, the Hininbirg departed the area for the planet Coruscant.",
+  "data": {
+    "name": "Hininbirg",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Ton-Falk-class escort carrier",
+    "type": "Carrier",
+    "length": "500 meters",
+    "max_speed": "12 MGLT",
+    "engine": "Sublight drives (3)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped (180 SBD)",
+    "hull": "90 RU",
+    "armament": [
+      "H8 dual laser cannons (10)",
+      "VL-6 warhead launch system"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

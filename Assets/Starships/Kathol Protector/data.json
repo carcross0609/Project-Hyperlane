@@ -1,0 +1,38 @@
+{
+  "name": "Kathol Protector",
+  "wookieepedia_title": "Kathol Protector",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kathol_Protector",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Kathol Protector was an Ton-Falk-class escort carrier in service to Imperial warlord Moff Kentor Sarne as part of his military forces in the Kathol sector. Modified to mount two tractor beam projectors in place of two of the standard escort carrier's complement of ten twin laser cannons, the ship also carried pathogenic weapons as part of its arsenal. In 8 ABY, New Republic forces liberated the Kathol sector capital of Kal'Shebbol. In response, the population of the nearby planet of Kolatill overthrew their Imperial governor and declared their allegiance to the New Republic. The Kathol Protector conducted a retaliatory strike on the world, using TIE bombers to severely damage the capital city of Domaz.",
+  "data": {
+    "name": "Kathol Protector",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Ton-Falk-class escort carrier",
+    "length": "500 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Class 12 (back-up)"
+    ],
+    "armament": [
+      "Eight twin laser cannons",
+      "Two tractor beam projectors"
+    ],
+    "complement": [
+      "Two TIE bomber squadrons",
+      "Four TIE starfighter squadrons"
+    ],
+    "crew": "3,485; gunners: 20",
+    "skeleton": "1,500",
+    "passengers": "800 (troops)",
+    "capacity": "500 metric tons",
+    "consumables": "9 months",
+    "affiliation": [
+      "Galactic Empire",
+      "Moff Kentor Sarne"
+    ],
+    "navy": "Moff Sarne's forces"
+  },
+  "scraped": "2026-07-03"
+}

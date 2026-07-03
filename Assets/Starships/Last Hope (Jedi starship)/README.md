@@ -1,0 +1,11 @@
+# Last Hope (Jedi starship)
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Last Hope (Jedi starship)](https://starwars.fandom.com/wiki/Last_Hope_%28Jedi_starship%29)
+
+The Last Hope was a Jedi starship which survived on Kesh for nearly four thousand years following the Great Calamity during the aftermath of the Hundred-Year Darkness. It had been part of a Jedi patrol that intercepted a Dark Jedi ship that had escaped from the Stygian Caldera, where the exiled and defeated Dark Jedi had ended up after the Battle of Corbos in 6900 BBY. The Jedi pursued their Dark Jedi foes to Kesh, where the two rival Force-using factions became stranded since the planet's strong magnetic field hampered interstellar travel. Following a fierce battle that devastated much of the planet and threatened the indigenous Keshiri, the two Force factions made peace after imprisoning the Dark Jedi leader Remulus Dreypa within an oubliette. This Jedi Starship survived the fighting and was hidden in the Keshiri burial cairns beneath Circle Eternal, a sacred site within the city of Tahv.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

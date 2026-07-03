@@ -1,0 +1,37 @@
+{
+  "name": "Persecutor",
+  "wookieepedia_title": "Persecutor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Persecutor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Persecutor was an Imperial I-class Star Destroyer in service of the Galactic Empire. It participated in the Battle of Scarif in 1 BBY, where it was completely disabled after being subjected to an attack run by a Blue Squadron X-wing, Blue Four Barion Raner, that destroyed its starboard-side bridge-mounted deflector shield generator, followed by a bombing run of ion torpedoes from the Y-wings of Gold Squadron. The crippled Star Destroyer was then pushed by the Sphyrna-class Hammerhead corvette Lightmaker into the Star Destroyer Intimidator, shearing it in two. The wreckage of all three ships subsequently crashed into the Shield Gate and destroyed it, allowing Rogue One to transmit the Death Star plans to the Rebel flagship Profundity.",
+  "data": {
+    "name": "Persecutor",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "ISD-72x shield generator domes (2)",
+    "target": "Tractor beam targeting array",
+    "armament": [
+      "Dual heavy turbolaser turrets (6)",
+      "Triple medium turbolasers (3)"
+    ],
+    "crew": [
+      "Imperial officers",
+      "Technicians"
+    ],
+    "role": "Planetary defense",
+    "destroyed": "1 BBY, Scarif system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Scarif fleet"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Home One",
+  "wookieepedia_title": "Home One/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Home_One/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Home One, also known as the Headquarters Frigate, was an MC80 Star Cruiser in the Alliance to Restore the Republic's fleet, famous for its role at the Battle of Endor and as one of Admiral Gial Ackbar's flagships. It was the namesake of the Home One type subclass and was noted as being the largest and most advanced of the Rebel Star Cruisers.",
+  "data": {
+    "name": "Home One",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "MC80 Home One type Star Cruiser",
+    "length": "1,300 meters",
+    "mglt": "60 MGLT",
+    "engine": [
+      "M8.0-StarDrive engines (4)",
+      "M4.5-StarDrive maneuvering engines (6)"
+    ],
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 9.0 (backup)"
+    ],
+    "hdsystem": "TriLuna 400MGS stardrive and hyperdrive system",
+    "shield_gen": "Serridge SEAL shielding system",
+    "hull": "Heavy armor",
+    "armament": [
+      "36 heavy XV9 turbolaser cannons",
+      "36 heavy SW-7 ion cannon batteries",
+      "6 Q7 tractor beam projectors"
+    ],
+    "complement": [
+      "120 starfighters (a mix of A-wings, B-wings, X-wings and/or Y-wings)",
+      "Primary and secondary detachable shuttle sections",
+      "Millennium Falcon",
+      "Tydirium",
+      "Rebel personnel carriers"
+    ],
+    "crew": "5,402 - 5,500",
+    "skeleton": "1,230",
+    "passengers": "1,200 troops",
+    "capacity": "20,000 tons",
+    "consumables": "2 years",
+    "role": [
+      "Command ship",
+      "Battleship",
+      "Carrier"
+    ],
+    "commission": "1 BBY",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ],
+    "navy": "Rebel Command Fleet",
+    "captains": "Gial Ackbar"
+  },
+  "scraped": "2026-07-03"
+}

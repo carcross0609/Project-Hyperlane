@@ -1,0 +1,33 @@
+{
+  "name": "Firefox",
+  "wookieepedia_title": "Firefox",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Firefox",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Firefox was a Strike-class medium cruiser that was used by the Rebel Alliance to defend the Sealion, a prototype of the Missile Boat that was sent to the XQ4 Platform Enin'sd by the Mon Calamari Cruiser Link. When the first Strike cruiser Piimi was destroyed by Imperial forces led by Darth Vader in the Imperial-class Star Destroyer Garrett, Firefox arrived to reinforce the station but was destroyed in the battle by Tan Maarek Stele.",
+  "data": {
+    "name": "Firefox",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "1600 SBD",
+    "hull": "768 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "destroyed": "4 ABY",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

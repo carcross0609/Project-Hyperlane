@@ -1,0 +1,39 @@
+{
+  "name": "Poe Dameron's blue X-wing",
+  "wookieepedia_title": "Poe Dameron's blue X-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Poe_Dameron%27s_blue_X-wing",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Poe Dameron's blue X-wing was a T-70 X-wing starfighter used by Commander Poe Dameron while his X-wing Black One was being repaired.",
+  "data": {
+    "name": "Poe Dameron's blue X-wing",
+    "manufacturer": "Incom-FreiTek Corporation",
+    "line": "X-wing starfighter",
+    "model": "T-70 X-wing starfighter",
+    "type": "Starfighter",
+    "length": "12.48 meters",
+    "engine": [
+      "Incom-FreiTek 5L5 fusial thrust engines (4)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Taim & Bak KX12 laser cannons (4)",
+      "BlasTech Ax-190-B blaster cannon (1)"
+    ],
+    "crew": [
+      "1 Pilot",
+      "1 Astromech droid"
+    ],
+    "role": "Starfighter",
+    "destroyed": "34 ABY, Jakku",
+    "affiliation": [
+      "Resistance",
+      "  Resistance Starfighter Corps"
+    ],
+    "navy": "Resistance navy",
+    "fleet": "Black Squadron",
+    "owners": "Poe Dameron"
+  },
+  "scraped": "2026-07-03"
+}

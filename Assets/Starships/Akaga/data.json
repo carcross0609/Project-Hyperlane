@@ -1,0 +1,31 @@
+{
+  "name": "Akaga",
+  "wookieepedia_title": "Akaga",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Akaga",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Akaga was an Imperial EF76 Nebulon-B escort frigate under command of Admiral Harkov during the Galactic Civil War.",
+  "data": {
+    "name": "Akaga",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Capital ship",
+    "length": "300 meters",
+    "width": "72 meters",
+    "height": "166 meters",
+    "armament": [
+      "Taim & Bak XI7 turbolasers (12)",
+      "Borstel Galactic Defense RH8 laser cannons (12)"
+    ],
+    "destroyed": "3.5 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "  Alliance Fleet"
+    ],
+    "navy": "Admiral Harkov's fleet",
+    "captains": "Admiral Harkov"
+  },
+  "scraped": "2026-07-03"
+}

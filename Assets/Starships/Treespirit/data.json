@@ -1,0 +1,30 @@
+{
+  "name": "Treespirit",
+  "wookieepedia_title": "Treespirit",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Treespirit",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Treespirit was a Ghtroc Class 720 freighter owned by the Wookiee pirate Grakkata. Painted a forest green in remembrance of the Wookiee homeworld, the craft appeared battered, but was extensively modified and heavily-armed with four retractable laser cannons.",
+  "data": {
+    "name": "Treespirit",
+    "manufacturer": "Ghtroc Industries",
+    "model": "720 light freighter",
+    "type": "Light freighter",
+    "cost": "46,750",
+    "length": "35 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2(primary)",
+      "Class 15(backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "Retractable laser cannons (4)",
+    "crew": "1",
+    "passengers": "10",
+    "capacity": "135 metric tons",
+    "consumables": "2 months",
+    "owners": "Grakkata"
+  },
+  "scraped": "2026-07-03"
+}

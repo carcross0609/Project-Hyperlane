@@ -1,0 +1,26 @@
+{
+  "name": "Aurora IX",
+  "wookieepedia_title": "Aurora IX",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aurora_IX",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Aurora IX was a Galactic Republic Longbeam cruiser, a brand-new design from the Republic shipyards on Hosnian Prime during the High Republic Era. During a combined Republic and Jedi Order effort to save the Hetzal system from hyperspace debris, it was commanded by Captain Finial Bright and crewed by Petty Officer Innamin and Ensign Peeples.",
+  "data": {
+    "name": "Aurora IX",
+    "model": "Longbeam cruiser",
+    "engine": "Equipped",
+    "target": "Equipped",
+    "countermeasures": "Equipped",
+    "armament": [
+      "Lasers",
+      "Missiles"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ],
+    "captains": "Finial Bright"
+  },
+  "scraped": "2026-07-03"
+}

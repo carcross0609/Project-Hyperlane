@@ -1,0 +1,38 @@
+{
+  "name": "Intimidator",
+  "wookieepedia_title": "Intimidator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Intimidator",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Intimidator was an Imperial I-class Star Destroyer in service of the Galactic Empire. Under the command of Admiral Gorin, it participated in the Battle of Scarif in 1 BBY, where it was rammed by the Star Destroyer Persecutor, which in turn had been pushed by the Sphyrna-class Hammerhead corvette Lightmaker. The combined wreckage of all three ships then fell into the Scarif Shield Gate, destroying it.",
+  "data": {
+    "name": "Intimidator",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "ISD-72x shield generator domes (2)",
+    "target": "Tractor beam targeting array",
+    "armament": [
+      "Dual heavy turbolaser turrets (6)",
+      "Triple medium turbolasers (3)"
+    ],
+    "crew": [
+      "Imperial officers",
+      "Technicians"
+    ],
+    "role": "Command ship",
+    "destroyed": "1 BBY, Scarif system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Scarif fleet",
+    "captains": "Gorin"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Count Dooku's frigate",
+  "wookieepedia_title": "Count Dooku's frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Count_Dooku%27s_frigate/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Count Dooku's frigate was a Munificent-class star frigate that served as the personal flagship of the leader of the Confederacy of Independent Systems.",
+  "data": {
+    "name": "Count Dooku's frigate",
+    "model": "Munificent-class star frigate",
+    "type": "Star frigate",
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "max_accel": "2,300 G",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "hdrange": "150,000 light year effective range",
+    "poweroutput": "Peak: 2,07 × 1023 W",
+    "power": "Hypermatter annihilation reactors (2)",
+    "armament": [
+      "Prow heavy turbolaser cannons (2)",
+      "Long-range heavy ion cannons (2)",
+      "Twin turbolaser cannons (26)",
+      "Light turbolaser turrets (20)",
+      "Point-defense laser cannons (38)",
+      "Flak guns(8)",
+      "Hyperwave jammer (1)"
+    ],
+    "complement": [
+      "Punworcca 116-class interstellar sloop",
+      "  Dooku's solar sailer",
+      "Sheathipede-class transport shuttles",
+      "Variable Geometry Self-Propelled Battle Droid, Mark I"
+    ],
+    "passengers": "150,000 deactivated battle droids",
+    "cargohandling": "40,000 tons",
+    "consumables": "2 years",
+    "role": [
+      "Flagship",
+      "Frigate"
+    ],
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederate Navy",
+    "owners": "Dooku"
+  },
+  "scraped": "2026-07-03"
+}

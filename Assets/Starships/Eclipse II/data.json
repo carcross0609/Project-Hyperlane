@@ -1,0 +1,43 @@
+{
+  "name": "Eclipse II",
+  "wookieepedia_title": "Eclipse II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eclipse_II",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Eclipse II was the second Eclipse-class dreadnought. It was also the second flagship of Palpatine.",
+  "data": {
+    "name": "Eclipse II",
+    "model": "Eclipse-class dreadnought",
+    "sysmods": [
+      "Extensively redesigned engines",
+      "Tower-structure added to axial superlaser"
+    ],
+    "length": "17,500 meters",
+    "engine": "8 engine arrays",
+    "hdsystem": "equipped",
+    "hull": "Jet-black durasteel and quadranium alloyed hull",
+    "navigation": "Equipped",
+    "armament": [
+      "1 axial superlaser",
+      "500 Heavy Turbolaser Batteries",
+      "500 Point Defense Laser Cannon Batteries"
+    ],
+    "role": [
+      "Battleship (Dreadnaught)",
+      "Battlestation (while under construction)",
+      "Command ship",
+      "Carrier",
+      "Battlecruiser"
+    ],
+    "commission": "circa 0 BBY-0 ABY",
+    "destroyed": "11 ABY, Byss",
+    "affiliation": [
+      "Galactic Empire",
+      "Dark Empire",
+      "Order of the Sith Lords"
+    ],
+    "owners": "Emperor Palpatine"
+  },
+  "scraped": "2026-07-03"
+}

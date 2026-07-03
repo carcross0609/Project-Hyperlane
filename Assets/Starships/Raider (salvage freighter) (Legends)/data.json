@@ -1,0 +1,26 @@
+{
+  "name": "Raider",
+  "wookieepedia_title": "Raider (salvage freighter)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raider_%28salvage_freighter%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Raider was the GS-100 salvage ship that belonged to the Twi'lek scavenger Ratch.",
+  "data": {
+    "name": "Raider",
+    "model": "GS-100 salvage ship",
+    "hdsystem": "Equipped",
+    "cargohandling": "Multiple cargo arms for handling salvaged material",
+    "role": "Salvage vessel",
+    "affiliation": [
+      "Ratch",
+      "Nightsisters"
+    ],
+    "owners": [
+      "Ratch",
+      "Nightsisters"
+    ],
+    "captains": "Ratch"
+  },
+  "scraped": "2026-07-03"
+}

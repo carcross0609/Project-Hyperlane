@@ -1,0 +1,36 @@
+{
+  "name": "Ascendant Spear",
+  "wookieepedia_title": "Ascendant Spear",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ascendant_Spear",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ascendant Spear was a Terminus-class destroyer that had been modified into a long-range battle cruiser with a Class 0.5 hyperdrive. This made it incredibly fast in hyperspace compared to the other capital ships of its time. Because of its speed and its ability to interface a Force-user's mind with the ship's computer systems through bionic implants, it was considered a superweapon by the reconstituted Sith Empire.",
+  "data": {
+    "name": "Ascendant Spear",
+    "manufacturer": "Sith Empire",
+    "model": "Terminus-class destroyer (Modified)",
+    "length": ">1,600 meters",
+    "engine": "Hypermatter Annihilator",
+    "hyperdrive": "Class 0.5",
+    "sensor": "Dual long-range sensor towers",
+    "armament": [
+      "Ion cannons",
+      "Turbolasers",
+      "Point Defense System"
+    ],
+    "complement": "Command pod",
+    "escapepods": "&lt;1000",
+    "crew": "3000",
+    "communications": "Black Cipher",
+    "commission": "c. 3643 BBY",
+    "destroyed": "3640 BBY, Duro",
+    "affiliation": [
+      "Sith Empire",
+      "  Imperial Navy"
+    ],
+    "owners": "Darth Karrid\nDarth Mekhis",
+    "captains": "Moff Gelmid Lorman"
+  },
+  "scraped": "2026-07-03"
+}

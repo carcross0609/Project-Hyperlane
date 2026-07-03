@@ -1,0 +1,23 @@
+{
+  "name": "Atrivis Advancer",
+  "wookieepedia_title": "Atrivis Advancer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Atrivis_Advancer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Atrivis Advancer was a starship owned by Alliance to Restore the Republic scout Flinor Tekkirl. A Pathfinder model manufactured by Vangaard Industries, the starship remained unmodified by the scout. At thirty-six meters in length, the scout ship was equipped with a single turret-mounted laser cannon and could attain speeds of 950 kilometers per hour in atmosphere. It was hyperdrive-equipped, with a Class 3 as primary, and a Class 15 as backup, enabling Tekkirl to use it in his various scouting missions to unexplored and dangerous regions of the galaxy.",
+  "data": {
+    "name": "Atrivis Advancer",
+    "manufacturer": "Vangaard Industries",
+    "model": "Pathfinder-class scout ship",
+    "type": "Scout ship",
+    "length": "36 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": "x3, x15 backup",
+    "armament": "1 turret-mounted laser cannon",
+    "role": "Scout vessel",
+    "affiliation": "Alliance to Restore the Republic",
+    "owners": "Flinor Tekkirl"
+  },
+  "scraped": "2026-07-03"
+}

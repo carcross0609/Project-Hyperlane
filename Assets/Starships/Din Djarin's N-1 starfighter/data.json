@@ -1,0 +1,40 @@
+{
+  "name": "Din Djarin's N-1 starfighter",
+  "wookieepedia_title": "Din Djarin's N-1 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Din_Djarin%27s_N-1_starfighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Din Djarin's N-1 starfighter, also known as The Mandalorian's N-1 starfighter, was a modified N-1 starfighter owned by Din Djarin following the destruction of the Razor Crest. Djarin and the mechanic Peli Motto worked together to build the N-1 starfighter as a replacement.",
+  "data": {
+    "name": "Din Djarin's N-1 starfighter",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "model": "N-1 Royal (modified)",
+    "type": "Starfighter",
+    "modifier": "Peli Motto",
+    "length": "11.06 meters (36 ft, 3 in)",
+    "width": "6.25 meters (20 ft, 6 in)",
+    "height": "1.64 meters (5 ft, 4 in)",
+    "mglt": "130 MGLT",
+    "max_speed": "1,100 kph",
+    "engine": "J-type engines (modified)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Laser cannons (2)",
+      "Fire-linked proton torpedo launcher (2) (one torpedo launch tube under nose)"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 passenger (in a small bubble canopy)",
+      "1 astromech droid"
+    ],
+    "othersystems": [
+      "Cryogenic density combustion booster (2)",
+      "Turbonic venturi power assimilator (1)"
+    ],
+    "affiliation": "Clan Mudhorn",
+    "owners": "Din Djarin"
+  },
+  "scraped": "2026-07-03"
+}

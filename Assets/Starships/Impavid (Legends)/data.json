@@ -1,0 +1,44 @@
+{
+  "name": "Impavid",
+  "wookieepedia_title": "Impavid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Impavid/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Impavid was a Venator-class Star Destroyer serving in the Republic Navy's Coruscant Home Fleet&mdash;which was tasked with defending the Republic's capital planet of Coruscant&mdash;during the Clone Wars. In 19 BBY, when the Separatists invaded the Coruscant system, the Impavid was orbiting the capitol planet when it was hit by a Separatist cruiser exiting hyperspace. Seeing the collision, General Saesee Tiin flew aboard the Impavid in his personal starfighter where he was informed by the Impavid clone commander that the Star Destroyer was too heavily damaged to continue fighting. Taking command of the Impavid, General Tiin ordered the destroyer to pass over the Separatist Providence-class carrier Prosperous. With the Impavid directly over the Prosperous, Tiin and several of the Impavid clone marines boarded the enemy vessel and seized the Prosperous.",
+  "data": {
+    "name": "Impavid",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "engine": "6 equipped",
+    "armament": [
+      "DBY-827 heavy dual turbolaser turrets (8)",
+      "Medium dual turbolaser cannons (2)",
+      "Laser cannons (52)",
+      "Tractor beam projectors (6)",
+      "Proton torpedo tubes (4)"
+    ],
+    "complement": "Several ARC-170 starfighters",
+    "bays": [
+      "At least 2 hangar bays",
+      "Ventral hangar bay (1)",
+      "Dorsal flight deck (1)"
+    ],
+    "crew": "Hundreds of clone marines",
+    "role": [
+      "Destroyer",
+      "Carrier"
+    ],
+    "destroyed": "19 BBY, Coruscant system",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": "Coruscant Home Fleet",
+    "captains": [
+      "High General Saesee Tiin",
+      "A clone commander"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

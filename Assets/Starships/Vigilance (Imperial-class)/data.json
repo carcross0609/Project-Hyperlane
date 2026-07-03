@@ -1,0 +1,52 @@
+{
+  "name": "Vigilance",
+  "wookieepedia_title": "Vigilance (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vigilance_%28Imperial-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vigilance was an Imperial-class Star Destroyer active after the Battle of Yavin leading a fleet which included Helix Squadron. Under orders from Darth Vader, the fleet participated in the Battle at Fostar Haven to destroy the Alderaanian refugee convoy. During that battle, the vessel was under the command of Commodore Rae Sloane. According to historian Beaumont Kin, the Vigilance was also present and under her command at the ambush of a rebel convoy at Derra.",
+  "data": {
+    "name": "Vigilance",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "target": "Equipped",
+    "armament": "Turbolasers",
+    "complement": [
+      "TIE fighter series starfighters (72)",
+      "  Sapphire Squadron",
+      "  Helix Squadron",
+      "  TIE/ln space superiority starfighters",
+      "  At least 1 TIE/ad v1",
+      "  TIE/IN interceptors",
+      "Lambda-class T-4a shuttles",
+      "At least 1 Imperial Gozanti-class cruiser"
+    ],
+    "crew": [
+      "Imperial officers",
+      "At least 1 Imperial Security Bureau Loyalty officer",
+      "Imperial Starfighter Pilots",
+      "Stormtroopers",
+      "RA-7 protocol droids",
+      "R2-series astromech droids",
+      "MSE-6 series repair droids"
+    ],
+    "communications": "Communications tower",
+    "role": "Flagship",
+    "destroyed": "4 ABY, Akiva system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Rae Sloane's fleet",
+    "captains": "Rae Sloane"
+  },
+  "scraped": "2026-07-03"
+}

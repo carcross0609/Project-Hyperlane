@@ -1,0 +1,27 @@
+{
+  "name": "Dorsal Killer",
+  "wookieepedia_title": "Dorsal Killer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dorsal_Killer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dorsal Killer was a modified YT-1930 freighter that was used as a bounty hunter ship. After the Hutt Sonnos placed a bounty on the Human Deggar Feps, Feps attempted to flee to the moon Nar Shaddaa aboard the Dartiss-5 Caravel Lost Lady. However, the spy droid NEK-01 tracked Feps to the ship and one of the droid's minions, the protocol droid NEK-072, activated a homing beacon calling for all nearby bounty hunters to attack the Lost Lady. The Dorsal Killer received the message and attacked the Lost Lady in the Y'Toub system.",
+  "data": {
+    "name": "Dorsal Killer",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YT-1930",
+    "type": "Transport",
+    "cost": "610,000 (valued at)",
+    "length": "31.5 meters",
+    "armament": [
+      "2 blaster cannons",
+      "2 fire linked ion cannons"
+    ],
+    "crew": "2",
+    "passengers": "8 (prisoners)",
+    "capacity": "40 metric tons",
+    "consumables": "1 month",
+    "role": "Bounty hunter ship"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Invincible",
+  "wookieepedia_title": "Invincible/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Invincible/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Invincible was a capital ship in the Confederate Navy. It served as the flagship of Confederate Admiral Trench.",
+  "data": {
+    "name": "Invincible",
+    "model": "Providence-class carrier/destroyer variant",
+    "type": [
+      "Carrier/destroyer",
+      "Dreadnaught",
+      "Star Destroyer"
+    ],
+    "length": "2,177.35 meters",
+    "armament": [
+      "Turbolaser batteries",
+      "Quad turbolaser batteries",
+      "Torpedo launcher battery",
+      "  Tracking torpedoes"
+    ],
+    "complement": "10 Hyena-class bombers",
+    "role": [
+      "Carrier",
+      "Destroyer",
+      "Command ship (Flagship)"
+    ],
+    "destroyed": "22 BBY, Christoph system",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederate Navy",
+    "fleet": "Christophsis blockade",
+    "owners": "Admiral Trench"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,19 @@
+# Duros scouting vessel
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Duros scouting vessel](https://starwars.fandom.com/wiki/Duros_scouting_vessel)
+
+A Duros scouting vessel, one of the first scout vessels built by the Duros species, was launched well before the founding of the Galactic Republic in 25,053 BBY, at a time when the Duros were still using an ancient dialect that had faded away by the time the planet Duro joined the Republic. The ship's databanks contained records of the first hyperspace explorations, and the starship crashed in the Elrood sector on the planet Akana. However, a datapad containing the ship's distress signal was found thousands of years later during the Cold War between the Republic and the Sith Empire, and the datapad's discovery led to the discovery of the crashed ship itself on Akana.
+
+## Specifications
+
+- **Name:** Duros scouting vessel
+- **Manufacturer:** Duros
+- **Type:** Scout vessel
+- **Role:** Scouting
+- **Destroyed:** Well before 25,053 BBY, Akana
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

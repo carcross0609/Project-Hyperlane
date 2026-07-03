@@ -1,0 +1,22 @@
+# Unidentified Longbeam cruiser
+
+**Kind:** Individual ship  
+**Continuity:** Canon  
+**Source:** [Unidentified Longbeam cruiser](https://starwars.fandom.com/wiki/Unidentified_Longbeam_cruiser)
+
+A Longbeam cruiser became part of the Colony of Kezarat, a former convoy that had been stranded in No-Space the same day of the Great Disaster during the High Republic Era. After the cruiser was damaged during a firefight with the Nihil raiders, the inhabitants of the colony scavenged it for parts. The Longbeam was left in the hangar of another vessel in the colony, serving as a voidroach breeding pen for several decades. During the Galactic Civil War, a group of rebels who had been seeking the lost convoy for its fuel and had themselves become stranded in No-Space were allowed by the colony's leader, Captain Blythe, to repair and use the Longbeam in order to retrieve a Nihil Path engine from their own ship at the Great Hall of the Nihil.
+
+## Specifications
+
+- **Name:** Unidentified Longbeam cruiser
+- **Model:** Longbeam cruiser
+- **Type:** Cruiser
+- **Engine:** Equipped
+- **Armament:** Equipped
+- **Lifesupport:** Equipped
+- **Affiliation:** Colony of Kezarat
+- **Fleet:** Kezarat Convoy
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

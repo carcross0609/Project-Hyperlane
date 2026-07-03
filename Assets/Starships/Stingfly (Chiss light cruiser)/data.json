@@ -1,0 +1,27 @@
+{
+  "name": "Stingfly",
+  "wookieepedia_title": "Stingfly (Chiss light cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stingfly_%28Chiss_light_cruiser%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Stingfly was a light cruiser in service to the Chiss Ascendancy's Expansionary Defense Fleet. The vessel was equipped with a hyperdrive, engines, and various weapons for combat. In 19 BBY, it served as part of Admiral Ar'alani's Picket Force Six and assisted in defeating General Yiv of the Nikardun Destiny nation at the Unknown Regions Vak Combine nation planet of Primea. A year afterward, the light cruiser also fought as a part of Senior Captain Thrawn's fleet over the planet \"Sunrise\" against the forces of the Grysk operative \"Jixtus\" at the senior captain's last stand.",
+  "data": {
+    "name": "Stingfly",
+    "type": "Light cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "hull": "Nyix-alloy",
+    "armament": [
+      "Spectrum lasers",
+      "Plasma spheres",
+      "Breachers"
+    ],
+    "othersystems": "Electrostatic barriers",
+    "affiliation": "Chiss Ascendancy",
+    "navy": "Chiss Expansionary Defense Fleet",
+    "fleet": "Picket Force Six",
+    "captains": "Stingfly's commander"
+  },
+  "scraped": "2026-07-03"
+}

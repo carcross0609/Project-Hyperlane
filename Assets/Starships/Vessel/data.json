@@ -1,0 +1,26 @@
+{
+  "name": "Vessel",
+  "wookieepedia_title": "Vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vessel",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vessel was a transport starship piloted by Leox Gyasi of the Byne Guild. It was crewed by the co-pilot Affie Hollow and the navigator Geode. During the High Republic Era, the Vessel was assigned to transport four Jedi to the Starlight Beacon after their primary transport became unavailable. While traveling in hyperspace, the Vessel became stranded in deep space after debris from the Great Hyperspace Disaster obstructed hyperspace lanes. Upon the Byne Guild's dissolution, Gyasi arranged for Hollow to be registered as the Vessel owner with Galactic Republic authorities.",
+  "data": {
+    "name": "Vessel",
+    "type": "Transport",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 gun",
+    "crew": [
+      "3",
+      "2 pilots",
+      "1 navigator"
+    ],
+    "affiliation": "Byne Guild",
+    "owners": "Affie Hollow",
+    "captains": "Leox Gyasi"
+  },
+  "scraped": "2026-07-03"
+}

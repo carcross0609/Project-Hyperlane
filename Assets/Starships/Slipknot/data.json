@@ -1,0 +1,30 @@
+{
+  "name": "Slipknot",
+  "wookieepedia_title": "Slipknot",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Slipknot",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Slipknot was a YT-2400 freighter that Admiral Thrawn and ensign Eli Vanto used during the Batonn insurgency. Thrawn destroyed the freighter during an escape attempt from Nevil Cygni's Nomad starship.",
+  "data": {
+    "name": "Slipknot",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2400 light freighter",
+    "type": "Light freighter",
+    "length": "21 meters",
+    "max_speed": "800 kph",
+    "hyperdrive": "Class 2",
+    "armament": [
+      "2 double laser turrets",
+      "concussion missile launchers",
+      "Variable"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ],
+    "fleet": "Ninety-Sixth Task Force"
+  },
+  "scraped": "2026-07-03"
+}

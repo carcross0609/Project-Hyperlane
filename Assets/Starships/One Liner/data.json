@@ -1,0 +1,32 @@
+{
+  "name": "One Liner",
+  "wookieepedia_title": "One Liner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/One_Liner",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The One Liner, formerly the Flat Liner, was originally a stock YT-1300 light freighter purchased by Erlick Frodar during the Galactic Civil War. After being heavily used for spare parts for other vessels, the One Liner was sent on one last mission to assist in the evacuation of Jatee, where it was destroyed.",
+  "data": {
+    "name": "One Liner",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300 light freighter",
+    "type": "Light freighter",
+    "cost": "15,000 credits",
+    "length": "26.7 meters",
+    "max_speed": "750 KMH",
+    "hyperdrive": "Class 3.0",
+    "shield_gen": "None",
+    "armament": "Heavy laser cannon (1)",
+    "crew": "2, 1 gunner",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Alliance to Restore the Republic",
+    "owners": "Erlick Frodar",
+    "captains": "Erlick Frodar",
+    "aliases": "Flat Liner"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Count Dooku's frigate",
+  "wookieepedia_title": "Count Dooku's frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Count_Dooku%27s_frigate",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Count Dooku's frigate was a Munificent-class star frigate that served in the naval forces of the Confederacy of Independent Systems as the flagship of Separatist leader Count Dooku during the Clone Wars, until it was crippled during a skirmish at Vanqor.",
+  "data": {
+    "name": "Count Dooku's frigate",
+    "model": "Munificent-class star frigate",
+    "type": "Frigate",
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "armament": [
+      "Heavy turbolaser cannons (2)",
+      "Long-range heavy ion cannons (2)",
+      "Twin light turbolaser cannons (34)"
+    ],
+    "complement": [
+      "Count Dooku's Punworcca 116-class interstellar sloop",
+      "Sheathipede-class transport shuttle",
+      "Vulture droid starfighters"
+    ],
+    "bays": "1",
+    "passengers": "B1-series battle droids",
+    "communications": "Long-range hyperwave transceiver masts (2)",
+    "role": "Command ship",
+    "captains": "Dooku"
+  },
+  "scraped": "2026-07-03"
+}

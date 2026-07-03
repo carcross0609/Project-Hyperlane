@@ -1,0 +1,38 @@
+{
+  "name": "Cutter's Way",
+  "wookieepedia_title": "Cutter's Way",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cutter%27s_Way",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Cutter's Way was a GX1 short hauler that was part of the stock of Fizzi's Slightly Used Starships during the Galactic Civil War. A previous owner had started the conversion of this yacht into a light freighter and could be outfitted to serve as either one, or both. Before it landed in the Bith Fiz Cor'gril's shipyard it had been heavily modified with increased shields and armaments among other things.",
+  "data": {
+    "name": "Cutter's Way",
+    "manufacturer": "Lantillian ShipWrights",
+    "model": "GX1 short hauler",
+    "type": "Yacht/Light freighter",
+    "cost": "55,000 credits",
+    "modifier": "Garginoolaara",
+    "length": "27 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup: Class 15.0"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 Laser cannons (fire-linked)",
+      "Light Laser cannon"
+    ],
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "80 metric tons",
+    "consumables": "1 month",
+    "lifesupport": "Equipped",
+    "role": "Transport",
+    "owners": "Fiz Cor'gril"
+  },
+  "scraped": "2026-07-03"
+}

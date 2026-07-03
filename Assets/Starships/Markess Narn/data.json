@@ -1,0 +1,22 @@
+{
+  "name": "Markess Narn",
+  "wookieepedia_title": "Markess Narn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Markess_Narn",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Markess Narn was a EF76 Nebulon-B escort frigates.",
+  "data": {
+    "name": "Markess Narn",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Escort frigate",
+    "shield_gen": "Equipped",
+    "armament": [
+      "12 turbolaser batteries",
+      "12 laser cannons",
+      "2 tractor beam projectors"
+    ],
+    "affiliation": "Vergesso Base"
+  },
+  "scraped": "2026-07-03"
+}

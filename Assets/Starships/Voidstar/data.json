@@ -1,0 +1,21 @@
+{
+  "name": "Voidstar",
+  "wookieepedia_title": "Voidstar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Voidstar",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Voidstar was a prototype battleship belonging to the Sith Empire during the Great Galactic War. It went missing during the conflict and was rediscovered during the following Cold War.",
+  "data": {
+    "name": "Voidstar",
+    "model": "Harrower-class dreadnought",
+    "type": "Dreadnaught",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Tractor beams"
+    ],
+    "affiliation": "Sith Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Chimaera",
+  "wookieepedia_title": "Chimaera",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chimaera",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Chimaera was a modified Imperial I-class Star Destroyer captained by Imperial officer Thrawn during the Galactic Civil War. It served as his flagship following his promotions to commodore and later admiral of the 96th Task Force, and transferred commands with him from the task force to flagship of the Seventh Fleet upon his promotion to Grand Admiral. During the Liberation of Lothal, the Chimaera was pulled into hyperspace by purrgil summoned by the young rebel Padawan Ezra Bridger with Thrawn, Bridger, and most of its crew aboard.",
+  "data": {
+    "name": "Chimaera",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Modified Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "sysmods": "Equipped",
+    "length": "1,600 meters",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "ISD-72x shield generator domes (2)",
+    "sensor": "Long-range sensors",
+    "target": "Tractor beam targeting array",
+    "navigation": "Navigation computer",
+    "armament": [
+      "XX-9 heavy turbolaser batteries",
+      "Dual heavy turbolaser turrets (6)",
+      "Triple medium turbolasers (3)",
+      "Ion cannons",
+      "Proton torpedo launchers",
+      "Phylon Q7 tractor beam projectors"
+    ],
+    "complement": [
+      "TIE/ln space superiority starfighters",
+      "TIE/d \"Defender\" Multi-Role Starfighters",
+      "  At least 1 TIE/D Defender Elite",
+      "Shuttles",
+      "  Lambda-class T-4a shuttles",
+      "  Eta-class shuttle",
+      "  Chiss shuttle",
+      "Sentinel-class landing crafts",
+      "LAAT/le patrol gunships (8)",
+      "At least 2 freighters"
+    ],
+    "bays": "Hangars (3)",
+    "escapepods": "Escape pods",
+    "crew": [
+      "37,085 officers pilots and enlisted crew",
+      "  Imperial officers",
+      "    Chimaera bridge officer corps",
+      "    Junior officers",
+      "    Senior officers",
+      "  Imperial Navy Troopers",
+      "  Imperial weapons technicians",
+      "  Imperial Starfighter Pilots",
+      "  Thrawn's guard",
+      "  Stormtroopers (9,700 troops)",
+      "Thrawn's Night Trooper legion",
+      "  Night Troopers",
+      "IMG-099 Imperial Mark IV patrol droid",
+      "DT-series sentry droids",
+      "R4 astromech droids",
+      "MSE-6 series repair droids"
+    ],
+    "passengers": "Great Mothers",
+    "capacity": [
+      "Dathomiri coffins",
+      "Cargo crates"
+    ],
+    "communications": [
+      "Holotable",
+      "Holoprojectors"
+    ],
+    "othersystems": "Speakers",
+    "role": [
+      "Flagship",
+      "Command ship",
+      "Capital ship"
+    ],
+    "commission": "Shortly after 19 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "Thrawn's forces"
+    ],
+    "navy": "Imperial Navy",
+    "fleet": [
+      "96th Task Force",
+      "Seventh Fleet"
+    ],
+    "owners": "Thrawn",
+    "captains": [
+      "Karyn Faro",
+      "Albus Marinith",
+      "An Imperial captain",
+      "Arihnda Pryce (briefly)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

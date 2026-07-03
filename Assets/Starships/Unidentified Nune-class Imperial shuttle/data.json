@@ -1,0 +1,35 @@
+{
+  "name": "Unidentified Nune-class Imperial shuttle",
+  "wookieepedia_title": "Unidentified Nune-class Imperial shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Nune-class_Imperial_shuttle",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Captain Mingo Bovark of the Empire-in-exile traveled to The Wheel in 137 ABY aboard a Nune-class Imperial shuttle. The shuttle's controls were later overridden by four Command Override Limpet Droids planted by agents of the One Sith and Darth Krayt's Galactic Empire, and the shuttle fired upon a Crix-class diplomatic courier shuttle of the Galactic Alliance Remnant.",
+  "data": {
+    "name": "Unidentified Nune-class Imperial shuttle",
+    "model": "Nune-class Imperial shuttle",
+    "type": "Shuttle",
+    "cost": "Not available for sale",
+    "max_speed": "900 km/h",
+    "hyperdrive": "Class 1 (Backup class 10)",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Medium laser cannon battery",
+      "Medium laser cannons",
+      "Double heavy laser cannons"
+    ],
+    "crew": "8",
+    "passengers": "35",
+    "capacity": "250 tons",
+    "consumables": "3 months",
+    "role": [
+      "Personnel shuttle",
+      "Troop transport",
+      "Cargo shuttle"
+    ],
+    "affiliation": "Empire-in-exile"
+  },
+  "scraped": "2026-07-03"
+}

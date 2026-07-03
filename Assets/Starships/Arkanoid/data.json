@@ -1,0 +1,30 @@
+{
+  "name": "Arkanoid",
+  "wookieepedia_title": "Arkanoid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arkanoid",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Arkanoid was a Zeta-class long-range shuttle in service to the Galactic Empire.",
+  "data": {
+    "name": "Arkanoid",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Zeta-class long-range shuttle",
+    "type": "Shuttle",
+    "length": "35 meters",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 8.0 (backup)"
+    ],
+    "armament": [
+      "2 double laser cannons",
+      "2 double blaster cannons",
+      "1 retractable rear-mounted double blaster cannon"
+    ],
+    "role": "Transport",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "P'laang Ri"
+  },
+  "scraped": "2026-07-03"
+}

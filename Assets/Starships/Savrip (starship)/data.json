@@ -1,0 +1,41 @@
+{
+  "name": "Savrip",
+  "wookieepedia_title": "Savrip (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Savrip_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Savrip was a Marauder-class corvette that served as the first flagship of the Veiled Sorority pirate fleet.",
+  "data": {
+    "name": "Savrip",
+    "manufacturer": "Republic Sienar Systems",
+    "model": "Marauder-class corvette",
+    "type": "Corvette",
+    "sysmods": [
+      "Weapon systems",
+      "Electronic countermeasures suite"
+    ],
+    "hyperdrive": "Class 2.0",
+    "navigation": "Equipped",
+    "countermeasures": "Electronic countermeasures",
+    "armament": [
+      "Light double turbolasers (8)",
+      "Light tractor beam emitter (1)",
+      "Medium ion cannons (2)"
+    ],
+    "complement": "Cutlass-9 patrol fighters (12)",
+    "crew": "120",
+    "passengers": "40",
+    "consumables": "3 months",
+    "role": [
+      "Corvette",
+      "Flagship"
+    ],
+    "affiliation": "Veiled Sorority",
+    "captains": [
+      "First Pirate Queen",
+      "Second Pirate Queen"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

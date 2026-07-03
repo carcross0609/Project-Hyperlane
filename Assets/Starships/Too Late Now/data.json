@@ -1,0 +1,24 @@
+{
+  "name": "Too Late Now",
+  "wookieepedia_title": "Too Late Now",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Too_Late_Now",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Too Late Now was a captured and modified Imperial Customs Frigate that was part of Drea Renthal's pirate fleet that was present at the Battle of Nar Shaddaa. One of its laser cannon turrets was replaced with an ion cannon, allowing it to disable ships for capture. It was instrumental in helping to destroy the Carrack-class light cruiser Vigilance. Too Late Now was destroyed by Imperial forces shortly thereafter.",
+  "data": {
+    "name": "Too Late Now",
+    "model": "Imperial Customs Frigate",
+    "type": "Frigate",
+    "modifier": "Drea Renthal",
+    "length": "35 meters",
+    "armament": [
+      "Heavy laser cannons (5)",
+      "Ion cannon (1)"
+    ],
+    "destroyed": "3 BBY",
+    "affiliation": "Galactic Empire",
+    "owners": "Drea Renthal"
+  },
+  "scraped": "2026-07-03"
+}

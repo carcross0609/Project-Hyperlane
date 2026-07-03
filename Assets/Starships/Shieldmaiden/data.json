@@ -1,0 +1,37 @@
+{
+  "name": "Shieldmaiden",
+  "wookieepedia_title": "Shieldmaiden",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shieldmaiden",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Shieldmaiden was an Imperial-class Star Destroyer in service of the Imperial Navy. Shortly before the Battle of Endor, it was under the command of Captain Khione. Following a series of escapades, Khione was killed and the Shieldmaiden was heavily damaged by a Rebel team. Led by Alderaanian princess Leia Organa, the team stole the shuttle Tydirium and escaped.",
+  "data": {
+    "name": "Shieldmaiden",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": "TIE fighter series starfighters (72)",
+    "crew": "Stormtroopers (9,700)",
+    "consumables": "2 years",
+    "destroyed": "4 ABY",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Khione"
+  },
+  "scraped": "2026-07-03"
+}

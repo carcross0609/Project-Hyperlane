@@ -1,0 +1,45 @@
+{
+  "name": "Pyre's ship",
+  "wookieepedia_title": "Pyre's ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pyre%27s_ship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Pyre's ship was an Upsilon-class command shuttle used by Commander Pyre of the First Order during the Cold War to travel to and from Colossus.",
+  "data": {
+    "name": "Pyre's ship",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "model": "Upsilon-class shuttle",
+    "type": "Shuttle/Transport",
+    "height": "37.2 meters (122.04 feet) (with wings extended)",
+    "engine": "SJFS-200a sublight ion engines (2)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators (2)",
+    "hull": "Durasteel",
+    "sensor": "Equipped (long-range scan-mode sensor array, passive-mode sensors, and a primary sensor node)",
+    "countermeasures": [
+      "Sensor jammer",
+      "Anti-projectile deflection system"
+    ],
+    "armament": "Heavy laser cannons (2)",
+    "crew": [
+      "1-5 including",
+      "  Flight officer pilot (1)",
+      "  Copilot (1)"
+    ],
+    "passengers": "10",
+    "communications": [
+      "Subspace communications antenna",
+      "Hyperwave comm scanner"
+    ],
+    "role": "Transport",
+    "affiliation": "First Order",
+    "navy": "First Order Navy",
+    "owners": "Pyre",
+    "captains": [
+      "Tierny",
+      "Elrik Vonreg"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

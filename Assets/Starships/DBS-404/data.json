@@ -1,0 +1,37 @@
+{
+  "name": "DBS-404",
+  "wookieepedia_title": "DBS-404",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DBS-404",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "DBS-404 was a Hyena-class Droid Bomber that served in the Separatist Alliance during the Clone Wars. At one point, DBS-404 was damaged while in a battle on Geonosis and conducted a suicidal run on a Galactic Republic All Terrain Tactical Enforcer after its preservation protocols were not found. DBS-404 was painted in yellow markings.",
+  "data": {
+    "type": "CIS",
+    "name": "DBS-404",
+    "death": "22 BBY, Geonosis",
+    "manufacturer": "Baktoid Armor Workshop",
+    "model": "Hyena-class Droid Bomber",
+    "class": [
+      "Starfighter",
+      "Bomber"
+    ],
+    "length": "12.48 meters (in flight)",
+    "height": "3.1 meters (in flight)",
+    "pronouns": "It/its",
+    "sensor": "3 photoreceptors",
+    "armament": [
+      "Quad laser cannon",
+      "Missile pods (2)",
+      "  Proton torpedoes (6)",
+      "  Concussion missiles (6)",
+      "Bomb chute",
+      "  Proton bombs (4)"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

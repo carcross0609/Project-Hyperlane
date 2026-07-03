@@ -1,0 +1,28 @@
+{
+  "name": "Glas",
+  "wookieepedia_title": "Glas",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Glas",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Glas was an IPV-1 System Patrol Craft that was used by the Ripoblus government during the Imperial era. In 3 ABY, it was hijacked by a group of Ripoblus scientists who were growing disenchanted with the Sepan Civil War, and wished to seek asylum with the Galactic Empire. Since the Glas had no hyperdrive, the Victory I-class Star Destroyer Protector arrived in the Sepan system to dock with the craft. Though the Ripoblus sent their own fighters to stop the scientists from escaping, the Glas docked successfully with the Imperial warship, and was abandoned.",
+  "data": {
+    "name": "Glas",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "IPV-1 System Patrol Craft",
+    "length": "150 meters",
+    "mglt": "80 MGLT",
+    "hyperdrive": "N/A",
+    "shield_gen": "150 SBD",
+    "hull": "50 RU",
+    "armament": [
+      "3 laser cannons",
+      "1 turbolaser"
+    ],
+    "affiliation": [
+      "Ripoblus government",
+      "Ripoblus refugees"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Nautilian",
+  "wookieepedia_title": "Nautilian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nautilian",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Nautilian was an MC80A Home One Type Heavy Star Cruiser that served in the Alliance Fleet during the Galactic Civil War. It participated in the decisive battle fought at Endor, where it was entirely obliterated by the second Death Star. In 34 ABY, Admiral Gial Ackbar and Admiral Ushos O. Statura exchanged annotations about the Nautilian in The Rebel Files.",
+  "data": {
+    "name": "Nautilian",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC80 Star Cruiser",
+    "model": "MC80A Home One Type Heavy Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,300 meters",
+    "max_speed": "975 kilometers per hour",
+    "engine": "Ion engines (10)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "armament": [
+      "Turbolaser cannons (29)",
+      "Ion cannons (36)",
+      "Tractor beam projectors (6)"
+    ],
+    "complement": "10 squadrons of starfighters",
+    "bays": "At least 1",
+    "crew": "Over 5,000",
+    "destroyed": "4 ABY, Endor system",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": "Mon Calamari Exodus Fleet",
+    "owners": "Meeta Cors"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Venture",
+  "wookieepedia_title": "Venture (yacht)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Venture_%28yacht%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Venture was a Courier-class yacht owned by the Pantoran businessman Arend Shen.",
+  "data": {
+    "name": "Venture",
+    "manufacturer": "Nubia Star Drives, Incorporated",
+    "model": "Courier-class yacht",
+    "type": "Yacht",
+    "cost": "185,000 credits",
+    "length": "≤ 40 meters",
+    "engine": "(2, port and starboard wing-mounted)",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup class 14"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Firelinked forward-mounted light blaster cannons",
+      "Firelinked turreted light blaster cannons (180 degree arc)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Engineer (1)",
+      "Gunners (5)",
+      "Crew (11)"
+    ],
+    "passengers": "Passengers (25)",
+    "capacity": "Metric tonage comparable to other yachts",
+    "consumables": "1 month",
+    "role": "Private yacht"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Torment",
+  "wookieepedia_title": "Torment",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Torment",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Torment was an Imperial II-class Star Destroyer in the naval forces of the Galactic Empire that participated in the Battle of Theed during Operation: Cinder and was helmed by Captain Lerr Duvat.",
+  "data": {
+    "name": "Torment",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial II-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Octuple turbolaser barbettes (8)"
+    ],
+    "complement": [
+      "TIE fighter series starfighters",
+      "  TIE/ln space superiority starfighters",
+      "  TIE/IN interceptors",
+      "At least 3 Lambda-class T-4a shuttles",
+      "At least 2 All Terrain Armored Transports",
+      "At least 2 All Terrain Scout Transports",
+      "At least 2 Gozanti-class cruisers",
+      "Climate disruption arrays"
+    ],
+    "crew": [
+      "Imperial officers",
+      "Imperial Starfighter Pilots",
+      "Stormtroopers",
+      "  Riot control stormtroopers",
+      "  Heavy Weapons Stormtroopers",
+      "  Demolition Troopers",
+      "  Scout troopers",
+      "  Torment battalion",
+      "Imperial combat drivers",
+      "  AT-AT pilots",
+      "  AT-ST drivers"
+    ],
+    "passengers": "At least 1 Sentinel",
+    "communications": "Communications tower",
+    "role": [
+      "Carrier",
+      "Command ship"
+    ],
+    "destroyed": "4 ABY, Naboo system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Lerr Duvat"
+  },
+  "scraped": "2026-07-03"
+}

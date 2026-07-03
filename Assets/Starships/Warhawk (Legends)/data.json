@@ -1,0 +1,33 @@
+{
+  "name": "Warhawk",
+  "wookieepedia_title": "Warhawk/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Warhawk/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Warhawk was a Raider-class corvette that served alongside the Sargantuan and the Blood Ambition in the Imperial Navy.",
+  "data": {
+    "name": "Warhawk",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Raider-class corvette",
+    "type": "Corvette",
+    "length": "150 meters",
+    "engine": [
+      "2 small engines",
+      "1 large engine"
+    ],
+    "armament": [
+      "Dual heavy laser cannons (6)",
+      "Single turbolasers",
+      "Ion cannons",
+      "Concussion missile launcher"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": [
+      "14th Sector Fleet",
+      "  Ralchio Nervi's task force"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

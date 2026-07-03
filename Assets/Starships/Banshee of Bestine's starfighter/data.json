@@ -1,0 +1,39 @@
+{
+  "name": "Banshee of Bestine's starfighter",
+  "wookieepedia_title": "Banshee of Bestine's starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Banshee_of_Bestine%27s_starfighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The First Order starfighter ace known as the Banshee of Bestine flew a black TIE/ba Baron Space Superiority Interceptor between 31 and 34 ABY. The TIE Baron was destroyed and the Banshee was killed in battle by Resistance pilot Poe Dameron above the planet Bothawui.",
+  "data": {
+    "name": "Banshee of Bestine's starfighter",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/ba Baron Space Superiority Interceptor",
+    "type": "Starfighter",
+    "length": "10.3 meters (34 feet)",
+    "mglt": "145 MGLT (Vonreg's TIE Baron)",
+    "max_speed": "1,250 kph",
+    "engine": "Twin ion engines",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "poweroutput": "Pre-charged deuterium power cells",
+    "shield_gen": "Equipped",
+    "maincomp": "Torplex experimental flight computer (Vonreg's TIE)",
+    "armament": [
+      "L-s9.7 laser cannons",
+      "Projectile launchers",
+      "  Mag-pulse warheads",
+      "  ST7 concussion missiles"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "role": "Combat",
+    "affiliation": [
+      "First Order",
+      "  First Order starfighter corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

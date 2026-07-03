@@ -1,0 +1,33 @@
+{
+  "name": "DFS-1104",
+  "wookieepedia_title": "DFS-1104",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DFS-1104",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "DFS-1104 was a Vulture-class starfighter assigned to the Saak'ak.",
+  "data": {
+    "type": "Corporate",
+    "name": "DFS-1104",
+    "death": "32 BBY",
+    "manufacturer": [
+      "Haor Chall Engineering",
+      "Baktoid Armor Workshop"
+    ],
+    "line": "Droid starfighter",
+    "model": "Vulture-class starfighter",
+    "class": "Battle droid",
+    "cost": "19,000 credits",
+    "length": "3.6 meters",
+    "height": "3.5 meters",
+    "gender": "None",
+    "sensor": "Red",
+    "plating": "Grey",
+    "armament": [
+      "Blaster cannons (4)",
+      "Energy torpedo launchers (3)"
+    ],
+    "affiliation": "Trade Federation"
+  },
+  "scraped": "2026-07-03"
+}

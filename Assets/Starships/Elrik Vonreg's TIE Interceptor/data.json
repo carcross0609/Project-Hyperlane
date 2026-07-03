@@ -1,0 +1,42 @@
+{
+  "name": "Elrik Vonreg's TIE Interceptor",
+  "wookieepedia_title": "Elrik Vonreg's TIE Interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Elrik_Vonreg%27s_TIE_Interceptor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Elrik Vonreg's TIE Interceptor or Vonreg's TIE Baron was piloted by Major Elrik Vonreg during the Cold War. Vonreg utilized the TIE/ba Baron Space Superiority Interceptor during a New Republic mission to rendezvous with the Resistance, ultimately getting driven off before returning to Starkiller Base. A higher-end model equipped with a hyperdrive, the TIE/ba was armed with at least two laser cannons and a pair of missile launchers. The TIE was also equipped with an experimental flight computer manufactured by Torplex.",
+  "data": {
+    "name": "Elrik Vonreg's TIE Interceptor",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/ba Baron Space Superiority Interceptor",
+    "type": "Starfighter",
+    "length": "10.3 meters (34 feet)",
+    "mglt": "145 MGLT",
+    "engine": "Twin ion engines",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "poweroutput": "Pre-charged deuterium power cells",
+    "shield_gen": "Equipped",
+    "maincomp": "Torplex experimental flight computer(cockpit-housed)",
+    "armament": [
+      "L-s9.7 laser cannons (4) (wing-tip mounted)",
+      "Projectile launchers (2)",
+      "  Concussion missiles",
+      "  Mag-pulse warheads"
+    ],
+    "crew": "Pilot (1)",
+    "communications": "Antenna",
+    "role": "Combat",
+    "destroyed": "34 ABY, Castilon",
+    "affiliation": "First Order",
+    "navy": "First Order Navy",
+    "fleet": [
+      "Elrik Vonreg's squadron",
+      "Colossus garrison"
+    ],
+    "owners": "Elrik Vonreg"
+  },
+  "scraped": "2026-07-03"
+}

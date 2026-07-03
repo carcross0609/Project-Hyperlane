@@ -1,0 +1,35 @@
+{
+  "name": "Krath command station",
+  "wookieepedia_title": "Krath command station",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krath_command_station",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "SpaceStation",
+  "description": "The Krath command station was an ancient military command station in the Empress Teta system.",
+  "data": {
+    "name": "Krath command station",
+    "type": "Space command station",
+    "complement": [
+      "Armored vehicles",
+      "CX-133 Chaos fighters",
+      "Tetan Assault Ships"
+    ],
+    "passengers": "Tetan soldiers",
+    "region": "Deep Core",
+    "system": "Empress Teta system",
+    "coordinates": "L-10",
+    "orbited": [
+      "Unknown",
+      "Koros Major (3997 BBY)"
+    ],
+    "role": [
+      "Command and communications vessel",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Tetans",
+      "Krath"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

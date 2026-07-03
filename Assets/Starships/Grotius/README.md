@@ -1,0 +1,22 @@
+# Grotius
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Grotius](https://starwars.fandom.com/wiki/Grotius)
+
+Grotius was a BFF-1 bulk freighter used by Overlord Ghorin to be part of a convoy to deliver grain to the Imperials. Unfortunately the freighter along with Hugo were disabled along with the rest of the convoy by Rebel Y-wings, then boarded by Rebel freighters intending to swap grain cargos in order to discredit Ghorin as a traitor.
+
+## Specifications
+
+- **Name:** Grotius
+- **Model:** BFF-1 bulk freighter
+- **Type:** Freighter
+- **Length:** 120.9 meters
+- **Width:** 75.56 meters
+- **Height:** 34 meters
+- **Destroyed:** 0.5 ABY
+- **Affiliation:** Galactic Empire
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

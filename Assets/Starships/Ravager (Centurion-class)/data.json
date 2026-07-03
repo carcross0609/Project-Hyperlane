@@ -1,0 +1,36 @@
+{
+  "name": "Ravager",
+  "wookieepedia_title": "Ravager (Centurion-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ravager_%28Centurion-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ravager was a Centurion-class battlecruiser used by the Republic Navy during the Mandalorian Wars. In the final battle of the war, it was all but destroyed by the activation of the Mass Shadow Generator and lay in orbit until Darth Nihilus took control of it. The Sith Lord used the Force to hold the ship together with repairs only just making the ship habitable for Nihilus and his crew of Force slaves.",
+  "data": {
+    "name": "Ravager",
+    "model": "Centurion-class battlecruiser",
+    "type": "Battlecruiser",
+    "length": "1,200 meters",
+    "hdsystem": [
+      "Class 2",
+      "Class 8 (backup)"
+    ],
+    "armament": [
+      "Laser weaponry",
+      "Proton torpedo launchers"
+    ],
+    "complement": "Sith interceptors",
+    "crew": "Nihilus slaves",
+    "passengers": "Sith troopers",
+    "lifesupport": "Minimal",
+    "othersystems": "Visas Marr's meditation chamber",
+    "role": "Battlecruiser",
+    "destroyed": "3951 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Sith Triumvirate"
+    ],
+    "owners": "Darth Nihilus"
+  },
+  "scraped": "2026-07-03"
+}

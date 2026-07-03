@@ -1,0 +1,25 @@
+{
+  "name": "Record Time",
+  "wookieepedia_title": "Record Time",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Record_Time",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Record Time was an armed troop transport that served with distinction in the New Republic Defense Force during the fall of Coruscant and later the Battle of Borleias during the Yuuzhan Vong War. The ship ferried the initial waves of New Republic ground troops and YVH 1 battle droids to the surface of the planet Borleias in the initial stages of the battle as part of a New Republic effort to retake the planet from the Yuuzhan Vong, but sustained heavy damage in the process.",
+  "data": {
+    "name": "Record Time",
+    "length": "170 meters",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Turbolasers",
+    "skeleton": "2",
+    "destroyed": "27.5 ABY, over Coruscant",
+    "affiliation": "New Republic",
+    "navy": "Fleet Group Three",
+    "captains": [
+      "Ninora Birt",
+      "Lando Calrissian"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

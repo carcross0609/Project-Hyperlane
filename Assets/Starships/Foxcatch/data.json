@@ -1,0 +1,21 @@
+{
+  "name": "Foxcatch",
+  "wookieepedia_title": "Foxcatch",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Foxcatch",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Foxcatch was a heavily modified Lambda-class T-4a shuttle owned by Jodo Kast. Its tail was emblazoned with Kast's personal emblem.",
+  "data": {
+    "name": "Foxcatch",
+    "type": "Lambda-class T-4a shuttle",
+    "engine": [
+      "SF-S 204 sublight ion engines (2)",
+      "Incom 4L4 fusial thrust engine (6)"
+    ],
+    "armament": "Laser cannon (12)",
+    "crew": "Pilot (1)",
+    "owners": "Jodo Kast"
+  },
+  "scraped": "2026-07-03"
+}

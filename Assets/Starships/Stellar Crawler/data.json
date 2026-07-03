@@ -1,0 +1,31 @@
+{
+  "name": "Stellar Crawler",
+  "wookieepedia_title": "Stellar Crawler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stellar_Crawler",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Stellar Crawler was a modified YT-2400 light freighter commanded by Captain Nel Frel, a member of the Rebel Alliance Intelligence Service, during the Galactic Civil War. The Stellar Crawler regularly stopped over Trivar II's north pole to communicate with the growing rebel network there. It was also involved in Operation Night Fire.",
+  "data": {
+    "name": "Stellar Crawler",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "Modified YT-2400 light freighter",
+    "type": "Light freighter",
+    "length": "18.65 meters",
+    "width": "28.5 meters",
+    "max_speed": "800 kph",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Double laser turrets (2)",
+      "Concussion missile launchers"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Intelligence Service"
+    ],
+    "captains": "Nel Frel"
+  },
+  "scraped": "2026-07-03"
+}

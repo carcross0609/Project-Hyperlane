@@ -1,0 +1,23 @@
+{
+  "name": "Conqueror",
+  "wookieepedia_title": "Conqueror (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Conqueror_%28Imperial-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Conqueror was an Imperial-class Star Destroyer in service during the Galactic Civil War.",
+  "data": {
+    "name": "Conqueror",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Imperial-class Star Destroyer",
+    "length": "1,600 meters",
+    "complement": "TIE/LN starfighters",
+    "destroyed": "3 ABY, Goff system",
+    "affiliation": "Galactic Empire",
+    "fleet": [
+      "Task Force Vengeance",
+      "Battlegroup Orion"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

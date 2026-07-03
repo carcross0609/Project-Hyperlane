@@ -1,0 +1,28 @@
+{
+  "name": "Sand Sloth",
+  "wookieepedia_title": "Sand Sloth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sand_Sloth",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sand Sloth was a Corellian Engineering Corporation Starrunner-class starship which served as the personal ship of Kea Moll during the early years of the Galactic Empire. The ship formerly belonged to her father and the young Kea often worked on it alongside him. When he was killed in a failed mission against the Empire for the Annoo resistance, the ship became Kea's.",
+  "data": {
+    "name": "Sand Sloth",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Starrunner-class starship",
+    "length": "31 meters",
+    "hyperdrive": "x2 (backup x12)",
+    "armament": [
+      "Laser cannons (2 fire-linked)",
+      "Ion cannon (partial turret)"
+    ],
+    "crew": "1",
+    "passengers": "6",
+    "capacity": "20 metric tons",
+    "consumables": "3 months",
+    "affiliation": "Annoo resistance",
+    "owners": "Kea Moll",
+    "captains": "Kea Moll"
+  },
+  "scraped": "2026-07-03"
+}

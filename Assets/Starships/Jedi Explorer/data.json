@@ -1,0 +1,29 @@
+{
+  "name": "Jedi Explorer",
+  "wookieepedia_title": "Jedi Explorer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Explorer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Jedi Explorer was a sleek, two-man starship used by Luke Skywalker and Kam Solusar to reach Ossus during the implementation of the reborn Emperor's Operation Shadow Hand in 10 ABY.",
+  "data": {
+    "name": "Jedi Explorer",
+    "type": "Freighter",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "Ion cannons"
+    ],
+    "complement": "T-77 Experimental Airspeeder",
+    "crew": "2",
+    "skeleton": "1",
+    "role": "Shuttle",
+    "affiliation": [
+      "Luke Skywalker",
+      "New Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

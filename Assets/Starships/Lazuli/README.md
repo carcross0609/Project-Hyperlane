@@ -1,0 +1,21 @@
+# Lazuli
+
+**Kind:** Individual ship  
+**Continuity:** Canon  
+**Source:** [Lazuli](https://starwars.fandom.com/wiki/Lazuli)
+
+The Lazuli was a small starship used by Jedi Master Creighton Sun and Jedi Knight Aida Forte in 382 BBY for their mission to the Outer Rim planet Dalna to investigate the Path of the Open Hand cult. When members of the Path attacked them, Sun and Forte attempted to flee Dalna with other Jedi they had encountered there, but the ship was shot down by the Path and crashed into the center of the Path compound.
+
+## Specifications
+
+- **Name:** Lazuli
+- **Engine:** Equipped
+- **Hyperdrive:** Equipped
+- **Navigation:** Equipped
+- **Communications:** Equipped
+- **Destroyed:** 382 BBY, Path compound, Dalna
+- **Affiliation:** Jedi Order
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

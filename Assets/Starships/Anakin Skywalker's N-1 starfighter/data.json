@@ -1,0 +1,33 @@
+{
+  "name": "Anakin Skywalker's N-1 starfighter",
+  "wookieepedia_title": "Anakin Skywalker's N-1 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anakin_Skywalker%27s_N-1_starfighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "An N-1 starfighter was used by the youngling Anakin Skywalker during the Battle of Naboo.",
+  "data": {
+    "name": "Anakin Skywalker's N-1 starfighter",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "model": "N-1 starfighter",
+    "type": "Starfighter",
+    "length": "11 meters (36 feet, 1 inch)",
+    "engine": [
+      "Twin radial J-type engines"
+    ],
+    "shield_gen": "Equipped",
+    "target": "Equipped",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "role": "Starfighter",
+    "affiliation": [
+      "Royal House of Naboo",
+      "  Royal Naboo Security Forces",
+      "    Naboo Royal Space Fighter Corps"
+    ],
+    "owners": "Anakin Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

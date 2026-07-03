@@ -1,0 +1,45 @@
+{
+  "name": "Distant Rainbow",
+  "wookieepedia_title": "Distant Rainbow",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Distant_Rainbow",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Distant Rainbow, a modified Kuat Drive Yards Starwind-class pleasure yacht, was the flagship of of the smuggler chief Mazzic. Mazzic bought the ship at a bargain price from a retired Rodian smuggler. It was armed with two quad laser cannons, mounted on the top and bottom of the ship, and was one of the most luxurious smuggling vessels in the galaxy. However, it was very cramped when fully loaded, and could carry a mere two tons of cargo.",
+  "data": {
+    "name": "Distant Rainbow",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Modified Starwind-class pleasure yacht",
+    "type": "Space transport",
+    "cost": [
+      "New: 400,000 credits",
+      "Used: 150,000 credits"
+    ],
+    "length": "50 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup: Class 15.0"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Yes",
+    "navigation": "Yes",
+    "armament": "Quad laser cannons (2)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunners (2)"
+    ],
+    "skeleton": "2",
+    "passengers": "10",
+    "capacity": "2 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Smugglers' Alliance",
+    "owners": [
+      "Unnamed Rodian smuggler",
+      "Mazzic"
+    ],
+    "captains": "Mazzic"
+  },
+  "scraped": "2026-07-03"
+}

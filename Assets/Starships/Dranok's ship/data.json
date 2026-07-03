@@ -1,0 +1,28 @@
+{
+  "name": "Dranok's ship",
+  "wookieepedia_title": "Dranok's ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dranok%27s_ship",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This ship was the personal starship of the bounty hunter Dranok and his Nelvaanian partner Skarl. Mechanic Pergus Frode took shelter on this ship during an outbreak at the Sith academy on the planet Odacer-Faustin.",
+  "data": {
+    "name": "Dranok's ship",
+    "model": "Corellian cruiser",
+    "engine": "equipped",
+    "hyperdrive": "equipped",
+    "hdsystem": "equipped",
+    "navigation": "equipped",
+    "crew": "two",
+    "communications": "equipped",
+    "role": "Transport",
+    "destroyed": "3645 BBY",
+    "affiliation": "Dranok",
+    "owners": "Dranok",
+    "captains": [
+      "Dranok",
+      "Pergus Frode"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

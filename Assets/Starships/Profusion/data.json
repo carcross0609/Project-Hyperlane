@@ -1,0 +1,41 @@
+{
+  "name": "Profusion",
+  "wookieepedia_title": "Profusion",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Profusion",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Profusion was a Lucrehulk-class battleship that served within the naval forces of the Confederacy of Independent Systems during the Clone Wars. Measuring 3,356.9 meters in length, 3,009 meters in width and 1,028.77 meters in height, the battleship was equipped with several droid signal receiver stations.",
+  "data": {
+    "name": "Profusion",
+    "model": "Lucrehulk-class battleship",
+    "type": "Battleship",
+    "length": "3,356.9 meters",
+    "width": "3,009 meters",
+    "height": "1,028.77 meters",
+    "hull": "Exotic alloy (antenna array)",
+    "sensor": [
+      "1 main sensor rectenna",
+      "4 auxiliary sensors"
+    ],
+    "complement": [
+      "1,500 Vulture-class droid starfighters",
+      "550 Multi-Troop Transports",
+      "6,250 Armored Assault Tanks",
+      "1,500 Platoon Attack Craft",
+      "50 C-9979 landing craft"
+    ],
+    "passengers": [
+      "10,000+ battle droids",
+      "Other droid models"
+    ],
+    "othersystems": [
+      "2 main communications antennae (16,500 kilometer broadcast range)",
+      "6 auxiliary antennae",
+      "16 signal receiver dishes"
+    ],
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy"
+  },
+  "scraped": "2026-07-03"
+}

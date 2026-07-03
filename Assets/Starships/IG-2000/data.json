@@ -1,0 +1,31 @@
+{
+  "name": "IG-2000",
+  "wookieepedia_title": "IG-2000",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IG-2000",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The IG-2000 was a modified Aggressor-class Assault Fighter owned by the assassin droid bounty hunter IG-88B.",
+  "data": {
+    "name": "IG-2000",
+    "manufacturer": "Trilon Incorporated",
+    "model": "Aggressor-class Assault Fighter",
+    "cost": "203,100 credits",
+    "modifier": "IG-88",
+    "sysmods": "Droid brains",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 15 (Backup)"
+    ],
+    "sensor": "Short range sensor",
+    "armament": [
+      "Twin heavy laser cannons",
+      "Twin medium ion cannons",
+      "Light tractor beam projectors (2)"
+    ],
+    "passengers": "8 prisoners",
+    "consumables": "3 months",
+    "owners": "IG-88"
+  },
+  "scraped": "2026-07-03"
+}

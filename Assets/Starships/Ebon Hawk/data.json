@@ -1,0 +1,69 @@
+{
+  "name": "Ebon Hawk",
+  "wookieepedia_title": "Ebon Hawk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ebon_Hawk",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ebon Hawk was a Dynamic-class freighter and a smuggler ship that rose to fame due to its use around the time of the Jedi Civil War. It was well-known throughout the galaxy as a ship associated with the Exchange, and it passed through many hands before it was commandeered by amnesiac Dark Lord of the Sith, Revan, who was escaping the Destruction of Taris. After Revan joined the Jedi Order, the ship was instrumental in his search for the Star Forge.",
+  "data": {
+    "name": "Ebon Hawk",
+    "manufacturer": "Core Galaxy Systems",
+    "model": "Dynamic-class freighter",
+    "type": "Light freighter",
+    "cost": "Estimated value 154,000 credits",
+    "sysmods": [
+      "Navigation computer upgraded from baseline prior to 3956 BBY, then locked-out circa 3951 BBY",
+      "Hyperdrive upgraded",
+      "Sublight drive upgraded",
+      "Hull reinforced",
+      "Military-grade deflector shield generators",
+      "Improved armament",
+      "Smuggling compartments (2)"
+    ],
+    "length": "24 meters",
+    "width": "Roughly 22.5 meters",
+    "max_speed": "1,100 km/h",
+    "hyperdrive": "Class 1",
+    "navigation": [
+      "Navigation computer equipped",
+      "Can interface with utility droid or astromech droid if navigation computer is locked or damaged."
+    ],
+    "armament": [
+      "Dual turbolaser turrets (2, 1 dorsal, 1 ventral)",
+      "Dual heavy quad laser cannons (2, one on each wingtip)",
+      "Concealed ventral anti-personnel repeating blaster (1)",
+      "Proton torpedoes (at least 1 confirmed)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunners (1 minimum, 4 maximum)"
+    ],
+    "skeleton": "1 pilot",
+    "passengers": "8",
+    "capacity": "40 tons",
+    "consumables": "2 months",
+    "role": "Transport",
+    "affiliation": [
+      "Exchange",
+      "Galactic Republic",
+      "Jedi Order"
+    ],
+    "owners": [
+      "Ratrin Vhek",
+      "Forii Haxa",
+      "Ahita Othar",
+      "Davik Kang",
+      "Revan",
+      "Kreia",
+      "Meetra Surik"
+    ],
+    "captains": [
+      "Revan",
+      "Meetra Surik"
+    ],
+    "registry": "34-P7JK"
+  },
+  "scraped": "2026-07-03"
+}

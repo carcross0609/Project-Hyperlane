@@ -1,0 +1,23 @@
+{
+  "name": "Yoda's fighter",
+  "wookieepedia_title": "Yoda's fighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yoda%27s_fighter/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A modified Jedi starfighter was, at one point during the Clone Wars, stationed in one of the Jedi Temple's hangars. Around 20 BBY, Jedi Master Yoda used the starfighter to go on a series of missions to Dagobah, a mysterious planet inhabited by the Five Priestesses, and Korriban accompanied by the astromech droid R2-D2. Like the Eta-2 Actis-class interceptor, it had hexagonal panels at the end of its wings, and, like Raith Sienar's TIE starfighter, it had a compact, sphere-shaped cockpit. Yoda's personal crest adorned the wings of the starfighter.",
+  "data": {
+    "name": "Yoda's fighter",
+    "type": "Starfighter",
+    "hyperdrive": "Hyperdrive ring",
+    "armament": "2 laser cannons",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "role": "Starfighter",
+    "affiliation": "Jedi Order",
+    "owners": "Jedi Master Yoda"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Inferno",
+  "wookieepedia_title": "Inferno (Vilmarh Grahrk)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Inferno_%28Vilmarh_Grahrk%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Inferno was a custom-built personal starship owned by the Devaronian smuggler Vilmarh Grahrk.",
+  "data": {
+    "name": "Inferno",
+    "model": "Custom-built Big Wing",
+    "modifier": "Vilmarh Grahrk",
+    "length": "14 meters",
+    "width": "27 meters",
+    "max_accel": "3,730 G",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 0.8",
+    "navigation": "NT 600 general assistance droid",
+    "armament": [
+      "Concealed laser cannons (6)",
+      "Concealed ion cannon (1)"
+    ],
+    "escapepods": "Equipped",
+    "crew": "Pilot (1)",
+    "passengers": "1",
+    "owners": "Vilmarh Grahrk",
+    "captains": "Vilmarh Grahrk"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Resilient",
+  "wookieepedia_title": "Resilient (Venator-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Resilient_%28Venator-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Resilient was a Venator-class Star Destroyer in the Republic Navy during the Clone Wars. In 22 BBY, it was a part of a task force led by Jedi Generals Plo Koon, Kit Fisto, and Tauht that was dispatched to the planet Khorm to secure the valuable agrocite mineral. However, by the time the Jedi arrived at the planet, it had been occupied by the Confederacy of Independent Systems. During the ensuing battle, the Resilient served as the personal flagship of Republic Admiral Wieler. Wieler could not utilize his space forces at first because of a Separatist-created storm that raged in Khorm's atmosphere, but once the storm was extinguished, he used the Resilient and the rest of the fleet to aid the Republic ground troops.",
+  "data": {
+    "name": "Resilient",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Venator-class Star Destroyer",
+    "complement": [
+      "V-19 Torrent starfighters",
+      "LAAT/i gunships"
+    ],
+    "passengers": "Clone troopers",
+    "role": [
+      "Destroyer",
+      "Carrier"
+    ],
+    "affiliation": "Galactic Republic",
+    "fleet": "Wieler's fleet",
+    "captains": "Admiral Wieler"
+  },
+  "scraped": "2026-07-03"
+}

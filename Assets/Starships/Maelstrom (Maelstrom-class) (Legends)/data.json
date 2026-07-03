@@ -1,0 +1,42 @@
+{
+  "name": "Maelstrom",
+  "wookieepedia_title": "Maelstrom (Maelstrom-class)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maelstrom_%28Maelstrom-class%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Maelstrom was a Galactic Republic warship which served in the Clone Wars.",
+  "data": {
+    "name": "Maelstrom",
+    "model": "Maelstrom-class battle cruiser",
+    "type": "Battle cruiser",
+    "engine": [
+      "Main engine-bank at stern",
+      "Bow thrusters"
+    ],
+    "hdsystem": "Yes",
+    "shield_gen": "Yes",
+    "armament": [
+      "Multiple turbolaser batteries",
+      "  Powerful turbolaser battery (1)",
+      "Proton torpedo tubes (100)",
+      "Tractor beam array"
+    ],
+    "complement": [
+      "Starfighter squadrons",
+      "Combat shuttle"
+    ],
+    "bays": [
+      "One main hangar bay separated from at least one other level of bays",
+      "Multiple bays running along the length of the hull"
+    ],
+    "passengers": "Clone troopers",
+    "role": [
+      "Battlecruiser",
+      "Command ship"
+    ],
+    "affiliation": "Galactic Republic",
+    "captains": "Darrus Jeht"
+  },
+  "scraped": "2026-07-03"
+}

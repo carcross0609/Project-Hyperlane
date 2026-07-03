@@ -1,0 +1,23 @@
+{
+  "name": "Daggerblade",
+  "wookieepedia_title": "Daggerblade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Daggerblade",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Daggerblade was an Imperial system patrol craft. The Rebel Alliance tentatively identified it as the ship that engaged the CR90 corvette Old Republic shortly after the Battle of Endor.",
+  "data": {
+    "name": "Daggerblade",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "IPV-1 System Patrol Craft",
+    "length": "150 meters",
+    "shield_gen": "400 SBD",
+    "hull": "285 RU",
+    "armament": [
+      "Taim & Bak XV7 turbolasers (4)",
+      "Krupx VL-4a warhead launcher (1)"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

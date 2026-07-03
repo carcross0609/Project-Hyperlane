@@ -1,0 +1,22 @@
+{
+  "name": "Midsummer",
+  "wookieepedia_title": "Midsummer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Midsummer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Midsummer was a frigate in service to the Chiss Ascendancy's Xodlak family, serving as part of their planetary defense fleet, though it was stationed on the surface and was derelict and abandoned. The Midsummer was activated when the Xodlak family declared an emergency, allowing it to use its private military forces and call its family members from across the Chiss Expansionary Defense Fleet to serve on its starships which would be used on a Nyix mine owned by the Agbui. The Midsummer became the flagship of Task Force Xodlak under the command of Senior Captain Irizi'in'daro.",
+  "data": {
+    "name": "Midsummer",
+    "model": "Chiss frigate",
+    "type": "Frigate",
+    "affiliation": [
+      "Chiss Ascendancy",
+      "  Xodlak family"
+    ],
+    "navy": "Xodlak fleet",
+    "fleet": "Task Force Xodlak",
+    "captains": "Senior Captain Irizi'in'daro"
+  },
+  "scraped": "2026-07-03"
+}

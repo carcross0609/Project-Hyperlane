@@ -1,0 +1,39 @@
+{
+  "name": "Knight Hammer",
+  "wookieepedia_title": "Knight Hammer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Knight_Hammer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Knight Hammer, originally named the Night Hammer, was a black Executor-class Star Dreadnought constructed in secret by Superior General Sander Delvardus and appropriated by Admiral Natasi Daala after Delvardus's death at her hands. Covered in stealth armor and hosting automated systems that allowed it to run with a fraction of the standard crew size, the Knight Hammer was particularly advanced for ships of its class. Daala used the Super Star Destroyer as a symbol of Imperial power, reuniting the remnants of the Empire under its banner as she prepared for an assault against the New Republic. When she decided to use the vessel against the New Jedi Order on Yavin 4, she rechristened the ship from Night Hammer to Knight Hammer as a private joke and symbol of its intended role in eliminating the New Republic and Jedi.",
+  "data": {
+    "name": "Knight Hammer",
+    "type": "Executor-class Star Dreadnought",
+    "sysmods": [
+      "Black stealth armor",
+      "Automated command systems"
+    ],
+    "length": "19,000 meters",
+    "armament": "Turbolaser batteries",
+    "complement": "Thousands of TIE/LN starfighters and TIE/sa bombers",
+    "crew": "100,000",
+    "role": [
+      "Command ship",
+      "Carrier"
+    ],
+    "commission": "12 ABY",
+    "destroyed": "12 ABY, above Yavin Prime",
+    "affiliation": [
+      "Eriadu Authority",
+      "United Warlord Fleets"
+    ],
+    "owners": [
+      "Sander Delvardus",
+      "Natasi Daala"
+    ],
+    "aliases": [
+      "Night Hammer (later renamed Knight Hammer)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

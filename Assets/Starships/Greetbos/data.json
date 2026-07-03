@@ -1,0 +1,33 @@
+{
+  "name": "Greetbos",
+  "wookieepedia_title": "Greetbos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Greetbos",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Greetbos was a GAT-12j Skipray blastboat used by the Imperials to patrol the Elrood sector after the invasion of Derilyn.",
+  "data": {
+    "name": "Greetbos",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "GAT-12j Skipray Blastboat",
+    "length": "25 meters",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer (4 jump capability)",
+    "armament": [
+      "3 ion cannons",
+      "Twin laser cannon turret",
+      "Proton torpedo launcher",
+      "Concussion missile launcher"
+    ],
+    "crew": "2; 2 gunners",
+    "skeleton": "1",
+    "capacity": "20 metric tons",
+    "consumables": "1 month",
+    "role": "Patrol ship",
+    "affiliation": "Galactic Empire",
+    "captains": "Lieutenant Kader Tentrata"
+  },
+  "scraped": "2026-07-03"
+}

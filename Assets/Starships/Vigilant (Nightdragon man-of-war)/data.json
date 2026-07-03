@@ -1,0 +1,28 @@
+{
+  "name": "Vigilant",
+  "wookieepedia_title": "Vigilant (Nightdragon man-of-war)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vigilant_%28Nightdragon_man-of-war%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vigilant was a kilometer long Chiss Nightdragon man-of-war commanded by Admiral Ar'alani of the Chiss Ascendancy.",
+  "data": {
+    "name": "Vigilant",
+    "model": "Nightdragon man-of-war",
+    "hdsystem": "Equipped",
+    "hull": "Nyix-alloy",
+    "armament": [
+      "Breachers",
+      "Plasma spheres",
+      "Spectrum lasers"
+    ],
+    "affiliation": [
+      "Chiss Ascendancy",
+      "  Ascendancy military"
+    ],
+    "navy": "Chiss Expansionary Defense Fleet",
+    "fleet": "Picket Force Six",
+    "captains": "Ar'alani"
+  },
+  "scraped": "2026-07-03"
+}

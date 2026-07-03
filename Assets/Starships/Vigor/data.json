@@ -1,0 +1,31 @@
+{
+  "name": "Vigor",
+  "wookieepedia_title": "Vigor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vigor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vigor was a Corellian gunship that was used by the Peace Brigade during the Yuuzhan Vong War. At some point, the Vigor and the Peace Brigade YV-929 armed freighter Blunt Force approached the refugee ship Wanderhome and Bunurrut, the captain of the Vigor contacted the Wanderhome, claiming that the two ships had been ordered by Leia Organa Solo to escort the refugees aboard the Wanderhome to safety. In fact, Bunurrut planned on taking the refugees to the Yuuzhan Vong, and the pilots who had been escorting the Wanderhome managed to drive off the two Peace Brigade ships.",
+  "data": {
+    "name": "Vigor",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Corellian gunship",
+    "type": "Capital ship",
+    "cost": "2,200,000 credits (used)",
+    "length": "120 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup class 6"
+    ],
+    "armament": [
+      "2 quad laser cannons",
+      "8 double turbolaser cannons (8)"
+    ],
+    "crew": "10",
+    "passengers": "450 metric tons",
+    "consumables": "6 months",
+    "affiliation": "Peace Brigade",
+    "captains": "Bunurrut"
+  },
+  "scraped": "2026-07-03"
+}

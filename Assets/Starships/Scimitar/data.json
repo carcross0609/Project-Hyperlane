@@ -1,0 +1,57 @@
+{
+  "name": "Scimitar",
+  "wookieepedia_title": "Scimitar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scimitar",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Scimitar, also known as the Sith Infiltrator, was a heavily modified Star Courier and the personal starship of Darth Maul. After his defeat during the Battle of Naboo, the experimental starfighter was appropriated by Maul's master, Darth Sidious.",
+  "data": {
+    "name": "Scimitar",
+    "designer": [
+      "Sienar Design Systems (initial design as an armed Star Courier)",
+      "Raith Sienar (disputed)",
+      "Darth Tenebrous (suspected)"
+    ],
+    "manufacturer": "Republic Sienar Systems",
+    "model": "Heavily modified Star Courier",
+    "type": [
+      "Armed star courier",
+      "Experimental starship",
+      "Starfighter"
+    ],
+    "length": "26.5 meters (86 feet 11 inches)",
+    "mglt": "120 MGLT",
+    "max_speed": "1,180 kph (733 mph)",
+    "engine": "Experimental ion engines",
+    "hyperdrive": "Class 2",
+    "hull": "Heavily armoured hull",
+    "countermeasures": "Cloaking device",
+    "armament": [
+      "Concealed laser cannons (6)",
+      "Proton torpedo launcher (1)",
+      "  Proton torpedos",
+      "Minelayer"
+    ],
+    "complement": [
+      "DRK-1 Dark Eye probe droids (3)",
+      "Bloodfin"
+    ],
+    "crew": "1",
+    "passengers": "6",
+    "affiliation": [
+      "Sith",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ],
+    "owners": [
+      "Darth Maul",
+      "Darth Sidious"
+    ],
+    "captains": [
+      "Grievous",
+      "Chanath Cha"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

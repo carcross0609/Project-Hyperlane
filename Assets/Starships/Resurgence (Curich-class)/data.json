@@ -1,0 +1,35 @@
+{
+  "name": "Resurgence",
+  "wookieepedia_title": "Resurgence (Curich-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Resurgence_%28Curich-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Resurgence was a Sienar Fleet Systems Curich-class shuttle owned by Lord Dixton, recently-named Governor General of the Fakir sector as of 0 ABY.",
+  "data": {
+    "name": "Resurgence",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Curich-class shuttle",
+    "type": "Shuttle",
+    "cost": "112,000",
+    "length": "54 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": "x2",
+    "shield_gen": "Yes",
+    "armament": [
+      "1 heavy blaster cannon"
+    ],
+    "crew": "3, +1 gunner",
+    "passengers": "50",
+    "cargohandling": "300 metric tons",
+    "consumables": "1 month",
+    "role": "Governor general's transport",
+    "owners": [
+      "Dixton"
+    ],
+    "captains": [
+      "Captain Gorgi"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

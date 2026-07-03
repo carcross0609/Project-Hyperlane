@@ -1,0 +1,27 @@
+{
+  "name": "Command Performance",
+  "wookieepedia_title": "Command Performance",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Command_Performance",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Command Performance was a Rendili-Surron Starlight-class light freighter owned and operated by Ahric Korownosek and his acting troupe the NovaCluster Players.",
+  "data": {
+    "name": "Command Performance",
+    "manufacturer": "Rendili StarDrive and Surron StarTech",
+    "model": "Starlight-class light freighter",
+    "type": "Freighter",
+    "cost": "26,000 (used)",
+    "length": "34 meters",
+    "max_speed": "800 km/h",
+    "armament": "Turret-mounted blaster cannon",
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "50 tons",
+    "consumables": "3 weeks",
+    "owners": [
+      "Ahric Korownosek"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

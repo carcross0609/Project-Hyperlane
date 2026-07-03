@@ -1,0 +1,40 @@
+{
+  "name": "Negotiator",
+  "wookieepedia_title": "Negotiator/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Negotiator/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Negotiator was a Venator-class Star Destroyer that served as a flagship of Jedi Master Obi-Wan Kenobi and Clone Commander CC-2224 \"Cody\" during the Clone Wars. It was also commanded by Admiral Block of the Republic Navy.",
+  "data": {
+    "name": "Negotiator",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "hdsystem": "Equipped",
+    "armament": "DBY-827 heavy dual turbolaser turrets",
+    "complement": "Various ships and vehicles",
+    "crew": [
+      "Clone troopers",
+      "Various droids"
+    ],
+    "passengers": [
+      "Clone troopers",
+      "  212th Attack Battalion"
+    ],
+    "role": [
+      "Destroyer",
+      "Carrier",
+      "Command ship"
+    ],
+    "destroyed": "c. 20 BBY, space",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet",
+    "captains": [
+      "High Jedi General Obi-Wan Kenobi",
+      "Admiral Block",
+      "Clone marshal commander CC-2224"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

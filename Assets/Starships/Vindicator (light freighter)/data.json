@@ -1,0 +1,21 @@
+{
+  "name": "Vindicator",
+  "wookieepedia_title": "Vindicator (light freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vindicator_%28light_freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vindicator was a Rebel Alliance ship.",
+  "data": {
+    "name": "Vindicator",
+    "model": "Light freighter",
+    "armament": [
+      "4 proton torpedo launchers",
+      "Turret-mounted laser cannon"
+    ],
+    "othersystems": "Sensor shroud",
+    "role": "Torpedo bomber",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Night Wind",
+  "wookieepedia_title": "Night Wind",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Night_Wind",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Night Wind was a YT-1300 light freighter crewed by a band of pirates led by Captain Jor Entel during the Galactic Civil War. Prior to the Demophon supernova Jor Entel offered the Night Wind as an inexpensive means of evacuating Demophon. In reality he was slaughtering the refugees he ferried and stealing their valuables.",
+  "data": {
+    "name": "Night Wind",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300 light freighter",
+    "type": "Light freighter",
+    "cost": "65,000 credits",
+    "length": "26.7 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup class 12.0"
+    ],
+    "armament": [
+      "Laser cannon turret (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunner (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "role": "Transport",
+    "captains": "Jor Entel"
+  },
+  "scraped": "2026-07-03"
+}

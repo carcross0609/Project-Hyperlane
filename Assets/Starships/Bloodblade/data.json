@@ -1,0 +1,34 @@
+{
+  "name": "\"Bloodblade\"",
+  "wookieepedia_title": "Bloodblade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bloodblade",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Bloodblade was a Firespray-31-class patrol and attack craft owned by Jostero, captain of the Silestro Privateers, a group of privateers in the Corellian system.",
+  "data": {
+    "name": "\"Bloodblade\"",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Firespray-31-class patrol and attack craft",
+    "cost": "Not for sale (likely to be valued at 80,000 credits)",
+    "hyperdrive": [
+      "Class 3.0",
+      "Backup: Class 15.0"
+    ],
+    "sensor": "Equipped",
+    "armament": [
+      "Autoblaster (1)",
+      "Tractor beam (1)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": [
+      "Pirates (2)",
+      "Prisoners (6)"
+    ],
+    "consumables": "1 month",
+    "affiliation": "Silestro Privateers",
+    "owners": "Jostero",
+    "captains": "Jostero"
+  },
+  "scraped": "2026-07-03"
+}

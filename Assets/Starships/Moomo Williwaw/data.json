@@ -1,0 +1,47 @@
+{
+  "name": "Moomo Williwaw",
+  "wookieepedia_title": "Moomo Williwaw",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moomo_Williwaw",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Moomo Williwaw was a Pelagia Duplex Command Assault Gunship owned and operated by the Moomo Brothers.",
+  "data": {
+    "name": "Moomo Williwaw",
+    "manufacturer": "Pelagian shipyards",
+    "model": "Modified Pelagia Duplex Command Assault Gunship",
+    "type": "Gunship",
+    "modifier": [
+      "Designed to specifications of Baron Karoll Cilarnus",
+      "Further modified by Dob Moomo and Del Moomo"
+    ],
+    "sysmods": [
+      "Additional armaments per specifications of Baron Karoll Cilarnus",
+      "Armaments added by Dob and Del Moomo"
+    ],
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Equipped",
+    "crew": "minimum 2",
+    "skeleton": "2",
+    "passengers": "Up to 6",
+    "capacity": "5 tons",
+    "consumables": "1 week",
+    "role": [
+      "Bounty hunting vessel",
+      "Personal transportation"
+    ],
+    "commission": "Great Sith War",
+    "affiliation": [
+      "Bounty hunters",
+      "Marn Hierogryph"
+    ],
+    "owners": [
+      "Baron Karoll Cilarnus (failed to finalize purchase)",
+      "Dob and Del Moomo"
+    ],
+    "captains": "Dob and Del Moomo"
+  },
+  "scraped": "2026-07-03"
+}

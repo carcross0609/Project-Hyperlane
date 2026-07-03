@@ -1,0 +1,32 @@
+{
+  "name": "Bright Seeker",
+  "wookieepedia_title": "Bright Seeker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bright_Seeker",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "Bright Seeker was a modified Mining Survey Ship which was designed to survey systems for mineral and ore deposits. It had excellent sensors and a powerful laser for boring into asteroids and taking samples. Bright Seeker was commanded by the minor noble, Captain Nils Wender of House Calipsa.",
+  "data": {
+    "name": "Bright Seeker",
+    "manufacturer": "Merrick and Kalb Industries",
+    "model": "Modified Mining Survey Ship",
+    "type": "Light freighter",
+    "max_speed": "850 km/h",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Advanced sensor suite",
+    "navigation": "Equipped",
+    "armament": [
+      "1 heavy laser cannon turret",
+      "1 twin blaster cannon turret"
+    ],
+    "crew": "9-10",
+    "othersystems": "High-power hypercomm transceiver",
+    "role": [
+      "Scout",
+      "Transport"
+    ],
+    "affiliation": "House Calipsa"
+  },
+  "scraped": "2026-07-03"
+}

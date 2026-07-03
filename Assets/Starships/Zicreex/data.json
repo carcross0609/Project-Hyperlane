@@ -1,0 +1,28 @@
+{
+  "name": "Zicreex",
+  "wookieepedia_title": "Zicreex",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zicreex",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Zicreex was a Subla Ransom cargo hauler.",
+  "data": {
+    "name": "Zicreex",
+    "manufacturer": "Subla Ransom",
+    "model": "Subla Ransom Medium Cargo Hauler",
+    "length": "75.5 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "x2(primary)",
+      "x12(backup)"
+    ],
+    "armament": "Blaster cannons (1)",
+    "crew": "5",
+    "passengers": "5",
+    "capacity": "450 metric tons",
+    "consumables": "3 months",
+    "role": "Transport",
+    "captains": "Captain Ugmush"
+  },
+  "scraped": "2026-07-03"
+}

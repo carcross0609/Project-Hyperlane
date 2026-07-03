@@ -1,0 +1,39 @@
+{
+  "name": "Redeemer",
+  "wookieepedia_title": "Redeemer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Redeemer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Venator-class Star Destroyer Redeemer was part of the Galactic Republic's naval forces during the Clone Wars. Incorporated into the Open Circle Fleet, under the task force of Jedi General Anakin Skywalker, the Redeemer was dispatched to the planet Ryloth in 21 BBY, held under blockade by the Separatist Alliance. Accompanying the Venator-class Resolute and Defender, the fleet arrived above Ryloth and began their assignment of breaking the blockade as they launched their starfighters.",
+  "data": {
+    "name": "Redeemer",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Ion drive thrusters (8)",
+    "hdsystem": "Equipped",
+    "armament": [
+      "8 DBY-827 heavy turbolaser turrets",
+      "2 medium dual turbolaser cannons",
+      "Laser cannons",
+      "Proton torpedo launchers",
+      "Tractor beam projectors"
+    ],
+    "communications": "2 hyperwave comm scanners",
+    "role": [
+      "Battleship",
+      "Starfighter carrier"
+    ],
+    "destroyed": "21 BBY, Ryloth system",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "fleet": [
+      "Open Circle Fleet",
+      "  Skywalker's fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

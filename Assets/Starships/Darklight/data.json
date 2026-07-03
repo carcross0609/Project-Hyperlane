@@ -1,0 +1,44 @@
+{
+  "name": "Darklight",
+  "wookieepedia_title": "Darklight",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darklight",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Darklight was an Imperious-class Star Destroyer that served Darth Krayt's Sith Empire during the Second Imperial Civil War.",
+  "data": {
+    "name": "Darklight",
+    "line": "Star Destroyer",
+    "model": "Imperious-class Star Destroyer",
+    "length": "Greater than a standard Star Destroyer",
+    "engine": [
+      "Main engines (2)",
+      "Secondary engines (4)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy turbolaser batteries (5)",
+      "Turbolaser batteries (5)",
+      "Ion cannons (4)",
+      "Proton torpedo launchers (5)",
+      "Tractor beam projectors (2)",
+      "Gravity mines (50)"
+    ],
+    "complement": [
+      "Predator-class starfighters",
+      "Sith-Imperial starfighters"
+    ],
+    "role": "Battleship",
+    "destroyed": "138 ABY",
+    "affiliation": [
+      "Darth Krayt's Galactic Empire",
+      "  Imperial Navy"
+    ],
+    "captains": "Unidentified Sith Lord"
+  },
+  "scraped": "2026-07-03"
+}

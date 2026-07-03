@@ -1,0 +1,21 @@
+{
+  "name": "Liber 4",
+  "wookieepedia_title": "Liber 4",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liber_4",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Liber 4 was a Rebel BFF-1 bulk freighter that was destroyed at the Battle of Remitik.",
+  "data": {
+    "name": "Liber 4",
+    "model": "BFF-1 bulk freighter",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "shield_gen": "Rated 200 SBD",
+    "hull": "Rated 140 RU",
+    "destroyed": "3 ABY",
+    "affiliation": "Rebel Alliance",
+    "navy": "Alliance Fleet"
+  },
+  "scraped": "2026-07-03"
+}

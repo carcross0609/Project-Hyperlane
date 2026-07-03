@@ -1,0 +1,53 @@
+{
+  "name": "Twilight",
+  "wookieepedia_title": "Twilight",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Twilight",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Twilight was a Corellian G9 Rigger-class light freighter owned and operated by the Jedi Knight Anakin Skywalker during the Clone Wars. Skywalker and his Padawan, Ahsoka Tano, used the ship to escape from a battle on Teth. When Obi-Wan Kenobi traveled to the planet Mandalore during the Mandalorian civil war, the ship was destroyed by the former Sith Lord Maul and his Shadow Collective.",
+  "data": {
+    "name": "Twilight",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "G9 Rigger-class light freighter",
+    "type": "Freighter",
+    "length": "34.1 meters",
+    "width": "16.97 meters",
+    "height": "15.73 meters (wings extended)",
+    "mglt": "70 MGLT",
+    "max_speed": "700 kph",
+    "engine": "Engine units (3)",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Heavy blasters (3)",
+      "Rotating blaster cannon (1)",
+      "Concussion missile launchers"
+    ],
+    "complement": "Anakin Skywalker's Delta-7B Aethersprite-class light interceptor",
+    "bays": "1",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "6",
+    "capacity": "70 tons",
+    "cargohandling": "Launchable tow cable",
+    "role": "Spice freighter",
+    "destroyed": "19 BBY, Mandalore",
+    "affiliation": [
+      "Ziro the Hutt's criminal organization",
+      "Smugglers",
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "navy": [
+      "Galactic Republic Navy"
+    ],
+    "owners": [
+      "Ziro Desilijic Tiure",
+      "Anakin Skywalker"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

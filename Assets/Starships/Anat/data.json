@@ -1,0 +1,22 @@
+{
+  "name": "Anat",
+  "wookieepedia_title": "Anat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anat",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Anat was an Airam Dreadnaught-class heavy cruiser.",
+  "data": {
+    "name": "Anat",
+    "model": "Dreadnaught-class heavy cruiser",
+    "complement": [
+      "Spike Squadron",
+      "  R60 T-wing interceptors",
+      "Mallet Squadron",
+      "  R-41 Starchasers"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Airam"
+  },
+  "scraped": "2026-07-03"
+}

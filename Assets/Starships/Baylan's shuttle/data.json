@@ -1,0 +1,28 @@
+{
+  "name": "Baylan's shuttle",
+  "wookieepedia_title": "Baylan's shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Baylan%27s_shuttle",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Baylan's shuttle was an Eta-class shuttle used by Baylan Skoll and Shin Hati during the search for Grand Admiral Thrawn in 9 ABY. Ezra Bridger later stole it and used it to return to the New Republic, landing it in the hanger of Home One",
+  "data": {
+    "name": "Baylan's shuttle",
+    "model": "Eta-class shuttle",
+    "type": "Shuttle",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (3)",
+    "passengers": "Marrok",
+    "affiliation": [
+      "Jedi Order",
+      "Morgan Elsbeth's forces",
+      "Thrawn's forces"
+    ],
+    "owners": [
+      "Baylan Skoll",
+      "Shin Hati",
+      "Ezra Bridger"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

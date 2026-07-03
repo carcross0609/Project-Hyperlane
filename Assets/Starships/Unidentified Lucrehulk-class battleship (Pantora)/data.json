@@ -1,0 +1,35 @@
+{
+  "name": "Unidentified Lucrehulk-class battleship",
+  "wookieepedia_title": "Unidentified Lucrehulk-class battleship (Pantora)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Lucrehulk-class_battleship_%28Pantora%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Lucrehulk-class Battleship served in the Trade Federation and was used to blockade the planet of Pantora. The ship was commanded by Sib Canay and another Neimoidian envoy.",
+  "data": {
+    "name": "Unidentified Lucrehulk-class battleship",
+    "model": "Lucrehulk-class battleship",
+    "type": "Battleship",
+    "length": "3,356.9 meters",
+    "width": "3,009 meters",
+    "height": "1,028.77 meters",
+    "engine": "Rendili StarDrive Proton 2 (3)",
+    "armament": "Equipped",
+    "crew": "150 to 350",
+    "passengers": "100,000+",
+    "othersystems": [
+      "Control signal transmission towers",
+      "Droid signal receiver stations (16)",
+      "Signal pickup boost panels"
+    ],
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ],
+    "captains": [
+      "A Neimoidian envoy",
+      "Sib Canay"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Vector",
+  "wookieepedia_title": "Vector (Star Destroyer)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vector_%28Star_Destroyer%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vector was an Imperial-class Star Destroyer of the Imperial Navy in service prior to the Battle of Yavin.",
+  "data": {
+    "name": "Vector",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Imperial-class Star Destroyer",
+    "length": "1,600 meters",
+    "complement": "TIE/LN starfighters (72)",
+    "passengers": [
+      "Stormtroopers (Approx. 9,700)",
+      "Imperial workers (Approx. 37,000)"
+    ],
+    "role": "Flagship",
+    "affiliation": "Galactic Empire",
+    "aliases": "(Star) Destroyer 316"
+  },
+  "scraped": "2026-07-03"
+}

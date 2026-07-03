@@ -1,0 +1,30 @@
+{
+  "name": "Unidentified Imperial-class Star Destroyer",
+  "wookieepedia_title": "Unidentified Imperial-class Star Destroyer (Kessel)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Imperial-class_Star_Destroyer_%28Kessel%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This Imperial-class Star Destroyer was a warship in the Imperial Navy during the Galactic Civil War. Around 0.5 ABY, the Star Destroyer was assigned to transport the recently captured Rebel Alliance Admiral Ackbar to the prison colony on the planet of Kessel for interrogation. However, after the Star Destroyer&mdash;escorted by a pair of Victory II-class frigates&mdash;jumped out of hyperspace in the Kessel system, it was ambushed by the Alliance's new elite fighting force, Renegade Squadron, intending to rescue Ackbar. The Rebels destroyed the Imperial class-Star Destroyer's communications array so that the ship could not call for reinforcements, and boarded the Star Destroyer. After a short battle, Renegade Squadron managed to free Ackbar and evacuate the ship.",
+  "data": {
+    "name": "Unidentified Imperial-class Star Destroyer",
+    "model": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "engine": "3 engines equipped",
+    "armament": "Several turbolaser turrets",
+    "complement": [
+      "Several TIE/LN starfighters",
+      "Several TIE/sa bombers",
+      "Several TIE/IN interceptors"
+    ],
+    "bays": "1",
+    "passengers": "Room for one prisoner",
+    "communications": "Equipped",
+    "role": [
+      "Destroyer",
+      "Carrier"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

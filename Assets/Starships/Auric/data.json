@@ -1,0 +1,37 @@
+{
+  "name": "Auric",
+  "wookieepedia_title": "Auric",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Auric",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Auric was a Rebel Alliance YT-1760 Small Transport active during the Galactic Civil War. Piloted by Commander Lina Graf, the Auric had a five member crew that included the technician Skritt, Lieutenant Thom Hudd, the former bodyguard droid XM-G3 and Graf's long-time companion, the droid CR-8R. The ship was forced to crash-land on Mustafar after taking damage during a mission, where it sank into lava and was destroyed.",
+  "data": {
+    "name": "Auric",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1760 Small Transport",
+    "type": "Transport",
+    "length": "26.5 meters",
+    "max_speed": "990 kilometers per hour",
+    "engine": "Sublight engines (7)",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon (1)",
+    "crew": "5",
+    "capacity": "10 metric tons",
+    "consumables": "2 months",
+    "destroyed": "During a mission to the Outer Rim, Mustafar",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Lina Graf's crew"
+    ],
+    "captains": "Lina Graf"
+  },
+  "scraped": "2026-07-03"
+}

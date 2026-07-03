@@ -1,0 +1,32 @@
+{
+  "name": "Dodonna",
+  "wookieepedia_title": "Dodonna (Galactic-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dodonna_%28Galactic-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Dodonna was a Galactic-class battle carrier in the Galactic Alliance Defense Fleet.",
+  "data": {
+    "name": "Dodonna",
+    "type": "Galactic-class battle carrier",
+    "complement": [
+      "One bay:",
+      "XJ6 X-wing starfighters (1 squadron)",
+      "Eta-5 interceptors (1 squadron)",
+      "Shield equipped TIE/LN starfighters (2 squadrons)",
+      "B-wing starfighters (1/2 squadron)"
+    ],
+    "role": [
+      "Carrier",
+      "Destroyer",
+      "Command ship"
+    ],
+    "affiliation": "Galactic Federation of Free Alliances",
+    "navy": "Galactic Alliance Second Fleet",
+    "captains": [
+      "Admiral Matric Klauskin",
+      "Admiral Tarla Limpan"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

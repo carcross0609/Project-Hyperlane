@@ -1,0 +1,38 @@
+{
+  "name": "Bravo One",
+  "wookieepedia_title": "Bravo One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bravo_One",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Bravo One was a UT-60D transport/gunship that served the Extraction Team Bravo of the Alliance to Restore the Republic during the Galactic Civil War. Under the command of General Davits Draven, in 1 BBY, the Bravo Team took a successful mission to break out Jyn Erso&ndash;a human female criminal who would later become a key figure in the theft of the Death Star plans&ndash;from a labor camp that was used by the Galactic Empire on the planet Wobani.",
+  "data": {
+    "name": "Bravo One",
+    "manufacturer": "Incom Corporation",
+    "model": "UT-60D U-wing starfighter/support craft",
+    "length": "24.98 meters",
+    "height": "3.35 meters",
+    "hdsystem": "Equipped",
+    "armament": "Blaster cannon",
+    "crew": [
+      "Pilot (2)",
+      "Door gunner (at least 1)"
+    ],
+    "passengers": "Several",
+    "role": [
+      "Troop transport",
+      "Gunship"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": [
+      "Massassi Group",
+      "  Extraction Team Bravo"
+    ],
+    "owners": "Davits Draven"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Mercy",
+  "wookieepedia_title": "Mercy (hospital ship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mercy_%28hospital_ship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Mercy was a Imperial frigate, appropriated by the Rebel Alliance while still under construction, and put in service by them as a hospital ship prior to the Battle of Endor.",
+  "data": {
+    "name": "Mercy",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Frigate",
+    "passengers": "5000 patients",
+    "othersystems": "Bacta tanks (4250)",
+    "role": "Hospital ship",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ],
+    "navy": [
+      "Alliance Fleet",
+      "New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

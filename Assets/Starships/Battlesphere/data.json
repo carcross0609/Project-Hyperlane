@@ -1,0 +1,23 @@
+{
+  "name": "Battlesphere",
+  "wookieepedia_title": "Battlesphere",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Battlesphere",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The battlesphere was a variant of the core ship manufactured by the Trade Federation and later used by the Confederacy of Independent Systems during the Clone Wars. Powered by several reactors, battlespheres were equipped with a deflector shield generator, and also sported several hangar bays, which could carry up to at least three Vulture-class droid starfighters and at least three Rogue-class Porax-38 starfighters. Skytop Station was a modified battlesphere that acted as a Separatist listening post and was situated in the upper atmosphere of Ruusan 2, where it was later destroyed by a squad of Galactic Republic forces.",
+  "data": {
+    "name": "Battlesphere",
+    "manufacturer": "Trade Federation",
+    "type": "Core ship",
+    "power": "Multiple reactors",
+    "shield_gen": "Equipped",
+    "complement": [
+      "Vulture-class starfighters (at least 3)",
+      "Rogue-class Porax-38 starfighter (at least 3)"
+    ],
+    "role": "Listening post",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Retribution",
+  "wookieepedia_title": "Retribution (Discril-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Retribution_%28Discril-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Retribution was a Discril-class attack cruiser.",
+  "data": {
+    "name": "Retribution",
+    "model": "Customized Discril-class attack cruiser",
+    "type": "System attack cruiser",
+    "length": "85 meters",
+    "hyperdrive": [
+      "Class 3",
+      "Class 20 backup"
+    ],
+    "armament": [
+      "6 Turbolaser cannons",
+      "4 Tri-Particle Beamers",
+      "1 Tractor beam",
+      "2 Trilaser cannons"
+    ],
+    "crew": "150",
+    "skeleton": "75",
+    "passengers": "60",
+    "capacity": "7,800 metric tons",
+    "consumables": "2 weeks",
+    "role": "Pirate ship",
+    "affiliation": "Daupherm Planet States",
+    "navy": "Daupherm Systems Fleet",
+    "captains": [
+      "Gorvan Shrulldike",
+      "Evram Darkmere"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

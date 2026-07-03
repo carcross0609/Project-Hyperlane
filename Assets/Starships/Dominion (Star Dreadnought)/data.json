@@ -1,0 +1,29 @@
+{
+  "name": "Dominion",
+  "wookieepedia_title": "Dominion (Star Dreadnought)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dominion_%28Star_Dreadnought%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dominion was a Star Dreadnought and Super Star Destroyer active by 12 ABY. Originally part of the forces of Imperial warlord Blitzer Harrsk, the Dominion was recovered by Imperial officer Gilad Pellaeon and used to strengthen the navy of the Imperial Remnant. Under the command of Admiral Teren Rogriss, the Super Star Destroyer participated in the Battle of Orinda against the New Republic. Five years later, the Dominion engaged New Republic forces in the Battle of Anx Minor, a major Imperial defeat.",
+  "data": {
+    "name": "Dominion",
+    "type": [
+      "Star Dreadnought",
+      "Super Star Destroyer"
+    ],
+    "role": "Flagship",
+    "destroyed": "41 ABY, Roche asteroid field",
+    "affiliation": [
+      "Zero Command",
+      "Imperial Remnant",
+      "  Imperial Navy"
+    ],
+    "owners": [
+      "Blitzer Harrsk",
+      "Gilad Pellaeon"
+    ],
+    "captains": "Teren Rogriss"
+  },
+  "scraped": "2026-07-03"
+}

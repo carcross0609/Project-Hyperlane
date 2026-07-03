@@ -1,0 +1,22 @@
+{
+  "name": "Martyr",
+  "wookieepedia_title": "Martyr",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Martyr",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Martyr was a shuttle used by the Kaleesh warlord Grievous. The gray shuttle had multiple laser cannons and also functioned as a troop carrier, able to accommodate Grievous and all eight members of his elite Izvoshra. By 29 BBY, Grievous and the Izvoshra took flight in the Martyr on Grievous's homeworld Kalee, planning to re-ignite the Huk War between the Kaleesh and the Yam'rii species.",
+  "data": {
+    "name": "Martyr",
+    "type": "Shuttle",
+    "engine": "2",
+    "armament": "4 laser cannons",
+    "escapepods": "Detachable cockpit",
+    "crew": "1 pilot",
+    "passengers": "8 Izvoshra",
+    "role": "Troop carrier",
+    "destroyed": "By 29 BBY, Kalee",
+    "owners": "Grievous"
+  },
+  "scraped": "2026-07-03"
+}

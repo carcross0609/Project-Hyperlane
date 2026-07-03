@@ -1,0 +1,36 @@
+{
+  "name": "Quinlan Vos's Eta-2 Actis-class light interceptor",
+  "wookieepedia_title": "Quinlan Vos's Eta-2 Actis-class light interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quinlan_Vos%27s_Eta-2_Actis-class_light_interceptor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Jedi Master Quinlan Vos flew a Eta-2 Actis-class light interceptor during the Clone Wars.",
+  "data": {
+    "name": "Quinlan Vos's Eta-2 Actis-class light interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Eta-2 Actis-class light interceptor",
+    "type": "Starfighter",
+    "length": "5.47 meters",
+    "max_accel": "5,200G",
+    "mglt": "118 MGLT",
+    "max_speed": "1,500 kph",
+    "engine": "Twin ion engines (2)",
+    "hyperdrive": "Class 1 (hyperspace transport ring required)",
+    "armament": [
+      "Laser cannons (2)",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "othersystems": "S-foils",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "owners": "Quinlan Vos"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Shadow trooper gunship",
+  "wookieepedia_title": "Shadow trooper gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shadow_trooper_gunship",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Shadow trooper gunship was a heavily modified Low Altitude Assault Transport, utilized by Republic Intelligence's clone shadow troopers during the Clone Wars. Due to shadow troopers typically operating in small numbers and their reliance on stealth, the standard Republic gunship was rendered counterproductive to the stealth troopers. In cases where a squad of clone shadow troopers needed to be dropped behind enemy lines, the Shadow trooper gunship was called in. The ship featured a highly advanced sensor-jamming package alongside specialized sensor-refractive armor plating, which made it virtually invisible to all but visual scans. It was also equipped with a wide array of armaments, including electromagnetic pulse missiles, laser cannons, and rocket launchers. In addition, the gunship had markings which resembled the clone shadow trooper in color.",
+  "data": {
+    "name": "Shadow trooper gunship",
+    "manufacturer": "Rothana Heavy Engineering",
+    "line": "LAAT series",
+    "model": "Modified repulsorlift gunship",
+    "type": "Stealth assault craft",
+    "modifier": "Clone shadow troopers",
+    "engine": "Equipped",
+    "hull": "Specialized sensor-refractive armor plating",
+    "countermeasures": "Highly advanced sensor-jamming package",
+    "armament": [
+      "Electromagnetic pulse missiles",
+      "Laser cannons",
+      "Rocket launchers"
+    ],
+    "crew": "Pilots (2)",
+    "passengers": "A squad of clone shadow troopers",
+    "role": [
+      "Attack vehicle",
+      "Infantry transport",
+      "Stealth",
+      "Reconnaissance"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Clone shadow troopers"
+    ],
+    "owners": "Clone shadow troopers"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,11 @@
+# Starhound (JS-77B interstellar shuttle)
+
+**Kind:** Individual ship  
+**Continuity:** Unknown  
+**Source:** [Starhound (JS-77B interstellar shuttle)](https://starwars.fandom.com/wiki/Starhound_%28JS-77B_interstellar_shuttle%29)
+
+Starhound was a JS-77B interstellar shuttle which once visited the planet Radra IV with a team of Rebels aboard it. While on the planet, it made its way to the Radra Surveillance Post where it was loaded with rebel equipment from the base. Unfortunately, a squad of snowtroopers attacked the base while the Starhound was docked, and so every member of the base was evacuated on the ship, exceeding its intended passenger capacity. Upon leaving the base, the ship's crew managed to shoot down two TIE/LN starfighters, though the ship was also damaged during the fight causing the hyperdrive to cease responding. The group managed to land the ship on one of Radra IV's two moons, where they repaired the hyperdrive inertial stability inducer and replaced the external harmonic conduction assembly with a spare they had on board. When the ship was repaired, it lifted from the moon and was immediately spotted by an additional two TIE Fighters. Several shots were traded between the ships before the Starhound managed to escape into hyperspace.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

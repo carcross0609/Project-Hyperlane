@@ -1,0 +1,34 @@
+{
+  "name": "Thurse",
+  "wookieepedia_title": "Thurse",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thurse",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Thurse was a SoroSuub Corporation Quasar Fire-class cruiser-carrier used in the New Republic's Defense Fleet in 25 ABY, during the Yuuzhan Vong War. Commanded by Captain Mak Jorlen, the Thurse was a cruiser-carrier that saw action at the Battle of Ord Mantell that year before later going up against a Yuuzhan Vong frigate in the Bilbringi system. At Bilbringi, the Thurse and its complement of starfighter squadrons attempted to save the luxury liner Queen of Empire from the forces of the Peace Brigade and the Yuuzhan Vong frigate in the area. The cruiser-carrier aided the freighter Millennium Falcon in escaping from the frigate before succeeding in its mission to drive off the Yuuzhan Vong warship.",
+  "data": {
+    "name": "Thurse",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Quasar Fire-class cruiser-carrier",
+    "type": "Cruiser-carrier",
+    "length": "340 meters",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "Laser batteries",
+      "Ion cannons"
+    ],
+    "complement": [
+      "Green Squadron",
+      "Red Squadron",
+      "Blue Squadron",
+      "TIE Series starfighters"
+    ],
+    "passengers": "At least 12 troopers",
+    "role": "Cruiser-carrier",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "captains": "Mak Jorlen"
+  },
+  "scraped": "2026-07-03"
+}

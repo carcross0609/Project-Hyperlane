@@ -1,0 +1,25 @@
+{
+  "name": "Diligence",
+  "wookieepedia_title": "Diligence (Inexpugnable-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Diligence_%28Inexpugnable-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Diligence was an Inexpugnable-class tactical command ship that served in the Republic Navy.",
+  "data": {
+    "name": "Diligence",
+    "model": "Inexpugnable-class tactical command ship",
+    "type": "Command ship",
+    "length": "3,100 meters",
+    "width": "3,100 meters",
+    "armament": [
+      "Double turbolaser batteries (5)",
+      "Light turbolaser batteries (5)",
+      "Point-defense light laser cannon batteries (2)",
+      "Tractor beam batteries (2)"
+    ],
+    "affiliation": "Galactic Republic",
+    "captains": "Admiral Dallan Morvis"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Oppressor",
+  "wookieepedia_title": "Oppressor (Harrower-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oppressor_%28Harrower-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Oppressor was a Harrower-class dreadnought that served as the flagship of Darth Angral during the Cold War.",
+  "data": {
+    "name": "Oppressor",
+    "manufacturer": "Taerab Starship Manufacturing",
+    "model": "Harrower-class dreadnought",
+    "type": "Dreadnaught",
+    "length": "≈800 meters",
+    "hyperdrive": "Equipped",
+    "power": "Boosted reactor systems",
+    "hull": "Heavily-reinforced hull plating",
+    "armament": [
+      "Turbolaser batteries",
+      "Quad laser cannons",
+      "Ion cannons",
+      "Proton torpedos",
+      "Concussion missile launchers",
+      "Desolator"
+    ],
+    "complement": [
+      "95 starfighters",
+      "  Mark VI Supremacy-class starfighters",
+      "32 bombers",
+      "35 shuttles"
+    ],
+    "crew": "2,400",
+    "passengers": "7,300 troops",
+    "role": "Capital ship",
+    "destroyed": "3643 BBY, Tython system",
+    "affiliation": "Sith Empire",
+    "owners": "Darth Angral"
+  },
+  "scraped": "2026-07-03"
+}

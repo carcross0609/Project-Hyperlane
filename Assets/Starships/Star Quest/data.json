@@ -1,0 +1,27 @@
+{
+  "name": "Star Quest",
+  "wookieepedia_title": "Star Quest",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Quest",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Star Quest was a Suwantek Systems TL-1800 transport that was owned and operated by the Riileb Tere Metallo.",
+  "data": {
+    "name": "Star Quest",
+    "manufacturer": "Suwantek Systems",
+    "model": "TL-1800 transport",
+    "type": "Light freighter",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "x2 (primary)",
+      "x10 (backup)"
+    ],
+    "armament": "Laser cannon (2)",
+    "crew": "2",
+    "passengers": "7",
+    "capacity": "110 metric tons",
+    "consumables": "2 months",
+    "owners": "Tere Metallo"
+  },
+  "scraped": "2026-07-03"
+}

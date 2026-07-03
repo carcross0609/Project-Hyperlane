@@ -1,0 +1,37 @@
+{
+  "name": "Dream Runner",
+  "wookieepedia_title": "Dream Runner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dream_Runner",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dream Runner was a DP20 gunship serving the Alliance to Restore the Republic during the Galactic Civil War.",
+  "data": {
+    "name": "Dream Runner",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "DP20 gunship",
+    "type": "Gunship",
+    "length": "120 meters",
+    "max_speed": "1,000 KMH",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 16 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "8 double turbolaser cannons",
+      "6 quad laser cannons",
+      "4 concussion missile tubes"
+    ],
+    "crew": "45; gunners: 46",
+    "skeleton": "10; gunners: 10",
+    "capacity": "300 metric tons",
+    "consumables": "8 months",
+    "role": "Anti-starfighter warship",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Trax Sector Force"
+  },
+  "scraped": "2026-07-03"
+}

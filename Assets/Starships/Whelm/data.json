@@ -1,0 +1,23 @@
+{
+  "name": "Whelm",
+  "wookieepedia_title": "Whelm",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Whelm",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Whelm was an Executor-class Star Dreadnought in service with the Galactic Empire. During the Galactic Civil War, it was stationed at the planet Anaxes and led the Azure Hammer Command until shortly before the Thrawn campaign, when it disappeared into the Deep Core to join the Dark Empire, a new iteration of the Empire headed by Emperor Palpatine. The Whelm then participated in the Dark Empire's 10 ABY invasion of the New Republic&ndash;controlled Core Worlds and was destroyed later that year over the planet Alsakan when Imperial forces turned on each other in the Imperial Mutiny.",
+  "data": {
+    "name": "Whelm",
+    "model": "Executor-class Star Dreadnought",
+    "type": "Super Star Destroyer",
+    "role": "Flagship",
+    "destroyed": "10 ABY, over Alsakan",
+    "affiliation": [
+      "Galactic Empire",
+      "  Dark Empire"
+    ],
+    "fleet": "Azure Hammer Command",
+    "captains": "Feyet Kiez"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Stinger",
+  "wookieepedia_title": "Stinger",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stinger",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Stinger was a Surronian assault ship given to Prince Xizor of the Black Sun crime syndicate in exchange for his assistance to the hive craft guild that created it. Although basically a Conqueror-class assault ship, the vessel was uniquely customized by its creators. By the Clone Wars, the ship had come into the hands of Galactic Republic Admiral Tarnese Bleyd, but Xizor reacquired it after his death. Xizor eventually presented it to his bodyguard, the Human replica droid Guri, who had it redesigned to meet her needs, radically overhauling the ship's systems. Among the systems upgraded by Guri were the hyperdrive and weapons, making the ship both fast and deadly. It continued to serve as her personal transport even after the death of Xizor in 3 ABY.",
+  "data": {
+    "name": "Stinger",
+    "manufacturer": "Surronian",
+    "model": "Modified Conqueror-class assault ship",
+    "type": "Space transport",
+    "cost": [
+      "Not available for sale",
+      "150,000 credits (used)"
+    ],
+    "modifier": "Guri",
+    "sysmods": [
+      "Hyperdrive",
+      "Braking thrusters",
+      "Weapons systems",
+      "Communications package",
+      "Sensor cluster",
+      "Security mechanisms"
+    ],
+    "length": "28 meters",
+    "max_speed": "1,150 km/h",
+    "engine": [
+      "A2-grade ion engines (4)",
+      "A2.50-grade ion engines (4)"
+    ],
+    "hyperdrive": [
+      "Class 1",
+      "Backup class 10"
+    ],
+    "hdsystem": "CEC H2-1 hyperdrive",
+    "navigation": "Equipped",
+    "maincomp": "MicroThrust Processors computer",
+    "armament": [
+      "Twin fire-linked ion cannons",
+      "Turret mounted twin laser cannon",
+      "Proton torpedo launchers"
+    ],
+    "escapepods": "1",
+    "crew": "Pilot (1)",
+    "passengers": "2",
+    "capacity": "25 metric tons",
+    "consumables": "1 month",
+    "role": [
+      "Transport",
+      "Command ship",
+      "Smuggling ship"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Black Sun"
+    ],
+    "owners": [
+      "Tarnese Bleyd",
+      "Erel Kersos",
+      "Kaird",
+      "Prince Xizor",
+      "Guri"
+    ],
+    "captains": "Guri",
+    "aliases": "A-one"
+  },
+  "scraped": "2026-07-03"
+}

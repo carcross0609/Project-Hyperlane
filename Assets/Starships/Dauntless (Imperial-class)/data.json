@@ -1,0 +1,42 @@
+{
+  "name": "Dauntless",
+  "wookieepedia_title": "Dauntless (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dauntless_%28Imperial-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dauntless was an Imperial II-class Star Destroyer that was in service of the Galactic Empire. It was commanded by Moff Raythe, and carried experimental satellites crucial to Operation: Cinder following the Battle of Endor. Due to this, the Dauntless participated in the attack on Fondor while docked at an Imperial dockyard, during which the Rebel Alliance attempted to hijack the vessel after it was bombarded with ion cannons.",
+  "data": {
+    "name": "Dauntless",
+    "line": "Imperial-class",
+    "model": "Imperial II-class",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Octuple turbolaser barbettes (8)"
+    ],
+    "complement": [
+      "TIE/ln space superiority starfighters",
+      "Climate disruption arrays"
+    ],
+    "crew": [
+      "Imperial officers",
+      "Imperial Starfighter Pilots",
+      "Stormtroopers"
+    ],
+    "communications": "Communications tower",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Derrek Raythe"
+  },
+  "scraped": "2026-07-03"
+}

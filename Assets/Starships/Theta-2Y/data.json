@@ -1,0 +1,32 @@
+{
+  "name": "Theta-2Y",
+  "wookieepedia_title": "Theta-2Y",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Theta-2Y",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Theta-2Y was a B-12 Bacta Transport owned by Hamar-Chaktak through his company, Cargo Consolidated, Inc. Hamar-Chaktak allied with the Rebel Alliance to hijack a bacta transport, neglecting to tell them that the transport was one of his and he intended to use its loss as an insurance fraud. Hamar-Chaktak also intended to capture the Rebel operatives and ransom them to the Alliance for a hefty sum.",
+  "data": {
+    "name": "Theta-2Y",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "B-12 Bacta Transport",
+    "cost": "1.2 million credits",
+    "length": "238 meters",
+    "hyperdrive": [
+      "Class 2",
+      "  Class 10"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Concealed laser cannon",
+    "crew": "26",
+    "skeleton": "4",
+    "passengers": "6",
+    "capacity": "600,000 metric tons",
+    "consumables": "1 year",
+    "affiliation": "Cargo Consolidated, Inc.",
+    "owners": "Hamar-Chaktak"
+  },
+  "scraped": "2026-07-03"
+}

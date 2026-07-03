@@ -1,0 +1,37 @@
+{
+  "name": "Rabbit's Foot",
+  "wookieepedia_title": "Rabbit's Foot/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rabbit%27s_Foot/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Rabbit's Foot was a modified WUD-500 (also known as an N-class freighter), owned by the Lepi smuggler Jaxxon. The ship was refitted with a pair of quad laser cannons and two ion cannons for weaponry, along with improved hull plating and shields.",
+  "data": {
+    "name": "Rabbit's Foot",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified WUD-500 star yacht",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "length": "18.5 meters",
+    "hyperdrive": [
+      "Class 0.5",
+      "Backup: Class 8"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Quad laser cannons (2)",
+      "Dual Ion cannon (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "7",
+    "capacity": "3 metric tons",
+    "consumables": "4 months",
+    "role": "Freighter",
+    "destroyed": "0 ABY",
+    "owners": "Jaxxon"
+  },
+  "scraped": "2026-07-03"
+}

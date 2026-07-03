@@ -1,0 +1,20 @@
+{
+  "name": "Trident",
+  "wookieepedia_title": "Trident (Gamma-class assault transport)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trident_%28Gamma-class_assault_transport%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Trident was a Gamma-class ATR-6 assault transport used by Galactic Empire during the Galactic Civil War. The transport participated in the Battle of Mylok IV, in particular at the finalization of a deal between the Habeen and Admiral Zaarin for new hyperdrive technology. During the finalization Nharwaak raiders in Y-wings and corvettes attempted to intervene. The raid was driven off by TIE Interceptors, modified to carry missiles, one of them piloted by Maarek Stele. Should they run out of missiles during the engagement, the Trident would be launched to reload the craft.",
+  "data": {
+    "name": "Trident",
+    "model": "Gamma-class ATR-6 assault transport",
+    "role": [
+      "Supply ship",
+      "Boarding craft",
+      "Convoy escort"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

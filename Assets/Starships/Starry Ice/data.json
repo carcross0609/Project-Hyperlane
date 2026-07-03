@@ -1,0 +1,39 @@
+{
+  "name": "Starry Ice",
+  "wookieepedia_title": "Starry Ice",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starry_Ice",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Starry Ice was one of the starships in Talon Karrde's smuggling operation. It was a modified Corellian Engineering Corporation Action V transport.",
+  "data": {
+    "name": "Starry Ice",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified Action V transport",
+    "type": "Capital ship",
+    "cost": [
+      "New: 2,000,000 credits",
+      "Used: 1,000,000 credits"
+    ],
+    "length": "115 meters",
+    "hyperdrive": [
+      "Class 3.0",
+      "Backup: Class 12.0"
+    ],
+    "armament": "Turbolasers (3)",
+    "crew": [
+      "10",
+      "Pilot (1)",
+      "Navigator (1)",
+      "Gunner (3)"
+    ],
+    "passengers": "6",
+    "capacity": "75,000 metric tons",
+    "consumables": "3 months",
+    "affiliation": [
+      "Car'das smugglers",
+      "Smugglers' Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

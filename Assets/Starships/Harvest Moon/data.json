@@ -1,0 +1,19 @@
+{
+  "name": "Harvest Moon",
+  "wookieepedia_title": "Harvest Moon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Harvest_Moon",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Harvest Moon was a 100-ton grain freighter operating during the Galactic Civil War. Working in the Sarrahban system, it was used to smuggle Rebel Alliance refugees and ytterbium out of the system.",
+  "data": {
+    "name": "Harvest Moon",
+    "type": "Freighter",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "capacity": "100 tons",
+    "role": "Grain transport",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

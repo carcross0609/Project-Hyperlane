@@ -1,0 +1,37 @@
+{
+  "name": "Cutlass",
+  "wookieepedia_title": "Cutlass (IPV-1 System Patrol Craft)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cutlass_%28IPV-1_System_Patrol_Craft%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Cutlass was an Imperial Patrol Craft that served the Galactic Empire after 4 ABY. It was deployed to the Sev Tok system under the command of Captain Untirrka where it planned to board the freighter Argent Lady under suspicion of smuggling. The report of the freighter came in too late to properly prepare the ship and the ship left port with only half the normal number of gunners and no support troops. Although the ship was understaffed the Imperial Navy felt that it was sufficient to deal with an unarmed freighter. What the Empire did not know was that by the time the Argent Lady reached the Sev Tok system its cargo hold was full of armed and dangerous R5-series astromech droids.",
+  "data": {
+    "name": "Cutlass",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "IPV-1 System Patrol Craft",
+    "type": "Inter-system patrol/customs craft",
+    "cost": "Not for sale",
+    "length": "120 Imperial standard meters",
+    "max_speed": "1,000 km/h",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Taim & Bak XV7 turbolasers (4)",
+      "Krupx Munitions VL-4a warhead launcher (1)"
+    ],
+    "crew": [
+      "4 crew",
+      "8 gunners"
+    ],
+    "skeleton": "3",
+    "passengers": "10 (troops)",
+    "capacity": "200 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Inter-system patrol craft",
+      "Customs vessel"
+    ],
+    "captains": "Untirrka"
+  },
+  "scraped": "2026-07-03"
+}

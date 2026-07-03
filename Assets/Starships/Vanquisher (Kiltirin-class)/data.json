@@ -1,0 +1,37 @@
+{
+  "name": "Vanquisher",
+  "wookieepedia_title": "Vanquisher (Kiltirin-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vanquisher_%28Kiltirin-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vanquisher was a modified Kiltirin-class dungeon ship used as a mobile headquarters for the Mytaranor Slaving Council.",
+  "data": {
+    "name": "Vanquisher",
+    "manufacturer": "Rendili StarDrive",
+    "type": "Kiltirin-class",
+    "length": "150 meters",
+    "hyperdrive": "x2",
+    "armament": [
+      "Quad turbolaser batteries (5)",
+      "Tractor beam projector (1, frontal)"
+    ],
+    "crew": [
+      "115",
+      "21 gunners"
+    ],
+    "skeleton": [
+      "75",
+      "15 gunners"
+    ],
+    "passengers": [
+      "50 security wardens",
+      "1,250 prisoners"
+    ],
+    "capacity": "275 tons",
+    "consumables": "2 months",
+    "role": "slavery, HQ",
+    "affiliation": "Mytaranor Slaving Council"
+  },
+  "scraped": "2026-07-03"
+}

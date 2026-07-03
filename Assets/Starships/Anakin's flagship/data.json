@@ -1,0 +1,68 @@
+{
+  "name": "Anakin's flagship",
+  "wookieepedia_title": "Anakin's flagship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anakin%27s_flagship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Anakin's flagship was a Venator-class Star Destroyer of the Galactic Republic naval forces' Open Circle Fleet. It served as the flagship of Jedi General Anakin Skywalker. Sometime after the destruction of his original flagship, the Star Destroyer Resolute, Skywalker used the Venator as his second command ship for his task force.",
+  "data": {
+    "name": "Anakin's flagship",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Ion drive thrusters (8)",
+    "hdsystem": "Equipped",
+    "armament": [
+      "8 DBY-827 heavy turbolaser turrets",
+      "2 medium dual turbolaser cannons",
+      "Laser cannons",
+      "Proton torpedo launchers",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "ARC-170 Starfighters",
+      "Clone Z-95 Headhunters",
+      "Eta-2 Actis-class interceptors",
+      "  Ahsoka Tano's Eta-2 Actis-class interceptor",
+      "  Anakin Skywalker's Eta-2 Actis-class interceptor",
+      "At least 1 Rho-class transport shuttle",
+      "Low Altitude Assault Transport/infantrys",
+      "BARC speeders"
+    ],
+    "bays": "Main hanger bay",
+    "crew": [
+      "Clone navigation officers",
+      "Clone medical officers",
+      "Clone troopers",
+      "  Clone trooper pilots",
+      "R-series astromech droids",
+      "  R2-series astromech droids"
+    ],
+    "passengers": [
+      "2-1B surgical droids",
+      "Clone troopers, including 1 clone medic and 1 Advanced Recon Commando"
+    ],
+    "communications": "Equipped",
+    "role": [
+      "Battleship",
+      "Cruiser",
+      "Command ship",
+      "Starfighter carrier"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Military"
+    ],
+    "navy": "Galactic Republic Navy",
+    "fleet": [
+      "Open Circle Fleet",
+      "  Skywalker's fleet"
+    ],
+    "owners": "Anakin Skywalker",
+    "captains": "Wullf Yularen"
+  },
+  "scraped": "2026-07-03"
+}

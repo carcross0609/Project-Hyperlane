@@ -1,0 +1,50 @@
+{
+  "name": "Lost Reef",
+  "wookieepedia_title": "Lost Reef",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lost_Reef",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lost Reef was a DeepWater-class light freighter produced by Mon Calamari Shipyards for the use of Mon Calamari Commercial Expeditionary Service. During its rule, the Galactic Empire dissolved that organization, and the Lost Reef was sold in auction. It was purchased by a Yarkora antiquities dealer, Saell-Terae, who used the ship to map the Unknown Regions. After an extended stay in the Unknown Regions Saell-Terae abandoned the Lost Reef and the ship was discovered empty and adrift near the Elrood sector, carrying three valuable statues in a hidden compartment as well as a dataplaque with astrogation charts for a part of the Unknown Regions. Around that time, the Lost Reef was coveted by its owner Saell-Terae, as well as by the Chiss Imperial officer Thrawn&mdash;he was interested in the three statues that the freighter carried, as their design would provide valuable information on his enemies.",
+  "data": {
+    "name": "Lost Reef",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "DeepWater-class light freighter",
+    "type": "Light freighter",
+    "cost": "76,000 credits",
+    "modifier": [
+      "Saell-Terae",
+      "Jorj Car'das"
+    ],
+    "length": "45 meters",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup class 10"
+    ],
+    "shield_gen": [
+      "Military grade shielding",
+      "Can be modified for underwater use",
+      "Backup generator"
+    ],
+    "target": "Improved targeting computer",
+    "armament": [
+      "Quad laser cannon turret (1)",
+      "Concealed torpedo launchers (4)"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "85 tons",
+    "consumables": "2 months",
+    "affiliation": [
+      "Mon Calamari Commercial Expeditionary Service",
+      "Car'das"
+    ],
+    "owners": [
+      "Saell-Terae",
+      "Jorj Car'das"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

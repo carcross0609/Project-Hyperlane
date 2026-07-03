@@ -1,0 +1,25 @@
+{
+  "name": "Gavi's shuttle",
+  "wookieepedia_title": "Gavi's shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gavi%27s_shuttle",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Gavi's shuttle was a Nihil escape shuttle that had crashed within the Lonisa City Zoo on the planet Valo by 229 BBY. The crashed shuttle was later discovered by the Jedi youngling Gavi, who suspected based on the damage it had sustained that it had been shot down during the Nihil marauders' attack on the Republic Fair two and a half years prior. Gavi, who had been hiding on Valo with fellow younglings Kildo and Tep Tep, wanted to use the shuttle to escape, but realized that it was not large enough to carry all of them. Unable to choose who should be saved, Gavi instead kept the shuttle a secret, discreetly repairing the vessel whenever he had the opportunity.",
+  "data": {
+    "name": "Gavi's shuttle",
+    "model": "Nihil escape shuttle",
+    "type": "Shuttle",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "affiliation": [
+      "Nihil",
+      "Scarlet Skulls"
+    ],
+    "owners": [
+      "Gavi",
+      "Driggit Parse"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

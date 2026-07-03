@@ -1,0 +1,43 @@
+{
+  "name": "Silencer",
+  "wookieepedia_title": "Silencer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Silencer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Silencer was a Resurgent-class Star Destroyer in service to the navy of the First Order that was sent along with Captain Phasma to patrol a hyperspace transit point between the Unknown Regions and the Core Worlds.",
+  "data": {
+    "name": "Silencer",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "model": "Resurgent-class Star Destroyer",
+    "type": [
+      "Battlecruiser",
+      "Star Destroyer"
+    ],
+    "length": "2,915.81 meters (9,566.29 feet)",
+    "engine": [
+      "(8) Gemon-8 ion engines",
+      "(3) Destroyer Ion Engines"
+    ],
+    "hdsystem": "Equipped",
+    "power": "III-a1a primary hypermatter-annihilation reactor",
+    "sensor": "Multi-spectrum sensor towers and sensor towers",
+    "armament": [
+      "Over 1,500 turbolasers and ion cannons",
+      "Point-defense turrets",
+      "Point-defense missile emplacements",
+      "Tractor beam projectors"
+    ],
+    "complement": "AAL-1971/9.1 Troop Transports",
+    "crew": [
+      "Officers (19,000)",
+      "Enlisted (55,000)",
+      "Stormtroopers (Over 8,000)"
+    ],
+    "communications": "Hyperwave comm scanner",
+    "affiliation": "First Order",
+    "navy": "First Order Navy",
+    "captains": "Phasma"
+  },
+  "scraped": "2026-07-03"
+}

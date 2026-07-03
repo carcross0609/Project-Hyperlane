@@ -1,0 +1,32 @@
+{
+  "name": "Grey and Styles' Gozanti-class cruiser",
+  "wookieepedia_title": "Grey and Styles' Gozanti-class cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grey_and_Styles%27_Gozanti-class_cruiser",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Gozanti-class cruiser was commanded by Commander CC-10/994 \"Grey\" and Captain \"Styles\" in the early days of the Galactic Empire. They used the Gozanti-class cruiser in their search for Jedi Padawan Caleb Dume after failing to kill him during the execution of Order 66.",
+  "data": {
+    "name": "Grey and Styles' Gozanti-class cruiser",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Gozanti-class cruiser",
+    "type": "Cruiser",
+    "length": "63.8 meters",
+    "width": "32 meters",
+    "height": "14.7 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Dorsal twin laser cannon turret (1)",
+      "Ventral heavy laser cannon turret (1)"
+    ],
+    "destroyed": "18 BBY",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": [
+      "CC-10/994 \"Grey\"",
+      "\"Styles\""
+    ]
+  },
+  "scraped": "2026-07-03"
+}

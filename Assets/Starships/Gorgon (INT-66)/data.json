@@ -1,0 +1,30 @@
+{
+  "name": "Gorgon",
+  "wookieepedia_title": "Gorgon (INT-66)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gorgon_%28INT-66%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Gorgon was Daxtorn Lethos's personal ship. It was a heavily-armed INT-66, modified to have faster engines, which Daxtorn used for smuggling and bounty hunting.",
+  "data": {
+    "name": "Gorgon",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "INT-66",
+    "length": "50 m",
+    "armament": [
+      "2 turbolasers",
+      "4 multi-repeat blasters",
+      "1 double pulse laser"
+    ],
+    "crew": "1",
+    "passengers": "3",
+    "capacity": "35 metric tons",
+    "consumables": "4 months",
+    "role": [
+      "Bounty hunting",
+      "Smuggling"
+    ],
+    "affiliation": "Daxtorn Lethos"
+  },
+  "scraped": "2026-07-03"
+}

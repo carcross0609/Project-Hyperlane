@@ -1,0 +1,40 @@
+{
+  "name": "TB-73",
+  "wookieepedia_title": "TB-73/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TB-73/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "TB-73 was a Pelta-class frigate used during the aftermath of the Second Battle of Geonosis, when it was tasked with a supply mission to Ord Cestus during the Clone Wars. The clone troopers aboard were infected with Geonosian brain worms and killed the crew. Jedi Padawans Ahsoka Tano and Barriss Offee, the latter being infected and the former saving the ship, were also on board during the crisis. TB-73 reached its destination, and the brain worms were captured and analyzed.",
+  "data": {
+    "name": "TB-73",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Pelta-class frigate",
+    "type": "Cargo freighter",
+    "cost": "Not available for sale",
+    "engine": [
+      "Primary (1)",
+      "Auxiliary (2)"
+    ],
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 16"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Light turbolaser batteries (2)",
+      "Point-defense light laser cannon batteries (3)",
+      "Tractor beam batteries (3)"
+    ],
+    "complement": "None",
+    "crew": "900",
+    "passengers": "300",
+    "capacity": "275 tons",
+    "consumables": "1 month",
+    "othersystems": "Autopilot",
+    "availability": "Military",
+    "role": "Supply ship",
+    "firstuse": "22 BBY"
+  },
+  "scraped": "2026-07-03"
+}

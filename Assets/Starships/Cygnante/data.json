@@ -1,0 +1,35 @@
+{
+  "name": "Cygnante",
+  "wookieepedia_title": "Cygnante",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cygnante",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Cygnante was a highly modified Mark I Bulk Transport, and was used by members of the Shield organization. The ship had been reinforced to be battle worthy, and to serve as a home base for extended periods without resupply. The Cygnante also had five false transponders, which could be used to give false ship identification codes to Imperial patrol cruisers.",
+  "data": {
+    "name": "Cygnante",
+    "manufacturer": "Sienar Ships",
+    "type": "Mark I Bulk Transport",
+    "length": "50 meters",
+    "max_speed": "750 KMH",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 20"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 double laser cannons",
+      "1 laser cannon"
+    ],
+    "crew": "4; 3 gunners",
+    "skeleton": "2",
+    "passengers": "20",
+    "capacity": "40,000 metric tons",
+    "consumables": "5 months",
+    "role": "Base of operations",
+    "affiliation": "The Shield"
+  },
+  "scraped": "2026-07-03"
+}

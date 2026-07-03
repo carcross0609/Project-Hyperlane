@@ -1,0 +1,47 @@
+{
+  "name": "Lawbringer",
+  "wookieepedia_title": "Lawbringer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lawbringer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lawbringer was an Imperial I-class Star Destroyer commanded by Captain Hiram Zataire. In 5 BBY, it was requisitioned by Agent Kallus of the Imperial Security Bureau, who would use it in his mission to snuff out the rebel uprising on the planet Lothal.",
+  "data": {
+    "name": "Lawbringer",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "width": "900 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "ISD-72x shield generator domes (2)",
+    "sensor": "Equipped",
+    "target": "Tractor beam targeting array",
+    "armament": "Tractor beam projector",
+    "complement": [
+      "At least 1 Imperial Gozanti-class cruiser",
+      "  Transport 651"
+    ],
+    "bays": [
+      "Lower hangar",
+      "Upper hangar"
+    ],
+    "crew": [
+      "Imperial officers",
+      "At least 1 Imperial Security Bureau agent",
+      "Stormtroopers (several squads)"
+    ],
+    "communications": "Holotable",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": [
+      "Hiram Zataire",
+      "Alexsandr Kallus"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

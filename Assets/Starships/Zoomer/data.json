@@ -1,0 +1,27 @@
+{
+  "name": "Zoomer",
+  "wookieepedia_title": "Zoomer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zoomer",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Zoomer was an overhauled light freighter belonging to the salvage pilot and mercenary Reti.",
+  "data": {
+    "name": "Zoomer",
+    "type": "Light freighter",
+    "modifier": "Reti",
+    "countermeasures": "Automatic jump hyperdrive",
+    "armament": "4 front-mounted laser cannons, chaingun, cruise and cluster missile launchers, proximity mines",
+    "crew": "1 pilot",
+    "passengers": "2",
+    "othersystems": "Tractor beam projector, tow cable",
+    "role": [
+      "Transport",
+      "Salvage vessel"
+    ],
+    "affiliation": "Lok Revenants",
+    "owners": "Reti",
+    "captains": "Reti"
+  },
+  "scraped": "2026-07-03"
+}

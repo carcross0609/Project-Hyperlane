@@ -1,0 +1,28 @@
+{
+  "name": "Imperialis",
+  "wookieepedia_title": "Imperialis (Jakku)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperialis_%28Jakku%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Imperialis was a replica of Emperor Palpatine's original luxury yacht of the same name. The replica was stored at the Jakku Observatory.",
+  "data": {
+    "name": "Imperialis",
+    "manufacturer": "Republic Sienar Systems",
+    "model": "Cosinga-class Heavy Corvette",
+    "type": "Yacht",
+    "engine": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Electromagnetic plasma cannons",
+    "crew": [
+      "Unidentified Sentinel"
+    ],
+    "passengers": "Gallius Rax's child soldiers",
+    "lifesupport": "Equipped",
+    "affiliation": [
+      "Galactic Empire",
+      "Unknown Regions Imperial remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

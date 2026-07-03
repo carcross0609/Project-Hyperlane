@@ -1,0 +1,30 @@
+{
+  "name": "Corellia",
+  "wookieepedia_title": "Corellia (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corellia_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Corellia was a Valor-class cruiser in the Galactic Republic Navy during the Cold War. Around 3643 BBY, it was occupied by Jedi Grand Master Satele Shan. It was noted as having a golden appearance, rather than the typical red-and-gray or orange-and-gray color scheme of Republic warships. The Corellia was struck by a missile during Independent Operation Sebaddon and boarded by Fastbreeders. The droids overwhelmed and commandeered the ship, destroying it in order to spread themselves throughout the rest of the Republic fleet.",
+  "data": {
+    "name": "Corellia",
+    "type": "Valor-class cruiser",
+    "armament": [
+      "Turbolasers",
+      "Ion cannons",
+      "Ion Torpedo Launchers"
+    ],
+    "complement": [
+      "XA-8 starfighters",
+      "PT-7 Raven-class starfighters"
+    ],
+    "escapepods": "Several escape pods",
+    "destroyed": "c. 3643 BBY",
+    "affiliation": "Galactic Republic",
+    "captains": [
+      "Grand Master Satele Shan",
+      "Colonel Gurin"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Reekeene's Retribution",
+  "wookieepedia_title": "Reekeene's Retribution",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reekeene%27s_Retribution",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Reekeene's Retribution was the name of a CEC HT-2200 medium freighter used by the Reekeene's Roughnecks, an elite military unit of the Alliance to Restore the Republic, during their campaign against the forces of Imperial Moff Sakai. Although the Retribution succeeded in many attacks against the Empire, it was eventually lost after being infiltrated by the enemy during a raid in the Thuris sector.",
+  "data": {
+    "name": "Reekeene's Retribution",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "HT-2200 medium freighter",
+    "length": "54.8 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 10 (backup)"
+    ],
+    "armament": [
+      "2 pulse laser cannons",
+      "2 FireStorm Air-to-Ground Missile Racks"
+    ],
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "100 tons",
+    "consumables": "3 months",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Reekeene's Roughnecks"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

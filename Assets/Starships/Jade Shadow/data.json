@@ -1,0 +1,76 @@
+{
+  "name": "Jade Shadow",
+  "wookieepedia_title": "Jade Shadow",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jade_Shadow",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Jade Shadow was a heavily modified SoroSuub Horizon-class Star Yacht owned by Jedi Master Mara Jade Skywalker, which replaced her previous ship, Jade Sabre.",
+  "data": {
+    "name": "Jade Shadow",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Horizon-class Star Yacht",
+    "type": "Space transport",
+    "cost": [
+      "New: 230,000 credits",
+      "Used: 80,000 credits"
+    ],
+    "length": "55 meters",
+    "mass": "70 tons",
+    "max_accel": "3,080 G",
+    "max_speed": "1,000 km/h",
+    "engine": "2 ion engines",
+    "hyperdrive": [
+      "Class 0.5",
+      "Backup Class 10"
+    ],
+    "hdsystem": "Military-grade hyperdrive motivator (modified by Han Solo)",
+    "shield_gen": "KDY military-grade shield generators",
+    "hull": "Armored non-reflective hull",
+    "sensor": "Advanced sensor suite with port and starboard visual scanners",
+    "navigation": "Equipped",
+    "countermeasures": [
+      "Sensor jammer",
+      "False identification transponder",
+      "Sensor decoys cloaking device"
+    ],
+    "armament": [
+      "Retractable CEC AG-1G laser cannon turrets with stutter-fire modification (2)",
+      "Retractable blaster cannon (1)",
+      "Concealed Dymek HM-8 concussion missile launchers (2)",
+      "  Standard load: 8 heavy missiles each",
+      "Tractor beam projector (1)"
+    ],
+    "complement": "Starfighter (1)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Navigator (1)",
+      "Astromech droid (1)"
+    ],
+    "skeleton": [
+      "1 pilot or 1 astromech droid",
+      "or",
+      "0 crew (via integrated slave circuits)"
+    ],
+    "passengers": "10",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "othersystems": [
+      "HoloNet transceiver",
+      "Slave circuits",
+      "Force-operated hatch release"
+    ],
+    "role": [
+      "Transport",
+      "Scout vessel",
+      "Boarding craft"
+    ],
+    "affiliation": "New Jedi Order",
+    "owners": [
+      "Mara Jade Skywalker",
+      "Luke Skywalker"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

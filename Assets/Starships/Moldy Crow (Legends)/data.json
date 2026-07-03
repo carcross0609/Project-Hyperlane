@@ -1,0 +1,49 @@
+{
+  "name": "Moldy Crow",
+  "wookieepedia_title": "Moldy Crow/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moldy_Crow/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Moldy Crow was a Corellian Engineering Corporation HWK-290 light freighter that was used by Kyle Katarn and Jan Ors on their missions. It was later replaced by the Raven's Claw.",
+  "data": {
+    "name": "Moldy Crow",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Hawk series",
+    "model": "HWK-290 light freighter",
+    "type": "Transport",
+    "cost": "Not for sale",
+    "length": "29 meters",
+    "maneuverability": "High",
+    "hdsystem": "2",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "4 dual laser cannons",
+      "Blaster cannon turret"
+    ],
+    "crew": "1 pilot & 1 copilot",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "150 metric tons",
+    "consumables": "6 months",
+    "role": [
+      "Freighter",
+      "Scout ship"
+    ],
+    "commission": "c. 9 BBY",
+    "destroyed": "5 ABY",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ],
+    "owners": [
+      "Roark Garnet",
+      "Grappa",
+      "Palob Godalhi",
+      "Kyle Katarn"
+    ],
+    "captains": "Jan Ors"
+  },
+  "scraped": "2026-07-03"
+}

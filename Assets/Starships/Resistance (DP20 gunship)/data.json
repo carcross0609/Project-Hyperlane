@@ -1,0 +1,26 @@
+{
+  "name": "Resistance",
+  "wookieepedia_title": "Resistance (DP20 gunship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Resistance_%28DP20_gunship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Resistance was a New Republic DP20 gunship during the Galactic Civil War. It served in the Bothan Combat Response Element and fought in the Battle of Kathol System, in which it assisted in the defeat of Moff Kentor Sarne.",
+  "data": {
+    "name": "Resistance",
+    "type": "DP20 gunship",
+    "max_speed": "1,000 kmh",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "8 double turbolaser cannons",
+      "6 quad laser cannons",
+      "4 concussion missile launchers"
+    ],
+    "role": "Combat vessel",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "fleet": "Bothan Combat Response Element"
+  },
+  "scraped": "2026-07-03"
+}

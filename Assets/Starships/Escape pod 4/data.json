@@ -1,0 +1,30 @@
+{
+  "name": "Escape pod 4",
+  "wookieepedia_title": "Escape pod 4",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Escape_pod_4",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Escape pod 4 was an escape pod aboard the starship Timespan.",
+  "data": {
+    "name": "Escape pod 4",
+    "type": "Escape pod",
+    "sensor": "Environmental sensors",
+    "avionics": [
+      "Automatic thruster controls",
+      "Emergency manual controls",
+      "Wings"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "communications": "Comm transceiver",
+    "othersystems": "Emergency parachute and wings",
+    "role": "Escape pod",
+    "destroyed": "0 ABY",
+    "affiliation": "Alliance to Restore the Republic",
+    "captains": "R2-D2"
+  },
+  "scraped": "2026-07-03"
+}

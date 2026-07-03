@@ -1,0 +1,40 @@
+{
+  "name": "Scythe",
+  "wookieepedia_title": "Scythe (Strike-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scythe_%28Strike-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "A Loronar Strike-class medium cruiser serving in the Galactic Empire's Imperial Starfleet, the Scythe had been assigned as a convoy escort ship during the Battle of Hoth. The convoy it was assigned to protect en route to the Hoth system was destroyed by then-rookie pilot Ace Azzameen. It is unclear if the Scythe itself survived the battle or not.",
+  "data": {
+    "name": "Scythe",
+    "manufacturer": "Loronar Corporation",
+    "model": "Strike-class medium cruiser",
+    "type": "Cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "mglt": "18",
+    "hyperdrive": "Class 2",
+    "shield_gen": "160 SBD",
+    "hull": "100 RU",
+    "complement": [
+      "(Depending on configuration)",
+      "TIE squadrons (1-3)",
+      "AT-ST walkers (2)",
+      "AT-AT walkers (1-5)",
+      "Support speeders"
+    ],
+    "crew": [
+      "Crewmembers (1,972)",
+      "Gunners (140)"
+    ],
+    "passengers": "2,040 troops",
+    "capacity": "6,000 metric tons",
+    "role": [
+      "Frigate",
+      "Carrier"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

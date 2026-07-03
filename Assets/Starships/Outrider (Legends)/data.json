@@ -1,0 +1,59 @@
+{
+  "name": "Outrider",
+  "wookieepedia_title": "Outrider/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Outrider/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Outrider was a heavily modified YT-2400 light freighter used by the brash smuggler Dash Rendar. Rendar held that his ship was almost as well known as the Millennium Falcon.",
+  "data": {
+    "name": "Outrider",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified YT-2400 light freighter",
+    "type": "Space transport",
+    "cost": "Not available for sale",
+    "modifier": "Dash Rendar",
+    "length": "21 meters",
+    "width": "26.7 meters",
+    "max_accel": "2,860 G",
+    "mglt": "70 MGLT",
+    "max_speed": "1,150 km/h",
+    "engine": "KonGar KGDefender ion engines (3)",
+    "hyperdrive": [
+      "Class 0.75",
+      "Backup Class 8"
+    ],
+    "hdsystem": "SoroSuub Griffyn/Y2TG hyperdrive unit",
+    "shield_gen": "Power-boosted shield generators (248 SBD)",
+    "hull": "Reinforced titanium armor (102 RU)",
+    "sensor": "Military-grade sensor system",
+    "target": "Sienar Fleet Systems combat computer",
+    "navigation": "Equipped",
+    "countermeasures": [
+      "Enhanced sensor countermeasure package",
+      "Imperial sensor stealth coating"
+    ],
+    "armament": [
+      "Dymek heavy dual laser cannon turrets (2)",
+      "Concussion missile tubes (2)",
+      "  Standard load: 3 missiles each"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunners (2)"
+    ],
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "150 metric tons",
+    "consumables": "2 months",
+    "othersystems": "Escape pod (1)",
+    "role": "Smuggling vessel",
+    "owners": [
+      "Vanya",
+      "Dash Rendar"
+    ],
+    "captains": "Dash Rendar"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "TF-1726's Munificent-class star frigate",
+  "wookieepedia_title": "TF-1726's Munificent-class star frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TF-1726%27s_Munificent-class_star_frigate",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During the Clone Wars, a Munificent-class star frigate served within the naval forces of the Confederacy of Independent Systems and was commanded by the T-series military strategic analysis and tactics droid TF-1726. In 21 BBY, the frigate led a fleet of several other Munificent-class star frigates against the Galactic Republic task force of Jedi General Aayla Secura at the planet Quell. During the fighting, the Munificents managed to destroy all three of Secura's Venator-class Star Destroyers, but the Jedi was able to escape the destruction of her flagship, the Liberty, with the help of fellow Jedi General Anakin Skywalker.",
+  "data": {
+    "name": "TF-1726's Munificent-class star frigate",
+    "model": "Munificent-class star frigate",
+    "type": [
+      "Capital ship",
+      "Frigate"
+    ],
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "engine": "Ion drive thrusters (7)",
+    "armament": [
+      "Heavy turbolaser cannons (2)",
+      "Long-range heavy ion cannons (2)",
+      "Twin light turbolaser cannons (34)"
+    ],
+    "crew": "B1-series battle droids",
+    "passengers": "B2-RP super battle droids",
+    "communications": "Long-range hyperwave transceiver masts (2)",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy",
+    "captains": "TF-1726"
+  },
+  "scraped": "2026-07-03"
+}

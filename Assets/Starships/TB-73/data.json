@@ -1,0 +1,29 @@
+{
+  "name": "TB-73",
+  "wookieepedia_title": "TB-73",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TB-73",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "TB-73 was a Pelta-class Medical Frigate of the Galactic Republic that was deployed following the Second Battle of Geonosis during the Clone Wars. It was sent to a medical station at Ord Cestus to pick up supplies intended for Jedi General Mace Windu's forces on Dantooine. However, the clone troopers of Tango Company were infested by Geonosian brain worms, which Jedi Commander Ahsoka Tano stopped by rupturing the ship's coolant tanks. The ship arrived at Ord Cestus medical station, allowing the ship to be quarantined.",
+  "data": {
+    "name": "TB-73",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Pelta-class Medical Frigate",
+    "type": "Frigate",
+    "length": "282 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "armament": [
+      "Point-defense laser cannons",
+      "Turbolasers"
+    ],
+    "escapepods": "At least 8",
+    "crew": "900",
+    "othersystems": "Autopilot",
+    "role": "Supply ship",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy"
+  },
+  "scraped": "2026-07-03"
+}

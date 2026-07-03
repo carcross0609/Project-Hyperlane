@@ -1,0 +1,28 @@
+{
+  "name": "Tecora",
+  "wookieepedia_title": "Tecora/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tecora/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tecora was a YV-865 Aurore-class freighter used for transporting slaves and goods to Zygerria. The Tecora sported a large cargo hold and could transport creatures the size of a Blixus. The ship's captain was Darts D'Nar. During the Battle of Kiros, it was captured after Anakin Skywalker and Ahsoka Tano boarded the ship and apprehended Darts D'Nar. The ship was then placed under Republic custody.",
+  "data": {
+    "name": "Tecora",
+    "model": "YV-865 Aurore-class freighter",
+    "length": "52.3 meters",
+    "width": "42.33 meters",
+    "height": "16.44 meters",
+    "crew": "1 (pilot)",
+    "role": [
+      "Transport",
+      "Freighter"
+    ],
+    "destroyed": "c. 21 BBY, Kadavo",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Zygerrian Slavers Guild",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

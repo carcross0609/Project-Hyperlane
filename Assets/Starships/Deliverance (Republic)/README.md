@@ -1,0 +1,18 @@
+# Deliverance
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Deliverance (Republic)](https://starwars.fandom.com/wiki/Deliverance_%28Republic%29)
+
+The Deliverance was a Republic cruiser that served in the Republic Navy during the Great Galactic War with the reconstituted Sith Empire. In 3665 BBY, the Deliverance was one of seventy-five vessels that were destroyed above the planet Hoth during the sector-spanning Battle of Hoth, and a Republic officer would remember that his brother served aboard the vessel when the Deliverance was discovered by Republic forces on Hoth during the Cold War.
+
+## Specifications
+
+- **Name:** Deliverance
+- **Type:** Cruiser
+- **Destroyed:** 3665 BBY
+- **Affiliation:** Republic Navy
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

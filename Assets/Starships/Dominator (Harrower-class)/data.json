@@ -1,0 +1,33 @@
+{
+  "name": "Dominator",
+  "wookieepedia_title": "Dominator (Harrower-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dominator_%28Harrower-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dominator was an BSX-5 Harrower-class dreadnought used by the reconstituted Sith Empire. It functioned as Darth Jadus' flagship until its disappearance and Jadus' supposed death.",
+  "data": {
+    "name": "Dominator",
+    "model": "BSX-5",
+    "type": "Harrower-class dreadnought",
+    "length": "600 meters",
+    "armament": [
+      "28 turbolasers",
+      "12 ion cannons",
+      "2 tractor beam projectors"
+    ],
+    "complement": [
+      "8 fighters",
+      "2 shuttles"
+    ],
+    "crew": "2,000 crew",
+    "passengers": "1,500",
+    "othersystems": "Passenger quarters can be converted to prison cells.",
+    "role": "Flagship",
+    "destroyed": "3643 BBY",
+    "affiliation": "Sith Empire",
+    "fleet": "500 soldiers",
+    "captains": "Darth Jadus"
+  },
+  "scraped": "2026-07-03"
+}

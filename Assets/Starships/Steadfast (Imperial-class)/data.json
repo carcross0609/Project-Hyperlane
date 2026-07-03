@@ -1,0 +1,26 @@
+{
+  "name": "Steadfast",
+  "wookieepedia_title": "Steadfast (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Steadfast_%28Imperial-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Steadfast was an Imperial I-class Star Destroyer in the Imperial Navy during the Imperial Era. Imperial officer Enric Pryde was assigned to the ship in 6 BBY. At one point, Commodore Freylon who served as commander of the Star Destroyer was killed during the Battle of Ponolapo by 0 ABY. Commodore Scaanos then replaced Freylon and served as Pryde's superior.",
+  "data": {
+    "name": "Steadfast",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "commission": "By 6 BBY",
+    "destroyed": "5 ABY, Jakku",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": [
+      "Freylon",
+      "Scaanos",
+      "Enric Pryde"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

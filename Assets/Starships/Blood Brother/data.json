@@ -1,0 +1,22 @@
+{
+  "name": "Blood Brother",
+  "wookieepedia_title": "Blood Brother",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blood_Brother",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blood Brother, formerly known as the Dura-Khan III, was a heavily modified Consular III-class cruiser used by Reddjak, and the main command vessel for the Red Fury Brotherhood.",
+  "data": {
+    "name": "Blood Brother",
+    "model": "Modified Consular III-class cruiser",
+    "type": "Cruiser",
+    "modifier": "Red Fury Brotherhood",
+    "shield_gen": "Equipped",
+    "affiliation": [
+      "Galactic Republic",
+      "Red Fury Brotherhood"
+    ],
+    "captains": "Reddjak"
+  },
+  "scraped": "2026-07-03"
+}

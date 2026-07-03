@@ -1,0 +1,34 @@
+{
+  "name": "Blade of Dorin",
+  "wookieepedia_title": "Blade of Dorin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blade_of_Dorin",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blade of Dorin was a blue Delta-7B Aethersprite-class light interceptor flown by Jedi Master Plo Koon during the Clone Wars in service of the Galactic Republic, alongside his astromech droid R7-D4.",
+  "data": {
+    "name": "Blade of Dorin",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series",
+    "model": "Delta-7B Aethersprite-class light interceptor",
+    "type": "Starfighter",
+    "armament": "4 Laser cannons",
+    "crew": [
+      "Pilot",
+      "Astromech droid"
+    ],
+    "passengers": "None",
+    "communications": "Equipped",
+    "role": [
+      "Interceptor",
+      "Starfighter",
+      "Fighter escort"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ],
+    "captains": "Plo Koon"
+  },
+  "scraped": "2026-07-03"
+}

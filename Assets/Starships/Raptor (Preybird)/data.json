@@ -1,0 +1,37 @@
+{
+  "name": "Raptor",
+  "wookieepedia_title": "Raptor (Preybird)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raptor_%28Preybird%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Raptor was one of the two SoroSuub Preybird-class starfighters owned by the smuggler Mazzic. The Raptor was painted with distinctive red bird of prey designs, while its companion Skyclaw had a similar blue scheme. Mazzic often used the unusual but large and intimidating starfighters to frighten his enemies, and to provide protection for his smuggling vessels in dangerous operations.",
+  "data": {
+    "name": "Raptor",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Modified Preybird-class starfighter",
+    "type": "Starfighter",
+    "cost": [
+      "New: 84,000 credits",
+      "Used: 50,000 credits"
+    ],
+    "length": "20 meters",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Heavy laser cannons (2)",
+      "Concussion missile launchers (2)",
+      "  Concussion missiles (16)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot /Gunner (1)"
+    ],
+    "passengers": "None",
+    "capacity": "15 kilograms",
+    "consumables": "4 days",
+    "affiliation": "Smugglers' Alliance",
+    "owners": "Mazzic"
+  },
+  "scraped": "2026-07-03"
+}

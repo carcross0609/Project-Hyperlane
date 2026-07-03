@@ -1,0 +1,35 @@
+{
+  "name": "Vanguard",
+  "wookieepedia_title": "Vanguard (Defender-class light corvette)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vanguard_%28Defender-class_light_corvette%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vanguard was the prototype of the Defender-class light corvette produced by the Rendili Vehicle Corporation for the Jedi Order. However, the ship was stolen by the Mirialan smuggler Hylo Visz before its first test flight, and she continued to use it throughout her career.",
+  "data": {
+    "name": "Vanguard",
+    "manufacturer": "Rendili Vehicle Corporation",
+    "model": "Defender-class light corvette",
+    "type": "Light corvette",
+    "engine": "2 high-power thrusters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Heavy",
+    "sensor": "Comm dish and sensor array",
+    "armament": [
+      "2 sets of dual laser cannons",
+      "Missiles"
+    ],
+    "escapepods": "1",
+    "skeleton": "1",
+    "communications": "Secure holoterminal and transceiver",
+    "othersystems": "Full medical bay",
+    "role": "Smuggler ship",
+    "commission": "Before 3661 BBY",
+    "affiliation": [
+      "Jedi Order (Briefly)",
+      "Hylo Visz's smuggling contingent"
+    ],
+    "owners": "Hylo Visz"
+  },
+  "scraped": "2026-07-03"
+}

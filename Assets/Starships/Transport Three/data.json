@@ -1,0 +1,29 @@
+{
+  "name": "Transport Three",
+  "wookieepedia_title": "Transport Three",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Transport_Three",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Transport Three was a class four container transport in service to the Galactic Empire between 19 BBY and 18 BBY.",
+  "data": {
+    "name": "Transport Three",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Class four container transport",
+    "type": "Bulk freighter",
+    "length": "233 meters",
+    "max_speed": "700 kph",
+    "engine": "Sublight engines (3)",
+    "armament": [
+      "Top-mounted double-barreled turbolaser battery (1)",
+      "Side-mounted laser turrets (2)"
+    ],
+    "escapepods": "Six Equipped",
+    "crew": "Two pilots",
+    "capacity": "Up to 210 large containers",
+    "role": "Hauling cargo crates and containers",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Firerider",
+  "wookieepedia_title": "Firerider",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Firerider",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Firerider was a lightly modified Kuat Drive Yards Starwind-class pleasure yacht owned by the Twi'lek Serdo that operated in the Mid Rim. The yacht was mostly stock except for upgraded deflector shields and an added ion cannon that had been taken from a BTL Y-wing starfighter. It was well known as a charter craft for \"up and comers\" who needed to entertain important persons in style, but who couldn't afford a ship of their own.",
+  "data": {
+    "name": "Firerider",
+    "type": "Starwind-class pleasure yacht",
+    "length": "50 meters",
+    "hyperdrive": "Class 1.0",
+    "shield_gen": "Upgraded deflector shields",
+    "armament": [
+      "Light ArMek SW-4 ion cannon (1)"
+    ],
+    "crew": "5",
+    "passengers": "10",
+    "capacity": "20 metric tons",
+    "consumables": "2 months",
+    "owners": [
+      "Serdo",
+      "Fiz Cor'gril"
+    ],
+    "captains": "Serdo"
+  },
+  "scraped": "2026-07-03"
+}

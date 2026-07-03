@@ -1,0 +1,40 @@
+{
+  "name": "Hound's Tooth",
+  "wookieepedia_title": "Hound's Tooth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hound%27s_Tooth",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hound's Tooth was a modified Corellian Engineering Corporation YV-666 light freighter used as the personal starship of Bossk, a Trandoshan bounty hunter.",
+  "data": {
+    "name": "Hound's Tooth",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV-series",
+    "model": "Modified YV-666 light freighter",
+    "type": "Light freighter",
+    "cost": "415,000",
+    "length": "47.4 meters",
+    "width": "36.9 meters",
+    "height": "15.5 meters",
+    "hyperdrive": [
+      "Class 1.5 (Primary)",
+      "Class 6 (Backup)"
+    ],
+    "sensor": "Short range sensor",
+    "armament": [
+      "1 quad laser cannon turret",
+      "1 ion cannon",
+      "1 concussion missile launcher"
+    ],
+    "complement": [
+      "1 Z-95-AF4 Headhunter",
+      "  Nashtah Pup"
+    ],
+    "crew": "1 pilot",
+    "passengers": "4 prisoners",
+    "consumables": "3 months",
+    "role": "Freighter",
+    "owners": "Bossk"
+  },
+  "scraped": "2026-07-03"
+}

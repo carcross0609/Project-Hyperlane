@@ -1,0 +1,38 @@
+{
+  "name": "DGS-047",
+  "wookieepedia_title": "DGS-047",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DGS-047",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "DGS-047 was a HMP droid gunship. At some point, the gunship flew alongside several B2 Rocket Troopers while firing lasers.",
+  "data": {
+    "name": "DGS-047",
+    "model": "HMP droid gunship",
+    "type": "Gunship",
+    "length": "12.46 meters",
+    "width": "9.75 meters",
+    "height": "2.78 meters",
+    "engine": "Repulsorlift",
+    "shield_gen": "Shield projectors (2)",
+    "sensor": "Long-range sensors",
+    "target": "Binocular rangefinders (2)",
+    "armament": [
+      "Medium laser cannon (1)",
+      "Dual laser cannon turrets (2)",
+      "Light laser cannons (2)",
+      "Flex ordnance launchers",
+      "  Ion missiles",
+      "  Concussion bombs"
+    ],
+    "othersystems": [
+      "Rangefinder preprocessors (2)",
+      "Repulsorlift stabilizers"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Separatist Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

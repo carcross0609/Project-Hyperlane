@@ -1,0 +1,37 @@
+{
+  "name": "Obi-Wan Kenobi's Delta-7 Aethersprite-class light interceptor",
+  "wookieepedia_title": "Obi-Wan Kenobi's Delta-7 Aethersprite-class light interceptor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi%27s_Delta-7_Aethersprite-class_light_interceptor/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Obi-Wan Kenobi flew a Delta-7 Aethersprite-class light interceptor just prior to the Clone Wars.",
+  "data": {
+    "name": "Obi-Wan Kenobi's Delta-7 Aethersprite-class light interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Delta-7 Aethersprite-class light interceptor",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Taim & Bak laser cannons (4)",
+      "Proton torpedo launcher (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "R4-series agromech droid (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "None",
+    "communications": "Holotransceiver",
+    "role": "interceptor starfighter",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "captains": "Obi-Wan Kenobi"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Bouncer",
+  "wookieepedia_title": "Bouncer (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bouncer_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Bouncer was a system patrol craft employed by Dunari. It was hired to protect his casino Dunari's Rest. It was on patrol when Ace Azzameen and his brother Emon went to the casino for a drink, only to be turned back after engaging with Viraxo ships within casino airspace. The Bouncer was not seen again after this.",
+  "data": {
+    "name": "Bouncer",
+    "type": "IPV-1 System Patrol Craft",
+    "length": "120 meters",
+    "mglt": "76 MGLT",
+    "shield_gen": "400 SBD",
+    "hull": "285 RU",
+    "armament": [
+      "Taim & Bak XV7 turbolasers (4)",
+      "Krupx Munitions VL-4a warhead launcher (1)"
+    ],
+    "crew": "12",
+    "role": "Patrol craft",
+    "affiliation": "Dunari",
+    "navy": "Dunari's Rest security fleet",
+    "owners": "Dunari"
+  },
+  "scraped": "2026-07-03"
+}

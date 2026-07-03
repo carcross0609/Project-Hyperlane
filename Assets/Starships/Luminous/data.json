@@ -1,0 +1,20 @@
+{
+  "name": "Luminous",
+  "wookieepedia_title": "Luminous",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Luminous",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Luminous was a GR-75 medium transport that served in the Alliance Fleet during the Galactic Civil War between the Alliance to Restore the Republic and the Galactic Empire. It participated in the Battle of Endor, where it was confronted by a group of TIE/IN interceptors. The Battle of Endor culminated in the destruction of the second Death Star, as well as the deaths of the Emperor and Darth Vader.",
+  "data": {
+    "name": "Luminous",
+    "model": "GR-75 medium transport",
+    "type": "Transport",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military"
+    ],
+    "fleet": "Rebel Alliance Navy"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Victorum",
+  "wookieepedia_title": "Victorum",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Victorum",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Victorum was an Imperial-class Star Destroyer that served the Galactic Empire during the Galactic Civil War. At one point, it participated in combat against New Republic forces in the atmosphere of Yavin Prime after it was intercepted by Talus Group when it chased a New Republic medical convoy. The Victorum was then captured with the aid of Vanguard Squadron, and was set to be scrapped for Project Starhawk.",
+  "data": {
+    "name": "Victorum",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "armament": "Turbolasers",
+    "complement": [
+      "TIE/ln space superiority starfighters",
+      "TIE/IN interceptors",
+      "At least 3 UT-60D U-wing starfighter/support crafts"
+    ],
+    "crew": [
+      "Equipped",
+      "  Bridge crew",
+      "  Imperial Starfighter Pilots",
+      "A boarding team"
+    ],
+    "communications": "Communications tower",
+    "othersystems": "Internal systems",
+    "retired": "4 ABY, Bormea sector (dismantled to help build the Starhawk)",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "New Republic Defense Fleet"
+    ],
+    "captains": "A boarding captain"
+  },
+  "scraped": "2026-07-03"
+}

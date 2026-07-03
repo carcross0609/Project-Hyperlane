@@ -1,0 +1,32 @@
+{
+  "name": "Cutlass",
+  "wookieepedia_title": "Cutlass (R93 refractor)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cutlass_%28R93_refractor%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Cutlass was a R93 refractor of the Rokana Raiders. In 3 ABY, the ship was present in the Khepi system, where it was boarded and hijacked by Hondo Ohnaka after the Weequay sneaked aboard through a cargo crate. Kay Vess' crew would later travel to Tatooine and the Khepi Tomb within the Sayma Nebula with the ship. Before Kay Vess' crew could return onto the Cutlass, a fraction of Rokana Raiders escaped with the ship after the tomb began to collapse.",
+  "data": {
+    "name": "Cutlass",
+    "model": "R93 refractor",
+    "type": "Starfighter",
+    "shield_gen": [
+      "FE-3 energy shield",
+      "Ion shield"
+    ],
+    "hull": "Rokana hull",
+    "armament": [
+      "Laser cannons (2)",
+      "Ion torpedoes"
+    ],
+    "affiliation": [
+      "Rokana Raiders",
+      "Kay Vess' crew"
+    ],
+    "owners": [
+      "Vand",
+      "Hondo Ohnaka"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

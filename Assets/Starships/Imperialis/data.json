@@ -1,0 +1,46 @@
+{
+  "name": "Imperialis",
+  "wookieepedia_title": "Imperialis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperialis",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Imperialis was a luxury pleasure craft owned by Supreme Chancellor and eventually Galactic Emperor Sheev Palpatine during the Galactic Civil War. While the Imperialis was stolen by the gambler Lando Calrissian and wrecked on the moon Quantxi, the Emperor had several replicas of the vessel housed at his Observatories, which were scattered throughout the galaxy. In 5 ABY, the bounty hunter Mercurial Swift found information about Fleet Admiral Gallius Rax's origins aboard the Imperialis computers.",
+  "data": {
+    "name": "Imperialis",
+    "manufacturer": "Republic Sienar Systems",
+    "model": "Cosinga-class Heavy Corvette",
+    "type": [
+      "Corvette",
+      "Yacht"
+    ],
+    "modifier": "Raith Sienar",
+    "length": "120 meters",
+    "width": "63.25 meters",
+    "height": "19.4 meters",
+    "engine": "Equipped",
+    "shield_gen": "Canard wing-mounted deflector shield generators",
+    "sensor": "Forward sensor array",
+    "navigation": "Equipped",
+    "avionics": "Classified countermeasures avionics",
+    "armament": [
+      "2 dual turbolasers",
+      "8 heavy blaster cannons",
+      "2 ion cannons",
+      "2 concussion missile launchers (concealed)"
+    ],
+    "escapepods": "Four equipped",
+    "lifesupport": "Equipped",
+    "othersystems": "Self-destruct charge",
+    "role": "Sheev Palpatine's personal pleasure yacht",
+    "destroyed": "c. 0 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Sith",
+      "Landonis Balthazar Calrissian's crew"
+    ],
+    "owners": "Sheev Palpatine",
+    "captains": "Lando Calrissian (After being stolen)"
+  },
+  "scraped": "2026-07-03"
+}

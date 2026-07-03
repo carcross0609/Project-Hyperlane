@@ -1,0 +1,27 @@
+{
+  "name": "Kraken",
+  "wookieepedia_title": "Kraken (Assassin-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kraken_%28Assassin-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Kraken was an Assassin-class corvette that formed part of the Corrupter Task Force under Imperial Admiral Garreth Holtz. The ship was commanded by Captain Ollender.",
+  "data": {
+    "name": "Kraken",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Assassin-class corvette",
+    "type": "Corvette",
+    "length": "139.25 meters",
+    "width": "58.95 meters",
+    "height": "16.97 meters",
+    "armament": [
+      "Dual turbolaser turrets (6)",
+      "Warhead launcher (1)",
+      "  Concussion missile standard load (10)"
+    ],
+    "affiliation": "Galactic Empire",
+    "fleet": "Corrupter Task Force",
+    "captains": "Captain Ollender"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Eucliptan Morae",
+  "wookieepedia_title": "Eucliptan Morae",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eucliptan_Morae",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eucliptan Morae was a BR-23 courier constructed by Republic Sienar Systems. It served the Galactic Republic as a personnel transport and courier before being phased out of military service and refitted to civilian specifications. During the Galactic Civil War, Eucliptan Morae was purchased by Aloren Breesa's partisan group and filled with supplies for the Alliance to Restore the Republic. Breesa directed new Alliance recruits to transport the supplies to the Rebellion.",
+  "data": {
+    "name": "Eucliptan Morae",
+    "manufacturer": "Republic Sienar System",
+    "type": "BR-23 courier",
+    "cost": "35,000 credits (used)",
+    "length": "20.7 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Back up equipped"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Sensor",
+    "navigation": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "1",
+    "passengers": "5",
+    "capacity": "75 metric tons",
+    "consumables": "2 weeks",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

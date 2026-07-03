@@ -1,0 +1,23 @@
+{
+  "name": "Sunrider",
+  "wookieepedia_title": "Sunrider (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sunrider_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sunrider was a small starship found by the Jedi Tionne Solusar, Ikrit, Anakin Solo, Tahiri Veila and Uldir Lochett during their trip to Bast Castle on Vjun in 22 ABY.",
+  "data": {
+    "name": "Sunrider",
+    "type": "Transport",
+    "navigation": "Equipped",
+    "crew": "1",
+    "role": "Shuttle",
+    "affiliation": "New Jedi Order",
+    "owners": "Ikrit",
+    "captains": [
+      "Ikrit",
+      "Uldir Lochett"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

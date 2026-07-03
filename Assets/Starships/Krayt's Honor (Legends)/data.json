@@ -1,0 +1,25 @@
+{
+  "name": "Krayt's Honor",
+  "wookieepedia_title": "Krayt's Honor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krayt%27s_Honor/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Krayt's Honor was a Gozanti Cruiser captained by Siqo Vass, who, along with his crew, utilized his ship as an escort for independent merchants. The merchants, who found themselves constantly harassed by criminals in the employ of the Trade Federation, were grateful to Vass and his crew for their services, but the Federation itself eventually came to target the Krayt's Honor specifically. Fortunately for Vass, he and his crew found themselves in favor with the Hutt crime lord Jabba Desilijic Tiure, who offered them haven on the arid world of Tatooine. From there, the Krayt's Honor continued to prove an irritant to the Trade Federation.",
+  "data": {
+    "name": "Krayt's Honor",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "Gozanti Cruiser",
+    "type": "Cruiser",
+    "length": "41.8 meters",
+    "shield_gen": "Military-grade",
+    "armament": [
+      "Laser cannon turrets (8)",
+      "Quad laser cannon turrets (2)",
+      "Turbolaser cannons (3)",
+      "Proton torpedo launchers (2)"
+    ],
+    "captains": "Siqo Vass"
+  },
+  "scraped": "2026-07-03"
+}

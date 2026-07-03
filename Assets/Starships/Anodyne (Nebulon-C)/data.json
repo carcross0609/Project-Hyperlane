@@ -1,0 +1,39 @@
+{
+  "name": "Anodyne",
+  "wookieepedia_title": "Anodyne (Nebulon-C)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anodyne_%28Nebulon-C%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Anodyne was a modified Nebulon-C escort frigate that served in the New Republic Defense Fleet and later the Resistance navy during its conflict with the First Order. Originally decommissioned by the New Republic, the Anodyne was transferred to a Resistance-friendly salvage yard for repairs. It later served as a medical frigate for the Resistance. During the evacuation of D'Qar, there were four cruisers. The Anodyne was placed under the command of Vice Admiral Resdox. After running out of fuel, the ship was eliminated by the Mega-class Star Dreadnought Supremacy turbolasers. The Resistance crew managed to evacuate the doomed craft via U-55 loadlifters, escaping to the Raddus, while the captain went down with the ship.",
+  "data": {
+    "name": "Anodyne",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Modified Nebulon-C escort frigate",
+    "type": "Frigate",
+    "length": "549.17 meters (1,801.74 feet)",
+    "width": "195.06 meters",
+    "height": "322.24 meters",
+    "hyperdrive": "Equipped",
+    "sensor": "Forward sensor array",
+    "armament": [
+      "Heavy turbolasers (10)",
+      "Point-defense turrets (6)",
+      "Proton torpedo launchers (2)"
+    ],
+    "complement": "A full starfighter wing",
+    "skeleton": "170 (augmented via automation)",
+    "role": "Medical frigate",
+    "destroyed": "34 ABY, Crait system",
+    "affiliation": [
+      "New Republic",
+      "Resistance"
+    ],
+    "navy": [
+      "New Republic Defense Fleet",
+      "Resistance navy"
+    ],
+    "captains": "Resdox"
+  },
+  "scraped": "2026-07-03"
+}

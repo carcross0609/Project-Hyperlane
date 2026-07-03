@@ -1,0 +1,45 @@
+{
+  "name": "Lucky Lekku",
+  "wookieepedia_title": "Lucky Lekku/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lucky_Lekku/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lucky Lekku was a LAAT gunship used during the Clone Wars, notably during the Battle of Teth.",
+  "data": {
+    "name": "Lucky Lekku",
+    "manufacturer": "Rothana Heavy Engineering",
+    "line": "LAAT series",
+    "model": "Low Altitude Assault Transport/infantry repulsorlift gunship",
+    "type": "Gunship",
+    "length": "17.4 meters",
+    "width": "17 meters (wingspan)",
+    "height": "6.1 meters",
+    "mglt": "50",
+    "max_speed": "620 km/h",
+    "armament": [
+      "Anti-personnel laser turrets (1 behind the doors and 2 at the front)",
+      "Composite-beam laser turrets (2)",
+      "Mass-driver missile launchers (2)(30 missiles each)",
+      "Light air-to-air rockets (4 under each wing)"
+    ],
+    "complement": [
+      "Speeder bikes (4)",
+      "IM-6 battlefield medical droid (1)"
+    ],
+    "escapepods": "1 (cockpit capsule)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)"
+    ],
+    "passengers": [
+      "30",
+      "12 (in Clone Wars)"
+    ],
+    "capacity": "17 m³",
+    "consumables": "Fuel for 8 hours",
+    "role": "Troop Transport",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Air Alderaan StarSpeeder 1000",
+  "wookieepedia_title": "Air Alderaan StarSpeeder 1000",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Air_Alderaan_StarSpeeder_1000",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Air Alderaan StarSpeeder 1000 was a modified StarSpeeder 1000 spaceliner used by interstellar travel agency Star Tours to operate passenger flights between 2 to 0 BBY. It was named after the Core World planet Alderaan as well as Air Alderaan, the official spaceline for the Imperial Senate, which was a fellow member with Star Tours in the Galactic Tourist Bureau.",
+  "data": {
+    "name": "Air Alderaan StarSpeeder 1000",
+    "line": "StarSpeeder 1000",
+    "type": "Spaceliner",
+    "modifier": "Star Tours",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Flash cannons (2)",
+      "Laser cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)",
+      "Systems analyst (1)"
+    ],
+    "passengers": "40",
+    "role": "Passenger transport",
+    "affiliation": "Star Tours"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Raddus",
+  "wookieepedia_title": "Raddus (MC85 Star Cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raddus_%28MC85_Star_Cruiser%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Raddus, formerly known as the Dawn of Tranquility, was an MC85 Star Cruiser that served as the flagship of General Leia Organa. It was used by the Resistance during its war against the First Order. It was one of the last ships built before the signing of the Military Disarmament Act by the Galactic Empire and New Republic. The vessel gained the moniker Raddus upon its entry into the service of the Resistance, when Admiral Gial Ackbar petitioned to rename it in honor of the famed Admiral Raddus, who had died in service of the Alliance at the Battle of Scarif after defying the Rebel Alliance's political leaders and choosing to fight against seemingly insurmountable odds.",
+  "data": {
+    "name": "Raddus",
+    "manufacturer": [
+      "Corellian Engineering Corporation",
+      "Mon Calamari Shipyards"
+    ],
+    "model": "MC85 Star Cruiser",
+    "type": [
+      "Heavy cruiser",
+      "Star Cruiser"
+    ],
+    "length": "3,438.37 meters (11,280.74 ft)",
+    "width": "706.55 meters (2,318.08 ft)",
+    "height": "461.61 meters (1,514.84 ft)",
+    "mglt": "75 MGLT",
+    "engine": "Sublight ion drives (11)",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Experimental deflector shielding",
+    "hull": "Durasteel",
+    "sensor": [
+      "Ventral integrated targeting and sensor array (1)",
+      "Forward sensor array group (1)"
+    ],
+    "target": [
+      "Ventral integrated targeting and sensor array (1)",
+      "Dorsal turbolaser targeting array (1)"
+    ],
+    "armament": [
+      "Heavy turbolasers (18)",
+      "Heavy ion cannons (18)",
+      "Point-defense laser turrets (12)",
+      "Proton torpedo launchers (6)",
+      "Tractor beam emitter (1)"
+    ],
+    "complement": [
+      "RZ-2 A-wing interceptors",
+      "T-70 X-wing starfighters",
+      "U-55 orbital loadlifters",
+      "At least 1 Resistance transport pod",
+      "MG-100 StarFortress SF-17s"
+    ],
+    "bays": "2",
+    "escapepods": "Equipped",
+    "skeleton": "1,139 (augmented via automation)",
+    "communications": "Long-distance communications antennae",
+    "role": [
+      "Battleship",
+      "Flagship"
+    ],
+    "commission": "Prior to the Military Disarmament Act",
+    "destroyed": "34 ABY, Crait system",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Force",
+      "Resistance"
+    ],
+    "navy": [
+      "New Republic Defense Fleet",
+      "Resistance navy"
+    ],
+    "fleet": "New Republic Home Fleet",
+    "captains": [
+      "Leia Organa",
+      "Gial Ackbar",
+      "Amilyn Holdo",
+      "Poe Dameron (briefly)",
+      "Idrosen Gawat"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

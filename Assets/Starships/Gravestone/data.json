@@ -1,0 +1,23 @@
+{
+  "name": "Gravestone",
+  "wookieepedia_title": "Gravestone",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gravestone",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Gravestone was a massive alien combat frigate that was able to defeat the Eternal Fleet, a fleet of droid-controlled warships that was systematically destroying all life within Wild Space, with its powerful Omnicannon. The Gravestone disappeared after the battle with the fleet, scuttled in the Endless Swamp of the planet Zakuul. Centuries later, it was discovered by the crew of the Outlander, who repaired the starship and used it to escape Zakuul. The Gravestone became the mobile base of the Outlander's group prior to the establishment of the Alliance on Odessen.",
+  "data": {
+    "name": "Gravestone",
+    "type": "Combat frigate",
+    "armament": [
+      "Omnicannon",
+      "Turbolaser batteries"
+    ],
+    "role": "Warship",
+    "destroyed": "3628 BBY",
+    "affiliation": "Eternal Alliance",
+    "navy": "Eternal Alliance fleet",
+    "captains": "Koth Vortena"
+  },
+  "scraped": "2026-07-03"
+}

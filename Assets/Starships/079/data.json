@@ -1,0 +1,29 @@
+{
+  "name": "079",
+  "wookieepedia_title": "079",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/079",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "079 was the designation of the Z-95 Headhunter starfighter that was used by Mara Jade in the years following her service as an Emperor's Hand and during her time as a part of Talon Karrde's organization. Corran Horn used the ship for a time, most notably when he defended the Jedi Praxeum on Yavin 4 from a flight of two-headed creatures sent by the spirit of Exar Kun to kill Luke Skywalker.",
+  "data": {
+    "name": "079",
+    "model": "Z-95 Headhunter",
+    "type": "Starfighter",
+    "length": "11.8 meters",
+    "max_accel": "2,780 G",
+    "mglt": "75 MGLT",
+    "crew": "Pilot (1)",
+    "affiliation": [
+      "Galactic Empire",
+      "Emperor's Hand",
+      "Car'das smugglers",
+      "New Jedi Order"
+    ],
+    "captains": [
+      "Mara Jade Skywalker",
+      "Corran Horn"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Claf 3",
+  "wookieepedia_title": "Claf 3",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Claf_3",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Claf 3 was a Delta-class JV-7 escort shuttle that was part of Claf group which served the Mugaari pirates. It fought at the Second Battle of Javin where they carried equipment that may have been looted from Outpost D-34, and then proceeded to attack the Nebulon-B frigate Fogger. However, all the shuttles were destroyed.",
+  "data": {
+    "name": "Claf 3",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Delta-class JV-7 escort shuttle",
+    "type": "Shuttle",
+    "length": "30 meters",
+    "width": "32.3 meters",
+    "height": "32.4 meters",
+    "armament": [
+      "Taim & Bak KX5 laser cannons (3; forward)",
+      "Taim & Bak H9 dual turbolaser (1; aft turret)",
+      "Projectile launchers (2)"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Mugaari pirates",
+    "fleet": "Claf group"
+  },
+  "scraped": "2026-07-03"
+}

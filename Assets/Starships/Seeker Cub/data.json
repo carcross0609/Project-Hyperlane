@@ -1,0 +1,33 @@
+{
+  "name": "Seeker Cub",
+  "wookieepedia_title": "Seeker Cub",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Seeker_Cub",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Seeker Cub was a customized T-65B X-wing starfighter that belonged to the Rebel pilot Starter. During the time of the New Republic, Starter often flew missions for the Black Curs.",
+  "data": {
+    "name": "Seeker Cub",
+    "manufacturer": "Incom Corporation",
+    "model": "Modified T-65B X-wing starfighter",
+    "type": "Starfighter",
+    "length": "12.5 meters",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "navigation": "None",
+    "armament": [
+      "Laser cannons (4)",
+      "Proton torpedo launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "capacity": "50 kg",
+    "consumables": "1 week",
+    "affiliation": "Alliance to Restore the Republic",
+    "owners": "Starter"
+  },
+  "scraped": "2026-07-03"
+}

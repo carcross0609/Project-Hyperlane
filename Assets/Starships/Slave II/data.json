@@ -1,0 +1,48 @@
+{
+  "name": "Slave II",
+  "wookieepedia_title": "Slave II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Slave_II",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Slave II was a starship owned by Boba Fett, which he used circa 10 ABY. It cost him 225,000 credits.",
+  "data": {
+    "name": "Slave II",
+    "manufacturer": "MandalMotors",
+    "model": "Modified Pursuer-class enforcement ship",
+    "type": "Space transport",
+    "cost": "Not for sale (likely to be valued at 1.5 million credits)",
+    "modifier": "Boba Fett",
+    "length": "30.1 meters",
+    "max_speed": "1,000 km/h",
+    "engine": [
+      "Tion Mil/Sci Mil-StarIV engines (2)",
+      "CEC x41 maneuvering thrusters (3)"
+    ],
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup: Class 8"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Torplex military-grade shield generators",
+    "sensor": "Military-grade sensor array",
+    "navigation": "Equipped",
+    "armament": [
+      "Blaster cannons (2)",
+      "Ion cannon turret (1)",
+      "Tractor beam projector (1)",
+      "Aft proton torpedo launcher (1)",
+      "  Standard load: 6 torpedoes"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "Prisoners (5)",
+    "capacity": "65 metric tons",
+    "consumables": "3 months",
+    "othersystems": "Prison cells (5)",
+    "role": "Bounty hunter vessel",
+    "affiliation": "Mandalorians",
+    "owners": "Boba Fett",
+    "captains": "Boba Fett"
+  },
+  "scraped": "2026-07-03"
+}

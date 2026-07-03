@@ -1,0 +1,22 @@
+{
+  "name": "Merchant One",
+  "wookieepedia_title": "Merchant One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Merchant_One",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Merchant One was a C-ROC Gozanti-class light cruiser owned by the crime lord Azmorigan. The ship carried a number of armaments, including laser turrets and laser cannons used in criminal operations. The vessel also held a number of escape pods.",
+  "data": {
+    "name": "Merchant One",
+    "model": "C-ROC Gozanti-class light cruiser",
+    "type": "Light cruiser",
+    "armament": [
+      "Doral laser turret (1)",
+      "Forward laser canons (2)",
+      "Rear laser cannons (2)"
+    ],
+    "escapepods": "Escape pods",
+    "owners": "Azmorigan"
+  },
+  "scraped": "2026-07-03"
+}

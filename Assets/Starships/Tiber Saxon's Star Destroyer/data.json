@@ -1,0 +1,52 @@
+{
+  "name": "Tiber Saxon's Star Destroyer",
+  "wookieepedia_title": "Tiber Saxon's Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tiber_Saxon%27s_Star_Destroyer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Tiber Saxon's Star Destroyer was an Imperial I-class Star Destroyer owned by Tiber Saxon, Governor of Mandalore. It was based outside the capital city of Sundari during a mission to Mandalore undertaken by Clan Wren, Clan Kryze, and several members of the Rebel Alliance to destroy the Duchess, an arc generator that was contained within the AT-DP Arc Cannon Prototype. By the end of the mission, the Star Destroyer was destroyed, along with \"the Duchess,\" the AT-DP Arc Cannon Prototype, and Saxon, with the ship crashing near the base of Sundari.",
+  "data": {
+    "name": "Tiber Saxon's Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "ISD-72x shield generator domes (2)",
+    "target": "Tractor beam targeting array",
+    "complement": [
+      "TIE/ln space superiority starfighters",
+      "At least 1 Sentinel-class landing craft",
+      "At least 3 All Terrain Defense Pods",
+      "  AT-DP Arc Cannon Prototype"
+    ],
+    "crew": [
+      "At least 1 Imperial weapons technician",
+      "Imperial Starfighter Pilots",
+      "Imperial Super Commandos",
+      "Stormtroopers",
+      "Imperial combat drivers"
+    ],
+    "capacity": [
+      "Several cargo containers",
+      "Arc Pulse Generator"
+    ],
+    "communications": [
+      "Holotable",
+      "Holoprojectors"
+    ],
+    "othersystems": "Datacore",
+    "role": "Command ship",
+    "destroyed": "1 BBY, Mandalore",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Tiber Saxon"
+  },
+  "scraped": "2026-07-03"
+}

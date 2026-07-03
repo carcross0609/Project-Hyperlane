@@ -1,0 +1,31 @@
+{
+  "name": "Invincible",
+  "wookieepedia_title": "Invincible (Stark Hyperspace War)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Invincible_%28Stark_Hyperspace_War%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Invincible was a Republic light assault cruiser, the command ship of Ranulph Tarkin and the flagship of his fleet. Besides Tarkin, its crew included Antidar Williams and Jace Dallin.",
+  "data": {
+    "name": "Invincible",
+    "model": "Republic light assault cruiser",
+    "sysmods": [
+      "Additional weaponry",
+      "Additional communications equipment",
+      "One extra engine"
+    ],
+    "armament": "Turbolasers",
+    "othersystems": [
+      "Escape pods",
+      "Evac pods"
+    ],
+    "role": [
+      "Corvette",
+      "Command ship"
+    ],
+    "destroyed": "44 BBY",
+    "affiliation": "Ranulph Tarkin's paramilitary",
+    "captains": "Ranulph Tarkin"
+  },
+  "scraped": "2026-07-03"
+}

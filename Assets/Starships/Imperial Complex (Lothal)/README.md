@@ -1,0 +1,173 @@
+# Imperial Complex
+
+**Kind:** Individual ship  
+**Continuity:** Canon  
+**Source:** [Imperial Complex (Lothal)](https://starwars.fandom.com/wiki/Imperial_Complex_%28Lothal%29)
+
+The Imperial Complex, also known as the Imperial Command Center, the Imperial compound, or simply the "Dome," was a huge mushroom&ndash;shaped vessel that housed the headquarters of the Galactic Empire on the planet Lothal. It landed in Capital City after the Empire started occupying Lothal, the Imperial Complex both dwarfed and supplanted the Lothal City Capitol Building. It was destroyed in 1 BBY during the Liberation of Lothal.
+
+## Specifications
+
+- **Is Mobile:** 1
+- **Name:** Imperial Complex
+- **Manufacturer:** Galactic Empire
+- **Model:** Imperial Planetary Occupation Facility
+- **Engine:** Thrusters
+- **Shield Gen:**
+  - Planetary shield
+  -   Shield Generator chamber
+  -     Shield generators
+  -       Power terminals (2)
+  -     Control towers (2)
+  -       North Tower
+  -       South Tower
+- **Sensor:** Equipped
+- **Countermeasures:** Self-destruct mechanism
+- **Armament:** Turbolasers
+- **Complement:**
+  - TIE/ln space superiority starfighters
+  - At least 1 TIE/ad v1
+  -   The Inquisitor's TIE Advanced
+  - Sentinel-class landing crafts
+  - LAAT/le patrol gunships
+  - All Terrain Armored Transports
+  -   Walker 271
+  -   Walker 414
+  - All Terrain Defense Pods
+  -   Walker 216
+  - K79-S80 Imperial Troop Transports
+  - 614-AvA speeder bikes
+- **Bays:**
+  - Upper Hangar bays
+  - Lower Hangar bays
+- **Crew:**
+  - Imperial officers
+  -   Governor of the Lothal sector
+  - At least 1 Minister
+  - At least 1 Inquisitor
+  - At least 1 Imperial Security Bureau Agent
+  - Imperial Navy troopers
+  - Imperial weapons technicians
+  - Imperial factory workers
+  - Imperial Starfighter Pilots
+  - At least 1 Noghri Assassin
+  - Stormtroopers
+  -   Stormtrooper Commanders
+  -   Scout troopers
+  -   Jumptroopers
+  -   Death troopers
+  - Imperial combat drivers
+  -   AT-AT pilots
+  - R-series astromech droids
+  -   R2-series astromech droids
+  -   R4 astromech droids
+  - IT-O interrogation droids
+  - MSE-6 series repair droids
+- **Capacity:**
+  - Several Cargo Crates
+  - At least 1 Storage bay
+- **Communications:** Equipped
+- **Othersystems:**
+  - Databanks
+  - Loudspeaker
+  - Protocol 13 initialiser
+- **Region:** Outer Rim Territories
+- **Sector:** Lothal sector
+- **System:** Lothal system
+- **Coordinates:** U-7
+- **Orbited:** Lothal
+- **Role:**
+  - Planetary Headquarters
+  - Factory
+  - Academy
+- **Affiliation:**
+  - Galactic Empire
+  -   Lothal garrison
+  -   Aratech Repulsor Company
+  -   Kuat Drive Yards
+  -   Sienar Fleet Systems
+- **Constructed:** By 18 BBY
+- **Destroyed:** 1 BBY, Lothal
+- **Battles:**
+  - Takeover of Lothal
+  - Mission to destroy a kyber crystal
+  - Rescue of Tseebo
+  - Siege of Lothal
+  -   Mission to Lothal
+  - Lothal campaign
+  -   Infiltration of the Imperial Armory Complex
+  -   Attack on Lothal
+  -   Rescue of Hera Syndulla
+  -   Liberation of Lothal
+- **Owners:**
+  - Ryder Azadi
+  - Arihnda Pryce
+- **Namedcrew:**
+  - Cumberlayne Aresko
+  - Betancy
+  - Ames Bunkle
+  - Currahee
+  - Chiron
+  - de Grom
+  - Giles
+  - Myles Grint
+  - Illorus
+  - Kabak
+  - Alexsandr Kallus
+  - Jai Kell
+  - Kassius Konstantine
+  - Dhara Leonis
+  - Zare Leonis
+  - LS-261
+  - Lomus
+  - Yogar Lyste
+  - "Dev Morgan"
+  - O'Harlan
+  - Nazhros Oleg
+  - Piers Roddance
+  - Rukh
+  - Rykoff
+  - Berisse Sai
+  - Morad Sumar
+  - Pandak Symes
+  - The Grand Inquisitor
+  - Thurgos
+  - Unidentified Imperial officer
+  - Unidentified Imperial technician
+  - Unidentified Stormtrooper
+  - Unidentified Stormtrooper
+  - Unidentified Stormtrooper
+  - Unidentified Stormtrooper
+  - Unidentified Stormtrooper Commander
+  - Unidentified Stormtrooper Commander
+  - Uzall
+  - Wheeler
+- **Captains:**
+  - Darth Vader (briefly)
+  - Wilhuff Tarkin (briefly)
+  - Maketh Tua
+- **Interest:**
+  - Academy for Young Imperials
+  -   The Well
+  - Block D
+  -   Level 157
+  -     Pryce's office
+  - Hanger 2-7
+  - Imperial Armory Complex
+  -   East gate
+  -   Section A-2
+  -   Section B-17
+  -   South entrance
+  -     Garbage chute
+  -   Thrawn's Office
+  - Platform Zero Delta
+  - Shield Generator chamber
+  -   North Tower
+  -   South Tower
+- **Sectors:**
+  - Sector 1244
+  - Sector GL-44
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

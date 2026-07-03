@@ -1,0 +1,33 @@
+{
+  "name": "Warhog",
+  "wookieepedia_title": "Warhog",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Warhog",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Warhog was a VGK-3 Shooting Star class starfighter prototype that was stolen by Alliance Infiltrator Bryce Agoris and freelance operative Myrgaanti Shi-Iki.",
+  "data": {
+    "name": "Warhog",
+    "manufacturer": "Koensayr Manufacturing",
+    "type": "VGK-3 Shooting Star class starfighter",
+    "length": "19 meters",
+    "max_speed": "1,000 kmh",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "5 laser cannons",
+      "2 proton torpedo launchers",
+      "1 twin ion cannon"
+    ],
+    "crew": "1; 1 gunner",
+    "capacity": "150 kilograms",
+    "consumables": "1 week",
+    "owners": [
+      "Bryce Agoris",
+      "Myrgaanti Shi-Iki"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

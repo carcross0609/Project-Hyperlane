@@ -1,0 +1,25 @@
+{
+  "name": "Assiduous",
+  "wookieepedia_title": "Assiduous",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Assiduous",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Assiduous was an Imperial I-class Star Destroyer used by Inquisitor Valin Draco.",
+  "data": {
+    "name": "Assiduous",
+    "model": "Imperial I-class Star Destroyer",
+    "complement": [
+      "12th Squadron",
+      "  TIE/LN starfighter"
+    ],
+    "role": [
+      "Destroyer",
+      "Carrier"
+    ],
+    "commission": "19 BBY",
+    "affiliation": "Galactic Empire",
+    "owners": "Valin Draco"
+  },
+  "scraped": "2026-07-03"
+}

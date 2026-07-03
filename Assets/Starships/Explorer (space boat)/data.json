@@ -1,0 +1,39 @@
+{
+  "name": "Explorer",
+  "wookieepedia_title": "Explorer (space boat)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Explorer_%28space_boat%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Explorer was a modified Multi-environment Space Boat refitted by the Alliance to Restore the Republic for a mission to Sedri. It was a equipped with a class .5 hyperdrive, nav computer, sublight and repulsorlift engines, allowing it to travel in hyperspace, space, atmosphere, or underwater. It required a crew of six (one pilot, one co-pilot, one deflector shields operator, two gunners, and a sensor array operator). It could carry six passengers, 150 metric tons of cargo, and four months worth of consumables. It had two double laser cannons which fired separately as well as a low-power tractor beam projector used as an anchor. It had passive and active sensors, including radar, sonar, visual scanning, and energy-wave detectors. For the mission to Sedri, it was equipped with two speeder-rafts, six glider-sails (which could be used for wind sailing), six underwater breathing suits with power cells, six blaster pistols, two blaster rifles, six grenades, six medpacs, two spear guns, and four coils of syntherope.",
+  "data": {
+    "name": "Explorer",
+    "type": "Multi-environment Space Boat",
+    "engine": [
+      "Repulsorlift",
+      "Sublight drive"
+    ],
+    "hyperdrive": "Class 0.5",
+    "shield_gen": "Equipped",
+    "sensor": [
+      "Energy-wave detector",
+      "Radar",
+      "Sonar"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "2 double laser cannons",
+      "Tractor beam projector"
+    ],
+    "complement": [
+      "2 speeder-rafts",
+      "6 glider-sails"
+    ],
+    "crew": "6",
+    "passengers": "6",
+    "capacity": "150 metric tons",
+    "consumables": "4 months",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

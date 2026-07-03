@@ -1,0 +1,22 @@
+{
+  "name": "Control",
+  "wookieepedia_title": "Control (CR90 corvette)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Control_%28CR90_corvette%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Control was a CR90 corvette used by the Galactic Empire during the Galactic Civil War within an Imperial simulation. In the simulation, it served as a command ship for the TIE bomber squadron Alpha Squadron during an attack on a Rebel outpost, which would ultimately become a victory for the Imperial forces.",
+  "data": {
+    "name": "Control",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "length": "150 meters",
+    "mglt": "20 MGLT",
+    "shield_gen": "Equipped",
+    "hull": "50 RU",
+    "armament": "Turret-mounted dual H9 turbolasers (2)",
+    "role": "Command ship",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Ultimatum",
+  "wookieepedia_title": "Ultimatum",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ultimatum",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ultimatum was an Imperial I-class Star Destroyer under the command of Captain Rae Sloane during the reign of the first Galactic Empire. Assigned to Death Squadron, the personal flotilla of Darth Vader, the Ultimatum career was cut brutally short when it suffered a direct collision with an asteroid in the Hoth asteroid belt.",
+  "data": {
+    "name": "Ultimatum",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Upgraded Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "complement": [
+      "Lambda-class T-4a shuttles",
+      "  Bastinade",
+      "  Cudgel",
+      "  Truncheon"
+    ],
+    "consumables": "2 years",
+    "communications": "Communications tower",
+    "destroyed": "3 ABY, Hoth asteroid belt",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron",
+    "captains": [
+      "Yale Karlsen",
+      "Rae Sloane",
+      "Canonhaus (Temporarily)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

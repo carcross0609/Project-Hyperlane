@@ -1,0 +1,31 @@
+{
+  "name": "Unmasked research station",
+  "wookieepedia_title": "Unmasked research station",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unmasked_research_station",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "SpaceStation",
+  "description": "A research station in the Outer Rim Territories was operated by the Sith cult known as the Unmasked during the Third Galactic War. The station was built after the reconstituted Sith Empire discovered a fragment of the Mass Shadow Generator that destroyed the planet Malachor V. The station was then used by the Unmasked to rebuild the superweapon. Eventually, the Mass Shadow Generator was destroyed when the Eternal Alliance attacked the research station and defeated the cult.",
+  "data": {
+    "name": "Unmasked research station",
+    "manufacturer": "Sphere of Scientific Advancement",
+    "type": "Space station",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "coordinates": "R-4",
+    "role": "Research facility",
+    "affiliation": [
+      "Sith Empire",
+      "The Unmasked"
+    ],
+    "battles": "Mission to the R-4 anomaly",
+    "captains": [
+      "Lord Kanoth",
+      "Lady Dominique"
+    ],
+    "interest": "Mass Shadow Generator"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Waterspire",
+  "wookieepedia_title": "Waterspire",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Waterspire",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Waterspire was a Mon Calamari Simiyiar-class light freighter.",
+  "data": {
+    "name": "Waterspire",
+    "type": "Light freighter",
+    "length": "26.3 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Backup Class 15"
+    ],
+    "shield_gen": "Equipped, with backup shield generator",
+    "navigation": "Equipped",
+    "armament": [
+      "1 dual laser cannon turret",
+      "1 ion cannon"
+    ],
+    "crew": "1 pilot, 2 gunners",
+    "skeleton": "1",
+    "passengers": "8",
+    "capacity": "150 tons",
+    "consumables": "2 months",
+    "owners": "Milacass"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Mist Hunter",
+  "wookieepedia_title": "Mist Hunter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mist_Hunter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Mist Hunter was a modified Byblos Drive Yards G-1A starfighter owned by the bounty hunter Zuckuss, used by him and his companion 4-LOM. Holding cells aboard Mist Hunter were used to hold Beris Ford and Han Solo after his capture on the planet Valtos. It later crash-landed during a pursuit of Solo and the Wookiee Chewbacca.",
+  "data": {
+    "name": "Mist Hunter",
+    "line": "Byblos Drive Yards",
+    "model": "G-1A starfighter",
+    "type": "Starfighter",
+    "cost": "162,900 credits",
+    "hyperdrive": [
+      "Class 1 (Primary)",
+      "Class 10 (Backup)"
+    ],
+    "sensor": "Short range sensor",
+    "armament": [
+      "Assault laser cannons",
+      "Light tractor beam projector"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 co-pilot/gunner"
+    ],
+    "passengers": "3 prisoners",
+    "consumables": "1 month",
+    "role": "Bounty hunter vessel"
+  },
+  "scraped": "2026-07-03"
+}

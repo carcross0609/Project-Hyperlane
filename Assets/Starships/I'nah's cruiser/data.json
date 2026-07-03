@@ -1,0 +1,27 @@
+{
+  "name": "I'nah's cruiser",
+  "wookieepedia_title": "I'nah's cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/I%27nah%27s_cruiser",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Nihil I'nah captained a cruiser after commandeering the vessel from the Galactic Republic, patrolling the Nihil's Stormwall hyperspace barrier with her crew. During a meeting in the cruiser's briefing room in 229 BBY, I'nah argued with the Nihil scientist Niv Drendow Apruk about traveling to the Outer Rim planet Valo to gather valuable experiment materials. The aspiring pirate Zyle Keem&mdash;who had eavesdropped on the meeting&mdash;stole an escape shuttle from the vessel and traveled to Valo to seek materials to loot.",
+  "data": {
+    "name": "I'nah's cruiser",
+    "type": "Cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Path engine",
+    "navigation": "Equipped",
+    "bays": "A hangar",
+    "escapepods": "Several Nihil escape shuttles",
+    "crew": "Around fifty",
+    "role": "Stormwall patrol",
+    "affiliation": [
+      "Galactic Republic",
+      "Nihil",
+      "  I'nah's crew"
+    ],
+    "captains": "I'nah"
+  },
+  "scraped": "2026-07-03"
+}

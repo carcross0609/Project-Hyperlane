@@ -1,0 +1,83 @@
+{
+  "name": "Far Orbit",
+  "wookieepedia_title": "Far Orbit",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Far_Orbit",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Far Orbit was an EF76 Nebulon-B escort frigate that served in the Galactic Empire's navy until, after a mutiny among its crew, it became one of the first privateering vessels for the Alliance to Restore the Republic. Produced by Kuat Drive Yards, the Far Orbit was initially helmed by Imperial Captain Vocis Kenit as it hunted down pirates in the Outer Rim Territories. However, due to Kenit's tyrannical leadership, his second-in-command Commander Dhas Fenoep Vedij&mdash;who had become disillusioned with the Empire&mdash;led a successful mutiny in 0 ABY against Kenit and the Imperial forces aboard the frigate. After discharging the Imperial-aligned crew members and those who refused to enlist with the Rebel Alliance, Vedij had the Far Orbit travel to the space station StarForge Station, where it picked up replacement crew members and joined up with the Alliance. The Far Orbit thus became a privateering vessel for the Alliance in the Ringali Shell of the Core Worlds.",
+  "data": {
+    "name": "Far Orbit",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Escort frigate",
+    "cost": "Not for sale",
+    "length": "300 meters",
+    "max_speed": "800 km/h",
+    "engine": "KDY engines (7)",
+    "hyperdrive": [
+      "Class 2.0 (primary)",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Delphus JC-671 projector",
+    "hull": "Armored",
+    "sensor": [
+      "Electro photo receptors",
+      "Full spectrum transceivers",
+      "Dedicated energy receptors",
+      "Lifeform indicators",
+      "Crystal gravfield traps",
+      "Hyperwave signal interceptors"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "12 turbolaser batteries",
+      "12 laser cannons",
+      "2 combat tractor beams"
+    ],
+    "complement": [
+      "Imperial service:",
+      "24 TIE/LN starfighters",
+      "1 Grek-class troop shuttles",
+      "1 Katarn-class boarding shuttles",
+      "Other shuttles",
+      "After mutiny:",
+      "1 Grek-class shuttle",
+      "1 Katarn-class shuttle",
+      "Other shuttles and starfighters that the privateers acquired during their raids"
+    ],
+    "bays": [
+      "Docking Bay One",
+      "Docking Bay Two"
+    ],
+    "escapepods": "Full complement (Lost during mutiny)",
+    "crew": [
+      "Imperial service:",
+      "854 crew members, 66 gunners",
+      "After mutiny:",
+      "380 crew, 25 gunners",
+      "After StarForge Station:",
+      "427 crew members, 49 gunners"
+    ],
+    "skeleton": "307 crew and 10 gunners",
+    "passengers": "75 (Troops)",
+    "capacity": "6,000 metric tons",
+    "consumables": "4 months",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "role": [
+      "Patrol frigate",
+      "Privateering frigate"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ],
+    "captains": [
+      "Vocis Kenit",
+      "Dhas Fenoep Vedij"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

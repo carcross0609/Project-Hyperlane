@@ -1,0 +1,48 @@
+{
+  "name": "Mist Hunter",
+  "wookieepedia_title": "Mist Hunter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mist_Hunter/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Mist Hunter was a modified Byblos Drive Yards G-1A starfighter that was owned by Zuckuss, a Gand bounty hunter.",
+  "data": {
+    "name": "Mist Hunter",
+    "manufacturer": "Byblos Drive Yards",
+    "model": "Modified G-1A starfighter",
+    "type": "Starfighter",
+    "cost": "Not available for sale (likely valued at 307,500 credits)",
+    "length": "15 meters",
+    "max_speed": "1,000 km/h",
+    "engine": [
+      "2 engine units",
+      "Combat repulsorlift systems"
+    ],
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup: Class 10"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Assault laser cannons (2)",
+      "Tractor beam projector (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "8 (in concealed compartment)",
+    "capacity": "1 metric ton",
+    "consumables": "1 month",
+    "lifesupport": "Ammonia breathers only",
+    "role": [
+      "Bounty hunter vessel",
+      "Transport/recon"
+    ],
+    "affiliation": "Zuckuss"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Kassius Konstantine's Interdictor",
+  "wookieepedia_title": "Kassius Konstantine's Interdictor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kassius_Konstantine%27s_Interdictor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Kassius Konstantine's Interdictor was an Interdictor-class heavy cruiser commanded by Imperial Admiral Kassius Konstantine during the Battle of Atollon. An Interdictor vessel, the starship was equipped with four gravity well projectors capable of generating an interdiction field, an artificial gravity well that could prevent other starships from entering hyperspace. During the Galactic Civil War, Grand Admiral Thrawn waged a campaign against the rebel Phoenix Cell, at which point the heavy cruiser was part of Thrawn's Seventh Fleet. In 2 BBY, it was part of a squadron of Imperial vessels that attacked the rebel cell over the planet Atollon, where they had set up their base.",
+  "data": {
+    "name": "Kassius Konstantine's Interdictor",
+    "line": "Interdictor line",
+    "model": "Interdictor-class heavy cruiser",
+    "type": [
+      "Heavy cruiser",
+      "Star Destroyer"
+    ],
+    "length": "1,129 meters",
+    "engine": "Sublight engines (5)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shields",
+    "armament": [
+      "Gravity well projectors (4)",
+      "Laser cannons"
+    ],
+    "bays": "Hangars (3)",
+    "crew": [
+      "Imperial officers",
+      "Imperial weapons technicians"
+    ],
+    "role": [
+      "Command ship",
+      "Interdictor vessel"
+    ],
+    "destroyed": "2 BBY, Atollon system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": [
+      "Seventh Fleet",
+      "  Dark Omen squadron"
+    ],
+    "captains": "Kassius Konstantine"
+  },
+  "scraped": "2026-07-03"
+}

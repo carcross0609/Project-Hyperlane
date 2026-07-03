@@ -1,0 +1,48 @@
+{
+  "name": "Shara Bey's A-wing",
+  "wookieepedia_title": "Shara Bey's A-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shara_Bey%27s_A-wing",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Lieutenant Shara Bey piloted at least two RZ-1 A-wing interceptors during the Galactic Civil War in battles such as the battle of Endor and the Battle of Cawa City. In 5 ABY Bey, along with her husband Kes Dameron, retired from the Alliance to Restore the Republic, and Bey was able to keep her A-wing as part of her compensation package. While living on Yavin 4, Bey would fly her A-wing as part of the Civilian Defense Force that was stationed there. When her son Poe was six years old, Bey would teach him how to fly in her A-wing allowing Poe to sit in her lap, learning how to control the ship from her.",
+  "data": {
+    "name": "Shara Bey's A-wing",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "RZ-1 A-wing interceptor",
+    "type": "Starfighter",
+    "length": "9.6 meters",
+    "mglt": "120 MGLT",
+    "max_speed": "1,300 kph",
+    "engine": "2",
+    "shield_gen": "Sirplex Z-9 deflector shield projector Equipped standard, removed in modified versions",
+    "armament": [
+      "Borstel RG-9 Laser cannons (2)",
+      "Dymek HM-6 Concussion Missile Launcher with Concussion missiles (12)"
+    ],
+    "escapepods": "Equipped",
+    "crew": "1 pilot",
+    "communications": "Equipped",
+    "role": [
+      "Starfighter combat",
+      "Interceptor"
+    ],
+    "destroyed": [
+      "Between 3 ABY and 4 ABY, Tarkin's Will",
+      "18 ABY, Yavin 4"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Starfighter Corps",
+      "Civilian Defense Force"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": [
+      "Green Squadron",
+      "Starlight Squadron"
+    ],
+    "owners": "Shara Bey",
+    "captains": "Poe Dameron"
+  },
+  "scraped": "2026-07-03"
+}

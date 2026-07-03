@@ -1,0 +1,36 @@
+{
+  "name": "Stormhawk",
+  "wookieepedia_title": "Stormhawk (Imperial I-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stormhawk_%28Imperial_I-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Stormhawk was an Imperial I-class Star Destroyer.",
+  "data": {
+    "name": "Stormhawk",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "complement": [
+      "TIE/LN starfighters",
+      "Speeder Bikes"
+    ],
+    "skeleton": "5,000",
+    "passengers": [
+      "Arati Squad",
+      "Danex Squad",
+      "Thent Squad",
+      "Streen Squad",
+      "Brantz Squad"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "    Death Squadron",
+      "  Thrawn's fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

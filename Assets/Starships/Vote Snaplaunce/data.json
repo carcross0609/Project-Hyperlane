@@ -1,0 +1,72 @@
+{
+  "name": "Vote Snaplaunce",
+  "wookieepedia_title": "Vote Snaplaunce",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vote_Snaplaunce",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Vote Snaplaunce was a TIE/sh shuttle owned by Snaplaunce, the Ithorian mayor of Hweg Shul on the planet Nam Chorios. The shuttle was originally part of a collection of restored vehicles owned by a retired mechanic in the Imperial fleet who settled on Nam Chorios around 29 ABY, after which the shuttle was purchased by the Ithorian and renamed eponymously, a point expressed in red lettering over a vivid yellow paint job. Vote Snaplaunce was modified while in possession of its namesake, during which time it was converted from military to civilian use. Snaplaunce used the shuttle as a traveling campaign advertisement, and had a tendency to loan it to prominent visitors to his city.",
+  "data": {
+    "name": "Vote Snaplaunce",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "Twin Ion Engine/sh shuttle",
+    "type": "Military, then civilian priority transport shuttle",
+    "modifier": [
+      "Pre-crash:",
+      "Retired Imperial mechanic",
+      "Snaplaunce",
+      "Post-crash:",
+      "Ben Skywalker",
+      "Vestara Khai"
+    ],
+    "sysmods": [
+      "Pre-crash:",
+      "Weapons removed",
+      "Yellow paint scheme",
+      "Post-crash:",
+      "Rebuilt into landspeeder"
+    ],
+    "max_speed": [
+      "Pre-crash:",
+      "1,050 km/h",
+      "Post-crash:",
+      "50 km/h"
+    ],
+    "hyperdrive": "None",
+    "shield_gen": "None",
+    "armament": [
+      "Imperial service:",
+      "One laser cannon",
+      "Post-Imperial service:",
+      "None"
+    ],
+    "crew": "1",
+    "passengers": "2",
+    "consumables": "Two days rations for one average Human",
+    "othersystems": "Self-destruct mechanism",
+    "role": [
+      "Imperial service:",
+      "Ship-to-ship personnel courier/cargo ferry",
+      "Post-Imperial service, pre-crash:",
+      "Intra-planetary and surface-to-orbit transport",
+      "Post-crash:",
+      "Land transit"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Snaplaunce administration"
+    ],
+    "owners": [
+      "Retired Imperial mechanic",
+      "Snaplaunce"
+    ],
+    "captains": [
+      "Snaplaunce",
+      "Luke Skywalker"
+    ],
+    "registry": "XV 119"
+  },
+  "scraped": "2026-07-03"
+}

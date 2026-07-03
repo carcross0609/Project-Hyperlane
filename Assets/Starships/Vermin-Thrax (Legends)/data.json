@@ -1,0 +1,30 @@
+{
+  "name": "Vermin-Thrax",
+  "wookieepedia_title": "Vermin-Thrax/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vermin-Thrax/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Vermin-Thrax was a HCT-2001 Dragonboat-class Reugeot 905 freighter was used by the Trandoshan hunters of Garnac's hunting guild during the Clone Wars.",
+  "data": {
+    "name": "Vermin-Thrax",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "HCT-2001 Dragonboat-class Reugeot 905 freighter",
+    "type": "Freighter",
+    "length": "95.28 meters",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Rotary laser cannon"
+    ],
+    "crew": [
+      "2 pilots",
+      "1 gunner"
+    ],
+    "passengers": "At least 12 prisoners",
+    "cargohandling": "At least 12 cargo modules attached",
+    "role": "Transport",
+    "firstuse": "21 BBY",
+    "affiliation": "Trandoshans"
+  },
+  "scraped": "2026-07-03"
+}

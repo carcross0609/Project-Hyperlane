@@ -1,0 +1,30 @@
+{
+  "name": "Unidentified Separatist supply ship",
+  "wookieepedia_title": "Unidentified Separatist supply ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Separatist_supply_ship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A DH-Omni Support Vessel was in service to the Confederacy of Independent Systems' naval forces during the Clone Wars against the Galactic Republic in 20 BBY. The Dual Hemisphere-Omni Support Vessel participated in the Battle of Umbara, where it was tasked with delivering supplies to the Umbaran Militia fighting the Republic forces on the surface, but was destroyed during the battle by 501st Legion clone troopers Fives, Jesse, and Hardcase, who disobeyed the orders of Jedi General Pong Krell and used hijacked Umbaran starfighters to sneak past enemy lines.",
+  "data": {
+    "name": "Unidentified Separatist supply ship",
+    "model": "Dual Hemisphere-Omni Support Vessel",
+    "type": "Heavy transport starship",
+    "length": "908.78 meters",
+    "width": "1257.32 meters",
+    "height": "910.35 meters",
+    "hdsystem": "Equipped",
+    "armament": "Point-defense laser cannons",
+    "complement": "Multiple C-9979 landing craft",
+    "role": [
+      "Corporate transport",
+      "Arms shipment and supply",
+      "Troop landing craft transport"
+    ],
+    "destroyed": "20 BBY, over Umbara",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy",
+    "captains": "TM-171"
+  },
+  "scraped": "2026-07-03"
+}

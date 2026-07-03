@@ -1,0 +1,52 @@
+{
+  "name": "Grievous's frigate",
+  "wookieepedia_title": "Grievous's frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grievous%27s_frigate/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "General Grievous used a Munificent-class star frigate as his command ship at the Battle of Bothawui. During the the battle, the ship was destroyed when Republic AT-TEs flanked Grievous's fleet on a belt of asteroids, and severely damaged the fleet from behind.",
+  "data": {
+    "name": "Grievous's frigate",
+    "manufacturer": [
+      "Hoersch-Kessel Drive, Inc.",
+      "Gwori Revolutionary Industries"
+    ],
+    "model": "Munificent-class star frigate",
+    "type": "Star frigate",
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "max_accel": "2,300 G",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "hdrange": "150,000 light year effective range",
+    "poweroutput": "Peak: 2,07 × 1023 W",
+    "power": "Hypermatter annihilation reactors (2)",
+    "armament": [
+      "Prow heavy turbolaser cannons (2)",
+      "Long-range heavy ion cannons (2)",
+      "Twin turbolaser cannons (26)",
+      "Light turbolaser turrets (20)",
+      "Point-defense laser cannons (38)",
+      "Flak guns (8)",
+      "Hyperwave jammer (1)"
+    ],
+    "complement": "If configured: Several starfighters",
+    "crew": "200",
+    "passengers": "150,000 deactivated battle droids",
+    "capacity": "40,000 tons",
+    "consumables": "2 years",
+    "role": [
+      "Frigate",
+      "Communications ship"
+    ],
+    "destroyed": "21 BBY,\nBoth system",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederate Navy",
+    "captains": "General Grievous"
+  },
+  "scraped": "2026-07-03"
+}

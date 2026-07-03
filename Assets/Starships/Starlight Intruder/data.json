@@ -1,0 +1,38 @@
+{
+  "name": "Starlight Intruder",
+  "wookieepedia_title": "Starlight Intruder",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starlight_Intruder",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Starlight Intruder was a large ship built by Salla Zend and Shug Ninx, two smugglers in Ninx's Spacebarn on Nar Shaddaa. They began work on it in 4 ABY.",
+  "data": {
+    "name": "Starlight Intruder",
+    "manufacturer": "Mobquet Swoops and Speeders",
+    "model": "Modified MB-C1 medium transport",
+    "modifier": [
+      "Salla Zend",
+      "Shug Ninx"
+    ],
+    "length": "113 meters",
+    "max_speed": "950 km/h",
+    "engine": "Ion engines (4)",
+    "hyperdrive": "Class 0.75",
+    "hdsystem": [
+      "Koensayr CL-14 hyperdrive motivator",
+      "Double Rendili StarDrive hyperdrive"
+    ],
+    "shield_gen": "Novaplex DuR-4 shield generators (4)",
+    "navigation": "Equipped",
+    "armament": "Hidden medium turbolaser turrets (2)",
+    "crew": "8",
+    "skeleton": "2",
+    "capacity": "700 tons",
+    "consumables": "2 months",
+    "commission": "4 ABY",
+    "destroyed": "10 ABY",
+    "owners": "Salla Zend",
+    "captains": "Salla Zend"
+  },
+  "scraped": "2026-07-03"
+}

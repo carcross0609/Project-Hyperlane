@@ -1,0 +1,25 @@
+{
+  "name": "Raven's Claw",
+  "wookieepedia_title": "Raven's Claw",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raven%27s_Claw",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Raven's Claw was a fast light courier that replaced Kyle Katarn's old ship, the Moldy Crow.",
+  "data": {
+    "name": "Raven's Claw",
+    "type": "Light courier",
+    "length": "20 meters",
+    "armament": "laser cannons, 2 proton torpedo launchers",
+    "crew": [
+      "Pilot (1)",
+      "Co-Pilot (1)"
+    ],
+    "skeleton": "1 (pilot)",
+    "passengers": "2",
+    "role": "Shuttle",
+    "affiliation": "New Republic",
+    "captains": "Kyle Katarn"
+  },
+  "scraped": "2026-07-03"
+}

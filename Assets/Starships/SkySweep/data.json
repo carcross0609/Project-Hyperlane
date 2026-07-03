@@ -1,0 +1,24 @@
+{
+  "name": "SkySweep",
+  "wookieepedia_title": "SkySweep",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SkySweep",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The SkySweep was a StoneCrusher-class WarMaster warship that served the armada of the Grysk warlike species as part of the fleet commanded by the Grysk operative known as \"Jixtus.\" Around 18 BBY, the SkySweep fought against Chiss Ascendancy Senior Captain Thrawn's fleet over the Unknown Regions planet codenamed \"Sunrise\" at Thrawn's last stand. The StoneCrusher engaged the Clarr light cruiser Orisson and two Chiss light cruisers, which destroyed the Grysk vessel.",
+  "data": {
+    "name": "SkySweep",
+    "model": "StoneCrusher-class WarMaster",
+    "type": "WarMaster",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "Missiles",
+      "Spectrum lasers"
+    ],
+    "destroyed": "Around 18 BBY, Sunrise system",
+    "affiliation": "Grysks",
+    "fleet": "Jixtus's fleet"
+  },
+  "scraped": "2026-07-03"
+}

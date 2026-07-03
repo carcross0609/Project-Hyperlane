@@ -1,0 +1,25 @@
+{
+  "name": "Cavalry",
+  "wookieepedia_title": "Cavalry",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cavalry",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Cavalry was an Imperial-class star destroyer used by the Galactic Empire within an Imperial simulation. In the simulation, it served as a secondary flagship and command post for the TIE bomber squadron Alpha Squadron during an attack on a Rebel outpost, which would ultimately become a victory for the Imperial forces.",
+  "data": {
+    "name": "Cavalry",
+    "model": "Imperial-class star destroyer",
+    "mglt": "10 MGLT",
+    "shield_gen": "Equipped",
+    "hull": "150 RU",
+    "role": [
+      "Secondary Flagship",
+      "Command Post"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

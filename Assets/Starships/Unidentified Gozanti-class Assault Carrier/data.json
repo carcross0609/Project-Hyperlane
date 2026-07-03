@@ -1,0 +1,49 @@
+{
+  "name": "Unidentified Gozanti-class Assault Carrier",
+  "wookieepedia_title": "Unidentified Gozanti-class Assault Carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Gozanti-class_Assault_Carrier",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Gozanti-class Assault Carrier was used by Gideon's Imperial remnant several years after the Battle of Endor. In 9 ABY, Bo-Katan Kryze, Axe Woves, Koska Reeves, and Din Djarin raided the Gozanti-class Assault Carrier to steal weapons and attempt to learn the location of the Darksaber. Though the cruiser's captain attempted to crash the ship into Trask's ocean, Kryze and her allies were able to save the ship, which they planned to use to liberate their homeworld of Mandalore.",
+  "data": {
+    "name": "Unidentified Gozanti-class Assault Carrier",
+    "model": [
+      "Imperial Gozanti-class cruiser",
+      "  Gozanti-class Assault Carrier"
+    ],
+    "type": "Gozanti-class Assault Carrier",
+    "length": "210 feet",
+    "engine": "Engines (3)",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Forward dorsal twin laser cannon turret (1)",
+      "Rear dorsal twin laser cannon turret (1)",
+      "Forward ventral twin laser cannon turret (1)"
+    ],
+    "bays": "Cargo bay",
+    "crew": [
+      "Gideon's Imperial remnant:",
+      "  3 Imperial officers",
+      "  At least 46 stormtroopers",
+      "Mandalorian resistance:",
+      "  Mandalorian warriors"
+    ],
+    "capacity": "Weapons crates",
+    "cargohandling": "Cargo control area",
+    "communications": [
+      "Equipped",
+      "  Holoprojector"
+    ],
+    "affiliation": [
+      "Gideon's Imperial remnant",
+      "Mandalorian resistance (captured)"
+    ],
+    "fleet": [
+      "Gideon's fleet",
+      "Mandalorian fleet"
+    ],
+    "captains": "Captain Tribus"
+  },
+  "scraped": "2026-07-03"
+}

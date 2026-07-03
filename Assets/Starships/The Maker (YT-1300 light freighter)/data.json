@@ -1,0 +1,38 @@
+{
+  "name": "The Maker",
+  "wookieepedia_title": "The Maker (YT-1300 light freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Maker_%28YT-1300_light_freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Maker was a YT-1300 light freighter that was stolen from Sythluss Leethe by T'Charek Haathi and her crew on Zelos II. It was used by Haathi on missions for the Rebel Alliance.",
+  "data": {
+    "name": "The Maker",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300",
+    "type": "Freighter",
+    "length": "26.7 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "x2(primary)",
+      "x12(backup)"
+    ],
+    "armament": [
+      "Quad laser cannon (1)",
+      "Concussion missile tube (2)"
+    ],
+    "crew": "1-2",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "othersystems": [
+      "Transponder mask",
+      "Ramp Entry Security System"
+    ],
+    "owners": "Sythluss Leethe",
+    "captains": "T'Charek Haathi",
+    "aliases": "One Shot"
+  },
+  "scraped": "2026-07-03"
+}

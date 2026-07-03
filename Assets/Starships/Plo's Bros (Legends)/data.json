@@ -1,0 +1,48 @@
+{
+  "name": "Plo's Bros",
+  "wookieepedia_title": "Plo's Bros/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Plo%27s_Bros/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Plo's Bros was the designation given to the Republic LAAT/i gunships used by the 104th Battalion during the Clone Wars.",
+  "data": {
+    "name": "Plo's Bros",
+    "manufacturer": "Rothana Heavy Engineering",
+    "line": "LAAT series",
+    "model": "Low Altitude Assault Transport/infantry repulsorlift gunship",
+    "type": "Gunship",
+    "length": "17.4 meters",
+    "width": "17 meters (wingspan)",
+    "height": "6.1 meters",
+    "mglt": "50",
+    "max_speed": "620 km/h",
+    "armament": [
+      "Anti-personnel laser turrets (1 behind the doors and 2 at the front)",
+      "Composite-beam laser turrets (2)",
+      "Mass-driver missile launchers (2)(30 missiles each)",
+      "Light air-to-air rockets (4 under each wing)"
+    ],
+    "complement": [
+      "Speeder bikes (4)",
+      "IM-6 battlefield medical droid (1)"
+    ],
+    "escapepods": "1 (cockpit capsule)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)"
+    ],
+    "passengers": [
+      "30"
+    ],
+    "capacity": "17 m³",
+    "consumables": "Fuel for 8 hours",
+    "role": "Troop transport",
+    "affiliation": [
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "    104th Battalion"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Paramount",
+  "wookieepedia_title": "Paramount",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Paramount",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Paramount was a Keizar-Volvec manufactured bulk cruiser that was part of the Sith fleet in 3643 BBY. The ship was described as a \"behemoth\" with a hollow nose which housed its primary hangar bay. The Paramount was equipped with a complement of B28 Extinction-class bombers, ISF Starfighters, VT-22 transports, shuttles, and carried one Mk. VII advanced interceptor.",
+  "data": {
+    "name": "Paramount",
+    "manufacturer": "Keizar-Volvec",
+    "model": "Keizar-Volvec bulk cruiser",
+    "type": "Bulk cruiser",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Missiles"
+    ],
+    "complement": [
+      "B28 Extinction-class bombers",
+      "Mark VI Supremacy-class starfighters",
+      "1 Mk.VII advanced interceptor",
+      "VT-22 light troop transports",
+      "At least one Shuttle/Legends"
+    ],
+    "bays": "1 Fore Hangar Bay",
+    "othersystems": [
+      "Quarantine Bay"
+    ],
+    "role": "Command ship",
+    "captains": "Darth Chratis"
+  },
+  "scraped": "2026-07-03"
+}

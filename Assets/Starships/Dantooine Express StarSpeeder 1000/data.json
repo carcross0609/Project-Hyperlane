@@ -1,0 +1,29 @@
+{
+  "name": "Dantooine Express StarSpeeder 1000",
+  "wookieepedia_title": "Dantooine Express StarSpeeder 1000",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dantooine_Express_StarSpeeder_1000",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Dantooine Express StarSpeeder 1000 was a modified StarSpeeder 1000 spacecraft used by interstellar travel agency Star Tours to operate flights bound for the Outer Rim planet Dantooine prior to 0 BBY. This starship was painted red and white, with a large Aurebesh letter Dorn and smaller aurebesh letters Aurek, Besh, and Grek. It was named after both the planet as well as Dantooine Express, a separate spaceliner company from Star Tours that specialized in more ecological-based tours and was a fellow member of the Galactic Tourist Bureau.",
+  "data": {
+    "name": "Dantooine Express StarSpeeder 1000",
+    "line": "StarSpeeder 1000",
+    "modifier": "Star Tours",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Flash cannons (2)",
+      "Laser cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)",
+      "Systems analyst (1)"
+    ],
+    "passengers": "40",
+    "role": "Passenger transport",
+    "affiliation": "Star Tours"
+  },
+  "scraped": "2026-07-03"
+}

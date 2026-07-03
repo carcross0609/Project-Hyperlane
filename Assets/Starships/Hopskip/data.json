@@ -1,0 +1,23 @@
+{
+  "name": "Hopskip",
+  "wookieepedia_title": "Hopskip",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hopskip",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hopskip was a modified YT-1300 light freighter operated by smugglers Haber Trell and Maranne Darmic, who mainly smuggled weapons for the Rebel Alliance on Derra IV. It was destroyed by the 181st Imperial Fighter Group above Derra IV.",
+  "data": {
+    "name": "Hopskip",
+    "line": "YT-series",
+    "model": "Modified YT-1300 light freighter",
+    "type": "Light freighter",
+    "crew": "2",
+    "destroyed": "3 ABY",
+    "affiliation": "Alliance to Restore the Republic",
+    "owners": [
+      "Haber Trell",
+      "Maranne Darmic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

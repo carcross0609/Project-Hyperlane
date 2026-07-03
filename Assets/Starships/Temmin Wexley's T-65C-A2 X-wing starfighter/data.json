@@ -1,0 +1,39 @@
+{
+  "name": "Temmin Wexley's T-65C-A2 X-wing starfighter",
+  "wookieepedia_title": "Temmin Wexley's T-65C-A2 X-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Temmin_Wexley%27s_T-65C-A2_X-wing_starfighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Temmin Wexley piloted a T-65C-A2 X-wing starfighter during the battle of Jakku, the last battle in the Galactic Civil War where Wexley flew as a member of Phantom Squadron.",
+  "data": {
+    "name": "Temmin Wexley's T-65C-A2 X-wing starfighter",
+    "manufacturer": "Incom Corporation",
+    "line": "X-wing starfighter",
+    "model": "T-65C-A2 X-wing starfighter",
+    "type": "Space superiority starfighter",
+    "length": "13.4 meters",
+    "width": "11.76 meters",
+    "max_speed": "1,050 kph",
+    "engine": "Incom 4L4 fusial thrust engines (4)",
+    "armament": [
+      "Taim & Bak KX9 laser cannons (4)",
+      "Krupx MG7 proton torpedo launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "lifesupport": "Equipped",
+    "othersystems": "S-foils",
+    "destroyed": "5 ABY, Jakku",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Starfighter Corps"
+    ],
+    "navy": "New Republic Defense Fleet",
+    "fleet": "Phantom Squadron",
+    "owners": "Temmin Wexley"
+  },
+  "scraped": "2026-07-03"
+}

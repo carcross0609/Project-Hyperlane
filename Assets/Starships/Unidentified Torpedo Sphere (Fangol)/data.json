@@ -1,0 +1,37 @@
+{
+  "name": "Unidentified Torpedo Sphere",
+  "wookieepedia_title": "Unidentified Torpedo Sphere (Fangol)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Torpedo_Sphere_%28Fangol%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During the Galactic Civil War, a Torpedo Sphere was deployed to the planet Fangol after a distress signal was received from the Field Secured Container Vessel Black Ice after it had been captured by the Alliance to Restore the Republic. As the Torpedo Sphere moved into position to destroy the Alliance base on the surface of the planet, it was rammed by the Alliance controlled Black Ice, resulting in the Torpedo Sphere's destruction.",
+  "data": {
+    "name": "Unidentified Torpedo Sphere",
+    "manufacturer": "Loronar Defense Industries",
+    "type": "Dedicated siege platform",
+    "length": "1,900 meters",
+    "max_speed": "930 kmh",
+    "engine": "Equipped",
+    "hyperdrive": [
+      "Class 3",
+      "Class 18 (back-up)"
+    ],
+    "shield_gen": "Loronar Corporation DS-13 projectors",
+    "sensor": "Dedicated energy receptors",
+    "navigation": "Sienar Fleet Systems navigation computer",
+    "armament": [
+      "10 turbolaser batteries",
+      "500 proton torpedo tubes"
+    ],
+    "crew": "61,245; 2,030 gunners",
+    "skeleton": "20,415",
+    "passengers": "8,540 (troops)",
+    "capacity": "3.8 million metric tons",
+    "consumables": "4 years",
+    "role": "Planetary bombardment",
+    "destroyed": "Fangol",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

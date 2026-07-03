@@ -1,0 +1,24 @@
+{
+  "name": "Nemesis",
+  "wookieepedia_title": "Nemesis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nemesis",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Nemesis was an Imperial I-class Star Destroyer.",
+  "data": {
+    "name": "Nemesis",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "complement": "TIE/LN starfighters",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": [
+      "Thrawn's fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

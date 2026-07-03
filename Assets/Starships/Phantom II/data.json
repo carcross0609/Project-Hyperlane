@@ -1,0 +1,45 @@
+{
+  "name": "Phantom II",
+  "wookieepedia_title": "Phantom II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phantom_II",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Phantom II was a modified Sheathipede-class transport shuttle belonging to the Spectres. It replaced the team's original VCX-series auxiliary starfighter Phantom, which was lost during the mission to Reklam Station. The Spectres acquired the Phantom II during a mission to the planet Agamar, where they encountered a Separatist holdout. Ambushed by the forces of the droid General Kalani, the rebel away team was forced to engage in a live wargame with the droid army until both were attacked by an Imperial strike force. The Spectres kept the shuttle, modifying it for their own needs and repainting it. The shuttle was key to the success of several missions, including to Concord Dawn and Krownest.",
+  "data": {
+    "name": "Phantom II",
+    "manufacturer": "Haor Chall Engineering Corporation",
+    "model": "Sheathipede-class transport shuttle (modified)",
+    "type": "Transport shuttle",
+    "cost": "114,000 credits",
+    "modifier": "Sabine Wren (repaint)",
+    "length": "10.52 meters",
+    "max_speed": "1,250 kph",
+    "hyperdrive": [
+      "Primary Class 2",
+      "Backup Class 10"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "2 forward-mounted cannons",
+      "2 rear ventral turrets"
+    ],
+    "passengers": "8",
+    "consumables": "One week",
+    "commission": "By 19 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Agamar garrison",
+      "Alliance to Restore the Republic",
+      "  Phoenix Cell",
+      "  Spectres",
+      "New Republic"
+    ],
+    "navy": [
+      "Confederacy of Independent Systems Navy",
+      "Rebel Alliance Navy",
+      "New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Arrowhead",
+  "wookieepedia_title": "Arrowhead (Freemakers)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arrowhead_%28Freemakers%29",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Arrowhead was a starship built by Rowan Freemaker, who believed that it could turn the tide of the Galactic Civil War. Prior to the Battle of Endor, Rowan, his siblings Zander and Kordi, and their B1-series battle droid Roger undertook a quest to obtain the various parts needed to build the Arrowhead. After being built on Jakku, the Arrowhead was destroyed during a skirmish over Shantipole but some of its parts were incorporated into the Freemakers' starship StarScavenger just in time for the Battle of Endor.",
+  "data": {
+    "name": "Arrowhead",
+    "manufacturer": "Rowan Freemaker",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "Embersteel blade",
+      "Blaster cannons"
+    ],
+    "commission": "4 ABY, Jakku",
+    "destroyed": "4 ABY, Shantipole, parts later used to rebuild StarScavenger",
+    "affiliation": [
+      "Freemakers",
+      "Alliance to Restore the Republic",
+      "  Alliance Military",
+      "Galactic Empire (briefly)"
+    ],
+    "navy": [
+      "Rebel Alliance Navy",
+      "Imperial Navy (briefly; stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

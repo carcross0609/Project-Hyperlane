@@ -1,0 +1,28 @@
+{
+  "name": "Battler",
+  "wookieepedia_title": "Battler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Battler",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Battler was a Tartan-class patrol cruiser in the Imperial Navy during the Galactic Civil War.",
+  "data": {
+    "name": "Battler",
+    "manufacturer": "Damorian Manufacturing Corporation",
+    "type": "Tartan-class patrol cruiser",
+    "length": "250 meters",
+    "hyperdrive": "Class 2.0",
+    "crew": "70",
+    "passengers": "50 (troops)",
+    "capacity": "1,000 tons",
+    "consumables": "1 year",
+    "role": [
+      "Anti-starfighter corvette",
+      "Patrol"
+    ],
+    "affiliation": [
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

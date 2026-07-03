@@ -1,0 +1,26 @@
+{
+  "name": "Venithon Bandit",
+  "wookieepedia_title": "Venithon Bandit",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Venithon_Bandit",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Venithon Bandit was the Ghtroc Industries 580 freighter used by the pirate organization Venithon Twins.",
+  "data": {
+    "name": "Venithon Bandit",
+    "manufacturer": "Ghtroc Industries",
+    "type": "580 freighter",
+    "length": "37 meters",
+    "hyperdrive": "x1",
+    "armament": "Quad laser cannon (2)",
+    "crew": [
+      "1 pilot (2 can coordinate)",
+      "2 gunners"
+    ],
+    "passengers": "12",
+    "capacity": "135 tons",
+    "consumables": "6 months",
+    "owners": "Venithon Twins"
+  },
+  "scraped": "2026-07-03"
+}

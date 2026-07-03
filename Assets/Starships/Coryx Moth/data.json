@@ -1,0 +1,45 @@
+{
+  "name": "Coryx Moth",
+  "wookieepedia_title": "Coryx Moth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Coryx_Moth",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Coryx Moth was a Republic Venator-class star destroyer which fought during the Clone Wars.",
+  "data": {
+    "name": "Coryx Moth",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyer",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "max_accel": "3,000 G",
+    "max_speed": "975 km/h",
+    "engine": [
+      "Primary drive engines (4 aft-mounted; 2 port, 2 starboard)",
+      "Secondary drive engines (2 aft-mounted; 1 port, 1 starboard)",
+      "Tertiary drive engines (2 aft-mounted; 1 port, 1 starboard)"
+    ],
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 15"
+    ],
+    "hdrange": "60,000 light-years (effective)",
+    "power": "Hypermatter annihilator reactor",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "crew": "7400",
+    "communications": "HoloNet transceiver",
+    "role": [
+      "Carrier",
+      "Destroyer"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

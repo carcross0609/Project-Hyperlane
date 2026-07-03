@@ -1,0 +1,37 @@
+{
+  "name": "Unidentified Carrack-class light cruiser",
+  "wookieepedia_title": "Unidentified Carrack-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Carrack-class_light_cruiser",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "In 8 ABY, Moff Kentor Sarne deployed a Carrack-class light cruiser to Tanquilla Beach. The captain's mission was to strike at the corvette FarStar and then retreat into hyperspace. Unfortunately, Sarne was unaware of the extent of Tanquilla Beach armaments, and the Carrack was destroyed when faced with the Beach defenses and the FarStar.",
+  "data": {
+    "name": "Unidentified Carrack-class light cruiser",
+    "manufacturer": "Damorian Manufacturing Corporation",
+    "model": "Light cruiser",
+    "type": "Carrack-class light cruiser",
+    "length": "350 meters",
+    "max_speed": "1,050 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "  Class 2 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "10 heavy turbolasers",
+      "20 laser cannons",
+      "5 tractor beam projectors"
+    ],
+    "crew": "1,007; 85 gunners",
+    "skeleton": "500",
+    "passengers": "142 (troops)",
+    "capacity": "3,500 metric tons",
+    "consumables": "1 year",
+    "destroyed": "8 ABY",
+    "affiliation": "Moff Sarne's forces"
+  },
+  "scraped": "2026-07-03"
+}

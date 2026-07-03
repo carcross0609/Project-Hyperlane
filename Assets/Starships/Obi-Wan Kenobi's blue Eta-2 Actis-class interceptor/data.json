@@ -1,0 +1,41 @@
+{
+  "name": "Obi-Wan Kenobi's blue Eta-2 Actis-class interceptor",
+  "wookieepedia_title": "Obi-Wan Kenobi's blue Eta-2 Actis-class interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi%27s_blue_Eta-2_Actis-class_interceptor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Following the loss of his previous Eta-2 during the Battle of Coruscant, Jedi Master Obi-Wan Kenobi piloted a blue Eta-2 Actis-class light interceptor prior to the Battle of Utapau.",
+  "data": {
+    "name": "Obi-Wan Kenobi's blue Eta-2 Actis-class interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series",
+    "model": "Eta-2 Actis-class light interceptor",
+    "type": "Starfighter",
+    "length": "5.47 meters",
+    "width": "4.3 meters",
+    "height": "2.5 meters (with wings deployed)",
+    "max_accel": "5,200G",
+    "mglt": "118 MGLT",
+    "max_speed": "1,500 kph",
+    "engine": "Twin ion engines (2)",
+    "hyperdrive": "Class 1 (hyperspace transport ring required)",
+    "armament": [
+      "Laser cannons (2)",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "othersystems": "S-foils",
+    "role": "Interceptor",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "captains": "Obi-Wan Kenobi"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Vagrant",
+  "wookieepedia_title": "Vagrant (freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vagrant_%28freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vagrant was a Corellian Engineering Corporation YV-666 light freighter owned by the Aqualish crime lord and smuggler Bandin Dobah. It served as Dobah's hideout but was badly maintained and its hyperdrive did not work anymore.",
+  "data": {
+    "name": "Vagrant",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YV-666 light freighter",
+    "type": "Light freighter",
+    "cost": "Not for sale",
+    "hyperdrive": [
+      "Equipped (nonfunctional)",
+      "Backup: Equipped"
+    ],
+    "armament": "Double laser cannon (1)",
+    "escapepods": "Equipped",
+    "crew": [
+      "Pilot (1)",
+      "Copilot (1)"
+    ],
+    "passengers": "5",
+    "role": "Transport",
+    "affiliation": "Bandin Dobah",
+    "owners": "Bandin Dobah",
+    "captains": "Bandin Dobah"
+  },
+  "scraped": "2026-07-03"
+}

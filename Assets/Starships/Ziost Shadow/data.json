@@ -1,0 +1,28 @@
+{
+  "name": "Ziost Shadow",
+  "wookieepedia_title": "Ziost Shadow",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ziost_Shadow",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ziost Shadow was a Harrower-class dreadnought that served the reconstituted Sith Empire during the Cold War and was named after the planet Ziost.",
+  "data": {
+    "name": "Ziost Shadow",
+    "model": "Harrower-class dreadnought",
+    "type": "Dreadnaught",
+    "armament": "Turbolasers",
+    "complement": [
+      "Mark VI Supremacy-class starfighters",
+      "Shuttles"
+    ],
+    "role": [
+      "Armed transport",
+      "Logistical support"
+    ],
+    "affiliation": [
+      "Sith Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

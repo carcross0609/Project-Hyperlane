@@ -1,0 +1,31 @@
+{
+  "name": "Ataraxia",
+  "wookieepedia_title": "Ataraxia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ataraxia",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ataraxia, known for some time as the Lourna Dee, was a starcruiser in the service of the Jedi Order. First commissioned by 232 BBY, the Ataraxia served under the command of Jedi Master Jora Malli at the Battle of Kur. During the destruction of Starlight Beacon, the ship was taken by Nihil Tempest Runner Lourna Dee after she wounded OrbaLin, and she renamed it the Lourna Dee. The Ataraxia was eventually reclaimed by Jedi Master Keeve Trennis.",
+  "data": {
+    "name": "Ataraxia",
+    "type": "Starcruiser",
+    "hdsystem": "Equipped",
+    "complement": [
+      "Jedi Vectors",
+      "T-1 shuttle"
+    ],
+    "commission": "By 232 BBY",
+    "affiliation": [
+      "Jedi Order",
+      "Nihil",
+      "Hutt Clan",
+      "Keeve's crew"
+    ],
+    "captains": [
+      "Jora Malli",
+      "Avar Kriss",
+      "Lourna Dee"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

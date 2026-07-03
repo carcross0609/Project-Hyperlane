@@ -1,0 +1,34 @@
+{
+  "name": "Azure Angel II",
+  "wookieepedia_title": "Azure Angel II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Azure_Angel_II",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Azure Angel II was a modified Jedi Delta-7 Aethersprite-class light interceptor piloted by Anakin Skywalker during the Clone Wars.",
+  "data": {
+    "name": "Azure Angel II",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series",
+    "model": "Modified Delta-7 Aethersprite-class light interceptor",
+    "type": "Starfighter",
+    "modifier": "Anakin Skywalker",
+    "hdrange": "Limited range",
+    "armament": [
+      "Laser cannons (4)",
+      "Proton torpedo launcher (1)"
+    ],
+    "crew": "Pilot (1)",
+    "role": [
+      "Interceptor",
+      "Scout",
+      "Elite personnel transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ],
+    "owners": "Anakin Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

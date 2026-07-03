@@ -1,0 +1,46 @@
+{
+  "name": "Flurry",
+  "wookieepedia_title": "Flurry",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Flurry",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Flurry was a Quasar Fire-class bulk cruiser that was converted into a starfighter carrier.",
+  "data": {
+    "name": "Flurry",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Quasar Fire-class cruiser-carrier",
+    "modifier": "Virgillian Free Alignment",
+    "sysmods": [
+      "Battle Analysis Computer",
+      "Military-grade heavy turbolasers",
+      "Military-grade shield generators"
+    ],
+    "length": "350 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Military-grade deflector shields",
+    "armament": [
+      "Heavy turbolasers (2)",
+      "Tractor beam projectors (2)"
+    ],
+    "complement": "Nearly 50 starfighters",
+    "crew": "96, gunners: 14",
+    "skeleton": "14",
+    "passengers": "140 (starfighter technicians), 85 (troops)",
+    "capacity": "48 starfighters or 4,00 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Bulk cruiser",
+      "Carrier",
+      "Support"
+    ],
+    "destroyed": "4 ABY",
+    "affiliation": [
+      "Virgillian Free Alignment",
+      "Alliance to Restore the Republic"
+    ],
+    "fleet": "Bakura task force",
+    "captains": "Tessa Manchisco"
+  },
+  "scraped": "2026-07-03"
+}

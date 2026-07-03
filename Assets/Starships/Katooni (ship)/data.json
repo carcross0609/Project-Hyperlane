@@ -1,0 +1,29 @@
+{
+  "name": "Katooni",
+  "wookieepedia_title": "Katooni (ship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Katooni_%28ship%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Katooni was a modified ZH-40 Tribune-class light freighter owned by the pirate Hondo Ohnaka.",
+  "data": {
+    "name": "Katooni",
+    "manufacturer": "Starfeld Industries",
+    "model": "Modified ZH-40 Tribune-class light freighter",
+    "type": "Light freighter",
+    "engine": "Quad Novaldex JV-74 engines",
+    "armament": [
+      "Heavy laser cannon (1)",
+      "Paired laser cannons (2)",
+      "Laser cannons (4)",
+      "Quad turret (1)"
+    ],
+    "crew": "4",
+    "skeleton": "1 pilot",
+    "capacity": "85 metric tons (main hull)",
+    "cargohandling": "Cargo grippers",
+    "affiliation": "Ohnaka Transport Solutions",
+    "owners": "Hondo Ohnaka"
+  },
+  "scraped": "2026-07-03"
+}

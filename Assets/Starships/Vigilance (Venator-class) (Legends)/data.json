@@ -1,0 +1,39 @@
+{
+  "name": "Vigilance",
+  "wookieepedia_title": "Vigilance (Venator-class)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vigilance_%28Venator-class%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vigilance was a Venator-class Star Destroyer that was part of the Republic's Open Circle Fleet. It served as a flagship of High Jedi General Obi-Wan Kenobi during the final year of the Clone Wars.",
+  "data": {
+    "name": "Vigilance",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "DBY-827 heavy turbolaser turrets (8)",
+    "complement": "Various ships and vehicles",
+    "crew": [
+      "Clone troopers",
+      "Various droids"
+    ],
+    "passengers": [
+      "Clone troopers",
+      "  212th Attack Battalion"
+    ],
+    "role": [
+      "Destroyer",
+      "Carrier",
+      "Command ship"
+    ],
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet",
+    "captains": [
+      "High Jedi General Obi-Wan Kenobi",
+      "Clone marshal commander CC-2224"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

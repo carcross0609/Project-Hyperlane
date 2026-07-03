@@ -1,0 +1,35 @@
+{
+  "name": "Aayla Secura's Eta-2 Actis-class interceptor",
+  "wookieepedia_title": "Aayla Secura's Eta-2 Actis-class interceptor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aayla_Secura%27s_Eta-2_Actis-class_interceptor/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Aayla Secura flew an Eta-2 Actis-class Jedi interceptor with blue markings for the Galactic Republic during the later years of the Clone Wars.",
+  "data": {
+    "name": "Aayla Secura's Eta-2 Actis-class interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Eta-series",
+    "model": "Eta-2 Actis-class interceptor",
+    "type": "Starfighter",
+    "modifier": "Aayla Secura",
+    "length": "5.47 meters",
+    "armament": [
+      "Laser cannons (2)",
+      "Proton torpedos",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 astromech droid"
+    ],
+    "role": "Interceptor",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ],
+    "owners": "Aayla Secura",
+    "captains": "Obi-Wan Kenobi"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Trailblazer",
+  "wookieepedia_title": "Trailblazer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trailblazer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Trailblazer was a refined EML-850 light freighter from the Republic Era. The ship was one of the last of its kind and was a prototype from the Clone Wars.",
+  "data": {
+    "name": "Trailblazer",
+    "manufacturer": "Barsha Corporation",
+    "model": "EML-850 light freighter",
+    "type": "Light freighter",
+    "mglt": "70 mglt",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "affiliation": "Kay Vess' crew",
+    "owners": [
+      "Jet Kordo",
+      "Sliro Barsha",
+      "Kay Vess"
+    ],
+    "captains": [
+      "Jet Kordo",
+      "Kay Vess"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

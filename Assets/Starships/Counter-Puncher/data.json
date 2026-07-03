@@ -1,0 +1,39 @@
+{
+  "name": "Counter-Puncher",
+  "wookieepedia_title": "Counter-Puncher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Counter-Puncher",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Counter-Puncher was a modified Imperial Customs Frigate commanded by Tor Skylow. Skylow persuaded the crew to rebel from the Empire, taking the ship with them. She was used as a pirate craft, raiding Imperial craft.",
+  "data": {
+    "name": "Counter-Puncher",
+    "model": "Modified Imperial Customs Frigate",
+    "modifier": "Tor Skylow",
+    "length": "35 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 7 (back-up)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "6 heavy laser cannons",
+    "crew": "12; 6 crew, 6 gunners",
+    "passengers": "10",
+    "capacity": "100 metric tons, 40 cubic meters",
+    "consumables": "2 months",
+    "role": [
+      "Imperial patrol vessel",
+      "Pirate vessel"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Tor Skylow"
+    ],
+    "owners": "Tor Skylow",
+    "captains": "Tor Skylow"
+  },
+  "scraped": "2026-07-03"
+}

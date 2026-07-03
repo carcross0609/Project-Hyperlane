@@ -1,0 +1,54 @@
+{
+  "name": "Otana",
+  "wookieepedia_title": "Otana/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Otana/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Otana was a Corellian Engineering Corporation YT-2000 light freighter used by the Azzameen family. Originally owned by Tomaas Azzameen, the ship was heavily modified to improve its speed and firepower. It eventually became Tomaas's personal transport and was often co-piloted by his eldest son, Galin. Around 3 ABY, Tomaas entered into negotiations with the Alliance to Restore the Republic to supply them with much needed bacta, resulting in the ship being present at the Alliance's Echo Base during the Battle of Hoth. The Otana escaped Hoth and Tomaas continued to assist the Alliance, until he and Galin were killed in an Imperial attack while delivering bacta to the Rebels. After Tomaas's death, the ship passed to his youngest son, Ace. Wanted by the Empire, Ace and his surviving siblings fled their home and sought sanctuary with the Rebels. Ace soon decided to join the Alliance Starfighter Corps, but kept the Otana as his personal transport. Co-piloted by Ace's droid, MK-09, Ace used the ship for several missions, working alongside his brother Emon and sister Aeron.",
+  "data": {
+    "name": "Otana",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "YT-2000 light freighter",
+    "cost": "150,000 credits",
+    "modifier": "Tomaas Azzameen",
+    "length": "29 meters",
+    "mglt": "96 MGLT",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Backup Class 12"
+    ],
+    "shield_gen": "Heavy-duty shield generators (rated 320 SBD)",
+    "hull": "Reinforced hull (rated 114 RU)",
+    "navigation": "Equipped",
+    "countermeasures": "Chaff (10 charges)",
+    "armament": [
+      "2 double laser cannon turrets",
+      "1 forward laser cannon",
+      "1 forward ion cannon",
+      "2 warhead launchers"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunners (2)"
+    ],
+    "skeleton": "Pilot (1)",
+    "passengers": "7",
+    "capacity": "115 tons",
+    "consumables": "3 months",
+    "role": "Transport",
+    "affiliation": "Azzameen family",
+    "owners": [
+      "Tomaas Azzameen",
+      "Ace Azzameen"
+    ],
+    "captains": [
+      "Tomaas Azzameen",
+      "Ace Azzameen",
+      "Aeron Azzameen"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

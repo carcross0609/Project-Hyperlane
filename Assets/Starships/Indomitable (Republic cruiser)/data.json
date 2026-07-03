@@ -1,0 +1,29 @@
+{
+  "name": "Indomitable",
+  "wookieepedia_title": "Indomitable (Republic cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Indomitable_%28Republic_cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Indomitable was a cruiser in the service of the Galactic Republic in the Clone Wars under the command of Admiral Wullf Yularen. The ship participated in the battle of Kothlis, where it was heavily damaged. After hasty repairs were completed, it was sent to Lanteeb, where its task force engaged General Grievous.",
+  "data": {
+    "name": "Indomitable",
+    "model": "Venator-class Star Destroyer",
+    "hyperdrive": "Equipped",
+    "communications": [
+      "HoloNet Transceiver",
+      "Multiphasic duo-diode relay"
+    ],
+    "othersystems": "Quasi-sentient droid link",
+    "role": [
+      "Cruiser",
+      "Carrier",
+      "Flagship"
+    ],
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "fleet": "Indomitable task force",
+    "captains": "Admiral Wullf Yularen"
+  },
+  "scraped": "2026-07-03"
+}

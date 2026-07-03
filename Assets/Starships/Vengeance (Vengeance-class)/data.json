@@ -1,0 +1,47 @@
+{
+  "name": "Vengeance",
+  "wookieepedia_title": "Vengeance (Vengeance-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vengeance_%28Vengeance-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vengeance was a slender, black Kuat Drive Yards Super Star Destroyer that served as the flagship of the Dark Jedi Jerec in the years before and after the Battle of Endor. It was commanded by Captain Sysco.",
+  "data": {
+    "name": "Vengeance",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Super Star Destroyers",
+    "model": "Vengeance-class dreadnought",
+    "type": "Dreadnought",
+    "length": "19,000 meters",
+    "height": ">150 meters",
+    "engine": [
+      "Main engines (3)",
+      "Secondary engines (2)",
+      "Tertiary engines (6)"
+    ],
+    "hyperdrive": "2.0",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turbolaser cannons (1,000)",
+      "Heavy turbolaser cannons (1,000)",
+      "Assault concussion missile tubes (250)",
+      "  20 missiles each",
+      "Heavy ion cannons (250)",
+      "Phylon Transport Q7 tractor beam projectors (40)",
+      "Point-defense cannons (500)"
+    ],
+    "complement": [
+      "TIE/LN starfighters",
+      "Assault shuttles"
+    ],
+    "role": "Command ship",
+    "affiliation": [
+      "Galactic Empire",
+      "Pentastar Alignment"
+    ],
+    "navy": "Vengeance Battle Group",
+    "owners": "Jerec",
+    "captains": "Sysco"
+  },
+  "scraped": "2026-07-03"
+}

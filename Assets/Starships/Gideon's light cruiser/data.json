@@ -1,0 +1,80 @@
+{
+  "name": "Gideon's light cruiser",
+  "wookieepedia_title": "Gideon's light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gideon%27s_light_cruiser",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Gideon's light cruiser was a Class 546 model of the Arquitens-class command cruiser under the command of Moff Gideon in the years after the Battle of Endor. During the rescue of his foundling, Grogu, from Gideon, the Mandalorian Din Djarin and his allies seized the ship and captured the moff. The light cruiser also contained a platoon of Phase-III Dark Troopers, though they were destroyed by Djarin and Jedi Master Luke Skywalker. Control of the cruiser was then handed over to Bo-Katan Kryze. When Kryze's forces left her after she did not take the Darksaber from Din Djarin, command of the vessel fell to Axe Woves, who used it for mercenary work and later as a flagship for the Mandalorian fleet. The vessel was eventually destroyed during the Liberation of Mandalore, when Woves steered the vessel onto a collision course with Gideon's Imperial base, killing the Moff and his remaining forces.",
+  "data": {
+    "name": "Gideon's light cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Class 546 Cruiser",
+    "type": "Arquitens-class command cruiser (modified)",
+    "length": "380.34 meters (1,248 ft)",
+    "width": "162.99 meters (534 ft 9 in)",
+    "height": "66.72 meters (218 ft 11 in)",
+    "mglt": "75 MGLT",
+    "engine": [
+      "Primary engines (3)",
+      "Secondary engines (4)"
+    ],
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "2 dorsal and ventral twin light turbolaser batteries",
+      "4 port and 4 starboard quad laser cannons",
+      "4 forward-mounted concussion missile launchers",
+      "1 forward-mounted medium tractor beam emitter"
+    ],
+    "complement": [
+      "At least 8 TIE/ln space superiority starfighters",
+      "At least 2 V-82 dropships"
+    ],
+    "bays": [
+      "Launch tube",
+      "  Launch tube hangar",
+      "2-3 smaller bays",
+      "  Dark Trooper bay"
+    ],
+    "crew": [
+      "Gideon's Imperial remnant:",
+      "  Imperial officers",
+      "    Part of Gideon's deck crew",
+      "  Security officers",
+      "  Scientists",
+      "    At least 1 Clone engineer",
+      "    IDMR scientists",
+      "  Imperial Starfighter Pilots",
+      "  40 Phase-III Dark Troopers",
+      "  Platoons of stormtroopers",
+      "    At least 5 Stormtrooper Commanders",
+      "    At least 2 artillery stormtroopers",
+      "  At least 1 RA-7 protocol droid",
+      "Mandalorian resistance:",
+      "  Mandalorian warriors"
+    ],
+    "skeleton": "Equipped",
+    "capacity": "Several cargo containers",
+    "cargohandling": "Cargo control station",
+    "communications": "Holotable",
+    "role": "Command ship",
+    "destroyed": "9 ABY, Mandalore",
+    "affiliation": [
+      "Imperial remnant",
+      "  Gideon's Imperial remnant",
+      "Mandalorian resistance (captured)"
+    ],
+    "navy": [
+      "Gideon's fleet",
+      "Mandalorian fleet"
+    ],
+    "owners": [
+      "Gideon",
+      "Bo-Katan Kryze",
+      "Axe Woves"
+    ],
+    "captains": "A Mandalorian fleet commander"
+  },
+  "scraped": "2026-07-03"
+}

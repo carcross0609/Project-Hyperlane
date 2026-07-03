@@ -1,0 +1,39 @@
+# Triumphant
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Triumphant/Legends](https://starwars.fandom.com/wiki/Triumphant/Legends)
+
+The Triumphant was a Venator-class Star Destroyer that served in the Republic Navy as Jedi General Plo Koon's flagship during the Clone Wars. In 22 BBY, the Triumphant was part of a Republic strike force of three Star Destroyers tasked with hunting down the Confederacy's new battleship, the Malevolence, which had committed several attacks on Republic fleets across the galaxy. After tracking the Malevolence to the Abregado system, the Triumphant and the rest of Koon's fleet were assaulted by the Separatist warship, which used one of its ion pulse cannons to disable the entire fleet's deflector shields. Completely defenseless, Koon's flotilla was destroyed by the Malevolence turbolasers, although Koon and some of the Triumphant clone trooper crew were able to escape in the Star Destroyer's escape pods before the cruiser was completely obliterated.
+
+## Specifications
+
+- **Name:** Triumphant
+- **Manufacturer:** Kuat Drive Yards
+- **Model:** Venator-class Star Destroyer
+- **Type:** Star Destroyer
+- **Length:** 1,137 meters
+- **Engine:** 8
+- **Shield Gen:** Equipped
+- **Armament:**
+  - DBY-827 heavy dual turbolaser turrets (8)
+  - Medium dual turbolaser cannons (2)
+  - Laser cannons (52)
+  - Tractor beam projectors (6)
+  - Proton torpedo tubes (4)
+- **Escapepods:** Equipped
+- **Communications:** At least one hologram communications system equipped
+- **Role:**
+  - Destroyer
+  - Carrier
+- **Destroyed:** 22 BBY, Abregado system
+- **Affiliation:**
+  - Galactic Republic
+  -   Republic Navy
+- **Captains:**
+  - Jedi General Plo Koon
+  - Clone Commander CC-3636
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

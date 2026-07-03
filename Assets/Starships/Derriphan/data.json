@@ -1,0 +1,48 @@
+{
+  "name": "Derriphan",
+  "wookieepedia_title": "Derriphan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Derriphan",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Derriphan was a Xyston-class Star Destroyer of the Final Order that was the first of the new ships to launch from Exegol. It destroyed the planet Kijimi. The name came from the Sith word for \"devourer.\"",
+  "data": {
+    "name": "Derriphan",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "model": "Xyston-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "2,406 meters",
+    "mglt": "60 MGLT",
+    "engine": [
+      "Ion engines (7)",
+      "  Destroyer-I ion engines (3)",
+      "  Gemon-4 ion engines (4)"
+    ],
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "sensor": "Equipped",
+    "armament": [
+      "Axial superlaser (1)",
+      "Ion cannons (40)",
+      "Point-defense laser cannons (40)"
+    ],
+    "complement": "TIE/dg starfighters",
+    "crew": [
+      "Sith Eternal officers",
+      "Fleet technicians",
+      "Sith troopers"
+    ],
+    "communications": "Holoprojector",
+    "role": "Orbital bombardment",
+    "destroyed": "35 ABY, Exegol",
+    "affiliation": [
+      "Sith Eternal",
+      "  Sith Eternal military"
+    ],
+    "fleet": "Final Order",
+    "captains": "Chesille Sabrond"
+  },
+  "scraped": "2026-07-03"
+}

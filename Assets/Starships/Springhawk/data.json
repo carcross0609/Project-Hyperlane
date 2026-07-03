@@ -1,0 +1,40 @@
+{
+  "name": "Springhawk",
+  "wookieepedia_title": "Springhawk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Springhawk",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Springhawk was a heavy cruiser of the Chiss Ascendancy navy that was commanded by Senior Captain Mitth'raw'nuruodo. After the Vagaari pirate operations, command of the ship was temporarily taken away from Thrawn, though he regained control soon after. Command of the Springhawk was relinquished by Thrawn after being exiled by a Chiss military tribunal.",
+  "data": {
+    "name": "Springhawk",
+    "model": "Chiss heavy cruiser",
+    "type": "Heavy cruiser",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Breacher missile tubes",
+      "Crippler nets",
+      "Plasma spheres",
+      "Spectrum lasers"
+    ],
+    "complement": [
+      "At least two shuttles",
+      "Saltbarrel (temporarily)",
+      "20 Watith gunboats (temporarily)"
+    ],
+    "escapepods": "Escape pods",
+    "passengers": "The Magys",
+    "affiliation": "Chiss Ascendancy",
+    "navy": "Chiss Expansionary Defense Fleet",
+    "fleet": [
+      "Mitth'raw'nuruodo's picket group",
+      "Picket Force Six"
+    ],
+    "captains": [
+      "Mitth'raw'nuruodo",
+      "Ufsa'mak'ro"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Silver Howl",
+  "wookieepedia_title": "Silver Howl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Silver_Howl",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Silver Howl was a modified YT-2400 light freighter piloted by the smuggler Astrid Fenris.",
+  "data": {
+    "name": "Silver Howl",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2400 light freighter",
+    "type": "Light freighter",
+    "length": "21 meters",
+    "max_speed": "800 kph",
+    "hyperdrive": "Class 2",
+    "armament": [
+      "2 double laser turrets",
+      "concussion missile launchers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

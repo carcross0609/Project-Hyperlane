@@ -1,0 +1,33 @@
+{
+  "name": "Talon",
+  "wookieepedia_title": "Talon (Immobilizer 418 cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Talon_%28Immobilizer_418_cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Talon was a Sienar Fleet Systems Immobilizer 418 cruiser. During the Galactic Civil War it patrolled the Demophon system prior to the destruction of that system in a supernova.",
+  "data": {
+    "name": "Talon",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Immobilizer 418 cruiser",
+    "type": "Cruiser",
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 8"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "20 quad laser cannons",
+    "crew": "2,783; 24 gunners",
+    "skeleton": "540",
+    "passengers": "30 (troops)",
+    "capacity": "5,500 metric tons",
+    "consumables": "1.2 years",
+    "othersystems": "4 gravity well projector",
+    "role": "Interdiction",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

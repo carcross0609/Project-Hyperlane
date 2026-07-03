@@ -1,0 +1,26 @@
+{
+  "name": "Unidentified Taylander shuttle",
+  "wookieepedia_title": "Unidentified Taylander shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Taylander_shuttle",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Taylander shuttle was operated by a human pilot as part of the Rebel Alliance Navy for the Alliance to Restore the Republic during the Galactic Civil War. Around 3 ABY, the shuttle was boarded by the droid C-3PO, who was in the control of Scourge, who killed the human pilot and utilized the Taylander shuttle to traverse to the planet Mustafar.",
+  "data": {
+    "name": "Unidentified Taylander shuttle",
+    "model": "Taylander shuttle",
+    "type": "Shuttle",
+    "hdsystem": "Equipped",
+    "role": [
+      "Civilian shuttle",
+      "Transport ship"
+    ],
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Rebel Alliance Navy",
+    "owners": [
+      "A human pilot",
+      "Scourge (in C-3PO body)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

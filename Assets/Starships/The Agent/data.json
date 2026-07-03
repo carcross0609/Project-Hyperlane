@@ -1,0 +1,34 @@
+{
+  "name": "The Agent",
+  "wookieepedia_title": "The Agent",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Agent",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Agent was one of the last Anxarta-class Freighters produced by Sienar Fleet Systems, in approximately 10 BBY.",
+  "data": {
+    "name": "The Agent",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Anxarta-class Freighter",
+    "type": "Light freighter",
+    "length": "28 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "x1(primary)",
+      "x15(backup)"
+    ],
+    "armament": [
+      "(1) turbolaser cannon",
+      "(2) twin laser cannons"
+    ],
+    "crew": [
+      "1(pilot)",
+      "2(gunners)"
+    ],
+    "passengers": "8",
+    "capacity": "65 metric tons",
+    "consumables": "2 months",
+    "owners": "Aven Cholus"
+  },
+  "scraped": "2026-07-03"
+}

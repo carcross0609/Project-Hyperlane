@@ -1,0 +1,22 @@
+{
+  "name": "Grysk observation post",
+  "wookieepedia_title": "Grysk observation post",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grysk_observation_post",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "SpaceStation",
+  "description": "The Grysk observation post was a mobile space station used by the Grysk Hegemony. Sampling nozzles, sensor clusters, drive flares and the telltale vents and power cables of a hyperdrive could be seen along its hull.",
+  "data": {
+    "is_mobile": "1",
+    "name": "Grysk observation post",
+    "type": "Space station",
+    "hyperdrive": "Equipped",
+    "system": "Unidentified star system",
+    "affiliation": "Grysk Hegemony",
+    "interest": [
+      "Grysk observation post command center",
+      "Grysk observation post medcenter"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

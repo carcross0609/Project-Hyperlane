@@ -1,0 +1,25 @@
+{
+  "name": "Intrepid",
+  "wookieepedia_title": "Intrepid (Endurance-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Intrepid_%28Endurance-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Intrepid was an Endurance-class fleet carrier of the New Republic Defense Fleet's Fifth Battle Group. Constructed at Hakassi in 16 ABY, Endurance was the first flagship of the newly constructed Fifth Fleet, and it was the command vessel of General Etahn A'baht, the fleet commander. Captain Morano was the actual captain of the starship, serving to direct general operations aboard the carrier, and the Fifth Fleet's intelligence, tactical, and starfighter operations officers Colonels Mauit'ta, Corgan, and Gavin, respectively) had their offices aboard the Intrepid. The Intrepid also served as the command vessel for Task Force Copperleaf, the flag task force of the Fifth Fleet. Later, after the reinforcement of the Fifth Fleet by the Third Fleet and Fourth Fleet, Task Force Gemstone was merged into a joint task force with Copperleaf and it is presumed that Intrepid had organizational command over the joint Task Forces Copperleaf and Gemstone, although Commodore Mirx was the commander of the joint task force.",
+  "data": {
+    "name": "Intrepid",
+    "manufacturer": "Republic Engineering Corporation",
+    "model": "Endurance-class fleet carrier",
+    "type": "Carrier",
+    "length": "1,040 meters",
+    "commission": "16 ABY",
+    "affiliation": "New Republic",
+    "navy": "New Republic Fifth Battle Group",
+    "fleet": "Task Force Copperleaf",
+    "captains": [
+      "General Etahn A'baht",
+      "Captain Morano &ndash; second-in-command"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

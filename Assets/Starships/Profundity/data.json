@@ -1,0 +1,41 @@
+{
+  "name": "Profundity",
+  "wookieepedia_title": "Profundity",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Profundity",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Profundity was an MC75 Star Cruiser commanded by Admiral Raddus that served in the Alliance Fleet. It was notably present during the Battle of Scarif. Shortly after the Death Star plans were transmitted to Raddus, the vessel was incapacitated by the Star Destroyer Devastator and boarded by Darth Vader in an attempt to reclaim the stolen data tapes.",
+  "data": {
+    "name": "Profundity",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "Modified MC75 Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,204.44 meters (3,951 ft 7 in)",
+    "height": "435.56 meters (1,429 ft)",
+    "max_speed": "650 km/h",
+    "engine": "12 Kuat Drive Yards sublight thrusters (repurposed)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generators",
+    "armament": [
+      "Point-defense laser cannons (20)",
+      "Turbolaser cannons (12)",
+      "Ion cannons (4)",
+      "Proton torpedo launchers (12)",
+      "Tractor beam projectors (6)"
+    ],
+    "complement": "Tantive IV",
+    "crew": "3,225",
+    "role": "Flagship",
+    "destroyed": "1 BBY, Scarif system",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Rebel Alliance Navy",
+    "fleet": [
+      "Mon Calamari Exodus Fleet",
+      "Raddus' task force"
+    ],
+    "captains": "Raddus"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Soulless One",
+  "wookieepedia_title": "Soulless One/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Soulless_One/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Soulless One was the personal starfighter of General Grievous, who used it during much of the Clone Wars for the Confederacy of Independent Systems, often when he would make his retreat from a doomed victory.",
+  "data": {
+    "name": "Soulless One",
+    "manufacturer": "Feethan Ottraw Scalable Assemblies",
+    "type": "Belbullab-22 starfighter",
+    "cost": "Not available for sale",
+    "modifier": "General Grievous",
+    "sysmods": [
+      "Hull",
+      "Hyperdrive"
+    ],
+    "length": "6.71 meters",
+    "max_speed": "1,100 km/h",
+    "hyperdrive": "Class 2 (Backup class 5)",
+    "shield_gen": "Equipped",
+    "hull": "Impervium alloy",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navicomputer",
+    "countermeasures": "Sensor jamming system",
+    "armament": "Triple laser cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "160 kg",
+    "consumables": "None",
+    "role": "Personal starfighter",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Jedi Order (stolen)",
+      "Galactic Empire",
+      "Spacers (stolen)"
+    ],
+    "owners": [
+      "Grievous",
+      "Obi-Wan Kenobi (stolen)",
+      "Zegundis",
+      "N-K Necrosis",
+      "Spacers (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Enshado",
+  "wookieepedia_title": "Enshado",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Enshado",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Enshado was a First Order Light Cruiser in service to the First Order during its conflict with the Resistance.",
+  "data": {
+    "name": "Enshado",
+    "model": "First Order Light Cruiser",
+    "type": "Light cruiser",
+    "complement": "TIE/fo space superiority fighter",
+    "role": [
+      "Light cruiser",
+      "Carrier",
+      "Personnel transport shuttle"
+    ],
+    "destroyed": "34 ABY, Spalex",
+    "affiliation": "First Order",
+    "navy": "First Order Navy",
+    "captains": "Malarus"
+  },
+  "scraped": "2026-07-03"
+}

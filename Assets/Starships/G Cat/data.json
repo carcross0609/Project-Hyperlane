@@ -1,0 +1,32 @@
+{
+  "name": "G Cat",
+  "wookieepedia_title": "G Cat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G_Cat",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The G Cat was a modified Arakyd Helix-class light interceptor owned by Cryle Cavv. With the help of R2-RC, he claimed it was a simple transport, although it had a military background. He armed the ship with four plasburst laser cannons and two proton torpedo launchers to defend against unwanted company.",
+  "data": {
+    "name": "G Cat",
+    "manufacturer": "Arakyd Industries",
+    "model": "Helix-class light interceptor",
+    "type": "Armed freighter",
+    "length": "30.9 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 0.75 (primary)",
+      "Class 12 (backup)"
+    ],
+    "avionics": "Arakyd LBE flight control computer",
+    "armament": [
+      "Arakyd Plasburst laser cannon (4)",
+      "Proton torpedo launcher (2)"
+    ],
+    "crew": "2",
+    "passengers": "4",
+    "capacity": "25 metric tons",
+    "consumables": "6 weeks",
+    "owners": "Cryle Cavv"
+  },
+  "scraped": "2026-07-03"
+}

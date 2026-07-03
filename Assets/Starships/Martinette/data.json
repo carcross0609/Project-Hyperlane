@@ -1,0 +1,31 @@
+{
+  "name": "Martinette",
+  "wookieepedia_title": "Martinette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Martinette",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Martinette was a Corellian Engineering Corporation YT-1300 light freighter, with customized modifications. It was used by pirate Captain Jayhawk and his crew.",
+  "data": {
+    "name": "Martinette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "YT-1300 light freighter",
+    "length": "26.7 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 heavy laser cannon",
+    "crew": "1; 1 gunner",
+    "passengers": "6",
+    "cargohandling": "100 metric tons",
+    "consumables": "1 month",
+    "role": "Pirate vessel",
+    "captains": "Jayhawk"
+  },
+  "scraped": "2026-07-03"
+}

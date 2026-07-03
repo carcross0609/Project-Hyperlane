@@ -1,0 +1,26 @@
+{
+  "name": "Rock Dragon",
+  "wookieepedia_title": "Rock Dragon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rock_Dragon",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Rock Dragon was a Hapan ship that belonged to Tenel Ka Djo. Her parents and grandmother, Ta'a Chume, sent it to her as a gift in 24 ABY when she was training at the Jedi Praxeum on Yavin 4. She chose her Jedi friends Jaina Solo and Lowbacca to be the ship's pilot and co-pilot. Although Rock Dragon followed the common Hapan theme of dragon-related names, Tenel Ka actually named it after an animal from Dathomir. Visually, it was a rather plain ship as to not draw unwanted attention to Tenel Ka, being the heir to the Hapes Consortium.",
+  "data": {
+    "name": "Rock Dragon",
+    "manufacturer": "Hapes",
+    "model": "Shuttle",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "skeleton": "2",
+    "othersystems": "Remote slicer",
+    "role": "Passenger Cruiser",
+    "affiliation": [
+      "New Jedi Order"
+    ],
+    "owners": "Tenel Ka Djo"
+  },
+  "scraped": "2026-07-03"
+}

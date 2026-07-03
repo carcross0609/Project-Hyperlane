@@ -1,0 +1,52 @@
+{
+  "name": "Anakin Skywalker's Eta-2 Actis-class interceptor",
+  "wookieepedia_title": "Anakin Skywalker's Eta-2 Actis-class interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anakin_Skywalker%27s_Eta-2_Actis-class_interceptor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During the late Clone Wars, the Jedi Knight Anakin Skywalker flew a yellow Eta-2 Actis-class light interceptor. Anakin Skywalker piloted the interceptor during a mission to rescue Supreme Chancellor Sheev Palpatine during the Battle of Coruscant. The starfighter was destroyed aboard the Separatist flagship Invisible Hand.",
+  "data": {
+    "name": "Anakin Skywalker's Eta-2 Actis-class interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series",
+    "model": "Eta-2 Actis-class light interceptor",
+    "type": "Starfighter",
+    "modifier": "Anakin Skywalker",
+    "length": "5.47 meters",
+    "width": "4.3 meters",
+    "height": "2.5 meters (with wings deployed)",
+    "max_accel": "5,200G",
+    "mglt": "118 MGLT",
+    "max_speed": "1,500 kph",
+    "engine": [
+      "Twin ion engines (2)"
+    ],
+    "hyperdrive": "Class 1 (hyperspace transport ring required)",
+    "armament": [
+      "Laser cannons (2)",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "othersystems": "S-foils",
+    "role": [
+      "Patrol",
+      "Reconnaissance",
+      "Interceptor"
+    ],
+    "destroyed": [
+      "19 BBY, Cato Neimoidia (later repaired)",
+      "19 BBY, Invisible Hand"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "captains": "Anakin Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

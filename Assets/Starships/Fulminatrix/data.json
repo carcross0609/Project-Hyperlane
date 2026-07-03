@@ -1,0 +1,50 @@
+{
+  "name": "Fulminatrix",
+  "wookieepedia_title": "Fulminatrix",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fulminatrix",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Fulminatrix was a Mandator IV-class Siege Dreadnought in the First Order Navy captained by Moden Canady. It participated during the battle of D'Qar, where it fired its orbital autocannons on the Resistance base and eradicated it, though an evacuation of the base had already been completed. Resistance Commander Poe Dameron launched a single-handed attack on the Fulminatrix, destroying its point-defense cannons in order to clear the way for Resistance bombers to make an attack run. The Fulminatrix scrambled its TIE fighters in an almost successful attempt to fend off the attack, leading to the destruction of all but one of the bombers. It was subsequently destroyed by the last bomber when it dropped its bomb payload, going down with all hands.",
+  "data": {
+    "name": "Fulminatrix",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "line": "Mandator line",
+    "model": "Mandator IV-class Siege Dreadnought",
+    "type": "Star Dreadnought",
+    "length": "7,669.71 meters (25,163.09 feet)",
+    "width": "4,121.02 meters",
+    "height": "770.85 meters",
+    "engine": [
+      "4 main sublight and hyperdrive engines",
+      "6 Maneuvering engines"
+    ],
+    "hdsystem": [
+      "Equipped",
+      "  Hyperdrive generator"
+    ],
+    "shield_gen": "6 Deflector shield generators",
+    "armament": [
+      "Point-defense anti-aircraft cannons (26)",
+      "Tractor beam projectors (6)",
+      "Orbital autocannons (2)"
+    ],
+    "complement": [
+      "TIE/fo space superiority fighters",
+      "TIE/sf space superiority fighters"
+    ],
+    "crew": [
+      "First Order officers (53,000)",
+      "Enlisted (140,000)",
+      "First Order TIE Fighter Pilots",
+      "Stormtroopers (22,000)"
+    ],
+    "communications": "Holoprojector",
+    "role": "Orbital bombardment",
+    "destroyed": "34 ABY, Ileenium system",
+    "affiliation": "First Order",
+    "navy": "First Order Navy",
+    "captains": "Moden Canady"
+  },
+  "scraped": "2026-07-03"
+}

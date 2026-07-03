@@ -1,0 +1,29 @@
+{
+  "name": "Peregrine",
+  "wookieepedia_title": "Peregrine (Strike-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Peregrine_%28Strike-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Peregrine was originally a Strike-class medium cruiser in the Rebel Alliance fleet sent to the Airam sector.",
+  "data": {
+    "name": "Peregrine",
+    "model": [
+      "Strike-class medium cruiser (formerly)",
+      "Modified Strike Cruiser"
+    ],
+    "type": "Cruiser",
+    "modifier": "Alliance to Restore the Republic",
+    "othersystems": "Gravity well projectors",
+    "role": "Interdictor ship",
+    "affiliation": [
+      "Galactic Empire (formerly)",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": [
+      "Imperial Navy (formerly)",
+      "Alliance Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

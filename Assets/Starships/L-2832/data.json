@@ -1,0 +1,36 @@
+{
+  "name": "L-2832",
+  "wookieepedia_title": "L-2832",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/L-2832",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "L-2832 was a C-9979 military landing craft that served in the Navy of the Confederacy of Independent Systems during the Clone Wars. Utilized as a troop transport modified with turbolaser armaments, the vessel was one of the Separatist transports commanded by Dark Acolyte Asajj Ventress to deploy Armored Assault Tanks and battle droids of the Confederate Droid Army. L-2832 was once used to deliver a battalion of the T81 Division to the surface of the coral moon Rugosa, where the battalion was destroyed by Jedi Master Yoda and three Coruscant Guardsmen.",
+  "data": {
+    "name": "L-2832",
+    "model": "C-9979 landing craft",
+    "type": "Landing craft",
+    "engine": "Equipped",
+    "armament": [
+      "Wingtip laser cannons (2 pair)",
+      "Turret-mounted cannons (2 pair)",
+      "Turbolasers"
+    ],
+    "complement": [
+      "1 battalion of battle droids",
+      "  T81 Division",
+      "    Armored Assault Tanks"
+    ],
+    "passengers": [
+      "At least 2 OOM command battle droids",
+      "  224",
+      "B1-Series battle droids",
+      "B2 super battle droids",
+      "At least 1 B2-HA series super battle droid"
+    ],
+    "role": "Transport",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederate Navy"
+  },
+  "scraped": "2026-07-03"
+}

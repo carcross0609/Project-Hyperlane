@@ -1,0 +1,35 @@
+{
+  "name": "Isilia",
+  "wookieepedia_title": "Isilia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Isilia",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Isilia was a Ghtroc Industries 440 freighter owned and operated by Captain Adriav Kavos. It was crewed by the Arconan Gezzov-tak, the Ortolan Nabkess, and the Quarren Segken Tels.",
+  "data": {
+    "name": "Isilia",
+    "manufacturer": "Ghtroc Industries",
+    "model": "440 freighter",
+    "type": "Freighter",
+    "cost": "18,500 credits",
+    "length": "28 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 3",
+      "Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Two laser cannons",
+    "crew": "2; 2 gunners",
+    "skeleton": "1",
+    "passengers": "4",
+    "capacity": "100 metric tons, 40 cubic meters",
+    "consumables": "2 months",
+    "role": "Personal transport",
+    "owners": "Adriav Kavos",
+    "captains": "Adriav Kavos"
+  },
+  "scraped": "2026-07-03"
+}

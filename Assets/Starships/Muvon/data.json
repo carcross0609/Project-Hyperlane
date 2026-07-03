@@ -1,0 +1,39 @@
+{
+  "name": "Muvon",
+  "wookieepedia_title": "Muvon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Muvon",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Muvon was a Loronar Corporation B-7 light freighter owned by Brophar Tofarain.",
+  "data": {
+    "name": "Muvon",
+    "manufacturer": "Loronar Corporation",
+    "type": "B-7 Light Freighter",
+    "length": "19 meters",
+    "hyperdrive": "Class 3.0",
+    "hdsystem": "Equipped",
+    "armament": "1 Light laser cannon",
+    "crew": [
+      "1 pilot",
+      "1 gunner"
+    ],
+    "skeleton": "1",
+    "passengers": "8",
+    "capacity": "1 metric ton",
+    "consumables": "1 month",
+    "role": [
+      "Personal transport",
+      "Landing craft"
+    ],
+    "affiliation": [
+      "Brophar Tofarain",
+      "FarStar"
+    ],
+    "owners": [
+      "Brophar Tofarain",
+      "Gorak Khzam (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

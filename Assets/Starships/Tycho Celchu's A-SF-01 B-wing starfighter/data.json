@@ -1,0 +1,32 @@
+{
+  "name": "Tycho Celchu's A/SF-01 B-wing starfighter",
+  "wookieepedia_title": "Tycho Celchu's A/SF-01 B-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tycho_Celchu%27s_A/SF-01_B-wing_starfighter",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "An A/SF-01 B-wing was piloted by Lieutenant Tycho Celchu during the Battle of Mindor.",
+  "data": {
+    "name": "Tycho Celchu's A/SF-01 B-wing starfighter",
+    "manufacturer": "Slayn & Korpil",
+    "model": "A/SF-01",
+    "type": "Heavy assault starfighter",
+    "hyperdrive": "Class 2.0",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "skeleton": "1",
+    "role": "Heavy Starfighter/Bomber",
+    "affiliation": [
+      "New Republic",
+      "  Rapid Response Task Force",
+      "    Rogue Squadron"
+    ],
+    "navy": "New Republic Space Navy",
+    "owners": "Tycho Celchu"
+  },
+  "scraped": "2026-07-03"
+}

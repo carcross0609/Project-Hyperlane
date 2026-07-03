@@ -1,0 +1,41 @@
+{
+  "name": "Visionary",
+  "wookieepedia_title": "Visionary",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Visionary",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Visionary was the elegant cloaked transport of G0-T0, one of the most successful Exchange bosses operating in both the Y'Toub system and Republic space. It was probably one of a kind, in that its actual owner was a droid, as was its entire crew. It was destroyed by the Jedi Exile in the Mission to Nar Shaddaa.",
+  "data": {
+    "name": "Visionary",
+    "manufacturer": "Eleaor Propulsion",
+    "type": "Starscape-class yacht",
+    "sysmods": [
+      "Upgraded weaponry",
+      "Interior defense systems",
+      "  Turrets",
+      "  Minefields"
+    ],
+    "countermeasures": "Cloaking device",
+    "armament": "Dual Turbolaser turrets (2 on the ventre, 2 under and over both wings, 6 in total)",
+    "crew": [
+      "28 Sentry droid Mark Is",
+      "3 S6-series security/maintenance droids",
+      "3 Utility droids"
+    ],
+    "othersystems": "Central Control Computer",
+    "role": [
+      "Personal Spacecraft",
+      "Droid control ship",
+      "Privateer"
+    ],
+    "destroyed": "3951 BBY",
+    "affiliation": [
+      "Exchange",
+      "G0-T0's Droid Army"
+    ],
+    "owners": "G0-T0",
+    "captains": "G0-T0"
+  },
+  "scraped": "2026-07-03"
+}

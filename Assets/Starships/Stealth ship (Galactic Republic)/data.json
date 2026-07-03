@@ -1,0 +1,29 @@
+{
+  "name": "Stealth ship",
+  "wookieepedia_title": "Stealth ship (Galactic Republic)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stealth_ship_%28Galactic_Republic%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The stealth ship was a prototype IPV-2C Stealth Corvette developed for the Republic Navy during the Clone Wars that was used by the Jedi Knight Anakin Skywalker to break Admiral Trench's blockade of the planet Christophsis.",
+  "data": {
+    "name": "Stealth ship",
+    "manufacturer": "Sienar Design Systems",
+    "model": "Modified IPV-2C Stealth Corvette",
+    "type": "Corvette",
+    "length": "99.7 m (327 ft)",
+    "max_speed": "950 kph (590 mph)",
+    "hyperdrive": "None",
+    "countermeasures": [
+      "Cloaking devices (28)",
+      "Flares"
+    ],
+    "armament": [
+      "2 anti-aircraft dual laser cannon turrets",
+      "4 proton torpedo launchers"
+    ],
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy"
+  },
+  "scraped": "2026-07-03"
+}

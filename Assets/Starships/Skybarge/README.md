@@ -1,0 +1,11 @@
+# Skybarge
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Skybarge](https://starwars.fandom.com/wiki/Skybarge)
+
+Skybarge was Fadoop's unwieldy, stubby-winged cargo ship. It was crafted from the parts and components of a variety of scrapped fliers and was used in the acquisition and delivery of commodities on the planet of Saheelindeel. During a festival airshow, Han Solo was able to fly Skybarge through the same display as an X-222, flown by the stunt flier Grigmin. With Han's expert flying and a few near disasters, Skybarge went on to win the festival's first prize trophy for best exhibit.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

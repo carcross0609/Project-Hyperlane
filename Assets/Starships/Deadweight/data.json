@@ -1,0 +1,31 @@
+{
+  "name": "Deadweight",
+  "wookieepedia_title": "Deadweight",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deadweight",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Deadweight was a Galactic Republic Conductor-class short-haul landing craft piloted by Carth Onasi during the Mandalorian Wars. Its original designation was CXB-560.",
+  "data": {
+    "name": "Deadweight",
+    "manufacturer": [
+      "Republic Fleet Systems"
+    ],
+    "model": "Conductor-class short-haul landing craft",
+    "type": "Shuttle",
+    "cost": [
+      "250,000 credits",
+      "100,000 credits used"
+    ],
+    "length": "19 meters",
+    "max_speed": "500 km/h",
+    "hyperdrive": "Class 3",
+    "crew": "1",
+    "passengers": "5 (plus 2 loader droids)",
+    "capacity": "80 tons",
+    "consumables": "2 weeks",
+    "role": "Shuttle",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

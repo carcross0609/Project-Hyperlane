@@ -1,0 +1,35 @@
+{
+  "name": "Bestoon Legacy",
+  "wookieepedia_title": "Bestoon Legacy",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bestoon_Legacy",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Bestoon Legacy was a modified WTK-85A interstellar transport and the personal starship of Sith loyalist Ochi of Bestoon.",
+  "data": {
+    "name": "Bestoon Legacy",
+    "manufacturer": "Sublights Products Corporation",
+    "model": "WTK-85A interstellar transport",
+    "type": "Transport",
+    "length": "21 meters",
+    "height": "7.28 meters",
+    "max_speed": "940 kph",
+    "engine": "Ion engines (2)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Double laser turret",
+      "2 forward laser cannons"
+    ],
+    "crew": "Pilot (1)",
+    "lifesupport": "Equipped",
+    "affiliation": [
+      "Sith Eternal",
+      "  Acolytes of the Beyond",
+      "Resistance (stolen)"
+    ],
+    "navy": "Resistance navy (stolen)",
+    "owners": "Ochi"
+  },
+  "scraped": "2026-07-03"
+}

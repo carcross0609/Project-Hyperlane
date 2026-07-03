@@ -1,0 +1,35 @@
+{
+  "name": "Assessor",
+  "wookieepedia_title": "Assessor (Immobilizer 418 cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Assessor_%28Immobilizer_418_cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Assessor was an Immobilizer 418 cruiser.",
+  "data": {
+    "name": "Assessor",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Immobilizer 418 cruiser",
+    "length": "600 meters",
+    "width": "300 meters",
+    "height": "100 meters",
+    "max_accel": "1,210 G",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 8.0"
+    ],
+    "shield_gen": "Deflector shield created by more than a dozen shield generators",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "SFS G7-x gravity well projectors (4)",
+      "Taim & Bak GX-7 quad laser cannons (20)"
+    ],
+    "complement": [
+      "TIE Series starfighters (24)"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

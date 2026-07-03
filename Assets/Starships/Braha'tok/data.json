@@ -1,0 +1,34 @@
+{
+  "name": "Braha'tok",
+  "wookieepedia_title": "Braha'tok",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Braha%27tok",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Braha'tok was a Braha'tok-class gunship under the command of Kiles L'toth in the Dornean Navy. In 4 ABY, during the Galactic Civil War between the Galactic Empire and the Rebel Alliance, the planet Dornea loaned the Braha'tok&mdash;along with its sister ship, the Torktarak&mdash;to the Alliance Fleet for its attack on the second Death Star battle station above the Forest Moon of Endor.",
+  "data": {
+    "name": "Braha'tok",
+    "manufacturer": "Dornean Braha'ket Fleetworks Conglomerate",
+    "model": "Braha'tok-class gunship",
+    "length": "90 meters",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Double turbolaser cannons (8)",
+      "Concussion missile launchers (8)"
+    ],
+    "crew": "75",
+    "role": [
+      "Gunship",
+      "Museum"
+    ],
+    "retired": "4 ABY",
+    "affiliation": [
+      "Dornean Navy",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": "Alliance Fleet",
+    "captains": "Kiles L'toth"
+  },
+  "scraped": "2026-07-03"
+}

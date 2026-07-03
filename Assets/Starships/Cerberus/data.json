@@ -1,0 +1,25 @@
+{
+  "name": "Cerberus",
+  "wookieepedia_title": "Cerberus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cerberus",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Cerberus was an Imperial Sentinel-class landing craft used to deploy sandtroopers to the surface of Tatooine in search of the stolen data that contained information about the first Death Star.",
+  "data": {
+    "name": "Cerberus",
+    "manufacturer": [
+      "Sienar Fleet Systems",
+      "Cygnus Spaceworks"
+    ],
+    "model": "Sentinel-class landing craft",
+    "type": "Landing craft",
+    "role": [
+      "Transport",
+      "Shuttle",
+      "Combat support ship"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

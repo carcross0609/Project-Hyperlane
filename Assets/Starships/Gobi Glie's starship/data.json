@@ -1,0 +1,22 @@
+{
+  "name": "Gobi Glie's starship",
+  "wookieepedia_title": "Gobi Glie's starship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gobi_Glie%27s_starship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Gobi Glie's starship was a Rainhawk-class transport belonging to the Twi'lek freedom fighter Gobi Glie. He used the starship to give the young Hera Syndulla piloting lessons, although he would not let her do takeoffs or landings. Glie also used the ship on supply runs for the Free Ryloth Movement, including a rendezvous on Ryloth's third moon to pick up weapons. The transport was destroyed around 19 BBY in an ambush by Galactic Empire forces, after which Glie, Syndulla, and Serin were arrested and charged with treason due to the smuggled weaponry.",
+  "data": {
+    "name": "Gobi Glie's starship",
+    "model": "Rainhawk-class transport",
+    "type": "Transport",
+    "length": "20 meters",
+    "max_speed": "700 kilometers per hour",
+    "engine": "Ion engines (2)",
+    "crew": "2",
+    "destroyed": "c. 19 BBY, Ryloth",
+    "affiliation": "Free Ryloth Movement",
+    "owners": "Gobi Glie"
+  },
+  "scraped": "2026-07-03"
+}

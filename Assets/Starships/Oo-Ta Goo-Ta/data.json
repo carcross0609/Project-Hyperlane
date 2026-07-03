@@ -1,0 +1,37 @@
+{
+  "name": "Oo-Ta Goo-Ta",
+  "wookieepedia_title": "Oo-Ta Goo-Ta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oo-Ta_Goo-Ta",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Oo-Ta Goo-Ta was a modified YT-1300 light freighter owned and operated by the Rodian Chordak. Known as one of the fastest ships in the Minos Cluster, Chordak hoped to catch the attention of the Galactic Empire with his ship and receive more valuable Imperial assignments like the regular run to the prison to Gesaril.",
+  "data": {
+    "name": "Oo-Ta Goo-Ta",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "Modified light freighter",
+    "type": "YT-1300 light freighter",
+    "length": "26.7 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 0.5",
+      "Class 5 (back-up)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 modified laser cannons",
+      "1 blaster cannon"
+    ],
+    "crew": "1",
+    "passengers": "1",
+    "capacity": "50 metric tons, 20 cubic meters",
+    "consumables": "3 weeks",
+    "role": "Tramp freighter",
+    "owners": "Chordak",
+    "captains": "Chordak"
+  },
+  "scraped": "2026-07-03"
+}

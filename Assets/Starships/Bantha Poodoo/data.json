@@ -1,0 +1,36 @@
+{
+  "name": "Bantha Poodoo",
+  "wookieepedia_title": "Bantha Poodoo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bantha_Poodoo",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Bantha Poodoo was a Low Altitude Assault Transport which was stationed in the Jedi Temple at the time Jedi Master Plo Koon watched an infiltration party depart for their mission to rescue Master Even Piell from the Separatist prison known as the Citadel. The gunship had customized nose art of a winged bantha dropping a pair of bombs.",
+  "data": {
+    "name": "Bantha Poodoo",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Low Altitude Assault Transport/infantry",
+    "type": "Gunship",
+    "length": "17.69 meters",
+    "height": "6.94 meters",
+    "max_speed": "620 kph",
+    "armament": [
+      "Pair of Laser cannon turrets (Chin-mounted)",
+      "Pair of laser-beam turrets (optional)",
+      "Pair of Rocket Launchers (Dorsal surface)",
+      "  Missile belts (Rear-mounted)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)",
+      "Gunner (2-4)(optional)"
+    ],
+    "role": [
+      "Infantry transport",
+      "Air-to-ground support",
+      "Air-to-air support"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Uncle Nyyv's Floating Eatery",
+  "wookieepedia_title": "Uncle Nyyv's Floating Eatery",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Uncle_Nyyv%27s_Floating_Eatery",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Uncle Nyyv's Floating Eatery was a restaurant located on Vaynai's Streysel Island that was owned and operated by the Sullustan businessman Nyyv.",
+  "data": {
+    "name": "Uncle Nyyv's Floating Eatery",
+    "manufacturer": "Ubrikkian",
+    "model": "Modified Transport Barge",
+    "type": "Speeder",
+    "cost": [
+      "New: 150,000 credits",
+      "Used: 80,000 credits"
+    ],
+    "length": "25 meters",
+    "max_speed": "100 km/h",
+    "armament": "Tractor beam projector (1)",
+    "crew": "2",
+    "passengers": "20",
+    "capacity": "1,000 metric tons",
+    "role": "Restaurant",
+    "owners": "Nyyv"
+  },
+  "scraped": "2026-07-03"
+}

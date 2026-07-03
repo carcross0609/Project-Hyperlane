@@ -1,0 +1,24 @@
+{
+  "name": "Nemesis",
+  "wookieepedia_title": "Nemesis (Task Force Vengeance)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nemesis_%28Task_Force_Vengeance%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Nemesis was an Imperial-class Star Destroyer of the Imperial Navy.",
+  "data": {
+    "name": "Nemesis",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Imperial-class Star Destroyer",
+    "length": "1,600 meters",
+    "complement": "TIE/LN starfighters",
+    "destroyed": "3 ABY",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": [
+      "Task Force Vengeance",
+      "  Battlegroup Orion"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

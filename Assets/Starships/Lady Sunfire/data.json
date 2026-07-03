@@ -1,0 +1,43 @@
+{
+  "name": "Lady Sunfire",
+  "wookieepedia_title": "Lady Sunfire",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lady_Sunfire",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lady Sunfire, a modified Corellian Engineering Corporation Barloz-class freighter, was the personal ship of of the smuggler Clyngunn the ZeHethbra. It was armed with three quad turbolaser cannons and four aft-firing concussion missile launchers. However, due to the larger powerplant needed for the Lady Sunfire's weapons, the ship could only carry 70 metric tons of cargo as a result. The Lady Sunfire was configured to operate with a crew consisting only of Clyngunn and his R3-series astromech droid, which was programmed to operate silently.",
+  "data": {
+    "name": "Lady Sunfire",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified Barloz-class heavy freighter",
+    "type": "Space transport",
+    "cost": [
+      "New: 300,000 credits",
+      "Used: 125,000 credits"
+    ],
+    "length": "41 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup: Class 8.0"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "countermeasures": "Yes",
+    "armament": [
+      "Quad turbolaser cannons (3)",
+      "Concussion missile launcher (4)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)"
+    ],
+    "passengers": "4",
+    "capacity": "70 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Smugglers' Alliance",
+    "owners": "Clyngunn"
+  },
+  "scraped": "2026-07-03"
+}

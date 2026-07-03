@@ -1,0 +1,37 @@
+{
+  "name": "Mynock",
+  "wookieepedia_title": "Mynock (Helot-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mynock_%28Helot-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Mynock was a starship commanded by Cade Skywalker, named after the parasitic mynock. Aside from Cade, his crew included co-pilot Jariah Syn, mechanic Deliah Blue and later astromech droid R2-D2.",
+  "data": {
+    "name": "Mynock",
+    "model": "Helot-class medium space transport",
+    "type": "Transport",
+    "cost": "Not available for sale",
+    "modifier": [
+      "Deliah Blue",
+      "\"Bantha\" Rawk"
+    ],
+    "hyperdrive": "Class 0.5 (Backup class 8)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Medium laser cannons (2)",
+      "Heavy laser cannons (2)",
+      "Quad laser cannon (1)"
+    ],
+    "crew": "3",
+    "passengers": "6",
+    "capacity": "70 tons",
+    "consumables": "3 months",
+    "othersystems": "Docking clamps",
+    "affiliation": "Bounty hunters",
+    "owners": "Cade Skywalker",
+    "captains": "Cade Skywalker"
+  },
+  "scraped": "2026-07-03"
+}

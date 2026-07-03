@@ -1,0 +1,38 @@
+{
+  "name": "Acushnet",
+  "wookieepedia_title": "Acushnet",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Acushnet",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Acushnet was a Corona-class armed frigate that was originally going to be sold to investors and starship collectors following the end of the Separatist-planned production. The pirate captain Hondo Ohnaka managed to steal the Acushnet and classified it as the flagship of the Ohnaka Gang.",
+  "data": {
+    "name": "Acushnet",
+    "manufacturer": "Haor Chall Engineering Corporation",
+    "model": "Corona-class armed frigate",
+    "type": "Frigate",
+    "length": "376.29 meter diameter",
+    "max_speed": "700 kph",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Ion cannons (4)",
+      "Laser cannons",
+      "Missiles",
+      "Medium turbolaser batteries (2)",
+      "Point-defense laser cannons (4)",
+      "Tractor beam (1)"
+    ],
+    "complement": [
+      "Flarestar-class attack shuttles (6)",
+      "WLO-5 battle tanks (12)"
+    ],
+    "crew": "64",
+    "passengers": "200",
+    "othersystems": "Planetary surface landing capability",
+    "role": "Flagship",
+    "affiliation": "Ohnaka Gang",
+    "captains": "Captain Hondo Ohnaka"
+  },
+  "scraped": "2026-07-03"
+}

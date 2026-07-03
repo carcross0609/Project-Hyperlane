@@ -1,0 +1,27 @@
+{
+  "name": "Guardian",
+  "wookieepedia_title": "Guardian (Venator-class)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Guardian_%28Venator-class%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Guardian was a Venator-class Star Destroyer employed by the Republic Navy during the Clone Wars. Under the command of the Human male, Captain Serros, the Republic cruiser engaged the Separatist Supreme Commander of the Droid Armies, General Grievous's fleet and was crippled in the battle. Though severely damaged, with the help of a Jedi General, the Guardian managed to repel its attackers and its crew were able to repair enough of the damages to escape to hyperspace.",
+  "data": {
+    "name": "Guardian",
+    "line": "Star Destroyer",
+    "model": "Venator-class Star Destroyer",
+    "engine": "8",
+    "hdsystem": "Equipped",
+    "armament": [
+      "DBY-827 heavy turbolaser turrets (8)",
+      "Medium dual turbolaser cannons (2)"
+    ],
+    "role": "Command ship",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ],
+    "captains": "Captain Serros"
+  },
+  "scraped": "2026-07-03"
+}

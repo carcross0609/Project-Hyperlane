@@ -1,0 +1,33 @@
+{
+  "name": "Red Dog",
+  "wookieepedia_title": "Red Dog",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Red_Dog",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Red Dog was a Strike-class medium cruiser belonging to the Rebel Alliance. The cruiser was attempting to rendezvous with the Rebel Fleet at Sullust when it was destroyed by Tan Maarek Stele.",
+  "data": {
+    "name": "Red Dog",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "1600 SBD",
+    "hull": "768 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "destroyed": "3 ABY",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

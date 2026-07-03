@@ -1,0 +1,30 @@
+{
+  "name": "Arrestor",
+  "wookieepedia_title": "Arrestor (Acclamator-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arrestor_%28Acclamator-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Arrestor was an Acclamator-class assault ship that served the Republic Navy during the Clone Wars and participated in the Mission to the Chaykin Cluster. It survived the Clone Wars to serve the Imperial Navy in the Galactic Civil War.",
+  "data": {
+    "name": "Arrestor",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Acclamator-class assault ship",
+    "type": "Assault ship",
+    "role": [
+      "Assault ship",
+      "Carrier",
+      "Cruiser"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ],
+    "navy": [
+      "Republic Navy",
+      "Imperial Navy"
+    ],
+    "captains": "Talbot"
+  },
+  "scraped": "2026-07-03"
+}

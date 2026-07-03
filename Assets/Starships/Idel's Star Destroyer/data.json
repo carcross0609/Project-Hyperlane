@@ -1,0 +1,37 @@
+{
+  "name": "Idel's Star Destroyer",
+  "wookieepedia_title": "Idel's Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Idel%27s_Star_Destroyer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "An Imperial-class Star Destroyer was commanded by Commodore Idel during his mission to capture the stolen yacht Imperialis. Following his failure to prevent the yacht escaping the Castell system, Idel committed suicide onboard the vessel's bridge.",
+  "data": {
+    "name": "Idel's Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": "TIE fighter series starfighters (72)",
+    "crew": "Stormtroopers (9,700)",
+    "consumables": "2 years",
+    "communications": "Communications tower",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Idel"
+  },
+  "scraped": "2026-07-03"
+}

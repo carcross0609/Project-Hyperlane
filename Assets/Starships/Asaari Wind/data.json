@@ -1,0 +1,42 @@
+{
+  "name": "Asaari Wind",
+  "wookieepedia_title": "Asaari Wind",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Asaari_Wind",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Asaari Wind was a luxury yacht stolen from Bimm crimelord Ritinki around 0 ABY by Cecil Noone and his partners-in-crime. Ritinki was killed in the course of the theft. At various times, it operated under the aliases Hieroglyph, Spiraling Shape, Tailchaser, and Voona's Dream II.",
+  "data": {
+    "name": "Asaari Wind",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Modified Personal Luxury Yacht 3000",
+    "modifier": "Ritinki",
+    "length": "50 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 5"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Light laser cannons (2)",
+      "Medium ion cannons (2)",
+      "Heavy laser cannons (2)",
+      "Turbolaser (1)"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "10",
+    "capacity": "70 metric tons",
+    "consumables": "1 month",
+    "role": "Private space yacht",
+    "owners": "Ritinki",
+    "aliases": [
+      "Hieroglyph",
+      "Spiraling Shape",
+      "Tailchaser",
+      "Voona's Dream II"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

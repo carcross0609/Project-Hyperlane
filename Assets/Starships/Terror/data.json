@@ -1,0 +1,29 @@
+{
+  "name": "Terror",
+  "wookieepedia_title": "Terror",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Terror",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Terror was an Executor-class Star Dreadnought in service to the Galactic Empire during the Galactic Civil War. Under the command of Admiral Sarn, the Terror was assigned to protect the development of a new cloaking device for use with the TIE Phantom starfighter and was itself fitted with one of the devices, allowing it to become invisible to both sensors and the naked eye. During a visit from the Dark Lord of the Sith Darth Vader to oversee the deployment of the new starfighter in 3 ABY, the Terror was infiltrated by two Rebel saboteurs. The infiltrators, Rookie One and Ru Murleen, managed to steal a TIE Phantom and used it to destroy the Terror main reactor while it was docked to the TIE Phantom factory over Imdaar Alpha. Lord Vader escaped the Terror moments before the reactor exploded, destroying the Star Dreadnought, but he executed Sarn for his incompetence before leaving.",
+  "data": {
+    "name": "Terror",
+    "model": "Executor-class Star Dreadnought",
+    "sysmods": "Stygium cloaking device",
+    "length": "19,000 meters",
+    "complement": [
+      "TIE/IN interceptors",
+      "TIE Phantoms"
+    ],
+    "role": [
+      "Command ship",
+      "Carrier",
+      "Battleship"
+    ],
+    "destroyed": "3 ABY, Imdaar system",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Admiral Sarn"
+  },
+  "scraped": "2026-07-03"
+}

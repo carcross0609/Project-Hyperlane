@@ -1,0 +1,31 @@
+{
+  "name": "Hellion's Dare",
+  "wookieepedia_title": "Hellion's Dare",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hellion%27s_Dare",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hellion's Dare was an EF76 Nebulon-B escort frigate captained by the Chadra-Fan Kreskian in the service of the New Republic. Following the Battle of Endor, it was assigned to scouting missions, embarking Riot Squadron and Hound Squadron. The vessel was attacked over Jiruus, barely escaping to hyperspace. The ship was destroyed in the Oridol Cluster by the 204th Imperial Fighter Wing operating from the Quasar Fire-class cruiser carrier Aerie.",
+  "data": {
+    "name": "Hellion's Dare",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Frigate",
+    "length": "300 meters",
+    "armament": [
+      "Dual tractor beams",
+      "Laser cannons (12)",
+      "Turbolasers (12)"
+    ],
+    "communications": "Primary communications array",
+    "role": [
+      "Medical ship",
+      "Carrier"
+    ],
+    "destroyed": "4 ABY, Oridol Cluster",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "captains": "Kreskian"
+  },
+  "scraped": "2026-07-03"
+}

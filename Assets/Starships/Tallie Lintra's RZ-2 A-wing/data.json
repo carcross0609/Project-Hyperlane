@@ -1,0 +1,39 @@
+{
+  "name": "Tallie Lintra's RZ-2 A-wing",
+  "wookieepedia_title": "Tallie Lintra's RZ-2 A-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tallie_Lintra%27s_RZ-2_A-wing",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Tallie Lintra's RZ-2 A-wing was a blue RZ-2 A-wing interceptor piloted by Lieutenant Tallissan Lintra of the Resistance during its war with the First Order. It was destroyed when Kylo Ren attacked and destroyed other starfighters in the Raddus during the Battle of Oetchi",
+  "data": {
+    "name": "Tallie Lintra's RZ-2 A-wing",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "A-wing starfighter",
+    "model": "RZ-2 A-wing interceptor",
+    "type": "Starfighter",
+    "length": "7.68 meters (25.2ft)",
+    "width": "4.62 meters (15.16ft)",
+    "height": "2.02 meters (6.63ft)",
+    "engine": "Novaldex K-88 \"Event Horizon\" sublight engines",
+    "hdsystem": "Equipped",
+    "poweroutput": "Miniaturized fusion reactor",
+    "shield_gen": "Rseik Hullspace 2e deflector shield generator",
+    "sensor": "Fabritech ANs-9e targeting sensor array",
+    "countermeasures": "CloakEye sensor jammer",
+    "armament": [
+      "Zija GO-4 laser cannons (2)",
+      "Concussion missile launchers (2)"
+    ],
+    "crew": "1 pilot",
+    "role": "Starfighter combat",
+    "destroyed": "34 ABY, Raddus",
+    "affiliation": [
+      "Resistance",
+      "  Blue Squadron"
+    ],
+    "navy": "Resistance navy",
+    "owners": "Tallissan Lintra"
+  },
+  "scraped": "2026-07-03"
+}

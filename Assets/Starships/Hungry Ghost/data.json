@@ -1,0 +1,24 @@
+{
+  "name": "Hungry Ghost",
+  "wookieepedia_title": "Hungry Ghost",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hungry_Ghost",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hungry Ghost was a extremely modified Carrack-class cruiser owned by the pirate salvager Redkihl Rokk. Shortly after the Battle of Yavin, the freighter attempted to salvage scrap from the destroyed Death Star. The cruiser, along with Rokk, were destroyed by Han Solo in 0 ABY. It had at least 12 laser cannons, which were powerful enough to aim at and damage a fast moving X-wing.",
+  "data": {
+    "name": "Hungry Ghost",
+    "model": "Carrack-class light cruiser",
+    "armament": "At least 12 laser cannons",
+    "complement": [
+      "Red TIE Fighters",
+      "Several Spider droids"
+    ],
+    "role": "Capital ship",
+    "destroyed": "0 ABY, Yavin system",
+    "affiliation": "Redkihl Rokk's Pirates",
+    "owners": "Redkihl Rokk",
+    "captains": "Redkihl Rokk"
+  },
+  "scraped": "2026-07-03"
+}

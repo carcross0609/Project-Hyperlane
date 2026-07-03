@@ -1,0 +1,26 @@
+{
+  "name": "Brassbound",
+  "wookieepedia_title": "Brassbound",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Brassbound",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Brassbound was a Venator-class Star Destroyer that served in the Republic Navy during the Clone Wars. Around 21 BBY, the Brassbound was situated in the Republic's drydocks on the planet Coruscant when it and several other Star Destroyers were sent off to fight the growing Separatist threat in the Outer Rim. The Brassbound departure from Coruscant was noted by a pair of clone shock troopers, Rys and Jek.",
+  "data": {
+    "name": "Brassbound",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "armament": [
+      "DBY-827 heavy dual turbolaser turrets (8)",
+      "Medium dual turbolaser cannons (2)",
+      "Laser cannons (52)",
+      "Tractor beam projectors (6)",
+      "Proton torpedo tubes (4)"
+    ],
+    "role": "Destroyer",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Jackpot",
+  "wookieepedia_title": "Jackpot",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jackpot",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Jackpot was a damaged old starship used by the Rebel Alliance for prospecting missions. While old and damaged, it was a heavily modified and unique variation on the old Corellian Engineering Corporation YT-700 transport. The cargo and passenger space had been sacrificed for a powerful sensor suite used to scan for gas and other resources.",
+  "data": {
+    "name": "Jackpot",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-700 transport",
+    "length": "21.7 meters",
+    "hyperdrive": "Yes",
+    "armament": "1 laser cannon",
+    "crew": "2 plus 1 gunner",
+    "passengers": "3",
+    "capacity": "50 metric tons",
+    "consumables": "6 months",
+    "othersystems": "Gavvatronics S-87 sensor suite",
+    "role": "Prospecting ship",
+    "affiliation": "Rebel Alliance"
+  },
+  "scraped": "2026-07-03"
+}

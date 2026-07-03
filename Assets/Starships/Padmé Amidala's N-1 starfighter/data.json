@@ -1,0 +1,31 @@
+{
+  "name": "Padmé Amidala's N-1 starfighter",
+  "wookieepedia_title": "Padmé Amidala's N-1 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala%27s_N-1_starfighter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "During the Clone Wars, Senator Padmé Amidala of Naboo occasionally flew a distinctive N-1 starfighter. Its hull was plated with chromium, which signified the presence of royalty in Naboo culture.",
+  "data": {
+    "name": "Padmé Amidala's N-1 starfighter",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "model": "N-1 starfighter",
+    "type": "Starfighter",
+    "length": "11 meters",
+    "max_speed": "1,100 kph",
+    "engine": "Twin J-type engines",
+    "hdsystem": "Monarc C-4 hyperdrive",
+    "shield_gen": "Equipped",
+    "armament": [
+      "2 blaster cannons",
+      "2 Proton torpedo launchers"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 astromech droid"
+    ],
+    "othersystems": "Autopilot",
+    "owners": "Padmé Amidala"
+  },
+  "scraped": "2026-07-03"
+}

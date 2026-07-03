@@ -1,0 +1,11 @@
+# Qiluiy
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Qiluiy](https://starwars.fandom.com/wiki/Qiluiy)
+
+Qiluiy was a group of 3 CR90 corvettes used by the Rebel Alliance. The three corvettes were part of a convoy which also consisted of 2 BFF-1 bulk freighters called Xroi in the Mennaalii system which became under attack from pirates. However the pirate attack was driven off by Rebel X-wings, Y-wings and A-wings.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

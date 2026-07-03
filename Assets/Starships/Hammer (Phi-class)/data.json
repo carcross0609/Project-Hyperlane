@@ -1,0 +1,23 @@
+{
+  "name": "Hammer",
+  "wookieepedia_title": "Hammer (Phi-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hammer_%28Phi-class%29",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hammer was a Phi-class shuttle that was piloted by the Grand Inquisitor during a test flight.",
+  "data": {
+    "name": "Hammer",
+    "model": "Phi-class shuttle",
+    "type": "Shuttle",
+    "engine": "Two engines",
+    "armament": "Two laser cannons",
+    "crew": "One pilot",
+    "communications": "Equipped",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inquisitorius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Re",
+  "wookieepedia_title": "Re",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Re",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Re was a MC40a light cruiser belonging to the Rebel Alliance.",
+  "data": {
+    "name": "Re",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC40a light cruiser",
+    "type": "Light Cruiser",
+    "length": "500–600 meters",
+    "complement": [
+      "B-wing starfighters",
+      "T-65 X-wing starfighters"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

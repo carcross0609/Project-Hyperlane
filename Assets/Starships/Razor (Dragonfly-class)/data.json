@@ -1,0 +1,19 @@
+{
+  "name": "Razor",
+  "wookieepedia_title": "Razor (Dragonfly-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Razor_%28Dragonfly-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Razor was a modified Dragonfly-class Imperial drop ship used by the bounty hunter Vrath Xizor during the Great Galactic War. It was later stolen by smuggler Zeerid Korr.",
+  "data": {
+    "name": "Razor",
+    "model": "Dragonfly-class Imperial drop ship",
+    "type": "Dropship",
+    "owners": [
+      "Vrath Xizor",
+      "Zeerid Korr"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

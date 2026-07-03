@@ -1,0 +1,36 @@
+{
+  "name": "Lapiz Cutter",
+  "wookieepedia_title": "Lapiz Cutter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lapiz_Cutter",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lapiz Cutter was the personal Sheathipede-class transport shuttle of Trade Federation Viceroy Nute Gunray. It was used by Gunray during the Federation's Invasion of Naboo to transport him and Rune Haako to Theed. A decade later, the viceroy escaped from the planet Geonosis aboard the Lapiz Cutter during the First Battle of Geonosis.",
+  "data": {
+    "name": "Lapiz Cutter",
+    "manufacturer": "Haor Chall Engineering Corporation",
+    "model": "Sheathipede-class transport shuttle",
+    "type": "Shuttle",
+    "length": "14.4 meters",
+    "max_speed": "880 kph",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Short-ranged sensor",
+    "navigation": "Equipped",
+    "destroyed": "19 BBY, Mustafar",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ],
+    "navy": [
+      "Trade Federation fleet",
+      "Confederacy of Independent Systems Navy"
+    ],
+    "owners": "Nute Gunray"
+  },
+  "scraped": "2026-07-03"
+}

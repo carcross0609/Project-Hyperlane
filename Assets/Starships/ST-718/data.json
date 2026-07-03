@@ -1,0 +1,42 @@
+{
+  "name": "ST-718",
+  "wookieepedia_title": "ST-718",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ST-718",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "ST-718 was a Lambda-class T-4a shuttle of the Galactic Empire. The shuttle was used to transport the carbonite-frozen smuggler Han Solo to the Super Star Destroyer Executor after the Sith Lord Darth Vader claimed him during Crimson Dawn's auction of Solo on Jekara. The shuttle was pursued by Solo's friends, the rebels of the Millennium Falcon, as well as the bounty hunters Boba Fett and Beilert Valance. Aboard the Falcon, the cyborg Lobot used his implants to interface with the shuttle's systems, temporarily disabling it. The Imperials managed to regain control of the shuttle, and TIE fighters escorted it to the Executor.",
+  "data": {
+    "name": "ST-718",
+    "line": "Abecederian line",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Shuttle",
+    "length": "20 meters",
+    "mglt": "54 MGLT",
+    "max_speed": "850 kph",
+    "engine": "2 SFS-204 sublight ion engine",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield",
+    "sensor": "Short-ranged sensors",
+    "armament": [
+      "Laser cannons (5)",
+      "  Taim & Bak KX5 laser cannons (2)",
+      "  Taim & Bak GA-60s twin rotating blaster cannons (2)",
+      "  ArMek R-Z0 retractable double blaster cannon (1)"
+    ],
+    "crew": [
+      "Multiple Imperial officers",
+      "Multiple stormtroopers"
+    ],
+    "communications": "Equipped",
+    "role": "Transport",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Hurst Romodi"
+  },
+  "scraped": "2026-07-03"
+}

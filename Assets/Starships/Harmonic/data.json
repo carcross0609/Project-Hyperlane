@@ -1,0 +1,21 @@
+{
+  "name": "Harmonic",
+  "wookieepedia_title": "Harmonic",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Harmonic",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Harmonic was a Republic Defense Coalition cruiser in the service of the Galactic Republic by 228 BBY, commanded by Captain Mitker. It took part in the assault on Naboo.",
+  "data": {
+    "name": "Harmonic",
+    "type": "Cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ],
+    "captains": "Mitker"
+  },
+  "scraped": "2026-07-03"
+}

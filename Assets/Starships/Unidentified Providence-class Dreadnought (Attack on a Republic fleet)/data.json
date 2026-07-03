@@ -1,0 +1,33 @@
+{
+  "name": "Unidentified Providence-class Dreadnought",
+  "wookieepedia_title": "Unidentified Providence-class Dreadnought (Attack on a Republic fleet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Providence-class_Dreadnought_%28Attack_on_a_Republic_fleet%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Providence-class Dreadnought took part in an attack on a Republic fleet during the Clone Wars between 21 BBY and 19 BBY. The Providence had the same hull markings as the Invincible, the flagship of Admiral Trench that was lost in the Battle of Christophsis of 22 BBY.",
+  "data": {
+    "name": "Unidentified Providence-class Dreadnought",
+    "manufacturer": "Free Dac Volunteers Engineering Corps",
+    "model": "Providence-class Dreadnought",
+    "type": "Dreadnought",
+    "length": "2,177.35 meters",
+    "engine": "Creveld-4 radial ion drives (3)",
+    "sensor": "Sensor masts",
+    "armament": [
+      "Heavy quad turbolaser cannons (14)",
+      "Dual heavy laser cannons (34)",
+      "Heavy ion cannons (2)",
+      "Twin light point-defense ion cannons (12)",
+      "Heavy flak cannons (12)",
+      "Proton torpedo launchers (102)"
+    ],
+    "communications": [
+      "Communication masts",
+      "Interstellar communications array (1)"
+    ],
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy"
+  },
+  "scraped": "2026-07-03"
+}

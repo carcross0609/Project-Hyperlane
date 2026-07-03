@@ -1,0 +1,47 @@
+{
+  "name": "Starhawk",
+  "wookieepedia_title": "Starhawk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starhawk",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Starhawk was the prototype of the Starhawk-class battleship line and the product of the New Republic's Project Starhawk during the Galactic Civil War.",
+  "data": {
+    "name": "Starhawk",
+    "model": "Prototype Starhawk-class battleship",
+    "type": "Battleship",
+    "engine": "Sublight engines",
+    "hdsystem": "Equipped",
+    "hull": "Imperial Durasteel",
+    "sensor": [
+      "Equipped",
+      "  Radar"
+    ],
+    "armament": [
+      "Turbolaser turrets",
+      "Magnite Crystal Tractor Beam Arrays (6)"
+    ],
+    "complement": [
+      "Several CR90 corvettes",
+      "Several GR-75 medium transports"
+    ],
+    "crew": [
+      "New Republic officers",
+      "At least 1 Fleet Intelligence officer",
+      "Technicians",
+      "Engineers",
+      "Mechanics"
+    ],
+    "communications": "Equipped",
+    "role": "Battleship",
+    "destroyed": "4 ABY, Galitan",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "fleet": "Nadiri fleet",
+    "captains": [
+      "Hera Syndulla",
+      "Lindon Javes (briefly)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

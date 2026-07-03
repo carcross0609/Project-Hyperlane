@@ -1,0 +1,34 @@
+{
+  "name": "Punishing One",
+  "wookieepedia_title": "Punishing One/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Punishing_One/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Punishing One was a modified JumpMaster 5000 and the personal starship of the bounty hunter Dengar, which he acquired in 7 BBY.",
+  "data": {
+    "name": "Punishing One",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Modified JumpMaster 5000",
+    "type": "Starfighter",
+    "cost": "Not available for sale (likely valued at 416,500 credits)",
+    "length": "20 meters",
+    "max_speed": "1,500 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 10"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Quad laser cannon (1)",
+      "Ion cannon (1)",
+      "Proton torpedo launcher (1)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "1",
+    "capacity": "500 kg",
+    "consumables": "2 months",
+    "owners": "Dengar"
+  },
+  "scraped": "2026-07-03"
+}

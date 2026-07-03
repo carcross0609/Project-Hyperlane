@@ -1,0 +1,44 @@
+{
+  "name": "Admonitor",
+  "wookieepedia_title": "Admonitor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Admonitor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Admonitor was an upgraded Imperial-class Star Destroyer under the Empire of the Hand and served as the command vessel, and personal flagship of Grand Admiral Thrawn in the Unknown Regions. Thrawn had use of this capital ship during the Imperial Navy exploration and conquering the vast Unknown Regions for the Galactic Empire.",
+  "data": {
+    "name": "Admonitor",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "complement": [
+      "TIE/LN starfighters",
+      "Several TIE/sr starfighters",
+      "  Specter Squadron",
+      "  Gray Squadron",
+      "Zeta-class shuttles",
+      "Juggernauts",
+      "A-Racks"
+    ],
+    "crew": "47,000",
+    "role": [
+      "Destroyer",
+      "Command ship",
+      "Flagship"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Empire of the Hand"
+    ],
+    "navy": "Imperial Navy",
+    "fleet": "Task Force Admonitor",
+    "owners": "Grand Admiral Thrawn",
+    "captains": [
+      "Captain Dagon Niriz",
+      "Commander Voss Parck"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

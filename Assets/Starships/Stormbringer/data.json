@@ -1,0 +1,40 @@
+{
+  "name": "Stormbringer",
+  "wookieepedia_title": "Stormbringer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stormbringer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Stormbringer was an Imperial-class Star Destroyer captained by Davin Bryce. A hangar on the starship was hangar 14.",
+  "data": {
+    "name": "Stormbringer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": [
+      "Lambda-class T-4a shuttles",
+      "TIE fighter series starfighters (72)"
+    ],
+    "crew": "Stormtroopers (9,700)",
+    "consumables": "2 years",
+    "destroyed": "During the mission to Tibrin",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Davin Bryce"
+  },
+  "scraped": "2026-07-03"
+}

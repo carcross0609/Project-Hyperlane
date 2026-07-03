@@ -1,0 +1,21 @@
+{
+  "name": "Raider",
+  "wookieepedia_title": "Raider (salvage freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raider_%28salvage_freighter%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Raider was a GS-100 salvage ship captained by the Twi'lek scavenger Ratch. In the aftermath of the Battle of Sullust during the Clone Wars, it recovered Asajj Ventress's Ginivex-class fanblade starfighter and her unconscious inside it. After Ratch refused her request to transport her to Dathomir, she killed him and his crew, and flew the ship herself.",
+  "data": {
+    "name": "Raider",
+    "model": "GS-100 salvage ship",
+    "type": "Salvage freighter",
+    "engine": "4",
+    "skeleton": "1",
+    "owners": [
+      "Ratch",
+      "Asajj Ventress"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

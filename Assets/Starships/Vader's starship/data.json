@@ -1,0 +1,32 @@
+{
+  "name": "Vader's starship",
+  "wookieepedia_title": "Vader's starship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vader%27s_starship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Vader's starship was a starship given to the newly christened Sith Lord Darth Vader in 19 BBY, along with a droid who fit in an astromech socket. Vader destroyed a Rebel base by blowing up a cargo of coaxium with the starship.",
+  "data": {
+    "name": "Vader's starship",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "2 forward-facing laser cannons",
+      "2 rear-facing laser turrets"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 co-pilot (droid)"
+    ],
+    "lifesupport": "Equipped",
+    "affiliation": [
+      "Galactic Empire",
+      "Sith Order"
+    ],
+    "owners": [
+      "Darth Sidious",
+      "Darth Vader"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

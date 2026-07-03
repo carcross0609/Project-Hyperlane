@@ -1,0 +1,34 @@
+{
+  "name": "Lament",
+  "wookieepedia_title": "Lament",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lament",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Lament was a Strike-class medium cruiser belonging the Galactic Empire. The Lament along with Corrupter was part of the attack on Dunari's Casino and was destroyed by Rebel B-wing starfighters.",
+  "data": {
+    "name": "Lament",
+    "manufacturer": "Loronar Corporation",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "Rated 1600 SBD",
+    "hull": "Rated 752 RU",
+    "armament": [
+      "Turbolaser cannons (20)",
+      "Turbolaser batteries (10)",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "destroyed": "4 ABY",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

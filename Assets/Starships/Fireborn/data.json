@@ -1,0 +1,31 @@
+{
+  "name": "Fireborn",
+  "wookieepedia_title": "Fireborn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fireborn",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Fireborn was a Galactic Alliance CC-7700 frigate captained by the Falleen male Hunor. In 44 ABY, it was transferring Klatooinian rebel leader Grunel Ovin to Coruscant, but before got there it was blown up above Coruscant as an act of suicide in order to draw attention to his slave rebellion on Klatooine. This act of terrorism was actually secretly perpetrated by Captain Hunor authorized by Galactic Alliance Chief of Naval Operations Admiral Sallinor Parova.",
+  "data": {
+    "name": "Fireborn",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CC-7700 frigate",
+    "type": "Frigate",
+    "cost": "Not available for public sale",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "countermeasures": "Gravity well projector (1)",
+    "armament": [
+      "Turbolaser batteries",
+      "Light armaments"
+    ],
+    "role": [
+      "Interdictor",
+      "Support"
+    ],
+    "destroyed": "44 ABY",
+    "affiliation": "Galactic Federation of Free Alliances",
+    "captains": "Hunor"
+  },
+  "scraped": "2026-07-03"
+}

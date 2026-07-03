@@ -1,0 +1,31 @@
+{
+  "name": "Tyrannic",
+  "wookieepedia_title": "Tyrannic",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tyrannic",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tyrannic was an Imperial-class Star Destroyer of the Imperial Starfleet, as part of the Braxant Sector Fleet.",
+  "data": {
+    "name": "Tyrannic",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "sysmods": "Cloaking device",
+    "length": "1,600 meters",
+    "complement": "TIE/LN starfighters",
+    "role": [
+      "Destroyer",
+      "Command ship"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant"
+    ],
+    "navy": "Imperial Navy",
+    "fleet": "Braxant Sector Fleet",
+    "captains": "Captain Nalgol"
+  },
+  "scraped": "2026-07-03"
+}

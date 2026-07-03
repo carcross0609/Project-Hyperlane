@@ -1,0 +1,33 @@
+{
+  "name": "Cannibal",
+  "wookieepedia_title": "Cannibal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cannibal",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Cannibal was Barosa Warren's personal starship while he was the manager of the Galactic Outdoor Survival School.",
+  "data": {
+    "name": "Cannibal",
+    "manufacturer": "Various",
+    "type": "Unique freighter",
+    "length": "24 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "1 twin-mounted blaster cannon",
+      "1 ion cannon",
+      "1 tractor beam projector"
+    ],
+    "crew": [
+      "5",
+      "(3) gunners"
+    ],
+    "skeleton": "1",
+    "passengers": "8",
+    "capacity": "45 tons",
+    "consumables": "4 months",
+    "owners": "Barosa Warren",
+    "captains": "Barosa Warren"
+  },
+  "scraped": "2026-07-03"
+}

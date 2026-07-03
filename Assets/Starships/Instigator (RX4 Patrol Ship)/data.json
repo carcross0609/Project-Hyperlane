@@ -1,0 +1,32 @@
+{
+  "name": "Instigator",
+  "wookieepedia_title": "Instigator (RX4 Patrol Ship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Instigator_%28RX4_Patrol_Ship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Instigator was a RX4 Patrol Ship that served in the New Republic fleet.",
+  "data": {
+    "name": "Instigator",
+    "type": "RX4 Patrol Ship",
+    "length": "33 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 14"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 twin turbolasers",
+      "1 ion cannon"
+    ],
+    "crew": "2; 2 gunners",
+    "passengers": "6",
+    "capacity": "30 metric tons",
+    "consumables": "2 years",
+    "affiliation": "New Republic Defense Fleet"
+  },
+  "scraped": "2026-07-03"
+}

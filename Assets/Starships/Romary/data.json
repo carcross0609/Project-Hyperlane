@@ -1,0 +1,21 @@
+{
+  "name": "Romary",
+  "wookieepedia_title": "Romary",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Romary",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Romary was a Phelarion-class fuel tanker in service to a crew of Xexto led by Captain Perrili in 34 ABY.",
+  "data": {
+    "name": "Romary",
+    "model": "Phelarion-class fuel tanker",
+    "crew": "4",
+    "role": "Bulk freighter",
+    "destroyed": "34 ABY",
+    "captains": [
+      "Perrili",
+      "Kaythree"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

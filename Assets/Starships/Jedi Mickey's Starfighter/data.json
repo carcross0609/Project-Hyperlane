@@ -1,0 +1,28 @@
+{
+  "name": "Jedi Mickey's Starfighter",
+  "wookieepedia_title": "Jedi Mickey's Starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Mickey%27s_Starfighter",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Jedi Mickey's Starfighter was the personal customized Eta-2 Actis-class interceptor of the Jedi Master Mickey Mouse and his astromech droid partner, R2-MK. Mickey and R2-MK used Jedi Mickey's Starfighter to battle droid starfighters and Imperial TIE Fighter squadrons.",
+  "data": {
+    "name": "Jedi Mickey's Starfighter",
+    "model": "Eta-2 Actis-class interceptor",
+    "type": "Interceptor",
+    "engine": "Equipped",
+    "armament": "Blaster cannons (2)",
+    "crew": [
+      "1 pilot",
+      "1 astromech droid"
+    ],
+    "role": "Personal starfighter",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Alliance to Restore the Republic"
+    ],
+    "owners": "Mickey Mouse"
+  },
+  "scraped": "2026-07-03"
+}

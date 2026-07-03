@@ -1,0 +1,43 @@
+{
+  "name": "Republic",
+  "wookieepedia_title": "Republic (MC80A Home One Type Heavy Star Cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Republic_%28MC80A_Home_One_Type_Heavy_Star_Cruiser%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Republic was an MC80A Home One Type Heavy Star Cruiser used by the Alliance to Restore the Republic during the Galactic Civil War following the mutiny on Mon Cala by General Jan Dodonna. After the conversion of Mon Calamari Star Cruisers was complete, the Republic served as the flagship of the Alliance Fleet.",
+  "data": {
+    "name": "Republic",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "MC80A Home One Type Heavy Star Cruiser",
+    "type": "Star Cruiser",
+    "length": "1,300 meters",
+    "engine": "Sublight thrusters (10)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Turbolaser cannons (29)",
+      "Ion cannons (36)",
+      "Tractor beam projectors (6)"
+    ],
+    "complement": [
+      "10 squadrons of starfighters",
+      "  T-65B X-wing starfighters",
+      "Unidentified shuttles"
+    ],
+    "bays": "Multiple hangars",
+    "crew": "Over 5,000",
+    "communications": "Equipped",
+    "role": "Flagship",
+    "destroyed": "1 ABY",
+    "affiliation": [
+      "Mon Calamari monarchy",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": "Rebel Alliance Navy",
+    "fleet": "Mon Cala Mercantile Fleet",
+    "captains": "Jan Dodonna"
+  },
+  "scraped": "2026-07-03"
+}

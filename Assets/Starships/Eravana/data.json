@@ -1,0 +1,34 @@
+{
+  "name": "Eravana",
+  "wookieepedia_title": "Eravana",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eravana",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eravana was a Baleen-class heavy freighter used for smuggling operations, piloted by Han Solo and Chewbacca. After losing the Millennium Falcon, Solo and Chewie operated the Eravana for an unspecified number of years, making a fair amount of credits with their new ship, criss-crossing the galaxy smuggling cargo.",
+  "data": {
+    "name": "Eravana",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Baleen-class heavy freighter",
+    "type": "Bulk freighter",
+    "length": "426 meters",
+    "max_speed": "750 kilometers per hour",
+    "hyperdrive": "Class 2",
+    "armament": "None",
+    "complement": "Millennium Falcon",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Up to six others"
+    ],
+    "affiliation": [
+      "Han Solo's shipping company",
+      "Guavian Death Gang"
+    ],
+    "owners": [
+      "Han Solo",
+      "Chewbacca"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

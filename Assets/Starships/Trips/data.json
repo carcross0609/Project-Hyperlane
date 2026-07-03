@@ -1,0 +1,30 @@
+{
+  "name": "Trips",
+  "wookieepedia_title": "Trips",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trips",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Trips was a Rebel BFF-1 bulk freighter that reclaimed D3RM3, the cargo of the stranded freighter Op Mus containing grain vital to the Alliance due to the food shortage following the evacuation of Yavin.",
+  "data": {
+    "name": "Trips",
+    "manufacturer": [
+      "Phylon Freight",
+      "Aratech Repulsor Company",
+      "Damorian Manufacturing Corporation"
+    ],
+    "model": "BFF-1 bulk freighter",
+    "type": "Medium-sized freighter",
+    "length": "120.9 meters",
+    "width": "75.56 meters",
+    "height": "34 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hyperdrive": "Equipped",
+    "shield_gen": "200 SBD",
+    "hull": "144 RU",
+    "role": "Bulk transport",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

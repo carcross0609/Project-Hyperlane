@@ -1,0 +1,37 @@
+{
+  "name": "Foremost",
+  "wookieepedia_title": "Foremost",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Foremost",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Foremost was an Imperial-class Star Destroyer in service to the Galactic Empire's naval forces. The Foremost joined other members of Admiral Carlou Gendling's task force, including the Thunder Wasp and two Raider-class corvettes during the battle over Umbara. Umbaran insurgents sent vulture droids to attack Gendling's squadron, including the Foremost.",
+  "data": {
+    "name": "Foremost",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": "TIE fighter series starfighters (72)",
+    "crew": "Stormtroopers (9,700)",
+    "consumables": "2 years",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Carlou Gendling's task force",
+    "captains": "Carlou Gendling"
+  },
+  "scraped": "2026-07-03"
+}

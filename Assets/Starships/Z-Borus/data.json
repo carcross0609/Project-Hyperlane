@@ -1,0 +1,22 @@
+{
+  "name": "Z-Borus",
+  "wookieepedia_title": "Z-Borus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-Borus",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Borus was a modified Imperial Nebulon-B2 frigate that was in the service of the rogue Grand Admiral Demetrius Zaarin.",
+  "data": {
+    "name": "Z-Borus",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Modified Nebulon-B2 frigate",
+    "complement": [
+      "TIE/LN starfighters",
+      "TIE/IN interceptors",
+      "TIE/sa bombers"
+    ],
+    "destroyed": "3.5 ABY",
+    "affiliation": "Zaarin coup forces"
+  },
+  "scraped": "2026-07-03"
+}

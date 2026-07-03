@@ -1,0 +1,28 @@
+{
+  "name": "Outrider",
+  "wookieepedia_title": "Outrider",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Outrider",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Outrider was a YT-2400 light freighter owned by Dash Rendar that left the planet Tatooine in 1 BBY. Like other YT-2400 light freighters, it was manufactured by Corellian Engineering Corporation; could reach speeds of 800 kilometers per hour; was equipped with two double laser turrets, concussion missile launchers, and a class 2 hyperdrive; and measured 18.65 meters.",
+  "data": {
+    "name": "Outrider",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2400 light freighter",
+    "type": "Light freighter",
+    "length": "18.65 meters",
+    "width": "28.5 m",
+    "max_speed": "800 kph",
+    "engine": "KonGar KGDefender military-grade ion engines",
+    "hyperdrive": "Class 0.75",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Double laser turrets (2)",
+      "Concussion missile launchers"
+    ],
+    "owners": "Dash Rendar"
+  },
+  "scraped": "2026-07-03"
+}

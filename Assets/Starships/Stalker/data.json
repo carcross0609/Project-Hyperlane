@@ -1,0 +1,28 @@
+{
+  "name": "Stalker",
+  "wookieepedia_title": "Stalker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stalker",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Stalker was an Imperial-class Star Destroyer in the Imperial Navy. As a part of the Galactic Empire's Death Squadron, the Stalker was present in the Juris sector alongside other starships of the unit when a probe droid released as part of Project Swarm reported the discovery of a Rebel Alliance base on Hoth. In the aftermath of the Battle of Hoth, the Stalker assisted in the pursuit of the rebel freighter Millennium Falcon, and was one of three Star Destroyers which nearly collided with each other in the process: the Falcon, being chased by the Avenger, used its greater agility to avoid the Stalker and the Tyrant as they closed in from the other direction. Although the three capital ships managed to avoid catastrophe, the Falcon escaped to the nearby planet Bespin.",
+  "data": {
+    "name": "Stalker",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "complement": "Hyperdrive pods",
+    "bays": "Equipped",
+    "communications": "Communications tower",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron"
+  },
+  "scraped": "2026-07-03"
+}

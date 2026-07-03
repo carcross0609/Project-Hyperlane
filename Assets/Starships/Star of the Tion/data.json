@@ -1,0 +1,36 @@
+{
+  "name": "Star of the Tion",
+  "wookieepedia_title": "Star of the Tion",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_of_the_Tion",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Star of the Tion was a modified YT-1300 freighter assigned to members of the Alliance tasked with delivering updates for Alliance cell networks during the oppressive rule of the Galactic Empire. The ship was white with green striped markings.",
+  "data": {
+    "name": "Star of the Tion",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "Modified YT-1300",
+    "type": "Light freighter",
+    "length": "27.4 meters",
+    "hyperdrive": "x1",
+    "navigation": "Equipped",
+    "armament": [
+      "Laser cannon turret (2)",
+      "Light-duty turbolaser (2) (replaced laser cannon turrets)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunners (2)"
+    ],
+    "skeleton": "2",
+    "passengers": "6",
+    "capacity": "90 metric tons",
+    "consumables": "2 months",
+    "role": "Rebel transport vessel",
+    "affiliation": "Alliance to Restore the Republic",
+    "owners": "Alliance High Command"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Darth Vader's X-Wing",
+  "wookieepedia_title": "Darth Vader's X-Wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader%27s_X-Wing",
+  "continuity": "Unknown",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Darth Vader's X-Wing was an X-wing used by Darth Vader.",
+  "data": {
+    "name": "Darth Vader's X-Wing",
+    "line": "X-wing starfighter",
+    "model": "T-65B X-wing starfighter",
+    "type": "Starfighter",
+    "navigation": "Astromech droid",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "othersystems": "S-foils",
+    "destroyed": [
+      "0 ABY, Arkanis sector/Legends",
+      "0 ABY, Astroid Field"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire (Recovered)"
+    ],
+    "navy": [
+      "Alliance Fleet",
+      "Imperial Navy (Recovered)"
+    ],
+    "owners": [
+      "Luke Skywalker",
+      "Darth Vader (Recovered)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

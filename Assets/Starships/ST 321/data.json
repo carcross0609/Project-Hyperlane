@@ -1,0 +1,36 @@
+{
+  "name": "ST 321",
+  "wookieepedia_title": "ST 321",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ST_321",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "ST 321 was a Lambda-class T-4a shuttle which served as the personal transport of Darth Vader, a Dark Lord of the Sith, during the latter stages of the Galactic Civil War. In 4 ABY, ST 321 ferried the Sith Lord to the DS-2 Death Star II Mobile Battle Station, which was undergoing its final stage of construction above the moon Endor. ST 321 managed to survive the destruction of the battle station at the Battle of Endor, as Luke Skywalker piloted the shuttle out of the second Death Star moments before it exploded.",
+  "data": {
+    "name": "ST 321",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Abecederian line",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Multi-purpose transport",
+    "length": "20 meters",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "Forward double laser cannons (2)",
+      "Wing-mounted double cannons (2)",
+      "Rear double laser cannon (1)"
+    ],
+    "capacity": "80 metric tons",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic (Stolen)",
+      "Jedi Order (Stolen)"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "Rebel Alliance Navy"
+    ],
+    "owners": "Darth Vader"
+  },
+  "scraped": "2026-07-03"
+}

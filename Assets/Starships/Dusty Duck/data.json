@@ -1,0 +1,31 @@
+{
+  "name": "Dusty Duck",
+  "wookieepedia_title": "Dusty Duck",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dusty_Duck",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dusty Duck was a light freighter designed and utilized by Neeamesh Dym, a Pa'lowick smuggler residing on Nar Shaddaa during the waning years of the Galactic Republic. The craft was notoriously unreliable, would often sputter to a halt in space, and made involuntary and abrupt descents to many barren worlds. The smuggler was assisted in his piloting by his daughter, Aneesa Dym. When the elder Dym was murdered by a client, Aneesa became the sole owner of the craft. She took the Dusty Duck on a pan-galactic hunt for her father's killer.",
+  "data": {
+    "name": "Dusty Duck",
+    "manufacturer": "Custom special",
+    "type": "Light freighter",
+    "crew": "Pilot (1)",
+    "skeleton": "1",
+    "role": "Smuggling ship",
+    "affiliation": [
+      "Dym family",
+      "Rango Tel"
+    ],
+    "owners": [
+      "Neeamesh Dym",
+      "Aneesa Dym",
+      "Rango Tel"
+    ],
+    "captains": [
+      "Neeamesh Dym",
+      "Aneesa Dym"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

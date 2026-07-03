@@ -1,0 +1,28 @@
+{
+  "name": "Whisper Bird",
+  "wookieepedia_title": "Whisper Bird",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Whisper_Bird",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Whisper Bird was a Mu-class shuttle that belonged to the Graf family during the early Imperial Era.",
+  "data": {
+    "name": "Whisper Bird",
+    "model": "Mu-class shuttle",
+    "type": "Shuttle",
+    "hdsystem": "Equipped",
+    "maincomp": "Equipped",
+    "role": [
+      "Scout vessel",
+      "Mobile home"
+    ],
+    "destroyed": "c. 18 BBY, Xala's moon",
+    "affiliation": "Graf family",
+    "owners": [
+      "Auric Graf",
+      "Rhyssa Graf"
+    ],
+    "aliases": "Starstormer One"
+  },
+  "scraped": "2026-07-03"
+}

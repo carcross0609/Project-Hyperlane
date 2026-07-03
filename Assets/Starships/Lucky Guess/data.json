@@ -1,0 +1,25 @@
+{
+  "name": "Lucky Guess",
+  "wookieepedia_title": "Lucky Guess",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lucky_Guess",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lucky Guess was a modified YKL-37R Nova Courier cargo ship in use during the Galactic Civil War. It was owned by the Corellian smuggler siblings Orpa and Wex Vio.",
+  "data": {
+    "name": "Lucky Guess",
+    "model": "YKL-37R Nova Courier",
+    "armament": [
+      "Dorsal turret",
+      "  Medium laser cannon",
+      "Ventral turret",
+      "  Medium laser cannon"
+    ],
+    "role": "Freighter",
+    "owners": [
+      "Orpa Vio",
+      "Wex Vio"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

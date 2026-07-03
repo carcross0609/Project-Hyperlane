@@ -1,0 +1,41 @@
+{
+  "name": "Urjani",
+  "wookieepedia_title": "Urjani",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Urjani",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Urjani was a Rebel Alliance Neutron Star-class Bulk Cruiser that was destroyed by the Death Star II during the Battle of Endor. It was a part of the Mon Calamari Star Cruiser Independence task force at Sullust prior to its destruction.",
+  "data": {
+    "name": "Urjani",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Neutron Star-class bulk cruiser",
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy Bulk Cruiser Turbolasers (24)",
+      "  4 fore",
+      "  10 port",
+      "  10 starboard",
+      "Heavy laser cannons (25)",
+      "  10 port",
+      "  10 starboard",
+      "  5 dorsal",
+      "Heavy tractor beam emitters (2)",
+      "  2 fore"
+    ],
+    "complement": [
+      "None"
+    ],
+    "consumables": "1 year",
+    "destroyed": "4 ABY, above Endor",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Alliance Fleet",
+    "fleet": "Independence task force"
+  },
+  "scraped": "2026-07-03"
+}

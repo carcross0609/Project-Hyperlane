@@ -1,0 +1,38 @@
+{
+  "name": "Unidentified Venator-class Star Destroyer",
+  "wookieepedia_title": "Unidentified Venator-class Star Destroyer (Zeffo)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Venator-class_Star_Destroyer_%28Zeffo%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Venator-class Star Destroyer served in the navy of the Galactic Republic during the Clone Wars, under the command of Jedi General Chiata. Towards the end of the war, the Venator-class Star Destroyer became engaged in a battle against a dreadnought of the Confederacy of Independent Systems, with both vessels sustaining severe damage. After falling out of hyperspace, the Star Destroyer crashed onto the planet Zeffo. Chiata and her Padawan, Marseph, both survived, though were separated. Shortly after the crash, Order 66 was executed, and the clone troopers aboard the wrecked ship turned on the Jedi leading to Chiata and Marseph dying. In 14 BBY, the fallen venator was discovered by the former Jedi Padawan Cal Kestis.",
+  "data": {
+    "name": "Unidentified Venator-class Star Destroyer",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "power": "Electrical conduits",
+    "complement": [
+      "Aggressive ReConnaissance-170 starfighters",
+      "Low Altitude Assault Transport/infantrys"
+    ],
+    "bays": "Main hangar",
+    "crew": [
+      "At least 2 Jedi",
+      "  1 Jedi Master",
+      "  1 Padawan",
+      "Clone troopers",
+      "  Chiata's unit"
+    ],
+    "communications": "At least 1 holoprojector",
+    "destroyed": "19 BBY, Zeffo",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "captains": "Chiata"
+  },
+  "scraped": "2026-07-03"
+}

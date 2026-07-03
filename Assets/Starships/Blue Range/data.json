@@ -1,0 +1,22 @@
+{
+  "name": "Blue Range",
+  "wookieepedia_title": "Blue Range",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blue_Range",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blue Range was a Republic Defense Coalition transport in the service of the Galactic Republic In 228 BBY, Jedi Master Avar Kriss and the pilot Friielan used the Blue Range and a Sunvale device to move through the Nihil's Stormwall hyperspace barrier. The ship would later be used by the Ugnaught pilot Belin to bring the journalist Rhil Dairo to the Overtone for an exclusive interview with Lourna Dee, former Nihil and current leader of the Tempest Breakers.",
+  "data": {
+    "name": "Blue Range",
+    "type": "Transport",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

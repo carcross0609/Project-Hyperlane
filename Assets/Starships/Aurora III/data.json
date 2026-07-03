@@ -1,0 +1,27 @@
+{
+  "name": "Aurora III",
+  "wookieepedia_title": "Aurora III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aurora_III",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Aurora III, nicknamed \"Aurie,\" was a Galactic Republic Longbeam cruiser in use during the High Republic Era. During a combined Republic and Jedi Order effort to save the Hetzal system from hyperspace debris, it was piloted by Joss and Pikka Adren. The Adrens continued to fly the ship in the further efforts to deal with the Emergences of the Great Hyperspace Disaster.",
+  "data": {
+    "name": "Aurora III",
+    "model": "Longbeam cruiser",
+    "engine": "Equipped",
+    "target": "Equipped",
+    "countermeasures": "Equipped",
+    "armament": [
+      "Lasers",
+      "Missiles"
+    ],
+    "destroyed": "228 BBY, Eriadu",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ],
+    "captains": "Joss Adren"
+  },
+  "scraped": "2026-07-03"
+}

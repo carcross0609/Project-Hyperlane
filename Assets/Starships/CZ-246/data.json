@@ -1,0 +1,30 @@
+{
+  "name": "CZ-246",
+  "wookieepedia_title": "CZ-246",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CZ-246",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "CZ-246 was a Lambda-class T-4a shuttle that belonged to the Galactic Empire. It was destroyed shortly after the Battle of Yavin, when it was attacked by pirates.",
+  "data": {
+    "name": "CZ-246",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Abecederian line",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Multi-purpose transport",
+    "length": "20 meters",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "2 forward double laser cannons",
+      "2 wing-mounted double cannons",
+      "1 rear double laser cannon"
+    ],
+    "capacity": "80 metric tons",
+    "role": "Transport",
+    "destroyed": "During a skirmish over a planet",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "A pilot"
+  },
+  "scraped": "2026-07-03"
+}

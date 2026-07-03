@@ -1,0 +1,31 @@
+{
+  "name": "Fellfire",
+  "wookieepedia_title": "Fellfire",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fellfire",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Fellfire was one of three Resurgent-class Star Destroyers of the First Order that partook in the Battle of D'Qar alongside the dreadnought Fulminatrix. General Armitage Hux had planned to destroy the Resistance in a show of might using the dreadnought's autocannons in orbit of the planet D'Qar, but Resistance pilot Poe Dameron and the Resistance Starfighter Corps' bravado in taking on the Fulminatrix by themselves succeeded in eliminating the warship. While TIE fighters launched from the Fellfire and its fellow capital ships crippled the Resistance's force of fighters and bombers, the First Order flotilla failed to vanquish the Resistance fleet, which fled unscathed.",
+  "data": {
+    "name": "Fellfire",
+    "model": "Resurgent-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "2915.84 meters (9566.29 ft)",
+    "engine": [
+      "Destroyer Ion Engines (3)",
+      "Gemon-8 ion engines (8)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "III-a1a primary hypermatter-annihilation reactor",
+    "shield_gen": "Deflector shield generator",
+    "sensor": "Multi-spectrum sensor towers and sensor towers",
+    "armament": "Laser cannons",
+    "complement": "TIE/fo space superiority fighters",
+    "bays": "Equipped",
+    "communications": "Hyperwave comm scanner",
+    "role": "Warship",
+    "affiliation": "First Order",
+    "navy": "First Order Navy"
+  },
+  "scraped": "2026-07-03"
+}

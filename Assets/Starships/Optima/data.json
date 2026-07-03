@@ -1,0 +1,41 @@
+{
+  "name": "Optima",
+  "wookieepedia_title": "Optima",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Optima",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Optima was an Imperial-class Star Destroyer commanded by Cremp, an officer of the Galactic Empire's Tarkin Initiative.",
+  "data": {
+    "name": "Optima",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Imperial II-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mglt": "60 MGLT",
+    "max_speed": "975 kilometers per hour",
+    "engine": [
+      "KDY Destroyer-I ion engines (3)",
+      "Cygnus Spaceworks Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Turbolaser batteries (60)",
+      "Heavy ion cannon emplacements (60)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": "TIE fighter series starfighters (72)",
+    "crew": "Stormtroopers (9,700)",
+    "consumables": "2 years",
+    "destroyed": "During the Imperial Era",
+    "affiliation": [
+      "Galactic Empire",
+      "  Tarkin Initiative"
+    ],
+    "navy": "Imperial Navy",
+    "captains": "Cremp"
+  },
+  "scraped": "2026-07-03"
+}

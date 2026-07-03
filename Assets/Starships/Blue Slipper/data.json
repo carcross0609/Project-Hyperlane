@@ -1,0 +1,21 @@
+{
+  "name": "Blue Slipper",
+  "wookieepedia_title": "Blue Slipper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blue_Slipper",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blue Slipper was a Batag Skiff, the vessel of Taryn and Trista Zel. The skiff was equipped with anti-theft systems that were not yet released on the open market. Taryn and Trista used the Blue Slipper to ferry Ben Skywalker from Nova Station to the Transitory Mists.",
+  "data": {
+    "name": "Blue Slipper",
+    "type": "Skiff",
+    "sysmods": "Advanced anti-theft systems",
+    "role": "transport",
+    "affiliation": "Hapes Consortium",
+    "captains": [
+      "Taryn Zel",
+      "Trista Zel"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

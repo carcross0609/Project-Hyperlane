@@ -1,0 +1,27 @@
+{
+  "name": "Shadow Caster",
+  "wookieepedia_title": "Shadow Caster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shadow_Caster",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Shadow Caster was a Lancer-class pursuit craft used by the bounty hunter Ketsu Onyo. About four years before the Battle of Yavin, Ketsu used this starship to travel to the planet Garel during an assignment from the Black Sun crime syndicate to obtain the GNK-series power droid EG-86. There, she used the starship to pursue her former classmate Sabine Wren, who had been sent by the Phoenix Cell to obtain the droid for the rebellion. After fighting, Ketsu and Sabine reconciled and joined forces to escape an Arquitens-class command cruiser by blowing up a GX1 short hauler. Together, they escaped on the Shadow Caster and delivered the droid to rebel forces at Havoc Outpost.",
+  "data": {
+    "name": "Shadow Caster",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Lancer-class pursuit craft",
+    "cost": "155,000 credits",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Forward laser cannons (4)",
+      "Triple Laser turret (1)"
+    ],
+    "passengers": "4",
+    "consumables": "One month",
+    "othersystems": "Tractor beam",
+    "affiliation": "Black Sun",
+    "owners": "Ketsu Onyo"
+  },
+  "scraped": "2026-07-03"
+}

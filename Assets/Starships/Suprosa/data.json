@@ -1,0 +1,31 @@
+{
+  "name": "Suprosa",
+  "wookieepedia_title": "Suprosa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Suprosa",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Suprosa was a heavily modified Imperial MB-C1 medium transport.",
+  "data": {
+    "name": "Suprosa",
+    "manufacturer": "Mobquet Swoops and Speeders",
+    "model": "Suprosa",
+    "type": "Modified MB-C1 medium transport",
+    "length": "147 meters",
+    "mglt": "16 MGLT",
+    "shield_gen": "Rated 2240 SBD",
+    "hull": "Rated 168 RU",
+    "armament": [
+      "Laser cannons (2)",
+      "Diamond boron missile launcher (1)"
+    ],
+    "crew": [
+      "2 pilots",
+      "~25 stormtroopers"
+    ],
+    "skeleton": "2",
+    "othersystems": "Supercomputer containing plans for Death Star II",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

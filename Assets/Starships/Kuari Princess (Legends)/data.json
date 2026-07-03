@@ -1,0 +1,35 @@
+{
+  "name": "Kuari Princess",
+  "wookieepedia_title": "Kuari Princess/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kuari_Princess/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Kuari Princess was an M-class luxury liner built by the Mon Calamari, and operated by Galaxy Tours during the Galactic Civil War.",
+  "data": {
+    "name": "Kuari Princess",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "MC80 luxury spaceliner",
+    "type": "Luxury liner",
+    "length": "500 meters",
+    "hyperdrive": "Class 2.0",
+    "shield_gen": "Equipped",
+    "armament": "10 turbolaser batteries",
+    "crew": [
+      "1 Captain",
+      "10 officers",
+      "329 shipboard crew",
+      "500 droids",
+      "60 security personnel"
+    ],
+    "passengers": [
+      "3,500"
+    ],
+    "capacity": "5,000 metric tons",
+    "consumables": "1 year",
+    "affiliation": "Galaxy Tours",
+    "owners": "Galaxy Tours",
+    "captains": "Stenn Glidrick"
+  },
+  "scraped": "2026-07-03"
+}

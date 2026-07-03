@@ -1,0 +1,29 @@
+{
+  "name": "ALC-9",
+  "wookieepedia_title": "ALC-9",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ALC-9",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "ALC-9 was an YV-865 Aurore-class freighter owned by the Snivvian Morlimur Snugg, the Superintendent of the Cybloc Transfer Station, during the Clone Wars. It was stolen by the Nightbrothers Darth Maul and Savage Opress.",
+  "data": {
+    "name": "ALC-9",
+    "model": "YV-865 Aurore-class freighter",
+    "type": "Freighter",
+    "length": "52.3 meters",
+    "width": "42.33 meters",
+    "height": "16.44 meters",
+    "escapepods": "1",
+    "crew": "1 (Pilot)",
+    "role": [
+      "Freighter",
+      "Transport"
+    ],
+    "destroyed": "c. 20 BBY, Florrum",
+    "owners": [
+      "Morlimur Snugg",
+      "Darth Maul"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

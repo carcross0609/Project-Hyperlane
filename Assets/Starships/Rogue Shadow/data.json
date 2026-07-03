@@ -1,0 +1,41 @@
+{
+  "name": "Rogue Shadow",
+  "wookieepedia_title": "Rogue Shadow",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rogue_Shadow",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Rogue Shadow was a unique starship that served as the personal transport of Starkiller, the secret apprentice of the Sith Lord Darth Vader. In addition to its main occupants, the apprentice and his training droid PROXY, the vessel was piloted by eight Imperial officers in turn, including Captain Juno Eclipse, the leader of Vader's Black Eight Squadron. Built primarily for stealth and infiltration purposes, the Rogue Shadow incorporated state-of-the-art cloaking technology and a highly advanced hyperdrive engine in its design, thus allowing the apprentice to travel anywhere throughout the galaxy without risking detection.",
+  "data": {
+    "name": "Rogue Shadow",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Heavily modified Imperial transport",
+    "type": "Space transport",
+    "max_speed": "1,350 km/h",
+    "engine": "Equipped",
+    "hyperdrive": "Class 0.5",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Advanced sensor system",
+    "countermeasures": "Cloaking device",
+    "armament": "Laser cannons",
+    "skeleton": "1 pilot",
+    "passengers": "8",
+    "cargohandling": "15 tons",
+    "consumables": "1 year",
+    "lifesupport": "Equipped",
+    "role": "Transport",
+    "affiliation": [
+      "Order of the Sith Lords",
+      "Galactic Empire",
+      "Jedi Order",
+      "Alliance to Restore the Republic"
+    ],
+    "captains": [
+      "Galen Marek",
+      "Rahm Kota",
+      "Starkiller"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

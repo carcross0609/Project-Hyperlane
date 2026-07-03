@@ -1,0 +1,36 @@
+{
+  "name": "Wild Menagerie",
+  "wookieepedia_title": "Wild Menagerie",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wild_Menagerie",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Wild Menagerie was a Corellian Engineering Corporation YT-1930 light freighter that was owned by the bounty hunter Zan Ransom. Ransom heavily modified the freighter, improving its hyperdrive, life-support, weaponry, and security systems. He used the Wild Menagerie to transport the exotic creatures he captured as part of his trade.",
+  "data": {
+    "name": "Wild Menagerie",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1930",
+    "type": "Transport",
+    "cost": "208,000 credits",
+    "modifier": "Zan Ransom",
+    "length": "35 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "Quad laser cannon",
+      "Belly gun set to stun"
+    ],
+    "crew": "1",
+    "passengers": "1",
+    "capacity": "200 metric tons",
+    "consumables": "4 months",
+    "lifesupport": "Equipped",
+    "role": "Bounty hunter's ship",
+    "owners": "Zan Ransom"
+  },
+  "scraped": "2026-07-03"
+}

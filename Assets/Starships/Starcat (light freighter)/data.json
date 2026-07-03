@@ -1,0 +1,36 @@
+{
+  "name": "Starcat",
+  "wookieepedia_title": "Starcat (light freighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starcat_%28light_freighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Starcat was a customized light freighter used by the Happy Blasters. It was custom designed and built by Salem Victory and Dapp Solus.",
+  "data": {
+    "name": "Starcat",
+    "designer": "Salem Victory and Dapp Solus",
+    "manufacturer": "Custom built by Salem Victory and Dapp Solus",
+    "model": "Starcat-class Freighter",
+    "type": "Light freighter",
+    "length": "32.8 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "2 concussion missile launchers",
+      "3 double laser cannons"
+    ],
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "65 metric tons",
+    "role": "Personal vessel",
+    "affiliation": "Happy Blasters",
+    "captains": "Salem Victory"
+  },
+  "scraped": "2026-07-03"
+}

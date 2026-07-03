@@ -1,0 +1,30 @@
+{
+  "name": "Eclipse",
+  "wookieepedia_title": "Eclipse (Harrower-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eclipse_%28Harrower-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eclipse was a Harrower-class dreadnought belonging to the reconstituted Sith Empire that was present during the Battle of Corellia in 3640 BBY. The corrupted Jedi Master Tol Braga attempted to detonate the cruiser's engines above Coronet City's Government District, but the Jedi Knight known as the Hero of Tython stopped Braga and deactivated the engines.",
+  "data": {
+    "name": "Eclipse",
+    "manufacturer": "Taerab Starship Manufacturing",
+    "model": "Harrower-class dreadnought",
+    "type": "Battle cruiser",
+    "length": "≈800 meters",
+    "hdsystem": "Equipped",
+    "hull": "Heavily-reinforced hull plating",
+    "armament": [
+      "Turbolaser batteries",
+      "Quad laser cannons",
+      "Ion cannons",
+      "Proton torpedos",
+      "Concussion missile launchers"
+    ],
+    "crew": "2,400",
+    "role": "Command center",
+    "affiliation": "Sith Empire",
+    "owners": "Tol Braga"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Integrity",
+  "wookieepedia_title": "Integrity (Carrack-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Integrity_%28Carrack-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Integrity was a Carrack-class light cruiser of the Galactic Republic that served as the flagship of Home Fleet Strike Group Five under Lieutenant Commander Lorth Needa. It participated in the Battle of Coruscant and, along with other starships in its group, trapped the Separatist Alliance flagship Invisible Hand.",
+  "data": {
+    "name": "Integrity",
+    "model": "Carrack-class light cruiser",
+    "type": "Light cruiser",
+    "length": "350 meters",
+    "role": "Flagship",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Military"
+    ],
+    "navy": "Galactic Republic Navy",
+    "fleet": [
+      "Coruscant Home Defense Fleet",
+      "  Home Fleet Strike Group Five"
+    ],
+    "captains": "Lorth Needa"
+  },
+  "scraped": "2026-07-03"
+}

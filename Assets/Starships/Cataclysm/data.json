@@ -1,0 +1,21 @@
+{
+  "name": "Cataclysm",
+  "wookieepedia_title": "Cataclysm",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cataclysm",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Cataclysm was an Onager-class Star Destroyer in service to the Imperial Navy during the Imperial Era. At one point, the Star Destroyer was stationed near two gravity wells, and was approached by a Lambda-class T-4a shuttle flanked by a pair of TIE fighters. The Cataclysm was equipped with engines, a pair of superweapons at its bow, and two deflector shield generator domes. As an Onager, the Cataclysm was 1,288 meters in length.",
+  "data": {
+    "name": "Cataclysm",
+    "model": "Onager-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,288 meters",
+    "engine": "Equipped",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": "Superweapons (2)",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

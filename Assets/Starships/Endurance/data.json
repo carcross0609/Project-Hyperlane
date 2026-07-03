@@ -1,0 +1,48 @@
+{
+  "name": "Endurance",
+  "wookieepedia_title": "Endurance",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Endurance",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Endurance was a Venator-class Star Destroyer that served in the Open Circle Fleet's Fifth Fleet of the Galactic Republic's naval forces, where it served as the flagship of Admiral Shoan Kilian during the Clone Wars against the Confederacy of Independent Systems. It later crashed on Vanqor following crippling sabotage perpetrated by the young Boba Fett, who had attempted to kill the on-board Jedi Mace Windu using a bomb planted within his father's helmet. Windu and Anakin Skywalker were trapped in the ship's wreckage following the bomb's detonation until R2-D2 returned to Coruscant and requested help. Jedi Master Plo Koon, the Wolfpack, and Padawan Ahsoka Tano soon came to their aid and rescued Windu and Skywalker.",
+  "data": {
+    "name": "Endurance",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "navigation": "Equipped",
+    "armament": [
+      "8 DBY-827 heavy turbolaser turrets",
+      "2 Medium dual turbolaser cannons",
+      "Laser cannons",
+      "Proton torpedo launchers",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "Anakin Skywalker's Delta-7B Aethersprite-class light interceptor",
+      "Mace Windu's Delta-7B Aethersprite-class light interceptor"
+    ],
+    "bays": "Ventral hangar",
+    "escapepods": [
+      "Equipped",
+      "  Pod one",
+      "  Pod two"
+    ],
+    "role": [
+      "Battleship",
+      "Starfighter carrier"
+    ],
+    "destroyed": "21 BBY, Vanqor",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "fleet": "Fifth Fleet",
+    "captains": [
+      "Jedi General Mace Windu",
+      "Admiral Shoan Kilian"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

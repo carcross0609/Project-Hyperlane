@@ -1,0 +1,38 @@
+{
+  "name": "Unidentified DH-Omni Support Vessel",
+  "wookieepedia_title": "Unidentified DH-Omni Support Vessel (Agamar)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_DH-Omni_Support_Vessel_%28Agamar%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A DH-Omni Support Vessel was in service of the Confederacy of Independent Systems' navy during the Clone Wars against the Galactic Republic. The supply ship crashed on the planet Agamar in the Outer Rim Territories during a battle between Republic and Separatist forces. Following the war's conclusion and the deactivation of the Separatist Droid Army in 19 BBY, the vessel was left derelict on the planet's surface, and was used to house the super tactical droid General Kalani and his garrison of battle droids, which remained there until 2 BBY during the Galactic Civil War.",
+  "data": {
+    "name": "Unidentified DH-Omni Support Vessel",
+    "model": "Dual Hemisphere-Omni Support Vessel",
+    "type": "Supply ship",
+    "length": "908.78 meters",
+    "width": "1257.32 meters",
+    "height": "910.35 meters",
+    "armament": "None",
+    "complement": [
+      "3 Sheathipede-class transport shuttles",
+      "Proton bombs"
+    ],
+    "bays": "At least 1 main hangar",
+    "crew": "B1-series battle droids",
+    "passengers": "Droidekas",
+    "cargohandling": "Hangar cranes",
+    "othersystems": [
+      "External loudspeaker",
+      "Ray shield"
+    ],
+    "destroyed": "During the battle of Agamar",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Agamar garrison"
+    ],
+    "navy": "Confederacy of Independent Systems Navy",
+    "captains": "Kalani"
+  },
+  "scraped": "2026-07-03"
+}

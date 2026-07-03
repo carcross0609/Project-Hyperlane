@@ -1,0 +1,28 @@
+{
+  "name": "Scarlet Vertha",
+  "wookieepedia_title": "Scarlet Vertha/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scarlet_Vertha/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Scarlet Vertha was a Ghtroc Industries 720 light freighter owned by Nabrun Leids. It was custom made by the Morseerian and was said by other smugglers to have never been held by the Galactic Empire for inspection. The Scarlet Vertha was damaged by Jabba the Hutt after Leids never paid him for calling off all bounty hunters on Lieds.",
+  "data": {
+    "name": "Scarlet Vertha",
+    "manufacturer": "Ghtroc Industries",
+    "type": "720 light freighter",
+    "max_speed": "800 km/h",
+    "hyperdrive": "Class 1",
+    "shield_gen": "equipped",
+    "navigation": "equipped",
+    "armament": "1 double laser cannon",
+    "crew": "5",
+    "lifesupport": "Methane breathers only",
+    "affiliation": [
+      "Independent",
+      "Black Sun"
+    ],
+    "owners": "Nabrun Leids",
+    "captains": "Nabrun Leids"
+  },
+  "scraped": "2026-07-03"
+}

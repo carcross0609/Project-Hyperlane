@@ -1,0 +1,57 @@
+{
+  "name": "Jaster's Legacy",
+  "wookieepedia_title": "Jaster's Legacy",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jaster%27s_Legacy",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Jaster's Legacy ('JAST07) was the starship of the Mandalorian bounty hunter, Jango Fett, up until shortly after the Invasion of Naboo.",
+  "data": {
+    "name": "Jaster's Legacy",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Amphibious Interstellar Assault Transport/infantry",
+    "type": "Gunship",
+    "length": "31.5 meters",
+    "width": "30 meters (wingspan)",
+    "height": "12.5 meters",
+    "max_speed": "700 km/h",
+    "engine": "Oversized sublight engines (2)",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Twin laser turrets (2)",
+      "Rear twin laser turret (1)",
+      "Concussion missile launcher (4)",
+      "  5 concussion missiles standard load",
+      "Proton torpedo tube (2)",
+      "Light air-to-air rockets (8)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Rear gunner (1)",
+      "Turret Gunner (2)"
+    ],
+    "passengers": [
+      "Troops (50)",
+      "Prisoners (6)",
+      "IM-6 battlefield medical droid (1)",
+      "Astromech droid (2)"
+    ],
+    "capacity": [
+      "350 cubic meters",
+      "or",
+      "Repulsorlift assault vehicle (1)",
+      "Speeder bikes (4)"
+    ],
+    "role": [
+      "Aerial assault",
+      "Repulsorcraft"
+    ],
+    "destroyed": "32 BBY, Oovo IV",
+    "owners": [
+      "Jaster Mereel",
+      "Jango Fett"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

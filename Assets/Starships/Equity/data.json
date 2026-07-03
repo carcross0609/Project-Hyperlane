@@ -1,0 +1,30 @@
+{
+  "name": "Equity",
+  "wookieepedia_title": "Equity",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Equity",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Equity was a MC80 Liberty type Mon Calamari Star Cruiser in service to the Alliance to Restore the Republic and later the New Republic during the Galactic Civil War.",
+  "data": {
+    "name": "Equity",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC80 Star Cruisers",
+    "model": "MC80 Liberty type Star Cruiser",
+    "type": "Star Cruiser",
+    "role": [
+      "Carrier",
+      "Destroyer"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ],
+    "navy": [
+      "Alliance Fleet",
+      "New Republic Defense Fleet"
+    ],
+    "captains": "Captain Volahn"
+  },
+  "scraped": "2026-07-03"
+}

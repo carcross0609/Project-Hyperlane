@@ -1,0 +1,23 @@
+{
+  "name": "Goliath",
+  "wookieepedia_title": "Goliath",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Goliath",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Goliath was an Imperial escort carrier belonging to the starfleet of the Galactic Empire. Its main function was to carry starfighters.",
+  "data": {
+    "name": "Goliath",
+    "model": "Imperial escort carrier",
+    "type": "Carrier",
+    "armament": [
+      "10 Taim & Bak H-eights",
+      "Krupx missile delivery system"
+    ],
+    "complement": "1 wing of starfighters",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "captains": "Ros"
+  },
+  "scraped": "2026-07-03"
+}

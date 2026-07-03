@@ -1,0 +1,34 @@
+{
+  "name": "Wild Star",
+  "wookieepedia_title": "Wild Star",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wild_Star",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Wild Star was a modified Deep-X \"Explorer\", manufactured by Uulshos Manufacturing and modified by the techs of Fizzi's Slightly Used Starships.",
+  "data": {
+    "name": "Wild Star",
+    "manufacturer": "Uulshos Manufacturing",
+    "model": "Starfighter",
+    "type": "Modified DPx yacht",
+    "cost": "95,000 credits",
+    "modifier": "Fizzi's Slightly Used Starships",
+    "sysmods": "Engines",
+    "length": "12 m",
+    "max_speed": "1,300 km/h",
+    "engine": "Modified Boshaa-C'hi Ion Drive",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 8"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 Blaster cannons",
+    "crew": "1",
+    "passengers": "5",
+    "capacity": "50 metric tons",
+    "consumables": "6 months",
+    "affiliation": "Independent"
+  },
+  "scraped": "2026-07-03"
+}

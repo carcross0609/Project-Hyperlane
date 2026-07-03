@@ -1,0 +1,27 @@
+{
+  "name": "Pelagia",
+  "wookieepedia_title": "Pelagia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pelagia",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Pelagia was a New Republic troopship under the command of Captain Tekba during Operation Shadow Hand.",
+  "data": {
+    "name": "Pelagia",
+    "hdsystem": "Equipped",
+    "armament": "Several weapons-systems",
+    "complement": [
+      "T-65 X-wing starfighter flight group",
+      "Unknown number of armored vehicles"
+    ],
+    "passengers": "100,000 troops",
+    "role": [
+      "Carrier",
+      "Troopship"
+    ],
+    "destroyed": "10 ABY, Braxant Run",
+    "affiliation": "New Republic",
+    "captains": "Tekba"
+  },
+  "scraped": "2026-07-03"
+}

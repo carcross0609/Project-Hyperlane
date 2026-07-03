@@ -1,0 +1,125 @@
+{
+  "name": "Invisible Hand",
+  "wookieepedia_title": "Invisible Hand",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Invisible_Hand",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Invisible Hand was a modified Providence-class Dreadnought that served in the naval forces of the Confederacy of Independent Systems as the flagship of the navy and the command ship of Kaleesh Separatist General Grievous during the Clone Wars. Manufactured by Free Dac Volunteers Engineering Corps and Pammant Docks as the first of its class, the dreadnought was initially used by the Trade Federation, where it belonged to Viceroy Nute Gunray, but was given to Grievous after demanding control over the vessel.",
+  "data": {
+    "name": "Invisible Hand",
+    "manufacturer": [
+      "Free Dac Volunteers Engineering Corps",
+      "Pammant Docks"
+    ],
+    "model": "Modified Providence-class Dreadnought",
+    "type": [
+      "Battleship",
+      "Carrier/destroyer",
+      "Dreadnought"
+    ],
+    "sysmods": [
+      "Major design modifications",
+      "Hangars expanded",
+      "Reinforced weapons systems",
+      "Wizard's Tower; comms/sensor pod retrofitted"
+    ],
+    "length": "1,088 meters",
+    "width": "198 meters (649 ft, 7 in)",
+    "height": "347 meters (1,138 ft, 5 in)",
+    "max_accel": "2,500G (linear in open space)",
+    "mglt": "50",
+    "max_speed": "2,000 kph (1,240 mph)",
+    "engine": "4 Creveld-4 radial ion drives (equipped with emergency boosters)",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10.0 (backup)"
+    ],
+    "hdsystem": "Multiple hyperdrive units",
+    "power": [
+      "1 main reactor",
+      "Subsidiary/auxiliary reactors"
+    ],
+    "shield_gen": [
+      "2 deflector shield generators",
+      "1 atmospheric shield generator"
+    ],
+    "hull": "Thick armor",
+    "sensor": "Communications/sensor masts",
+    "armament": [
+      "14 heavy quad turbolaser turrets",
+      "34 dual heavy laser cannons",
+      "2 battleship ion cannons",
+      "12 heavy flak cannons/ mass-driver cannons (23 warheads each)",
+      "12 twin light ion cannons",
+      "Point-defense laser cannons",
+      "Anti-aircraft cannons",
+      "Heavy tractor beam projectors"
+    ],
+    "complement": [
+      "240 droid starfighters (20 squadrons)",
+      "  120 droid tri-fighters",
+      "  120 Vulture-class droid starfighters",
+      "440 assault vehicles",
+      "  160 Multi-Troop Transport",
+      "  Armored Assault Tanks",
+      "  Hailfire droid tanks",
+      "  OG-9 homing spider droids"
+    ],
+    "bays": "1 main hangar (expanded in modification)",
+    "escapepods": "Equipped",
+    "crew": [
+      "900 crewmembers",
+      "  Neimoidians",
+      "  OOM-series battle droids (commanders and pilots)",
+      "  Other conscripted crew",
+      "Partially cybernetically directed"
+    ],
+    "passengers": [
+      "1 legion-sized invasion force",
+      "  B1-series battle droids",
+      "  B2-series super battle droids",
+      "  Droidekas, including the Q-series",
+      "OOM-series security droids",
+      "Another 1.5 million deactivated battle droids"
+    ],
+    "cargohandling": [
+      "Freight shaft",
+      "Hangar cranes",
+      "Heavy lift platforms"
+    ],
+    "consumables": "Approx. 12,000 tonnes of exotic hypermatter fuel (annihilated per second)",
+    "lifesupport": "Air ducts (minimal atmospheric circulation)",
+    "communications": [
+      "Communication masts",
+      "Interstellar communications array"
+    ],
+    "othersystems": [
+      "Artificial gravity generators",
+      "Compressed reactant tanks",
+      "Inertial compensator",
+      "Tensor fields"
+    ],
+    "role": [
+      "Mobile command base",
+      "Naval flagship",
+      "Total planetary domination"
+    ],
+    "destroyed": "19 BBY, Coruscant",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ],
+    "navy": [
+      "Trade Federation fleet",
+      "Confederacy of Independent Systems Navy"
+    ],
+    "fleet": "Coruscant attack fleet",
+    "owners": [
+      "Nute Gunray",
+      "Grievous"
+    ],
+    "captains": "Lushros Dofine"
+  },
+  "scraped": "2026-07-03"
+}

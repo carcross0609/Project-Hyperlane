@@ -1,0 +1,39 @@
+{
+  "name": "Darth Vader's green Eta-2 Actis-class interceptor",
+  "wookieepedia_title": "Darth Vader's green Eta-2 Actis-class interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader%27s_green_Eta-2_Actis-class_interceptor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Darth Vader used this green-painted Eta-2 Actis-class light interceptor during his early days as a Sith apprentice, replacing the one he lost during the Battle of Coruscant.",
+  "data": {
+    "name": "Darth Vader's green Eta-2 Actis-class interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Eta series",
+    "model": "Eta-2 Actis-class light interceptor",
+    "type": "Starfighter",
+    "length": "5.47 meters",
+    "max_accel": "5,200 G",
+    "mglt": "118 MGLT",
+    "max_speed": "1,500 kph",
+    "engine": "Twin ion engines (2)",
+    "hyperdrive": "Class 1 (hyperspace transport ring required)",
+    "armament": [
+      "Laser cannons (2)",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 astromech droid"
+    ],
+    "affiliation": [
+      "Sith",
+      "Galactic Republic",
+      "Galactic Empire"
+    ],
+    "owners": [
+      "Darth Vader"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

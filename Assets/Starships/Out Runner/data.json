@@ -1,0 +1,35 @@
+{
+  "name": "Out Runner",
+  "wookieepedia_title": "Out Runner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Out_Runner",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Out Runner was an Alliance to Restore the Republic-affiliated YL-2200 light freighter. Following the Battle of Hoth, the crew of the Out Runner was dispatched by General Carlist Rieekan to locate the Treasure Trove, a GR-75 medium transport that failed to rendezvous with the Alliance Fleet beyond the Galactic Rim of the galaxy. The Out Runner located the disabled Treasure Trove among the Hoth asteroid field, its crew dead.",
+  "data": {
+    "name": "Out Runner",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YL-2200",
+    "type": "Light freighter",
+    "cost": [
+      "100,000 credits (new)",
+      "25,000 credits (used)"
+    ],
+    "length": "28.2 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "1 pilot; 1 gunner",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "role": "Freighter",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

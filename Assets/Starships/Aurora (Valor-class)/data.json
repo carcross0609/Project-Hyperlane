@@ -1,0 +1,35 @@
+{
+  "name": "Aurora",
+  "wookieepedia_title": "Aurora (Valor-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aurora_%28Valor-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Aurora was a heavily modified Valor-class cruiser that was in the service of the Republic Navy during the Great Galactic War and Cold War respectively.",
+  "data": {
+    "name": "Aurora",
+    "model": "Valor-class cruiser",
+    "type": "Cruiser",
+    "modifier": "Republic Military",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turbolaser cannons",
+      "Missiles",
+      "Tractor beam projector"
+    ],
+    "complement": "Shuttles (4+)",
+    "crew": "30+",
+    "role": [
+      "Cruiser",
+      "Commando training"
+    ],
+    "destroyed": "3643 BBY",
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "captains": [
+      "Kellian Jarro",
+      "Captain Ofaree"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

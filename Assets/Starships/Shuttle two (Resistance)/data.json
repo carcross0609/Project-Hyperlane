@@ -1,0 +1,21 @@
+{
+  "name": "Shuttle two",
+  "wookieepedia_title": "Shuttle two (Resistance)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shuttle_two_%28Resistance%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Shuttle two was one of three Resistance shuttles utilized by the Resistance to transport recruits off the planet Dantooine in an attempt to escape a First Order blockade around 34 ABY. A squadron of TIE/fo space superiority fighters dispatched by the Thunderer to destroy the shuttles managed to strike shuttle two during the escape, damaging its hyperdrive. Despite Ace and Jade Squadron's efforts to protect the shuttle while repairs were made, the TIE pilot Jace Rucklin blasted one of the shuttle's engines, sending it plummeting towards Dantooine's surface.",
+  "data": {
+    "name": "Shuttle two",
+    "model": "Resistance shuttle",
+    "type": "Shuttle",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "destroyed": "c. 34 ABY, over Dantooine",
+    "affiliation": "Resistance",
+    "navy": "Resistance navy",
+    "captains": "Unidentified shuttle pilot"
+  },
+  "scraped": "2026-07-03"
+}

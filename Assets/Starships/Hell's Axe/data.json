@@ -1,0 +1,31 @@
+{
+  "name": "Hell's Axe",
+  "wookieepedia_title": "Hell's Axe",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hell%27s_Axe",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hell's Axe was a modified Incom Corporation \"Explorer\" Scout Ship owned by Kin Laron. The Hell's Axe was extensively modified by Kin to have drastically superior sublight speed, maneuverability, hyperdrive, shields, and weapon systems from the ships stock model. Additionally, the ship featured an enlarged airlock which could accommodate Kin's space trooper armor, as well as an section of converted cargo space turned into an arsenal compartment.",
+  "data": {
+    "name": "Hell's Axe",
+    "manufacturer": "Incom Corporation",
+    "model": "Scout vessel",
+    "type": "\"Explorer\" Scout Ship",
+    "length": "15 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "3 laser cannons",
+    "crew": "1",
+    "capacity": "5 metric tons",
+    "consumables": "1 standard month",
+    "role": "Personal transport",
+    "owners": "Kin Laron"
+  },
+  "scraped": "2026-07-03"
+}

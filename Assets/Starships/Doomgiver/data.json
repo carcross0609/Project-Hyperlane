@@ -1,0 +1,33 @@
+{
+  "name": "Doomgiver",
+  "wookieepedia_title": "Doomgiver",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Doomgiver",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Doomgiver was an Imperial military carrier vessel used by elements of the Imperial Remnant.",
+  "data": {
+    "name": "Doomgiver",
+    "type": "Star Destroyer",
+    "length": ">1,600 meters",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Turbolasers",
+    "complement": [
+      "All Terrain Rapid Deployment Pods",
+      "TIE starfighters",
+      "Escape pods",
+      "Lambda-class T-4a shuttles"
+    ],
+    "passengers": [
+      "Stormtrooper units",
+      "Reborn soldiers"
+    ],
+    "role": "Carrier",
+    "destroyed": "12 ABY",
+    "affiliation": "Empire Reborn",
+    "owners": "Lord Hethrir",
+    "captains": "Admiral Galak Fyyar"
+  },
+  "scraped": "2026-07-03"
+}

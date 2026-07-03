@@ -1,0 +1,28 @@
+{
+  "name": "Atron's Mistress",
+  "wookieepedia_title": "Atron's Mistress",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Atron%27s_Mistress",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Atron's Mistress was a custom Zuraco Cargo Hauler owned by the Karazak Slavers Cooperative and used to transport slaves around the galaxy. The ship was commandeered by the Red Moons while on Gabredor III after destroying the Karazak base there and freeing the slaves.",
+  "data": {
+    "name": "Atron's Mistress",
+    "manufacturer": "Zuraco",
+    "model": "Zuraco Cargo Hauler",
+    "type": "Transport",
+    "length": "87.3 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": [
+      "x2 (primary)",
+      "x5 (backup)"
+    ],
+    "navigation": "Equipped",
+    "armament": "(1) medium turbolaser",
+    "crew": "4",
+    "skeleton": "2",
+    "passengers": "185 slaves",
+    "consumables": "2 months"
+  },
+  "scraped": "2026-07-03"
+}

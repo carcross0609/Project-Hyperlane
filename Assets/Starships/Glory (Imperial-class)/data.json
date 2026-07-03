@@ -1,0 +1,24 @@
+{
+  "name": "Glory",
+  "wookieepedia_title": "Glory (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Glory_%28Imperial-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Glory was an Imperial I-class Star Destroyer best known as the flagship of former Grand Admiral Demetrius Zaarin.",
+  "data": {
+    "name": "Glory",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "complement": "TIE/LN starfighters",
+    "destroyed": "3.5 ABY",
+    "affiliation": [
+      "Galactic Empire (fomerly)",
+      "Zaarin coup forces"
+    ],
+    "owners": "Demetrius Zaarin",
+    "captains": "Demetrius Zaarin"
+  },
+  "scraped": "2026-07-03"
+}

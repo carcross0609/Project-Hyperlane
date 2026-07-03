@@ -1,0 +1,35 @@
+{
+  "name": "Radiant VII",
+  "wookieepedia_title": "Radiant VII/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Radiant_VII/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Radiant VII was one of many Consular-class space cruisers that were used by the Galactic Republic to provide transport to the government's diplomats.",
+  "data": {
+    "name": "Radiant VII",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Republic Cruiser",
+    "model": "Space Cruiser",
+    "type": "Consular-class light cruiser",
+    "length": "115 meters",
+    "max_accel": "2,040 G",
+    "engine": "3 Dyne 577 Radial Atomizers",
+    "hyperdrive": "Class 2",
+    "hdrange": "Longe Voltrans tri-arc CD-3.2",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "escapepods": [
+      "Two 8-person escape pods",
+      "salon pod"
+    ],
+    "crew": "8",
+    "passengers": "16",
+    "capacity": "Varies, depends on mission and modular configuration",
+    "consumables": "1 year",
+    "destroyed": "32 BBY",
+    "affiliation": "Galactic Republic",
+    "captains": "Maoi Madakor"
+  },
+  "scraped": "2026-07-03"
+}

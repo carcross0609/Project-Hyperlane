@@ -1,0 +1,36 @@
+{
+  "name": "Exile II",
+  "wookieepedia_title": "Exile II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Exile_II",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Exile II was a sleek starship owned by the Sith known as the Stranger during the High Republic Era and used by his acolyte, the Sith assassin Mae-ho \"Mae\" Aniseya, on her quest to hunt down four Jedi who had been stationed on her homeworld of Brendok. In the Exile II, the assassin traveled to the planet Ueda, where she killed Jedi Master Indara, and the world Olega, where she killed Master Torbin. She and her associate \"Qimir,\" secretly her Sith Master, later traveled to the planet Khofar on the vessel to hunt down Master Kelnacca. The Stranger subsequently used the Exile II to bring Aniseya's sister, Verosha \"Osha\" Aniseya, to the planet Bal'demnic where he operated. The pair followed Mae to the planet Brendok in the Exile II, where Osha chose to train with the Stranger.",
+  "data": {
+    "name": "Exile II",
+    "manufacturer": "Santhe Corporation",
+    "model": "Proa-class X12",
+    "type": [
+      "Personal trimaran sporting vessel",
+      "Transport"
+    ],
+    "length": "6.71 meters (22 ft)",
+    "width": "3.62 meters (11 ft 10 in)",
+    "height": "2.4 meters (7 ft 10 in)",
+    "mglt": "110 MGLT",
+    "max_speed": "1,250 kph (776 mph)",
+    "engine": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "1 forward heavy laser cannon",
+      "twin downward medium laser cannons",
+      "Turret"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "communications": "Equipped",
+    "affiliation": "Sith",
+    "owners": "The Stranger"
+  },
+  "scraped": "2026-07-03"
+}

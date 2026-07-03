@@ -1,0 +1,22 @@
+{
+  "name": "Orion",
+  "wookieepedia_title": "Orion (DP20 gunship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orion_%28DP20_gunship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Orion was a DP20 gunship in the service of the Rebel Fleet during the Galactic Civil War.",
+  "data": {
+    "name": "Orion",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "DP20 gunship",
+    "type": "Gunship",
+    "length": "120 meters",
+    "shield_gen": "Equipped",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

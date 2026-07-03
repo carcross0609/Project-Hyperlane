@@ -1,0 +1,28 @@
+{
+  "name": "Dessin Dagger",
+  "wookieepedia_title": "Dessin's Dagger",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dessin%27s_Dagger",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Dessin's Dagger was a modified YT-1300 light freighter that was active during the Clone Wars. In about 21 BBY, the freighter traveled to the Druckenwell system and there, the vessel's crew attempted to fit a device to a luxury liner. However, the freight was detected by local Galactic Republic forces and a trio of Republic Z-95 Headhunters were sent to apprehend Dessin Dagger. The freighter sped off in an attempt to flee the system, and the Z-95s followed it in hot pursuit. However, the Heroes of Cularin&mdash;a group of freelance agents from the Cularin system&mdash;exited hyperspace in the Druckenwell system in a freighter, and their ship almost collided with the Dagger. The three fighters approached the YT-1300 and in desperation, Dessin Dagger opened fire on them and destroyed one of the Z-95s.",
+  "data": {
+    "name": "Dessin Dagger",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300 light freighter",
+    "type": "Freighter",
+    "length": "26.7 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Class 16 (backup)"
+    ],
+    "armament": "2 laser cannons",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "othersystems": "Tractor beam"
+  },
+  "scraped": "2026-07-03"
+}

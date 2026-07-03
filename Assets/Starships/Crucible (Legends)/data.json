@@ -1,0 +1,24 @@
+{
+  "name": "Crucible",
+  "wookieepedia_title": "Crucible/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crucible/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Crucible was a Jedi training cruiser owned by the Jedi Order that was used in the centuries leading up to and during the Clone Wars.",
+  "data": {
+    "name": "Crucible",
+    "model": "Jedi training cruiser",
+    "type": "Cruiser",
+    "length": "99 meters",
+    "hdsystem": "Equipped",
+    "role": "Transport",
+    "destroyed": "c. 20 BBY, Florrum",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "owners": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

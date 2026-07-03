@@ -1,0 +1,29 @@
+{
+  "name": "I Come In Peace",
+  "wookieepedia_title": "I Come In Peace/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/I_Come_In_Peace/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "I Come In Peace was one of the LAAT/i gunships used to bring wounded clones away from the destroyed Geonosis primary droid foundry Ray Shield Fortress during the Second Battle of Geonosis.",
+  "data": {
+    "name": "I Come In Peace",
+    "manufacturer": "Rothana Heavy Engineering",
+    "line": "LAAT series",
+    "model": "Low Altitude Assault Transport/infantry repulsorlift gunship",
+    "type": "Gunship",
+    "engine": "Two equipped",
+    "armament": [
+      "Anti-personnel laser turrets (2 at the front)",
+      "Composite-beam laser turrets (2 behind the cockpit and 2 others on the wings)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunner (2)"
+    ],
+    "role": "Troop Transport",
+    "affiliation": "Grand Army of the Republic"
+  },
+  "scraped": "2026-07-03"
+}

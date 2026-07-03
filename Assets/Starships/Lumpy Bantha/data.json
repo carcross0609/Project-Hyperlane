@@ -1,0 +1,20 @@
+{
+  "name": "Lumpy Bantha",
+  "wookieepedia_title": "Lumpy Bantha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lumpy_Bantha",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lumpy Bantha was a 720 light freighter manufactured by Ghtroc Industries. It was armed with a single laser cannon in one weapon mount, and quad laser cannon in the other. Unfortunately, the quad laser's power requirements meant that when it was activated, it drew power from another system at random, shutting that system down.",
+  "data": {
+    "name": "Lumpy Bantha",
+    "manufacturer": "Ghtroc Industries",
+    "model": "Light freighter",
+    "type": "720 light freighter",
+    "armament": [
+      "1 laser cannon",
+      "1 quad laser cannon"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

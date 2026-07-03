@@ -1,0 +1,22 @@
+{
+  "name": "Krayt",
+  "wookieepedia_title": "Krayt (shuttle)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krayt_%28shuttle%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Krayt was a Lambda-class T-4a shuttle under the employ the Galactic Empire.",
+  "data": {
+    "name": "Krayt",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Shuttle",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "role": [
+      "Shuttle"
+    ],
+    "destroyed": "c. 1 BBY",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

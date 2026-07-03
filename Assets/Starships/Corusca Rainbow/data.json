@@ -1,0 +1,45 @@
+{
+  "name": "Corusca Rainbow",
+  "wookieepedia_title": "Corusca Rainbow",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corusca_Rainbow",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Corusca Rainbow was an Immobilizer 418 cruiser under the command of Captain Uwlla Iillor. The ship was originally called the Black Asp and served in the Imperial Navy.",
+  "data": {
+    "name": "Corusca Rainbow",
+    "model": "Immobilizer 418 cruiser",
+    "type": "Capital",
+    "modifier": "Galactic Empire",
+    "sysmods": [
+      "1+ ion cannon(s)"
+    ],
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 8"
+    ],
+    "armament": [
+      "Light turbo quadlasers (20)",
+      "Gravity well projectors (4)"
+    ],
+    "crew": "2,320",
+    "passengers": "Troops (60)",
+    "capacity": "6,400 metric tons",
+    "consumables": "1 year",
+    "role": [
+      "Hyperspace Interdiction",
+      "Anti-Piracy"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "New Republic Defense Fleet"
+    ],
+    "captains": "Captain Uwlla Iillor"
+  },
+  "scraped": "2026-07-03"
+}

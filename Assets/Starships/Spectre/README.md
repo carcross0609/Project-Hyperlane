@@ -1,0 +1,17 @@
+# Spectre
+
+**Kind:** Individual ship  
+**Continuity:** Canon  
+**Source:** [Spectre](https://starwars.fandom.com/wiki/Spectre)
+
+The Spectre was a starship in the service of the Nihil pirates during the High Republic Era. It was commanded by a captain who had bad blood with Roborhyan, another member of the marauders. In 230 BBY, Thaya Ferr, the assistant of Eye of the Nihil Marchion Ro, reassigned Roborhyan from Ro's flagship, the Gaze Electric, to the Spectre, specifically aware of his past with its captain. When she reported on the transfer to Ro, displaying holograms of the relevant subjects, Ferr predicted that infighting onboard the ship would begin shortly.
+
+## Specifications
+
+- **Name:** Spectre
+- **Affiliation:** Nihil
+- **Captains:** A captain
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,18 @@
+# Huntress
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Huntress](https://starwars.fandom.com/wiki/Huntress)
+
+The Huntress was an EF76 Nebulon-B escort frigate under the service of the Rebel Alliance. The Huntress had tried unsuccessfully, to destroy the Nebulon-B2 frigate Ludwick, despite assistance with the Pakuuni Pirates, and with some starfighters armed with proton rockets rather than proton torpedoes. The Ludwick, which was waiting for the materials and equipment for the construction of space installation NL-1 and the Victory I-class Star Destroyer Stalwart was being protected by Imperial ace Maarek Stele. The Huntress though had escaped destruction.
+
+## Specifications
+
+- **Name:** Huntress
+- **Model:** EF76 Nebulon-B escort frigate
+- **Role:** Frigate
+- **Affiliation:** Rebel Alliance
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

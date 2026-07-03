@@ -1,0 +1,19 @@
+# Radiant Splendor
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Radiant Splendor](https://starwars.fandom.com/wiki/Radiant_Splendor)
+
+The Radiant Splendor was a SoroSuub Barzo cargo freighter that was flown during the waning years of the Galactic Republic. Shortly after the Battle of Naboo, the freighter was hauling a cargo of textiles, holocubes and a Corellian sand panther when the vessel's owner lost it to the Duros gambler Kelna Toodo in a game of dice. Toodo owed a debt to the Hutt casino-owner Beeda and he considered selling the ship and its cargo to raise some money to help pay off the Hutt, but he decided against that course of action because he was afraid of the panther and was concerned that he wouldn't be able to find a buyer for the creature on the black market. After Beeda tasked Toodo with eliminating a group of individuals who had meddled with the Hutt's affairs, Beeda utilized the freighter in his scheme, by having his Twi'lek accomplice Lyt Re deliberately lose the vessel to his targets in sabacc game that was held in the cantina The White Door, in the port town Akmalla on a world near Hutt Space. The individuals departed in the freighter and Toodo pursued them in the Z-95 Headhunter Hot Streak, planning to remotely de-activate the panther's cage, so that it could kill the agents, then to scuttle the Radiant Splendor and conceal the evidence of his crime. However, the individuals succeeded at fending off the panther, and they prevented Toodo from eliminating them.
+
+## Specifications
+
+- **Name:** Radiant Splendor
+- **Manufacturer:** SoroSuub Corporation
+- **Model:** Barzo cargo freighter
+- **Type:** Freighter
+- **Owners:** Kelna Toodo
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

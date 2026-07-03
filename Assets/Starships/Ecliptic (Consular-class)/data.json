@@ -1,0 +1,26 @@
+{
+  "name": "Ecliptic",
+  "wookieepedia_title": "Ecliptic (Consular-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ecliptic_%28Consular-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Ecliptic was a Judicial Department Consular-class cruiser. It was part of a mission dispatched to Asmeru in 33 BBY by Supreme Chancellor Finis Valorum to apprehend the leaders of the Nebula Front. Ecliptic and its sister ship, the Prominence, came under attack by Nebula Front forces; while the Prominence crashed onto Asmeru, Ecliptic was destroyed when it hit a mine over the planet while trying to escape. All twenty of its crew were killed.",
+  "data": {
+    "name": "Ecliptic",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Consular-class cruiser",
+    "length": "115 meters",
+    "engine": "Dyne 577 radial atomizer engines (3)",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "Longe Voltrans tri-arc CD-3.2 hyperdrive",
+    "escapepods": [
+      "Detachable salon pod",
+      "2 escape pods"
+    ],
+    "crew": "20",
+    "destroyed": "33 BBY",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

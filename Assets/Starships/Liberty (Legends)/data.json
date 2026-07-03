@@ -1,0 +1,36 @@
+{
+  "name": "Liberty",
+  "wookieepedia_title": "Liberty/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liberty/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Liberty was an MC80 Star Cruiser that served in the Alliance Fleet during the Galactic Civil War. It was the namesake of the Liberty type subclass. During the Battle of Endor, the Liberty was the first Rebel ship destroyed by the second Death Star battle station.",
+  "data": {
+    "name": "Liberty",
+    "model": "MC80 Liberty type Star Cruiser",
+    "complement": [
+      "Green Squadron",
+      "Gold Squadron",
+      "Blue Squadron",
+      "Red Squadron",
+      "Bandit Squadron",
+      "Lambda-class T-4a shuttles",
+      "  Compassion",
+      "  AA-23",
+      "Otana",
+      "Sabra"
+    ],
+    "role": [
+      "Command ship",
+      "Carrier"
+    ],
+    "commission": "By 19 BBY",
+    "destroyed": "4 ABY",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Alliance Fleet",
+    "fleet": "Liberty Task Force",
+    "captains": "Admiral Yamarus"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Eclipse",
+  "wookieepedia_title": "Eclipse (Eclipse-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eclipse_%28Eclipse-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eclipse was the first Eclipse-class dreadnought ever constructed and the lead ship and prototype of its class. It was built as a flagship for Emperor Palpatine, who used it after being reborn into one of his clone bodies. Both a powerful technological tool and a potent psychological weapon, the Eclipse boasted a planet's worth of weaponry and was almost unstoppable.",
+  "data": {
+    "name": "Eclipse",
+    "manufacturer": "Kuat Drive Yards",
+    "line": [
+      "Super Star Destroyer",
+      "  Star Dreadnought",
+      "  Space station"
+    ],
+    "model": "Eclipse-class dreadnought",
+    "type": [
+      "Super Star Destroyer",
+      "  Star Dreadnought",
+      "  Space station"
+    ],
+    "length": "17,500 meters",
+    "max_accel": "940 G",
+    "engine": "6 enhanced sublight engines",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 6.0"
+    ],
+    "hdsystem": "Enhanced hyperdrive system",
+    "hull": "Jet-black durasteel and quadranium alloyed hull",
+    "armament": [
+      "1 superlaser",
+      "Resonance Torpedo Launcher",
+      "550 heavy laser cannons",
+      "500 turbolasers",
+      "10 gravity well projectors",
+      "100 tractor beams",
+      "75 ion cannons"
+    ],
+    "complement": [
+      "50 TIE/IN interceptor squadrons",
+      "8 TIE/sa bomber squadrons",
+      "100 All Terrain Armored Transports",
+      "5 prefabricated garrison bases",
+      "1 Royal Guard legion",
+      "1 CompForce Assault Battalion",
+      "Imperial Sovereign Protectors"
+    ],
+    "crew": "708,470; 4,175 gunners",
+    "skeleton": "88,500",
+    "passengers": "150,000 troops",
+    "capacity": "600,000 tons",
+    "consumables": "10 years",
+    "communications": "Main comm array, long-range communications array",
+    "role": [
+      "Battleship (Dreadnuaght)",
+      "Command ship",
+      "Carrier"
+    ],
+    "destroyed": "10 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Zann Consortium (briefly)",
+      "Dark Empire"
+    ],
+    "owners": "Palpatine/Darth Sidious",
+    "captains": "Palpatine/Darth Sidious"
+  },
+  "scraped": "2026-07-03"
+}

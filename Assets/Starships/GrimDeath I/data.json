@@ -1,0 +1,26 @@
+{
+  "name": "GrimDeath I",
+  "wookieepedia_title": "GrimDeath I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GrimDeath_I",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The GrimDeath I was a converted Victory-class Star Destroyer, used as a pirate vessel during the Galactic Civil War. It staged raids in the Woldona system before heading to Galpos II, and was suspected to be linked with the Alliance to Restore the Republic. Spacetrooper Platoon 243-XT was tasked with capturing the ship.",
+  "data": {
+    "name": "GrimDeath I",
+    "manufacturer": "Rendili StarDrive",
+    "type": "Victory-class Star Destroyer",
+    "modifier": "Pirates",
+    "length": "900 meters",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "armament": "Equipped",
+    "crew": "More than 300",
+    "role": "Pirate vessel",
+    "affiliation": [
+      "Galactic Republic",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Eye of Sion",
+  "wookieepedia_title": "Eye of Sion",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eye_of_Sion",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eye of Sion was a large hyperspace transport ring built by forces under the supervision of the witch Morgan Elsbeth, with the intent of reaching and rescuing Grand Admiral Thrawn from exile in another galaxy.",
+  "data": {
+    "name": "Eye of Sion",
+    "manufacturer": "Santhe Shipyards (modified hyperdrive cores)",
+    "model": "Prototype",
+    "type": "Imperial I-class Star Destroyer hyperspace transport ring",
+    "width": "1,000 meters (3,300 feet) (diameter)",
+    "height": "1,000 meters (3,300 feet) (diameter)",
+    "mglt": "60 mglt",
+    "engine": [
+      "Main engines (3)",
+      "Secondary engines (4)"
+    ],
+    "hdrange": "Extragalactic",
+    "hdsystem": [
+      "Three hyperdrive core clusters",
+      "  7 SSD-classed"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Sophisticated navigation computer",
+    "armament": [
+      "Quad turbolasers (6)",
+      "Orbital mines (100+)"
+    ],
+    "complement": [
+      "RP82 Fiend fighters",
+      "  Shin Hati's Fiend fighter",
+      "  Marrok's Fiend fighter",
+      "1 Scion shuttle",
+      "1 Eta-class shuttle",
+      "  Baylan's shuttle"
+    ],
+    "bays": "Airlock",
+    "crew": [
+      "Star Navigator Droids",
+      "Scout guards"
+    ],
+    "passengers": "5",
+    "lifesupport": "Equipped",
+    "communications": "Holoprojector",
+    "role": "Extragalactic travel",
+    "commission": "9 ABY",
+    "affiliation": [
+      "Thrawn's forces",
+      "  Morgan Elsbeth's forces"
+    ],
+    "owners": "Morgan Elsbeth",
+    "captains": "Thrawn"
+  },
+  "scraped": "2026-07-03"
+}

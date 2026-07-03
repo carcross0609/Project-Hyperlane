@@ -1,0 +1,23 @@
+{
+  "name": "Unit Two",
+  "wookieepedia_title": "Unit Two (Galactic Empire)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unit_Two_%28Galactic_Empire%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Ground_vehicle",
+  "description": "Unit Two was a troop transport using by a contingent in the Galactic Empire's Imperial Army led by Lieutenant Krole.",
+  "data": {
+    "name": "Unit Two",
+    "model": "Imperial troop transport",
+    "type": "Troop transport",
+    "armament": "1 dual laser cannon",
+    "crew": "1 pilot",
+    "passengers": "At least 8",
+    "role": "Transporting soldiers",
+    "affiliation": [
+      "Galactic Empire",
+      "  Krole's contingent"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

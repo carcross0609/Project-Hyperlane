@@ -1,0 +1,27 @@
+{
+  "name": "Reliance I",
+  "wookieepedia_title": "Reliance I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reliance_I",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Reliance I was a Republic command ship used by the Galactic Republic around 4000 BBY. It served as the flagship of Ulic Qel-Droma during the opening stages of the Great Sith War.",
+  "data": {
+    "name": "Reliance I",
+    "type": "Republic command ship",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "othersystems": [
+      "Atmospheric containment field",
+      "Infirmary"
+    ],
+    "role": [
+      "Battleship",
+      "Command ship"
+    ],
+    "affiliation": "Galactic Republic",
+    "navy": "Republic Navy",
+    "captains": "Fleet Captain Orley Vanicus"
+  },
+  "scraped": "2026-07-03"
+}

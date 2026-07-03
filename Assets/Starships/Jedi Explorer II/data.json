@@ -1,0 +1,24 @@
+{
+  "name": "Jedi Explorer II",
+  "wookieepedia_title": "Jedi Explorer II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Explorer_II",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "Jedi Explorer II was a personal starship built by Luke Skywalker to replace his former Jedi Explorer. He used it during the end of Operation Shadow Hand.",
+  "data": {
+    "name": "Jedi Explorer II",
+    "type": "Freighter",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "crew": "2",
+    "skeleton": "1",
+    "role": "Shuttle",
+    "affiliation": [
+      "Luke Skywalker",
+      "New Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

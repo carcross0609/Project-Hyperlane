@@ -1,0 +1,19 @@
+{
+  "name": "Guild",
+  "wookieepedia_title": "Guild",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Guild",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Guild was a pair of Lambda-class T-4a shuttles in service to the Rebel Alliance during the Galactic Civil War. They, along with sister group Trail, were part of the defence against an attack by the Galactic Empire on a Rebel installation comprised of parked A-wings whose pilots were being delivered by Utility Tug T-DP, four Class-C cargo containers Berm, Class-B cargo container Clip, and transports Goode. The shuttles were destroyed in the battle, along with the entire installation.",
+  "data": {
+    "name": "Guild",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Shuttle",
+    "length": "20 meters",
+    "role": "Shuttle",
+    "destroyed": "3 ABY",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

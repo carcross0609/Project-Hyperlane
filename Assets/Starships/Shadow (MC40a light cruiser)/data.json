@@ -1,0 +1,33 @@
+{
+  "name": "Shadow",
+  "wookieepedia_title": "Shadow (MC40a light cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shadow_%28MC40a_light_cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Shadow was an MC40a light cruiser in the service to the Rebel Alliance during the Galactic Civil War.",
+  "data": {
+    "name": "Shadow",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC40a light cruiser",
+    "type": "Light cruiser",
+    "length": "500 meters",
+    "armament": [
+      "Turbolaser turrets (14)",
+      "Warhead launchers (2)",
+      "Ion cannons (18)",
+      "Heavy tractor beam projectors (6)"
+    ],
+    "complement": "Starfighter squadron (1)",
+    "crew": [
+      "Crewmen (3723)",
+      "Gunners (35)"
+    ],
+    "passengers": "650 troops",
+    "role": "Cruiser",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Alliance Fleet"
+  },
+  "scraped": "2026-07-03"
+}

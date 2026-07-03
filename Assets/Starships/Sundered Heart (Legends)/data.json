@@ -1,0 +1,45 @@
+{
+  "name": "Sundered Heart",
+  "wookieepedia_title": "Sundered Heart/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sundered_Heart/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sundered Heart was a CR70 corvette used by Bail Organa around the time of the Declaration of a New Order. It was later heavily modified and converted into a CR90 corvette. During the early years of the Galactic Civil War, the Sundered Heart was the flagship of Captain Raymus Antilles.",
+  "data": {
+    "name": "Sundered Heart",
+    "model": [
+      "CR70 corvette (originally)",
+      "Modified CR90 corvette (after retrofitting)"
+    ],
+    "type": "Corvette",
+    "length": "150 meters",
+    "max_accel": "3,400 G",
+    "hyperdrive": "Class 2.0",
+    "countermeasures": "Energy flux device",
+    "armament": [
+      "Taim & Bak H9 turbolasers (2)",
+      "Laser cannons (4)"
+    ],
+    "crew": "46 standard (could be up to 165)",
+    "role": [
+      "Corvette",
+      "Command ship"
+    ],
+    "affiliation": [
+      "High Council of Alderaan",
+      "Alderaanian Resistance",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": [
+      "Royal Alderaan Civil Fleet",
+      "Alliance Fleet"
+    ],
+    "owners": [
+      "Bail Prestor Organa",
+      "Raymus Antilles"
+    ],
+    "captains": "Captain Raymus Antilles"
+  },
+  "scraped": "2026-07-03"
+}

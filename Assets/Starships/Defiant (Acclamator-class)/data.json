@@ -1,0 +1,35 @@
+{
+  "name": "Defiant",
+  "wookieepedia_title": "Defiant (Acclamator-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defiant_%28Acclamator-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Defiant was an Acclamator-class assault ship. The Defiant first saw service in the Republic Navy during the Clone Wars, where it was adorned with lateral red markings port and starboard of the centerline and wore the symbol of the Open Circle Fleet. It later served in the Imperial Navy during the Galactic Civil War, by which time it had its markings removed.",
+  "data": {
+    "name": "Defiant",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Acclamator-class assault ship",
+    "type": "Assault ship",
+    "length": "752 meters",
+    "width": "460 meters",
+    "height": [
+      "200 meters (with landing gear)",
+      "183 meters (in flight)"
+    ],
+    "role": [
+      "Transport",
+      "Medium frigate"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ],
+    "navy": [
+      "Republic Navy",
+      "Imperial Navy"
+    ],
+    "fleet": "Open Circle Fleet"
+  },
+  "scraped": "2026-07-03"
+}

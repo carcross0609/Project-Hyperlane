@@ -1,0 +1,31 @@
+{
+  "name": "Long Run",
+  "wookieepedia_title": "Long Run",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Long_Run",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Long Run was a Rebel Alliance barge piloted by Boo Rawl. In 3 ABY, it was used to steal a Colony Class 23669 power generator from the Galactic Empire on Kuat while disguised as an Imperial barge, 36DD. It was modified by Rawl who upgraded the shields and removed some of the cargo and living space in the bow to create space for a hidden turbolaser mount.",
+  "data": {
+    "name": "Long Run",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "BD-series",
+    "type": "Barge driver",
+    "length": "110 meters",
+    "hyperdrive": [
+      "x3 (Primary)",
+      "x15 (Backup)"
+    ],
+    "armament": "Turbolaser cannon (1)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "2",
+    "capacity": "75,000 metric tons",
+    "consumables": "3 months",
+    "affiliation": "Rebel Alliance",
+    "aliases": "36DD"
+  },
+  "scraped": "2026-07-03"
+}

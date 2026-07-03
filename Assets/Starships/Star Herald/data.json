@@ -1,0 +1,30 @@
+{
+  "name": "Star Herald",
+  "wookieepedia_title": "Star Herald",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Herald",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Star Herald was a top-of-the-line prototype scout ship that was developed by the Galactic Empire around 18 BBY. It had a long, arrow-like hull supporting a tractor beam projector, and it housed at least one probe that could go underwater.",
+  "data": {
+    "name": "Star Herald",
+    "type": "Scout ship",
+    "hdsystem": "Equipped",
+    "armament": "At least 2 blaster cannons",
+    "complement": "Probes",
+    "othersystems": "Tractor beam projector",
+    "role": "Scout ship",
+    "commission": "c. 18 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "Graf family"
+    ],
+    "navy": "Imperial Navy",
+    "owners": [
+      "Visler Aqorian Korda III",
+      "Lina Graf",
+      "Emil Graf"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

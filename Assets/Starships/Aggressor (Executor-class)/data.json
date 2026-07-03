@@ -1,0 +1,23 @@
+{
+  "name": "Aggressor",
+  "wookieepedia_title": "Aggressor (Executor-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aggressor_%28Executor-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Aggressor was an Executor-class Star Dreadnought in the service of the Galactic Empire. Commanded by Admiral Roek, the Aggressor and a force of five Imperial-class Star Destroyers were part of the fleet that patrolled the Inner Rim. Six months after the Battle of Endor in 4 ABY, the Aggressor and its escorts were recalled to the Imperial shipyards at Corellia, where they defended the Imperial withdrawal from the system as the New Republic&mdash;formerly the Rebel Alliance&mdash;began conquering planets in the Core Worlds.",
+  "data": {
+    "name": "Aggressor",
+    "model": "Executor-class Star Dreadnought",
+    "type": "Super Star Destroyer",
+    "role": "Command ship",
+    "destroyed": "5 ABY, Corellian system",
+    "affiliation": "Galactic Empire",
+    "owners": "Josef Grunger",
+    "captains": [
+      "Admiral Roek",
+      "Grand Admiral Josef Grunger"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

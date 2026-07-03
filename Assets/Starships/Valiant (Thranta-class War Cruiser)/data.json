@@ -1,0 +1,28 @@
+{
+  "name": "Valiant",
+  "wookieepedia_title": "Valiant (Thranta-class War Cruiser)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Valiant_%28Thranta-class_War_Cruiser%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Thranta-class War Cruiser Valiant was the sister ship of Courage and Fidelity. When Alderaan disarmed after the Clone Wars, Valiant and its sister ships were assigned to escort the Alderaanian War Frigate Another Chance, which had been turned into an armory ship, carrying the military's surrendered weapons away from the planet.",
+  "data": {
+    "name": "Valiant",
+    "model": "Thranta-class War Cruiser",
+    "type": "Light Cruiser",
+    "length": "Around 350 meters",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Five heavy turbolasers",
+      "Ten laser cannons"
+    ],
+    "role": [
+      "Warship",
+      "Escort"
+    ],
+    "affiliation": "New Republic",
+    "captains": "Captain Aril Nunb"
+  },
+  "scraped": "2026-07-03"
+}

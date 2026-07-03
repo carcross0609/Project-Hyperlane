@@ -1,0 +1,28 @@
+{
+  "name": "Zaff Jendinpurg",
+  "wookieepedia_title": "Zaff Jendinpurg",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zaff_Jendinpurg",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Zaff Jendinpurg was an EF76 Nebulon-B escort frigate that belonged to the Galactic Empire. In 0 ABY, it was assigned to be the escort frigate of the Star Galleon-class frigate Emperor's Will as the treasure ship traveled to the planet Esseles. However, on the way there, both the Zaff Jendinpurg and its charge were suddenly brought out of hyperspace by asteroids that had been dragged in front of their course by the Far Orbit, a Nebulon-B privateer vessel serving the Rebel Alliance. The Far Orbit quickly dispatched the Zaff Jendinpurg before seizing the Emperor's Will valuable cargo.",
+  "data": {
+    "name": "Zaff Jendinpurg",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "length": "300 meters",
+    "engine": "Equipped",
+    "hyperdrive": "Enabled",
+    "shield_gen": "Enabled",
+    "armament": [
+      "12 turbolaser cannons",
+      "12 laser cannons",
+      "2 tractor beam generators"
+    ],
+    "complement": "24 starfighters",
+    "role": "Escort frigate",
+    "destroyed": "0 ABY",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

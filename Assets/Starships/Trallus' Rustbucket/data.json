@@ -1,0 +1,29 @@
+{
+  "name": "Trallus' Rustbucket",
+  "wookieepedia_title": "Trallus' Rustbucket",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trallus%27_Rustbucket",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Trallus' Rustbucket was a dilapidated Ghtroc Industries freighter. It was stolen from Kwenn Space Station by spacers attempting to escape the Taloron Hunter Crutag and his crew of bounty hunters. While trying to resupply at the planet Trinta, the ship was shot down by Crutag, who was piloting his own vessel, the Scent of Fear.",
+  "data": {
+    "name": "Trallus' Rustbucket",
+    "manufacturer": "Ghtroc Industries",
+    "type": "Freighter",
+    "cost": "15,000 credits",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 18"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "3 weeks"
+  },
+  "scraped": "2026-07-03"
+}

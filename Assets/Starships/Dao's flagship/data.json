@@ -1,0 +1,41 @@
+{
+  "name": "Dao's flagship",
+  "wookieepedia_title": "Dao's flagship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dao%27s_flagship",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Admiral Dao operated a Venator-class Star Destroyer as his flagship, active as part of the Galactic Republic's naval forces. Using it to command a relief supply fleet, the flagship was stationed above the planet Ryloth during the Clone Wars in 22 BBY. The Star Destroyer fought to hold off the Separatist Alliance's blockade of warship that had launched an invasion of Ryloth.",
+  "data": {
+    "name": "Dao's flagship",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "power": "Main reactor",
+    "shield_gen": "Equipped",
+    "armament": [
+      "8 DBY-827 heavy turbolaser turrets",
+      "52 point-defense laser cannons",
+      "4 proton torpedo launchers",
+      "6 tractor beam projectors"
+    ],
+    "crew": [
+      "Clone navigation officers",
+      "Clone troopers"
+    ],
+    "communications": "Equipped",
+    "role": [
+      "Battleship",
+      "Flagship",
+      "Starfighter carrier"
+    ],
+    "destroyed": "22 BBY, Ryloth system",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "fleet": "Dao's fleet",
+    "captains": "Dao"
+  },
+  "scraped": "2026-07-03"
+}

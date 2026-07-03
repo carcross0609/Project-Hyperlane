@@ -1,0 +1,39 @@
+{
+  "name": "Bothan-5",
+  "wookieepedia_title": "Bothan-5",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bothan-5",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Bothan-5 was a New Republic Correctional Transport that carried prisoners of the New Republic. The mercenary crew of Ranzar Malk were sent to rescue the prisoner Qin from the prison ship, utilizing the Razor Crest, the starship of the Mandalorian bounty hunter Din Djarin. Against Djarin's wishes, the crew killed the sole living crewmember aboard, Lieutenant Lant Davan, who activated a distress signal before his death, leading New Republic forces to the prison ship's location. After rescuing Qin, the crew betrayed Djarin and left him trapped aboard the ship, but Djarin escaped and incapacitated the mercenaries, imprisoning them within a cell aboard the Bothan-5.",
+  "data": {
+    "name": "Bothan-5",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CR-225T",
+    "type": "Prison ship",
+    "length": "173 meters (576 ft, 7 in)",
+    "width": "44 meters (144 ft, 4 in)",
+    "height": "26.85 meters (88 ft, 1 in)",
+    "mglt": "70 mglt",
+    "engine": "CEC-5900hh ion engines",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "sensor": "Sensor dish",
+    "armament": "Double laser cannons (3)",
+    "crew": [
+      "At least 1 New Republic soldier/corrections officer",
+      "N5 sentry droids",
+      "R1 security droids",
+      "At least 2 MSE-6 series repair droids"
+    ],
+    "passengers": "Prisoners",
+    "communications": "Communications dish",
+    "role": "Prisoner transport",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Correctional Corps"
+    ],
+    "captains": "Lant Davan"
+  },
+  "scraped": "2026-07-03"
+}

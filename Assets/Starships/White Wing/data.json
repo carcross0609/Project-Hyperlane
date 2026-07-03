@@ -1,0 +1,38 @@
+{
+  "name": "White Wing",
+  "wookieepedia_title": "White Wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/White_Wing",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The White Wing was a customized YZ-900 freighter. The ship sacrificed weaponry and added extensive droid automation; this lowered the amount of crewmen necessary to run the ship, so much that a single individual could pilot the ship.",
+  "data": {
+    "name": "White Wing",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YZ series",
+    "model": "YZ-900 freighter",
+    "type": "Light freighter",
+    "cost": "Used: 300,000 credits",
+    "length": "54.5 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Backup Class 4"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Double heavy laser cannon turrets (2)",
+      "Double laser cannons (2)"
+    ],
+    "crew": "3",
+    "skeleton": "1",
+    "passengers": "14",
+    "capacity": "500 metric tons",
+    "consumables": "9 months",
+    "role": "Freighter",
+    "affiliation": [
+      "Alliance to Restore the Republic (rumored)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

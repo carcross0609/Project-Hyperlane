@@ -1,0 +1,33 @@
+{
+  "name": "Dark Revenge",
+  "wookieepedia_title": "Dark Revenge",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dark_Revenge",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Dark Revenge was a DP20 gunship that served as the command vessel for the privateer Dharus during the time of the Galactic Civil War. Dharus' Buccaneers utilized the warship in their dealings along the Leisure Corridor, attacking vessels and coming into conflict with the Imperial Navy.",
+  "data": {
+    "name": "Dark Revenge",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "DP20 gunship",
+    "type": "Modified anti-starfighter warship",
+    "length": "120 meters",
+    "max_speed": "1000 km/h",
+    "hdrange": [
+      "Class 1.5",
+      "Backup Class 8"
+    ],
+    "armament": [
+      "8 double turbolaser batteries",
+      "6 quad laser cannons",
+      "4 concussion missile tubes"
+    ],
+    "crew": "46",
+    "capacity": "300 metric tons",
+    "consumables": "5 months",
+    "role": "Command vessel",
+    "affiliation": "Dharus' Buccaneers",
+    "captains": "Dharus"
+  },
+  "scraped": "2026-07-03"
+}

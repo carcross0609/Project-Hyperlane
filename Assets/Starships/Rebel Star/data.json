@@ -1,0 +1,22 @@
+{
+  "name": "Rebel Star",
+  "wookieepedia_title": "Rebel Star",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rebel_Star",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Rebel Star was a EF76 Nebulon-B escort frigate in service to the Alliance to Restore the Republic, and then utilized by the New Republic till 10 ABY. Captain Huoba Neva was given command for it due to her actions in the Illoud system.",
+  "data": {
+    "name": "Rebel Star",
+    "model": "EF76 Nebulon-B escort frigate",
+    "role": "Frigate",
+    "destroyed": "10 ABY",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ],
+    "navy": "New Republic Defense Fleet",
+    "captains": "Huoba Neva"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Bail Jumper",
+  "wookieepedia_title": "Bail Jumper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bail_Jumper",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Bail Jumper was a modified Incom T-65B X-wing starfighter, painted black and bronze. The cybernetic pilot, whose implants negated the need for an astromech droid, replaced the standard astromech socket with a fifth fire-linked laser cannon.",
+  "data": {
+    "name": "Bail Jumper",
+    "manufacturer": "Incom Corporation",
+    "line": "X-wing starfighter",
+    "model": "Modified T-65B",
+    "type": "Starfighter",
+    "length": "12.5 meters",
+    "hyperdrive": "1",
+    "armament": [
+      "5 fire-linked Laser cannons",
+      "2 Proton torpedo launchers, 3 torpedoes each"
+    ],
+    "crew": "1",
+    "passengers": "0",
+    "consumables": "1 week",
+    "destroyed": "25 ABY, Yavin system",
+    "affiliation": "Tenloss Syndicate",
+    "owners": "A cyborg pilot"
+  },
+  "scraped": "2026-07-03"
+}

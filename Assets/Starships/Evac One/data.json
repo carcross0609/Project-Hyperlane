@@ -1,0 +1,41 @@
+{
+  "name": "Evac One",
+  "wookieepedia_title": "Evac One",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Evac_One",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Evac One was an Imperial Gozanti-class cruiser originally known as Transport Ship 63378 which was stolen from the Galactic Empire and later used as an evac ship by the Spectres.",
+  "data": {
+    "name": "Evac One",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Imperial Gozanti-class cruiser",
+    "type": "Cruiser",
+    "length": "63.8 meters",
+    "width": "32 meters",
+    "height": "14.7 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Dorsal twin laser cannon turret (1)",
+      "Ventral heavy laser cannon turret (1)"
+    ],
+    "complement": [
+      "TIE/ln space superiority starfighters (1) (Rebel control)",
+      "  Rebels TIE fighter (Rebel control)",
+      "TIE/ad v1s (1) (Rebel control)",
+      "  The Inquisitor's TIE Advanced (Rebel control)"
+    ],
+    "crew": "Stormtrooper squads (1)",
+    "role": [
+      "Transport",
+      "Evac ship"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Spectres"
+    ],
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

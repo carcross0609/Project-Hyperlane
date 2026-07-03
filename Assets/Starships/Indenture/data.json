@@ -1,0 +1,29 @@
+{
+  "name": "Indenture",
+  "wookieepedia_title": "Indenture",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Indenture",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Indenture was a yellow and white Firespray-31-class patrol and attack ship that was piloted by Krassis Trelix as part of the Karazak Slavers Cooperative. The ship was notorious for traveling under multiple phony aliases and transponder IDs, including the Salvation.",
+  "data": {
+    "name": "Indenture",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Firespray-31-class patrol and attack craft",
+    "type": [
+      "Patrol craft",
+      "Prisoner transport"
+    ],
+    "crew": "Pilot",
+    "passengers": "Slave",
+    "role": [
+      "Smuggler transport",
+      "Slaver guild transport"
+    ],
+    "destroyed": "8 ABY",
+    "affiliation": "Karazak Slavers Cooperative",
+    "captains": "Krassis Trelix",
+    "aliases": "Salvation"
+  },
+  "scraped": "2026-07-03"
+}

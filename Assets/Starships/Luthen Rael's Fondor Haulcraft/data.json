@@ -1,0 +1,63 @@
+{
+  "name": "Luthen Rael's Fondor Haulcraft",
+  "wookieepedia_title": "Luthen Rael's Fondor Haulcraft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Luthen_Rael%27s_Fondor_Haulcraft",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Luthen Rael's Fondor Haulcraft was a heavily modified V-21.1 Chevlex in use by Luthen Rael in 5 BBY. The ship, which Rael referred to as \"the Fondor,\" had an added droid Mod serving as a co-pilot as well as multiple hidden countermeasures such as laser beams and a projectile launcher.",
+  "data": {
+    "name": "Luthen Rael's Fondor Haulcraft",
+    "manufacturer": "Fondor Yards Commercial Ventures",
+    "model": "Modified V-21.1 Chevlex",
+    "type": "Light haulcraft transport",
+    "modifier": "Luthen Rael",
+    "sysmods": [
+      "Engine units",
+      "Countermeasures"
+    ],
+    "length": "25.82 meters",
+    "width": "21.71 meters (with wings out)",
+    "height": "5.49 meters (with cannon deployed)",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "target": "Autonomous targeting computer",
+    "maincomp": "Fondor Droid Mod",
+    "countermeasures": [
+      "Laser beams",
+      "Ballistic chaff launcher"
+    ],
+    "armament": [
+      "2 forward laser cannons",
+      "Dorsal double laser cannon turret (hidden)",
+      "Retractable antipersonnel laser cannons",
+      "Offensive tractor beam projector"
+    ],
+    "complement": [
+      "1 speeder bike",
+      "Ikas-Adno NovaKite 35-E Porto"
+    ],
+    "escapepods": "1 equipped",
+    "crew": [
+      "1 pilot (aided by a Fondor Droid Mod)"
+    ],
+    "skeleton": "1 pilot",
+    "passengers": "At least one",
+    "cargohandling": "2 load-bearing cargo arms",
+    "lifesupport": "Equipped",
+    "communications": "Cockpit comlink",
+    "othersystems": [
+      "Added stealth technology",
+      "Heat dissipation matrix"
+    ],
+    "role": "Luthen Rael's personal transport",
+    "affiliation": [
+      "Alderaan Trade Alliance (falsified)",
+      "Axis network"
+    ],
+    "owners": "Luthen Rael",
+    "captains": "Luthen Rael",
+    "registry": "12912505 (falsified)"
+  },
+  "scraped": "2026-07-03"
+}

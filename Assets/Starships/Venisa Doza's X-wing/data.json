@@ -1,0 +1,37 @@
+{
+  "name": "Venisa Doza's X-wing",
+  "wookieepedia_title": "Venisa Doza's X-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Venisa_Doza%27s_X-wing",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Venisa Doza's X-wing was a modified X-wing starfighter owned by Resistance pilot Venisa Doza. She flew the starfighter during the First Order-Resistance War, accompanied by her astromech droid Torch.",
+  "data": {
+    "name": "Venisa Doza's X-wing",
+    "line": "X-wing starfighter",
+    "model": "Modified X-wing starfighter",
+    "type": "Starfighter",
+    "engine": [
+      "Sublight engines (4)",
+      "Thrusters (8)"
+    ],
+    "hdsystem": "Equipped",
+    "countermeasures": "Jammer",
+    "armament": [
+      "Laser cannons (2)",
+      "Ion cannons (2)",
+      "Proton torpedo tubes (2)",
+      "  4 torpedoes each",
+      "Missiles (8)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "affiliation": "Resistance",
+    "navy": "Resistance navy",
+    "fleet": "Jade Squadron",
+    "owners": "Venisa Doza"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Infernum",
+  "wookieepedia_title": "Infernum",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Infernum",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Infernum was a Zeta-class shuttle used by the Inquisitorius, an organization tasked with hunting Jedi. In 18 BBY, the shuttle transported master of the Inquisitors Darth Vader; the Inquisitors Sixth Brother, Ninth Sister, Tenth Brother; and multiple Purge Troopers to the Outer Rim planet Mon Cala to track a potential Jedi. It remained on the landing pad while the Battle of Dac City erupted, with the Inquisitorius team securing the platform. The ship was destroyed after large waves crashed across Mon Cala's surface.",
+  "data": {
+    "name": "Infernum",
+    "manufacturer": [
+      "Sienar Fleet Systems",
+      "Telgorn Corporation"
+    ],
+    "model": "Zeta-class shuttle",
+    "type": "Shuttle",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (6)",
+    "passengers": "At least 18 individuals",
+    "destroyed": "18 BBY, Mon Cala",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inquisitorius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

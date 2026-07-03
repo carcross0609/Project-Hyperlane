@@ -1,0 +1,35 @@
+{
+  "name": "Whetstone",
+  "wookieepedia_title": "Whetstone",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Whetstone",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Whetstone was a Kilji war cruiser and battlecruiser that served in the government ruled by its commander, the Kilji Illumine of Generalirius Nakirre. The sister ship to the war cruiser Anvil and the smaller Kilji picket cruiser Hammer, Nakirre's warship served as his flagship used around 18 BBY while traveling with the Grysk operative \"Jixtus.\"",
+  "data": {
+    "name": "Whetstone",
+    "type": "Kilji war cruiser",
+    "max_accel": "Significant",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "countermeasures": "Peace-sealing",
+    "armament": [
+      "Missile tubes (later removed)",
+      "Lasers (later removed)"
+    ],
+    "crew": "Several Kilji vassals",
+    "passengers": "\"Jixtus\"",
+    "communications": "Equipped",
+    "othersystems": "Electrostatic barrier",
+    "role": "Flagship",
+    "affiliation": "Kilji Illumine",
+    "owners": "Nakirre (&ndash;around18 BBY)",
+    "captains": [
+      "Nakirre",
+      "Jixtus",
+      "Qilori"
+    ],
+    "aliases": "Kilji battlecruiser"
+  },
+  "scraped": "2026-07-03"
+}

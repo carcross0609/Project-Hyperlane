@@ -1,0 +1,29 @@
+{
+  "name": "Masanya",
+  "wookieepedia_title": "Masanya",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Masanya",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Masanya was a CR90 corvette manufactured by the Corellian Engineering Corporation that was used by the fleet of the Rebel Alliance as a light escort vessel. It was modified with a hangar for small vessels and equipped with missile-jamming target-disruption scanners. It fought in the Battle of Endor, a decisive engagement between the Rebel Alliance and the Galactic Empire.",
+  "data": {
+    "name": "Masanya",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "CR series",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "modifier": "Alliance Fleet technicians",
+    "sysmods": "Scanners",
+    "countermeasures": "Missile-jamming target-disruption scanners",
+    "armament": "Turbolasers",
+    "bays": "Hangar (1)",
+    "role": [
+      "Light escort",
+      "Corvette"
+    ],
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Alliance Fleet",
+    "fleet": "Defiance Task Force"
+  },
+  "scraped": "2026-07-03"
+}

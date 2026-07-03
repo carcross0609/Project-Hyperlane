@@ -1,0 +1,41 @@
+{
+  "name": "Spaceward Ho!",
+  "wookieepedia_title": "Spaceward Ho!",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spaceward_Ho%21",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Spaceward Ho! was a Low Altitude Assault Transport/infantry utilized by the Galactic Republic's military against the Confederacy of Independent Systems during the Clone War. It was distinguishable by the nose art of a green-skinned female Twi'lek pin-up model, posing in a seductive manner, present on both sides of the gunship's bow&mdash;as well as marked tallies that indicated an amassed total of fourteen vulture droid starfighters, destroyed, accompanied by the total number of, approximately, thirty-three bombs dropped on targets.",
+  "data": {
+    "name": "Spaceward Ho!",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Low Altitude Assault Transport/infantry",
+    "length": "17.69 meters",
+    "width": "17 metres",
+    "height": "6.94 meters",
+    "max_speed": "620 kph (388mph)",
+    "engine": "Equipped",
+    "armament": [
+      "3 antipersonnel turrets (2 chin-mounted, 1 tail-mounted)",
+      "2 composite-beam pinpoint laser turrets (remote wing-mounted)",
+      "2 mass-driver missile launchers (dorsal-mounted/variable payload)",
+      "  Missile belts (rear dorsal-mounted)"
+    ],
+    "crew": [
+      "Clone trooper pilot (2)",
+      "  Co-pilot/Gunner (1)"
+    ],
+    "passengers": "30",
+    "othersystems": "Blast shields",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Military"
+    ],
+    "navy": "Galactic Republic Navy",
+    "fleet": [
+      "Open Circle Armada",
+      "  Skywalker's fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

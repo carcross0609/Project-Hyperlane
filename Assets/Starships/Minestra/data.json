@@ -1,0 +1,23 @@
+{
+  "name": "Minestra",
+  "wookieepedia_title": "Minestra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Minestra",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Minestra was a captured Imperial Customs Corvette that was part of Drea Renthal's pirate fleet. It was upgraded with ion cannons and concussion missiles in addition to its standard turbolaser armament. The Minestra was actually slightly better armed than Renthal's flagship, Renthal's Fist. It was instrumental in the smugglers' victory at the Battle of Nar Shaddaa, helping to disable the Vigilance, which would later be repaired and incorporated into Renthal's fleet, at the onset of the battle.",
+  "data": {
+    "name": "Minestra",
+    "model": "Imperial Customs Corvette",
+    "type": "Corvette",
+    "modifier": "Drea Renthal",
+    "armament": [
+      "Double turbolaser turrets (6)",
+      "Ion cannons",
+      "Concussion missiles"
+    ],
+    "affiliation": "Galactic Empire",
+    "owners": "Drea Renthal"
+  },
+  "scraped": "2026-07-03"
+}

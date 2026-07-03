@@ -1,0 +1,76 @@
+{
+  "name": "Ghost",
+  "wookieepedia_title": "Ghost",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ghost",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Ghost was a modified VCX-100 light freighter owned by the Twi'lek Hera Syndulla that was used by the Spectres rebel cell during the Age of the Empire. As part of the rebellion, the Ghost saw actions on numerous missions and skirmishes against the forces of the Galactic Empire. The Ghost also had an auxiliary vessel called the Phantom that could double as both a shuttle and a starfighter. Following the Phantom destruction at Reklam Station, the Spectres obtained a replacement shuttle in the form of the Sheathipede-class transport shuttle Phantom II.",
+  "data": {
+    "name": "Ghost",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "VCX-100 light freighter (modified)",
+    "type": [
+      "Star freighter",
+      "  Light freighter"
+    ],
+    "cost": "155,000 credits",
+    "length": "43.9 meters",
+    "width": "34.2 meters",
+    "height": "14.5 meters",
+    "mglt": "75 MGLT",
+    "max_speed": "1,025 kph",
+    "engine": [
+      "Main engines (2)",
+      "Secondary engines (2)"
+    ],
+    "hyperdrive": [
+      "Class 2",
+      "Class 14 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "1 dorsal laser cannon turret",
+      "1 nose laser cannon turret",
+      "1 Taim & Bak MS-2B twin laser cannon",
+      "1 Taim & Bak KX4 dorsal laser turret",
+      "2 proton torpedo launchers"
+    ],
+    "complement": [
+      "Phantom",
+      "Phantom II"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "6",
+    "consumables": "One month",
+    "othersystems": "External loudspeaker",
+    "role": "Transport",
+    "affiliation": [
+      "Phoenix Cell",
+      "Alliance to Restore the Republic",
+      "  Alliance Military",
+      "New Republic",
+      "  New Republic Defense Force"
+    ],
+    "navy": [
+      "Rebel Alliance Navy",
+      "New Republic Defense Fleet"
+    ],
+    "fleet": [
+      "Spectres",
+      "Phoenix Squadron",
+      "Citizens' Fleet"
+    ],
+    "owners": "Hera Syndulla",
+    "captains": "Hera Syndulla",
+    "aliases": [
+      "Starbird",
+      "Tontine"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

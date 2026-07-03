@@ -1,0 +1,24 @@
+{
+  "name": "Daybreaker",
+  "wookieepedia_title": "Daybreaker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Daybreaker",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Daybreaker was a Thranta-class corvette converted into a Wanderer-class transport that served the Galactic Republic as a medical frigate during the Cold War with the Sith Empire. Under the command of Captain Dal and the ship's chief medical officer Doctor Senessa, the Daybreaker traveled to the Uphrades system around 3643 BBY in order to deliver shipments of medical supplies, but arrived in the system just as the Imperial warship Oppressor attacked the agriworld of Uphrades with the Desolator superweapon. The ship's commander, the Sith Lord Darth Angral, dispatched boarding pods to destroy the medical frigate while the Oppressor departed the system, and the Daybreaker military complement were unsuccessful in preventing the boarding.",
+  "data": {
+    "name": "Daybreaker",
+    "model": "Transport",
+    "type": [
+      "Thranta-class corvette",
+      "Wanderer-class transport"
+    ],
+    "role": "Medical frigate",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ],
+    "captains": "Captain Dal"
+  },
+  "scraped": "2026-07-03"
+}

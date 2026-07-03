@@ -1,0 +1,38 @@
+{
+  "name": "Medical frigate 517",
+  "wookieepedia_title": "Medical frigate 517",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Medical_frigate_517",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Medical frigate 517 was the designation of a Consular-class cruiser during the Clone Wars. It was used to transport clone trooper Tup from Ringo Vinda to Kamino.",
+  "data": {
+    "name": "Medical frigate 517",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Consular-class cruiser",
+    "type": "Frigate",
+    "length": "138.55 meters",
+    "max_speed": "1,200 kilometers per hour",
+    "engine": "Sublight engines (3)",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Armored-plated hull",
+    "armament": [
+      "Twin turbolaser turrets (5)",
+      "Twin laser cannon turret (1)"
+    ],
+    "escapepods": [
+      "Detachable salon pod (1)",
+      "Republic escape pods (4)"
+    ],
+    "role": "Medical transport",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Military"
+    ],
+    "navy": "Republic Navy",
+    "fleet": "Open Circle Fleet"
+  },
+  "scraped": "2026-07-03"
+}

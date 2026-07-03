@@ -1,0 +1,32 @@
+# Nevoota Bee
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Nevoota Bee/Legends](https://starwars.fandom.com/wiki/Nevoota_Bee/Legends)
+
+The Nevoota Bee was a Rothana Heavy Engineering Acclamator-class assault ship that served the Galactic Republic during the Clone Wars against the Confederacy of Independent Systems. In 22 BBY, the vessel participated in the Battle of Muunilinst, where it served in the role of a starfighter carrier, loaded with 156 V-19 Torrent starfighters. The vessel carried Jedi General Obi-Wan Kenobi and his Padawan, Anakin Skywalker, into battle. The Jedi-led force won the engagement, capturing the planet for the Republic.
+
+## Specifications
+
+- **Name:** Nevoota Bee
+- **Manufacturer:** Rothana Heavy Engineering
+- **Model:** Acclamator-class assault ship
+- **Type:** Heavy cruiser
+- **Length:** 752 meters
+- **Hyperdrive:** 0.6 hyperdrive
+- **Armament:**
+  - 12 quad turbolaser cannons
+  - 24 anti-starfighter laser cannons
+  - 4 missile tubes
+- **Complement:**
+  - 156 V-19 Torrent starfighters
+  - At least 20 Low Altitude Assault Transports
+  - Azure Angel
+- **Role:** Starfighter carrier
+- **Affiliation:**
+  - Galactic Republic
+  - Republic Navy
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,29 @@
+{
+  "name": "Judicator",
+  "wookieepedia_title": "Judicator/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Judicator/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Judicator was an Imperial I-class Star Destroyer, commanded by Captain Brandei, that joined Grand Admiral Thrawn in his campaign against the New Republic some five years after the Battle of Endor.",
+  "data": {
+    "name": "Judicator",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "role": "Destroyer",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": [
+      "Death Squadron",
+      "Thrawn's fleet"
+    ],
+    "captains": [
+      "High Inquisitor Adalric Cessius Brandl",
+      "Captain Brandei"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

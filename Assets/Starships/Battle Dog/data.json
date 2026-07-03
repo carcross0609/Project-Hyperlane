@@ -1,0 +1,33 @@
+{
+  "name": "Battle Dog",
+  "wookieepedia_title": "Battle Dog",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Battle_Dog",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Battle Dog was a Quasar Fire-class cruiser-carrier in the New Republic Defense Fleet.",
+  "data": {
+    "name": "Battle Dog",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Quasar Fire-class cruiser-carrier",
+    "complement": [
+      "BTL Y-wing starfighter squadrons (2)",
+      "  Lightning Squadron",
+      "T-65 X-wing starfighter squadron (1)",
+      "  Shadow Squadron",
+      "  High Flight Squadron",
+      "CloakShape fighter squadron (1)"
+    ],
+    "role": [
+      "Carrier",
+      "Support"
+    ],
+    "affiliation": "New Republic",
+    "fleet": [
+      "Solo Fleet",
+      "  Group Two"
+    ],
+    "captains": "Geng Salaban"
+  },
+  "scraped": "2026-07-03"
+}

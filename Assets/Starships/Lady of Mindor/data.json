@@ -1,0 +1,33 @@
+{
+  "name": "Lady of Mindor",
+  "wookieepedia_title": "Lady of Mindor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lady_of_Mindor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Lady of Mindor was a Lady-class Luxury Liner owned by Authority Tours that traveled between Roonadan and Ammuud.",
+  "data": {
+    "name": "Lady of Mindor",
+    "manufacturer": "Shobquix Yards",
+    "model": "Lady-class luxury liner",
+    "type": "Transport",
+    "cost": "19 million credits",
+    "length": "310 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 20 backup"
+    ],
+    "hdsystem": "Equipped",
+    "armament": "Twin blaster turrets (4)",
+    "crew": [
+      "Crewmen (117)",
+      "Gunners (4)"
+    ],
+    "skeleton": "47/+15",
+    "passengers": "600",
+    "capacity": "1,000 metric tons",
+    "consumables": "60 Weeks",
+    "role": "Luxury liner"
+  },
+  "scraped": "2026-07-03"
+}

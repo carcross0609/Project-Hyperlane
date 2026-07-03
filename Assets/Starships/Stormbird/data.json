@@ -1,0 +1,30 @@
+{
+  "name": "Stormbird",
+  "wookieepedia_title": "Stormbird",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stormbird",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Stormbird was an Imperial-class Star Destroyer that served in the naval forces of the Galactic Empire as a part of Third Fleet. It was commanded by Captain Lochry.",
+  "data": {
+    "name": "Stormbird",
+    "model": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "complement": "TIE/ln space superiority starfighters",
+    "crew": "Imperial Starfighter Pilots",
+    "communications": "Equipped",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Third Fleet",
+    "captains": "Lochry"
+  },
+  "scraped": "2026-07-03"
+}

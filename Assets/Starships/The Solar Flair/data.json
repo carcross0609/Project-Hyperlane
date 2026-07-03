@@ -1,0 +1,33 @@
+{
+  "name": "The Solar Flair",
+  "wookieepedia_title": "The Solar Flair",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Solar_Flair",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Solar Flair was a heavily modified Ghtroc Industries 720 light freighter belonging to the Alliance to Restore the Republic. After an Imperial attack on the Ansarra Rebel base, which destroyed the Freebooter, a starship owned by Devon Fuller, the Rebels chose to loan The Solar Flair to Fuller so that he could continue to work on their behalf. When The Solar Flair was handed over to Fuller, he was explicitly instructed to ensure that it remain in one piece, given the destruction of his two previous ships. Fuller did not take these instructions to heart, since he felt that the Rebels bore the brunt of the blame for the loss of the Croc of Gold and Freebooter.",
+  "data": {
+    "name": "The Solar Flair",
+    "manufacturer": "Ghtroc Industries",
+    "model": "720 light freighter",
+    "type": "Freighter",
+    "cost": "45,000 credits",
+    "length": "35 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "x1.5",
+      "x15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "2 twin laser cannons",
+    "crew": "1-2",
+    "passengers": "10",
+    "capacity": "135 metric tons",
+    "consumables": "2 months",
+    "role": "Smuggling",
+    "owners": "Alliance to Restore the Republic",
+    "captains": "Devon Fuller"
+  },
+  "scraped": "2026-07-03"
+}

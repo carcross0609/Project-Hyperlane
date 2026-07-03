@@ -1,0 +1,25 @@
+{
+  "name": "Conquest",
+  "wookieepedia_title": "Conquest (Secutor-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Conquest_%28Secutor-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Conquest was a Secutor-class Star Destroyer in service of the Galactic Empire in 14 BBY. It was in use by Vice Admiral Dodd Rancit as a command ship while partaking in the blockade of the Carrion Spike above Carida. The Conquest was 2,200 meters in length.",
+  "data": {
+    "name": "Conquest",
+    "model": "Secutor-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "2,200 meters",
+    "sensor": "Life-form scanner",
+    "armament": "Multiple batteries",
+    "escapepods": "Equipped",
+    "communications": "Equipped",
+    "role": "Command ship",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "owners": "Dodd Rancit",
+    "captains": "Unidentified Imperial commander"
+  },
+  "scraped": "2026-07-03"
+}

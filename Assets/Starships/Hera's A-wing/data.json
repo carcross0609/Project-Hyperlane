@@ -1,0 +1,29 @@
+{
+  "name": "Hera's A-wing",
+  "wookieepedia_title": "Hera's A-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hera%27s_A-wing",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Hera's A-wing was an RZ-1 A-wing interceptor used by the rebel pilot Hera Syndulla. Syndulla was the leader of Phoenix Squadron, a squadron of A-wing fighters that was a part of the early rebellion against the Galactic Empire.",
+  "data": {
+    "name": "Hera's A-wing",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "RZ-1 A-wing interceptor",
+    "type": "Starfighter",
+    "length": "9.6 meters",
+    "max_speed": "1,300 kph",
+    "engine": "2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Borstel RG-9 Laser cannons (2)",
+      "Dymek HM-6 Concussion Missile Launcher with Concussion missiles (12)"
+    ],
+    "crew": "1 pilot",
+    "communications": "Equipped",
+    "affiliation": "Phoenix Cell",
+    "fleet": "Phoenix Squadron",
+    "captains": "Hera Syndulla"
+  },
+  "scraped": "2026-07-03"
+}

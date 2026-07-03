@@ -1,0 +1,37 @@
+{
+  "name": "Xanadu Blood",
+  "wookieepedia_title": "Xanadu Blood/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xanadu_Blood/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Xanadu Blood was a heavily modified Rogue-class starfighter, given to Cad Bane by the Confederacy of Independent Systems.",
+  "data": {
+    "name": "Xanadu Blood",
+    "manufacturer": "Buuper Torsckil Abbey Devices",
+    "model": [
+      "Rogue-class starfighter",
+      "Modified Porax-38 starfighter"
+    ],
+    "modifier": "Confederacy of Independent Systems on behalf of Darth Sidious",
+    "length": "12.7 meters",
+    "engine": "Equipped",
+    "navigation": "Equipped",
+    "countermeasures": "Cloaking device",
+    "armament": [
+      "2 laser cannons",
+      "1 Ion cannon",
+      "Concussion missiles"
+    ],
+    "crew": "1",
+    "passengers": "2",
+    "role": "Starfighter",
+    "affiliation": "Cad Bane",
+    "owners": [
+      "Cad Bane",
+      "Jedi Order (briefly)"
+    ],
+    "captains": "Cad Bane"
+  },
+  "scraped": "2026-07-03"
+}

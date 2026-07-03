@@ -1,0 +1,28 @@
+{
+  "name": "Majestic Gundark",
+  "wookieepedia_title": "Majestic Gundark",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Majestic_Gundark",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Majestic Gundark was a YT-1300 light freighter with only slight modifications, including an upper and a lower turret. It was used by the eco-terrorist group Army of Life.",
+  "data": {
+    "name": "Majestic Gundark",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300 light freighter",
+    "type": "Transport",
+    "length": "26.7 meters",
+    "armament": [
+      "Top laser cannon",
+      "Belly laser cannon"
+    ],
+    "crew": "1 to 2",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Army of Life",
+    "captains": "Del Binjitt"
+  },
+  "scraped": "2026-07-03"
+}

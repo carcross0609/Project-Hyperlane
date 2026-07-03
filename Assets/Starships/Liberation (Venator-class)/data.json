@@ -1,0 +1,31 @@
+{
+  "name": "Liberation",
+  "wookieepedia_title": "Liberation (Venator-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liberation_%28Venator-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Liberation was a Venator-class Star Destroyer in service of the Republic Navy during the Clone Wars.",
+  "data": {
+    "name": "Liberation",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "complement": "LAAT/i gunships",
+    "crew": "Clone troopers",
+    "passengers": "212th Attack Battalion",
+    "role": [
+      "Cruiser",
+      "Command ship"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ],
+    "captains": [
+      "High General Obi-Wan Kenobi",
+      "Marshal Commander CC-2224"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Shadowblade",
+  "wookieepedia_title": "Shadowblade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shadowblade",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Shadowblade, code-named the Starkiller, was a Separatist superweapon crafted during the Clone Wars.",
+  "data": {
+    "name": "Shadowblade",
+    "type": "Cruiser",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Cloaking suite",
+    "hull": "Steel",
+    "armament": [
+      "Hyper-point destablizer",
+      "Several dozen turbolasers"
+    ],
+    "role": "Superweapon",
+    "affiliation": "Confederacy of Independent Systems",
+    "aliases": "Starkiller"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Broken Horn",
+  "wookieepedia_title": "Broken Horn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Broken_Horn",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Broken Horn was a modified C-ROC Gozanti-class light cruiser and the personal transport of Devaronian criminal Cikatro Vizago, leader of the Broken Horn Syndicate.",
+  "data": {
+    "name": "Broken Horn",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "C-ROC Gozanti-class light cruiser",
+    "type": "Light cruiser",
+    "cost": "450,000 credits",
+    "length": "73.9 meters",
+    "hyperdrive": "Class 3",
+    "navigation": "Equipped",
+    "armament": [
+      "1 dorsal laser cannon turret",
+      "2 forward laser cannons",
+      "2 rear laser cannons"
+    ],
+    "escapepods": "Escape pods",
+    "crew": "Up to 25",
+    "passengers": [
+      "Ezra Bridger",
+      "C1-10P",
+      "Kanan Jarrus",
+      "Garazeb Orrelios",
+      "Hera Syndulla",
+      "Sabine Wren"
+    ],
+    "consumables": "Three months",
+    "othersystems": "Deflector shields",
+    "role": "Smuggling",
+    "affiliation": "Broken Horn Syndicate",
+    "owners": "Cikatro Vizago"
+  },
+  "scraped": "2026-07-03"
+}

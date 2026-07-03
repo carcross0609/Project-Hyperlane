@@ -1,0 +1,25 @@
+{
+  "name": "Hydra",
+  "wookieepedia_title": "Hydra (Imperial I-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hydra_%28Imperial_I-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hydra was one of four Imperial I-class Star Destroyers stationed at the Maw Installation as part of Admiral Natasi Daala's squadron.",
+  "data": {
+    "name": "Hydra",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "hyperdrive": "2",
+    "complement": "TIE/LN starfighters",
+    "destroyed": "11 ABY, Kessel",
+    "affiliation": [
+      "Galactic Empire",
+      "Maw Installation"
+    ],
+    "owners": "Natasi Daala"
+  },
+  "scraped": "2026-07-03"
+}

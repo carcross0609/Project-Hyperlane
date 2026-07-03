@@ -1,0 +1,33 @@
+{
+  "name": "Sutta",
+  "wookieepedia_title": "Sutta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sutta",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sutta was a Xyston-class Star Destroyer of the Sith Eternal's fleet, the Final Order, that was helmed by Captain Strok in 35 ABY. The Sutta and the other vessels of the fleet were activated on the Sith planet Exegol on the direct command of Dark Lord of the Sith Darth Sidious. After the Derriphan briefly left Exegol and destroyed the planet Kijimi, the Resistance, led by Generals Poe Dameron and Finn, launched an attack on the Sith fleet and the First Order flagship Steadfast.",
+  "data": {
+    "name": "Sutta",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "model": "Xyston-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "2,406 meters",
+    "height": "682 meters",
+    "engine": "Ion engines (7)",
+    "hdsystem": "Equipped",
+    "power": "Solar ionization reactor",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": "Axial superlaser (1)",
+    "bays": "Launch bays",
+    "crew": "Sith Eternal officers",
+    "role": "Orbital bombardment",
+    "destroyed": "35 ABY, Exegol",
+    "affiliation": [
+      "Sith Eternal",
+      "  Sith Eternal military"
+    ],
+    "fleet": "Final Order",
+    "captains": "Strok"
+  },
+  "scraped": "2026-07-03"
+}

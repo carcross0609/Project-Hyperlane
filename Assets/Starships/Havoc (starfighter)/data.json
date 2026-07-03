@@ -1,0 +1,48 @@
+{
+  "name": "Havoc",
+  "wookieepedia_title": "Havoc (starfighter)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Havoc_%28starfighter%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Havoc was a modification of the experimental Scurrg H-6 prototype bomber/starfighter and was owned by the Feeorin pirate Nym.",
+  "data": {
+    "name": "Havoc",
+    "manufacturer": "Nubia Star Drives, Incorporated",
+    "model": "Modified Scurrg H-6 prototype bomber",
+    "type": "Starfighter/Bomber",
+    "cost": "Not for sale",
+    "length": "22 meters",
+    "max_accel": "2,730 G",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 10"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Laser cannons (6)",
+      "Rotating laser turret (1)",
+      "Proton bomb chutes (2)",
+      "  Bombs (10)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)",
+      "Navigator (1)",
+      "(Gunner and navigator can be replaced by 2 astromech droids)"
+    ],
+    "passengers": "3",
+    "capacity": "10 metric tons",
+    "consumables": "2 weeks",
+    "role": [
+      "Starfighter",
+      "Bomber",
+      "Light transport"
+    ],
+    "owners": "Nym"
+  },
+  "scraped": "2026-07-03"
+}

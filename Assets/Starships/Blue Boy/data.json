@@ -1,0 +1,33 @@
+{
+  "name": "Blue Boy",
+  "wookieepedia_title": "Blue Boy",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blue_Boy",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Blue Boy was a Ghtroc Industries 720 light freighter. Owned and operated by Mair Koda, the Blue Boy was used to transport goods throughout the Zuni cluster.",
+  "data": {
+    "name": "Blue Boy",
+    "manufacturer": "Ghtroc Industries",
+    "model": "720 light freighter",
+    "type": "Light freighter",
+    "length": "35 meters",
+    "max_speed": "750 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "  Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 double laser cannon",
+    "crew": "1; 1 gunner",
+    "passengers": "10",
+    "capacity": "135 metric tons",
+    "consumables": "Two months",
+    "role": "Trading vessel",
+    "affiliation": "Mair Koda",
+    "captains": "Mair Koda"
+  },
+  "scraped": "2026-07-03"
+}

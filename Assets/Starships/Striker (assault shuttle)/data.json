@@ -1,0 +1,20 @@
+{
+  "name": "Striker",
+  "wookieepedia_title": "Striker (assault shuttle)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Striker_%28assault_shuttle%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Striker was an assault shuttle owned and operated by the Twi'lek crime lord Ree Shala.",
+  "data": {
+    "name": "Striker",
+    "type": "Assault shuttle",
+    "max_speed": "1,200 kmh",
+    "armament": [
+      "4 laser cannons",
+      "1 tractor beam projector"
+    ],
+    "owners": "Ree Shala"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Sibwarra",
+  "wookieepedia_title": "Sibwarra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sibwarra",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Sibwarra, formerly the Shriwirr, was a heavily customized Ssi-ruuvi Shree-class battle cruiser, and was the flagship of the attack fleet on the remote Imperial world Bakura shortly after the Battle of Endor. After it was captured by the Rebel Alliance, it was renamed in honor of Dev Sibwarra.",
+  "data": {
+    "name": "Sibwarra",
+    "manufacturer": "Ssi-ruuvi Imperium",
+    "model": "Modified Shree-class battle cruiser",
+    "type": "Cruiser",
+    "length": "900 meters",
+    "hyperdrive": [
+      "Class 1",
+      "Backup Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy turbolasers (24)",
+      "Ion cannons (24)",
+      "Concussion missile launchers (12)",
+      "Tractor beam projectors (12)"
+    ],
+    "complement": [
+      "Swarm-class battle droids (500)",
+      "Entechment labs (30)"
+    ],
+    "crew": [
+      "Ssi-ruuk (800)",
+      "P'w'ecks (5,000)",
+      "Several Ssi-ruuvi security droids"
+    ],
+    "skeleton": [
+      "Ssi-ruuk (400)",
+      "P'w'ecks (2,000)"
+    ],
+    "passengers": "350 (troops)",
+    "capacity": "5,000 metric tons",
+    "consumables": "1 year",
+    "othersystems": "Entechment lab",
+    "role": [
+      "Cruiser",
+      "Carrier",
+      "Flagship"
+    ],
+    "affiliation": [
+      "Ssi-ruuvi Imperium",
+      "Alliance to Restore the Republic",
+      "Alliance of Free Planets",
+      "New Republic"
+    ],
+    "captains": "Admiral Ivpikkis (flagship)"
+  },
+  "scraped": "2026-07-03"
+}

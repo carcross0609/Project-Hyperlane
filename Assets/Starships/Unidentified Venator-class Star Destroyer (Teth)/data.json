@@ -1,0 +1,39 @@
+{
+  "name": "Unidentified Venator-class Star Destroyer",
+  "wookieepedia_title": "Unidentified Venator-class Star Destroyer (Teth)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Venator-class_Star_Destroyer_%28Teth%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Venator-class Star Destroyer was used as a transport by Jedi General Obi-Wan Kenobi and participated in the Battle of Teth in 22 BBY. It was commandeered by Admiral Wullf Yularen.",
+  "data": {
+    "name": "Unidentified Venator-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "width": "548 meters",
+    "height": "268 meters",
+    "engine": "8",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Aft Laser cannons",
+    "complement": [
+      "Delta-7B Aethersprite-class light interceptor",
+      "V-19 Torrent starfighters",
+      "Low Altitude Assault Transports/infantry gunships"
+    ],
+    "bays": [
+      "2 aft hangars",
+      "1 bow hangar",
+      "1 ventral docking bay"
+    ],
+    "crew": "Clone navigation officers",
+    "passengers": "212th Attack Battalion",
+    "affiliation": "Galactic Republic",
+    "navy": "Galactic Republic Navy",
+    "fleet": "Open Circle Fleet",
+    "captains": "Wullf Yularen"
+  },
+  "scraped": "2026-07-03"
+}

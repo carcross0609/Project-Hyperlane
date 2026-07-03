@@ -1,0 +1,33 @@
+{
+  "name": "Redeemer",
+  "wookieepedia_title": "Redeemer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Redeemer/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Redeemer was a Venator-class Star Destroyer that served in the Galactic Republic Navy during the Clone Wars against the Confederacy of Independent Systems. In 22 BBY, the planet Ryloth was seized by the Separatists, and a large Confederate fleet under the command of Neimoidian Captain Mar Tuuk blockaded the planet. The Redeemer, along with the Venator-class Star Destroyers Resolute and Defender, was part of a Republic task force led by Jedi General Anakin Skywalker and his Padawan, Jedi Commander Ahsoka Tano, that was dispatched to eliminate the Confederate blockade.",
+  "data": {
+    "name": "Redeemer",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Venator-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,137 meters",
+    "engine": "8 equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "DBY-827 heavy dual turbolaser turrets (8)",
+      "  Medium dual turbolaser cannons (2)",
+      "  Laser cannons (52)",
+      "  Tractor beam projectors (6)",
+      "  Proton torpedo launchers (4)"
+    ],
+    "role": [
+      "Destroyer",
+      "Carrier"
+    ],
+    "destroyed": "22 BBY",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

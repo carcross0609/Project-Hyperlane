@@ -1,0 +1,29 @@
+{
+  "name": "Hand of Justice",
+  "wookieepedia_title": "Hand of Justice/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hand_of_Justice/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Hand of Justice was an Arquitens-class light cruiser, commanded by Admiral Coburn during an operation to rescue Togruta slaves from a Zygerrian slave processing facility on Kadavo.",
+  "data": {
+    "name": "Hand of Justice",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Arquitens-class light cruiser",
+    "type": "Light Cruiser",
+    "engine": "3",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Quad laser turrets (4)",
+      "Dual turbolaser cannons (4)",
+      "Missile tubes (4)"
+    ],
+    "skeleton": "Pilots (2)",
+    "passengers": "At least 10 troops",
+    "role": "Escort cruiser",
+    "affiliation": "Galactic Republic",
+    "captains": "Admiral Coburn"
+  },
+  "scraped": "2026-07-03"
+}

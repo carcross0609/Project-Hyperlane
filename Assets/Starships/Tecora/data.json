@@ -1,0 +1,39 @@
+{
+  "name": "Tecora",
+  "wookieepedia_title": "Tecora",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tecora",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Tecora was a reddish-colored YV-865 Aurore-class freighter that belonged to Darts D'Nar during the Clone Wars. D'Nar used the ship for transporting slaves and treasures to Zygerria, until its capture by Republic forces during the battle on Kiros. Under Republic custody, it served as Jedi Generals Anakin Skywalker and Obi-Wan Kenobi, and their team's means to infiltrate to Zygerria to find enslaved Togruta colonists from the planet Kiros.",
+  "data": {
+    "name": "Tecora",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "YV-865 Aurore-class freighter",
+    "type": "Freighter",
+    "length": "52.3 meters",
+    "width": "42.33 meters",
+    "height": "16.44 meters",
+    "crew": "Pilot (1)",
+    "role": [
+      "Freighter",
+      "Slave transport"
+    ],
+    "destroyed": "During the Battle of Kadavo",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Zygerrian Slave Empire",
+      "Galactic Republic"
+    ],
+    "navy": [
+      "Confederacy of Independent Systems Navy",
+      "Galactic Republic Navy"
+    ],
+    "owners": "Darts D'Nar",
+    "captains": [
+      "Darts D'Nar",
+      "Anakin Skywalker"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

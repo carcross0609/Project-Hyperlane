@@ -1,0 +1,32 @@
+{
+  "name": "Sa Nalaor",
+  "wookieepedia_title": "Sa Nalaor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sa_Nalaor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sa Nalaor was a Munificent-class star frigate that served within the Separatist Alliance's naval forces during the Clone Wars against the Galactic Republic. Equipped with at least one functioning ion drive thruster, the frigate was armed with two heavy turbolaser cannons and measured to 825 meters in length, 426 meters in width and 243 meters in height. It also featured the Confederacy's emblem on its starboard hull. At some point during the war, the Sa Nalaor was located near a white celestial body alongside a Hardcell-class interstellar transport.",
+  "data": {
+    "name": "Sa Nalaor",
+    "model": "Munificent-class star frigate",
+    "type": "Frigate",
+    "length": "825 meters",
+    "width": "426 meters",
+    "height": "243 meters",
+    "engine": "Ion drive thrusters (7)",
+    "sensor": "High-performance sensor antennas (light-day capable ranges)",
+    "armament": "Heavy turbolaser cannon",
+    "complement": "48 Vulture-class droid starfighters (4 squadrons; maximum)",
+    "bays": [
+      "Docking rings",
+      "Starfighter bays"
+    ],
+    "skeleton": "200",
+    "passengers": "150,000 battle droids (maximum)",
+    "othersystems": "Superdense reactant tanks",
+    "role": "Warship",
+    "affiliation": "Confederacy of Independent Systems",
+    "navy": "Confederacy of Independent Systems Navy"
+  },
+  "scraped": "2026-07-03"
+}

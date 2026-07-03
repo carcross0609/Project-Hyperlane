@@ -1,0 +1,28 @@
+{
+  "name": "PC-265",
+  "wookieepedia_title": "PC-265",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/PC-265",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "PC-265 was a Lambda-class T-4a shuttle used by Governor Wilhuff Tarkin to travel to the Star Destroyer Optima.",
+  "data": {
+    "name": "PC-265",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "Abecederian line",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Multi-purpose transport",
+    "length": "20 meters",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "2 forward double laser cannons",
+      "2 wing-mounted double cannons",
+      "1 rear double laser cannon"
+    ],
+    "capacity": "80 metric tons",
+    "role": "Transport",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}
