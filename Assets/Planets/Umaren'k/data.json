@@ -1,0 +1,36 @@
+{
+  "name": "Umaren'k",
+  "wookieepedia_title": "Umaren'k",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Umaren%27k",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Umaren'k was a planet located in the Umaren'k system of the Unknown Regions.",
+  "lead_paragraphs": [
+    "Umaren'k was a planet located in the Umaren'k system of the Unknown Regions."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Umaren'k",
+    "region": "Unknown Regions",
+    "system": "Umaren'k system",
+    "coordinates": "G-9",
+    "species": "Umaren'k'sa",
+    "otherspecies": "Hemes Arbora"
+  },
+  "homeworld_of": [
+    {
+      "name": "Umaren'k'sa",
+      "directory": "Umaren'k'sa",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Umaren'k",
+    "x": -6902.1,
+    "y": 1123.6,
+    "z": -9.8,
+    "region": "Unknown Regions",
+    "grid": "G-9"
+  },
+  "scraped": "2026-07-03"
+}

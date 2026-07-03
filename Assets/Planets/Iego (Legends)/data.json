@@ -1,0 +1,103 @@
+{
+  "name": "Iego",
+  "wookieepedia_title": "Iego/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iego/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Iego, named the Planet of a Thousand Moons, was a planet located in the Extrictarium Nebula in the Outer Rim Territories. Due to the obscurity of the Nebula, Iego did not appear on any star-charts. Iego did not orbit a sun; rather, it was warmed by local stellar gases. It was home to the subterranean Maelibi species, as well as thousands of stranded spacefarers who had been lured to the planet by the Diathim—a spaceworthy species that resided on Iego's forty-two moons. Although Iego appeared to have no noteworthy natural resources, the concepts of aging and hunger somehow eluded its residents.",
+  "lead_paragraphs": [
+    "Iego, named the Planet of a Thousand Moons, was a planet located in the Extrictarium Nebula in the Outer Rim Territories. Due to the obscurity of the Nebula, Iego did not appear on any star-charts. Iego did not orbit a sun; rather, it was warmed by local stellar gases. It was home to the subterranean Maelibi species, as well as thousands of stranded spacefarers who had been lured to the planet by the Diathim—a spaceworthy species that resided on Iego's forty-two moons. Although Iego appeared to have no noteworthy natural resources, the concepts of aging and hunger somehow eluded its residents.",
+    "In spacer lore, Iego was considered a mythical location, and was the subject of many stories and rumors. Numerous expeditions set out to find the planet, though few succeeded, and the ones who did were for the most part unable to leave. Due to the amount of hearsay surrounding the planet, as well as its continued unconfirmed location, most members of the galaxy's scientific community dismissed Iego as a spacefarer's tale."
+  ],
+  "article_sections": [
+    "Inhabitants",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Iego",
+    "region": "Outer Rim Territories; Extrictarium Nebula",
+    "sector": "Ash Worlds",
+    "system": "Iego system",
+    "coordinates": "T-7",
+    "suns": "None",
+    "position": "1",
+    "moons": [
+      "1,000",
+      "Millius Prime",
+      "The Thicket debris field"
+    ],
+    "lengthday": "N/A",
+    "lengthyear": "N/A",
+    "class": "Terrestrial",
+    "diameter": "2,730 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate, tropical",
+    "gravity": "Standard",
+    "terrain": [
+      "Rocks",
+      "Wastelands"
+    ],
+    "interest": [
+      "The Boneyard",
+      "The Choir Alignment",
+      "Rawk's Nest",
+      "The Scatter"
+    ],
+    "flora": "Reeksa",
+    "fauna": "Xandu",
+    "species": "Maelibi",
+    "otherspecies": [
+      "Diathim",
+      "Human",
+      "Ithorian",
+      "Nikto",
+      "Quarren"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Competing tribes",
+    "population": [
+      "4,500 castaways; unknown number Maelibi and Diathim",
+      "40% Humans",
+      "60% other species"
+    ],
+    "cities": "Several villages, including: Cliffhold",
+    "imports": "None",
+    "exports": [
+      "Modern:",
+      "None",
+      "Historic:",
+      "Spice"
+    ],
+    "affiliation": [
+      "Xim's Empire",
+      "Smugglers",
+      "Iego council",
+      "Confederacy of Independent Systems",
+      "Black Sun",
+      "Galactic Empire",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Diathim",
+      "directory": "Diathim (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Maelibus",
+      "directory": "Maelibus",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Iego",
+    "x": 12414.7,
+    "y": 3743.4,
+    "z": -346.7,
+    "region": "Outer Rim",
+    "grid": "T-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Unidentified planet",
+  "wookieepedia_title": "Unidentified planet (Eeth Koth)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_planet_%28Eeth_Koth%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "A planet covered in deserts was located somewhere in the galaxy. It was known for the alcoholic beverage known as dust juice. Eeth Koth hid on the planet during the Great Jedi Purge, but was hunted down and killed by Darth Vader.",
+  "lead_paragraphs": [
+    "A planet covered in deserts was located somewhere in the galaxy. It was known for the alcoholic beverage known as dust juice. Eeth Koth hid on the planet during the Great Jedi Purge, but was hunted down and killed by Darth Vader."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Unidentified planet",
+    "atmosphere": "Breathable",
+    "terrain": "Deserts",
+    "cities": "Unidentified city",
+    "exports": "Dust juice"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bartokk",
+      "directory": "Bartokk",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lupr'or",
+      "directory": "Lupr'or",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Unidentified blue humanoid species",
+      "directory": "Unidentified blue humanoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-faced species",
+      "directory": "Unidentified purple-faced species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-skinned humanoid species",
+      "directory": "Unidentified purple-skinned humanoid species",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Unidentified red pachydermoid species",
+      "directory": "Unidentified red pachydermoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified species",
+      "directory": "Unidentified species (seven-ringed homeworld)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

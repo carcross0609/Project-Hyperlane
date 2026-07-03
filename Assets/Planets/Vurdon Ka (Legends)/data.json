@@ -1,0 +1,54 @@
+{
+  "name": "Vurdon Ka",
+  "wookieepedia_title": "Vurdon Ka/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vurdon_Ka/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vurdon Ka was a planet located within the Vurdon Ka system of the Inner Rim. It was an idyllic world of mosses and inhabited by the peaceful Vuvrians. It was located along the Perlemian Trade Route. The planet joined the Galactic Republic by 22,000 BBY, and later went on to be apart of the Galactic Empire. It was conquered by the Yuuzhan Vong prior to the fall of Duro during the Yuuzhan Vong War.",
+  "lead_paragraphs": [
+    "Vurdon Ka was a planet located within the Vurdon Ka system of the Inner Rim. It was an idyllic world of mosses and inhabited by the peaceful Vuvrians. It was located along the Perlemian Trade Route. The planet joined the Galactic Republic by 22,000 BBY, and later went on to be apart of the Galactic Empire. It was conquered by the Yuuzhan Vong prior to the fall of Duro during the Yuuzhan Vong War."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vurdon Ka",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Darlonn sector",
+    "system": "Vurdon Ka system",
+    "coordinates": "M-9",
+    "routes": "Perlemian Trade Route",
+    "terrain": "Moss gardens",
+    "species": "Vuvrian",
+    "language": "Vuvrian",
+    "population": "1 billion to 10 billion",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Vuvrian",
+      "directory": "Vuvrian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Vuvrian",
+      "directory": "Vuvrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vurdon Ka",
+    "x": 2535.3,
+    "y": 1416.2,
+    "z": -84.9,
+    "region": "Inner Rim",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Moorja",
+  "wookieepedia_title": "Moorja/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moorja/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Moorja was a small Inner Rim world on the Corellian Trade Spine. It was owned by the Salliche Agricultural Corporation, which ran an agricultural and mining colony there. Though the planet was frequently swept by fierce ion storms capable of interfering with electronic equipment, it was a major exporter of foodstuffs.",
+  "lead_paragraphs": [
+    "Moorja was a small Inner Rim world on the Corellian Trade Spine. It was owned by the Salliche Agricultural Corporation, which ran an agricultural and mining colony there. Though the planet was frequently swept by fierce ion storms capable of interfering with electronic equipment, it was a major exporter of foodstuffs.",
+    "During the Clone Wars, the Confederacy of Independent Systems established a base on the planet, gathering soil from its badlands, which it then utilized during its assault on Ukio. The Confederacy later conquered the planet and garrisoned it with organic forces, a rare move for the battle droid-focused government. While there, the CIS fought the Galactic Republic in the Battle of Moorja. The planet subsequently became part of the Galactic Empire and home to an advanced scout training facility. During the Galactic Civil War, the planet was the site of another major engagement, between forces of the Empire and the rogue Moff Utoxx Prentioch; both were attempting to gain access to a New Republic reconnaissance report prepared by the Black Curs. Later that same year, the New Republic gained control of the planet, establishing a permanent base, and using it as a jumping point for assaults against various Imperial forces."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Galactic Republic",
+    "  Galactic Empire",
+    "  Later history",
+    "Inhabitants",
+    "Locations",
+    "  Confederate base",
+    "  Moorjay",
+    "  Moorja Training Installation"
+  ],
+  "data": {
+    "name": "Moorja",
+    "region": [
+      "Inner Rim",
+      "Western Reaches"
+    ],
+    "system": "Moorja system",
+    "coordinates": "L-15",
+    "moons": "1",
+    "routes": "Corellian Trade Spine",
+    "lengthday": "17 standard hours",
+    "lengthyear": "310 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I",
+    "gravity": "Standard",
+    "terrain": [
+      "Badlands",
+      "Forests",
+      "Low hills",
+      "Plains"
+    ],
+    "water": "Moist",
+    "interest": [
+      "Confederate base",
+      "Crumbling Lands",
+      "New Republic base"
+    ],
+    "flora": [
+      "Fenti bean",
+      "Ruva grains"
+    ],
+    "fauna": "Bruwose",
+    "otherspecies": [
+      "Arcona",
+      "Human",
+      "Ithorian"
+    ],
+    "government": "Corporate owned",
+    "population": [
+      "25,000 Humans",
+      "15,000 Ithorians",
+      "2,500 Arcona"
+    ],
+    "cities": [
+      "Avisio",
+      "Moorjay"
+    ],
+    "imports": "Heavy farm machinery, electronic components",
+    "exports": [
+      "Fenti beans",
+      "Ruva grains",
+      "Salt"
+    ],
+    "affiliation": [
+      "Corporate Alliance",
+      "Confederacy of Independent Systems",
+      "Salliche Agricultural Corporation",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Moorja",
+    "x": 1136.3,
+    "y": -7732.2,
+    "z": 87.1,
+    "region": "Inner Rim",
+    "grid": "L-15"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Diamal",
+  "wookieepedia_title": "Diamal (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Diamal_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Diamal was a planet located in the Diamal system of the Core Worlds. It was the homeworld of the Diamal. The planet was frequently in conflict with its neighbor, Isht.",
+  "lead_paragraphs": [
+    "Diamal was a planet located in the Diamal system of the Core Worlds. It was the homeworld of the Diamal. The planet was frequently in conflict with its neighbor, Isht."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Diamal",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "system": "Diamal system",
+    "coordinates": "L-13",
+    "routes": "Shapani Bypass",
+    "species": "Diamal",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Diamal",
+      "directory": "Diamal",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Diamal",
+    "x": 151.7,
+    "y": -5137.3,
+    "z": -243.9,
+    "region": "Core Worlds",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

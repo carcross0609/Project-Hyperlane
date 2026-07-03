@@ -1,0 +1,35 @@
+{
+  "name": "Morellia",
+  "wookieepedia_title": "Morellia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Morellia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Morellia was an astronomical object located in the Morellian Commonwealth within Wild Space. Prior to the Galactic Civil War, Auric Graf gave an emerald pendant to his wife, Rhyssa, while on Morellia.",
+  "lead_paragraphs": [
+    "Morellia was an astronomical object located in the Morellian Commonwealth within Wild Space. Prior to the Galactic Civil War, Auric Graf gave an emerald pendant to his wife, Rhyssa, while on Morellia."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Morellia",
+    "region": "Wild Space",
+    "sector": "Morellian Commonwealth",
+    "system": "Morellia system",
+    "coordinates": "S-3"
+  },
+  "homeworld_of": [
+    {
+      "name": "Morellian",
+      "directory": "Morellian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Morellia",
+    "x": 11474.7,
+    "y": 9764.0,
+    "z": -484.7,
+    "region": "Wild Space",
+    "grid": "S-3"
+  },
+  "scraped": "2026-07-03"
+}

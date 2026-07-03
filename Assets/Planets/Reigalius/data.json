@@ -1,0 +1,36 @@
+{
+  "name": "Reigalius",
+  "wookieepedia_title": "Reigalius",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reigalius",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Reigalius was the Reigat homeworld. It was located in the Yucrales Sector of the Mid Rim near Leritor.",
+  "lead_paragraphs": [
+    "Reigalius was the Reigat homeworld. It was located in the Yucrales Sector of the Mid Rim near Leritor."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Reigalius",
+    "region": "Mid Rim",
+    "sector": "Yucrales sector",
+    "system": "Reigalius system",
+    "coordinates": "Q-15",
+    "species": "Reigats"
+  },
+  "homeworld_of": [
+    {
+      "name": "Reigat",
+      "directory": "Reigat",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Reigalius",
+    "x": 7945.2,
+    "y": -8745.4,
+    "z": -85.3,
+    "region": "Mid Rim",
+    "grid": "Q-15"
+  },
+  "scraped": "2026-07-03"
+}

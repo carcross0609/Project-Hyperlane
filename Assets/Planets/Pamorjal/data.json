@@ -1,0 +1,50 @@
+{
+  "name": "Pamorjal",
+  "wookieepedia_title": "Pamorjal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pamorjal",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pamorjal was a planet located in the Pamorjal system in the Expansion Region.",
+  "lead_paragraphs": [
+    "Pamorjal was a planet located in the Pamorjal system in the Expansion Region."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Pamorjal",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Immerian Outback",
+    "system": "Pamorjal system",
+    "coordinates": "N-14",
+    "suns": "Garbat",
+    "position": "4",
+    "lengthday": "26 hours",
+    "lengthyear": "330 days",
+    "class": "Terrestrial",
+    "terrain": "Jungle",
+    "interest": "Pamorjal Badlands",
+    "flora": "Garna tree",
+    "otherspecies": [
+      "Human",
+      "Ithorian"
+    ],
+    "cities": "Beldon",
+    "exports": "Garna wood",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pamorjal",
+    "x": 4224.4,
+    "y": -6630.2,
+    "z": 7.1,
+    "region": "Expansion Region",
+    "grid": "N-14"
+  },
+  "scraped": "2026-07-03"
+}

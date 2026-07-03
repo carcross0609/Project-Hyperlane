@@ -1,0 +1,40 @@
+{
+  "name": "Jante",
+  "wookieepedia_title": "Jante",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jante",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jante was a planet in the Jante system, near Freda.",
+  "lead_paragraphs": [
+    "Jante was a planet in the Jante system, near Freda."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Jante",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Esaga sector",
+    "system": "Jante system",
+    "coordinates": "Q-11",
+    "species": "Jante",
+    "cities": "Reynols (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Jante",
+      "directory": "Jante (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Jante",
+    "x": -1537.8,
+    "y": 3145.6,
+    "z": -180.0,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Tython",
+  "wookieepedia_title": "Tython/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tython/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tython was a planet in the Tython system of the Deep Core that played a pivotal role in the histories of the Je'daii Order and its successor, the Jedi Order. A verdant world that was incredibly rich in the Force, Tython was inhabited by an unknown species hundreds of thousands of years before the rise of the Galactic Empire, and it was visited by both the Gree and Kwa, two of the earliest species to have achieved interstellar travel. In 36,453 BBY, the great pyramid ships known as the Tho Yor brought pilgrims from over a dozen species from across the galaxy to Tython, where the pilgrims learned to harness the Force and established the Je'daii Order, basing their philosophy of balance upon Tython's two moons, Ashla and Bogan. The Je'daii soon realized that Tython was unsafe for those who could not sense the Force, and as a result, the Tythans spread out to settle the other worlds of the Tython system.",
+  "lead_paragraphs": [
+    "Tython was a planet in the Tython system of the Deep Core that played a pivotal role in the histories of the Je'daii Order and its successor, the Jedi Order. A verdant world that was incredibly rich in the Force, Tython was inhabited by an unknown species hundreds of thousands of years before the rise of the Galactic Empire, and it was visited by both the Gree and Kwa, two of the earliest species to have achieved interstellar travel. In 36,453 BBY, the great pyramid ships known as the Tho Yor brought pilgrims from over a dozen species from across the galaxy to Tython, where the pilgrims learned to harness the Force and established the Je'daii Order, basing their philosophy of balance upon Tython's two moons, Ashla and Bogan. The Je'daii soon realized that Tython was unsafe for those who could not sense the Force, and as a result, the Tythans spread out to settle the other worlds of the Tython system.",
+    "In 25,805 BBY, after over ten thousand years of peace, Tython was the site of the final battle of the Despot War, and twelve years later, a vessel from the Infinite Empire of the Rakata species crashed on Tython's surface, sparking one of the intense Force storms that occurred whenever the balance of Tython was shifted between the light and dark sides of the Force. The Force Wars erupted not long afterwards, a devastating conflict fought between the followers of the light side and the followers of the dark side, and in the aftermath of the Force Wars, the victorious light-siders established the Jedi Order. The Jedi departed Tython for the distant world of Ossus, leaving Tython to become lost as the Deep Core erased the hyperlanes to the planet, and the savage Flesh Raiders evolved on the now-empty world."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Je'daii Order",
+    "  Abandonment",
+    "  Rediscovery",
+    "  Return to obscurity",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Tython",
+    "region": "Deep Core",
+    "sector": "Sector 5",
+    "system": "Tython system",
+    "coordinates": "L-10",
+    "suns": "Tythos",
+    "position": "5",
+    "moons": [
+      "Ashla",
+      "Bogan"
+    ],
+    "routes": [
+      "Koros-Tython hyperlane",
+      "Tython hyperspace route",
+      "Tython hyperspace route"
+    ],
+    "lengthday": "31.5 standard hours",
+    "lengthyear": "524 standard days",
+    "class": "Terrestrial",
+    "atmosphere": "Type 1 (Breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Historic:",
+      "  Mountains",
+      "  Forests",
+      "  Plains",
+      "  Deserts",
+      "Modern: Barren fields and ash"
+    ],
+    "water": "Significant; oceans, rivers, streams",
+    "interest": [
+      "Belia Darzu's fortress",
+      "Je'daii Temples",
+      "Jedi Temple",
+      "Masters' Retreat",
+      "The Rift",
+      "Silent Desert",
+      "Tansa Reach"
+    ],
+    "flora": [
+      "Ak tree",
+      "Heart berry tree"
+    ],
+    "fauna": [
+      "Acid spider",
+      "Flame tygah",
+      "Guid",
+      "Hook hawk",
+      "Horranth",
+      "Jurgoran",
+      "Manka cat",
+      "Silik lizard",
+      "Uxibeast",
+      "Wingmaw"
+    ],
+    "otherlife": "Huge pink mushrooms",
+    "species": "Flesh Raider",
+    "otherspecies": "Various",
+    "demonym": "Tythan, Tythonian",
+    "cities": [
+      "Ban Landing",
+      "Je'daii Temples",
+      "Kalikori village"
+    ],
+    "affiliation": [
+      "Je'daii Order",
+      "Jedi Order",
+      "New Sith",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tython",
+    "x": 19.2,
+    "y": -1173.9,
+    "z": 12.9,
+    "region": "Deep Core",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

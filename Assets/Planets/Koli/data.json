@@ -1,0 +1,44 @@
+{
+  "name": "Koli",
+  "wookieepedia_title": "Koli",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Koli",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Koli was a planet located in the Duro system.",
+  "lead_paragraphs": [
+    "Koli was a planet located in the Duro system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Koli",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "sector": [
+      "Duro sector",
+      "Corellian sector; Outlier systems (Imperial)"
+    ],
+    "system": "Duro system",
+    "coordinates": "M-11",
+    "suns": "1: Duro",
+    "position": "3",
+    "moons": "2",
+    "routes": [
+      "Corellian Trade Spine",
+      "Duros Run"
+    ],
+    "class": "Frozen rock",
+    "climate": "Frigid"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Koli",
+    "x": -1112.0,
+    "y": -877.4,
+    "z": 72.3,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

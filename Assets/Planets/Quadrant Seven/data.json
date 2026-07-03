@@ -1,0 +1,41 @@
+{
+  "name": "Quadrant Seven",
+  "wookieepedia_title": "Quadrant Seven",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quadrant_Seven",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Quadrant Seven was a planet which was not part of the Galactic Republic. The planet's last war took place in about 612 BBY. It was a rocky world with canyons, caves, and hills.",
+  "lead_paragraphs": [
+    "Quadrant Seven was a planet which was not part of the Galactic Republic. The planet's last war took place in about 612 BBY. It was a rocky world with canyons, caves, and hills."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Quadrant Seven",
+    "region": "Mid Rim",
+    "sector": "Barsa sector",
+    "system": "Quadrant Seven system",
+    "coordinates": "J-6",
+    "moons": "1",
+    "class": "Terrestrial",
+    "terrain": [
+      "Rocky canyons",
+      "Caves",
+      "Hills"
+    ],
+    "interest": [
+      "Settlement 5",
+      "Settlement 23"
+    ],
+    "species": "Quadrant Sevens"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Quadrant Seven",
+    "x": -1568.8,
+    "y": 5185.7,
+    "z": -254.9,
+    "region": "Mid Rim",
+    "grid": "J-6"
+  },
+  "scraped": "2026-07-03"
+}

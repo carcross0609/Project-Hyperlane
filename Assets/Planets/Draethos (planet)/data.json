@@ -1,0 +1,59 @@
+{
+  "name": "Draethos",
+  "wookieepedia_title": "Draethos (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Draethos_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thosa, known to the rest of the galaxy as Draethos, was the home planet of the Draethos species, located in the Wyl sector of the Outer Rim Territories. It had jagged, windswept mountains and deep caves. It was an isolated world of xenophobic people.",
+  "lead_paragraphs": [
+    "Thosa, known to the rest of the galaxy as Draethos, was the home planet of the Draethos species, located in the Wyl sector of the Outer Rim Territories. It had jagged, windswept mountains and deep caves. It was an isolated world of xenophobic people.",
+    "With the recovery of the Holocron of King Nakgru, Sorzus Syn discovered that the Sith Empire had struck the Republic world of Draethos at some point after the Sith colonized the Stygian Caldera.",
+    "During the Jedi Civil War, Thosa was located within the space controlled by the Sith Empire, returning to its isolation after Darth Malak's death."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Draethos",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Wyl sector",
+    "system": "Thosa system",
+    "coordinates": "R-4",
+    "position": "5",
+    "moons": "2",
+    "lengthday": "19 standard hours",
+    "lengthyear": "426 local days",
+    "class": "Terrestrial",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": "Barren mountains, deep caves",
+    "species": "Draethos",
+    "language": "Draethos",
+    "government": "Military dictatorship",
+    "population": "100% Draethos",
+    "cities": "Avadrei (capital)",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Sith Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Draethos",
+      "directory": "Draethos (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Draethos",
+    "x": 11068.6,
+    "y": -7574.0,
+    "z": 527.0,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

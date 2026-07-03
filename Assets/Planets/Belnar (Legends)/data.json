@@ -1,0 +1,70 @@
+{
+  "name": "Belnar",
+  "wookieepedia_title": "Belnar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Belnar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Belnar was a Colonies planet. A temperate world with large swamps on its surface, it was the homeworld of the sentient Khil species. Although the Khil developed large, Core-inspired cities on Belnar, the rest of the planet was left untouched, and even the urban centers featured marshy parks and swamps. Such areas in the cities served as convenient feeding sites for the Khil, whose diet consisted of organic particles filtered from the air via special organs.",
+  "lead_paragraphs": [
+    "Belnar was a Colonies planet. A temperate world with large swamps on its surface, it was the homeworld of the sentient Khil species. Although the Khil developed large, Core-inspired cities on Belnar, the rest of the planet was left untouched, and even the urban centers featured marshy parks and swamps. Such areas in the cities served as convenient feeding sites for the Khil, whose diet consisted of organic particles filtered from the air via special organs.",
+    "The Khil of Belnar, who welcomed off-worlders to their planet, were members of the Galactic Republic from as early as 22,000 BBY, having had hyperspace travel technology of their own for three millennia by that point. Around 3643 BBY, a Republic senator from Belnar absconded with an ancient, sacred Khil artifact; however, the item was eventually returned to the natives of the planet. Belnar fell under the control of the Galactic Empire by 17 BBY. The Khil, who viewed the Empire as oppressive, became one of the first members of the New Republic following the Empire's fragmentation."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early member of the Republic",
+    "  From the Republic to the Empire",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Belnar",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "Belnar sector",
+    "system": "Belnar system",
+    "coordinates": "M-9",
+    "moons": "0",
+    "lengthday": "23 standard hours",
+    "lengthyear": "347 local days",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Marshes",
+      "Swamps"
+    ],
+    "otherlife": "Bacteria",
+    "species": "Khil",
+    "otherspecies": "Various",
+    "language": "Khilese",
+    "government": "Colonial democracy",
+    "population": "100–500 billion (25 ABY)",
+    "cities": "Belnar City (capital)",
+    "imports": "None",
+    "exports": "Luxury items",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Khil",
+      "directory": "Khil",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Belnar",
+    "x": 1935.2,
+    "y": 931.7,
+    "z": -77.2,
+    "region": "Colonies",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

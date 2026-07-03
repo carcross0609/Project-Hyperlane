@@ -1,0 +1,42 @@
+{
+  "name": "Oblis",
+  "wookieepedia_title": "Oblis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oblis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Oblis was a technologically-advanced planet in the Cularin system. It included large crystal deposits.",
+  "lead_paragraphs": [
+    "Oblis was a technologically-advanced planet in the Cularin system. It included large crystal deposits.",
+    "Oblis was destroyed by a weapon powered by the Darkstaff before 1000 BBY. Its remnants became the Cularin asteroid belt."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Oblis",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Thaere sector",
+    "system": "Cularin system",
+    "coordinates": "P-14",
+    "suns": "2: Morasil and Termadus",
+    "species": "Oblee",
+    "language": "Oblee"
+  },
+  "homeworld_of": [
+    {
+      "name": "Oblee",
+      "directory": "Oblee",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Oblis",
+    "x": 5487.2,
+    "y": -8375.5,
+    "z": -117.2,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

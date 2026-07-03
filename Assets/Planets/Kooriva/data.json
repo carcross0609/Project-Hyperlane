@@ -1,0 +1,49 @@
+{
+  "name": "Kooriva",
+  "wookieepedia_title": "Kooriva",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kooriva",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kooriva was a planet located in the Kooriva system of the Inner Rim Territories.",
+  "lead_paragraphs": [
+    "Kooriva was a planet located in the Kooriva system of the Inner Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kooriva",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Kooriva system",
+    "coordinates": "M-14",
+    "interest": "Lebrasa Argente School for the Arts and Persuasive Sciences",
+    "otherspecies": "Koorivar",
+    "affiliation": [
+      "Galactic Republic",
+      "Corporate Alliance",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Koorivar",
+      "directory": "Koorivar",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Koorivar",
+      "directory": "Koorivar (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kooriva",
+    "x": 2377.7,
+    "y": -6365.9,
+    "z": 53.9,
+    "region": "Inner Rim",
+    "grid": "M-14"
+  },
+  "scraped": "2026-07-03"
+}

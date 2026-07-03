@@ -1,0 +1,74 @@
+{
+  "name": "Firrerre",
+  "wookieepedia_title": "Firrerre/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Firrerre/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Firrerre was a planet located in the Firrerre system in the Outer Rim Territories. Its sole sentient indigenous species were the near-extinct Firrerreo.",
+  "lead_paragraphs": [
+    "Firrerre was a planet located in the Firrerre system in the Outer Rim Territories. Its sole sentient indigenous species were the near-extinct Firrerreo."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Firrerre",
+    "region": "Outer Rim Territories; Outer Zuma",
+    "sector": [
+      "Zuma sector",
+      "  Sugai subsector"
+    ],
+    "system": "Firrerre system",
+    "coordinates": "H-16",
+    "class": "Terrestrial",
+    "terrain": [
+      "Barren mountains",
+      "Oceans",
+      "Waterfalls"
+    ],
+    "interest": [
+      "Firrerre Church",
+      "Firrerre Government Center",
+      "Firrerre School",
+      "Firrerre Spaceport",
+      "Grand Falls"
+    ],
+    "flora": "Tree",
+    "fauna": [
+      "Mishalope",
+      "Scrap Mouse"
+    ],
+    "species": "Firrerreo",
+    "language": "Firrerrese",
+    "government": "Clan system",
+    "cities": "Firrerre Capital",
+    "imports": [
+      "Medicine",
+      "Foodstuffs"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Empire Reborn",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Firrerreo",
+      "directory": "Firrerreo (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Firrerre",
+    "x": -5420.3,
+    "y": -9827.6,
+    "z": -97.4,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

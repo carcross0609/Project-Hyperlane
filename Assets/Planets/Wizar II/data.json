@@ -1,0 +1,31 @@
+{
+  "name": "Wizar II",
+  "wookieepedia_title": "Wizar II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wizar_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Wizar II was a planet located within the Wizar system of the Wild Space. It was the homeworld of a species of squid-like sentients known as Uroths. It was a terrestrial planet, largely unknown to the outside galaxy.",
+  "lead_paragraphs": [
+    "Wizar II was a planet located within the Wizar system of the Wild Space. It was the homeworld of a species of squid-like sentients known as Uroths. It was a terrestrial planet, largely unknown to the outside galaxy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Wizar II",
+    "region": "Wild Space",
+    "system": "Wizar system",
+    "coordinates": "I-8",
+    "suns": "1",
+    "species": "Uroth"
+  },
+  "homeworld_of": [
+    {
+      "name": "Uroth",
+      "directory": "Uroth",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

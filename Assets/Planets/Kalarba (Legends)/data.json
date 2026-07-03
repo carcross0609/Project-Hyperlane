@@ -1,0 +1,67 @@
+{
+  "name": "Kalarba",
+  "wookieepedia_title": "Kalarba/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalarba/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kalarba was a planet in the Mid Rim.",
+  "lead_paragraphs": [
+    "Kalarba was a planet in the Mid Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kalarba",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Hevvrol sector",
+    "system": "Kalarba system",
+    "coordinates": "P-15",
+    "moons": [
+      "2:",
+      "Hosk",
+      "Indobok"
+    ],
+    "routes": "Duros Space Run",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen mix",
+    "terrain": [
+      "Mountains",
+      "Seas"
+    ],
+    "interest": [
+      "Great Sea",
+      "Three Peaks of Tharen"
+    ],
+    "fauna": "Vynock",
+    "otherspecies": "Humans",
+    "language": [
+      "None",
+      "Formerly: Galactic Basic Standard"
+    ],
+    "population": "750 million (22 BBY)",
+    "demonym": "Kalarban",
+    "cities": "Kalarba City (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kalarba",
+    "x": 6060.2,
+    "y": -7754.2,
+    "z": 60.5,
+    "region": "Mid Rim",
+    "grid": "P-15"
+  },
+  "scraped": "2026-07-03"
+}

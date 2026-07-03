@@ -1,0 +1,50 @@
+{
+  "name": "Lahn",
+  "wookieepedia_title": "Lahn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lahn",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Lahn was a planet located in the galaxy. It was covered in beaches, forests, and oceans.",
+  "lead_paragraphs": [
+    "Lahn was a planet located in the galaxy. It was covered in beaches, forests, and oceans."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Lahn",
+    "region": "Outer Rim Territories",
+    "sector": "Noonian sector",
+    "system": "Lahn system",
+    "coordinates": "M-6",
+    "moons": "At least 1",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Beaches",
+      "Jungles",
+      "Oceans"
+    ],
+    "interest": "Illmek Island",
+    "flora": "Trees",
+    "fauna": "Lahn-rat",
+    "otherspecies": [
+      "Gran",
+      "Ithorian",
+      "Mon Calamari",
+      "Nautolan",
+      "Quarren"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lahn",
+    "x": 9455.6,
+    "y": 4639.7,
+    "z": 107.4,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

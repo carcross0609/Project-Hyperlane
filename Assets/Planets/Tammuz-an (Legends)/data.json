@@ -1,0 +1,63 @@
+{
+  "name": "Tammuz-an",
+  "wookieepedia_title": "Tammuz-an/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tammuz-an/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tammuz-an was a double-ringed planet in the Outer Rim Territories. The planet's inhabitants, called Tammuz-an, were tall blue- or purple-skinned humanoids governed by a monarchy. The planet was the homeworld of Mon Julpa.",
+  "lead_paragraphs": [
+    "Tammuz-an was a double-ringed planet in the Outer Rim Territories. The planet's inhabitants, called Tammuz-an, were tall blue- or purple-skinned humanoids governed by a monarchy. The planet was the homeworld of Mon Julpa."
+  ],
+  "article_sections": [
+    "History",
+    "Tammuz-an military"
+  ],
+  "data": {
+    "name": "Tammuz-an",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tammuz sector",
+    "system": "Tammuz-an system",
+    "coordinates": "T-14",
+    "moons": "At least 2",
+    "climate": "Temperate",
+    "terrain": [
+      "Mountains",
+      "Rain forest",
+      "Urban"
+    ],
+    "interest": [
+      "Inn",
+      "Outer Territories",
+      "Royal castle",
+      "Tower",
+      "Unit B-6"
+    ],
+    "species": "Tammuz-an",
+    "cities": "Tammuz-an capital city",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tammuz-an",
+      "directory": "Tammuz-an (species)",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Tammuz-an",
+      "directory": "Tammuz-an (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tammuz-an",
+    "x": 13135.2,
+    "y": -6725.1,
+    "z": -38.0,
+    "region": "Outer Rim",
+    "grid": "T-14"
+  },
+  "scraped": "2026-07-03"
+}

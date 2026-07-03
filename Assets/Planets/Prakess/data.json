@@ -1,0 +1,35 @@
+{
+  "name": "Prakess",
+  "wookieepedia_title": "Prakess",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Prakess",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Prakess was a tiny terrestrial planet in the Prakith system, located in the Deep Core's Sector 5. It occupied the fifth orbital position around the star Prak and had two moons. Prakess featured a frozen environment and a rocky surface.",
+  "lead_paragraphs": [
+    "Prakess was a tiny terrestrial planet in the Prakith system, located in the Deep Core's Sector 5. It occupied the fifth orbital position around the star Prak and had two moons. Prakess featured a frozen environment and a rocky surface."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Prakess",
+    "region": "Deep Core",
+    "sector": "Sector 5",
+    "system": "Prakith system",
+    "coordinates": "K-10",
+    "suns": "1: Prak",
+    "position": "5",
+    "moons": "2",
+    "class": "Terrestrial",
+    "climate": "Frigid",
+    "terrain": "Rocky"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Prakess",
+    "x": -499.2,
+    "y": -1190.2,
+    "z": -87.7,
+    "region": "Deep Core",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

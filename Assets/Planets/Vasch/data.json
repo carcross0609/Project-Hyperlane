@@ -1,0 +1,46 @@
+{
+  "name": "Vasch",
+  "wookieepedia_title": "Vasch",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vasch",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vasch was a planet located within the Vasch system of the Outer Rim Territories. A world of lush, green, rolling hills, it was the source of Vaschean rye, and was possibly the homeworld of Sam Heggs.",
+  "lead_paragraphs": [
+    "Vasch was a planet located within the Vasch system of the Outer Rim Territories. A world of lush, green, rolling hills, it was the source of Vaschean rye, and was possibly the homeworld of Sam Heggs."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Vasch",
+    "region": "Outer Rim Territories",
+    "sector": "Arkanis sector",
+    "system": "Vasch system",
+    "coordinates": "R-17",
+    "moons": "At least 1",
+    "routes": [
+      "Najiba Loop",
+      "Vaschean Way"
+    ],
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "terrain": "Hills",
+    "interest": "Estates",
+    "demonym": "Vaschean",
+    "cities": "Numerous graceful cities",
+    "imports": "Tourism",
+    "exports": "Vaschean rye",
+    "affiliation": "Regency Worlds"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vasch",
+    "x": 9498.6,
+    "y": -10738.6,
+    "z": -503.2,
+    "region": "Outer Rim",
+    "grid": "R-17"
+  },
+  "scraped": "2026-07-03"
+}

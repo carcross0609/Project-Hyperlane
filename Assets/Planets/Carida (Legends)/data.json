@@ -1,0 +1,94 @@
+{
+  "name": "Carida",
+  "wookieepedia_title": "Carida/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carida/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Carida, originally known as Ord Carida, was a planet of the Colonies region of the galaxy, near the Perlemian Trade Route, and the homeworld of the Caridan race.",
+  "lead_paragraphs": [
+    "Carida, originally known as Ord Carida, was a planet of the Colonies region of the galaxy, near the Perlemian Trade Route, and the homeworld of the Caridan race."
+  ],
+  "article_sections": [
+    "Features",
+    "History",
+    "  The Old Republic",
+    "  Clone Wars",
+    "  Imperial Period",
+    "  Destruction of Carida"
+  ],
+  "data": {
+    "name": "Carida",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Carida system",
+    "coordinates": "M-9",
+    "suns": "1: Caridan",
+    "position": "4",
+    "moons": "2 (inc. the Mascot Moon)",
+    "lengthday": "25 standard hours",
+    "lengthyear": "357 local days",
+    "class": "Terrestrial",
+    "diameter": "18,324 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Heavy (1.98 Standard)",
+    "terrain": [
+      "Forests",
+      "Deserts",
+      "Glacier",
+      "Jungles",
+      "Arctic tundra"
+    ],
+    "interest": [
+      "Carida Corsairs' base",
+      "Caridan district",
+      "Forgofshar Desert",
+      "Officer's Candidate School",
+      "Ressl River",
+      "Spinara Plateau",
+      "  Academy of Carida",
+      "    Dean's Residence",
+      "    Imperial Navy Command Officer's School",
+      "    Storm Commando School",
+      "Tarkin's Teeth"
+    ],
+    "fauna": "Combat arachnid",
+    "species": "Caridan",
+    "otherspecies": "Human",
+    "language": [
+      "Caridan language",
+      "Galactic Basic Standard"
+    ],
+    "government": "Council of Merchants/Military administration",
+    "population": "25 million (75% Caridan, 23% Human, 2% droids)",
+    "imports": "Foodstuffs",
+    "exports": [
+      "Military personnel",
+      "Military technology",
+      "Industrial equipment"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Caridan",
+      "directory": "Caridan (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Carida",
+    "x": 2275.5,
+    "y": 889.2,
+    "z": 95.8,
+    "region": "Colonies",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

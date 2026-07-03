@@ -1,0 +1,53 @@
+{
+  "name": "Malrev IV",
+  "wookieepedia_title": "Malrev IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Malrev_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Malrev IV was a planet located in the Thrasybule sector of the Outer Rim Territories. Its history was strongly associated with the Sith.",
+  "lead_paragraphs": [
+    "Malrev IV was a planet located in the Thrasybule sector of the Outer Rim Territories. Its history was strongly associated with the Sith."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Malrev IV",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Thrasybule sector",
+    "system": "Malrev system",
+    "coordinates": "P-6",
+    "suns": "1",
+    "position": "4",
+    "moons": "At least 1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "terrain": "Forests",
+    "interest": "Sith Temple",
+    "species": "Irrukiine",
+    "cities": "None",
+    "affiliation": [
+      "New Sith",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Irrukiine",
+      "directory": "Irrukiine",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Malrev IV",
+    "x": 6506.3,
+    "y": 4985.8,
+    "z": -200.2,
+    "region": "Outer Rim",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

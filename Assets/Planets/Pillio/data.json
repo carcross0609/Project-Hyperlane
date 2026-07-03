@@ -1,0 +1,44 @@
+{
+  "name": "Pillio",
+  "wookieepedia_title": "Pillio",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pillio",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pillio was a remote and uncolonized aquatic planet on the edge of the Jinata system in the Core Worlds that was home to more than 3 million species.",
+  "lead_paragraphs": [
+    "Pillio was a remote and uncolonized aquatic planet on the edge of the Jinata system in the Core Worlds that was home to more than 3 million species.",
+    "A colossal coral reef stretched across the entire planet, and vast numbers of sea life lived in its oceans. Ancient fossils, uncommon species, and other secrets laid hidden in the deep coral caves. Pillio was the main food source of the Jinata system. Both the Nautolan and Mon Calamari fishing companies quarreled over the profits that were to be made from the natural resources.",
+    "Pillio was also the location of one of Emperor Palpatine's observatories. In 4 ABY, the Jedi Knight Luke Skywalker recovered a compass kept at the observatory."
+  ],
+  "article_sections": [
+    "History",
+    "  Galactic Civil War",
+    "  New Republic Era"
+  ],
+  "data": {
+    "name": "Pillio",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Jinata system",
+    "coordinates": "L-9",
+    "atmosphere": "Breathable",
+    "terrain": "Aquatic",
+    "water": "Seas",
+    "interest": "Emperor's Observatory",
+    "fauna": [
+      "Coral",
+      "Scritter"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pillio",
+    "x": 5038.7,
+    "y": 4696.5,
+    "z": -138.6,
+    "region": "Other",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

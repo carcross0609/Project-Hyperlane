@@ -1,0 +1,37 @@
+{
+  "name": "Zaur",
+  "wookieepedia_title": "Zaur (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zaur_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zaur was the second planet in orbit around the star Zug in the Zug system, which was located in the Arrowhead region, where the Core Worlds intersected the Slice. The planet had no moons and was completely covered in a methane ocean.",
+  "lead_paragraphs": [
+    "Zaur was the second planet in orbit around the star Zug in the Zug system, which was located in the Arrowhead region, where the Core Worlds intersected the Slice. The planet had no moons and was completely covered in a methane ocean."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Zaur",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "system": "Zug system",
+    "coordinates": "L-10",
+    "suns": "1: Zug",
+    "position": "2",
+    "moons": "0",
+    "class": "Terrestrial",
+    "terrain": "Methane ocean"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Zaur",
+    "x": 358.5,
+    "y": -364.2,
+    "z": 46.5,
+    "region": "Core Worlds",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

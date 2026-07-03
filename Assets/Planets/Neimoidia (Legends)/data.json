@@ -1,0 +1,105 @@
+{
+  "name": "Neimoidia",
+  "wookieepedia_title": "Neimoidia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Neimoidia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Neimoidia, also called Pure Neimoidia to avoid confusion with the Neimoidian purse worlds, was a planet in the Colonies region that the Duros from Duro colonized sometime around 25,000 BBY, bringing it into the Galactic Republic.",
+  "lead_paragraphs": [
+    "Neimoidia, also called Pure Neimoidia to avoid confusion with the Neimoidian purse worlds, was a planet in the Colonies region that the Duros from Duro colonized sometime around 25,000 BBY, bringing it into the Galactic Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "  Biosphere",
+    "History",
+    "  Early history",
+    "  Rise of the Trade Federation",
+    "  The Clone Wars",
+    "  Later History"
+  ],
+  "data": {
+    "name": "Neimoidia",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Neimoidia system",
+    "coordinates": "M-10",
+    "suns": "1: Nen",
+    "position": "3",
+    "moons": "1",
+    "lengthday": "29 standard hours",
+    "lengthyear": "221 standard days",
+    "class": "Terrestrial",
+    "diameter": "10,830 km",
+    "climate": "Humid",
+    "terrain": [
+      "Desert",
+      "Fields",
+      "Rainforest"
+    ],
+    "interest": [
+      "Communal Hives (formerly)",
+      "Fungus Farms (formerly)",
+      "Neimoidian shipyards"
+    ],
+    "flora": "Manax tree",
+    "fauna": [
+      "Harvester beetle",
+      "Mistfly",
+      "Neekoflight",
+      "Needle flier",
+      "Pylat"
+    ],
+    "species": "Neimoidian",
+    "otherspecies": "Duros",
+    "language": "Pak Pak",
+    "government": "Corporate",
+    "population": [
+      "400 million:",
+      "  95% Neimoidians",
+      "  5% Duros"
+    ],
+    "demonym": "Neimoidian",
+    "cities": [
+      "Kaantay",
+      "Koto-Si (capital)"
+    ],
+    "imports": "Technology",
+    "exports": [
+      "Foodstuffs",
+      "Medicine",
+      "Botanicals",
+      "Starships"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Alliance"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Neimoidian",
+      "directory": "Neimoidian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Neimoidian",
+      "directory": "Neimoidian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Neimoidia",
+    "x": 2816.2,
+    "y": -897.0,
+    "z": 113.5,
+    "region": "Colonies",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

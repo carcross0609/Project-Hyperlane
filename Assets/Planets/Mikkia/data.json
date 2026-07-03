@@ -1,0 +1,49 @@
+{
+  "name": "Mikkia",
+  "wookieepedia_title": "Mikkia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mikkia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Mikkia was a planet with a variety of climates located in the galaxy's Expansion Region, and home to the Mikkian species. Mikkia was a member of the Galactic Republic for thousands of years. During the High Republic Era, Jedi Master Mirro Lox and his Padawan Amadeo Azzazzo helped assist and rescue people during a large groundquake on the planet. The destruction of the Jedi Order contributed to a high level of anti-Imperial sentiment on Mikkia.",
+  "lead_paragraphs": [
+    "Mikkia was a planet with a variety of climates located in the galaxy's Expansion Region, and home to the Mikkian species. Mikkia was a member of the Galactic Republic for thousands of years. During the High Republic Era, Jedi Master Mirro Lox and his Padawan Amadeo Azzazzo helped assist and rescue people during a large groundquake on the planet. The destruction of the Jedi Order contributed to a high level of anti-Imperial sentiment on Mikkia."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Mikkia",
+    "region": "Expansion Region",
+    "sector": "Greater Plooriod sector",
+    "system": "Mikkia system",
+    "coordinates": "M-7",
+    "routes": "Hydian Way",
+    "climate": "Varies",
+    "terrain": [
+      "Equatorial jungles",
+      "Icy poles"
+    ],
+    "interest": "Red Mine mining complex",
+    "species": "Mikkian",
+    "language": "Mikkian",
+    "cities": "Charbana",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mikkian",
+      "directory": "Mikkian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Mikkia",
+    "x": 5763.9,
+    "y": -2510.8,
+    "z": 136.4,
+    "region": "Expansion Region",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

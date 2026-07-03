@@ -1,0 +1,41 @@
+{
+  "name": "Gruvia",
+  "wookieepedia_title": "Gruvia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gruvia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gruvia was a planet in the Expansion Region. It was the homeworld of the Gruvian species, whom exported Gruvian Tovash. The planet was part of the Empire.",
+  "lead_paragraphs": [
+    "Gruvia was a planet in the Expansion Region. It was the homeworld of the Gruvian species, whom exported Gruvian Tovash. The planet was part of the Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gruvia",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Hilo sector",
+    "system": "Gruvia system",
+    "coordinates": "P-13",
+    "species": "Gruvian",
+    "exports": "Gruvian Tovash",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gruvian",
+      "directory": "Gruvian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gruvia",
+    "x": 6277.5,
+    "y": -3674.4,
+    "z": 154.0,
+    "region": "Expansion Region",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

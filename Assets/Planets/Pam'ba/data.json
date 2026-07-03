@@ -1,0 +1,51 @@
+{
+  "name": "Pam'ba",
+  "wookieepedia_title": "Pam'ba",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pam%27ba",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pam'ba was a planet predominately covered in warm marshlands located in the galaxy's Mid Rim. It was once the site of phosphate mines, before it was largely abandoned over a century before the New Republic Era. The planet became home to the former Jedi Padawan Naq Med, who fled there to avoid the Imperial Inquisitorius after the Great Jedi Purge. Eventually, Med's great-grandson, Karr Nuq Sin, traced his family roots to Pam'ba, and the two met in Med's house.",
+  "lead_paragraphs": [
+    "Pam'ba was a planet predominately covered in warm marshlands located in the galaxy's Mid Rim. It was once the site of phosphate mines, before it was largely abandoned over a century before the New Republic Era. The planet became home to the former Jedi Padawan Naq Med, who fled there to avoid the Imperial Inquisitorius after the Great Jedi Purge. Eventually, Med's great-grandson, Karr Nuq Sin, traced his family roots to Pam'ba, and the two met in Med's house."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Pam'ba",
+    "region": "Mid Rim Territories",
+    "sector": "N/A",
+    "system": "Pam'ba system",
+    "coordinates": "H-15",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Warm",
+    "terrain": [
+      "Marshlands",
+      "Mountains"
+    ],
+    "water": [
+      "Oceans",
+      "Rivers"
+    ],
+    "interest": "Naq Med's house",
+    "flora": "Grass",
+    "fauna": [
+      "Birds",
+      "Bugs"
+    ],
+    "otherspecies": "Human",
+    "exports": "Phosphates"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pam'ba",
+    "x": -4677.3,
+    "y": -8303.8,
+    "z": -285.5,
+    "region": "Mid Rim",
+    "grid": "H-15"
+  },
+  "scraped": "2026-07-03"
+}

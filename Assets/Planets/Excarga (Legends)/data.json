@@ -1,0 +1,50 @@
+{
+  "name": "Excarga",
+  "wookieepedia_title": "Excarga/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Excarga/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Excarga was a mining world in the Outer Rim Territories. The planet had ties to the Mining Guild.",
+  "lead_paragraphs": [
+    "Excarga was a mining world in the Outer Rim Territories. The planet had ties to the Mining Guild.",
+    "Excarga was the site of the First and Second Battles of Excarga in 22 BBY, during the Clone Wars; in the former, the planet was captured by the Confederacy of Independent Systems; in the latter, liberated by the Galactic Republic."
+  ],
+  "article_sections": [
+    "History",
+    "  Galactic Republic",
+    "  Galactic Empire"
+  ],
+  "data": {
+    "name": "Excarga",
+    "region": "Outer Rim Territories",
+    "sector": "Herios sector",
+    "system": "Excarga system",
+    "coordinates": "T-16",
+    "routes": "Cranan-Excarga Route",
+    "species": "Excargans",
+    "population": "10 million to 100 million (c.25 ABY)",
+    "cities": "Zogoto",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Excargan",
+      "directory": "Excargan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Excarga",
+    "x": 12494.9,
+    "y": -9873.8,
+    "z": -399.6,
+    "region": "Outer Rim",
+    "grid": "T-16"
+  },
+  "scraped": "2026-07-03"
+}

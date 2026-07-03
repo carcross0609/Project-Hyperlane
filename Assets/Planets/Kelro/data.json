@@ -1,0 +1,42 @@
+{
+  "name": "Kelro",
+  "wookieepedia_title": "Kelro",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kelro",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kelro was the second planet in the Lazerian system. Located within the Kira sector, in the Trailing Sectors portion of the Expansion Region, it was found along the trade routes known as the Harrin Trade Corridor and Kira Run. The planet orbited the yellow star Lazerian and was a desolate, searing hot planet with a rocky landscape and no moons. At some point, Kelro was explored and mapped by the inhabitants of the planet Lazerian IV, and it was subsequently considered useless.",
+  "lead_paragraphs": [
+    "Kelro was the second planet in the Lazerian system. Located within the Kira sector, in the Trailing Sectors portion of the Expansion Region, it was found along the trade routes known as the Harrin Trade Corridor and Kira Run. The planet orbited the yellow star Lazerian and was a desolate, searing hot planet with a rocky landscape and no moons. At some point, Kelro was explored and mapped by the inhabitants of the planet Lazerian IV, and it was subsequently considered useless."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kelro",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Lazerian system",
+    "coordinates": "N-15",
+    "suns": "Lazerian",
+    "position": "2",
+    "moons": "0",
+    "routes": [
+      "Harrin Trade Corridor",
+      "Kira Run"
+    ],
+    "class": "Terrestrial",
+    "climate": "Searing hot",
+    "terrain": "Desolate rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kelro",
+    "x": -660.6,
+    "y": -10061.4,
+    "z": -50.8,
+    "region": "Expansion Region",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

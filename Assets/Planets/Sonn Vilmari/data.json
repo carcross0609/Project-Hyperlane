@@ -1,0 +1,33 @@
+{
+  "name": "Sonn Vilmari",
+  "wookieepedia_title": "Sonn Vilmari",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sonn_Vilmari",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sonn Vilmari was a planet in the Colundra sector of the Outer Rim.",
+  "lead_paragraphs": [
+    "Sonn Vilmari was a planet in the Colundra sector of the Outer Rim."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Sonn Vilmari",
+    "region": "Outer Rim Territories",
+    "sector": "Colundra sector",
+    "system": "Sonn Vilmari system",
+    "coordinates": "S-5",
+    "class": "Terrestrial",
+    "terrain": "Ocean",
+    "species": "Pan-preneur"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pan-preneur",
+      "directory": "Pan-preneur",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

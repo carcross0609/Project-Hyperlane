@@ -1,0 +1,35 @@
+{
+  "name": "Amar",
+  "wookieepedia_title": "Amar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Amar, also known as Amara, was the homeworld of the Amaran species in the Amar system.",
+  "lead_paragraphs": [
+    "Amar, also known as Amara, was the homeworld of the Amaran species in the Amar system."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Amar",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Airon sector",
+    "system": "Amar system",
+    "coordinates": "O-10",
+    "class": "Terrestrial",
+    "species": "Amarans"
+  },
+  "homeworld_of": [
+    {
+      "name": "Amaran",
+      "directory": "Amaran (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

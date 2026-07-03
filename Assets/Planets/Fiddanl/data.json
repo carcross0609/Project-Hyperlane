@@ -1,0 +1,50 @@
+{
+  "name": "Fiddanl",
+  "wookieepedia_title": "Fiddanl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fiddanl",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fiddanl, originally known as 96NK3F2, was a barren planet in the Yavin system.",
+  "lead_paragraphs": [
+    "Fiddanl, originally known as 96NK3F2, was a barren planet in the Yavin system."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Fiddanl",
+    "region": "Outer Rim Territories",
+    "sector": "Gordian Reach",
+    "system": "Yavin system",
+    "coordinates": "P-6",
+    "suns": "1: Yavin",
+    "position": "1",
+    "moons": "0",
+    "routes": "Yavin Bypass",
+    "lengthday": "18 standard hours",
+    "lengthyear": "276 standard days",
+    "class": "Searing rock",
+    "diameter": "15,000 kilometers",
+    "atmosphere": [
+      "Nitrogen",
+      "Sulfur compounds",
+      "Mercury precipitates"
+    ],
+    "climate": "Hot",
+    "terrain": [
+      "Mercury seas",
+      "Flat continents"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Fiddanl",
+    "x": 6932.9,
+    "y": 5281.5,
+    "z": -263.8,
+    "region": "Outer Rim",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

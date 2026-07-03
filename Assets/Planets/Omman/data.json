@@ -1,0 +1,38 @@
+{
+  "name": "Omman",
+  "wookieepedia_title": "Omman",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Omman",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Omman was a planet located in the Tion Hegemony of the Outer Rim.",
+  "lead_paragraphs": [
+    "Omman was a planet located in the Tion Hegemony of the Outer Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Omman",
+    "region": [
+      "Outer Rim Territories",
+      "  Tion Cluster"
+    ],
+    "sector": "Tion Hegemony",
+    "system": "Omman system",
+    "coordinates": "S-6",
+    "routes": "Desevran Trace",
+    "exports": "Foodstuffs",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Omman",
+    "x": 10952.6,
+    "y": 5615.0,
+    "z": -577.2,
+    "region": "Outer Rim",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

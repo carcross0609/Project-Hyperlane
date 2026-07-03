@@ -1,0 +1,70 @@
+{
+  "name": "Zolan",
+  "wookieepedia_title": "Zolan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zolan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zolan was a planet that was the homeworld of the Zolander species and its Clawdite offshoot.",
+  "lead_paragraphs": [
+    "Zolan was a planet that was the homeworld of the Zolander species and its Clawdite offshoot."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Zolan",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Lambda sector",
+    "system": "Zolan system",
+    "coordinates": "P-16",
+    "atmosphere": "Oxygen mix",
+    "interest": "Sultur",
+    "fauna": [
+      "Herabe",
+      "Monzu"
+    ],
+    "species": [
+      "Clawdite",
+      "Zolander"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Clawdite",
+      "Zolanese"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Clawdite",
+      "directory": "Clawdite",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Clawdite",
+      "directory": "Clawdite (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Zolander",
+      "directory": "Zolander",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zolan",
+    "x": 7065.6,
+    "y": -9417.2,
+    "z": -272.0,
+    "region": "Mid Rim",
+    "grid": "P-16"
+  },
+  "scraped": "2026-07-03"
+}

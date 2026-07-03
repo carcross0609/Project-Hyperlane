@@ -1,0 +1,41 @@
+{
+  "name": "Salliche",
+  "wookieepedia_title": "Salliche",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Salliche",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Salliche was an agriworld located in the Core Worlds of the galaxy. It provided crops to other worlds in the region like Coruscant. While it was being ravaged by Norkronian raiders, Salliche's Senator Bulgeski called for the Republic Guard of the Galactic Republic to intervene, although not long after he argued against similar support for other worlds in 42 BBY. In 3 ABY, the Galactic Empire was victorious in operations on Salliche with no civilian casualties.",
+  "lead_paragraphs": [
+    "Salliche was an agriworld located in the Core Worlds of the galaxy. It provided crops to other worlds in the region like Coruscant. While it was being ravaged by Norkronian raiders, Salliche's Senator Bulgeski called for the Republic Guard of the Galactic Republic to intervene, although not long after he argued against similar support for other worlds in 42 BBY. In 3 ABY, the Galactic Empire was victorious in operations on Salliche with no civilian casualties."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Salliche",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Salliche system",
+    "coordinates": "K-10",
+    "species": "Sallichen",
+    "exports": "Crops",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sallichen",
+      "directory": "Sallichen",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Salliche",
+    "x": -385.6,
+    "y": -278.1,
+    "z": -50.9,
+    "region": "Core Worlds",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

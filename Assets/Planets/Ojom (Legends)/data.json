@@ -1,0 +1,58 @@
+{
+  "name": "Ojom",
+  "wookieepedia_title": "Ojom/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ojom/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ojom was a frozen ocean planet located within the Deep Core and the homeworld of the Besalisk. Largely inhospitable, several space stations hung in orbit so as to accommodate other species less acclimated to the cold.",
+  "lead_paragraphs": [
+    "Ojom was a frozen ocean planet located within the Deep Core and the homeworld of the Besalisk. Largely inhospitable, several space stations hung in orbit so as to accommodate other species less acclimated to the cold."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Ojom",
+    "region": "Deep Core",
+    "sector": "Sector 5",
+    "system": "Ojom system",
+    "coordinates": "M-11",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Frigid",
+    "terrain": [
+      "Oceans",
+      "Glaciers"
+    ],
+    "species": "Besalisk",
+    "language": "Besalisk",
+    "government": "Communal arbiters",
+    "population": "100 to 500 million (c. 25 ABY)",
+    "affiliation": [
+      "Hutt Cartel",
+      "Greater Maldrood"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Besalisk",
+      "directory": "Besalisk",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Besalisk",
+      "directory": "Besalisk (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ojom",
+    "x": 1617.8,
+    "y": -2449.2,
+    "z": -109.4,
+    "region": "Deep Core",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

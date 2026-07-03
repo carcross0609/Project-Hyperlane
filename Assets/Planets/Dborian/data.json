@@ -1,0 +1,42 @@
+{
+  "name": "Dborian",
+  "wookieepedia_title": "Dborian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dborian",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dborian, also known as Lazerian V, was the fifth planet in the Lazerian system, orbiting the yellow star Lazerian. It was located within the Kira sector in the Trailing Sectors portion of the Expansion Region. Along with the rest of the Lazerian system, Dborian lay on the Harrin Trade Corridor and Kira Run hyperlanes.",
+  "lead_paragraphs": [
+    "Dborian, also known as Lazerian V, was the fifth planet in the Lazerian system, orbiting the yellow star Lazerian. It was located within the Kira sector in the Trailing Sectors portion of the Expansion Region. Along with the rest of the Lazerian system, Dborian lay on the Harrin Trade Corridor and Kira Run hyperlanes.",
+    "The planet's surface was barren and rocky, and the world had two moons. It had a Type II atmosphere in which the use of breath masks was suggested. At some point, Dborian was surveyed by the inhabitants of the planet Lazerian IV. The world eventually came to serve as a mining colony but was otherwise uninhabited."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dborian",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Lazerian system",
+    "coordinates": "N-15",
+    "suns": "Lazerian",
+    "position": "5",
+    "moons": "2",
+    "routes": [
+      "Harrin Trade Corridor",
+      "Kira Run"
+    ],
+    "atmosphere": "Type II (breath mask suggested)",
+    "terrain": "Barren rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dborian",
+    "x": 5143.7,
+    "y": -7362.6,
+    "z": -66.5,
+    "region": "Expansion Region",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

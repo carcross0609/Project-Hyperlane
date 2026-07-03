@@ -1,0 +1,58 @@
+{
+  "name": "ZeHeth",
+  "wookieepedia_title": "ZeHeth/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ZeHeth/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "ZeHeth was a Mid Rim planet that was home to the sentient ZeHethbra species. The natives of ZeHeth lived in urban areas as well as in dens amid the roots of the planet's large trees. ZeHeth was a part of the Galactic Republic during the Clone Wars and became a member of the Galactic Empire afterward.",
+  "lead_paragraphs": [
+    "ZeHeth was a Mid Rim planet that was home to the sentient ZeHethbra species. The natives of ZeHeth lived in urban areas as well as in dens amid the roots of the planet's large trees. ZeHeth was a part of the Galactic Republic during the Clone Wars and became a member of the Galactic Empire afterward."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "ZeHeth",
+    "region": [
+      "Wild Space (c. 12,000 BBY–11,000 BBY)",
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Dustig sector",
+    "system": "ZeHeth system",
+    "coordinates": "N-16",
+    "routes": "Hydian Way",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "terrain": [
+      "Mountains",
+      "Urban sprawls"
+    ],
+    "flora": "Trees",
+    "species": "ZeHethbra",
+    "language": "Zehethbra",
+    "population": "500 million–1 billion (ZeHeth system) (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "ZeHethbra",
+      "directory": "ZeHethbra",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "ZeHeth",
+    "x": 3184.5,
+    "y": -10022.4,
+    "z": -396.5,
+    "region": "Mid Rim",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

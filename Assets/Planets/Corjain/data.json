@@ -1,0 +1,46 @@
+{
+  "name": "Corjain",
+  "wookieepedia_title": "Corjain",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corjain",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The planet Corjain was located within the system of the same name in the Kathol sector of the Outer Rim Territories, just off the Trition Trade Route. Barely habitable, the planet supported a large mining industry, with all settlements located deep underground. During the Galactic Civil War, the planet was also the location of a secret outpost maintained by the Bothan Spynet.",
+  "lead_paragraphs": [
+    "The planet Corjain was located within the system of the same name in the Kathol sector of the Outer Rim Territories, just off the Trition Trade Route. Barely habitable, the planet supported a large mining industry, with all settlements located deep underground. During the Galactic Civil War, the planet was also the location of a secret outpost maintained by the Bothan Spynet."
+  ],
+  "article_sections": [
+    "Description",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Corjain",
+    "region": "Outer Rim Territories",
+    "sector": "Kathol sector",
+    "system": "Corjain system",
+    "coordinates": "M-21",
+    "atmosphere": "Poisonous",
+    "interest": "Secret Bothan listening post",
+    "otherspecies": [
+      "Bothans",
+      "Humans",
+      "Jarells",
+      "Svivreni"
+    ],
+    "exports": [
+      "Metals",
+      "Ores"
+    ],
+    "affiliation": "Bothans (Unofficially)"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Corjain",
+    "x": 1750.4,
+    "y": -17442.6,
+    "z": 255.4,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

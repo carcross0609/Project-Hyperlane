@@ -1,0 +1,75 @@
+{
+  "name": "Boz Pity",
+  "wookieepedia_title": "Boz Pity/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Boz_Pity/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Boz Pity was a planet in the Boz Pity system of the Mid Rim. It was home to the sentient Gargantelle species, noted for their large stature. When the planet was discovered at some point before the end of the Ductavis Era, the Hutts attempted to enslave the species. After the Gargantelles repelled seven invasions and four diplomatic missions, the Hutts convinced the Electric Caliphs of Boz Pity's neighbor world Mourn to exterminate the species. The Gargantelles were slowly driven to extinction over the next decade, but erected a substantial amount of enormous gravestones to their fallen. When the species disappeared, these monuments earned Boz Pity the nickname \"the graveyard planet,\" which prompted inhabitants of nearby systems to travel to the planet to bury their dead.",
+  "lead_paragraphs": [
+    "Boz Pity was a planet in the Boz Pity system of the Mid Rim. It was home to the sentient Gargantelle species, noted for their large stature. When the planet was discovered at some point before the end of the Ductavis Era, the Hutts attempted to enslave the species. After the Gargantelles repelled seven invasions and four diplomatic missions, the Hutts convinced the Electric Caliphs of Boz Pity's neighbor world Mourn to exterminate the species. The Gargantelles were slowly driven to extinction over the next decade, but erected a substantial amount of enormous gravestones to their fallen. When the species disappeared, these monuments earned Boz Pity the nickname \"the graveyard planet,\" which prompted inhabitants of nearby systems to travel to the planet to bury their dead.",
+    "During the Clone Wars, the Confederacy of Independent Systems used the planet as a staging point for raids on the Galactic Republic's borders, and constructed a large base on Boz Pity's surface. In 19.43 BBY, towards the end of the war, Republic forces seized control of the planet. Shortly after the Battle of Yavin, the Alliance to Restore the Republic established a base on the planet. The Galactic Empire discovered the base shortly after, and launched an attack on Boz Pity, but the Alliance was able to evacuate.",
+    "Between 25 and 26 ABY, the Boz Pity system was attacked by the Yuuzhan Vong during their attempt at conquering the galaxy. New Republic forces drove them out between 27 and 29 ABY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  The Clone Wars",
+    "  Galactic Civil War",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Boz Pity",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region",
+      "The Slice"
+    ],
+    "sector": "Halla sector",
+    "system": "Boz Pity system",
+    "coordinates": "S-9",
+    "suns": "1: Cama Coll",
+    "position": "2 (Synchronous orbit with Mourn)",
+    "moons": "0",
+    "routes": "Ilosian Spur",
+    "lengthday": "55 standard hours",
+    "lengthyear": "778 local days",
+    "class": "Terrestrial",
+    "diameter": "10,432 km",
+    "terrain": [
+      "Canyons",
+      "Deserts",
+      "Mountains",
+      "Plains"
+    ],
+    "interest": [
+      "Boz Pity base",
+      "Boz Pity Confederacy base",
+      "Gargantelle ruins"
+    ],
+    "species": "Gargantelles (extinct)",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Republic",
+      "Alliance to Restore the Republic",
+      "Greater Maldrood",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Gargantelle",
+      "directory": "Gargantelle",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Boz Pity",
+    "x": 10564.2,
+    "y": 897.1,
+    "z": -39.5,
+    "region": "Mid Rim",
+    "grid": "S-9"
+  },
+  "scraped": "2026-07-03"
+}

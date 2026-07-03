@@ -1,0 +1,52 @@
+{
+  "name": "Bosph",
+  "wookieepedia_title": "Bosph",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bosph",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bosph was a planet in the Bosph sector of the Outer Rim Territories. In 3 BBY, the Galactic Empire bombarded the world to try and wipe out a sentient species that dwelt there. Surviving members of the species chose to dis-remember the Empire.",
+  "lead_paragraphs": [
+    "Bosph was a planet in the Bosph sector of the Outer Rim Territories. In 3 BBY, the Galactic Empire bombarded the world to try and wipe out a sentient species that dwelt there. Surviving members of the species chose to dis-remember the Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Bosph",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Bosph sector",
+    "system": "Bosph system",
+    "coordinates": "Q-3",
+    "species": "A species"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bosph",
+      "directory": "Bosph (species)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Bosph precursor species",
+      "directory": "Bosph precursor species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified Bosph species",
+      "directory": "Unidentified Bosph species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Bosph",
+    "x": 7792.3,
+    "y": 9746.9,
+    "z": 206.9,
+    "region": "Outer Rim",
+    "grid": "Q-3"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,137 @@
+{
+  "name": "Alderaan",
+  "wookieepedia_title": "Alderaan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alderaan",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Alderaan, located in the Core Worlds, was a terrestrial planet covered with mountains. During the waning decades of the Galactic Republic, it was ruled by Queen Breha Organa and represented in the Galactic Senate by her husband, Senator Bail Prestor Organa. Alderaan was regarded for its natural beauty, its tranquility, and the sophistication of its arts and culture.",
+  "lead_paragraphs": [
+    "Alderaan, located in the Core Worlds, was a terrestrial planet covered with mountains. During the waning decades of the Galactic Republic, it was ruled by Queen Breha Organa and represented in the Galactic Senate by her husband, Senator Bail Prestor Organa. Alderaan was regarded for its natural beauty, its tranquility, and the sophistication of its arts and culture.",
+    "Following the rise of Sheev Palpatine's Galactic Empire, Alderaan played a pivotal role in the establishment of the Rebel Alliance, a movement that sought to restore the Old Republic's values, and was one of its earliest supporters. Because of its ties with the Alliance, the planet was destroyed when Grand Moff Wilhuff Tarkin decided to test the superlaser of the Death Star, a moon-sized battle station developed by the Empire, at full strength. Among the few survivors of that disaster was Princess Leia Organa, adopted daughter of Bail and Breha Organa and heiress to the royal house of Alderaan."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The Old Republic",
+    "  The Clone Wars",
+    "  Age of the Empire",
+    "  Destruction",
+    "  Legacy",
+    "Inhabitants",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Alderaan",
+    "region": [
+      "Core Worlds",
+      "The Interior"
+    ],
+    "sector": "Alderaan sector",
+    "system": "Alderaan system",
+    "coordinates": "M-10",
+    "suns": "1: Alderaan's sun",
+    "moons": "0",
+    "routes": "Commenor Run",
+    "lengthday": "18 standard hours",
+    "lengthyear": "364 standard days",
+    "class": "Terrestrial",
+    "diameter": "12,500 kilometers",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Forests",
+      "Mountainous",
+      "Plains"
+    ],
+    "interest": [
+      "Aldera cathedral",
+      "Appenza Peak",
+      "Cloudshape Falls",
+      "Glarus Lagoons",
+      "Istabith Falls",
+      "Isatabith rain forest",
+      "Kathou",
+      "Polar Sea",
+      "River Wuitho",
+      "Royal Palace of Alderaan",
+      "A region",
+      "University of Alderaan"
+    ],
+    "flora": [
+      "Candlewick flower",
+      "Chinar tree",
+      "Conifer",
+      "Kriin-wood",
+      "Starblossom",
+      "Starflower"
+    ],
+    "fauna": [
+      "Alderaanian deer",
+      "Alderaanian wolf-cat",
+      "Manka cat",
+      "Nerf",
+      "Snow owl",
+      "Thranta"
+    ],
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": [
+      "Monarchy",
+      "Alderaanian government"
+    ],
+    "population": [
+      "2 billion",
+      "  95% humans",
+      "  5% other"
+    ],
+    "demonym": "Alderaanian",
+    "cities": [
+      "Aldera (capital)",
+      "Crevasse City",
+      "Hallyn",
+      "Sanctuary Coast",
+      "A city"
+    ],
+    "imports": [
+      "Electronics",
+      "Manufactured goods"
+    ],
+    "exports": [
+      "Art",
+      "Luxury goods",
+      "Wine"
+    ],
+    "affiliation": [
+      "Elder Houses",
+      "  House of Organa",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Alderaanian",
+      "directory": "Alderaanian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Alderaanian",
+      "directory": "Alderaanian (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Mantellian Savrip",
+      "directory": "Mantellian Savrip (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alderaan",
+    "x": 1942.4,
+    "y": -89.5,
+    "z": 86.5,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

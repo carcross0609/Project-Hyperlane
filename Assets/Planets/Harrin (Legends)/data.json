@@ -1,0 +1,47 @@
+{
+  "name": "Harrin",
+  "wookieepedia_title": "Harrin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Harrin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Harrin was a planet located in the Inner Rim sector of the same name. It was situated on the Corellian Trade Spine super-hyperroute and served as the endpoint of the Harrin Trade Corridor hyperlane.",
+  "lead_paragraphs": [
+    "Harrin was a planet located in the Inner Rim sector of the same name. It was situated on the Corellian Trade Spine super-hyperroute and served as the endpoint of the Harrin Trade Corridor hyperlane.",
+    "Harrin was a member of the Galactic Republic since approximately 12,000 BBY; however, it was aligned with the Confederacy of Independent Systems during the Clone Wars. By 17 BBY, Harrin was a member world of the Galactic Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Harrin",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Harrin sector",
+    "system": "Harrin system",
+    "coordinates": "L-15",
+    "routes": [
+      "Corellian Trade Spine",
+      "Harrin Trade Corridor"
+    ],
+    "population": "1–10 billion (Harrin system) (25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "  Corellian Hegemony",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Harrin",
+    "x": 1223.7,
+    "y": -7532.4,
+    "z": -140.7,
+    "region": "Inner Rim",
+    "grid": "L-15"
+  },
+  "scraped": "2026-07-03"
+}

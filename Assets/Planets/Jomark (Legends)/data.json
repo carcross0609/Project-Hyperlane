@@ -1,0 +1,73 @@
+{
+  "name": "Jomark",
+  "wookieepedia_title": "Jomark/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jomark/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jomark was the second of six worlds in the Jomark system. Originally known as Bynas, it was absorbed into Xim's Empire as he expanded his borders from the Kingdom of Cron.",
+  "lead_paragraphs": [
+    "Jomark was the second of six worlds in the Jomark system. Originally known as Bynas, it was absorbed into Xim's Empire as he expanded his borders from the Kingdom of Cron."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Jomark",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Jospro sector",
+    "system": "Jomark system",
+    "coordinates": "R-7",
+    "suns": "1",
+    "position": "2/6",
+    "moons": "3",
+    "lengthday": "23 standard hours",
+    "lengthyear": "312 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Islands (varied terrain)",
+      "Oceans"
+    ],
+    "water": "Moist",
+    "interest": [
+      "High Castle",
+      "Ring Lake"
+    ],
+    "fauna": "Thumper (imported)",
+    "species": "Unidentified Jomark species (extinct)",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Cooperative communities",
+    "population": "2.8 million",
+    "cities": "Chynoo",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Xim's empire",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Jomark species",
+      "directory": "Unidentified Jomark species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Jomark",
+    "x": 10223.4,
+    "y": 4001.2,
+    "z": 185.9,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

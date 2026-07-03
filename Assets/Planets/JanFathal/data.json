@@ -1,0 +1,42 @@
+{
+  "name": "JanFathal",
+  "wookieepedia_title": "JanFathal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/JanFathal",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "JanFathal was a planet in the Outer Rim Territories and was once part of the Republic. The city of Athar was its capital.",
+  "lead_paragraphs": [
+    "JanFathal was a planet in the Outer Rim Territories and was once part of the Republic. The city of Athar was its capital."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "JanFathal",
+    "region": "Outer Rim Territories",
+    "sector": "Fath sector",
+    "system": "Fath system",
+    "coordinates": "K-6",
+    "routes": "Entralla Route",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "cities": [
+      "Athar (capital)",
+      "Nuth"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "JanFathal",
+    "x": -813.6,
+    "y": 5838.3,
+    "z": 1.2,
+    "region": "Outer Rim",
+    "grid": "K-6"
+  },
+  "scraped": "2026-07-03"
+}

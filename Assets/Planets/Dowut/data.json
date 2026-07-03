@@ -1,0 +1,52 @@
+{
+  "name": "Dowut",
+  "wookieepedia_title": "Dowut",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dowut",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Dowut was a frigid planet of windswept tundras located in the Dowut system, a trinary star system in the Core Worlds of the galaxy. The homeworld of the Dowutin species, Dowut was also home to predatory gor-cats and nabirs, which were known to kill members of the Dowutin precursor species. Despite Dowut having joined the Galactic Republic, the Dowutin generally avoided politics, and their senator made appearances on Coruscant sparingly. During the rule of the Galactic Empire, Dowut suffered from an indefinite Imperial blockade.",
+  "lead_paragraphs": [
+    "Dowut was a frigid planet of windswept tundras located in the Dowut system, a trinary star system in the Core Worlds of the galaxy. The homeworld of the Dowutin species, Dowut was also home to predatory gor-cats and nabirs, which were known to kill members of the Dowutin precursor species. Despite Dowut having joined the Galactic Republic, the Dowutin generally avoided politics, and their senator made appearances on Coruscant sparingly. During the rule of the Galactic Empire, Dowut suffered from an indefinite Imperial blockade."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dowut",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Dowut system",
+    "coordinates": "J-12",
+    "suns": "3",
+    "climate": "Frigid",
+    "terrain": [
+      "Frozen plains",
+      "Tundras"
+    ],
+    "fauna": [
+      "Feek",
+      "Gor-cat",
+      "Nabir"
+    ],
+    "species": [
+      "Dowutin",
+      "Dowutin precursor species (formerly)"
+    ],
+    "language": "Dowuta",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Dowutin",
+      "directory": "Dowutin",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Dowut",
+    "x": 2672.2,
+    "y": -1557.6,
+    "z": -90.9,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

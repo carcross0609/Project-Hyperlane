@@ -1,0 +1,49 @@
+{
+  "name": "Kerest",
+  "wookieepedia_title": "Kerest/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kerest/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kerest was an Outer Rim Territories planet located in the Sluis sector. It was the homeworld of the sentient Kerestian species. At one point more than a millennium before the Battle of Yavin, the Kerestians settled the nearby moons Karoliston and Pharna and launched multiple sublight-speed colony ships toward distant star systems.",
+  "lead_paragraphs": [
+    "Kerest was an Outer Rim Territories planet located in the Sluis sector. It was the homeworld of the sentient Kerestian species. At one point more than a millennium before the Battle of Yavin, the Kerestians settled the nearby moons Karoliston and Pharna and launched multiple sublight-speed colony ships toward distant star systems.",
+    "Less than a century later, the sun of the Kerest system unexpectedly began to cool, resulting in rapid temperature decrease on Kerest. Most of the planet's surface became covered by thick glaciers, and over the subsequent centuries, the Kerestians that survived there reverted to a primitive, barbaric state. By the time of the Galactic Civil War, those Kerestians—known as relentless hunters—who left Kerest frequently became employed as mercenaries and bounty hunters."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The disaster",
+    "  Interactions with offworlders",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Kerest",
+    "region": "Outer Rim Territories",
+    "sector": "Sluis sector",
+    "system": "Kerest system",
+    "coordinates": "M-19",
+    "suns": "1: Kerestian sun",
+    "class": "Terrestrial",
+    "climate": "Frigid",
+    "terrain": "Glaciers",
+    "species": "Kerestian",
+    "language": "Kerestese",
+    "demonym": "Kerestian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kerestian",
+      "directory": "Kerestian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kerest",
+    "x": 2450.9,
+    "y": 6209.9,
+    "z": 270.0,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

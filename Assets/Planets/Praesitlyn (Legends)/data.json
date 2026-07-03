@@ -1,0 +1,64 @@
+{
+  "name": "Praesitlyn",
+  "wookieepedia_title": "Praesitlyn/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Praesitlyn/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Praesitlyn was a planet in the Sluis sector of the Outer Rim. It was the location of the Intergalactic Communications Center, a major HoloNet hub in the galaxy. The Communications Center became a strategic asset during the Clone Wars, leading to the fierce Battle of Praesitlyn.",
+  "lead_paragraphs": [
+    "Praesitlyn was a planet in the Sluis sector of the Outer Rim. It was the location of the Intergalactic Communications Center, a major HoloNet hub in the galaxy. The Communications Center became a strategic asset during the Clone Wars, leading to the fierce Battle of Praesitlyn."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Clone Wars",
+    "  Later history"
+  ],
+  "data": {
+    "name": "Praesitlyn",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Sluis sector",
+    "system": "Praesitlyn system",
+    "coordinates": "M-19",
+    "routes": "Rimma Trade Route",
+    "terrain": [
+      "Forests",
+      "Deserts",
+      "Mesas"
+    ],
+    "interest": [
+      "Intergalactic Communications Center",
+      "Eliey",
+      "Izable",
+      "Judlie",
+      "Kaudine"
+    ],
+    "flora": [
+      "Kaha trees",
+      "Sagebrush"
+    ],
+    "otherspecies": [
+      "Sluissi",
+      "Humans"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Praesitlyn",
+    "x": 2426.8,
+    "y": -13699.3,
+    "z": 584.9,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

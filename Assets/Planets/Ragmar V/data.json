@@ -1,0 +1,64 @@
+{
+  "name": "Ragmar V",
+  "wookieepedia_title": "Ragmar V",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ragmar_V",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ragmar V was a barren, desert-coated world in the Outer Rim Territories. Its population center was an outpost of outcasts of various species, who were opposed to the Galactic Republic during the Clone Wars.",
+  "lead_paragraphs": [
+    "Ragmar V was a barren, desert-coated world in the Outer Rim Territories. Its population center was an outpost of outcasts of various species, who were opposed to the Galactic Republic during the Clone Wars."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "option1": "Orbit",
+    "option2": "Surface",
+    "name": "Ragmar V",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Karthakk sector",
+    "system": "Ragmar system",
+    "coordinates": "Q-17",
+    "suns": "1",
+    "moons": "At least 2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "terrain": [
+      "Canyons",
+      "Desert"
+    ],
+    "fauna": [
+      "Lizards",
+      "Birds"
+    ],
+    "otherspecies": [
+      "Human",
+      "Klatooinian",
+      "Bith",
+      "Rodian",
+      "Ithorian",
+      "Gamorrean",
+      "Jawa",
+      "Gran",
+      "Nikto",
+      "Devaronian",
+      "Nuknog"
+    ],
+    "language": "Basic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ragmar V",
+    "x": 8024.7,
+    "y": -10786.0,
+    "z": 170.4,
+    "region": "Outer Rim",
+    "grid": "Q-17"
+  },
+  "scraped": "2026-07-03"
+}

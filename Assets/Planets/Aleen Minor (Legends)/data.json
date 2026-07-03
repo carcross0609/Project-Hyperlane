@@ -1,0 +1,51 @@
+{
+  "name": "Aleen Minor",
+  "wookieepedia_title": "Aleen Minor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aleen_Minor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aleen Minor, often inaccurately referred to as just Aleen, was a temperate planet located in the Inner Rim Territories. A colony world of the Aleena species, Aleen Minor was often mistaken as the species' homeworld.",
+  "lead_paragraphs": [
+    "Aleen Minor, often inaccurately referred to as just Aleen, was a temperate planet located in the Inner Rim Territories. A colony world of the Aleena species, Aleen Minor was often mistaken as the species' homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Aleen Minor",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Aleen Minor system",
+    "coordinates": "M-13",
+    "class": "Terrestrial",
+    "climate": "Harsh",
+    "terrain": "Lush",
+    "interest": "Jedi chapter house",
+    "fauna": [
+      "Sagcatchers",
+      "Scatalpens"
+    ],
+    "otherspecies": "Aleena",
+    "language": "Aleena",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Aleena",
+      "directory": "Aleena (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aleen Minor",
+    "x": 2541.7,
+    "y": -5659.4,
+    "z": -35.2,
+    "region": "Inner Rim",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

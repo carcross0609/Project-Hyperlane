@@ -1,0 +1,44 @@
+{
+  "name": "Vogel 7",
+  "wookieepedia_title": "Vogel 7",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vogel_7",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vogel 7 was a low-gravity planet in the Vogel system of the Mid Rim.",
+  "lead_paragraphs": [
+    "Vogel 7 was a low-gravity planet in the Vogel system of the Mid Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vogel 7",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Var Hagen sector",
+    "system": "Vogel system",
+    "coordinates": "M-16",
+    "position": "7",
+    "gravity": "Lower than standard",
+    "interest": "Naval Academy",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vogel 7",
+    "x": 2507.9,
+    "y": -10134.3,
+    "z": 62.6,
+    "region": "Mid Rim",
+    "grid": "M-16"
+  },
+  "scraped": "2026-07-03"
+}

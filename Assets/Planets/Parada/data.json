@@ -1,0 +1,44 @@
+{
+  "name": "Parada",
+  "wookieepedia_title": "Parada",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Parada",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Parada was a Mid Rim agriworld located in the Hadar sector. It was home to the giant herbivorous herd creatures known as wombacks. Parada exported womback hides and meat, as well as a variety of grains, offworld, and it provided most of the food for the Ado sector planet Ord Gimmel.",
+  "lead_paragraphs": [
+    "Parada was a Mid Rim agriworld located in the Hadar sector. It was home to the giant herbivorous herd creatures known as wombacks. Parada exported womback hides and meat, as well as a variety of grains, offworld, and it provided most of the food for the Ado sector planet Ord Gimmel."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Parada",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Hadar sector",
+    "system": "Parada system",
+    "coordinates": "L-17",
+    "routes": "Senex Trace",
+    "class": "Terrestrial",
+    "fauna": "Womback",
+    "exports": [
+      "Grains",
+      "Hides",
+      "Meat"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Parada",
+    "x": 710.3,
+    "y": -11743.8,
+    "z": 647.1,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

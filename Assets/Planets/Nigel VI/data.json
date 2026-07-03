@@ -1,0 +1,52 @@
+{
+  "name": "Nigel VI",
+  "wookieepedia_title": "Nigel VI",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nigel_VI",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nigel VI was a planet in the Nigel system of the Expansion Region, and was the site of a little-known Human colony. The planet was somewhat cold, with glaciers, plains, and large polar ice caps among the dominant topographical features. Nigel VI was governed by a local republic that chiefly focused on combating crime. The planet did not establish trade connections with the rest of the galaxy until around the time of the New Republic.",
+  "lead_paragraphs": [
+    "Nigel VI was a planet in the Nigel system of the Expansion Region, and was the site of a little-known Human colony. The planet was somewhat cold, with glaciers, plains, and large polar ice caps among the dominant topographical features. Nigel VI was governed by a local republic that chiefly focused on combating crime. The planet did not establish trade connections with the rest of the galaxy until around the time of the New Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations",
+    "  Nargo"
+  ],
+  "data": {
+    "name": "Nigel VI",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Nigel system",
+    "coordinates": "N-16",
+    "routes": "Enarc Run",
+    "lengthday": "20 standard hours",
+    "lengthyear": "325 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Cold",
+    "gravity": "Standard",
+    "terrain": "Plains, glaciers",
+    "otherspecies": "Human",
+    "government": "Republic",
+    "population": "3,200,000",
+    "cities": "Nargo (capital)",
+    "imports": "High technology",
+    "exports": "Natural resources"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Nigel VI",
+    "x": 4067.5,
+    "y": -9059.0,
+    "z": -17.0,
+    "region": "Expansion Region",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

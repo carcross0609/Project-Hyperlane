@@ -1,0 +1,58 @@
+{
+  "name": "Lotho Minor",
+  "wookieepedia_title": "Lotho Minor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lotho_Minor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lotho Minor, also known as the Junk World or simply Lotho, was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Junker species. Used as a dumping ground, its surface was covered with junk and trash amassed over a number of generations, which brought salvage operations to the planet to find junk that could still be used. Following his defeat during the Battle of Naboo, the Sith Lord Darth Maul went into exile in the bowels of Lotho Minor, where he lost his mind until he was found by his brother, Savage Opress, over a decade later.",
+  "lead_paragraphs": [
+    "Lotho Minor, also known as the Junk World or simply Lotho, was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Junker species. Used as a dumping ground, its surface was covered with junk and trash amassed over a number of generations, which brought salvage operations to the planet to find junk that could still be used. Following his defeat during the Battle of Naboo, the Sith Lord Darth Maul went into exile in the bowels of Lotho Minor, where he lost his mind until he was found by his brother, Savage Opress, over a decade later."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Lotho Minor",
+    "region": "Outer Rim Territories",
+    "sector": "Wazta sector",
+    "system": "Lotho Minor system",
+    "coordinates": "I-17",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "terrain": "Junkyard",
+    "interest": "Darth Maul's lair",
+    "fauna": "Vermin",
+    "species": "Junker",
+    "otherspecies": [
+      "Anacondan",
+      "Dathomirian Zabrak"
+    ],
+    "imports": "Refuse",
+    "exports": "Salvage",
+    "affiliation": "Neutral"
+  },
+  "homeworld_of": [
+    {
+      "name": "Junker",
+      "directory": "Junker",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Junker",
+      "directory": "Junker (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lotho Minor",
+    "x": -3164.9,
+    "y": -11894.1,
+    "z": -127.4,
+    "region": "Outer Rim",
+    "grid": "I-17"
+  },
+  "scraped": "2026-07-03"
+}

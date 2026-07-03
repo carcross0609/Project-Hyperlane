@@ -1,0 +1,37 @@
+{
+  "name": "Sarko VI",
+  "wookieepedia_title": "Sarko VI",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sarko_VI",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sarko VI was a planet in the Venzeiia sector of the Expansion Region.",
+  "lead_paragraphs": [
+    "Sarko VI was a planet in the Venzeiia sector of the Expansion Region."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Sarko VI",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Venzeiia sector",
+    "system": "Sarko system",
+    "coordinates": "O-12",
+    "class": "Terrestrial",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Sarko VI",
+    "x": 4556.8,
+    "y": -4158.7,
+    "z": -230.9,
+    "region": "Expansion Region",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

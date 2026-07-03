@@ -1,0 +1,88 @@
+{
+  "name": "Coyn",
+  "wookieepedia_title": "Coyn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Coyn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Coyn was a planet in the Coyn system and the homeworld of the Coynites. It was located in Elrood sector, where the Coyn Route met the Elrood-Derilyn Trade Route. The capital was the city of En'Tra'Tal, or \"King-City\". Forests, marshes, and plains broken by simple mountain ranges covered this beautiful planet. Coyn was defended by their space fleet, Coyn'Skraj'Ha.",
+  "lead_paragraphs": [
+    "Coyn was a planet in the Coyn system and the homeworld of the Coynites. It was located in Elrood sector, where the Coyn Route met the Elrood-Derilyn Trade Route. The capital was the city of En'Tra'Tal, or \"King-City\". Forests, marshes, and plains broken by simple mountain ranges covered this beautiful planet. Coyn was defended by their space fleet, Coyn'Skraj'Ha."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Government",
+    "Economy"
+  ],
+  "data": {
+    "name": "Coyn",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Coyn system",
+    "coordinates": "M-20",
+    "suns": "1: Coynek",
+    "position": "2",
+    "moons": "1",
+    "routes": [
+      "Coyn Route",
+      "Elrood-Derilyn Trade Route"
+    ],
+    "lengthday": "20 standard hours",
+    "lengthyear": "380 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Plains",
+      "Mountains",
+      "Marshes"
+    ],
+    "interest": "Rols'Kus",
+    "fauna": "Tangak",
+    "species": "Coynite",
+    "language": "Coyn language",
+    "government": "Feudal garrison-state",
+    "population": "800 million",
+    "cities": [
+      "En'Tra'Tal (capital)",
+      "Im'Tra'Tal",
+      "Kroyn'Tal",
+      "Kra"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "High technology",
+      "Metals"
+    ],
+    "exports": [
+      "Lumber",
+      "Weaponry",
+      "Mercenaries"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Coynite",
+      "directory": "Coynite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Coyn",
+    "x": 2585.4,
+    "y": -15399.2,
+    "z": -204.8,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

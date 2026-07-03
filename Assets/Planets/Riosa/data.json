@@ -1,0 +1,36 @@
+{
+  "name": "Riosa",
+  "wookieepedia_title": "Riosa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Riosa",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Riosa was a planet located in the Inner Rim region of the galaxy.",
+  "lead_paragraphs": [
+    "Riosa was a planet located in the Inner Rim region of the galaxy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Riosa",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Riosa system",
+    "coordinates": "J-8",
+    "demonym": "Riosan",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Riosa",
+    "x": 3720.7,
+    "y": -13220.9,
+    "z": -388.1,
+    "region": "Inner Rim",
+    "grid": "N-18"
+  },
+  "scraped": "2026-07-03"
+}

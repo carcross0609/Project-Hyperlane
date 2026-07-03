@@ -1,0 +1,58 @@
+{
+  "name": "Null",
+  "wookieepedia_title": "Null/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Null/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Null was an arboreal world and the only inhabited planet in the Null system.",
+  "lead_paragraphs": [
+    "Null was an arboreal world and the only inhabited planet in the Null system."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Null",
+    "region": [
+      "Mid Rim",
+      "Northern Dependencies"
+    ],
+    "sector": "Trans-Vulta sector",
+    "system": "Null system",
+    "coordinates": "N-7",
+    "class": "Terrestrial",
+    "terrain": [
+      "Cliffs",
+      "Forests"
+    ],
+    "interest": "Spade Forest",
+    "fauna": [
+      "Bellock",
+      "Laroon",
+      "Reclumi spider"
+    ],
+    "species": "Nulls",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Null",
+      "directory": "Null (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Null",
+    "x": 3378.6,
+    "y": 4029.9,
+    "z": -30.1,
+    "region": "Mid Rim",
+    "grid": "N-7"
+  },
+  "scraped": "2026-07-03"
+}

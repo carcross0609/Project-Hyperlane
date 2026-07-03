@@ -1,0 +1,34 @@
+{
+  "name": "Sluudren",
+  "wookieepedia_title": "Sluudren",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sluudren",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sluudren was a planet in the Outer Rim. It was the homeworld of the Sludir. It was located in the Chorlian sector of the galaxy.",
+  "lead_paragraphs": [
+    "Sluudren was a planet in the Outer Rim. It was the homeworld of the Sludir. It was located in the Chorlian sector of the galaxy."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sluudren",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Chorlian sector",
+    "system": "Sluudren system",
+    "coordinates": "S-4",
+    "species": "Sludir",
+    "language": "Sluudrese",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sludir",
+      "directory": "Sludir",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

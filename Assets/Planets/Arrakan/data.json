@@ -1,0 +1,54 @@
+{
+  "name": "Arrakan",
+  "wookieepedia_title": "Arrakan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arrakan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arrakan was home to Leviathans.",
+  "lead_paragraphs": [
+    "Arrakan was home to Leviathans."
+  ],
+  "article_sections": [
+    "  Non-canon content"
+  ],
+  "data": {
+    "name": "Arrakan",
+    "region": "Outer Rim Territories",
+    "system": "Sulphis system",
+    "coordinates": "Canon-only",
+    "terrain": "Water",
+    "species": [
+      "Battrachs",
+      "Duors",
+      "Leviathans"
+    ],
+    "cities": "Kearleonis",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Battrach",
+      "directory": "Battrach (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Duor",
+      "directory": "Duor",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Leviathan",
+      "directory": "Leviathan (Arrakan)",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "Arrakan",
+    "x": 9757.6,
+    "y": 5014.7,
+    "z": -7.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

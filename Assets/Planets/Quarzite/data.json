@@ -1,0 +1,76 @@
+{
+  "name": "Quarzite",
+  "wookieepedia_title": "Quarzite",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quarzite",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Quarzite was a small planet located in the Quarzite system of the Inner Rim whose high atmospheric pressure rendered its surface uninhabitable. However, the planet's crystalline caverns were capable of supporting life and were home to the warring Belugans and Kage.",
+  "lead_paragraphs": [
+    "Quarzite was a small planet located in the Quarzite system of the Inner Rim whose high atmospheric pressure rendered its surface uninhabitable. However, the planet's crystalline caverns were capable of supporting life and were home to the warring Belugans and Kage."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Quarzite",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Quarzite system",
+    "coordinates": "M-13",
+    "suns": "Quarz",
+    "atmosphere": [
+      "Type IV (upper atmosphere)",
+      "Type I (underground)"
+    ],
+    "climate": "Cool",
+    "terrain": [
+      "Highly pressurized surface",
+      "Crystalline caverns"
+    ],
+    "interest": [
+      "Otua Blank's stronghold",
+      "Quarzite space station",
+      "Turbolift transport area"
+    ],
+    "fauna": "Milodon",
+    "species": [
+      "Belugan",
+      "Kage"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Dictatorship",
+    "affiliation": "Neutral"
+  },
+  "homeworld_of": [
+    {
+      "name": "Belugan",
+      "directory": "Belugan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Belugan",
+      "directory": "Belugan (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kage",
+      "directory": "Kage",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kage",
+      "directory": "Kage (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Quarzite",
+    "x": 2845.4,
+    "y": -5562.9,
+    "z": -41.4,
+    "region": "Inner Rim",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

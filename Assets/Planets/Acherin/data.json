@@ -1,0 +1,63 @@
+{
+  "name": "Acherin",
+  "wookieepedia_title": "Acherin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Acherin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Acherin was a terrestrial planet located in the Red Twins system in Wild Space.",
+  "lead_paragraphs": [
+    "Acherin was a terrestrial planet located in the Red Twins system in Wild Space."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Acherin",
+    "region": "Wild Space",
+    "system": "The Red Twins system",
+    "coordinates": "I-7",
+    "suns": "The Red Twins",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Canyons",
+      "Plateaus",
+      "Volcanic caves"
+    ],
+    "species": "Acherin",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Representative Council of Citizens",
+    "cities": [
+      "Eluthan",
+      "Sood"
+    ],
+    "imports": "Financial assets",
+    "exports": [
+      "Bankers",
+      "Precious metals"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Acherin",
+      "directory": "Acherin (race)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Acherin",
+    "x": -4297.2,
+    "y": 4304.2,
+    "z": 6.1,
+    "region": "Wild Space",
+    "grid": "I-7"
+  },
+  "scraped": "2026-07-03"
+}

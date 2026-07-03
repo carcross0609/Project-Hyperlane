@@ -1,0 +1,78 @@
+{
+  "name": "Pipada",
+  "wookieepedia_title": "Pipada",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pipada",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pipada was a humid planet in the Pipada system of the Videnda sector, located in the Outer Rim Territories and the Western Reaches. It was home to the amphibious Drabatan species. Pipada evaded conflict during the Clone Wars; however, when the Galactic Republic was reformed into the Galactic Empire, the Drabatans protested its rule of the galaxy. By 1 BBY, criticism of the Emperor went too far, and the Empire responded with a crackdown on Pipada.",
+  "lead_paragraphs": [
+    "Pipada was a humid planet in the Pipada system of the Videnda sector, located in the Outer Rim Territories and the Western Reaches. It was home to the amphibious Drabatan species. Pipada evaded conflict during the Clone Wars; however, when the Galactic Republic was reformed into the Galactic Empire, the Drabatans protested its rule of the galaxy. By 1 BBY, criticism of the Emperor went too far, and the Empire responded with a crackdown on Pipada.",
+    "The planet was blockaded and the most vocal protester—the Drabatan Sa'Kalla—was captured. A Drabatan movement was formed in her name and spread across the planet. In an attempt to stop the violence, the Imperial governor of Pipada brought the singer to the Pipada Auditorium where she was ordered to convince her people to submit. She defied the order and was killed on stage, causing the crowd to tear the Imperial security forces apart and briefly reclaim the planet. Soon after, the Imperial forces returned and recaptured the planet, enforcing martial law."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The crackdown",
+    "  Post-incident",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Pipada",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Videnda sector",
+    "system": "Pipada system",
+    "coordinates": "M-18",
+    "climate": [
+      "Humid",
+      "Warm"
+    ],
+    "terrain": [
+      "Swamps",
+      "Marshes",
+      "Bogs"
+    ],
+    "water": "Lakes",
+    "interest": "Pipada Auditorium",
+    "flora": [
+      "Algae",
+      "Reeds",
+      "Trees"
+    ],
+    "fauna": [
+      "Fish",
+      "Insects"
+    ],
+    "species": "Drabatans",
+    "otherspecies": [
+      "Hutts",
+      "Shawda Ubbs"
+    ],
+    "language": "Drabatese",
+    "population": "At least half a million",
+    "exports": "Fuel",
+    "affiliation": [
+      "Galactic Empire (during occupation)",
+      "A Drabatan movement"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Drabatan",
+      "directory": "Drabatan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Pipada",
+    "x": 7089.3,
+    "y": 5271.1,
+    "z": 253.0,
+    "region": "Other",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

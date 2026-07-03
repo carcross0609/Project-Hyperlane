@@ -1,0 +1,38 @@
+{
+  "name": "Chasin",
+  "wookieepedia_title": "Chasin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chasin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Chasin was a planet of the Core Worlds.",
+  "lead_paragraphs": [
+    "Chasin was a planet of the Core Worlds."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Chasin",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "system": "Chasin system",
+    "coordinates": "M-12",
+    "routes": "Corellian Trade Spine",
+    "affiliation": [
+      "Galactic Empire",
+      "Confederation"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Chasin",
+    "x": 2375.1,
+    "y": -3741.7,
+    "z": -50.1,
+    "region": "Core Worlds",
+    "grid": "M-12"
+  },
+  "scraped": "2026-07-03"
+}

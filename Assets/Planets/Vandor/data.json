@@ -1,0 +1,70 @@
+{
+  "name": "Vandor",
+  "wookieepedia_title": "Vandor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vandor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vandor, also known as Vandor-1 or ID 53-80, was a cold frontier planet in the Sloo sector of the galaxy's Mid Rim. Despite being sparsely settled, the Galactic Empire had a growing presence on the planet. Fort Ypso was a snowy mountain village located on Vandor.",
+  "lead_paragraphs": [
+    "Vandor, also known as Vandor-1 or ID 53-80, was a cold frontier planet in the Sloo sector of the galaxy's Mid Rim. Despite being sparsely settled, the Galactic Empire had a growing presence on the planet. Fort Ypso was a snowy mountain village located on Vandor."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Imperial Era",
+    "Inhabitants",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Vandor",
+    "region": "Mid Rim Territories",
+    "sector": "Sloo sector",
+    "system": "Vandor system",
+    "coordinates": "P-14",
+    "suns": "At least 1",
+    "moons": "2",
+    "lengthyear": "435 days",
+    "class": "Terrestrial",
+    "diameter": "12,500 km (7,767 miles)",
+    "atmosphere": "Breathable",
+    "climate": "Frigid",
+    "terrain": [
+      "Mountains",
+      "Plains",
+      "Fast-flowing rivers"
+    ],
+    "interest": [
+      "Corubalni Pass",
+      "Corubalni Spaceport",
+      "Crispin Imperial Depository",
+      "Iridium Mountains",
+      "Mount Redolava",
+      "Mount Vastadon",
+      "Spinnaker Trail",
+      "The Lodge"
+    ],
+    "flora": "Vandor resin tree",
+    "fauna": [
+      "Kod'yok",
+      "Luftgriff"
+    ],
+    "population": "25,000",
+    "cities": "Fort Ypso",
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vandor",
+    "x": 6407.5,
+    "y": -6656.5,
+    "z": -155.7,
+    "region": "Mid Rim",
+    "grid": "P-14"
+  },
+  "scraped": "2026-07-03"
+}

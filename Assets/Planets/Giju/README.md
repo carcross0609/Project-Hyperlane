@@ -1,0 +1,46 @@
+# Giju
+
+**Continuity:** Canon  
+**Source:** [Giju](https://starwars.fandom.com/wiki/Giju)
+**Galaxy atlas:** system `Giju`, Colonies, grid L-13 — map position (46.0, -5322.3, 86.1)
+
+Giju was a planet located in Herglic Space within the Colonies. Due to its placement on the Rimma Trade Route and the Herglic Alley hyperspace routes, it received many visitors and had tapcafes and cantinas to serve them. In 10 BBY, the criminals Jaylen Vrax and ND-5 visited Giju's second largest urban district, Kristom, while attempting to locate the Imperial Security Bureau agent Madel Nureth. The pair split up, with ND-5 searching for records in the Sector Central Utility Records building on six individuals with the name Madel Nureth who lived in the Sern sector. Although initially hampered by the facility's inefficient bureaucracy, ND-5 obtained the records after recruiting the facilitiy maintenance droid G3-R44, a former Separatist who considered himself a spy, to aid him.
+
+Vrax traveled to the Factory Arms Cantina and Gambling House in Kristom's manufacturing district to try and gain information from the Trandoshan criminal Kranash. However, Kranash had no interest in trading information with Vrax, leaving him at a dead end. The Toydarian Gentro overheard the pair's conversation and approached Vrax once Kranash was gone, providing him with the information he needed to find Nureth in exchange for a drink and a future unspecified favor. In 0 ABY, a group of underground Alliance to Restore the Republic leaders were evacuated from Giju by three members of the Alliance's Red Squadron, who fought the Galactic Empire's forces over the world. The Artiodac chef Strono Tuggs also visited Giju and tried several variants of the Giju Glug beverage there while on a culinary tour of the galaxy at some point between 34 ABY and 35 ABY.
+
+## Planetary data
+
+- **Name:** Giju
+- **Region:**
+  - Colonies
+  - The Interior
+- **Sector:** Herglic Space
+- **System:** Giju system
+- **Coordinates:** L-13
+- **Routes:**
+  - Giju Run
+  - Herglic Alley
+  - Rimma Trade Route
+- **Class:** Terrestrial
+- **Cities:** Kristom
+- **Affiliation:** New Republic
+
+## Homeworld of
+
+- [Herglic (Legends)](../../Species/Herglic%20%28Legends%29/README.md)
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+- History
+-   Data hub
+-   Bureacratic quagmire
+-   Cantina talk
+-   Getting off of Giju
+-   Maps, tales, and recipes
+- Inhabitants
+- Locations
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

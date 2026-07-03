@@ -1,0 +1,47 @@
+{
+  "name": "Wukkar",
+  "wookieepedia_title": "Wukkar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wukkar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Wukkar was a heavily-populated planet located within the Wukkar system of the Core Worlds. Part of Galactic Republic space since the Republic's inception, Wukkar became a part of the Galactic Empire until surrendering to the New Republic. It was later occupied by the Yuuzhan Vong species during their invasion of the galaxy.",
+  "lead_paragraphs": [
+    "Wukkar was a heavily-populated planet located within the Wukkar system of the Core Worlds. Part of Galactic Republic space since the Republic's inception, Wukkar became a part of the Galactic Empire until surrendering to the New Republic. It was later occupied by the Yuuzhan Vong species during their invasion of the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Wukkar",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "system": "Wukkar system",
+    "coordinates": "L-10",
+    "routes": "Corellian Run",
+    "interest": [
+      "Marblewood Estate",
+      "Ancill Province"
+    ],
+    "cities": "Iltarr City",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Black Sun",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Wukkar",
+    "x": 850.4,
+    "y": -187.1,
+    "z": -106.2,
+    "region": "Core Worlds",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

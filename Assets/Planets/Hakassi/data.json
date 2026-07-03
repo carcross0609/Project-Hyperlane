@@ -1,0 +1,37 @@
+{
+  "name": "Hakassi",
+  "wookieepedia_title": "Hakassi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hakassi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hakassi was a planet located in the Deep Core.",
+  "lead_paragraphs": [
+    "Hakassi was a planet located in the Deep Core."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Hakassi",
+    "region": "Deep Core",
+    "system": "Hakassi system",
+    "coordinates": "M-11",
+    "otherspecies": "Humans",
+    "affiliation": [
+      "Galactic Empire",
+      "Federated Teradoc Union",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Hakassi",
+    "x": 1699.5,
+    "y": -2292.2,
+    "z": 149.3,
+    "region": "Deep Core",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Esooma",
+  "wookieepedia_title": "Esooma",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Esooma",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Esooma was a planet located in the Esooma system, within the Sprizen sector of the galaxy's Outer Rim Territories. It was the homeworld of the sentient Esoomian species, who were considered to be among the best hired muscle in the galaxy. Esooma was quarantined by the Galactic Empire, preventing the Esoomians from leaving their homeworld, up until around the year 7 ABY, after which they were free to depart and find work. An Esoomian known as Tantor first left Esooma when he was hired as an enforcer for a pirate ship.",
+  "lead_paragraphs": [
+    "Esooma was a planet located in the Esooma system, within the Sprizen sector of the galaxy's Outer Rim Territories. It was the homeworld of the sentient Esoomian species, who were considered to be among the best hired muscle in the galaxy. Esooma was quarantined by the Galactic Empire, preventing the Esoomians from leaving their homeworld, up until around the year 7 ABY, after which they were free to depart and find work. An Esoomian known as Tantor first left Esooma when he was hired as an enforcer for a pirate ship."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Esooma",
+    "region": "Outer Rim Territories",
+    "sector": "Sprizen sector",
+    "system": "Esooma system",
+    "coordinates": "N-5",
+    "species": "Esoomian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Esoomian",
+      "directory": "Esoomian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Esooma",
+    "x": 3839.9,
+    "y": 6961.7,
+    "z": -120.6,
+    "region": "Outer Rim",
+    "grid": "N-5"
+  },
+  "scraped": "2026-07-03"
+}

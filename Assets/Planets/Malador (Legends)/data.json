@@ -1,0 +1,51 @@
+{
+  "name": "Malador",
+  "wookieepedia_title": "Malador/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Malador/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Malador was an overpopulated urban planet located in the Mid Rim's Juvex sector. Cappabellor beetles were native to Malador, and it served as the homeworld of the aristocratic House Kellermin. Over time, Malador's ecosystem was ruined by industrial pollution, and many House Kellermin nobles left the planet for the nearby world of Resti Kel, leaving slaves and client species to work in Malador's factories.",
+  "lead_paragraphs": [
+    "Malador was an overpopulated urban planet located in the Mid Rim's Juvex sector. Cappabellor beetles were native to Malador, and it served as the homeworld of the aristocratic House Kellermin. Over time, Malador's ecosystem was ruined by industrial pollution, and many House Kellermin nobles left the planet for the nearby world of Resti Kel, leaving slaves and client species to work in Malador's factories."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Malador",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Juvex sector"
+    ],
+    "system": "Malador system",
+    "coordinates": "L-17",
+    "routes": [
+      "Kassido Bypass",
+      "Senex-Juvex Loop"
+    ],
+    "class": "Terrestrial",
+    "climate": "Smoggy",
+    "terrain": "Urban",
+    "interest": "Factories",
+    "fauna": "Cappabellor beetle",
+    "otherspecies": "Several client species",
+    "affiliation": "House Kellermin"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Malador",
+    "x": 152.7,
+    "y": -11979.2,
+    "z": -121.1,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

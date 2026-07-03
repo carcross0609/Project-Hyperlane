@@ -1,0 +1,59 @@
+{
+  "name": "Obredaan",
+  "wookieepedia_title": "Obredaan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Obredaan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Obredaan was a planet in the Irishi sector of the Mid Rim and was known to have large deposits of cortosis ore, which made the mining industry the planet's main income source. Since Obredaan was located on the Entralla Route, it was known as one of the most active trading posts in the Irishi sector alongside Orinda and Ord Tessebok",
+  "lead_paragraphs": [
+    "Obredaan was a planet in the Irishi sector of the Mid Rim and was known to have large deposits of cortosis ore, which made the mining industry the planet's main income source. Since Obredaan was located on the Entralla Route, it was known as one of the most active trading posts in the Irishi sector alongside Orinda and Ord Tessebok",
+    "After the Orinda campaign in the Galactic Civil War the planet became the last major stopping point before entering the Imperial Space on the Entralla Route. Thus the New Republic hosted its military presence here just in case an invasion would be imminent."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Obredaan",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Irishi sector",
+    "system": "Obredaan system",
+    "coordinates": "K-6",
+    "routes": "Entralla Route",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "terrain": "Swamps",
+    "interest": "Mines",
+    "fauna": [
+      "Nuna",
+      "Kaadu",
+      "Unidentified small horned creature"
+    ],
+    "species": "Jin'ha",
+    "exports": "Minerals",
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Confederation"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Jin'ha",
+      "directory": "Jin'ha",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Obredaan",
+    "x": -195.1,
+    "y": 4814.4,
+    "z": -277.1,
+    "region": "Mid Rim",
+    "grid": "K-6"
+  },
+  "scraped": "2026-07-03"
+}

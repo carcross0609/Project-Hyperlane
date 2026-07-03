@@ -1,0 +1,43 @@
+{
+  "name": "Vaced",
+  "wookieepedia_title": "Vaced/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vaced/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vaced was a planet located within the Vaced system of the Mid Rim beyond Bilbringi.",
+  "lead_paragraphs": [
+    "Vaced was a planet located within the Vaced system of the Mid Rim beyond Bilbringi."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vaced",
+    "region": [
+      "Mid Rim",
+      "Northern Dependencies"
+    ],
+    "sector": "Jalor sector",
+    "system": "Vaced system",
+    "coordinates": "J-7",
+    "suns": "1",
+    "moons": "1",
+    "routes": "Namadii Corridor",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Canyons",
+      "Forests"
+    ],
+    "interest": "Shattered Rock",
+    "cities": "Vaced Spaceport"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vaced",
+    "x": -2468.4,
+    "y": 3316.6,
+    "z": 6.6,
+    "region": "Mid Rim",
+    "grid": "J-7"
+  },
+  "scraped": "2026-07-03"
+}

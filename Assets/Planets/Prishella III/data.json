@@ -1,0 +1,44 @@
+{
+  "name": "Prishella III",
+  "wookieepedia_title": "Prishella III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Prishella_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Prishella III was an Outer Rim Territories planet located in the Kessel sector. It hosted several garrisons of the Galactic Empire. During the Galactic Civil War, a Rebel Alliance Special Forces team was air-dropped on Prishella III, where it kidnapped Imperial General Evar Orllincus during his inspection tour of the garrisons.",
+  "lead_paragraphs": [
+    "Prishella III was an Outer Rim Territories planet located in the Kessel sector. It hosted several garrisons of the Galactic Empire. During the Galactic Civil War, a Rebel Alliance Special Forces team was air-dropped on Prishella III, where it kidnapped Imperial General Evar Orllincus during his inspection tour of the garrisons."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Plans for a kidnapping",
+    "  The mission",
+    "Locations"
+  ],
+  "data": {
+    "name": "Prishella III",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Prishella system",
+    "coordinates": "T-10",
+    "position": "3",
+    "routes": "Pabol Sleheyron",
+    "class": "Terrestrial",
+    "climate": "Occasional rainfall and thunderstorms",
+    "interest": "Galactic Empire garrisons",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Prishella III",
+    "x": 13224.0,
+    "y": -361.9,
+    "z": -260.9,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

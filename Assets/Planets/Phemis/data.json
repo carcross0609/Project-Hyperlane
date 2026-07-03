@@ -1,0 +1,61 @@
+{
+  "name": "Phemis",
+  "wookieepedia_title": "Phemis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phemis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Phemis was a backwater planet in the Core Worlds region of the galaxy, within the Corellian sector. Phemis was the only planet where rubat crystals, a type of kyber crystal, could be found. The crystal was historically used by the Jedi Order to craft lightsabers during the Old Republic. Phemis was only sparsely inhabited, due to its harsh terrain. Overall, the planet only had a population of approximately ten thousand, largely made up of mining settlements and a military garrison.",
+  "lead_paragraphs": [
+    "Phemis was a backwater planet in the Core Worlds region of the galaxy, within the Corellian sector. Phemis was the only planet where rubat crystals, a type of kyber crystal, could be found. The crystal was historically used by the Jedi Order to craft lightsabers during the Old Republic. Phemis was only sparsely inhabited, due to its harsh terrain. Overall, the planet only had a population of approximately ten thousand, largely made up of mining settlements and a military garrison."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Phemis",
+    "region": "Core Worlds",
+    "sector": "Corellian sector; Outlier systems",
+    "system": "Phemis system",
+    "coordinates": "M-11",
+    "routes": "Corellian Run (via tributary)",
+    "lengthday": "23 standard hours",
+    "lengthyear": "301 standard days",
+    "terrain": [
+      "Cliffs",
+      "Canyons",
+      "Mountain ranges",
+      "Rock formations"
+    ],
+    "water": "Limited",
+    "interest": [
+      "The Grand Cavern",
+      "Spiremount",
+      "Endless Tunnels",
+      "Undersea"
+    ],
+    "fauna": [
+      "Canyon charger",
+      "Rubat spinner"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "None (corporate interests operate under remote government from their native worlds)",
+    "population": "c. 10,000",
+    "cities": "None",
+    "imports": "Labour, mining equipment, foodstuffs",
+    "exports": "Raw materials and ore",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Phemis",
+    "x": 1856.1,
+    "y": -2624.9,
+    "z": -157.9,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

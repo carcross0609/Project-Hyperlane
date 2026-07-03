@@ -1,0 +1,82 @@
+{
+  "name": "Serenno",
+  "wookieepedia_title": "Serenno/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Serenno/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Serenno was a planet in the Outer Rim Territories. It was known for its aristocratic Counts, the most famous of them being Dooku. It was also well known for its long history of resisting authority.",
+  "lead_paragraphs": [
+    "Serenno was a planet in the Outer Rim Territories. It was known for its aristocratic Counts, the most famous of them being Dooku. It was also well known for its long history of resisting authority."
+  ],
+  "article_sections": [
+    "History",
+    "  The Old Republic",
+    "  Separatist heartland",
+    "  Imperial era"
+  ],
+  "data": {
+    "name": "Serenno",
+    "region": "Outer Rim Territories",
+    "sector": "D'Astan sector",
+    "system": "Serenno system",
+    "coordinates": "P-5",
+    "routes": "Spurs of Celanon",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Rainforests",
+      "Misty rivers",
+      "Mountains",
+      "Savannahs",
+      "Oceans"
+    ],
+    "interest": [
+      "Aparian Wastes",
+      "Belsallian Sea",
+      "Borgin Castle",
+      "Box",
+      "Carannia Spaceport",
+      "Dooku's palace",
+      "Great Assembly House",
+      "The Spike"
+    ],
+    "otherspecies": [
+      "Human",
+      "Twi'lek",
+      "Chiss"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Great Houses of Serenno",
+    "demonym": "Serennian",
+    "cities": [
+      "Carannia (capital)",
+      "Fiyarro",
+      "Saffia",
+      "A city"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Resurgent Sith Empire",
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "Galactic Empire",
+      "Zsinj's Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Serennian",
+      "directory": "Serennian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Serenno",
+    "x": 6128.8,
+    "y": 6945.0,
+    "z": -175.4,
+    "region": "Outer Rim",
+    "grid": "P-5"
+  },
+  "scraped": "2026-07-03"
+}

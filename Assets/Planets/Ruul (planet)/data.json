@@ -1,0 +1,49 @@
+{
+  "name": "Ruul",
+  "wookieepedia_title": "Ruul (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ruul_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ruul was a planet in the Ruul system of the Core Worlds. It fell into the hands of the Galactic Empire, which imported Human prisoners to the planet and strip-mined it.",
+  "lead_paragraphs": [
+    "Ruul was a planet in the Ruul system of the Core Worlds. It fell into the hands of the Galactic Empire, which imported Human prisoners to the planet and strip-mined it."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ruul",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "system": "Ruul system",
+    "coordinates": "M-10",
+    "routes": "Hydian Way",
+    "class": "Terrestrial",
+    "terrain": [
+      "Strip-mined canyons",
+      "Craggy hills and valleys",
+      "Tundra"
+    ],
+    "interest": [
+      "Sounder Flats computer complex",
+      "Ruul computer complex",
+      "Tarkin Detention Facility",
+      "Mines"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ruul",
+    "x": 2153.6,
+    "y": -1455.1,
+    "z": -26.9,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

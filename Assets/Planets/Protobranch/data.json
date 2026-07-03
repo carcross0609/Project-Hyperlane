@@ -1,0 +1,59 @@
+{
+  "name": "Protobranch",
+  "wookieepedia_title": "Protobranch",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Protobranch",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Protobranch was an agriworld and the homeworld of the Bivall species, including the scientist Sionver Boll, who served the Galactic Republic during the Clone Wars.",
+  "lead_paragraphs": [
+    "Protobranch was an agriworld and the homeworld of the Bivall species, including the scientist Sionver Boll, who served the Galactic Republic during the Clone Wars.",
+    "Sifo-Dyas had a Force vision of a catastrophic solar storm threatening the planet Protobranch. Despite the support of Dooku and Kostana, the Jedi Council dismissed the warning, arguing that Force visions were unreliable, as the future was always in flux.",
+    "Frustrated by their inaction, Sifo-Dyas, Dooku, and Kostana secretly reached out to the planet's Senator, Tavetti. However, Tavetti seemed more concerned about the potential loss of resources than the well-being of the people. In response, Dooku, Kostana, Sifo-Dyas, and a hesitant Yoda traveled to Protobranch to intervene directly. Tragically, Sifo-Dyas' vision proved true. The solar storm struck with devastating force, decimating much of the population, and the Jedi barely managed to survive."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Protobranch",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Protobranch system",
+    "coordinates": "J-13",
+    "suns": "1",
+    "class": "Terrestrial",
+    "interest": [
+      "Protobranch spaceport",
+      "Tabor Plains",
+      "Yarvellian Institute"
+    ],
+    "species": "Bivall",
+    "cities": [
+      "Antigrav platform cities",
+      "Protobranch City"
+    ],
+    "exports": [
+      "Bacta",
+      "Grain"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bivall",
+      "directory": "Bivall",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Bivall",
+      "directory": "Bivall (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Protobranch",
+    "x": -2190.6,
+    "y": -5775.0,
+    "z": 125.2,
+    "region": "Core Worlds",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

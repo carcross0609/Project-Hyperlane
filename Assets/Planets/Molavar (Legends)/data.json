@@ -1,0 +1,46 @@
+{
+  "name": "Molavar",
+  "wookieepedia_title": "Molavar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Molavar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Molavar was a backwater, desert world in the Outer Rim Territories, with a number of seedy spaceports and low-income moisture farms. It was inhabited by beings of various species, but especially by the native Molavaran race. Darca Nyl chased Lycan to the planet. During the Clone Wars, the planet lay within Separatist space.",
+  "lead_paragraphs": [
+    "Molavar was a backwater, desert world in the Outer Rim Territories, with a number of seedy spaceports and low-income moisture farms. It was inhabited by beings of various species, but especially by the native Molavaran race. Darca Nyl chased Lycan to the planet. During the Clone Wars, the planet lay within Separatist space."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Molavar",
+    "region": "Outer Rim Territories",
+    "sector": "Abrion sector",
+    "system": "Molavar system",
+    "coordinates": "S-15",
+    "suns": "2",
+    "routes": [
+      "Manda Merchant Route",
+      "Triellus Trade Route"
+    ],
+    "terrain": "Deserts",
+    "species": "Molavarans",
+    "otherspecies": "Humans",
+    "population": "100 million to 500 million (c. 25 ABY)",
+    "cities": "Malcraan",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Molavaran",
+      "directory": "Molavaran",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Molavar",
+    "x": 10984.4,
+    "y": -8374.6,
+    "z": -451.9,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

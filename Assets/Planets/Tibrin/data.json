@@ -1,0 +1,55 @@
+{
+  "name": "Tibrin",
+  "wookieepedia_title": "Tibrin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tibrin",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tibrin was an aquatic planet covered in phosphorescent seas with towering coral reefs as tall as the sky. It was located in the Tibrin system, a trinary star system on the edge of the Hadar sector in the Mid Rim. It was the homeworld of the Ishi Tib species.",
+  "lead_paragraphs": [
+    "Tibrin was an aquatic planet covered in phosphorescent seas with towering coral reefs as tall as the sky. It was located in the Tibrin system, a trinary star system on the edge of the Hadar sector in the Mid Rim. It was the homeworld of the Ishi Tib species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Tibrin",
+    "region": "Mid Rim Territories",
+    "sector": "Hadar sector",
+    "system": "Tibrin system",
+    "coordinates": "L-18",
+    "suns": "3",
+    "moons": "At least 1",
+    "terrain": "Oceans",
+    "interest": "Storm seas",
+    "fauna": [
+      "Fire-coral",
+      "Saberfish"
+    ],
+    "species": "Ishi Tib",
+    "language": "Ishi Tibrin",
+    "government": "Tibrin government",
+    "cities": "Tibrina (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ishi Tib",
+      "directory": "Ishi Tib",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ishi Tib",
+      "directory": "Ishi Tib (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tibrin",
+    "x": 1073.7,
+    "y": -12023.0,
+    "z": 263.8,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

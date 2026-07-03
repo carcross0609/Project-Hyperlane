@@ -1,0 +1,26 @@
+# Llanic
+
+**Continuity:** Canon  
+**Source:** [Llanic](https://starwars.fandom.com/wiki/Llanic)
+**Galaxy atlas:** system `Llanic`, Outer Rim, grid Q-16 — map position (7911.4, -10435.2, -216.3)
+
+Llanic was a planet located in the Llanic system in the Karthakk sector of the Outer Rim Territories. It was situated at the intersection of the Llanic Spice Route and the Triellus Trade Route. Bustling with smugglers and other shady characters, Llanic was considered to be similar to Mos Eisley. The Galactic Empire kept watch on Llanic due to the illicit credits that circulated there.
+
+Luke Skywalker, en route to Rodia, was involved in a skirmish above Llanic's surface defending a Kupohan ship from Imperial forces.
+
+## Planetary data
+
+- **Name:** Llanic
+- **Region:**
+  - Outer Rim Territories
+  - Trailing Sectors
+- **Sector:** Karthakk sector
+- **System:** Llanic system
+- **Coordinates:** Q-16
+- **Routes:**
+  - Llanic Spice Route
+  - Triellus Spice Route
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

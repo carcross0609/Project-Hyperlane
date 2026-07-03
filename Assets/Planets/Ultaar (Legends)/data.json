@@ -1,0 +1,46 @@
+{
+  "name": "Ultaar",
+  "wookieepedia_title": "Ultaar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ultaar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ultaar was a planet in the Mid Rim Bortele sector, covered in jungles of towering giant blossoms that covered the world with a thick scent. Ultaar was home to the four-armed sentient species known as the Ultaarian Greenback. During the Galactic Civil War, Ultaar became host to a small Rebel Alliance presence, which was wiped out in 0 ABY by cyborg bounty hunter Beilert Valance.",
+  "lead_paragraphs": [
+    "Ultaar was a planet in the Mid Rim Bortele sector, covered in jungles of towering giant blossoms that covered the world with a thick scent. Ultaar was home to the four-armed sentient species known as the Ultaarian Greenback. During the Galactic Civil War, Ultaar became host to a small Rebel Alliance presence, which was wiped out in 0 ABY by cyborg bounty hunter Beilert Valance."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Ultaar",
+    "region": "Mid Rim",
+    "sector": "Bortele sector",
+    "system": "Ultaar system",
+    "coordinates": "R-8",
+    "class": "Terrestrial",
+    "terrain": "Jungles",
+    "flora": "Giant blossom",
+    "species": "Ultaarian Greenback",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "demonym": "Ultaarian",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ultaarian Greenback",
+      "directory": "Ultaarian Greenback",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ultaar",
+    "x": 9694.1,
+    "y": 2246.0,
+    "z": 183.6,
+    "region": "Mid Rim",
+    "grid": "R-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Aquaris",
+  "wookieepedia_title": "Aquaris/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aquaris/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aquaris was an inhabited aquatic planet located in the Cvetaen system of the Expansion Region's Sumitra sector. Devoid of any landmasses, the planet was one large ocean.",
+  "lead_paragraphs": [
+    "Aquaris was an inhabited aquatic planet located in the Cvetaen system of the Expansion Region's Sumitra sector. Devoid of any landmasses, the planet was one large ocean."
+  ],
+  "article_sections": [
+    "History",
+    "Fauna"
+  ],
+  "data": {
+    "name": "Aquaris",
+    "region": [
+      "Expansion Region",
+      "Trans-Hydian"
+    ],
+    "sector": "Sumitra sector",
+    "system": "Cvetaen system",
+    "coordinates": "N-7",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen mix",
+    "climate": "Wet",
+    "terrain": "Oceans",
+    "water": "100%",
+    "interest": "Aquaris launching platform",
+    "fauna": [
+      "Demonsquid",
+      "Gnooroop"
+    ],
+    "species": [
+      "Historic:",
+      "  Chuhkyvi"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Many others"
+    ],
+    "language": [
+      "Historic:",
+      "  Chuhkyvi",
+      "Modern:",
+      "  Galactic Basic Standard"
+    ],
+    "population": "1 million to 10 million",
+    "cities": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Alliance to Restore the Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Chuhkyvi",
+      "directory": "Chuhkyvi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aquaris",
+    "x": 4484.8,
+    "y": 3305.2,
+    "z": -238.2,
+    "region": "Expansion Region",
+    "grid": "N-7"
+  },
+  "scraped": "2026-07-03"
+}

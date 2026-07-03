@@ -1,0 +1,43 @@
+{
+  "name": "Kaddak",
+  "wookieepedia_title": "Kaddak",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kaddak",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kaddak was a lawless planet located in the Kaddak system of the galaxy's Outer Rim Territories, near Rothana. In the years of the New Republic, it was controlled by the Ranc Gang.",
+  "lead_paragraphs": [
+    "Kaddak was a lawless planet located in the Kaddak system of the galaxy's Outer Rim Territories, near Rothana. In the years of the New Republic, it was controlled by the Ranc Gang."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kaddak",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tammuz sector",
+    "system": "Kaddak system",
+    "coordinates": "T-14",
+    "routes": "Triellus Trade Route",
+    "atmosphere": "Breathable",
+    "interest": [
+      "The Sliver",
+      "  Level 45",
+      "  Level 72"
+    ],
+    "affiliation": "Ranc Gang"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kaddak",
+    "x": 10762.7,
+    "y": 8442.1,
+    "z": -47.9,
+    "region": "Outer Rim",
+    "grid": "S-4"
+  },
+  "scraped": "2026-07-03"
+}

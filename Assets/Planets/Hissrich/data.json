@@ -1,0 +1,55 @@
+{
+  "name": "Hissrich",
+  "wookieepedia_title": "Hissrich",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hissrich",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Hissrich was a jungle planet located in the galaxy's Outer Rim Territories. During the early stages of the Clone Wars, the Confederacy of Independent Systems attempted to establish footholds in the Outer Rim before they moved towards the galactic capital; Hissrich, where many vessels were sent, was one such site. Jedi Master Mace Windu was tasked by the Jedi High Council with traveling to Hissrich and determining what the Separatists' purpose was.",
+  "lead_paragraphs": [
+    "Hissrich was a jungle planet located in the galaxy's Outer Rim Territories. During the early stages of the Clone Wars, the Confederacy of Independent Systems attempted to establish footholds in the Outer Rim before they moved towards the galactic capital; Hissrich, where many vessels were sent, was one such site. Jedi Master Mace Windu was tasked by the Jedi High Council with traveling to Hissrich and determining what the Separatists' purpose was."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Hissrich",
+    "region": "Outer Rim Territories",
+    "sector": "Spadja sector",
+    "system": "Hissrich system",
+    "coordinates": "R-6",
+    "suns": "1",
+    "moons": "At least 28",
+    "terrain": [
+      "Caves",
+      "Jungle"
+    ],
+    "interest": [
+      "Sector S2C",
+      "Separatist outpost"
+    ],
+    "flora": [
+      "Flowers",
+      "Trees"
+    ],
+    "fauna": [
+      "Lizards",
+      "Milodon"
+    ],
+    "species": "A species",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Hissrich species",
+      "directory": "Unidentified Hissrich species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Hissrich",
+    "x": -3177.5,
+    "y": -12962.3,
+    "z": -76.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

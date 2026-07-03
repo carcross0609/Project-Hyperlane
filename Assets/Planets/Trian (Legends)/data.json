@@ -1,0 +1,42 @@
+{
+  "name": "Trian",
+  "wookieepedia_title": "Trian/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trian/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Trian was a planet located within the Trian system of Wild Space.",
+  "lead_paragraphs": [
+    "Trian was a planet located within the Trian system of Wild Space."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Trian",
+    "region": "Wild Space",
+    "sector": "Trianii Space",
+    "system": "Trian system",
+    "coordinates": "R-3",
+    "class": "Terrestrial",
+    "terrain": "Forests",
+    "fauna": "Serpents",
+    "species": "Trianii",
+    "language": "Trianii",
+    "government": "Yu'nar triumvirates",
+    "population": "100 million to 500 million (c. 25 ABY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Trianii",
+      "directory": "Trianii (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Trian",
+    "x": 10256.6,
+    "y": 9445.6,
+    "z": -106.7,
+    "region": "Wild Space",
+    "grid": "R-3"
+  },
+  "scraped": "2026-07-03"
+}

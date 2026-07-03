@@ -1,0 +1,47 @@
+{
+  "name": "Mandallia",
+  "wookieepedia_title": "Mandallia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mandallia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mandallia was a planet located in the Mandalore system of the Outer Rim Territories. The homeworld of the Mandallian Giants, a race of physically large and muscular beings raised from birth as warriors, Mandallia was the neighbor world of the Mandalorian's home planet, Mandalore. The two worlds became associated after a failed invasion by the ancient Mandalorian Crusaders displayed the prowess of Mandallia's inhabitants, earning the Mandallian Giants the respect of the Mandalorians. Mandallia became a part of Mandalorian space following the Mandalorians' conquest of expansion during the early years of the Galactic Republic, with many Mandallians having earned the right to join the Mandalorians and fight alongside the original Taung race.",
+  "lead_paragraphs": [
+    "Mandallia was a planet located in the Mandalore system of the Outer Rim Territories. The homeworld of the Mandallian Giants, a race of physically large and muscular beings raised from birth as warriors, Mandallia was the neighbor world of the Mandalorian's home planet, Mandalore. The two worlds became associated after a failed invasion by the ancient Mandalorian Crusaders displayed the prowess of Mandallia's inhabitants, earning the Mandallian Giants the respect of the Mandalorians. Mandallia became a part of Mandalorian space following the Mandalorians' conquest of expansion during the early years of the Galactic Republic, with many Mandallians having earned the right to join the Mandalorians and fight alongside the original Taung race."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Mandallia",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Mandalore sector",
+    "system": "Mandalore system",
+    "coordinates": "O-7",
+    "suns": "1: Mandalore",
+    "position": "6",
+    "moons": "1",
+    "class": "Terrestrial",
+    "species": "Mandallian Giants",
+    "affiliation": "Mandallian Giants\nMandalorians"
+  },
+  "homeworld_of": [
+    {
+      "name": "Mandallian Giant",
+      "directory": "Mandallian Giant",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mandallia",
+    "x": 11386.3,
+    "y": 8952.0,
+    "z": 109.9,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,62 @@
+# Eroudac
+
+**Continuity:** Canon  
+**Source:** [Eroudac](https://starwars.fandom.com/wiki/Eroudac)
+
+Eroudac was a terrestrial planet located in the Mid Rim and the Slice regions of the galaxy. It was orbited by a pink moon, and its terrain featured crystal mountains and seas. Due to centuries of natural disasters, the world's healing quiraawa flower eventually became widely considered extinct. However, some legends claimed the flowers had been preserved in some form.
+
+During the High Republic Era, a Jedi temple operated on Eroudac. Several Jedi Masters and Jedi younglings were stationed there by 230 BBY, including the youngling Jamil Sollis. However, the Jedi evacuated the temple in 230 BBY following the Jedi High Council's recall of all Jedi to the Core Worlds planet Coruscant, upsetting Sollis as he struggled to adjust away from home. In 228 BBY, Churo the Hutt traveled to Eroudac in search of a quiraawa flower to heal his homeworld, Nal Hutta. With the help of Jedi Knight Sul-Nath-Rune, Churo eventually found a group of native Heart of Eroudac, who explained that he could not take a quiraawa flower from Eroudac without harming the world. Knowing this, the Hutt decided to leave Eroudac with Rune to seek a different solution to help Nal Hutta.
+
+At some point no earlier than 21 ABY, the Garsea family settled on Eroudac and established themselves in the Eroudac Citadel. The family's daughter, Izal Garsea, attended a local academy while there to appease her father but often spent most of her time in a local spaceport instead. Sometime after her parents died, Izal left the planet after failing a smuggling job for one of her academy professors.
+
+## Planetary data
+
+- **Name:** Eroudac
+- **Region:**
+  - Mid Rim Territories
+  - The Slice
+- **Sector:** Doldur sector
+- **System:** Eroudac system
+- **Coordinates:** P-15
+- **Moons:**
+  - Eroudac's moon
+  - At least 1 other moon
+- **Class:** Terrestrial
+- **Atmosphere:** Type I (breathable)
+- **Terrain:** Crystal mountains
+- **Water:** Seas
+- **Interest:**
+  - Ancient ruins
+  - An academy
+  - A spaceport
+  - Eroudac Citadel
+  - Eroudac Jedi temple
+  - Quiraawa Mountains
+- **Flora:**
+  - Quiraawa flower
+  - Trees
+  - Ground vegetation
+- **Fauna:** Insects
+- **Species:** Heart of Eroudac
+- **Otherspecies:** Humans
+- **Language:** Eroudan
+
+## Homeworld of
+
+- [Heart of Eroudac (Canon)](../../Species/Heart%20of%20Eroudac/README.md)
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+- History
+-   Mountain Jedi temple
+-   Search for healing
+-   Hidden oasis
+-   A new beginning
+-   Planning the future
+- Inhabitants
+- Locations
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

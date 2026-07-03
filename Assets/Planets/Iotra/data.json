@@ -1,0 +1,44 @@
+{
+  "name": "Iotra",
+  "wookieepedia_title": "Iotra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iotra",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Iotra was the fifth planet in the Iotran system and the temperate, industrial homeworld to the militant Iotran species. The planet was ruled by the Joint Council, eight top-ranking leaders of the Iotran Police Force (IPF).",
+  "lead_paragraphs": [
+    "Iotra was the fifth planet in the Iotran system and the temperate, industrial homeworld to the militant Iotran species. The planet was ruled by the Joint Council, eight top-ranking leaders of the Iotran Police Force (IPF).",
+    "The southern latitudes of the planet were plagued by the seasonal East Vacaliv wind storms; the IPF often needed to provide rescue operations during these storms."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Iotra",
+    "region": [
+      "Outer Rim Territories; Imperial Space",
+      "The Slice"
+    ],
+    "sector": "Iotran Expanse",
+    "system": "Iotran system",
+    "coordinates": "S-8",
+    "position": "5",
+    "terrain": "Industrial",
+    "species": "Iotrans",
+    "language": "Tranese",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Iotran",
+      "directory": "Iotran (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Iotra",
+    "x": 11210.2,
+    "y": 1659.1,
+    "z": 425.8,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

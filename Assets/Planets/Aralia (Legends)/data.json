@@ -1,0 +1,49 @@
+{
+  "name": "Aralia",
+  "wookieepedia_title": "Aralia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aralia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aralia was a tiny, semi-tropical world located in the Andron system of the Outer Rim's Antemeridian sector.",
+  "lead_paragraphs": [
+    "Aralia was a tiny, semi-tropical world located in the Andron system of the Outer Rim's Antemeridian sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Aralia",
+    "region": "Outer Rim Territories",
+    "sector": "Antemeridian sector",
+    "system": "Andron system",
+    "coordinates": "R-7",
+    "class": "Terrestrial",
+    "climate": "Semi-tropical",
+    "terrain": [
+      "Rocky coasts",
+      "Grassy inland steppes",
+      "Mountain jungles"
+    ],
+    "interest": [
+      "Galaxy Ways",
+      "Project Aralia"
+    ],
+    "fauna": "Roba",
+    "otherspecies": [
+      "Human",
+      "Ranat"
+    ],
+    "language": "Galactic Basic Standard",
+    "imports": "Spice (illegal)"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Aralia",
+    "x": 9319.4,
+    "y": 4200.5,
+    "z": -281.2,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

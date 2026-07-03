@@ -1,0 +1,38 @@
+{
+  "name": "Pax",
+  "wookieepedia_title": "Pax",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pax",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pax was a world located in the Pax system of the Kira sector, a part of the Expansion Region and the Trailing Sectors in grid square N-16 of the Standard Galactic Grid. The hyperspace route known as the Hydian Way linked it to the Chardaan and ZeHeth systems while the Enarc Run connected it to Kira and Vondarc systems.",
+  "lead_paragraphs": [
+    "Pax was a world located in the Pax system of the Kira sector, a part of the Expansion Region and the Trailing Sectors in grid square N-16 of the Standard Galactic Grid. The hyperspace route known as the Hydian Way linked it to the Chardaan and ZeHeth systems while the Enarc Run connected it to Kira and Vondarc systems.",
+    "In 9 ABY, Pax fell within the borders of the New Republic. Around the same year, while the astronomer Kh'ymm was searching her archive of worlds on the Observatory Moon in order to determine the potential location of the lost planet At Attin, Pax's name was listed on her computer screen among other worlds."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pax",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Pax system",
+    "coordinates": "N-16",
+    "routes": [
+      "Hydian Way",
+      "Enarc Run"
+    ],
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pax",
+    "x": 3306.1,
+    "y": -9314.5,
+    "z": 147.9,
+    "region": "Expansion Region",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Riileb",
+  "wookieepedia_title": "Riileb/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Riileb/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Riileb was a planet in Hutt Space and the homeworld of the Riileb species. This planet was one of the few worlds within Hutt Space other than the Sakiyan worlds to maintain independence against Hutt influence. It was a hot and torrid world which supported a wide range of flora and fauna. Much of the planet was covered in oceans with islands being the only landforms.",
+  "lead_paragraphs": [
+    "Riileb was a planet in Hutt Space and the homeworld of the Riileb species. This planet was one of the few worlds within Hutt Space other than the Sakiyan worlds to maintain independence against Hutt influence. It was a hot and torrid world which supported a wide range of flora and fauna. Much of the planet was covered in oceans with islands being the only landforms."
+  ],
+  "article_sections": [
+    "Geography",
+    "Society",
+    "History"
+  ],
+  "data": {
+    "name": "Riileb",
+    "region": "Hutt Space",
+    "system": "Riileb system",
+    "coordinates": "T-12",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen mix",
+    "climate": "Hot and humid",
+    "terrain": [
+      "Oceans",
+      "Islands",
+      "Humid Marshes"
+    ],
+    "interest": "Labyrinthine cities",
+    "species": "Riileb",
+    "language": "Riileb language",
+    "government": "Monarchy",
+    "population": "10 million to 100 million (c. 25 ABY)",
+    "exports": "Heklu"
+  },
+  "homeworld_of": [
+    {
+      "name": "Riileb",
+      "directory": "Riileb (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Riileb",
+    "x": 12473.2,
+    "y": -3768.5,
+    "z": -77.7,
+    "region": "Hutt Space",
+    "grid": "T-12"
+  },
+  "scraped": "2026-07-03"
+}

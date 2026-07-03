@@ -1,0 +1,62 @@
+{
+  "name": "Yablari",
+  "wookieepedia_title": "Yablari/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yablari/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yablari was an agrarian planet located within the Vorzyd sector's Yablari system of the Outer Rim Territories. Located along the Perlemian Trade Route, Yablari's agricultural technology was highly advanced and prolific.",
+  "lead_paragraphs": [
+    "Yablari was an agrarian planet located within the Vorzyd sector's Yablari system of the Outer Rim Territories. Located along the Perlemian Trade Route, Yablari's agricultural technology was highly advanced and prolific."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Yablari",
+    "region": [
+      "Outer Rim Territories",
+      "Borderland Regions"
+    ],
+    "sector": "Vorzyd sector",
+    "system": "Yablari system",
+    "coordinates": "R-6",
+    "routes": "Perlemian Trade Route",
+    "class": "Terrestrial Agriworld",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Farmland",
+      "Fields"
+    ],
+    "species": "Anomid",
+    "language": "Anomid sign language",
+    "exports": "Agrarian foodstuffs",
+    "affiliation": [
+      "Galactic Republic",
+      "Exar Kun's Sith Empire",
+      "Darth Revan's Sith Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Anomid",
+      "directory": "Anomid",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Anomid",
+      "directory": "Anomid (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yablari",
+    "x": 10206.0,
+    "y": 5842.4,
+    "z": -58.5,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

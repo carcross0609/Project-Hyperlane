@@ -1,0 +1,39 @@
+{
+  "name": "Rendel",
+  "wookieepedia_title": "Rendel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rendel",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rendel was a planet located in the Kiva system. It was ruled by Queen Bellan, who was chased from the world by her sister Zalla. Bellan hired smugglers, such as Han Solo and Chewbacca, to go to Rendel under the guise of delivering a statue, so that they could defeat Zalla.",
+  "lead_paragraphs": [
+    "Rendel was a planet located in the Kiva system. It was ruled by Queen Bellan, who was chased from the world by her sister Zalla. Bellan hired smugglers, such as Han Solo and Chewbacca, to go to Rendel under the guise of delivering a statue, so that they could defeat Zalla."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rendel",
+    "region": "Mid Rim Territories",
+    "sector": "Venaarian sector",
+    "system": "Kiva system",
+    "coordinates": "O-7",
+    "suns": "2",
+    "atmosphere": "Breathable",
+    "terrain": "Thorny forests (during curse)",
+    "species": "Rendellian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rendellian",
+      "directory": "Rendellian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Rendel",
+    "x": 5504.6,
+    "y": -5003.8,
+    "z": -47.6,
+    "region": "Other",
+    "grid": "O-13"
+  },
+  "scraped": "2026-07-03"
+}

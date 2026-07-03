@@ -1,0 +1,33 @@
+{
+  "name": "Candoria",
+  "wookieepedia_title": "Candoria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Candoria",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Candoria was a depopulated planet located in the Colonies region of the galaxy.",
+  "lead_paragraphs": [
+    "Candoria was a depopulated planet located in the Colonies region of the galaxy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Candoria",
+    "region": "Colonies",
+    "system": "Candoria system",
+    "coordinates": "J-13",
+    "interest": "Candorian colonies",
+    "population": "Modern: None",
+    "demonym": "Candorian"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Candoria",
+    "x": -1916.8,
+    "y": -5031.4,
+    "z": -181.4,
+    "region": "Colonies",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

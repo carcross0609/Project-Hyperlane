@@ -1,0 +1,47 @@
+{
+  "name": "Nars",
+  "wookieepedia_title": "Nars",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nars",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nars was a terrestrial planet located in the Nars system of the Senex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. A hyperlane linked it to the Knores system.",
+  "lead_paragraphs": [
+    "Nars was a terrestrial planet located in the Nars system of the Senex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. A hyperlane linked it to the Knores system.",
+    "A pale and chilly planet, Nars was the homeworld of the sentient Nartian species, members of which were ubiquitous as servants throughout the Senex-Juvex. Every Nartian was expected to make a pilgrimage to Nars at least once in their life, which elderly Nartians often did by spending a major portion of their accumulated wealth.",
+    "Like the rest of the region's worlds, Nars was under the control of the aristocratic Ancient Houses. The planet also shared its name with the Nartian festival known as the Nars Week."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nars",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Nars system",
+    "coordinates": "L-17",
+    "class": "Terrestrial",
+    "climate": "Chilly",
+    "species": "Nartians",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nartian",
+      "directory": "Nartian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nars",
+    "x": 607.4,
+    "y": -11951.7,
+    "z": 118.1,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Zaria",
+  "wookieepedia_title": "Zaria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zaria",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zaria was a terrestrial world located in the Zaria system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Senex-Juvex Loop hyperlane linked it to the Anstares and Malador systems.",
+  "lead_paragraphs": [
+    "Zaria was a terrestrial world located in the Zaria system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Senex-Juvex Loop hyperlane linked it to the Anstares and Malador systems.",
+    "An industrial world, Zaria was the homeworld of the sentient, frog-like Zarian species. Although the Zarians themselves were free, their homeworld, like the rest of the Senex-Juvex worlds, was under the control of the region's aristocratic Ancient Houses."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Zaria",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Juvex sector"
+    ],
+    "system": "Zaria system",
+    "coordinates": "L-17",
+    "routes": "Senex-Juvex Loop",
+    "class": "Terrestrial",
+    "species": "Zarians",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [
+    {
+      "name": "Zarian",
+      "directory": "Zarian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zaria",
+    "x": 200.6,
+    "y": -11926.9,
+    "z": -280.4,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Sionia",
+  "wookieepedia_title": "Sionia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sionia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sionia was the homeworld of the Skups, located within Hutt Space. Sionian Skups were a near-human species with a vast range of genetic characteristics. Rumor had it that the Skups were genetically altered by another species and sold to the Hutts ages ago.",
+  "lead_paragraphs": [
+    "Sionia was the homeworld of the Skups, located within Hutt Space. Sionian Skups were a near-human species with a vast range of genetic characteristics. Rumor had it that the Skups were genetically altered by another species and sold to the Hutts ages ago."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sionia",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "system": "Sionia system",
+    "coordinates": "S-10",
+    "routes": "Sisar Run",
+    "species": "Skups",
+    "demonym": "Sionian",
+    "affiliation": "Hutts"
+  },
+  "homeworld_of": [
+    {
+      "name": "Skup",
+      "directory": "Skup (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sionia",
+    "x": 10974.2,
+    "y": -257.8,
+    "z": -54.9,
+    "region": "Hutt Space",
+    "grid": "S-10"
+  },
+  "scraped": "2026-07-03"
+}

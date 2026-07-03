@@ -1,0 +1,80 @@
+{
+  "name": "Metellos",
+  "wookieepedia_title": "Metellos/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Metellos/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Metellos was the fourth of seven planets in the Metellos system of the Corusca sector in the Core Worlds region. The planet orbited one star, also called Metellos, and in turn was orbited by three moons.",
+  "lead_paragraphs": [
+    "Metellos was the fourth of seven planets in the Metellos system of the Corusca sector in the Core Worlds region. The planet orbited one star, also called Metellos, and in turn was orbited by three moons."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Metellos",
+    "region": [
+      "Core Worlds",
+      "The Negs"
+    ],
+    "sector": "Corusca sector",
+    "system": "Metellos system",
+    "coordinates": "K-10",
+    "suns": "1: Metellos",
+    "position": "4",
+    "moons": "3, including Metellos 3",
+    "routes": [
+      "Metellos Trade Route",
+      "Metellos–Ilum hyperlane"
+    ],
+    "lengthday": "24 standard hours",
+    "lengthyear": "361 standard days",
+    "class": "Terrestrial",
+    "diameter": "12,600 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Urban",
+    "water": "Seas",
+    "interest": [
+      "Ciuray Sea",
+      "Moridebo district",
+      "Stratablock 7"
+    ],
+    "fauna": "Steep",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Bureaucracy",
+    "population": [
+      "900 billion",
+      "90% Human",
+      "10% other"
+    ],
+    "demonym": "Metellean",
+    "cities": "Ektra",
+    "imports": [
+      "Foodstuffs",
+      "Office supplies"
+    ],
+    "exports": [
+      "Advanced tech",
+      "Business services"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Metellos",
+    "x": -202.6,
+    "y": 18.4,
+    "z": -18.9,
+    "region": "Core Worlds",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

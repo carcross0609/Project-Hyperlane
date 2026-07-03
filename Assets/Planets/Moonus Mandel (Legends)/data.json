@@ -1,0 +1,46 @@
+{
+  "name": "Moonus Mandel",
+  "wookieepedia_title": "Moonus Mandel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moonus_Mandel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Moonus Mandel was a planet in the Mid Rim's Bothan sector, and the homeworld of the Veknoid species.",
+  "lead_paragraphs": [
+    "Moonus Mandel was a planet in the Mid Rim's Bothan sector, and the homeworld of the Veknoid species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Moonus Mandel",
+    "region": "Mid Rim",
+    "sector": "Bothan sector",
+    "system": "Moonus Mandel system",
+    "coordinates": "R-14",
+    "routes": "Bothan Run",
+    "species": "Veknoid",
+    "population": "500 million to 1 billion (c. 25 ABY)",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Veknoid",
+      "directory": "Veknoid",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Veknoid",
+      "directory": "Veknoid (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Moonus Mandel",
+    "x": 9312.2,
+    "y": -6069.8,
+    "z": 243.3,
+    "region": "Mid Rim",
+    "grid": "R-14"
+  },
+  "scraped": "2026-07-03"
+}

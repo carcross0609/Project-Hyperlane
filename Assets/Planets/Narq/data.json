@@ -1,0 +1,49 @@
+{
+  "name": "Narq",
+  "wookieepedia_title": "Narq",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Narq",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Narq, also known as Narqui, was a Colonies world located on the Quellor Run hyperspace route. Its surface featured fungus forests, in which the sentient Narquois species originated. At some point, the offworld Neimoidian species occupied Narq and subjected the Narquois to virtual serfdom, which centuries later led to the latter suing the former in the New Republic courts.",
+  "lead_paragraphs": [
+    "Narq, also known as Narqui, was a Colonies world located on the Quellor Run hyperspace route. Its surface featured fungus forests, in which the sentient Narquois species originated. At some point, the offworld Neimoidian species occupied Narq and subjected the Narquois to virtual serfdom, which centuries later led to the latter suing the former in the New Republic courts."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Narq",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Narq system",
+    "coordinates": "N-11",
+    "routes": "Quellor Run",
+    "class": "Terrestrial",
+    "terrain": "Fungus forests",
+    "flora": "Trees",
+    "fauna": "Narquois precursor species",
+    "otherlife": "Fungi",
+    "species": "Narquois",
+    "otherspecies": "Neimoidians"
+  },
+  "homeworld_of": [
+    {
+      "name": "Narquois",
+      "directory": "Narquois",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Narq",
+    "x": 475.1,
+    "y": 570.9,
+    "z": -14.0,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

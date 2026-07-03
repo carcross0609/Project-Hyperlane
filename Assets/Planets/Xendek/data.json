@@ -1,0 +1,40 @@
+{
+  "name": "Xendek",
+  "wookieepedia_title": "Xendek",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xendek",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Xendek was a blue planet located in the Xendek system in the Calaron sector of the Outer Rim Territories. The argora was a type of bird native to Xendek. The Xendekians believed that the argora brought rain and crops and was responsible for all good fortune on the planet. At some point the Galactic Empire stole a argora for the Emperor's personal zoo. Later, the Spectres attempted to rescue the bird.",
+  "lead_paragraphs": [
+    "Xendek was a blue planet located in the Xendek system in the Calaron sector of the Outer Rim Territories. The argora was a type of bird native to Xendek. The Xendekians believed that the argora brought rain and crops and was responsible for all good fortune on the planet. At some point the Galactic Empire stole a argora for the Emperor's personal zoo. Later, the Spectres attempted to rescue the bird."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Xendek",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Calaron sector",
+    "system": "Xendek system",
+    "coordinates": "T-9",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Canyons",
+      "Caves",
+      "Forests",
+      "Rivers"
+    ],
+    "fauna": "Argora",
+    "species": "Xendekian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Xendekian",
+      "directory": "Xendekian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

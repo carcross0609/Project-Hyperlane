@@ -1,0 +1,52 @@
+{
+  "name": "NCW-781",
+  "wookieepedia_title": "NCW-781",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/NCW-781",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "NCW-781 was an unexplored Wild Space planet. A terrestrial world, its surface featured mountains, canyons, and woods. During the Galactic Civil War, the Rebel Alliance operative Kala Kevv was shot down over NCW-781, where he crash-landed while carrying a data plaque with information vital to the Alliance.",
+  "lead_paragraphs": [
+    "NCW-781 was an unexplored Wild Space planet. A terrestrial world, its surface featured mountains, canyons, and woods. During the Galactic Civil War, the Rebel Alliance operative Kala Kevv was shot down over NCW-781, where he crash-landed while carrying a data plaque with information vital to the Alliance.",
+    "The Galactic Empire dispatched a force to the planet to locate the Rebel agent, and the Alliance sent a team of Special Forces Infiltrators to recover and extract Kevv and the data plaque. Arriving at NCW-781 aboard the light freighter Bravado, the team descended to the planet's surface on combat paragliders and then glided through a canyon in order to approach Kevv's crash site undetected by the Imperials.",
+    "Passing by a storm commando patrol in the woods, the Infiltrators reached the crash site, from where a set of coordinates left by Kevv led the team to his hiding place. After recovering the operative and the data plaque, the Rebels proceeded to their designated extraction point, where they had to fight off an Imperial force, including a Floating Fortress repulsorcraft, before they were extracted by the Bravado."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  An agent shot down",
+    "  Infiltrators on NCW-781",
+    "  Extraction of Prodigal-One",
+    "Locations"
+  ],
+  "data": {
+    "name": "NCW-781",
+    "region": "Wild Space",
+    "system": "NCW-781 system",
+    "coordinates": "H-18",
+    "moons": "At least 1",
+    "class": "Terrestrial",
+    "terrain": [
+      "Canyons",
+      "Mountains",
+      "Woods"
+    ],
+    "interest": [
+      "Approach Route Alpha",
+      "Target Bantha",
+      "Target Dewback",
+      "Target Tallon",
+      "Target Yavin"
+    ],
+    "fauna": "Trees"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "NCW-781",
+    "x": -2534.2,
+    "y": 5179.5,
+    "z": -138.0,
+    "region": "Wild Space",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

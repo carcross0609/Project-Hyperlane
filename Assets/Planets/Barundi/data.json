@@ -1,0 +1,40 @@
+{
+  "name": "Barundi",
+  "wookieepedia_title": "Barundi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barundi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Barundi was the homeworld of the Barundi species. The natives of Barundi were taken from their homeworld thousand of years before the Battle of Yavin and were deposited on an unnamed planet in Wild Space. There, they worshiped the Yavin Vassilika.",
+  "lead_paragraphs": [
+    "Barundi was the homeworld of the Barundi species. The natives of Barundi were taken from their homeworld thousand of years before the Battle of Yavin and were deposited on an unnamed planet in Wild Space. There, they worshiped the Yavin Vassilika."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Barundi",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Thanium sector",
+    "system": "Barundi system",
+    "coordinates": "S-5",
+    "species": "Barundi",
+    "affiliation": "Thelvin Order"
+  },
+  "homeworld_of": [
+    {
+      "name": "Barundi",
+      "directory": "Barundi (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Barundi",
+    "x": 10929.1,
+    "y": 6357.7,
+    "z": 555.4,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

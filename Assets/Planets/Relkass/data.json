@@ -1,0 +1,52 @@
+{
+  "name": "Relkass",
+  "wookieepedia_title": "Relkass",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Relkass",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Relkass was an Outer Rim Territories planet that featured an equatorial region of grasslands. The grasslands were home to the cactus known as the Relkass sentinel plant, which contained a powerful narcotic compound in its juice.",
+  "lead_paragraphs": [
+    "Relkass was an Outer Rim Territories planet that featured an equatorial region of grasslands. The grasslands were home to the cactus known as the Relkass sentinel plant, which contained a powerful narcotic compound in its juice.",
+    "During Relkass' dry season, the sentinel plants were fed upon by the draagax, a species of nocturnal pack creatures. The narcotic compound induced a state of frenzy in the draagax, causing them to attack other creatures on sight. The resulting losses suffered by the local ranchers led to a regular posting of bounties on draagax pelts. Commander Lajar Weqill once joined a hunting party on Relkass that fell prey to a draagax attack, an experience that proved deeply disturbing to Weqill."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Relkass",
+    "region": "Outer Rim Territories",
+    "sector": "Saijo sector",
+    "system": "Relkass system",
+    "coordinates": "K-20",
+    "moons": "At least 1",
+    "class": "Terrestrial",
+    "climate": "Seasonally dry",
+    "terrain": [
+      "Grasslands (on the equator)",
+      "Foothills",
+      "Caves"
+    ],
+    "interest": "Jameson ranch",
+    "flora": [
+      "Razorgrass",
+      "Relkass sentinel plant"
+    ],
+    "fauna": [
+      "Draagax",
+      "Rodents"
+    ],
+    "otherspecies": "Humans"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Relkass",
+    "x": -1209.8,
+    "y": -15925.4,
+    "z": 12.7,
+    "region": "Outer Rim",
+    "grid": "K-20"
+  },
+  "scraped": "2026-07-03"
+}

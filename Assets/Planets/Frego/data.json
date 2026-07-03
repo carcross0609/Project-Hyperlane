@@ -1,0 +1,48 @@
+{
+  "name": "Frego",
+  "wookieepedia_title": "Frego",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Frego",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Frego was a wealthy planet controlled by a crime ring led by the Cobral family since 61 BBY. However, after Lena Cobral testified in front of the Galactic Senate in 41 BBY, exposing Cobral's patronage from Frego's Senator Crote, Frego started on the road to a new beginning. Nevertheless, the Cobral ring survived on Naboo.",
+  "lead_paragraphs": [
+    "Frego was a wealthy planet controlled by a crime ring led by the Cobral family since 61 BBY. However, after Lena Cobral testified in front of the Galactic Senate in 41 BBY, exposing Cobral's patronage from Frego's Senator Crote, Frego started on the road to a new beginning. Nevertheless, the Cobral ring survived on Naboo.",
+    "The inhabitants of Frego were known as Fregans."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Frego",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "system": "Frego system",
+    "coordinates": "L-13",
+    "terrain": "Urban",
+    "otherspecies": "Human",
+    "language": "Basic",
+    "demonym": "Fregan",
+    "cities": "Rian (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "The Cobral",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Fregan",
+      "directory": "Fregan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Frego",
+    "x": 440.5,
+    "y": -4596.4,
+    "z": 10.7,
+    "region": "Core Worlds",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Cona",
+  "wookieepedia_title": "Cona/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cona/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Cona, also known as Arcona, was an arid, desert world which orbited the blue giant Teke Ro, located in the Teke Ro system of the Inner Rim. The homeworld of the serpent-like Arcona species, Cona had a minimal water supply due to a geological catastrophe early in its history.",
+  "lead_paragraphs": [
+    "Cona, also known as Arcona, was an arid, desert world which orbited the blue giant Teke Ro, located in the Teke Ro system of the Inner Rim. The homeworld of the serpent-like Arcona species, Cona had a minimal water supply due to a geological catastrophe early in its history."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Cona",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Inner Cluster",
+    "system": "Teke Ro system",
+    "coordinates": "O-11",
+    "suns": "1: Teke Ro",
+    "moons": "1",
+    "lengthday": "28 standard hours",
+    "lengthyear": "298 local days",
+    "class": "Terrestrial",
+    "atmosphere": [
+      "Type IV (environment suit required)",
+      "Nitrogen/Hydrogen/Ammonia"
+    ],
+    "climate": "Tropical desert",
+    "gravity": "Standard",
+    "terrain": [
+      "Ammonia jungles",
+      "Deserts"
+    ],
+    "water": [
+      "Minimal:",
+      "Found only in roots of vegetation"
+    ],
+    "interest": "Mineral mines",
+    "fauna": "Daggerlip",
+    "species": "Arcona",
+    "otherspecies": [
+      "Duinuogwuin",
+      "H'nemthe"
+    ],
+    "language": "Arconese",
+    "government": "Socialist: Grand Nest",
+    "population": "500 million to 1 billion",
+    "cities": "Tylcarros (capital)",
+    "imports": "Water",
+    "exports": [
+      "Chemicals",
+      "Metals",
+      "Minerals"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Alliance",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Arcona",
+      "directory": "Arcona",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Arcona",
+      "directory": "Arcona (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cona",
+    "x": 4904.1,
+    "y": -1802.3,
+    "z": 16.3,
+    "region": "Inner Rim",
+    "grid": "O-11"
+  },
+  "scraped": "2026-07-03"
+}

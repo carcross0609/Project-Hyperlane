@@ -1,0 +1,63 @@
+{
+  "name": "Tython",
+  "wookieepedia_title": "Tython",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tython",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tython was a terrestrial planet located in Deep Core's Tython system that played a pivotal role in the history of the Jedi Order. A verdant world that was incredibly rich in the Force, Tython was eventually abandoned when the ever-changing hyperlanes in the region drifted away from the planet and became shrouded in myth. The Martyrium of Frozen Tears was built by Jedi there, and some Jedi scholars made the case that Tython was the site of the Jedi Order's first temple. During the Galactic Civil War, Doctor Chelli Lona Aphra led the Imperial commander Darth Vader to Tython's Meridional Ice Cap to mislead him as to the location of the Rebel Alliance's main base, which was actually on the Outer Rim planet Hoth.",
+  "lead_paragraphs": [
+    "Tython was a terrestrial planet located in Deep Core's Tython system that played a pivotal role in the history of the Jedi Order. A verdant world that was incredibly rich in the Force, Tython was eventually abandoned when the ever-changing hyperlanes in the region drifted away from the planet and became shrouded in myth. The Martyrium of Frozen Tears was built by Jedi there, and some Jedi scholars made the case that Tython was the site of the Jedi Order's first temple. During the Galactic Civil War, Doctor Chelli Lona Aphra led the Imperial commander Darth Vader to Tython's Meridional Ice Cap to mislead him as to the location of the Rebel Alliance's main base, which was actually on the Outer Rim planet Hoth."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  High Republic Era",
+    "  Imperial Era",
+    "  New Republic Era",
+    "Locations"
+  ],
+  "data": {
+    "name": "Tython",
+    "region": "Deep Core",
+    "sector": "None",
+    "system": "Tython system",
+    "coordinates": "K-10",
+    "suns": "1",
+    "moons": [
+      "2",
+      "  Ashla"
+    ],
+    "class": "Terrestrial",
+    "diameter": "12,396 km (7,703 miles)",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Forest",
+      "Grasslands",
+      "Mountains"
+    ],
+    "interest": [
+      "Force-henge",
+      "Jedi Temple",
+      "Meridional Ice Cap"
+    ],
+    "fauna": [
+      "Bird",
+      "Butterfly",
+      "Small mammals"
+    ],
+    "population": "Uninhabited",
+    "demonym": "Tythonian",
+    "affiliation": "Jedi Order"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tython",
+    "x": 19.2,
+    "y": -1173.9,
+    "z": 12.9,
+    "region": "Deep Core",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

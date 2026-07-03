@@ -1,0 +1,38 @@
+{
+  "name": "Ganath",
+  "wookieepedia_title": "Ganath",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ganath",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ganath was a planet located in Hutt Space and the Slice's Ganath system. It was situated in grid square R-12 of the Standard Galactic Grid. At Ganath, members of the sentient Hutt species engaged in illicit activities. It shared its name with the Ganath Cloud nebula.",
+  "lead_paragraphs": [
+    "Ganath was a planet located in Hutt Space and the Slice's Ganath system. It was situated in grid square R-12 of the Standard Galactic Grid. At Ganath, members of the sentient Hutt species engaged in illicit activities. It shared its name with the Ganath Cloud nebula."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ganath",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "sector": "None",
+    "system": "Ganath system",
+    "coordinates": "R-12"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ganathan",
+      "directory": "Ganathan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ganath",
+    "x": 10297.9,
+    "y": -3294.9,
+    "z": -294.7,
+    "region": "Hutt Space",
+    "grid": "R-12"
+  },
+  "scraped": "2026-07-03"
+}

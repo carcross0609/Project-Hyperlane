@@ -1,0 +1,62 @@
+{
+  "name": "Vallt",
+  "wookieepedia_title": "Vallt",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vallt",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vallt was a planet located in the Juris sector of the Outer Rim Territories that was the homeworld of the Valltii and Taqwa species, and also the birthplace of Jyn Erso. Vallt was a cold world, with half the planet covered in glacial ice. The climate was often snowy and windy and quite inhospitable to off-worlders. Vallt was connected to Pastoria and Sterdic IV via hyperspace route.",
+  "lead_paragraphs": [
+    "Vallt was a planet located in the Juris sector of the Outer Rim Territories that was the homeworld of the Valltii and Taqwa species, and also the birthplace of Jyn Erso. Vallt was a cold world, with half the planet covered in glacial ice. The climate was often snowy and windy and quite inhospitable to off-worlders. Vallt was connected to Pastoria and Sterdic IV via hyperspace route.",
+    "Galen Erso and his team were working on Vallt for Zerpen Industries when the Vallt government was overthrown in a coup by those sympathetic to the Confederacy of Independent Systems. This led to Erso quickly being thrown into Tambolor prison on charges of espionage as the planet seceded from the Galactic Republic to the Confederacy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vallt",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Juris sector",
+    "system": "Vallt system",
+    "coordinates": "P-17",
+    "moons": "1: Vallt's moon",
+    "routes": "Five Veils Route",
+    "atmosphere": "Breathable",
+    "terrain": "Snow",
+    "interest": [
+      "Keep",
+      "Vallt Experimental Fusion Facility",
+      "Vallt's northern continent",
+      "Tambolor prison"
+    ],
+    "fauna": "Taqwa",
+    "species": "Valltii",
+    "otherspecies": "Human",
+    "language": "Valltii language",
+    "government": "Vallt's government",
+    "cities": "Tambolor",
+    "affiliation": [
+      "Zerpen Industries",
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Valltii",
+      "directory": "Valltii",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Vallt",
+    "x": 6502.6,
+    "y": 593.8,
+    "z": 232.5,
+    "region": "Outer Rim",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

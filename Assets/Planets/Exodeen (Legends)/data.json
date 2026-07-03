@@ -1,0 +1,54 @@
+{
+  "name": "Exodeen",
+  "wookieepedia_title": "Exodeen/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Exodeen/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Exodeen was a planet located in the Colonies along the Hydian Way.",
+  "lead_paragraphs": [
+    "Exodeen was a planet located in the Colonies along the Hydian Way."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Exodeen",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Exodeen system",
+    "coordinates": "M-12",
+    "routes": [
+      "Hydian Way",
+      "  Brentaal-Denon Route",
+      "Nanth'ri Trade Route"
+    ],
+    "species": "Exodeenians",
+    "population": "10 to 100 billion (by 25 ABY)",
+    "demonym": "Exodeenian",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Exodeenian",
+      "directory": "Exodeenian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Exodeen",
+    "x": 2980.1,
+    "y": -3116.7,
+    "z": -32.2,
+    "region": "Colonies",
+    "grid": "M-12"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Scarif",
+  "wookieepedia_title": "Scarif",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scarif",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Scarif was a remote, tropical planet located in the Abrion sector of the galaxy's Outer Rim Territories. Although a small and idyllic world, Scarif played an important part in the Galactic Empire's military-industrial complex, becoming the center for top-secret research beyond inspection distance of the prying eyes of the Imperial Senate. Among the projects stored here was the Death Star battle station, a construction project so important that the entire planet was covered by a planetary deflector shield that could only be entered via the Shield Gate, a Golan M3185 space station.",
+  "lead_paragraphs": [
+    "Scarif was a remote, tropical planet located in the Abrion sector of the galaxy's Outer Rim Territories. Although a small and idyllic world, Scarif played an important part in the Galactic Empire's military-industrial complex, becoming the center for top-secret research beyond inspection distance of the prying eyes of the Imperial Senate. Among the projects stored here was the Death Star battle station, a construction project so important that the entire planet was covered by a planetary deflector shield that could only be entered via the Shield Gate, a Golan M3185 space station."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Imperial Era",
+    "  Galactic Civil War",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Scarif",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Abrion sector",
+      "  Imperial Navy Exclusion Zone"
+    ],
+    "system": "Scarif system",
+    "coordinates": "S-15",
+    "suns": "1",
+    "moons": "0",
+    "routes": "Manda Merchant Run",
+    "lengthyear": "287 days",
+    "diameter": "9,112 kilometers (5,662 miles)",
+    "climate": [
+      "Temperate",
+      "Tropical"
+    ],
+    "terrain": [
+      "Oceans",
+      "Rocky archipelagos",
+      "Sandy beaches",
+      "Verdant jungles",
+      "Volcanic island chains"
+    ],
+    "interest": [
+      "Aurek-14",
+      "Death trooper training camp",
+      "Imperial Center of Military Research",
+      "Scarif orbital shipyard",
+      "Mines and refineries"
+    ],
+    "flora": "Areca nut palm tree",
+    "fauna": [
+      "Blixus",
+      "1,500 known fish species",
+      "Many colorful birds, reptiles, and insects"
+    ],
+    "otherspecies": "Humans",
+    "population": "475,000",
+    "exports": [
+      "Starships",
+      "Supplies for the Death Star"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Scarif",
+    "x": 11100.4,
+    "y": -8160.1,
+    "z": -266.3,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

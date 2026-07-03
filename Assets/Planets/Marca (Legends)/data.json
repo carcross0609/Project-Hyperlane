@@ -1,0 +1,68 @@
+{
+  "name": "Marca",
+  "wookieepedia_title": "Marca/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Marca/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Marca, the Sekct homeworld, was a planet in the Marcellus Nebula.",
+  "lead_paragraphs": [
+    "Marca, the Sekct homeworld, was a planet in the Marcellus Nebula.",
+    "About thirty years prior to the Battle of Endor, Dynamic Synergetics, Inc. established a Hyperbaride synthesis plant on the surface. It was overseen by former retired Imperial Admiral Vost Tyne after DSI was nationalized.",
+    "Later, a group of agents working for the Alliance to Restore the Republic accidentally stumbled onto the planet while en route to Sumitra sector. After crashing on the world, the Rebels made contact with a group of local Sekct and managed to destroy the DSI plant.",
+    "Flutterers, mosrk'tecks, swamp serpents, swamp sharks, thunder lizards and water gliders were just some of the animals native to Marca."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Marca",
+    "region": "Outer Rim Territories",
+    "sector": "Meerian sector",
+    "system": "Marcellus system",
+    "coordinates": "N-6",
+    "suns": "Marcellus",
+    "moons": "0",
+    "lengthday": "Constant daylight",
+    "lengthyear": "340 standard days",
+    "class": "Terrestrial",
+    "diameter": "12,000 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Humid swamp",
+    "gravity": "Standard",
+    "terrain": "Ocean, swampy islands",
+    "water": "Saturated",
+    "interest": "DSI Hyperbaride Synthesis Plant",
+    "fauna": [
+      "Flutterer",
+      "Mosrk'teck",
+      "Swamp serpent",
+      "Swamp shark",
+      "Thunder lizard",
+      "Water glider"
+    ],
+    "species": "Sekct",
+    "otherspecies": "Human",
+    "language": [
+      "Sekct",
+      "Basic"
+    ],
+    "population": "1,600",
+    "imports": "None",
+    "exports": "Hyperbarides",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sekct",
+      "directory": "Sekct",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Marca",
+    "x": 8609.9,
+    "y": 3868.6,
+    "z": 33.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Colla IV",
+  "wookieepedia_title": "Colla IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Colla_IV",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Colla IV was an Inner Rim Territories planet that was home to the sentient insectoid Colicoids, a violent warrior species. While the Galactic Republic failed to maintain a diplomatic relationship with the world, the Trade Federation corporation successfully negotiated with the resident Colicoid Creation Nest manufacturing company, contracting them to create army droids for them. The Colicoids subsequently created the droideka heavy duty combat droid in their own image and went on to make other droids and starships that would be used by the Separatist Alliance against the Republic during the Clone Wars.",
+  "lead_paragraphs": [
+    "Colla IV was an Inner Rim Territories planet that was home to the sentient insectoid Colicoids, a violent warrior species. While the Galactic Republic failed to maintain a diplomatic relationship with the world, the Trade Federation corporation successfully negotiated with the resident Colicoid Creation Nest manufacturing company, contracting them to create army droids for them. The Colicoids subsequently created the droideka heavy duty combat droid in their own image and went on to make other droids and starships that would be used by the Separatist Alliance against the Republic during the Clone Wars."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Colla IV",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Colla system",
+    "coordinates": "N-9",
+    "position": "4",
+    "fauna": "Toothspike raptor",
+    "species": "Colicoid",
+    "exports": [
+      "Droids",
+      "Starships"
+    ],
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Colicoid",
+      "directory": "Colicoid",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Colicoid",
+      "directory": "Colicoid (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Colla IV",
+    "x": 3635.9,
+    "y": 1395.8,
+    "z": 69.2,
+    "region": "Inner Rim",
+    "grid": "N-9"
+  },
+  "scraped": "2026-07-03"
+}

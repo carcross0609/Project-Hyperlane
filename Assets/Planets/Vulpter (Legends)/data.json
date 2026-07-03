@@ -1,0 +1,102 @@
+{
+  "name": "Vulpter",
+  "wookieepedia_title": "Vulpter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vulpter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vulpter was the third planet of the Vulpter system in the Deep Core, and the homeworld of the sentient Vulptereen species. Originally an unspoiled world with a wide array of flora and fauna, Vulpter was transformed over the millennia into a massively polluted globe covered in waste and factories. This meant that the planet was unable to sustain itself in terms of agriculture, and was thus entirely reliant on importing foodstuffs from other worlds. Vulpter was a noted producer of starships, and was home to one of the galaxy's largest podracer factories. Several corporations, such as Viper Sensor Intelligence Systems and Arakyd Industries, operated facilities on the planet.",
+  "lead_paragraphs": [
+    "Vulpter was the third planet of the Vulpter system in the Deep Core, and the homeworld of the sentient Vulptereen species. Originally an unspoiled world with a wide array of flora and fauna, Vulpter was transformed over the millennia into a massively polluted globe covered in waste and factories. This meant that the planet was unable to sustain itself in terms of agriculture, and was thus entirely reliant on importing foodstuffs from other worlds. Vulpter was a noted producer of starships, and was home to one of the galaxy's largest podracer factories. Several corporations, such as Viper Sensor Intelligence Systems and Arakyd Industries, operated facilities on the planet.",
+    "Vulpter became part of the galactic community at large between 20,000 and 15,000 BBY. The Vulptereens were among the founding members of the Trade Federation, an allegiance that proved catastrophic for Vulpter's ecosystem. When the Federation seized control of the planet, the organization essentially turned the already-polluted world into an enormous junkyard. Following the establishment of the Galactic Empire, Vulpter was blockaded and cut off from all interplanetary trade, leading to widespread famine on the planet. It was not until the establishment of the New Republic that Vulpter rejoined the galaxy. During the Second Galactic Civil War, Vulpter was the site of a meeting between the heads of the Galactic Federation of Free Alliances and the Confederation, where Jedi Ben Skywalker assassinated the Confederate leader."
+  ],
+  "article_sections": [
+    "Description",
+    "  Topography",
+    "  Government",
+    "History",
+    "  Industrialization",
+    "  Imperial Period",
+    "  Rejoining the galaxy",
+    "Inhabitants",
+    "  Vulptereen",
+    "  Immigrated species",
+    "  Fauna",
+    "Locations",
+    "  Benoga",
+    "  Charbi",
+    "  Hpaq",
+    "  Orbital Advertisement Ring"
+  ],
+  "data": {
+    "name": "Vulpter",
+    "region": "Deep Core",
+    "system": "Vulpter system",
+    "coordinates": "L-10",
+    "suns": "1: Vulpter",
+    "position": "3",
+    "moons": "0",
+    "routes": "Carbonite Run",
+    "lengthday": "22.5 standard hours",
+    "lengthyear": "391 standard days",
+    "class": "Terrestrial",
+    "diameter": "14,900 km",
+    "atmosphere": "Breathable (polluted)",
+    "climate": "Temperate to arctic",
+    "gravity": "Standard",
+    "terrain": "Barren rock, urban",
+    "interest": [
+      "Orbital Advertisement Ring",
+      "Trade Federation headquarters",
+      "Underground storage tunnels",
+      "Ghost towns"
+    ],
+    "fauna": "Garbage hunter",
+    "species": "Vulptereen",
+    "otherspecies": [
+      "Amaran",
+      "Human",
+      "Neimoidian"
+    ],
+    "language": "Basic, Vulpterish",
+    "government": "Corporate",
+    "population": [
+      "421 million:",
+      "  88% Vulptereen",
+      "  6% Amaran",
+      "  2% Human",
+      "  2% Neimoidian",
+      "  2% other"
+    ],
+    "cities": [
+      "Benoga (abandoned)",
+      "Charbi",
+      "Hpaq"
+    ],
+    "imports": [
+      "Consumer goods",
+      "High technology",
+      "Processed foods"
+    ],
+    "exports": "Vehicles and starships",
+    "affiliation": [
+      "Trade Federation",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Vulptereen",
+      "directory": "Vulptereen (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vulpter",
+    "x": 876.1,
+    "y": -735.7,
+    "z": -96.6,
+    "region": "Deep Core",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

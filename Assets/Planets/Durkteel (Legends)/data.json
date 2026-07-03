@@ -1,0 +1,55 @@
+{
+  "name": "Durkteel",
+  "wookieepedia_title": "Durkteel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Durkteel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Durkteel was a Mid Rim world with a population of approximately 3.2 billion at the dawn of the Clone Wars. It was the homeworld of the Saurin, a subspecies of Trandoshan with human-like hands. Durkteel was located along the Durkteel Loop.",
+  "lead_paragraphs": [
+    "Durkteel was a Mid Rim world with a population of approximately 3.2 billion at the dawn of the Clone Wars. It was the homeworld of the Saurin, a subspecies of Trandoshan with human-like hands. Durkteel was located along the Durkteel Loop."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Durkteel",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region"
+    ],
+    "sector": "Kastolar sector",
+    "system": "Durkteel system",
+    "coordinates": "Q-10",
+    "routes": "Durkteel Loop",
+    "class": "Terrestrial",
+    "species": "Saurin",
+    "population": "3.2 billion (22 BBY)",
+    "exports": "Agricultural products",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance of Free Planets"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Saurin",
+      "directory": "Saurin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Saurin",
+      "directory": "Saurin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Durkteel",
+    "x": 8689.8,
+    "y": -332.9,
+    "z": -150.4,
+    "region": "Mid Rim",
+    "grid": "Q-10"
+  },
+  "scraped": "2026-07-03"
+}

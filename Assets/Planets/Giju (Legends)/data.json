@@ -1,0 +1,71 @@
+{
+  "name": "Giju",
+  "wookieepedia_title": "Giju/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Giju/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Giju was the Herglic homeworld. Located in the Colonies, it was on the Rimma Trade Route and was one endpoint of the Giju Run. Giju was an aquatic-type world with large bodies of water and associated terrain including: expansive oceans, islands, marshes, and glaciers. Giju had many spaceports and manufacturing centers.",
+  "lead_paragraphs": [
+    "Giju was the Herglic homeworld. Located in the Colonies, it was on the Rimma Trade Route and was one endpoint of the Giju Run. Giju was an aquatic-type world with large bodies of water and associated terrain including: expansive oceans, islands, marshes, and glaciers. Giju had many spaceports and manufacturing centers."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Giju",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "sector": "Herglic Space",
+    "system": "Giju system",
+    "coordinates": "L-13",
+    "routes": [
+      "Giju Run",
+      "Hidakai Pool",
+      "Rimma Trade Route"
+    ],
+    "terrain": [
+      "Islands",
+      "Marshes",
+      "Glaciers"
+    ],
+    "water": "Oceans",
+    "species": "Herglic",
+    "language": "Herglese",
+    "government": "Giju government",
+    "population": "1–10 billion (25 ABY)",
+    "imports": [
+      "Foodstuffs",
+      "Low technology",
+      "Raw materials"
+    ],
+    "exports": [
+      "Mid technology",
+      "High technology"
+    ],
+    "affiliation": [
+      "Herglic Trade Empire",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Herglic",
+      "directory": "Herglic (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Giju",
+    "x": 46.0,
+    "y": -5322.3,
+    "z": 86.1,
+    "region": "Colonies",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

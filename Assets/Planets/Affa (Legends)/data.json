@@ -1,0 +1,41 @@
+{
+  "name": "Affa",
+  "wookieepedia_title": "Affa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Affa/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Affa was a heavily mechanized planet located in the Affa system of the galaxy's Inner Rim and Trailing Sectors.",
+  "lead_paragraphs": [
+    "Affa was a heavily mechanized planet located in the Affa system of the galaxy's Inner Rim and Trailing Sectors."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Affa",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Affa system",
+    "coordinates": "M-13",
+    "routes": "Shipwrights' Trace",
+    "interest": [
+      "Cybot Galactica plant",
+      "Noggox's fortress"
+    ],
+    "population": "500 million - 1 billion",
+    "demonym": "Affan",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Affa",
+    "x": 2295.9,
+    "y": -5879.1,
+    "z": 183.3,
+    "region": "Inner Rim",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

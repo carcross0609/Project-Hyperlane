@@ -1,0 +1,63 @@
+{
+  "name": "Lowick",
+  "wookieepedia_title": "Lowick/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lowick/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lowick was a neutral planet in the Outer Rim Territories with equatorial rainforests that was the homeworld of the Pa'lowick species who hunted, fished, and farmed in the salt marshes. The planet abounded in fish, reptiles, marlello ducks, and veejy fruit.",
+  "lead_paragraphs": [
+    "Lowick was a neutral planet in the Outer Rim Territories with equatorial rainforests that was the homeworld of the Pa'lowick species who hunted, fished, and farmed in the salt marshes. The planet abounded in fish, reptiles, marlello ducks, and veejy fruit."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Lowick",
+    "region": "Outer Rim Territories",
+    "sector": "Calaron sector",
+    "system": "Pa'Lowick system",
+    "coordinates": "U-9",
+    "terrain": [
+      "Mountains",
+      "Oceans",
+      "Rainforests",
+      "Salt marshes",
+      "Seas"
+    ],
+    "flora": "Banyak tree",
+    "fauna": [
+      "Cattail deer",
+      "Fleet lizard",
+      "Green-scaled marsh hawk",
+      "Meltfox",
+      "Muskwolf",
+      "Marlello",
+      "Runner snake"
+    ],
+    "species": "Pa'lowick",
+    "otherspecies": "Gorach",
+    "language": "Lowickese",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pa'lowick",
+      "directory": "Pa'lowick",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Pa'lowick",
+      "directory": "Pa'lowick (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lowick",
+    "x": 13612.8,
+    "y": 329.5,
+    "z": -200.5,
+    "region": "Outer Rim",
+    "grid": "U-9"
+  },
+  "scraped": "2026-07-03"
+}

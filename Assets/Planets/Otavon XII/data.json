@@ -1,0 +1,54 @@
+{
+  "name": "Otavon XII",
+  "wookieepedia_title": "Otavon XII",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Otavon_XII",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Otavon XII, also written Otavon 12 and sometimes called simply \"Otavon\", was a forested planet inhabited by the Ovoni.",
+  "lead_paragraphs": [
+    "Otavon XII, also written Otavon 12 and sometimes called simply \"Otavon\", was a forested planet inhabited by the Ovoni.",
+    "During the early years of the New Order, the Galactic Empire established Tremor Base, an AT-AT production facility, on the planet. However, Tremor base was destroyed in 19 BBY by Ovoni rebels."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Otavon XII",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Hollan sector",
+    "system": "Otavon system",
+    "coordinates": "M-7",
+    "moons": [
+      "At least two:",
+      "Otavon XII's moon",
+      "Otavon XII's second moon"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Forests",
+    "interest": [
+      "Tremor Base",
+      "Mount Dijandi"
+    ],
+    "fauna": "Sugati",
+    "species": "Ovoni",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ovoni",
+      "directory": "Ovoni",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Otavon XII",
+    "x": -1080.7,
+    "y": -11887.3,
+    "z": -275.4,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

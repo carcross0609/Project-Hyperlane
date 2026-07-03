@@ -1,0 +1,37 @@
+{
+  "name": "Syboona",
+  "wookieepedia_title": "Syboona",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Syboona",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Syboona was the Syboona homeworld.",
+  "lead_paragraphs": [
+    "Syboona was the Syboona homeworld."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Syboona",
+    "region": "Outer Rim Territories",
+    "sector": "Danjar sector",
+    "system": "Syboona system",
+    "coordinates": "N-18",
+    "terrain": "Oceans",
+    "species": "Syboona"
+  },
+  "homeworld_of": [
+    {
+      "name": "Syboona",
+      "directory": "Syboona (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Syboona",
+    "x": -2343.2,
+    "y": 8644.6,
+    "z": 74.5,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

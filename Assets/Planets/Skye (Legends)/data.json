@@ -1,0 +1,66 @@
+{
+  "name": "Skye",
+  "wookieepedia_title": "Skye/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skye/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Skye, designated Marat V by the Galactic Republic, was a terrestrial planet in the Outer Rim Territories and the home of the S'kytri people. Remaining isolated from the wider galaxy, the world attempted to gain admittance into the Council of Neutral Systems during the Clone Wars but was interrupted by an invasion led by Zeta Magnus and the Confederacy of Independent Systems.",
+  "lead_paragraphs": [
+    "Skye, designated Marat V by the Galactic Republic, was a terrestrial planet in the Outer Rim Territories and the home of the S'kytri people. Remaining isolated from the wider galaxy, the world attempted to gain admittance into the Council of Neutral Systems during the Clone Wars but was interrupted by an invasion led by Zeta Magnus and the Confederacy of Independent Systems."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Skye",
+    "region": "Outer Rim Territories",
+    "sector": "Varada sector",
+    "system": "Marat system",
+    "coordinates": "H-19",
+    "suns": "1: Marat Prime",
+    "position": "5",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Warm",
+    "terrain": "Mountains",
+    "interest": [
+      "Canaitith Mountain",
+      "  Skye Citadel",
+      "Entyrmion",
+      "Highlands",
+      "  S'kytri Council Tower",
+      "Lowlands",
+      "Mount Krisklar"
+    ],
+    "fauna": [
+      "Blorgworms",
+      "Gogitols",
+      "Skingles"
+    ],
+    "species": "S'kytri",
+    "language": "S'kytric",
+    "government": "Supreme Council of the Highland Clans",
+    "cities": "City of the Winged People",
+    "exports": "Trinkets",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "S'kytri",
+      "directory": "S'kytri",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Skye",
+    "x": -4836.0,
+    "y": -14881.5,
+    "z": 306.9,
+    "region": "Outer Rim",
+    "grid": "H-19"
+  },
+  "scraped": "2026-07-03"
+}

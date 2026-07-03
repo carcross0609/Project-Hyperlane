@@ -1,0 +1,38 @@
+{
+  "name": "Ichium",
+  "wookieepedia_title": "Ichium",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ichium",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ichium was a barren planet in the Axum system.",
+  "lead_paragraphs": [
+    "Ichium was a barren planet in the Axum system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ichium",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "sector": "Azure sector",
+    "system": "Axum system",
+    "coordinates": "L-9",
+    "suns": "1: Solis Axum",
+    "position": "8",
+    "moons": "0",
+    "routes": "Perlemian Trade Route",
+    "terrain": "Barren rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ichium",
+    "x": 1074.9,
+    "y": 1099.2,
+    "z": 44.7,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

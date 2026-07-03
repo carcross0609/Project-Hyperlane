@@ -1,0 +1,34 @@
+{
+  "name": "Faro",
+  "wookieepedia_title": "Faro",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Faro",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Faro was a planet in the Faro system within the Colonies region of the galaxy.",
+  "lead_paragraphs": [
+    "Faro was a planet in the Faro system within the Colonies region of the galaxy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Faro",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Faro system",
+    "coordinates": "N-10",
+    "species": "Humans"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Faro",
+    "x": 3793.9,
+    "y": -1071.2,
+    "z": -174.1,
+    "region": "Colonies",
+    "grid": "N-10"
+  },
+  "scraped": "2026-07-03"
+}

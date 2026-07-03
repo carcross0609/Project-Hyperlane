@@ -1,0 +1,42 @@
+{
+  "name": "Luptoom",
+  "wookieepedia_title": "Luptoom",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Luptoom",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Luptoom was an Outer Rim Territories planet situated in the Seswenna sector. The planet's Human population, known as Luptoomians, was known for its unusual style of clothing. During the Separatist Crisis, the Luptoomian Nar Hida opened a fashion store on the planet Coruscant.",
+  "lead_paragraphs": [
+    "Luptoom was an Outer Rim Territories planet situated in the Seswenna sector. The planet's Human population, known as Luptoomians, was known for its unusual style of clothing. During the Separatist Crisis, the Luptoomian Nar Hida opened a fashion store on the planet Coruscant.",
+    "Following the closure of his unsuccessful business, Hida and his family attempted to return home to Luptoom aboard the freighter Jendirian Valley. They succeeded only due to a chance encounter with Jedi Anakin Skywalker and Senator Padmé Amidala, who directed them to the assistance of the Refugee Relief Movement."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Luptoom",
+    "region": "Outer Rim Territories",
+    "sector": "Seswenna sector",
+    "system": "Luptoom system",
+    "coordinates": "M-18",
+    "otherspecies": "Humans",
+    "socialgroup": "Luptoomians"
+  },
+  "homeworld_of": [
+    {
+      "name": "Luptoomian",
+      "directory": "Luptoomian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Luptoom",
+    "x": 13137.6,
+    "y": 1848.8,
+    "z": -23.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

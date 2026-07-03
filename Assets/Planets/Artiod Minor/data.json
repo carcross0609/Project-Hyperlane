@@ -1,0 +1,53 @@
+{
+  "name": "Artiod Minor",
+  "wookieepedia_title": "Artiod Minor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Artiod_Minor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Artiod Minor was a Wild Space planet that was the homeworld of the sentient Artiodac species. At one point, the inhabitants of the cold and swampy world became enslaved for centuries by the Zygerrian Slave Empire, which led to the scattering of the Artiodacs across the galaxy. Nevertheless, the Artiodac chef Strono Tuggs spent his childhood on Artiod Minor.",
+  "lead_paragraphs": [
+    "Artiod Minor was a Wild Space planet that was the homeworld of the sentient Artiodac species. At one point, the inhabitants of the cold and swampy world became enslaved for centuries by the Zygerrian Slave Empire, which led to the scattering of the Artiodacs across the galaxy. Nevertheless, the Artiodac chef Strono Tuggs spent his childhood on Artiod Minor."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Artiod Minor",
+    "region": "Wild Space",
+    "sector": "Morellian Commonwealth",
+    "system": "Artiod system",
+    "coordinates": "S-3",
+    "class": "Terrestrial",
+    "climate": "Cold",
+    "terrain": [
+      "Scrub forests",
+      "Swamps"
+    ],
+    "interest": "Aqua-farms",
+    "fauna": [
+      "Prengalli",
+      "Shuimi"
+    ],
+    "species": "Artiodac",
+    "exports": "Slaves",
+    "affiliation": "Zygerrian Slave Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Artiodac",
+      "directory": "Artiodac",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Artiod Minor",
+    "x": 552.9,
+    "y": 5649.4,
+    "z": -43.9,
+    "region": "Other",
+    "grid": "L-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Dar",
+  "wookieepedia_title": "Dar (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dar_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dar was the first planet in the Derilyn system.",
+  "lead_paragraphs": [
+    "Dar was the first planet in the Derilyn system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dar",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": [
+      "Elrood sector",
+      "  Imperial Interdicted Space"
+    ],
+    "system": "Derilyn system",
+    "coordinates": "M-19",
+    "suns": "1: Deril",
+    "position": "1",
+    "moons": "0",
+    "routes": [
+      "Elrood-Derilyn Trade Route",
+      "  The Extreme"
+    ],
+    "class": "Searing rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dar",
+    "x": 2259.2,
+    "y": -14902.8,
+    "z": -199.6,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

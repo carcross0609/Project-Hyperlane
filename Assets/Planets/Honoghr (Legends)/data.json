@@ -1,0 +1,94 @@
+{
+  "name": "Honoghr",
+  "wookieepedia_title": "Honoghr/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Honoghr/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Honoghr was the homeworld of the Noghri, and the only one of the Honoghr system's seven planets with a permanent population.",
+  "lead_paragraphs": [
+    "Honoghr was the homeworld of the Noghri, and the only one of the Honoghr system's seven planets with a permanent population.",
+    "Honoghr was covered by a single globe-spanning continent."
+  ],
+  "article_sections": [
+    "History",
+    "  Destruction"
+  ],
+  "data": {
+    "name": "Honoghr",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Honoghr system",
+    "coordinates": "T-10",
+    "suns": "1: Honoghr",
+    "position": "4",
+    "moons": "3",
+    "lengthday": "23 standard hours",
+    "lengthyear": "208 standard days",
+    "class": "Terrestrial",
+    "diameter": "10,440 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert plains",
+      "Rainforests (formerly)"
+    ],
+    "interest": [
+      "Rakata temple",
+      "Sith Academy",
+      "Clean Lands"
+    ],
+    "species": "Noghri",
+    "otherspecies": "Rakata (historically)",
+    "language": "Honoghran",
+    "government": "Clan",
+    "population": [
+      "10 million:",
+      "  100% Noghri"
+    ],
+    "cities": "Nystao (capital)",
+    "imports": [
+      "Foodstuffs",
+      "Medicine",
+      "Technology",
+      "Water"
+    ],
+    "exports": [
+      "Assassins",
+      "Bodyguards"
+    ],
+    "affiliation": [
+      "Infinite Empire",
+      "Hutt Empire",
+      "Brotherhood of Darkness",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Noghri",
+      "directory": "Noghri",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Noghri",
+      "directory": "Noghri (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Honoghr",
+    "x": 12716.2,
+    "y": -443.5,
+    "z": 221.6,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

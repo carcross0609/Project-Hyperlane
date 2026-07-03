@@ -1,0 +1,45 @@
+{
+  "name": "Selonia",
+  "wookieepedia_title": "Selonia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Selonia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Selonia was a planet located in the Corellian sector of the the galaxy's Core Worlds. It was was one of five planets orbiting the sun Corell in the Corellia system. During an attempt to rescue the Wookiee Kirroo, Han Solo once claimed to a droid that he, Qi'ra and Tsuulo were Sienar Systems Advanced Projects Laboratory scientists from Selonia. The droid responded that it was not aware that Sienar had interests on the planet, to which Solo said that they had interests everywhere.",
+  "lead_paragraphs": [
+    "Selonia was a planet located in the Corellian sector of the the galaxy's Core Worlds. It was was one of five planets orbiting the sun Corell in the Corellia system. During an attempt to rescue the Wookiee Kirroo, Han Solo once claimed to a droid that he, Qi'ra and Tsuulo were Sienar Systems Advanced Projects Laboratory scientists from Selonia. The droid responded that it was not aware that Sienar had interests on the planet, to which Solo said that they had interests everywhere."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Selonia",
+    "region": "Core Worlds",
+    "sector": "Corellian sector",
+    "system": "Corellia system",
+    "coordinates": "M-11",
+    "suns": "1: Corell",
+    "species": "Selonian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Selonian",
+      "directory": "Selonian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Selonian",
+      "directory": "Selonian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Selonia",
+    "x": 2754.4,
+    "y": -1787.3,
+    "z": -140.3,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Salliche",
+  "wookieepedia_title": "Salliche/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Salliche/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Salliche was an agricultural world in the Core Worlds region. It was the headquarters of the Salliche Agricultural Corporation. The planet was one of 18 planets on the Agricultural Circuit.",
+  "lead_paragraphs": [
+    "Salliche was an agricultural world in the Core Worlds region. It was the headquarters of the Salliche Agricultural Corporation. The planet was one of 18 planets on the Agricultural Circuit."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Salliche",
+    "region": [
+      "Core Worlds",
+      "The Negs"
+    ],
+    "system": "Salliche system",
+    "coordinates": "K-10",
+    "routes": "Agricultural Circuit",
+    "class": "Terrestrial",
+    "terrain": "Fields",
+    "interest": "Salliche's Forum",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "cities": "Netassa (capital)",
+    "exports": "Food",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sallichen",
+      "directory": "Sallichen",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Salliche",
+    "x": -385.6,
+    "y": -278.1,
+    "z": -50.9,
+    "region": "Core Worlds",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

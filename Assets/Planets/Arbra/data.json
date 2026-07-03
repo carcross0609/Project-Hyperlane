@@ -1,0 +1,47 @@
+{
+  "name": "Arbra",
+  "wookieepedia_title": "Arbra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arbra",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Arbra was a planet covered in woodlands that was located in the Bon'nyuw-Luq sector of the galaxy's Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Arbra was a planet covered in woodlands that was located in the Bon'nyuw-Luq sector of the galaxy's Outer Rim Territories."
+  ],
+  "article_sections": [
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Arbra",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Bon'nyuw-Luq sector",
+    "system": "Arbra system",
+    "coordinates": "N-17",
+    "terrain": "Woodlands",
+    "cities": "Arbra's main settlement"
+  },
+  "homeworld_of": [
+    {
+      "name": "Hoojib",
+      "directory": "Hoojib",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Hoojib",
+      "directory": "Hoojib (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Arbra",
+    "x": 4197.9,
+    "y": -11520.2,
+    "z": 602.7,
+    "region": "Outer Rim",
+    "grid": "N-17"
+  },
+  "scraped": "2026-07-03"
+}

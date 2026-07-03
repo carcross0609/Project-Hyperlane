@@ -1,0 +1,39 @@
+{
+  "name": "Tamazall",
+  "wookieepedia_title": "Tamazall/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tamazall/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tamazall was a New Republic prison planet located in the Boeus sector of the Expansion Region. Zurga Pass was in its foothills. The planet was protected by the Tamazall Militia. Prisoners were transported via monorail.",
+  "lead_paragraphs": [
+    "Tamazall was a New Republic prison planet located in the Boeus sector of the Expansion Region. Zurga Pass was in its foothills. The planet was protected by the Tamazall Militia. Prisoners were transported via monorail."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tamazall",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Boeus sector",
+    "system": "Tamazall system",
+    "coordinates": "M-15",
+    "class": "Terrestrial",
+    "terrain": "Mountains, hills",
+    "interest": "Zurga Pass",
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "cities": "Tamazall (capital)",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tamazall",
+    "x": 1961.7,
+    "y": -7903.1,
+    "z": -23.2,
+    "region": "Expansion Region",
+    "grid": "M-15"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Zaloriis",
+  "wookieepedia_title": "Zaloriis/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zaloriis/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zaloriis was an Expansion Region planet colonized by Humans from Fondor. By 0 ABY it was home to Camp Culroon, a hidden Galactic Empire research base. That year, the planet attempted to join the Rebel Alliance, but Darth Vader led a strike force to recapture the planet.",
+  "lead_paragraphs": [
+    "Zaloriis was an Expansion Region planet colonized by Humans from Fondor. By 0 ABY it was home to Camp Culroon, a hidden Galactic Empire research base. That year, the planet attempted to join the Rebel Alliance, but Darth Vader led a strike force to recapture the planet."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Zaloriis",
+    "region": "Expansion Region",
+    "sector": "Askarian sector",
+    "system": "Zaloriis system",
+    "coordinates": "P-12",
+    "routes": "Nanth'ri Route",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Barren",
+      "Rocky Deserts"
+    ],
+    "interest": [
+      "Camp Culroon",
+      "Fondor II",
+      "Fantain Mountains"
+    ],
+    "flora": "Twisted tree",
+    "fauna": "Zalorian rock-lion",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "demonym": "Zalorian",
+    "cities": "Zaloriis City (capital)",
+    "affiliation": [
+      "Galactic Empire",
+      "Zalorian Separatists",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Zaloriis",
+    "x": 6090.0,
+    "y": -3344.9,
+    "z": -69.1,
+    "region": "Expansion Region",
+    "grid": "P-12"
+  },
+  "scraped": "2026-07-03"
+}

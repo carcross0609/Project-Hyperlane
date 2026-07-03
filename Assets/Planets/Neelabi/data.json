@@ -1,0 +1,38 @@
+{
+  "name": "Neelabi",
+  "wookieepedia_title": "Neelabi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Neelabi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Neelabi was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Neelabi species. The Neelabi had a social hierarchy built upon competition.",
+  "lead_paragraphs": [
+    "Neelabi was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Neelabi species. The Neelabi had a social hierarchy built upon competition."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Neelabi",
+    "region": "Outer Rim Territories",
+    "sector": "Kibilini sector",
+    "system": "Neelabi system",
+    "coordinates": "Q-17",
+    "class": "Terrestrial",
+    "terrain": "Oceans",
+    "species": "Neelabi"
+  },
+  "homeworld_of": [
+    {
+      "name": "Neelabi",
+      "directory": "Neelabi (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Neelabi",
+    "x": 11124.9,
+    "y": 5505.7,
+    "z": 225.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

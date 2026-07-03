@@ -1,0 +1,52 @@
+{
+  "name": "Esfandia",
+  "wookieepedia_title": "Esfandia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Esfandia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Esfandia was a free-floating proto-world in Wild Space. At one time, it had orbited a star, but it eventually broke away. Even without a sun, the planet had enough radioactivity in its core to support a liquid atmosphere composed mainly of methane and hydrogen.",
+  "lead_paragraphs": [
+    "Esfandia was a free-floating proto-world in Wild Space. At one time, it had orbited a star, but it eventually broke away. Even without a sun, the planet had enough radioactivity in its core to support a liquid atmosphere composed mainly of methane and hydrogen.",
+    "Esfandia and Generis were the only two planets containing HoloNet relays to the Unknown Regions. The Esfandia Long-Range Communications Base was a mobile relay base stationed on Esfandia and crewed by twelve people. Its purpose was to maintain the relays scattered around the planet. During the Yuuzhan Vong War, the Galactic Alliance stationed two X-wing squadrons and the frigate Corellian Way around the planet to protect the station. The Battle of Esfandia occurred in 29 ABY, when Yuuzhan Vong forces under the command of B'shith Vorrik attempted to knock out communications between the Unknown Regions and the rest of the galaxy."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Esfandia",
+    "region": "Wild Space",
+    "system": "Esfandia system",
+    "coordinates": "I-6",
+    "suns": "0",
+    "moons": "0",
+    "class": "Terrestrial",
+    "atmosphere": "Type III (breath mask required)",
+    "terrain": "Barren",
+    "interest": "Esfandia Long-Range Communications Base",
+    "species": "Brrbrlpp",
+    "otherspecies": "Various",
+    "language": [
+      "Brrbrlpp language",
+      "Galactic Basic Standard",
+      "Trinary code variant"
+    ],
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Brrbrlpp",
+      "directory": "Brrbrlpp",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Esfandia",
+    "x": -4202.0,
+    "y": 5270.7,
+    "z": 108.6,
+    "region": "Wild Space",
+    "grid": "I-6"
+  },
+  "scraped": "2026-07-03"
+}

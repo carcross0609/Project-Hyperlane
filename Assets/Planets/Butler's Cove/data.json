@@ -1,0 +1,45 @@
+{
+  "name": "Butler's Cove",
+  "wookieepedia_title": "Butler's Cove",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Butler%27s_Cove",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Butler's Cove was a previously uninhabited planet in the Stribos system of the Core Worlds. The planet was chosen by Soron Hegerty as a refuge for the Ssither that managed to escape from the Demophon system. Unrecorded in Imperial records, it was named for the pirate who discovered it. He hoped to use the planet as a base from which to raid the Demophon system, but was killed on his first raid. All additional information on the planet perished with him.",
+  "lead_paragraphs": [
+    "Butler's Cove was a previously uninhabited planet in the Stribos system of the Core Worlds. The planet was chosen by Soron Hegerty as a refuge for the Ssither that managed to escape from the Demophon system. Unrecorded in Imperial records, it was named for the pirate who discovered it. He hoped to use the planet as a base from which to raid the Demophon system, but was killed on his first raid. All additional information on the planet perished with him."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Butler's Cove",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "system": "Stribos system",
+    "coordinates": "M-10",
+    "lengthday": "25 standard hours",
+    "lengthyear": "380 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Heavy",
+    "terrain": "Forests, mountains",
+    "water": "Moderate",
+    "otherspecies": "Ssither"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ssither",
+      "directory": "Ssither",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Butler's Cove",
+    "x": 2624.8,
+    "y": -153.8,
+    "z": -201.0,
+    "region": "Mid Rim",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

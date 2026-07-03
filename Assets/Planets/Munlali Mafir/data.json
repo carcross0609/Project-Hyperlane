@@ -1,0 +1,44 @@
+{
+  "name": "Munlali Mafir",
+  "wookieepedia_title": "Munlali Mafir",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Munlali_Mafir",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Munlali Mafir was a planet in the Unknown Regions.",
+  "lead_paragraphs": [
+    "Munlali Mafir was a planet in the Unknown Regions."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Munlali Mafir",
+    "region": "Unknown Regions",
+    "system": "Munlali Mafir system",
+    "coordinates": "G-5",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Destroyed after the passing of Zonama Sekot",
+    "fauna": "Krizlaw",
+    "species": "Jostran",
+    "language": "Jostran"
+  },
+  "homeworld_of": [
+    {
+      "name": "Jostran",
+      "directory": "Jostran",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Munlali Mafir",
+    "x": -8952.6,
+    "y": 2279.8,
+    "z": -285.9,
+    "region": "Unknown Regions",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

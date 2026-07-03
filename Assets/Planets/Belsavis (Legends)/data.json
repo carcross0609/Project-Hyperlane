@@ -1,0 +1,105 @@
+{
+  "name": "Belsavis",
+  "wookieepedia_title": "Belsavis/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Belsavis/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Belsavis, also known as Plawal, was a planet in the Ninth Quadrant, a region of the Bozhnee sector. Ice-covered, its average temperature was in the -50s. It was located on the edge of the Senex sector, at one end of the Belsavis Run.",
+  "lead_paragraphs": [
+    "Belsavis, also known as Plawal, was a planet in the Ninth Quadrant, a region of the Bozhnee sector. Ice-covered, its average temperature was in the -50s. It was located on the edge of the Senex sector, at one end of the Belsavis Run."
+  ],
+  "article_sections": [
+    "History",
+    "  Pre- and Old Republic eras",
+    "  Imperial era",
+    "  New Republic era",
+    "Flora",
+    "Fauna"
+  ],
+  "data": {
+    "name": "Belsavis",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Ninth Quadrant, Bozhnee sector",
+    "system": "Belsavis system",
+    "coordinates": "L-18",
+    "suns": "2",
+    "position": "7",
+    "moons": "3",
+    "routes": "Belsavis Run",
+    "lengthday": "25 standard hours",
+    "lengthyear": "412 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Glaciers",
+      "Tropical rift valleys"
+    ],
+    "interest": [
+      "Ancient Prison Caverns",
+      "Belsavis prison",
+      "Corridor",
+      "Eternity Vault",
+      "Plawal Rift",
+      "Rashnoor Pass",
+      "The Scar",
+      "The Tomb"
+    ],
+    "flora": [
+      "Aphor tree",
+      "Bellfruit",
+      "Shalaman"
+    ],
+    "fauna": [
+      "Baspoor glider",
+      "Glowbug",
+      "Hoverbird",
+      "Kintan crusher",
+      "Mookla",
+      "Phosphor bug",
+      "Watch-critter"
+    ],
+    "species": "Mluki",
+    "otherspecies": [
+      "Duros",
+      "Esh-kha",
+      "Ho'Din",
+      "Human",
+      "Ithorian",
+      "Formerly: Rakata",
+      "Many species"
+    ],
+    "language": "Galactic Basic Standard",
+    "cities": [
+      "Bot-Un",
+      "Plett's Well"
+    ],
+    "exports": [
+      "Vine-coffee",
+      "Vine-silk"
+    ],
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mluki",
+      "directory": "Mluki",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Belsavis",
+    "x": 608.8,
+    "y": -12250.8,
+    "z": -61.1,
+    "region": "Outer Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

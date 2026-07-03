@@ -1,0 +1,48 @@
+{
+  "name": "Togominda",
+  "wookieepedia_title": "Togominda/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Togominda/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Togominda was a world situated in the Outer Rim Territories' Yarith sector. It featured salt geysers, which attracted both free-traders and pilots to the world. Lynciro Corporation owned a private retreat on Togominda known as \"Master of Coins.\"",
+  "lead_paragraphs": [
+    "Togominda was a world situated in the Outer Rim Territories' Yarith sector. It featured salt geysers, which attracted both free-traders and pilots to the world. Lynciro Corporation owned a private retreat on Togominda known as \"Master of Coins.\""
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Togominda",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches",
+      "  Greater Javin"
+    ],
+    "sector": [
+      "Javin sector (prior to c. 400 BBY)",
+      "Anoat sector (c. 400 BBY—)",
+      "Yarith sector (generations after c. 400 BBY)"
+    ],
+    "system": "Togominda system",
+    "coordinates": "K-18",
+    "routes": "Corellian Trade Spine",
+    "class": "Terrestrial",
+    "interest": [
+      "Master of Coins",
+      "Salt geysers"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Togominda",
+    "x": -1243.5,
+    "y": -13466.7,
+    "z": 345.9,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

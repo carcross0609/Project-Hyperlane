@@ -1,0 +1,45 @@
+{
+  "name": "Dosuun",
+  "wookieepedia_title": "Dosuun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dosuun",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dosuun was a planet located in the Dosuun system in Wild Space of the galaxy. From space, the planet could be seen to possess varied terrain and several seas. It also had at least one area of hilly temperate grassland.",
+  "lead_paragraphs": [
+    "Dosuun was a planet located in the Dosuun system in Wild Space of the galaxy. From space, the planet could be seen to possess varied terrain and several seas. It also had at least one area of hilly temperate grassland."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Dosuun",
+    "region": "Wild Space",
+    "system": "Dosuun system",
+    "coordinates": "H-20",
+    "class": "Terrestrial",
+    "terrain": [
+      "Forests",
+      "Grasslands",
+      "Lakes",
+      "Mountains"
+    ],
+    "water": "Seas",
+    "interest": "Imperial base",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "population": "None",
+    "cities": "None",
+    "imports": "Steel",
+    "affiliation": "Imperial Remnant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dosuun",
+    "x": -5522.5,
+    "y": -15297.9,
+    "z": -90.1,
+    "region": "Wild Space",
+    "grid": "H-20"
+  },
+  "scraped": "2026-07-03"
+}

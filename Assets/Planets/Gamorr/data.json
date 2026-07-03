@@ -1,0 +1,51 @@
+{
+  "name": "Gamorr",
+  "wookieepedia_title": "Gamorr",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gamorr",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Gamorr was a lush planet located in the Galov sector of the Outer Rim Territories, along the Triellus Trade Route. It was the homeworld of a porcine sentient species, the Gamorreans, who chopped down forests to clear land for farming.",
+  "lead_paragraphs": [
+    "Gamorr was a lush planet located in the Galov sector of the Outer Rim Territories, along the Triellus Trade Route. It was the homeworld of a porcine sentient species, the Gamorreans, who chopped down forests to clear land for farming.",
+    "It was located to the galactic east of Kupoh. Shortly after the Battle of Yavin, the Givin Drusil Bephorin needed to escape Kupoh with the Alliance to Restore the Republic agents Luke Skywalker and Nakari Kelen and suggested they travel to the east, causing Skywalker to question if she was using the distant Gamorr as her navigation point. Bephorin was in fact using the location of a theoretical star she had calculated must exist as a navigation point."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gamorr",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Galov sector",
+    "system": "Gamorr system",
+    "coordinates": "T-14",
+    "routes": "Triellus Trade Route",
+    "terrain": [
+      "Forests",
+      "Croplands"
+    ],
+    "otherlife": "Snoruuk",
+    "species": "Gamorrean"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gamorrean",
+      "directory": "Gamorrean",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gamorrean",
+      "directory": "Gamorrean (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gamorr",
+    "x": 12682.2,
+    "y": -6473.3,
+    "z": 134.8,
+    "region": "Outer Rim",
+    "grid": "T-14"
+  },
+  "scraped": "2026-07-03"
+}

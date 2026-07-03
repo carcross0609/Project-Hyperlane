@@ -1,0 +1,42 @@
+{
+  "name": "Kriekaal",
+  "wookieepedia_title": "Kriekaal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kriekaal",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kriekaal was a planet in the Kriekaal system, and the homeworld of the Krieks. Its continents were composed of hardened duranium and its shallow oceans of molten duranium.",
+  "lead_paragraphs": [
+    "Kriekaal was a planet in the Kriekaal system, and the homeworld of the Krieks. Its continents were composed of hardened duranium and its shallow oceans of molten duranium.",
+    "In 2,000,000 BBY, an alien named Ssiskor came to Kriekaal, but perished in a catastrophe wrapped in legend of supernatural forces, which claim the oceans themselves destroyed him.",
+    "New continents were constantly forming on the planet. The continent Raltez finished its formation only by 3 ABY. The planet was later rediscovered by the New Republic."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kriekaal",
+    "region": "Wild Space",
+    "system": "Kriekaal system",
+    "coordinates": "J-14",
+    "position": "2",
+    "lengthday": "18 standard hours",
+    "lengthyear": "105 local days",
+    "atmosphere": "Type IV (environment suit required)",
+    "climate": "Searing",
+    "gravity": "Heavy",
+    "terrain": [
+      "Duranium oceans",
+      "Cooled ore and slag islands"
+    ],
+    "species": "Kriek",
+    "government": "Tribal",
+    "population": "454,000"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kriek",
+      "directory": "Kriek",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

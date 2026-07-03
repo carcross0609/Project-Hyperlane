@@ -1,0 +1,54 @@
+{
+  "name": "Stenos",
+  "wookieepedia_title": "Stenos/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stenos/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Stenos was a planet located in the Spadja sector of the Outer Rim Territories. It was homeworld of the Stenax race.",
+  "lead_paragraphs": [
+    "Stenos was a planet located in the Spadja sector of the Outer Rim Territories. It was homeworld of the Stenax race."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Stenos",
+    "region": "Outer Rim Territories",
+    "sector": "Spadja sector",
+    "system": "Stenos system",
+    "coordinates": "R-5",
+    "terrain": [
+      "Pinnacles",
+      "Plateaus",
+      "Rocky deserts"
+    ],
+    "interest": "Farruz",
+    "species": "Stenax",
+    "otherspecies": [
+      "Formerly:",
+      "Humans",
+      "Bith"
+    ],
+    "language": "Stenax",
+    "affiliation": [
+      "Xim's Empire",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Stenax",
+      "directory": "Stenax",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Stenos",
+    "x": 9368.2,
+    "y": 6112.8,
+    "z": 94.9,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

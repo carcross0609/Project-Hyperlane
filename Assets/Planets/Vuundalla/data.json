@@ -1,0 +1,38 @@
+{
+  "name": "Vuundalla",
+  "wookieepedia_title": "Vuundalla",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vuundalla",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vuundalla was a planet located in the Bri'ahl sector within the galaxy. The planet was ruled by Pychor Vuundir and Dafne Vuundir.",
+  "lead_paragraphs": [
+    "Vuundalla was a planet located in the Bri'ahl sector within the galaxy. The planet was ruled by Pychor Vuundir and Dafne Vuundir."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vuundalla",
+    "region": "Outer Rim Territories",
+    "sector": "Bri'ahl sector",
+    "system": "Vuundalla system",
+    "coordinates": "I-17",
+    "suns": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": "Forests",
+    "interest": [
+      "Cyrus's workshop",
+      "Vuundalla palace",
+      "Unidentified village"
+    ],
+    "species": "Unidentified species"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Vuundalla species",
+      "directory": "Unidentified Vuundalla species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

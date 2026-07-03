@@ -1,0 +1,48 @@
+{
+  "name": "Zarracina III",
+  "wookieepedia_title": "Zarracina III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zarracina_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zarracina III was a planet located in the Expansion Region's Zarracina sector. It was the homeworld of the Zarracine species. When a stable hyperspace jump point was discovered in the Zarracina system in 11,660 BBY, the Pius Dea–controlled Galactic Republic attempted to acquire Zarracina III.",
+  "lead_paragraphs": [
+    "Zarracina III was a planet located in the Expansion Region's Zarracina sector. It was the homeworld of the Zarracine species. When a stable hyperspace jump point was discovered in the Zarracina system in 11,660 BBY, the Pius Dea–controlled Galactic Republic attempted to acquire Zarracina III.",
+    "However, the Zarracines rejected Republic envoys, and their entire ruling council committed suicide when the Republic attempted to conquer the planet. In response, Zarracina III was subjected to an orbital bombardment that devastated the planet and forced the few surviving Zarracines to adopt a nomadic existence."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Zarracina III",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Zarracina sector",
+    "system": "Zarracina system",
+    "coordinates": "O-14",
+    "position": "3",
+    "climate": "Cold (post-11,660 BBY)",
+    "terrain": "Radioactive (post-11,660 BBY)",
+    "species": "Zarracines",
+    "government": "Zarracina III ruling council"
+  },
+  "homeworld_of": [
+    {
+      "name": "Zarracine",
+      "directory": "Zarracine",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zarracina III",
+    "x": 5183.2,
+    "y": -6250.1,
+    "z": -231.2,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

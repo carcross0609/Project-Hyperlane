@@ -1,0 +1,47 @@
+{
+  "name": "Rafa IV",
+  "wookieepedia_title": "Rafa IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rafa_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rafa IV was a temperate planet in the Rafa system of the Centrality, located in the Outer Rim Territories. It was a colony world of the Sharu species.",
+  "lead_paragraphs": [
+    "Rafa IV was a temperate planet in the Rafa system of the Centrality, located in the Outer Rim Territories. It was a colony world of the Sharu species.",
+    "Before the Sharu uprising in 4 BBY, its main city Teguta Lusat was the capital of the Rafa system. Rafa IV was governed by Duttes Mer, colonial governor of the Rafa."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rafa IV",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Centrality",
+    "system": "Rafa system",
+    "coordinates": "T-8",
+    "suns": "1",
+    "position": "4",
+    "routes": "Arleen Loop",
+    "gravity": "Light (0.9 standard)",
+    "terrain": "Ice",
+    "interest": "Teguta Lusat",
+    "species": "Sharu",
+    "otherspecies": "Humans",
+    "language": "Old High Trammic; formerly: Basic",
+    "cities": "Teguta Lusat (capital)",
+    "affiliation": [
+      "Centrality",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Rafa IV",
+    "x": 13079.8,
+    "y": 2236.7,
+    "z": -117.6,
+    "region": "Outer Rim",
+    "grid": "T-8"
+  },
+  "scraped": "2026-07-03"
+}

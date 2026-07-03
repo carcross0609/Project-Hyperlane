@@ -1,0 +1,95 @@
+{
+  "name": "Mutanda",
+  "wookieepedia_title": "Mutanda",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mutanda",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mutanda was a planet in the Killaniri system. The planet was a rolling land of grasslands, jungles, and natural wonders. In addition to the sentient Horansi, the world had many different species of big game animals, resulting in a booming legalized safari trade. Primarily, Mutanda was a planet for exotic hunting vacations and was easily accessible because of the spaceport on the satellite of Justa. However, the encroachments of poachers resulted in the extinction of many species of Mutandan wildlife.",
+  "lead_paragraphs": [
+    "Mutanda was a planet in the Killaniri system. The planet was a rolling land of grasslands, jungles, and natural wonders. In addition to the sentient Horansi, the world had many different species of big game animals, resulting in a booming legalized safari trade. Primarily, Mutanda was a planet for exotic hunting vacations and was easily accessible because of the spaceport on the satellite of Justa. However, the encroachments of poachers resulted in the extinction of many species of Mutandan wildlife."
+  ],
+  "article_sections": [
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Mutanda",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Wornal sector",
+    "system": "Killaniri system",
+    "coordinates": "K-17",
+    "suns": "Killaniri",
+    "position": "1st",
+    "moons": [
+      "Mortav",
+      "Justa",
+      "Seldibia",
+      "Mutar-Horan"
+    ],
+    "lengthday": "18 hours",
+    "lengthyear": "267 local days",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Light",
+    "terrain": [
+      "Forests",
+      "Hills",
+      "Oceans",
+      "Plains",
+      "Rainforests"
+    ],
+    "fauna": [
+      "Hokami",
+      "Yeat"
+    ],
+    "species": "Horansi",
+    "otherspecies": "Human",
+    "government": "Individual tribes",
+    "population": "120 million",
+    "imports": [
+      "Foodstuffs",
+      "Luxury goods",
+      "Mid technology"
+    ],
+    "exports": "Illegally poached animals",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gorvan Horansi",
+      "directory": "Gorvan Horansi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Horansi",
+      "directory": "Horansi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kasa Horansi",
+      "directory": "Kasa Horansi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Mashi Horansi",
+      "directory": "Mashi Horansi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Treka Horansi",
+      "directory": "Treka Horansi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mutanda",
+    "x": -838.6,
+    "y": -11564.3,
+    "z": 283.1,
+    "region": "Mid Rim",
+    "grid": "K-17"
+  },
+  "scraped": "2026-07-03"
+}

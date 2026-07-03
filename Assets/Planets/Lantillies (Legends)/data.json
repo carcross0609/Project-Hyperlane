@@ -1,0 +1,53 @@
+{
+  "name": "Lantillies",
+  "wookieepedia_title": "Lantillies/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lantillies/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lantillies was a planet in the Lantillies system and the sector capital of the Lantillian sector in the Mid Rim. Located along the Perlemian Trade Route and at the head of the Randon Run, Lantillies was heavily involved in the shipping and shipbuilding industries, and its Human natives were well-known for their emphasis on reliability over elegance. Lantillies was conquered by the Honorable Union of Desevro & Tion early in galactic history, though the planet was a member of the Galactic Republic through much of the government's history. Lantillies later became a stronghold of the New Republic during the Yuuzhan Vong War of 25–29 ABY.",
+  "lead_paragraphs": [
+    "Lantillies was a planet in the Lantillies system and the sector capital of the Lantillian sector in the Mid Rim. Located along the Perlemian Trade Route and at the head of the Randon Run, Lantillies was heavily involved in the shipping and shipbuilding industries, and its Human natives were well-known for their emphasis on reliability over elegance. Lantillies was conquered by the Honorable Union of Desevro & Tion early in galactic history, though the planet was a member of the Galactic Republic through much of the government's history. Lantillies later became a stronghold of the New Republic during the Yuuzhan Vong War of 25–29 ABY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Lantillies",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region",
+      "The Slice"
+    ],
+    "sector": "Lantillian sector",
+    "system": "Lantillies system",
+    "coordinates": "P-8",
+    "routes": [
+      "Perlemian Trade Route",
+      "Randon Run"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Urban cityscape",
+    "otherspecies": "Humans",
+    "demonym": "Lantillian",
+    "imports": "Trade goods",
+    "exports": "Starships, trade goods",
+    "affiliation": [
+      "Galactic Republic",
+      "Honorable Union of Desevro & Tion",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lantillies",
+    "x": 6464.8,
+    "y": 1829.2,
+    "z": 230.2,
+    "region": "Mid Rim",
+    "grid": "P-8"
+  },
+  "scraped": "2026-07-03"
+}

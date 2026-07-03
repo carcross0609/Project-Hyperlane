@@ -1,0 +1,25 @@
+# Serob 6
+
+**Continuity:** Unknown  
+**Source:** [Serob 6](https://starwars.fandom.com/wiki/Serob_6)
+**Galaxy atlas:** system `Serob 6`, Core Worlds — map position (-1421.3, -510.4, 19.6)
+
+Serob 6 was the sixth and only inhabited planet of the Serob system. Its surface was entirely covered by water, although its atmosphere was breathable for Humans. The world was part of the Galactic Republic and later had an Imperial Governor.
+
+The planet had a floating capital city, Kells, home to the Imperial governor and Imperial garrison. 99% of the inhabitants of the city were not natives of the planet.
+
+The natives were an aquatic species known as Sorkis. They mostly lived underwater, rather than in Kells. They were very conscience of maintaining equilibrium with their environment.
+
+The main source of revenue for the planet was tourism. There was also industry that exploited the native algae for cosmetics. The ecologically-minded Sorkis limited the tourism and the industry until the Empire prevented them from doing so. The Sorkis feared for the damage to their world as a result.
+
+The planet had a famous penitentiary/psychiatric clinic where the Sorkis would apply their extraordinary therapeutic technique of "mental projection".
+
+Linder Kroford, a Morse from Karlatt, was sent to the planet for psychiatric treatment. Linder Kroford was one of the only living individuals, at the time of the Galactic Civil War, that knew the secret code to destroy the AI and the location of Temple Maudit on Karlatt.
+
+A group of Rebel agents, undercover as Imperial officials, came to Serob 6. With the help of an Imperial submarine, they descended below the waves to the psychiatric facility where Kroford was kept. The Rebels revealed their identity to Kroford's Sorki "analyzer," Professor Piickiit, who used mental projection to turn Kroford's mind into a virtual reality. Interacting with this reality, the Rebels managed to obtain the needed code.
+
+The AI sent a droid-crewed fleet to attack Serob 6. The Rebels managed to escape the system and returned to Karlatt
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

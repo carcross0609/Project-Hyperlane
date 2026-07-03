@@ -1,0 +1,66 @@
+{
+  "name": "Woostri",
+  "wookieepedia_title": "Woostri/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Woostri/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Woostri was a planet in the Expansion Region known for its HoloScan Database, tourism, and automated manufacturing.",
+  "lead_paragraphs": [
+    "Woostri was a planet in the Expansion Region known for its HoloScan Database, tourism, and automated manufacturing."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Woostri",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Woostri sector",
+    "system": "Woostri system",
+    "coordinates": "M-16",
+    "routes": "Rimma Trade Route",
+    "lengthday": "22 standard hours",
+    "lengthyear": "312 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Urban",
+    "species": "Woostoid",
+    "otherspecies": "Many species",
+    "language": "Woostese",
+    "government": "Representative legislature",
+    "population": "18 billion",
+    "cities": "Gopsthal (capital)",
+    "imports": [
+      "High technology",
+      "Tourism"
+    ],
+    "exports": "Information",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Eriadu Authority",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Woostoid",
+      "directory": "Woostoid",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Woostri",
+    "x": 1945.7,
+    "y": -9231.1,
+    "z": -199.6,
+    "region": "Expansion Region",
+    "grid": "M-16"
+  },
+  "scraped": "2026-07-03"
+}

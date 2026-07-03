@@ -1,0 +1,77 @@
+{
+  "name": "Rattatak",
+  "wookieepedia_title": "Rattatak",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rattatak",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rattatak was a mountainous planet located in the galaxy's Outer Rim Territories. After killing the warlords responsible for the death of Jedi Knight Ky Narec, former Jedi Padawan Asajj Ventress ruled Rattatak until she was found and recruited by former Jedi Master Count Dooku, a Sith Lord.",
+  "lead_paragraphs": [
+    "Rattatak was a mountainous planet located in the galaxy's Outer Rim Territories. After killing the warlords responsible for the death of Jedi Knight Ky Narec, former Jedi Padawan Asajj Ventress ruled Rattatak until she was found and recruited by former Jedi Master Count Dooku, a Sith Lord."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Rattatak",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Trilon sector",
+    "system": "Rattatak system",
+    "coordinates": "H-16",
+    "moons": "At least 1",
+    "routes": "Batuu–Ponemah hyperlane",
+    "terrain": "Mountains",
+    "interest": [
+      "Barterus",
+      "A gladiatorial arena"
+    ],
+    "fauna": [
+      "Rattataki Trogodile",
+      "Rattatakian redjacket"
+    ],
+    "otherspecies": [
+      "Dathomirian",
+      "Human",
+      "Kerch Kushi's species",
+      "Siniteen",
+      "Voe Atell's species",
+      "Weequays"
+    ],
+    "government": "Warlords",
+    "demonym": [
+      "Rattataki",
+      "Rattatakian"
+    ],
+    "cities": "Velenki",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rattataki",
+      "directory": "Rattataki (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Trogodile",
+      "directory": "Trogodile",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Vollick",
+      "directory": "Vollick (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rattatak",
+    "x": -5550.7,
+    "y": -9132.4,
+    "z": 385.2,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Hishyim",
+  "wookieepedia_title": "Hishyim",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hishyim",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hishyim was a planet covered by a vast desert, located in the Abrion sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Hishyim was a planet covered by a vast desert, located in the Abrion sector of the Outer Rim Territories.",
+    "It was the site of an Imperial patrol station during the Thrawn crisis."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Hishyim",
+    "region": "Outer Rim Territories",
+    "sector": "Abrion sector",
+    "system": "Hishyim system",
+    "coordinates": "S-15",
+    "routes": "Manda Merchant Route",
+    "terrain": "Deserts",
+    "interest": "Imperial patrol station",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Hishyim",
+    "x": 10611.9,
+    "y": -7648.4,
+    "z": -406.0,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

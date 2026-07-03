@@ -1,0 +1,39 @@
+{
+  "name": "Lorista",
+  "wookieepedia_title": "Lorista",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lorista",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lorista was a terrestrial planet located in the Lorista system, a part of the Glythe sector in the New Territories portion of the Mid Rim. Its surface featured wastelands in which grew the flith flower, and it was also home to the vicious predatory creature bruth.",
+  "lead_paragraphs": [
+    "Lorista was a terrestrial planet located in the Lorista system, a part of the Glythe sector in the New Territories portion of the Mid Rim. Its surface featured wastelands in which grew the flith flower, and it was also home to the vicious predatory creature bruth.",
+    "At some point, Lorista was colonized by members of the Zabrak species from the Glythe sector planet Iridonia. Loristan colonists eventually domesticated the bruth."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lorista",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Glythe sector",
+    "system": "Lorista system",
+    "coordinates": "J-7",
+    "class": "Terrestrial",
+    "terrain": "Wastelands",
+    "flora": "Flith",
+    "fauna": "Bruth",
+    "otherspecies": "Zabraks",
+    "demonym": "Loristan"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lorista",
+    "x": 3286.2,
+    "y": -11045.8,
+    "z": 213.2,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

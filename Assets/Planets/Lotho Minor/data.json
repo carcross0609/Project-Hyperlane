@@ -1,0 +1,78 @@
+{
+  "name": "Lotho Minor",
+  "wookieepedia_title": "Lotho Minor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lotho_Minor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Lotho Minor, also known as the Junk World, was a ruined planet in the Lotho Minor system in the Outer Rim Territories' Wazta sector that was the homeworld of the mysterious society known as the Junkers. It was discovered early in the history of the Galactic Republic. As one of the galaxy's dumping grounds, Lotho Minor's surface was covered with mountains of trash amassed over untold generations, which brought salvage operations to the planet in search of machinery that could still be repurposed. Planets such as Naboo dumped their trash there.",
+  "lead_paragraphs": [
+    "Lotho Minor, also known as the Junk World, was a ruined planet in the Lotho Minor system in the Outer Rim Territories' Wazta sector that was the homeworld of the mysterious society known as the Junkers. It was discovered early in the history of the Galactic Republic. As one of the galaxy's dumping grounds, Lotho Minor's surface was covered with mountains of trash amassed over untold generations, which brought salvage operations to the planet in search of machinery that could still be repurposed. Planets such as Naboo dumped their trash there.",
+    "Following his defeat at the Battle of Naboo, with his body shattered, the Sith Lord Darth Maul went into exile in the bowels of Lotho Minor, where he lost his mind. To escape the planet, he sent out a transmission, offering a great sum of credits for the capture of himself in hopes of luring a starship that he could escape in. The transmission was intercepted by the droid Captain Spikewheel and her crew of scavenger hopefuls; however, Maul's attempt to flee the planet failed.",
+    "The crazed Sith was eventually found by his brother, Savage Opress, over a decade after the former's defeat on Naboo. During the Galactic Civil War, the Duros Akar Duel ruled over a collection of monster droids built from Lotho Minor's scrap and claimed the planet as his own, but his servants turned against him and gained their freedom following an encounter with the Rebel Alliance droid C-3PO."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Galactic dumping ground",
+    "  Darth Maul's exile",
+    "  Brothers reunited",
+    "  Planet of misfit droids",
+    "  Deadly encounters",
+    "  The New Republic Era",
+    "Inhabitants",
+    "Locations",
+    "  Appearance and conception",
+    "  Inconsistencies"
+  ],
+  "data": {
+    "name": "Lotho Minor",
+    "region": "Outer Rim Territories",
+    "sector": "Wazta sector",
+    "system": "Lotho Minor system",
+    "coordinates": "I-17",
+    "suns": "Lotho",
+    "routes": "Koda Spur",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot with acid rain",
+    "terrain": [
+      "Junkyard",
+      "Junk mountains",
+      "Caverns",
+      "Tunnels"
+    ],
+    "interest": [
+      "Darth Maul's lair",
+      "Wreck Belt (in orbit)"
+    ],
+    "fauna": "Vermin",
+    "species": "Junkers",
+    "otherspecies": [
+      "Anacondan",
+      "Dathomirian Zabrak",
+      "Duros"
+    ],
+    "affiliation": "Neutral"
+  },
+  "homeworld_of": [
+    {
+      "name": "Junker",
+      "directory": "Junker",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Junker",
+      "directory": "Junker (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lotho Minor",
+    "x": -3164.9,
+    "y": -11894.1,
+    "z": -127.4,
+    "region": "Outer Rim",
+    "grid": "I-17"
+  },
+  "scraped": "2026-07-03"
+}

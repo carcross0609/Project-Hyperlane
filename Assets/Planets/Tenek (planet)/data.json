@@ -1,0 +1,56 @@
+{
+  "name": "Tenek",
+  "wookieepedia_title": "Tenek (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tenek_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tenek was a forested planet with an electrically charged atmosphere that was located in the Mid Rim's Manda sector. It was home to vinna trees, the metallic bark of which conducted lightning strikes into the ground where the electrical charge was subsequently fed upon by the worms known as Raen sovra. The burrowing of the sovra in the soil surrounding the vinna trees' roots in turn contributed to an increased fertility in Tenek's forests.",
+  "lead_paragraphs": [
+    "Tenek was a forested planet with an electrically charged atmosphere that was located in the Mid Rim's Manda sector. It was home to vinna trees, the metallic bark of which conducted lightning strikes into the ground where the electrical charge was subsequently fed upon by the worms known as Raen sovra. The burrowing of the sovra in the soil surrounding the vinna trees' roots in turn contributed to an increased fertility in Tenek's forests.",
+    "The planet was also inhabited by several forms of the carnivorous somago creatures, which preyed upon Tenek's herbivores. Both sovra and the somagos eventually spread off-world, with the former becoming a significant pest in the wider galaxy due to their feeding on electricity and metal. As a result, Tenek and the rest of its star system had been placed under quarantine by the time of the reign of the Galactic Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "  Electric forests",
+    "  Net-shaped hunters",
+    "History",
+    "  Origin of a pest",
+    "  Unusual species"
+  ],
+  "data": {
+    "name": "Tenek",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Manda sector",
+    "system": "Mis-Tenek system",
+    "coordinates": "S-15",
+    "class": "Terrestrial",
+    "atmosphere": "Electrically charged",
+    "terrain": [
+      "Forests",
+      "Grasslands"
+    ],
+    "flora": "Vinna tree",
+    "fauna": [
+      "Flat sheet somago",
+      "Flying creatures",
+      "Helmet somago",
+      "Raen sovra",
+      "Saddle somago",
+      "Tapestry somago",
+      "Til and other, smaller herbivores"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tenek",
+    "x": 11198.4,
+    "y": -8703.8,
+    "z": -206.5,
+    "region": "Mid Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

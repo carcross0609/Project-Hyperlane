@@ -1,0 +1,43 @@
+{
+  "name": "Ailon",
+  "wookieepedia_title": "Ailon/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ailon/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ailon was a heavily-fortified planet in the Ailon system of the Inner Rim.",
+  "lead_paragraphs": [
+    "Ailon was a heavily-fortified planet in the Ailon system of the Inner Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ailon",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Ailon system",
+    "coordinates": "N-12",
+    "class": "Terrestrial",
+    "species": "Ailon",
+    "population": "500 million to 1 billion",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ailon",
+      "directory": "Ailon (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ailon",
+    "x": 3881.9,
+    "y": -3652.6,
+    "z": 10.9,
+    "region": "Inner Rim",
+    "grid": "N-12"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Isis",
+  "wookieepedia_title": "Isis/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Isis/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Isis was a terrestrial planet in the Anoat sector of the Outer Rim Territories. The homeworld of the Gutretee, it was a secret Rebel Alliance safe world during the Galactic Civil War, and later became one of the Mining Worlds under the control of the Figg conglomerate.",
+  "lead_paragraphs": [
+    "Isis was a terrestrial planet in the Anoat sector of the Outer Rim Territories. The homeworld of the Gutretee, it was a secret Rebel Alliance safe world during the Galactic Civil War, and later became one of the Mining Worlds under the control of the Figg conglomerate."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "  Gutretees",
+    "  Humans"
+  ],
+  "data": {
+    "name": "Isis",
+    "region": [
+      "Outer Rim Territories",
+      "Greater Javin"
+    ],
+    "sector": "Anoat sector",
+    "system": "Isis system",
+    "coordinates": "K-18",
+    "suns": "1",
+    "lengthday": "24 standard hours",
+    "lengthyear": "400 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable for humans)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Crystal valleys",
+    "species": "Gutretees",
+    "otherspecies": "Humans",
+    "language": [
+      "Gutretee language",
+      "Galactic Basic Standard"
+    ],
+    "government": "Local councils",
+    "population": [
+      "2 million Gutretees",
+      "100,000 Humans"
+    ],
+    "cities": "Neskroff",
+    "imports": "Foodstuffs",
+    "exports": "Starfighters",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gutretee",
+      "directory": "Gutretee (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

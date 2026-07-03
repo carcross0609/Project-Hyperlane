@@ -1,0 +1,52 @@
+{
+  "name": "Lutrillia",
+  "wookieepedia_title": "Lutrillia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lutrillia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Lutrillia was a planet in the Yarith sector, a subsector of the Javin sector of the Western Reaches portion of the Outer Rim Territories. Situated at the coordinates J-18 on the Standard Galactic Grid, it was connected by hyperspace route to the astronomical objects Lorta, Thune, and Gerrenthum, the latter being a junction with the Rimma Trade Route. Lutrillia was the homeworld of the Lutrillian species, and such was noted in at some point in an entry of an artist's journal dedicated to the species. The entry was part of a section in the book that described sentient species originating from dry habitats. The journal was restored, expanded, and displayed at the Graf Archive at some point no earlier than 34 ABY.",
+  "lead_paragraphs": [
+    "Lutrillia was a planet in the Yarith sector, a subsector of the Javin sector of the Western Reaches portion of the Outer Rim Territories. Situated at the coordinates J-18 on the Standard Galactic Grid, it was connected by hyperspace route to the astronomical objects Lorta, Thune, and Gerrenthum, the latter being a junction with the Rimma Trade Route. Lutrillia was the homeworld of the Lutrillian species, and such was noted in at some point in an entry of an artist's journal dedicated to the species. The entry was part of a section in the book that described sentient species originating from dry habitats. The journal was restored, expanded, and displayed at the Graf Archive at some point no earlier than 34 ABY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lutrillia",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Javin sector",
+      "  Yarith sector"
+    ],
+    "system": "Lutrillia system",
+    "coordinates": "J-18",
+    "routes": [
+      "Koda Spur",
+      "Lutrillian Cross"
+    ],
+    "species": "Lutrillian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Lutrillian",
+      "directory": "Lutrillian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Lutrillian",
+      "directory": "Lutrillian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lutrillia",
+    "x": -1640.3,
+    "y": -12658.7,
+    "z": -451.1,
+    "region": "Outer Rim",
+    "grid": "J-18"
+  },
+  "scraped": "2026-07-03"
+}

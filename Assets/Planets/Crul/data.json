@@ -1,0 +1,55 @@
+{
+  "name": "Crul",
+  "wookieepedia_title": "Crul",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crul",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Crul was a planet located in the galaxy's Mid Rim that was covered in warm, shallow, and salty seas and lagoons. It was the homeworld of two sentient species: the Crolutes, who were exclusively male, and the Gilliands, who were exclusively female.",
+  "lead_paragraphs": [
+    "Crul was a planet located in the galaxy's Mid Rim that was covered in warm, shallow, and salty seas and lagoons. It was the homeworld of two sentient species: the Crolutes, who were exclusively male, and the Gilliands, who were exclusively female."
+  ],
+  "article_sections": [
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Crul",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Lannik Wilds sector",
+    "system": "Crul system",
+    "coordinates": "R-13",
+    "routes": "Bothawui–Daalang hyperlane",
+    "terrain": [
+      "Lagoons",
+      "Shallow seas"
+    ],
+    "fauna": "Crolute precursor species",
+    "species": [
+      "Crolute",
+      "Gilliand"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Crolute",
+      "directory": "Crolute",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gilliand",
+      "directory": "Gilliand",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Crul",
+    "x": 2170.7,
+    "y": -2717.1,
+    "z": -61.7,
+    "region": "Mid Rim",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

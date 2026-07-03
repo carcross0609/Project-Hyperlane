@@ -1,0 +1,49 @@
+{
+  "name": "Talay",
+  "wookieepedia_title": "Talay/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Talay/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Talay was a oceanic planet located in the Mid Rim.",
+  "lead_paragraphs": [
+    "Talay was a oceanic planet located in the Mid Rim."
+  ],
+  "article_sections": [
+    "History",
+    "  Great Galactic War",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Talay",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Dufilvian sector",
+    "system": "Talay system",
+    "coordinates": "Q-16",
+    "class": "Terrestrial",
+    "terrain": "Oceans",
+    "interest": "Tak Base",
+    "otherspecies": [
+      "Humans",
+      "Formerly: Mon Calamari"
+    ],
+    "language": "Galactic Basic Standard",
+    "cities": "Talay",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Talay",
+    "x": 8881.0,
+    "y": -9171.8,
+    "z": 4.2,
+    "region": "Mid Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

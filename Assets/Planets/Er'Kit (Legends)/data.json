@@ -1,0 +1,58 @@
+{
+  "name": "Er'Kit",
+  "wookieepedia_title": "Er'Kit/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Er%27Kit/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Er'Kit was an Outer Rim Territories planet located in the Noonian sector. It was the homeworld of the sentient Er'Kit species and in 22 BBY was represented in the Senate of the Galactic Republic by Senator Danry Ledwellow. Remaining a part of the Republic during the subsequent Clone Wars, Er'Kit also was a member of the Republic's successor, the Galactic Empire, with the future Imperial Navy officers Treuten and Kosh Teradoc hailing from the planet. After the Battle of Endor of 4 ABY, Er'Kit was a member of various Imperial splinter factions, including the Imperial Remnant.",
+  "lead_paragraphs": [
+    "Er'Kit was an Outer Rim Territories planet located in the Noonian sector. It was the homeworld of the sentient Er'Kit species and in 22 BBY was represented in the Senate of the Galactic Republic by Senator Danry Ledwellow. Remaining a part of the Republic during the subsequent Clone Wars, Er'Kit also was a member of the Republic's successor, the Galactic Empire, with the future Imperial Navy officers Treuten and Kosh Teradoc hailing from the planet. After the Battle of Endor of 4 ABY, Er'Kit was a member of various Imperial splinter factions, including the Imperial Remnant."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Er'Kit",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Noonian sector",
+    "system": "Er'Kit system",
+    "coordinates": "M-6",
+    "routes": "Braxant Run",
+    "class": "Terrestrial",
+    "terrain": "Urban",
+    "species": "Er'Kit",
+    "otherspecies": "Humans",
+    "population": "1–10 million (Er'Kit system) (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Er'Kit",
+      "directory": "Er'Kit (species)",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Er'Kit",
+      "directory": "Er'Kit (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Er'Kit",
+    "x": 2624.0,
+    "y": 4987.1,
+    "z": 205.3,
+    "region": "Outer Rim",
+    "grid": "M-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Expora",
+  "wookieepedia_title": "Expora",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Expora",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Expora was the first planet of the Chandrila system, located in the Bormea sector of the Ringali Shell in the Core Worlds. The planet orbited the star Chandrila and was composed of searing rock. Expora was the only one of the system's planets to have no moons. The entirety of the Chandrila system lay on the Perlemian Trade Route, which served as a dividing line between the Northern Dependencies and the Arrowhead portion of the Slice.",
+  "lead_paragraphs": [
+    "Expora was the first planet of the Chandrila system, located in the Bormea sector of the Ringali Shell in the Core Worlds. The planet orbited the star Chandrila and was composed of searing rock. Expora was the only one of the system's planets to have no moons. The entirety of the Chandrila system lay on the Perlemian Trade Route, which served as a dividing line between the Northern Dependencies and the Arrowhead portion of the Slice."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Expora",
+    "region": [
+      "Core Worlds",
+      "Northern Dependencies",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "sector": "Bormea sector",
+    "system": "Chandrila system",
+    "coordinates": "L-9",
+    "suns": "1: Chandrila",
+    "position": "1",
+    "moons": "0",
+    "routes": "Perlemian Trade Route",
+    "climate": "Searing",
+    "terrain": "Rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Expora",
+    "x": 230.2,
+    "y": 211.8,
+    "z": -47.0,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Paramatan",
+  "wookieepedia_title": "Paramatan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Paramatan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Paramatan was a primitive terrestrial world located in the Mid Rim's Senex sector. Its surface featured forests and jungles as well as plains and oceans. The world's fauna included birds, reptiles, and great oopiks, a species having both avian and reptilian traits. The oopiks were a relic species of flightless creatures that made their home in the Paramatan fruit trees of the continent of Grxy. Paramatan was discovered by scouts of the aristocratic House Elegin and eventually came to be used by the nobles of the Senex-Juvex region as a destination for hunting safaris.",
+  "lead_paragraphs": [
+    "Paramatan was a primitive terrestrial world located in the Mid Rim's Senex sector. Its surface featured forests and jungles as well as plains and oceans. The world's fauna included birds, reptiles, and great oopiks, a species having both avian and reptilian traits. The oopiks were a relic species of flightless creatures that made their home in the Paramatan fruit trees of the continent of Grxy. Paramatan was discovered by scouts of the aristocratic House Elegin and eventually came to be used by the nobles of the Senex-Juvex region as a destination for hunting safaris."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Paramatan",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Paramatan system",
+    "coordinates": "L-17",
+    "suns": "At least 1",
+    "class": "Terrestrial",
+    "terrain": [
+      "Forests",
+      "Jungles",
+      "Plains"
+    ],
+    "water": "Oceans",
+    "interest": "Grxy",
+    "flora": "Paramatan fruit tree",
+    "fauna": [
+      "Birds",
+      "Great oopik",
+      "Reptiles"
+    ],
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Paramatan",
+    "x": 392.2,
+    "y": -11826.2,
+    "z": 110.5,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

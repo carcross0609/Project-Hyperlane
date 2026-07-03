@@ -1,0 +1,75 @@
+{
+  "name": "Shili",
+  "wookieepedia_title": "Shili/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shili/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shili was the homeworld of the Togruta located in the Ehosiq sector.",
+  "lead_paragraphs": [
+    "Shili was the homeworld of the Togruta located in the Ehosiq sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Shili",
+    "region": [
+      "Expansion Region",
+      "Northern Dependencies"
+    ],
+    "sector": "Ehosiq sector",
+    "system": "Shili system",
+    "coordinates": "L-8",
+    "suns": "1",
+    "moons": "6",
+    "atmosphere": "Oxygen mix",
+    "climate": "Temperate",
+    "terrain": [
+      "Cities",
+      "Savannahs",
+      "Seas",
+      "Plains",
+      "Rainforest valleys",
+      "Mountains"
+    ],
+    "flora": "Turu-grass",
+    "fauna": [
+      "Akul",
+      "Thimiar"
+    ],
+    "species": "Togruta",
+    "otherspecies": [
+      "Human",
+      "Twi'lek"
+    ],
+    "language": "Togruti",
+    "population": "10 billion to 100 billion (c. 25 ABY)",
+    "cities": "Corvala (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Togruta",
+      "directory": "Togruta",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Togruta",
+      "directory": "Togruta (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Shili",
+    "x": 1054.1,
+    "y": 2844.7,
+    "z": -19.8,
+    "region": "Expansion Region",
+    "grid": "L-8"
+  },
+  "scraped": "2026-07-03"
+}

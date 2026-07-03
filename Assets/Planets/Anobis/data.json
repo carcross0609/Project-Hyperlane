@@ -1,0 +1,60 @@
+{
+  "name": "Anobis",
+  "wookieepedia_title": "Anobis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anobis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Anobis was a terrestrial planet located into the Anobis system of the Bright Jewel sector in the Mid Rim Territories. It was located near Ord Mantell and was primarily known as an agriworld and a mining colony, providing major foodstuffs to the nearby and more distant star systems.",
+  "lead_paragraphs": [
+    "Anobis was a terrestrial planet located into the Anobis system of the Bright Jewel sector in the Mid Rim Territories. It was located near Ord Mantell and was primarily known as an agriworld and a mining colony, providing major foodstuffs to the nearby and more distant star systems."
+  ],
+  "article_sections": [
+    "Characteristics",
+    "History"
+  ],
+  "data": {
+    "name": "Anobis",
+    "region": "Mid Rim",
+    "sector": "Bright Jewel sector",
+    "system": "Anobis system",
+    "coordinates": "L-7",
+    "suns": "One unnamed sun",
+    "moons": "2",
+    "class": "Terrestrial",
+    "gravity": "Standard",
+    "terrain": [
+      "Fields",
+      "Mountains",
+      "Plains",
+      "Forests"
+    ],
+    "fauna": "Knaar",
+    "otherspecies": [
+      "Human",
+      "Zabrak"
+    ],
+    "language": "Galactic Basic Standard",
+    "imports": [
+      "Basic supplies",
+      "Equipment",
+      "Foodstuffs",
+      "Weapons"
+    ],
+    "exports": [
+      "Agricultural goods",
+      "Crystals",
+      "Minerals"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Anobis",
+    "x": 262.3,
+    "y": 3627.9,
+    "z": -8.8,
+    "region": "Mid Rim",
+    "grid": "L-7"
+  },
+  "scraped": "2026-07-03"
+}

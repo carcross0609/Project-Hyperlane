@@ -1,0 +1,50 @@
+{
+  "name": "Ensolica",
+  "wookieepedia_title": "Ensolica",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ensolica",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ensolica was a planet of ice and tundra located in the Core Worlds. It was the homeworld of the near-Human Enso species, members of which were experts in hydroponics. The Enso offworld merchant Teyora Rekab hailed from Ensolica.",
+  "lead_paragraphs": [
+    "Ensolica was a planet of ice and tundra located in the Core Worlds. It was the homeworld of the near-Human Enso species, members of which were experts in hydroponics. The Enso offworld merchant Teyora Rekab hailed from Ensolica."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Ensolica",
+    "region": [
+      "Core Worlds",
+      "The Negs"
+    ],
+    "system": "Ensolica system",
+    "coordinates": "K-10",
+    "class": "Terrestrial",
+    "climate": "Frigid",
+    "terrain": [
+      "Equatorial coniferous forests",
+      "Ice wastes",
+      "Tundra"
+    ],
+    "flora": "Coniferous trees",
+    "species": "Enso"
+  },
+  "homeworld_of": [
+    {
+      "name": "Enso",
+      "directory": "Enso (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ensolica",
+    "x": 1377.5,
+    "y": 62.7,
+    "z": -24.9,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

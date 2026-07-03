@@ -1,0 +1,70 @@
+{
+  "name": "Aaris III",
+  "wookieepedia_title": "Aaris III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aaris_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aaris III was a planet located in the Kathol sector of the Outer Rim Territories. Covered in jungle, it was connected to the worlds of Charis, Kolatill and Brolsam via hyperlanes. Aaris III was the homeworld of the Aaris species, a race of reptilian humanoids whose society flourished several thousand years before the Galactic Civil War. Their civilization was almost totally destroyed after a destructive civil war, perpetrated by the Plaque of Victory, an inanimate but sentient relic that could manipulate the feelings of those around it, turning them suspicious, violent and homicidal. The Aaris's cities fell into ruin and were reclaimed by the jungle, and their primitive descendants inhabited the hidden ruins.",
+  "lead_paragraphs": [
+    "Aaris III was a planet located in the Kathol sector of the Outer Rim Territories. Covered in jungle, it was connected to the worlds of Charis, Kolatill and Brolsam via hyperlanes. Aaris III was the homeworld of the Aaris species, a race of reptilian humanoids whose society flourished several thousand years before the Galactic Civil War. Their civilization was almost totally destroyed after a destructive civil war, perpetrated by the Plaque of Victory, an inanimate but sentient relic that could manipulate the feelings of those around it, turning them suspicious, violent and homicidal. The Aaris's cities fell into ruin and were reclaimed by the jungle, and their primitive descendants inhabited the hidden ruins.",
+    "Four years after the death of Emperor Palpatine at Endor, Aaris III came to the interest of Moff Kentor Sarne, an Imperial warlord who ruled the Kathol sector following the fragmentation of the Empire. He dispatched a science team to the planet under the command of Doctor Lancer Brunou to investigate the ruins. While on the surface, the team uncovered the Plaque of Victory, and its influence slowly began to manipulate the team, increasing their paranoia and hostility. The team was attacked by descendants of the Aaris, and Doctor Brunou sent out a distress call to Sarne's capital on Kal'Shebbol, hoping for rescue. After a few days, only three members of the team were left.",
+    "Brunou's distress signal was intercepted by the FarStar, a New Republic CR90 corvette. During the time that the science team had been on Aaris III, Kal'Shebbol had fallen to the New Republic. The commander of the FarStar, Captain Kaiya Adrimetrum, diverted to Aaris III to investigate the science team's presence on the world and render aid. During rescue operations, the crew of the FarStar came under the influence of the Plaque of Victory after it was brought aboard by one of the survivors. Unlike the science team, however, they soon realized the cause of the negative feelings running through the ship and jettisoned the artifact into space."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The Aaris civilization",
+    "  Imperial interest",
+    "    Discovery",
+    "    Unearthing the Plaque of Victory",
+    "    Rescue",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Aaris III",
+    "region": "Outer Rim Territories",
+    "sector": "Kathol sector",
+    "system": "Aaris system",
+    "coordinates": "M-21",
+    "lengthday": "19 standard hours",
+    "lengthyear": "299 standard days",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Moist",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert",
+      "Jungle",
+      "Mountains",
+      "Ruins"
+    ],
+    "water": "Oceans",
+    "interest": "Place of Kastays",
+    "fauna": [
+      "Mammals",
+      "Reptiles"
+    ],
+    "species": "Aaris",
+    "cities": "City of Kastays",
+    "affiliation": [
+      "Aaris civilization",
+      "Sith Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Aaris",
+      "directory": "Aaris",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aaris III",
+    "x": 2583.8,
+    "y": -16641.1,
+    "z": -80.7,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

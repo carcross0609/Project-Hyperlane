@@ -1,0 +1,81 @@
+{
+  "name": "Lamaredd",
+  "wookieepedia_title": "Lamaredd/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lamaredd/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lamaredd, also known as Great Menahua, was a planet in the Lamaro system of Wild Space. With water covering 85% of its surface, Lamaredd was rich in minerals and seafood, as well as having its own native sentient species, the primitive Menahuun.",
+  "lead_paragraphs": [
+    "Lamaredd, also known as Great Menahua, was a planet in the Lamaro system of Wild Space. With water covering 85% of its surface, Lamaredd was rich in minerals and seafood, as well as having its own native sentient species, the primitive Menahuun.",
+    "In 500 BBY, Hugo Bartyn, an agent of the Outer Rim Oreworks Company, claimed the planet to exploit it for its industrial use. ORO then named him the local Administrator of Lamaredd. After getting rid of the Menahuun, Bartyn made good use of this time to create a fishing community, Bartyn's Landing, populated by indentured servants of amphibious species who fished for him. Eventually, these people were released from their servitude, but most of them remained on the planet. Soon after the battle of Naboo, the believed-dead Menahuun, who had turned into an aggressive civilization, reappeared.",
+    "Later, the Galactic Empire sent a number of troops to this planet. Lamaredd was left untouched during the Yuuzhan Vong War."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Soon after the Battle of Naboo",
+    "Inhabitants",
+    "Locations",
+    "  Alternate endings"
+  ],
+  "data": {
+    "name": "Lamaredd",
+    "region": "Wild Space",
+    "system": "Lamaro system",
+    "coordinates": "S-18",
+    "suns": "1: Lamaro",
+    "position": "3",
+    "terrain": "Aquatic",
+    "water": "85%",
+    "interest": [
+      "Little Mon Cal",
+      "ORO Mining Station LM0228",
+      "The Rank"
+    ],
+    "flora": "Vaffu tree",
+    "species": [
+      "Menahuun"
+    ],
+    "otherspecies": [
+      "Aqualish",
+      "Chagrian",
+      "Gungan",
+      "Human",
+      "Ithorian",
+      "Mon Calamari",
+      "Rodian",
+      "Quarren",
+      "Talz"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Menahu"
+    ],
+    "cities": [
+      "Bartyn's Landing",
+      "Cape Regret",
+      "Farsands",
+      "The Shoals"
+    ],
+    "affiliation": [
+      "Bartyn Gourmet Delicacies",
+      "Outer Rim Oreworks Company"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Menahuun",
+      "directory": "Menahuun",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lamaredd",
+    "x": 11266.8,
+    "y": -12582.5,
+    "z": -36.9,
+    "region": "Wild Space",
+    "grid": "S-18"
+  },
+  "scraped": "2026-07-03"
+}

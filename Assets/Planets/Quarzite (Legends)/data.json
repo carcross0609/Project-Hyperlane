@@ -1,0 +1,76 @@
+{
+  "name": "Quarzite",
+  "wookieepedia_title": "Quarzite/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quarzite/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Quarzite was a planet composed of crystalline caves and with a surface that was strained by strong atmospheric pressure, with the ability to crush starships and flatten beings. During the Clone Wars, the planet was ruled by the tyrannical Belugan Otua Blank, who was involved in a battle with the natives on the planet, the Kage Warriors.",
+  "lead_paragraphs": [
+    "Quarzite was a planet composed of crystalline caves and with a surface that was strained by strong atmospheric pressure, with the ability to crush starships and flatten beings. During the Clone Wars, the planet was ruled by the tyrannical Belugan Otua Blank, who was involved in a battle with the natives on the planet, the Kage Warriors."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Quarzite",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Quarzite system",
+    "coordinates": "M-13",
+    "class": "Terrestrial",
+    "atmosphere": [
+      "Type IV (surface)",
+      "Type I (caves)"
+    ],
+    "terrain": [
+      "Pressurized surface",
+      "Crystalline caverns"
+    ],
+    "interest": [
+      "Otua Blank's fortress",
+      "Quarzite space station"
+    ],
+    "fauna": "Milodon",
+    "species": [
+      "Belugan",
+      "Kage"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Dictatorship",
+    "affiliation": "Neutral"
+  },
+  "homeworld_of": [
+    {
+      "name": "Belugan",
+      "directory": "Belugan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Belugan",
+      "directory": "Belugan (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kage",
+      "directory": "Kage",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kage",
+      "directory": "Kage (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Quarzite",
+    "x": 2845.4,
+    "y": -5562.9,
+    "z": -41.4,
+    "region": "Inner Rim",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

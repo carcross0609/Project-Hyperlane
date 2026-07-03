@@ -1,0 +1,53 @@
+{
+  "name": "Arkinnea",
+  "wookieepedia_title": "Arkinnea",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arkinnea",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arkinnea was a planet that was located in the Axion sector in the Expansion Region of space. The planet suffered at the hands of the Separatists and at the end of the Clone Wars, it was overrun with refugees. The local militia was very hostile to refugees, in particular to those that might affiliated with the CIS. Despite promises to said refugees to offer them land on Arkinnea to start their lives anew, the militia systematically murdered many refugees by loading them onto ships, then dumping them out hundreds of feet in the air to their deaths.",
+  "lead_paragraphs": [
+    "Arkinnea was a planet that was located in the Axion sector in the Expansion Region of space. The planet suffered at the hands of the Separatists and at the end of the Clone Wars, it was overrun with refugees. The local militia was very hostile to refugees, in particular to those that might affiliated with the CIS. Despite promises to said refugees to offer them land on Arkinnea to start their lives anew, the militia systematically murdered many refugees by loading them onto ships, then dumping them out hundreds of feet in the air to their deaths.",
+    "In 19 BBY, Jedi Master K'Kruhk, padawan Chase Piru and the rest of the younglings under his protection were shot down over the planet and placed in a holding center after being captured by the local militia. After meeting another survivor, Master Zao, the group of Jedi discovered an abandoned Jedi Outpost and with the help of the native Yunu used it as a shelter during the Great Jedi Purge."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Arkinnea",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Axion sector",
+    "system": "Arkinnea system",
+    "coordinates": "P-10",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "interest": [
+      "Arkinnea refugee camp",
+      "Hidden Temple"
+    ],
+    "flora": "Beelpop melons",
+    "fauna": "Nerfs",
+    "species": "Yunu",
+    "otherspecies": "Humans",
+    "affiliation": [
+      "Galactic Empire",
+      "  Arkinnea Militia"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Yunu",
+      "directory": "Yunu",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Arkinnea",
+    "x": 6955.1,
+    "y": -719.6,
+    "z": -86.8,
+    "region": "Expansion Region",
+    "grid": "P-10"
+  },
+  "scraped": "2026-07-03"
+}

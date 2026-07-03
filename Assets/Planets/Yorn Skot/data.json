@@ -1,0 +1,52 @@
+{
+  "name": "Yorn Skot",
+  "wookieepedia_title": "Yorn Skot",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yorn_Skot",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yorn Skot was a gas giant in the Yorn Skot system near Dargulli. It was a natural source of non-spinsealed tibanna gas.",
+  "lead_paragraphs": [
+    "Yorn Skot was a gas giant in the Yorn Skot system near Dargulli. It was a natural source of non-spinsealed tibanna gas."
+  ],
+  "article_sections": [
+    "History",
+    "  Galactic Republic",
+    "  Galactic Empire",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Yorn Skot",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Yorn Skot system",
+    "coordinates": "N-14",
+    "moons": "3",
+    "class": "Gas giant",
+    "atmosphere": "Tibanna",
+    "interest": "Yorn Skot repulsor platform",
+    "otherspecies": [
+      "Clode Rhoden's species",
+      "Various others"
+    ],
+    "cities": "Yorn Skot mining station",
+    "exports": "Tibanna"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified green-finned species",
+      "directory": "Unidentified green-finned species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yorn Skot",
+    "x": 3333.3,
+    "y": -6516.1,
+    "z": 161.1,
+    "region": "Inner Rim",
+    "grid": "N-14"
+  },
+  "scraped": "2026-07-03"
+}

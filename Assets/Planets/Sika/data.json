@@ -1,0 +1,41 @@
+{
+  "name": "Sika",
+  "wookieepedia_title": "Sika",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sika",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sika was a planet in the Expansion Region that was invaded by opportunistic Chekut forces during the Second Galactic Civil War. It was home to the Sikan.",
+  "lead_paragraphs": [
+    "Sika was a planet in the Expansion Region that was invaded by opportunistic Chekut forces during the Second Galactic Civil War. It was home to the Sikan."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sika",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Brevost sector",
+    "system": "Sika system",
+    "coordinates": "O-15",
+    "routes": "Harrin Trade Corridor",
+    "species": "Sikan",
+    "affiliation": "Galactic Federation of Free Alliances"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sikan",
+      "directory": "Sikan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sika",
+    "x": 5198.6,
+    "y": -7694.4,
+    "z": -97.2,
+    "region": "Expansion Region",
+    "grid": "O-15"
+  },
+  "scraped": "2026-07-03"
+}

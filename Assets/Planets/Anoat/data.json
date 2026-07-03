@@ -1,0 +1,66 @@
+{
+  "name": "Anoat",
+  "wookieepedia_title": "Anoat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anoat",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Anoat was a planet located in the Anoat system of the Outer Rim Territories. It was once a sprawling city-world that, as seat of the Nothoiin Noble Court, was the capital of the Anoat sector. However, after being gassed by the Galactic Empire, the planet was polluted and largely abandoned.",
+  "lead_paragraphs": [
+    "Anoat was a planet located in the Anoat system of the Outer Rim Territories. It was once a sprawling city-world that, as seat of the Nothoiin Noble Court, was the capital of the Anoat sector. However, after being gassed by the Galactic Empire, the planet was polluted and largely abandoned."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Anoat",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Javin sector",
+      "  Anoat sector"
+    ],
+    "system": "Anoat system",
+    "coordinates": "K-18",
+    "xyz": "-95.11, -854.14, 6.21",
+    "suns": "1: Anoat's star",
+    "moons": "1",
+    "routes": [
+      "Incisor Sidestep",
+      "Corellian Trade Spine"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Polluted",
+    "climate": "Toxic",
+    "terrain": "Urban",
+    "interest": [
+      "Dissident base",
+      "Jedi shrine",
+      "Resistance Camp"
+    ],
+    "fauna": [
+      "Akk dog",
+      "Anoatian pit beast"
+    ],
+    "demonym": "Anoatian",
+    "affiliation": [
+      "Noble Court",
+      "Jedi Order",
+      "Galactic Empire",
+      "Resistance"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Anoat",
+    "x": -1428.3,
+    "y": -12811.1,
+    "z": -327.6,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

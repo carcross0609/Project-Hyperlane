@@ -1,0 +1,44 @@
+{
+  "name": "Firrerre",
+  "wookieepedia_title": "Firrerre",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Firrerre",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Firrerre was a world in the Outer Rim Territories' Sugai sector, a subsector of the Zuma sector. It was the site of a consular office for New Republic Space Ministry that issued the METOSP titled 558 ModSuFi, warning spacers to avoid the planet Jakku.",
+  "lead_paragraphs": [
+    "Firrerre was a world in the Outer Rim Territories' Sugai sector, a subsector of the Zuma sector. It was the site of a consular office for New Republic Space Ministry that issued the METOSP titled 558 ModSuFi, warning spacers to avoid the planet Jakku."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Firrerre",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Zuma sector",
+      "  Sugai sector"
+    ],
+    "system": "Firrerre system",
+    "coordinates": "H-16",
+    "class": "Terrestrial",
+    "interest": "New Republic Space Ministry Firrerre Office",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Firrerreo",
+      "directory": "Firrerreo (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Firrerre",
+    "x": -5420.3,
+    "y": -9827.6,
+    "z": -97.4,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

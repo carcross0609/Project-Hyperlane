@@ -1,0 +1,40 @@
+{
+  "name": "Ferxani",
+  "wookieepedia_title": "Ferxani",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ferxani",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ferxani was the fifth planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim Territories, it was a gas giant.",
+  "lead_paragraphs": [
+    "Ferxani was the fifth planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim Territories, it was a gas giant."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ferxani",
+    "region": [
+      "Inner Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Jaso sector",
+    "system": "Polith system",
+    "coordinates": "L-14",
+    "suns": "1: Polith",
+    "position": "6",
+    "moons": "33",
+    "routes": [
+      "Rimma Trade Route",
+      "Shapani Bypass"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ferxani",
+    "x": 857.0,
+    "y": -6606.7,
+    "z": 336.2,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

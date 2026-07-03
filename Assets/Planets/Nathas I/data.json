@@ -1,0 +1,46 @@
+{
+  "name": "Nathas I",
+  "wookieepedia_title": "Nathas I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nathas_I",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nathas I was a cold and airless rocky planet located in the Core Worlds' Questal sector. It was the homeworld of the silicon-based species of shape-shifters known as Proteans. Although seemingly primitive, they noted key historical events by carving stone pillars and placing them in prominent locations on their home planet. The Proteans were eventually discovered and briefly studied by scientists of the Galactic Empire.",
+  "lead_paragraphs": [
+    "Nathas I was a cold and airless rocky planet located in the Core Worlds' Questal sector. It was the homeworld of the silicon-based species of shape-shifters known as Proteans. Although seemingly primitive, they noted key historical events by carving stone pillars and placing them in prominent locations on their home planet. The Proteans were eventually discovered and briefly studied by scientists of the Galactic Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Nathas I",
+    "region": "Core Worlds",
+    "sector": "Questal sector",
+    "system": "Nathas system",
+    "coordinates": "J-12",
+    "position": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Airless",
+    "climate": "Cold",
+    "terrain": "Rocks",
+    "interest": "Protean stone pillars",
+    "species": "Proteans"
+  },
+  "homeworld_of": [
+    {
+      "name": "Protean",
+      "directory": "Protean",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nathas I",
+    "x": 9705.6,
+    "y": 5849.7,
+    "z": 387.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

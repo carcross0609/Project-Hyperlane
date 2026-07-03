@@ -1,0 +1,152 @@
+{
+  "name": "Kashyyyk",
+  "wookieepedia_title": "Kashyyyk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kashyyyk",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kashyyyk, also known as Planet Wookiee C to some humans in the Core Worlds, was a wroshyr tree-covered forest planet located in the southwestern quadrant of the galaxy and the homeworld of the Wookiee species. Four millennia before the Battle of Yavin, Kashyyyk was discovered by the Czerka Corporation, who enslaved the Wookiee population and renamed the planet G5-623, later to Edean. Using superior technology, the company managed to enslave the Wookiees until an uprising drove the oppressors away. During the Clone Wars, Kashyyyk was a member of the Galactic Republic, and endured enslavement under the Galactic Empire, the Republic's successor. Later, during the rise of the New Republic, Kashyyyk was liberated with the help of Republic forces led by Han Solo.",
+  "lead_paragraphs": [
+    "Kashyyyk, also known as Planet Wookiee C to some humans in the Core Worlds, was a wroshyr tree-covered forest planet located in the southwestern quadrant of the galaxy and the homeworld of the Wookiee species. Four millennia before the Battle of Yavin, Kashyyyk was discovered by the Czerka Corporation, who enslaved the Wookiee population and renamed the planet G5-623, later to Edean. Using superior technology, the company managed to enslave the Wookiees until an uprising drove the oppressors away. During the Clone Wars, Kashyyyk was a member of the Galactic Republic, and endured enslavement under the Galactic Empire, the Republic's successor. Later, during the rise of the New Republic, Kashyyyk was liberated with the help of Republic forces led by Han Solo."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The Zeffo and Czerka occupation",
+    "  Republic Era",
+    "  Clone Wars",
+    "  Imperial repression",
+    "  Galactic Civil War",
+    "  New Republic Era",
+    "  Target of the First Order",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Kashyyyk",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Mytaranor sector",
+    "system": "Kashyyyk system",
+    "coordinates": "P-9",
+    "suns": "1: Kashyyyk",
+    "moons": "3",
+    "routes": [
+      "Durkteel Loop",
+      "Great Kashyyyk Branch",
+      "Nightroad",
+      "Randon Run"
+    ],
+    "lengthday": "26 hours",
+    "lengthyear": "381 days",
+    "class": "Terrestrial",
+    "diameter": "12,765 kilometers",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Jungles",
+      "Mountains",
+      "Oceans",
+      "Swamps"
+    ],
+    "interest": [
+      "Ashmead's Lock",
+      "Kkowir Forest",
+      "Myyydril Caverns",
+      "Wawaatt Archipelago",
+      "Wartaki Islands",
+      "Black Forest",
+      "Garden Preserve",
+      "Imperial Work Settlement #121",
+      "Kashyyyk oil refinery",
+      "Lozen Tolruck's island fortress",
+      "River of Origin",
+      "Rowrakruk",
+      "Overgrown Pass",
+      "Kyyyalstaad Falls",
+      "Shadowlands",
+      "Origin Tree"
+    ],
+    "flora": [
+      "Bonshyyyr",
+      "Jaw plant",
+      "Kashyyyk orchidfern",
+      "Kshyyy-vine",
+      "Lung plant",
+      "Milk Grass",
+      "Needle blossom",
+      "Saava",
+      "Shi-shok tree",
+      "Syren plant",
+      "Wroshyr trees",
+      "Zha-raratha vine"
+    ],
+    "fauna": [
+      "Anakkona",
+      "Arrawtha-dyr",
+      "Can-cells",
+      "Flame beetle",
+      "Kabatha",
+      "Katarn",
+      "Kinrath",
+      "Kybuck",
+      "Mykal",
+      "Mylaya",
+      "Oevvaor",
+      "Shyyyo bird",
+      "Tach",
+      "Terentatek",
+      "Tree-burrower",
+      "Webweaver",
+      "Wyrm-weaver",
+      "Wyyyschokk"
+    ],
+    "otherlife": "Mushbloom",
+    "species": "Wookiee",
+    "language": "Shyriiwook",
+    "government": "Wookiee Council",
+    "population": "56,000,000",
+    "demonym": "Kashyyykian",
+    "cities": [
+      "Awrathakka",
+      "Kachirho (capital)",
+      "Kashyyyk Royal City",
+      "Kepitenochan",
+      "Palsaang",
+      "Rwookrrorro",
+      "Thikkiiana City"
+    ],
+    "imports": "Processed metals",
+    "exports": "Electronic components",
+    "affiliation": [
+      "Czerka Corporation",
+      "Galactic Republic",
+      "Galactic Empire (as a protectorate)",
+      "Alliance to Restore the Republic",
+      "Imperial territory G5-623",
+      "New Republic",
+      "First Order (occupation)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sayormi",
+      "directory": "Sayormi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Wookiee",
+      "directory": "Wookiee",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Kashyyyk",
+    "x": 7087.8,
+    "y": 167.5,
+    "z": -25.4,
+    "region": "Mid Rim",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

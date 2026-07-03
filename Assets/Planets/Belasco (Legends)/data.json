@@ -1,0 +1,48 @@
+{
+  "name": "Belasco",
+  "wookieepedia_title": "Belasco/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Belasco/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Belasco was a planet in the Expansion Region of the galaxy.",
+  "lead_paragraphs": [
+    "Belasco was a planet in the Expansion Region of the galaxy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Belasco",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Belasco sector",
+    "system": "Belasco system",
+    "coordinates": "O-11",
+    "routes": "Ootmian Pabol",
+    "interest": "Great Sea",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": [
+      "Monarchy (previously)",
+      "Democracy (as of 43 BBY)"
+    ],
+    "demonym": "Belascan",
+    "cities": "Senta (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Belasco",
+    "x": 5790.4,
+    "y": -2052.2,
+    "z": 190.9,
+    "region": "Expansion Region",
+    "grid": "O-11"
+  },
+  "scraped": "2026-07-03"
+}

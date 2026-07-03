@@ -1,0 +1,41 @@
+{
+  "name": "Vonak",
+  "wookieepedia_title": "Vonak",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vonak",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vonak was a planet home to the Cilare species which subscribed to martial values and savored combat around 25 ABY. It had wide open grassy plains and was home to canine and a reptilian species which were hunted by the warriors.",
+  "lead_paragraphs": [
+    "Vonak was a planet home to the Cilare species which subscribed to martial values and savored combat around 25 ABY. It had wide open grassy plains and was home to canine and a reptilian species which were hunted by the warriors."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vonak",
+    "region": "Outer Rim Territories",
+    "sector": "Dalonbian sector",
+    "system": "Vonak system",
+    "coordinates": "L-3",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "fauna": [
+      "Canines",
+      "Reptilians"
+    ],
+    "species": "Cilare",
+    "affiliation": [
+      "Cilare",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Cilare",
+      "directory": "Cilare (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

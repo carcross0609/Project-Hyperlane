@@ -1,0 +1,35 @@
+{
+  "name": "Kalidorn",
+  "wookieepedia_title": "Kalidorn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalidorn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kalidorn was a planet located in Wild Space. It was the homeworld of the Muttani.",
+  "lead_paragraphs": [
+    "Kalidorn was a planet located in Wild Space. It was the homeworld of the Muttani."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kalidorn",
+    "region": "Wild Space",
+    "system": "Kalidorn system",
+    "coordinates": "O-20",
+    "species": "Muttani"
+  },
+  "homeworld_of": [
+    {
+      "name": "Muttani",
+      "directory": "Muttani",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kalidorn",
+    "x": 5261.5,
+    "y": -15302.4,
+    "z": -53.0,
+    "region": "Wild Space",
+    "grid": "O-20"
+  },
+  "scraped": "2026-07-03"
+}

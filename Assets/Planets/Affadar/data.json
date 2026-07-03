@@ -1,0 +1,46 @@
+{
+  "name": "Affadar",
+  "wookieepedia_title": "Affadar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Affadar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Affadar was a largely undeveloped planet in the galaxy that was the homeworld of the T'Laeem, a sentient but primitive amphibian species. Shortly after the Battle of Yavin, the Galactic Empire set up a mining operation on the planet.",
+  "lead_paragraphs": [
+    "Affadar was a largely undeveloped planet in the galaxy that was the homeworld of the T'Laeem, a sentient but primitive amphibian species. Shortly after the Battle of Yavin, the Galactic Empire set up a mining operation on the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Affadar",
+    "region": [
+      "Expansion Region",
+      "The Interior"
+    ],
+    "sector": "Fellwe sector",
+    "system": "Affadar system",
+    "coordinates": "L-8",
+    "interest": [
+      "Pammur",
+      "  Affadar water purification plant",
+      "  Akagarti's residence"
+    ],
+    "species": "T'Laeem",
+    "otherspecies": "Human",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "T'Laeem",
+      "directory": "T'Laeem",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Affadar",
+    "x": 2658.7,
+    "y": -5524.7,
+    "z": 9.4,
+    "region": "Other",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

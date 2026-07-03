@@ -1,0 +1,66 @@
+{
+  "name": "Teth",
+  "wookieepedia_title": "Teth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Teth",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Teth was a jungle planet located in Wild Space of the galaxy. At some point, the world was inhabited by the B'omarr Order. However, by the time of the Clone Wars, their castles were abandoned, though some would be converted by the Hutts into formidable strongholds. Some distance from the B'omarr monasteries and the Tomb of Ziro the Hutt's father, an area of mysterious rock formations could be found on the surface of Teth.",
+  "lead_paragraphs": [
+    "Teth was a jungle planet located in Wild Space of the galaxy. At some point, the world was inhabited by the B'omarr Order. However, by the time of the Clone Wars, their castles were abandoned, though some would be converted by the Hutts into formidable strongholds. Some distance from the B'omarr monasteries and the Tomb of Ziro the Hutt's father, an area of mysterious rock formations could be found on the surface of Teth."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Colonization",
+    "  Mission to Teth",
+    "  The Clone Wars",
+    "  Imperial era",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Teth",
+    "region": [
+      "Wild Space",
+      "The Slice"
+    ],
+    "sector": "Baxel sector",
+    "system": "Teth system",
+    "coordinates": "U-12",
+    "suns": "1",
+    "moons": "2",
+    "routes": [
+      "Triellus Trade Route",
+      "Shag Pabol"
+    ],
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Jungle lowlands",
+      "Tall mesas"
+    ],
+    "interest": [
+      "B'omarr Order Monastery",
+      "Grakkus' safe house",
+      "Hutt palace of Teth",
+      "Tomb of Ziro the Hutt's father"
+    ],
+    "fauna": "Can-cell",
+    "otherspecies": "Hutt",
+    "affiliation": [
+      "B'omarr Order",
+      "Hutt Clan",
+      "Confederacy of Independent Systems",
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Teth",
+    "x": 13678.1,
+    "y": -3152.9,
+    "z": -593.5,
+    "region": "Outer Rim",
+    "grid": "U-12"
+  },
+  "scraped": "2026-07-03"
+}

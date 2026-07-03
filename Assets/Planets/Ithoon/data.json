@@ -1,0 +1,41 @@
+{
+  "name": "Ithoon",
+  "wookieepedia_title": "Ithoon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ithoon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ithoon was the sixth planet in the Centares system.",
+  "lead_paragraphs": [
+    "Ithoon was the sixth planet in the Centares system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ithoon",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Maldrood sector",
+    "system": "Centares system",
+    "coordinates": "R-7",
+    "suns": "Centares",
+    "position": "6",
+    "moons": "3",
+    "routes": [
+      "Perlemian Trade Route",
+      "Triellus Trade Route"
+    ],
+    "class": "Barren rock",
+    "terrain": "Terrestrial"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ithoon",
+    "x": 10250.0,
+    "y": 3990.6,
+    "z": -318.0,
+    "region": "Mid Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Enaleh",
+  "wookieepedia_title": "Enaleh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Enaleh",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Enaleh was a planet located in the Colonies. At some point between 12,000 BBY and 11,000 BBY, Enaleh became a Galactic Republic Ordnance/Regional Depot outpost and was known by then as Ord Enaleh. The planet had a moist atmosphere, and its surface features included grasslands, freshwater seas, and lakes.",
+  "lead_paragraphs": [
+    "Enaleh was a planet located in the Colonies. At some point between 12,000 BBY and 11,000 BBY, Enaleh became a Galactic Republic Ordnance/Regional Depot outpost and was known by then as Ord Enaleh. The planet had a moist atmosphere, and its surface features included grasslands, freshwater seas, and lakes.",
+    "Two species of creatures native to Enaleh were the slards, feline predators that leaped high into the air while hunting; and the helas, serpentine amphibians that exhibited schooling behavior and floated through Enaleh's atmosphere. Helas could also sense mechanically generated repulsorlift fields and were drawn to their sources."
+  ],
+  "article_sections": [
+    "Description",
+    "  Helas",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Enaleh",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "system": "Enaleh system",
+    "coordinates": "L-13",
+    "class": "Terrestrial",
+    "atmosphere": "Moist",
+    "terrain": "Grasslands",
+    "water": [
+      "Freshwater seas",
+      "Lakes"
+    ],
+    "flora": [
+      "Grass",
+      "Trees",
+      "Aquatic plants"
+    ],
+    "fauna": [
+      "Hela",
+      "Slard",
+      "Flying insects"
+    ],
+    "exports": "Helas",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Enaleh",
+    "x": 2.8,
+    "y": -5534.3,
+    "z": -3.3,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

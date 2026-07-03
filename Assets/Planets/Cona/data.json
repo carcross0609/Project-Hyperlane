@@ -1,0 +1,45 @@
+{
+  "name": "Cona",
+  "wookieepedia_title": "Cona",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cona",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Cona was a desert planet located in the Cona system in the galaxy's Inner Rim that was the homeworld of the Arcona species. Hem Dazon, a male Arcona frequently spent time in the Mos Eisley cantina after becoming stranded on Tatooine. He was unable to return to his home planet because he had spent all his credits on salt and juri juice.",
+  "lead_paragraphs": [
+    "Cona was a desert planet located in the Cona system in the galaxy's Inner Rim that was the homeworld of the Arcona species. Hem Dazon, a male Arcona frequently spent time in the Mos Eisley cantina after becoming stranded on Tatooine. He was unable to return to his home planet because he had spent all his credits on salt and juri juice."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Cona",
+    "region": [
+      "Inner Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Inner Cluster",
+    "system": "Cona system",
+    "coordinates": "O-11",
+    "terrain": "Desert",
+    "species": "Arcona"
+  },
+  "homeworld_of": [
+    {
+      "name": "Arcona",
+      "directory": "Arcona",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Arcona",
+      "directory": "Arcona (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cona",
+    "x": 4904.1,
+    "y": -1802.3,
+    "z": 16.3,
+    "region": "Inner Rim",
+    "grid": "O-11"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Kupoh",
+  "wookieepedia_title": "Kupoh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kupoh",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kupoh was a planet located in the Kupoh system in the Dohlbani sector of the Mid Rim Territories. It was the homeworld of the Kupohan species. The planet had mountains, valleys, an high winds, causing cities such as Tonekh to be built inside of the valleys to be protected against the wind.",
+  "lead_paragraphs": [
+    "Kupoh was a planet located in the Kupoh system in the Dohlbani sector of the Mid Rim Territories. It was the homeworld of the Kupohan species. The planet had mountains, valleys, an high winds, causing cities such as Tonekh to be built inside of the valleys to be protected against the wind."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kupoh",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Dohlbani sector",
+    "system": "Kupoh system",
+    "coordinates": "R-13",
+    "routes": "Bothawui–Circumtore hyperlane",
+    "terrain": "Mountains",
+    "species": "Kupohan",
+    "cities": "Tonekh"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kupohan",
+      "directory": "Kupohan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

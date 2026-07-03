@@ -1,0 +1,82 @@
+{
+  "name": "Rhen Var",
+  "wookieepedia_title": "Rhen Var/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rhen_Var/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rhen Var was a planet situated near the Tion Cluster in the Outer Rim Territories and one of the former Thanium Worlds. It was the first planet in the Tobali system. Throughout the history of the Galactic Republic, Rhen Var was covered in ice, rendering it almost uninhabitable. Remains of an ancient civilization and old Jedi artifacts were found beneath the ice on the planet, remnants of a former population.",
+  "lead_paragraphs": [
+    "Rhen Var was a planet situated near the Tion Cluster in the Outer Rim Territories and one of the former Thanium Worlds. It was the first planet in the Tobali system. Throughout the history of the Galactic Republic, Rhen Var was covered in ice, rendering it almost uninhabitable. Remains of an ancient civilization and old Jedi artifacts were found beneath the ice on the planet, remnants of a former population."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Rhen Var",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Thanium sector",
+    "system": "Tobali system",
+    "coordinates": "R-6",
+    "suns": "1: Tor",
+    "position": "1",
+    "moons": "0",
+    "lengthday": "18 standard hours",
+    "lengthyear": "563 standard days",
+    "class": "Terrestrial",
+    "diameter": "9,380 km",
+    "atmosphere": "Oxygen mix",
+    "climate": "Frigid",
+    "terrain": [
+      "Modern:",
+      "Glaciers",
+      "Snow-covered mountains",
+      "Historic: Beaches"
+    ],
+    "interest": [
+      "Jedi monument",
+      "Ancient Jedi ruins",
+      "Bravo Base",
+      "Imperial listening outpost",
+      "Harbor",
+      "Citadel",
+      "Ross Mysliwiec's tomb",
+      "Darth Mekhis' fortress",
+      "Forgotten Rakatan Temple"
+    ],
+    "fauna": "Wampa",
+    "species": "Rhen Varite (extinct)",
+    "otherspecies": "Historic: Humans",
+    "population": "Galactic Republic and later Imperial listening post crew",
+    "affiliation": [
+      "Infinite Empire",
+      "Xim's empire",
+      "Thanium Worlds",
+      "Sith Empire",
+      "Galactic Republic",
+      "Jedi Order",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Rhen Varite",
+      "directory": "Rhen Varite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rhen Var",
+    "x": 9983.2,
+    "y": 5316.7,
+    "z": 352.9,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Tro'Har",
+  "wookieepedia_title": "Tro'Har",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tro%27Har",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tro'Har was a planet located within the Coyn system of the Outer Rim Territories in the Elrood sector. Covered in methane ice, it boasted a navigation beacon to assist inbound traffic. The name \"Tro'Har\" meant \"Farthest Blade\" in the Coynite language.",
+  "lead_paragraphs": [
+    "Tro'Har was a planet located within the Coyn system of the Outer Rim Territories in the Elrood sector. Covered in methane ice, it boasted a navigation beacon to assist inbound traffic. The name \"Tro'Har\" meant \"Farthest Blade\" in the Coynite language."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tro'Har",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Coyn system",
+    "coordinates": "M-20",
+    "suns": "1: Coynek",
+    "position": "5",
+    "moons": "0",
+    "routes": [
+      "Coyn Route",
+      "Elrood-Derilyn Trade Route"
+    ],
+    "class": "Ice ball",
+    "terrain": "Methane ice"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tro'Har",
+    "x": 1837.5,
+    "y": -15610.9,
+    "z": -768.3,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

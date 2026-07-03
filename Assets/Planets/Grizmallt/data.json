@@ -1,0 +1,41 @@
+{
+  "name": "Grizmallt",
+  "wookieepedia_title": "Grizmallt",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grizmallt",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Grizmallt was a war-torn planet in the Grizmallt system of the Core Worlds, and the origin of the humans who crash-landed on and colonized Naboo. Around 3900 BBY, a civil war on Grizmallt caused a group Grizmallti to flee their home in colony ships and settle on Naboo. Commissar was a position of authority on the planet.",
+  "lead_paragraphs": [
+    "Grizmallt was a war-torn planet in the Grizmallt system of the Core Worlds, and the origin of the humans who crash-landed on and colonized Naboo. Around 3900 BBY, a civil war on Grizmallt caused a group Grizmallti to flee their home in colony ships and settle on Naboo. Commissar was a position of authority on the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Grizmallt",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Grizmallt system",
+    "coordinates": "L-9",
+    "demonym": "Grizmallti"
+  },
+  "homeworld_of": [
+    {
+      "name": "Grizmallti",
+      "directory": "Grizmallti",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Grizmallti",
+      "directory": "Grizmallti (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Grizmallt",
+    "x": 425.8,
+    "y": 265.6,
+    "z": -31.7,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

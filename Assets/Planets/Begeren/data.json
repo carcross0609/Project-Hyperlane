@@ -1,0 +1,52 @@
+{
+  "name": "Begeren",
+  "wookieepedia_title": "Begeren",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Begeren",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Begeren was a planet in the Sith Worlds region of the Outer Rim Territories. It was originally part of the Sith Empire, which constructed enormous monuments dedicated to notable Sith on the planet's surface—a project that cost the lives of an estimated hundred thousand slaves. Following the Empire's defeat in the Great Hyperspace War, Begeren was claimed by the Galactic Republic. The Republic allowed the construction of a gemstone quarry at the expense of the Sith statues, which fell into ruin. In 3678 BBY, the planet was seized by a revived Sith Empire. During the Galactic Civil War, Begeren was the site of a battle between the Alliance to Restore the Republic and the Galactic Empire.",
+  "lead_paragraphs": [
+    "Begeren was a planet in the Sith Worlds region of the Outer Rim Territories. It was originally part of the Sith Empire, which constructed enormous monuments dedicated to notable Sith on the planet's surface—a project that cost the lives of an estimated hundred thousand slaves. Following the Empire's defeat in the Great Hyperspace War, Begeren was claimed by the Galactic Republic. The Republic allowed the construction of a gemstone quarry at the expense of the Sith statues, which fell into ruin. In 3678 BBY, the planet was seized by a revived Sith Empire. During the Galactic Civil War, Begeren was the site of a battle between the Alliance to Restore the Republic and the Galactic Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Sith world",
+    "  Galactic Civil War",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Begeren",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Esstran sector",
+      "  Sith Worlds"
+    ],
+    "system": "Begeren system",
+    "coordinates": "R-4",
+    "routes": "Kamat Aegit",
+    "atmosphere": "Breathable (to Abyssin and humans)",
+    "terrain": "Desert",
+    "interest": [
+      "Begeren's monuments",
+      "Darth Zhorrid's estate"
+    ],
+    "government": "Republic governorship (3678 BBY)",
+    "exports": "Gemstones",
+    "affiliation": [
+      "Old Sith Empire",
+      "Galactic Republic",
+      "Reconstituted Sith Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Begeren",
+    "x": 9310.5,
+    "y": 7562.6,
+    "z": -75.6,
+    "region": "Outer Rim",
+    "grid": "R-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Gentes",
+  "wookieepedia_title": "Gentes",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gentes",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Gentes was a planet located in the Anoat system in the Anoat sector of the galaxy's Outer Rim Territories that was the homeworld of the sentient Ugnaught species, which fed on the native genteslugs. Orbited by the moon Belsus, Gentes was once home to many clans of Ugnaughts until most of them were sold into slavery, leaving few remaining by the time of the Iron Blockade. During the blockade, enslavers raided the homes of some of the remaining Ugnaughts, driving them to hide in their homeworld's swamps and send out a distress signal offering supplies to any who would aid them. One group of Ugnaughts wished to leave the planet and join the Alliance to Restore the Republic, so the Rebels made a quick evacuation of the new recruits.",
+  "lead_paragraphs": [
+    "Gentes was a planet located in the Anoat system in the Anoat sector of the galaxy's Outer Rim Territories that was the homeworld of the sentient Ugnaught species, which fed on the native genteslugs. Orbited by the moon Belsus, Gentes was once home to many clans of Ugnaughts until most of them were sold into slavery, leaving few remaining by the time of the Iron Blockade. During the blockade, enslavers raided the homes of some of the remaining Ugnaughts, driving them to hide in their homeworld's swamps and send out a distress signal offering supplies to any who would aid them. One group of Ugnaughts wished to leave the planet and join the Alliance to Restore the Republic, so the Rebels made a quick evacuation of the new recruits."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gentes",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Javin sector",
+      "  Anoat sector"
+    ],
+    "system": "Anoat system",
+    "coordinates": "K-18",
+    "moons": "Belsus",
+    "terrain": "Swamps",
+    "fauna": "Genteslug",
+    "species": "Ugnaught",
+    "exports": "Ugnaught slaves",
+    "affiliation": "Noble Court"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ugnaught",
+      "directory": "Ugnaught",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ugnaught",
+      "directory": "Ugnaught (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gentes",
+    "x": -5.4,
+    "y": 8705.0,
+    "z": 151.4,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

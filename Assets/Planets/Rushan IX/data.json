@@ -1,0 +1,32 @@
+{
+  "name": "Rushan IX",
+  "wookieepedia_title": "Rushan IX",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rushan_IX",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rushan IX was a terrestrial world that was home to numerous forms of life, including the Trawaki species. It was located in the Rushan system in the Andirma sector of the Expansion Region. The Trawaki evolved independently of the other life on the world, dwelling in caves. Over a thousand years before the Imperial Era, the Trawaki went extinct, and their language of Trawak fell out of use.",
+  "lead_paragraphs": [
+    "Rushan IX was a terrestrial world that was home to numerous forms of life, including the Trawaki species. It was located in the Rushan system in the Andirma sector of the Expansion Region. The Trawaki evolved independently of the other life on the world, dwelling in caves. Over a thousand years before the Imperial Era, the Trawaki went extinct, and their language of Trawak fell out of use."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rushan IX",
+    "region": "Expansion Region",
+    "sector": "Andirma sector",
+    "system": "Rushan system",
+    "coordinates": "L-15",
+    "class": "Terrestrial",
+    "terrain": "Caves",
+    "species": "Trawaki",
+    "language": "Trawak"
+  },
+  "homeworld_of": [
+    {
+      "name": "Trawaki",
+      "directory": "Trawaki",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

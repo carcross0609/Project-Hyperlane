@@ -1,0 +1,47 @@
+{
+  "name": "Shoon",
+  "wookieepedia_title": "Shoon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shoon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shoon was a terrestrial world located in the Shoon system of the Senex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. Situated in the area of the sector known as the Tangles, it was connected via hyperlanes to the Antiquity, Osmani, and Suliana systems.",
+  "lead_paragraphs": [
+    "Shoon was a terrestrial world located in the Shoon system of the Senex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. Situated in the area of the sector known as the Tangles, it was connected via hyperlanes to the Antiquity, Osmani, and Suliana systems.",
+    "At some point, Shoon was the homeworld of a gigantic humanoid species. The species had disappeared by 43 ABY, leaving behind a series of ruins that covered the world. In addition, a terrible yet long-forgotten war was once waged on Shoon, leading to the creation of many rings of molten rock and glassy stone on its surface. Like the other worlds of the Senex-Juvex, Shoon was under the control of the aristocratic Ancient Houses of the region."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Shoon",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Shoon system",
+    "coordinates": "L-18",
+    "class": "Terrestrial",
+    "terrain": "Rings of molten rock and glassy stone",
+    "interest": "Ruins",
+    "species": "A humanoid species",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Shoon species",
+      "directory": "Unidentified Shoon species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Shoon",
+    "x": 442.1,
+    "y": -12153.2,
+    "z": -504.0,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

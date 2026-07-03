@@ -1,0 +1,43 @@
+{
+  "name": "Bandomeer",
+  "wookieepedia_title": "Bandomeer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bandomeer",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bandomeer was an agricultural planet located in the galaxy's Outer Rim Territories, at the junction of the Hydian Way and the Braxant Run. The planet remained focused on agriculture until it was discovered to be rich in mineral resources, which were in turn exploited over the course of galactic history. Over the course of Bandomeer's history, the world's miners sometimes had disputes with the companies that ran the mining operations. After the Galactic Empire came to power, it eventually set its sights on Bandomeer to exploit its resources. When the miners tried to resist, the Sith Lord Darth Vader arrived and duly punished them.",
+  "lead_paragraphs": [
+    "Bandomeer was an agricultural planet located in the galaxy's Outer Rim Territories, at the junction of the Hydian Way and the Braxant Run. The planet remained focused on agriculture until it was discovered to be rich in mineral resources, which were in turn exploited over the course of galactic history. Over the course of Bandomeer's history, the world's miners sometimes had disputes with the companies that ran the mining operations. After the Galactic Empire came to power, it eventually set its sights on Bandomeer to exploit its resources. When the miners tried to resist, the Sith Lord Darth Vader arrived and duly punished them."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Bandomeer",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Meerian sector",
+    "system": "Bandomeer system",
+    "coordinates": "O-6",
+    "routes": [
+      "Braxant Run",
+      "Hydian Way"
+    ],
+    "exports": "Minerals"
+  },
+  "homeworld_of": [
+    {
+      "name": "Meerian",
+      "directory": "Meerian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bandomeer",
+    "x": 4785.7,
+    "y": 4833.8,
+    "z": 239.7,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

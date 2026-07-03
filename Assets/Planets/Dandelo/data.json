@@ -1,0 +1,48 @@
+{
+  "name": "Dandelo",
+  "wookieepedia_title": "Dandelo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dandelo",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dandelo was a planet inhabited by spotted jugadoos and a sentient, primitive avian species known as Fuzzums.",
+  "lead_paragraphs": [
+    "Dandelo was a planet inhabited by spotted jugadoos and a sentient, primitive avian species known as Fuzzums."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dandelo",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tammuz sector",
+    "system": "Dandelo system",
+    "coordinates": "T-14",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Savannas",
+      "Forests",
+      "Cliffs"
+    ],
+    "fauna": "Spotted jugadoos",
+    "species": "Fuzzums",
+    "language": "Unidentified Fuzzum native language"
+  },
+  "homeworld_of": [
+    {
+      "name": "Fuzzum",
+      "directory": "Fuzzum",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dandelo",
+    "x": 13303.0,
+    "y": -7223.6,
+    "z": -615.7,
+    "region": "Outer Rim",
+    "grid": "T-14"
+  },
+  "scraped": "2026-07-03"
+}

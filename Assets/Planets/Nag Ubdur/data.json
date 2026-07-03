@@ -1,0 +1,55 @@
+{
+  "name": "Nag Ubdur",
+  "wookieepedia_title": "Nag Ubdur",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nag_Ubdur",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Nag Ubdur was a planet located in the Ubdur system of the the galaxy's Outer Rim Territories. It was inhabited by Ubdurians. Binjai-Tin was considered to be a large merchant city on the planet.",
+  "lead_paragraphs": [
+    "Nag Ubdur was a planet located in the Ubdur system of the the galaxy's Outer Rim Territories. It was inhabited by Ubdurians. Binjai-Tin was considered to be a large merchant city on the planet.",
+    "Up until a few months after the Battle of Endor, the planet was under the control of the Galactic Empire, who strip-mined the world for zersium. Sometime after the Rebellion on Akiva, the New Republic attempted to liberate the world, but was met with an increasingly-desperate Imperial defense."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nag Ubdur",
+    "region": "Outer Rim Territories",
+    "sector": "Demetras sector",
+    "system": "Nag Ubdur system",
+    "coordinates": "P-7",
+    "routes": "Salin Corridor",
+    "interest": "Govneh Ridge",
+    "fauna": "Rot-wing",
+    "species": "Ubdurian",
+    "otherspecies": [
+      "Artiodac",
+      "Keldar"
+    ],
+    "cities": "Binjai-Tin",
+    "exports": "Zersium",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Keldar",
+      "directory": "Keldar",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ubdurian",
+      "directory": "Ubdurian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Nag Ubdur",
+    "x": -3649.6,
+    "y": -11094.5,
+    "z": 240.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

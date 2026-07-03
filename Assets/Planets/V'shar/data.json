@@ -1,0 +1,51 @@
+{
+  "name": "V'shar",
+  "wookieepedia_title": "V'shar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V%27shar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "V'shar was a Wild Space planet that was the homeworld of the sentient Ka'hren species. A tradition-bound, religious, and isolationist people, the Ka'hren had a system of government in which their many organized faiths had a direct influence. Centuries before 2 ABY, V'shar was home to the Unfyr warrior culture, which was known for its use of the rantok sword.",
+  "lead_paragraphs": [
+    "V'shar was a Wild Space planet that was the homeworld of the sentient Ka'hren species. A tradition-bound, religious, and isolationist people, the Ka'hren had a system of government in which their many organized faiths had a direct influence. Centuries before 2 ABY, V'shar was home to the Unfyr warrior culture, which was known for its use of the rantok sword.",
+    "Long after the eventual extinction of the Unfyr, the Ka'hren academic Kaltor Naklian researched and taught the ancient history of V'shar at a local university. A discovery of ancient writings in a local cavern drove Naklian to found the new religion of Ni'Shaw-Dak Ministry, which eventually became a prominent player in V'shar politics. The cavern findings also allowed the Ka'hren scholar to become a highly-respected rantok wielder, and he left V'shar to become a hunter of furred beings as well as a member of the Zulirian Swordmasters group."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The two careers of Kaltor Naklian",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "V'shar",
+    "region": "Wild Space",
+    "system": "V'shar system",
+    "coordinates": "U-15",
+    "class": "Terrestrial",
+    "terrain": "Continents",
+    "interest": [
+      "A cavern",
+      "Ni'Shaw-Dak Ministry headquarters",
+      "University of Timb"
+    ],
+    "species": "Ka'hren",
+    "government": "A mix of representative democracy and theocracy",
+    "population": "At least 2.5 million"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ka'hren",
+      "directory": "Ka'hren",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "V'shar",
+    "x": 14317.3,
+    "y": -7902.2,
+    "z": -240.9,
+    "region": "Wild Space",
+    "grid": "U-15"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Sump",
+  "wookieepedia_title": "Sump",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sump",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sump was an Outer Rim Territories planet located in the Koradin sector. It was the homeworld of the sentient Nuknog species. In 382 BBY, Sump was affected by a war fought between planets Eiram and E'ronoh of the Eiram system, and it consequently submitted multiple aid requests to the Galactic Republic.",
+  "lead_paragraphs": [
+    "Sump was an Outer Rim Territories planet located in the Koradin sector. It was the homeworld of the sentient Nuknog species. In 382 BBY, Sump was affected by a war fought between planets Eiram and E'ronoh of the Eiram system, and it consequently submitted multiple aid requests to the Galactic Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Sump",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Koradin sector",
+    "system": "Sump system",
+    "coordinates": "I-18",
+    "routes": [
+      "Dalna—Sump hyperlane",
+      "Lipsec Run"
+    ],
+    "class": "Terrestrial",
+    "species": "Nuknog"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nuknog",
+      "directory": "Nuknog",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Nuknog",
+      "directory": "Nuknog (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sump",
+    "x": -3119.8,
+    "y": -13370.0,
+    "z": -684.8,
+    "region": "Outer Rim",
+    "grid": "I-18"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Amorphiia",
+  "wookieepedia_title": "Amorphiia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amorphiia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Amorphiia was a planet located in the Amorphiia system of the Mid Rim of the galaxy. It was the homeworld of the Amorphiians.",
+  "lead_paragraphs": [
+    "Amorphiia was a planet located in the Amorphiia system of the Mid Rim of the galaxy. It was the homeworld of the Amorphiians."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Amorphiia",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Eidoloni sector",
+    "system": "Amorphiia system",
+    "coordinates": "L-16",
+    "class": "Terrestrial",
+    "atmosphere": "Type I oxygen Mix",
+    "species": "Amorphiian",
+    "population": "1 million to 10 million",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Amorphiian",
+      "directory": "Amorphiian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Amorphiia",
+    "x": 986.0,
+    "y": -10312.6,
+    "z": -284.6,
+    "region": "Mid Rim",
+    "grid": "L-16"
+  },
+  "scraped": "2026-07-03"
+}

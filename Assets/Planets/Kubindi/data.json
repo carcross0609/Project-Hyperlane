@@ -1,0 +1,53 @@
+{
+  "name": "Kubindi",
+  "wookieepedia_title": "Kubindi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kubindi",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kubindi was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the insectivorous Kubaz species. Its population was enslaved by the Galactic Empire, and the Kubaz spy and Kubindi native Garindan ezz Zavor plotted to free his world and its people from Imperial oppression.",
+  "lead_paragraphs": [
+    "Kubindi was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the insectivorous Kubaz species. Its population was enslaved by the Galactic Empire, and the Kubaz spy and Kubindi native Garindan ezz Zavor plotted to free his world and its people from Imperial oppression."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Kubindi",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Calaron sector",
+    "system": "Ku'Bakai system",
+    "coordinates": "T-9",
+    "suns": "1: Ku'Baku",
+    "routes": "Triellus Trade Route",
+    "fauna": "Picolet beetle",
+    "species": "Kubaz",
+    "language": "Kubazian",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kubaz",
+      "directory": "Kubaz",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kubaz",
+      "directory": "Kubaz (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kubindi",
+    "x": 13036.8,
+    "y": 410.7,
+    "z": 88.5,
+    "region": "Outer Rim",
+    "grid": "T-9"
+  },
+  "scraped": "2026-07-03"
+}

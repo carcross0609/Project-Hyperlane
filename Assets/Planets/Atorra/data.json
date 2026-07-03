@@ -1,0 +1,40 @@
+{
+  "name": "Atorra",
+  "wookieepedia_title": "Atorra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Atorra",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Atorra was a planet located in the Atorra system. It was situated in the Back Reach area of the Gordian Reach sector, within the Trans-Hydian portion of the Outer Rim Territories. The planet was connected by the Ardan Cross hyperlane to the Troos and the Chenowei systems.",
+  "lead_paragraphs": [
+    "Atorra was a planet located in the Atorra system. It was situated in the Back Reach area of the Gordian Reach sector, within the Trans-Hydian portion of the Outer Rim Territories. The planet was connected by the Ardan Cross hyperlane to the Troos and the Chenowei systems.",
+    "At some point, members of the sentient B'trillan species immigrated to Atorra, giving rise to a sparsely populated agricultural colony. By 43 ABY, however, decades of drought had ruined the colony. By that time, it was rumored that an ancient battle had resulted in the crash-landing of alien starships in Atorra's badlands."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Atorra",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Gordian Reach",
+      "  Back Reach"
+    ],
+    "system": "Atorra system",
+    "coordinates": "Q-5",
+    "routes": "Ardan Cross",
+    "class": "Terrestrial",
+    "interest": "Badlands",
+    "otherspecies": "B'trillans"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Atorra",
+    "x": 8098.9,
+    "y": 6760.8,
+    "z": -495.1,
+    "region": "Outer Rim",
+    "grid": "Q-5"
+  },
+  "scraped": "2026-07-03"
+}

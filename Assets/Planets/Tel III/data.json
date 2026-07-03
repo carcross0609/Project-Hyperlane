@@ -1,0 +1,62 @@
+{
+  "name": "Tel III",
+  "wookieepedia_title": "Tel III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tel_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tel III was the third planet of the Tel Minor system, located in the Expansion Region.",
+  "lead_paragraphs": [
+    "Tel III was the third planet of the Tel Minor system, located in the Expansion Region."
+  ],
+  "article_sections": [
+    "Geography",
+    "History"
+  ],
+  "data": {
+    "name": "Tel III",
+    "region": "Expansion Region",
+    "sector": "Brak sector",
+    "system": "Tel Minor system",
+    "coordinates": "O-14",
+    "suns": "Tel",
+    "position": "3",
+    "lengthday": "18 standard hours",
+    "lengthyear": "3,960 local days",
+    "atmosphere": "Type IV (environmental suit required)",
+    "climate": "Cold",
+    "gravity": "Standard",
+    "terrain": [
+      "Badlands",
+      "Canyons",
+      "Craters",
+      "Mountains",
+      "Rock"
+    ],
+    "interest": [
+      "Oracle Base",
+      "  Training Cavern"
+    ],
+    "otherspecies": "Humans",
+    "government": "Alliance to Restore the Republic Sector Command",
+    "population": "200—375 (Rebel Base personnel)",
+    "imports": [
+      "Foodstuffs",
+      "High technology",
+      "Medicine",
+      "Mid technology",
+      "Military equipment",
+      "Survival equipment"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tel III",
+    "x": 5163.0,
+    "y": -7099.6,
+    "z": 299.1,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

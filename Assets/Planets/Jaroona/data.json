@@ -1,0 +1,45 @@
+{
+  "name": "Jaroona",
+  "wookieepedia_title": "Jaroona",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jaroona",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jaroona was a volcanic rock planet located in the Eriadu system in the Seswenna sector of the Trailing Sectors portion of the Outer Rim Territories. Jaroona and its star system were located on the hyperspace routes known as the Hydian Way, the Lipsec Run, the Nothoiin Corridor, the Rimma Trade Route, the Senex Trace, and the Yankirk Route. The planet had no moons and occupied the second orbital position around the star Eriadu.",
+  "lead_paragraphs": [
+    "Jaroona was a volcanic rock planet located in the Eriadu system in the Seswenna sector of the Trailing Sectors portion of the Outer Rim Territories. Jaroona and its star system were located on the hyperspace routes known as the Hydian Way, the Lipsec Run, the Nothoiin Corridor, the Rimma Trade Route, the Senex Trace, and the Yankirk Route. The planet had no moons and occupied the second orbital position around the star Eriadu."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Jaroona",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Seswenna sector",
+    "system": "Eriadu system",
+    "coordinates": "M-18",
+    "suns": "1: Eriadu",
+    "position": "2",
+    "moons": "0",
+    "routes": [
+      "Hydian Way",
+      "Lipsec Run",
+      "Nothoiin Corridor",
+      "Rimma Trade Route",
+      "Senex Trace",
+      "Yankirk Route"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Volcanic rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Jaroona",
+    "x": 12145.3,
+    "y": 6616.3,
+    "z": -498.6,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

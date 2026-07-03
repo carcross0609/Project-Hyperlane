@@ -1,0 +1,59 @@
+{
+  "name": "Filve",
+  "wookieepedia_title": "Filve",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Filve",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Filve was the hot, dry homeworld of the Filvians in the Dufilvian sector of the Mid Rim.",
+  "lead_paragraphs": [
+    "Filve was the hot, dry homeworld of the Filvians in the Dufilvian sector of the Mid Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Filve",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Dufilvian sector",
+    "system": "Dulfilvian system",
+    "coordinates": "R-15",
+    "lengthday": "14 standard hours",
+    "lengthyear": "110 local days",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert",
+      "Urban"
+    ],
+    "species": "Filvians",
+    "otherspecies": "Humans",
+    "government": "Alliance/Federation",
+    "population": "6 billion",
+    "demonym": "Filvian",
+    "imports": "Food, medicine",
+    "exports": "High technology, computers, droids",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Filvian",
+      "directory": "Filvian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Filve",
+    "x": 10094.8,
+    "y": -8082.2,
+    "z": -391.8,
+    "region": "Mid Rim",
+    "grid": "R-15"
+  },
+  "scraped": "2026-07-03"
+}

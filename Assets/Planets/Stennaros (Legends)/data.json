@@ -1,0 +1,49 @@
+{
+  "name": "Stennaros",
+  "wookieepedia_title": "Stennaros/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stennaros/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Stennaros was a planet in the Stennaros system, within the Expansion Region's Har Worlds sector. The homeworld of the Near-Human Stennes species and its Force-sensitive, shape-shifting Stennes Shifter offshoots, millennia of both species' persecution led to Stennaros being pock-marked with artillery craters and otherwise scarred. With prejudices against the Stennes Shifters leading to many members of both species being killed, the baseline Stennes were a closed xenophobic society, albeit being socially and culturally advanced within their own system. The Stennes further persecuted their Shifter offshoots, resulting in the latter being a homeless species not welcome on their own planet, with the considerably reduced Shifter population attempting to blend in or assimilate with their baseline species.",
+  "lead_paragraphs": [
+    "Stennaros was a planet in the Stennaros system, within the Expansion Region's Har Worlds sector. The homeworld of the Near-Human Stennes species and its Force-sensitive, shape-shifting Stennes Shifter offshoots, millennia of both species' persecution led to Stennaros being pock-marked with artillery craters and otherwise scarred. With prejudices against the Stennes Shifters leading to many members of both species being killed, the baseline Stennes were a closed xenophobic society, albeit being socially and culturally advanced within their own system. The Stennes further persecuted their Shifter offshoots, resulting in the latter being a homeless species not welcome on their own planet, with the considerably reduced Shifter population attempting to blend in or assimilate with their baseline species."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Stennaros",
+    "region": "Expansion Region",
+    "sector": "Har Worlds",
+    "system": "Stennaros system",
+    "coordinates": "K-16",
+    "class": "Terrestrial",
+    "species": [
+      "Stennes",
+      "Stennes Shifters"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Stennes",
+      "directory": "Stennes",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Stennes Shifter",
+      "directory": "Stennes Shifter (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Stennaros",
+    "x": -1391.7,
+    "y": -9151.6,
+    "z": 290.7,
+    "region": "Expansion Region",
+    "grid": "K-16"
+  },
+  "scraped": "2026-07-03"
+}

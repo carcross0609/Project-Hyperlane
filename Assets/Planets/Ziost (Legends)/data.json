@@ -1,0 +1,129 @@
+{
+  "name": "Ziost",
+  "wookieepedia_title": "Ziost/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ziost/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ziost (pronounced /ziɒst/), referred to as the \"Gateway to the Empire\" during the Galactic War, was a rocky world—and potent focal point of the dark side of the Force—located in the Ziost system, a star system in the Sith Worlds region of the Outer Rim Territories' Esstran sector. It was connected to other nearby worlds by the Nache Bhelfia hyperlane. Ziost was also the one of the primary adopted homeworlds of the Sith species, considered one of the five sacred Sith planets, and served as the capital of Adas's Sith Empire and the Old Sith Empire. The Sith species ended up leaving their desolate homeworld Korriban as a vast tombworld after the death of their leader, Adas.",
+  "lead_paragraphs": [
+    "Ziost (pronounced /ziɒst/), referred to as the \"Gateway to the Empire\" during the Galactic War, was a rocky world—and potent focal point of the dark side of the Force—located in the Ziost system, a star system in the Sith Worlds region of the Outer Rim Territories' Esstran sector. It was connected to other nearby worlds by the Nache Bhelfia hyperlane. Ziost was also the one of the primary adopted homeworlds of the Sith species, considered one of the five sacred Sith planets, and served as the capital of Adas's Sith Empire and the Old Sith Empire. The Sith species ended up leaving their desolate homeworld Korriban as a vast tombworld after the death of their leader, Adas.",
+    "Historically a lush, densely-forested world with a warm climate, Ziost endured an ice age at some point after 27,700 BBY, after many of the Sith had arrived, including (but not limited to) Kissai priest and Massassi warrior castes. As a result, the planet was transformed into a vast, bitterly-cold tundra with a dry atmosphere—essentially a frozen desert—and hardly any precipitation.",
+    "Eventually, Ziost became a major Sith buffer-world during the days of Vitiate's Sith Empire, before being forgotten entirely."
+  ],
+  "article_sections": [
+    "Description",
+    "  Astrography",
+    "  Geography",
+    "  Flora and fauna",
+    "History",
+    "  A new homeworld",
+    "  Exiles",
+    "  Golden Age of the Sith",
+    "    Duel of the Sith",
+    "    Council's decision",
+    "    Prison break",
+    "    Consolidating power",
+    "  Great Hyperspace War",
+    "  Post-Great Hyperspace War",
+    "  A world lost",
+    "  Second Galactic Civil War",
+    "  The New Empire",
+    "Inhabitants",
+    "Locations",
+    "  Sith Citadel",
+    "  New Adasta",
+    "  Ziost versus Korriban?",
+    "  Other appearances"
+  ],
+  "data": {
+    "option1": "Devastated",
+    "option2": "Pre-Devastation",
+    "name": "Ziost",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Esstran sector",
+      "  Sith Worlds"
+    ],
+    "system": "Ziost system",
+    "coordinates": "R-4",
+    "suns": "1: Ziost's sun",
+    "moons": "2",
+    "routes": "Nache Bhelfia",
+    "class": "Terrestrial",
+    "climate": "Cold and arid",
+    "terrain": [
+      "Rocky",
+      "Frozen mountains",
+      "Glaciers",
+      "Tundra",
+      "Forests",
+      "Polar ice caps"
+    ],
+    "water": "Brackish oceans",
+    "interest": [
+      "Sith Citadel",
+      "Ziost Analysis Services Center",
+      "Ziost Abyss",
+      "Ziost's breeding pens",
+      "Emperor's Eye",
+      "Orbital Defense Command Center",
+      "  Ministry of Logistics",
+      "A camp",
+      "A small citadel"
+    ],
+    "flora": "Trees",
+    "fauna": [
+      "Sith pincerbug",
+      "Ziost scorpion",
+      "Ziost rodent",
+      "Vine cat",
+      "A reptavian creature"
+    ],
+    "otherspecies": [
+      "40 ABY: None",
+      "Historic:",
+      "Herglic",
+      "Human",
+      "Monolith",
+      "Sith (Massassi, Kissai)"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Sith"
+    ],
+    "population": "40 ABY: None\nHistoric: Millions",
+    "cities": [
+      "New Adasta",
+      "Sith Citadel"
+    ],
+    "affiliation": [
+      "Adas's Sith Empire",
+      "Old Sith Empire",
+      "Mandalorian Neo-Crusaders",
+      "Darth Revan's Sith Empire",
+      "Vitiate's Sith Empire",
+      "New Sith",
+      "Order of the Sith Lords",
+      "Lumiya's Sith"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sith",
+      "directory": "Sith (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ziost",
+    "x": 9270.0,
+    "y": 7777.5,
+    "z": 311.0,
+    "region": "Outer Rim",
+    "grid": "R-4"
+  },
+  "scraped": "2026-07-03"
+}

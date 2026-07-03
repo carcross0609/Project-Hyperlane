@@ -1,0 +1,42 @@
+{
+  "name": "The Deep",
+  "wookieepedia_title": "The Deep",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Deep",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "The Deep was a planet located in the Unknown Regions with a barren and lifeless surface. At some point, Luke Skywalker traveled to the Deep to rescue R2-D2 from a mining complex.",
+  "lead_paragraphs": [
+    "The Deep was a planet located in the Unknown Regions with a barren and lifeless surface. At some point, Luke Skywalker traveled to the Deep to rescue R2-D2 from a mining complex."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "The Deep",
+    "region": "Unknown Regions",
+    "sector": "None",
+    "system": "The Deep's star system",
+    "coordinates": "G-14",
+    "suns": "1",
+    "class": "Terrestrial",
+    "interest": [
+      "Gem",
+      "Mining complex"
+    ],
+    "species": "Tectozin"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tectozin",
+      "directory": "Tectozin",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "The Deep",
+    "x": 10241.8,
+    "y": 5711.8,
+    "z": -247.6,
+    "region": "Unknown Regions",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

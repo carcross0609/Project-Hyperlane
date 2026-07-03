@@ -1,0 +1,110 @@
+{
+  "name": "Dantooine",
+  "wookieepedia_title": "Dantooine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dantooine",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Dantooine was a planet in the Dantooine system, in the Raioballo sector of the Outer Rim Territories' northern New Territories region. Dantooine was affiliated with both the Galactic Republic and later, the Galactic Empire.",
+  "lead_paragraphs": [
+    "Dantooine was a planet in the Dantooine system, in the Raioballo sector of the Outer Rim Territories' northern New Territories region. Dantooine was affiliated with both the Galactic Republic and later, the Galactic Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history and High Republic Era",
+    "  Clone Wars",
+    "  Galactic Civil War",
+    "  Rise of the First Order",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Dantooine",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Raioballo sector",
+    "system": "Dantooine system",
+    "coordinates": "L-4",
+    "suns": "1: Dina",
+    "position": "4",
+    "moons": "2",
+    "routes": [
+      "Myto's Arrow",
+      "Veragi Trade Route"
+    ],
+    "lengthday": "25 standard hours",
+    "lengthyear": "378 local days",
+    "class": "Terrestrial",
+    "diameter": "9,830 kilometers",
+    "atmosphere": "Type I",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Lush forests",
+      "Grasslands",
+      "Hills",
+      "Mountains",
+      "Oceans",
+      "Great lakes",
+      "Rivers"
+    ],
+    "interest": [
+      "Black Sun smash-processing lab",
+      "Dantooine base",
+      "Jedi Temple",
+      "Unidentified outpost"
+    ],
+    "flora": [
+      "Grass",
+      "Blba tree"
+    ],
+    "fauna": [
+      "Carnivorous snail",
+      "Fabool",
+      "Graul",
+      "Kath hound",
+      "Kinrath",
+      "Piket",
+      "Stalker lizard"
+    ],
+    "otherspecies": "Humans",
+    "demonym": [
+      "Dantooinian",
+      "Dantari"
+    ],
+    "cities": [
+      "Dantoo Town",
+      "A settlement"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Alliance to Restore the Republic (briefly)",
+      "Resistance",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Dantari",
+      "directory": "Dantari",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Fairfolk",
+      "directory": "Fairfolk",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dantooine",
+    "x": 14.7,
+    "y": 8378.3,
+    "z": 160.8,
+    "region": "Outer Rim",
+    "grid": "L-4"
+  },
+  "scraped": "2026-07-03"
+}

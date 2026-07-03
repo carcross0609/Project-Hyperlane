@@ -1,0 +1,39 @@
+{
+  "name": "Merson",
+  "wookieepedia_title": "Merson",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Merson",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Merson was a planet that was located within the Inner Rim, near the Merson asteroid belt.",
+  "lead_paragraphs": [
+    "Merson was a planet that was located within the Inner Rim, near the Merson asteroid belt."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Merson",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Merson system",
+    "coordinates": "O-10",
+    "routes": "Lesser Lantillian Route",
+    "terrain": "Jungles",
+    "affiliation": [
+      "Merson pirates",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Merson",
+    "x": 5510.7,
+    "y": -547.6,
+    "z": 58.7,
+    "region": "Inner Rim",
+    "grid": "O-10"
+  },
+  "scraped": "2026-07-03"
+}

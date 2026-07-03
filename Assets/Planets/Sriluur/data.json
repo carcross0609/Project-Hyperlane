@@ -1,0 +1,53 @@
+{
+  "name": "Sriluur",
+  "wookieepedia_title": "Sriluur",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sriluur",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sriluur was a desert planet located in the Sriluur system in the Periphery, a subsector of the Outer Rim Territories' Tharin sector that was the homeworld of the Weequays, a species whose tough, leathery skin helped them endure its harsh conditions, and the Sriluurian butterfly.",
+  "lead_paragraphs": [
+    "Sriluur was a desert planet located in the Sriluur system in the Periphery, a subsector of the Outer Rim Territories' Tharin sector that was the homeworld of the Weequays, a species whose tough, leathery skin helped them endure its harsh conditions, and the Sriluurian butterfly.",
+    "Sriluur was conquered by the Hutt Cartel, which was controlled by the Hutts from the neighboring world of Nal Hutta, who turned the Weequays into slaves or vassals. Path of the Open Hand Elder Delwin hailed from Sriluur and, after allowing himself to be excited for the Path's future thanks to Guide Marda Ro, proposed establishing a new Path community on Sriluur. Instead, however, Delwin would be killed during the Battle of Jedha, creating a feeling of guilt in Ro. The pirate Hondo Ohnaka, leader of the Ohnaka Gang, was a male Weequay from this world."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sriluur",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Tharin sector",
+      "  Periphery"
+    ],
+    "system": "Sriluur system",
+    "coordinates": "S-8",
+    "terrain": "Deserts",
+    "fauna": "Sriluurian butterfly",
+    "species": "Weequay",
+    "otherspecies": "Tarnab",
+    "demonym": "Sriluurian",
+    "affiliation": "Hutt Cartel"
+  },
+  "homeworld_of": [
+    {
+      "name": "Weequay",
+      "directory": "Weequay",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Weequay",
+      "directory": "Weequay (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sriluur",
+    "x": 11635.2,
+    "y": 1694.7,
+    "z": -114.6,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

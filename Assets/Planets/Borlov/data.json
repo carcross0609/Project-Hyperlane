@@ -1,0 +1,38 @@
+{
+  "name": "Borlov",
+  "wookieepedia_title": "Borlov",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Borlov",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Borlov was the homeworld of the feudal Borlovian species.",
+  "lead_paragraphs": [
+    "Borlov was the homeworld of the feudal Borlovian species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Borlov",
+    "region": "Outer Rim Territories",
+    "sector": "Tunka sector",
+    "system": "Borlov system",
+    "coordinates": "J-19",
+    "species": "Borlovians",
+    "language": "Borlovian language",
+    "demonym": "Borlovian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Borlovian",
+      "directory": "Borlovian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Borlov",
+    "x": -2927.6,
+    "y": -13723.7,
+    "z": 330.7,
+    "region": "Outer Rim",
+    "grid": "J-19"
+  },
+  "scraped": "2026-07-03"
+}

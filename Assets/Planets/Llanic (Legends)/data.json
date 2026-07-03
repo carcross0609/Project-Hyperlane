@@ -1,0 +1,47 @@
+{
+  "name": "Llanic",
+  "wookieepedia_title": "Llanic/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Llanic/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Llanic was a planet in the Karthakk sector of the Outer Rim.",
+  "lead_paragraphs": [
+    "Llanic was a planet in the Karthakk sector of the Outer Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Llanic",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Karthakk sector",
+    "system": "Llanic system",
+    "coordinates": "Q-16",
+    "routes": [
+      "Llanic Spice Run",
+      "Triellus Trade Route"
+    ],
+    "population": "1 million to 10 million",
+    "exports": "Spice",
+    "affiliation": [
+      "Hutt Cartel",
+      "Brotherhood of Darkness",
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Llanic",
+    "x": 7911.4,
+    "y": -10435.2,
+    "z": -216.3,
+    "region": "Outer Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

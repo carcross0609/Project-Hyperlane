@@ -1,0 +1,55 @@
+{
+  "name": "Malanose",
+  "wookieepedia_title": "Malanose",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Malanose",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Malanose was a planet in the Gree Enclave, on the Outer Rim of the galaxy, which served as the primary world containing the Crafter and Researcher castes of the Gree civilization.",
+  "lead_paragraphs": [
+    "Malanose was a planet in the Gree Enclave, on the Outer Rim of the galaxy, which served as the primary world containing the Crafter and Researcher castes of the Gree civilization."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Malanose",
+    "region": "Outer Rim Territories",
+    "sector": "Veragi sector (Gree Enclave)",
+    "system": "Malanose system",
+    "coordinates": "K-2",
+    "lengthday": "18 standard hours",
+    "lengthyear": "320 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Jungle",
+      "Mountains",
+      "Wetlands"
+    ],
+    "water": "Moist",
+    "otherspecies": "Gree",
+    "government": "Local guilds",
+    "population": "150 million",
+    "demonym": "Malanosian",
+    "cities": "Malanose city",
+    "imports": [
+      "Services",
+      "Trade goods"
+    ],
+    "exports": "Artifact information",
+    "affiliation": "Gree Enclave"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Malanose",
+    "x": 6869.2,
+    "y": 9013.8,
+    "z": 152.0,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

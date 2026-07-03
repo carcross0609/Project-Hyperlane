@@ -1,0 +1,43 @@
+{
+  "name": "Pybus",
+  "wookieepedia_title": "Pybus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pybus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pybus was a planet located in the Bootana Hutta region of Hutt Space.",
+  "lead_paragraphs": [
+    "Pybus was a planet located in the Bootana Hutta region of Hutt Space."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Pybus",
+    "region": [
+      "Hutt Space",
+      "  Bootana Hutta"
+    ],
+    "system": "Pybus system",
+    "coordinates": "S-11",
+    "moons": "At least 4 moons",
+    "class": "Terrestrial",
+    "terrain": "Jungles",
+    "interest": [
+      "Ancient ruins",
+      "Vortga's hidden complex"
+    ],
+    "fauna": "Pybus amphibipole",
+    "otherspecies": "Hutts (formerly)",
+    "population": "None"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pybus",
+    "x": 11242.7,
+    "y": -2068.6,
+    "z": 336.5,
+    "region": "Hutt Space",
+    "grid": "S-11"
+  },
+  "scraped": "2026-07-03"
+}

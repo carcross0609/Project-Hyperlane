@@ -1,0 +1,48 @@
+{
+  "name": "Troxar",
+  "wookieepedia_title": "Troxar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Troxar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Troxar was a planet located within the Troxar system of the Expansion Region and the Troxan homeworld.",
+  "lead_paragraphs": [
+    "Troxar was a planet located within the Troxar system of the Expansion Region and the Troxan homeworld."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Troxar",
+    "region": [
+      "Expansion Region",
+      "Western Reaches"
+    ],
+    "sector": "Bes Ber Bikade sector",
+    "system": "Troxar system",
+    "coordinates": "L-15",
+    "class": "Terrestrial",
+    "terrain": "Oceans",
+    "species": "Troxan",
+    "affiliation": [
+      "Benevolence of Troxar",
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Troxan",
+      "directory": "Troxan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Troxar",
+    "x": 788.3,
+    "y": -7906.8,
+    "z": 37.3,
+    "region": "Expansion Region",
+    "grid": "L-15"
+  },
+  "scraped": "2026-07-03"
+}

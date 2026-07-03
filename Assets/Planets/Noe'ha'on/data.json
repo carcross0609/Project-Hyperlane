@@ -1,0 +1,38 @@
+{
+  "name": "Noe'ha'on",
+  "wookieepedia_title": "Noe'ha'on",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Noe%27ha%27on",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Noe'ha'on was a jungle world located in the Noe'ha'on system, a part of the Piryn Shar sector of the Expansion Region. It was situated in grid square K-16 of the Standard Galactic Grid and also lay on the hyperspace route known as the Great Gran Run, between the Kinyen system and the Mid Rim's Takodana system.",
+  "lead_paragraphs": [
+    "Noe'ha'on was a jungle world located in the Noe'ha'on system, a part of the Piryn Shar sector of the Expansion Region. It was situated in grid square K-16 of the Standard Galactic Grid and also lay on the hyperspace route known as the Great Gran Run, between the Kinyen system and the Mid Rim's Takodana system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Noe'ha'on",
+    "region": "Expansion Region",
+    "sector": "Piryn Shar sector",
+    "system": "Noe'ha'on system",
+    "coordinates": "K-16",
+    "routes": "Great Gran Run",
+    "class": "Terrestrial",
+    "terrain": "Jungle"
+  },
+  "homeworld_of": [
+    {
+      "name": "Noehon",
+      "directory": "Noehon",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Noe'ha'on",
+    "x": -1242.0,
+    "y": -9345.5,
+    "z": -138.0,
+    "region": "Expansion Region",
+    "grid": "K-16"
+  },
+  "scraped": "2026-07-03"
+}

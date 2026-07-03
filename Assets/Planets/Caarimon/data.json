@@ -1,0 +1,55 @@
+{
+  "name": "Caarimon",
+  "wookieepedia_title": "Caarimon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Caarimon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Caarimon was a warm and steamy planet in the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Caarimon was a warm and steamy planet in the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Caarimon",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Meridian sector",
+    "system": "Caarimoos system",
+    "coordinates": "R-7",
+    "moons": "14",
+    "climate": "Humid",
+    "terrain": "Rainforests",
+    "interest": [
+      "Zerminia",
+      "Getlona pod racing tracks"
+    ],
+    "species": "Caarites",
+    "otherspecies": "Humans",
+    "language": "Caarimala",
+    "demonym": "Caarite",
+    "affiliation": [
+      "Trade Federation",
+      "Metatheran Cartel"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Caarite",
+      "directory": "Caarite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Caarimon",
+    "x": 9938.1,
+    "y": 3769.4,
+    "z": -58.3,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Triton",
+  "wookieepedia_title": "Triton/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Triton/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Triton was a small, almost lifeless planet in the Mayagil sector of the Outer Rim Territories. It was orbited by the three Triton Moons. The moons were nefariously used by many in the galaxy to describe a dead thing—as dead as a Triton moon, due to the ban of stimulants of any kind.",
+  "lead_paragraphs": [
+    "Triton was a small, almost lifeless planet in the Mayagil sector of the Outer Rim Territories. It was orbited by the three Triton Moons. The moons were nefariously used by many in the galaxy to describe a dead thing—as dead as a Triton moon, due to the ban of stimulants of any kind."
+  ],
+  "article_sections": [
+    "Description",
+    "Society",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Triton",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Mayagil sector",
+    "system": "Triton system",
+    "coordinates": "M-18",
+    "suns": "1: Triton",
+    "position": "1",
+    "moons": [
+      "3: Triton Moons",
+      "Gactimus",
+      "Triton Besh"
+    ],
+    "routes": [
+      "Rimma Trade Route",
+      "Sharlissian Trade Corridor"
+    ],
+    "lengthday": "18 standard hours",
+    "lengthyear": "285 local days",
+    "class": "Terrestrial",
+    "diameter": "7,120 km",
+    "terrain": "Deserts",
+    "species": "Tritonite",
+    "language": [
+      "Tritonite",
+      "Galactic Basic Standard"
+    ],
+    "government": "Theocracy",
+    "population": [
+      "3 million",
+      "97% Tritonite",
+      "3% Others"
+    ],
+    "imports": "None",
+    "exports": "None",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tritonite",
+      "directory": "Tritonite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Triton",
+    "x": 2403.3,
+    "y": -13282.9,
+    "z": 375.0,
+    "region": "Outer Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Ninn",
+  "wookieepedia_title": "Ninn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ninn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ninn was a small planet located in the Ninn system of the Outer Rim Territories. The world was despoiled and depopulated in an ancient conflict, but was later resettled by a group that became known as the Priests of Ninn. Ninn came to be part of the Corporate Sector following that region's expansion, and so fell under the control of the Corporate Sector Authority.",
+  "lead_paragraphs": [
+    "Ninn was a small planet located in the Ninn system of the Outer Rim Territories. The world was despoiled and depopulated in an ancient conflict, but was later resettled by a group that became known as the Priests of Ninn. Ninn came to be part of the Corporate Sector following that region's expansion, and so fell under the control of the Corporate Sector Authority."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Ninn",
+    "region": "Outer Rim Territories",
+    "sector": "Corporate Sector",
+    "system": "Ninn system",
+    "coordinates": "R-3",
+    "routes": [
+      "Authority Guardian Corridor",
+      "Lo'Uran-Lythos hyperlane"
+    ],
+    "affiliation": [
+      "Priests of Ninn",
+      "Corporate Sector Authority"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ninn",
+    "x": 10479.5,
+    "y": 9286.8,
+    "z": 17.9,
+    "region": "Outer Rim",
+    "grid": "R-3"
+  },
+  "scraped": "2026-07-03"
+}

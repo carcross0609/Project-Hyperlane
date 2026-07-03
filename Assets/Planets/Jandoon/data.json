@@ -1,0 +1,49 @@
+{
+  "name": "Jandoon",
+  "wookieepedia_title": "Jandoon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jandoon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jandoon was a planet in the Outer Rim Territories, in the Corva sector. It eventually came to be known as a haunted world. It was home to the ancient ruins of a civilization that disappeared.",
+  "lead_paragraphs": [
+    "Jandoon was a planet in the Outer Rim Territories, in the Corva sector. It eventually came to be known as a haunted world. It was home to the ancient ruins of a civilization that disappeared."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Jandoon",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Corva sector",
+    "system": "Jandoon system",
+    "coordinates": "P-4",
+    "moons": "2",
+    "interest": [
+      "Ancient ruins",
+      "Republic Consulate"
+    ],
+    "fauna": "Jandoonian salamander",
+    "species": "Unidentified Jandoon species (extinct)",
+    "otherspecies": "Brizzit",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Brizzit",
+      "directory": "Brizzit",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Jandoon",
+    "x": 6073.2,
+    "y": 8963.5,
+    "z": -55.6,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Karideph",
+  "wookieepedia_title": "Karideph",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Karideph",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Karideph was a planet in the Karideph system, a star system in the Outer Rim Territories's resource-rich Minos Cluster. Home of the insectoid Kari species, Karideph's surface was almost entirely dominated by gardens and agricultural fields that provided for the planet's population of more than 88 billion. Discovered by the greater galaxy alongside the rest of the Minos Cluster between 3956 BBY and 3681 BBY, Karideph was the next stop along the Rimma Trade Route after Elrood, and the Trition Trade Route branched off Karideph to connect the Minos Cluster and the Kathol sector to the Rimma. Karideph was invaded by the reconstituted Sith Empire during the Great Galactic War, but a Galactic Republic counterattack under the command of Jedi Master Orgus Din and the Special Forces' Lieutenant Harron Tavus drove back the Imperial assault.",
+  "lead_paragraphs": [
+    "Karideph was a planet in the Karideph system, a star system in the Outer Rim Territories's resource-rich Minos Cluster. Home of the insectoid Kari species, Karideph's surface was almost entirely dominated by gardens and agricultural fields that provided for the planet's population of more than 88 billion. Discovered by the greater galaxy alongside the rest of the Minos Cluster between 3956 BBY and 3681 BBY, Karideph was the next stop along the Rimma Trade Route after Elrood, and the Trition Trade Route branched off Karideph to connect the Minos Cluster and the Kathol sector to the Rimma. Karideph was invaded by the reconstituted Sith Empire during the Great Galactic War, but a Galactic Republic counterattack under the command of Jedi Master Orgus Din and the Special Forces' Lieutenant Harron Tavus drove back the Imperial assault."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Karideph",
+    "region": "Outer Rim Territories",
+    "sector": "Minos Cluster",
+    "system": "Karideph system",
+    "coordinates": "M-20",
+    "routes": [
+      "Trition Trade Route",
+      "Rimma Trade Route"
+    ],
+    "lengthday": "19 standard hours",
+    "lengthyear": "204 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Gardens",
+      "Mountains",
+      "Urban"
+    ],
+    "water": "Significant oceans",
+    "interest": "University of Universal Thought",
+    "species": "Kari",
+    "government": "Feudal clans",
+    "population": "Over 88 billion",
+    "cities": "Capital City",
+    "imports": [
+      "Foodstuffs",
+      "Communication devices",
+      "Minerals"
+    ],
+    "exports": [
+      "Servo-neuro motors",
+      "Small machine parts"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kari",
+      "directory": "Kari",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Karideph",
+    "x": 2436.1,
+    "y": -16048.0,
+    "z": -545.8,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

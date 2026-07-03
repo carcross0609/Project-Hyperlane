@@ -1,0 +1,85 @@
+{
+  "name": "Zakuul",
+  "wookieepedia_title": "Zakuul",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zakuul",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zakuul was a planet located in Wild Space that had a unique connection to the Force being balanced between the light and dark sides of the Force. Zakuul served as the capital planet of the Eternal Empire.",
+  "lead_paragraphs": [
+    "Zakuul was a planet located in Wild Space that had a unique connection to the Force being balanced between the light and dark sides of the Force. Zakuul served as the capital planet of the Eternal Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Ancient Iokath influence",
+    "  Valkorion's rise",
+    "  The Golden Age of the Eternal Empire",
+    "  The Golden Age ends",
+    "  A new power in the galaxy",
+    "  The Outlander",
+    "  Alliance operations on Zakuul",
+    "  The new Empress",
+    "  Fall of Eternal Empire",
+    "  A new path",
+    "Locations",
+    "  Endless Swamp",
+    "  Old World",
+    "  The Spire"
+  ],
+  "data": {
+    "name": "Zakuul",
+    "region": "Wild Space",
+    "coordinates": "Canon-only",
+    "suns": "1",
+    "position": "3",
+    "moons": "3",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": [
+      "Swamps and bogs",
+      "Forests",
+      "Fields",
+      "Urban"
+    ],
+    "water": "Significant southern ocean",
+    "interest": "Endless Swamp",
+    "fauna": [
+      "Iknayid (native)",
+      "Lurkers",
+      "Mawvorr",
+      "Swamp ginx",
+      "Swamp rancor",
+      "Wingmaws"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": [
+      "Eternal Empire",
+      "Zakuulan government"
+    ],
+    "demonym": "Zakuulan",
+    "cities": "The Spire",
+    "affiliation": [
+      "Eternal Empire",
+      "Eternal Alliance",
+      "Elected Zakuulan government"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Zakuulan",
+      "directory": "Zakuulan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zakuul",
+    "x": -11165.3,
+    "y": -5185.4,
+    "z": -281.5,
+    "region": "Unknown Regions",
+    "grid": "D-13"
+  },
+  "scraped": "2026-07-03"
+}

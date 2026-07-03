@@ -1,0 +1,42 @@
+{
+  "name": "Moraices",
+  "wookieepedia_title": "Moraices",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moraices",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Moraices was a planet in the Feriae system of the Thesme sector of the Outer Rim.",
+  "lead_paragraphs": [
+    "Moraices was a planet in the Feriae system of the Thesme sector of the Outer Rim."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Moraices",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Thesme sector",
+    "system": "Feriae system",
+    "coordinates": "O-5",
+    "suns": "1: Feriae",
+    "position": "3rd",
+    "moons": "1",
+    "routes": [
+      "Hydian Way",
+      "Junction-Tierell Loop",
+      "Thesme Trace"
+    ],
+    "class": "Barren"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Moraices",
+    "x": -2413.4,
+    "y": 5730.3,
+    "z": -261.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

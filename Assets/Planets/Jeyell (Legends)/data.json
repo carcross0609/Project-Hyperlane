@@ -1,0 +1,40 @@
+{
+  "name": "Jeyell",
+  "wookieepedia_title": "Jeyell/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jeyell/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jeyell was a Mid Rim planet located in the Roche sector, on the Perlemian Trade Route hyperlane. It housed the headquarters of Reiber Manufacturing, a company that manufactured assassin droid components until it was nationalized by the Galactic Empire on 36:4:20.",
+  "lead_paragraphs": [
+    "Jeyell was a Mid Rim planet located in the Roche sector, on the Perlemian Trade Route hyperlane. It housed the headquarters of Reiber Manufacturing, a company that manufactured assassin droid components until it was nationalized by the Galactic Empire on 36:4:20."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Jeyell",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian",
+      "The Slice"
+    ],
+    "sector": "Roche sector",
+    "system": "Jeyell system",
+    "coordinates": "Q-8",
+    "routes": "Perlemian Trade Route",
+    "class": "Terrestrial",
+    "interest": "Reiber Manufacturing headquarters",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Jeyell",
+    "x": 7711.9,
+    "y": 2198.3,
+    "z": -404.0,
+    "region": "Mid Rim",
+    "grid": "Q-8"
+  },
+  "scraped": "2026-07-03"
+}

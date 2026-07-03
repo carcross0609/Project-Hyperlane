@@ -1,0 +1,42 @@
+{
+  "name": "Doneer'so",
+  "wookieepedia_title": "Doneer'so",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Doneer%27so",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Doneer'so was the primary planet of the Doneer'so system in the Fakir sector of the Bakchou arm. It was the homeworld of the insectoid Doneer race. During the Galactic Civil War, Doneer'so served as the sector capital for the Galactic Empire, who established their headquarters in the Sotak'vik clan-city. The Empire maintained a deflector shield and nuclear-damping system over their sector capital, and the use of Sotak'vik engendered fanatic loyalty to the Empire in the Sotak city-clan. Other cities, such as Tokks'vik which was the planet's main shipyard, support the Alliance to Restore the Republic.",
+  "lead_paragraphs": [
+    "Doneer'so was the primary planet of the Doneer'so system in the Fakir sector of the Bakchou arm. It was the homeworld of the insectoid Doneer race. During the Galactic Civil War, Doneer'so served as the sector capital for the Galactic Empire, who established their headquarters in the Sotak'vik clan-city. The Empire maintained a deflector shield and nuclear-damping system over their sector capital, and the use of Sotak'vik engendered fanatic loyalty to the Empire in the Sotak city-clan. Other cities, such as Tokks'vik which was the planet's main shipyard, support the Alliance to Restore the Republic."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Doneer'so",
+    "region": "Colonies",
+    "sector": "Fakir sector",
+    "system": "Doneer'so system",
+    "coordinates": "K-9",
+    "terrain": "Jungle",
+    "species": "Doneer",
+    "cities": [
+      "Sotak'vik",
+      "Tokks'vik"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Doneer",
+      "directory": "Doneer",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Doneer'so",
+    "x": 5103.5,
+    "y": 581.2,
+    "z": -223.4,
+    "region": "Inner Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

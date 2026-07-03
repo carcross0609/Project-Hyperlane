@@ -1,0 +1,36 @@
+{
+  "name": "Fedalle",
+  "wookieepedia_title": "Fedalle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fedalle",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Fedalle was a terrestrial planet within the Fedalle system in the Core Worlds. It was situated along the Hydian Way hyperspace route between Skako and Bellassa, and sat at the head of a second hyperlane that linked it to Kuat.",
+  "lead_paragraphs": [
+    "Fedalle was a terrestrial planet within the Fedalle system in the Core Worlds. It was situated along the Hydian Way hyperspace route between Skako and Bellassa, and sat at the head of a second hyperlane that linked it to Kuat."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Fedalle",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Fedalle system",
+    "coordinates": "M-10",
+    "routes": [
+      "Hydian Way",
+      "Fedalle–Kuat hyperlane"
+    ],
+    "class": "Terrestrial",
+    "interest": "Warplands",
+    "demonym": "Fedallese"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Fedalle",
+    "x": 2097.2,
+    "y": -817.1,
+    "z": -103.5,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

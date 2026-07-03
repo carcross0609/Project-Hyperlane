@@ -1,0 +1,50 @@
+{
+  "name": "Weldii III",
+  "wookieepedia_title": "Weldii III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Weldii_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Weldii III was a mining planet located in the Core Worlds. It was the site of a brutal mining colony led by the Bith administrator Lenc. After the gunrunner Praaelon Di sold weaponry to both sides in a local miners' rebellion, by 3 ABY Lenc tasked a group of bounty hunters and pirates with bringing Di back to Weldii III. When the attempt failed, Di led his own armed force in an attack on Lenc and his staff at Mine Shaft 342 on Weldii III and defeated the administrator.",
+  "lead_paragraphs": [
+    "Weldii III was a mining planet located in the Core Worlds. It was the site of a brutal mining colony led by the Bith administrator Lenc. After the gunrunner Praaelon Di sold weaponry to both sides in a local miners' rebellion, by 3 ABY Lenc tasked a group of bounty hunters and pirates with bringing Di back to Weldii III. When the attempt failed, Di led his own armed force in an attack on Lenc and his staff at Mine Shaft 342 on Weldii III and defeated the administrator."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Weldii III",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "system": "Weldii system",
+    "coordinates": "L-13",
+    "position": "3",
+    "class": "Terrestrial",
+    "terrain": "Forest",
+    "interest": [
+      "Mine Shaft 342",
+      "Mining colony"
+    ],
+    "otherspecies": [
+      "Aqualish",
+      "Humans",
+      "Klatooinians",
+      "Mustafarians",
+      "Rodians"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Weldii III",
+    "x": 707.3,
+    "y": -4763.2,
+    "z": 102.0,
+    "region": "Core Worlds",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

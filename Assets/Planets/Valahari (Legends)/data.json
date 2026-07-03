@@ -1,0 +1,47 @@
+{
+  "name": "Valahari",
+  "wookieepedia_title": "Valahari/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Valahari/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Valahari was an Outer Rim planet that claimed neutrality in the Clone Wars, but gave newer and advanced ships to the Confederacy of Independent Systems that gave the CIS an advantage over the Galactic Republic.",
+  "lead_paragraphs": [
+    "Valahari was an Outer Rim planet that claimed neutrality in the Clone Wars, but gave newer and advanced ships to the Confederacy of Independent Systems that gave the CIS an advantage over the Galactic Republic.",
+    "The people of Valahari had a strong reputation for being some of the best starfighter engineers in the galaxy."
+  ],
+  "article_sections": [
+    "Geology, geography, flora & fauna",
+    "History"
+  ],
+  "data": {
+    "name": "Valahari",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "D'Astan sector",
+      "  Valahari subsector"
+    ],
+    "system": "Valahari system",
+    "coordinates": "N-5",
+    "suns": "2",
+    "class": "Terrestrial",
+    "terrain": "Mountains",
+    "interest": [
+      "Castle Vane",
+      "Valahari Shipworks"
+    ],
+    "otherspecies": "Human",
+    "government": "Hereditary Monarchy",
+    "exports": "Starfighters",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Valahari",
+    "x": 3797.9,
+    "y": 7219.1,
+    "z": -50.1,
+    "region": "Outer Rim",
+    "grid": "N-5"
+  },
+  "scraped": "2026-07-03"
+}

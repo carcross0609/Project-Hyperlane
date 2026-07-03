@@ -1,0 +1,48 @@
+{
+  "name": "Kasiol 3",
+  "wookieepedia_title": "Kasiol 3",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kasiol_3",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kasiol 3, also known as Kasiol's third planet, was a world located in the Outer Rim Territories' Pelgrin sector. Its surface featured forests and numerous swamps. The local fauna included the herlixx, a species of amphibian omnivore that hunted fish and smaller amphibians. Kasiol 3 had been colonized by the time of the reign of the Galactic Empire.",
+  "lead_paragraphs": [
+    "Kasiol 3, also known as Kasiol's third planet, was a world located in the Outer Rim Territories' Pelgrin sector. Its surface featured forests and numerous swamps. The local fauna included the herlixx, a species of amphibian omnivore that hunted fish and smaller amphibians. Kasiol 3 had been colonized by the time of the reign of the Galactic Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Kasiol 3",
+    "region": "Outer Rim Territories",
+    "sector": "Pelgrin sector",
+    "system": "Kasiol system",
+    "coordinates": "R-18",
+    "position": "3",
+    "class": "Terrestrial",
+    "terrain": [
+      "Forests",
+      "River tributaries",
+      "Swamps and marshes"
+    ],
+    "flora": [
+      "Algae",
+      "Trees",
+      "Vines"
+    ],
+    "fauna": [
+      "Fish",
+      "Herlixx"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kasiol 3",
+    "x": 9709.9,
+    "y": -12573.2,
+    "z": 163.8,
+    "region": "Outer Rim",
+    "grid": "R-18"
+  },
+  "scraped": "2026-07-03"
+}

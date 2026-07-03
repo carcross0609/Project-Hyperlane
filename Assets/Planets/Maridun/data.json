@@ -1,0 +1,68 @@
+{
+  "name": "Maridun",
+  "wookieepedia_title": "Maridun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maridun",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Maridun was a planet located in the Rolion sector of the Outer Rim Territories. It was a temperate and verdant world, with a comfortable climate despite its challenging ecosystem and dangerous predators. Covered in grassy plains where large seed pods grew, it was the homeworld of the Amanin and was inhabited by mastiff phalones.",
+  "lead_paragraphs": [
+    "Maridun was a planet located in the Rolion sector of the Outer Rim Territories. It was a temperate and verdant world, with a comfortable climate despite its challenging ecosystem and dangerous predators. Covered in grassy plains where large seed pods grew, it was the homeworld of the Amanin and was inhabited by mastiff phalones."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Maridun",
+    "region": "Outer Rim Territories",
+    "sector": "Rolion sector",
+    "system": "Maridun system",
+    "coordinates": "Q-6",
+    "suns": "1",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Plains",
+      "Savannas"
+    ],
+    "interest": [
+      "Lurmen village",
+      "Separatist outpost"
+    ],
+    "fauna": [
+      "Carrier butterflies",
+      "Charnoq",
+      "Corinathoth",
+      "Fwit",
+      "Mastiff phalones"
+    ],
+    "species": "Amani",
+    "otherspecies": "Lurmen"
+  },
+  "homeworld_of": [
+    {
+      "name": "Amani",
+      "directory": "Amani",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Amani",
+      "directory": "Amani (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lurmen",
+      "directory": "Lurmen (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Maridun",
+    "x": 7690.8,
+    "y": 5339.7,
+    "z": 87.4,
+    "region": "Outer Rim",
+    "grid": "Q-6"
+  },
+  "scraped": "2026-07-03"
+}

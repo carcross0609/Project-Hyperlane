@@ -1,0 +1,64 @@
+{
+  "name": "Rion",
+  "wookieepedia_title": "Rion/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rion/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rion was a planet located in the Kessel sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Rion was a planet located in the Kessel sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Dark Times",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Rion",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Rion system",
+    "coordinates": "T-10",
+    "suns": "At least 1",
+    "moons": "At least 2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Frozen",
+      "Formerly: Tropical"
+    ],
+    "terrain": [
+      "Ice",
+      "Snow",
+      "Formerly: Rainforests"
+    ],
+    "interest": "Tana's Resort",
+    "fauna": "Frella fish",
+    "otherspecies": [
+      "Aqualish",
+      "Arcona",
+      "Duros",
+      "Gands",
+      "H'nemthe",
+      "Humans",
+      "Ithorians",
+      "Twi'leks"
+    ],
+    "language": "Galactic Basic Standard",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Rion",
+    "x": 12603.7,
+    "y": -468.3,
+    "z": -157.3,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

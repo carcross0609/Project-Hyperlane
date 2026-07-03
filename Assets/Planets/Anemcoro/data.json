@@ -1,0 +1,41 @@
+{
+  "name": "Anemcoro",
+  "wookieepedia_title": "Anemcoro",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anemcoro",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Anemcoro was a colony world located in the Anemcoro system of the Outer Rim Territories' Albarrio sector.",
+  "lead_paragraphs": [
+    "Anemcoro was a colony world located in the Anemcoro system of the Outer Rim Territories' Albarrio sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Anemcoro",
+    "region": "Outer Rim Territories",
+    "sector": "Albarrio sector",
+    "system": "Anemcoro system",
+    "coordinates": "K-5",
+    "class": "Terrestrial",
+    "terrain": "Terraformed",
+    "otherspecies": "Ho'Din",
+    "language": "Ho'Din",
+    "population": "1 million to 10 million",
+    "affiliation": [
+      "Galactic Empire",
+      "Pentastar Alignment",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Anemcoro",
+    "x": -52.7,
+    "y": 6922.5,
+    "z": -14.0,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

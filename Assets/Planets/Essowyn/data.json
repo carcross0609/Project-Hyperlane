@@ -1,0 +1,97 @@
+{
+  "name": "Essowyn",
+  "wookieepedia_title": "Essowyn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Essowyn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Essowyn was the only planet in the Saurton system. The planet was located in the Trax sector, situated between the Kanawyn and Greawyn asteroid belts.",
+  "lead_paragraphs": [
+    "Essowyn was the only planet in the Saurton system. The planet was located in the Trax sector, situated between the Kanawyn and Greawyn asteroid belts."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations",
+    "  Cities",
+    "  Mining Corporations"
+  ],
+  "data": {
+    "name": "Essowyn",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Trax sector",
+    "system": "Saurton system",
+    "coordinates": "Q-10",
+    "suns": "1: Saurton (yellow)",
+    "position": "2",
+    "moons": "4",
+    "lengthday": "39 standard hours",
+    "lengthyear": "401 local days",
+    "class": "Terrestrial (cratered plains)",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Cratered plains",
+      "Cratered low hills"
+    ],
+    "interest": [
+      "Sorontill",
+      "Baslar",
+      "Steltout",
+      "Macor"
+    ],
+    "fauna": [
+      "Hoska",
+      "Terecon"
+    ],
+    "species": [
+      "Saurton",
+      "Hoska"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Sullustans",
+      "Verpine"
+    ],
+    "government": "Elitist council",
+    "population": "80 million",
+    "cities": [
+      "Asagov",
+      "Carbor",
+      "Distol",
+      "Essor",
+      "Hilissa (capital)"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "High technology",
+      "Medicinal goods",
+      "Spices and herbs"
+    ],
+    "exports": [
+      "Foodstuffs",
+      "Metals",
+      "Minerals"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Saurton",
+      "directory": "Saurton",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Essowyn",
+    "x": -800.1,
+    "y": -12425.0,
+    "z": -641.4,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

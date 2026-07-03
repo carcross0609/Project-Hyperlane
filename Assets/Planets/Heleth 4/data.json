@@ -1,0 +1,36 @@
+{
+  "name": "Heleth 4",
+  "wookieepedia_title": "Heleth 4",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Heleth_4",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Heleth 4 was a planet occupying the fourth orbital position within the Heleth system. It was the homeworld of the sentient Felin species.",
+  "lead_paragraphs": [
+    "Heleth 4 was a planet occupying the fourth orbital position within the Heleth system. It was the homeworld of the sentient Felin species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Heleth 4",
+    "system": "Heleth system",
+    "position": "4",
+    "climate": "Extremely seasonal",
+    "gravity": "Approximately 2.9 g",
+    "species": "Felin",
+    "language": "Felin language",
+    "government": "High Command",
+    "imports": "Technology",
+    "exports": [
+      "Weaponry (historically)",
+      "Mercenaries"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Felin",
+      "directory": "Felin",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

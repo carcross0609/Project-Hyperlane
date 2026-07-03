@@ -1,0 +1,44 @@
+{
+  "name": "Thule",
+  "wookieepedia_title": "Thule",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thule",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Thule was an arid mountainous planet within the Thurra system in the Esstran sector of the Outer Rim Territories. The planet shared its name with a mercenary gang known as Thugs of Thule.",
+  "lead_paragraphs": [
+    "Thule was an arid mountainous planet within the Thurra system in the Esstran sector of the Outer Rim Territories. The planet shared its name with a mercenary gang known as Thugs of Thule."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Thule",
+    "region": "Outer Rim Territories",
+    "sector": "Esstran sector",
+    "system": "Thurra system",
+    "coordinates": "Q-5",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": "Mountainous",
+    "interest": [
+      "Thule droid factory",
+      "A Sith temple"
+    ],
+    "affiliation": [
+      "Sith",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Thule",
+    "x": 8845.8,
+    "y": 7394.3,
+    "z": -239.6,
+    "region": "Outer Rim",
+    "grid": "Q-5"
+  },
+  "scraped": "2026-07-03"
+}

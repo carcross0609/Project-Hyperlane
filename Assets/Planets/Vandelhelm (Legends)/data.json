@@ -1,0 +1,70 @@
+{
+  "name": "Vandelhelm",
+  "wookieepedia_title": "Vandelhelm/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vandelhelm/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vandelhelm was a planet located in the Vandelhelm system, inside of the Vandelhelm Cloud within the Expansion Region. It was known for its starshipwrights, and manufacturing capabilities.",
+  "lead_paragraphs": [
+    "Vandelhelm was a planet located in the Vandelhelm system, inside of the Vandelhelm Cloud within the Expansion Region. It was known for its starshipwrights, and manufacturing capabilities."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vandelhelm",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Epsi Collective",
+    "system": "Vandelhelm system",
+    "coordinates": "M-15",
+    "suns": "1: Vandelhelm",
+    "moons": "13",
+    "routes": "Rimma Trade Route",
+    "lengthday": "22 standard hours",
+    "lengthyear": "292 local days",
+    "class": "Terrestrial",
+    "diameter": "8,008 kilometers",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "gravity": "1.2 Standard",
+    "terrain": [
+      "Cities",
+      "Deserts",
+      "Mountains"
+    ],
+    "species": "None",
+    "otherspecies": [
+      "Humans",
+      "Sullustans",
+      "Other"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Corporate monarchy",
+    "population": "40 million (90% Humans, 6% Sullustans, 4% assorted alien species)",
+    "imports": "Foodstuffs",
+    "exports": [
+      "Alloys",
+      "Ore",
+      "Sculpture"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vandelhelm",
+    "x": 1805.2,
+    "y": -8773.7,
+    "z": -179.7,
+    "region": "Expansion Region",
+    "grid": "M-15"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,137 @@
+{
+  "name": "Ando",
+  "wookieepedia_title": "Ando/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ando/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ando was an oceanic planet located in the Ando system of the Mid Rim. It was also the homeworld of the Aqualish species.",
+  "lead_paragraphs": [
+    "Ando was an oceanic planet located in the Ando system of the Mid Rim. It was also the homeworld of the Aqualish species."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Galactic Republic",
+    "  Clone Wars",
+    "  Imperial era",
+    "  Yuuzhan Vong War"
+  ],
+  "data": {
+    "name": "Ando",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Lambda sector",
+    "system": "Ando system",
+    "coordinates": "Q-15",
+    "suns": "1: Ando",
+    "position": "2",
+    "moons": "2",
+    "routes": "Manda–Mon Gazza hyperlane",
+    "lengthday": "26 standard hours",
+    "lengthyear": "342 local days",
+    "class": "Terrestrial",
+    "diameter": "14,885 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate and humid",
+    "gravity": "1.22 standard",
+    "terrain": [
+      "Open saltwater oceans",
+      "Swampy islands",
+      "Small rocky islands and rocky outeroppings",
+      "Rainforests"
+    ],
+    "water": "Saturated, 95%",
+    "interest": [
+      "Azure Overlook",
+      "Evazan's castle",
+      "Fishing Platform Yinn-x34"
+    ],
+    "flora": "Swamp cedar",
+    "fauna": [
+      "Marsh lizard",
+      "Flingler bird",
+      "Rock polyp",
+      "Mineral-fish",
+      "Clawclam",
+      "Stone-fin"
+    ],
+    "species": [
+      "Aqualish",
+      "  Aquala",
+      "  Quara",
+      "  Ualaq"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Mon Calamari",
+      "Ithorian",
+      "Sullustan"
+    ],
+    "language": [
+      "Aqualish/Andoan its and slightly different dialects",
+      "Galactic Basic Standard"
+    ],
+    "government": [
+      "Regional government: First Minister",
+      "Imperial Military administration: prefect, later governor"
+    ],
+    "population": [
+      "850,000:",
+      "  97% Aqualish",
+      "  2% Human",
+      "  1% other"
+    ],
+    "demonym": "Andoan",
+    "cities": [
+      "Quantill City (capital)",
+      "Imthitill",
+      "Natamee"
+    ],
+    "imports": [
+      "High technology",
+      "Non-aquatic foodstulls",
+      "Lumber",
+      "Luxury goods"
+    ],
+    "exports": [
+      "Metals, including Sedrellium",
+      "Sea foods",
+      "Salt"
+    ],
+    "affiliation": [
+      "Divided ethnic authorities",
+      "Aqualish temporary alliance",
+      "Galactic Republic (guardianship)",
+      "Confederacy of Independent Systems (as a sovereign force)",
+      "Galactic Empire (occupation)",
+      "Personal rule of Moff Par Lankin (briefly)",
+      "New Republic",
+      "Yuuzhan Vong empire (occupation)",
+      "Independent"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Aqualish",
+      "directory": "Aqualish",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Aqualish",
+      "directory": "Aqualish (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ando",
+    "x": 7887.5,
+    "y": -8964.5,
+    "z": 140.7,
+    "region": "Mid Rim",
+    "grid": "Q-15"
+  },
+  "scraped": "2026-07-03"
+}

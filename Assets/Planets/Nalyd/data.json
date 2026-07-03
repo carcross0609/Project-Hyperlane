@@ -1,0 +1,48 @@
+{
+  "name": "Nalyd",
+  "wookieepedia_title": "Nalyd",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nalyd",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nalyd was an Outer Rim planet and the homeworld of the Nalydians, a species of sentient, stocky humanoids. Its inhabitants practiced the death penalty on citizens who had broken the law, and it was there that Ania Solo and Jao Assam went in search of Darth Wredd's minion, Dieben, in 138 ABY.",
+  "lead_paragraphs": [
+    "Nalyd was an Outer Rim planet and the homeworld of the Nalydians, a species of sentient, stocky humanoids. Its inhabitants practiced the death penalty on citizens who had broken the law, and it was there that Ania Solo and Jao Assam went in search of Darth Wredd's minion, Dieben, in 138 ABY."
+  ],
+  "article_sections": [
+    "Description",
+    "  Geography",
+    "  People",
+    "History"
+  ],
+  "data": {
+    "option1": "Orbit",
+    "option2": "Surface",
+    "name": "Nalyd",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tharin sector",
+    "system": "Nalyd system",
+    "coordinates": "S-7",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Enormous rock pinnacles with shallow wetlands at the base",
+    "fauna": [
+      "Giant six-armed creatures",
+      "Floating jellyfish-like creatures"
+    ],
+    "species": "Nalydian",
+    "language": "Basic",
+    "population": "Mostly Nalydians"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nalydian",
+      "directory": "Nalydian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

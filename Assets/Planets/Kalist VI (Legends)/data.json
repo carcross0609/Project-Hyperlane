@@ -1,0 +1,46 @@
+{
+  "name": "Kalist VI",
+  "wookieepedia_title": "Kalist VI/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalist_VI/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kalist VI, also known simply as Kalist, was a planet located in the Deep Core. It was the homeworld of Dak Ralter.",
+  "lead_paragraphs": [
+    "Kalist VI, also known simply as Kalist, was a planet located in the Deep Core. It was the homeworld of Dak Ralter."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kalist VI",
+    "region": "Deep Core",
+    "system": "Kalist system",
+    "coordinates": "K-12",
+    "moons": "At least two",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Dry",
+    "terrain": [
+      "Desert",
+      "Mountains"
+    ],
+    "interest": "Kalist Base",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Empire",
+      "Zero Command"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kalist VI",
+    "x": -204.6,
+    "y": -3034.8,
+    "z": 134.1,
+    "region": "Deep Core",
+    "grid": "K-12"
+  },
+  "scraped": "2026-07-03"
+}

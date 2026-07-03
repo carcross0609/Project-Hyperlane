@@ -1,0 +1,41 @@
+{
+  "name": "Low'n",
+  "wookieepedia_title": "Low'n",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Low%27n",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Low'n was a populous world in the Romintine sector of the Mid Rim. It was the homeworld of the Lowen.",
+  "lead_paragraphs": [
+    "Low'n was a populous world in the Romintine sector of the Mid Rim. It was the homeworld of the Lowen."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Low'n",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Romintine sector",
+    "system": "Low'n system",
+    "coordinates": "Q-8",
+    "species": "Lowen"
+  },
+  "homeworld_of": [
+    {
+      "name": "Lowen",
+      "directory": "Lowen",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Low'n",
+    "x": 7795.3,
+    "y": 2727.3,
+    "z": -55.2,
+    "region": "Mid Rim",
+    "grid": "Q-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Cadomai Prime",
+  "wookieepedia_title": "Cadomai Prime",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cadomai_Prime",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Cadomai Prime, also known as simply Cadomai, was a planet located in the galaxy's Outer Rim Territories, situated along the Hydian Way that was the homeworld of the Snivvian species. The winters of Cadomai Prime were very harsh for the Snivvians to survive, during which they spent the time in underground caverns in artistic pursuits. Some did escape the icy tundras to become bounty hunters offworld.",
+  "lead_paragraphs": [
+    "Cadomai Prime, also known as simply Cadomai, was a planet located in the galaxy's Outer Rim Territories, situated along the Hydian Way that was the homeworld of the Snivvian species. The winters of Cadomai Prime were very harsh for the Snivvians to survive, during which they spent the time in underground caverns in artistic pursuits. Some did escape the icy tundras to become bounty hunters offworld."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Cadomai Prime",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Aparo sector",
+      "  Catarlo sector"
+    ],
+    "system": "Cadomai system",
+    "coordinates": "R-3",
+    "routes": "Hydian Way",
+    "climate": "Cold and harsh (during winter season)",
+    "terrain": [
+      "Caverns",
+      "Icy tundras"
+    ],
+    "interest": [
+      "Cadomai Art Institute",
+      "University of Cadomai"
+    ],
+    "species": "Snivvian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Snivvian",
+      "directory": "Snivvian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Snivvian",
+      "directory": "Snivvian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cadomai Prime",
+    "x": 10022.6,
+    "y": 9192.9,
+    "z": 200.1,
+    "region": "Outer Rim",
+    "grid": "R-3"
+  },
+  "scraped": "2026-07-03"
+}

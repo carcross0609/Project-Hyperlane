@@ -1,0 +1,39 @@
+{
+  "name": "Rymm",
+  "wookieepedia_title": "Rymm",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rymm",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rymm was the third planet of the Zelos system, located in the Tyus sector of the Mid Rim. It was a mountainous and volcanic world with one moon.",
+  "lead_paragraphs": [
+    "Rymm was the third planet of the Zelos system, located in the Tyus sector of the Mid Rim. It was a mountainous and volcanic world with one moon."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rymm",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Tyus sector",
+    "system": "Zelos system",
+    "coordinates": "N-16",
+    "suns": "Zelos",
+    "position": "3rd",
+    "moons": "1",
+    "terrain": [
+      "Mountains",
+      "Volcanoes"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Rymm",
+    "x": 3197.6,
+    "y": -10250.0,
+    "z": 49.4,
+    "region": "Mid Rim",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

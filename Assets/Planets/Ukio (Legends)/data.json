@@ -1,0 +1,79 @@
+{
+  "name": "Ukio",
+  "wookieepedia_title": "Ukio/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ukio/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ukio was a well-known agriworld in the Ukio system of the Abrion sector and the homeworld of the Ukians. It served as one of the top producers of foodstuffs for the Core Worlds.",
+  "lead_paragraphs": [
+    "Ukio was a well-known agriworld in the Ukio system of the Abrion sector and the homeworld of the Ukians. It served as one of the top producers of foodstuffs for the Core Worlds."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history and secession",
+    "  Imperial Period and later history"
+  ],
+  "data": {
+    "name": "Ukio",
+    "region": "Outer Rim Territories",
+    "sector": "Abrion sector",
+    "system": "Ukio system",
+    "coordinates": "S-15",
+    "suns": "1: Unidentified star",
+    "moons": "1",
+    "routes": "Manda Merchant Route",
+    "lengthday": "22 standard hours",
+    "lengthyear": "357 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Light (0.8 standard)",
+    "terrain": "Plains",
+    "water": "Hundreds of rivers",
+    "interest": "Lot 452",
+    "fauna": [
+      "Enyak",
+      "Gigaun"
+    ],
+    "species": "Ukian",
+    "otherspecies": "Human",
+    "government": "Overliege monarchy",
+    "population": [
+      "7.5 billion",
+      "1 billion to 10 billion (c. 25 ABY)"
+    ],
+    "demonym": "Ukian",
+    "cities": "Sashasa",
+    "imports": "High technology",
+    "exports": "Foodstuffs",
+    "affiliation": [
+      "Brotherhood of Darkness",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ukian",
+      "directory": "Ukian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ukian",
+      "directory": "Ukian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ukio",
+    "x": 10993.7,
+    "y": -8002.2,
+    "z": -366.4,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

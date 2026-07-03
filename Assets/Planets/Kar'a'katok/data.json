@@ -1,0 +1,43 @@
+{
+  "name": "Kar'a'katok",
+  "wookieepedia_title": "Kar'a'katok",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kar%27a%27katok",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kar'a'katok was a Core Worlds planet that was home to the sentient Shimholt species. More than four millennia before the reign of the Galactic Empire, the Nelori Marauders launched a devastating invasion of Kar'a'katok that the Shimholt were able to eventually fight off.",
+  "lead_paragraphs": [
+    "Kar'a'katok was a Core Worlds planet that was home to the sentient Shimholt species. More than four millennia before the reign of the Galactic Empire, the Nelori Marauders launched a devastating invasion of Kar'a'katok that the Shimholt were able to eventually fight off.",
+    "Afterward, dissatisfaction with the planetary government led to a coup in which a faction of Shimholt religious fanatics came to power. The Shimholt zealots oversaw the fortification of Kar'a'katok against future invasions as well as increasing seclusion of the species and its homeworld, a state that lasted for four thousand years. Eventually, forces of the Empire carried out a raid on the planet that saw the capture and subsequent exile of Shimholt Suprema Ampotem Za."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Kar'a'katok",
+    "region": "Core Worlds",
+    "system": "Kar'a'katok system",
+    "coordinates": "K-9",
+    "class": "Terrestrial",
+    "climate": "Misty",
+    "species": "Shimholt",
+    "government": "Democracy (Four millennia prior to the reign of the Galactic Empire)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shimholt",
+      "directory": "Shimholt",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kar'a'katok",
+    "x": -1016.1,
+    "y": 178.1,
+    "z": 75.5,
+    "region": "Core Worlds",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

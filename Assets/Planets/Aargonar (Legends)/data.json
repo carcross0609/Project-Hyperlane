@@ -1,0 +1,57 @@
+{
+  "name": "Aargonar",
+  "wookieepedia_title": "Aargonar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aargonar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aargonar was a dusty, desert-climate planet located in the Borderland Regions of the Mid Rim.",
+  "lead_paragraphs": [
+    "Aargonar was a dusty, desert-climate planet located in the Borderland Regions of the Mid Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Aargonar",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Perkell sector",
+    "system": "Aargonar system",
+    "coordinates": "Q-7",
+    "moons": "Aargonar 3",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Desert",
+    "interest": [
+      "Separatist base",
+      "Republic base",
+      "Vondar Canyon"
+    ],
+    "fauna": [
+      "Gouka dragon",
+      "Sarlacc"
+    ],
+    "otherspecies": "Yuzzem",
+    "affiliation": [
+      "Darth Revan's Sith Empire",
+      "Confederacy of Independent Systems",
+      "Alliance to Restore the Republic",
+      "Galactic Empire",
+      "Yuuzhan Vong empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Aargonar",
+    "x": 8605.3,
+    "y": 3766.0,
+    "z": 53.8,
+    "region": "Mid Rim",
+    "grid": "Q-7"
+  },
+  "scraped": "2026-07-03"
+}

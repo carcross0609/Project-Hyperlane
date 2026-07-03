@@ -1,0 +1,32 @@
+# Cerosha
+
+**Continuity:** Canon  
+**Source:** [Cerosha](https://starwars.fandom.com/wiki/Cerosha)
+
+Cerosha was a planet home to several cities, including Mock and Solace. For many years, Solace had been peaceful and lively, but some individuals visited Solace for illegal trade. According to legend, Solace was protected by an individual known as the Wanderer, who was first seen on Cerosha when he saved the city from a group of pirates. Several years later, the Wanderer returned to Solace, assisting its citizens with an infestation of creatures uncovered in a mining operation. Some time afterwards, the Wanderer returned to protect Solace when tidal waves from the nearby Boralic Sea threatened to destroy the city. The Wanderer held back the water until the waves receded, and departed from Cerosha, and was never seen again.
+
+At some point after the Wanderer's disappearance, the city of Solace was destroyed by a figure known only as the Dark Wraith. Long after the city's destruction, other inhabitants of Cerosha developed several rumors regarding the reasons behind the event. Citizens of the nearby city of Mock believed that the inhabitants of Solace continued to refuse to follow the Dark Wraith's orders, and, after several incidents, the Dark Wraith punished Solace by destroying the entire city, leaving only a small number of survivors. In the time after Solace's destruction, the land on which it was built was not redeveloped, and the ruins of the city were left as a reminder of what disobedience would lead to.
+
+## Planetary data
+
+- **Name:** Cerosha
+- **Region:** Outer Rim Territories
+- **Sector:** Jospro sector
+- **System:** Cerosha system
+- **Coordinates:** R-7
+- **Class:** Terrestrial
+- **Atmosphere:** Breathable
+- **Terrain:** Mountains
+- **Water:** Oceans
+- **Interest:**
+  - Boralic Sea
+  - A pirate camp
+- **Cities:**
+  - Cairos
+  - Mock
+  - Müch
+  - Solace
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

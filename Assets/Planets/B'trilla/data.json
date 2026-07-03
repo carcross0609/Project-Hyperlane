@@ -1,0 +1,44 @@
+{
+  "name": "B'trilla",
+  "wookieepedia_title": "B'trilla",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/B%27trilla",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "B'trilla was a foggy world located in the B'trilla system. It was situated in the Back Reach area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. The hyperlane known as the Ardan Cross connected it to the Chenowei and Feena systems. B'trilla was the homeworld of the sentient B'trillan species and was heavily populated.",
+  "lead_paragraphs": [
+    "B'trilla was a foggy world located in the B'trilla system. It was situated in the Back Reach area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. The hyperlane known as the Ardan Cross connected it to the Chenowei and Feena systems. B'trilla was the homeworld of the sentient B'trillan species and was heavily populated."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "B'trilla",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Gordian Reach",
+      "  Back Reach"
+    ],
+    "system": "B'trilla system",
+    "coordinates": "Q-5",
+    "routes": "Ardan Cross",
+    "climate": "Foggy",
+    "species": "B'trillan"
+  },
+  "homeworld_of": [
+    {
+      "name": "B'trillan",
+      "directory": "B'trillan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "B'trilla",
+    "x": 8210.0,
+    "y": 6392.5,
+    "z": -148.7,
+    "region": "Outer Rim",
+    "grid": "Q-5"
+  },
+  "scraped": "2026-07-03"
+}

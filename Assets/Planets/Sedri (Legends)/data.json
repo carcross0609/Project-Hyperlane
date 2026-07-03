@@ -1,0 +1,75 @@
+{
+  "name": "Sedri",
+  "wookieepedia_title": "Sedri/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sedri/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sedri was a waterworld, the third planet in the Sedri system. It was the homeworld of the Sedrians and the Golden Sun, a living coral used as a power source.",
+  "lead_paragraphs": [
+    "Sedri was a waterworld, the third planet in the Sedri system. It was the homeworld of the Sedrians and the Golden Sun, a living coral used as a power source."
+  ],
+  "article_sections": [
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Sedri",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Periphery",
+    "system": "Sedri system",
+    "coordinates": "S-8",
+    "position": "3",
+    "lengthday": "18 standard hours",
+    "lengthyear": "286 standard days",
+    "class": "Shallow waterworld",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Coral reefs",
+      "Shallow oceans"
+    ],
+    "water": "Saturated",
+    "fauna": [
+      "Gweld",
+      "Razort",
+      "Stinger fish",
+      "Stink fish",
+      "Twenchok"
+    ],
+    "species": [
+      "Golden Sun",
+      "Sedrian"
+    ],
+    "population": "Less than 10,000",
+    "cities": "Fitsay",
+    "imports": [
+      "High technology",
+      "Mid technology"
+    ],
+    "exports": "Water",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sedrian",
+      "directory": "Sedrian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sedri",
+    "x": 11404.3,
+    "y": 2180.2,
+    "z": 343.5,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

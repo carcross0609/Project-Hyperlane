@@ -1,0 +1,45 @@
+{
+  "name": "Biivren",
+  "wookieepedia_title": "Biivren",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Biivren",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Biivren was a planet located in the Expansion Region's Biivren sector. An industrial world controlled by the Galactic Empire, it was the site of a large zone of factories and refineries that gradually contaminated the planet's water supply.",
+  "lead_paragraphs": [
+    "Biivren was a planet located in the Expansion Region's Biivren sector. An industrial world controlled by the Galactic Empire, it was the site of a large zone of factories and refineries that gradually contaminated the planet's water supply.",
+    "The Blood Razors swoop gang operated on Biivren and protected the industrial sector's inhabitants. Following the Battle of Endor, Imperial forces retreated from Biivren, leaving the world to face a shortage of drinking water. A group of free-traders subsequently shipped in large amounts of potable water to sell it to the highest bidder."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Biivren",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Biivren sector",
+    "system": "Biivren system",
+    "coordinates": "P-9",
+    "class": "Terrestrial",
+    "interest": [
+      "Biivren's industrial sector",
+      "Biivren starport"
+    ],
+    "imports": "Drinking water",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Biivren",
+    "x": 6823.0,
+    "y": 864.8,
+    "z": -38.2,
+    "region": "Expansion Region",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Ord Cestus",
+  "wookieepedia_title": "Ord Cestus/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ord_Cestus/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ord Cestus, also known simply as Cestus, was a planet that was home to the X'Ting species.",
+  "lead_paragraphs": [
+    "Ord Cestus, also known simply as Cestus, was a planet that was home to the X'Ting species."
+  ],
+  "article_sections": [
+    "Description",
+    "  Native fauna",
+    "History"
+  ],
+  "data": {
+    "name": "Ord Cestus",
+    "region": "Outer Rim Territories",
+    "sector": "D'Astan sector",
+    "system": "Ord Cestus system",
+    "coordinates": "O-6",
+    "suns": "1",
+    "moons": "2",
+    "routes": [
+      "Celanon Spur",
+      "Spurs of Celanon"
+    ],
+    "class": "Terrestrial",
+    "climate": "Arid",
+    "terrain": [
+      "Mountains",
+      "Volcanoes",
+      "Deserts",
+      "Hills",
+      "Plains"
+    ],
+    "interest": [
+      "Dashta Mountains",
+      "Grand ChikatLik",
+      "Kibo Sands",
+      "Cleft Head",
+      "Kibo Lake",
+      "Kibo Plateau",
+      "Tolmea Mountains",
+      "Yal-Noy",
+      "Kibo Geothermal Station",
+      "Tolmeatek",
+      "Zantay Hills",
+      "Cestus Penitentiary",
+      "Night Shade",
+      "Badlands",
+      "Ore Boulevard",
+      "Zantay Caves"
+    ],
+    "species": [
+      "Dashta eel",
+      "Spider People",
+      "X'Ting",
+      "Zeetsa"
+    ],
+    "otherspecies": [
+      "Chadra-Fan",
+      "Corthenian",
+      "Glymphid",
+      "Human",
+      "Juzzian",
+      "Kiffar",
+      "Wookiee",
+      "Wroonian",
+      "Xexto"
+    ],
+    "language": [
+      "X'Tingian",
+      "Formerly Old X'Tingian"
+    ],
+    "government": "Hive Council",
+    "population": "Millions in 21 BBY; 97% immigrants",
+    "demonym": "Cestian",
+    "cities": [
+      "6 major, inc.:",
+      "  ChikatLik (capital)",
+      "  Barrens",
+      "  Clandes",
+      "  Jantos"
+    ],
+    "exports": [
+      "Droids",
+      "Fungus"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Darth Revan's Sith Empire",
+      "Techno Union",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Dashta eel",
+      "directory": "Dashta eel",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Spider People",
+      "directory": "Spider People",
+      "continuity": "Legends"
+    },
+    {
+      "name": "X'Ting",
+      "directory": "X'Ting",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Zeetsa",
+      "directory": "Zeetsa",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ord Cestus",
+    "x": 4935.8,
+    "y": 5860.7,
+    "z": -430.9,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

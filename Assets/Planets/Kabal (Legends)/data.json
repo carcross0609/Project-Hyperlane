@@ -1,0 +1,71 @@
+{
+  "name": "Kabal",
+  "wookieepedia_title": "Kabal/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kabal/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kabal was an Outer Rim planet in Mayagil sector, on the Sharlissian Trade Corridor.",
+  "lead_paragraphs": [
+    "Kabal was an Outer Rim planet in Mayagil sector, on the Sharlissian Trade Corridor."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kabal",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Mayagil sector",
+    "system": "Kabal system",
+    "coordinates": "N-18",
+    "moons": "1",
+    "routes": [
+      "Sanrafsix Corridor",
+      "Sharlissian Trade Corridor"
+    ],
+    "class": "Terrestrial",
+    "terrain": [
+      "Oceans",
+      "Large forested islands"
+    ],
+    "interest": [
+      "Kabal Central Citadel",
+      "Docking Pad P13"
+    ],
+    "flora": [
+      "Arboray tree",
+      "Maraffa"
+    ],
+    "fauna": "Water-spider",
+    "otherspecies": [
+      "Houk",
+      "Human",
+      "Krish",
+      "Squib"
+    ],
+    "language": "Kabalian",
+    "cities": [
+      "Palisade",
+      "Shoribus (capital)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Eriadu Authority",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kabal",
+    "x": 3506.6,
+    "y": -12777.2,
+    "z": -509.0,
+    "region": "Outer Rim",
+    "grid": "N-18"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Kinyen",
+  "wookieepedia_title": "Kinyen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kinyen",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kinyen was an agriworld located in the Kinyen system in the Bes Ber Bikade sector of the Expansion Region, on a junction with the Corellian Trade Spine and the Great Gran Run. It was the original homeworld of the Gran species. Malastare , which was colonized by Gran hundreds of years before the Imperial Era, was also considered a homeworld of the Gran.",
+  "lead_paragraphs": [
+    "Kinyen was an agriworld located in the Kinyen system in the Bes Ber Bikade sector of the Expansion Region, on a junction with the Corellian Trade Spine and the Great Gran Run. It was the original homeworld of the Gran species. Malastare , which was colonized by Gran hundreds of years before the Imperial Era, was also considered a homeworld of the Gran.",
+    "Kinyen was the homeworld of the Gran senators Philo and Kharrus, who represented Kinyen in the Galactic Republic Senate during the Clone Wars."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Kinyen",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Bes Ber Bikade sector",
+    "system": "Kinyen system",
+    "coordinates": "L-15",
+    "routes": [
+      "Corellian Trade Spine",
+      "Great Gran Run"
+    ],
+    "interest": "Kemalo Farming Cluster",
+    "fauna": "Houjix",
+    "species": "Gran",
+    "demonym": "Kinyenian",
+    "exports": "Foodstuffs",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gran",
+      "directory": "Gran",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gran",
+      "directory": "Gran (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kinyen",
+    "x": 161.2,
+    "y": -8909.5,
+    "z": 132.1,
+    "region": "Expansion Region",
+    "grid": "L-15"
+  },
+  "scraped": "2026-07-03"
+}

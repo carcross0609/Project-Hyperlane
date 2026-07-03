@@ -1,0 +1,47 @@
+{
+  "name": "Farana",
+  "wookieepedia_title": "Farana/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Farana/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Farana was a Wild Space world that was home to the near-Human Ocsin species. Never governed by the Galactic Republic or the Galactic Empire, by 3705 BBY it was situated at the endpoint of the Morellian Trail hyperlane.",
+  "lead_paragraphs": [
+    "Farana was a Wild Space world that was home to the near-Human Ocsin species. Never governed by the Galactic Republic or the Galactic Empire, by 3705 BBY it was situated at the endpoint of the Morellian Trail hyperlane."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Farana",
+    "region": "Wild Space",
+    "sector": "Farana",
+    "system": "Farana system",
+    "coordinates": "S-3",
+    "routes": [
+      "Morellian Trail",
+      "Tertiary Etti Route"
+    ],
+    "class": "Terrestrial",
+    "climate": "Foggy",
+    "species": "Ocsin",
+    "population": "1–10 billion (Farana system) (c. 25 ABY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ocsin",
+      "directory": "Ocsin",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Farana",
+    "x": 11293.9,
+    "y": 9391.3,
+    "z": 378.3,
+    "region": "Wild Space",
+    "grid": "S-3"
+  },
+  "scraped": "2026-07-03"
+}

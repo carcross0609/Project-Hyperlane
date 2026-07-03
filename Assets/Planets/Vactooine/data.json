@@ -1,0 +1,41 @@
+{
+  "name": "Vactooine",
+  "wookieepedia_title": "Vactooine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vactooine",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vactooine was a mining colony in the Arkanis sector of the Outer Rim Territories. Its dense jungles made it a suitable habitat for the Elix.",
+  "lead_paragraphs": [
+    "Vactooine was a mining colony in the Arkanis sector of the Outer Rim Territories. Its dense jungles made it a suitable habitat for the Elix."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vactooine",
+    "region": "Outer Rim Territories",
+    "sector": "Arkanis sector",
+    "system": "Vactooine system",
+    "coordinates": "R-16",
+    "moons": "Moon of Vactooine",
+    "routes": "The Crystal Passage",
+    "terrain": "Dense jungles",
+    "species": "Elix",
+    "language": "Galactic Basic Standard",
+    "exports": [
+      "Metals",
+      "Ores"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vactooine",
+    "x": 9994.0,
+    "y": -10477.5,
+    "z": 148.9,
+    "region": "Outer Rim",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

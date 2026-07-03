@@ -1,0 +1,44 @@
+{
+  "name": "Drexel",
+  "wookieepedia_title": "Drexel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drexel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Drexel was the lone planet in the Drexel system. It was a water world, home to the sentient Sea-dragons.",
+  "lead_paragraphs": [
+    "Drexel was the lone planet in the Drexel system. It was a water world, home to the sentient Sea-dragons."
+  ],
+  "article_sections": [
+    "History",
+    "  Old Republic era",
+    "  Imperial era"
+  ],
+  "data": {
+    "name": "Drexel",
+    "region": "Outer Rim Territories",
+    "sector": "Lol sector",
+    "system": "Drexel system",
+    "coordinates": "Q-18",
+    "suns": "1: Drexel",
+    "terrain": "Ocean",
+    "species": "Sea-dragon",
+    "otherspecies": "Humans",
+    "cities": "Great Ship"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sea-dragon",
+      "directory": "Sea-dragon",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Drexel",
+    "x": 8030.0,
+    "y": -12769.0,
+    "z": 705.5,
+    "region": "Outer Rim",
+    "grid": "Q-18"
+  },
+  "scraped": "2026-07-03"
+}

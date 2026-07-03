@@ -1,0 +1,31 @@
+# Deralia
+
+**Continuity:** Legends  
+**Source:** [Deralia](https://starwars.fandom.com/wiki/Deralia)
+**Galaxy atlas:** system `Deralia`, Outer Rim — map position (10127.3, -9187.3, 359.0)
+
+Deralia was a planet that was located in the Outer Rim Territories of the galaxy. After the Jedi captured the Sith Lord Darth Revan, the Jedi Council of Dantooine used the Force to heal the severe damage to Revan's mind, which he sustained after being betrayed by his apprentice, Darth Malak. But instead of restoring him, the Council opted to reprogram Revan by inserting an artificial personality into his vulnerable mind. As a result, Revan's memories of his life were buried under his subconsciousness and suppressed by false memories, thus leading him to believe that he was a common recruit in the Republic Military who was from the planet Deralia.
+
+While still unaware of his true self, Revan was quickly retrained as a Jedi by the same Council that reprogrammed him on Dantooine. Shortly after ascending to the rank of Padawan in record time, the Jedi Knight Bastila Shan asked Revan a series of questions to test the extent of Revan's reconditioned state of mind. Among her questions, she inquired as to what planet he hailed from. Revan stated that he was born on Deralia in a remote system. Though Revan did not understand the true nature of Bastila's personal questions, he effectively demonstrated that the Council's actions worked perfectly; the Dark Lord of the Sith was utterly deceived by artificial memories of a life he never actually lived.
+
+300 years later, the spaceship Fortitude almost crashed into Deralia with Barsen'thor and several others on board. This catastrophe was narrowly averted by the clever machinations of Nadia Grell, who managed to get the crew to work together to steer the plummeting ship into orbit instead.
+
+## Planetary data
+
+- **Name:** Deralia
+- **Region:**
+  - Outer Rim Territories
+  - The Slice
+- **Sector:** Tammuz sector
+- **System:** Deralia system
+- **Coordinates:** T-15
+- **Moons:** Aderalis
+- **Water:** Oceans
+- **Government:** Deralia's ruling council
+- **Cities:**
+  - Dajasufer
+  - Izmalay's Landing
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

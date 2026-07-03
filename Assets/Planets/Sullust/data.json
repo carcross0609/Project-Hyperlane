@@ -1,0 +1,112 @@
+{
+  "name": "Sullust",
+  "wookieepedia_title": "Sullust",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sullust",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sullust was a planet located in the Sullust system of the Outer Rim Territories that was home to the Sullustan species.",
+  "lead_paragraphs": [
+    "Sullust was a planet located in the Sullust system of the Outer Rim Territories that was home to the Sullustan species."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  During the Republic",
+    "  Imperial reorganization",
+    "  Imperial occupation",
+    "  Push towards total liberation",
+    "  The New Republic",
+    "  Origins",
+    "  Development in canon"
+  ],
+  "data": {
+    "name": "Sullust",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Sullust sector",
+    "system": "Sullust system",
+    "coordinates": "M-17",
+    "moons": [
+      "2",
+      "  Sulon",
+      "  Sullust's moon"
+    ],
+    "routes": [
+      "Incisor Sidestep",
+      "Rimma Trade Route",
+      "Sanctuary Pipeline"
+    ],
+    "atmosphere": "Breathable",
+    "climate": "Hot",
+    "terrain": "Volcanic molten surface",
+    "interest": [
+      "Abandoned weapons depot",
+      "Alderaan Enclave",
+      "Inyusu Tor",
+      "  Inyusu Tor mineral processing facility",
+      "Mayjein Eruption",
+      "SoroSuub Centroplex",
+      "SoroSuub Refinery",
+      "Sullust shipyards",
+      "Sullust Sector Spacefarers Academy"
+    ],
+    "flora": "Trees",
+    "fauna": [
+      "Ash angel",
+      "Bat",
+      "Crab",
+      "Hiss-wyrmgrub",
+      "Rockrender",
+      "Sullustan ash-rabbit"
+    ],
+    "species": "Sullustan",
+    "otherspecies": "Human",
+    "language": [
+      "Galactic Basic Standard",
+      "Sullustese"
+    ],
+    "government": "Sullust government",
+    "population": "At least one billion",
+    "demonym": "Sullustan",
+    "cities": [
+      "Pinyumb (Capital)",
+      "Unidentified city"
+    ],
+    "exports": [
+      "Starfighters",
+      "Assault shuttles"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Malastare-Sullust Joint Task Force",
+      "Confederacy of Independent Systems",
+      "Galactic Empire (As vassal)",
+      "SoroSuub Corporation",
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sullustan",
+      "directory": "Sullustan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Sullustan",
+      "directory": "Sullustan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sullust",
+    "x": 2340.4,
+    "y": -11719.5,
+    "z": -10.1,
+    "region": "Outer Rim",
+    "grid": "M-17"
+  },
+  "scraped": "2026-07-03"
+}

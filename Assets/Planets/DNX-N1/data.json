@@ -1,0 +1,35 @@
+{
+  "name": "DNX-N1",
+  "wookieepedia_title": "DNX-N1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DNX-N1",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "DNX-N1 was a planet located within the Wild Space DNX-N1 system. Charted but largely unexplored, it was the homeworld of the sentient gaseous species known as the Filar-Nitzan.",
+  "lead_paragraphs": [
+    "DNX-N1 was a planet located within the Wild Space DNX-N1 system. Charted but largely unexplored, it was the homeworld of the sentient gaseous species known as the Filar-Nitzan."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "DNX-N1",
+    "region": "Wild Space",
+    "system": "DNX-N1 system",
+    "coordinates": "N-21",
+    "species": "Filar-Nitzan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Filar-Nitzan",
+      "directory": "Filar-Nitzan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "DNX-N1",
+    "x": -2180.3,
+    "y": 9096.7,
+    "z": -2.7,
+    "region": "Wild Space",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

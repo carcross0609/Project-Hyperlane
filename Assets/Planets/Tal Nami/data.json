@@ -1,0 +1,37 @@
+{
+  "name": "Tal Nami",
+  "wookieepedia_title": "Tal Nami",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tal_Nami",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tal Nami was a planet located in Hutt Space and was the homeworld of the Tal Nami species.",
+  "lead_paragraphs": [
+    "Tal Nami was a planet located in Hutt Space and was the homeworld of the Tal Nami species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tal Nami",
+    "region": "Hutt Space",
+    "system": "Tal Nami system",
+    "coordinates": "R-9",
+    "routes": "Ilosian Spur",
+    "flora": "Egoa tree",
+    "species": "Tal Nami"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tal Nami",
+      "directory": "Tal Nami (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tal Nami",
+    "x": 10387.4,
+    "y": 57.0,
+    "z": 234.9,
+    "region": "Hutt Space",
+    "grid": "R-9"
+  },
+  "scraped": "2026-07-03"
+}

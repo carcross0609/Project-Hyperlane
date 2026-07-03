@@ -1,0 +1,50 @@
+{
+  "name": "Agamar",
+  "wookieepedia_title": "Agamar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Agamar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Agamar was a barren, rocky planet located in the Agamar system within the Outer Rim Territories of the galaxy in grid coordinates M-5. During the Clone Wars, Separatist General Kalani was ordered by Count Dooku to retreat from Onderon to Agamar following the Separatist defeat on Onderon. Later during the Galactic Civil War against the Galactic Empire, the rebel cell known as the Spectres confronted Kalani on Agamar, eventually teaming up to defeat the Empire, a mutual opponent.",
+  "lead_paragraphs": [
+    "Agamar was a barren, rocky planet located in the Agamar system within the Outer Rim Territories of the galaxy in grid coordinates M-5. During the Clone Wars, Separatist General Kalani was ordered by Count Dooku to retreat from Onderon to Agamar following the Separatist defeat on Onderon. Later during the Galactic Civil War against the Galactic Empire, the rebel cell known as the Spectres confronted Kalani on Agamar, eventually teaming up to defeat the Empire, a mutual opponent."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Clone Wars",
+    "  Reign of the Empire"
+  ],
+  "data": {
+    "name": "Agamar",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Lahara sector",
+    "system": "Agamar system",
+    "coordinates": "M-5",
+    "routes": [
+      "Braxant Run",
+      "Celanon Spur"
+    ],
+    "atmosphere": "Breathable",
+    "climate": "Cold",
+    "terrain": "Rocky",
+    "interest": "DH-Omni Support Vessel wreckage",
+    "otherspecies": "Human",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Agamar garrison"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Agamar",
+    "x": 2186.1,
+    "y": 6295.7,
+    "z": -92.3,
+    "region": "Outer Rim",
+    "grid": "M-5"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Falleen",
+  "wookieepedia_title": "Falleen (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Falleen_%28planet%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Falleen was a planet located in the Falleen system in the Doldur sector of the Mid Rim Territories that was the homeworld of the repto-mammalian Falleen species. Falleen aligned itself with the Confederacy of Independent Systems in the build up to the Clone Wars against the Galactic Republic. The leader of the Confederacy, Count Dooku, offered Governor Wilhuff Tarkin of the planet Eriadu the opportunity to transport his world's lommite through Falleen and other Separatist-controlled areas including Ruusan and the Tion Cluster in order to persuade him to side with the Separatists.",
+  "lead_paragraphs": [
+    "Falleen was a planet located in the Falleen system in the Doldur sector of the Mid Rim Territories that was the homeworld of the repto-mammalian Falleen species. Falleen aligned itself with the Confederacy of Independent Systems in the build up to the Clone Wars against the Galactic Republic. The leader of the Confederacy, Count Dooku, offered Governor Wilhuff Tarkin of the planet Eriadu the opportunity to transport his world's lommite through Falleen and other Separatist-controlled areas including Ruusan and the Tion Cluster in order to persuade him to side with the Separatists.",
+    "During the Clone Wars, Falleen eventually became a Republic world despite its previous alliance with the Separatists. The Republic established a battle group to defend the planet, yet it was targeted by General Grievous during the Skytop Station campaign. Beyond disrupting Republic operations through the attack, Grievous's fleet emerged victorious during the battle on Falleen and destroyed the Republic's battle group."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Falleen",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Doldur sector",
+    "system": "Falleen system",
+    "coordinates": "P-15",
+    "water": "Hocekureem Sea",
+    "fauna": "Fleek eel",
+    "species": "Falleen",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Falleen",
+      "directory": "Falleen",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Falleen",
+      "directory": "Falleen (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Falleen",
+    "x": 7153.7,
+    "y": -8316.5,
+    "z": 299.6,
+    "region": "Mid Rim",
+    "grid": "P-15"
+  },
+  "scraped": "2026-07-03"
+}

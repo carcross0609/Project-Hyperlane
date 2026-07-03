@@ -1,0 +1,51 @@
+{
+  "name": "Kaon",
+  "wookieepedia_title": "Kaon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kaon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kaon was a planet in the Tion Cluster. It was inhabited by scranges.",
+  "lead_paragraphs": [
+    "Kaon was a planet in the Tion Cluster. It was inhabited by scranges."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kaon",
+    "region": [
+      "Outer Rim Territories",
+      "Tion Cluster"
+    ],
+    "sector": "Tion Hegemony",
+    "system": "Kaon system",
+    "coordinates": "S-6",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "interest": "Dooku's castle",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Monarchy",
+    "cities": "Kaon City",
+    "affiliation": [
+      "Back Spiral",
+      "Xer's Empire",
+      "Xim's Empire",
+      "Honorable Union of Desevro & Tion",
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kaon",
+    "x": 11605.0,
+    "y": 5900.8,
+    "z": -20.9,
+    "region": "Outer Rim",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

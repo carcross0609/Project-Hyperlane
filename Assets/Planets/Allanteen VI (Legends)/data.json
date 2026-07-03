@@ -1,0 +1,49 @@
+{
+  "name": "Allanteen VI",
+  "wookieepedia_title": "Allanteen VI/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Allanteen_VI/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Allanteen VI, or Allanteen Six, also referred to simply as Allanteen, was a planet in the Allanteen system in the Tynna sector of the Expansion Region. it was the site of the Allanteen Six shipyards.",
+  "lead_paragraphs": [
+    "Allanteen VI, or Allanteen Six, also referred to simply as Allanteen, was a planet in the Allanteen system in the Tynna sector of the Expansion Region. it was the site of the Allanteen Six shipyards."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Allanteen VI",
+    "region": [
+      "Expansion Region",
+      "The Slice",
+      "Trailing Sectors"
+    ],
+    "sector": "Tynna sector",
+    "system": "Allanteen system",
+    "coordinates": "O-14",
+    "routes": [
+      "Corellian Run",
+      "Shipwrights' Trace"
+    ],
+    "interest": "Allanteen Six shipyards",
+    "population": "100 billion to 500 billion",
+    "affiliation": [
+      "Galactic Republic",
+      "  Corellian Hegemony",
+      "Darth Revan's Sith Empire",
+      "Confederacy of Independent Systems",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Allanteen VI",
+    "x": 4786.7,
+    "y": -6141.0,
+    "z": -92.0,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

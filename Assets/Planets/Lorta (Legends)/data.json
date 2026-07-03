@@ -1,0 +1,45 @@
+{
+  "name": "Lorta",
+  "wookieepedia_title": "Lorta/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lorta/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lorta was a planet located on the Cerean Reach, near Jiroch-Reslia in the Mid Rim. It was was home to the violent and expansionist Lortans.",
+  "lead_paragraphs": [
+    "Lorta was a planet located on the Cerean Reach, near Jiroch-Reslia in the Mid Rim. It was was home to the violent and expansionist Lortans."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Lorta",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Gendius sector",
+    "system": "Lorta system",
+    "coordinates": "J-17",
+    "routes": "Cerean Reach",
+    "class": "Terrestrial",
+    "species": "Lortans",
+    "population": "100–500 million (25 ABY)",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Lortan; (left)",
+      "directory": "Lortan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lorta",
+    "x": -1592.2,
+    "y": -11668.0,
+    "z": -497.4,
+    "region": "Mid Rim",
+    "grid": "J-17"
+  },
+  "scraped": "2026-07-03"
+}

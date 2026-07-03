@@ -1,0 +1,63 @@
+{
+  "name": "Radnor",
+  "wookieepedia_title": "Radnor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Radnor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Radnor was a small, sea-covered planet with a small main landmass, and prevailing winds. It was located in the same system as Avon. Radnor had two capitals: the Twin Cities of Aubendo and Tacto. Each of the cities had their own governing ministers. Radnor was known for its research and development of high-tech weapons systems.",
+  "lead_paragraphs": [
+    "Radnor was a small, sea-covered planet with a small main landmass, and prevailing winds. It was located in the same system as Avon. Radnor had two capitals: the Twin Cities of Aubendo and Tacto. Each of the cities had their own governing ministers. Radnor was known for its research and development of high-tech weapons systems."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Radnor",
+    "region": [
+      "Mid Rim",
+      "The Slice",
+      "Trailing Sectors"
+    ],
+    "sector": "Daimar sector",
+    "system": "Radnor system",
+    "coordinates": "Q-16",
+    "routes": "Corellian Run",
+    "diameter": "Small",
+    "terrain": [
+      "Urban",
+      "Plains",
+      "Underground canyons"
+    ],
+    "water": [
+      "Oceans",
+      "Seas"
+    ],
+    "interest": [
+      "Clear Sector",
+      "Isolation Sector"
+    ],
+    "species": "Radnorans",
+    "language": "Galactic Basic Standard",
+    "cities": [
+      "Aubendo (capital)",
+      "Tacto (capital)"
+    ],
+    "exports": "High-tech weapons systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Radnoran",
+      "directory": "Radnoran",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Radnor",
+    "x": 8316.4,
+    "y": -9810.3,
+    "z": 72.6,
+    "region": "Mid Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

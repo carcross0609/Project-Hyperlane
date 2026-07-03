@@ -1,0 +1,37 @@
+{
+  "name": "Hosko",
+  "wookieepedia_title": "Hosko",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hosko",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hosko was a verdant agricultural world located in Hutt Space on the Pabol Hutta hyperspace route, not far from Nal Hutta. It was orbited by a space station frequented by traders and smugglers.",
+  "lead_paragraphs": [
+    "Hosko was a verdant agricultural world located in Hutt Space on the Pabol Hutta hyperspace route, not far from Nal Hutta. It was orbited by a space station frequented by traders and smugglers.",
+    "During the Cold War, farmers on Hosko discovered buried ancient weapons and battle droids on an abandoned battlefield. An archaeologist studying the findings determined that they were artifacts from the Hutt Cataclysms, when factions of the Hutt Empire fought each other."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Hosko",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "system": "Hosko system",
+    "coordinates": "S-11",
+    "routes": "Pabol Hutta",
+    "class": "Terrestrial",
+    "terrain": "Agriworld",
+    "interest": "Orbital space station",
+    "affiliation": "Hutts"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Hosko",
+    "x": 11154.5,
+    "y": -2725.2,
+    "z": -261.0,
+    "region": "Hutt Space",
+    "grid": "S-11"
+  },
+  "scraped": "2026-07-03"
+}

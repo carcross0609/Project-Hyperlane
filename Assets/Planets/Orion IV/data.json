@@ -1,0 +1,50 @@
+{
+  "name": "Orion IV",
+  "wookieepedia_title": "Orion IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orion_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Orion IV was a planet in the Tion Cluster of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Orion IV was a planet in the Tion Cluster of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Orion IV",
+    "region": [
+      "Outer Rim Territories",
+      "  Tion Cluster"
+    ],
+    "sector": "Tion Hegemony",
+    "system": "Orion system",
+    "coordinates": "T-6",
+    "moons": "At least 1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Rocky fields",
+      "Desert",
+      "Canyons",
+      "Volcanoes"
+    ],
+    "interest": "Rebel base",
+    "otherspecies": "Humans",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Orion IV",
+    "x": -4259.8,
+    "y": -14521.6,
+    "z": 141.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

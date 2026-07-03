@@ -1,0 +1,42 @@
+{
+  "name": "Parwa",
+  "wookieepedia_title": "Parwa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Parwa",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Parwa was a planet which was the homeworld of the Parwan species. It had seasons which were several centuries long, and some Parwans hibernated along with the changing seasons even if they were not on Parwa. The Parwan bounty hunter Derrown was born on Parwa.",
+  "lead_paragraphs": [
+    "Parwa was a planet which was the homeworld of the Parwan species. It had seasons which were several centuries long, and some Parwans hibernated along with the changing seasons even if they were not on Parwa. The Parwan bounty hunter Derrown was born on Parwa."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Parwa",
+    "region": "Outer Rim Territories",
+    "sector": "Seswenna sector",
+    "system": "Parwa system",
+    "coordinates": "M-18",
+    "routes": "Rimma Trade Route",
+    "species": "Parwan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Parwan",
+      "directory": "Parwan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Parwan",
+      "directory": "Parwan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Parwa",
+    "x": 1775.1,
+    "y": -12230.4,
+    "z": 98.5,
+    "region": "Outer Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

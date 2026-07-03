@@ -1,0 +1,47 @@
+{
+  "name": "Ogem",
+  "wookieepedia_title": "Ogem/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ogem/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ogem was the homeworld of the near-Human Ogemite species. It was in the D'Aelgoth sector of the Mid Rim, along the D'Aelgoth Trade Route. It was a busy trade world that generally avoided involvement in galactic politics.",
+  "lead_paragraphs": [
+    "Ogem was the homeworld of the near-Human Ogemite species. It was in the D'Aelgoth sector of the Mid Rim, along the D'Aelgoth Trade Route. It was a busy trade world that generally avoided involvement in galactic politics.",
+    "Ogemite males tended to become traders. Very few females became traders, and inheritances passed from father to son unless the family had no male child.",
+    "The Ogemites attempted to negotiate trade agreements with the more progressive families of the nearby Juvex sector. Ogem shed its political neutrality shortly after the Battle of Yavin, siding with the Rebel Alliance when the Galactic Empire's credit became overextended. The Empire retaliated by sending transports full of squills infested with Bledsoe's disease into the markets."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ogem",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "D'Aelgoth sector",
+    "system": "Ogem system",
+    "coordinates": "L-17",
+    "routes": "D'Aelgoth Trade Route",
+    "species": "Ogemites",
+    "population": "500 million to 1 billion",
+    "affiliation": [
+      "Galactic Republic",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ogemite",
+      "directory": "Ogemite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ogem",
+    "x": 123.8,
+    "y": -11585.3,
+    "z": -150.9,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

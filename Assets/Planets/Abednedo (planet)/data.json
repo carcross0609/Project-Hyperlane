@@ -1,0 +1,51 @@
+{
+  "name": "Abednedo",
+  "wookieepedia_title": "Abednedo (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Abednedo_%28planet%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Abednedo was a planet located on the Corellian Run and in the Abednedo system of the galaxy's Colonies region. It was the homeworld of the sentient Abednedo species, whose ancestors evolved underground and carved out tunnel-dens to create massive cathedrals housing tens of thousands of family units. The species eventually took to living on the planet's surface and constructed sprawling metropolises bristling with ornamental spires, flagpoles, and riotously colored carvings. While these cities struck outlanders as chaotic, the Abednedos found them endless sources of amusement and interest.",
+  "lead_paragraphs": [
+    "Abednedo was a planet located on the Corellian Run and in the Abednedo system of the galaxy's Colonies region. It was the homeworld of the sentient Abednedo species, whose ancestors evolved underground and carved out tunnel-dens to create massive cathedrals housing tens of thousands of family units. The species eventually took to living on the planet's surface and constructed sprawling metropolises bristling with ornamental spires, flagpoles, and riotously colored carvings. While these cities struck outlanders as chaotic, the Abednedos found them endless sources of amusement and interest.",
+    "In the aftermath of the Battle of Endor due to its natives' New Republic sympathies, the Galactic Empire damaged the planet using a climate disruption array during Operation: Cinder, a contingency plan issued posthumously by Emperor Sheev Palpatine.",
+    "Thirty years after the Battle of Endor, Brasmon Kee represented Abednedo in the New Republic Senate. Another Abednedo Ello Asty, a male Abednedo pilot who flew for the New Republic and later the Resistance, was from this world."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Abednedo",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Abednedo system",
+    "coordinates": "N-12",
+    "routes": "Corellian Run",
+    "interest": "Oddy's home",
+    "fauna": "Abednedo precursor species",
+    "species": "Abednedo",
+    "cities": "Neshorino",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Abednedo",
+      "directory": "Abednedo",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Abednedo",
+    "x": 2565.7,
+    "y": 461.3,
+    "z": -98.8,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

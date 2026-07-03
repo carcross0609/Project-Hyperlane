@@ -1,0 +1,114 @@
+{
+  "name": "Bandomeer",
+  "wookieepedia_title": "Bandomeer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bandomeer/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bandomeer was a planet in the Outer Rim Territories, on the Braxant Run. It was known for its high concentration of ionite, as well as the many predators lurking in its wildernesses. The planet's surface was roughly divided in half by a huge landmass and the Great Sea of Bandomeer.",
+  "lead_paragraphs": [
+    "Bandomeer was a planet in the Outer Rim Territories, on the Braxant Run. It was known for its high concentration of ionite, as well as the many predators lurking in its wildernesses. The planet's surface was roughly divided in half by a huge landmass and the Great Sea of Bandomeer."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Bandomeer",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Meerian sector",
+    "system": "Bandomeer system",
+    "coordinates": "O-6",
+    "suns": "1: Bandomeer",
+    "position": "2",
+    "moons": "0",
+    "routes": [
+      "Hydian Way",
+      "Braxant Run"
+    ],
+    "lengthday": "24 standard hours",
+    "lengthyear": "320 standard days",
+    "class": "Terrestrial",
+    "diameter": "7,986 kilometers",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Ocean",
+      "Rocky plains",
+      "Deserts"
+    ],
+    "interest": [
+      "Great Sea",
+      "G-417",
+      "Deepsea mines",
+      "Enrichment Zone"
+    ],
+    "species": "Meerians",
+    "otherspecies": [
+      "Arcona",
+      "Chazrach",
+      "Human",
+      "Hutts",
+      "Imbat",
+      "Ithorian",
+      "Phindian",
+      "Talz",
+      "Whiphid",
+      "Yuuzhan Vong"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Meerian language",
+      "Ithorese"
+    ],
+    "government": "Corporate, local governorship",
+    "population": [
+      "718 million:",
+      "  60% Human",
+      "  20% Meerians",
+      "  10% Arcona",
+      "  5% Imbats",
+      "  3% Phindians",
+      "  2% other"
+    ],
+    "cities": "Bandor (capital)",
+    "imports": [
+      "Foodstuffs",
+      "High technology",
+      "Labor"
+    ],
+    "exports": [
+      "Azurite",
+      "Ionite"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Imperial Remnant",
+      "Yuuzhan Vong empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Meerian",
+      "directory": "Meerian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bandomeer",
+    "x": 4785.7,
+    "y": 4833.8,
+    "z": 239.7,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Neimoidia",
+  "wookieepedia_title": "Neimoidia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Neimoidia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Neimoidia, also known as Pure Neimoidia, was a planet centrally located in the galaxy's Colonies region, and was situated along the Trellen Trade Route. It was the homeworld of the Neimoidian species, and was near a string of wealthy \"Purse Worlds\" settled by Neimoidians, including Cato Neimoidia.",
+  "lead_paragraphs": [
+    "Neimoidia, also known as Pure Neimoidia, was a planet centrally located in the galaxy's Colonies region, and was situated along the Trellen Trade Route. It was the homeworld of the Neimoidian species, and was near a string of wealthy \"Purse Worlds\" settled by Neimoidians, including Cato Neimoidia.",
+    "Twenty-five millennia before the Battle of Yavin, the planet was discovered by Duros explorers from the planet Duro during their travels throughout the galaxy. After its colonization, Neimoidia became allied with but separate from the Duros homeworld, and later joined the Galactic Republic in 22,000 BBY as an independent world. Sometime later, the Neimoidians, determined to expand their influence, established a string of planets known as \"Purse Worlds\" on Cato Neimoidia, Deko Neimoidia and Koru Neimoidia, and Neimoidia was eventually overshadowed by the three as they grew in wealth. As a result, much of Neimoidia's population left for either of the three Purse Worlds, but some, including the Trade Monarch, the ruler of Neimoidia and the Purse Worlds, remained on the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Colonization of Neimoidia",
+    "  Establishment of Purse Worlds",
+    "  Trade Federation & the Clone Wars",
+    "Inhabitants",
+    "  Neimoidians & Duros",
+    "  Native fauna",
+    "  Government",
+    "Locations"
+  ],
+  "data": {
+    "name": "Neimoidia",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "Quellor sector",
+    "system": "Neimoidia system",
+    "coordinates": "M-10",
+    "suns": "1: Nen",
+    "moons": "1",
+    "routes": "Fedalle–Kuat hyperlane",
+    "lengthday": "29 standard hours",
+    "lengthyear": "221 local days",
+    "class": "Terrestrial",
+    "diameter": "10,830 kilometers",
+    "climate": "Humid",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert",
+      "Fields",
+      "Rainforests"
+    ],
+    "interest": [
+      "Communal Hives",
+      "Fungus Farms"
+    ],
+    "flora": "Manax tree",
+    "fauna": [
+      "Harvester beetle",
+      "Mistfly",
+      "Neekoflight",
+      "Neimoidian tick larva",
+      "Pylat bird"
+    ],
+    "species": "Neimoidian",
+    "otherspecies": "Duros",
+    "government": [
+      "Neimoidian government",
+      "  Trade Monarch"
+    ],
+    "population": "400 million",
+    "demonym": "Neimoidian",
+    "cities": "Koto-Si (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Neimoidian",
+      "directory": "Neimoidian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Neimoidian",
+      "directory": "Neimoidian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Neimoidia",
+    "x": 2816.2,
+    "y": -897.0,
+    "z": 113.5,
+    "region": "Colonies",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

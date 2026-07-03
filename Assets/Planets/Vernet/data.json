@@ -1,0 +1,58 @@
+{
+  "name": "Vernet",
+  "wookieepedia_title": "Vernet",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vernet",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vernet was an agriworld located within the Vernet system of the Expansion Region.",
+  "lead_paragraphs": [
+    "Vernet was an agriworld located within the Vernet system of the Expansion Region."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vernet",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Baroli sector",
+    "system": "Vernet system",
+    "coordinates": "N-14",
+    "position": "2",
+    "moons": "2",
+    "lengthday": "25 standard hours",
+    "lengthyear": "335.2 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forest",
+      "Mountains",
+      "Plains"
+    ],
+    "interest": "Vernet Imperial Army Training Camp",
+    "otherspecies": "Human",
+    "government": "Farmer's Co-Op Council",
+    "population": "4,000",
+    "cities": [
+      "Maz-Verlin"
+    ],
+    "imports": "Technology",
+    "exports": [
+      "Grains",
+      "Corellian chorba-root"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vernet",
+    "x": 4029.6,
+    "y": -7189.3,
+    "z": 333.3,
+    "region": "Expansion Region",
+    "grid": "N-14"
+  },
+  "scraped": "2026-07-03"
+}

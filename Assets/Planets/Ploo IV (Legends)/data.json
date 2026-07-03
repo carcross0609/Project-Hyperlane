@@ -1,0 +1,52 @@
+{
+  "name": "Ploo IV",
+  "wookieepedia_title": "Ploo IV/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ploo_IV/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ploo IV was a planet in the Ploo sector of the Expansion Region.",
+  "lead_paragraphs": [
+    "Ploo IV was a planet in the Ploo sector of the Expansion Region."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Ploo IV",
+    "region": [
+      "Expansion Region",
+      "Northern Dependencies"
+    ],
+    "sector": "Ploo sector",
+    "system": "Ploo system",
+    "coordinates": "N-7",
+    "routes": "Mandalorian Road",
+    "class": "Terrestrial",
+    "terrain": [
+      "Oceans",
+      "Marshes"
+    ],
+    "species": "Fluggrian",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Fluggrian",
+      "directory": "Fluggrian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Fluggrian",
+      "directory": "Fluggrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

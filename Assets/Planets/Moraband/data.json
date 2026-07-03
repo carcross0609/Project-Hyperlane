@@ -1,0 +1,55 @@
+{
+  "name": "Moraband",
+  "wookieepedia_title": "Moraband",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moraband",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Moraband, known in antiquity as Korriban, was an Outer Rim planet that was home to the ancient Sith Order. The desolate and mountainous world was abandoned after many ancient wars. The Valley of the Dark Lords on the planet's surface was the final resting place of Darth Bane, the Sith Lord who created the Rule of Two. During the Clone Wars, Yoda ventured to the abandoned world as part of his journey to discover the secrets of eternal consciousness.",
+  "lead_paragraphs": [
+    "Moraband, known in antiquity as Korriban, was an Outer Rim planet that was home to the ancient Sith Order. The desolate and mountainous world was abandoned after many ancient wars. The Valley of the Dark Lords on the planet's surface was the final resting place of Darth Bane, the Sith Lord who created the Rule of Two. During the Clone Wars, Yoda ventured to the abandoned world as part of his journey to discover the secrets of eternal consciousness."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Clone Wars",
+    "  Imperial Era and beyond",
+    "Locations",
+    "  Sith temples"
+  ],
+  "data": {
+    "name": "Moraband",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Esstran sector",
+      "  Sith Worlds"
+    ],
+    "system": "Moraband system",
+    "coordinates": "R-5",
+    "atmosphere": "Breathable",
+    "climate": "Hot",
+    "terrain": [
+      "Desolate",
+      "Mountains"
+    ],
+    "interest": [
+      "Sith temple",
+      "Valley of the Dark Lords"
+    ],
+    "fauna": [
+      "Moraband serpent",
+      "Tuk'ata"
+    ],
+    "affiliation": "Sith"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Moraband",
+    "x": 10173.0,
+    "y": 4518.8,
+    "z": 387.0,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

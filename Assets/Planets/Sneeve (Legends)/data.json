@@ -1,0 +1,62 @@
+{
+  "name": "Sneeve",
+  "wookieepedia_title": "Sneeve/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sneeve/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sneeve was the homeworld of the Sneevel species. It was located in the Kastolar sector of the Mid Rim.",
+  "lead_paragraphs": [
+    "Sneeve was the homeworld of the Sneevel species. It was located in the Kastolar sector of the Mid Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Sneeve",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region"
+    ],
+    "sector": "Kastolar sector",
+    "system": "Sneeve system",
+    "coordinates": "Q-10",
+    "routes": "Durkteel Loop",
+    "class": "Terrestrial",
+    "terrain": [
+      "Mountains",
+      "Oceans"
+    ],
+    "species": "Sneevel",
+    "language": "Snee",
+    "population": "1.1 billion (22 BBY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Darth Revan's Sith Empire",
+      "Hutt Space",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sneevel",
+      "directory": "Sneevel",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Sneevel",
+      "directory": "Sneevel (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sneeve",
+    "x": 8387.2,
+    "y": -136.6,
+    "z": -298.6,
+    "region": "Mid Rim",
+    "grid": "Q-10"
+  },
+  "scraped": "2026-07-03"
+}

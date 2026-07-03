@@ -1,0 +1,39 @@
+{
+  "name": "Amfar",
+  "wookieepedia_title": "Amfar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amfar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Amfar was an aquatic vacation planet located in the Inner Rim.",
+  "lead_paragraphs": [
+    "Amfar was an aquatic vacation planet located in the Inner Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Amfar",
+    "region": [
+      "Inner Rim",
+      "Trans-Hydian"
+    ],
+    "system": "Amfar system",
+    "coordinates": "O-8",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable) (oxygen mix)",
+    "terrain": "Oceans",
+    "fauna": "Redfish",
+    "species": "Human",
+    "demonym": "Amfarian"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Amfar",
+    "x": 5075.6,
+    "y": 1608.4,
+    "z": 224.5,
+    "region": "Inner Rim",
+    "grid": "O-8"
+  },
+  "scraped": "2026-07-03"
+}

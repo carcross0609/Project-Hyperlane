@@ -1,0 +1,47 @@
+{
+  "name": "Oznek",
+  "wookieepedia_title": "Oznek",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oznek",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Oznek was a planet located in the Cademimu sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Oznek was a planet located in the Cademimu sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Oznek",
+    "region": "Outer Rim Territories",
+    "sector": "Cademimu sector",
+    "system": "Oznek system",
+    "coordinates": "M-6",
+    "suns": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Mesas"
+    ],
+    "interest": [
+      "Oznek power plant",
+      "Oznek Republic base",
+      "Oznek ruins"
+    ],
+    "fauna": "A carnivore",
+    "species": "Toma",
+    "cities": "Oznek capital city",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Toma",
+      "directory": "Toma",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

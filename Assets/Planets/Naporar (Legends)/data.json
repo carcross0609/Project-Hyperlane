@@ -1,0 +1,40 @@
+{
+  "name": "Naporar",
+  "wookieepedia_title": "Naporar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Naporar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Naporar was a planet located in the Naporar system of the Unknown Regions' Chiss Space. The hyperlane known as the Path of the Houses linked it to the Ornfra and Sposia systems, while the Chasdemonus Route connected it to the Colonial Station Cam'co system.",
+  "lead_paragraphs": [
+    "Naporar was a planet located in the Naporar system of the Unknown Regions' Chiss Space. The hyperlane known as the Path of the Houses linked it to the Ornfra and Sposia systems, while the Chasdemonus Route connected it to the Colonial Station Cam'co system.",
+    "Naporar was home to House Nuruodo, one of the Ruling Families of the sentient Chiss species. It also served as the headquarters of the Chiss Expansionary Defense Fleet and held the ranking authority in all matters related to the Chiss military units known as Household and Colonial Phalanxes."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Naporar",
+    "region": "Unknown Regions",
+    "sector": "Chiss Space",
+    "system": "Naporar system",
+    "coordinates": "F-8",
+    "routes": [
+      "Chasdemonus Route",
+      "Path of the Houses"
+    ],
+    "otherspecies": "Chiss",
+    "affiliation": [
+      "Chiss Ascendancy",
+      "  House Nuruodo",
+      "  Chiss Expansionary Defense Fleet"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Naporar",
+    "x": -8727.6,
+    "y": 2256.8,
+    "z": -182.3,
+    "region": "Unknown Regions",
+    "grid": "F-8"
+  },
+  "scraped": "2026-07-03"
+}

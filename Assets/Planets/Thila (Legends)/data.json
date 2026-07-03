@@ -1,0 +1,45 @@
+{
+  "name": "Thila",
+  "wookieepedia_title": "Thila/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thila/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thila was a small planet in the Thila system of the Outer Rim Territories. It was home to a major Alliance to Restore the Republic base, Thila Command. The planet had relatively huge mountain ranges, of which the peaks of its gigantic mountains were visible from orbit.",
+  "lead_paragraphs": [
+    "Thila was a small planet in the Thila system of the Outer Rim Territories. It was home to a major Alliance to Restore the Republic base, Thila Command. The planet had relatively huge mountain ranges, of which the peaks of its gigantic mountains were visible from orbit."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Thila",
+    "region": "Outer Rim Territories",
+    "sector": "Illisurevimurasi sector",
+    "system": "Thila system",
+    "coordinates": "Q-4",
+    "moons": "At least one",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Mountains",
+      "Jungles"
+    ],
+    "interest": [
+      "Iotia Mountains",
+      "Thila Command"
+    ],
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Thila",
+    "x": 7883.6,
+    "y": 7981.2,
+    "z": -17.5,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Nevoota",
+  "wookieepedia_title": "Nevoota (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nevoota_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nevoota was a planet of the Balmorra system, in the Colonies. It was the homeworld of the Nevoota, a species of sentient bees wiped out by the Mandalorians in 4024 BBY.",
+  "lead_paragraphs": [
+    "Nevoota was a planet of the Balmorra system, in the Colonies. It was the homeworld of the Nevoota, a species of sentient bees wiped out by the Mandalorians in 4024 BBY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nevoota",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Balmorra system",
+    "coordinates": "M-10",
+    "species": "Nevoota (extinct)",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nevoota",
+      "directory": "Nevoota (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nevoota",
+    "x": 1902.6,
+    "y": 441.8,
+    "z": 20.3,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

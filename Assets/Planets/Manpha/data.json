@@ -1,0 +1,48 @@
+{
+  "name": "Manpha",
+  "wookieepedia_title": "Manpha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Manpha",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Manpha was a wet and swampy planet located in Manpha system of the Seitia sector, a part of the Outer Rim Territories and the Western Reaches. Situated in grid square K-20 of the Standard Galactic Grid, it was located on the super-hyperroute known as the Corellian Trade Spine, which linked it to the Tureen and Zastiga systems. Manpha was the homeworld of the amphibious Shawda Ubb species, including the musician Rappertunie.",
+  "lead_paragraphs": [
+    "Manpha was a wet and swampy planet located in Manpha system of the Seitia sector, a part of the Outer Rim Territories and the Western Reaches. Situated in grid square K-20 of the Standard Galactic Grid, it was located on the super-hyperroute known as the Corellian Trade Spine, which linked it to the Tureen and Zastiga systems. Manpha was the homeworld of the amphibious Shawda Ubb species, including the musician Rappertunie."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Manpha",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Seitia sector",
+    "system": "Manpha system",
+    "coordinates": "K-20",
+    "routes": "Corellian Trade Spine",
+    "class": "Terrestrial",
+    "climate": "Humid",
+    "terrain": "Swamps",
+    "species": "Shawda Ubb"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shawda Ubb",
+      "directory": "Shawda Ubb",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Shawda Ubb",
+      "directory": "Shawda Ubb (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Manpha",
+    "x": -1195.1,
+    "y": -15214.1,
+    "z": 327.2,
+    "region": "Outer Rim",
+    "grid": "K-20"
+  },
+  "scraped": "2026-07-03"
+}

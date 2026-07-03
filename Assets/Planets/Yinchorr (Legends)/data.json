@@ -1,0 +1,70 @@
+{
+  "name": "Yinchorr",
+  "wookieepedia_title": "Yinchorr/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yinchorr/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yinchorr was a planet located in the Expansion Region and was homeworld of the Yinchorri species. It was first charted c. 500 BBY by the Galactic Republic.",
+  "lead_paragraphs": [
+    "Yinchorr was a planet located in the Expansion Region and was homeworld of the Yinchorri species. It was first charted c. 500 BBY by the Galactic Republic."
+  ],
+  "article_sections": [
+    "History",
+    "  Early history",
+    "  Galactic Republic",
+    "  Galactic Empire",
+    "  New Republic",
+    "  New Empire"
+  ],
+  "data": {
+    "name": "Yinchorr",
+    "region": [
+      "Expansion Region",
+      "Northern Dependencies"
+    ],
+    "sector": "Fellwe sector",
+    "system": "Yinchorri system",
+    "coordinates": "L-8",
+    "distance": "35,000 light-years",
+    "suns": "1",
+    "terrain": [
+      "Rocky deserts",
+      "Small seas"
+    ],
+    "water": "1%",
+    "interest": [
+      "Imperial base",
+      "Imperial Royal Guard Academy",
+      "The Squall"
+    ],
+    "fauna": "Rolk-mangir",
+    "species": "Yinchorri",
+    "language": "Yinchorri",
+    "government": "Council of Elders",
+    "population": "Less than 200,000",
+    "cities": "Tol-Kachorn (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Yinchorri",
+      "directory": "Yinchorri (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yinchorr",
+    "x": 495.6,
+    "y": 2680.1,
+    "z": 24.1,
+    "region": "Expansion Region",
+    "grid": "L-8"
+  },
+  "scraped": "2026-07-03"
+}

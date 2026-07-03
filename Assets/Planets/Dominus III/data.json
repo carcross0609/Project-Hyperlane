@@ -1,0 +1,42 @@
+{
+  "name": "Dominus III",
+  "wookieepedia_title": "Dominus III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dominus_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dominus III was a terrestrial planet of the Dominus sector, in the Outer Rim Territories. When seen from space, the planet had a blue halo, and one could distinguish oceans and landmasses.",
+  "lead_paragraphs": [
+    "Dominus III was a terrestrial planet of the Dominus sector, in the Outer Rim Territories. When seen from space, the planet had a blue halo, and one could distinguish oceans and landmasses."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Dominus III",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Dominus sector",
+    "system": "Dominus system",
+    "coordinates": "U-7",
+    "suns": "1",
+    "moons": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Plains",
+      "Oceans"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dominus III",
+    "x": 6238.9,
+    "y": -12141.7,
+    "z": 22.3,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

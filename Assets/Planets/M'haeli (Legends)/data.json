@@ -1,0 +1,71 @@
+{
+  "name": "M'haeli",
+  "wookieepedia_title": "M'haeli/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/M%27haeli/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "M'haeli was an agriworld in the Expansion Region ruled by a hereditary Human monarchy, despite its indigenous species being the H'drachi. Under the New Order, the planet was under the authority of Governor Grigor and Grand Moff Lynch Hauser. It was the homeworld of Ixidro Legorburu.",
+  "lead_paragraphs": [
+    "M'haeli was an agriworld in the Expansion Region ruled by a hereditary Human monarchy, despite its indigenous species being the H'drachi. Under the New Order, the planet was under the authority of Governor Grigor and Grand Moff Lynch Hauser. It was the homeworld of Ixidro Legorburu."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "M'haeli",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Majoor sector",
+    "system": "Plynn system",
+    "coordinates": "N-15",
+    "suns": "1",
+    "moons": "Several",
+    "class": [
+      "Agriworld",
+      "Terrestrial"
+    ],
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "terrain": [
+      "Ice",
+      "Snow",
+      "Fields"
+    ],
+    "interest": [
+      "W'eston Falls",
+      "Demon's Brow",
+      "D'olop Mountain Range",
+      "Selon Mountain",
+      "Red Rock"
+    ],
+    "fauna": "M'haeli luf virus",
+    "species": "H'drachi",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "population": "10 million to 100 million",
+    "cities": "N'croth (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "H'drachi",
+      "directory": "H'drachi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "M'haeli",
+    "x": 3237.0,
+    "y": -8666.5,
+    "z": 167.4,
+    "region": "Expansion Region",
+    "grid": "N-15"
+  },
+  "scraped": "2026-07-03"
+}

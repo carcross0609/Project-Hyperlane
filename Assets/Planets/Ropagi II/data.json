@@ -1,0 +1,101 @@
+{
+  "name": "Ropagi II",
+  "wookieepedia_title": "Ropagi II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ropagi_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ropagi II was a planet in Kira sector, on the Enarc Run. It was an endpoint of the Kira Run and was home to two native species.",
+  "lead_paragraphs": [
+    "Ropagi II was a planet in Kira sector, on the Enarc Run. It was an endpoint of the Kira Run and was home to two native species."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early History",
+    "  Imperial era",
+    "Inhabitants",
+    "  Ropagu",
+    "  Kalduu",
+    "Locations",
+    "  Arena of the Mind",
+    "  Great Library",
+    "  Off-Worlders' Quarter"
+  ],
+  "data": {
+    "name": "Ropagi II",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Ropagi system",
+    "coordinates": "N-16",
+    "suns": "1: Ropagi",
+    "position": "2",
+    "moons": "1",
+    "routes": [
+      "Enarc Run",
+      "Kira Run (terminus)"
+    ],
+    "lengthday": "30 standard hours",
+    "lengthyear": "375 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Light",
+    "terrain": [
+      "Plains",
+      "Urban"
+    ],
+    "water": "Southern Ropaga Ocean",
+    "interest": [
+      "Arena of the Mind",
+      "Great Library",
+      "Off-Worlders' Quarter"
+    ],
+    "species": [
+      "Kalduu",
+      "Ropagu"
+    ],
+    "government": "Representative democracy",
+    "population": "1 billion",
+    "cities": [
+      "Balarik",
+      "Ebyl",
+      "Kaloder",
+      "Ropagis",
+      "Tev",
+      "Torvane"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Mercenaries"
+    ],
+    "exports": [
+      "Computers & programs",
+      "Medical facilities"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kalduu",
+      "directory": "Kalduu",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Ropagu",
+      "directory": "Ropagu",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ropagi II",
+    "x": 3782.6,
+    "y": -9028.6,
+    "z": -327.6,
+    "region": "Expansion Region",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

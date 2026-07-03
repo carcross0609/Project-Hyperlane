@@ -1,0 +1,47 @@
+{
+  "name": "Endex",
+  "wookieepedia_title": "Endex",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Endex",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Endex was a world of rocky canyons. It was the Entymal homeworld. During the time of the Old Republic, the Entymals were renowned as excellent pilots across the galaxy. For centuries, many pilots were trained in the canyons which left a lot of wreckage behind.",
+  "lead_paragraphs": [
+    "Endex was a world of rocky canyons. It was the Entymal homeworld. During the time of the Old Republic, the Entymals were renowned as excellent pilots across the galaxy. For centuries, many pilots were trained in the canyons which left a lot of wreckage behind.",
+    "After the rise of the Empire, however, the planet was subjugated and the Entymals were enslaved. This slavery and rule was continued by first the Pentastar Alignment, and then the Imperial Remnant."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Endex",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Velcar sector",
+    "system": "Endex system",
+    "coordinates": "J-5",
+    "terrain": "Rocky canyons",
+    "species": "Entymals",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Pentastar Alignment"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Entymal",
+      "directory": "Entymal",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Endex",
+    "x": -1674.5,
+    "y": 7476.3,
+    "z": 165.6,
+    "region": "Outer Rim",
+    "grid": "J-5"
+  },
+  "scraped": "2026-07-03"
+}

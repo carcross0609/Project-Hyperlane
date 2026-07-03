@@ -1,0 +1,41 @@
+{
+  "name": "Sayblohn",
+  "wookieepedia_title": "Sayblohn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sayblohn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sayblohn was a planet located in the Mid Rim's Quess sector. It was occupied by the Galactic Empire, and a group of pirates had a hidden base in the planet's badlands. During the Galactic Civil War, a Rebel Alliance team of operatives traveled to Sayblohn in order to retrieve a stolen art object. After several run-ins with the local pirates, the team was ultimately successful in its mission.",
+  "lead_paragraphs": [
+    "Sayblohn was a planet located in the Mid Rim's Quess sector. It was occupied by the Galactic Empire, and a group of pirates had a hidden base in the planet's badlands. During the Galactic Civil War, a Rebel Alliance team of operatives traveled to Sayblohn in order to retrieve a stolen art object. After several run-ins with the local pirates, the team was ultimately successful in its mission."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Sayblohn",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Quess sector",
+    "system": "Sayblohn system",
+    "coordinates": "N-16",
+    "class": "Terrestrial",
+    "terrain": "Badlands",
+    "interest": "Hidden pirate base",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Sayblohn",
+    "x": 4309.6,
+    "y": -10143.1,
+    "z": -226.7,
+    "region": "Mid Rim",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

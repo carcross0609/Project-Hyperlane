@@ -1,0 +1,49 @@
+{
+  "name": "Ktil",
+  "wookieepedia_title": "Ktil/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ktil/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ktil was an Inner Rim planet that was the homeworld of the Ktilac species. It was a part of the Ktilac Regions, a group of star systems which the Ktilac co-inhabited with the Murachauns and the Tocoyans. Ktil had become a member of the Galactic Republic by 17,000 BBY, and it eventually became a part of the Galactic Empire and the New Republic as well.",
+  "lead_paragraphs": [
+    "Ktil was an Inner Rim planet that was the homeworld of the Ktilac species. It was a part of the Ktilac Regions, a group of star systems which the Ktilac co-inhabited with the Murachauns and the Tocoyans. Ktil had become a member of the Galactic Republic by 17,000 BBY, and it eventually became a part of the Galactic Empire and the New Republic as well."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Ktil",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Ktilac Regions",
+    "system": "Ktil system",
+    "coordinates": "N-9",
+    "species": "Ktilac",
+    "population": "10–100 million (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ktilac",
+      "directory": "Ktilac",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ktil",
+    "x": 4289.2,
+    "y": 1314.0,
+    "z": 36.1,
+    "region": "Inner Rim",
+    "grid": "N-9"
+  },
+  "scraped": "2026-07-03"
+}

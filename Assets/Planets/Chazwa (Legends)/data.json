@@ -1,0 +1,73 @@
+{
+  "name": "Chazwa",
+  "wookieepedia_title": "Chazwa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chazwa/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Chazwa was a cold planet in the Chazwa system of the Orus sector, located in the Inner Rim. Its location along a popular freighter traffic route made it an ideal shipping center for all sorts of goods. As such, heavy freighter traffic within the system was not an uncommon sight. However, the abundance of valuable merchandise moving through the system lent itself to strong influence by smugglers.",
+  "lead_paragraphs": [
+    "Chazwa was a cold planet in the Chazwa system of the Orus sector, located in the Inner Rim. Its location along a popular freighter traffic route made it an ideal shipping center for all sorts of goods. As such, heavy freighter traffic within the system was not an uncommon sight. However, the abundance of valuable merchandise moving through the system lent itself to strong influence by smugglers."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Chazwa",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Orus sector",
+    "system": "Chazwa system",
+    "coordinates": "N-8",
+    "suns": "1: Chazwa",
+    "routes": "Perlemian Trade Route",
+    "lengthday": "26 standard hours",
+    "lengthyear": "369 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Plains",
+    "interest": [
+      "Fallone compound",
+      "Gold Plaza",
+      "Landing Bay 29",
+      "North Market",
+      "South Market",
+      "The Clog",
+      "The Stones",
+      "Warehouse district"
+    ],
+    "otherspecies": "Human",
+    "population": "3.5 billion",
+    "cities": "Iritsa (capital)",
+    "imports": [
+      "Foodstuffs",
+      "Medicine"
+    ],
+    "exports": [
+      "Information",
+      "Agricultural products",
+      "Mid technology"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Chazwa",
+    "x": 2997.9,
+    "y": 1590.0,
+    "z": 210.6,
+    "region": "Inner Rim",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

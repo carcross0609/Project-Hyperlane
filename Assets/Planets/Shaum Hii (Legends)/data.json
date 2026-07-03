@@ -1,0 +1,58 @@
+{
+  "name": "Shaum Hii",
+  "wookieepedia_title": "Shaum Hii/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shaum_Hii/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shaum Hii was a planet in Tragan Cluster of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Shaum Hii was a planet in Tragan Cluster of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Shaum Hii",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Tragan Cluster",
+    "system": "Shaum Hii system",
+    "coordinates": "N-5",
+    "routes": "Celanon Spur",
+    "terrain": [
+      "Oceans",
+      "Swampland"
+    ],
+    "fauna": [
+      "Bentail",
+      "Derlac"
+    ],
+    "species": "Kian'thar",
+    "language": "Kian'thar",
+    "population": "100 million to 500 million (c. 25 ABY)",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kian'thar",
+      "directory": "Kian'thar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Shaum Hii",
+    "x": 3265.7,
+    "y": 6832.7,
+    "z": 126.7,
+    "region": "Outer Rim",
+    "grid": "N-5"
+  },
+  "scraped": "2026-07-03"
+}

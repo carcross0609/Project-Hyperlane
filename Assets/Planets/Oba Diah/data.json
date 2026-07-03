@@ -1,0 +1,60 @@
+{
+  "name": "Oba Diah",
+  "wookieepedia_title": "Oba Diah",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oba_Diah",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Oba Diah was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Pyke species. Located on the end of the Kessel Run, the Pyke Syndicate managed the distribution of spice from Kessel as it was delivered throughout the galaxy from the high fortress of the Pyke Syndicate on Oba Diah.",
+  "lead_paragraphs": [
+    "Oba Diah was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Pyke species. Located on the end of the Kessel Run, the Pyke Syndicate managed the distribution of spice from Kessel as it was delivered throughout the galaxy from the high fortress of the Pyke Syndicate on Oba Diah."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Oba Diah",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Oba Diah system",
+    "coordinates": "T-10",
+    "moons": "Oba Diah moon",
+    "routes": [
+      "Kessel Run",
+      "Triellus Trade Route"
+    ],
+    "atmosphere": "Breathable",
+    "terrain": "Jutting obsidian mountain crags",
+    "interest": [
+      "High fortress of the Pyke Syndicate",
+      "Oba Diah loading docks",
+      "Obsidian Cliffs"
+    ],
+    "species": "Pyke",
+    "cities": "Oba Diah city",
+    "affiliation": "Pyke Syndicate"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pyke",
+      "directory": "Pyke",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Pyke",
+      "directory": "Pyke (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Oba Diah",
+    "x": 13272.4,
+    "y": -216.6,
+    "z": 463.6,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

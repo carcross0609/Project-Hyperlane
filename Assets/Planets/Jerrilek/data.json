@@ -1,0 +1,61 @@
+{
+  "name": "Jerrilek",
+  "wookieepedia_title": "Jerrilek",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jerrilek",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jerrilek was a tropical vacation world in the Jerrilek system.",
+  "lead_paragraphs": [
+    "Jerrilek was a tropical vacation world in the Jerrilek system."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Jerrilek",
+    "region": "Deep Core",
+    "system": "Jerrilek system",
+    "coordinates": "L-10",
+    "routes": "Koros Trunk Line",
+    "lengthday": "14 standard hours",
+    "lengthyear": "594 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Warm temperate to tropical",
+    "gravity": "Standard",
+    "terrain": [
+      "Tropical islands",
+      "Mountains",
+      "Forests"
+    ],
+    "water": "Saturated",
+    "interest": "Ancient ruins",
+    "species": "Unidentified Jerrilek species (extinct)",
+    "otherspecies": [
+      "Humans",
+      "Ithorians"
+    ],
+    "language": "Basic",
+    "population": "12 million Humans, 5.1 million Ithorians",
+    "cities": "Graleca",
+    "imports": "Metals, droids, luxury items",
+    "exports": "Seafood products, holovids, watercraft",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Jerrilek species",
+      "directory": "Unidentified Jerrilek species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Jerrilek",
+    "x": 29.2,
+    "y": -360.8,
+    "z": 0.4,
+    "region": "Deep Core",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

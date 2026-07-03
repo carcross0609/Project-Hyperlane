@@ -1,0 +1,49 @@
+{
+  "name": "Kath II",
+  "wookieepedia_title": "Kath II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kath_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kath II, also known as Kath, was an ocean-covered world located in the Dustig sector of the Mid Rim.",
+  "lead_paragraphs": [
+    "Kath II, also known as Kath, was an ocean-covered world located in the Dustig sector of the Mid Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kath II",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Dustig sector",
+    "system": "Kath system",
+    "coordinates": "M-17",
+    "routes": "Dustig Trace",
+    "class": "Terrestrial",
+    "terrain": [
+      "Oceans",
+      "Oceanic trenches"
+    ],
+    "interest": "Karm Trenches",
+    "otherspecies": "Human",
+    "government": "Democracy",
+    "population": "33% Human",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kath II",
+    "x": 1993.2,
+    "y": -10717.5,
+    "z": 307.2,
+    "region": "Mid Rim",
+    "grid": "M-17"
+  },
+  "scraped": "2026-07-03"
+}

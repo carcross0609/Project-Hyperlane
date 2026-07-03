@@ -1,0 +1,51 @@
+{
+  "name": "Dagro",
+  "wookieepedia_title": "Dagro",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dagro",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dagro was a remote planet and a noted agriworld in the years leading up to the Clone Wars.",
+  "lead_paragraphs": [
+    "Dagro was a remote planet and a noted agriworld in the years leading up to the Clone Wars."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Dagro",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Esuain sector",
+    "system": "Dagro system",
+    "coordinates": "P-7",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": "Plains",
+    "interest": "Swens homestead",
+    "fauna": "Zeles",
+    "otherspecies": [
+      "Humans",
+      "Neimoidians"
+    ],
+    "language": "Galactic Basic Standard",
+    "cities": "Vale City",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dagro",
+    "x": 6797.5,
+    "y": 3801.6,
+    "z": 192.9,
+    "region": "Mid Rim",
+    "grid": "P-7"
+  },
+  "scraped": "2026-07-03"
+}

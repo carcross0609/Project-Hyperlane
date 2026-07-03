@@ -1,0 +1,53 @@
+{
+  "name": "Andowyne",
+  "wookieepedia_title": "Andowyne",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Andowyne",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Andowyne was a Force-imbued planet located in the Kathol Rift. It was the home planet of the Brownie, Daikini, Nelwyn and possibly midi-chlorian life forms. The planet was forgotten for many years by the galaxy at large, but was later rediscovered by Jedi historians in the Jedi Archives.",
+  "lead_paragraphs": [
+    "Andowyne was a Force-imbued planet located in the Kathol Rift. It was the home planet of the Brownie, Daikini, Nelwyn and possibly midi-chlorian life forms. The planet was forgotten for many years by the galaxy at large, but was later rediscovered by Jedi historians in the Jedi Archives."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Andowyne",
+    "region": "Outer Rim Territories",
+    "sector": "Kathol sector",
+    "coordinates": "M-21",
+    "suns": "1",
+    "moons": "1",
+    "interest": [
+      "Angwyn",
+      "Tir Asleen",
+      "Galladoorn",
+      "Nockmaar"
+    ],
+    "species": [
+      "Brownie",
+      "Daikini",
+      "Midi-chlorian (possible)",
+      "Nelwyn"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Brownie",
+      "directory": "Brownie",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Nelwyn",
+      "directory": "Nelwyn",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "Andowyne",
+    "x": 2774.3,
+    "y": -16938.5,
+    "z": -544.6,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

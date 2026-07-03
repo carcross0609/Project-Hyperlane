@@ -1,0 +1,36 @@
+{
+  "name": "Bonadan",
+  "wookieepedia_title": "Bonadan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bonadan",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bonadan was a planet in the Outer Rim Territories Corporate Sector that marked the start of the Hydian Way. By 10 BBY, the arms dealers Ephant Mon and Masse Goskey had attended an arms exchange on the planet.",
+  "lead_paragraphs": [
+    "Bonadan was a planet in the Outer Rim Territories Corporate Sector that marked the start of the Hydian Way. By 10 BBY, the arms dealers Ephant Mon and Masse Goskey had attended an arms exchange on the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Bonadan",
+    "region": "Outer Rim Territories",
+    "sector": "Corporate Sector",
+    "system": "Bonadan system",
+    "coordinates": "S-3",
+    "routes": [
+      "Hydian Way",
+      "Shaltin Tunnels"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Bonadan",
+    "x": 11096.7,
+    "y": 9026.2,
+    "z": -384.8,
+    "region": "Outer Rim",
+    "grid": "S-3"
+  },
+  "scraped": "2026-07-03"
+}

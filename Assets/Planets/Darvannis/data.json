@@ -1,0 +1,53 @@
+{
+  "name": "Darvannis",
+  "wookieepedia_title": "Darvannis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darvannis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Darvannis was a desert planet in the galaxy where the Hutt Cartel ostensibly built up its military forces during the Galactic War. When the Galactic Republic and the Sith Empire attempted to intervene, they found the renegade Dread Master Styrak attempting to gather the forces at Darvannis to serve the Masters' Dread Host instead. After Styrak's defeat in battle, the Eternal Empire occupied Darvannis, where they produced Skytroopers and advanced GEMINI units to ensure their conquest of the galaxy. The opposing Eternal Alliance subsequently raided the factory and captured the GEMINI Prime droid.",
+  "lead_paragraphs": [
+    "Darvannis was a desert planet in the galaxy where the Hutt Cartel ostensibly built up its military forces during the Galactic War. When the Galactic Republic and the Sith Empire attempted to intervene, they found the renegade Dread Master Styrak attempting to gather the forces at Darvannis to serve the Masters' Dread Host instead. After Styrak's defeat in battle, the Eternal Empire occupied Darvannis, where they produced Skytroopers and advanced GEMINI units to ensure their conquest of the galaxy. The opposing Eternal Alliance subsequently raided the factory and captured the GEMINI Prime droid."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Darvannis",
+    "region": "Hutt Space",
+    "sector": "Calaron sector",
+    "coordinates": "Canon-only",
+    "moons": "2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "terrain": "Desert",
+    "interest": [
+      "Collapsed Ruins",
+      "Plateau Bazaar",
+      "Sandstorm Dunes",
+      "Skytrooper factory",
+      "The Scar"
+    ],
+    "fauna": [
+      "Dustclaws",
+      "Kell dragons",
+      "Sarlacc"
+    ],
+    "cities": "Oasis City",
+    "exports": "Skytroopers",
+    "affiliation": [
+      "Hutt Cartel",
+      "Eternal Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "GEMINI",
+      "directory": "GEMINI",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

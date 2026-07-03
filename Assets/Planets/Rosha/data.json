@@ -1,0 +1,44 @@
+{
+  "name": "Rosha",
+  "wookieepedia_title": "Rosha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rosha",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rosha was a planet in the Leemurtoo system. It was a neighbor of Samaria.",
+  "lead_paragraphs": [
+    "Rosha was a planet in the Leemurtoo system. It was a neighbor of Samaria.",
+    "During the Clone Wars, Rosha aligned with the Confederacy of Independent Systems and had strong links to the Trade Federation.",
+    "During the time when the Galactic Empire and Bog Divinian were on Samaria, Bog influenced the Samarians to believe that Rosha was their enemy, not the Empire, by putting his life in danger. Robbyn Sark was sent to Samaria to talk to Bog about this, while Bog denied the charges about framing Rosha and its people. Bog Divinian had plans for taking over Rosha, and the whole Leemurtoo system. Eventually, he achieved this goal when he was appointed the Imperial governor of the entire system.",
+    "In 19 BBY, the Empire executed Order 37, in which a mass attack occurred on Rosha. This was done partly to hunt down resistance members and also to gain Bog Divinian support on Samaria. After the attack, Bog was in charge of reconstructing the city.",
+    "The native species, Roshans, were Human-like, and had four antennae on their head, that twitched when they were nervous."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rosha",
+    "region": "Core Worlds",
+    "system": "Leemurtoo system",
+    "coordinates": "M-11",
+    "species": "Roshans",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Roshan",
+      "directory": "Roshan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rosha",
+    "x": 2272.6,
+    "y": -2704.1,
+    "z": -5.4,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Gortis",
+  "wookieepedia_title": "Gortis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gortis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gortis was the fifth planet in the Kuat system.",
+  "lead_paragraphs": [
+    "Gortis was the fifth planet in the Kuat system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gortis",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "sector": "Kuat sector",
+    "system": "Kuat system",
+    "coordinates": "M-10",
+    "suns": "1: Kuat",
+    "position": "5",
+    "moons": "3",
+    "class": "Barren rock",
+    "terrain": "Barren"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Gortis",
+    "x": 1628.5,
+    "y": -4404.9,
+    "z": -144.4,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

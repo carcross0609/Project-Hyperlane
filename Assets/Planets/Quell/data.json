@@ -1,0 +1,37 @@
+{
+  "name": "Quell",
+  "wookieepedia_title": "Quell",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quell",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Quell was a terrestrial planet located in the Quell system of the Outer Rim Territories. In 21 BBY, the planet served as a site of a Clone Wars engagement, where the Galactic Republic task force of Jedi General Aayla Secura was attacked by a Confederacy of Independent Systems squadron of frigates commanded by the T-series tactical droid TF-1726. During the battle, the Republic forces were inflicted with heavy casualties as the Confederacy claimed victory.",
+  "lead_paragraphs": [
+    "Quell was a terrestrial planet located in the Quell system of the Outer Rim Territories. In 21 BBY, the planet served as a site of a Clone Wars engagement, where the Galactic Republic task force of Jedi General Aayla Secura was attacked by a Confederacy of Independent Systems squadron of frigates commanded by the T-series tactical droid TF-1726. During the battle, the Republic forces were inflicted with heavy casualties as the Confederacy claimed victory."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Quell",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Nuiri sector",
+    "system": "Quell system",
+    "coordinates": "Q-6",
+    "routes": "Salin Corridor",
+    "class": "Terrestrial"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Quell",
+    "x": 8799.7,
+    "y": 4849.0,
+    "z": 38.6,
+    "region": "Outer Rim",
+    "grid": "Q-6"
+  },
+  "scraped": "2026-07-03"
+}

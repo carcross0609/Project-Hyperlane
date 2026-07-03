@@ -1,0 +1,43 @@
+{
+  "name": "Simocadia",
+  "wookieepedia_title": "Simocadia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Simocadia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Simocadia was a planet located in the Inner Rim and the homeworld to the Mosciive species.",
+  "lead_paragraphs": [
+    "Simocadia was a planet located in the Inner Rim and the homeworld to the Mosciive species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Simocadia",
+    "region": "Inner Rim",
+    "system": "Simocadia system",
+    "coordinates": "J-13",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Mountains",
+    "species": "Mosciive",
+    "government": "Empire",
+    "cities": "Royal City",
+    "exports": [
+      "Agrocite",
+      "Sculptures"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mosciive",
+      "directory": "Mosciive",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

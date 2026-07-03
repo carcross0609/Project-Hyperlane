@@ -1,0 +1,63 @@
+{
+  "name": "Sump",
+  "wookieepedia_title": "Sump/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sump/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sump was planet in the Outer Rim Territories' Koradin sector. It was the homeworld of the easily-manipulated Nuknog species, the leaders of which sold their world to a consortium of mining corporations around 1000 BBY. The Nuknog were then essentially reduced to slavery, working for centuries at offworld mines and factories for no pay while Sump was gradually polluted.",
+  "lead_paragraphs": [
+    "Sump was planet in the Outer Rim Territories' Koradin sector. It was the homeworld of the easily-manipulated Nuknog species, the leaders of which sold their world to a consortium of mining corporations around 1000 BBY. The Nuknog were then essentially reduced to slavery, working for centuries at offworld mines and factories for no pay while Sump was gradually polluted.",
+    "When a pair of Jedi eventually arrived on the planet in search of a wanted criminal, the plight of the Nuknog was made known to the Galactic Republic, which ordered the mining corporations to cease their operations on Sump. The planet's economy was subsequently left in ruins, and, despite Republic relief efforts that brought food supplies to the starving Nuknog and offered to help them rebuild their agricultural industry, the distrustful natives were ultimately unwilling to help themselves, and by the time of the Clone Wars, the galactic interest in their situation waned."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  A world sold",
+    "  Republic sympathy",
+    "  Into the Clone Wars",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Sump",
+    "region": "Outer Rim Territories",
+    "sector": "Koradin sector",
+    "system": "Sump system",
+    "coordinates": "I-18",
+    "routes": "Lipsec Run",
+    "class": "Terrestrial",
+    "terrain": [
+      "Toxic marshes",
+      "Urban"
+    ],
+    "water": "Oceans",
+    "interest": [
+      "Mines",
+      "Processing factories",
+      "A port"
+    ],
+    "species": "Nuknog",
+    "language": "Nuknog",
+    "population": "500 million–1 billion (Sump system) (c. 25 ABY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nuknog",
+      "directory": "Nuknog",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Nuknog",
+      "directory": "Nuknog (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sump",
+    "x": -3119.8,
+    "y": -13370.0,
+    "z": -684.8,
+    "region": "Outer Rim",
+    "grid": "I-18"
+  },
+  "scraped": "2026-07-03"
+}

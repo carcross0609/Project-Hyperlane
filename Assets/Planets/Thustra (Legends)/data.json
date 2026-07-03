@@ -1,0 +1,58 @@
+{
+  "name": "Thustra",
+  "wookieepedia_title": "Thustra/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thustra/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thustra was a planet located within the Thustra system, Sumitra sector of the galaxy's Expansion Region. It was also the homeworld of a Near-Human race known as the Sephi. Until the advent of the Clone Wars, Thustra was a member world of the Galactic Republic, and was thus represented in the Galactic Senate by a senator. By 21 BBY, approximately nine months into the civil war, the Sephi betrayed the Republic and joined Thustra with the rebellion of the Confederacy of Independent Systems.",
+  "lead_paragraphs": [
+    "Thustra was a planet located within the Thustra system, Sumitra sector of the galaxy's Expansion Region. It was also the homeworld of a Near-Human race known as the Sephi. Until the advent of the Clone Wars, Thustra was a member world of the Galactic Republic, and was thus represented in the Galactic Senate by a senator. By 21 BBY, approximately nine months into the civil war, the Sephi betrayed the Republic and joined Thustra with the rebellion of the Confederacy of Independent Systems."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Thustra",
+    "region": [
+      "Expansion Region",
+      "Trans-Hydian"
+    ],
+    "sector": "Sumitra sector",
+    "system": "Thustra system",
+    "coordinates": "O-7",
+    "terrain": [
+      "Plains",
+      "Forests",
+      "Mountains"
+    ],
+    "interest": [
+      "Alaric's garden",
+      "Alaric's palace",
+      "Thustra Republic command center"
+    ],
+    "species": "Sephi",
+    "language": "Galactic Basic Standard",
+    "population": "1–10 billion (25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sephi",
+      "directory": "Sephi (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Thustra",
+    "x": 4547.7,
+    "y": 3416.1,
+    "z": -14.4,
+    "region": "Expansion Region",
+    "grid": "O-7"
+  },
+  "scraped": "2026-07-03"
+}

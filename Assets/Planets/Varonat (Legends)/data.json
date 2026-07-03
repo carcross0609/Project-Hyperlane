@@ -1,0 +1,89 @@
+{
+  "name": "Varonat",
+  "wookieepedia_title": "Varonat/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Varonat/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Varonat was a planet located in the Anoat sector of the Outer Rim Territories, situated along the Ison Corridor. It was a steaming jungle and adopted home of the Morodin species.",
+  "lead_paragraphs": [
+    "Varonat was a planet located in the Anoat sector of the Outer Rim Territories, situated along the Ison Corridor. It was a steaming jungle and adopted home of the Morodin species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Varonat",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector, Greater Javin",
+    "system": "Varonat system",
+    "coordinates": "K-18",
+    "routes": "Ison Corridor",
+    "lengthday": "24 standard hours",
+    "lengthyear": "400 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Warm",
+    "gravity": "95% standard",
+    "terrain": [
+      "Jungles",
+      "Mountains",
+      "Plains"
+    ],
+    "water": "Moderate",
+    "interest": "Great Jungle",
+    "flora": "Yagaran aleudrupe plant",
+    "otherspecies": [
+      "Morodin",
+      "Humans",
+      "Krish"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Morodin language"
+    ],
+    "government": [
+      "Participatory democracy",
+      "Imperial governor"
+    ],
+    "population": [
+      "50,000 Morodins",
+      "3,000–3,500 Humans",
+      "Assorted Krish"
+    ],
+    "cities": [
+      "Tropis-on-Varonat",
+      "Edgefields-on-Varonat"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "High technology",
+      "Medicinal goods"
+    ],
+    "exports": [
+      "Modified aleudrupe berries"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic (As of 12 ABY)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Morodin",
+      "directory": "Morodin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Varonat",
+    "x": -1411.4,
+    "y": -12719.1,
+    "z": -135.9,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Hraki",
+  "wookieepedia_title": "Hraki",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hraki",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hraki was a planet in the Vorzyd Cluster of the Outer Rim.",
+  "lead_paragraphs": [
+    "Hraki was a planet in the Vorzyd Cluster of the Outer Rim."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Hraki",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Vorzyd sector",
+      "  Vorzyd Cluster"
+    ],
+    "system": "Hraki system",
+    "coordinates": "R-6",
+    "terrain": [
+      "Rainforests",
+      "Mountains"
+    ],
+    "species": "Hrakians",
+    "affiliation": [
+      "Galactic Republic",
+      "  Commonality",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Hrakian",
+      "directory": "Hrakian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Hraki",
+    "x": 13510.4,
+    "y": -6569.6,
+    "z": 125.6,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

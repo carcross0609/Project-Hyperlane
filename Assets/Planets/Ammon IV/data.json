@@ -1,0 +1,37 @@
+{
+  "name": "Ammon IV",
+  "wookieepedia_title": "Ammon IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ammon_IV",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ammon IV was a hot, barren planet located in the Ammon system in the Ciutric sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Ammon IV was a hot, barren planet located in the Ammon system in the Ciutric sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Ammon IV",
+    "region": "Outer Rim Territories",
+    "sector": "Ciutric sector",
+    "system": "Ammon system",
+    "coordinates": "N-5",
+    "suns": "1",
+    "atmosphere": "Breathable",
+    "climate": "Hot",
+    "terrain": "Desert",
+    "interest": "Jarret's farm"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ammon IV",
+    "x": 5521.9,
+    "y": 1710.5,
+    "z": -192.5,
+    "region": "Outer Rim",
+    "grid": "O-8"
+  },
+  "scraped": "2026-07-03"
+}

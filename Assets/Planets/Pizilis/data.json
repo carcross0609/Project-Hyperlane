@@ -1,0 +1,42 @@
+{
+  "name": "Pizilis",
+  "wookieepedia_title": "Pizilis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pizilis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pizilis was a gas giant–type planet. It was located within the Pizilis system of the Terr'skiar sector, a part of the Kashyyyk Region in the Slice portion of the Mid Rim. The Dauntless Run hyperlane connected the planet to the world of Rorgam while the hyperspace route known as the Nightroad linked Pizilis to the worlds of Mytaranor and Terr'skiar.",
+  "lead_paragraphs": [
+    "Pizilis was a gas giant–type planet. It was located within the Pizilis system of the Terr'skiar sector, a part of the Kashyyyk Region in the Slice portion of the Mid Rim. The Dauntless Run hyperlane connected the planet to the world of Rorgam while the hyperspace route known as the Nightroad linked Pizilis to the worlds of Mytaranor and Terr'skiar.",
+    "The sapphire-blue gas giant had several moons that all had temperate climates. The moons had many small settlements on them that were supported by corporations out of the worlds of Lantillies, Randon and Rorgam."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pizilis",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": [
+      "Kashyyyk Region",
+      "  Terr'skiar sector"
+    ],
+    "system": "Pizilis system",
+    "coordinates": "P-10",
+    "moons": "Several",
+    "routes": [
+      "Dauntless Run",
+      "Nightroad"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pizilis",
+    "x": 7185.5,
+    "y": -299.9,
+    "z": 252.4,
+    "region": "Mid Rim",
+    "grid": "P-10"
+  },
+  "scraped": "2026-07-03"
+}

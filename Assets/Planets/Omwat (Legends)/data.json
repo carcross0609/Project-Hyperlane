@@ -1,0 +1,57 @@
+{
+  "name": "Omwat",
+  "wookieepedia_title": "Omwat/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Omwat/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Omwat was a planet in the Garis sector of the Outer Rim Territories. It was a world of grasslands and mountains and the homeworld of the native Omwati.",
+  "lead_paragraphs": [
+    "Omwat was a planet in the Garis sector of the Outer Rim Territories. It was a world of grasslands and mountains and the homeworld of the native Omwati.",
+    "The planet's surface was covered with honeycomb-like cities, of which were built by the Omwati and devoted to advancing the sciences, arts, and technologies of their species. Despite the Omwati's growing technological sophistication, Omwat's natural resources were used sparingly, in order to avoid overwhelming them."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Omwat",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Garis sector",
+    "system": "Omwat system",
+    "coordinates": "N-18",
+    "routes": "Sanrafsix Corridor",
+    "terrain": [
+      "Grasslands",
+      "Savannas",
+      "Mountains"
+    ],
+    "interest": "Honeycombed cities",
+    "species": "Omwati (near-Human)",
+    "language": "Omwatese",
+    "population": "1 million to 10 million (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Omwati",
+      "directory": "Omwati (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Omwat",
+    "x": 3415.8,
+    "y": -12050.9,
+    "z": 263.3,
+    "region": "Outer Rim",
+    "grid": "N-18"
+  },
+  "scraped": "2026-07-03"
+}

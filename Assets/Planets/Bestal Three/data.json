@@ -1,0 +1,38 @@
+{
+  "name": "Bestal Three",
+  "wookieepedia_title": "Bestal Three",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bestal_Three",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Bestal Three was a jungle planet in the Outer Rim Territories' Varada sector. Its flora included the vortal tree, the seeds of which had medicinal properties. During the Galactic Civil War, the entrepreneur Alara Fax secured the rights for her company, Fax Ventures, to mine the asteroids of the nearby Kadal Asteroid Field and process the extracted ores on Bestal Three. The asteroid mining also served as cover for the manufacture of efficient medpacs from stimulants derived from the vortal tree seeds.",
+  "lead_paragraphs": [
+    "Bestal Three was a jungle planet in the Outer Rim Territories' Varada sector. Its flora included the vortal tree, the seeds of which had medicinal properties. During the Galactic Civil War, the entrepreneur Alara Fax secured the rights for her company, Fax Ventures, to mine the asteroids of the nearby Kadal Asteroid Field and process the extracted ores on Bestal Three. The asteroid mining also served as cover for the manufacture of efficient medpacs from stimulants derived from the vortal tree seeds."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Bestal Three",
+    "region": "Outer Rim Territories",
+    "sector": "Varada sector",
+    "system": "Bestal system",
+    "coordinates": "I-19",
+    "position": "3",
+    "class": "Terrestrial",
+    "terrain": "Jungle",
+    "flora": "Vortal tree",
+    "imports": "Aluminite and corax ores"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Bestal Three",
+    "x": -4347.5,
+    "y": -14781.8,
+    "z": -349.0,
+    "region": "Outer Rim",
+    "grid": "I-19"
+  },
+  "scraped": "2026-07-03"
+}

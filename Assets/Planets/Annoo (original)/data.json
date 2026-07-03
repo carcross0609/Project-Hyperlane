@@ -1,0 +1,67 @@
+{
+  "name": "Annoo",
+  "wookieepedia_title": "Annoo (original)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Annoo_%28original%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Annoo was an Outer Rim planet located in the Tharin sector. The homeworld of the original Annoo-dat species, they were referred to by xenobiologists as Annoo-dat Prime.",
+  "lead_paragraphs": [
+    "Annoo was an Outer Rim planet located in the Tharin sector. The homeworld of the original Annoo-dat species, they were referred to by xenobiologists as Annoo-dat Prime."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Annoo",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tharin sector",
+    "system": "Annoo system",
+    "coordinates": "S-8",
+    "class": "Terrestrial",
+    "terrain": [
+      "Modern:",
+      "Barren wastelands"
+    ],
+    "species": [
+      "Modern:",
+      "None",
+      "Formerly:",
+      "Annoo-dat Prime"
+    ],
+    "language": [
+      "Modern:",
+      "None",
+      "Formerly:",
+      "Dat-an"
+    ],
+    "population": [
+      "Modern:",
+      "None",
+      "Historic:",
+      "1 million to 10 million"
+    ],
+    "affiliation": [
+      "Hutt Empire",
+      "Brotherhood of Darkness"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Annoo-dat Prime",
+      "directory": "Annoo-dat Prime",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Annoo",
+    "x": 10954.4,
+    "y": 1726.4,
+    "z": 404.8,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Axum",
+  "wookieepedia_title": "Axum",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Axum",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Axum was a temperate world located in the Axum system. It had two moons.",
+  "lead_paragraphs": [
+    "Axum was a temperate world located in the Axum system. It had two moons."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Tionese War",
+    "  Waymancy Storm",
+    "  Decline of the Republic",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Axum",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "sector": "Azure sector",
+    "system": "Axum system",
+    "coordinates": "L-9",
+    "suns": "1: Solis Axum",
+    "position": "3",
+    "moons": "2",
+    "routes": "Perlemian Trade Route",
+    "class": "Terrestrial",
+    "terrain": "Industrial",
+    "interest": "Brass Soldiers of Axum",
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "government": "Empire",
+    "demonym": "Axumite",
+    "exports": "High-tech goods",
+    "affiliation": [
+      "Infinite Empire",
+      "Azure Imperium",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Axum",
+    "x": 1111.8,
+    "y": 1248.3,
+    "z": -139.2,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bri'ahl",
+  "wookieepedia_title": "Bri'ahl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bri%27ahl",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bri'ahl was a planet located in the Bri'ahl sector of the Outer Rim Territories. It was inhabited by the Bri'ahls.",
+  "lead_paragraphs": [
+    "Bri'ahl was a planet located in the Bri'ahl sector of the Outer Rim Territories. It was inhabited by the Bri'ahls."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Bri'ahl",
+    "region": "Outer Rim Territories",
+    "sector": "Bri'ahl sector",
+    "system": "Bri'ahl system",
+    "coordinates": "I-17",
+    "terrain": [
+      "Jungle",
+      "Mountains"
+    ],
+    "fauna": [
+      "Bri'ahlian creature",
+      "Bri'ahlian mammoth"
+    ],
+    "species": "Bri'ahls"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bri'ahl",
+      "directory": "Bri'ahl (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bri'ahl",
+    "x": -3661.0,
+    "y": -11606.8,
+    "z": -139.2,
+    "region": "Outer Rim",
+    "grid": "I-17"
+  },
+  "scraped": "2026-07-03"
+}

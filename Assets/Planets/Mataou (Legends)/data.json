@@ -1,0 +1,63 @@
+{
+  "name": "Mataou",
+  "wookieepedia_title": "Mataou/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mataou/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mataou was a desert world located in the Anoat sector of the Outer Rim Territories. It was home to the ro hypa, a snake-like creature whose venom was collected by a colony of Human snake handlers for its medicinal properties. Mataou was orbited by a drydock and a fuel station.",
+  "lead_paragraphs": [
+    "Mataou was a desert world located in the Anoat sector of the Outer Rim Territories. It was home to the ro hypa, a snake-like creature whose venom was collected by a colony of Human snake handlers for its medicinal properties. Mataou was orbited by a drydock and a fuel station."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Mataou",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches",
+      "  Greater Javin"
+    ],
+    "sector": [
+      "Javin sector (prior to c. 400 BBY)",
+      "Anoat sector (c. 400 BBY—)"
+    ],
+    "system": "Mataou system",
+    "coordinates": "K-18",
+    "routes": [
+      "Corellian Trade Spine",
+      "Ison Corridor"
+    ],
+    "lengthday": "20 standard hours",
+    "lengthyear": "440 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "110% standard",
+    "terrain": "Deserts",
+    "interest": [
+      "Drydock (in orbit)",
+      "Mataou fuel station (in orbit)",
+      "Standard Class starport"
+    ],
+    "fauna": "Ro hypa",
+    "otherspecies": "Humans",
+    "government": "None",
+    "population": "5,000",
+    "imports": "Foodstuffs",
+    "exports": "Ro hypa venom"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Mataou",
+    "x": -1330.8,
+    "y": -12924.7,
+    "z": 518.1,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

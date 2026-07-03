@@ -1,0 +1,40 @@
+{
+  "name": "Jilrua",
+  "wookieepedia_title": "Jilrua",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jilrua",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jilrua was a desert planet that orbited a blue giant star within the Jilrua system of the galaxy's Hutt Space region, in the immediate vicinity of the Oktos Nebula.",
+  "lead_paragraphs": [
+    "Jilrua was a desert planet that orbited a blue giant star within the Jilrua system of the galaxy's Hutt Space region, in the immediate vicinity of the Oktos Nebula.",
+    "Jilrua was the homeworld of the Jilruans, a war-like sentient species that was conquered by members of the Hutt species and that contributed soldiers to the Hutt armies by the year 25,100 BBY. The planet was rarely visited by outsiders."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Jilrua",
+    "region": "Hutt Space",
+    "system": "Jilrua system",
+    "coordinates": "R-12",
+    "suns": "1",
+    "class": "Terrestrial",
+    "terrain": "Deserts",
+    "species": "Jilruans",
+    "affiliation": "Hutts"
+  },
+  "homeworld_of": [
+    {
+      "name": "Jilruan",
+      "directory": "Jilruan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Jilrua",
+    "x": 9768.9,
+    "y": -3166.6,
+    "z": -256.3,
+    "region": "Hutt Space",
+    "grid": "R-12"
+  },
+  "scraped": "2026-07-03"
+}

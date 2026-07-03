@@ -1,0 +1,77 @@
+{
+  "name": "Nar Kreeta",
+  "wookieepedia_title": "Nar Kreeta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nar_Kreeta",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nar Kreeta was a Hutt colony and major trade world, located at the nexus of the Pabol Kreeta and Pabol Sleheyron.",
+  "lead_paragraphs": [
+    "Nar Kreeta was a Hutt colony and major trade world, located at the nexus of the Pabol Kreeta and Pabol Sleheyron."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Disciples of Ragnos Crisis",
+    "  Yuuzhan Vong invasion"
+  ],
+  "data": {
+    "name": "Nar Kreeta",
+    "region": "Hutt Space",
+    "system": "Nar Kreeta system",
+    "coordinates": "S-10",
+    "routes": [
+      "Pabol Kreeta",
+      "Pabol Sleheyron"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "terrain": [
+      "Enormous mountains",
+      "Deep canyons"
+    ],
+    "water": "Alkaline oceans",
+    "interest": "Rancor betting parlor",
+    "fauna": "Rancors",
+    "otherspecies": [
+      "Hutts",
+      "Various species",
+      "  Chiss",
+      "  Grans",
+      "  Humans",
+      "  Rodians",
+      "  Trandoshans",
+      "  Weequay"
+    ],
+    "language": "Huttese",
+    "imports": "Slaves",
+    "exports": [
+      "Ores",
+      "  Diatium",
+      "  Iridium",
+      "  Kiirium",
+      "  Tydirium",
+      "  Vanadium",
+      "  Yttrium",
+      "  Other minerals",
+      "Slaves"
+    ],
+    "affiliation": [
+      "Hutt Empire",
+      "Hutt Cartel",
+      "Mining Guild",
+      "Yuuzhan Vong empire",
+      "Confederation"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Nar Kreeta",
+    "x": 10638.9,
+    "y": -533.4,
+    "z": -194.4,
+    "region": "Hutt Space",
+    "grid": "S-10"
+  },
+  "scraped": "2026-07-03"
+}

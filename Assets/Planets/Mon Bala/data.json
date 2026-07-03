@@ -1,0 +1,44 @@
+{
+  "name": "Mon Bala",
+  "wookieepedia_title": "Mon Bala",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mon_Bala",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mon Bala was the innermost planet orbiting the star Ryloth in the Ryloth system. Located in the Outer Rim Territories, it was a molten rock.",
+  "lead_paragraphs": [
+    "Mon Bala was the innermost planet orbiting the star Ryloth in the Ryloth system. Located in the Outer Rim Territories, it was a molten rock."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Mon Bala",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice",
+      "Trailing Sectors"
+    ],
+    "sector": "Gaulus sector",
+    "system": "Ryloth system",
+    "coordinates": "R-17",
+    "suns": "1: Ryloth",
+    "position": "1",
+    "moons": "0",
+    "routes": [
+      "Corellian Run",
+      "Corellian Skip Run",
+      "Death Wind Corridor",
+      "Old Corellian Run",
+      "Ryloth Road"
+    ],
+    "class": "Molten rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Mon Bala",
+    "x": 32.4,
+    "y": 9028.5,
+    "z": 77.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

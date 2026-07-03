@@ -1,0 +1,88 @@
+{
+  "name": "Baralou",
+  "wookieepedia_title": "Baralou",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Baralou",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Baralou was a planet in the Varada sector of the Outer Rim Territories. It was the homeworld of the Krikthasi and the Multopos.",
+  "lead_paragraphs": [
+    "Baralou was a planet in the Varada sector of the Outer Rim Territories. It was the homeworld of the Krikthasi and the Multopos."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Baralou",
+    "region": "Outer Rim Territories",
+    "sector": "Varada sector",
+    "system": "Baralou system",
+    "coordinates": "H-20",
+    "suns": "1: Baralou",
+    "position": "1",
+    "moons": "4",
+    "lengthday": "22 standard hours",
+    "lengthyear": "295 local days",
+    "class": "Terrestrial (tropical ocean)",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": [
+      "Barren rock islands",
+      "Jungle islands"
+    ],
+    "water": "Ocean",
+    "interest": [
+      "Aqualis Base",
+      "Magl'Ikkan Temple",
+      "Krikthasi Territories:",
+      "  Reterri",
+      "  Undrarian",
+      "  Winsallu"
+    ],
+    "flora": "Bestrum algae",
+    "fauna": [
+      "Grotseth",
+      "Treppok"
+    ],
+    "species": [
+      "Krikthasi",
+      "Multopo"
+    ],
+    "otherspecies": "Humans",
+    "government": [
+      "Solitary tribes (Multopos)",
+      "Feudal and solitary tribes (Krikthasi)"
+    ],
+    "population": [
+      "500,000 (surface)",
+      "5 million (aquatic)"
+    ],
+    "imports": "None",
+    "exports": [
+      "Foodstuffs (bestrum algae, fish)",
+      "Luxury goods (tropical fish, Krikthasi crafts, gemstones)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Krikthasi",
+      "directory": "Krikthasi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Multopo",
+      "directory": "Multopo",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Baralou",
+    "x": -4660.3,
+    "y": -15262.8,
+    "z": -464.0,
+    "region": "Outer Rim",
+    "grid": "H-20"
+  },
+  "scraped": "2026-07-03"
+}

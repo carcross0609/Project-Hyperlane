@@ -1,0 +1,36 @@
+{
+  "name": "Aar",
+  "wookieepedia_title": "Aar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aar was a planet in the Aar system of the Nijune sector, part of the Outer Rim Territories. It was homeworld to the Aar'aa species, reptilian sentients often employed as enforcers by the Hutts, a species known for its many crime lords.",
+  "lead_paragraphs": [
+    "Aar was a planet in the Aar system of the Nijune sector, part of the Outer Rim Territories. It was homeworld to the Aar'aa species, reptilian sentients often employed as enforcers by the Hutts, a species known for its many crime lords."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Aar",
+    "region": "Outer Rim Territories",
+    "sector": "Nijune sector",
+    "system": "Aar system",
+    "coordinates": "N-5",
+    "species": "Aar'aa"
+  },
+  "homeworld_of": [
+    {
+      "name": "Aar'aa",
+      "directory": "Aar'aa",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aar",
+    "x": 4189.9,
+    "y": 7301.5,
+    "z": -149.7,
+    "region": "Outer Rim",
+    "grid": "N-5"
+  },
+  "scraped": "2026-07-03"
+}

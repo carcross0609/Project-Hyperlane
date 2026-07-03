@@ -1,0 +1,56 @@
+{
+  "name": "Lirra",
+  "wookieepedia_title": "Lirra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lirra",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lirra was an Outer Rim planet with mineral pools and mud flats on its surface. Located within the Baxel sector close to the border with Hutt Space, Lirra was originally colonized by Human settlers, but almost a century prior to 2 ABY, the Humans on Lirra became outnumbered by members of the Hutt Jhank Shel clan.",
+  "lead_paragraphs": [
+    "Lirra was an Outer Rim planet with mineral pools and mud flats on its surface. Located within the Baxel sector close to the border with Hutt Space, Lirra was originally colonized by Human settlers, but almost a century prior to 2 ABY, the Humans on Lirra became outnumbered by members of the Hutt Jhank Shel clan.",
+    "By 2 ABY, Lirra was a resort world, with over a million Humans serving the Hutts as slaves. When an undercover news crew discovered the status of the Humans, the Galactic Empire drove the Jhank Shel off Lirra and claimed the planet, causing Lirra's Human population to be retrained to become Imperial citizens."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Imperial takeover",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Lirra",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Baxel sector",
+    "system": "Lirra system",
+    "coordinates": "U-12",
+    "routes": "Shag Pabol",
+    "class": "Terrestrial",
+    "terrain": [
+      "Mineral pools",
+      "Mud flats"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Hutts"
+    ],
+    "government": "Kajidic (until 2 ABY)",
+    "population": "Over 1 million",
+    "cities": "Shando",
+    "affiliation": [
+      "Jhank Shel",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lirra",
+    "x": 13578.6,
+    "y": -3204.3,
+    "z": -120.2,
+    "region": "Outer Rim",
+    "grid": "U-12"
+  },
+  "scraped": "2026-07-03"
+}

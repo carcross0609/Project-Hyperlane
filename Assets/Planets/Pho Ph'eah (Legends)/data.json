@@ -1,0 +1,61 @@
+{
+  "name": "Pho Ph'eah",
+  "wookieepedia_title": "Pho Ph'eah/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pho_Ph%27eah/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pho Ph'eah was a mountainous world in the Outer Rim Territories, that served as the homeworld for the four-armed Pho Ph'eahian species. Located far from its star, Pho Ph'eah relied on its heavy natural geothermal activity to provide heat to its native lifeforms. Pho Ph'eahians were naturally adept with technology, and turned Pho Ph'eah into a hub of technological development in the years after contact with the Galactic Republic.",
+  "lead_paragraphs": [
+    "Pho Ph'eah was a mountainous world in the Outer Rim Territories, that served as the homeworld for the four-armed Pho Ph'eahian species. Located far from its star, Pho Ph'eah relied on its heavy natural geothermal activity to provide heat to its native lifeforms. Pho Ph'eahians were naturally adept with technology, and turned Pho Ph'eah into a hub of technological development in the years after contact with the Galactic Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Pho Ph'eah",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Kalamith sector",
+    "system": "Pho Ph'eah system",
+    "coordinates": "P-5",
+    "suns": "1",
+    "routes": "Hydian Way",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Cliffs"
+    ],
+    "species": "Pho Ph'eahians",
+    "language": "Pho Ph'eahese",
+    "population": "10 million to 100 million (c. 25 ABY)",
+    "demonym": "Pho Ph'eahian",
+    "exports": "Technology",
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Pho Ph'eahian",
+      "directory": "Pho Ph'eahian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Pho Ph'eah",
+    "x": 6461.3,
+    "y": 7129.8,
+    "z": 21.7,
+    "region": "Outer Rim",
+    "grid": "P-5"
+  },
+  "scraped": "2026-07-03"
+}

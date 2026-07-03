@@ -1,0 +1,38 @@
+{
+  "name": "Bendone",
+  "wookieepedia_title": "Bendone",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bendone",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bendone was the homeworld of the Howler Tree People.",
+  "lead_paragraphs": [
+    "Bendone was the homeworld of the Howler Tree People."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Bendone",
+    "region": "Outer Rim Territories",
+    "sector": "Bosph sector",
+    "system": "Bendone system",
+    "coordinates": "R-3",
+    "terrain": "Forests",
+    "species": "Howler Tree People",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Howler Tree People",
+      "directory": "Howler Tree People",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bendone",
+    "x": 9169.0,
+    "y": 9897.4,
+    "z": 189.9,
+    "region": "Other",
+    "grid": "R-3"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Shownar",
+  "wookieepedia_title": "Shownar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shownar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Shownar was a terrestrial planet in the Shownar system in the Parmic sector of the Outer Rim Territories, located near the Torch Nebula. The nebula was visible at night from the surface of Shownar.",
+  "lead_paragraphs": [
+    "Shownar was a terrestrial planet in the Shownar system in the Parmic sector of the Outer Rim Territories, located near the Torch Nebula. The nebula was visible at night from the surface of Shownar."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Shownar",
+    "region": "Outer Rim Territories",
+    "sector": "Parmic sector",
+    "system": "Shownar system",
+    "coordinates": "P-19",
+    "class": "Terrestrial"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shownarri",
+      "directory": "Shownarri",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

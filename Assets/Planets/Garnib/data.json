@@ -1,0 +1,101 @@
+{
+  "name": "Garnib",
+  "wookieepedia_title": "Garnib",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Garnib",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Garnib was the primary world of the Garnib system. It was subjugated by the Galactic Empire and many native Balinaka (considered to be the galaxy's most artistic beings) were exported as slaves to the breeding farms on Karfeddion. The planet was headquarters of Galactic Crystal Creations, which exported Garnib crystals.",
+  "lead_paragraphs": [
+    "Garnib was the primary world of the Garnib system. It was subjugated by the Galactic Empire and many native Balinaka (considered to be the galaxy's most artistic beings) were exported as slaves to the breeding farms on Karfeddion. The planet was headquarters of Galactic Crystal Creations, which exported Garnib crystals.",
+    "It was a cold world covered in frigid oceans and glaciers.",
+    "Garnib was also the adopted world of the Vernol species who emigrated when their homeworld shifted in its orbit and become uninhabitable."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Garnib",
+    "region": [
+      "Outer Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Bozhnee sector",
+      "  Ninth Quadrant"
+    ],
+    "system": "Garnib system",
+    "coordinates": "L-18",
+    "suns": "1: Garnib (blue)",
+    "position": "1",
+    "moons": "0",
+    "lengthday": "35 standard hours",
+    "lengthyear": "432 local days",
+    "class": "Terrestrial (glacier covered)",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cool",
+    "gravity": "Standard",
+    "terrain": [
+      "Frigid oceans",
+      "Glaciers",
+      "Islands"
+    ],
+    "interest": [
+      "Beszilov",
+      "Sesto",
+      "Dropp",
+      "Hev"
+    ],
+    "species": "Balinaka",
+    "otherspecies": [
+      "Humans",
+      "Kubaz",
+      "Vernols",
+      "Vaathkree"
+    ],
+    "government": "GCC corporate-controlled",
+    "population": "100 million",
+    "cities": [
+      "Abuf",
+      "Bewwil",
+      "Feszum",
+      "Tettilov"
+    ],
+    "imports": [
+      "All levels of technology",
+      "Metals",
+      "Minerals"
+    ],
+    "exports": [
+      "Garnib crystals",
+      "Fish"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Balinaka",
+      "directory": "Balinaka",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Vaathkree",
+      "directory": "Vaathkree (species)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Vernol",
+      "directory": "Vernol",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Garnib",
+    "x": 739.7,
+    "y": -12230.0,
+    "z": -9.0,
+    "region": "Outer Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

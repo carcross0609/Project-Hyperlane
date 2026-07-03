@@ -1,0 +1,68 @@
+{
+  "name": "Galtea",
+  "wookieepedia_title": "Galtea/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galtea/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Galtea was a planet in the system of the same name, located within the Outer Rim Territories' Kathol sector. The world was situated near the edge of known space, on the border of the Marcol Void, an empty region of space thirty light-years across. Neutral in galactic politics, Galtea was only of cursory interest to the Galactic Empire, which established a small outpost on the planet and allowed the population a degree of autonomy.",
+  "lead_paragraphs": [
+    "Galtea was a planet in the system of the same name, located within the Outer Rim Territories' Kathol sector. The world was situated near the edge of known space, on the border of the Marcol Void, an empty region of space thirty light-years across. Neutral in galactic politics, Galtea was only of cursory interest to the Galactic Empire, which established a small outpost on the planet and allowed the population a degree of autonomy.",
+    "In 8 ABY, Galtea played host to the New Republic CR90 corvette FarStar when it laid over at the planet for repair and resupply. Due to the actions of an Imperial saboteur known as the Wraith who had become part of the corvette's crew, an Imperial task force of three ships arrived at Galtea to engage the FarStar. Outnumbered, the FarStar was forced to retreat."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Galtea",
+    "region": "Outer Rim Territories",
+    "sector": "Kathol sector",
+    "system": "Galtea system",
+    "coordinates": "M-21",
+    "moons": "1: Galtea's moon",
+    "routes": "Galtea Run",
+    "lengthday": "22 standard hours",
+    "lengthyear": "277 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable for Humans and comparable races)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Plains"
+    ],
+    "interest": [
+      "Galtea spaceport",
+      "Imperial outpost"
+    ],
+    "otherspecies": "Human",
+    "government": "Agricultural and mining guilds",
+    "population": "890,000",
+    "demonym": "Galtean",
+    "imports": [
+      "Computers",
+      "Droids",
+      "Luxury goods",
+      "Weapons"
+    ],
+    "exports": [
+      "Foodstuffs",
+      "Medicinal goods",
+      "Metals",
+      "Minerals"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Galtea",
+    "x": 6671.7,
+    "y": -13687.2,
+    "z": 240.4,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

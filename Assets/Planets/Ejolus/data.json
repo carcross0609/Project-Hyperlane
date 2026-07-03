@@ -1,0 +1,36 @@
+{
+  "name": "Ejolus",
+  "wookieepedia_title": "Ejolus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ejolus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ejolus was a planet located in the Inner Rim.",
+  "lead_paragraphs": [
+    "Ejolus was a planet located in the Inner Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ejolus",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "system": "Ejolus system",
+    "coordinates": "M-8",
+    "class": "Terrestrial",
+    "otherspecies": "Alderaanians",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ejolus",
+    "x": 2300.5,
+    "y": 2825.5,
+    "z": -13.3,
+    "region": "Inner Rim",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

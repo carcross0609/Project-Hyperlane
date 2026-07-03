@@ -1,0 +1,37 @@
+{
+  "name": "Bresnia",
+  "wookieepedia_title": "Bresnia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bresnia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bresnia was a planet located in the Tandon sector of the Mid Rim.",
+  "lead_paragraphs": [
+    "Bresnia was a planet located in the Tandon sector of the Mid Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Bresnia",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Tandon sector",
+    "system": "Bresnia system",
+    "coordinates": "Q-14",
+    "routes": "Askar Trace",
+    "class": "Terrestrial",
+    "terrain": "Fields"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Bresnia",
+    "x": 8330.7,
+    "y": -6112.7,
+    "z": -334.1,
+    "region": "Mid Rim",
+    "grid": "Q-14"
+  },
+  "scraped": "2026-07-03"
+}

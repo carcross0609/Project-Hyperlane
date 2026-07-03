@@ -1,0 +1,61 @@
+{
+  "name": "Botajef",
+  "wookieepedia_title": "Botajef/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Botajef/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Botajef was a planet located in the Belsmuth sector of the Outer Rim Territories, known for its shipyards.",
+  "lead_paragraphs": [
+    "Botajef was a planet located in the Belsmuth sector of the Outer Rim Territories, known for its shipyards."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Botajef",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Belsmuth sector",
+    "system": "Botajef system",
+    "coordinates": "O-6",
+    "routes": [
+      "Hydian Way",
+      "Salin Corridor",
+      "  Sprizen End Run"
+    ],
+    "interest": "Botajef Shipyards",
+    "population": "10 billion to 100 billion (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Darth Revan's Sith Empire",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Imperial Remnant",
+      "Yuuzhan Vong empire",
+      "Galactic Alliance",
+      "Fel Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Jefi",
+      "directory": "Jefi",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Botajef",
+    "x": 5171.7,
+    "y": 5272.2,
+    "z": -140.8,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

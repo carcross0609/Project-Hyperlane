@@ -1,0 +1,41 @@
+{
+  "name": "Deneba",
+  "wookieepedia_title": "Deneba/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deneba/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Deneba was a reddish-orange Mid Rim planet on the Gamor Run, in the Deneba system. It hosted the Conclave at Deneba in 3997 BBY atop Mount Meru, which was disrupted by the Krath. The Krath killed Arca Jeth during their attack. Deneba was the homeworld of the Deneba bush.",
+  "lead_paragraphs": [
+    "Deneba was a reddish-orange Mid Rim planet on the Gamor Run, in the Deneba system. It hosted the Conclave at Deneba in 3997 BBY atop Mount Meru, which was disrupted by the Krath. The Krath killed Arca Jeth during their attack. Deneba was the homeworld of the Deneba bush.",
+    "Smuggler Lo Khan stopped here to refuel, meeting Luwingo, an individual he would use as bodyguard from there on out."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Deneba",
+    "region": "Mid Rim",
+    "sector": "Maerdocian sector",
+    "system": "Deneba system",
+    "coordinates": "Q-13",
+    "routes": "Gamor Run",
+    "terrain": [
+      "Desert",
+      "Mountains"
+    ],
+    "interest": [
+      "Mount Meru",
+      "Meru Spaceport"
+    ],
+    "language": "Galactic Basic Standard",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Deneba",
+    "x": 7742.2,
+    "y": -5162.1,
+    "z": 265.3,
+    "region": "Mid Rim",
+    "grid": "Q-13"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Akuria II",
+  "wookieepedia_title": "Akuria II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Akuria_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Akuria II was an ice planet in the Akuria system of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Akuria II was an ice planet in the Akuria system of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Akuria II",
+    "region": "Outer Rim Territories",
+    "sector": "Oplovis sector",
+    "system": "Akuria system",
+    "coordinates": "M-5",
+    "terrain": [
+      "Ice",
+      "Snow",
+      "Geysers"
+    ],
+    "interest": [
+      "Akuria Rebel Base",
+      "Polar Base",
+      "Polar Wastes"
+    ],
+    "fauna": "Ice worm",
+    "species": "Akurians",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Akurian",
+      "directory": "Akurian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

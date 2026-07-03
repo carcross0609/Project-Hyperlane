@@ -1,0 +1,65 @@
+{
+  "name": "Ibbe",
+  "wookieepedia_title": "Ibbe",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ibbe",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ibbe was an obscure terrestrial planet in the Outer Rim Territories, close to Wild Space. It was home to Ibbeets, a serene sentient species, and to predatory lomba lizards. The planet was lush and vibrant with large, leafy whirli-yup trees, regular rains, and a humid and balmy atmosphere.",
+  "lead_paragraphs": [
+    "Ibbe was an obscure terrestrial planet in the Outer Rim Territories, close to Wild Space. It was home to Ibbeets, a serene sentient species, and to predatory lomba lizards. The planet was lush and vibrant with large, leafy whirli-yup trees, regular rains, and a humid and balmy atmosphere.",
+    "Despite being unknown to most, the planet maintained contact with a family that had traded with the Ibbeets for centuries as of 228 BBY. The pirate Tanabi Yar had also visited Ibbe at some point by 229 BBY, recommending that year that the Jedi Vernestra Rwoh visit the planet as well to heal from trauma. Rwoh followed the advice and spent months living alongside Ibbe's natives in a village. When her friend Avon Sunvale arrived on-planet the following year, Rwoh departed to assist in the rescue of the latter's Padawan Imri Cantaros, who had until then been presumed dead."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Contact with the galaxy",
+    "  Avon Sunvale's visit",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Ibbe",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Subterrel sector",
+    "system": "Ibbe system",
+    "coordinates": "L-20",
+    "suns": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Balmy",
+    "terrain": "Forests",
+    "water": [
+      "A pond",
+      "A waterfall"
+    ],
+    "interest": [
+      "A village",
+      "  Vernestra Rwoh's nest"
+    ],
+    "flora": "Whirli-yup tree",
+    "fauna": "Lomba lizard",
+    "species": "Ibbeet",
+    "otherspecies": [
+      "Mirialan",
+      "Togruta"
+    ],
+    "language": "An Ibbeet language",
+    "imports": [
+      "Medicine",
+      "Life-saving supplies"
+    ],
+    "exports": "Baskets"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ibbeet",
+      "directory": "Ibbeet",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

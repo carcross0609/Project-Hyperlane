@@ -1,0 +1,10 @@
+# Five Brothers
+
+**Continuity:** Legends  
+**Source:** [Five Brothers/Legends](https://starwars.fandom.com/wiki/Five_Brothers/Legends)
+
+The Five Brothers, also called the Five Rocks in the Killik language, were the five inhabited planets of the Corellian system. They included Corellia, Selonia, Drall, and the Twin Worlds Tralus and Talus. All five planets were believed to have been transported through hyperspace to their orbits by the Celestials, utilizing the ancient Centerpoint Station. Corellia, Selonia, and Drall orbited the system star Corell, while Talus and Tralus orbited the Centerpoint Station like moons, with Centerpoint Station orbiting the star. Five Worlds was later the name given to the independent government of the Corellian system following the Swarm War.
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

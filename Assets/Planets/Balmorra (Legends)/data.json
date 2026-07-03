@@ -1,0 +1,99 @@
+{
+  "name": "Balmorra",
+  "wookieepedia_title": "Balmorra/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Balmorra/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Balmorra was a factory world that was located within the Balmorra system, situated in a strategic position between the Colonies and the border of the Core Worlds. Due to its intense industrial manufacturing, it was known as one of the most important foundry worlds in the Republic's space, where some of the most advanced weaponry and battle droids were constantly produced throughout most of the planet's history.",
+  "lead_paragraphs": [
+    "Balmorra was a factory world that was located within the Balmorra system, situated in a strategic position between the Colonies and the border of the Core Worlds. Due to its intense industrial manufacturing, it was known as one of the most important foundry worlds in the Republic's space, where some of the most advanced weaponry and battle droids were constantly produced throughout most of the planet's history."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic era",
+    "  Imperial era",
+    "  Later history"
+  ],
+  "data": {
+    "name": "Balmorra",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Balmorra system",
+    "coordinates": "M-10",
+    "suns": "1",
+    "moons": "4",
+    "lengthday": "47 standard hours",
+    "lengthyear": "554 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Canyons",
+      "Industrial",
+      "Plains",
+      "Mountains",
+      "Urban"
+    ],
+    "interest": [
+      "Gorinth Canyon",
+      "Hazard Vault 305",
+      "Imperial construction yard",
+      "Markaran Plains",
+      "Sundari Flatlands"
+    ],
+    "fauna": [
+      "Balmorran maweater",
+      "Balmorran metal parasite",
+      "Bormu",
+      "Harvap",
+      "Orobird",
+      "Stunfinn",
+      "Wingmaw",
+      "Zeldrate"
+    ],
+    "otherspecies": [
+      "Colicoid",
+      "Human",
+      "Hutt",
+      "Twi'lek",
+      "Zabrak"
+    ],
+    "language": "Galactic Basic Standard",
+    "demonym": "Balmorran",
+    "cities": [
+      "Bin Prime (capital)",
+      "Bugtown",
+      "Sobrik"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": "Weapons",
+    "affiliation": [
+      "Galactic Republic",
+      "Sith Empire",
+      "Rift Alliance",
+      "Trade Federation",
+      "Techno Union",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Alliance"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Balmorra",
+    "x": 2801.7,
+    "y": -870.0,
+    "z": 91.7,
+    "region": "Colonies",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

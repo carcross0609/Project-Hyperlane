@@ -1,0 +1,43 @@
+{
+  "name": "Iloh",
+  "wookieepedia_title": "Iloh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iloh",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Iloh was a tropical terrestrial planet in the Iloh system of the Inner Rim Territories covered in archipelagos and oceans, offering tourists and locals thousands of beaches. Notably, it was the homeworld of Imperial officer turned Rebel pilot Kendy Idele. At least among the locals, walking unshod throughout day to day tasks was the norm. Swimming was also a common mode of transportation and recreation for Iloh's inhabitants, many of whom learned to swim before they mastered bipedal locomotion. Ilohian fashion was heavily influenced by its biome, and Ilohians commonly wore \"iridescent combs made of (local) shells\" to hold and style their hair, and simple pearl fixtures were worn as jewelry. The human inhabitants of Iloh, including Idele, were known for having naturally green hair: when Princess Leia Organa first met the Gatalentan Amilyn Holdo, she wondered if Holdo was from Iloh because she had dyed her hair green.",
+  "lead_paragraphs": [
+    "Iloh was a tropical terrestrial planet in the Iloh system of the Inner Rim Territories covered in archipelagos and oceans, offering tourists and locals thousands of beaches. Notably, it was the homeworld of Imperial officer turned Rebel pilot Kendy Idele. At least among the locals, walking unshod throughout day to day tasks was the norm. Swimming was also a common mode of transportation and recreation for Iloh's inhabitants, many of whom learned to swim before they mastered bipedal locomotion. Ilohian fashion was heavily influenced by its biome, and Ilohians commonly wore \"iridescent combs made of (local) shells\" to hold and style their hair, and simple pearl fixtures were worn as jewelry. The human inhabitants of Iloh, including Idele, were known for having naturally green hair: when Princess Leia Organa first met the Gatalentan Amilyn Holdo, she wondered if Holdo was from Iloh because she had dyed her hair green."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Iloh",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Iloh system",
+    "coordinates": "N-9",
+    "climate": "Tropical",
+    "terrain": [
+      "Archipelagos",
+      "Oceans"
+    ],
+    "fauna": "Mollusks",
+    "species": "Human",
+    "demonym": "Ilohian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ilohian",
+      "directory": "Ilohian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Iloh",
+    "x": -1175.1,
+    "y": -5036.1,
+    "z": -88.4,
+    "region": "Other",
+    "grid": "K-13"
+  },
+  "scraped": "2026-07-03"
+}

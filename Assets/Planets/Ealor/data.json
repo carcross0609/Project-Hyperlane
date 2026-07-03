@@ -1,0 +1,40 @@
+{
+  "name": "Ealor",
+  "wookieepedia_title": "Ealor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ealor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ealor was a temperate planet in the Bysis system of the Outer Rim Territories' Parmic sector. It was covered with grasslands and temperate forests.",
+  "lead_paragraphs": [
+    "Ealor was a temperate planet in the Bysis system of the Outer Rim Territories' Parmic sector. It was covered with grasslands and temperate forests."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ealor",
+    "region": "Outer Rim Territories",
+    "sector": "Parmic sector",
+    "system": "Bysis system",
+    "coordinates": "P-18",
+    "suns": "Bysis",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Grasslands",
+      "Forests"
+    ],
+    "fauna": [
+      "Graiveh",
+      "Tantla"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ealor",
+    "x": 5535.4,
+    "y": 6896.2,
+    "z": -139.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

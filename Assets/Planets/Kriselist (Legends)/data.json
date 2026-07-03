@@ -1,0 +1,47 @@
+{
+  "name": "Kriselist",
+  "wookieepedia_title": "Kriselist/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kriselist/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kriselist was a planet in the Wornal sector of the Mid Rim. It sat at the junction between the Corellian Trade Spine and the D'Aelgoth Trade Route.",
+  "lead_paragraphs": [
+    "Kriselist was a planet in the Wornal sector of the Mid Rim. It sat at the junction between the Corellian Trade Spine and the D'Aelgoth Trade Route."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kriselist",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Wornal sector",
+    "system": "Kriselist system",
+    "coordinates": "K-16",
+    "routes": [
+      "Corellian Trade Spine",
+      "D'Aelgoth Trade Route"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Urban",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Prentioch's Dominion",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kriselist",
+    "x": -933.9,
+    "y": -10467.9,
+    "z": 43.6,
+    "region": "Mid Rim",
+    "grid": "K-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Bimmisaari",
+  "wookieepedia_title": "Bimmisaari/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bimmisaari/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bimmisaari, the capital planet of the Halla sector, was the homeworld of the Bimms and the adopted homeworld of a near-Human species of the same name who settled the planet in 2000 BBY. The planet was directly represented in the Galactic Senate and allowed a RRM settlement in 22 BBY, prior to the Clone Wars. During the Clone Wars the planet was located within Separatist-contested space and Hutt Space. It escaped most of the turmoil of the Clone Wars and Imperial repression thanks to its remote location.",
+  "lead_paragraphs": [
+    "Bimmisaari, the capital planet of the Halla sector, was the homeworld of the Bimms and the adopted homeworld of a near-Human species of the same name who settled the planet in 2000 BBY. The planet was directly represented in the Galactic Senate and allowed a RRM settlement in 22 BBY, prior to the Clone Wars. During the Clone Wars the planet was located within Separatist-contested space and Hutt Space. It escaped most of the turmoil of the Clone Wars and Imperial repression thanks to its remote location."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Bimmisaari",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region"
+    ],
+    "sector": "Halla sector",
+    "system": "Saari Ha system",
+    "coordinates": "R-9",
+    "suns": "1: Saari Ha",
+    "routes": [
+      "Ilosian Spur",
+      "Lesser Lantillian Route"
+    ],
+    "lengthday": "26 standard hours",
+    "lengthyear": "302 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Plains"
+    ],
+    "interest": [
+      "Asaari woods",
+      "Harmony Lake",
+      "Tower of Law"
+    ],
+    "flora": "Asaari tree",
+    "fauna": "Tiga loreng",
+    "species": "Furred Bimm",
+    "otherspecies": [
+      "Near-Human Bimm",
+      "Human"
+    ],
+    "language": "Bimmini",
+    "government": "Law Elders",
+    "population": [
+      "20 million (22 BBY)",
+      "28 million (9 ABY)"
+    ],
+    "cities": "Glastro (capital)",
+    "imports": "High technology",
+    "exports": [
+      "Luxury goods",
+      "Glastroan wine"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Hutt Empire",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Greater Maldrood",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances",
+      "Confederation"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Bimm",
+      "directory": "Bimm (furred species) (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Bimm",
+      "directory": "Bimm (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bimmisaari",
+    "x": 10178.9,
+    "y": 1279.3,
+    "z": -21.8,
+    "region": "Mid Rim",
+    "grid": "R-9"
+  },
+  "scraped": "2026-07-03"
+}

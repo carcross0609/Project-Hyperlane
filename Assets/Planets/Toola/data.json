@@ -1,0 +1,47 @@
+{
+  "name": "Toola",
+  "wookieepedia_title": "Toola",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Toola",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Toola was a frigid planet located in the galaxy's Outer Rim Territories that was the homeworld of both the sentient Whiphid species and massive beasts of burden known as mastmots. The Galactic Republic's clone cold assault troopers served on this frozen world during the Clone Wars, and Jedi Master Quinlan Vos mistakenly believed it home to a Separatist supply base. J'Quille, a male Whiphid who worked as a bounty hunter, hailed from Toola.",
+  "lead_paragraphs": [
+    "Toola was a frigid planet located in the galaxy's Outer Rim Territories that was the homeworld of both the sentient Whiphid species and massive beasts of burden known as mastmots. The Galactic Republic's clone cold assault troopers served on this frozen world during the Clone Wars, and Jedi Master Quinlan Vos mistakenly believed it home to a Separatist supply base. J'Quille, a male Whiphid who worked as a bounty hunter, hailed from Toola."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Toola",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Nilgaard sector",
+    "system": "Toola system",
+    "coordinates": "S-5",
+    "routes": "Overic Griplink",
+    "climate": "Frigid",
+    "fauna": "Mastmot",
+    "species": "Whiphid"
+  },
+  "homeworld_of": [
+    {
+      "name": "Whiphid",
+      "directory": "Whiphid",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Whiphid",
+      "directory": "Whiphid (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Toola",
+    "x": 11697.1,
+    "y": 6959.0,
+    "z": 397.7,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

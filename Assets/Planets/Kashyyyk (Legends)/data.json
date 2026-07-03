@@ -1,0 +1,176 @@
+{
+  "name": "Kashyyyk",
+  "wookieepedia_title": "Kashyyyk/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kashyyyk/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kashyyyk (see pronunciation), also known as Wookiee Planet C, Edean, G5-623, and Wookiee World, was a Mid Rim planet. It was the lush, wroshyr tree-filled homeworld of the Wookiees. It was a member of the Galactic Republic, endured enslavement under the Galactic Empire, and later joined the New Republic.",
+  "lead_paragraphs": [
+    "Kashyyyk (see pronunciation), also known as Wookiee Planet C, Edean, G5-623, and Wookiee World, was a Mid Rim planet. It was the lush, wroshyr tree-filled homeworld of the Wookiees. It was a member of the Galactic Republic, endured enslavement under the Galactic Empire, and later joined the New Republic."
+  ],
+  "article_sections": [
+    "Natural features",
+    "  Geography",
+    "  Flora",
+    "  Fauna",
+    "History",
+    "  Tho Yor",
+    "  Infinite Empire",
+    "  Czerka Corporation and slavery",
+    "  Old Republic",
+    "  Fall of the Republic",
+    "  Galactic Empire and slavery",
+    "  The New Republic",
+    "  Galactic Alliance",
+    "    Second Galactic Civil War",
+    "  Second Imperial Civil War",
+    "  Spelling",
+    "  Pronunciation",
+    "  Non-canon history",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Kashyyyk",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region"
+    ],
+    "sector": "Mytaranor sector",
+    "system": "Kashyyyk system",
+    "coordinates": "P-9",
+    "distance": "32,000 light-years",
+    "suns": "Kashyyyk",
+    "position": "3",
+    "moons": "3: Unidentified farming moon",
+    "routes": [
+      "Durkteel Loop",
+      "Great Kashyyyk Branch",
+      "Nightroad",
+      "Randon Run"
+    ],
+    "lengthday": "26 standard hours",
+    "lengthyear": "381 local days",
+    "class": "Terrestrial",
+    "diameter": "12,765 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Tropical",
+    "terrain": [
+      "Immense jungles and forests",
+      "Seas, lakes, and rivers"
+    ],
+    "water": "60%",
+    "interest": [
+      "Kkowir Forest",
+      "Myyydril Caverns",
+      "Shadowlands",
+      "Wawaatt Archipelago",
+      "Wartaki Islands",
+      "Western Forest"
+    ],
+    "flora": [
+      "Kshyy vine",
+      "Orga",
+      "Syren plant",
+      "Wroshyr tree"
+    ],
+    "fauna": [
+      "Agr",
+      "Anakkona",
+      "Can-cells",
+      "Charkarr",
+      "Factryn",
+      "Gorryl slug",
+      "Katarn",
+      "Kinrath",
+      "Kououra",
+      "Kreetle",
+      "Leaflizard",
+      "Minstyngar",
+      "Mykal",
+      "Pug jumper",
+      "Ro-roo",
+      "Sathog",
+      "Shadevale stalker",
+      "Sureggi",
+      "Tach",
+      "Terentatek",
+      "Tharriarr",
+      "Trakkrrrn",
+      "Uller",
+      "Wyyyschokk",
+      "Yuugrr"
+    ],
+    "species": "Wookiee",
+    "otherspecies": [
+      "Human",
+      "Sayormi",
+      "Terentatek"
+    ],
+    "language": "Shyriiwook",
+    "government": "Wookiee council",
+    "population": [
+      "Historic (Jedi Civil War): 6 million",
+      "Modern: 45 million"
+    ],
+    "demonym": "Kashyyykian",
+    "cities": [
+      "Rwookrrorro (capital)",
+      "Chenachochan",
+      "Grunnrurr",
+      "Kachirho",
+      "Kahiyuk",
+      "Karryntora",
+      "Kashyyyk Royal City",
+      "Kepitenochan",
+      "Northaykk",
+      "Orriorr",
+      "Palsaang",
+      "Rarrhkrrorrho",
+      "Rowrakruk",
+      "Thikkiiana City",
+      "Truvvhhurr",
+      "Warralokk"
+    ],
+    "imports": [
+      "Processed metals",
+      "Medicines"
+    ],
+    "exports": [
+      "Electronic components",
+      "Natural resources"
+    ],
+    "affiliation": [
+      "Wookiees",
+      "Infinite Empire",
+      "Czerka Corporation",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Alliance of Free Planets",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Jedi Coalition"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sayormi",
+      "directory": "Sayormi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Wookiee",
+      "directory": "Wookiee",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Kashyyyk",
+    "x": 7087.8,
+    "y": 167.5,
+    "z": -25.4,
+    "region": "Mid Rim",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

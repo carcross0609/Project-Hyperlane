@@ -1,0 +1,36 @@
+{
+  "name": "Pheryon",
+  "wookieepedia_title": "Pheryon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pheryon",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pheryon was a gas giant located in the galaxy's Inner Rim. Poe Dameron traveled to Pheryon during the Cold War to meet with the journalist Suralinda Javos.",
+  "lead_paragraphs": [
+    "Pheryon was a gas giant located in the galaxy's Inner Rim. Poe Dameron traveled to Pheryon during the Cold War to meet with the journalist Suralinda Javos."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Pheryon",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Pheryon system",
+    "coordinates": "J-8",
+    "routes": "Namadii Corridor",
+    "climate": "Stormy",
+    "terrain": "Floating islands",
+    "interest": "Stormsea"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pheryon",
+    "x": 3896.5,
+    "y": -5841.6,
+    "z": -20.9,
+    "region": "Inner Rim",
+    "grid": "N-13"
+  },
+  "scraped": "2026-07-03"
+}

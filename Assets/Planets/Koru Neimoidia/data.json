@@ -1,0 +1,39 @@
+{
+  "name": "Koru Neimoidia",
+  "wookieepedia_title": "Koru Neimoidia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Koru_Neimoidia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Koru Neimoidia was a Purse World located in the Colonies region of the galaxy. After being imprisoned by the Galactic Empire, the former journalist Caern Adan hoped that a new warden would be appointed and release him back into the streets of Koru Neimoidia.",
+  "lead_paragraphs": [
+    "Koru Neimoidia was a Purse World located in the Colonies region of the galaxy. After being imprisoned by the Galactic Empire, the former journalist Caern Adan hoped that a new warden would be appointed and release him back into the streets of Koru Neimoidia."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Koru Neimoidia",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "Quellor sector",
+    "system": "Koru Neimoidia system",
+    "coordinates": "N-11",
+    "government": "Trade Monarch"
+  },
+  "homeworld_of": [
+    {
+      "name": "Neimoidian",
+      "directory": "Neimoidian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Koru Neimoidia",
+    "x": 3103.0,
+    "y": -829.1,
+    "z": -183.2,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

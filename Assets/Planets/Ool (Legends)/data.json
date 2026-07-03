@@ -1,0 +1,36 @@
+{
+  "name": "Ool",
+  "wookieepedia_title": "Ool/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ool/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ool was a forested planet located in the Ool system of the Unknown Regions' Chiss Space. A hyperlane linked the world to the Avidich and Shihon systems. The sentient Chiss of the Chiss Ascendancy established large circular plots of farmland across the surface of Ool.",
+  "lead_paragraphs": [
+    "Ool was a forested planet located in the Ool system of the Unknown Regions' Chiss Space. A hyperlane linked the world to the Avidich and Shihon systems. The sentient Chiss of the Chiss Ascendancy established large circular plots of farmland across the surface of Ool."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ool",
+    "region": "Unknown Regions",
+    "sector": "Chiss Space",
+    "system": "Ool system",
+    "coordinates": "E-8",
+    "class": "Terrestrial",
+    "terrain": [
+      "Farmland",
+      "Forests"
+    ],
+    "otherspecies": "Chiss",
+    "affiliation": "Chiss Ascendancy"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ool",
+    "x": -9302.6,
+    "y": 1736.8,
+    "z": -180.7,
+    "region": "Unknown Regions",
+    "grid": "E-8"
+  },
+  "scraped": "2026-07-03"
+}

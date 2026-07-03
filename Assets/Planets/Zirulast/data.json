@@ -1,0 +1,46 @@
+{
+  "name": "Zirulast",
+  "wookieepedia_title": "Zirulast",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zirulast",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zirulast was a terrestrial backwater planet located in the Zirulast system, a part of the Belasco sector in the Slice portion of the Expansion Region. Orbiting the white dwarf star of the same name, Zirulast was situated on the Ootmian Pabol hyperlane, which connected it to the Belasco system as well as the New Apsolon system in the Mid Rim. Zirulast was a dry and dusty world encircled by rings of ice particles. The Temolaks, sentient humanoids speaking the Temolish language, were native to the planet, evolving redundant internal organs in order to survive the rigors of their homeworld.",
+  "lead_paragraphs": [
+    "Zirulast was a terrestrial backwater planet located in the Zirulast system, a part of the Belasco sector in the Slice portion of the Expansion Region. Orbiting the white dwarf star of the same name, Zirulast was situated on the Ootmian Pabol hyperlane, which connected it to the Belasco system as well as the New Apsolon system in the Mid Rim. Zirulast was a dry and dusty world encircled by rings of ice particles. The Temolaks, sentient humanoids speaking the Temolish language, were native to the planet, evolving redundant internal organs in order to survive the rigors of their homeworld.",
+    "In 2000 BBY, the water supply of Zirulast evaporated, leading the Temolaks to build orbital spacecraft for the purpose of extracting water from the icy rings surrounding the planet. Subsequently, the natives of Zirulast acquired hyperdrive technology, after which many members of the species became interstellar scavengers. Those who did rarely returned to Zirulast except to sell their scavenged goods."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Zirulast",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Belasco sector",
+    "system": "Zirulast system",
+    "coordinates": "P-11",
+    "suns": "1: Zirulast",
+    "routes": "Ootmian Pabol",
+    "class": "Terrestrial",
+    "climate": "Dry",
+    "interest": "Rings of ice particles (in orbit)",
+    "species": "Temolak",
+    "language": "Temolish"
+  },
+  "homeworld_of": [
+    {
+      "name": "Temolak",
+      "directory": "Temolak",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zirulast",
+    "x": 6126.1,
+    "y": -1653.4,
+    "z": -181.6,
+    "region": "Expansion Region",
+    "grid": "P-11"
+  },
+  "scraped": "2026-07-03"
+}

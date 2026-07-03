@@ -1,0 +1,66 @@
+{
+  "name": "Quermia",
+  "wookieepedia_title": "Quermia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quermia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Quermia was a terrestrial planet located in the Outer Rim Territories. It was the namesake of the Quermian species, whose ancestors were settled on Quermia by Arkanian scientists. Quermia was located in Separatist space during the Clone Wars, isolating it from the Galactic Republic. Although the extensive blockade of Quermia was lifted after the Confederacy of Independent Systems collapsed, the planet fell under Imperial rule shortly thereafter.",
+  "lead_paragraphs": [
+    "Quermia was a terrestrial planet located in the Outer Rim Territories. It was the namesake of the Quermian species, whose ancestors were settled on Quermia by Arkanian scientists. Quermia was located in Separatist space during the Clone Wars, isolating it from the Galactic Republic. Although the extensive blockade of Quermia was lifted after the Confederacy of Independent Systems collapsed, the planet fell under Imperial rule shortly thereafter."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Quermia",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Nilgaard sector",
+    "system": "Quermia system",
+    "coordinates": "S-5",
+    "routes": [
+      "Overic Griplink",
+      "Perlemian Trade Route"
+    ],
+    "class": "Terrestrial",
+    "water": "Oceans",
+    "species": "Quermian",
+    "otherspecies": "Querm",
+    "language": "Quermian",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Querm Rybet",
+      "directory": "Querm Rybet",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Quermian",
+      "directory": "Quermian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Quermian",
+      "directory": "Quermian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Quermia",
+    "x": 11426.2,
+    "y": 6944.7,
+    "z": -122.5,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

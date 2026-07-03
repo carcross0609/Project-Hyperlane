@@ -1,0 +1,100 @@
+{
+  "name": "Vinsoth",
+  "wookieepedia_title": "Vinsoth/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vinsoth/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vinsoth was the home planet of the Chevin and Chev species in the Quelii sector of the Outer Rim Territories. It was a temperate planet with zones of grasslands and prairies, arctic ice, and deserts.",
+  "lead_paragraphs": [
+    "Vinsoth was the home planet of the Chevin and Chev species in the Quelii sector of the Outer Rim Territories. It was a temperate planet with zones of grasslands and prairies, arctic ice, and deserts."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Vinsoth",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Vinsoth system",
+    "coordinates": "N-5",
+    "routes": [
+      "Celanon Spur",
+      "Salin Corridor",
+      "Sprizen End Run",
+      "Spurs of Celanon"
+    ],
+    "climate": [
+      "Various:",
+      "  Semi-tropical",
+      "  Temperate"
+    ],
+    "terrain": [
+      "Deserts",
+      "Grassy plains",
+      "Mountains",
+      "Polar ice caps"
+    ],
+    "interest": [
+      "Force-cult Temple",
+      "The Drunken Ootak"
+    ],
+    "fauna": [
+      "Backshin",
+      "Range dog"
+    ],
+    "species": [
+      "Chev",
+      "Chevin"
+    ],
+    "language": [
+      "Chev",
+      "Chevin"
+    ],
+    "cities": [
+      "Government Villages",
+      "Umalor"
+    ],
+    "affiliation": [
+      "Chevin Conglomerate",
+      "Galactic Republic",
+      "Darth Revan's Sith Empire",
+      "Confederacy of Independent Systems",
+      "Zsinj's Empire",
+      "Thrawn's confederation",
+      "Yuuzhan Vong empire",
+      "Galactic Alliance",
+      "Empire-in-exile",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Chev",
+      "directory": "Chev",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Chevin",
+      "directory": "Chevin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Chevin",
+      "directory": "Chevin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vinsoth",
+    "x": 4173.4,
+    "y": 6151.3,
+    "z": -4.7,
+    "region": "Outer Rim",
+    "grid": "N-5"
+  },
+  "scraped": "2026-07-03"
+}

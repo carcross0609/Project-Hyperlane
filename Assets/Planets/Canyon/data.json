@@ -1,0 +1,48 @@
+{
+  "name": "Canyon",
+  "wookieepedia_title": "Canyon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Canyon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Canyon was a planet of arid mountains and plains in the Expansion Region, near Moorja.",
+  "lead_paragraphs": [
+    "Canyon was a planet of arid mountains and plains in the Expansion Region, near Moorja.",
+    "The planet was discovered accidentally by an Imperial Victory-class Star Destroyer which collided with a nearby asteroid. The Empire ignored the planet, but the Star Destroyer's distress signal attracted pirates led by Guldus Bemm, who set up a mining colony on Canyon, exporting ores used in starship and electronics construction.",
+    "Shortly after the Invasion of Bakura the planet was the site of an attempt to trap Luke Skywalker with promises of a cave bearing crystals that might be suitable for lightsabers. Instead of successfully trapping Skywalker, smuggler Platt Okeefe was captured by Imperial Advisor Bregius Golthan as she had been on planet negotiating with planetary authorities for mineral rights for the New Republic. The pirates continued to control the world well after the Battle of Endor."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Canyon",
+    "region": "Expansion Region",
+    "sector": "Montitian Grant sector",
+    "system": "Canyon system",
+    "coordinates": "J-15",
+    "lengthday": "28 standard hours",
+    "lengthyear": "389 standard days",
+    "class": "Terrestrial",
+    "atmosphere": "Type 1",
+    "climate": "Cool",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Valleys",
+      "Lakes"
+    ],
+    "otherspecies": "Humans, Rodians, Twi'lek",
+    "government": "Colonial administrator",
+    "population": "28,000",
+    "imports": "High and Mid tech",
+    "exports": "Minerals",
+    "affiliation": "Pirates, smugglers"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Canyon",
+    "x": -2055.9,
+    "y": -7892.2,
+    "z": 86.7,
+    "region": "Expansion Region",
+    "grid": "J-15"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Alliga",
+  "wookieepedia_title": "Alliga",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alliga",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alliga was a planet located in the Outer Rim Territories' Phelleem sector. It was the homeworld of the Holwuff species. As the Separatist Crisis began to threaten galactic unity, Senator Wodrata pledged loyalty to the Confederacy of Independent Systems at Geonosis, days before the outbreak of the Clone Wars. A member of the Separatist Council, Wodrata allowed General Grievous' droid army to use Alliga as a staging area for the Outer Rim Sieges. Shortly before the Siege of Saleucami, Alliga was host to the Separatist Council as they plotted their war games. When the Confederacy was defeated and the Council executed on Mustafar, the world was turned over to the Galactic Empire.",
+  "lead_paragraphs": [
+    "Alliga was a planet located in the Outer Rim Territories' Phelleem sector. It was the homeworld of the Holwuff species. As the Separatist Crisis began to threaten galactic unity, Senator Wodrata pledged loyalty to the Confederacy of Independent Systems at Geonosis, days before the outbreak of the Clone Wars. A member of the Separatist Council, Wodrata allowed General Grievous' droid army to use Alliga as a staging area for the Outer Rim Sieges. Shortly before the Siege of Saleucami, Alliga was host to the Separatist Council as they plotted their war games. When the Confederacy was defeated and the Council executed on Mustafar, the world was turned over to the Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Alliga",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Phelleem sector",
+    "system": "Alliga system",
+    "coordinates": "S-7",
+    "class": "Terrestrial",
+    "species": "Holwuff",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Holwuff",
+      "directory": "Holwuff (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alliga",
+    "x": 10964.1,
+    "y": 3985.7,
+    "z": -577.4,
+    "region": "Outer Rim",
+    "grid": "S-7"
+  },
+  "scraped": "2026-07-03"
+}

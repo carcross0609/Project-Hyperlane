@@ -1,0 +1,52 @@
+{
+  "name": "Arorua",
+  "wookieepedia_title": "Arorua",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arorua",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arorua was a jungle planet home to fierce monsters spawned from Sith sorcery, such as the squollyhawlk and the silan.",
+  "lead_paragraphs": [
+    "Arorua was a jungle planet home to fierce monsters spawned from Sith sorcery, such as the squollyhawlk and the silan."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Arorua",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Sertar sector",
+    "system": "Arorua system",
+    "coordinates": "R-5",
+    "moons": "At least 2",
+    "terrain": "Rain forest",
+    "interest": "Silan cave",
+    "fauna": [
+      "Silan",
+      "Squollyhawlk"
+    ],
+    "species": [
+      "Moggonites",
+      "Blagwahrs"
+    ],
+    "affiliation": "Ancient Sith Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Moggonite",
+      "directory": "Moggonite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Arorua",
+    "x": 9156.9,
+    "y": 6317.9,
+    "z": 79.9,
+    "region": "Other",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

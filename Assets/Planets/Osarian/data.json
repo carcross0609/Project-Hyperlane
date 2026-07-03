@@ -1,0 +1,48 @@
+{
+  "name": "Osarian",
+  "wookieepedia_title": "Osarian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Osarian",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Osarian was a planet in the Expansion Region, near the Corellian Run. It was in the same system as Rhommamool, an inhospitable desert world. The two planets orbited each other that brought them within a million kilometers of each other every ten years, usually resulting in a flare-up of hostilities between the two. The worlds would remain in missile-strike range for months.",
+  "lead_paragraphs": [
+    "Osarian was a planet in the Expansion Region, near the Corellian Run. It was in the same system as Rhommamool, an inhospitable desert world. The two planets orbited each other that brought them within a million kilometers of each other every ten years, usually resulting in a flare-up of hostilities between the two. The worlds would remain in missile-strike range for months."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Osarian",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Merthian sector",
+    "system": "Osarian system",
+    "coordinates": "N-13",
+    "routes": "Corellian Run",
+    "class": "Terrestrial",
+    "terrain": [
+      "Lakes",
+      "Beaches"
+    ],
+    "demonym": "Osarian",
+    "cities": "Osa-Prime (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Osarian",
+    "x": 2988.4,
+    "y": -8631.8,
+    "z": -176.5,
+    "region": "Expansion Region",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

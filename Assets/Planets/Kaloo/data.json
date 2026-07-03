@@ -1,0 +1,34 @@
+{
+  "name": "Kaloo",
+  "wookieepedia_title": "Kaloo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kaloo",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kaloo was a planet in the Roon system within the Abrion sector of the Outer Rim Territories. It had no moons and had a terrain of searing rock.",
+  "lead_paragraphs": [
+    "Kaloo was a planet in the Roon system within the Abrion sector of the Outer Rim Territories. It had no moons and had a terrain of searing rock."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kaloo",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Abrion sector",
+    "system": "Roon system",
+    "coordinates": "S-15",
+    "moons": "0",
+    "terrain": "Searing rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kaloo",
+    "x": 11324.1,
+    "y": -8749.3,
+    "z": 7.8,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

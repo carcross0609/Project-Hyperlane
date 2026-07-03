@@ -1,0 +1,38 @@
+{
+  "name": "Betshish",
+  "wookieepedia_title": "Betshish",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Betshish",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Betshish was a planet located in the Gordian Reach along the Pinooran Spur between Mogoshyn and Kli'aar. It was the homeworld of a sentient species. Betshish was discovered by a scout, Lile Gorsek, but his claim to the world had to be abandoned when the sentient species was discovered on landing. While it was interdicted by the Galactic Empire, the world escaped exploitation.",
+  "lead_paragraphs": [
+    "Betshish was a planet located in the Gordian Reach along the Pinooran Spur between Mogoshyn and Kli'aar. It was the homeworld of a sentient species. Betshish was discovered by a scout, Lile Gorsek, but his claim to the world had to be abandoned when the sentient species was discovered on landing. While it was interdicted by the Galactic Empire, the world escaped exploitation."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Betshish",
+    "region": "Outer Rim Territories",
+    "sector": "Gordian Reach",
+    "system": "Betshish system",
+    "coordinates": "P-5",
+    "routes": "Pinooran Spur",
+    "terrain": "Swamps",
+    "species": "Betshish natives"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Betshish species",
+      "directory": "Unidentified Betshish species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Betshish",
+    "x": 7278.1,
+    "y": 6611.7,
+    "z": 261.1,
+    "region": "Outer Rim",
+    "grid": "P-5"
+  },
+  "scraped": "2026-07-03"
+}

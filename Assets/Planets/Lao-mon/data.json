@@ -1,0 +1,46 @@
+{
+  "name": "Lao-mon",
+  "wookieepedia_title": "Lao-mon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lao-mon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lao-mon was the tropical homeworld of the shape-shifting Shi'ido species, it was known in their language as Sh'shuun. Their world remained isolated, its exact location unknown to any outlanders. It was the homeworld of the Senior Anthropologist Mammon Hoole, who was famous during the New Republic.",
+  "lead_paragraphs": [
+    "Lao-mon was the tropical homeworld of the shape-shifting Shi'ido species, it was known in their language as Sh'shuun. Their world remained isolated, its exact location unknown to any outlanders. It was the homeworld of the Senior Anthropologist Mammon Hoole, who was famous during the New Republic."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Lao-mon",
+    "region": [
+      "Colonies",
+      "Unknown Regions (from another point of view)"
+    ],
+    "system": "Lao-mon system",
+    "coordinates": "N/A",
+    "class": "Terrestrial",
+    "climate": "Tropical",
+    "terrain": "Garden world",
+    "fauna": "Large predators and harmless creatures",
+    "species": "Shi'ido",
+    "language": "Shi'idese",
+    "affiliation": "Isolated"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shi'ido",
+      "directory": "Shi'ido",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lao-mon",
+    "x": 3235.5,
+    "y": -1987.2,
+    "z": -4.7,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

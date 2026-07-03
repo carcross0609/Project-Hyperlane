@@ -1,0 +1,38 @@
+{
+  "name": "Seelos",
+  "wookieepedia_title": "Seelos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Seelos",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Seelos was a remote desert planet in the star system of the same name in the Kwymar sector of the Outer Rim Territories. Once considered a prospective mining world, by the Age of the Empire all attempts at settlement and exploitation had been abandoned, in part due to the deadly joopa worms living under the surface of the vast salt plains. Seelos was largely uninhabited, though there were isolated settlements of outlaws at the foot of the mountains, as well as retired clone troopers Rex, Wolffe, and Gregor.",
+  "lead_paragraphs": [
+    "Seelos was a remote desert planet in the star system of the same name in the Kwymar sector of the Outer Rim Territories. Once considered a prospective mining world, by the Age of the Empire all attempts at settlement and exploitation had been abandoned, in part due to the deadly joopa worms living under the surface of the vast salt plains. Seelos was largely uninhabited, though there were isolated settlements of outlaws at the foot of the mountains, as well as retired clone troopers Rex, Wolffe, and Gregor."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Seelos",
+    "region": "Outer Rim Territories",
+    "sector": "Kwymar sector",
+    "system": "Seelos system",
+    "coordinates": "Q-4",
+    "terrain": [
+      "Salt deserts",
+      "Mountains"
+    ],
+    "fauna": "Joopa",
+    "otherspecies": "Human (Clones)"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Seelos",
+    "x": 7637.0,
+    "y": 8186.4,
+    "z": -311.1,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

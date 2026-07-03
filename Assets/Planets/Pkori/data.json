@@ -1,0 +1,37 @@
+{
+  "name": "Pkori",
+  "wookieepedia_title": "Pkori",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pkori",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pkori was a primitive planet in Wild Space that was the homeworld of the sentient Pkorian species.",
+  "lead_paragraphs": [
+    "Pkori was a primitive planet in Wild Space that was the homeworld of the sentient Pkorian species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pkori",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Pkori system",
+    "coordinates": "J-5",
+    "flora": "Unidentified tree",
+    "fauna": [
+      "Cochukka",
+      "Lizard",
+      "Red oxen"
+    ],
+    "species": "Pkorian",
+    "language": "Pkorian",
+    "cities": "Unidentified town"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pkorian",
+      "directory": "Pkorian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

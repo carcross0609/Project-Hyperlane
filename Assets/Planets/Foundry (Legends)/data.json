@@ -1,0 +1,46 @@
+{
+  "name": "Foundry",
+  "wookieepedia_title": "Foundry/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Foundry/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Foundry was a planet in the Colonies.",
+  "lead_paragraphs": [
+    "Foundry was a planet in the Colonies."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Foundry",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Foundry system",
+    "coordinates": "N-10",
+    "class": "Terrestrial",
+    "terrain": "Industrial",
+    "otherspecies": [
+      "Humans",
+      "Skakoans"
+    ],
+    "language": "Galactic Basic Standard",
+    "cities": "Denus (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Foundry",
+    "x": 3059.6,
+    "y": -1124.9,
+    "z": 86.8,
+    "region": "Colonies",
+    "grid": "N-10"
+  },
+  "scraped": "2026-07-03"
+}

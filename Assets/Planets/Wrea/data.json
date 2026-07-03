@@ -1,0 +1,67 @@
+{
+  "name": "Wrea",
+  "wookieepedia_title": "Wrea",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wrea",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Wrea was a planet in the galaxy's Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Wrea was a planet in the galaxy's Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Wrea",
+    "region": [
+      "Outer Rim Territories",
+      "  Occlusion Zone",
+      "The Slice"
+    ],
+    "sector": "Gaulus sector",
+    "system": "Wrea system",
+    "coordinates": "S-17",
+    "routes": "Corellian Run",
+    "atmosphere": "Breathable",
+    "climate": "Cold",
+    "terrain": [
+      "Islands",
+      "Oceans"
+    ],
+    "interest": [
+      "Separatist base",
+      "Saw Gerrera's Wrea outpost"
+    ],
+    "flora": [
+      "Grass",
+      "Scrub brush"
+    ],
+    "species": "Wrean",
+    "otherspecies": [
+      "Human",
+      "Togruta",
+      "Twi'lek"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Partisans"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Wrean",
+      "directory": "Wrean",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Wrea",
+    "x": 10652.3,
+    "y": -11898.2,
+    "z": -415.3,
+    "region": "Outer Rim",
+    "grid": "S-17"
+  },
+  "scraped": "2026-07-03"
+}

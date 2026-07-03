@@ -1,0 +1,43 @@
+{
+  "name": "Turak IV",
+  "wookieepedia_title": "Turak IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Turak_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Turak IV was a planet located within the Turak system of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Turak IV was a planet located within the Turak system of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Turak IV",
+    "region": "Outer Rim Territories",
+    "sector": "Parmel sector",
+    "system": "Turak system",
+    "coordinates": "O-18",
+    "suns": "Tyas",
+    "position": "4",
+    "class": "Terrestrial",
+    "climate": "Hot",
+    "terrain": "Volcanic",
+    "interest": [
+      "Hitak mountains",
+      "Sector 5-7",
+      "Uratai basin",
+      "Uratai Basin Base"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Turak IV",
+    "x": 5036.4,
+    "y": -12606.3,
+    "z": -199.5,
+    "region": "Outer Rim",
+    "grid": "O-18"
+  },
+  "scraped": "2026-07-03"
+}

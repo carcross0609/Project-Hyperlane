@@ -1,0 +1,35 @@
+{
+  "name": "Palme du Tigre",
+  "wookieepedia_title": "Palme du Tigre",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Palme_du_Tigre",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Palme du Tigre was a planet with a wide variety of terrain, which included jungles, deserts, plains, mountains, and seas.",
+  "lead_paragraphs": [
+    "Palme du Tigre was a planet with a wide variety of terrain, which included jungles, deserts, plains, mountains, and seas.",
+    "Its indigenous humanoids, the Palmiens, had a pre-spatial level of technology.",
+    "The Empire trained numerous non-clone stormtrooper recruits on the planet. The final test of their training was to commit genocide of the native population."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Palme du Tigre",
+    "terrain": [
+      "Deserts",
+      "Jungles",
+      "Mountains",
+      "Plains",
+      "Seas"
+    ],
+    "species": "Palmiens",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Palmien",
+      "directory": "Palmien",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

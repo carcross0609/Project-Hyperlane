@@ -1,0 +1,39 @@
+{
+  "name": "Vandos",
+  "wookieepedia_title": "Vandos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vandos",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vandos was a planet located in the Vandos system of the Outer Rim Territories. It was controlled by the Separatists during the Clone Wars.",
+  "lead_paragraphs": [
+    "Vandos was a planet located in the Vandos system of the Outer Rim Territories. It was controlled by the Separatists during the Clone Wars."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vandos",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Nuiri sector",
+    "system": "Vandos system",
+    "coordinates": "Q-7",
+    "terrain": [
+      "Canyons",
+      "Deserts"
+    ],
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vandos",
+    "x": 8073.8,
+    "y": 4299.9,
+    "z": -68.5,
+    "region": "Outer Rim",
+    "grid": "Q-7"
+  },
+  "scraped": "2026-07-03"
+}

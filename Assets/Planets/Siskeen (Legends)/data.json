@@ -1,0 +1,36 @@
+{
+  "name": "Siskeen",
+  "wookieepedia_title": "Siskeen/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Siskeen/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Siskeen was a planet located in the Hunnoverrs sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Siskeen was a planet located in the Hunnoverrs sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Siskeen",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Hunnoverrs sector",
+    "system": "Siskeen system",
+    "coordinates": "R-17",
+    "class": "Terrestrial",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Siskeen",
+    "x": 10433.9,
+    "y": -10541.2,
+    "z": 425.0,
+    "region": "Outer Rim",
+    "grid": "R-17"
+  },
+  "scraped": "2026-07-03"
+}

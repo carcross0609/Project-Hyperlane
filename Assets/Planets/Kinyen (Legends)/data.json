@@ -1,0 +1,99 @@
+{
+  "name": "Kinyen",
+  "wookieepedia_title": "Kinyen/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kinyen/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kinyen was an agriworld in the Expansion Region, located on the Corellian Trade Spine at the junction to the Great Gran Run. It was the Gran homeworld, with a recorded history dating back to 10,000 BBY. Though it was an outpost of the violent Rakata during the Pre-Republic era, during its recorded history, the planet has had no local wars. At the time of the Clone Wars, Senator Kharrus represented Kinyen in the Galactic Senate.",
+  "lead_paragraphs": [
+    "Kinyen was an agriworld in the Expansion Region, located on the Corellian Trade Spine at the junction to the Great Gran Run. It was the Gran homeworld, with a recorded history dating back to 10,000 BBY. Though it was an outpost of the violent Rakata during the Pre-Republic era, during its recorded history, the planet has had no local wars. At the time of the Clone Wars, Senator Kharrus represented Kinyen in the Galactic Senate."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Rise of the Empire",
+    "    Imperial conquest and rule",
+    "Inhabitants",
+    "  The Gran",
+    "  Government and politics",
+    "Locations"
+  ],
+  "data": {
+    "name": "Kinyen",
+    "region": [
+      "Expansion Region",
+      "Western Reaches"
+    ],
+    "sector": "Bes Ber Bikade sector",
+    "system": "Kinyen system",
+    "coordinates": "L-15",
+    "routes": [
+      "Corellian Trade Spine",
+      "Great Gran Run"
+    ],
+    "lengthday": "28 standard hours",
+    "lengthyear": "256 local days",
+    "class": "Terrestrial",
+    "terrain": [
+      "Fields",
+      "Forests",
+      "Mountains"
+    ],
+    "interest": "Dal Forest",
+    "flora": "Silvergrass",
+    "fauna": [
+      "Houjix",
+      "Tayan falcon"
+    ],
+    "species": "Gran",
+    "language": [
+      "Galactic Basic Standard",
+      "Gran"
+    ],
+    "government": "Tayan League (socialist demarchy)",
+    "population": [
+      "1.983 billion",
+      "96% Gran",
+      "4% Others"
+    ],
+    "demonym": "Kinyenian",
+    "cities": [
+      "Aygion Mountain (capital)",
+      "Capra",
+      "Malthee"
+    ],
+    "imports": "Technology",
+    "exports": "Foodstuffs",
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Republic",
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Gran",
+      "directory": "Gran",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gran",
+      "directory": "Gran (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kinyen",
+    "x": 161.2,
+    "y": -8909.5,
+    "z": 132.1,
+    "region": "Expansion Region",
+    "grid": "L-15"
+  },
+  "scraped": "2026-07-03"
+}

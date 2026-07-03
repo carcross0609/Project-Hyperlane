@@ -1,0 +1,45 @@
+{
+  "name": "Tythe",
+  "wookieepedia_title": "Tythe/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tythe/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tythe was a planet located in the Tythe system of the Outer Rim Territories, near Nelvaan.",
+  "lead_paragraphs": [
+    "Tythe was a planet located in the Tythe system of the Outer Rim Territories, near Nelvaan."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Tythe",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Savareen sector",
+    "system": "Tythe system",
+    "coordinates": "Q-16",
+    "routes": "Triellus Trade Route",
+    "terrain": [
+      "Desert wastelands",
+      "Lakes"
+    ],
+    "species": "None",
+    "otherspecies": "Humans (formerly)",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tythe",
+    "x": 8693.5,
+    "y": -10498.1,
+    "z": 200.6,
+    "region": "Outer Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

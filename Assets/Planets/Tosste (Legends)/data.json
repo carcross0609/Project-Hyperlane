@@ -1,0 +1,45 @@
+{
+  "name": "Tosste",
+  "wookieepedia_title": "Tosste/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tosste/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tosste was a uninhabited rocky planet located within the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Tosste was a uninhabited rocky planet located within the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Tosste",
+    "region": "Outer Rim Territories",
+    "sector": "Atravis sector",
+    "system": "Tosste system",
+    "coordinates": "L-19",
+    "routes": [
+      "Hydian Way",
+      "Tosste Spur"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Rocky flat lands",
+    "fauna": "Dinko",
+    "population": "None",
+    "affiliation": [
+      "Separatist holdouts",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tosste",
+    "x": 505.3,
+    "y": -14840.0,
+    "z": 128.5,
+    "region": "Outer Rim",
+    "grid": "L-19"
+  },
+  "scraped": "2026-07-03"
+}

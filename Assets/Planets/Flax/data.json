@@ -1,0 +1,57 @@
+{
+  "name": "Flax",
+  "wookieepedia_title": "Flax",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Flax",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Flax was a tectonically-active planet in the Ptera system of the Sumitra sector, in the Expansion Region. Most of the surface's land masses were desert due to the high coastal mountain ranges which prevented atmospheric transference of moisture from the seas.",
+  "lead_paragraphs": [
+    "Flax was a tectonically-active planet in the Ptera system of the Sumitra sector, in the Expansion Region. Most of the surface's land masses were desert due to the high coastal mountain ranges which prevented atmospheric transference of moisture from the seas.",
+    "The native insectoid species, the Flakax, lived in underground hives on the planet. After the death of King Alaric the whole sector including this planet, left the Republic and joined the Confederacy of Independent Systems. After Flax was conquered by the Empire sometime before the destruction of the first Death Star, they were declared slave workers and were put to work mining the planet's ores.",
+    "The planet was later one of the Galactic Alliance planets threatened by a possible Killik coup."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Flax",
+    "region": [
+      "Expansion Region",
+      "Trans-Hydian"
+    ],
+    "sector": "Sumitra sector",
+    "system": "Ptera system",
+    "coordinates": "O-7",
+    "suns": "1: Ptera",
+    "terrain": [
+      "Deserts",
+      "Mountains",
+      "Oceans"
+    ],
+    "species": "Flakax",
+    "exports": [
+      "Flakax hives working in design and construction"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Galactic Alliance",
+      "Killiks"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Flakax",
+      "directory": "Flakax",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Flax",
+    "x": 5243.6,
+    "y": 3176.8,
+    "z": 153.1,
+    "region": "Expansion Region",
+    "grid": "O-7"
+  },
+  "scraped": "2026-07-03"
+}

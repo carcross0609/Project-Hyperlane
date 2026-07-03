@@ -1,0 +1,77 @@
+{
+  "name": "Mygeeto",
+  "wookieepedia_title": "Mygeeto",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mygeeto",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Mygeeto was a frigid, crystalline planet located in the Albarrio sector's Mygeeto system of the Outer Rim Territories, and was the homeworld of the Lurmen species. The planet was initially discovered almost 7,000 years before the Battle of Yavin, and possession of the planet became heavily contested after its discovery. An InterGalactic Banking Clan stronghold, it was aligned with the Confederacy of Independent Systems during the Clone Wars. It was the site of the Third Battle of Mygeeto, and the Galactic Republic assaulted Mygeeto during the Outer Rim Sieges. During the Imperial Era against the Galactic Empire, Mygeeto was the site of a number of battles featuring the Alliance to Restore the Republic's 61st Mobile Infantry and Riot Squadron. During the Galactic Civil War, the planet's Imperial forces were attacked by the Plasma Devils.",
+  "lead_paragraphs": [
+    "Mygeeto was a frigid, crystalline planet located in the Albarrio sector's Mygeeto system of the Outer Rim Territories, and was the homeworld of the Lurmen species. The planet was initially discovered almost 7,000 years before the Battle of Yavin, and possession of the planet became heavily contested after its discovery. An InterGalactic Banking Clan stronghold, it was aligned with the Confederacy of Independent Systems during the Clone Wars. It was the site of the Third Battle of Mygeeto, and the Galactic Republic assaulted Mygeeto during the Outer Rim Sieges. During the Imperial Era against the Galactic Empire, Mygeeto was the site of a number of battles featuring the Alliance to Restore the Republic's 61st Mobile Infantry and Riot Squadron. During the Galactic Civil War, the planet's Imperial forces were attacked by the Plasma Devils."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic Era",
+    "    The Clone Wars begin",
+    "    Third Battle of Mygeeto",
+    "    Fourth Battle of Mygeeto",
+    "  Age of the Empire",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Mygeeto",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Albarrio sector",
+    "system": "Mygeeto system",
+    "coordinates": "K-5",
+    "suns": "Malola",
+    "position": "3",
+    "moons": "2",
+    "class": "Frozen",
+    "diameter": "10,088 kilometers",
+    "atmosphere": "Breathable",
+    "climate": "Frigid",
+    "gravity": "Standard",
+    "terrain": "Crystalline",
+    "interest": [
+      "Mygeeto Hammertong facility",
+      "Southern Mesas"
+    ],
+    "fauna": "Whiteworm",
+    "species": "Lurmen",
+    "cities": [
+      "A city",
+      "Another city"
+    ],
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "  Muunilinst Banking Clan",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lurmen",
+      "directory": "Lurmen",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Lurmen",
+      "directory": "Lurmen (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mygeeto",
+    "x": -763.8,
+    "y": 7409.7,
+    "z": 157.9,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

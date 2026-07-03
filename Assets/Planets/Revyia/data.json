@@ -1,0 +1,57 @@
+{
+  "name": "Revyia",
+  "wookieepedia_title": "Revyia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Revyia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Revyia was a planet in the Veragi sector of the Outer Rim, and the homeworld of the Revwien species.",
+  "lead_paragraphs": [
+    "Revyia was a planet in the Veragi sector of the Outer Rim, and the homeworld of the Revwien species."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Revyia",
+    "region": "Outer Rim Territories",
+    "sector": "Veragi sector",
+    "system": "Revyia system",
+    "coordinates": "L-2",
+    "class": "Terrestrial",
+    "terrain": [
+      "Jungle",
+      "Open woods",
+      "Meadows"
+    ],
+    "water": "Rivers and lakes",
+    "interest": [
+      "Revyia Imperial base",
+      "Revyia smuggler base (destroyed)",
+      "Revyia temple"
+    ],
+    "flora": "Vognallian seed pod",
+    "fauna": [
+      "Herbivores",
+      "Urpine"
+    ],
+    "species": "Revwien",
+    "cities": "Revyia Station"
+  },
+  "homeworld_of": [
+    {
+      "name": "Revwien",
+      "directory": "Revwien (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Revyia",
+    "x": 325.8,
+    "y": 11374.1,
+    "z": -392.4,
+    "region": "Outer Rim",
+    "grid": "L-2"
+  },
+  "scraped": "2026-07-03"
+}

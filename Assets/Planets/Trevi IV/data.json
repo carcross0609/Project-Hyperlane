@@ -1,0 +1,68 @@
+{
+  "name": "Trevi IV",
+  "wookieepedia_title": "Trevi IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trevi_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Trevi IV, also known as Trevi, was a dry planet of barren plains and deserts. It was situated along several hyperlanes and lay in the Mid Rim's Quess sector. A Truishii trader starship was forced to land on Trevi IV at some point to make repairs. The Truishii subsequently decided to establish a colony at the landing site, which quickly developed into the large spaceport settlement known as Trevi City. The planet itself eventually became a trade world inhabited by thirty-five million sentients of various species.",
+  "lead_paragraphs": [
+    "Trevi IV, also known as Trevi, was a dry planet of barren plains and deserts. It was situated along several hyperlanes and lay in the Mid Rim's Quess sector. A Truishii trader starship was forced to land on Trevi IV at some point to make repairs. The Truishii subsequently decided to establish a colony at the landing site, which quickly developed into the large spaceport settlement known as Trevi City. The planet itself eventually became a trade world inhabited by thirty-five million sentients of various species.",
+    "Two decades before the Galactic Civil War, the Bith Fiz Cor'gril arrived on Trevi IV, bought an old garage complex in Trevi City, and established the used starship dealership known as Fizzi's Slightly Used Starships. By the time of the Galactic Civil War, the Galactic Empire maintained a token presence on the planet in the form of a small post outside Trevi City."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Trevi IV",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Quess sector",
+    "system": "Trevi system",
+    "coordinates": "N-17",
+    "position": "4",
+    "lengthday": "28 standard hours",
+    "lengthyear": "389 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Barren plains",
+      "Deserts",
+      "Plateaus",
+      "Urban"
+    ],
+    "water": "Present",
+    "interest": [
+      "Fizzi's Slightly Used Starships",
+      "Galactic Empire post"
+    ],
+    "otherspecies": "Various, including Humans and Truishii",
+    "population": "35 million",
+    "cities": "Trevi City",
+    "imports": [
+      "Foodstuffs",
+      "Medical supplies"
+    ],
+    "exports": [
+      "Luxury goods",
+      "Technology"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Trevi IV",
+    "x": 3992.2,
+    "y": -10834.8,
+    "z": -164.8,
+    "region": "Mid Rim",
+    "grid": "N-17"
+  },
+  "scraped": "2026-07-03"
+}

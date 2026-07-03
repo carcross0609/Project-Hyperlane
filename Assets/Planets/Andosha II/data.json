@@ -1,0 +1,50 @@
+{
+  "name": "Andosha II",
+  "wookieepedia_title": "Andosha II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Andosha_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Andosha II was an Aqualish colony world located in the Mid Rim's Lambda sector, on the Corellian Run hyperlane. It was a part of the Andoan Free Colonies, which during the last century of the Galactic Republic struggled against the Aqualish of the planet Ando and the worlds it held influence over. As part of that struggle, the Andoan-affiliated Harch Trench led raids against Andosha II.",
+  "lead_paragraphs": [
+    "Andosha II was an Aqualish colony world located in the Mid Rim's Lambda sector, on the Corellian Run hyperlane. It was a part of the Andoan Free Colonies, which during the last century of the Galactic Republic struggled against the Aqualish of the planet Ando and the worlds it held influence over. As part of that struggle, the Andoan-affiliated Harch Trench led raids against Andosha II.",
+    "In 22 BBY, after Ando had seceded from the Republic, the Andoan Free Colonies held a loyalty summit on Andosha II. During that event, the planet's Senator Gorothin Vagger reaffirmed the dedication of the Colonies to remain members of the Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Andosha II",
+    "region": [
+      "Mid Rim",
+      "The Slice",
+      "Trailing Sectors"
+    ],
+    "sector": "Lambda sector",
+    "system": "Andosha system",
+    "coordinates": "P-15",
+    "position": "2",
+    "routes": [
+      "Corellian Run",
+      "Horos Spine"
+    ],
+    "class": "Terrestrial",
+    "interest": "Andobi Exa",
+    "otherspecies": "Aqualish",
+    "affiliation": [
+      "Spiverelda",
+      "Andoan Free Colonies",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Andosha II",
+    "x": 7420.6,
+    "y": -8933.6,
+    "z": 330.4,
+    "region": "Mid Rim",
+    "grid": "P-15"
+  },
+  "scraped": "2026-07-03"
+}

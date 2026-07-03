@@ -1,0 +1,98 @@
+# Nevarro
+
+**Continuity:** Canon  
+**Source:** [Nevarro](https://starwars.fandom.com/wiki/Nevarro)
+
+Nevarro was a volcanic planet located in the Dalicron sector of the Outer Rim Territories connected to the Hydian Way. It was covered with vast regions of lava fields as well as volcanic rivers, and had a capital city which became a port and a trading hub in the Outer Rim.
+
+During the Imperial Era, the Galactic Empire controlled Nevarro, though they lost control of the planet after the end of the Galactic Civil War. In its aftermath, Nevarro became lawless and was a haven for bounty hunters working for Greef Karga, an agent of the the Bounty Hunters' Guild, and Guild Master of the Nevarro Hunters, which was headquartered inside a cantina. Nevarro saw brief conflict when the bounty hunter Din Djarin rescued Grogu, an infant that he had delivered to a member of an Imperial remnant in a previous job, betraying the Guild.
+
+After Djarin's escape from Nevarro, the planet was taken over once more by Imperial forces who were led by Moff Gideon. Karga eventually tricked Djarin into returning to Nevarro with the Child, though later changed his mind about allowing the Child to be given to the Imperials, and worked alongside Djarin to defeat them. Despite the arrival of Gideon, Djarin and his associates managed to defeat the Imperial remnant, giving Karga and soon-to-be Marshal Carasynthia Dune the chance to turn the planet into one of respectable business.
+
+Djarin continued on his journey with his small companion before returning to Nevarro for repairs. After reuniting with Karga and Dune, Karga set his mechanics on the repairs and the two showed him the city. Karga then requested that Djarin help them destroy an Imperial base on the planet. There, they discovered that Moff Gideon was alive and was trying to retrieve the Child to use his blood for experimental research. They eventually destroyed the base, and Nevarro became free from Imperials.
+
+Later, Nevarro became an independent trade port of the Hydian way under the leadership of the Karga, who became High Magistrate and had declined to join the New Republic. After being attacked by Gorian Shard's pirate gang, Pirate King Gorian Shard took control of the planet. Karga asked Captain Carson Teva for the help of the New Republic, but New Republic Requisitions refused to help, as the planet was independent. Teva instead obtained the help of the Children of the Watch, who liberated the planet and were granted land on it.
+
+## Planetary data
+
+- **Name:** Nevarro
+- **Region:** Outer Rim Territories
+- **Sector:** Dalicron sector
+- **System:** Nevarro system
+- **Coordinates:** K-20
+- **Suns:** 1
+- **Lengthyear:** 345 days
+- **Class:** Terrestrial
+- **Diameter:** 8,006 km (4,975 miles)
+- **Atmosphere:** Breathable
+- **Terrain:**
+  - Ashen
+  - Rocky
+  - Volcanic
+- **Interest:**
+  - Black lava canyons
+  - Bulloch Canyon
+  - Clan Mudhorn cabin
+  - Geothermal springs
+  - Hot springs
+  - Imperial base
+  - Lava fields
+  - The Tribe's camp
+  - Underground lava river
+  - Flats
+- **Fauna:**
+  - Kowakian monkey-lizard
+  - Lava meerkat
+  - Nevarro reptavian
+  - Sorgan frog
+  - A bat
+  - A bird
+  - Qartuum
+- **Otherspecies:**
+  - Anzellans
+  - Britarro
+  - Humans
+  - Melbu
+  - Jawas
+  - Rodians
+  - Suertons
+  - Trandoshans
+  - Twi'leks
+  - Wickwar
+  - Zabraks
+  - Aqualish
+  - Mon Calamari
+  - Tarsunt
+- **Socialgroup:** Mandalorian
+- **Language:**
+  - Galactic Basic Standard
+  - Jawaese
+  - Aqualish
+  - Anzellan
+- **Government:** High Magistrate
+- **Population:** 4 million
+- **Cities:** Nevarro City (capital)
+- **Affiliation:**
+  - Galactic Empire
+  - Bounty Hunters' Guild
+  -   Nevarro Hunters
+  - Gideon's Imperial remnant
+  - Gorian Shard's pirate gang
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+- History
+-   Under the Empire
+-   New Republic Era
+-     A bounty hunter hive
+-     Renewed Imperial control
+-     Retaking Nevarro
+-     Gaining independence
+-   Dealing with pirates
+- Inhabitants
+- Locations
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

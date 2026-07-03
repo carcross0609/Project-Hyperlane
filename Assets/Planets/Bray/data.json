@@ -1,0 +1,47 @@
+{
+  "name": "Bray",
+  "wookieepedia_title": "Bray",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bray",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bray was a dark planet home to the Brayan species. It was located in the Piryn Shar sector in the Expansion Region. During the Clone Wars, Count Dooku resided in a citadel along with Ravna, a mutated creature who could convert others into his kind. Dooku planned to allow Ravna to infect the Brayan population in exchange for using converted clone troopers to infiltrate the ranks of the Republic army, but their plans were halted by the Jedi Council.",
+  "lead_paragraphs": [
+    "Bray was a dark planet home to the Brayan species. It was located in the Piryn Shar sector in the Expansion Region. During the Clone Wars, Count Dooku resided in a citadel along with Ravna, a mutated creature who could convert others into his kind. Dooku planned to allow Ravna to infect the Brayan population in exchange for using converted clone troopers to infiltrate the ranks of the Republic army, but their plans were halted by the Jedi Council."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Bray",
+    "region": "Expansion Region",
+    "sector": "Piryn Shar sector",
+    "system": "Bray system",
+    "coordinates": "K-16",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": "Rocky",
+    "interest": [
+      "Citadel of Light",
+      "Unidentified village"
+    ],
+    "species": "Brayan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Brayan",
+      "directory": "Brayan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Bray",
+    "x": 5098.9,
+    "y": 9423.9,
+    "z": -236.1,
+    "region": "Other",
+    "grid": "O-3"
+  },
+  "scraped": "2026-07-03"
+}

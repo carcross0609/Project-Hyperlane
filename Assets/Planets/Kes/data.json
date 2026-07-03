@@ -1,0 +1,40 @@
+{
+  "name": "Kes",
+  "wookieepedia_title": "Kes",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kes",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kes was a terrestrial planet located in the Tirahnn system, within the Zeemacht Cluster sector of the Inner Rim. Kes occupied the fifth orbital position around the star Tirahnn and had no moons. It featured a frozen rock surface and frigid climate. Along with the rest of its star system, the planet was located on the Perlemian Trade Route hyperlane, which in the Inner Rim served as the dividing line between the regions known as the Northern Dependencies and the Slice.",
+  "lead_paragraphs": [
+    "Kes was a terrestrial planet located in the Tirahnn system, within the Zeemacht Cluster sector of the Inner Rim. Kes occupied the fifth orbital position around the star Tirahnn and had no moons. It featured a frozen rock surface and frigid climate. Along with the rest of its star system, the planet was located on the Perlemian Trade Route hyperlane, which in the Inner Rim served as the dividing line between the regions known as the Northern Dependencies and the Slice."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kes",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies",
+      "The Slice"
+    ],
+    "sector": "Zeemacht Cluster",
+    "system": "Tirahnn system",
+    "coordinates": "N-8",
+    "suns": "1: Tirahnn",
+    "position": "5",
+    "moons": "0",
+    "routes": "Perlemian Trade Route",
+    "class": "Terrestrial",
+    "climate": "Frigid",
+    "terrain": "Frozen rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kes",
+    "x": 4422.4,
+    "y": 2716.0,
+    "z": 234.1,
+    "region": "Inner Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

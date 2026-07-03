@@ -1,0 +1,57 @@
+{
+  "name": "Bith",
+  "wookieepedia_title": "Bith (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bith_%28planet%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bith, also known as Clak'dor VII and simply Clak'dor, was a planet located in the Outer Rim Territories and situated along the Rimma Trade Route. It was the homeworld of the Bith species.",
+  "lead_paragraphs": [
+    "Bith, also known as Clak'dor VII and simply Clak'dor, was a planet located in the Outer Rim Territories and situated along the Rimma Trade Route. It was the homeworld of the Bith species.",
+    "Clak'dor existed in ecological collapse as chemical, radioactive, and biological effects from the ancient civil war continually ravaged the environment. The poisoned jungles and swamps were filled with rapidly mutating flora and fauna.",
+    "Bith lived in domed cities, the majority of which lay nestled in the crags of Clak'dor's mountain ranges. They relied on subterranean engineering and urban architectural advances to burrow deeper and build higher to alleviate the cramped conditions. Many Bith, including offworld Bith, found Clak'dor harsh and depressing.",
+    "Clak'dor was listed on a map in the Traveler's Guide to Batuu, written by Eloc Throno."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Bith",
+    "region": [
+      "Outer Rim Territories",
+      "  Occlusion Zone",
+      "Western Reaches"
+    ],
+    "sector": "Mayagil sector",
+    "system": "Clak'dor system",
+    "coordinates": "M-18",
+    "routes": "Rimma Trade Route",
+    "terrain": [
+      "Mountains",
+      "Jungle",
+      "Swamp"
+    ],
+    "fauna": "Ghhhk",
+    "species": [
+      "Bith",
+      "  Y'bith"
+    ],
+    "cities": [
+      "Nozho",
+      "Weogar"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Bith",
+      "directory": "Bith",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Bith",
+    "x": 2353.5,
+    "y": -13152.0,
+    "z": 12.9,
+    "region": "Outer Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

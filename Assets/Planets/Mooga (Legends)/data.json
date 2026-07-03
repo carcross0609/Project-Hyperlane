@@ -1,0 +1,52 @@
+{
+  "name": "Mooga",
+  "wookieepedia_title": "Mooga/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mooga/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mooga was a planet in the Mooga system of the Perkell sector. It was the homeworld of the Moogan species.",
+  "lead_paragraphs": [
+    "Mooga was a planet in the Mooga system of the Perkell sector. It was the homeworld of the Moogan species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Mooga",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Perkell sector",
+    "system": "Mooga system",
+    "coordinates": "Q-7",
+    "species": "Moogan",
+    "demonym": "Moogan",
+    "exports": "Tea",
+    "affiliation": [
+      "Commerce Guild",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Moogan",
+      "directory": "Moogan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Moogan",
+      "directory": "Moogan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mooga",
+    "x": -3720.3,
+    "y": 4222.8,
+    "z": 160.6,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

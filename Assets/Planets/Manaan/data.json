@@ -1,0 +1,55 @@
+{
+  "name": "Manaan",
+  "wookieepedia_title": "Manaan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Manaan",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Manaan was an ocean planet located in the galaxy's Inner Rim Territories. It was the homeworld of the Selkath, an aquatic sentient species that at one time was dedicated to the care of the world's oceans. Several criminal elements, including the Trandoshan Kranash and the Black Sun syndicate, were involved in an incident on Manaan that became widely known in the underworld by 10 BBY.",
+  "lead_paragraphs": [
+    "Manaan was an ocean planet located in the galaxy's Inner Rim Territories. It was the homeworld of the Selkath, an aquatic sentient species that at one time was dedicated to the care of the world's oceans. Several criminal elements, including the Trandoshan Kranash and the Black Sun syndicate, were involved in an incident on Manaan that became widely known in the underworld by 10 BBY.",
+    "The fisher Skoova Stev crashed landed on Manaan after his starship hit a space-borne purrgil in orbit over the ocean world by 9 BBY. Stev and his crewmates emerged from the wreckage on the sea floor. There, they encountered members of the Filthy Zephyrs, a pirate group active on the planet. Stev managed to scare the pirates away after attempting to mimic the mating call of a glumbrig eel he saw passing by."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Home of the Selkath",
+    "  Fisher down",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Manaan",
+    "region": [
+      "Inner Rim Territories",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Manaan system",
+    "coordinates": "O-11",
+    "class": "Terrestrial",
+    "terrain": "Oceans",
+    "fauna": "Glumbrig eel",
+    "species": "Selkath",
+    "otherspecies": "Quarren"
+  },
+  "homeworld_of": [
+    {
+      "name": "Selkath",
+      "directory": "Selkath",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Selkath",
+      "directory": "Selkath (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Manaan",
+    "x": 4769.6,
+    "y": -2162.9,
+    "z": -9.3,
+    "region": "Inner Rim",
+    "grid": "O-11"
+  },
+  "scraped": "2026-07-03"
+}

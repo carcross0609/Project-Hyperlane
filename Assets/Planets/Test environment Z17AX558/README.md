@@ -1,0 +1,10 @@
+# Test environment Z17AX558
+
+**Continuity:** Legends  
+**Source:** [Test environment Z17AX558](https://starwars.fandom.com/wiki/Test_environment_Z17AX558)
+
+Test environment Z17AX558 was the designation given by Iokath creators to a planet located in the Unknown Regions of the galaxy. Z17AX558 was chosen by the species as a test environment for their weapons of mass destruction, and several designs were deployed into its atmosphere. However, the planet's proximity to its star, coupled with previously-undetected trace chemicals in the upper atmosphere caused the new particle beams to cause an electrochemical chain reaction. The planet's entire atmosphere was ignited, destroying both the invading armada and the life on the surface.
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

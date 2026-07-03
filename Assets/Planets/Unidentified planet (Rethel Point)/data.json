@@ -1,0 +1,68 @@
+{
+  "name": "Unidentified planet",
+  "wookieepedia_title": "Unidentified planet (Rethel Point)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_planet_%28Rethel_Point%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "This unidentified planet was located in the Far Xandil sector, within the Trailing Sectors portion of the Mid Rim. It was orbited by two small moons.",
+  "lead_paragraphs": [
+    "This unidentified planet was located in the Far Xandil sector, within the Trailing Sectors portion of the Mid Rim. It was orbited by two small moons.",
+    "The planet was the location of a ruined city that emanated a sensor disruption field known as Rethel Point. The field spread across most of the planet, growing slightly weaker the farther it stretched from the ruins of the city, and ended just before reaching the orbital paths of the moons. It was rumored that a sentient species, the Rethel, had built the city at one time long before 2 ABY. However, the ruins were so old, with so little evidence left behind by the builders, that the idea that their name had somehow survived was hard to believe."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Unidentified planet",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Far Xandil sector",
+    "system": "Rethel Point system",
+    "coordinates": "P-16",
+    "moons": "2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "interest": "Rethel Point",
+    "species": "Rethel (extinct)",
+    "cities": "A city"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bartokk",
+      "directory": "Bartokk",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lupr'or",
+      "directory": "Lupr'or",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Unidentified blue humanoid species",
+      "directory": "Unidentified blue humanoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-faced species",
+      "directory": "Unidentified purple-faced species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-skinned humanoid species",
+      "directory": "Unidentified purple-skinned humanoid species",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Unidentified red pachydermoid species",
+      "directory": "Unidentified red pachydermoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified species",
+      "directory": "Unidentified species (seven-ringed homeworld)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

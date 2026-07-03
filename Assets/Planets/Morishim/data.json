@@ -1,0 +1,64 @@
+{
+  "name": "Morishim",
+  "wookieepedia_title": "Morishim",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Morishim",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Morishim was a planet in the Albarrio sector of the Outer Rim and the homeworld of the Morish species.",
+  "lead_paragraphs": [
+    "Morishim was a planet in the Albarrio sector of the Outer Rim and the homeworld of the Morish species."
+  ],
+  "article_sections": [
+    "History",
+    "  Imperial era",
+    "  New Republic era",
+    "  Later history",
+    "Other"
+  ],
+  "data": {
+    "name": "Morishim",
+    "region": "Outer Rim Territories",
+    "sector": "Albarrio sector",
+    "system": "Morishim system",
+    "coordinates": "K-5",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Mountains",
+    "interest": [
+      "Tatmana Mountains",
+      "High Tatmana",
+      "New Republic Starfighter Base",
+      "Old Recluse's cave"
+    ],
+    "species": "Morish",
+    "otherspecies": "Humans",
+    "language": [
+      "Morish language",
+      "Galactic Basic Standard"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Pentastar Alignment",
+      "Imperial Remnant",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Morish",
+      "directory": "Morish",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Morishim",
+    "x": -469.7,
+    "y": 7337.4,
+    "z": 137.3,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

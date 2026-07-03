@@ -1,0 +1,45 @@
+{
+  "name": "Rinn",
+  "wookieepedia_title": "Rinn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rinn",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rinn was a frozen planet located in the Baxel sector of the Outer Rim. Inhabitants of Rinn depended on heaters to live in the freezing conditions. In 4 BBY, the planet experienced an energy crisis when they ran low on power generators, causing the rebels of Phoenix Cell to assist them.",
+  "lead_paragraphs": [
+    "Rinn was a frozen planet located in the Baxel sector of the Outer Rim. Inhabitants of Rinn depended on heaters to live in the freezing conditions. In 4 BBY, the planet experienced an energy crisis when they ran low on power generators, causing the rebels of Phoenix Cell to assist them."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Rinn",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Baxel sector",
+    "system": "Rinn system",
+    "coordinates": "U-12",
+    "climate": "Frozen",
+    "terrain": "Ice",
+    "otherspecies": "Human"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tintinna",
+      "directory": "Tintinna (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rinn",
+    "x": 13963.9,
+    "y": -3163.6,
+    "z": 215.4,
+    "region": "Outer Rim",
+    "grid": "U-12"
+  },
+  "scraped": "2026-07-03"
+}

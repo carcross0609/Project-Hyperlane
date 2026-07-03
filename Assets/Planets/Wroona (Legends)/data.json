@@ -1,0 +1,93 @@
+{
+  "name": "Wroona",
+  "wookieepedia_title": "Wroona/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wroona/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Wroona was the homeworld of the near-Human Wroonians, located in the Wroona system.",
+  "lead_paragraphs": [
+    "Wroona was the homeworld of the near-Human Wroonians, located in the Wroona system."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Wroona",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Wroona system",
+    "coordinates": "L-15",
+    "routes": [
+      "Harrin Trade Corridor",
+      "Rimma Trade Route"
+    ],
+    "lengthday": "32 standard hours",
+    "lengthyear": "217 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Oceans",
+      "Plains"
+    ],
+    "water": "Moist",
+    "interest": [
+      "Wroona Stardock",
+      "Starship Outfitters",
+      "Palestro's Wholesale Firearms"
+    ],
+    "species": "Wroonian (near-Human)",
+    "otherspecies": [
+      "Human",
+      "Rodian",
+      "Twi'lek",
+      "Other"
+    ],
+    "language": [
+      "Wroonian",
+      "Galactic Basic Standard"
+    ],
+    "government": [
+      "Trade Guilds",
+      "Imperial Governorship (Imperial Period)"
+    ],
+    "population": [
+      "8.5 billion:",
+      "  7 billion Wroonians",
+      "  1.5 billion Humans"
+    ],
+    "imports": "High technology",
+    "exports": [
+      "Luxury goods",
+      "Mid technology"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Corellian Hegemony",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Wroonian",
+      "directory": "Wroonian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Wroona",
+    "x": 1459.5,
+    "y": -7762.7,
+    "z": 37.1,
+    "region": "Inner Rim",
+    "grid": "L-15"
+  },
+  "scraped": "2026-07-03"
+}

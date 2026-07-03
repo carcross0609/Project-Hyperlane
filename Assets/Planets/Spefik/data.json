@@ -1,0 +1,39 @@
+{
+  "name": "Spefik",
+  "wookieepedia_title": "Spefik",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spefik",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Spefik was a barren, rocky planet in the Atrivis sector of the Outer Rim Territories. The planet was home to a Rebel base during the Galactic Civil War; however, the base was destroyed by Imperial forces in the battle of Spefik around 0.5 ABY. Imperial pilot Ranulf Trommer distinguished himself in that battle.",
+  "lead_paragraphs": [
+    "Spefik was a barren, rocky planet in the Atrivis sector of the Outer Rim Territories. The planet was home to a Rebel base during the Galactic Civil War; however, the base was destroyed by Imperial forces in the battle of Spefik around 0.5 ABY. Imperial pilot Ranulf Trommer distinguished himself in that battle."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Star Wars: Rebellion cartography"
+  ],
+  "data": {
+    "name": "Spefik",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Atrivis sector",
+    "system": "Spefik system",
+    "coordinates": "L-5",
+    "terrain": "Barren rock",
+    "interest": "Rebel base",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Spefik",
+    "x": 380.7,
+    "y": 6726.7,
+    "z": -0.0,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

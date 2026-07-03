@@ -1,0 +1,40 @@
+{
+  "name": "Indoumodo",
+  "wookieepedia_title": "Indoumodo/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Indoumodo/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "A terrestrial planet located in the Indoumodo system of Wild Space, Indoumodo was a lush world with jungles and forests that were home to kouhuns, poisonous arthropods that dwelled in damp caves and passages underground. The creatures were also known to dwell in vast, hollow trees and hunted dog-sized creatures that lived in the trees' crevices. Located near the end of the Corellian Run, Indoumodo was a destination for assassins and poisoners who would venture to capture the kouhuns for use as untraceable killers.",
+  "lead_paragraphs": [
+    "A terrestrial planet located in the Indoumodo system of Wild Space, Indoumodo was a lush world with jungles and forests that were home to kouhuns, poisonous arthropods that dwelled in damp caves and passages underground. The creatures were also known to dwell in vast, hollow trees and hunted dog-sized creatures that lived in the trees' crevices. Located near the end of the Corellian Run, Indoumodo was a destination for assassins and poisoners who would venture to capture the kouhuns for use as untraceable killers.",
+    "Shortly before the outbreak of the Clone Wars in 22 BBY, the bounty hunter Jango Fett tasked fellow hunter Zam Wesell with using a pair of starved kouhuns from Indoumodo to assassinate Senator Padmé Amidala on Coruscant. The assassination was a failure, as both kouhuns were killed by Jedi Anakin Skywalker."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Indoumodo",
+    "region": "Wild Space",
+    "system": "Indoumodo system",
+    "coordinates": "S-18",
+    "routes": "Corellian Run",
+    "class": "Terrestrial",
+    "terrain": [
+      "Caves",
+      "Forests",
+      "Jungles"
+    ],
+    "fauna": [
+      "Dog-sized creatures",
+      "Kouhun"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Indoumodo",
+    "x": 10921.0,
+    "y": -13015.0,
+    "z": 718.2,
+    "region": "Wild Space",
+    "grid": "S-18"
+  },
+  "scraped": "2026-07-03"
+}

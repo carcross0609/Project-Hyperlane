@@ -1,0 +1,40 @@
+{
+  "name": "Filo",
+  "wookieepedia_title": "Filo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Filo",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Filo was the innermost planet in the Centares system.",
+  "lead_paragraphs": [
+    "Filo was the innermost planet in the Centares system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Filo",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Maldrood sector",
+    "system": "Centares system",
+    "coordinates": "R-7",
+    "suns": "1: Centares",
+    "position": "1st",
+    "moons": "1",
+    "routes": [
+      "Perlemian Trade Route",
+      "Triellus Trade Route"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Filo",
+    "x": 9833.6,
+    "y": 3483.3,
+    "z": 273.0,
+    "region": "Mid Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

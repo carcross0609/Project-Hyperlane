@@ -1,0 +1,44 @@
+{
+  "name": "Genian",
+  "wookieepedia_title": "Genian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Genian",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Genian was a Mid Rim world. The planet remained neutral during the Clone Wars due to its vast corporate holdings, research labs, and secure banks. Many Senators, both Separatists and Republic alike, would store their money here, due to its neutrality. Its large, prosperous cities included Bruit, located near a rocky desert surrounded by mountain ranges. Fry Industries was headquartered on Genian.",
+  "lead_paragraphs": [
+    "Genian was a Mid Rim world. The planet remained neutral during the Clone Wars due to its vast corporate holdings, research labs, and secure banks. Many Senators, both Separatists and Republic alike, would store their money here, due to its neutrality. Its large, prosperous cities included Bruit, located near a rocky desert surrounded by mountain ranges. Fry Industries was headquartered on Genian."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Genian",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Trax sector",
+    "system": "Genian system",
+    "coordinates": "P-10",
+    "terrain": [
+      "Rocky deserts",
+      "Mountains"
+    ],
+    "species": "Genians",
+    "cities": "Bruit"
+  },
+  "homeworld_of": [
+    {
+      "name": "Genian",
+      "directory": "Genian (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Genian",
+    "x": 7245.3,
+    "y": -945.9,
+    "z": -55.4,
+    "region": "Mid Rim",
+    "grid": "P-10"
+  },
+  "scraped": "2026-07-03"
+}

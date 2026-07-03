@@ -1,0 +1,49 @@
+{
+  "name": "Gyndine",
+  "wookieepedia_title": "Gyndine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gyndine",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Gyndine was a planet in the Expansion Region's Circarpous sector, situated along the Nanth'ri Trade Route. Controlled by the Galactic Empire, it was home to the offices of Imperial Moff Bin Essada as well as the Gyndine shipyards. In 3 ABY, the Rebel Alliance General Crix Madine flagged the shipyards as a possible target if a campaign targeting the Empire's Kuat Drive Yards were successful.",
+  "lead_paragraphs": [
+    "Gyndine was a planet in the Expansion Region's Circarpous sector, situated along the Nanth'ri Trade Route. Controlled by the Galactic Empire, it was home to the offices of Imperial Moff Bin Essada as well as the Gyndine shipyards. In 3 ABY, the Rebel Alliance General Crix Madine flagged the shipyards as a possible target if a campaign targeting the Empire's Kuat Drive Yards were successful.",
+    "In 5 ABY, a New Republic mole in the Pyke Syndicate criminal organization reported the sighting of a damaged Imperial Quasar Fire-class cruiser carrier looking for assistance at the Gyndine shipyards. New Republic Intelligence operatives Caern Adan and Yrica Quell inspected the sighting while searching for leads on the Empire's 204th Imperial Fighter Wing."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Gerrera's infiltration",
+    "  Tactical location",
+    "Locations"
+  ],
+  "data": {
+    "name": "Gyndine",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Circarpous sector",
+    "system": "Gyndine system",
+    "coordinates": "O-12",
+    "routes": "Nanth'ri Trade Route",
+    "class": "Terrestrial",
+    "interest": [
+      "Bin Essada's offices",
+      "Gyndine shipyards"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Gyndine",
+    "x": 4695.5,
+    "y": -3352.3,
+    "z": 18.0,
+    "region": "Expansion Region",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Darkknell",
+  "wookieepedia_title": "Darkknell/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darkknell/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Darkknell was a terrestrial planet located in the Outer Rim Territories, specifically in the Knel'char system, Grumani sector.",
+  "lead_paragraphs": [
+    "Darkknell was a terrestrial planet located in the Outer Rim Territories, specifically in the Knel'char system, Grumani sector."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Darkknell",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Grumani sector",
+    "system": "Knel'char system",
+    "coordinates": "M-17",
+    "suns": "3: Knel'char I, Knel'char II, and Knel'char III",
+    "routes": [
+      "Duros Space Run",
+      "Hydian Way",
+      "  Seswenna Expansion"
+    ],
+    "lengthday": "32 standard hours",
+    "terrain": [
+      "Mountains",
+      "Urban",
+      "Oceans"
+    ],
+    "interest": [
+      "Sanctum Celestial",
+      "Southern Reservoir",
+      "Firtee Cluster",
+      "Continuum Void"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Twi'leks",
+      "Duros",
+      "Sullustans",
+      "Devaronians",
+      "Kubaz"
+    ],
+    "language": "Galactic Basic Standard",
+    "cities": [
+      "Xakrea (capital)",
+      "Raykel"
+    ],
+    "exports": "Iridium",
+    "affiliation": [
+      "Chagras Hegemony",
+      "Daimanate",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Darkknell",
+    "x": 2830.1,
+    "y": -11318.9,
+    "z": -179.2,
+    "region": "Outer Rim",
+    "grid": "M-17"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Hirsi",
+  "wookieepedia_title": "Hirsi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hirsi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hirsi was a planet on the Cerean Reach in the Mid Rim.",
+  "lead_paragraphs": [
+    "Hirsi was a planet on the Cerean Reach in the Mid Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Hirsi",
+    "region": "Mid Rim",
+    "sector": "Elbaran sector",
+    "system": "Hirsi system",
+    "coordinates": "J-17",
+    "routes": "Cerean Reach",
+    "class": "Terrestrial",
+    "terrain": [
+      "Lakes",
+      "Rivers",
+      "Shores and landmasses",
+      "Streams"
+    ],
+    "water": "Present",
+    "interest": [
+      "Qwohog communities",
+      "Rebel underwater base"
+    ],
+    "flora": [
+      "Basin-pod",
+      "Freshwater plants",
+      "Moss",
+      "Tenidit plant"
+    ],
+    "fauna": [
+      "Fish",
+      "Freshwater shellfish",
+      "Lizards",
+      "Skitterfly",
+      "Tiny mammals"
+    ],
+    "species": "Qwohog",
+    "language": [
+      "Qwohog",
+      "Qwohog sign language",
+      "Galactic Basic Standard"
+    ],
+    "government": "Community ruling councils",
+    "exports": "Rudic crystals",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Alliance of Free Planets",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Qwohog",
+      "directory": "Qwohog (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Hirsi",
+    "x": -1906.7,
+    "y": -10910.4,
+    "z": 343.8,
+    "region": "Mid Rim",
+    "grid": "J-17"
+  },
+  "scraped": "2026-07-03"
+}

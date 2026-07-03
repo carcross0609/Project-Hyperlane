@@ -1,0 +1,65 @@
+{
+  "name": "Xagobah",
+  "wookieepedia_title": "Xagobah/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xagobah/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Xagobah was a planet located in the Xagobah system, just inside the border with the Outer Rim Territories, and was the homeworld of the Xamster race.",
+  "lead_paragraphs": [
+    "Xagobah was a planet located in the Xagobah system, just inside the border with the Outer Rim Territories, and was the homeworld of the Xamster race.",
+    "The Xagobah system had a blue sun."
+  ],
+  "article_sections": [
+    "Geography",
+    "History"
+  ],
+  "data": {
+    "name": "Xagobah",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Mayagil sector",
+    "system": "Xagobah system",
+    "coordinates": "M-18",
+    "suns": "1",
+    "moons": "3",
+    "routes": "Sharlissian Trade Corridor",
+    "terrain": [
+      "Fungal forests",
+      "Swamps",
+      "Mountains",
+      "Jungles",
+      "Deserts"
+    ],
+    "interest": "Mazariyan",
+    "flora": "Flimmel tree",
+    "species": [
+      "Malvil-tree (semi-sentient)",
+      "Xamster"
+    ],
+    "otherspecies": "Formerly Skakoan",
+    "affiliation": [
+      "Galactic Republic",
+      "Techno Union",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Xamster",
+      "directory": "Xamster (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Xagobah",
+    "x": 2838.6,
+    "y": -13066.5,
+    "z": -71.7,
+    "region": "Outer Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

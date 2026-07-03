@@ -1,0 +1,62 @@
+{
+  "name": "Nothoiin",
+  "wookieepedia_title": "Nothoiin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nothoiin",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Nothoiin was a planet in the Nothoiin system in the Anoat sector of the Outer Rim Territories. It had a moon on which ur-diamonds were mined. During the Iron Blockade, a makeshift medical center on Nothoiin had to resort to smugglers to acquire supplies from Gerrenthum. The planet's native sentients species, the gold-skinned Nothoiins, once ruled the entire Anoat sector.",
+  "lead_paragraphs": [
+    "Nothoiin was a planet in the Nothoiin system in the Anoat sector of the Outer Rim Territories. It had a moon on which ur-diamonds were mined. During the Iron Blockade, a makeshift medical center on Nothoiin had to resort to smugglers to acquire supplies from Gerrenthum. The planet's native sentients species, the gold-skinned Nothoiins, once ruled the entire Anoat sector.",
+    "Baron Shkan-Shkan Yew, one of the richest men in the galaxy by 19 BBY, was the ruler of an obscure Nothoiin colony world."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nothoiin",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Javin sector",
+      "  Anoat sector"
+    ],
+    "system": "Nothoiin system",
+    "coordinates": "K-18",
+    "moons": "1",
+    "routes": "Gerrenthum–Eriadu hyperlane",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Forests",
+      "Rocky"
+    ],
+    "species": "Nothoiin",
+    "exports": "Ur-diamonds",
+    "affiliation": [
+      "Noble Court",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Nothoiin",
+      "directory": "Nothoiin (species)",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Nothoiin",
+      "directory": "Nothoiin (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nothoiin",
+    "x": -1128.3,
+    "y": -12646.4,
+    "z": 174.0,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

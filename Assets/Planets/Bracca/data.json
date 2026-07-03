@@ -1,0 +1,94 @@
+{
+  "name": "Bracca",
+  "wookieepedia_title": "Bracca",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bracca",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bracca was an inhospitable junkyard planet located in the galaxy's Mid Rim. Located close to various hyperspace routes, Bracca's strategic importance made it the site of a campaign during the Clone Wars. During the reign of the Galactic Empire, the Scrapper Guild operated on the planet, breaking down starship wreckage and selling the components to the Empire.",
+  "lead_paragraphs": [
+    "Bracca was an inhospitable junkyard planet located in the galaxy's Mid Rim. Located close to various hyperspace routes, Bracca's strategic importance made it the site of a campaign during the Clone Wars. During the reign of the Galactic Empire, the Scrapper Guild operated on the planet, breaking down starship wreckage and selling the components to the Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "  Fauna",
+    "History",
+    "  High Republic Era",
+    "  Clone Wars",
+    "  Imperial Era",
+    "  Rise of the First Order",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Bracca",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Lantillian sector",
+    "system": "Bracca system",
+    "coordinates": "P-9",
+    "moons": "1",
+    "routes": "Randon Run",
+    "class": "Terrestrial",
+    "atmosphere": "Type 1",
+    "climate": "Temperate",
+    "terrain": [
+      "Junkyards",
+      "Plains"
+    ],
+    "interest": [
+      "Shipbreaking Yard",
+      "Bracca spaceports",
+      "Eren's place",
+      "Guild store",
+      "Worker Rail Route 213",
+      "Platform thirty-three",
+      "Platform thirty-two",
+      "Platform twenty",
+      "Retired Control Tower",
+      "Bracca Badlands"
+    ],
+    "fauna": [
+      "Bisnu",
+      "Birds",
+      "Ibdis Maw",
+      "Mygora",
+      "Scrap rat"
+    ],
+    "otherspecies": [
+      "Abednedo",
+      "Dianoga",
+      "Human",
+      "Mirialan",
+      "Pantoran",
+      "Pikpik",
+      "Rodian"
+    ],
+    "imports": [
+      "Decommissioned and destroyed starships",
+      "Scrap",
+      "Ship parts"
+    ],
+    "exports": [
+      "Starships",
+      "Scrap"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Scrapper Guild",
+      "Galactic Empire",
+      "New Republic",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Bracca",
+    "x": 2499.5,
+    "y": -14321.2,
+    "z": 422.2,
+    "region": "Mid Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

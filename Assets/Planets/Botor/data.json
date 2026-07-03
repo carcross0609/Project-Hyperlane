@@ -1,0 +1,40 @@
+{
+  "name": "Botor",
+  "wookieepedia_title": "Botor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Botor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Botor was a planet located in the galaxy's Core Worlds that was home to the pirate faction known as the Flesh Mongers during the Republic Era. The youngling Lo was from Botor.",
+  "lead_paragraphs": [
+    "Botor was a planet located in the galaxy's Core Worlds that was home to the pirate faction known as the Flesh Mongers during the Republic Era. The youngling Lo was from Botor."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Botor",
+    "region": "Core Worlds",
+    "sector": "Botor Enclave",
+    "system": "Botor system",
+    "coordinates": "K-12",
+    "routes": "Nexus Route",
+    "interest": "Flesh Mongers lair",
+    "otherspecies": "Lo's species",
+    "cities": "Flesh Mongers city",
+    "affiliation": "Flesh Mongers"
+  },
+  "homeworld_of": [
+    {
+      "name": "Lo's species",
+      "directory": "Lo's species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Botor",
+    "x": -57.9,
+    "y": -4056.1,
+    "z": -1.9,
+    "region": "Core Worlds",
+    "grid": "K-12"
+  },
+  "scraped": "2026-07-03"
+}

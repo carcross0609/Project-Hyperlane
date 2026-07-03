@@ -1,0 +1,65 @@
+{
+  "name": "Boonta",
+  "wookieepedia_title": "Boonta/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Boonta/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Boonta, formerly known as Ko Vari, was a planet in the Outer Rim Territories that had been colonized by the Hutts long ago. Despite it being a devastated world, Boonta was famous in the galaxy for its podracing and speeder races.",
+  "lead_paragraphs": [
+    "Boonta, formerly known as Ko Vari, was a planet in the Outer Rim Territories that had been colonized by the Hutts long ago. Despite it being a devastated world, Boonta was famous in the galaxy for its podracing and speeder races."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Old republic era",
+    "  Later history",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Boonta",
+    "region": "Outer Rim Territories",
+    "sector": "Suolriep sector",
+    "system": "Dernatine system",
+    "coordinates": "S-8",
+    "position": "4th",
+    "routes": [
+      "Lesser Lantillian Route",
+      "Salin Corridor"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Barren deserts and wastelands",
+    "interest": [
+      "Boonta scrapyard",
+      "Living Pits"
+    ],
+    "otherspecies": [
+      "Human",
+      "Hutt"
+    ],
+    "language": "Basic",
+    "affiliation": [
+      "Hutt Empire",
+      "Xim's Empire",
+      "Hutt Cartel",
+      "Mandalorian Neo-Crusaders",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Greater Maldrood",
+      "Yuuzhan Vong empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Boonta",
+    "x": 11184.9,
+    "y": 2240.1,
+    "z": -52.0,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

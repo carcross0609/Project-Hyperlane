@@ -1,0 +1,68 @@
+{
+  "name": "Kiffex",
+  "wookieepedia_title": "Kiffex/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kiffex/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kiffex was the smaller sister planet of Kiffu in the Azurbani system of the Inner Rim. It had rich soil, giving Kiffex the potential to become a major agriculture producing planet.",
+  "lead_paragraphs": [
+    "Kiffex was the smaller sister planet of Kiffu in the Azurbani system of the Inner Rim. It had rich soil, giving Kiffex the potential to become a major agriculture producing planet.",
+    "It contained prison colonies for Kiffu's sector, overseen by the Kiffu Guardians, having served as a Republic prison world since at least 3000 BBY. Prior to that it was used as a prison colony for the Sith Empire during the annexation of the system. In one of the many holding cells, the Dark Jedi Volfe Karkko was kept in a stasis field. In 30 BBY, the Jedi Aayla Secura accidentally released him. After that incident, the insane Anzati overran the planet.",
+    "Kiffex was the home world of the infamous Tonnika sisters."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kiffex",
+    "region": [
+      "Inner Rim",
+      "Western Reaches"
+    ],
+    "sector": "Kiffu sector",
+    "system": "Azurbani system",
+    "coordinates": "L-14",
+    "suns": "1",
+    "routes": "Rycar's Run",
+    "interest": [
+      "Ven Karya Spaceport",
+      "Black Hole"
+    ],
+    "fauna": [
+      "Bathwa",
+      "Stump lizard"
+    ],
+    "otherspecies": [
+      "Human",
+      "Kiffar",
+      "Snivvian",
+      "Triffian"
+    ],
+    "language": "Galactic Basic Standard",
+    "cities": "Deadend",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kiffar",
+      "directory": "Kiffar",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kiffar",
+      "directory": "Kiffar (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kiffex",
+    "x": 4741.4,
+    "y": -738.2,
+    "z": 80.0,
+    "region": "Inner Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Fenel",
+  "wookieepedia_title": "Fenel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fenel",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fenel was an Outer Rim Territories world located in the Demetras sector. It was the homeworld of the Fenelar species. A powerful world possessing starshipwrights and technologists, it was eventually raided by the Mandalorian Crusaders, resulting in the Fenelar's extinction. Fenel subsequently became a Mandalorian world and was bombarded by the Galactic Republic during the Mandalorian Excision.",
+  "lead_paragraphs": [
+    "Fenel was an Outer Rim Territories world located in the Demetras sector. It was the homeworld of the Fenelar species. A powerful world possessing starshipwrights and technologists, it was eventually raided by the Mandalorian Crusaders, resulting in the Fenelar's extinction. Fenel subsequently became a Mandalorian world and was bombarded by the Galactic Republic during the Mandalorian Excision."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Fenel",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Demetras sector",
+    "system": "Fenel system",
+    "coordinates": "O-7",
+    "class": "Terrestrial",
+    "species": "Fenelar",
+    "affiliation": "Mandalorians"
+  },
+  "homeworld_of": [
+    {
+      "name": "Fenelar",
+      "directory": "Fenelar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

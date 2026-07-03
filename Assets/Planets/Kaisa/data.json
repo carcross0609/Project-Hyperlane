@@ -1,0 +1,40 @@
+{
+  "name": "Kaisa",
+  "wookieepedia_title": "Kaisa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kaisa",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kaisa was a planet that was once home to the Buro species. However, it was accidentally driven to extinction by the actions of Human geologists.",
+  "lead_paragraphs": [
+    "Kaisa was a planet that was once home to the Buro species. However, it was accidentally driven to extinction by the actions of Human geologists."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kaisa",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Corva sector",
+    "system": "Kaisa system",
+    "coordinates": "P-3",
+    "terrain": "Rainforests",
+    "species": "None; formerly: Buro (indigenous)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Buro",
+      "directory": "Buro",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kaisa",
+    "x": 6668.7,
+    "y": 10137.7,
+    "z": 205.1,
+    "region": "Outer Rim",
+    "grid": "P-3"
+  },
+  "scraped": "2026-07-03"
+}

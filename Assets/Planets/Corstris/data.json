@@ -1,0 +1,35 @@
+{
+  "name": "Corstris",
+  "wookieepedia_title": "Corstris",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corstris",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Corstris was a heavily-forested planet in the Quelii sector of the Outer Rim.",
+  "lead_paragraphs": [
+    "Corstris was a heavily-forested planet in the Quelii sector of the Outer Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Corstris",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Corstris system",
+    "coordinates": "O-6",
+    "terrain": "Forests"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Corstris",
+    "x": 4711.3,
+    "y": 4880.1,
+    "z": 85.2,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

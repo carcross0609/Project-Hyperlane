@@ -1,0 +1,41 @@
+{
+  "name": "Farana",
+  "wookieepedia_title": "Farana",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Farana",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Farana was a Wild Space planet where at one point the pirate Hondo Ohnaka acquired the frigate Acushnet and several Flarestar-class attack shuttles from a collector of antiquities. The planet was home to a type of aggressive creature, which the human Mosey Cimmaron and their sister hunted at some point by 9 BBY.",
+  "lead_paragraphs": [
+    "Farana was a Wild Space planet where at one point the pirate Hondo Ohnaka acquired the frigate Acushnet and several Flarestar-class attack shuttles from a collector of antiquities. The planet was home to a type of aggressive creature, which the human Mosey Cimmaron and their sister hunted at some point by 9 BBY."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Farana",
+    "region": "Wild Space",
+    "sector": "Farana",
+    "system": "Farana system",
+    "coordinates": "S-3",
+    "class": "Terrestrial",
+    "interest": "A collector's holdings",
+    "fauna": "A creature"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ocsin",
+      "directory": "Ocsin",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Farana",
+    "x": 11293.9,
+    "y": 9391.3,
+    "z": 378.3,
+    "region": "Wild Space",
+    "grid": "S-3"
+  },
+  "scraped": "2026-07-03"
+}

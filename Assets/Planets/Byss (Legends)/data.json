@@ -1,0 +1,98 @@
+{
+  "name": "Byss",
+  "wookieepedia_title": "Byss/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Byss/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Byss was a planet in the Deep Core, near the center of the galaxy, discovered no earlier than 45 BBY. A local day lasted 31 standard hours, and a local year lasted 207 local days. It was the endpoint of the Byss Run.",
+  "lead_paragraphs": [
+    "Byss was a planet in the Deep Core, near the center of the galaxy, discovered no earlier than 45 BBY. A local day lasted 31 standard hours, and a local year lasted 207 local days. It was the endpoint of the Byss Run.",
+    "Byss itself was somewhat of a myth, seeming to be the perfect place to live. Its eerie blue-green glow, caused by its sun, also added to the strangeness of the world. Despite this outward appearance, however, Emperor Palpatine's dark-side energies were everywhere, corrupting not only the inhabitants, but the planet itself.",
+    "Byss was the secret throne world of Palpatine and the location of his towering Imperial Citadel. He also kept his secret supply of clone bodies there."
+  ],
+  "article_sections": [
+    "Description",
+    "  Physical features",
+    "  Government and role",
+    "  Security",
+    "History"
+  ],
+  "data": {
+    "name": "Byss",
+    "region": [
+      "Deep Core",
+      "  Deep Core Security Zone"
+    ],
+    "system": "Beshqek system",
+    "coordinates": "K-11",
+    "suns": "1: Beshqek",
+    "position": "5",
+    "moons": "5",
+    "routes": "Byss Run",
+    "lengthday": "31 standard hours",
+    "lengthyear": "207 local days",
+    "class": "Terrestrial",
+    "diameter": "21,600 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Urban sprawls",
+      "Plateau reserves",
+      "Canyons",
+      "Lakes"
+    ],
+    "water": "Moderate",
+    "interest": [
+      "Byss shipyards",
+      "Desolation Peak",
+      "Emerald Splendor Estates",
+      "Emperor's Citadel",
+      "Imperial Freight Complex",
+      "Rakatan stronghold"
+    ],
+    "fauna": "Nocturnal wildlife",
+    "otherspecies": [
+      "Human",
+      "Other"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Dark-side theocracy",
+    "population": "19.7 billion (98% Human, 2% other)",
+    "cities": "Emperor's ruling city (capital)",
+    "imports": [
+      "High technology",
+      "Foodstuffs",
+      "Processed foods",
+      "Weapons"
+    ],
+    "exports": "None",
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Empire",
+      "Dark Empire",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Abyssin",
+      "directory": "Abyssin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Abyssin",
+      "directory": "Abyssin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Byss",
+    "x": 11830.9,
+    "y": 4249.5,
+    "z": 373.3,
+    "region": "Outer Rim",
+    "grid": "S-7"
+  },
+  "scraped": "2026-07-03"
+}

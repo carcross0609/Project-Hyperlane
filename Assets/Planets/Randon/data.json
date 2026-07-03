@@ -1,0 +1,40 @@
+{
+  "name": "Randon",
+  "wookieepedia_title": "Randon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Randon",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Randon was a planet located in the Randon system in the Mytaranor sector of the Mid Rim Territories, at the confluence of a number of hyperspace routes. The Ootmian Pabol ran through Randon, and three routes began at the world: the Trax Tube, the Pabol Sleheyron and the Randon Run.",
+  "lead_paragraphs": [
+    "Randon was a planet located in the Randon system in the Mytaranor sector of the Mid Rim Territories, at the confluence of a number of hyperspace routes. The Ootmian Pabol ran through Randon, and three routes began at the world: the Trax Tube, the Pabol Sleheyron and the Randon Run.",
+    "In 33 BBY, the Idiot Three were dropped off on Randon by Qui-Gon Jinn and Obi-Wan Kenobi after attempting to hijack the Regal Zephyr."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Randon",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Mytaranor sector",
+    "system": "Randon system",
+    "coordinates": "Q-10",
+    "routes": [
+      "Ootmian Pabol",
+      "Pabol Sleheyron",
+      "Randon Run",
+      "Trax Tube"
+    ],
+    "class": "Terrestrial"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Randon",
+    "x": 7896.9,
+    "y": -523.3,
+    "z": 213.1,
+    "region": "Mid Rim",
+    "grid": "Q-10"
+  },
+  "scraped": "2026-07-03"
+}

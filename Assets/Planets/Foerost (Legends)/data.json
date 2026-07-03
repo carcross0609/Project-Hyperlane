@@ -1,0 +1,43 @@
+{
+  "name": "Foerost",
+  "wookieepedia_title": "Foerost/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Foerost/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Foerost was a Core planet orbited by the famous Foerost Shipyards, which was one of the Galactic Republic's largest and oldest shipyards.",
+  "lead_paragraphs": [
+    "Foerost was a Core planet orbited by the famous Foerost Shipyards, which was one of the Galactic Republic's largest and oldest shipyards."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Foerost",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "system": "Foerost system",
+    "coordinates": "L-10",
+    "routes": "Koros Trunk Line.",
+    "interest": "Foerost Shipyards",
+    "population": "Historic: none",
+    "cities": "Hajibar",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Foerost",
+    "x": 5.9,
+    "y": -105.9,
+    "z": -19.5,
+    "region": "Core Worlds",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

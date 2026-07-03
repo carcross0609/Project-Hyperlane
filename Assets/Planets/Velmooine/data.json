@@ -1,0 +1,37 @@
+{
+  "name": "Velmooine",
+  "wookieepedia_title": "Velmooine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Velmooine",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Velmooine was a desert planet with four moons that occupied the second orbital position around the star Velm. It was located in the Velm system, a part of the Halori sector in the Trans-Hydian portion of the Mid Rim.",
+  "lead_paragraphs": [
+    "Velmooine was a desert planet with four moons that occupied the second orbital position around the star Velm. It was located in the Velm system, a part of the Halori sector in the Trans-Hydian portion of the Mid Rim."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Velmooine",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Halori sector",
+    "system": "Velm system",
+    "coordinates": "P-7",
+    "suns": "1: Velm",
+    "position": "2",
+    "moons": "4",
+    "class": "Terrestrial",
+    "terrain": "Desert"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Velmooine",
+    "x": 6224.7,
+    "y": 4161.1,
+    "z": -83.5,
+    "region": "Mid Rim",
+    "grid": "P-7"
+  },
+  "scraped": "2026-07-03"
+}

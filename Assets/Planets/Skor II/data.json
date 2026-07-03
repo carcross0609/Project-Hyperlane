@@ -1,0 +1,74 @@
+{
+  "name": "Skor II",
+  "wookieepedia_title": "Skor II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skor_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Skor II was a planet in the Squab system and the homeworld of the Squibs. It was located in the Outer Rim Territories just west of the Rimma Trade Route. The world was small, with a varied terrain and climate that provided it with vast natural resources. The planet's system of government, known as the polyanarchy, was headed by a king. One major population center was Metrobig City, site of the Metrobig Interplanetary Blastport.",
+  "lead_paragraphs": [
+    "Skor II was a planet in the Squab system and the homeworld of the Squibs. It was located in the Outer Rim Territories just west of the Rimma Trade Route. The world was small, with a varied terrain and climate that provided it with vast natural resources. The planet's system of government, known as the polyanarchy, was headed by a king. One major population center was Metrobig City, site of the Metrobig Interplanetary Blastport.",
+    "Early tribes of Squibs were forced to wander Skor II to find resources. As some tribes founded villages, others traded from settlement to settlement, and haggling became an ingrained part of the Squib psyche. It was this bargaining instinct that allowed the Squibs to trade for hyperspace technology and bring their world to galactic prominence. Skor II remained loyal to the Galactic Republic during the Clone Wars. When the Confederacy of Independent Systems invaded the world in 21 BBY, but the Republic quickly fought them offworld, with the ensuing Battle of Skor II won by Mace Windu and Clone Commander Cody. Although the government of Skor II later negotiated rubbish management contracts with the Galactic Empire, the king declared a pact of mutual support with the Alliance to Restore the Republic sometime before the Battle of Hoth."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The Clone Wars",
+    "  Galactic Civil War and legacy",
+    "Inhabitants",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Skor II",
+    "region": "Outer Rim Territories",
+    "sector": "Airam sector",
+    "system": "Squab system",
+    "coordinates": "M-20",
+    "suns": "1: Squab",
+    "class": "Terrestrial",
+    "diameter": "Small",
+    "climate": "Temperate",
+    "terrain": "Varied",
+    "interest": "Metrobig Interplanetary Blastport",
+    "species": "Squibs",
+    "language": [
+      "Old High Squibbian",
+      "Squibbian",
+      "Basic"
+    ],
+    "government": "Squib Polyanarchy",
+    "cities": "Metrobig City",
+    "imports": [
+      "Garbage",
+      "Salvage"
+    ],
+    "exports": [
+      "Natural resources",
+      "Laborers",
+      "Refurbished high-tech",
+      "Tensor weapons",
+      "Tractor beams"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Squib",
+      "directory": "Squib (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Skor II",
+    "x": 2115.2,
+    "y": -15617.7,
+    "z": 216.2,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

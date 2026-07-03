@@ -1,0 +1,38 @@
+{
+  "name": "Miko",
+  "wookieepedia_title": "Miko (Mid Rim)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Miko_%28Mid_Rim%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Miko was a planet located in the Esaga sector of the Mid Rim. The Jedi of the planet were known to wear a unique gear in addition using the unique pulsing crystals to produce powerful Lightsabers.",
+  "lead_paragraphs": [
+    "Miko was a planet located in the Esaga sector of the Mid Rim. The Jedi of the planet were known to wear a unique gear in addition using the unique pulsing crystals to produce powerful Lightsabers."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Miko",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Esaga sector",
+    "system": "Miko system",
+    "coordinates": "Q-11"
+  },
+  "homeworld_of": [
+    {
+      "name": "Mikoan",
+      "directory": "Mikoan",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "Miko",
+    "x": 6743.5,
+    "y": -15184.5,
+    "z": 266.8,
+    "region": "Wild Space",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

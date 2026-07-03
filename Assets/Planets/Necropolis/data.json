@@ -1,0 +1,40 @@
+{
+  "name": "Necropolis",
+  "wookieepedia_title": "Necropolis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Necropolis",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "The Necropolis was a junk planet located in the Outer Rim Territories. It was connected to the worlds of Rattatak and Ponemah Terminal by a hyperspace route. During their journey to find Jedi Master Luke Skywalker, Rey, Chewbacca, and R2-D2 were forced to land on Necropolis after a mechanical issue.",
+  "lead_paragraphs": [
+    "The Necropolis was a junk planet located in the Outer Rim Territories. It was connected to the worlds of Rattatak and Ponemah Terminal by a hyperspace route. During their journey to find Jedi Master Luke Skywalker, Rey, Chewbacca, and R2-D2 were forced to land on Necropolis after a mechanical issue."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Necropolis",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Zuma sector",
+      "  Sugai sector"
+    ],
+    "system": "Necropolis system",
+    "coordinates": "H-16",
+    "routes": "Batuu–Ponemah hyperlane",
+    "terrain": "Junkyards"
+  },
+  "homeworld_of": [
+    {
+      "name": "Necropolitan",
+      "directory": "Necropolitan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Necropolis",
+    "x": -1584.2,
+    "y": -4721.9,
+    "z": 51.5,
+    "region": "Core Worlds",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

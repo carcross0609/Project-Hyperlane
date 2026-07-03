@@ -1,0 +1,59 @@
+{
+  "name": "Rafa V",
+  "wookieepedia_title": "Rafa V",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rafa_V",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rafa V was the fifth planet of the Rafa system and the homeworld of the Sharu species.",
+  "lead_paragraphs": [
+    "Rafa V was the fifth planet of the Rafa system and the homeworld of the Sharu species."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Rafa V",
+    "region": [
+      "Outer Rim",
+      "The Slice"
+    ],
+    "sector": "Centrality",
+    "system": "Rafa system",
+    "coordinates": "T-8",
+    "suns": "1",
+    "position": "5",
+    "moons": "2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cool, dry",
+    "gravity": "Light (0.9 standard)",
+    "terrain": [
+      "Desert",
+      "Tundra"
+    ],
+    "interest": "Rafa Chabalrussa",
+    "flora": "Life-crystal tree",
+    "fauna": "Vuole",
+    "species": "Sharu",
+    "otherspecies": "Humans",
+    "language": "Old High Trammic",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sharu",
+      "directory": "Sharu (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rafa V",
+    "x": 13040.6,
+    "y": 2160.0,
+    "z": -288.5,
+    "region": "Outer Rim",
+    "grid": "T-8"
+  },
+  "scraped": "2026-07-03"
+}

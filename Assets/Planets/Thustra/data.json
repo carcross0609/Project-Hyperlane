@@ -1,0 +1,35 @@
+{
+  "name": "Thustra",
+  "wookieepedia_title": "Thustra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thustra",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Thustra was a planet located in the Thustra system in the Sumitra sector of the Expansion Region. Sephi flyers came from here.",
+  "lead_paragraphs": [
+    "Thustra was a planet located in the Thustra system in the Sumitra sector of the Expansion Region. Sephi flyers came from here."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Thustra",
+    "region": "Expansion Region",
+    "sector": "Sumitra sector",
+    "system": "Thustra system",
+    "coordinates": "O-7"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sephi",
+      "directory": "Sephi (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Thustra",
+    "x": 4547.7,
+    "y": 3416.1,
+    "z": -14.4,
+    "region": "Expansion Region",
+    "grid": "O-7"
+  },
+  "scraped": "2026-07-03"
+}

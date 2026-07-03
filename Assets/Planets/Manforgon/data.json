@@ -1,0 +1,50 @@
+{
+  "name": "Manforgon",
+  "wookieepedia_title": "Manforgon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Manforgon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Manforgon was a planet located in the Mid Rim's Senex sector. It was used for centuries as a penal colony of the Senex-Juvex region. Eventually becoming a lawless world fought over by warlords, Manforgon was turned over to the Galactic Empire by the noble houses of the Senex-Juvex. The Empire used the planet for military purposes, and during the Galactic Civil War, Imperial Customs Officer Tellix served there.",
+  "lead_paragraphs": [
+    "Manforgon was a planet located in the Mid Rim's Senex sector. It was used for centuries as a penal colony of the Senex-Juvex region. Eventually becoming a lawless world fought over by warlords, Manforgon was turned over to the Galactic Empire by the noble houses of the Senex-Juvex. The Empire used the planet for military purposes, and during the Galactic Civil War, Imperial Customs Officer Tellix served there."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Manforgon",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Manforgon system",
+    "coordinates": "L-17",
+    "routes": "Senex-Juvex Loop",
+    "class": "Terrestrial",
+    "otherspecies": [
+      "Humans",
+      "Hutlarians"
+    ],
+    "imports": "Prisoners",
+    "affiliation": [
+      "Ancient Houses",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Manforgon",
+    "x": 231.2,
+    "y": -11777.3,
+    "z": -181.2,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

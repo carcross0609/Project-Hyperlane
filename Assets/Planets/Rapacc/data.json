@@ -1,0 +1,39 @@
+{
+  "name": "Rapacc",
+  "wookieepedia_title": "Rapacc",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rapacc",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rapacc was a planet located in the Rapacc system of the Unknown Regions, home to the Paccosh species. Its capital city was Boropacc. During the Nikardun conquests, it was blockaded by General Yiv of the Nikardun Destiny.",
+  "lead_paragraphs": [
+    "Rapacc was a planet located in the Rapacc system of the Unknown Regions, home to the Paccosh species. Its capital city was Boropacc. During the Nikardun conquests, it was blockaded by General Yiv of the Nikardun Destiny.",
+    "The planet was blockaded by the forces of the Nikardun Destiny for hosting refugees of a species who had fled a cataclysmic civil war on their homeworld. The Agbui Haplif had engineered their civil war, and when the refugees fled for Rapacc, he told the forces of the Nikardun that the refugees were actually seeking to raise an army against Yiv the Benevolent."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rapacc",
+    "region": "Unknown Regions",
+    "sector": "N/A",
+    "system": "Rapacc system",
+    "coordinates": "E-7",
+    "suns": "Rapacc's sun",
+    "class": "Terrestrial",
+    "interest": "Numerous orbiting space stations",
+    "species": "Paccosh",
+    "otherspecies": "The Magys's people",
+    "government": "Paccian Governance",
+    "cities": [
+      "Boropacc (capital)",
+      "A refugee city"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Paccosh",
+      "directory": "Paccosh",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

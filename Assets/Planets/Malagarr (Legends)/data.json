@@ -1,0 +1,36 @@
+{
+  "name": "Malagarr",
+  "wookieepedia_title": "Malagarr/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Malagarr/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Malagarr was located in Wild Space. Its primary terrain was red sand. It was home to droids of Q-7N's type. In 0 ABY, the Galactic Empire made an incursion there.",
+  "lead_paragraphs": [
+    "Malagarr was located in Wild Space. Its primary terrain was red sand. It was home to droids of Q-7N's type. In 0 ABY, the Galactic Empire made an incursion there."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Malagarr",
+    "region": "Wild Space",
+    "system": "Malagarr system",
+    "coordinates": "V-8",
+    "species": "Malagarrian",
+    "language": "Malagarrian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Malagarrian",
+      "directory": "Malagarrian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Malagarr",
+    "x": 15076.4,
+    "y": 2434.4,
+    "z": -430.5,
+    "region": "Wild Space",
+    "grid": "V-8"
+  },
+  "scraped": "2026-07-03"
+}

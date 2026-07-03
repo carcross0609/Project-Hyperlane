@@ -1,0 +1,41 @@
+{
+  "name": "Thakwaa",
+  "wookieepedia_title": "Thakwaa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thakwaa/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thakwaa was a temperate planet dominated by grassy plains that was located in the Thakwaa system of the Tunka sector in the Outer Rim Territories. It was an isolated world that attracted little attention from the Galactic Empire until the end of the Galactic Civil War. The Empire gave up trying to take over this planet due to its native species' unpredictable nature's as well as their size and strength, not because the planet was useless.",
+  "lead_paragraphs": [
+    "Thakwaa was a temperate planet dominated by grassy plains that was located in the Thakwaa system of the Tunka sector in the Outer Rim Territories. It was an isolated world that attracted little attention from the Galactic Empire until the end of the Galactic Civil War. The Empire gave up trying to take over this planet due to its native species' unpredictable nature's as well as their size and strength, not because the planet was useless."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Thakwaa",
+    "region": "Outer Rim Territories",
+    "sector": "Tunka sector",
+    "system": "Thakwaa system",
+    "coordinates": "I-19",
+    "climate": "Temperate",
+    "terrain": "Grassy plains",
+    "species": "Thakwaash",
+    "language": "Thakwaese",
+    "population": "10 million to 100 million",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Thakwaash",
+      "directory": "Thakwaash",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Thakwaa",
+    "x": -3658.1,
+    "y": -13782.8,
+    "z": 343.0,
+    "region": "Outer Rim",
+    "grid": "I-19"
+  },
+  "scraped": "2026-07-03"
+}

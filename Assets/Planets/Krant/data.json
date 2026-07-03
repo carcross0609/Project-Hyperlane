@@ -1,0 +1,77 @@
+{
+  "name": "Krant",
+  "wookieepedia_title": "Krant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krant",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Krant was a wilderness planet in the Bothan Space in the Mid Rim. It saw action from the Clone Wars and the Galactic Civil War, and the Jedi Master Echuu Shen-Jon hid on Krant during decades until Princess Leia Organa appeared on the planet, searching for the Bothan agent Utric Sandov.",
+  "lead_paragraphs": [
+    "Krant was a wilderness planet in the Bothan Space in the Mid Rim. It saw action from the Clone Wars and the Galactic Civil War, and the Jedi Master Echuu Shen-Jon hid on Krant during decades until Princess Leia Organa appeared on the planet, searching for the Bothan agent Utric Sandov."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Krant",
+    "region": "Mid Rim",
+    "sector": "Bothan Space",
+    "system": "Krant system",
+    "coordinates": "R-14",
+    "moons": "Two main moons (inc. Aereen) plus numerous orbiting asteroids (inc. Hanoon)",
+    "class": "Terrestrial",
+    "terrain": [
+      "Forests",
+      "Islands",
+      "Seas"
+    ],
+    "interest": [
+      "Ghost Base",
+      "Camp Sagol",
+      "Camp Kaxol",
+      "Decimator Production Yards",
+      "Jedi ruins",
+      "Sith Temple"
+    ],
+    "species": "Krantian",
+    "otherspecies": [
+      "Geonosian (formerly during the Clone Wars)",
+      "Human",
+      "Wookiee"
+    ],
+    "language": [
+      "Krantian",
+      "Galactic Basic Standard"
+    ],
+    "demonym": "Krantian",
+    "cities": [
+      "Peche",
+      "Theenes",
+      "Le'Roche"
+    ],
+    "affiliation": [
+      "Old Sith Empire",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Krantian",
+      "directory": "Krantian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Krant",
+    "x": 9545.7,
+    "y": -6703.6,
+    "z": 586.7,
+    "region": "Mid Rim",
+    "grid": "R-14"
+  },
+  "scraped": "2026-07-03"
+}

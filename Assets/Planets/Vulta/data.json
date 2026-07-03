@@ -1,0 +1,65 @@
+{
+  "name": "Vulta",
+  "wookieepedia_title": "Vulta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vulta",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vulta was a planet located within the Atreyis system of the Mid Rim. It was the homeworld of the Vultan species, as well as Greff-Timms Industrial and Oss Wilum.",
+  "lead_paragraphs": [
+    "Vulta was a planet located within the Atreyis system of the Mid Rim. It was the homeworld of the Vultan species, as well as Greff-Timms Industrial and Oss Wilum."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vulta",
+    "region": [
+      "Mid Rim",
+      "Northern Dependencies"
+    ],
+    "sector": "Trans-Vulta sector",
+    "system": "Atreyis system",
+    "coordinates": "N-7",
+    "routes": "Mandalorian Road",
+    "climate": "Humid (in Lake Yinta area)",
+    "water": "Lake Yinta",
+    "interest": [
+      "Karson's Park",
+      "Silver Falcon",
+      "Spiral Galaxy",
+      "A warehouse",
+      "Yinta Lake spaceport"
+    ],
+    "fauna": [
+      "Greenbeak",
+      "Vinefish"
+    ],
+    "species": "Vultan",
+    "otherspecies": [
+      "Human",
+      "Rodian",
+      "Zeltron"
+    ],
+    "language": "Dromnyr",
+    "demonym": "Vultan",
+    "cities": [
+      "Drom (capital)",
+      "Yinta Lake"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vultan",
+      "directory": "Vultan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vulta",
+    "x": 3796.7,
+    "y": 3795.9,
+    "z": 180.3,
+    "region": "Mid Rim",
+    "grid": "N-7"
+  },
+  "scraped": "2026-07-03"
+}

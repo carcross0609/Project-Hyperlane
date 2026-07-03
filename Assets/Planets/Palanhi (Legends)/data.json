@@ -1,0 +1,56 @@
+{
+  "name": "Palanhi",
+  "wookieepedia_title": "Palanhi/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Palanhi/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Palanhi was a Colonies world that was located within the Fakir sector, situated on the Bakchou arm of the galaxy.",
+  "lead_paragraphs": [
+    "Palanhi was a Colonies world that was located within the Fakir sector, situated on the Bakchou arm of the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Palanhi",
+    "region": [
+      "Colonies; Bakchou arm",
+      "Northern Dependencies"
+    ],
+    "sector": "Fakir sector",
+    "system": "Palanhi system",
+    "coordinates": "K-9",
+    "routes": [
+      "Coruscant–Dantooine hyperlane",
+      "Namadii Corridor",
+      "Shwuy Exchange"
+    ],
+    "class": "Terrestrial",
+    "terrain": [
+      "Small oceans",
+      "Volcanic islands",
+      "Less than 50% surface water"
+    ],
+    "interest": "Central bank",
+    "affiliation": [
+      "Galactic Republic",
+      "Corporate Alliance",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Palanhi",
+    "x": -996.2,
+    "y": 1464.8,
+    "z": -85.3,
+    "region": "Colonies",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

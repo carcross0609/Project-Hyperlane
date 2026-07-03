@@ -1,0 +1,30 @@
+{
+  "name": "Gen'Dai homeworld",
+  "wookieepedia_title": "Gen'Dai homeworld/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gen%27Dai_homeworld/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "This planet was the homeworld of the sentient Gen'Dai species. The planet was attacked by the Sith Empire at one point, with most of its native population killed in the fighting.",
+  "lead_paragraphs": [
+    "This planet was the homeworld of the sentient Gen'Dai species. The planet was attacked by the Sith Empire at one point, with most of its native population killed in the fighting."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gen'Dai homeworld",
+    "species": "Gen'Dai"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gen'Dai",
+      "directory": "Gen'Dai",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gen'Dai",
+      "directory": "Gen'Dai (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

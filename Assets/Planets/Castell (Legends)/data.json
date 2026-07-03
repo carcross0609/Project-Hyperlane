@@ -1,0 +1,70 @@
+{
+  "name": "Castell",
+  "wookieepedia_title": "Castell/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Castell/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Castell was a terrestrial planet located along the Perlemian Trade Route in the Colonies region of the galaxy. The homeworld of the Gossam, Castell was a major foundry planet for the Commerce Guild.",
+  "lead_paragraphs": [
+    "Castell was a terrestrial planet located along the Perlemian Trade Route in the Colonies region of the galaxy. The homeworld of the Gossam, Castell was a major foundry planet for the Commerce Guild."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Before the Republic",
+    "  Old Republic era",
+    "  Separatism",
+    "  Later history"
+  ],
+  "data": {
+    "name": "Castell",
+    "region": [
+      "Colonies;",
+      "The Slice"
+    ],
+    "system": "Castell system",
+    "coordinates": "M-9",
+    "routes": "Perlemian Trade Route",
+    "class": "Terrestrial",
+    "terrain": "Urban",
+    "species": "Gossam",
+    "language": [
+      "Gossam",
+      "Basic"
+    ],
+    "government": "Commerce Guild",
+    "population": [
+      "c.25 ABY:",
+      "10 million to 100 million"
+    ],
+    "demonym": "Castellan",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Yuuzhan Vong empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Gossam",
+      "directory": "Gossam",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gossam",
+      "directory": "Gossam (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Castell",
+    "x": 2092.9,
+    "y": 1203.8,
+    "z": -18.1,
+    "region": "Colonies",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

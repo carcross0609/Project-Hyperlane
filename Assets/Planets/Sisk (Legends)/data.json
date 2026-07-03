@@ -1,0 +1,39 @@
+{
+  "name": "Sisk",
+  "wookieepedia_title": "Sisk/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sisk/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sisk was a planet that orbited a red dwarf star. It was the homeworld of the Sic-Six. It cooled when its star suffered partial atomic collapse.",
+  "lead_paragraphs": [
+    "Sisk was a planet that orbited a red dwarf star. It was the homeworld of the Sic-Six. It cooled when its star suffered partial atomic collapse.",
+    "While Sisk had considerable natural resources, the antisocial nature of the Sic-Six made it impossible to exploit the planetary resources in any organized way."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sisk",
+    "region": "Outer Rim Territories",
+    "sector": "Calaron sector",
+    "system": "Sisk system",
+    "coordinates": "U-9",
+    "suns": "Sisk",
+    "water": "Oceans",
+    "species": "Sic-Six"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sic-Six",
+      "directory": "Sic-Six (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sisk",
+    "x": 14075.8,
+    "y": 1110.8,
+    "z": 476.0,
+    "region": "Outer Rim",
+    "grid": "U-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Commenor",
+  "wookieepedia_title": "Commenor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Commenor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Commenor was a planet in the Commenor system of the Colonies, just outside of the Core Worlds.",
+  "lead_paragraphs": [
+    "Commenor was a planet in the Commenor system of the Colonies, just outside of the Core Worlds."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Old Republic era",
+    "  Galactic Civil War",
+    "  Later history",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Commenor",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Commenor system",
+    "coordinates": "N-10",
+    "moons": [
+      "2:",
+      "Folor",
+      "Brelor"
+    ],
+    "routes": [
+      "Commenor Run",
+      "Quellor Run",
+      "Trellen Trade Route"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type I oxygen mix",
+    "gravity": "Standard",
+    "terrain": [
+      "Cities",
+      "Mountains",
+      "Oceans",
+      "Deserts",
+      "Canyons"
+    ],
+    "interest": [
+      "Munto valley",
+      "University of Commenor"
+    ],
+    "flora": "Fijisi",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "demonym": [
+      "Commenori",
+      "Commenorian"
+    ],
+    "cities": [
+      "Anteluma",
+      "Chasin City",
+      "Kliffen",
+      "Munto"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances",
+      "Confederation",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Commenor",
+    "x": 3466.5,
+    "y": -1474.4,
+    "z": -165.4,
+    "region": "Colonies",
+    "grid": "N-10"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Arro",
+  "wookieepedia_title": "Arro",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arro",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arro was the first planet of the Dathomir system, a part of the Quelii sector in the New Territories portion of the Outer Rim Territories. A hot world made of molten rock, it had no moons and orbited the star Domir.",
+  "lead_paragraphs": [
+    "Arro was the first planet of the Dathomir system, a part of the Quelii sector in the New Territories portion of the Outer Rim Territories. A hot world made of molten rock, it had no moons and orbited the star Domir."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Arro",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Dathomir system",
+    "coordinates": "O-6",
+    "suns": "1: Domir",
+    "position": "1",
+    "moons": "0",
+    "class": "Terrestrial",
+    "climate": "Hot",
+    "terrain": "Molten rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Arro",
+    "x": 4659.3,
+    "y": 4776.1,
+    "z": 175.7,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

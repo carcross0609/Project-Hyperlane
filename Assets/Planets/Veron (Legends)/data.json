@@ -1,0 +1,47 @@
+{
+  "name": "Veron",
+  "wookieepedia_title": "Veron/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Veron/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Veron was an agriworld located in the Veron system of the Senex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Senex-Juvex Loop hyperlane linked it to the Cyimarra and Presteen systems, while the Veron Route connected it to the New Cylimba system of the D'Aelgoth sector.",
+  "lead_paragraphs": [
+    "Veron was an agriworld located in the Veron system of the Senex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Senex-Juvex Loop hyperlane linked it to the Cyimarra and Presteen systems, while the Veron Route connected it to the New Cylimba system of the D'Aelgoth sector.",
+    "Veron was dominated by nobles of the House Araba, which was based on the nearby planet of Cyimarra. The agriworld shared its name with Veron Minor, a planet in the Mektrun sector."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Veron",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Veron system",
+    "coordinates": "L-17",
+    "routes": [
+      "Senex-Juvex Loop",
+      "Veron Route"
+    ],
+    "affiliation": "House Araba"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gazar",
+      "directory": "Gazar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Veron",
+    "x": 471.7,
+    "y": -11734.9,
+    "z": 95.2,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

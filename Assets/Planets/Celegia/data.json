@@ -1,0 +1,53 @@
+{
+  "name": "Celegia",
+  "wookieepedia_title": "Celegia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Celegia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Celegia was an Expansion Region world of raging seas. Its atmosphere was rich in the toxic cyanogen gas, and it was the homeworld of the sentient Celegians. Due to oxygen being lethal to the Celegians, they had to use special life support chambers when traveling off-world. Celegia had become a part of the Galactic Republic by approximately 17,000 BBY and was a member of the Galactic Empire in 17 BBY.",
+  "lead_paragraphs": [
+    "Celegia was an Expansion Region world of raging seas. Its atmosphere was rich in the toxic cyanogen gas, and it was the homeworld of the sentient Celegians. Due to oxygen being lethal to the Celegians, they had to use special life support chambers when traveling off-world. Celegia had become a part of the Galactic Republic by approximately 17,000 BBY and was a member of the Galactic Empire in 17 BBY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Celegia",
+    "region": [
+      "Expansion Region",
+      "The Slice",
+      "Exploitation Region (c. 17,000 BBY)"
+    ],
+    "sector": "Noori sector",
+    "system": "Celegia system",
+    "coordinates": "O-10",
+    "class": "Terrestrial",
+    "atmosphere": "Cyanogen",
+    "water": "At least 1 ocean",
+    "species": "Celegian",
+    "population": "10–100 million (Celegia system) (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Grand Companies",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Celegian",
+      "directory": "Celegian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Celegia",
+    "x": 5818.1,
+    "y": -997.4,
+    "z": -80.1,
+    "region": "Expansion Region",
+    "grid": "O-10"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Arkania",
+  "wookieepedia_title": "Arkania",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arkania",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Arkania was a cold planet located in the Arkania system of the galaxy's Colonies region, positioned at the coordinates M-8 on the Standard Galactic Grid. It was the homeworld of Arkanian species.",
+  "lead_paragraphs": [
+    "Arkania was a cold planet located in the Arkania system of the galaxy's Colonies region, positioned at the coordinates M-8 on the Standard Galactic Grid. It was the homeworld of Arkanian species."
+  ],
+  "article_sections": [
+    "Decription",
+    "History"
+  ],
+  "data": {
+    "name": "Arkania",
+    "region": "Colonies",
+    "sector": "None",
+    "system": "Arkania system",
+    "coordinates": "M-8",
+    "climate": "Cold",
+    "terrain": [
+      "Caverns",
+      "Icy tundra"
+    ],
+    "interest": "Diamond mines",
+    "fauna": "Arkanian polar drake",
+    "species": [
+      "Arkanian",
+      "  Arkanian Offshoots"
+    ],
+    "language": [
+      "Arkanian",
+      "Galactic Basic Standard"
+    ],
+    "exports": "Diamond"
+  },
+  "homeworld_of": [
+    {
+      "name": "Arkanian",
+      "directory": "Arkanian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Arkanian Offshoot",
+      "directory": "Arkanian Offshoot",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Arkanian Offshoot",
+      "directory": "Arkanian Offshoot (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Arkanian",
+      "directory": "Arkanian (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Assimilator",
+      "directory": "Assimilator",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Arkania",
+    "x": 1644.5,
+    "y": 1519.0,
+    "z": 160.8,
+    "region": "Colonies",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

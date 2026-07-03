@@ -1,0 +1,50 @@
+{
+  "name": "Halowan",
+  "wookieepedia_title": "Halowan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Halowan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Halowan was a barren planet in the Fakir sector of the Bakchou arm. It was the location of Holowan Laboratories, the creators of the IG-series droids.",
+  "lead_paragraphs": [
+    "Halowan was a barren planet in the Fakir sector of the Bakchou arm. It was the location of Holowan Laboratories, the creators of the IG-series droids."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Halowan",
+    "region": "Colonies; Bakchou arm",
+    "sector": "Fakir sector",
+    "system": "Halowan system",
+    "coordinates": "K-9",
+    "suns": "1",
+    "moons": "2",
+    "terrain": [
+      "Industrial (including Holowan Laboratories)",
+      "Barren desert",
+      "Mountains"
+    ],
+    "interest": [
+      "Trans-system data storage library",
+      "Holowan Laboratories"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Holowan Laboratories",
+      "Holowan Mechanicals",
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Halowan",
+    "x": 2473.7,
+    "y": 1263.4,
+    "z": -128.7,
+    "region": "Inner Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

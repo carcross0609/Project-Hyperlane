@@ -1,0 +1,58 @@
+{
+  "name": "Danoor",
+  "wookieepedia_title": "Danoor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Danoor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Danoor was a planet in the Nah'Malis system located within the Kathol Outback.",
+  "lead_paragraphs": [
+    "Danoor was a planet in the Nah'Malis system located within the Kathol Outback."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Colonization",
+    "  Devastation",
+    "  Contact with the FarStar"
+  ],
+  "data": {
+    "name": "Danoor",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Kathol sector",
+      "  Kathol Outback"
+    ],
+    "system": "Nah'Malis system",
+    "coordinates": "M-21",
+    "lengthday": "25 standard hours",
+    "lengthyear": "201 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "mountains",
+      "Hills",
+      "Plains"
+    ],
+    "water": "Moderate",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Representative democracy",
+    "population": "Two million",
+    "cities": "Eror Zeen (capital)",
+    "imports": "High and low technology",
+    "exports": "Scientific research"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Danoor",
+    "x": 2741.1,
+    "y": -17026.8,
+    "z": -63.8,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,150 @@
+{
+  "name": "Mandalore",
+  "wookieepedia_title": "Mandalore",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mandalore",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Mandalore, also known as Mand'alor, was a planet located in the Outer Rim Territories. It was the homeworld of the Mandalorians, a fearsome warrior clan-based people, and the indigenous Alamite species. The Mandalorians once fought the Jedi and raided their temple during the fall of the Old Republic. Wearing distinctive armor that was often made from beskar, they were feared throughout the galaxy, and once had political influence over two thousand other star systems.",
+  "lead_paragraphs": [
+    "Mandalore, also known as Mand'alor, was a planet located in the Outer Rim Territories. It was the homeworld of the Mandalorians, a fearsome warrior clan-based people, and the indigenous Alamite species. The Mandalorians once fought the Jedi and raided their temple during the fall of the Old Republic. Wearing distinctive armor that was often made from beskar, they were feared throughout the galaxy, and once had political influence over two thousand other star systems.",
+    "Many years of war left the planet inhospitable, forcing the Mandalorians to live within domed cities. A pacifist regime came to power at the end of these wars, led by Duchess Satine Kryze, who joined the Galactic Republic. The Mandalorian Civil War was fought between the pacifists and the martial traditionalists. The Civil War ended in a victory for the New Mandalorians, and those who refused to give up their warrior ways were exiled to the moon Concordia, and believed to have died out.",
+    "During the Clone Wars, the New Mandalorians were overthrown by the renegade Sith Lord Maul's Shadow Collective, whose forces included the Death Watch, which was formed from the exiled warriors. A new civil war soon erupted between the Mandalore resistance, which had the aid of the Republic, and the forces of the Shadow Collective. The resulting siege by a Mandalorian-Republic joint force ended Maul's rule over the planet. The Republic subsequently appointed Bo-Katan Kryze, the leader of the Mandalore resistance, as Regent of Mandalore. However, Kryze's rule was soon ended by Gar Saxon and his clan, who betrayed Kryze and pledged loyalty to the Republic's successor state, the Galactic Empire. For his loyalty, Saxon was appointed Viceroy and Governor of Mandalore, which was now under Imperial occupation.",
+    "Kryze did not accept Saxon's authority, and she became the leader of the Mandalorian resistance, and fought against Saxon and the Empire in a third Mandalorian civil war. In 1 BBY, Kryze came into possession of the Darksaber from Sabine Wren, and she united the clans of Mandalore, becoming its ruler. The planet was heavily bombed in the Night of a Thousand Tears by the Empire during the Great Purge of Mandalore, and millions of Mandalorians were killed, and the planet was thought to be uninhabitable. The fusion bombs and fusion rays used in the Purge crystallized the surface of the planet, turning the sand to glass and trinitite.",
+    "During the New Republic Era, the Mandalorians were scattered throughout the galaxy, and some believed the planet was cursed. On the surface, the native Alamites came to reside in the ruins. An Imperial remnant led by Moff Gideon established a secret base of operations on the planet. However, Kryze and Din Djarin managed to bring together their respective factions before departing for Mandalore with a sizable fleet. Upon arriving on the planet, the Mandalorians discovered Gideon's base. After a fierce battle, the Mandalorians were able to defeat the Imperial holdouts and reclaim their homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "  The home of warriors",
+    "  Flora and fauna",
+    "History",
+    "  Early history",
+    "    Untamed Wilderness and the Age of the First Mandalore",
+    "    The First Mandalorian Jedi",
+    "  Republic Era",
+    "    Wars and desolation",
+    "    Maintaining neutrality",
+    "    The resurrection",
+    "  Age of the Empire",
+    "    Imperial rule",
+    "    A second civil war",
+    "    The Purge",
+    "  New Republic Era",
+    "    Exploration",
+    "    Rediscovery",
+    "    Gathering the tribes",
+    "    Resettlement attempts",
+    "    Mandalorians fight back",
+    "  A new age for Mandalore",
+    "Inhabitants",
+    "Government"
+  ],
+  "data": {
+    "option1": "9 ABY",
+    "option2": "2 BBY",
+    "name": "Mandalore",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Mandalore sector",
+    "system": "Mandalore system",
+    "coordinates": "O-7",
+    "suns": "Mandalore",
+    "position": "5",
+    "moons": [
+      "2",
+      "Concordia",
+      "Mesumika"
+    ],
+    "lengthday": "19 standard hours",
+    "lengthyear": "366 standard days",
+    "class": "Terrestrial",
+    "diameter": "9,200 km (5,716 miles)",
+    "atmosphere": "Type I but Inhospitable",
+    "climate": [
+      "Hot and dry (Before the Purge)",
+      "Storms (After the Purge)"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Forests (Historic)",
+      "Lakes (Historic)",
+      "Jungles (Historic)",
+      "Seas (Historic)",
+      "Mountains (Historic)",
+      "Deserts (Before the Purge)",
+      "Domed cities (Before the Purge)",
+      "Crystals (After the Purge)",
+      "Glass (After the Purge)",
+      "Trinitite (After the Purge)",
+      "Caverns (After the Purge)"
+    ],
+    "interest": [
+      "Great Forge",
+      "Mandalore Imperial base",
+      "Mandalore prison outpost",
+      "Statue of Tarre Vizsla",
+      "Kryze command camp"
+    ],
+    "flora": [
+      "Tree of Te Ani'la",
+      "Cassius tree"
+    ],
+    "fauna": [
+      "Galaar",
+      "Mythosaur",
+      "Shriek-hawk",
+      "Unidentified reptavian",
+      "Trinitaur"
+    ],
+    "species": "Alamite",
+    "otherspecies": "Human",
+    "socialgroup": "Mandalorian",
+    "language": [
+      "Galactic Basic Standard",
+      "Mando'a"
+    ],
+    "government": [
+      "Clans under the authority of the Mand'alor",
+      "Mandalorian Government Council (during the Republic Era)",
+      "Governorship (during the Imperial Era)"
+    ],
+    "population": [
+      "4,000,000 (Pre-Purge)",
+      "  81% humans",
+      "  19% other",
+      "Unknown (9 ABY)"
+    ],
+    "demonym": "Mandalorian",
+    "cities": [
+      "Keldabe (former capital)",
+      "Ronion",
+      "Sundari (capital)"
+    ],
+    "imports": "Raw materials",
+    "exports": "Mercenaries, starships",
+    "affiliation": [
+      "New Mandalorians",
+      "Galactic Republic",
+      "Shadow Collective",
+      "Galactic Empire",
+      "Gideon's Imperial remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Alamite",
+      "directory": "Alamite",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Mandalore",
+    "x": 5451.8,
+    "y": 4083.2,
+    "z": -125.7,
+    "region": "Outer Rim",
+    "grid": "O-7"
+  },
+  "scraped": "2026-07-03"
+}

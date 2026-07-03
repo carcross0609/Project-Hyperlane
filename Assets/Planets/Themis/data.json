@@ -1,0 +1,33 @@
+{
+  "name": "Themis",
+  "wookieepedia_title": "Themis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Themis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Themis was a planet located in the Themis system of the Inner Rim. It was the homeworld of the Themians. Themis was orbited by a moon which contained an explosive ore that was capable of acting as a power source.",
+  "lead_paragraphs": [
+    "Themis was a planet located in the Themis system of the Inner Rim. It was the homeworld of the Themians. Themis was orbited by a moon which contained an explosive ore that was capable of acting as a power source."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Themis",
+    "region": "Inner Rim",
+    "system": "Themis system",
+    "coordinates": "L-15",
+    "moons": "1: Themis moon",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "interest": "Themis royal palace",
+    "species": "Themians",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Themian",
+      "directory": "Themian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

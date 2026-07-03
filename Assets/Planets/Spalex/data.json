@@ -1,0 +1,44 @@
+{
+  "name": "Spalex",
+  "wookieepedia_title": "Spalex",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spalex",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Spalex was a planet located in the galaxy's Outer Rim Territories that contained a massive vein of thorilide. The Galactic Empire was dissuaded from mining it by the Spalexians, although the First Order uncovered Imperial survey records and threatened the natives into handing over their reserve before Resistance members intervened.",
+  "lead_paragraphs": [
+    "Spalex was a planet located in the galaxy's Outer Rim Territories that contained a massive vein of thorilide. The Galactic Empire was dissuaded from mining it by the Spalexians, although the First Order uncovered Imperial survey records and threatened the natives into handing over their reserve before Resistance members intervened."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Spalex",
+    "region": "Outer Rim Territories",
+    "sector": "Dantus sector",
+    "system": "Spalex system",
+    "coordinates": "J-6",
+    "suns": "1",
+    "terrain": "Rocky",
+    "interest": "Spalex village",
+    "flora": "Trees",
+    "species": "Spalexian",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Spalexian",
+      "directory": "Spalexian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Spalex",
+    "x": 13657.4,
+    "y": 5302.5,
+    "z": -219.6,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

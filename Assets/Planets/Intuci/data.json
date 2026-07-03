@@ -1,0 +1,44 @@
+{
+  "name": "Intuci",
+  "wookieepedia_title": "Intuci",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Intuci",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Intuci was a planet in the Abrion sector of the Outer Rim Territories under the control of the Galactic Empire.",
+  "lead_paragraphs": [
+    "Intuci was a planet in the Abrion sector of the Outer Rim Territories under the control of the Galactic Empire.",
+    "The war criminal Gaar Suppoon, under the alias of Sonopo Bomoor, sacked the city of Bonaka Nueno and massacred its citizens."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Intuci",
+    "region": "Outer Rim Territories",
+    "sector": "Abrion sector",
+    "system": "Intuci system",
+    "coordinates": "S-15",
+    "terrain": [
+      "Oceans",
+      "Forests",
+      "Mountains",
+      "Plains"
+    ],
+    "interest": "Bonaka Square",
+    "otherspecies": [
+      "Human",
+      "Pantorans"
+    ],
+    "language": "Galactic Basic Standard",
+    "cities": "Bonaka Nueno",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Intuci",
+    "x": 11015.9,
+    "y": -8819.3,
+    "z": -456.7,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

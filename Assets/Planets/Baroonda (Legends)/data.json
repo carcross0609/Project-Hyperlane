@@ -1,0 +1,63 @@
+{
+  "name": "Baroonda",
+  "wookieepedia_title": "Baroonda/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Baroonda/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Baroonda was a planet of varied geography. It was host to several podracing tracks which passed through many diverse locations, including volcanoes, swamps, wide, sandy beaches, spectacular waterfalls, thick jungles, sulfur geyser fields, and plateau-top cities. It had some inhabited moons.",
+  "lead_paragraphs": [
+    "Baroonda was a planet of varied geography. It was host to several podracing tracks which passed through many diverse locations, including volcanoes, swamps, wide, sandy beaches, spectacular waterfalls, thick jungles, sulfur geyser fields, and plateau-top cities. It had some inhabited moons."
+  ],
+  "article_sections": [
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Baroonda",
+    "region": "Outer Rim Territories",
+    "sector": "Calaron sector",
+    "system": "Baroonda system",
+    "coordinates": "T-9",
+    "moons": "18",
+    "terrain": [
+      "Rainforests",
+      "Swamps",
+      "Oceans",
+      "Volcanoes",
+      "Plateaus"
+    ],
+    "interest": [
+      "Baroo Coast",
+      "Grabvine Gateway",
+      "Fire Mountain Rally",
+      "Inferno",
+      "Ancient Nazwa Structures"
+    ],
+    "species": "Majan",
+    "otherspecies": [
+      "Gamorreans",
+      "Kowakian monkey-lizards"
+    ],
+    "cities": [
+      "Baroo",
+      "Nazwa",
+      "Majaneetza (capital)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Majan",
+      "directory": "Majan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Baroonda",
+    "x": 13109.3,
+    "y": 1305.3,
+    "z": 47.9,
+    "region": "Outer Rim",
+    "grid": "T-9"
+  },
+  "scraped": "2026-07-03"
+}

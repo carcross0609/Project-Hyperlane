@@ -1,0 +1,46 @@
+{
+  "name": "Muntiadu",
+  "wookieepedia_title": "Muntiadu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Muntiadu",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Muntiadu was a terrestrial planet in the Eriadu system, located in the Seswenna sector of the Trailing Sectors portion of the Outer Rim Territories. The planet and its star system were located on the hyperspace routes known as Hydian Way, Lipsec Run, Nothoiin Corridor, Rimma Trade Route, Senex Trace, and Yankirk Route. Muntiadu occupied the first orbital position around the star Eriadu and had no moons. It featured a molten rock surface and a hot climate.",
+  "lead_paragraphs": [
+    "Muntiadu was a terrestrial planet in the Eriadu system, located in the Seswenna sector of the Trailing Sectors portion of the Outer Rim Territories. The planet and its star system were located on the hyperspace routes known as Hydian Way, Lipsec Run, Nothoiin Corridor, Rimma Trade Route, Senex Trace, and Yankirk Route. Muntiadu occupied the first orbital position around the star Eriadu and had no moons. It featured a molten rock surface and a hot climate."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Muntiadu",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Seswenna sector",
+    "system": "Eriadu system",
+    "coordinates": "M-18",
+    "suns": "1: Eriadu",
+    "position": "1",
+    "moons": "0",
+    "routes": [
+      "Hydian Way",
+      "Lipsec Run",
+      "Nothoiin Corridor",
+      "Rimma Trade Route",
+      "Senex Trace",
+      "Yankirk Route"
+    ],
+    "class": "Terrestrial",
+    "climate": "Hot",
+    "terrain": "Molten rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Muntiadu",
+    "x": 13081.7,
+    "y": 5284.7,
+    "z": -17.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Anaxes",
+  "wookieepedia_title": "Anaxes/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anaxes/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Anaxes was a fortress world located on the Perlemian Trade Route in the Axum system of the Core Worlds. Known as the \"Defender of the Core\", for millennia it was the site of the Republic Navy's primary fleet base and War College. It was considered the site of naval power, tradition and prestige by both the Galactic Republic and the Galactic Empire. Anaxes shared its sun, Solis Axum, with Selgon, Grastes, Axum, Urfon, Phlors Rex, Phlors Regina, and Ichium.",
+  "lead_paragraphs": [
+    "Anaxes was a fortress world located on the Perlemian Trade Route in the Axum system of the Core Worlds. Known as the \"Defender of the Core\", for millennia it was the site of the Republic Navy's primary fleet base and War College. It was considered the site of naval power, tradition and prestige by both the Galactic Republic and the Galactic Empire. Anaxes shared its sun, Solis Axum, with Selgon, Grastes, Axum, Urfon, Phlors Rex, Phlors Regina, and Ichium."
+  ],
+  "article_sections": [
+    "History",
+    "  The Azure Imperium",
+    "  The Defender of the Core",
+    "  The Rise of the Empire",
+    "  The Galactic Civil War and beyond",
+    "Geography"
+  ],
+  "data": {
+    "name": "Anaxes",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "sector": "Azure sector",
+    "system": "Axum system",
+    "coordinates": "L-9",
+    "suns": "Solis Axum",
+    "position": "4",
+    "moons": "1",
+    "routes": "Perlemian Trade Route",
+    "lengthday": "26 standard hours",
+    "lengthyear": "352 local days",
+    "class": "Terrestrial",
+    "diameter": "16,100 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate to arctic",
+    "gravity": "Standard",
+    "terrain": [
+      "Plains",
+      "Forests",
+      "Mountains",
+      "Urban"
+    ],
+    "interest": [
+      "Anaxes Citadel",
+      "Anaxes Station",
+      "Republic Navy War College",
+      "Sirpar Hills",
+      "Sirpar Station",
+      "Zann Remanufacturing facility"
+    ],
+    "flora": "Sirpar tree",
+    "fauna": "Keffi",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Democracy",
+    "population": [
+      "512 million:",
+      "  94% Humans",
+      "  6% other"
+    ],
+    "demonym": "Anaxsi",
+    "cities": "Pols Anaxes (capital)",
+    "imports": [
+      "Consumer goods",
+      "Processed foods",
+      "Raw material"
+    ],
+    "exports": "High-tech goods",
+    "affiliation": [
+      "Azure Imperium",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Fel Empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Anaxsi",
+      "directory": "Anaxsi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Anaxes",
+    "x": 615.7,
+    "y": 374.4,
+    "z": -16.1,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

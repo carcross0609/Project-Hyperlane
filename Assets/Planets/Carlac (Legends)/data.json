@@ -1,0 +1,59 @@
+{
+  "name": "Carlac",
+  "wookieepedia_title": "Carlac/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carlac/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Carlac was a peaceful, snow-covered planet in the Outer Rim Territories. A town inhabited by members of the Ming Po culture existed on the planet during the Clone Wars. However, that village was burned to the ground by Death Watch, a radical Mandalorian Terrorist group.",
+  "lead_paragraphs": [
+    "Carlac was a peaceful, snow-covered planet in the Outer Rim Territories. A town inhabited by members of the Ming Po culture existed on the planet during the Clone Wars. However, that village was burned to the ground by Death Watch, a radical Mandalorian Terrorist group."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Carlac",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Prefsbelt sector",
+    "system": "Carlac system",
+    "coordinates": "K-5",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cold",
+    "terrain": "Snowy plains and mountains",
+    "interest": [
+      "Ming Po town",
+      "Death Watch camp",
+      "104th Battalion Republic Outpost",
+      "Crashed Munificent-class star frigate"
+    ],
+    "species": "Ming Po",
+    "cities": "Ming Po town",
+    "affiliation": "Neutral"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ming Po",
+      "directory": "Ming Po",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ming Po",
+      "directory": "Ming Po (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Carlac",
+    "x": -1372.6,
+    "y": 6209.6,
+    "z": -55.9,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Churruma",
+  "wookieepedia_title": "Churruma",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Churruma",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Churruma was a planet with deposits of valuable metals that was located within the Velcar sector of the Outer Rim Territories. During the Galactic Civil War, the Galactic Empire mined Churruma's metals and captured the shaman Chrech Estha, a respected leader of the planet's natives who possessed a carved stick that served as a powerful political and religious symbol on his homeworld. The return of Estha and the stick to Churruma sparked a rebellion that ended the Empire's presence on the planet.",
+  "lead_paragraphs": [
+    "Churruma was a planet with deposits of valuable metals that was located within the Velcar sector of the Outer Rim Territories. During the Galactic Civil War, the Galactic Empire mined Churruma's metals and captured the shaman Chrech Estha, a respected leader of the planet's natives who possessed a carved stick that served as a powerful political and religious symbol on his homeworld. The return of Estha and the stick to Churruma sparked a rebellion that ended the Empire's presence on the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Churruma",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Velcar sector",
+    "system": "Churruma system",
+    "coordinates": "J-5",
+    "exports": "Metals",
+    "affiliation": [
+      "Churruma natives",
+      "Galactic Empire",
+      "Pentastar Alignment",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Churruma",
+    "x": -1831.8,
+    "y": 7336.7,
+    "z": -381.1,
+    "region": "Outer Rim",
+    "grid": "J-5"
+  },
+  "scraped": "2026-07-03"
+}

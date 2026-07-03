@@ -1,0 +1,36 @@
+{
+  "name": "Velumia",
+  "wookieepedia_title": "Velumia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Velumia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Velumia was the third planet that orbited Velus, the Velus system's sun. The planet, like the rest of its system, was located in the Northern Dependencies portion of the Core Worlds. Velumia was a gas giant with seven moons. The planet, along with the rest of its system, was located along the Shawken Spur hyperlane, connecting it to the Shawken and Thokos systems. The Velusia system, and therefore Velumia itself, was additionally connected by another hyperlane to the Scipio system.",
+  "lead_paragraphs": [
+    "Velumia was the third planet that orbited Velus, the Velus system's sun. The planet, like the rest of its system, was located in the Northern Dependencies portion of the Core Worlds. Velumia was a gas giant with seven moons. The planet, along with the rest of its system, was located along the Shawken Spur hyperlane, connecting it to the Shawken and Thokos systems. The Velusia system, and therefore Velumia itself, was additionally connected by another hyperlane to the Scipio system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Velumia",
+    "region": [
+      "Core Worlds",
+      "Northern Dependencies"
+    ],
+    "system": "Velus system",
+    "coordinates": "L-9",
+    "suns": "Velus",
+    "position": "3",
+    "moons": "7",
+    "routes": "Shawken Spur",
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Velumia",
+    "x": 1250.9,
+    "y": 704.4,
+    "z": 44.2,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,230 @@
+# Naboo
+
+**Continuity:** Legends  
+**Source:** [Naboo/Legends](https://starwars.fandom.com/wiki/Naboo/Legends)
+**Galaxy atlas:** system `Naboo`, Mid Rim, grid O-17 — map position (5016.6, -10608.5, -211.0)
+
+Naboo was a planet that was the sector capital of the Chommell sector in the Mid Rim and Trailing Sectors, near the border with the Outer Rim Territories. The planet had an unusual plasma core, and its surface was a largely unspoiled world with large plains, swamps and seas.
+
+The Gungans were an amphibian species native to Naboo. The planet was also home to Human colonists from Grizmallt who called themselves the Naboo. In late galactic history, Naboo was mostly known as the homeworld of notable historical figures who played major roles in the downfall of the Galactic Republic and the rise of the Galactic Empire, namely Padmé Amidala, Emperor Palpatine and Jar Jar Binks.
+
+## Planetary data
+
+- **Name:** Naboo
+- **Region:**
+  - Mid Rim
+  - Trailing Sectors
+- **Sector:** Chommell sector
+- **System:** Naboo system
+- **Coordinates:** O-17
+- **Distance:** 34,000 light-years
+- **Suns:** 1: Naboo
+- **Position:** 3
+- **Moons:**
+  - 3
+  - Ohma-D'un
+  - Rori
+  - Third moon of Naboo
+- **Routes:**
+  - Enarc Run
+  - Old Trade Federation Route
+- **Lengthday:** 26 standard hours
+- **Lengthyear:** 312 local days
+- **Class:** Terrestrial
+- **Diameter:** 12,120 kilometers
+- **Atmosphere:** Oxygen mix, Type I (breathable)
+- **Climate:** Temperate
+- **Gravity:** Standard
+- **Terrain:**
+  - Rolling grassy plains
+  - Swamps
+  - Grassy hills
+  - Forests
+  - Mountains
+- **Water:** 85%
+- **Interest:**
+  - Lianorm Swamp
+  - Lake Paonga
+  - Emperor's Retreat
+  - Imperial Weapon Research Facility
+  - Great Grass Plains
+  - Gallo Mountains
+  - Solleu River
+  - Caves of Eleuabad
+  - Gungan Caves
+  - Gungan Sacred Place
+  - Lake Country
+  - Sacred Forest of Naboo
+  - Theed Royal Palace
+  - Ranchlands
+  - Lors
+  - Lasay Swamp
+- **Flora:**
+  - Bubble spore
+  - Chak-root
+  - Hsuberry tree
+  - Locap plant
+  - Millaflower
+  - Mintri
+  - Munni
+  - Perlote tree
+  - Reknew
+  - Shuura
+  - Tlickweed
+  - Woosha plant
+  - Xharnoh plant
+  - Zaela tree
+- **Fauna:**
+  - Aiwha
+  - Blarth
+  - Bursa
+  - Colo claw fish
+  - Falumpaset
+  - Fambaa
+  - Gualaar
+  - Guarlara
+  - Gullipud
+  - Ikopi
+  - Kaadu
+  - Mott
+  - Narglatch
+  - Nuna
+  - Odupiendo
+  - Opee Sea Killer
+  - Otta
+  - Peko-peko
+  - Pikobi
+  - Pelikki
+  - Sando Aqua Monster
+  - Saw-toothed grank
+  - Scalefish
+  - Shaak
+  - Titavian
+  - Tusk-cat
+  - Veermok
+  - Zalaaca
+- **Species:** Gungan
+- **Otherspecies:**
+  - Human
+  - Elders
+  - Amaran
+  - Neimoidian
+- **Language:**
+  - Naboo
+  - Galactic Basic Standard
+  - Gungan Basic
+  - Old Gungan
+- **Government:**
+  - Hereditary Monarchy (3900–150 BBY)
+  - Elected Monarchy (150–18 BBY)
+  - Monarchy (18 BBY–? ABY)
+- **Population:**
+  - 4.5 billion:
+  -   72% Gungan
+  -   27% Human
+  -   1% other
+- **Demonym:**
+  - Naboo
+  - Nabooian
+- **Cities:**
+  - Dee'ja Peak
+  - Ferentina
+  - Harte Secur
+  - Jan-gwa city
+  - Kaadara
+  - Keren
+  - Moenia
+  - New Centrif
+  - Otoh Gunga (Gungan capital)
+  - Otoh Sancture
+  - Oxon City
+  - Parrlay
+  - Rellias
+  - Selton
+  - Spinnaker
+  - Theed (human capital)
+  - Umberbool City
+  - Vis
+- **Imports:**
+  - Technology
+  - Processed foods
+- **Exports:**
+  - Plasma
+  - Millaflower
+  - Grains
+  - Art
+  - Cultural items
+  - Wine
+  - Crystals
+- **Affiliation:**
+  - Gungan society
+  - Elders
+  - Royal House of Naboo
+  - Galactic Republic
+  - Trade Federation (briefly)
+  - Galactic Empire
+  - Alliance to Restore the Republic (secretly)
+  - Nal Raka Criminal Empire
+  - New Republic
+  - Galactic Alliance
+  - Fel Empire
+  - Darth Krayt's Galactic Empire
+  - Galactic Alliance Remnant (secretly)
+  - Empire-in-exile (secretly)
+  - Galactic Federation Triumvirate
+
+## Homeworld of
+
+- [Elders (Canon)](../../Species/Elders%20%28Naboo%29/README.md)
+- [Grizmallti (Canon)](../../Species/Grizmallti/README.md)
+- [Grizmallti (Legends)](../../Species/Grizmallti%20%28Legends%29/README.md)
+- [Gungan (Canon)](../../Species/Gungan/README.md)
+- [Gungan (Legends)](../../Species/Gungan%20%28Legends%29/README.md)
+- [Naboo (Canon)](../../Species/Naboo%20%28people%29/README.md)
+- [Naboo (Legends)](../../Species/Naboo%20%28people%29%20%28Legends%29/README.md)
+- [Octopus (Legends)](../../Species/Octopus%20%28Legends%29/README.md)
+
+## Full article coverage (on Wookieepedia)
+
+- Geography
+- History
+-   Pre-Human period
+-   Human colonization
+-   War of the Gungan Tribes
+-   Early Gungan/Human cooperation
+-   Colonization of Rori
+-   The Jafan dynasty of Theed
+-   The Gungan-Naboo War
+-   The first invasion of Naboo
+-   Palpatine's rise to power
+-   Amidala's rise to power
+-   The Blockade of Naboo
+-     Jedi Involvement
+-     Reaching for help
+-     Aftermath of the invasion
+-   New relations with the Gungans
+-   Clone Wars
+-     Political influence
+-     Separatist attacks
+-   Imperial era
+-     Assassination of Queen Apailana
+-     Kylantha's Rule
+-   The New Republic
+-   Galactic Alliance
+- Culture
+-   Settlements and regions
+-   Religion
+-   Military
+-   Politics
+-     Domestic affairs
+-     Foreign affairs
+-   Exports
+- Known political figures of Naboo
+-   Monarchs
+-   Senators
+-   Other governors
+-   Non-canon sources
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

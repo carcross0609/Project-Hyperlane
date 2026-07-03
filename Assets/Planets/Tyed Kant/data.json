@@ -1,0 +1,63 @@
+{
+  "name": "Tyed Kant",
+  "wookieepedia_title": "Tyed Kant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tyed_Kant",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tyed Kant was an inhabited gas giant in the Core Worlds, near Demophon. It was the only planet in the Kantel system.",
+  "lead_paragraphs": [
+    "Tyed Kant was an inhabited gas giant in the Core Worlds, near Demophon. It was the only planet in the Kantel system."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Tyed Kant",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "system": "Kantel system",
+    "coordinates": "M-10",
+    "suns": "Kant",
+    "routes": "Commenor Run",
+    "lengthday": "26 standard hours",
+    "lengthyear": "335 local days",
+    "class": "Gas giant",
+    "atmosphere": "Type IV (environment suit required)",
+    "interest": [
+      "Freemarket",
+      "Sprawl 18",
+      "Sprawl 34",
+      "Sprawl 41"
+    ],
+    "fauna": "Iagoin",
+    "otherspecies": "Human",
+    "government": "Private enterprise with Imperial overseer",
+    "population": "12 million",
+    "cities": "Paragon (capital)",
+    "imports": [
+      "Droids",
+      "High technology",
+      "Building materials",
+      "Luxury items"
+    ],
+    "exports": "Foodstuffs",
+    "affiliation": [
+      "Commerce Guild",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tyed Kant",
+    "x": 2181.8,
+    "y": -354.4,
+    "z": 1.2,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

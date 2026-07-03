@@ -1,0 +1,63 @@
+{
+  "name": "Nothoiin",
+  "wookieepedia_title": "Nothoiin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nothoiin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nothoiin was the Nothoiin homeworld, on the Nothoiin Corridor and Nothoiin Route. It was a planet with limited development beyond the ur-diamond mining operations conducted on its crystal moon. In the years leading up to and following the Clone Wars, Nothoiin's affairs were dominated by a crushing fifty-year-long drought leading to rampant, uncontrollable wildfires.",
+  "lead_paragraphs": [
+    "Nothoiin was the Nothoiin homeworld, on the Nothoiin Corridor and Nothoiin Route. It was a planet with limited development beyond the ur-diamond mining operations conducted on its crystal moon. In the years leading up to and following the Clone Wars, Nothoiin's affairs were dominated by a crushing fifty-year-long drought leading to rampant, uncontrollable wildfires."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nothoiin",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector",
+    "system": "Nothoiin system",
+    "coordinates": "K-18",
+    "moons": "A crystalline moon",
+    "routes": [
+      "Nothoiin Corridor",
+      "Nothoiin Route"
+    ],
+    "lengthday": "30 standard hours",
+    "lengthyear": "511 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable for humans)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Burnt-out grasslands",
+    "species": "Nothoiins",
+    "language": "Notho",
+    "government": "Democracy",
+    "population": "1 billion",
+    "imports": "Water",
+    "exports": "Ur-diamonds",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nothoiin",
+      "directory": "Nothoiin (species)",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Nothoiin",
+      "directory": "Nothoiin (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nothoiin",
+    "x": -1128.3,
+    "y": -12646.4,
+    "z": 174.0,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

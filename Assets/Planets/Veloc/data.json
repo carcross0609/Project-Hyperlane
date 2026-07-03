@@ -1,0 +1,36 @@
+{
+  "name": "Veloc",
+  "wookieepedia_title": "Veloc",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Veloc",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Veloc was a planet in the fourth orbit around the star Velm. The first of two gas giants in the Velm system, it was located in the Halori sector in the Trans-Hydian portion of the Mid Rim. Veloc was orbited by thirty-three moons, 281 asteroid moonlets, and a planetary ring.",
+  "lead_paragraphs": [
+    "Veloc was a planet in the fourth orbit around the star Velm. The first of two gas giants in the Velm system, it was located in the Halori sector in the Trans-Hydian portion of the Mid Rim. Veloc was orbited by thirty-three moons, 281 asteroid moonlets, and a planetary ring."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Veloc",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Halori sector",
+    "system": "Velm system",
+    "coordinates": "P-7",
+    "suns": "1: Velm",
+    "position": "4",
+    "moons": "33",
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Veloc",
+    "x": 6956.4,
+    "y": 3482.8,
+    "z": 208.2,
+    "region": "Mid Rim",
+    "grid": "P-7"
+  },
+  "scraped": "2026-07-03"
+}

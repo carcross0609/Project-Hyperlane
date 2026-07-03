@@ -1,0 +1,42 @@
+{
+  "name": "Xantar",
+  "wookieepedia_title": "Xantar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xantar",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Xantar was a planet located within the Xantar system of the Outer Rim Territories' Corva sector.",
+  "lead_paragraphs": [
+    "Xantar was a planet located within the Xantar system of the Outer Rim Territories' Corva sector."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Xantar",
+    "region": "Outer Rim Territories",
+    "sector": "Corva sector",
+    "system": "Xantar system",
+    "coordinates": "P-4",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": "Forests\nSwamps",
+    "water": "Present",
+    "species": "A species",
+    "language": "Basic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Xantar species",
+      "directory": "Unidentified Xantar species",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "Xantar",
+    "x": 6471.2,
+    "y": 8632.1,
+    "z": 80.9,
+    "region": "Outer Rim",
+    "grid": "P-4"
+  },
+  "scraped": "2026-07-03"
+}

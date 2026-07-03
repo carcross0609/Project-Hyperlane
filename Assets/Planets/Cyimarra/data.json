@@ -1,0 +1,51 @@
+{
+  "name": "Cyimarra",
+  "wookieepedia_title": "Cyimarra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cyimarra",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Cyimarra was a terrestrial planet located in the Mid Rim's Senex sector. The homeworld of the the aristocratic House Araba, its surface featured cities interspersed among woodlands and mountains as well as a sea.",
+  "lead_paragraphs": [
+    "Cyimarra was a terrestrial planet located in the Mid Rim's Senex sector. The homeworld of the the aristocratic House Araba, its surface featured cities interspersed among woodlands and mountains as well as a sea.",
+    "Cyimarra was famous for the Crystal Spires, a series of ancient towers of uniform height that were evenly spaced across the planet's surface. By 0 ABY, the planets Corellia and Corulag sent delegations to Cyimarra, and it was speculated that they would present a recreation of the Crystal Spires on the planet Coruscant during the festivities of that year's New Year Fete Week."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Cyimarra",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Cyimarra system",
+    "coordinates": "L-17",
+    "routes": "Senex-Juvex Loop",
+    "class": "Terrestrial",
+    "terrain": [
+      "Icy crags",
+      "Mountains",
+      "Woodlands"
+    ],
+    "water": "Sea",
+    "interest": "Crystal Spires",
+    "affiliation": "House Araba"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Cyimarra",
+    "x": 391.3,
+    "y": -11712.3,
+    "z": 282.1,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

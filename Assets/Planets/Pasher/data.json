@@ -1,0 +1,37 @@
+{
+  "name": "Pasher",
+  "wookieepedia_title": "Pasher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pasher",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pasher was a desert planet located in the Pasher system in the Inner Rim region of the galaxy, in square M-14. Although similar to the planet Tatooine in terms of terrain, Pasher lacked the intersecting hyperspace routes that made the other world a popular smugglers' den. By the time of the Galactic Civil War, the largest industry on Pasher was Kelen Biolabs, which exploited the natural poison and glands of the native sandstone scorpions and spine spiders.",
+  "lead_paragraphs": [
+    "Pasher was a desert planet located in the Pasher system in the Inner Rim region of the galaxy, in square M-14. Although similar to the planet Tatooine in terms of terrain, Pasher lacked the intersecting hyperspace routes that made the other world a popular smugglers' den. By the time of the Galactic Civil War, the largest industry on Pasher was Kelen Biolabs, which exploited the natural poison and glands of the native sandstone scorpions and spine spiders."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pasher",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Pasher system",
+    "coordinates": "M-14",
+    "moons": "None",
+    "terrain": "Desert",
+    "interest": "Kelen Biolabs",
+    "fauna": [
+      "Sandstone scorpion",
+      "Spine spider"
+    ],
+    "otherspecies": "Human"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pasher",
+    "x": 1813.3,
+    "y": -13086.5,
+    "z": -14.3,
+    "region": "Inner Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

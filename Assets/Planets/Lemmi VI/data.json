@@ -1,0 +1,46 @@
+{
+  "name": "Lemmi VI",
+  "wookieepedia_title": "Lemmi VI",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lemmi_VI",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lemmi VI was an Inner Rim planet located in the Hapes Cluster. The rare Millennium blossom grew in jungle there, and immense creatures jumping around the planet's forests caused large numbers of trees to be flattened. At one point during the Galactic Civil War, a group of spacers traveled to Lemmi VI to retrieve a specimen of the Millennium blossom.",
+  "lead_paragraphs": [
+    "Lemmi VI was an Inner Rim planet located in the Hapes Cluster. The rare Millennium blossom grew in jungle there, and immense creatures jumping around the planet's forests caused large numbers of trees to be flattened. At one point during the Galactic Civil War, a group of spacers traveled to Lemmi VI to retrieve a specimen of the Millennium blossom."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Lemmi VI",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": [
+      "Hapes Cluster",
+      "  Interior Region"
+    ],
+    "system": "Lemmi system",
+    "coordinates": "O-9",
+    "position": "6",
+    "class": "Terrestrial",
+    "terrain": "Forests and jungle",
+    "flora": [
+      "Millennium blossom",
+      "Trees"
+    ],
+    "fauna": "A type of jumping creature"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lemmi VI",
+    "x": 5276.1,
+    "y": 776.7,
+    "z": -39.7,
+    "region": "Inner Rim",
+    "grid": "O-9"
+  },
+  "scraped": "2026-07-03"
+}

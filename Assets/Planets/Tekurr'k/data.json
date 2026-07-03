@@ -1,0 +1,38 @@
+{
+  "name": "Tekurr'k",
+  "wookieepedia_title": "Tekurr'k",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tekurr%27k",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tekurr'k was a planet located within the Tekurr'k system of the Mid Rim's Senex sector.",
+  "lead_paragraphs": [
+    "Tekurr'k was a planet located within the Tekurr'k system of the Mid Rim's Senex sector."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Tekurr'k",
+    "region": "Mid Rim",
+    "sector": "Senex sector",
+    "system": "Tekurr'k system",
+    "coordinates": "L-18",
+    "routes": [
+      "Anturi Reach",
+      "Belsavis Run"
+    ],
+    "terrain": "Industry",
+    "affiliation": "House Picutorion"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tekurr'k",
+    "x": 522.8,
+    "y": -12172.0,
+    "z": 51.2,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

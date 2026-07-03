@@ -1,0 +1,131 @@
+{
+  "name": "Aleen",
+  "wookieepedia_title": "Aleen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aleen",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Aleen was a rocky planet located within the Bright Jewel sector of the galaxy's Mid Rim. It was home to the diminutive, terrestrial Aleena species, and the Kindalo, a bioluminescent, tree-like species. At one point in history, the two species clashed and went to war, causing the extinction of most sentient life on Aleen. After that war, however, the two species agreed to live separately and had a seal created to keep the surface-dwelling Aleena apart from the subterranean Kindalo, as well as separate the two atmospheres of the planet.",
+  "lead_paragraphs": [
+    "Aleen was a rocky planet located within the Bright Jewel sector of the galaxy's Mid Rim. It was home to the diminutive, terrestrial Aleena species, and the Kindalo, a bioluminescent, tree-like species. At one point in history, the two species clashed and went to war, causing the extinction of most sentient life on Aleen. After that war, however, the two species agreed to live separately and had a seal created to keep the surface-dwelling Aleena apart from the subterranean Kindalo, as well as separate the two atmospheres of the planet.",
+    "During the Clone Wars, the Galactic Republic arrived to help the Aleena rebuild after a series of devastating groundquakes, during which the droids C-3PO and R2-D2 encountered both sides of the Aleen conflict."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Conflict then peace",
+    "  Rediscovery",
+    "  Attack by the Nihil",
+    "  Clone Wars",
+    "  Imperial rule"
+  ],
+  "data": {
+    "name": "Aleen",
+    "region": "Mid Rim Territories",
+    "sector": "Bright Jewel sector",
+    "system": "Aleen system",
+    "coordinates": "L-7",
+    "suns": "Aleen",
+    "moons": "1: Trohlu",
+    "routes": "Celanon Spur",
+    "lengthday": "31 hours",
+    "lengthyear": "399 days",
+    "class": "Terrestrial",
+    "atmosphere": [
+      "Dual atmosphere",
+      "  Surface: Type I Breathable",
+      "  Underworld: Non-oxygen"
+    ],
+    "climate": "Temperate",
+    "terrain": [
+      "Surface:",
+      "  Rocky mesas and buttes",
+      "  Desert plains",
+      "  Isolated forests",
+      "Underworld:",
+      "  Geological and arboreal root caverns",
+      "  Luminescent vegetation groves"
+    ],
+    "water": "Shallow seas",
+    "interest": [
+      "Aleen Underworld",
+      "Aleen mainframe station",
+      "Aleen Imperial compound",
+      "Aleena village",
+      "Jedi chapter house",
+      "Great Seal"
+    ],
+    "flora": "Arbozoic tree",
+    "fauna": [
+      "Bogwing",
+      "Can-cell",
+      "Firefly",
+      "Sagcatcher"
+    ],
+    "species": [
+      "Aleena",
+      "Kindalo",
+      "Sollux"
+    ],
+    "language": [
+      "Aleena",
+      "Kindalo",
+      "Galactic Basic Standard"
+    ],
+    "government": [
+      "Surface: Monarchy",
+      "Underworld: Anarchical consensus"
+    ],
+    "population": [
+      "At least 18,000,000 (surface)",
+      "  99% Aleena",
+      "  1% other",
+      "Underworld: Unknown"
+    ],
+    "cities": "None",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Republic",
+      "Jedi Order",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Aleena",
+      "directory": "Aleena",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Aleena",
+      "directory": "Aleena (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kindalo",
+      "directory": "Kindalo",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kindalo",
+      "directory": "Kindalo (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Orphne's species",
+      "directory": "Orphne's species (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aleen",
+    "x": 568.8,
+    "y": 3489.3,
+    "z": 61.1,
+    "region": "Mid Rim",
+    "grid": "L-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Ghishi",
+  "wookieepedia_title": "Ghishi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ghishi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ghishi was a planet located in the Ghishi system and was the homeworld of the Ghishi species.",
+  "lead_paragraphs": [
+    "Ghishi was a planet located in the Ghishi system and was the homeworld of the Ghishi species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ghishi",
+    "region": "Mid Rim",
+    "sector": "Daimar sector",
+    "system": "Ghishi system",
+    "coordinates": "Q-16",
+    "species": "Ghishi"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ghishi",
+      "directory": "Ghishi (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ghishi",
+    "x": 3706.2,
+    "y": -9250.3,
+    "z": -126.0,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

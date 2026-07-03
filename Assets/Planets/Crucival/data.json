@@ -1,0 +1,58 @@
+{
+  "name": "Crucival",
+  "wookieepedia_title": "Crucival",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crucival",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Crucival was an Old Tionese colonial backwater planet in the Outer Rim and the homeworld of Hazram Namir. Imperial defector Governor Everi Chalis considered settling there to avoid being found by the Galactic Empire. The world was almost constantly wracked by war between various factions, including the Malkhanis and their successors, the Opaline Creed.",
+  "lead_paragraphs": [
+    "Crucival was an Old Tionese colonial backwater planet in the Outer Rim and the homeworld of Hazram Namir. Imperial defector Governor Everi Chalis considered settling there to avoid being found by the Galactic Empire. The world was almost constantly wracked by war between various factions, including the Malkhanis and their successors, the Opaline Creed."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Wars break out",
+    "  Wars continue",
+    "  War comes from above",
+    "Locations"
+  ],
+  "data": {
+    "name": "Crucival",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tion Hegemony",
+    "system": "Crucival system",
+    "coordinates": "S-6",
+    "class": "Terrestrial",
+    "terrain": [
+      "Grassland",
+      "Mountains"
+    ],
+    "interest": [
+      "A bazaar",
+      "Gulches",
+      "Templemarch",
+      "  Opaline Creed cloister",
+      "A transmitter tower"
+    ],
+    "flora": "Grass",
+    "otherspecies": "Human",
+    "affiliation": [
+      "Malkhanis",
+      "Opaline Creed",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Crucival",
+    "x": 2068.0,
+    "y": -1813.1,
+    "z": 87.5,
+    "region": "Outer Rim",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

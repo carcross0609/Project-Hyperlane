@@ -1,0 +1,35 @@
+{
+  "name": "Fnessal",
+  "wookieepedia_title": "Fnessal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fnessal",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fnessal was a planet located in the Inner Rim's Fnessal system. It was the homeworld of the sentient Fnessian species, including the smuggler Kn'ik Th'ronik.",
+  "lead_paragraphs": [
+    "Fnessal was a planet located in the Inner Rim's Fnessal system. It was the homeworld of the sentient Fnessian species, including the smuggler Kn'ik Th'ronik."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Fnessal",
+    "region": "Inner Rim",
+    "system": "Fnessal system",
+    "coordinates": "K-14",
+    "species": "Fnessian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Fnessian",
+      "directory": "Fnessian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Fnessal",
+    "x": -763.1,
+    "y": -7099.6,
+    "z": -218.2,
+    "region": "Inner Rim",
+    "grid": "K-14"
+  },
+  "scraped": "2026-07-03"
+}

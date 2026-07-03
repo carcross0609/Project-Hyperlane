@@ -1,0 +1,58 @@
+{
+  "name": "Savareen",
+  "wookieepedia_title": "Savareen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Savareen",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Savareen was a planet that was located at one spur of the Kessel Run, in the galaxy's Outer Rim Territories. The planet consisted of sandy landmasses and huge oceans. Savareen was also known for its famous brandy drink. The Crimson Dawn once had a business there and they chopped off the tongues of the natives. The former pirate Queen Maz Kanata marked it as a point of interest on a map she included in the book that would become known as the Smuggler's Guide.",
+  "lead_paragraphs": [
+    "Savareen was a planet that was located at one spur of the Kessel Run, in the galaxy's Outer Rim Territories. The planet consisted of sandy landmasses and huge oceans. Savareen was also known for its famous brandy drink. The Crimson Dawn once had a business there and they chopped off the tongues of the natives. The former pirate Queen Maz Kanata marked it as a point of interest on a map she included in the book that would become known as the Smuggler's Guide."
+  ],
+  "article_sections": [
+    "History",
+    "  Background",
+    "  Dry Gulch job",
+    "  Showdown on Savareen"
+  ],
+  "data": {
+    "name": "Savareen",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Savareen sector",
+    "system": "Savareen system",
+    "coordinates": "Q-16",
+    "routes": "Corellian Run",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Deserts",
+      "Oceans"
+    ],
+    "interest": [
+      "Pnakotic Coast",
+      "Emerald Sea",
+      "Dry Gulch"
+    ],
+    "species": "Human",
+    "socialgroup": "Savarian",
+    "demonym": "Savarian",
+    "exports": "Savareen brandy"
+  },
+  "homeworld_of": [
+    {
+      "name": "Savarian",
+      "directory": "Savarian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Savareen",
+    "x": 8878.2,
+    "y": -10323.9,
+    "z": -249.8,
+    "region": "Outer Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

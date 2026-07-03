@@ -1,0 +1,38 @@
+{
+  "name": "Taul",
+  "wookieepedia_title": "Taul/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Taul/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Taul was a swamp planet in the Gunthar system of the Outer Rim.",
+  "lead_paragraphs": [
+    "Taul was a swamp planet in the Gunthar system of the Outer Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Taul",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Kriz sector",
+    "system": "Gunthar system",
+    "coordinates": "J-18",
+    "atmosphere": "Acidic",
+    "terrain": "Swamps",
+    "interest": "Rebel outpost",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Taul",
+    "x": -1664.2,
+    "y": -13178.7,
+    "z": -158.3,
+    "region": "Outer Rim",
+    "grid": "J-18"
+  },
+  "scraped": "2026-07-03"
+}

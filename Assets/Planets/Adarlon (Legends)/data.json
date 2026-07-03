@@ -1,0 +1,68 @@
+{
+  "name": "Adarlon",
+  "wookieepedia_title": "Adarlon/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adarlon/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Adarlon was a planet in the Minos Cluster. Located on the Rimma Trade Route, it attracted many tourists, and was known for its music, schools, theme parks and holographic entertainment.",
+  "lead_paragraphs": [
+    "Adarlon was a planet in the Minos Cluster. Located on the Rimma Trade Route, it attracted many tourists, and was known for its music, schools, theme parks and holographic entertainment."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Imperial Era",
+    "Society"
+  ],
+  "data": {
+    "name": "Adarlon",
+    "region": "Outer Rim Territories",
+    "sector": "Minos Cluster",
+    "system": "Adarlon system",
+    "coordinates": "M-20",
+    "routes": "Rimma Trade Route",
+    "lengthday": "21 standard hours",
+    "lengthyear": "381 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Mountainous",
+    "interest": [
+      "Adarlon spaceport",
+      "Glow Dome",
+      "Natalar mountain range",
+      "Imperial Consulate (Adarlon)"
+    ],
+    "otherspecies": "Human",
+    "government": "Democracy",
+    "population": "20 million",
+    "demonym": "Adarlonian",
+    "cities": [
+      "Balderdash",
+      "Belrand"
+    ],
+    "imports": [
+      "Drugs",
+      "Food",
+      "Household devices",
+      "Luxury goods",
+      "Raw materials"
+    ],
+    "exports": [
+      "Entertainment acts",
+      "Holos"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Adarlon",
+    "x": 2439.6,
+    "y": -15838.5,
+    "z": -234.8,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

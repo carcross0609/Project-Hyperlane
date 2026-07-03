@@ -1,0 +1,42 @@
+{
+  "name": "Shar'Ack",
+  "wookieepedia_title": "Shar'Ack",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shar%27Ack",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shar'Ack was a planet located in the Shar'Ack system, a part of the Atrivis sector in the New Territories portion of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Shar'Ack was a planet located in the Shar'Ack system, a part of the Atrivis sector in the New Territories portion of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "  Publication information",
+    "  The New Rogues Gallery: Unsung Heroes of the Rebellion",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Shar'Ack",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Atrivis sector",
+    "system": "Shar'Ack system",
+    "coordinates": "L-5"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shaliz'Na",
+      "directory": "Shaliz'Na",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "Shar'Ack",
+    "x": 788.3,
+    "y": 6398.5,
+    "z": -98.7,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

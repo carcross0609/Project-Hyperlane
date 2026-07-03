@@ -1,0 +1,79 @@
+{
+  "name": "Lannik",
+  "wookieepedia_title": "Lannik/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lannik/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lannik was a harsh and isolated world in the Mid Rim, inhabited by stocky humanoids known as Lanniks. Their warlike homeworld integrated into the interstellar civilization relatively late, which caused it to suffer from chronic technological backwardness. The limited share of developments that did reach Lannik either provoked the rise of criminal groups or offered the local noble houses and clans a new way to advance their personal interests. The uncontrolled circulation of technology and the Lanniks’ unwillingness to negotiate condemned an already turbulent world to yet another cycle of wars, unrest, and uncertainty. This perpetual state of struggle, lasting for thousands of years, gave rise to a culture of fierce but honorable warriors among the Lanniks.",
+  "lead_paragraphs": [
+    "Lannik was a harsh and isolated world in the Mid Rim, inhabited by stocky humanoids known as Lanniks. Their warlike homeworld integrated into the interstellar civilization relatively late, which caused it to suffer from chronic technological backwardness. The limited share of developments that did reach Lannik either provoked the rise of criminal groups or offered the local noble houses and clans a new way to advance their personal interests. The uncontrolled circulation of technology and the Lanniks’ unwillingness to negotiate condemned an already turbulent world to yet another cycle of wars, unrest, and uncertainty. This perpetual state of struggle, lasting for thousands of years, gave rise to a culture of fierce but honorable warriors among the Lanniks."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Lannik",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Lannik Space",
+    "system": "Lannik system",
+    "coordinates": "R-13",
+    "routes": [
+      "Bothan Run",
+      "Askar Trace"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Rocky Inhospitable deserts (at the equator)",
+      "Mountainous highlands and deeply forests (at the poles)"
+    ],
+    "interest": "Palesia",
+    "flora": "Vast forests",
+    "fauna": [
+      "Ferocious predators",
+      "Ridden beasts",
+      "Flejj Beast"
+    ],
+    "species": "Lanniks",
+    "otherspecies": "Unimportant number of visitors",
+    "language": "Toffar",
+    "government": "A hierarchical system of vassalage with a hereditary prince at its head and with the assistance of the High Court",
+    "population": "500 million-1 billion (25ABY)",
+    "cities": "Numerous",
+    "imports": "Advanced technologies",
+    "affiliation": [
+      "Rivalled clans and houses",
+      "Galactic Republic (factually Independent)",
+      "Exar Kun's Sith Empire (briefly)",
+      "Galactic Empire (indirectly)",
+      "New Republic",
+      "Yuuzhan Vong empire (occupation)",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lannik",
+      "directory": "Lannik (species)",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Lannik",
+      "directory": "Lannik (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lannik",
+    "x": 9155.6,
+    "y": -4957.7,
+    "z": 177.2,
+    "region": "Mid Rim",
+    "grid": "R-13"
+  },
+  "scraped": "2026-07-03"
+}

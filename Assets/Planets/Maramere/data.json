@@ -1,0 +1,69 @@
+{
+  "name": "Maramere",
+  "wookieepedia_title": "Maramere",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maramere",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Maramere was a planet located in the Outer Rim Territories. It was the homeworld of the sentient Mere species. The planet fell under the domination of Lord Toat of the Trade Federation, which used it as a repository of stygium crystals from Aeten II.",
+  "lead_paragraphs": [
+    "Maramere was a planet located in the Outer Rim Territories. It was the homeworld of the sentient Mere species. The planet fell under the domination of Lord Toat of the Trade Federation, which used it as a repository of stygium crystals from Aeten II."
+  ],
+  "article_sections": [
+    "History",
+    "  Pre–Clone Wars",
+    "  Clone Wars"
+  ],
+  "data": {
+    "name": "Maramere",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Karthakk sector",
+    "system": "Karthakk system",
+    "coordinates": "Q-17",
+    "suns": "1: Karthakk",
+    "terrain": [
+      "Oceans",
+      "Mountains"
+    ],
+    "interest": [
+      "Mount Merakan",
+      "Invisible Island",
+      "Haunted Straits",
+      "Silver Cloud"
+    ],
+    "species": [
+      "Mere",
+      "Relix"
+    ],
+    "otherspecies": [
+      "Many, including:",
+      "  Neimoidians",
+      "  Twi'leks",
+      "  Mon Calamari"
+    ],
+    "population": "900 million",
+    "cities": "Point Modie (capital)",
+    "affiliation": [
+      "Trade Federation",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mere",
+      "directory": "Mere",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Maramere",
+    "x": 4969.3,
+    "y": -11898.5,
+    "z": 142.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

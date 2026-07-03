@@ -1,0 +1,64 @@
+{
+  "name": "Kaller",
+  "wookieepedia_title": "Kaller",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kaller",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kaller was a terrestrial planet with a complex climate located in the Kaller system of the galaxy's Outer Rim Territories. It was the homeworld of the Kallerans.",
+  "lead_paragraphs": [
+    "Kaller was a terrestrial planet with a complex climate located in the Kaller system of the galaxy's Outer Rim Territories. It was the homeworld of the Kallerans."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Age of the Republic",
+    "  End of the Clone Wars",
+    "  Age of the Empire",
+    "  Continuity"
+  ],
+  "data": {
+    "name": "Kaller",
+    "region": "Outer Rim Territories",
+    "sector": "Cassander sector",
+    "system": "Kaller system",
+    "coordinates": "K-5",
+    "suns": "2",
+    "moons": "At least 3",
+    "routes": "Braxant Run",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Mountains"
+    ],
+    "interest": "Kaller capital",
+    "flora": "Kallnut tree",
+    "species": "Kalleran",
+    "language": "Kall",
+    "cities": "Plateau City",
+    "exports": [
+      "Rare minerals",
+      "Kallnut hardwood"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems (during occupation)",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kalleran",
+      "directory": "Kalleran",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Kaller",
+    "x": 11313.0,
+    "y": 7919.1,
+    "z": 662.0,
+    "region": "Outer Rim",
+    "grid": "S-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Maya Kovel",
+  "wookieepedia_title": "Maya Kovel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maya_Kovel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Maya Kovel was a windswept Outer Rim Territories desert planet located in the Moddell sector. It was the homeworld of the sentient Ayrou species, which had already developed spaceflight technology prior to its first contact with the Galactic Republic by 50 BBY. The Ayrou went on to have a significant presence throughout the larger Zuma sector's Inner and Outer Zuma regions, including control over the Vashan-worked mines on the planet Vasha.",
+  "lead_paragraphs": [
+    "Maya Kovel was a windswept Outer Rim Territories desert planet located in the Moddell sector. It was the homeworld of the sentient Ayrou species, which had already developed spaceflight technology prior to its first contact with the Galactic Republic by 50 BBY. The Ayrou went on to have a significant presence throughout the larger Zuma sector's Inner and Outer Zuma regions, including control over the Vashan-worked mines on the planet Vasha.",
+    "Following the first contact with the Republic, the Ayrou on Maya Kovel underwent a religious upheaval that saw them discard the treasure accumulated under the tenets of their previous religious tradition. Some of those riches were loaded aboard freighters and shot into Maya Kovel's sun, while the exact location of one other such treasure vault was hidden on a chalcedony idol known as the Ayrou Tessent—at some point spirited offworld, it was eventually discovered on Vasha by 3 ABY. During the reign of both the New Republic and the Galactic Alliance, Ayrou senators represented Maya Kovel and the rest of the Moddell sector in the legislative bodies of those governments."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  First contact",
+    "  Into the wider galaxy",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Maya Kovel",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Zuma sector",
+      "  Inner Zuma Region",
+      "    Moddell subsector"
+    ],
+    "system": [
+      "Inner Moddell systems",
+      "  Maya Kovel system"
+    ],
+    "coordinates": "H-16",
+    "suns": "1",
+    "moons": "1",
+    "routes": "Annaj-Houche Run",
+    "lengthday": "29 standard hours",
+    "lengthyear": "463 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": [
+      "Stormy",
+      "Temperate"
+    ],
+    "gravity": "90% standard",
+    "terrain": [
+      "Desert",
+      "Rift valleys"
+    ],
+    "interest": "Spaceports",
+    "fauna": "Birdlike species",
+    "otherlife": "Lichen",
+    "species": "Ayrou",
+    "otherspecies": [
+      "Humans",
+      "Vashans"
+    ],
+    "language": "Ayrou",
+    "government": "Clans",
+    "population": "300,275,000",
+    "imports": "Technology",
+    "exports": [
+      "Foodstuffs",
+      "Seeds"
+    ],
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ayrou",
+      "directory": "Ayrou (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Maya Kovel",
+    "x": -4840.7,
+    "y": -10225.6,
+    "z": -225.2,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

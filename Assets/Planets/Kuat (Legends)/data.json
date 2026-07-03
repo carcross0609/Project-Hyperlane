@@ -1,0 +1,100 @@
+{
+  "name": "Kuat",
+  "wookieepedia_title": "Kuat/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kuat/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kuat was a planet located in the Core Worlds and one of the earliest members of the Galactic Republic. It was best known as the home of Kuat Drive Yards. These famous shipyards, used to build ships for both the Galactic Republic and later the Galactic Empire, circled the planet for thousands of kilometers.",
+  "lead_paragraphs": [
+    "Kuat was a planet located in the Core Worlds and one of the earliest members of the Galactic Republic. It was best known as the home of Kuat Drive Yards. These famous shipyards, used to build ships for both the Galactic Republic and later the Galactic Empire, circled the planet for thousands of kilometers."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Galactic Republic",
+    "  Clone Wars",
+    "  Imperial Period",
+    "  New Republic and beyond",
+    "Locations",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Kuat",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "sector": "Kuat sector",
+    "system": "Kuat system",
+    "coordinates": "M-10",
+    "suns": "1: Kuat",
+    "position": "4",
+    "moons": [
+      "2:",
+      "Bador",
+      "Ronay"
+    ],
+    "lengthday": "20 standard hours",
+    "lengthyear": "322 local days",
+    "class": "Terrestrial",
+    "diameter": "10,000 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Plains",
+      "Forests"
+    ],
+    "interest": [
+      "Gardens of Tralala",
+      "Nebula Orchid",
+      "Tekshar Falls"
+    ],
+    "fauna": "Drebin",
+    "otherspecies": "Humans",
+    "language": [
+      "Basic",
+      "Kuat"
+    ],
+    "government": "Aristocracy",
+    "population": [
+      "3.6 billion:",
+      "  80% Human",
+      "  20% other"
+    ],
+    "demonym": "Kuati",
+    "cities": "Kuat City",
+    "imports": [
+      "Electronics",
+      "Machinery",
+      "Raw materials"
+    ],
+    "exports": [
+      "Alcohol",
+      "Art",
+      "Food",
+      "Luxury goods",
+      "Starships"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances",
+      "Fel Empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kuat",
+    "x": 2790.0,
+    "y": -896.6,
+    "z": 29.8,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

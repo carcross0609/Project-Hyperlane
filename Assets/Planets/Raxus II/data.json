@@ -1,0 +1,47 @@
+{
+  "name": "Raxus II",
+  "wookieepedia_title": "Raxus II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raxus_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Raxus II, or Raxus Two, was a planet located within the Raxus system, a part of the Tion Hegemony's Back Spiral in the Tion Cluster. It was situated within the historical Greater Tion region, in the Slice portion of the Outer Rim Territories. Raxus II lay on the hyperlane known as the Tion Trade Route, which connected it to the Endregaad and Tion systems.",
+  "lead_paragraphs": [
+    "Raxus II, or Raxus Two, was a planet located within the Raxus system, a part of the Tion Hegemony's Back Spiral in the Tion Cluster. It was situated within the historical Greater Tion region, in the Slice portion of the Outer Rim Territories. Raxus II lay on the hyperlane known as the Tion Trade Route, which connected it to the Endregaad and Tion systems.",
+    "Raxus II was the second planet orbiting the star Raxus. It was a frozen world covered with ice.",
+    "During the Cold War, recent studies of relics suggested that Raxus II was once inhabited by the ancient Tionese Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Raxus II",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Tion",
+      "    Tion Cluster",
+      "The Slice"
+    ],
+    "sector": [
+      "Tion Hegemony",
+      "  Back Spiral"
+    ],
+    "system": "Raxus system",
+    "coordinates": "S-5",
+    "suns": "1: Raxus",
+    "position": "2",
+    "moons": "0",
+    "routes": "Tion Trade Route",
+    "class": "Terrestrial",
+    "climate": "Cold",
+    "terrain": "Ice",
+    "affiliation": "Tionese Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Raxus II",
+    "x": 11832.2,
+    "y": 7039.8,
+    "z": -38.9,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

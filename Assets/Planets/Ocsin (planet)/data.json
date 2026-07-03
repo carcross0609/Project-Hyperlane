@@ -1,0 +1,40 @@
+{
+  "name": "Ocsin",
+  "wookieepedia_title": "Ocsin (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ocsin_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ocsin was a stormy and gloomy world located in the Ocsin system, a part of the Outer Rim Territories' Corporate Sector. It was situated at the intersection of the hyperlanes known as the Authority Guardian Corridor and the Tertiary Etti Route, which connected it to the Fether and Kamar systems and the Farana and Gaurick systems, respectively. Ocsin was a colony of the sentient Ocsin species.",
+  "lead_paragraphs": [
+    "Ocsin was a stormy and gloomy world located in the Ocsin system, a part of the Outer Rim Territories' Corporate Sector. It was situated at the intersection of the hyperlanes known as the Authority Guardian Corridor and the Tertiary Etti Route, which connected it to the Fether and Kamar systems and the Farana and Gaurick systems, respectively. Ocsin was a colony of the sentient Ocsin species.",
+    "A few years prior to the Battle of Yavin, Ocsin—by then a part of the Farana region—accepted annexation by the Corporate Sector Authority. The Ocsin were to provide the Authority with Wild Space navigational data that their scouts had compiled; however, while afterward CSA infochants frequently visited the world in order to obtain information on trade routes, the Authority never provided Ocsin with the technological help that it had promised in return."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ocsin",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Farana",
+      "Corporate Sector"
+    ],
+    "system": "Ocsin system",
+    "coordinates": "S-3",
+    "routes": [
+      "Authority Guardian Corridor",
+      "Tertiary Etti Route"
+    ],
+    "climate": "Stormy",
+    "otherspecies": "Ocsin",
+    "affiliation": "Corporate Sector Authority"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ocsin",
+    "x": 11365.9,
+    "y": 9047.8,
+    "z": 241.0,
+    "region": "Outer Rim",
+    "grid": "S-3"
+  },
+  "scraped": "2026-07-03"
+}

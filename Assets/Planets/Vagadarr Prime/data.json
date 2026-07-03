@@ -1,0 +1,59 @@
+{
+  "name": "Vagadarr Prime",
+  "wookieepedia_title": "Vagadarr Prime",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vagadarr_Prime",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vagadarr Prime was a planet located in the Vagadarr system of the Inner Rim Territories. It was the homeworld to a race of giants of living stone. Its terrain included deserts, forests, and mountains.",
+  "lead_paragraphs": [
+    "Vagadarr Prime was a planet located in the Vagadarr system of the Inner Rim Territories. It was the homeworld to a race of giants of living stone. Its terrain included deserts, forests, and mountains."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vagadarr Prime",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Vagadarr system",
+    "coordinates": "K-14",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Deserts",
+      "Forests",
+      "Mountains"
+    ],
+    "interest": [
+      "Blue mountains",
+      "  Great Mountain",
+      "  Old Ones' caves",
+      "  Shadow of the mountain",
+      "Mud Fields",
+      "  Mucktown"
+    ],
+    "flora": "Tree",
+    "fauna": [
+      "Bird",
+      "Lizard",
+      "Mudbug",
+      "Mud frog"
+    ],
+    "species": "Giants of living stone",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Ancient Ones",
+      "Old Ones",
+      "Mud dwellers",
+      "Rockhawkers"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Giants of living stone",
+      "directory": "Giants of living stone",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Dargulli",
+  "wookieepedia_title": "Dargulli/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dargulli/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dargulli was a planet in the Kether system in the Inner Rim.",
+  "lead_paragraphs": [
+    "Dargulli was a planet in the Kether system in the Inner Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Dargulli",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Kether system",
+    "coordinates": "N-14",
+    "moons": "At least two",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "otherspecies": [
+      "Humans",
+      "Other species"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dargulli",
+    "x": 3090.7,
+    "y": -6629.5,
+    "z": -148.6,
+    "region": "Inner Rim",
+    "grid": "N-14"
+  },
+  "scraped": "2026-07-03"
+}

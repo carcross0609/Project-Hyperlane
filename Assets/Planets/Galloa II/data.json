@@ -1,0 +1,29 @@
+{
+  "name": "Galloa II",
+  "wookieepedia_title": "Galloa II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galloa_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Galloa II was the homeworld of the nonhuman Wind Dancers.",
+  "lead_paragraphs": [
+    "Galloa II was the homeworld of the nonhuman Wind Dancers."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Galloa II",
+    "region": "Outer Rim Territories",
+    "sector": "D'Astan sector",
+    "system": "Galloa system",
+    "coordinates": "O-5",
+    "species": "Wind Dancers"
+  },
+  "homeworld_of": [
+    {
+      "name": "Wind Dancer",
+      "directory": "Wind Dancer",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

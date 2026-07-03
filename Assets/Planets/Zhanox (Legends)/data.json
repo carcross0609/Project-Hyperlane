@@ -1,0 +1,52 @@
+{
+  "name": "Zhanox",
+  "wookieepedia_title": "Zhanox/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zhanox/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zhanox was an Outer Rim Territories mining world located in the Anoat sector. Its surface was covered by stony spires, between which were rubble-strewn valleys. The mines of Zhanox were overseen by Ugnaughts, while Human colonists inhabited the world's valleys. The Bespin Wing Guard member Alec Mard hailed from Zhanox.",
+  "lead_paragraphs": [
+    "Zhanox was an Outer Rim Territories mining world located in the Anoat sector. Its surface was covered by stony spires, between which were rubble-strewn valleys. The mines of Zhanox were overseen by Ugnaughts, while Human colonists inhabited the world's valleys. The Bespin Wing Guard member Alec Mard hailed from Zhanox."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Zhanox",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches",
+      "  Greater Javin"
+    ],
+    "sector": [
+      "Javin sector (prior to c. 400 BBY)",
+      "Anoat sector (c. 400 BBY—)"
+    ],
+    "system": "Zhanox system",
+    "coordinates": "K-18",
+    "routes": "Corellian Trade Spine",
+    "class": "Terrestrial",
+    "terrain": [
+      "Rubble-strewn valleys",
+      "Stony spires"
+    ],
+    "interest": "Mines",
+    "otherspecies": [
+      "Humans",
+      "Ugnaughts"
+    ],
+    "demonym": "Zhanoxi"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Zhanox",
+    "x": -1337.4,
+    "y": -12808.6,
+    "z": -201.5,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

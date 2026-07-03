@@ -1,0 +1,37 @@
+{
+  "name": "Daminia",
+  "wookieepedia_title": "Daminia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Daminia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Daminia was a desert world located in the Daminia system, a part of the Perkell sector in the Trans-Hydian portion of the Mid Rim. The damind lightsaber crystals could be found there.",
+  "lead_paragraphs": [
+    "Daminia was a desert world located in the Daminia system, a part of the Perkell sector in the Trans-Hydian portion of the Mid Rim. The damind lightsaber crystals could be found there.",
+    "By 3959 BBY, Daminia was a part of the \"civilized galaxy,\" the territory that had been widely explored by the Galactic Republic. At some point, ancient Sith Lords harvested on Daminia the damind crystals, which could be found in the galaxy by 3956 BBY. During the Jedi Civil War of 3959 BBY–3956 BBY, Daminia fell within the territory controlled by the empire founded by the Dark Lord of the Sith Darth Revan."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Daminia",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Perkell sector",
+    "system": "Daminia system",
+    "coordinates": "Q-7",
+    "class": "Terrestrial",
+    "terrain": "Desert",
+    "exports": "Damind crystals",
+    "affiliation": "Darth Revan's Sith Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Daminia",
+    "x": 8490.8,
+    "y": 4022.5,
+    "z": -114.9,
+    "region": "Mid Rim",
+    "grid": "Q-7"
+  },
+  "scraped": "2026-07-03"
+}

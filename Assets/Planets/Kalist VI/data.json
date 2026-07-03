@@ -1,0 +1,43 @@
+{
+  "name": "Kalist VI",
+  "wookieepedia_title": "Kalist VI",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalist_VI",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kalist VI, also known simply as Kalist, was a barren rocky planet located in the Kalist system of the Deep Core. It was the homeworld of rebel pilot Dak Ralter, who joined Rogue Squadron of the Rebel Alliance. During the Imperial Era, Kalist VI housed a high-surveillance Galactic Empire penal colony.",
+  "lead_paragraphs": [
+    "Kalist VI, also known simply as Kalist, was a barren rocky planet located in the Kalist system of the Deep Core. It was the homeworld of rebel pilot Dak Ralter, who joined Rogue Squadron of the Rebel Alliance. During the Imperial Era, Kalist VI housed a high-surveillance Galactic Empire penal colony."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kalist VI",
+    "region": [
+      "The Interior",
+      "  Deep Core"
+    ],
+    "sector": "None",
+    "system": "Kalist system",
+    "coordinates": "K-12",
+    "class": "Terrestrial",
+    "terrain": "Rocky",
+    "interest": [
+      "Kalist VI Imperial penal colony",
+      "Scargon region"
+    ],
+    "otherspecies": "Humans",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kalist VI",
+    "x": -204.6,
+    "y": -3034.8,
+    "z": 134.1,
+    "region": "Deep Core",
+    "grid": "K-12"
+  },
+  "scraped": "2026-07-03"
+}

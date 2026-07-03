@@ -1,0 +1,48 @@
+{
+  "name": "Ketaris",
+  "wookieepedia_title": "Ketaris/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ketaris/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ketaris was a planet in the Outer Rim which boasted the University of Ketaris. A major trade center, it had a few large continents surrounded by great oceans.",
+  "lead_paragraphs": [
+    "Ketaris was a planet in the Outer Rim which boasted the University of Ketaris. A major trade center, it had a few large continents surrounded by great oceans."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ketaris",
+    "region": "Outer Rim Territories",
+    "sector": "Oplovis sector",
+    "system": "Ketaris system",
+    "coordinates": "L-5",
+    "routes": "Braxant Run",
+    "class": "Terrestrial",
+    "terrain": "Oceans",
+    "interest": "University of Ketaris",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Admiral Gaen Drommel",
+      "New Republic",
+      "Imperial Remnant",
+      "Yuuzhan Vong empire",
+      "Fel Empire",
+      "Empire-in-exile"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ketaris",
+    "x": 1452.5,
+    "y": 6123.7,
+    "z": 247.3,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

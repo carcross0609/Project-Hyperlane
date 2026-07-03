@@ -1,0 +1,37 @@
+{
+  "name": "Tililix",
+  "wookieepedia_title": "Tililix",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tililix",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tililix was a planet in the Til system of the Unknown Regions which orbited the star Til. It was the Tarro homeworld before it was destroyed when Til went supernova.",
+  "lead_paragraphs": [
+    "Tililix was a planet in the Til system of the Unknown Regions which orbited the star Til. It was the Tarro homeworld before it was destroyed when Til went supernova."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tililix",
+    "region": "Unknown Regions",
+    "system": "Til system",
+    "coordinates": "N/A",
+    "suns": "1: Til",
+    "species": "Tarro",
+    "language": "Tarrese"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tarro",
+      "directory": "Tarro",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tililix",
+    "x": -8960.4,
+    "y": 2476.0,
+    "z": -122.7,
+    "region": "Unknown Regions",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

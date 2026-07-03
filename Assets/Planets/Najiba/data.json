@@ -1,0 +1,40 @@
+{
+  "name": "Najiba",
+  "wookieepedia_title": "Najiba",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Najiba",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Najiba was a planet located in the Najiba system of the Arkanis sector in the Outer Rim Territories. It was the homeworld of Corovene Manakor, a Troglof who worked for the InterGalactic Banking Clan. During the Imperial Era, the planet was occupied by the Galactic Empire, and Manakor participated in a heist on Scipio in an attempt to secure funds to help liberate it.",
+  "lead_paragraphs": [
+    "Najiba was a planet located in the Najiba system of the Arkanis sector in the Outer Rim Territories. It was the homeworld of Corovene Manakor, a Troglof who worked for the InterGalactic Banking Clan. During the Imperial Era, the planet was occupied by the Galactic Empire, and Manakor participated in a heist on Scipio in an attempt to secure funds to help liberate it."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Najiba",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Arkanis sector",
+    "system": "Najiba system",
+    "coordinates": "R-17",
+    "otherspecies": "Troglof",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Najib",
+      "directory": "Najib",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Najiba",
+    "x": 9427.7,
+    "y": -10571.6,
+    "z": -371.7,
+    "region": "Outer Rim",
+    "grid": "R-17"
+  },
+  "scraped": "2026-07-03"
+}

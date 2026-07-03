@@ -1,0 +1,77 @@
+{
+  "name": "Zygerria",
+  "wookieepedia_title": "Zygerria/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zygerria/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zygerria was the homeworld of the near-Human Zygerrian species.",
+  "lead_paragraphs": [
+    "Zygerria was the homeworld of the near-Human Zygerrian species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Zygerria",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Chorlian sector",
+    "system": "Zygerria system",
+    "coordinates": "S-4",
+    "suns": "1",
+    "moons": "1",
+    "routes": [
+      "Listehol Run",
+      "Shaltin Tunnels"
+    ],
+    "terrain": [
+      "Plains",
+      "Mesas",
+      "Highlands"
+    ],
+    "interest": [
+      "East Province",
+      "Drukarg highlands",
+      "Zygerrian Royal Palace"
+    ],
+    "fauna": [
+      "Bogwing",
+      "Brezak"
+    ],
+    "species": "Zygerrians",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Queen of Zygerria",
+    "population": "100 million to 500 million (c.25 ABY)",
+    "exports": "Slaves",
+    "affiliation": [
+      "Infinite Empire",
+      "Zygerrian Slave Empire",
+      "Zygerrian Slavers Guild",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Zygerrian",
+      "directory": "Zygerrian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Zygerrian",
+      "directory": "Zygerrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zygerria",
+    "x": 10594.8,
+    "y": 8213.8,
+    "z": 326.3,
+    "region": "Outer Rim",
+    "grid": "S-4"
+  },
+  "scraped": "2026-07-03"
+}

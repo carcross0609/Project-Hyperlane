@@ -1,0 +1,46 @@
+{
+  "name": "Mijos",
+  "wookieepedia_title": "Mijos/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mijos/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mijos was a swampy world in the Anoat sector of the Outer Rim Territories and a stopover point for travel between the planets Lutrillia and Gerrenthum on the Lutrillian Cross hyperlane. A number of Lutrillian-run spaceports could be found on Mijos, but poor structural planning had caused many of these settlements to sink into the planet's muck.",
+  "lead_paragraphs": [
+    "Mijos was a swampy world in the Anoat sector of the Outer Rim Territories and a stopover point for travel between the planets Lutrillia and Gerrenthum on the Lutrillian Cross hyperlane. A number of Lutrillian-run spaceports could be found on Mijos, but poor structural planning had caused many of these settlements to sink into the planet's muck."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Mijos",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Greater Javin",
+      "  Anoat sector"
+    ],
+    "system": "Mijos system",
+    "coordinates": "K-18",
+    "routes": [
+      "Lutrillian Cross",
+      "\"The Loop\""
+    ],
+    "class": "Terrestrial",
+    "terrain": "Swamps",
+    "otherspecies": "Lutrillians"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Mijos",
+    "x": -1449.6,
+    "y": -12523.5,
+    "z": 220.9,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

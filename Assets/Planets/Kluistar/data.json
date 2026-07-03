@@ -1,0 +1,38 @@
+{
+  "name": "Kluistar",
+  "wookieepedia_title": "Kluistar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kluistar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kluistar was a planet on the border of the Colonies region, and was considered a comfortable if undistinguished world.",
+  "lead_paragraphs": [
+    "Kluistar was a planet on the border of the Colonies region, and was considered a comfortable if undistinguished world."
+  ],
+  "article_sections": [
+    "Geography"
+  ],
+  "data": {
+    "name": "Kluistar",
+    "region": [
+      "Colonies",
+      "Northern Dependencies"
+    ],
+    "system": "Kluistar system",
+    "coordinates": "M-8",
+    "terrain": [
+      "Wilderness",
+      "Woodland"
+    ],
+    "interest": "Ace of Sabres"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kluistar",
+    "x": 1569.5,
+    "y": 1636.5,
+    "z": -34.3,
+    "region": "Colonies",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

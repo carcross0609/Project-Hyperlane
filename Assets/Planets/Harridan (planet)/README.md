@@ -1,0 +1,27 @@
+# Harridan
+
+**Continuity:** Unknown  
+**Source:** [Harridan (planet)](https://starwars.fandom.com/wiki/Harridan_%28planet%29)
+
+Harridan was a planet located on the fringe of Imperial space, and was originally used as a prison colony in the past. Even after it was fully colonized, it still continued to draw in the rogue elements as well as the Rebels of the galaxy. These groups managed to build up a society where laws were kept to a bare minimum, and cunning and daring were two of the most admired qualities to be found. The planet itself was one of wild, rocky hills, dim forests, and tempestuous seas. Though the planet was primarily inhabited by Humans, there was also a healthy mix of alien species, some almost never seen in other parts of the galaxy. The planets cities tended to be haphazardly laid collections of buildings made from anything from wood to stone to plastisteel and formex, the capital being called Spaceport City. Almost all the business on the planet was conducted by small, intensely independent firms, many of which operated on the very edge of Harridan's few laws. The population in all cities were extremely high, a fact which was notable through how much traffic could be seen in the streets as they were almost always full of traffic around-the-clock. Weapons could often be seen in public, but as was the case with the rest of the galaxy, using such weapons unthinkingly or carrying larger weapons and heavy body armor in public places was still likely to draw unwelcome attention to yourself. Harridan's rather large police force were more than willing to dispense their own brand of justice in the streets.
+
+## Planetary data
+
+- **Name:** Harridan
+- **Region:** Outer Rim Territories
+- **Sector:** Dantus sector
+- **System:** Harridan system
+- **Coordinates:** J-6
+- **Interest:**
+  - Lullaby Motel
+  - Museum of Flight
+  - Nelson Boulevard
+  - The Boneman's Rest
+- **Otherspecies:**
+  - Humans
+  - Various others
+- **Cities:** Spaceport City (capital)
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

@@ -1,0 +1,54 @@
+{
+  "name": "Formos",
+  "wookieepedia_title": "Formos/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Formos/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Formos, originally known as Xoloch, was a planet in the Kessel sector.",
+  "lead_paragraphs": [
+    "Formos, originally known as Xoloch, was a planet in the Kessel sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Formos",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Formos system",
+    "coordinates": "T-10",
+    "routes": [
+      "Kessel Run",
+      "Pabol Sleheyron",
+      "Triellus Trade Route"
+    ],
+    "interest": [
+      "Secter 3",
+      "Zord's Atmosphere Baths"
+    ],
+    "species": "Many species",
+    "cities": "Formos Spaceport",
+    "affiliation": [
+      "Xim's Empire",
+      "Hutt Cartel",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Formos",
+    "x": 13404.8,
+    "y": -379.4,
+    "z": 91.7,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

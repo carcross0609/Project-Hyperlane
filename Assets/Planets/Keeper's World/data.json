@@ -1,0 +1,54 @@
+{
+  "name": "Keeper's World",
+  "wookieepedia_title": "Keeper's World",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Keeper%27s_World",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Keeper's World, located in the Outer Rim Territories, was the homeworld of The Keeper. It used to be inhabited by the Keeper's makers until they fled the planet during an ancient war.",
+  "lead_paragraphs": [
+    "Keeper's World, located in the Outer Rim Territories, was the homeworld of The Keeper. It used to be inhabited by the Keeper's makers until they fled the planet during an ancient war."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Keeper's World",
+    "region": "Outer Rim Territories",
+    "sector": "Sprizen sector",
+    "system": "Keeper's World system",
+    "coordinates": "O-5",
+    "terrain": [
+      "Forests",
+      "Jungle",
+      "Mountains",
+      "Plains",
+      "Underground caverns"
+    ],
+    "water": [
+      "Rivers/Coastline"
+    ],
+    "interest": "Keeper's Temple",
+    "fauna": "Unidentified creature",
+    "species": "Keeper's makers",
+    "population": "None (modern)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Keeper's makers",
+      "directory": "Keeper's makers",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Keeper's World",
+    "x": 4784.7,
+    "y": 7249.7,
+    "z": 230.7,
+    "region": "Outer Rim",
+    "grid": "O-5"
+  },
+  "scraped": "2026-07-03"
+}

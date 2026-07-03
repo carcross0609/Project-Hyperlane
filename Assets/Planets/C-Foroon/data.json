@@ -1,0 +1,46 @@
+{
+  "name": "C-Foroon",
+  "wookieepedia_title": "C-Foroon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/C-Foroon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "C-Foroon was a planet in the Arkanis sector of the Outer Rim.",
+  "lead_paragraphs": [
+    "C-Foroon was a planet in the Arkanis sector of the Outer Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "C-Foroon",
+    "region": "Outer Rim Territories",
+    "sector": "Arkanis sector",
+    "system": "C-Foroon system",
+    "coordinates": "R-16",
+    "routes": "Triellus Trade Route",
+    "class": "Terrestrial",
+    "otherspecies": [
+      "Hutts",
+      "Humans"
+    ],
+    "language": "Galactic Basic Standard",
+    "exports": "Spice",
+    "affiliation": [
+      "Hutt Cartel",
+      "Besadii kajidic",
+      "Gardulla the Elder's criminal empire",
+      "Jabba Desilijic Tiure's criminal empire",
+      "Desilijic kajidic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "C-Foroon",
+    "x": 9883.6,
+    "y": -9802.3,
+    "z": -312.2,
+    "region": "Outer Rim",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

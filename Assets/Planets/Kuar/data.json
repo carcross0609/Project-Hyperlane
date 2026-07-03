@@ -1,0 +1,42 @@
+{
+  "name": "Kuar",
+  "wookieepedia_title": "Kuar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kuar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kuar was a Deep Core world of flat, rocky, dusty plains.",
+  "lead_paragraphs": [
+    "Kuar was a Deep Core world of flat, rocky, dusty plains."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kuar",
+    "region": "Deep Core",
+    "system": "Kuar system",
+    "coordinates": "K-10",
+    "suns": "1",
+    "position": "5",
+    "atmosphere": "Breathable",
+    "terrain": "Rocky plains",
+    "interest": "Plains of Harkul",
+    "fauna": "Combat arachnids",
+    "species": "Kuarans",
+    "affiliation": [
+      "Galactic Republic",
+      "Mandalorian Crusaders"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kuar",
+    "x": -28.5,
+    "y": -678.5,
+    "z": -27.4,
+    "region": "Deep Core",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

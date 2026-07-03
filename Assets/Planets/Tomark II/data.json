@@ -1,0 +1,43 @@
+{
+  "name": "Tomark II",
+  "wookieepedia_title": "Tomark II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tomark_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tomark II, also known as Tomark, was a Mid Rim world located in the Ividal sector. During the Galactic Civil War, it was the site of the Rebel Alliance starfighter base known as Chiron Base, from which attacks on Galactic Empire convoys were carried out.",
+  "lead_paragraphs": [
+    "Tomark II, also known as Tomark, was a Mid Rim world located in the Ividal sector. During the Galactic Civil War, it was the site of the Rebel Alliance starfighter base known as Chiron Base, from which attacks on Galactic Empire convoys were carried out.",
+    "By 0 BBY, the Empire considered Tomark one of its priority targets for its Death Star superweapon. At some point during the conflict, Captain Amarith dispatched a team of Rebel agents on a mission that took them from Tomark II to the planet Ando."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  A Rebel base",
+    "  Departing on a mission"
+  ],
+  "data": {
+    "name": "Tomark II",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Ividal sector",
+    "system": "Tomark system",
+    "coordinates": "Q-14",
+    "position": "2",
+    "class": "Terrestrial",
+    "interest": "Chiron Base",
+    "otherspecies": "Humans",
+    "affiliation": "Rebel Alliance"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tomark II",
+    "x": 8438.8,
+    "y": -7336.6,
+    "z": -405.9,
+    "region": "Mid Rim",
+    "grid": "Q-14"
+  },
+  "scraped": "2026-07-03"
+}

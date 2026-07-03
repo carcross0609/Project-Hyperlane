@@ -1,0 +1,43 @@
+{
+  "name": "Pastoria",
+  "wookieepedia_title": "Pastoria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pastoria",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pastoria was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Pastorians. By 232 BBY, a technician from the planet served aboard the High Republic cruiser Castellan before it crashed on the moon Toshara. After being assigned a mission to gather the Resistance's allies, Black Squadron traveled to Pastoria in the hopes that their king, Siroc, would join the Resistance in their struggle against the First Order. Whilst on Pastoria, Black Squadron was tricked into helping Siroc kill the closest rival to his throne so that when the First Order arrived on the planet, they could negotiate with him rather than his rival, who would try to resist and end up getting the Pastorians killed.",
+  "lead_paragraphs": [
+    "Pastoria was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Pastorians. By 232 BBY, a technician from the planet served aboard the High Republic cruiser Castellan before it crashed on the moon Toshara. After being assigned a mission to gather the Resistance's allies, Black Squadron traveled to Pastoria in the hopes that their king, Siroc, would join the Resistance in their struggle against the First Order. Whilst on Pastoria, Black Squadron was tricked into helping Siroc kill the closest rival to his throne so that when the First Order arrived on the planet, they could negotiate with him rather than his rival, who would try to resist and end up getting the Pastorians killed."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pastoria",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Juris sector",
+    "system": "Pastoria system",
+    "coordinates": "P-17",
+    "routes": "Five Veils Route",
+    "atmosphere": "Breathable",
+    "climate": "Terrestrial",
+    "species": "Pastorian",
+    "government": "Monarchy"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pastorian",
+      "directory": "Pastorian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Pastoria",
+    "x": 11722.4,
+    "y": 5425.3,
+    "z": 149.9,
+    "region": "Outer Rim",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

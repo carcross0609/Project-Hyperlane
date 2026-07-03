@@ -1,0 +1,59 @@
+{
+  "name": "Pergitor",
+  "wookieepedia_title": "Pergitor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pergitor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pergitor was a planet in the Minos Cluster settled by Jesa Corporation miners.",
+  "lead_paragraphs": [
+    "Pergitor was a planet in the Minos Cluster settled by Jesa Corporation miners."
+  ],
+  "article_sections": [
+    "Description",
+    "  Before the disaster",
+    "  After the disaster",
+    "Society",
+    "  Before the disaster",
+    "  After the disaster",
+    "  Imperial Era",
+    "  The Church of Infinite Perception"
+  ],
+  "data": {
+    "name": "Pergitor",
+    "region": "Outer Rim Territories",
+    "sector": "Minos Cluster",
+    "system": "Pergitor system",
+    "coordinates": "M-20",
+    "routes": "Trition Trade Route",
+    "lengthday": "34 standard hours",
+    "lengthyear": "291 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type III (breath mask required)",
+    "climate": "Cool",
+    "gravity": "Standard",
+    "terrain": [
+      "Volcanoes",
+      "Ash deserts",
+      "Rainforests (formerly)"
+    ],
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Authoritarian theocracy",
+    "population": "2 billion",
+    "imports": [
+      "Smuggled luxury items",
+      "Machinery"
+    ],
+    "exports": "Minerals"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pergitor",
+    "x": 2450.1,
+    "y": -16254.0,
+    "z": 307.5,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

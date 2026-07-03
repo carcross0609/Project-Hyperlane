@@ -1,0 +1,38 @@
+{
+  "name": "Kalzeron",
+  "wookieepedia_title": "Kalzeron",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalzeron",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kalzeron was a planet with a feudal civilization. It was the homeworld of the Kalzerian people.",
+  "lead_paragraphs": [
+    "Kalzeron was a planet with a feudal civilization. It was the homeworld of the Kalzerian people."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kalzeron",
+    "region": "Outer Rim Territories",
+    "sector": "Bri'ahl sector",
+    "system": "Kalzeron system",
+    "coordinates": "I-17",
+    "interest": "Kost province",
+    "species": "Kalzerians",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kalzerian",
+      "directory": "Kalzerian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kalzeron",
+    "x": -3383.1,
+    "y": -11487.7,
+    "z": 287.9,
+    "region": "Outer Rim",
+    "grid": "I-17"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Benja-Rihn",
+  "wookieepedia_title": "Benja-Rihn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Benja-Rihn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Benja-Rihn was a planet in the Mid Rim. In its Temple of Tet-Ami was the Orb of Passage. At some point, Mace Windu traveled back in time using the Orb and saved Carthas from insectoids.",
+  "lead_paragraphs": [
+    "Benja-Rihn was a planet in the Mid Rim. In its Temple of Tet-Ami was the Orb of Passage. At some point, Mace Windu traveled back in time using the Orb and saved Carthas from insectoids."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Benja-Rihn",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Sevastol sector",
+    "system": "Benja-Rihn system",
+    "coordinates": "Q-14",
+    "terrain": "Deserts",
+    "species": "Carthasian",
+    "cities": "Carthas (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Carthasian",
+      "directory": "Carthasian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Benja-Rihn",
+    "x": 8562.3,
+    "y": -7120.4,
+    "z": -136.7,
+    "region": "Other",
+    "grid": "Q-14"
+  },
+  "scraped": "2026-07-03"
+}

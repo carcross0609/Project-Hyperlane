@@ -1,0 +1,40 @@
+{
+  "name": "Vagar Praxut",
+  "wookieepedia_title": "Vagar Praxut",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vagar_Praxut",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vagar Praxut was a remote planet located within the Vagar Praxut system. It lay in the Kharmort's Miasma nebula, a part of the galaxy's Unknown Regions. Vagar Praxut was the homeworld of the sentient Vagaari species.",
+  "lead_paragraphs": [
+    "Vagar Praxut was a remote planet located within the Vagar Praxut system. It lay in the Kharmort's Miasma nebula, a part of the galaxy's Unknown Regions. Vagar Praxut was the homeworld of the sentient Vagaari species.",
+    "Around the year 30,000 BBY, the inhabitants of Vagar Praxut became enslaved by the Infinite Empire of the sentient Rakata, who altered the ecosystem of the planet. As the Vagaari adopted a nomadic lifestyle in space no later than four decades before the Battle of Yavin, Vagar Praxut eventually became almost entirely deserted."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vagar Praxut",
+    "region": [
+      "Unknown Regions",
+      "  Kharmort's Miasma"
+    ],
+    "system": "Vagar Praxut system",
+    "coordinates": "H-9",
+    "species": "Vagaari",
+    "affiliation": "Infinite Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vagaari",
+      "directory": "Vagaari (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vagar Praxut",
+    "x": -5650.8,
+    "y": 2408.5,
+    "z": 122.3,
+    "region": "Unknown Regions",
+    "grid": "H-8"
+  },
+  "scraped": "2026-07-03"
+}

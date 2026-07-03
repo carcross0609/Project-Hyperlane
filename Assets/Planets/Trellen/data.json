@@ -1,0 +1,44 @@
+{
+  "name": "Trellen",
+  "wookieepedia_title": "Trellen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trellen",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Trellen was a world situated in the Core Worlds, at the junction of the Hydian Way and Trellen Trade Route hyperlanes. A part of the Galactic Republic since at least 17,000 BBY, millennia later, Trellen served as a Galactic Empire fortress world as well as a stronghold of the New Republic. In 10 ABY, Imperial forces attacked Trellen as part of their emergence from the Deep Core.",
+  "lead_paragraphs": [
+    "Trellen was a world situated in the Core Worlds, at the junction of the Hydian Way and Trellen Trade Route hyperlanes. A part of the Galactic Republic since at least 17,000 BBY, millennia later, Trellen served as a Galactic Empire fortress world as well as a stronghold of the New Republic. In 10 ABY, Imperial forces attacked Trellen as part of their emergence from the Deep Core."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Trellen",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "system": "Trellen system",
+    "coordinates": "M-10",
+    "routes": [
+      "Hydian Way",
+      "Trellen Trade Route"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Trellen",
+    "x": 2464.4,
+    "y": -1506.9,
+    "z": -23.0,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

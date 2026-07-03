@@ -1,0 +1,62 @@
+{
+  "name": "Genassa",
+  "wookieepedia_title": "Genassa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Genassa/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Genassa was a Mid Rim agriworld located in the M'shinni sector. It was the homeworld of the sentient M'shinn species, which evolved from a humanoid precursor species that had entered a symbiotic relationship with a local plant species. The M'shinni eventually colonized Genassa's moon and the rest of the Genassa system before going on to develop hyperdrive and settle worlds in other star systems at some point by 3966 BBY. By the time of the Clone Wars millennia later, Genassa had become a member world of the Galactic Republic, and it subsequently became incorporated into the territories of the Galactic Empire and the New Republic.",
+  "lead_paragraphs": [
+    "Genassa was a Mid Rim agriworld located in the M'shinni sector. It was the homeworld of the sentient M'shinn species, which evolved from a humanoid precursor species that had entered a symbiotic relationship with a local plant species. The M'shinni eventually colonized Genassa's moon and the rest of the Genassa system before going on to develop hyperdrive and settle worlds in other star systems at some point by 3966 BBY. By the time of the Clone Wars millennia later, Genassa had become a member world of the Galactic Republic, and it subsequently became incorporated into the territories of the Galactic Empire and the New Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Joining the Republic",
+    "  Empire and beyond",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Genassa",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "M'shinni sector",
+    "system": "Genassa system",
+    "coordinates": "M-7",
+    "moons": "A moon",
+    "class": "Terrestrial",
+    "interest": "Orbital biospheres",
+    "flora": "A plant species",
+    "fauna": "A humanoid precursor species",
+    "species": "M'shinn",
+    "government": "Council of the Wise",
+    "population": "1 billion–10 billion (Genassa system) (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "M'shinn",
+      "directory": "M'shinn",
+      "continuity": "Legends"
+    },
+    {
+      "name": "M'shinn precursor species",
+      "directory": "M'shinn precursor species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Genassa",
+    "x": 1677.5,
+    "y": 4439.1,
+    "z": -74.4,
+    "region": "Mid Rim",
+    "grid": "M-7"
+  },
+  "scraped": "2026-07-03"
+}

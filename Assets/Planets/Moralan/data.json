@@ -1,0 +1,50 @@
+{
+  "name": "Moralan",
+  "wookieepedia_title": "Moralan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moralan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Moralan was a Hutt Space planet that was home to the Moralans, a slave species of the Hutt Empire. During the conflict between the Hutts and the Tionese conqueror Xim twenty-five millennia before the Battle of Yavin, the forces of the latter entered the Moralan system.",
+  "lead_paragraphs": [
+    "Moralan was a Hutt Space planet that was home to the Moralans, a slave species of the Hutt Empire. During the conflict between the Hutts and the Tionese conqueror Xim twenty-five millennia before the Battle of Yavin, the forces of the latter entered the Moralan system.",
+    "When the Tionese later withdrew from the system, they encouraged the Moralan to launch a successful rebellion against the Hutts, and a republic governed by the Parliament of Moralan was established. In response, however, Hutt forces led by Boonta Hestilic Shad'ruu defeated the Moralan, after which the planet was sterilized."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Moralan",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "system": "Moralan system",
+    "coordinates": "T-10",
+    "flora": "None (sterilized)",
+    "fauna": "None (sterilized)",
+    "species": "Moralan (extinct)",
+    "government": "Parliament of Moralan",
+    "population": "None (sterilized)",
+    "affiliation": [
+      "Hutt Empire",
+      "Moralan republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Moralan",
+      "directory": "Moralan (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Moralan",
+    "x": 12497.1,
+    "y": -1039.2,
+    "z": 274.6,
+    "region": "Hutt Space",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

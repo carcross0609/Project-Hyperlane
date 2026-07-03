@@ -1,0 +1,41 @@
+{
+  "name": "Majoor",
+  "wookieepedia_title": "Majoor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Majoor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Majoor was the homeworld of a native sentient species. It was located in the Expansion Region.",
+  "lead_paragraphs": [
+    "Majoor was the homeworld of a native sentient species. It was located in the Expansion Region."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Majoor",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Majoor sector",
+    "system": "Majoor system",
+    "coordinates": "N-15",
+    "routes": "Hydian Way",
+    "interest": "Majoor penitentiary",
+    "species": "A species"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Majoor species",
+      "directory": "Unidentified Majoor species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Majoor",
+    "x": 3451.5,
+    "y": -8137.6,
+    "z": 29.0,
+    "region": "Expansion Region",
+    "grid": "N-15"
+  },
+  "scraped": "2026-07-03"
+}

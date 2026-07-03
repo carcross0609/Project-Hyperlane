@@ -1,0 +1,30 @@
+{
+  "name": "Koorivar homeworld",
+  "wookieepedia_title": "Koorivar homeworld/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Koorivar_homeworld/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "This planet was located in the galaxy. It was the original homeworld of the Koorivar. Thousands of years before the Battle of Naboo, they (who were at the time known by another name) migrated from their homeworld, with its unstable star, to the more habitable planet of Kooriva.",
+  "lead_paragraphs": [
+    "This planet was located in the galaxy. It was the original homeworld of the Koorivar. Thousands of years before the Battle of Naboo, they (who were at the time known by another name) migrated from their homeworld, with its unstable star, to the more habitable planet of Kooriva."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Koorivar homeworld",
+    "species": "Koorivar"
+  },
+  "homeworld_of": [
+    {
+      "name": "Koorivar",
+      "directory": "Koorivar",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Koorivar",
+      "directory": "Koorivar (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Eshan",
+  "wookieepedia_title": "Eshan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eshan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Eshan was an Inner Rim world that was the homeworld of the Echani species. It was a member of the Six Sisters, a group of worlds governed by the Echani Command confederation. During the Mandalorian Wars, the Echani fought against the Mandalorian Neo-Crusaders, who threatened Eshan. In 1154 BBY, the celestial body Begali launched a rebellion against the Six Sisters; however, it eventually renewed ties with Eshan.",
+  "lead_paragraphs": [
+    "Eshan was an Inner Rim world that was the homeworld of the Echani species. It was a member of the Six Sisters, a group of worlds governed by the Echani Command confederation. During the Mandalorian Wars, the Echani fought against the Mandalorian Neo-Crusaders, who threatened Eshan. In 1154 BBY, the celestial body Begali launched a rebellion against the Six Sisters; however, it eventually renewed ties with Eshan."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Eshan",
+    "region": "Inner Rim",
+    "system": "Eshan system",
+    "coordinates": "N-8",
+    "class": "Terrestrial",
+    "species": "Echani"
+  },
+  "homeworld_of": [
+    {
+      "name": "Echani",
+      "directory": "Echani (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Eshan",
+    "x": 3565.0,
+    "y": 2637.8,
+    "z": 3.7,
+    "region": "Inner Rim",
+    "grid": "N-8"
+  },
+  "scraped": "2026-07-03"
+}

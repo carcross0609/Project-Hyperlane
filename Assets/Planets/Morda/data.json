@@ -1,0 +1,32 @@
+{
+  "name": "Morda",
+  "wookieepedia_title": "Morda",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Morda",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Morda was a planet and the homeworld of the Morling species. Its land surfaces were covered by dense and dark forests. The light from the distant, orange star of the system couldn't always pierce the thick clouds.",
+  "lead_paragraphs": [
+    "Morda was a planet and the homeworld of the Morling species. Its land surfaces were covered by dense and dark forests. The light from the distant, orange star of the system couldn't always pierce the thick clouds.",
+    "Since its discovery, Morda became a recurrent problem for the Galactic Empire, which launched unsuccessful pacification missions against the Morlings."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Morda",
+    "atmosphere": "Breathable",
+    "climate": "Low temperatures",
+    "terrain": [
+      "Dense forests",
+      "Seas"
+    ],
+    "species": "Morling"
+  },
+  "homeworld_of": [
+    {
+      "name": "Morling",
+      "directory": "Morling",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

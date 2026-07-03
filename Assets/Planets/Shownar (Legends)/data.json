@@ -1,0 +1,50 @@
+{
+  "name": "Shownar",
+  "wookieepedia_title": "Shownar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shownar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shownar was a paradise planet near the Torch Nebula. At night, the planet was illuminated by the nebula. Wind blowing through the vertag crystals created the Shownar Lullaby. It was an Imperial planet, though de facto ruled by the crime lord Oro Freatt.",
+  "lead_paragraphs": [
+    "Shownar was a paradise planet near the Torch Nebula. At night, the planet was illuminated by the nebula. Wind blowing through the vertag crystals created the Shownar Lullaby. It was an Imperial planet, though de facto ruled by the crime lord Oro Freatt."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Shownar",
+    "region": "Outer Rim Territories",
+    "sector": "Parmic sector",
+    "system": "Shownar system",
+    "coordinates": "P-19",
+    "lengthday": "25 standard hours",
+    "lengthyear": "370 local days",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Crystal spire formations",
+    "species": "Shownarri (near-Human)",
+    "otherspecies": [
+      "Humans",
+      "Others"
+    ],
+    "government": "Private ownership with organized crime leanings",
+    "population": "3 billion",
+    "imports": [
+      "High technology",
+      "Luxury goods",
+      "Tourism"
+    ],
+    "exports": "Souvenirs",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shownarri",
+      "directory": "Shownarri",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

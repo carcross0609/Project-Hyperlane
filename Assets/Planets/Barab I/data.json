@@ -1,0 +1,45 @@
+{
+  "name": "Barab I",
+  "wookieepedia_title": "Barab I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barab_I",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Barab I, also known simply as Barab, was an irradiated planet in the Barab system in the Albanin sector of the Outer Rim Territories. It was located along the Triellus Trade Route between Teth and Dubrava, in grid square U-12 on the Standard Galactic Grid and was the homeworld of the Barabel species.",
+  "lead_paragraphs": [
+    "Barab I, also known simply as Barab, was an irradiated planet in the Barab system in the Albanin sector of the Outer Rim Territories. It was located along the Triellus Trade Route between Teth and Dubrava, in grid square U-12 on the Standard Galactic Grid and was the homeworld of the Barabel species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Barab I",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Albanin sector",
+    "system": "Barab system",
+    "coordinates": "U-12",
+    "routes": "Triellus Trade Route",
+    "species": "Barabel"
+  },
+  "homeworld_of": [
+    {
+      "name": "Barabel",
+      "directory": "Barabel",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Barabel",
+      "directory": "Barabel (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Barab I",
+    "x": 13571.6,
+    "y": -4437.8,
+    "z": 507.3,
+    "region": "Outer Rim",
+    "grid": "U-12"
+  },
+  "scraped": "2026-07-03"
+}

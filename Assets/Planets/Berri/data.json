@@ -1,0 +1,46 @@
+{
+  "name": "Berri",
+  "wookieepedia_title": "Berri",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Berri",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Berri was a planet in the Inner Rim. It was a hot, smog-shrouded world with high gravity and a dense atmosphere. It was the homeworld of the Berrite species, which evolved to become master foragers due to its few natural food sources. There was a lack of galactic trade with Berri, and its inhabitants cultivated a heavy, hand-crafted industry that harnessed power from natural geothermic energies.",
+  "lead_paragraphs": [
+    "Berri was a planet in the Inner Rim. It was a hot, smog-shrouded world with high gravity and a dense atmosphere. It was the homeworld of the Berrite species, which evolved to become master foragers due to its few natural food sources. There was a lack of galactic trade with Berri, and its inhabitants cultivated a heavy, hand-crafted industry that harnessed power from natural geothermic energies."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Berri",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Berri system",
+    "coordinates": "N-9",
+    "climate": "Hot",
+    "gravity": "High",
+    "flora": "Edible tubers",
+    "species": "Berrite",
+    "language": "Berrite language",
+    "government": "None (anarchy)",
+    "demonym": "Berrite",
+    "exports": "Berrite geo-tech",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Berrite",
+      "directory": "Berrite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Berri",
+    "x": 3365.4,
+    "y": 995.0,
+    "z": 125.2,
+    "region": "Inner Rim",
+    "grid": "N-9"
+  },
+  "scraped": "2026-07-03"
+}

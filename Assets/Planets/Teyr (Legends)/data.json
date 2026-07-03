@@ -1,0 +1,61 @@
+{
+  "name": "Teyr",
+  "wookieepedia_title": "Teyr/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Teyr/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Teyr was a bureaucratic and tourism planet located in the Surric system of the Colonies.",
+  "lead_paragraphs": [
+    "Teyr was a bureaucratic and tourism planet located in the Surric system of the Colonies."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Teyr",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "system": "Surric system",
+    "coordinates": "L-13",
+    "routes": "Shipwrights' Trace",
+    "class": "Terrestrial",
+    "terrain": [
+      "Canyons",
+      "Farmlands"
+    ],
+    "interest": [
+      "Greenbelt",
+      "Noga River",
+      "Teyr Rift"
+    ],
+    "fauna": "Mesa groat",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "demonym": "Teyrite",
+    "cities": [
+      "Griann",
+      "Pyre Folas",
+      "Sodonna",
+      "Turos Noth"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Teyr",
+    "x": 1269.1,
+    "y": -5714.4,
+    "z": -25.7,
+    "region": "Colonies",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

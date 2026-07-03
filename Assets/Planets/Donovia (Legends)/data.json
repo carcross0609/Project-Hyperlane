@@ -1,0 +1,39 @@
+{
+  "name": "Donovia",
+  "wookieepedia_title": "Donovia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Donovia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Donovia was a planet located in the Donovia system, a part of the Hali sector in the Slice portion of the Expansion Region. It featured rugged terrain and rainy seasons.",
+  "lead_paragraphs": [
+    "Donovia was a planet located in the Donovia system, a part of the Hali sector in the Slice portion of the Expansion Region. It featured rugged terrain and rainy seasons.",
+    "During the final decades of the Galactic Republic's existence, the technicians known as rainmen, which included Human members, extensively mined many valuable materials on Donovia, in the process servicing signal towers there. The rainmen wore distinctive rain hoods, which allowed them to effectively carry out close work in extremely wet conditions. By 22 BBY, several Donovian rainmen had traveled offworld. Two years later, Donovia remained undecided on its affiliation to either of the opposing factions of the Clone Wars, the Galactic Republic and the Confederacy of Independent Systems."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Donovia",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Hali sector",
+    "system": "Donovia system",
+    "coordinates": "O-9",
+    "class": "Terrestrial",
+    "climate": "Seasonally rainy",
+    "terrain": "Rugged",
+    "interest": "Service towers",
+    "otherspecies": "Humans",
+    "demonym": "Donovian"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Donovia",
+    "x": 5912.5,
+    "y": 1489.1,
+    "z": -252.2,
+    "region": "Expansion Region",
+    "grid": "O-9"
+  },
+  "scraped": "2026-07-03"
+}

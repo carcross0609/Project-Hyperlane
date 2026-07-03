@@ -1,0 +1,45 @@
+{
+  "name": "Chad",
+  "wookieepedia_title": "Chad",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chad",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Chad was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the sentient Chadra-Fan species. A blue dressing known as Chadian dressing was from this world.",
+  "lead_paragraphs": [
+    "Chad was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the sentient Chadra-Fan species. A blue dressing known as Chadian dressing was from this world."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Chad",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Jospro sector",
+    "system": "Chad system",
+    "coordinates": "R-7",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "water": "Present",
+    "interest": "Kisma Uttersond's house",
+    "flora": "Trees",
+    "species": "Chadra-Fan",
+    "demonym": "Chadian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chadra-Fan",
+      "directory": "Chadra-Fan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Chad",
+    "x": 10065.1,
+    "y": 3958.7,
+    "z": 408.3,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,152 @@
+{
+  "name": "Jakku",
+  "wookieepedia_title": "Jakku",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jakku",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Jakku was a remote desert planet located in the Jakku system in the the galaxy's Inner Rim and was the homeworld of the Teedo and Uthuthma species. Though considered by many within the galaxy to be distant and relatively worthless, Jakku was the site of important events that would shape galactic history. In 5 ABY, Jakku was the site of the pivotal Battle of Jakku, which ended the Galactic Civil War in favor of the New Republic and the collapse of the Galactic Empire.",
+  "lead_paragraphs": [
+    "Jakku was a remote desert planet located in the Jakku system in the the galaxy's Inner Rim and was the homeworld of the Teedo and Uthuthma species. Though considered by many within the galaxy to be distant and relatively worthless, Jakku was the site of important events that would shape galactic history. In 5 ABY, Jakku was the site of the pivotal Battle of Jakku, which ended the Galactic Civil War in favor of the New Republic and the collapse of the Galactic Empire.",
+    "A generation later, the planet was the home of the scavenger Rey, who became involved in the events of the Cold War after helping the former First Order stormtrooper Finn and the astromech droid BB-8 escape offworld with a map leading to the missing Jedi Luke Skywalker.",
+    "By 35 ABY, Jakku had been placed under the direct control of the First Order, though its populace would later rebel against them following the Battle of Exegol."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The Contingency",
+    "  Galactic Civil War",
+    "    Rax's return",
+    "    Battle of Jakku",
+    "  Rise of the First Order",
+    "Inhabitants",
+    "Interactive Map",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Jakku",
+    "region": [
+      "Inner Rim",
+      "Western Reaches"
+    ],
+    "sector": "Jakku's sector",
+    "system": "Jakku system",
+    "coordinates": "I-13",
+    "suns": "1",
+    "position": "First from the sun",
+    "moons": "2",
+    "routes": "Burke's Trailing",
+    "lengthday": "26.8 standard hours",
+    "lengthyear": "315 local days (352 standard days)",
+    "diameter": "6,400 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid; hot days with cold nights",
+    "terrain": [
+      "Modern:",
+      "  Deserts",
+      "Historic:",
+      "  Forests",
+      "  Seas"
+    ],
+    "interest": [
+      "Carbon Ridge",
+      "Caverns of Bagirlak Garu",
+      "Fallen Teeth",
+      "Feressee's Point",
+      "Goazon Badlands",
+      "Kelvin Ridge",
+      "Namenthe's Crater",
+      "Old Meru's",
+      "Orkoon Hub",
+      "Pilgrim's Road",
+      "Graveyard of Giants",
+      "Valley of the Eremite",
+      "Yiulong Canyons"
+    ],
+    "flora": "Tuanulberry bush",
+    "fauna": [
+      "Bloggin",
+      "Cricket",
+      "Gnaw-jaw",
+      "Happabore",
+      "Luggabeast",
+      "Nightwatcher worm",
+      "Pole-snake",
+      "Ripper-raptor",
+      "Skittermice",
+      "Sneep",
+      "Steelpecker",
+      "Thissermount",
+      "Vworkka"
+    ],
+    "otherlife": "Lichen",
+    "species": [
+      "Teedo",
+      "Uthuthma"
+    ],
+    "otherspecies": [
+      "Abednedo",
+      "Crolute",
+      "Human",
+      "Hutt",
+      "Kyuzo",
+      "Melitto",
+      "Nu-Cosian",
+      "Dybrinthe"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Hideo",
+      "Teedospeak",
+      "Uthuthma"
+    ],
+    "population": "Unknown (Less than 25,000)",
+    "demonym": "Jakkuvian",
+    "cities": [
+      "Blowback Town",
+      "Cratertown",
+      "Niima Outpost",
+      "Reestkii",
+      "Tuanul (one of the Sacred Villages)"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Luxury goods",
+      "Technology",
+      "Water"
+    ],
+    "exports": [
+      "Bezorite",
+      "Junk metal",
+      "Kesium gas",
+      "Magnite",
+      "Osmiridium",
+      "Salvaged tech",
+      "Silicon"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Teedo",
+      "directory": "Teedo",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Uthuthma",
+      "directory": "Uthuthma",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Jakku",
+    "x": -4132.7,
+    "y": -4751.3,
+    "z": -233.9,
+    "region": "Inner Rim",
+    "grid": "I-13"
+  },
+  "scraped": "2026-07-03"
+}

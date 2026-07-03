@@ -1,0 +1,36 @@
+{
+  "name": "Mephitis",
+  "wookieepedia_title": "Mephitis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mephitis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mephitis was the Mephitisian homeworld. The indigenous people had no sense of smell. Offworlders found the entire planet's atmosphere to have a foul stench.",
+  "lead_paragraphs": [
+    "Mephitis was the Mephitisian homeworld. The indigenous people had no sense of smell. Offworlders found the entire planet's atmosphere to have a foul stench."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Mephitis",
+    "region": "Colonies",
+    "system": "Mephitis system",
+    "coordinates": "J-13",
+    "species": "Mephitisian",
+    "demonym": "Mephitisian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Mephitisian",
+      "directory": "Mephitisian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mephitis",
+    "x": -61.4,
+    "y": -5976.5,
+    "z": -209.1,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

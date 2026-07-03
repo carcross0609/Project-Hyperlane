@@ -1,0 +1,44 @@
+{
+  "name": "Gumbus",
+  "wookieepedia_title": "Gumbus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gumbus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gumbus was the fifth and largest planet in the Brentaal system. It was a gas giant orbited by sixteen moons.",
+  "lead_paragraphs": [
+    "Gumbus was the fifth and largest planet in the Brentaal system. It was a gas giant orbited by sixteen moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gumbus",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "sector": "Bormea sector",
+    "system": "Brentaal system",
+    "coordinates": "L-9",
+    "suns": "1: Brenta",
+    "position": "5",
+    "moons": "16",
+    "routes": [
+      "Commenor Run",
+      "Hydian Way",
+      "  Brentaal–Denon Route",
+      "  Corsin Run",
+      "Perlemian Trade Route"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Gumbus",
+    "x": 208.7,
+    "y": -4298.8,
+    "z": -129.2,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

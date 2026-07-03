@@ -1,0 +1,43 @@
+{
+  "name": "Danalbeth",
+  "wookieepedia_title": "Danalbeth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Danalbeth",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Danalbeth was a water world located in the Danalbeth system, a part of the Teraab sector in the Slice portion of the Mid Rim. It was postulated by some scientists that Danalbeth was the homeworld of the Graygl, a species of aquatic sentients.",
+  "lead_paragraphs": [
+    "Danalbeth was a water world located in the Danalbeth system, a part of the Teraab sector in the Slice portion of the Mid Rim. It was postulated by some scientists that Danalbeth was the homeworld of the Graygl, a species of aquatic sentients.",
+    "At some point five millennia before the Galactic Civil War, a series of cataclysms occurred on several water worlds throughout the galaxy, including the homeworld of the Graygl. The catastrophes left the native inhabitants helpless until a group of spacefaring benefactors arrived and helped relocate the species of the affected worlds to the Mid Rim planet Iskalon, where the latter eventually formed the Iskalonian cultural group.",
+    "At some point during the reign of the New Republic, the Shi'ido anthropologist Doctor Hoole was studying the ruins of the Iskalonian homeworlds to determine the nature of the cataclysms that occurred there and the identity of the Iskalonian benefactors."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Danalbeth",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Teraab sector",
+    "system": "Danalbeth system",
+    "coordinates": "P-11",
+    "class": "Terrestrial water world",
+    "terrain": "Water",
+    "species": "Graygl"
+  },
+  "homeworld_of": [
+    {
+      "name": "Graygl",
+      "directory": "Graygl",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Danalbeth",
+    "x": 7383.0,
+    "y": -1882.9,
+    "z": 120.2,
+    "region": "Mid Rim",
+    "grid": "P-11"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Champala",
+  "wookieepedia_title": "Champala",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Champala",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Champala was a world in the Champala system in the Inner Rim. Located on the Hydian Way, it was home to the Chagrian species, including Mas Amedda, Vice Chancellor of the Galactic Republic and later Grand Vizier of the Galactic Empire. A popular pastime on Champala was fishing, but, according to Amedda, by the Clone Wars its oceans were \"not what they once were.\" Nevertheless, the human architect Orson Callan Krennic used such as an analogy to explain his plans for scientist Galen Walton Erso to Amedda. The world had its own embassy on Coruscant.",
+  "lead_paragraphs": [
+    "Champala was a world in the Champala system in the Inner Rim. Located on the Hydian Way, it was home to the Chagrian species, including Mas Amedda, Vice Chancellor of the Galactic Republic and later Grand Vizier of the Galactic Empire. A popular pastime on Champala was fishing, but, according to Amedda, by the Clone Wars its oceans were \"not what they once were.\" Nevertheless, the human architect Orson Callan Krennic used such as an analogy to explain his plans for scientist Galen Walton Erso to Amedda. The world had its own embassy on Coruscant.",
+    "During the Clone Wars, Champala hosted a base for the Confederacy of Independent Systems. It was later occupied by the Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Champala",
+    "region": [
+      "Inner Rim Territories",
+      "The Interior"
+    ],
+    "sector": "None",
+    "system": "Champala system",
+    "coordinates": "L-8",
+    "routes": "Hydian Way",
+    "terrain": "Seas",
+    "interest": "Separatist base",
+    "species": "Chagrian",
+    "demonym": "Champalan",
+    "cities": "Tidros (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chagrian",
+      "directory": "Chagrian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Chagrian",
+      "directory": "Chagrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Champala",
+    "x": 1070.6,
+    "y": 1939.6,
+    "z": 129.1,
+    "region": "Inner Rim",
+    "grid": "L-8"
+  },
+  "scraped": "2026-07-03"
+}

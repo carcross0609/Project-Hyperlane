@@ -1,0 +1,42 @@
+{
+  "name": "Korfin",
+  "wookieepedia_title": "Korfin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Korfin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Korfin was a planet in the Feriae system in the Thesme sector.",
+  "lead_paragraphs": [
+    "Korfin was a planet in the Feriae system in the Thesme sector."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Korfin",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Thesme sector",
+    "system": "Feriae system",
+    "coordinates": "O-5",
+    "suns": "1: Feriae",
+    "position": "1",
+    "moons": "0",
+    "routes": [
+      "Hydian Way",
+      "Junction-Tierell Loop",
+      "Thesme Trace"
+    ],
+    "class": "Barren"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Korfin",
+    "x": 13386.0,
+    "y": 5096.4,
+    "z": 423.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

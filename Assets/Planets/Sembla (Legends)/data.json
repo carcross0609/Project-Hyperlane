@@ -1,0 +1,85 @@
+{
+  "name": "Sembla",
+  "wookieepedia_title": "Sembla/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sembla/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sembla was an Outer Rim Territories planet located in the Sertar sector. An isolated world, it featured warm oceans and shallow seas as well as archipelagos of volcanic islands. It was the homeworld of the nomadic, low-technology reptomammal species known as the Vurks, and it also hosted ancient underwater ruins thought to be of non-Vurk origin.",
+  "lead_paragraphs": [
+    "Sembla was an Outer Rim Territories planet located in the Sertar sector. An isolated world, it featured warm oceans and shallow seas as well as archipelagos of volcanic islands. It was the homeworld of the nomadic, low-technology reptomammal species known as the Vurks, and it also hosted ancient underwater ruins thought to be of non-Vurk origin.",
+    "Sembla was a part of the empire of the Tionese conqueror Xim, with the Tionese enslaving the Vurks. Millennia later, during the then-ongoing struggle between the Galactic Republic and the reconstituted Sith Empire, one of the opposing factions convinced the Vurks of Sembla to let it harvest the planet's rare corals and crystals in exchange for gifting the natives simple tools and textiles. Sembla remained outside the borders of the Republic during the Clone Wars and escaped galactic attention afterward, with neither the New Republic nor the Galactic Alliance extending to it membership invitations."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  On the Republic's periphery",
+    "  End of the Republic",
+    "Inhabitants",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Sembla",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Sertar sector",
+      "  Mahrusha sector"
+    ],
+    "system": "Sembla system",
+    "coordinates": "S-5",
+    "moons": "4",
+    "lengthday": "32 standard hours",
+    "lengthyear": "274 local days",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Rocky volcanic archipelagos",
+    "water": [
+      "Oceans",
+      "Shallow seas"
+    ],
+    "interest": [
+      "Ancient underwater ruins",
+      "Coral reefs"
+    ],
+    "fauna": [
+      "Coral",
+      "Eels"
+    ],
+    "species": "Vurk",
+    "language": "Semblan",
+    "government": "None (nomadic tribes)",
+    "population": "500 million–1 billion (Sembla system) (c. 25 ABY)",
+    "demonym": "Semblan",
+    "imports": "Technology",
+    "exports": [
+      "Foodstuffs",
+      "Water"
+    ],
+    "affiliation": "Xim's empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vurk",
+      "directory": "Vurk",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Vurk",
+      "directory": "Vurk (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sembla",
+    "x": 10750.7,
+    "y": 6528.5,
+    "z": -163.4,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

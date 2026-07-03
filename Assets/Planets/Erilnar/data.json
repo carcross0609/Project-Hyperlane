@@ -1,0 +1,48 @@
+{
+  "name": "Erilnar",
+  "wookieepedia_title": "Erilnar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Erilnar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Erilnar was a planet located in the Outer Rim Territories's Centrality. Serving as the capital of the Centrality, Erilnar had three hundred thousand lakes on its surface, which forced the planet's transportation to go underwater. At some point by the reign of the Galactic Empire, a terrorist attack on Erilnar destroyed most of the world's monorail network and resulted in a million casualties. Blaming the Empire for its non-reaction to the attack, the Erilnar native Kulbart Zamoon joined the Rebel Alliance.",
+  "lead_paragraphs": [
+    "Erilnar was a planet located in the Outer Rim Territories's Centrality. Serving as the capital of the Centrality, Erilnar had three hundred thousand lakes on its surface, which forced the planet's transportation to go underwater. At some point by the reign of the Galactic Empire, a terrorist attack on Erilnar destroyed most of the world's monorail network and resulted in a million casualties. Blaming the Empire for its non-reaction to the attack, the Erilnar native Kulbart Zamoon joined the Rebel Alliance."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Erilnar",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Centrality",
+    "system": "Erilnar system",
+    "coordinates": "T-8",
+    "routes": "Cadma Conduit",
+    "class": "Terrestrial",
+    "water": "Lakes",
+    "interest": "Monorail",
+    "otherspecies": "Humans",
+    "population": "At least 1 million",
+    "affiliation": "Centrality"
+  },
+  "homeworld_of": [
+    {
+      "name": "Centran",
+      "directory": "Centran",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Erilnar",
+    "x": 12953.0,
+    "y": 2234.6,
+    "z": 172.4,
+    "region": "Outer Rim",
+    "grid": "T-8"
+  },
+  "scraped": "2026-07-03"
+}

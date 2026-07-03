@@ -1,0 +1,87 @@
+{
+  "name": "Bastion",
+  "wookieepedia_title": "Bastion/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bastion/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bastion, originally Sartinaynian, was an industrialized planet located in the Sartinaynian system in the Outer Rim Territories of the galaxy, and was the capital world of the Imperial Remnant, a statelet established from the former Galactic Empire. Bastion was located in the Braxant sector at the terminus of the trade route known as the Braxant Run.",
+  "lead_paragraphs": [
+    "Bastion, originally Sartinaynian, was an industrialized planet located in the Sartinaynian system in the Outer Rim Territories of the galaxy, and was the capital world of the Imperial Remnant, a statelet established from the former Galactic Empire. Bastion was located in the Braxant sector at the terminus of the trade route known as the Braxant Run.",
+    "Originally, \"Bastion\" was just a term for the worlds on which the Council of Moffs were temporarily located. Its last location remained a closely guarded secret by the time of the Caamas Document Crisis, where the Imperial Remnant was located on Sartinaynian shortly before peace with the New Republic in 19 ABY.",
+    "During the Yuuzhan Vong invasion, Bastion was attacked, resulting in the loss of the world to the Yuuzhan Yong, who took control and almost destroyed Bastion as they took a hold of the Outer Rim.",
+    "It was later rebuilt and became the capital world of the Fel Empire, a successor state, and later the headquarters of Roan Fel's Empire-in-exile."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Bastion",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Braxant sector",
+    "system": "Sartinaynian system",
+    "coordinates": "K-3",
+    "moons": "1",
+    "routes": "Braxant Run",
+    "lengthday": "24 standard hours",
+    "lengthyear": "363 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Hills",
+    "water": "Oceans",
+    "interest": [
+      "Imperial Headquarters",
+      "Bastion customs station",
+      "Pellaeon Gardens",
+      "Disra's palace",
+      "Holomap Room",
+      "Imperial Library",
+      "Imperial Palace",
+      "Imperial Dungeons"
+    ],
+    "fauna": "Bloodfin",
+    "otherspecies": "Human",
+    "language": "Imperial Basic",
+    "government": "Hereditary Military Dictatorship",
+    "population": [
+      "94% Humans",
+      "6% other"
+    ],
+    "cities": [
+      "Ravelin",
+      "Sartinaynian City"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "High technology",
+      "Luxury goods"
+    ],
+    "exports": "Military supplies",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Pentastar Alignment",
+      "Imperial Remnant",
+      "Yuuzhan Vong empire",
+      "Fel Empire",
+      "Darth Krayt's Galactic Empire",
+      "Empire-in-exile",
+      "Galactic Federation Triumvirate"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Bastion",
+    "x": -1339.3,
+    "y": 9699.8,
+    "z": -169.1,
+    "region": "Outer Rim",
+    "grid": "K-3"
+  },
+  "scraped": "2026-07-03"
+}

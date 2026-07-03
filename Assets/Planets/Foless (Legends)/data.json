@@ -1,0 +1,60 @@
+{
+  "name": "Foless",
+  "wookieepedia_title": "Foless/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Foless/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Foless was a planet located in the Southern Core portion of the Colonies. It was situated on the periphery of the Trailing Sectors portion of the Inner Rim.",
+  "lead_paragraphs": [
+    "Foless was a planet located in the Southern Core portion of the Colonies. It was situated on the periphery of the Trailing Sectors portion of the Inner Rim.",
+    "Foless sat at the intersection of the Corellian Trade Spine and Shipwrights' Trace hyperlanes, known as the Foless Crossroads."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Foless",
+    "region": [
+      "Colonies",
+      "  Foless Crossroads",
+      "Southern Core"
+    ],
+    "system": "Foless system",
+    "coordinates": "M-13",
+    "moons": "At least two moons",
+    "routes": [
+      "Corellian Trade Spine",
+      "Shipwrights' Trace"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Mountains"
+    ],
+    "interest": "Foless Spaceport",
+    "fauna": "Ferocious predators",
+    "otherspecies": [
+      "Human",
+      "Other species"
+    ],
+    "language": "Galactic Basic Standard",
+    "population": "10 to 100 billion",
+    "affiliation": [
+      "Galactic Republic",
+      "  Corellian Hegemony"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Foless",
+    "x": 1653.4,
+    "y": -5727.6,
+    "z": 177.2,
+    "region": "Colonies",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

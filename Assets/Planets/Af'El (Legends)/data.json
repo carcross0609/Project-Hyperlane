@@ -1,0 +1,66 @@
+{
+  "name": "Af'El",
+  "wookieepedia_title": "Af'El/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Af%27El/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Af'El was the homeworld to the Defel, who dwelt in underground cities. It was a high-gravity planet with no ozone layer, and it orbited the ultraviolet supergiant Ka'Dedus. Because of the lack of ozone, ultraviolet light passed freely to the surface, while other light wavelengths were blocked by the heavy gases in the planet's atmosphere. Thus, all animals on Af'El could only see in ultraviolet light ranges. A main export of the planet was the metal meleenium used in durasteel.",
+  "lead_paragraphs": [
+    "Af'El was the homeworld to the Defel, who dwelt in underground cities. It was a high-gravity planet with no ozone layer, and it orbited the ultraviolet supergiant Ka'Dedus. Because of the lack of ozone, ultraviolet light passed freely to the surface, while other light wavelengths were blocked by the heavy gases in the planet's atmosphere. Thus, all animals on Af'El could only see in ultraviolet light ranges. A main export of the planet was the metal meleenium used in durasteel.",
+    "Due to the tremendous velocity necessary for a starship to escape Af'El's gravity well, the planet was rarely visited. It was the only known source of naturally occurring meleenium, and as a result, Vulca Minerals made annual trips to the world. A number of private metallurgists and scientists also visited the world to conduct research."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Af'El",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "The Periphery",
+    "system": "Ka'Dedus system",
+    "coordinates": "S-8",
+    "suns": "1: Ka'Dedus",
+    "position": "4",
+    "atmosphere": "No ozone",
+    "gravity": "High",
+    "fauna": [
+      "Af'El lion",
+      "Kheilwar"
+    ],
+    "species": "Defel",
+    "otherspecies": "Svivreni",
+    "language": "Defel",
+    "cities": [
+      "Qua'Tahc (capital)",
+      "Uhur'qah (capital)"
+    ],
+    "imports": "Foodstuffs",
+    "exports": "Meleenium",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Defel",
+      "directory": "Defel (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kheilwar",
+      "directory": "Kheilwar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Af'El",
+    "x": 11608.2,
+    "y": 1783.7,
+    "z": -66.6,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

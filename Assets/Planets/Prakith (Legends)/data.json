@@ -1,0 +1,93 @@
+{
+  "name": "Prakith",
+  "wookieepedia_title": "Prakith/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Prakith/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Prakith was a mountainous fortress world located in the Prakith system of the Deep Core that, thanks to its unstable terrain and its isolation, was a difficult location to conquer by force. The planet was a powerful Fifth Army fortress world during the Galactic Civil War and later the personal empire of Moff Foga Brill.",
+  "lead_paragraphs": [
+    "Prakith was a mountainous fortress world located in the Prakith system of the Deep Core that, thanks to its unstable terrain and its isolation, was a difficult location to conquer by force. The planet was a powerful Fifth Army fortress world during the Galactic Civil War and later the personal empire of Moff Foga Brill."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Galactic Civil War",
+    "  Later history"
+  ],
+  "data": {
+    "name": "Prakith",
+    "region": "Deep Core",
+    "sector": "Sector 5",
+    "system": "Prakith system",
+    "coordinates": "K-10",
+    "suns": "1: Prak",
+    "position": "3",
+    "moons": [
+      "Inner Moon",
+      "Outer Moon"
+    ],
+    "routes": "Byss Run",
+    "lengthday": "27.6 standard hours",
+    "lengthyear": "335 standard days",
+    "class": "Terrestrial",
+    "diameter": "17,400 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate to arctic",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Plateaus"
+    ],
+    "water": "Underground Sea",
+    "interest": [
+      "Andeddu's Keep",
+      "Asonel Caves",
+      "Citadel Inquisitorius",
+      "Geddis mine",
+      "Herkeath mine",
+      "Mother Lode Cantina",
+      "Rilkean mine",
+      "Work Zone sector"
+    ],
+    "fauna": "Greethka",
+    "otherspecies": [
+      "Human",
+      "Stereb"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Dictatorship",
+    "population": [
+      "3.6 billion",
+      "98% Human",
+      "2% other"
+    ],
+    "cities": [
+      "Prak City (capital)",
+      "Skoth",
+      "Prall",
+      "Gallia"
+    ],
+    "imports": [
+      "Consumer goods",
+      "Processed foods"
+    ],
+    "exports": "Raw materials",
+    "affiliation": [
+      "Sith Empire",
+      "Galactic Empire",
+      "Constitutional Protectorate of Prakith",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Prakith",
+    "x": -668.7,
+    "y": -1332.3,
+    "z": 12.5,
+    "region": "Deep Core",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

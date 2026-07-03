@@ -1,0 +1,64 @@
+{
+  "name": "Kamar",
+  "wookieepedia_title": "Kamar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kamar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kamar was a dry and arid planet located in Wild Space, home to the insectoid Kamarian species and the howlrunner. It had deserts and mountains across its surface that scorched under the hot-white sun. Various plant life such as the miser-plant, barrel-scrub, and sting-brush sprouted up.",
+  "lead_paragraphs": [
+    "Kamar was a dry and arid planet located in Wild Space, home to the insectoid Kamarian species and the howlrunner. It had deserts and mountains across its surface that scorched under the hot-white sun. Various plant life such as the miser-plant, barrel-scrub, and sting-brush sprouted up.",
+    "Other creatures native to Kamar included digworms, stingworms, bloodsniffers, and nightswifts."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kamar",
+    "region": "Wild Space",
+    "system": "Kamar system",
+    "coordinates": "Either S-3 or S-4",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert badlands",
+      "Mountains"
+    ],
+    "water": "Dry",
+    "interest": "Kamar Badlands",
+    "flora": [
+      "Barrel-scrub",
+      "Miser-plant",
+      "Sting-brush"
+    ],
+    "fauna": [
+      "Bloodsniffer",
+      "Digworm",
+      "Nightswift",
+      "Stingworm"
+    ],
+    "species": "Kamarian",
+    "language": "Kamarian language"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kamarian",
+      "directory": "Kamarian",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified Kamar species",
+      "directory": "Unidentified Kamar species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Kamar",
+    "x": 11488.5,
+    "y": 8984.1,
+    "z": 591.8,
+    "region": "Wild Space",
+    "grid": "S-4"
+  },
+  "scraped": "2026-07-03"
+}

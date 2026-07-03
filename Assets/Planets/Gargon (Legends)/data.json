@@ -1,0 +1,43 @@
+{
+  "name": "Gargon",
+  "wookieepedia_title": "Gargon/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gargon/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gargon was a planet in Mandalore sector.",
+  "lead_paragraphs": [
+    "Gargon was a planet in Mandalore sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Gargon",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Mandalore sector",
+    "system": "Gargon system",
+    "coordinates": "O-7",
+    "interest": "Spice vaults of Gargon",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "exports": "Spice",
+    "affiliation": [
+      "Mandalorians",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Gargon",
+    "x": 4830.2,
+    "y": 4320.6,
+    "z": -4.5,
+    "region": "Outer Rim",
+    "grid": "O-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Bessimir",
+  "wookieepedia_title": "Bessimir",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bessimir",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bessimir was a planet in the Galactic Core, 15 parsecs from Coruscant. Two natural satellites orbited Bessimir.",
+  "lead_paragraphs": [
+    "Bessimir was a planet in the Galactic Core, 15 parsecs from Coruscant. Two natural satellites orbited Bessimir."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Bessimir",
+    "region": "Core Worlds",
+    "system": "Bessimir system",
+    "coordinates": "L-9",
+    "moons": [
+      "2 moons",
+      "  Alpha moon"
+    ],
+    "affiliation": [
+      "New Republic",
+      "Galactic Alliance"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Bessimir",
+    "x": 560.2,
+    "y": 635.7,
+    "z": 94.6,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

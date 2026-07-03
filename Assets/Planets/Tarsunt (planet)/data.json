@@ -1,0 +1,37 @@
+{
+  "name": "Tarsunt",
+  "wookieepedia_title": "Tarsunt (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tarsunt_%28planet%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tarsunt was a planet located in the Tarsunt system of the Mid Rim, located in Bothan Space. It was the homeworld of New Republic Chancellor Lanever Villecham.",
+  "lead_paragraphs": [
+    "Tarsunt was a planet located in the Tarsunt system of the Mid Rim, located in Bothan Space. It was the homeworld of New Republic Chancellor Lanever Villecham."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tarsunt",
+    "region": "Mid Rim Territories",
+    "sector": "Bothan Space",
+    "system": "Tarsunt system",
+    "coordinates": "R-14",
+    "species": "Tarsunt",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tarsunt",
+      "directory": "Tarsunt",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Tarsunt",
+    "x": 9085.9,
+    "y": -6253.3,
+    "z": -402.9,
+    "region": "Mid Rim",
+    "grid": "R-14"
+  },
+  "scraped": "2026-07-03"
+}

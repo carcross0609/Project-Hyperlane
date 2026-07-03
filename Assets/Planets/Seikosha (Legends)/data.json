@@ -1,0 +1,81 @@
+{
+  "name": "Seikosha",
+  "wookieepedia_title": "Seikosha/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Seikosha/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Seikosha was a planet in the Breago system which remained neutral during the Galactic Civil War.",
+  "lead_paragraphs": [
+    "Seikosha was a planet in the Breago system which remained neutral during the Galactic Civil War."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Seikosha",
+    "region": [
+      "Outer Rim Territories",
+      "Borderland Regions"
+    ],
+    "sector": "Nembus sector",
+    "system": "Breago system",
+    "coordinates": "P-4",
+    "lengthday": "28 standard hours",
+    "lengthyear": "422 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type 1 (Breathable)",
+    "climate": "Hot; violent thunderstorms and downpours",
+    "gravity": "Standard",
+    "terrain": [
+      "Jungle",
+      "Swamp"
+    ],
+    "water": "Moist",
+    "interest": [
+      "Event Horizon",
+      "Seikoshan rebel camp",
+      "Serap's Fortress",
+      "Serap's landing strip"
+    ],
+    "flora": "Broad-leafed trees",
+    "fauna": "Sid'Han",
+    "species": "Seikoshan",
+    "otherspecies": [
+      "Off-world colonists",
+      "Gamorrean",
+      "Human",
+      "Ithorian",
+      "Sullustan"
+    ],
+    "government": "Criminal hierarchy",
+    "population": "230,000",
+    "demonym": "Seikoshan",
+    "cities": "Cairn (capital)",
+    "imports": [
+      "High-tech equipment",
+      "Information",
+      "Weapons"
+    ],
+    "exports": [
+      "Liquor",
+      "Information"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Seikoshan",
+      "directory": "Seikoshan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Seikosha",
+    "x": 6650.5,
+    "y": 8585.9,
+    "z": -317.5,
+    "region": "Outer Rim",
+    "grid": "P-4"
+  },
+  "scraped": "2026-07-03"
+}

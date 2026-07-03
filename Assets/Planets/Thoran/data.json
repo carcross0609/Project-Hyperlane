@@ -1,0 +1,33 @@
+{
+  "name": "Thoran",
+  "wookieepedia_title": "Thoran",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thoran",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thoran was a planet located within the Bothan sector of the Mid Rim.",
+  "lead_paragraphs": [
+    "Thoran was a planet located within the Bothan sector of the Mid Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Thoran",
+    "region": "Mid Rim",
+    "sector": "Bothan sector",
+    "system": "Thoran system",
+    "coordinates": "R-14",
+    "routes": "Manda Merchant Route",
+    "otherspecies": "Bothans"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Thoran",
+    "x": 9418.9,
+    "y": -6954.1,
+    "z": 355.5,
+    "region": "Mid Rim",
+    "grid": "R-14"
+  },
+  "scraped": "2026-07-03"
+}

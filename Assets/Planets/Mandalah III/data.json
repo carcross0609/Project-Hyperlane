@@ -1,0 +1,47 @@
+{
+  "name": "Mandalah III",
+  "wookieepedia_title": "Mandalah III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mandalah_III",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Mandalah III was a planet in the Mandalah system.",
+  "lead_paragraphs": [
+    "Mandalah III was a planet in the Mandalah system."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Mandalah III",
+    "system": "Mandalah system",
+    "suns": "1: Mandalah system's star",
+    "lengthday": "29 standard hours",
+    "lengthyear": "480 standard days",
+    "atmosphere": "Highly polluted (breathable with mask only)",
+    "climate": "Windy, between -30° and +40°",
+    "gravity": "0.8 G",
+    "terrain": "Rocky desert (70%), putrid swamps (20%), polluted lakes and ponds (10%)",
+    "flora": "Various species of mutant mosses and poisoned lichens",
+    "fauna": "Mostly reptiles and venomous insects",
+    "species": "Shrobs",
+    "government": "Imperial protectorate/anarchy",
+    "population": [
+      "270,000:",
+      "  180,000 Shrobs",
+      "  90,000 colonists and visitors"
+    ],
+    "demonym": "Mandalese",
+    "cities": "Well number one",
+    "imports": "None",
+    "exports": "None"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shrob",
+      "directory": "Shrob",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

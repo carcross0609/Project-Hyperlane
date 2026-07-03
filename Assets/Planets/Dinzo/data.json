@@ -1,0 +1,40 @@
+{
+  "name": "Dinzo",
+  "wookieepedia_title": "Dinzo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dinzo",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Dinzo was a planet located in the Dinzo system in the Msst sector of the Mid Rim Territories.",
+  "lead_paragraphs": [
+    "Dinzo was a planet located in the Dinzo system in the Msst sector of the Mid Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Dinzo",
+    "region": "Mid Rim Territories",
+    "sector": "Msst sector",
+    "system": "Dinzo system",
+    "coordinates": "P-7",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Deserts",
+      "Jagged rock spires"
+    ],
+    "interest": "Cortosis mine",
+    "exports": "Cortosis",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dinzo",
+    "x": -37.4,
+    "y": -11965.9,
+    "z": -10.1,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

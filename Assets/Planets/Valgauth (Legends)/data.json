@@ -1,0 +1,52 @@
+{
+  "name": "Valgauth",
+  "wookieepedia_title": "Valgauth/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Valgauth/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Valgauth was one of three planets in the Valgauth system of the Expansion Region, and the only one to support any life. It was covered in barren wastelands and junk fields.",
+  "lead_paragraphs": [
+    "Valgauth was one of three planets in the Valgauth system of the Expansion Region, and the only one to support any life. It was covered in barren wastelands and junk fields."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Valgauth",
+    "region": "Expansion Region",
+    "sector": "Nojic sector",
+    "system": "Valgauth system",
+    "coordinates": "P-9",
+    "lengthday": "26 standard hours",
+    "lengthyear": "669 local days",
+    "class": "Waste world",
+    "atmosphere": "Type III (breath mask required)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Barren wasteland",
+      "Junk fields"
+    ],
+    "water": "Moist",
+    "otherspecies": "Various aliens",
+    "population": "35 aliens and Humans, 1,000 droids",
+    "imports": "Metals, foodstuffs, luxury goods",
+    "exports": "Weapons"
+  },
+  "homeworld_of": [
+    {
+      "name": "Valgauthian",
+      "directory": "Valgauthian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Valgauth",
+    "x": 6084.9,
+    "y": 1245.0,
+    "z": 41.5,
+    "region": "Expansion Region",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

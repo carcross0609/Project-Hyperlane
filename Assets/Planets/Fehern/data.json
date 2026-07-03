@@ -1,0 +1,40 @@
+{
+  "name": "Fehern",
+  "wookieepedia_title": "Fehern",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fehern",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fehern was a planet in the Trax sector of the Mid Rim It was the homeworld of the Eddelians. In the time of the Galactic Republic, Eddelian trading ships would be seen in adjoining systems. The Galactic Empire fought a war against the Eddell, eliminated most of the technology owned by them. Only a few thousand remained with most subjugated as slaves.",
+  "lead_paragraphs": [
+    "Fehern was a planet in the Trax sector of the Mid Rim It was the homeworld of the Eddelians. In the time of the Galactic Republic, Eddelian trading ships would be seen in adjoining systems. The Galactic Empire fought a war against the Eddell, eliminated most of the technology owned by them. Only a few thousand remained with most subjugated as slaves."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Fehern",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Trax sector",
+    "system": "Fehern system",
+    "coordinates": "Q-10",
+    "species": "Eddel",
+    "demonym": "Eddelian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Eddel",
+      "directory": "Eddel",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Fehern",
+    "x": 8284.9,
+    "y": -626.2,
+    "z": -200.2,
+    "region": "Mid Rim",
+    "grid": "Q-10"
+  },
+  "scraped": "2026-07-03"
+}

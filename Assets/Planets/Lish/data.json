@@ -1,0 +1,40 @@
+{
+  "name": "Lish",
+  "wookieepedia_title": "Lish",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lish",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lish was the sixth planet in the Demar system of the Expansion Region. A large, blue-green gas giant, Lish was orbited by fifteen moons.",
+  "lead_paragraphs": [
+    "Lish was the sixth planet in the Demar system of the Expansion Region. A large, blue-green gas giant, Lish was orbited by fifteen moons.",
+    "The Lant Mining Corporation set up mines on ten of the world's fifteen moons during the reign of the Galactic Empire, though eventually abandoned all but their mines on Lish V and Lish XI."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lish",
+    "region": "Expansion Region",
+    "sector": "Brak sector",
+    "system": "Demar system",
+    "coordinates": "O-14",
+    "suns": "Demar",
+    "position": "6",
+    "moons": [
+      "15, including:",
+      "Lish IV",
+      "Lish V",
+      "Lish VI",
+      "Lish XI"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lish",
+    "x": 3056.6,
+    "y": -8708.3,
+    "z": -16.8,
+    "region": "Expansion Region",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

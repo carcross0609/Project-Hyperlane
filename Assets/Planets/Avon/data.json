@@ -1,0 +1,41 @@
+{
+  "name": "Avon",
+  "wookieepedia_title": "Avon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Avon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Avon was a planet in the same system as Radnor. Its inhabitants were the Avoni. Avon was, for the most part, distrusted by the Radnorans. In the years following the Battle of Naboo, Avon sent a fleet of warships to invade and occupy Radnor, in revenge for the Radnorans not selling them a deadly new bioweapon that they developed. However, with intervention from the Jedi, their attempts were short-lived.",
+  "lead_paragraphs": [
+    "Avon was a planet in the same system as Radnor. Its inhabitants were the Avoni. Avon was, for the most part, distrusted by the Radnorans. In the years following the Battle of Naboo, Avon sent a fleet of warships to invade and occupy Radnor, in revenge for the Radnorans not selling them a deadly new bioweapon that they developed. However, with intervention from the Jedi, their attempts were short-lived."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Avon",
+    "region": [
+      "Mid Rim",
+      "The Slice",
+      "Trailing Sectors"
+    ],
+    "sector": "Daimar sector",
+    "system": "Radnor system",
+    "coordinates": "Q-16",
+    "routes": "Corellian Run",
+    "species": "Avoni"
+  },
+  "homeworld_of": [
+    {
+      "name": "Avoni",
+      "directory": "Avoni",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Avon",
+    "x": 8147.2,
+    "y": -10011.6,
+    "z": 58.5,
+    "region": "Mid Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

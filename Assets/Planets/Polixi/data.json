@@ -1,0 +1,40 @@
+{
+  "name": "Polixi",
+  "wookieepedia_title": "Polixi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Polixi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Polixi was the first planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim Territories, it was a barren rock.",
+  "lead_paragraphs": [
+    "Polixi was the first planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim Territories, it was a barren rock."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Polixi",
+    "region": [
+      "Inner Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Jaso sector",
+    "system": "Polith system",
+    "coordinates": "L-14",
+    "suns": "1: Polith",
+    "position": "1",
+    "moons": "0",
+    "routes": [
+      "Rimma Trade Route",
+      "Shapani Bypass"
+    ],
+    "class": "Barren rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Polixi",
+    "x": 736.5,
+    "y": -6583.7,
+    "z": -67.0,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

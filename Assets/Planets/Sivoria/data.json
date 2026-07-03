@@ -1,0 +1,41 @@
+{
+  "name": "Sivoria",
+  "wookieepedia_title": "Sivoria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sivoria",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sivoria was a planet located in the Hapes Cluster of the Inner Rim.",
+  "lead_paragraphs": [
+    "Sivoria was a planet located in the Hapes Cluster of the Inner Rim."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Sivoria",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Hapes Cluster",
+    "system": "Sivoria system",
+    "coordinates": "O-9",
+    "class": "Terrestrial",
+    "interest": "Sivorian Sea",
+    "fauna": [
+      "Sivorian wood spider",
+      "Whale-drake"
+    ],
+    "demonym": "Sivorian"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Sivoria",
+    "x": 5183.6,
+    "y": 790.4,
+    "z": -105.0,
+    "region": "Inner Rim",
+    "grid": "O-9"
+  },
+  "scraped": "2026-07-03"
+}

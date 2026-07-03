@@ -1,0 +1,57 @@
+{
+  "name": "Apatros",
+  "wookieepedia_title": "Apatros/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Apatros/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Apatros was a desolate world in the Apatros system of the Savareen sector, located in the Outer Rim Territories under the jurisdiction of the Galactic Republic. As of 1003 BBY, Apatros fell under the direct control of the Outer Rim Oreworks Company, which maintained a cortosis mine on the planet. Apatros was notable for being the homeworld of Darth Bane, the Dark Lord of the Sith who worked in the cortosis mines for ten years before joining the Sith army during the New Sith Wars.",
+  "lead_paragraphs": [
+    "Apatros was a desolate world in the Apatros system of the Savareen sector, located in the Outer Rim Territories under the jurisdiction of the Galactic Republic. As of 1003 BBY, Apatros fell under the direct control of the Outer Rim Oreworks Company, which maintained a cortosis mine on the planet. Apatros was notable for being the homeworld of Darth Bane, the Dark Lord of the Sith who worked in the cortosis mines for ten years before joining the Sith army during the New Sith Wars."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Apatros",
+    "region": "Outer Rim Territories",
+    "sector": "Savareen sector",
+    "system": "Apatros system",
+    "coordinates": "Q-16",
+    "suns": "1",
+    "moons": "1",
+    "lengthday": "20 standard hours",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Barren flatlands",
+      "Wastes"
+    ],
+    "interest": "Outer Rim Oreworks Company cortosis mines",
+    "otherspecies": [
+      "Humans",
+      "Neimoidians"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Outer Rim Oreworks Company",
+    "cities": "Apatros",
+    "exports": "Cortosis",
+    "affiliation": [
+      "Outer Rim Oreworks Company",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Apatros",
+    "x": 8445.4,
+    "y": -10275.9,
+    "z": 287.8,
+    "region": "Outer Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Wellspring of Life",
+  "wookieepedia_title": "Wellspring of Life",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wellspring_of_Life",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "The Wellspring of Life, also known simply as the Force planet, was the homeworld of the midi-chlorians, microscopic organisms that made life possible by residing in all living things. By living, beings created the Living Force, and sentient beings who focused on tapping into their Force sensitivity could perceive the will of the Cosmic Force, which was communicated to them via their midi-chlorians. Individuals could also guide the Force as an energy field to achieve extraordinary feats; the Jedi Order considered dedication to the will of the Force and the protection of life to be aligned with the light side of the Force, and Jedi Grand Master Yoda found the Wellspring of Life to be a light side vergence. He found the planet in a bright nebula in the Deep Core of the galaxy, and it was neither marked on any star map nor named. Upon reaching the surface, it appeared barren, save for luminescent geysers that released energy from inside the planet. Below the surface were floating islands that were covered in plant life and immersed in the Force.",
+  "lead_paragraphs": [
+    "The Wellspring of Life, also known simply as the Force planet, was the homeworld of the midi-chlorians, microscopic organisms that made life possible by residing in all living things. By living, beings created the Living Force, and sentient beings who focused on tapping into their Force sensitivity could perceive the will of the Cosmic Force, which was communicated to them via their midi-chlorians. Individuals could also guide the Force as an energy field to achieve extraordinary feats; the Jedi Order considered dedication to the will of the Force and the protection of life to be aligned with the light side of the Force, and Jedi Grand Master Yoda found the Wellspring of Life to be a light side vergence. He found the planet in a bright nebula in the Deep Core of the galaxy, and it was neither marked on any star map nor named. Upon reaching the surface, it appeared barren, save for luminescent geysers that released energy from inside the planet. Below the surface were floating islands that were covered in plant life and immersed in the Force."
+  ],
+  "article_sections": [
+    "Overview"
+  ],
+  "data": {
+    "unlisted": "2",
+    "name": "Wellspring of Life",
+    "region": "Deep Core",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Deserts",
+      "Jungles"
+    ],
+    "interest": "Valley of Extinction",
+    "species": "Midi-chlorians",
+    "affiliation": "Force Priestesses"
+  },
+  "homeworld_of": [
+    {
+      "name": "Midi-chlorian",
+      "directory": "Midi-chlorian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Wellspring of Life",
+    "x": 1217.4,
+    "y": -5572.2,
+    "z": 43.4,
+    "region": "Other",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Sareet",
+  "wookieepedia_title": "Sareet",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sareet",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sareet was a planet within the Sareet system in the Outer Rim Territories. It was the homeworld of the Sareeta species.",
+  "lead_paragraphs": [
+    "Sareet was a planet within the Sareet system in the Outer Rim Territories. It was the homeworld of the Sareeta species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sareet",
+    "region": "Outer Rim Territories",
+    "sector": "Stensen sector",
+    "system": "Sareet system",
+    "coordinates": "I-17",
+    "species": "Sareeta"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sareeta",
+      "directory": "Sareeta",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sareet",
+    "x": -4190.1,
+    "y": -10634.4,
+    "z": 56.1,
+    "region": "Outer Rim",
+    "grid": "I-17"
+  },
+  "scraped": "2026-07-03"
+}

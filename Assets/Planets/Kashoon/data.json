@@ -1,0 +1,42 @@
+{
+  "name": "Kashoon",
+  "wookieepedia_title": "Kashoon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kashoon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kashoon was a planet that was conquered by the Galactic Empire, and later freed with the help of the Rebel Alliance. The Kashoonara were left to their own devices afterwards.",
+  "lead_paragraphs": [
+    "Kashoon was a planet that was conquered by the Galactic Empire, and later freed with the help of the Rebel Alliance. The Kashoonara were left to their own devices afterwards."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kashoon",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Colundra sector",
+    "system": "Kashoon system",
+    "coordinates": "S-5",
+    "class": "Terrestrial",
+    "terrain": "Forests",
+    "species": "Kashoonara",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kashoonara",
+      "directory": "Kashoonara",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kashoon",
+    "x": 11170.2,
+    "y": 6855.5,
+    "z": 295.0,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

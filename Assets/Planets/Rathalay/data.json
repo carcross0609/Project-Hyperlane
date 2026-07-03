@@ -1,0 +1,44 @@
+{
+  "name": "Rathalay",
+  "wookieepedia_title": "Rathalay",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rathalay",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rathalay was a planet in the Mid Rim known for its vast private beaches. The planet exported Rathalayan firestones.",
+  "lead_paragraphs": [
+    "Rathalay was a planet in the Mid Rim known for its vast private beaches. The planet exported Rathalayan firestones.",
+    "Grand Admiral Grant, as part of his agreement to defect to the New Republic, was allowed to retire to a villa on this world, although Jan Ors kept an eye on him.",
+    "The planet was also the base of Kaerobani and the Lumini Pirates: in Kaerobani's den, Mara Jade retrieved a stolen Jedi Holocron and escaped. Many tourists visited the wealthy world. The Solo family took a brief vacation there during the Black Fleet Crisis to try and escape Leia Organa Solo's political responsibilities."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rathalay",
+    "region": "Mid Rim",
+    "sector": "Taldot sector",
+    "system": "Rathalay system",
+    "coordinates": "R-9",
+    "class": "Terrestrial",
+    "terrain": "Ocean",
+    "interest": "Kaerobani's base",
+    "fauna": [
+      "Drugon",
+      "Narkaa",
+      "Seamote"
+    ],
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "cities": "Illafian Point",
+    "exports": "Rathalayan firestones",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Rathalay",
+    "x": 9973.3,
+    "y": 1013.3,
+    "z": 138.4,
+    "region": "Mid Rim",
+    "grid": "R-9"
+  },
+  "scraped": "2026-07-03"
+}

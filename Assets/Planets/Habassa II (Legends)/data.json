@@ -1,0 +1,46 @@
+{
+  "name": "Habassa II",
+  "wookieepedia_title": "Habassa II/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Habassa_II/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Habassa II, also known as Habassa, was a planet in the Habassa system of the Mid Rim. It was the Habassa homeworld.",
+  "lead_paragraphs": [
+    "Habassa II, also known as Habassa, was a planet in the Habassa system of the Mid Rim. It was the Habassa homeworld."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Habassa II",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Herdessa sector",
+    "system": "Habassa system",
+    "coordinates": "Q-16",
+    "species": "Habassa",
+    "demonym": "Habassan",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Habassa",
+      "directory": "Habassa",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Habassa II",
+    "x": 8018.6,
+    "y": -9653.1,
+    "z": 130.0,
+    "region": "Mid Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

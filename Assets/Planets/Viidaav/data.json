@@ -1,0 +1,52 @@
+{
+  "name": "Viidaav",
+  "wookieepedia_title": "Viidaav",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Viidaav",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Viidaav was a planet located in the Bryx sector of the Mid Rim. It was inhabited by the Viidaav species.",
+  "lead_paragraphs": [
+    "Viidaav was a planet located in the Bryx sector of the Mid Rim. It was inhabited by the Viidaav species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Viidaav",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Bryx sector",
+    "system": "Viidaav system",
+    "coordinates": "R-7",
+    "moons": "At least 2",
+    "climate": "Arid",
+    "terrain": [
+      "Rocky deserts",
+      "Mountains"
+    ],
+    "interest": "Separatist command center",
+    "species": "Viidaav",
+    "population": "At least 200,000",
+    "cities": "A colony",
+    "exports": "Starships",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Viidaav",
+      "directory": "Viidaav (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Viidaav",
+    "x": 9642.1,
+    "y": 3414.3,
+    "z": 62.0,
+    "region": "Mid Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

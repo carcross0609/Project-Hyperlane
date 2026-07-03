@@ -1,0 +1,43 @@
+{
+  "name": "Terminus",
+  "wookieepedia_title": "Terminus/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Terminus/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Terminus was a planet located within the Terminus system of the Outer Rim Territories. Terminus sat on the juncture of two of the galaxy's most important trade routes, the Hydian Way and the Corellian Trade Spine making it a highly trafficked port despite its remote location on the edges of the Outer Rim's Western Reaches. Its proximity to Wild Space and the Unknown Regions meant that strange and unfamiliar ships were a common sight in Terminus' skies.",
+  "lead_paragraphs": [
+    "Terminus was a planet located within the Terminus system of the Outer Rim Territories. Terminus sat on the juncture of two of the galaxy's most important trade routes, the Hydian Way and the Corellian Trade Spine making it a highly trafficked port despite its remote location on the edges of the Outer Rim's Western Reaches. Its proximity to Wild Space and the Unknown Regions meant that strange and unfamiliar ships were a common sight in Terminus' skies."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Terminus",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Kallea sector",
+    "system": "Terminus system",
+    "coordinates": "K-20",
+    "routes": [
+      "Corellian Trade Spine",
+      "Hydian Way",
+      "  Hydian Spur (in 3694 BBY)"
+    ],
+    "atmosphere": "Type I",
+    "terrain": "Urban"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Terminus",
+    "x": -1086.9,
+    "y": -16404.7,
+    "z": -579.7,
+    "region": "Outer Rim",
+    "grid": "K-20"
+  },
+  "scraped": "2026-07-03"
+}

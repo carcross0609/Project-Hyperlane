@@ -1,0 +1,39 @@
+{
+  "name": "Whiforla II",
+  "wookieepedia_title": "Whiforla II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Whiforla_II",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Whiforla II was a planet located along the galaxy's Shipwrights' Trace trade route. Whiforla-song was a language spoken by the avian inhabitants of the planet.",
+  "lead_paragraphs": [
+    "Whiforla II was a planet located along the galaxy's Shipwrights' Trace trade route. Whiforla-song was a language spoken by the avian inhabitants of the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Whiforla II",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Whiforla system",
+    "coordinates": "M-13",
+    "routes": "Shipwrights' Trace",
+    "fauna": "Avian",
+    "species": "Whiforlan",
+    "language": "Whiforla-song"
+  },
+  "homeworld_of": [
+    {
+      "name": "Whiforlan",
+      "directory": "Whiforlan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Whiforla II",
+    "x": 11059.0,
+    "y": 5553.4,
+    "z": -339.7,
+    "region": "Other",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

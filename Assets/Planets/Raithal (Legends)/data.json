@@ -1,0 +1,49 @@
+{
+  "name": "Raithal",
+  "wookieepedia_title": "Raithal/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raithal/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Raithal was a planet in the Colonies, on the Perlemian Trade Route near the border with the Inner Rim.",
+  "lead_paragraphs": [
+    "Raithal was a planet in the Colonies, on the Perlemian Trade Route near the border with the Inner Rim."
+  ],
+  "article_sections": [
+    "History",
+    "  Galactic Republic",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Raithal",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Raithal system",
+    "coordinates": "M-9",
+    "routes": "Perlemian Trade Route",
+    "terrain": [
+      "Freezing Oceans",
+      "Ice Plains",
+      "Ice Mesas",
+      "Ice Canyons"
+    ],
+    "interest": "Raithal Academy",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Raithal",
+    "x": 2183.0,
+    "y": 1273.0,
+    "z": 162.0,
+    "region": "Colonies",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

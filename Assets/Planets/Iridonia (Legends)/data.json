@@ -1,0 +1,103 @@
+{
+  "name": "Iridonia",
+  "wookieepedia_title": "Iridonia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iridonia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Iridonia was the homeworld of the Zabrak species. Due to the harsh living conditions, the Zabrak were a hardy species. They took to flight and then space travel as soon as they could develop the technology, and by the time the Duros encountered them, they had already colonized five systems. Notable Iridonians included Agen Kolar, Bao-Dur, Drell Kahmf, Sirak, and Maris Brood.",
+  "lead_paragraphs": [
+    "Iridonia was the homeworld of the Zabrak species. Due to the harsh living conditions, the Zabrak were a hardy species. They took to flight and then space travel as soon as they could develop the technology, and by the time the Duros encountered them, they had already colonized five systems. Notable Iridonians included Agen Kolar, Bao-Dur, Drell Kahmf, Sirak, and Maris Brood."
+  ],
+  "article_sections": [
+    "History",
+    "  Wars of the Sith and Mandalorians",
+    "  Post-Ruusan history",
+    "  The New Republic and beyond"
+  ],
+  "data": {
+    "name": "Iridonia",
+    "region": "Mid Rim",
+    "sector": "Glythe sector",
+    "system": "Iridonia system",
+    "coordinates": "J-7",
+    "suns": "1",
+    "moons": "2",
+    "routes": "Coruscant–Dantooine hyperlane",
+    "lengthday": "29 standard hours",
+    "lengthyear": "413 local days",
+    "atmosphere": "Oxygen mix, Type I (breathable)",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Acid pools and seas",
+      "Deep, windy canyons with farmable land"
+    ],
+    "interest": [
+      "Capital Square",
+      "Laboratory of Drell Kahmf",
+      "Sith Academy"
+    ],
+    "flora": "Bluth",
+    "fauna": [
+      "Blok",
+      "Bukk",
+      "Hugglepup",
+      "Reek (transplanted)",
+      "Triz",
+      "Zur"
+    ],
+    "species": [
+      "Zabrak"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Formerly: Zabraki"
+    ],
+    "government": "Dictatorship",
+    "population": [
+      "10–100 billion (Iridonia system) (c. 25 ABY)",
+      "  99% Zabrak",
+      "  1% Other"
+    ],
+    "demonym": "Iridonian",
+    "cities": [
+      "Malidris (capital)",
+      "Wortan"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": "Yarrock",
+    "affiliation": [
+      "Galactic Republic",
+      "Mandalorians",
+      "Darth Revan's Sith Empire",
+      "Brotherhood of Darkness",
+      "Galactic Empire",
+      "New Republic",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Zabrak",
+      "directory": "Zabrak",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Zabrak",
+      "directory": "Zabrak (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Iridonia",
+    "x": -1731.8,
+    "y": 4403.4,
+    "z": 47.3,
+    "region": "Mid Rim",
+    "grid": "J-7"
+  },
+  "scraped": "2026-07-03"
+}

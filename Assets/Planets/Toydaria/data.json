@@ -1,0 +1,110 @@
+{
+  "name": "Toydaria",
+  "wookieepedia_title": "Toydaria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Toydaria",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Toydaria was the homeworld of the Toydarian species, located in Hutt Space.",
+  "lead_paragraphs": [
+    "Toydaria was the homeworld of the Toydarian species, located in Hutt Space."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic Era",
+    "    Ryloth campaign",
+    "    Death of King Katuunko",
+    "  Imperial Era"
+  ],
+  "data": {
+    "name": "Toydaria",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "sector": "None",
+    "system": "Toydaria system",
+    "coordinates": "R-11",
+    "suns": [
+      "2:",
+      "Toydar",
+      "Little Toydar"
+    ],
+    "lengthday": "21 standard hours",
+    "lengthyear": "184 standard days",
+    "atmosphere": "Foggy",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Swamps"
+    ],
+    "interest": [
+      "Church of Toydaria",
+      "Imperial secret facility",
+      "Leleen River",
+      "Pashda's stronghold",
+      "Royal Detention Center",
+      "Toydarian Royal Palace",
+      "Windswept Lakes"
+    ],
+    "flora": [
+      "Algae",
+      "Annra plant",
+      "N'Omis flower"
+    ],
+    "fauna": "Grabworm",
+    "species": "Toydarian",
+    "language": [
+      "Galactic Basic Standard",
+      "Toydarian",
+      "Huttese"
+    ],
+    "government": "Feudal monarchy",
+    "population": [
+      "11 million",
+      "  79% Toydarian",
+      "  18% Hutt",
+      "  3% other"
+    ],
+    "cities": [
+      "Arnel",
+      "Riar",
+      "Royal City",
+      "Toydor"
+    ],
+    "imports": "Consumables, technology",
+    "exports": "Consumables, labor",
+    "affiliation": [
+      "Hutt Clan",
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Shaoryn",
+      "directory": "Shaoryn",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Toydarian",
+      "directory": "Toydarian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Toydarian",
+      "directory": "Toydarian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Toydaria",
+    "x": 10070.4,
+    "y": -2562.2,
+    "z": -123.8,
+    "region": "Hutt Space",
+    "grid": "R-11"
+  },
+  "scraped": "2026-07-03"
+}

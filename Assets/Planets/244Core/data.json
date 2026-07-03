@@ -1,0 +1,71 @@
+{
+  "name": "244Core",
+  "wookieepedia_title": "244Core",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/244Core",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "244Core, formerly Sraato, was an arid planet in the Unknown Regions known for its abundant and seemingly limitless resources.",
+  "lead_paragraphs": [
+    "244Core, formerly Sraato, was an arid planet in the Unknown Regions known for its abundant and seemingly limitless resources."
+  ],
+  "article_sections": [
+    "Description",
+    "Government",
+    "History",
+    "Cities"
+  ],
+  "data": {
+    "name": "244Core",
+    "region": "Unknown Regions",
+    "system": "244Core system",
+    "coordinates": "N/A",
+    "moons": [
+      "2 moons",
+      "3 major companion asteroid clusters"
+    ],
+    "lengthday": "32 standard hours",
+    "lengthyear": "244 standard days",
+    "climate": "Arid",
+    "gravity": "Heavy",
+    "interest": [
+      "Skyscan 6",
+      "The Dump",
+      "Zone One",
+      "Zone 210",
+      "Zone 54g"
+    ],
+    "otherspecies": [
+      "10% Human",
+      "30% Near-Human",
+      "60% other species"
+    ],
+    "government": [
+      "Corporate-controlled",
+      "Nominally led by the Chief Administrator",
+      "Elected by the Corporate Committee"
+    ],
+    "cities": [
+      "Relaali Zone One (capital)",
+      "Eeookko"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Manufactured items",
+      "Technology"
+    ],
+    "exports": [
+      "Raw ore",
+      "Precious metals"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "244Core",
+    "x": -5166.0,
+    "y": 4064.2,
+    "z": -63.5,
+    "region": "Unknown Regions",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

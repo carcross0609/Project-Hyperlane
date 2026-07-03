@@ -1,0 +1,35 @@
+{
+  "name": "Uquine",
+  "wookieepedia_title": "Uquine/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Uquine/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Uquine was a planet in the Uquine system of the Colonies.",
+  "lead_paragraphs": [
+    "Uquine was a planet in the Uquine system of the Colonies."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Uquine",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Uquine system",
+    "coordinates": "N-10",
+    "routes": "Commenor Run",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Uquine",
+    "x": 3092.9,
+    "y": -505.3,
+    "z": -69.7,
+    "region": "Colonies",
+    "grid": "N-10"
+  },
+  "scraped": "2026-07-03"
+}

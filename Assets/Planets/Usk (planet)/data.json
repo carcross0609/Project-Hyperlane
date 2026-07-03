@@ -1,0 +1,37 @@
+{
+  "name": "Usk",
+  "wookieepedia_title": "Usk (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Usk_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Usk was a planet that was located within the Usk system of the galaxy's Hutt Space region, near The Cairns part of that region, and lay on the hyperlane called the Dead Road, which connected it to the worlds of Elgit and Saqqar. A smaller hyperlane linked the planet to the world of Moralan. Usk was the homeworld of a sentient species that was enslaved at some point in their history, however later the species became extinct, leaving their home planet a derelict world.",
+  "lead_paragraphs": [
+    "Usk was a planet that was located within the Usk system of the galaxy's Hutt Space region, near The Cairns part of that region, and lay on the hyperlane called the Dead Road, which connected it to the worlds of Elgit and Saqqar. A smaller hyperlane linked the planet to the world of Moralan. Usk was the homeworld of a sentient species that was enslaved at some point in their history, however later the species became extinct, leaving their home planet a derelict world."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Usk",
+    "region": "Hutt Space",
+    "system": "Usk system",
+    "coordinates": "T-10",
+    "routes": "The Dead Road",
+    "species": "Usk species (historic)",
+    "population": "None"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Usk species",
+      "directory": "Unidentified Usk species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Usk",
+    "x": 12453.0,
+    "y": -1280.7,
+    "z": 15.3,
+    "region": "Hutt Space",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

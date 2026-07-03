@@ -1,0 +1,68 @@
+{
+  "name": "Byss",
+  "wookieepedia_title": "Byss (Abyssin)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Byss_%28Abyssin%29/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The Outer Rim world of Byss was located in the Byss and Abyss system of The Slice.",
+  "lead_paragraphs": [
+    "The Outer Rim world of Byss was located in the Byss and Abyss system of The Slice."
+  ],
+  "article_sections": [
+    "History",
+    "Geography"
+  ],
+  "data": {
+    "name": "Byss",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Ash Worlds",
+    "system": "Abyss system",
+    "coordinates": "S-7",
+    "suns": [
+      "2:",
+      "Byss",
+      "Abyss"
+    ],
+    "class": "Terrestrial",
+    "climate": "Arid",
+    "terrain": "Deserts",
+    "interest": "None",
+    "fauna": "Gaunt",
+    "species": "Abyssin",
+    "language": "Abyssin",
+    "cities": "None",
+    "exports": "Slaves",
+    "affiliation": [
+      "Sith Empire",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Abyssin",
+      "directory": "Abyssin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Abyssin",
+      "directory": "Abyssin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Byss",
+    "x": 11830.9,
+    "y": 4249.5,
+    "z": 373.3,
+    "region": "Outer Rim",
+    "grid": "S-7"
+  },
+  "scraped": "2026-07-03"
+}

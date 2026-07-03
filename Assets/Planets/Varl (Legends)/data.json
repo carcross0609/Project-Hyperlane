@@ -1,0 +1,114 @@
+{
+  "name": "Varl",
+  "wookieepedia_title": "Varl/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Varl/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Varl was the original homeworld of the Hutts, t'landa Til, and possibly the Rybets. According to Hutt legend, it was devastated in a cataclysm that vaporized its atmosphere and obliterated its moons, as well as all other planets in its star system. The planet was located in the Ardos system, in the Hutt Space oversector. It was the original capital of the Hutt Empire, from the empire's formation in 25,200 BBY, to the planet's destruction in 15,000 BBY, where the Hutts relocated to Nal Hutta, as the sector and empire's new capital.",
+  "lead_paragraphs": [
+    "Varl was the original homeworld of the Hutts, t'landa Til, and possibly the Rybets. According to Hutt legend, it was devastated in a cataclysm that vaporized its atmosphere and obliterated its moons, as well as all other planets in its star system. The planet was located in the Ardos system, in the Hutt Space oversector. It was the original capital of the Hutt Empire, from the empire's formation in 25,200 BBY, to the planet's destruction in 15,000 BBY, where the Hutts relocated to Nal Hutta, as the sector and empire's new capital."
+  ],
+  "article_sections": [
+    "History",
+    "  Early history",
+    "  The cataclysm",
+    "    Speculation",
+    "  Later history",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Varl",
+    "region": "Mid Rim",
+    "sector": "Hutt Space",
+    "system": "Ardos system",
+    "coordinates": "S-11",
+    "suns": [
+      "1: Ardos",
+      "2: Ardos and Evona (formerly)"
+    ],
+    "moons": "Yev'anaha Belt",
+    "lengthday": "29 hours",
+    "lengthyear": "378 days",
+    "atmosphere": "None",
+    "terrain": [
+      "Modern:",
+      "Airless craters",
+      "Domed cities",
+      "Historic:",
+      "Polluted wastelands",
+      "Ancient:",
+      "Forests",
+      "Oceans"
+    ],
+    "fauna": [
+      "Armored vrblther",
+      "Photon spider",
+      "Thota",
+      "Formerly:",
+      "Vrblther"
+    ],
+    "species": [
+      "Formerly:",
+      "Hutt",
+      "Rybet",
+      "T'landa Til"
+    ],
+    "otherspecies": [
+      "Klatooinian",
+      "Nikto",
+      "Twi'lek",
+      "Vodran"
+    ],
+    "language": [
+      "Huttese",
+      "Formerly:",
+      "Rybese"
+    ],
+    "government": "Hutt Ruling Council",
+    "population": [
+      "176,000:",
+      "  39% Klatooinian",
+      "  21% Nikto",
+      "  17% Twi'lek",
+      "  23% other"
+    ],
+    "cities": "No major cities",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Infinite Empire",
+      "Hutt Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Hutt",
+      "directory": "Hutt",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Hutt",
+      "directory": "Hutt (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Rybet",
+      "directory": "Rybet (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "t'landa Til",
+      "directory": "T'landa Til",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Varl",
+    "x": 11551.0,
+    "y": -2334.9,
+    "z": -102.5,
+    "region": "Hutt Space",
+    "grid": "S-11"
+  },
+  "scraped": "2026-07-03"
+}

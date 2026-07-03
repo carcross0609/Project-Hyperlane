@@ -1,0 +1,61 @@
+{
+  "name": "Polis Massa",
+  "wookieepedia_title": "Polis Massa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Polis_Massa",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Polis Massa was a planetoid in a dense asteroid field located in the Subterrel sector of the galaxy's Outer Rim Territories, far from any major hyperspace lanes. At some point, Polis Massa was a planet located within the system of the same name. The planet was home to a subterranean people called the Eellayin until it was destroyed. But the rocky fragments of the planet still held relics of the Eelayin, which were collected and studied by Kallidahin archaeologists.",
+  "lead_paragraphs": [
+    "Polis Massa was a planetoid in a dense asteroid field located in the Subterrel sector of the galaxy's Outer Rim Territories, far from any major hyperspace lanes. At some point, Polis Massa was a planet located within the system of the same name. The planet was home to a subterranean people called the Eellayin until it was destroyed. But the rocky fragments of the planet still held relics of the Eelayin, which were collected and studied by Kallidahin archaeologists."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Polis Massa",
+    "region": "Outer Rim Territories",
+    "sector": "Subterrel sector",
+    "system": "Polis Massa system",
+    "coordinates": "K-20",
+    "class": "Planetoid",
+    "atmosphere": "Type IV",
+    "climate": "Formerly arid, now none",
+    "gravity": "0.56 standard",
+    "terrain": [
+      "Asteroids",
+      "rocky"
+    ],
+    "interest": [
+      "The Local Dig",
+      "Polis Massa Base"
+    ],
+    "species": "Eellayin",
+    "otherspecies": "Kallidahin",
+    "cities": "Polis Massa Base",
+    "affiliation": [
+      "Archaeological Research Council",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Eellayin",
+      "directory": "Eellayin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Eellayin",
+      "directory": "Eellayin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Polis Massa",
+    "x": -465.4,
+    "y": -16097.4,
+    "z": 85.6,
+    "region": "Outer Rim",
+    "grid": "K-20"
+  },
+  "scraped": "2026-07-03"
+}

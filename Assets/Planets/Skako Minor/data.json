@@ -1,0 +1,75 @@
+{
+  "name": "Skako Minor",
+  "wookieepedia_title": "Skako Minor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skako_Minor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Skako Minor, sometimes referred to as simply Skako, was a planet that was the homeworld of the Poletec species. It was controlled by the Techno Union, whose headquarters was the city of Purkoll. Despite the Techno Union's ostensible neutrality, Skako Minor was captured by the Galactic Republic during the Clone Wars, and its successor, the Galactic Empire, maintained the occupation into the Galactic Civil War.",
+  "lead_paragraphs": [
+    "Skako Minor, sometimes referred to as simply Skako, was a planet that was the homeworld of the Poletec species. It was controlled by the Techno Union, whose headquarters was the city of Purkoll. Despite the Techno Union's ostensible neutrality, Skako Minor was captured by the Galactic Republic during the Clone Wars, and its successor, the Galactic Empire, maintained the occupation into the Galactic Civil War."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Society and culture",
+    "Locations"
+  ],
+  "data": {
+    "name": "Skako Minor",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Skako system",
+    "coordinates": "L-9",
+    "class": "Terrestrial",
+    "atmosphere": "Hydrogen sulphide",
+    "climate": "Temperate",
+    "terrain": [
+      "Canyons",
+      "Caverns",
+      "Craters",
+      "Fungal forests",
+      "Mountains"
+    ],
+    "interest": "Wat Tambor's workshop",
+    "flora": [
+      "Mushrooms",
+      "Vines"
+    ],
+    "fauna": [
+      "Cliff worm",
+      "Keeradak"
+    ],
+    "species": "Poletec",
+    "otherspecies": "Skakoan",
+    "language": "Poletec language",
+    "government": [
+      "Ruling Council",
+      "Skakoan Council"
+    ],
+    "cities": [
+      "Poletec village",
+      "Purkoll"
+    ],
+    "affiliation": [
+      "Techno Union",
+      "Confederacy of Independent Systems (secretly)",
+      "Galactic Empire (occupied)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Poletec",
+      "directory": "Poletec",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Skako Minor",
+    "x": 1142.8,
+    "y": 154.6,
+    "z": 15.7,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

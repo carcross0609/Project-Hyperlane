@@ -1,0 +1,41 @@
+{
+  "name": "Kesh",
+  "wookieepedia_title": "Kesh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kesh",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kesh was a planet located in the Kesh system in Wild Space, in grid square U-10 of the Standard Galactic Grid, past the eastern edge of the Outer Rim Territories. It was the homeworld of the Keshiri species, and the planet never joined the Galactic Republic.",
+  "lead_paragraphs": [
+    "Kesh was a planet located in the Kesh system in Wild Space, in grid square U-10 of the Standard Galactic Grid, past the eastern edge of the Outer Rim Territories. It was the homeworld of the Keshiri species, and the planet never joined the Galactic Republic."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kesh",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Kesh system",
+    "coordinates": "U-10",
+    "species": "Keshiri"
+  },
+  "homeworld_of": [
+    {
+      "name": "Keshiri",
+      "directory": "Keshiri",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Keshiri",
+      "directory": "Keshiri (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kesh",
+    "x": 14564.9,
+    "y": -499.3,
+    "z": 617.0,
+    "region": "Wild Space",
+    "grid": "U-10"
+  },
+  "scraped": "2026-07-03"
+}

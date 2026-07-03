@@ -1,0 +1,83 @@
+{
+  "name": "Recopia",
+  "wookieepedia_title": "Recopia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Recopia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Recopia was a planet in the Recopi system in the Core Worlds, between the Corellian Run and the Hydian Way. It was the site of the annual Bandercamp Auctions in the Hinder Market.",
+  "lead_paragraphs": [
+    "Recopia was a planet in the Recopi system in the Core Worlds, between the Corellian Run and the Hydian Way. It was the site of the annual Bandercamp Auctions in the Hinder Market."
+  ],
+  "article_sections": [
+    "Geographic features",
+    "History"
+  ],
+  "data": {
+    "name": "Recopia",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "system": "Recopi system",
+    "coordinates": "M-11",
+    "suns": "1: Recopi",
+    "position": "4",
+    "moons": "3",
+    "lengthday": "20 standard hours",
+    "lengthyear": "286 standard days",
+    "class": "Terrestrial",
+    "diameter": "14,463 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Sulfurous oceans",
+      "Plateau islands"
+    ],
+    "interest": [
+      "Hinder Market",
+      "Mallif Cove",
+      "Tuldok Ranch"
+    ],
+    "fauna": "Krendels",
+    "species": "Pecoppi parrot (barely sentient)",
+    "otherspecies": [
+      "Humans",
+      "Duros",
+      "Bothans"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Loose federation of city-states",
+    "population": [
+      "200 million",
+      "74% Human",
+      "4% Duros",
+      "3% Bothan"
+    ],
+    "cities": "Scapio (capital)",
+    "imports": "High-tech goods",
+    "exports": "Exotic animals",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Pecoppi parrot",
+      "directory": "Pecoppi parrot",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Recopia",
+    "x": 2291.7,
+    "y": -1856.5,
+    "z": 146.6,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

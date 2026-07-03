@@ -1,0 +1,49 @@
+{
+  "name": "Binaros",
+  "wookieepedia_title": "Binaros",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Binaros",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Binaros was a planet located in the Kathol Outback.",
+  "lead_paragraphs": [
+    "Binaros was a planet located in the Kathol Outback."
+  ],
+  "article_sections": [
+    "Geography",
+    "Flora and fauna",
+    "History",
+    "  Early settlement",
+    "  Imperial control",
+    "  Arrival of the FarStar"
+  ],
+  "data": {
+    "name": "Binaros",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Kathol sector",
+      "  Kathol Outback"
+    ],
+    "system": "Binaros system",
+    "coordinates": "M-21",
+    "lengthday": "32 hours",
+    "lengthyear": "110 standard days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": "Early succession tropical forests, oceans",
+    "interest": "Imperial Research Station",
+    "fauna": "Binarian sabercat",
+    "demonym": "Binarian",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Binaros",
+    "x": 2246.3,
+    "y": -17364.0,
+    "z": -187.4,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sevetta",
+  "wookieepedia_title": "Sevetta/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sevetta/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sevetta was a planet with an atmosphere toxic to Humans.",
+  "lead_paragraphs": [
+    "Sevetta was a planet with an atmosphere toxic to Humans."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sevetta",
+    "region": "Outer Rim Territories",
+    "sector": "Sevetta sector",
+    "system": "Sevetta system",
+    "coordinates": "T-16",
+    "terrain": [
+      "Volcanoes",
+      "Mercury lakes"
+    ],
+    "species": "Polydroxols",
+    "language": "Galactic Basic Standard"
+  },
+  "homeworld_of": [
+    {
+      "name": "Polydroxol",
+      "directory": "Polydroxol",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified mercury-based species",
+      "directory": "Unidentified mercury-based species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Sevetta",
+    "x": 13123.9,
+    "y": -10070.9,
+    "z": 387.8,
+    "region": "Outer Rim",
+    "grid": "T-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Guiteica",
+  "wookieepedia_title": "Guiteica",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Guiteica",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Guiteica was a planet within the Guiteica system in the Kadok Regions of Wild Space that was the homeworld of the Bitthævrian species. Historically, Kaleesh warlords, from the neighboring planet Kalee, took roggwarts from Guiteica as trophies.",
+  "lead_paragraphs": [
+    "Guiteica was a planet within the Guiteica system in the Kadok Regions of Wild Space that was the homeworld of the Bitthævrian species. Historically, Kaleesh warlords, from the neighboring planet Kalee, took roggwarts from Guiteica as trophies."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Guiteica",
+    "region": "Wild Space",
+    "sector": "Kadok Regions",
+    "system": "Guiteica system",
+    "coordinates": "J-4",
+    "fauna": "Roggwart",
+    "species": "Bitthævrian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bitthævrian",
+      "directory": "Bitthævrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Guiteica",
+    "x": -2645.9,
+    "y": 8762.2,
+    "z": 124.7,
+    "region": "Wild Space",
+    "grid": "J-4"
+  },
+  "scraped": "2026-07-03"
+}

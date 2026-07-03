@@ -1,0 +1,51 @@
+{
+  "name": "Patitite Pattuna",
+  "wookieepedia_title": "Patitite Pattuna/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Patitite_Pattuna/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Patitite Pattuna was a planet close to the world Balnab that was home to the diminutive Patitite species.",
+  "lead_paragraphs": [
+    "Patitite Pattuna was a planet close to the world Balnab that was home to the diminutive Patitite species."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Patitite Pattuna",
+    "region": "Mid Rim",
+    "sector": "Bright Jewel sector",
+    "system": "Patitite Pattuna system",
+    "coordinates": "L-7",
+    "class": "Terrestrial",
+    "terrain": "Swamps",
+    "species": "Patitite",
+    "language": "Galactic Basic Standard",
+    "government": [
+      "Dictatorship (formerly)",
+      "Democracy"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Patitite",
+      "directory": "Patitite",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Patitite",
+      "directory": "Patitite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Patitite Pattuna",
+    "x": 358.1,
+    "y": 3370.0,
+    "z": 51.8,
+    "region": "Mid Rim",
+    "grid": "L-7"
+  },
+  "scraped": "2026-07-03"
+}

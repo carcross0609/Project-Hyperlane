@@ -1,0 +1,43 @@
+{
+  "name": "Trascor",
+  "wookieepedia_title": "Trascor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trascor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Trascor was a terrestrial planet located in the Trascor system, a part of the Corva sector in the New Territories portion of the Outer Rim Territories. It featured the large island continent Klypash.",
+  "lead_paragraphs": [
+    "Trascor was a terrestrial planet located in the Trascor system, a part of the Corva sector in the New Territories portion of the Outer Rim Territories. It featured the large island continent Klypash.",
+    "The Shatras, a species of four-eyed sentient reptilians, evolved on Trascor. The species was divided into five races, including the Hy'tras and the dominant Y'tras, and the Shatras fought extensive racial wars centuries prior to 2 ABY. After the conflicts, the Hy'tras willingly reverted to a more primitive level of technology and made a bargain with the Y'tras in which the former surrendered all of their accumulated wealth in return for the latter leaving them alone.",
+    "Subsequently, the Hy'tras only resided on Klypash—with the other three Shatras races inhabiting other regions of Trascor—while members of the dominant Y'tras eventually left their homeworld for the wider galaxy. The Shatras bounty hunter Ssach'thirix hailed from Trascor."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Trascor",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Corva sector",
+    "system": "Trascor system",
+    "coordinates": "P-3",
+    "class": "Terrestrial",
+    "interest": "Klypash",
+    "species": "Shatras"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shatras",
+      "directory": "Shatras",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Trascor",
+    "x": 6683.3,
+    "y": 9695.6,
+    "z": -523.3,
+    "region": "Outer Rim",
+    "grid": "P-3"
+  },
+  "scraped": "2026-07-03"
+}

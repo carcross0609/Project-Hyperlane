@@ -1,0 +1,44 @@
+{
+  "name": "Isht",
+  "wookieepedia_title": "Isht",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Isht",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Isht was the Ishori homeworld. It was directly represented in the New Republic Senate.",
+  "lead_paragraphs": [
+    "Isht was the Ishori homeworld. It was directly represented in the New Republic Senate."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Isht",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "sector": "Ishori Confederene",
+    "system": "Isht system",
+    "coordinates": "L-13",
+    "species": "Ishori",
+    "language": "Ishori",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ishori",
+      "directory": "Ishori",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Isht",
+    "x": 1095.4,
+    "y": -5433.1,
+    "z": 247.4,
+    "region": "Core Worlds",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

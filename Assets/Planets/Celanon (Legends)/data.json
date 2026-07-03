@@ -1,0 +1,103 @@
+{
+  "name": "Celanon",
+  "wookieepedia_title": "Celanon/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Celanon/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Celanon was an important spaceport on the Celanon Spur, in the Outer Rim Territories, and was the Nalroni homeworld.",
+  "lead_paragraphs": [
+    "Celanon was an important spaceport on the Celanon Spur, in the Outer Rim Territories, and was the Nalroni homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Celanon",
+    "region": "Outer Rim Territories",
+    "sector": "D'Astan sector",
+    "system": "Celanon system",
+    "coordinates": "O-6",
+    "suns": "1: Nalros (yellow)",
+    "position": "1",
+    "moons": "0",
+    "routes": [
+      "Celanon Spur",
+      "Hydian Way",
+      "Spurs of Celanon"
+    ],
+    "lengthday": "32 standard hours",
+    "lengthyear": "387 or 187 local days",
+    "class": "Terrestrial (agricultural plains)",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Plains",
+      "Urban sprawl"
+    ],
+    "water": "Oceans",
+    "interest": [
+      "Arradi",
+      "Cekbar",
+      "Celanon Merchant Guild Medical Facility",
+      "Celanon Spaceport",
+      "Celanon Spaceport Control",
+      "Desetur",
+      "Gularg's Libation Emporium",
+      "Holvi",
+      "Jelldar",
+      "Runnor",
+      "Teelian's Electronic Emporium",
+      "A bar"
+    ],
+    "species": "Nalroni",
+    "otherspecies": [
+      "Bith",
+      "Duros",
+      "Human"
+    ],
+    "language": [
+      "Nalros",
+      "Galactic Basic Standard"
+    ],
+    "government": "Trade guilds (Celanon City), tribal (rural areas)",
+    "population": [
+      "26 million (permanent), up to 40 million additional transients",
+      "10 million to 100 million (c. 25 ABY)"
+    ],
+    "cities": "Celanon City (capital)",
+    "imports": "Luxury goods, bulk trade goods",
+    "exports": "Foodstuffs, bulk trade goods",
+    "affiliation": [
+      "Galactic Republic",
+      "Mandalorian Neo-Crusaders",
+      "Darth Revan's Sith Empire",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Imperial Remnant",
+      "Yuuzhan Vong empire",
+      "Galactic Alliance",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Nalroni",
+      "directory": "Nalroni (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Celanon",
+    "x": 5536.2,
+    "y": 5834.5,
+    "z": -249.3,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

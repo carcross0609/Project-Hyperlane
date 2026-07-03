@@ -1,0 +1,73 @@
+{
+  "name": "Sanctuary",
+  "wookieepedia_title": "Sanctuary/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sanctuary/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sanctuary, a small, island-dotted oceanic planet located in Mon Calamari Space, was one of the oldest and most well-known Rebel Alliance safe world colonies, predating the Declaration of Rebellion. Sanctuary was originally settled by religious pacifists dodging an Imperial draft. These colonists joined the Alliance on the condition that they would not have to fight in the war against the Galactic Empire. So began a mutually beneficial relationship, in which Sanctuary accepted all manner of Rebels and political exiles seeking asylum from Imperial oppression in exchange for equipment that would boost the planet's agricultural capability.",
+  "lead_paragraphs": [
+    "Sanctuary, a small, island-dotted oceanic planet located in Mon Calamari Space, was one of the oldest and most well-known Rebel Alliance safe world colonies, predating the Declaration of Rebellion. Sanctuary was originally settled by religious pacifists dodging an Imperial draft. These colonists joined the Alliance on the condition that they would not have to fight in the war against the Galactic Empire. So began a mutually beneficial relationship, in which Sanctuary accepted all manner of Rebels and political exiles seeking asylum from Imperial oppression in exchange for equipment that would boost the planet's agricultural capability.",
+    "As the war progressed, Sanctuary's population swelled to nearly thirty thousand, while the refugees' surplus in food production enabled them to export many tons of fish and grains to the Rebel cause each year. Although Sanctuary's location remained strictly classified, the planet's name became synonymous with Alliance safe worlds, as Rebel troops began referring to anyone who mysteriously disappeared as having \"found Sanctuary.\""
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Sanctuary",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Calamari sector",
+    "system": "Sanctuary system",
+    "coordinates": "U-7",
+    "routes": [
+      "Tidal Circuit",
+      "Prously's Rim Run"
+    ],
+    "lengthday": "22 standard hours",
+    "lengthyear": "312 local days",
+    "class": "Terrestrial ocean world",
+    "atmosphere": "Type I (breathable for humans)",
+    "climate": [
+      "Temperate",
+      "Moist hydrosphere"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Oceans",
+      "Islands"
+    ],
+    "flora": "Seaweed",
+    "fauna": "Fish life",
+    "otherspecies": [
+      "Human",
+      "Many other refugee species"
+    ],
+    "government": "Alliance–affiliated independent villages",
+    "population": "29,000",
+    "imports": [
+      "Refugees",
+      "Technology items"
+    ],
+    "exports": [
+      "Fish",
+      "Grains",
+      "Vegetable fiber for clothing",
+      "Alliance military uniforms"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Sanctuary",
+    "x": 13801.7,
+    "y": 4432.0,
+    "z": -362.2,
+    "region": "Outer Rim",
+    "grid": "U-7"
+  },
+  "scraped": "2026-07-03"
+}

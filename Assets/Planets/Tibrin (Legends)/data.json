@@ -1,0 +1,68 @@
+{
+  "name": "Tibrin",
+  "wookieepedia_title": "Tibrin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tibrin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tibrin (pronounced /ˈtɪbrɪn/ or /tɪˈbrɪn/) was a planet located within the Mid Rim and the homeworld of the Ishi Tib.",
+  "lead_paragraphs": [
+    "Tibrin (pronounced /ˈtɪbrɪn/ or /tɪˈbrɪn/) was a planet located within the Mid Rim and the homeworld of the Ishi Tib."
+  ],
+  "article_sections": [
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Tibrin",
+    "region": "Mid Rim",
+    "sector": "Hadar sector",
+    "system": "Cal system",
+    "coordinates": "L-18",
+    "suns": "1: Cal",
+    "moons": "1: Plah",
+    "climate": "Tropical",
+    "terrain": [
+      "Coral reefs",
+      "Sand bars"
+    ],
+    "water": "Shallow ocean",
+    "interest": [
+      "Blue North Reef",
+      "Suribran Tu's palace"
+    ],
+    "flora": "Explosive Algae",
+    "fauna": "Tibrin kelp-gnat",
+    "species": "Ishi Tib",
+    "language": "Tibranese",
+    "government": "Dictatorship",
+    "population": "100 to 500 million (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Alliance of Free Planets",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ishi Tib",
+      "directory": "Ishi Tib",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ishi Tib",
+      "directory": "Ishi Tib (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tibrin",
+    "x": 1073.7,
+    "y": -12023.0,
+    "z": 263.8,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

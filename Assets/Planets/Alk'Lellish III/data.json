@@ -1,0 +1,57 @@
+{
+  "name": "Alk'Lellish III",
+  "wookieepedia_title": "Alk'Lellish III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alk%27Lellish_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alk'Lellish III was a planet in the Alk'Lellish system of the Sumitra sector. It was the homeworld of the Lellish, as well as the dangerous carnivore known as the ketrann. Wilek Nereus hunted the ketrann at one point.",
+  "lead_paragraphs": [
+    "Alk'Lellish III was a planet in the Alk'Lellish system of the Sumitra sector. It was the homeworld of the Lellish, as well as the dangerous carnivore known as the ketrann. Wilek Nereus hunted the ketrann at one point."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Alk'Lellish III",
+    "region": [
+      "Expansion Region",
+      "Trans-Hydian"
+    ],
+    "sector": "Sumitra sector",
+    "system": "Alk'Lellish system",
+    "coordinates": "N-7",
+    "position": "3",
+    "class": "Terrestrial",
+    "terrain": [
+      "Jungles",
+      "Oceans"
+    ],
+    "fauna": [
+      "Ketrann",
+      "Metarshi"
+    ],
+    "species": "Lellish",
+    "exports": "Wild game",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lellish",
+      "directory": "Lellish",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alk'lellish III",
+    "x": 4114.2,
+    "y": 3631.1,
+    "z": -3.4,
+    "region": "Outer Rim",
+    "grid": "N-7"
+  },
+  "scraped": "2026-07-03"
+}

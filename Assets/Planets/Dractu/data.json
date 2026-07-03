@@ -1,0 +1,62 @@
+{
+  "name": "Dractu",
+  "wookieepedia_title": "Dractu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dractu",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dractu was a peaceful, undeveloped planet in the Mid Rim, within the borders of Lannik Space, but far from any hyperlanes. It was the homeworld of the Dractuvian people. According to Jedi Knight Obi-Wan Kenobi, the planet had the worst food in the galaxy.",
+  "lead_paragraphs": [
+    "Dractu was a peaceful, undeveloped planet in the Mid Rim, within the borders of Lannik Space, but far from any hyperlanes. It was the homeworld of the Dractuvian people. According to Jedi Knight Obi-Wan Kenobi, the planet had the worst food in the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "  Geography and wild life",
+    "  Sentient inhabitants",
+    "History"
+  ],
+  "data": {
+    "name": "Dractu",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Lannik Space",
+    "system": "Dractu system",
+    "coordinates": "Q-13",
+    "suns": "At least 1",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": "Mountains and forests",
+    "water": "Some water sources",
+    "interest": "Dractuvian village",
+    "flora": "Trees",
+    "fauna": [
+      "Cave slug",
+      "Caveworm",
+      "A turtle-like creature",
+      "A small green animal",
+      "A giant arachnid",
+      "A herbivorous grazing animal",
+      "Birds"
+    ],
+    "species": "Dractuvian",
+    "demonym": "Dractuvian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Dractuvian",
+      "directory": "Dractuvian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dractu",
+    "x": 8838.1,
+    "y": -5085.9,
+    "z": -202.9,
+    "region": "Mid Rim",
+    "grid": "Q-13"
+  },
+  "scraped": "2026-07-03"
+}

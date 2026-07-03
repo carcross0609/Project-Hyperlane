@@ -1,0 +1,50 @@
+{
+  "name": "Kiros",
+  "wookieepedia_title": "Kiros/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kiros/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kiros was an idyllic world filled with vast green valleys and flowing waterfalls. Located in the Expansion Region, the planet served as the site of a colony of Togruta artists.",
+  "lead_paragraphs": [
+    "Kiros was an idyllic world filled with vast green valleys and flowing waterfalls. Located in the Expansion Region, the planet served as the site of a colony of Togruta artists."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kiros",
+    "region": [
+      "Expansion Region",
+      "Northern Dependencies"
+    ],
+    "sector": "Ehosiq sector",
+    "system": "Kiros system",
+    "coordinates": "L-8",
+    "moons": "2",
+    "terrain": [
+      "Fertile valleys",
+      "Riverways",
+      "Waterfalls"
+    ],
+    "interest": "Artisan colony",
+    "fauna": "Kiros bird",
+    "otherspecies": "Togruta",
+    "language": "Galactic Basic Standard",
+    "government": "A ruling governor",
+    "population": "50,000",
+    "affiliation": [
+      "Togruta",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kiros",
+    "x": 1100.8,
+    "y": 2688.6,
+    "z": -102.0,
+    "region": "Expansion Region",
+    "grid": "L-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Penovia",
+  "wookieepedia_title": "Penovia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Penovia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Penovia was a planet in the Recopi system. It was a gas giant with fourteen moons.",
+  "lead_paragraphs": [
+    "Penovia was a planet in the Recopi system. It was a gas giant with fourteen moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Penovia",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "system": "Recopi system",
+    "coordinates": "M-11",
+    "moons": "14",
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Penovia",
+    "x": 2364.8,
+    "y": -2096.1,
+    "z": -12.5,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Kirtania",
+  "wookieepedia_title": "Kirtania",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kirtania",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kirtania was the homeworld of the spider-like, pacifist Araquia people. The Kubaz crime lord Schnil Hakoon settled on the planet and centered his operations in Kinkosa City.",
+  "lead_paragraphs": [
+    "Kirtania was the homeworld of the spider-like, pacifist Araquia people. The Kubaz crime lord Schnil Hakoon settled on the planet and centered his operations in Kinkosa City."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kirtania",
+    "region": "Outer Rim Territories",
+    "sector": "Nembus sector",
+    "system": "Yyrtan system",
+    "coordinates": "P-4",
+    "suns": "Yyrta",
+    "position": "4",
+    "lengthday": "23 standard hours",
+    "lengthyear": "369 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Arctic",
+      "Desert",
+      "Jungle",
+      "Mountains",
+      "Plains"
+    ],
+    "flora": "Liana",
+    "fauna": [
+      "Croaker",
+      "Jungle slinker",
+      "Predator lizard",
+      "River serpent",
+      "Swinging screecher",
+      "Web weaver"
+    ],
+    "species": "Araquia",
+    "otherspecies": "Human",
+    "government": "Competing economic states (Dulai, Kinkosa, and Surana)",
+    "population": [
+      "1,500 Araquia",
+      "2 million Humans",
+      "10,000 non-native races"
+    ],
+    "cities": "Kinkosa City",
+    "imports": "High technology",
+    "exports": [
+      "Medicine",
+      "Raw materials",
+      "Metals"
+    ],
+    "affiliation": "Kinkosa State allied with Galactic Empire at some point during the Galactic Civil War"
+  },
+  "homeworld_of": [
+    {
+      "name": "Araquia",
+      "directory": "Araquia",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kirtania",
+    "x": 6644.6,
+    "y": 7793.4,
+    "z": 101.6,
+    "region": "Outer Rim",
+    "grid": "P-4"
+  },
+  "scraped": "2026-07-03"
+}

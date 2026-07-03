@@ -1,0 +1,35 @@
+{
+  "name": "Gorobei",
+  "wookieepedia_title": "Gorobei/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gorobei/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gorobei was a planet located in the Inner Rim's Gorobei system. It was the homeworld of the sentient humanoid Frenk species, including the bounty hunters Rumi Paramita and Twazzi.",
+  "lead_paragraphs": [
+    "Gorobei was a planet located in the Inner Rim's Gorobei system. It was the homeworld of the sentient humanoid Frenk species, including the bounty hunters Rumi Paramita and Twazzi."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gorobei",
+    "region": "Inner Rim",
+    "system": "Gorobei system",
+    "coordinates": "M-8",
+    "species": "Frenk"
+  },
+  "homeworld_of": [
+    {
+      "name": "Frenk",
+      "directory": "Frenk (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gorobei",
+    "x": 1243.4,
+    "y": -6097.3,
+    "z": 13.8,
+    "region": "Inner Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

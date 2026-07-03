@@ -1,0 +1,49 @@
+{
+  "name": "Noquivzor",
+  "wookieepedia_title": "Noquivzor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Noquivzor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Noquivzor was a planet located in the Colonies.",
+  "lead_paragraphs": [
+    "Noquivzor was a planet located in the Colonies."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Noquivzor",
+    "region": "Colonies",
+    "system": "Noquivzor system",
+    "coordinates": "K-9",
+    "routes": "Shwuy Exchange",
+    "class": "Terrestrial",
+    "climate": "Arid",
+    "terrain": "Plains",
+    "interest": [
+      "New Republic Hall",
+      "Noquivzor Base"
+    ],
+    "fauna": [
+      "Taopari",
+      "Wildernerf"
+    ],
+    "language": "None; formerly: Basic",
+    "population": "0",
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Noquivzor",
+    "x": -690.4,
+    "y": 1491.9,
+    "z": -30.4,
+    "region": "Colonies",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

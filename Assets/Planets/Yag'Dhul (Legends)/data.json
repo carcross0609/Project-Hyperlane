@@ -1,0 +1,100 @@
+{
+  "name": "Yag'Dhul",
+  "wookieepedia_title": "Yag'Dhul/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yag%27Dhul/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yag'Dhul was a small world located in the Inner Rim at the intersection of the Rimma Trade Route and the Corellian Trade Spine. The complex interaction of orbits and rotations between Yag'Dhul and its three moons meant that the planet was continually beset by massive tidal forces powerful enough to pull the atmosphere into different regions, exposing large areas of the surface to hard vacuum.",
+  "lead_paragraphs": [
+    "Yag'Dhul was a small world located in the Inner Rim at the intersection of the Rimma Trade Route and the Corellian Trade Spine. The complex interaction of orbits and rotations between Yag'Dhul and its three moons meant that the planet was continually beset by massive tidal forces powerful enough to pull the atmosphere into different regions, exposing large areas of the surface to hard vacuum.",
+    "It was the homeworld of the Givin, who evolved a sealable exoskeleton that allowed them to survive in vacuum. The desire to maximize advantages had led the Givin to switch alliances as variables changed, such as when they had allied themselves with the Separatists during the Clone Wars era and later with the New Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "  Planetology",
+    "  Inhabitants",
+    "    Natural challenges",
+    "    Intellectual society",
+    "History",
+    "  Republican era",
+    "    Early history",
+    "    The development of the shipbuilding industry",
+    "    Separatists crisis",
+    "    The war that divided the galaxy",
+    "  Under the Empire and the rise of the New Republic",
+    "  Yuuzhan Vong War and the years that followed"
+  ],
+  "data": {
+    "name": "Yag'Dhul",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Yag'Dhul system",
+    "coordinates": "L-14",
+    "suns": "1",
+    "moons": "3",
+    "routes": [
+      "Corellian Trade Spine",
+      "Hidakai Pool",
+      "Rimma Trade Route"
+    ],
+    "lengthday": "175 standard hours",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable but dynamic, with areas of hard vacuum",
+    "climate": "Hostile; from frigid polar regions to sultry equatorial areas",
+    "terrain": "It depended on the position of the atmosphere, ranging from habitable zones to frozen plains",
+    "water": "Oceans, lakes and ponds",
+    "interest": [
+      "First Temple of Prime",
+      "Givin Senatorial Tesseract",
+      "Yag-prime",
+      "Yag'Dhul shipyards"
+    ],
+    "flora": "Floating flowers",
+    "fauna": "Water mammals and other animals",
+    "species": "Givin",
+    "language": "Givin",
+    "government": [
+      "Theocratic mathematocracy",
+      "Elected planetary governor and ruling bodies known as the Body Calculus and the coalition of Factors"
+    ],
+    "population": "Millions (26.5 ABY)",
+    "cities": "Dodecapolis (capital)",
+    "imports": "Foodstuffs",
+    "exports": "High and mid technology",
+    "affiliation": [
+      "Corellian Hegemony",
+      "Galactic Republic",
+      "Darth Revan's Sith Empire",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Eriadu Authority",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Givin",
+      "directory": "Givin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Givin",
+      "directory": "Givin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yag'Dhul",
+    "x": 1297.2,
+    "y": -7348.0,
+    "z": 339.2,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

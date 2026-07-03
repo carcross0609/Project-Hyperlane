@@ -1,0 +1,52 @@
+{
+  "name": "Filordis",
+  "wookieepedia_title": "Filordis/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Filordis/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Filordis was a rocky planet located in the Larrin sector of the Inner Rim. It was a harsh world of fierce winds and frequent thunderstorms. The Filordi, the planet's native species of six-limbed sentients, often either left their homeworld for better living conditions elsewhere or attempted to terraform it. The territory of space surrounding Filordis was already explored by 20,000 BBY, and the Filordi became a partner species of the Metatheran Cartel by 33 BBY.",
+  "lead_paragraphs": [
+    "Filordis was a rocky planet located in the Larrin sector of the Inner Rim. It was a harsh world of fierce winds and frequent thunderstorms. The Filordi, the planet's native species of six-limbed sentients, often either left their homeworld for better living conditions elsewhere or attempted to terraform it. The territory of space surrounding Filordis was already explored by 20,000 BBY, and the Filordi became a partner species of the Metatheran Cartel by 33 BBY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Filordis",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "sector": "Larrin sector",
+    "system": "Filordis system",
+    "coordinates": "N-8",
+    "suns": "1",
+    "class": "Terrestrial",
+    "climate": [
+      "Fierce winds",
+      "Frequent thunderstorms"
+    ],
+    "terrain": "Rocky wasteland",
+    "species": "Filordi",
+    "language": "Filordian",
+    "population": "1–10 million (Filordis system) (25 ABY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Filordus",
+      "directory": "Filordus",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Filordis",
+    "x": 3582.6,
+    "y": 2205.0,
+    "z": -11.5,
+    "region": "Inner Rim",
+    "grid": "N-8"
+  },
+  "scraped": "2026-07-03"
+}

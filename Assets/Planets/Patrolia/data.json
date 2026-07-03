@@ -1,0 +1,42 @@
+{
+  "name": "Patrolia",
+  "wookieepedia_title": "Patrolia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Patrolia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Patrolia was an aquatic planet in the Patrolia system of the Inner Rim Territories that was the homeworld of the Patrolian species. The Patrolian bounty hunter Robonino, who was active during the Clone Wars, hailed from Patrolia.",
+  "lead_paragraphs": [
+    "Patrolia was an aquatic planet in the Patrolia system of the Inner Rim Territories that was the homeworld of the Patrolian species. The Patrolian bounty hunter Robonino, who was active during the Clone Wars, hailed from Patrolia."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Patrolia",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Patrolia system",
+    "coordinates": "L-14",
+    "terrain": "Aquatic",
+    "species": "Patrolian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Patrolian",
+      "directory": "Patrolian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Patrolian",
+      "directory": "Patrolian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Patrolia",
+    "x": 1297.7,
+    "y": -6357.3,
+    "z": -129.9,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

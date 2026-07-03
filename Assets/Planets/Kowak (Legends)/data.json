@@ -1,0 +1,94 @@
+{
+  "name": "Kowak",
+  "wookieepedia_title": "Kowak/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kowak/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kowak was a tropical planet in the Outer Rim and the homeworld of the Kowakian monkey-lizard species.",
+  "lead_paragraphs": [
+    "Kowak was a tropical planet in the Outer Rim and the homeworld of the Kowakian monkey-lizard species."
+  ],
+  "article_sections": [
+    "Geology",
+    "History"
+  ],
+  "data": {
+    "name": "Kowak",
+    "region": "Outer Rim Territories",
+    "sector": "Sevetta sector",
+    "system": "Kowak system",
+    "coordinates": "S-16",
+    "lengthday": "23 standard hours",
+    "lengthyear": "311 standard days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Humid",
+    "terrain": [
+      "Rainforests",
+      "Plateaus",
+      "Oceans"
+    ],
+    "interest": "Molec Royal Palace",
+    "fauna": "Kowakian monkey-lizard",
+    "otherspecies": [
+      "Zygerrians",
+      "Humans",
+      "Twi'leks",
+      "Theelins",
+      "Wookiees",
+      "Rodians",
+      "Togrutas",
+      "Ugnaughts",
+      "Thalassians"
+    ],
+    "language": [
+      "Zygerrian",
+      "Huttese",
+      "Basic"
+    ],
+    "government": "Colonial governorship",
+    "population": [
+      "40,000–60,000 free sentients",
+      "200,000–400,000 slaves"
+    ],
+    "demonym": "Kowakian",
+    "cities": [
+      "Sclavos",
+      "Lanturi",
+      "Caden"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Slaves",
+      "Technology"
+    ],
+    "exports": "Slaves",
+    "affiliation": "Zygerrian Slave Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kowakian monkey-lizard",
+      "directory": "Kowakian monkey-lizard",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kowakian monkey-lizard",
+      "directory": "Kowakian monkey-lizard (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Mole-flea",
+      "directory": "Mole-flea",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Kowak",
+    "x": 11878.2,
+    "y": -9031.1,
+    "z": -342.4,
+    "region": "Outer Rim",
+    "grid": "S-16"
+  },
+  "scraped": "2026-07-03"
+}

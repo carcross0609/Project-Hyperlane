@@ -1,0 +1,115 @@
+{
+  "name": "Dagobah",
+  "wookieepedia_title": "Dagobah",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dagobah",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Dagobah was a remote, unexplored planet in the Dagobah system, and one of the purest places in the galaxy within the Force. A remote world of swamps and forests, it served as a refuge for Jedi Grand Master Yoda during his exile after the destruction of the Jedi Order. Luke Skywalker received advanced training in the ways of the Force under Jedi Master Yoda on Dagobah, and it was later the place of Yoda's death and transformation into the Force.",
+  "lead_paragraphs": [
+    "Dagobah was a remote, unexplored planet in the Dagobah system, and one of the purest places in the galaxy within the Force. A remote world of swamps and forests, it served as a refuge for Jedi Grand Master Yoda during his exile after the destruction of the Jedi Order. Luke Skywalker received advanced training in the ways of the Force under Jedi Master Yoda on Dagobah, and it was later the place of Yoda's death and transformation into the Force."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic Era",
+    "  Imperial Era",
+    "    Yoda's exile",
+    "    Training ground of Luke Skywalker",
+    "  New Republic Era",
+    "Inhabitants",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Dagobah",
+    "region": [
+      "Outer Rim Territories",
+      "  Galactic Frontier",
+      "Western Reaches"
+    ],
+    "sector": "Sluis sector",
+    "system": "Dagobah system",
+    "coordinates": "M-19",
+    "distance": "50,250 light-years",
+    "suns": "Darlo",
+    "moons": "1",
+    "routes": "Rimma Trade Route",
+    "lengthday": "23 hours",
+    "lengthyear": "341 days",
+    "diameter": "14,410 kilometers (8,954 miles)",
+    "atmosphere": "Violent lightning storms, dense fog",
+    "climate": [
+      "Hot and humid",
+      "Periods of torrential rainfalls"
+    ],
+    "terrain": [
+      "Bayous",
+      "Swamp",
+      "Bogs",
+      "Jungles",
+      "Dry uplands"
+    ],
+    "interest": [
+      "Cave of Evil",
+      "Dragonsnake Bog",
+      "Mount Dagger",
+      "Yoda's Hut"
+    ],
+    "flora": [
+      "Adder moss",
+      "Blackvine",
+      "Fungus",
+      "Gnarltree",
+      "Herbs",
+      "Lahdia plant",
+      "Mushrooms",
+      "Rootleaf",
+      "Stickle tree",
+      "Swamp squash",
+      "Yarum seed",
+      "Yoghurt plant"
+    ],
+    "fauna": [
+      "Accipiptero",
+      "Bogwing",
+      "Dagobah python",
+      "Dragonsnake",
+      "Elephoth",
+      "Leaf-tail",
+      "Jubba bird",
+      "Knobby white spider",
+      "Marsh spider",
+      "Nudj",
+      "Pikobi",
+      "Scrange",
+      "Sleen",
+      "Smooka",
+      "Spotlight sloth",
+      "Swamp slug",
+      "Unidentified quadruped"
+    ],
+    "species": "Tash",
+    "otherspecies": "Yoda's species",
+    "population": "At least 1: Yoda"
+  },
+  "homeworld_of": [
+    {
+      "name": "Hepsalum Tash",
+      "directory": "Hepsalum Tash",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Tash",
+      "directory": "Tash",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Dagobah",
+    "x": 2460.9,
+    "y": -14267.5,
+    "z": 134.2,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

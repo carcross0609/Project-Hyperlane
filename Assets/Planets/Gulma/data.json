@@ -1,0 +1,39 @@
+{
+  "name": "Gulma",
+  "wookieepedia_title": "Gulma",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gulma",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gulma was a planet located within the Gulma system in Wild Space and was the homeworld of the Gulmarid species. The planet was covered by swampy terrain.",
+  "lead_paragraphs": [
+    "Gulma was a planet located within the Gulma system in Wild Space and was the homeworld of the Gulmarid species. The planet was covered by swampy terrain."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Gulma",
+    "region": "Wild Space",
+    "system": "Gulma system",
+    "coordinates": "P-3",
+    "terrain": "Swamps",
+    "species": "Gulmarids",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gulmarid",
+      "directory": "Gulmarid",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gulma",
+    "x": 6102.7,
+    "y": 10143.9,
+    "z": -592.5,
+    "region": "Wild Space",
+    "grid": "P-3"
+  },
+  "scraped": "2026-07-03"
+}

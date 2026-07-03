@@ -1,0 +1,37 @@
+{
+  "name": "Stic",
+  "wookieepedia_title": "Stic",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stic",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Stic was a planet located in the Stic system of the Xappyh sector, a part of the Outer Rim Territories and the New Territories. It was situated in grid square Q-3 of the Standard Galactic Grid. Stic was the homeworld of the Xi'Dec species of sentient insectoids. It was mentioned in \"Species From A to Z,\" a survival compendium compiled by New Republic Captain Carson Teva during the New Republic Era.",
+  "lead_paragraphs": [
+    "Stic was a planet located in the Stic system of the Xappyh sector, a part of the Outer Rim Territories and the New Territories. It was situated in grid square Q-3 of the Standard Galactic Grid. Stic was the homeworld of the Xi'Dec species of sentient insectoids. It was mentioned in \"Species From A to Z,\" a survival compendium compiled by New Republic Captain Carson Teva during the New Republic Era."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Stic",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Xappyh sector",
+    "system": "Stic system",
+    "coordinates": "Q-3",
+    "species": "Xi'Dec"
+  },
+  "homeworld_of": [
+    {
+      "name": "Xi'Dec",
+      "directory": "Xi'Dec",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Xi'Dec",
+      "directory": "Xi'Dec (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

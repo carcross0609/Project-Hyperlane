@@ -1,0 +1,71 @@
+{
+  "name": "Contruum",
+  "wookieepedia_title": "Contruum/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Contruum/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Contruum was a planet in the Mid Rim, and was the most developed planet in the dense system of inhabited worlds that made up the Contruum system.",
+  "lead_paragraphs": [
+    "Contruum was a planet in the Mid Rim, and was the most developed planet in the dense system of inhabited worlds that made up the Contruum system."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The Imperial era",
+    "  The Yuuzhan Vong War"
+  ],
+  "data": {
+    "name": "Contruum",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Truum sector",
+    "system": "Contruum system",
+    "coordinates": "O-8",
+    "moons": "2",
+    "routes": "Vaathkree Trade Corridor",
+    "class": "Terrestrial",
+    "climate": "Tropical",
+    "terrain": [
+      "Mountains",
+      "Oceans",
+      "Urban",
+      "Farmland"
+    ],
+    "interest": [
+      "Contruum Shipyard",
+      "Contruum Moonbase",
+      "Contruum Six"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "population": "1 billion to 10 billion",
+    "cities": "Torian City",
+    "exports": [
+      "Borium",
+      "Minerals",
+      "Starships"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Exar Kun's Sith Empire",
+      "Mandalorian Neo-Crusaders",
+      "Darth Revan's Sith Empire",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Contruum",
+    "x": 5959.1,
+    "y": 2088.3,
+    "z": 159.8,
+    "region": "Mid Rim",
+    "grid": "O-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Rishi",
+  "wookieepedia_title": "Rishi/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rishi/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rishi was a tropical planet in the Rishi system which was located in the Outer Rim Territories. The planet was the homeworld of the avian Rishii.",
+  "lead_paragraphs": [
+    "Rishi was a tropical planet in the Rishi system which was located in the Outer Rim Territories. The planet was the homeworld of the avian Rishii."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Old Republic era",
+    "  Modern history"
+  ],
+  "data": {
+    "name": "Rishi",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Abrion sector",
+    "system": "Rishi system",
+    "coordinates": "S-15",
+    "suns": "1: Rish",
+    "position": "3",
+    "moons": "1: Rishi moon",
+    "routes": [
+      "Manda Merchant Route",
+      "Zareca String"
+    ],
+    "lengthday": "20 standard hours",
+    "lengthyear": "268 standard days",
+    "class": "Terrestrial",
+    "diameter": "12,030 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Tropical",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Swamps",
+      "Islands",
+      "Jungle"
+    ],
+    "water": "Oceans",
+    "interest": [
+      "Razorback Island",
+      "Rishi Base",
+      "Sky Ridge Island",
+      "Tracyn Island",
+      "Wozwashi Street"
+    ],
+    "fauna": [
+      "Grophet",
+      "Jungle wampa",
+      "Khi'r",
+      "Krak'jya",
+      "Lurker",
+      "Maungur",
+      "Orobird",
+      "Skar'kla",
+      "Raptor",
+      "Rishi Shore Crab",
+      "Tonitran",
+      "Turtle"
+    ],
+    "species": "Rishii",
+    "otherspecies": [
+      "Human",
+      "Galandan",
+      "Twi'lek",
+      "Zabrak"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Theocratic colony",
+    "population": [
+      "2 billion:",
+      "  87% Human",
+      "  9% Rishii",
+      "  4% other"
+    ],
+    "cities": [
+      "Coratanni Town",
+      "Raider's Cove"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": [
+      "Fuel sources",
+      "Minerals",
+      "Missionaries",
+      "Ores"
+    ],
+    "affiliation": [
+      "H'kig religion",
+      "Galactic Republic",
+      "Hutt Cartel",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems (Briefly)",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Rishii",
+      "directory": "Rishii",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Rishii",
+      "directory": "Rishii (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rishi",
+    "x": 10765.6,
+    "y": -7811.3,
+    "z": -324.4,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

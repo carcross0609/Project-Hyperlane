@@ -1,0 +1,40 @@
+{
+  "name": "Seikosha",
+  "wookieepedia_title": "Seikosha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Seikosha",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Seikosha was the fourth planet in the Breago system, a star system located in the Trans-Hydian Borderlands region of the Outer Rim Territories. Cryospac Repulsorlift Corporation, who produced the Model 90 Ranger landspeeder, was based on the planet.",
+  "lead_paragraphs": [
+    "Seikosha was the fourth planet in the Breago system, a star system located in the Trans-Hydian Borderlands region of the Outer Rim Territories. Cryospac Repulsorlift Corporation, who produced the Model 90 Ranger landspeeder, was based on the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Seikosha",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian Borderlands"
+    ],
+    "sector": "Nembus sector",
+    "system": "Seikosha system",
+    "coordinates": "P-4",
+    "position": "4",
+    "affiliation": "Cryospac Repulsorlift Corporation"
+  },
+  "homeworld_of": [
+    {
+      "name": "Seikoshan",
+      "directory": "Seikoshan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Seikosha",
+    "x": 6650.5,
+    "y": 8585.9,
+    "z": -317.5,
+    "region": "Outer Rim",
+    "grid": "P-4"
+  },
+  "scraped": "2026-07-03"
+}

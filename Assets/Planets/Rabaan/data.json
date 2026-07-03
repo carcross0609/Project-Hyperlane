@@ -1,0 +1,59 @@
+{
+  "name": "Rabaan",
+  "wookieepedia_title": "Rabaan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rabaan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rabaan was the fourth planet in the Ishanna system. It was settled by Corellians during the Subterra Period.",
+  "lead_paragraphs": [
+    "Rabaan was the fourth planet in the Ishanna system. It was settled by Corellians during the Subterra Period."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rabaan",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Circarpous sector",
+    "system": "Ishanna system",
+    "coordinates": "O-12",
+    "position": "4",
+    "moons": "1: the Combat Moon",
+    "lengthday": "27 standard hours",
+    "lengthyear": "375 local standard days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Plains",
+      "Mountains"
+    ],
+    "water": "Ocean",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Colonial Council",
+    "population": "125 million",
+    "cities": "Ban Belos (capital)",
+    "imports": "None",
+    "exports": "Minerals"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rabaanite",
+      "directory": "Rabaanite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rabaan",
+    "x": 4746.4,
+    "y": -3846.5,
+    "z": -46.0,
+    "region": "Expansion Region",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

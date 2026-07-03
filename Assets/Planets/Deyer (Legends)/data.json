@@ -1,0 +1,61 @@
+{
+  "name": "Deyer",
+  "wookieepedia_title": "Deyer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deyer/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Deyer was one of three habitable, but inhospitable, planets in the Anoat system of the Anoat sector, located in the Greater Javin of the Outer Rim. It was a colony world consisting primarily of oceans and was composed of floating raft cities, including the city of Feiya, and terraformed lakes. It featured abundant aquatic life.",
+  "lead_paragraphs": [
+    "Deyer was one of three habitable, but inhospitable, planets in the Anoat system of the Anoat sector, located in the Greater Javin of the Outer Rim. It was a colony world consisting primarily of oceans and was composed of floating raft cities, including the city of Feiya, and terraformed lakes. It featured abundant aquatic life."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Deyer",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Greater Javin (Anoat sector)",
+    "system": "Anoat system",
+    "coordinates": "K-18",
+    "suns": "1: Anoat",
+    "position": "5",
+    "moons": "None",
+    "routes": "Ison Corridor",
+    "lengthday": "28 standard hours",
+    "lengthyear": "389 local days",
+    "class": "Terrestrial/waterworld",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cool",
+    "gravity": "Standard",
+    "terrain": "Swamps",
+    "water": "Lakes",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Anarchy",
+    "population": "134,000",
+    "cities": "Feiya",
+    "imports": [
+      "Mid technology",
+      "High technology"
+    ],
+    "exports": [
+      "Fish",
+      "Water tabacc"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Deyer",
+    "x": -5287.2,
+    "y": -10377.0,
+    "z": 11.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

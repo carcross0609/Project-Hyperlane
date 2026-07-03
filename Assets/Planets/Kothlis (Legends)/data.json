@@ -1,0 +1,93 @@
+{
+  "name": "Kothlis",
+  "wookieepedia_title": "Kothlis/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kothlis/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kothlis was a Bothan colony world located in the Kothlis system of the Bothan sector in the Mid Rim. It was the fourth of seven planets in the star system.",
+  "lead_paragraphs": [
+    "Kothlis was a Bothan colony world located in the Kothlis system of the Bothan sector in the Mid Rim. It was the fourth of seven planets in the star system."
+  ],
+  "article_sections": [
+    "Astrography",
+    "Geography",
+    "Government and politics",
+    "History",
+    "  Clone Wars",
+    "  Galactic Civil War",
+    "  Later history"
+  ],
+  "data": {
+    "name": "Kothlis",
+    "region": "Mid Rim",
+    "sector": "Bothan sector",
+    "system": "Kothlis system",
+    "coordinates": "R-14",
+    "suns": "1: Koth'lar",
+    "position": "4",
+    "moons": [
+      "3:",
+      "  Kothlis' second moon",
+      "  Third moon of Kothlis"
+    ],
+    "routes": "Manda Merchant Route",
+    "lengthday": "22 standard hours",
+    "lengthyear": "408 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Cool",
+      "Moist"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Oceans",
+      "Tropical islands",
+      "Plains",
+      "Tundra",
+      "Forests",
+      "Mountains",
+      "Urban"
+    ],
+    "interest": [
+      "Arblis Forest",
+      "Imperial compound",
+      "Ragnook Mountains",
+      "Sesseranda Ocean"
+    ],
+    "flora": "Gankto tree",
+    "fauna": [
+      "Ganjuko",
+      "Millitile",
+      "Myntor"
+    ],
+    "otherspecies": [
+      "Bothans",
+      "Humans",
+      "Various aliens"
+    ],
+    "language": "Bothese",
+    "government": "Imperial consul-general with Bothan colonial board",
+    "population": "807 million",
+    "cities": "Tal'cara (capital)",
+    "imports": "Raw materials",
+    "exports": "Technology",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Confederation"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kothlis",
+    "x": 9364.7,
+    "y": -6879.9,
+    "z": -190.3,
+    "region": "Mid Rim",
+    "grid": "R-14"
+  },
+  "scraped": "2026-07-03"
+}

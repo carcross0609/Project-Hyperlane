@@ -1,0 +1,43 @@
+{
+  "name": "Dimok",
+  "wookieepedia_title": "Dimok/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dimok/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dimok was a planet located in the Sepan system, a part of the Sepan sector in the Slice portion of the Expansion Region.",
+  "lead_paragraphs": [
+    "Dimok was a planet located in the Sepan system, a part of the Sepan sector in the Slice portion of the Expansion Region."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Dimok",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Sepan sector",
+    "system": "Sepan system",
+    "coordinates": "P-13",
+    "species": "Sepan",
+    "government": "Dimok government",
+    "demonym": "Dimok",
+    "imports": "Weapons",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dimok",
+    "x": 1985.4,
+    "y": -11933.5,
+    "z": 123.0,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

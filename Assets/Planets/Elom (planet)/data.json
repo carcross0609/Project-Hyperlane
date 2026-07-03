@@ -1,0 +1,61 @@
+{
+  "name": "Elom",
+  "wookieepedia_title": "Elom (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Elom_%28planet%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Elom was a cold desert planet located in the galaxy's Outer Rim Territories that was the homeworld of the Elom and Elomin species.",
+  "lead_paragraphs": [
+    "Elom was a cold desert planet located in the galaxy's Outer Rim Territories that was the homeworld of the Elom and Elomin species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Elom",
+    "region": "Outer Rim Territories",
+    "sector": "Sertar sector",
+    "system": "Elom system",
+    "coordinates": "R-5",
+    "climate": "Cold",
+    "terrain": "Frozen grottos",
+    "species": [
+      "Elom",
+      "Elomin"
+    ],
+    "exports": "Lommite",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire (occupation)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Elom",
+      "directory": "Elom",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Elom",
+      "directory": "Elom (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Elomin",
+      "directory": "Elomin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Elomin",
+      "directory": "Elomin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Elom",
+    "x": 9473.4,
+    "y": 6330.0,
+    "z": 307.1,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

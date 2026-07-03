@@ -1,0 +1,51 @@
+{
+  "name": "Comkin V",
+  "wookieepedia_title": "Comkin V",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Comkin_V",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Comkin V was a planet in the Inner Rim.",
+  "lead_paragraphs": [
+    "Comkin V was a planet in the Inner Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Comkin V",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "system": "Comkin system",
+    "coordinates": "N-7",
+    "routes": "Vaathkree Trade Corridor",
+    "class": "Terrestrial",
+    "terrain": [
+      "Polar ice caps",
+      "Rainforests",
+      "Seas"
+    ],
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "exports": [
+      "Candies",
+      "Medicines"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Zsinj's Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Comkin V",
+    "x": 3183.1,
+    "y": 3255.0,
+    "z": 37.7,
+    "region": "Inner Rim",
+    "grid": "N-7"
+  },
+  "scraped": "2026-07-03"
+}

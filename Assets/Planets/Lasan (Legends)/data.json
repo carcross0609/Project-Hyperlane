@@ -1,0 +1,66 @@
+{
+  "name": "Lasan",
+  "wookieepedia_title": "Lasan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lasan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lasan was a Wild Space planet. An arid and warm world, its surface featured desert and plains as well as high mountains. Lasan was inhabited by herbivorous banthas and the sentient, humanoid Lasat.",
+  "lead_paragraphs": [
+    "Lasan was a Wild Space planet. An arid and warm world, its surface featured desert and plains as well as high mountains. Lasan was inhabited by herbivorous banthas and the sentient, humanoid Lasat.",
+    "The Lasat were mostly nomadic, tribe-based trappers at a relatively low level of technology; however, a few regions on Lasan had developed city-states with social stratification and feudal-level technology, including comparatively advanced applied chemistry. Lasan was an isolated world that was seldom visited by interstellar traders, and only a handful of the Lasat were found in the wider galaxy. By 0 BBY, the Galactic Empire waged the conflicts known as the Lasan Suppression and the Siege of Lasan."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Lasan",
+    "region": "Wild Space",
+    "system": "Lasan system",
+    "coordinates": "P-20",
+    "class": "Terrestrial",
+    "climate": [
+      "Warm",
+      "  Cold at night in the desert",
+      "Arid"
+    ],
+    "terrain": [
+      "Desert",
+      "Mountains",
+      "Plains"
+    ],
+    "fauna": [
+      "Banthas",
+      "Larger herbivores"
+    ],
+    "species": "Lasat",
+    "language": "Lasat language",
+    "exports": [
+      "Rugs",
+      "Tapestries"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lasat",
+      "directory": "Lasat",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Lasat",
+      "directory": "Lasat (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lasan",
+    "x": 6654.2,
+    "y": -15428.6,
+    "z": -813.2,
+    "region": "Wild Space",
+    "grid": "P-20"
+  },
+  "scraped": "2026-07-03"
+}

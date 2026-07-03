@@ -1,0 +1,44 @@
+{
+  "name": "Barenth",
+  "wookieepedia_title": "Barenth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barenth",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Barenth was an Expansion Region world located in the Drannik sector. During the Waymancy Storm of 7811 BBY, its civilian population saw a near complete evacuation by the Galactic Republic as part of the defense of the world against the Signatories of Waymancy, with the Republic losing an entire battle group during the effort.",
+  "lead_paragraphs": [
+    "Barenth was an Expansion Region world located in the Drannik sector. During the Waymancy Storm of 7811 BBY, its civilian population saw a near complete evacuation by the Galactic Republic as part of the defense of the world against the Signatories of Waymancy, with the Republic losing an entire battle group during the effort.",
+    "By the time of the New Republic millennia later, the Ho'Din Baji visited an ancient laboratory on Barenth while an ecological disaster was occurring there. The healer eventually resolved to take up permanent residence at the ruins of the laboratory to attempt to reverse the effects of the disaster there."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Barenth",
+    "region": [
+      "Expansion Region",
+      "  Outer Expansion Zone",
+      "Northern Dependencies"
+    ],
+    "sector": "Drannik sector",
+    "system": "Barenth system",
+    "coordinates": "K-8",
+    "class": "Terrestrial",
+    "interest": "Ancient laboratory",
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Barenth",
+    "x": -895.6,
+    "y": 2876.6,
+    "z": -37.7,
+    "region": "Expansion Region",
+    "grid": "K-8"
+  },
+  "scraped": "2026-07-03"
+}

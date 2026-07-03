@@ -1,0 +1,50 @@
+{
+  "name": "Cyrillia",
+  "wookieepedia_title": "Cyrillia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cyrillia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Cyrillia was the homeworld of the Cyrillians, in the Expansion Region of the galaxy. It was a very industrialized world where Serv-O-Droid, Inc. constructed its DUM pit droids in large quantities.",
+  "lead_paragraphs": [
+    "Cyrillia was the homeworld of the Cyrillians, in the Expansion Region of the galaxy. It was a very industrialized world where Serv-O-Droid, Inc. constructed its DUM pit droids in large quantities."
+  ],
+  "article_sections": [
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Cyrillia",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Cyrillian Protectorate",
+    "system": "Cyrillia system",
+    "coordinates": "O-12",
+    "interest": "Serv-O-Droid droid factories",
+    "species": "Cyrillian",
+    "population": "1 to 10 billion (by 25 ABY)",
+    "demonym": "Cyrillian",
+    "exports": "Pit droids",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Cyrillian",
+      "directory": "Cyrillian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cyrillia",
+    "x": 5551.8,
+    "y": -4389.8,
+    "z": 15.6,
+    "region": "Expansion Region",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Maridun",
+  "wookieepedia_title": "Maridun/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maridun/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Maridun was the grassy and forested homeworld of the Amanin species. Maridun went unnoticed for many millennia, and so was considered a haven by those who knew of of its existence. The planet came to support a colony of Lurmen who sought to escape the Clone Wars, and was the site of a battle when Confederate General Lok Durd arrived on the planet to test an experimental weapon. Amani could be found on the planet of Utapau, where many of them were refugees from Maridun.",
+  "lead_paragraphs": [
+    "Maridun was the grassy and forested homeworld of the Amanin species. Maridun went unnoticed for many millennia, and so was considered a haven by those who knew of of its existence. The planet came to support a colony of Lurmen who sought to escape the Clone Wars, and was the site of a battle when Confederate General Lok Durd arrived on the planet to test an experimental weapon. Amani could be found on the planet of Utapau, where many of them were refugees from Maridun.",
+    "The planet was officially discovered by the Galactic Empire around 11 BBY after the Amanin made contact with them. The Empire created several mining colonies on the planet. When the Empire reduced its presence following the Battle of Maridun, the Hutts moved in and enslaved much of the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Maridun",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Rolion sector",
+    "system": "Maridun system",
+    "coordinates": "Q-6",
+    "suns": "1",
+    "routes": "Bronsoon–Maridun hyperspace route",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "terrain": [
+      "Savannas",
+      "Sparse rain forests"
+    ],
+    "fauna": [
+      "Carrier butterfly",
+      "Charnoq",
+      "Corinathoth",
+      "Fwit",
+      "Mastiff phalone"
+    ],
+    "species": "Amanin",
+    "otherspecies": [
+      "Hutt",
+      "Lurmen"
+    ],
+    "language": "Amanese",
+    "population": [
+      "c. 25 ABY",
+      "10 million to 100 million"
+    ],
+    "cities": "Lurmen village",
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Amani",
+      "directory": "Amani",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Amani",
+      "directory": "Amani (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lurmen",
+      "directory": "Lurmen (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Maridun",
+    "x": 7690.8,
+    "y": 5339.7,
+    "z": 87.4,
+    "region": "Outer Rim",
+    "grid": "Q-6"
+  },
+  "scraped": "2026-07-03"
+}

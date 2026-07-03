@@ -1,0 +1,46 @@
+{
+  "name": "Gwori",
+  "wookieepedia_title": "Gwori",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gwori",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gwori was a planet located in the Clacis sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Gwori was a planet located in the Clacis sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Gwori",
+    "region": "Outer Rim Territories",
+    "sector": "Clacis sector",
+    "system": "Gwori system",
+    "coordinates": "K-4",
+    "moons": "At least 4",
+    "routes": "Braxant Run",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Rocky deserts",
+    "interest": [
+      "Gwori shipyards",
+      "Separatist Blockade Station"
+    ],
+    "exports": "Starships",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Pentastar Alignment"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Gwori",
+    "x": -69.4,
+    "y": 7814.6,
+    "z": 174.1,
+    "region": "Outer Rim",
+    "grid": "K-4"
+  },
+  "scraped": "2026-07-03"
+}

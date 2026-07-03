@@ -1,0 +1,47 @@
+{
+  "name": "Deysum III",
+  "wookieepedia_title": "Deysum III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deysum_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Deysum III was a planet in the Deysum system of the Trax sector.",
+  "lead_paragraphs": [
+    "Deysum III was a planet in the Deysum system of the Trax sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Deysum III",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region",
+      "The Slice"
+    ],
+    "sector": "Trax sector",
+    "system": "Deysum system",
+    "coordinates": "Q-10",
+    "routes": [
+      "Terr'skiar Pass",
+      "Trax Tube"
+    ],
+    "terrain": "Barren Wasteland",
+    "water": "Polluted",
+    "cities": [
+      "Dragnoor (capital)",
+      "Klerint"
+    ],
+    "imports": "Luxury Goods, Foodstuffs",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Deysum III",
+    "x": 7952.3,
+    "y": -874.6,
+    "z": 130.1,
+    "region": "Mid Rim",
+    "grid": "Q-10"
+  },
+  "scraped": "2026-07-03"
+}

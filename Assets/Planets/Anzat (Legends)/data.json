@@ -1,0 +1,71 @@
+{
+  "name": "Anzat",
+  "wookieepedia_title": "Anzat/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anzat/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Anzat was a legendary Mid Rim world located near the Perlemian Trade Route.",
+  "lead_paragraphs": [
+    "Anzat was a legendary Mid Rim world located near the Perlemian Trade Route."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Anzat",
+    "region": [
+      "Mid Rim; The Slice",
+      "The Slice"
+    ],
+    "sector": "Bryx sector",
+    "system": "Anzat system",
+    "coordinates": "R-7",
+    "class": "Terrestrial",
+    "terrain": [
+      "Mist-filled valleys",
+      "Mountains"
+    ],
+    "interest": [
+      "Anzat Spaceport",
+      "Maggot's Cantina",
+      "Sea of Memory"
+    ],
+    "flora": [
+      "Bamboo",
+      "Red-leaved trees"
+    ],
+    "species": "Anzati",
+    "language": "Anzat language",
+    "population": "1 million to 10 million",
+    "affiliation": [
+      "Sith Empire",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Greater Maldrood",
+      "Imperial Remnant",
+      "Yuuzhan Vong empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Anzat",
+      "directory": "Anzat (species)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Anzati",
+      "directory": "Anzati",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Anzat",
+    "x": 10202.1,
+    "y": 3123.8,
+    "z": 446.3,
+    "region": "Mid Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

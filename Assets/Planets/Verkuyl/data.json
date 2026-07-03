@@ -1,0 +1,56 @@
+{
+  "name": "Verkuyl",
+  "wookieepedia_title": "Verkuyl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Verkuyl",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Verkuyl was a planet located within the Verkuyl system of the Outer Rim Territories where alazhi was grown.",
+  "lead_paragraphs": [
+    "Verkuyl was a planet located within the Verkuyl system of the Outer Rim Territories where alazhi was grown."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Verkuyl",
+    "region": "Outer Rim Territories",
+    "sector": "Stensen sector",
+    "system": "Verkuyl system",
+    "coordinates": "H-17",
+    "lengthday": "27 standard hours",
+    "lengthyear": "315 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": [
+      "Fields",
+      "Oceans",
+      "Rainforests"
+    ],
+    "interest": [
+      "Dalos Peninsula",
+      "Verkuylian Imperial Governor's Hall"
+    ],
+    "otherlife": "Xoorzi",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "population": "220,000",
+    "imports": "Foodstuffs",
+    "exports": "Bacta",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Verkuyl",
+    "x": -4816.4,
+    "y": -10848.0,
+    "z": 174.9,
+    "region": "Outer Rim",
+    "grid": "H-17"
+  },
+  "scraped": "2026-07-03"
+}

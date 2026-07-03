@@ -1,0 +1,42 @@
+{
+  "name": "Wen'he'dinae",
+  "wookieepedia_title": "Wen'he'dinae",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wen%27he%27dinae",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Wen'he'dinae was a terrestrial planet located in the Wen'he'dinae system, a part of the Eidoloni sector in the Western Reaches portion of the Mid Rim. The planet had several seasons and was home to a multitude of carnivorous creatures.",
+  "lead_paragraphs": [
+    "Wen'he'dinae was a terrestrial planet located in the Wen'he'dinae system, a part of the Eidoloni sector in the Western Reaches portion of the Mid Rim. The planet had several seasons and was home to a multitude of carnivorous creatures.",
+    "The Cha'wen'he, a sentient species of bird-like herbivores, evolved on Wen'he'dinae, with the planet's numerous predators forcing the species to become nervous, excitable, and prone to sudden, quick motions. The Cha'wen'he were physiologically adapted to both hot and cold climates, and those members of the species that resided on its homeworld roamed the planet according to its seasons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Wen'he'dinae",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Eidoloni sector",
+    "system": "Wen'he'dinae system",
+    "coordinates": "L-16",
+    "class": "Terrestrial",
+    "fauna": "Carnivorous creatures",
+    "species": "Cha'wen'he"
+  },
+  "homeworld_of": [
+    {
+      "name": "Cha'wen'he",
+      "directory": "Cha'wen'he",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Wen'he'dinae",
+    "x": 983.6,
+    "y": -9711.6,
+    "z": -291.4,
+    "region": "Mid Rim",
+    "grid": "L-16"
+  },
+  "scraped": "2026-07-03"
+}

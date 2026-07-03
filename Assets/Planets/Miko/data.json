@@ -1,0 +1,47 @@
+{
+  "name": "Miko",
+  "wookieepedia_title": "Miko",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Miko",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Miko was a planet located in the Sorella system.",
+  "lead_paragraphs": [
+    "Miko was a planet located in the Sorella system."
+  ],
+  "article_sections": [
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Miko",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "sector": [
+      "Tapani sector",
+      "  Freeworlds Territory",
+      "    Three Ellas"
+    ],
+    "system": "Sorella system",
+    "coordinates": "L-13",
+    "routes": "Three Ellas Run",
+    "species": "Mikoan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Mikoan",
+      "directory": "Mikoan",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "Miko",
+    "x": 6743.5,
+    "y": -15184.5,
+    "z": 266.8,
+    "region": "Wild Space",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

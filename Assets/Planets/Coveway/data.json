@@ -1,0 +1,44 @@
+{
+  "name": "Coveway",
+  "wookieepedia_title": "Coveway",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Coveway",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Coveway was a harsh Outer Rim Territories planet situated in the Koradin sector. Colonized by the time of the reign of the Galactic Empire, it eventually became home to the Human Jak Bremen, who eventually became a constable of the village he resided in and started a family.",
+  "lead_paragraphs": [
+    "Coveway was a harsh Outer Rim Territories planet situated in the Koradin sector. Colonized by the time of the reign of the Galactic Empire, it eventually became home to the Human Jak Bremen, who eventually became a constable of the village he resided in and started a family.",
+    "During the Galactic Civil War, the Empire established a hidden garrison on Coveway. The commander of the garrison decided that his assignment would be achieved best if the native residents of the local area were eliminated, and Bremen's village was destroyed, with his wife and daughter being killed. The constable, who was away at the time, tracked the killers to the garrison and eventually helped a recently arrived Rebel Alliance strike team to neutralize the Imperial base. In return, the Rebels took Bremen off-world, and he became a member of the Alliance."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  A new life",
+    "  Retribution",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Coveway",
+    "region": "Outer Rim Territories",
+    "sector": "Koradin sector",
+    "system": "Coveway system",
+    "coordinates": "I-18",
+    "class": "Terrestrial",
+    "interest": [
+      "Imperial garrison",
+      "A village"
+    ],
+    "otherspecies": "Humans",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Coveway",
+    "x": -3395.1,
+    "y": -12276.8,
+    "z": -50.8,
+    "region": "Outer Rim",
+    "grid": "I-18"
+  },
+  "scraped": "2026-07-03"
+}

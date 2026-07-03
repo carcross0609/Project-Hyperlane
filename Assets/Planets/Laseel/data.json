@@ -1,0 +1,38 @@
+{
+  "name": "Laseel",
+  "wookieepedia_title": "Laseel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Laseel",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Laseel was a hot jungle planet in the Dathomir system, located in the Quelii sector in the New Territories portion of the Outer Rim Territories. Laseel had two moons and occupied the third orbital position around the star Domir.",
+  "lead_paragraphs": [
+    "Laseel was a hot jungle planet in the Dathomir system, located in the Quelii sector in the New Territories portion of the Outer Rim Territories. Laseel had two moons and occupied the third orbital position around the star Domir."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Laseel",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Dathomir system",
+    "coordinates": "O-6",
+    "suns": "1: Domir",
+    "position": "3",
+    "moons": "2",
+    "class": "Terrestrial",
+    "climate": "Hot",
+    "terrain": "Jungle"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Laseel",
+    "x": 9838.4,
+    "y": 3571.5,
+    "z": -57.9,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

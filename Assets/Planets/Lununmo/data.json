@@ -1,0 +1,40 @@
+{
+  "name": "Lununmo",
+  "wookieepedia_title": "Lununmo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lununmo",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lununmo was the second planet orbiting the star Sullust in the Sullust system. Located in the Brema sector of the Outer Rim Territories, it was a gas giant with 34 moons.",
+  "lead_paragraphs": [
+    "Lununmo was the second planet orbiting the star Sullust in the Sullust system. Located in the Brema sector of the Outer Rim Territories, it was a gas giant with 34 moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lununmo",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Brema sector",
+    "system": "Sullust system",
+    "coordinates": "M-17",
+    "suns": "1: Sullust",
+    "position": "2",
+    "moons": "34",
+    "routes": [
+      "Rimma Trade Route",
+      "Silvestri Trace/Sanctuary Pipeline"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lununmo",
+    "x": 2237.2,
+    "y": -12943.7,
+    "z": 334.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

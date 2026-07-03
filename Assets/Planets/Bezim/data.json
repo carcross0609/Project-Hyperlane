@@ -1,0 +1,40 @@
+{
+  "name": "Bezim",
+  "wookieepedia_title": "Bezim",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bezim",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bezim was a planet in the Mid Rim. The native Bezim joined with the people of Junction V, Delaluna, and Vicondor to build the Station 88 Spaceport. This coalition of planets chose to remain loyal to the Galactic Republic during the Clone Wars.",
+  "lead_paragraphs": [
+    "Bezim was a planet in the Mid Rim. The native Bezim joined with the people of Junction V, Delaluna, and Vicondor to build the Station 88 Spaceport. This coalition of planets chose to remain loyal to the Galactic Republic during the Clone Wars."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Bezim",
+    "region": [
+      "Mid Rim",
+      "Northern Dependencies"
+    ],
+    "sector": "Vorc sector",
+    "system": "Bezim system",
+    "coordinates": "J-7",
+    "species": "Bezim",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bezim",
+      "directory": "Bezim (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bezim",
+    "x": -1948.5,
+    "y": 3236.4,
+    "z": 52.7,
+    "region": "Mid Rim",
+    "grid": "J-7"
+  },
+  "scraped": "2026-07-03"
+}

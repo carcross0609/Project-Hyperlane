@@ -1,0 +1,40 @@
+{
+  "name": "Tund",
+  "wookieepedia_title": "Tund",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tund",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tund was a hidden planet located in the mysterious Tund system, within the Centrality sector of the galaxy's Outer Rim Territories, in grid square U-8 on the Standard Galactic Grid. It was the homeworld of the Toong species and became home to Ben Quadinaros, a Toong Podracer pilot that claimed to be from the Tund system.",
+  "lead_paragraphs": [
+    "Tund was a hidden planet located in the mysterious Tund system, within the Centrality sector of the galaxy's Outer Rim Territories, in grid square U-8 on the Standard Galactic Grid. It was the homeworld of the Toong species and became home to Ben Quadinaros, a Toong Podracer pilot that claimed to be from the Tund system.",
+    "The Sorcerers of Tund were a group of Force practitioners from Tund."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tund",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Centrality",
+    "system": "Tund system",
+    "coordinates": "U-8",
+    "species": "Toong"
+  },
+  "homeworld_of": [
+    {
+      "name": "Toong",
+      "directory": "Toong",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Tund",
+    "x": 14333.2,
+    "y": 2181.7,
+    "z": 279.3,
+    "region": "Outer Rim",
+    "grid": "U-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Affa",
+  "wookieepedia_title": "Affa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Affa",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Affa was a terrestrial planet that housed great droid factories. Located in the Affa system in the Inner Rim Territories, it was situated in grid square M-13 and was located along the Shipwrights' Trace hyperspace route.",
+  "lead_paragraphs": [
+    "Affa was a terrestrial planet that housed great droid factories. Located in the Affa system in the Inner Rim Territories, it was situated in grid square M-13 and was located along the Shipwrights' Trace hyperspace route.",
+    "Arakyd Industries's RA-7 protocol droids, including DK-RA-43, were manufactured in the factories, while parts for Cybot Galactica's 3PO-series protocol droid were also manufactured on the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Affa",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Affa system",
+    "coordinates": "M-13",
+    "routes": "Shipwrights' Trace",
+    "class": "Terrestrial",
+    "interest": "Droid factories"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Affa",
+    "x": 2295.9,
+    "y": -5879.1,
+    "z": 183.3,
+    "region": "Inner Rim",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

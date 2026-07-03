@@ -1,0 +1,37 @@
+{
+  "name": "Th'irus",
+  "wookieepedia_title": "Th'irus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Th%27irus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Th'irus was a planet located within the Th'irus system of the Wild Space.",
+  "lead_paragraphs": [
+    "Th'irus was a planet located within the Th'irus system of the Wild Space."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Th'irus",
+    "region": "Wild Space",
+    "system": "Th'irus system",
+    "coordinates": "S-4",
+    "terrain": "Desert",
+    "fauna": "Bathalz'",
+    "species": "Th'iruckai"
+  },
+  "homeworld_of": [
+    {
+      "name": "Th'iruckai",
+      "directory": "Th'iruckai",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Th'irus",
+    "x": 10654.1,
+    "y": 8107.8,
+    "z": -701.1,
+    "region": "Wild Space",
+    "grid": "S-4"
+  },
+  "scraped": "2026-07-03"
+}

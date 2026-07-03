@@ -1,0 +1,48 @@
+{
+  "name": "Kuat",
+  "wookieepedia_title": "Kuat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kuat",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kuat was a vital shipbuilding and industrial planet located in the Kuat system of the galaxy's Core Worlds region and homeworld of the Kuati people. Known for the prestigious Kuat Drive Yards corporation and its large shipyards, the planet notably produced warships for both the Galactic Republic and Galactic Empire.",
+  "lead_paragraphs": [
+    "Kuat was a vital shipbuilding and industrial planet located in the Kuat system of the galaxy's Core Worlds region and homeworld of the Kuati people. Known for the prestigious Kuat Drive Yards corporation and its large shipyards, the planet notably produced warships for both the Galactic Republic and Galactic Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic service",
+    "  Age of the Empire",
+    "  New Republic Era",
+    "Locations"
+  ],
+  "data": {
+    "name": "Kuat",
+    "region": "Core Worlds",
+    "sector": "Kuat sector",
+    "system": "Kuat system",
+    "coordinates": "M-10",
+    "routes": "Fedalle–Kuat hyperlane",
+    "class": "Terrestrial",
+    "interest": "Gideon Hask's house",
+    "species": "Kuati",
+    "otherspecies": "Human",
+    "affiliation": [
+      "Rakatans",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kuat",
+    "x": 2790.0,
+    "y": -896.6,
+    "z": 29.8,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

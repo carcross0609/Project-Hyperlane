@@ -1,0 +1,41 @@
+{
+  "name": "Pria",
+  "wookieepedia_title": "Pria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pria",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pria was a waterworld in the Pria system of the Core Worlds. Orbited by a single moon, the planet experienced two tidal cycles each day, as well as tectonic activity, causing an ice age every 10,000 years.",
+  "lead_paragraphs": [
+    "Pria was a waterworld in the Pria system of the Core Worlds. Orbited by a single moon, the planet experienced two tidal cycles each day, as well as tectonic activity, causing an ice age every 10,000 years."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pria",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Pria system",
+    "coordinates": "M-10",
+    "moons": "1"
+  },
+  "homeworld_of": [
+    {
+      "name": "Crast",
+      "directory": "Crast",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Priapulin",
+      "directory": "Priapulin",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Pria",
+    "x": 2599.0,
+    "y": -1255.7,
+    "z": -52.8,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

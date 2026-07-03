@@ -1,0 +1,37 @@
+{
+  "name": "Eriscot",
+  "wookieepedia_title": "Eriscot",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eriscot",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Eriscot was a Mid Rim water world located in the Haserian sector. It was the homeworld of the sentient Nejma species, which was relocated to the planet Iskalon by a group of spacefaring benefactors after a series of cataclysms on several water worlds, including Eriscot, five millennia before the Galactic Civil War. During the reign of the New Republic, the anthropologist Doctor Hoole was studying the ruins of those worlds.",
+  "lead_paragraphs": [
+    "Eriscot was a Mid Rim water world located in the Haserian sector. It was the homeworld of the sentient Nejma species, which was relocated to the planet Iskalon by a group of spacefaring benefactors after a series of cataclysms on several water worlds, including Eriscot, five millennia before the Galactic Civil War. During the reign of the New Republic, the anthropologist Doctor Hoole was studying the ruins of those worlds."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Eriscot",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Haserian sector",
+    "system": "Eriscot system",
+    "coordinates": "Q-14",
+    "class": "Terrestrial water world",
+    "terrain": "Water",
+    "species": "Nejma"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nejma",
+      "directory": "Nejma",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

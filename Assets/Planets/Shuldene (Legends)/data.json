@@ -1,0 +1,46 @@
+{
+  "name": "Shuldene",
+  "wookieepedia_title": "Shuldene/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shuldene/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shuldene was a planet in the Yarith sector of the Outer Rim Territories' Greater Javin region. Formerly a waterworld with abundant aquatic life, Shuldene froze solid after undergoing an orbital shift. Tourists occasionally visited the planet to amaze at the carcasses of massive sea creatures poking through the glassy ice surface.",
+  "lead_paragraphs": [
+    "Shuldene was a planet in the Yarith sector of the Outer Rim Territories' Greater Javin region. Formerly a waterworld with abundant aquatic life, Shuldene froze solid after undergoing an orbital shift. Tourists occasionally visited the planet to amaze at the carcasses of massive sea creatures poking through the glassy ice surface."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Shuldene",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Greater Javin",
+      "  Yarith sector"
+    ],
+    "system": "Shuldene system",
+    "coordinates": "J-18",
+    "routes": [
+      "\"The Loop\"",
+      "Cerean Reach"
+    ],
+    "class": "Terrestrial",
+    "climate": "Frozen",
+    "water": "Frozen",
+    "fauna": "Aquatic life"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Shuldene",
+    "x": -1720.5,
+    "y": -12465.0,
+    "z": 113.1,
+    "region": "Outer Rim",
+    "grid": "J-18"
+  },
+  "scraped": "2026-07-03"
+}

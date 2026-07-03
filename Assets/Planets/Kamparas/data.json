@@ -1,0 +1,49 @@
+{
+  "name": "Kamparas",
+  "wookieepedia_title": "Kamparas",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kamparas",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kamparas was a planet in the Dolomar sector of the Core Worlds covered with rainforests, grasslands, rolling hills, and deep valleys.",
+  "lead_paragraphs": [
+    "Kamparas was a planet in the Dolomar sector of the Core Worlds covered with rainforests, grasslands, rolling hills, and deep valleys."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kamparas",
+    "region": "Core Worlds",
+    "sector": "Dolomar sector",
+    "system": "Kamparas system",
+    "coordinates": "K-9",
+    "terrain": [
+      "Rainforests",
+      "Grasslands",
+      "Rolling hills",
+      "Deep valleys"
+    ],
+    "interest": [
+      "Kamparas Jedi Training Center",
+      "Galactic Empire archives"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kamparas",
+    "x": -1343.2,
+    "y": 559.3,
+    "z": -8.7,
+    "region": "Core Worlds",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

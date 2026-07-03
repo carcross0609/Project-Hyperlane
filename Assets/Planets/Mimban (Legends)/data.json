@@ -1,0 +1,115 @@
+{
+  "name": "Mimban",
+  "wookieepedia_title": "Mimban/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mimban/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mimban, formally known as Circarpous V, was the home planet of the Coway, the Mimbanites, and the extinct Thrella. Although originally named Circarpous V, the planet was never colonized by the Circarpousians. The planet, locally known as Mimban, was in the Circarpous system.",
+  "lead_paragraphs": [
+    "Mimban, formally known as Circarpous V, was the home planet of the Coway, the Mimbanites, and the extinct Thrella. Although originally named Circarpous V, the planet was never colonized by the Circarpousians. The planet, locally known as Mimban, was in the Circarpous system."
+  ],
+  "article_sections": [
+    "Geographic features",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Mimban",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Circarpous sector",
+    "system": "Circarpous system",
+    "coordinates": "O-12",
+    "suns": "1: Circarpous Major",
+    "position": "5",
+    "moons": "2",
+    "routes": "Nanth'ri Trade Route",
+    "lengthday": "21 standard hours",
+    "lengthyear": "334 local days",
+    "class": "Terrestrial",
+    "diameter": "7,042 km",
+    "climate": "Temperate",
+    "terrain": [
+      "Jungles",
+      "Swamps",
+      "Quickclay"
+    ],
+    "interest": [
+      "Temple of Pomojema",
+      "Thrella wells"
+    ],
+    "flora": "Pseudo-cypress",
+    "fauna": [
+      "Circarpousian swamp fly",
+      "Circarpousian water snake",
+      "Wandrella",
+      "Water bug"
+    ],
+    "species": [
+      "Coway",
+      "Mimbanite",
+      "Previously: Thrella"
+    ],
+    "otherspecies": "Human",
+    "language": [
+      "Mimbanite",
+      "Coway",
+      "Galactic Basic Standard"
+    ],
+    "government": "None",
+    "population": [
+      "1 million:",
+      "  75% Mimbanite",
+      "  22% Coway",
+      "  3% Human"
+    ],
+    "demonym": "Circarpousian",
+    "imports": [
+      "Foodstuffs",
+      "Industrial equipment"
+    ],
+    "exports": [
+      "Dolovite",
+      "Swamp gas"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Coway",
+      "directory": "Coway",
+      "continuity": "Legends"
+    },
+    {
+      "name": "\"Greenie\"",
+      "directory": "Greenie",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Mimbanese",
+      "directory": "Mimbanese",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Mimbanite",
+      "directory": "Mimbanite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mimban",
+    "x": 5586.1,
+    "y": -3043.3,
+    "z": 141.4,
+    "region": "Expansion Region",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

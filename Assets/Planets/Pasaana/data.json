@@ -1,0 +1,87 @@
+{
+  "name": "Pasaana",
+  "wookieepedia_title": "Pasaana",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pasaana",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pasaana was a desert planet located in the Expansion Region's Ombakond sector that was the homeworld of the Aki-Aki species. Although the world was home to a great many dangers, the planet was famous for its joyous Festival of the Ancestors that attracted visitors from surrounding sectors.",
+  "lead_paragraphs": [
+    "Pasaana was a desert planet located in the Expansion Region's Ombakond sector that was the homeworld of the Aki-Aki species. Although the world was home to a great many dangers, the planet was famous for its joyous Festival of the Ancestors that attracted visitors from surrounding sectors."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  New Republic Era",
+    "  First Order-Resistance War",
+    "Inhabitants",
+    "  The Aki-Aki people",
+    "    Natives of Pasaana",
+    "    A people of rhythm",
+    "  Festival of the Ancestors",
+    "  Economy",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Pasaana",
+    "region": "Expansion Region",
+    "sector": "Ombakond sector",
+    "system": "Middian system",
+    "coordinates": "O-13",
+    "suns": "1",
+    "moons": "1",
+    "lengthyear": "378 standard days",
+    "class": "Terrestrial",
+    "diameter": "11,135 km",
+    "atmosphere": "Breathable",
+    "climate": "Arid",
+    "terrain": [
+      "Desert",
+      "Dunes",
+      "Shrubland",
+      "Mountains"
+    ],
+    "interest": [
+      "Aki-Ktura",
+      "Forbidden Valley",
+      "Ikledu Wastes",
+      "Jamtareen Mountains",
+      "Lurch Canyon"
+    ],
+    "flora": [
+      "Phedrugrass",
+      "Termania-spore"
+    ],
+    "fauna": [
+      "Etobi",
+      "Gorpion",
+      "Gouge-beetle",
+      "Oki-poki",
+      "Sarlacc",
+      "Solif-spider",
+      "Thistlebuzzer",
+      "Titan-erke",
+      "Vexis"
+    ],
+    "species": "Aki-Aki",
+    "language": "Aki-Aki language",
+    "population": "500,000 (approx.)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Aki-Aki",
+      "directory": "Aki-Aki",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Pasaana",
+    "x": 6005.5,
+    "y": -4480.2,
+    "z": 336.1,
+    "region": "Expansion Region",
+    "grid": "P-12"
+  },
+  "scraped": "2026-07-03"
+}

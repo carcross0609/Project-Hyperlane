@@ -1,0 +1,71 @@
+{
+  "name": "Gorsh",
+  "wookieepedia_title": "Gorsh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gorsh",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gorsh was the third planet of the Gorsh system, located in Wild Space 100,000 light years away from the Core. The watery planet had a population of 100,000.",
+  "lead_paragraphs": [
+    "Gorsh was the third planet of the Gorsh system, located in Wild Space 100,000 light years away from the Core. The watery planet had a population of 100,000."
+  ],
+  "article_sections": [
+    "History",
+    "Description",
+    "Flora and fauna",
+    "Genetech",
+    "Orgons"
+  ],
+  "data": {
+    "name": "Gorsh",
+    "region": "Wild Space",
+    "system": "Gorsh system",
+    "coordinates": "O-3",
+    "suns": "1: Gorsh (yellow)",
+    "position": "3",
+    "moons": "1: Tuvvet",
+    "lengthday": "64 standard hours",
+    "lengthyear": "300 local days",
+    "class": "Warm swamp world",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Hot",
+    "gravity": "Heavy",
+    "terrain": [
+      "Ocean",
+      "Swampy islands"
+    ],
+    "interest": [
+      "Calimondo Plateau",
+      "Genetech Laboratories Orbiting Research Station"
+    ],
+    "fauna": [
+      "Forntarch",
+      "Swarm bug",
+      "Thevaxan Marauder"
+    ],
+    "species": "Orgon",
+    "otherspecies": "Human",
+    "government": [
+      "Genetech Laboratories",
+      "Corporate-controlled"
+    ],
+    "population": "100,000",
+    "exports": "Medicinal and chemical compounds",
+    "affiliation": "Genetech Laboratories"
+  },
+  "homeworld_of": [
+    {
+      "name": "Orgon",
+      "directory": "Orgon",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gorsh",
+    "x": 4878.6,
+    "y": 10042.2,
+    "z": 273.1,
+    "region": "Wild Space",
+    "grid": "O-3"
+  },
+  "scraped": "2026-07-03"
+}

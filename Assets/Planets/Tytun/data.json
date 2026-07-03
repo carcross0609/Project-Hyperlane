@@ -1,0 +1,39 @@
+{
+  "name": "Tytun",
+  "wookieepedia_title": "Tytun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tytun",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tytun was a gas giant, the fifth planet in the Gacerian system. It had eight moons.",
+  "lead_paragraphs": [
+    "Tytun was a gas giant, the fifth planet in the Gacerian system. It had eight moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tytun",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Baroli sector",
+    "system": "Gacerian system",
+    "coordinates": "N-15",
+    "suns": "1: Klozar",
+    "position": "5",
+    "moons": [
+      "8:",
+      "Tytun Four"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tytun",
+    "x": 4076.3,
+    "y": -8173.1,
+    "z": -253.8,
+    "region": "Expansion Region",
+    "grid": "N-15"
+  },
+  "scraped": "2026-07-03"
+}

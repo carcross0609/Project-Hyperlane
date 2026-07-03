@@ -1,0 +1,54 @@
+{
+  "name": "Seylott",
+  "wookieepedia_title": "Seylott/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Seylott/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Seylott was the homeworld of the Seylott species. It was covered in dense forests and home to the Disciples of Shaa.",
+  "lead_paragraphs": [
+    "Seylott was the homeworld of the Seylott species. It was covered in dense forests and home to the Disciples of Shaa."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Seylott",
+    "region": "Outer Rim Territories",
+    "sector": "Sarin sector",
+    "system": "Seylott system",
+    "coordinates": "P-18",
+    "class": "Terrestrial",
+    "atmosphere": "Type 1 (Breathable)",
+    "climate": "Tropical",
+    "gravity": "Standard",
+    "terrain": [
+      "Rain forests",
+      "Canals"
+    ],
+    "interest": "Temple of Shaa",
+    "fauna": "Haroot",
+    "species": "Seylott",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Infinite Empire",
+      "Disciples of Shaa"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Seylott",
+      "directory": "Seylott (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Seylott",
+    "x": 6565.4,
+    "y": -12583.0,
+    "z": 11.0,
+    "region": "Outer Rim",
+    "grid": "P-18"
+  },
+  "scraped": "2026-07-03"
+}

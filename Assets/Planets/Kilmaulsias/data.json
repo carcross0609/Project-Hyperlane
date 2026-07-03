@@ -1,0 +1,45 @@
+{
+  "name": "Kilmaulsias",
+  "wookieepedia_title": "Kilmaulsias",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kilmaulsias",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kilmaulsias was a planet in the Vorzyd Cluster. It was the homeworld of the Kilmaulsi.",
+  "lead_paragraphs": [
+    "Kilmaulsias was a planet in the Vorzyd Cluster. It was the homeworld of the Kilmaulsi."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kilmaulsias",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Vorzyd sector; Vorzyd Cluster",
+    "system": "Kilmauls system",
+    "coordinates": "R-6",
+    "terrain": "Forested canyons",
+    "species": "Kilmaulsi",
+    "affiliation": [
+      "Commonality",
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kilmaulsi",
+      "directory": "Kilmaulsi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kilmaulsias",
+    "x": -1498.7,
+    "y": -17329.7,
+    "z": 625.5,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

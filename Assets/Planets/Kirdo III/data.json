@@ -1,0 +1,47 @@
+{
+  "name": "Kirdo III",
+  "wookieepedia_title": "Kirdo III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kirdo_III",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kirdo III, also referred to simply as Kirdo, was a planet located in the galaxy's Outer Rim Territories, that was the homeworld of the Kitonak species On the way back from Rodia, Luke Skywalker forged a new hyperspace lane between Kirdo and Orto Plutonia.",
+  "lead_paragraphs": [
+    "Kirdo III, also referred to simply as Kirdo, was a planet located in the galaxy's Outer Rim Territories, that was the homeworld of the Kitonak species On the way back from Rodia, Luke Skywalker forged a new hyperspace lane between Kirdo and Orto Plutonia.",
+    "Chindinkalu plants were native to Kirdo III. The Kitonak musician Droopy McCool used a hollow chindinkalu plant to create his Chindinkalu flute which he played at Jabba's Palace in 4 ABY during the Rescue of Han Solo."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kirdo III",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Tamarin sector",
+    "system": "Kirdo system",
+    "coordinates": "N-19",
+    "routes": "Sanrafsix–Cotellier hyperlane",
+    "flora": "Chindinkalu plant",
+    "species": "Kitonak"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kitonak",
+      "directory": "Kitonak",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kitonak",
+      "directory": "Kitonak (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kirdo III",
+    "x": 3988.4,
+    "y": -14104.0,
+    "z": -156.3,
+    "region": "Outer Rim",
+    "grid": "N-19"
+  },
+  "scraped": "2026-07-03"
+}

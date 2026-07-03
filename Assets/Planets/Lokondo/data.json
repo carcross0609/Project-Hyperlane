@@ -1,0 +1,44 @@
+{
+  "name": "Lokondo",
+  "wookieepedia_title": "Lokondo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lokondo",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Lokondo was an icy world in the Braxant sector of the Outer Rim.",
+  "lead_paragraphs": [
+    "Lokondo was an icy world in the Braxant sector of the Outer Rim.",
+    "Lokondo was the site of an Imperial base, where the Empire kept extremely dangerous prisoners. The remote facility was also used for the research and testing of an experimental personal cloaking device system. After the Battle of Hoth, Yoda was captured by Boba Fett and imprisoned on Lokondo until he was rescued by Luke Skywalker."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lokondo",
+    "region": "Outer Rim Territories",
+    "sector": "Braxant sector",
+    "system": "Lokondo system",
+    "coordinates": "J-3",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Frigid",
+    "gravity": "Standard",
+    "terrain": [
+      "Ice",
+      "Snow"
+    ],
+    "water": "Present",
+    "interest": "Imperial prison",
+    "flora": "Trees",
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lokondo",
+    "x": 14022.6,
+    "y": 4562.2,
+    "z": -169.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

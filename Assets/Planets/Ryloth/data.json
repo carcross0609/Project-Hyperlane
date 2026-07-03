@@ -1,0 +1,134 @@
+{
+  "name": "Ryloth",
+  "wookieepedia_title": "Ryloth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ryloth",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ryloth was a planet in the Ryloth system of the Outer Rim Territories, and the homeworld of the Twi'lek species. Its terrain varied, filled with jungles, mesas, valleys, and volcanoes, and had an atmosphere breathable for Twi'leks and humans alike. A forest, filled with dangerous predators, covered its equator. Given the varied and dangerous terrain, Twi'leks lived in caves underground where it was safer.",
+  "lead_paragraphs": [
+    "Ryloth was a planet in the Ryloth system of the Outer Rim Territories, and the homeworld of the Twi'lek species. Its terrain varied, filled with jungles, mesas, valleys, and volcanoes, and had an atmosphere breathable for Twi'leks and humans alike. A forest, filled with dangerous predators, covered its equator. Given the varied and dangerous terrain, Twi'leks lived in caves underground where it was safer."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Clone Wars",
+    "  Under the Empire",
+    "  Independence",
+    "  Age of the Resistance",
+    "  Contradictions"
+  ],
+  "data": {
+    "name": "Ryloth",
+    "region": [
+      "Outer Rim Territories",
+      "  Spice Triangle",
+      "The Slice",
+      "Occlusion Zone"
+    ],
+    "sector": [
+      "Gaulus sector",
+      "  Ryloth sector"
+    ],
+    "system": "Ryloth system",
+    "coordinates": "R-17",
+    "xyz": "669.58, -761.8, -10.31",
+    "suns": "Ryloth",
+    "position": "2",
+    "moons": [
+      "3",
+      "  Ryloth's largest moon",
+      "  Ryloth's outermost moon",
+      "  Ryloth's third moon"
+    ],
+    "routes": [
+      "Death Wind Corridor",
+      "Corellian Run",
+      "Mumble's Turnaround"
+    ],
+    "lengthday": "30 standard hours",
+    "lengthyear": "305 standard days",
+    "diameter": "10,600 km (6,587 miles)",
+    "atmosphere": "Breathable",
+    "climate": "Hot, humid",
+    "terrain": [
+      "Deserts",
+      "Dense jungles",
+      "Mesas",
+      "Valleys",
+      "Volcanoes"
+    ],
+    "interest": [
+      "Bypass Notch",
+      "Imperial fortress",
+      "Jixuan desert",
+      "Ryloth's northern continent",
+      "Tann Province",
+      "Tulara Ravine",
+      "Western outskirts"
+    ],
+    "flora": [
+      "Conifer",
+      "Whiptree"
+    ],
+    "fauna": [
+      "Bibfort",
+      "Blurrg",
+      "Can-cell",
+      "Gutkurr",
+      "Lylek",
+      "Primates"
+    ],
+    "species": "Twi'lek",
+    "otherspecies": "Human",
+    "language": "Twi'leki",
+    "government": [
+      "Clan Assembly",
+      "Ryloth government"
+    ],
+    "population": "1.5 billion",
+    "demonym": "Rylothian",
+    "cities": [
+      "Kala'uun",
+      "Lessu (capital)",
+      "Nabat",
+      "Rhovari"
+    ],
+    "exports": [
+      "Doonium",
+      "Ryll",
+      "Slaves",
+      "Spice"
+    ],
+    "affiliation": [
+      "Zygerrian Slave Empire",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "  Techno Union",
+      "Galactic Empire (as protectorate)",
+      "Pyke Syndicate",
+      "Free Ryloth Movement"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Twi'lek",
+      "directory": "Twi'lek",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Twi'lek",
+      "directory": "Twi'lek (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ryloth",
+    "x": 10069.2,
+    "y": -11430.3,
+    "z": 199.6,
+    "region": "Outer Rim",
+    "grid": "R-17"
+  },
+  "scraped": "2026-07-03"
+}

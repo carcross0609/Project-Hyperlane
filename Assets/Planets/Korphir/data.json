@@ -1,0 +1,43 @@
+{
+  "name": "Korphir",
+  "wookieepedia_title": "Korphir",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Korphir",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Korphir was an Imperial planet during the Galactic Civil War.",
+  "lead_paragraphs": [
+    "Korphir was an Imperial planet during the Galactic Civil War.",
+    "It served as a temporary home to fugitive Havet Storm in 1 BBY. The young boy found employ there acting as a mind reader in a circus, until his fellow performers grew suspicious of his strange abilities and failed an attempt on his life.",
+    "Understandably, this caused Storm to leave the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Korphir",
+    "region": "Outer Rim Territories",
+    "sector": "Gordian Reach",
+    "system": "Korphir system",
+    "coordinates": "Q-6",
+    "suns": "1",
+    "routes": [
+      "Feena Run",
+      "Korphir Trace"
+    ],
+    "terrain": "City",
+    "interest": "Circus",
+    "species": "Korphiri",
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "demonym": "Korphiri",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Korphir",
+    "x": 7839.1,
+    "y": 5512.4,
+    "z": -61.3,
+    "region": "Outer Rim",
+    "grid": "Q-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Antar",
+  "wookieepedia_title": "Antar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Antar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Antar was a gas giant in the Prindaar system, surrounded by six moons, four of which supported life.",
+  "lead_paragraphs": [
+    "Antar was a gas giant in the Prindaar system, surrounded by six moons, four of which supported life."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Antar",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Prindaar system",
+    "coordinates": "N-12",
+    "suns": "2: Antar and Prindaar",
+    "moons": [
+      "Six",
+      "  Antar 4",
+      "  Antar 5",
+      "  Dead Moon of Antar"
+    ],
+    "routes": "Nanth'ri Route",
+    "class": "Gas giant",
+    "affiliation": [
+      "Galactic Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Antar",
+    "x": 4242.5,
+    "y": -3156.0,
+    "z": -206.1,
+    "region": "Inner Rim",
+    "grid": "N-12"
+  },
+  "scraped": "2026-07-03"
+}

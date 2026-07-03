@@ -1,0 +1,38 @@
+{
+  "name": "Qaras",
+  "wookieepedia_title": "Qaras",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Qaras",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Qaras was the homeworld of the Jessar species as well as the Minyavish. In 44 ABY, the Minyavish were revolted against by the Jessar, led by Rokari Kem. The Minyavish were then forced to leave the planet. Qaras was then accepted into the Galactic Alliance, with Rokari Kem serving as the planet's Senator.",
+  "lead_paragraphs": [
+    "Qaras was the homeworld of the Jessar species as well as the Minyavish. In 44 ABY, the Minyavish were revolted against by the Jessar, led by Rokari Kem. The Minyavish were then forced to leave the planet. Qaras was then accepted into the Galactic Alliance, with Rokari Kem serving as the planet's Senator."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Qaras",
+    "region": "Mid Rim",
+    "sector": "Minyavi sector",
+    "system": "Qaras system",
+    "coordinates": "I-16",
+    "species": [
+      "Jessar",
+      "Minyavish"
+    ],
+    "affiliation": "Galactic Federation of Free Alliances"
+  },
+  "homeworld_of": [
+    {
+      "name": "Jessar",
+      "directory": "Jessar",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Minyavish",
+      "directory": "Minyavish",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

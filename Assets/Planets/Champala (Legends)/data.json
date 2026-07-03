@@ -1,0 +1,78 @@
+{
+  "name": "Champala",
+  "wookieepedia_title": "Champala/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Champala/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Champala, also called \"Chagria,\" was a planet in the Inner Rim and the homeworld of the Chagrian people. Most of its starports were high and dry on plateaus, but its cities were submerged at high tide. It was a popular resort world.",
+  "lead_paragraphs": [
+    "Champala, also called \"Chagria,\" was a planet in the Inner Rim and the homeworld of the Chagrian people. Most of its starports were high and dry on plateaus, but its cities were submerged at high tide. It was a popular resort world."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Champala",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "system": "Chagri system",
+    "coordinates": "L-8",
+    "suns": "1: Champala's star",
+    "moons": "3",
+    "routes": [
+      "Hydian Way",
+      "  Corsin Run"
+    ],
+    "lengthday": "27 standard hours",
+    "lengthyear": "318 local days",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Oceans",
+      "Rainforests",
+      "Plateaus"
+    ],
+    "interest": "Logue Rock",
+    "species": "Chagrian",
+    "language": "Chagri",
+    "government": "Democracy",
+    "population": [
+      "3.5 billion:",
+      "  99% Chagrian",
+      "  1% other species"
+    ],
+    "cities": "Tidros (capital)",
+    "imports": "Technology",
+    "exports": "Luxury goods",
+    "affiliation": [
+      "Galactic Republic",
+      "Alliance of Free Planets",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Chagrian",
+      "directory": "Chagrian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Chagrian",
+      "directory": "Chagrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Champala",
+    "x": 1070.6,
+    "y": 1939.6,
+    "z": 129.1,
+    "region": "Inner Rim",
+    "grid": "L-8"
+  },
+  "scraped": "2026-07-03"
+}

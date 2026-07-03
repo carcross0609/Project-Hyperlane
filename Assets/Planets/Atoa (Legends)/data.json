@@ -1,0 +1,44 @@
+{
+  "name": "Atoa",
+  "wookieepedia_title": "Atoa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Atoa/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Atoa was a little-known ice planet in the Atoan system, in the Ghost Nebula. It was the homeworld of the near-Human Atoans.",
+  "lead_paragraphs": [
+    "Atoa was a little-known ice planet in the Atoan system, in the Ghost Nebula. It was the homeworld of the near-Human Atoans."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Atoa",
+    "region": "Expansion Region",
+    "sector": "Ghost Nebula",
+    "system": "Atoan system",
+    "coordinates": "P-10",
+    "suns": "1",
+    "moons": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "terrain": [
+      "Ice",
+      "Snow",
+      "Rivers"
+    ],
+    "species": "Atoan",
+    "language": "Atoan language",
+    "government": "Theocracy",
+    "demonym": "Atoan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Atoan",
+      "directory": "Atoan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

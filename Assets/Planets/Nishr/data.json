@@ -1,0 +1,55 @@
+{
+  "name": "Nishr",
+  "wookieepedia_title": "Nishr",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nishr",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nishr was a planet in the Outer Rim, home to a near-Human species known as the Nish. It was the scene of a conflict between the Galactic Empire and the Alliance to Restore the Republic during the Galactic Civil War.",
+  "lead_paragraphs": [
+    "Nishr was a planet in the Outer Rim, home to a near-Human species known as the Nish. It was the scene of a conflict between the Galactic Empire and the Alliance to Restore the Republic during the Galactic Civil War."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Nishr",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Hunnoverrs sector",
+    "system": "Nishr system",
+    "coordinates": "R-17",
+    "terrain": [
+      "Deserts",
+      "Forests",
+      "Mountains",
+      "Plains"
+    ],
+    "interest": [
+      "Lukhur Badlands",
+      "Shirshir Desert",
+      "Feldt"
+    ],
+    "species": "Nish",
+    "otherspecies": "Humans",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nish",
+      "directory": "Nish",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nishr",
+    "x": 5184.0,
+    "y": 5296.7,
+    "z": 209.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

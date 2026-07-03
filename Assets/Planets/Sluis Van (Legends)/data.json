@@ -1,0 +1,75 @@
+{
+  "name": "Sluis Van",
+  "wookieepedia_title": "Sluis Van/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sluis_Van/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sluis Van was the primary planet in the Sluis sector of the Outer Rim Territories. It was the homeworld of the Sluissi race and the location of the famous Sluis Van Shipyards.",
+  "lead_paragraphs": [
+    "Sluis Van was the primary planet in the Sluis sector of the Outer Rim Territories. It was the homeworld of the Sluissi race and the location of the famous Sluis Van Shipyards."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Clone Wars",
+    "  Galactic Civil War",
+    "  Later history"
+  ],
+  "data": {
+    "name": "Sluis Van",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Sluis sector",
+    "system": "Sluis system",
+    "coordinates": "M-19",
+    "routes": "Rimma Trade Route",
+    "class": "Terrestrial",
+    "terrain": [
+      "Rocky",
+      "Industrial"
+    ],
+    "interest": [
+      "Sluis Van Shipyards",
+      "  Sluis Van Orbit Dock V-475",
+      "Outer Starfighter Base",
+      "Sluis Control",
+      "Sluis Van Central space station"
+    ],
+    "species": "Sluissi",
+    "otherspecies": "Human",
+    "language": [
+      "Sluissese",
+      "Basic"
+    ],
+    "government": "Khedive",
+    "affiliation": [
+      "Galactic Republic",
+      "Sith Empire",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Eriadu Authority",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sluissi",
+      "directory": "Sluissi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sluis Van",
+    "x": 2411.1,
+    "y": -13762.1,
+    "z": -3.7,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

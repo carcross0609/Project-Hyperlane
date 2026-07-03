@@ -1,0 +1,49 @@
+{
+  "name": "Uogo'cor",
+  "wookieepedia_title": "Uogo'cor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Uogo%27cor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Uogo'cor was a planet located within Trax sector, just off the Trax Tube. Its port often serviced the pirates that preyed on the Trax Tube. The name translated from the language of the native Uogo meant \"home of the suffering ones\".",
+  "lead_paragraphs": [
+    "Uogo'cor was a planet located within Trax sector, just off the Trax Tube. Its port often serviced the pirates that preyed on the Trax Tube. The name translated from the language of the native Uogo meant \"home of the suffering ones\"."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Uogo'cor",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Trax sector",
+    "system": "Uogo'cor system",
+    "coordinates": "Q-10",
+    "routes": "Trax Tube",
+    "species": "Uogo",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Pirate gangs",
+      "Dark Warbirds",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Uogo",
+      "directory": "Uogo",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Uogo'cor",
+    "x": 8048.7,
+    "y": -1355.1,
+    "z": 304.5,
+    "region": "Mid Rim",
+    "grid": "Q-10"
+  },
+  "scraped": "2026-07-03"
+}

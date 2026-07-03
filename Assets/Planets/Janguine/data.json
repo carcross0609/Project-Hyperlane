@@ -1,0 +1,47 @@
+{
+  "name": "Janguine",
+  "wookieepedia_title": "Janguine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Janguine",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Janguine was a jungle planet in the Outer Rim. Its natives spoke Janguine and were overrun by the Mooloolians around 275 BBY.",
+  "lead_paragraphs": [
+    "Janguine was a jungle planet in the Outer Rim. Its natives spoke Janguine and were overrun by the Mooloolians around 275 BBY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Janguine",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Halthor sector",
+    "system": "Janguine system",
+    "coordinates": "L-6",
+    "terrain": [
+      "Rainforests",
+      "Mountains"
+    ],
+    "species": [
+      "Mooloolians",
+      "A species"
+    ],
+    "language": "Janguine"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Janguine species",
+      "directory": "Unidentified Janguine species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Janguine",
+    "x": -4644.9,
+    "y": -10780.3,
+    "z": -161.0,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

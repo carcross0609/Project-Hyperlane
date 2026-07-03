@@ -1,0 +1,63 @@
+{
+  "name": "Javin",
+  "wookieepedia_title": "Javin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Javin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Javin was the capital and namesake of Javin sector and the subsequent Greater Javin Region, along the Corellian Trade Spine.",
+  "lead_paragraphs": [
+    "Javin was the capital and namesake of Javin sector and the subsequent Greater Javin Region, along the Corellian Trade Spine."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Javin",
+    "region": [
+      "Outer Rim Territories; Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": "Javin sector",
+    "system": "Javin system",
+    "coordinates": "K-18",
+    "suns": "1",
+    "routes": "Corellian Trade Spine",
+    "lengthday": "25 standard hours",
+    "lengthyear": "310 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Deserts",
+      "Mountains",
+      "Urban"
+    ],
+    "species": "Mugaari",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Governorship",
+    "population": [
+      "1.5 billion",
+      "67% Human",
+      "33% Mugaari"
+    ],
+    "imports": "Foodstuffs",
+    "exports": "Tech",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Javin",
+    "x": -1234.9,
+    "y": -12172.6,
+    "z": -20.1,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

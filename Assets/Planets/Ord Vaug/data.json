@@ -1,0 +1,40 @@
+{
+  "name": "Ord Vaug",
+  "wookieepedia_title": "Ord Vaug",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ord_Vaug",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ord Vaug was a planet in the Expansion Region's Rocantor sector. The site of a major Imperial propaganda victory over Separatist holdouts in 17 BBY, Ord Vaug was the site of an Imperial prison that at one point held the Venerated Ones of Vandelhelm. Ord Vaug was liberated by the Alliance of Free Planets in 4 ABY, and the Venerated Ones returned home.",
+  "lead_paragraphs": [
+    "Ord Vaug was a planet in the Expansion Region's Rocantor sector. The site of a major Imperial propaganda victory over Separatist holdouts in 17 BBY, Ord Vaug was the site of an Imperial prison that at one point held the Venerated Ones of Vandelhelm. Ord Vaug was liberated by the Alliance of Free Planets in 4 ABY, and the Venerated Ones returned home."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Ord Vaug",
+    "region": "Expansion Region",
+    "sector": "Rocantor sector",
+    "system": "Ord Vaug system",
+    "coordinates": "L-15",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "terrain": "Rainforests",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance of Free Planets"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ord Vaug",
+    "x": 1250.0,
+    "y": -8819.0,
+    "z": 366.7,
+    "region": "Expansion Region",
+    "grid": "L-15"
+  },
+  "scraped": "2026-07-03"
+}

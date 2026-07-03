@@ -1,0 +1,43 @@
+{
+  "name": "Selitan",
+  "wookieepedia_title": "Selitan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Selitan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Selitan was a planet located in the Selitan system. It was situated in the Loop Worlds area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. The hyperlane known as the Junction-Tierell Loop connected it to the Pinoora and Tertiary Feswe systems.",
+  "lead_paragraphs": [
+    "Selitan was a planet located in the Selitan system. It was situated in the Loop Worlds area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. The hyperlane known as the Junction-Tierell Loop connected it to the Pinoora and Tertiary Feswe systems.",
+    "Selitan was a busy mining world virtually entirely controlled by conglomerates from the Kalamith sector world Hynah. It featured cantinas and sportsplexes, and Selitani miners also frequently visited the Thesme sector trade world Junction for rest and relaxation."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Selitan",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Gordian Reach",
+      "  Loop Worlds"
+    ],
+    "system": "Selitan system",
+    "coordinates": "P-6",
+    "routes": "Junction-Tierell Loop",
+    "interest": [
+      "Cantinas",
+      "Mines",
+      "Sportsplexes"
+    ],
+    "demonym": "Selitani"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Selitan",
+    "x": 6255.8,
+    "y": 5820.8,
+    "z": -29.5,
+    "region": "Outer Rim",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Piton",
+  "wookieepedia_title": "Piton",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Piton",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Piton was a terrestrial planet located in the Piton system of the Core Worlds. It was the homeworld of the sentient Piton species, which lived underground. Miro Daroon, who had become a member of the off-world Jedi Order at some point by approximately 53 BBY, was a Piton from the planet Piton.",
+  "lead_paragraphs": [
+    "Piton was a terrestrial planet located in the Piton system of the Core Worlds. It was the homeworld of the sentient Piton species, which lived underground. Miro Daroon, who had become a member of the off-world Jedi Order at some point by approximately 53 BBY, was a Piton from the planet Piton."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Piton",
+    "region": "Core Worlds",
+    "system": "Piton system",
+    "coordinates": "K-12",
+    "class": "Terrestrial",
+    "species": "Piton"
+  },
+  "homeworld_of": [
+    {
+      "name": "Piton",
+      "directory": "Piton (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Piton",
+    "x": -280.3,
+    "y": -3817.3,
+    "z": 219.5,
+    "region": "Core Worlds",
+    "grid": "K-12"
+  },
+  "scraped": "2026-07-03"
+}

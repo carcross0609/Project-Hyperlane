@@ -1,0 +1,40 @@
+{
+  "name": "Troos",
+  "wookieepedia_title": "Troos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Troos",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Troos was a planet located within the Gordian Reach of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Troos was a planet located within the Gordian Reach of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History",
+    "Description"
+  ],
+  "data": {
+    "name": "Troos",
+    "region": "Outer Rim Territories",
+    "sector": "Gordian Reach",
+    "system": "Troos system",
+    "coordinates": "Q-5",
+    "routes": "Ardan Cross",
+    "terrain": "Subarctic forest",
+    "flora": "Pinnoc tree",
+    "fauna": [
+      "Bahl fly",
+      "Troos armored crebik"
+    ],
+    "affiliation": "Xim's empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Troos",
+    "x": 8038.3,
+    "y": 6903.2,
+    "z": 170.5,
+    "region": "Outer Rim",
+    "grid": "Q-5"
+  },
+  "scraped": "2026-07-03"
+}

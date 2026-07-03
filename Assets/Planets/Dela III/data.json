@@ -1,0 +1,33 @@
+{
+  "name": "Dela III",
+  "wookieepedia_title": "Dela III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dela_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dela III, also known as Dela, was a planet located in the Centrality, a sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Dela III, also known as Dela, was a planet located in the Centrality, a sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Dela III",
+    "region": "Outer Rim Territories",
+    "sector": "Centrality",
+    "system": "Dela system",
+    "coordinates": "T-8",
+    "routes": "Arleen Loop",
+    "interest": "Banks",
+    "species": "Ulorin"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ulorin",
+      "directory": "Ulorin",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

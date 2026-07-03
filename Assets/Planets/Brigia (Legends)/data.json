@@ -1,0 +1,67 @@
+{
+  "name": "Brigia",
+  "wookieepedia_title": "Brigia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Brigia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Brigia was a planet in the Tion Hegemony of the Outer Rim, and the Brigian homeworld.",
+  "lead_paragraphs": [
+    "Brigia was a planet in the Tion Hegemony of the Outer Rim, and the Brigian homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Galactic Civil War",
+    "  Yuuzhan Vong War"
+  ],
+  "data": {
+    "name": "Brigia",
+    "region": [
+      "Outer Rim Territories",
+      "Tion Cluster"
+    ],
+    "sector": "Tion Hegemony",
+    "system": "Brigia system",
+    "coordinates": "T-6",
+    "routes": [
+      "Pakuuni Drift",
+      "Tion Trade Route"
+    ],
+    "class": "Terrestrial",
+    "species": "Brigians",
+    "otherspecies": "Humans",
+    "language": [
+      "Galactic Basic Standard",
+      "Previously: Brigian language"
+    ],
+    "affiliation": [
+      "Back Spiral",
+      "Kingdom of Cron",
+      "Xer's Empire",
+      "Xim's Empire",
+      "Honorable Union of Desevro & Tion",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Tion Hegemony",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Brigian",
+      "directory": "Brigian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Brigia",
+    "x": 12165.6,
+    "y": 5143.6,
+    "z": -480.8,
+    "region": "Outer Rim",
+    "grid": "T-6"
+  },
+  "scraped": "2026-07-03"
+}

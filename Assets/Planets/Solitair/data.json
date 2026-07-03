@@ -1,0 +1,31 @@
+{
+  "name": "Solitair",
+  "wookieepedia_title": "Solitair",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Solitair",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Solitair was a planet in the Solitair system of the Unknown Regions, home to the Garwian species. It was the capital of the species' government, the Garwian Unity.",
+  "lead_paragraphs": [
+    "Solitair was a planet in the Solitair system of the Unknown Regions, home to the Garwian species. It was the capital of the species' government, the Garwian Unity."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Solitair",
+    "region": "Unknown Regions",
+    "sector": "N/A",
+    "system": "Solitair system",
+    "coordinates": "D-8",
+    "class": "Terrestrial",
+    "species": "Garwian",
+    "affiliation": "Garwian Unity"
+  },
+  "homeworld_of": [
+    {
+      "name": "Garwian",
+      "directory": "Garwian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

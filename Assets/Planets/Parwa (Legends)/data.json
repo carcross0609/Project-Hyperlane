@@ -1,0 +1,43 @@
+{
+  "name": "Parwa",
+  "wookieepedia_title": "Parwa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Parwa/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Parwa was a world that was located in the Seswenna sector, in the Outer Rim Territories. The Parwan bounty hunter Derrown originated on Parwa.",
+  "lead_paragraphs": [
+    "Parwa was a world that was located in the Seswenna sector, in the Outer Rim Territories. The Parwan bounty hunter Derrown originated on Parwa."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Parwa",
+    "region": "Outer Rim Territories",
+    "sector": "Seswenna sector",
+    "system": "Parwa system",
+    "coordinates": "M-18",
+    "species": "Parwans",
+    "language": "Parwan language",
+    "demonym": "Parwan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Parwan",
+      "directory": "Parwan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Parwan",
+      "directory": "Parwan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Parwa",
+    "x": 1775.1,
+    "y": -12230.4,
+    "z": 98.5,
+    "region": "Outer Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

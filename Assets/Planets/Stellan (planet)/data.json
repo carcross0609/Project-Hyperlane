@@ -1,0 +1,39 @@
+{
+  "name": "Stellan",
+  "wookieepedia_title": "Stellan (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stellan_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Stellan was an Outer Rim Territories planet located in the Hunnoverrs sector. It was the homeworld of the Stellan species, whose society was governed by a theocracy. Due to the species' religious beliefs, any Stellan deemed overly aggressive or a danger to their society was exiled from their planet and launched into its orbit aboard transport vessels.",
+  "lead_paragraphs": [
+    "Stellan was an Outer Rim Territories planet located in the Hunnoverrs sector. It was the homeworld of the Stellan species, whose society was governed by a theocracy. Due to the species' religious beliefs, any Stellan deemed overly aggressive or a danger to their society was exiled from their planet and launched into its orbit aboard transport vessels.",
+    "Pirates and enslavers from the worlds of Rodia and Tatooine consequently regularly visited Stellan's star system in order to rob or capture the exiled natives. One such Stellan outcast was Jeigh Esse, who instead joined a Rodian clan and became a bounty hunter."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Stellan",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Hunnoverrs sector",
+    "system": "Stellan system",
+    "coordinates": "R-16",
+    "class": "Terrestrial",
+    "species": "Stellan",
+    "government": "Theocracy"
+  },
+  "homeworld_of": [
+    {
+      "name": "Stellan",
+      "directory": "Stellan (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

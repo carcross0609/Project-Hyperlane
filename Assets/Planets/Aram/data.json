@@ -1,0 +1,73 @@
+{
+  "name": "Aram",
+  "wookieepedia_title": "Aram",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aram",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aram was the tropical homeworld of the Aramandi species. Located in the Aramand Cluster in the Brak sector; it was orbited by a lone moon. It possessed a higher than average gravity, which caused the Aramandi to be short and stout.",
+  "lead_paragraphs": [
+    "Aram was the tropical homeworld of the Aramandi species. Located in the Aramand Cluster in the Brak sector; it was orbited by a lone moon. It possessed a higher than average gravity, which caused the Aramandi to be short and stout."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Aram",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Brak sector, part of the Aramand Cluster",
+    "system": "Aramand system",
+    "coordinates": "O-14",
+    "suns": "1: Aramand",
+    "position": "2",
+    "moons": "1",
+    "lengthday": "20 standard hours",
+    "lengthyear": "398 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Warm",
+    "gravity": "Heavy",
+    "terrain": [
+      "Jungle",
+      "Mountains",
+      "Urban"
+    ],
+    "water": "Moderate",
+    "interest": [
+      "Balan Ocean",
+      "Meela Ocean"
+    ],
+    "species": "Aramandi",
+    "population": "2.7 billion",
+    "cities": [
+      "Maka",
+      "Talerakia (capital)",
+      "Tika"
+    ],
+    "imports": [
+      "High technology",
+      "Raw materials"
+    ],
+    "exports": [
+      "Foodstuffs",
+      "Mid technology"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Aramandi",
+      "directory": "Aramandi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aram",
+    "x": 5806.4,
+    "y": -7289.2,
+    "z": 128.9,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Gentes",
+  "wookieepedia_title": "Gentes/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gentes/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gentes was one of three habitable planets in the Anoat system of the Anoat sector, located in the Greater Javin of the Outer Rim. It was the homeworld of the Ugnaughts.",
+  "lead_paragraphs": [
+    "Gentes was one of three habitable planets in the Anoat system of the Anoat sector, located in the Greater Javin of the Outer Rim. It was the homeworld of the Ugnaughts."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Gentes",
+    "region": [
+      "Outer Rim Territories; Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector",
+    "system": "Anoat system",
+    "coordinates": "K-18",
+    "suns": "1: Anoat",
+    "position": "3",
+    "moons": "1: Belsus",
+    "lengthday": "22 standard hours",
+    "lengthyear": "200 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Cool",
+    "gravity": "90% standard",
+    "terrain": "Wastelands",
+    "interest": [
+      "U55-XBB",
+      "Sith Academy"
+    ],
+    "species": "Ugnaught",
+    "otherspecies": "Human",
+    "language": [
+      "Ugnaught",
+      "Galactic Basic Standard"
+    ],
+    "government": "Tribal councils",
+    "population": "1,005,000",
+    "imports": "Foodstuffs",
+    "exports": "Ugnaughts (as laborers)",
+    "affiliation": [
+      "Galactic Republic",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ugnaught",
+      "directory": "Ugnaught",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ugnaught",
+      "directory": "Ugnaught (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gentes",
+    "x": -5.4,
+    "y": 8705.0,
+    "z": 151.4,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

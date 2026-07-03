@@ -1,0 +1,39 @@
+{
+  "name": "Tyluun",
+  "wookieepedia_title": "Tyluun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tyluun",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tyluun was a gloomy planet located in the Tyluun system of the Juvex sector. It was the homeworld of the Night-Soarers.",
+  "lead_paragraphs": [
+    "Tyluun was a gloomy planet located in the Tyluun system of the Juvex sector. It was the homeworld of the Night-Soarers."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tyluun",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Juvex sector",
+    "system": "Tyluun system",
+    "coordinates": "L-18",
+    "species": "Night-Soarers"
+  },
+  "homeworld_of": [
+    {
+      "name": "Night-Soarer",
+      "directory": "Night-Soarer",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tyluun",
+    "x": 183.4,
+    "y": -12061.2,
+    "z": -163.7,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

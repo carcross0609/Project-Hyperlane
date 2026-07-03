@@ -1,0 +1,53 @@
+{
+  "name": "Blutopia",
+  "wookieepedia_title": "Blutopia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blutopia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Blutopia was a planet in the Vensensor sector's Blutopia system, in the Expansion Region and the Trailing Sectors. The watery world was home to the Blutopian species. Blutopia pearls were a dish native to the planet and were considered by the Blutopian Oga Garra one of her favorites.",
+  "lead_paragraphs": [
+    "Blutopia was a planet in the Vensensor sector's Blutopia system, in the Expansion Region and the Trailing Sectors. The watery world was home to the Blutopian species. Blutopia pearls were a dish native to the planet and were considered by the Blutopian Oga Garra one of her favorites.",
+    "In 10 BBY, the scoundrel Jaylen Vrax visited the Renner Family Winery to meet with its owner, Bischt Renner. Following a scuffle, Vrax's BX-series droid commando ND-5 killed Renner, prompting the scoundrel and his partner to depart Blutopia shortly afterward."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Blutopia",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Vensensor sector",
+    "system": "Blutopia system",
+    "coordinates": "K-16",
+    "suns": "1: Blutopia's sun",
+    "routes": "Corellian Trade Spine",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "terrain": "Islands",
+    "water": "Seas",
+    "interest": "An island",
+    "flora": [
+      "Trees",
+      "Nermaline fruit"
+    ],
+    "fauna": "A creature",
+    "species": "Blutopians",
+    "otherspecies": "Humans",
+    "demonym": "Blutopian",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Blutopian",
+      "directory": "Blutopian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

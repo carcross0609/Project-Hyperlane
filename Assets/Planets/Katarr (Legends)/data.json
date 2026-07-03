@@ -1,0 +1,54 @@
+{
+  "name": "Katarr",
+  "wookieepedia_title": "Katarr/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Katarr/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Katarr was a planet in the Mid Rim and a Miraluka colony world. It was completely devastated in 3952 BBY, during the First Jedi Purge.",
+  "lead_paragraphs": [
+    "Katarr was a planet in the Mid Rim and a Miraluka colony world. It was completely devastated in 3952 BBY, during the First Jedi Purge."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Katarr",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Vensori sector",
+    "system": "Katarr system",
+    "coordinates": "O-8",
+    "moons": "At least one",
+    "class": "Terrestrial",
+    "terrain": [
+      "Mountains",
+      "Oceans"
+    ],
+    "otherspecies": "Miraluka",
+    "language": "Miralukese",
+    "population": [
+      "Millions of Miraluka",
+      "Rendered uninhabitable c. 3952 BBY"
+    ],
+    "affiliation": "Darth Revan's Sith Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Reeman",
+      "directory": "Reeman",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Katarr",
+    "x": 5799.8,
+    "y": 2539.7,
+    "z": -109.6,
+    "region": "Mid Rim",
+    "grid": "O-8"
+  },
+  "scraped": "2026-07-03"
+}

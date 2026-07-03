@@ -1,0 +1,42 @@
+{
+  "name": "Yoggoy",
+  "wookieepedia_title": "Yoggoy",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yoggoy",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yoggoy was a planet in the Unknown Regions. It was covered in mounds similar to the Castle Lands, with flowers imported from Alderaan. The Tachyon Flier crashed on Yoggoy in 27 ABY in the location known as the Crash. It was home to the Killiks of the Yoggoy hive and the capital of the Colony.",
+  "lead_paragraphs": [
+    "Yoggoy was a planet in the Unknown Regions. It was covered in mounds similar to the Castle Lands, with flowers imported from Alderaan. The Tachyon Flier crashed on Yoggoy in 27 ABY in the location known as the Crash. It was home to the Killiks of the Yoggoy hive and the capital of the Colony."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Yoggoy",
+    "region": "Unknown Regions",
+    "sector": "Killik Colony Worlds",
+    "system": "Yoggoy system",
+    "coordinates": "H-7",
+    "interest": [
+      "Central Hive",
+      "The Crash"
+    ],
+    "otherspecies": "Killiks",
+    "language": "Killik",
+    "affiliation": "The Colony"
+  },
+  "homeworld_of": [
+    {
+      "name": "Killik",
+      "directory": "Killik (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yoggoy",
+    "x": -4892.2,
+    "y": 3558.5,
+    "z": -43.0,
+    "region": "Unknown Regions",
+    "grid": "H-7"
+  },
+  "scraped": "2026-07-03"
+}

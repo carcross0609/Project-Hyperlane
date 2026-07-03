@@ -1,0 +1,48 @@
+{
+  "name": "Vashka",
+  "wookieepedia_title": "Vashka",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vashka",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vashka was a planet in the galaxy. It was covered in trees and mountains, with small towns dotting the edge of the planet's seas. In its prehistory, it hosted a variety of megafauna, before they were hunted to extinction for the safety of the sentient inhabitants. However, one creature, the Vashkan apidactyl, could not be completely exterminated despite the locals' best efforts. Much of its formerly-hazardous forest was replaced with even rows of ferns, palm trees, and sunburst flowers. The planet had only one large metropolis, Vashka City.",
+  "lead_paragraphs": [
+    "Vashka was a planet in the galaxy. It was covered in trees and mountains, with small towns dotting the edge of the planet's seas. In its prehistory, it hosted a variety of megafauna, before they were hunted to extinction for the safety of the sentient inhabitants. However, one creature, the Vashkan apidactyl, could not be completely exterminated despite the locals' best efforts. Much of its formerly-hazardous forest was replaced with even rows of ferns, palm trees, and sunburst flowers. The planet had only one large metropolis, Vashka City."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vashka",
+    "region": "Outer Rim Territories",
+    "sector": "Kibilini sector",
+    "system": "Vashka system",
+    "coordinates": "Q-17",
+    "routes": "Llanic Spice Run",
+    "atmosphere": "Breathable",
+    "flora": [
+      "Ferns",
+      "Palm trees",
+      "Sunburst flowers"
+    ],
+    "fauna": "Vashkan apidactyl",
+    "demonym": "Vashkan",
+    "cities": "Vashka City",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vashkan apidactyl",
+      "directory": "Vashkan apidactyl",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Vashka",
+    "x": 10081.0,
+    "y": 5840.5,
+    "z": 135.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

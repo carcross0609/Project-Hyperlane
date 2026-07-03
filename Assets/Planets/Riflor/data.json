@@ -1,0 +1,43 @@
+{
+  "name": "Riflor",
+  "wookieepedia_title": "Riflor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Riflor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Riflor was a volcanic planet located in the Riflor system in the Narrant sector of the Mid Rim Territories, connected by the Cerean Reach hyperspace route to Cerea and Lorta. It was home to the Advozse species. On Riflor, volcanic eruptions frequently destroyed Advozsec settlements, so the Advozsec tended to care very little about material goods.",
+  "lead_paragraphs": [
+    "Riflor was a volcanic planet located in the Riflor system in the Narrant sector of the Mid Rim Territories, connected by the Cerean Reach hyperspace route to Cerea and Lorta. It was home to the Advozse species. On Riflor, volcanic eruptions frequently destroyed Advozsec settlements, so the Advozsec tended to care very little about material goods."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Riflor",
+    "region": "Mid Rim Territories",
+    "sector": "Narrant sector",
+    "system": "Riflor system",
+    "coordinates": "J-16",
+    "routes": "Cerean Reach",
+    "terrain": "Volcanos",
+    "species": "Advozse"
+  },
+  "homeworld_of": [
+    {
+      "name": "Advozse",
+      "directory": "Advozse",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Advozse",
+      "directory": "Advozse (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Riflor",
+    "x": -2747.7,
+    "y": -10474.4,
+    "z": -146.8,
+    "region": "Mid Rim",
+    "grid": "J-16"
+  },
+  "scraped": "2026-07-03"
+}

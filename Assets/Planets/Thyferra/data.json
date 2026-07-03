@@ -1,0 +1,55 @@
+{
+  "name": "Thyferra",
+  "wookieepedia_title": "Thyferra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thyferra",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Thyferra was a planet located in the Inner Rim Territories, lying on the Rimma Trade Route. It was the homeworld of the Vratix species, who invented the substance bacta and eventually became addicted to it. When humans who settled on the planet discovered the bacta, they exploited the species' addiction and sold the substance to the public. The barley known as Vratixia renanicus was also cultivated on the planet. The First Order military regime later gained control of Thyferra, and following the regime's defeat at the Battle of Exegol in 35 ABY, the planet was in open rebellion against it.",
+  "lead_paragraphs": [
+    "Thyferra was a planet located in the Inner Rim Territories, lying on the Rimma Trade Route. It was the homeworld of the Vratix species, who invented the substance bacta and eventually became addicted to it. When humans who settled on the planet discovered the bacta, they exploited the species' addiction and sold the substance to the public. The barley known as Vratixia renanicus was also cultivated on the planet. The First Order military regime later gained control of Thyferra, and following the regime's defeat at the Battle of Exegol in 35 ABY, the planet was in open rebellion against it."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Thyferra",
+    "region": "Inner Rim Territories",
+    "sector": "Jaso sector",
+    "system": "Thyferra system",
+    "coordinates": "L-14",
+    "routes": "Rimma Trade Route",
+    "class": "Terrestrial",
+    "flora": "Vratixia renanicus",
+    "species": "Vratix",
+    "otherspecies": "Humans",
+    "demonym": "Thyferran",
+    "exports": "Bacta",
+    "affiliation": [
+      "New Republic",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Vratix",
+      "directory": "Vratix",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Vratix",
+      "directory": "Vratix (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Thyferra",
+    "x": 989.3,
+    "y": -6633.6,
+    "z": -41.5,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

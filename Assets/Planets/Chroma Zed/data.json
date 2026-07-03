@@ -1,0 +1,60 @@
+{
+  "name": "Chroma Zed",
+  "wookieepedia_title": "Chroma Zed",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chroma_Zed",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Chroma Zed was a terrestrial planet located in the Maerdocian sector of the galaxy's Mid Rim. Home to the wormlike humanoid Chromans, who lived in moist mountain burrows near water, the planet featured some of the most magnificent amphitheater facilities, including one with twin waterfalls.",
+  "lead_paragraphs": [
+    "Chroma Zed was a terrestrial planet located in the Maerdocian sector of the galaxy's Mid Rim. Home to the wormlike humanoid Chromans, who lived in moist mountain burrows near water, the planet featured some of the most magnificent amphitheater facilities, including one with twin waterfalls."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Chroma Zed",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Maerdocian sector",
+    "system": "Chroma Zed system",
+    "coordinates": "Q-12",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Mountains",
+      "Rivers",
+      "Waterfalls"
+    ],
+    "species": "Chroman",
+    "population": [
+      "c. 25 ABY",
+      "10 million to 100 million"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Diversity Alliance",
+      "New Republic",
+      "Cooperative Council of Independent Planetary Governments"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Chroman",
+      "directory": "Chroman (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Chroma Zed",
+    "x": 7733.9,
+    "y": -4264.7,
+    "z": -75.0,
+    "region": "Mid Rim",
+    "grid": "Q-12"
+  },
+  "scraped": "2026-07-03"
+}

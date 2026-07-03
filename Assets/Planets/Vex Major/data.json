@@ -1,0 +1,59 @@
+{
+  "name": "Vex Major",
+  "wookieepedia_title": "Vex Major",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vex_Major",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vex Major, also known as Far Gent, was a swampy Outer Rim Territories planet located in the Moddell sector. Originally settled by a sect of the Order of the Ffib, by the time of the Yuuzhan Vong War decades later Vex Major was inhabited by insular clans of Human fishers.",
+  "lead_paragraphs": [
+    "Vex Major, also known as Far Gent, was a swampy Outer Rim Territories planet located in the Moddell sector. Originally settled by a sect of the Order of the Ffib, by the time of the Yuuzhan Vong War decades later Vex Major was inhabited by insular clans of Human fishers."
+  ],
+  "article_sections": [
+    "Description",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Vex Major",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Zuma sector",
+      "  Inner Zuma Region",
+      "    Moddell subsector"
+    ],
+    "system": [
+      "Inner Moddell systems",
+      "  Vex system"
+    ],
+    "coordinates": "H-16",
+    "lengthday": "20 standard hours",
+    "lengthyear": "299 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Temperate",
+      "Stormy"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Swamps"
+    ],
+    "water": "Oceans",
+    "interest": "Spaceport",
+    "otherspecies": "Humans",
+    "government": "Clans",
+    "population": "250,000",
+    "imports": "Foodstuffs",
+    "exports": "Foodstuffs"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vex Major",
+    "x": -4942.7,
+    "y": -10162.1,
+    "z": -133.3,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

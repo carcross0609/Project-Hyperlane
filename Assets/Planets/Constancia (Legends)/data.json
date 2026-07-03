@@ -1,0 +1,39 @@
+{
+  "name": "Constancia",
+  "wookieepedia_title": "Constancia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Constancia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Constancia was the Constancian homeworld.",
+  "lead_paragraphs": [
+    "Constancia was the Constancian homeworld.",
+    "landing on Constancia]]",
+    "A number of Zeltrons settled on the planet, after their first ambassador found the experience of telepathic intimacy exhilarating enough to encourage her people to follow her. Within weeks, a colony of Zeltrons had arrived."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Constancia",
+    "region": "Deep Core",
+    "system": "Constancia system",
+    "coordinates": "K-12",
+    "species": "Constancians",
+    "otherspecies": "Zeltrons",
+    "population": "10 million to 100 million (c. 25 ABY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Constancian",
+      "directory": "Constancian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Constancia",
+    "x": -210.9,
+    "y": -3632.7,
+    "z": -223.4,
+    "region": "Deep Core",
+    "grid": "K-12"
+  },
+  "scraped": "2026-07-03"
+}

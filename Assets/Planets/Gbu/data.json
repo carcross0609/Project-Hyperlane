@@ -1,0 +1,56 @@
+{
+  "name": "Gbu",
+  "wookieepedia_title": "Gbu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gbu",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gbu was a planet in the Outer Rim Territories, located in the Tion Cluster's Keldrath sector.",
+  "lead_paragraphs": [
+    "Gbu was a planet in the Outer Rim Territories, located in the Tion Cluster's Keldrath sector."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Gbu",
+    "region": [
+      "Outer Rim Territories",
+      "  Tion Cluster",
+      "The Slice"
+    ],
+    "sector": "Keldrath sector",
+    "system": "Gbu system",
+    "coordinates": "T-6",
+    "routes": [
+      "Pakuuni Drift",
+      "Rudrig-Gbu Way"
+    ],
+    "class": "Terrestrial",
+    "species": "Veubgri",
+    "affiliation": [
+      "Xim's Empire",
+      "Keldrath Alignment",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Veubg",
+      "directory": "Veubg",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gbu",
+    "x": 12590.2,
+    "y": 5613.5,
+    "z": -706.6,
+    "region": "Outer Rim",
+    "grid": "T-6"
+  },
+  "scraped": "2026-07-03"
+}

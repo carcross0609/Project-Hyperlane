@@ -1,0 +1,63 @@
+{
+  "name": "Gand",
+  "wookieepedia_title": "Gand (planet)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gand_%28planet%29/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gand was a planet in the Outer Rim Territories, located in The Slice, just beyond the Centrality, and on the border of Wild Space. It was the homeworld of the Gand species. Small pocket colonies covered the surface, separated by kilometers of thick ammonia-gas mists, all of which were ruled by the Gand's long-standing totalitarian government. Commerce and trade were conducted on any of the five orbiting space stations.",
+  "lead_paragraphs": [
+    "Gand was a planet in the Outer Rim Territories, located in The Slice, just beyond the Centrality, and on the border of Wild Space. It was the homeworld of the Gand species. Small pocket colonies covered the surface, separated by kilometers of thick ammonia-gas mists, all of which were ruled by the Gand's long-standing totalitarian government. Commerce and trade were conducted on any of the five orbiting space stations."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Gand",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Shadola sector",
+    "system": "Gand system",
+    "coordinates": "T-8",
+    "atmosphere": "Type IV (environment suit required)",
+    "terrain": [
+      "Ammonia-filled mists",
+      "Rocky landscape"
+    ],
+    "species": "Gand",
+    "language": "Gand",
+    "government": [
+      "Modern:",
+      "Meritocratic democracy",
+      "Historic:",
+      "Totalitarian monarchy"
+    ],
+    "population": "1–10 billion (25 ABY)",
+    "cities": "Pocket colonies",
+    "exports": "Findsmen",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gand",
+      "directory": "Gand",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gand",
+      "directory": "Gand (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gand",
+    "x": 13090.3,
+    "y": 2661.6,
+    "z": 488.4,
+    "region": "Outer Rim",
+    "grid": "T-8"
+  },
+  "scraped": "2026-07-03"
+}

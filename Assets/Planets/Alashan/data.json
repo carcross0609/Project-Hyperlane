@@ -1,0 +1,40 @@
+{
+  "name": "Alashan",
+  "wookieepedia_title": "Alashan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alashan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alashan was a planet located in Wild Space of the the galaxy.",
+  "lead_paragraphs": [
+    "Alashan was a planet located in Wild Space of the the galaxy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Alashan",
+    "region": "Wild Space",
+    "system": "Alashan system",
+    "coordinates": "J-5",
+    "moons": "3",
+    "class": "Terrestrial",
+    "interest": "Ancient ruins",
+    "otherspecies": "Sentinel",
+    "population": "Less than 1 million",
+    "cities": "Unidentified Alashan city (abandoned)",
+    "affiliation": [
+      "A culture",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Alashan",
+    "x": -2162.2,
+    "y": 6330.7,
+    "z": -43.5,
+    "region": "Wild Space",
+    "grid": "J-5"
+  },
+  "scraped": "2026-07-03"
+}

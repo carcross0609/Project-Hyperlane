@@ -1,0 +1,42 @@
+{
+  "name": "Ulicia",
+  "wookieepedia_title": "Ulicia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ulicia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ulicia was an industrial planet located in the Ulicia system of the Outer Rim Territories' Corporate Sector, which was governed by the Corporate Sector Authority. It was positioned along the hyperlane known as the Shaltin Tunnels. In 0 ABY, the CSA executive Hart-and-Parn Gorra-Fiolla recovered a prisoner named Naven Crel from the headquarters of the Commex corporation located at Ulicia.",
+  "lead_paragraphs": [
+    "Ulicia was an industrial planet located in the Ulicia system of the Outer Rim Territories' Corporate Sector, which was governed by the Corporate Sector Authority. It was positioned along the hyperlane known as the Shaltin Tunnels. In 0 ABY, the CSA executive Hart-and-Parn Gorra-Fiolla recovered a prisoner named Naven Crel from the headquarters of the Commex corporation located at Ulicia."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Ulicia",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Corporate Sector",
+    "system": "Ulicia system",
+    "coordinates": "S-3",
+    "routes": [
+      "Brosi–Ekibo hyperlane",
+      "Shaltin Tunnels"
+    ],
+    "interest": "Commex's headquarters",
+    "affiliation": "Corporate Sector Authority"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ulicia",
+    "x": 11053.3,
+    "y": 9347.8,
+    "z": -61.2,
+    "region": "Outer Rim",
+    "grid": "S-3"
+  },
+  "scraped": "2026-07-03"
+}

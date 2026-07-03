@@ -1,0 +1,48 @@
+{
+  "name": "Fengrine",
+  "wookieepedia_title": "Fengrine/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fengrine/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fengrine was a Mid Rim agriworld situated in the Senex sector. A prestigious agricultural center that was the most powerful of the agricultural worlds of the Senex-Juvex region, by the time near the end of the Galactic Republic it had also become one of the largest exporters of foodstuffs in the galaxy.",
+  "lead_paragraphs": [
+    "Fengrine was a Mid Rim agriworld situated in the Senex sector. A prestigious agricultural center that was the most powerful of the agricultural worlds of the Senex-Juvex region, by the time near the end of the Galactic Republic it had also become one of the largest exporters of foodstuffs in the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Fengrine",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Fengrine system",
+    "coordinates": "L-18",
+    "routes": "Senex Trace",
+    "class": "Terrestrial",
+    "terrain": "Fields",
+    "interest": [
+      "Agricultural colleges",
+      "Research institutes"
+    ],
+    "exports": "Foodstuffs",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Fengrine",
+    "x": 637.3,
+    "y": -12032.4,
+    "z": -501.4,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

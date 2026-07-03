@@ -1,0 +1,40 @@
+{
+  "name": "Aridus",
+  "wookieepedia_title": "Aridus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aridus",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Aridus was a planet located in the Aridus system, a star system in the Narvath sector of the Expansion Region along the Gamor Run. During the Clone Wars, it was under Separatist control and Republic High Command sent at least one commando squad to Aridus in hopes of coordinating with local freedom fighters.",
+  "lead_paragraphs": [
+    "Aridus was a planet located in the Aridus system, a star system in the Narvath sector of the Expansion Region along the Gamor Run. During the Clone Wars, it was under Separatist control and Republic High Command sent at least one commando squad to Aridus in hopes of coordinating with local freedom fighters."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Aridus",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Narvath sector",
+    "system": "Aridus system",
+    "coordinates": "O-14",
+    "routes": "Gamor Run",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chubbit",
+      "directory": "Chubbit",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aridus",
+    "x": 5491.9,
+    "y": -6312.6,
+    "z": -187.6,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

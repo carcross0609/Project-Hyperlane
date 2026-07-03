@@ -1,0 +1,50 @@
+{
+  "name": "Rhamsis Callo",
+  "wookieepedia_title": "Rhamsis Callo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rhamsis_Callo",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rhamsis Callo was an Outer Rim Territories planet located in the Danjar sector. It was the homeworld of the Force-sensitive and militaristic Schenor species, which allowed the Galactic Empire to construct a base on the planet despite remaining neutral in the Galactic Civil War. During that conflict, a team of Rebel Alliance agents delivered a young survivor of an Imperial massacre of a Schenor colony to Rhamsis Callo. When the Schenor noble B'karitz learned about the massacre, he led an insurrection that attempted to drive the Imperial forces off Rhamsis Callo.",
+  "lead_paragraphs": [
+    "Rhamsis Callo was an Outer Rim Territories planet located in the Danjar sector. It was the homeworld of the Force-sensitive and militaristic Schenor species, which allowed the Galactic Empire to construct a base on the planet despite remaining neutral in the Galactic Civil War. During that conflict, a team of Rebel Alliance agents delivered a young survivor of an Imperial massacre of a Schenor colony to Rhamsis Callo. When the Schenor noble B'karitz learned about the massacre, he led an insurrection that attempted to drive the Imperial forces off Rhamsis Callo."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Rhamsis Callo",
+    "region": "Outer Rim Territories",
+    "sector": "Danjar sector",
+    "system": "Rhamsis Callo system",
+    "coordinates": "N-19",
+    "class": "Terrestrial",
+    "interest": [
+      "Galactic Empire base",
+      "Rhamsis Callo Spaceport"
+    ],
+    "species": "Schenor",
+    "government": "Schenor government",
+    "cities": "Chafflock",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Schenor",
+      "directory": "Schenor",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rhamsis Callo",
+    "x": 3703.5,
+    "y": -14646.5,
+    "z": 320.8,
+    "region": "Outer Rim",
+    "grid": "N-19"
+  },
+  "scraped": "2026-07-03"
+}

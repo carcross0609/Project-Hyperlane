@@ -1,0 +1,45 @@
+{
+  "name": "Minntooine",
+  "wookieepedia_title": "Minntooine/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Minntooine/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Minntooine was an Outer Rim Territories waterworld located in the Calamari sector. It was one of several worlds settled by the Quarren species of the planet Dac. During the Clone Wars, Minntooine hosted a population of Quarren who had been exiled from Dac and allied itself with the Confederacy of Independent Systems. At shipyards maintained on Minntooine, the Free Dac Volunteers Engineering Corps subsequently constructed warships for the Confederacy.",
+  "lead_paragraphs": [
+    "Minntooine was an Outer Rim Territories waterworld located in the Calamari sector. It was one of several worlds settled by the Quarren species of the planet Dac. During the Clone Wars, Minntooine hosted a population of Quarren who had been exiled from Dac and allied itself with the Confederacy of Independent Systems. At shipyards maintained on Minntooine, the Free Dac Volunteers Engineering Corps subsequently constructed warships for the Confederacy."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Minntooine",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Calamari sector",
+    "system": "Minntooine system",
+    "coordinates": "T-6",
+    "routes": [
+      "Giblim Route",
+      "Minntooine Spur"
+    ],
+    "class": "Terrestrial",
+    "water": "Present",
+    "interest": "Free Dac Volunteers Engineering Corps shipyards",
+    "species": "None",
+    "otherspecies": "Quarren",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Minntooine",
+    "x": 13466.3,
+    "y": 4831.9,
+    "z": 484.7,
+    "region": "Outer Rim",
+    "grid": "T-6"
+  },
+  "scraped": "2026-07-03"
+}

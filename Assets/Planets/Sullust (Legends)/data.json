@@ -1,0 +1,142 @@
+{
+  "name": "Sullust",
+  "wookieepedia_title": "Sullust/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sullust/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sullust was the primary planet of the Sullust system, located in the Outer Rim Territories at the conjuncture of the Rimma Trade Route and the Silvestri Trace. It was the homeworld of the Sullustans.",
+  "lead_paragraphs": [
+    "Sullust was the primary planet of the Sullust system, located in the Outer Rim Territories at the conjuncture of the Rimma Trade Route and the Silvestri Trace. It was the homeworld of the Sullustans."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Sullust",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Brema sector",
+    "system": "Sullust system",
+    "coordinates": "M-17",
+    "suns": "1: Sullust",
+    "position": "4",
+    "moons": [
+      "2:",
+      "Sulon",
+      "Umnub"
+    ],
+    "routes": [
+      "Rimma Trade Route",
+      "Silvestri Trace/Sanctuary Pipeline"
+    ],
+    "lengthday": "20 standard hours",
+    "lengthyear": "263 standard days",
+    "class": "Terrestrial",
+    "diameter": "12,780 kilometers",
+    "atmosphere": [
+      "Type II (breath mask suggested) on surface",
+      "Type I (breathable) in underground"
+    ],
+    "climate": "Superheated",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Volcanoes",
+      "Rocky deserts",
+      "Caves"
+    ],
+    "interest": [
+      "Keff Base",
+      "LavaRide",
+      "SoroSuub Facility",
+      "Slime Sea",
+      "Sullustan Orbital Shipyards",
+      "Sullustan shrine"
+    ],
+    "fauna": [
+      "Alv",
+      "Ash angel",
+      "Curlnose",
+      "Din",
+      "Drutash grub",
+      "Dugo",
+      "Mellcrawler",
+      "Miim",
+      "Noor",
+      "Seluss",
+      "Sullustan rockrender"
+    ],
+    "species": "Sullustan",
+    "otherspecies": [
+      "Bith",
+      "Human"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Sullustese"
+    ],
+    "government": "Corporate",
+    "population": [
+      "18.5 billion:",
+      "  96% Sullustan",
+      "  2% Human",
+      "  1% Bith",
+      "  1% other"
+    ],
+    "cities": [
+      "Byllurun (capital)",
+      "Fulluusub",
+      "G'rinn Go city",
+      "Jubieck's home city",
+      "Pirin",
+      "Piringiisi",
+      "Serres Sarrano"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Water"
+    ],
+    "exports": [
+      "Starships",
+      "Computers",
+      "Droids",
+      "Hyperdrive and astrogation technology"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Sith Empire",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Alliance of Free Planets",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sullustan",
+      "directory": "Sullustan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Sullustan",
+      "directory": "Sullustan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sullust",
+    "x": 2340.4,
+    "y": -11719.5,
+    "z": -10.1,
+    "region": "Outer Rim",
+    "grid": "M-17"
+  },
+  "scraped": "2026-07-03"
+}

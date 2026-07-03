@@ -1,0 +1,55 @@
+{
+  "name": "Baros",
+  "wookieepedia_title": "Baros",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Baros",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Baros was a planet located in the Baros system in the Dominus sector. An Outer Rim world on the farthest reaches of the Slice, the planet was home to the Brubb species. It had a high gravity, was frequented by windstorms, and possessed infertile growing soil. In 9 ABY, it was one of the New Republic worlds taken over by Grand Admiral Thrawn during his campaign against the New Republic.",
+  "lead_paragraphs": [
+    "Baros was a planet located in the Baros system in the Dominus sector. An Outer Rim world on the farthest reaches of the Slice, the planet was home to the Brubb species. It had a high gravity, was frequented by windstorms, and possessed infertile growing soil. In 9 ABY, it was one of the New Republic worlds taken over by Grand Admiral Thrawn during his campaign against the New Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Baros",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Dominus sector",
+    "system": "Baros system",
+    "coordinates": "U-7",
+    "suns": "1: Bari",
+    "routes": "Prously's Rim Run",
+    "lengthyear": "567 standard days",
+    "climate": "Arid",
+    "gravity": "Heavy (2.9 standard)",
+    "terrain": "Rock",
+    "flora": "Avabush",
+    "species": "Brubbs",
+    "population": "1–10 billion (25 ABY)",
+    "demonym": "Barosian",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Brubb",
+      "directory": "Brubb",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Baros",
+    "x": 14140.0,
+    "y": 3844.7,
+    "z": 404.9,
+    "region": "Outer Rim",
+    "grid": "U-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Samaria",
+  "wookieepedia_title": "Samaria/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Samaria/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Samaria was a desert planet located in the Leemurtoo system in the galaxy's Core Worlds.",
+  "lead_paragraphs": [
+    "Samaria was a desert planet located in the Leemurtoo system in the galaxy's Core Worlds."
+  ],
+  "article_sections": [
+    "History",
+    "  Early history",
+    "  Galactic Empire"
+  ],
+  "data": {
+    "name": "Samaria",
+    "region": "Core Worlds",
+    "system": "Leemurtoo system",
+    "coordinates": "M-11",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen mix",
+    "terrain": "Desert",
+    "interest": [
+      "Hall of Ministers",
+      "Talo Square",
+      "Twilight Fountains",
+      "Crystal Forest"
+    ],
+    "species": "Samarian",
+    "language": "Galactic Basic Standard",
+    "demonym": "Samarian",
+    "cities": "Sath (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Samarian",
+      "directory": "Samarian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Samaria",
+    "x": 2545.7,
+    "y": -2538.6,
+    "z": -15.4,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

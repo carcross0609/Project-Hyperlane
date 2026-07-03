@@ -1,0 +1,44 @@
+{
+  "name": "Lowick",
+  "wookieepedia_title": "Lowick",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lowick",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Lowick was a planet located in the Outer Rim Territories that was the swampy homeworld of the Pa'lowick singer Sy Snootles.",
+  "lead_paragraphs": [
+    "Lowick was a planet located in the Outer Rim Territories that was the swampy homeworld of the Pa'lowick singer Sy Snootles."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lowick",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Calaron sector",
+    "system": "Lowick system",
+    "coordinates": "U-9",
+    "species": "Pa'lowick"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pa'lowick",
+      "directory": "Pa'lowick",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Pa'lowick",
+      "directory": "Pa'lowick (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lowick",
+    "x": 13612.8,
+    "y": 329.5,
+    "z": -200.5,
+    "region": "Outer Rim",
+    "grid": "U-9"
+  },
+  "scraped": "2026-07-03"
+}

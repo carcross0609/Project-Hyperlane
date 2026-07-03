@@ -1,0 +1,42 @@
+{
+  "name": "Douglas III",
+  "wookieepedia_title": "Douglas III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Douglas_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Douglas III, the third planet of the remote Douglas system, was a member of the Centrality region of the Outer Rim Territories. Far from the Galactic Core and of little interest to the rest of the galaxy, Douglas III was made famous by the game hunter Mendel Douglas, who failed to return from the planet during a quest to acquire the hide of Douglas III's elusive native jackelope. The planet later attracted pirates and black-marketeers.",
+  "lead_paragraphs": [
+    "Douglas III, the third planet of the remote Douglas system, was a member of the Centrality region of the Outer Rim Territories. Far from the Galactic Core and of little interest to the rest of the galaxy, Douglas III was made famous by the game hunter Mendel Douglas, who failed to return from the planet during a quest to acquire the hide of Douglas III's elusive native jackelope. The planet later attracted pirates and black-marketeers."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Douglas III",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Centrality",
+    "system": "Douglas system",
+    "coordinates": "U-8",
+    "position": "3",
+    "routes": "Falko Run",
+    "class": "Terrestrial",
+    "terrain": "Landmasses",
+    "water": "Oceans",
+    "fauna": "Jackelope"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Douglas III",
+    "x": 14216.9,
+    "y": 2011.8,
+    "z": -116.6,
+    "region": "Outer Rim",
+    "grid": "U-8"
+  },
+  "scraped": "2026-07-03"
+}

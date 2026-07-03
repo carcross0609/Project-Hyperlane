@@ -1,0 +1,46 @@
+{
+  "name": "Koboth",
+  "wookieepedia_title": "Koboth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Koboth",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Koboth was the Kobok homeworld. It was located in the Outer Rim Territories, on the fringe of the Tingel Arm. It bordered the Corporate Sector.",
+  "lead_paragraphs": [
+    "Koboth was the Kobok homeworld. It was located in the Outer Rim Territories, on the fringe of the Tingel Arm. It bordered the Corporate Sector."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Koboth",
+    "region": [
+      "Outer Rim Territories",
+      "  Kobothi Space"
+    ],
+    "sector": "N/A",
+    "system": "Koboth system",
+    "coordinates": "R-3",
+    "suns": "1: Koba Prime",
+    "moons": "3",
+    "terrain": [
+      "Barren",
+      "Rocky islands"
+    ],
+    "water": "Seas",
+    "interest": "Kuurok Peninsula",
+    "species": "Koboks",
+    "language": "Kobothi",
+    "affiliation": "Koboth Union"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kobok",
+      "directory": "Kobok (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

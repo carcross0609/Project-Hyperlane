@@ -1,0 +1,45 @@
+{
+  "name": "Noori",
+  "wookieepedia_title": "Noori",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Noori",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Noori was a terrestrial planet in the Noori sector's Noori system within the galaxy's southeast quadrant, located in an area of the Expansion Region overlapping with a part of space known as the Slice. The Galactic Republic began scouting the region during the Great Manifest Period, resulting in widespread colonization in the following millennia. Noori was the homeworld of the Noorians, a sentient humanoid species with striped eyes. Tahl, a Noorian Jedi Master who lived during the last decades of the Republic, hailed from the planet.",
+  "lead_paragraphs": [
+    "Noori was a terrestrial planet in the Noori sector's Noori system within the galaxy's southeast quadrant, located in an area of the Expansion Region overlapping with a part of space known as the Slice. The Galactic Republic began scouting the region during the Great Manifest Period, resulting in widespread colonization in the following millennia. Noori was the homeworld of the Noorians, a sentient humanoid species with striped eyes. Tahl, a Noorian Jedi Master who lived during the last decades of the Republic, hailed from the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Noori",
+    "region": [
+      "Expansion Region; the Slice",
+      "The Slice"
+    ],
+    "sector": "Noori sector",
+    "system": "Noori system",
+    "coordinates": "O-10",
+    "class": "Terrestrial",
+    "species": "Noorian",
+    "demonym": "Noorian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Noorian",
+      "directory": "Noorian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Noori",
+    "x": 2109.3,
+    "y": -9739.1,
+    "z": 202.8,
+    "region": "Expansion Region",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

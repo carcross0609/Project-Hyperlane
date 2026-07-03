@@ -1,0 +1,50 @@
+{
+  "name": "Yorgraxx",
+  "wookieepedia_title": "Yorgraxx",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yorgraxx",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yorgraxx was a planet located in the Prefsbelt sector of the Outer Rim.",
+  "lead_paragraphs": [
+    "Yorgraxx was a planet located in the Prefsbelt sector of the Outer Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Yorgraxx",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Prefsbelt sector",
+    "system": "Yorgraxx system",
+    "coordinates": "K-5",
+    "lengthday": "31 standard hours",
+    "lengthyear": "402 days",
+    "climate": "Sub-arctic",
+    "terrain": "Mountains",
+    "interest": "Fornayh's fortress",
+    "species": "Yorgraxx native",
+    "affiliation": [
+      "Sith",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Yorgraxx species",
+      "directory": "Unidentified Yorgraxx species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yorgraxx",
+    "x": -1392.3,
+    "y": 6088.0,
+    "z": -165.8,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

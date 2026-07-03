@@ -1,0 +1,41 @@
+{
+  "name": "Kleeva",
+  "wookieepedia_title": "Kleeva",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kleeva",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kleeva was a massive gas giant located within Hutt Space. It was orbited by at least three moons, including Boonda's Moon and Vultee-Pietsch.",
+  "lead_paragraphs": [
+    "Kleeva was a massive gas giant located within Hutt Space. It was orbited by at least three moons, including Boonda's Moon and Vultee-Pietsch."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kleeva",
+    "region": [
+      "Hutt Space",
+      "The Slice"
+    ],
+    "system": "Kleeva system",
+    "coordinates": "R-11",
+    "moons": [
+      "Boonda's Moon",
+      "Vultee-Pietsch",
+      "At least 1 other moon"
+    ],
+    "routes": "Oktos Route",
+    "class": "Gas giant",
+    "atmosphere": "Poisonous",
+    "terrain": "Violet clouds",
+    "population": "None"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kleeva",
+    "x": 10310.0,
+    "y": -2809.7,
+    "z": 263.7,
+    "region": "Hutt Space",
+    "grid": "R-11"
+  },
+  "scraped": "2026-07-03"
+}

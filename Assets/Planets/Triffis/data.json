@@ -1,0 +1,42 @@
+{
+  "name": "Triffis",
+  "wookieepedia_title": "Triffis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Triffis",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Triffis was a planet that was the homeworld of the Triffian species, including the podracer Ebe E. Endocott. It was located in the Triffis system along a major hyperlane in the Hevvrol sector of the Mid Rim Territories, in grid square O-15 of the Standard Galactic Grid.",
+  "lead_paragraphs": [
+    "Triffis was a planet that was the homeworld of the Triffian species, including the podracer Ebe E. Endocott. It was located in the Triffis system along a major hyperlane in the Hevvrol sector of the Mid Rim Territories, in grid square O-15 of the Standard Galactic Grid."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Triffis",
+    "region": "Mid Rim Territories",
+    "sector": "Hevvrol sector",
+    "system": "Triffis system",
+    "coordinates": "O-15",
+    "routes": "Darkknell–New Cov hyperlane",
+    "species": "Triffian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Triffian",
+      "directory": "Triffian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Triffian",
+      "directory": "Triffian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Triffis",
+    "x": 5752.8,
+    "y": -8352.2,
+    "z": -243.0,
+    "region": "Mid Rim",
+    "grid": "O-15"
+  },
+  "scraped": "2026-07-03"
+}

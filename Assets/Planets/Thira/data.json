@@ -1,0 +1,36 @@
+{
+  "name": "Thira",
+  "wookieepedia_title": "Thira",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thira",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thira was the innermost planet in the Vaxal system. It was a searing rock with one moon.",
+  "lead_paragraphs": [
+    "Thira was the innermost planet in the Vaxal system. It was a searing rock with one moon."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Thira",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Callia sector",
+    "system": "Vaxal system",
+    "coordinates": "N-13",
+    "suns": "1: Vaxal",
+    "position": "1",
+    "moons": "1",
+    "class": "Searing rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Thira",
+    "x": 3468.1,
+    "y": -5841.0,
+    "z": -112.5,
+    "region": "Inner Rim",
+    "grid": "N-13"
+  },
+  "scraped": "2026-07-03"
+}

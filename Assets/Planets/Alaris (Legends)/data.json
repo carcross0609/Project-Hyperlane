@@ -1,0 +1,47 @@
+{
+  "name": "Alaris",
+  "wookieepedia_title": "Alaris/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alaris/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alaris was a large gas giant located within the Alaris Expanse in the outer arm of the Kashyyyk system, a part of the Mytaranor sector in the Slice portion of the Mid Rim. The planet had eight moons and held the sixth orbital position around the star Kashyyyk.",
+  "lead_paragraphs": [
+    "Alaris was a large gas giant located within the Alaris Expanse in the outer arm of the Kashyyyk system, a part of the Mytaranor sector in the Slice portion of the Mid Rim. The planet had eight moons and held the sixth orbital position around the star Kashyyyk.",
+    "The size of Alaris hid one of its small moons, Alaris Prime, from galactic view, meaning that the moon was uncolonized for eons despite its extensive resources. Sometime between 59 BBY and 56 BBY Wookiees from the nearby planet Kashyyyk discovered Alaris Prime and colonized it twenty years later, also claiming the other seven moons of Alaris. The Alaris colonies utilized middle-period Krorral, an architectural style involving domed structures."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Alaris",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region",
+      "The Slice"
+    ],
+    "sector": "Mytaranor sector",
+    "system": "Kashyyyk system",
+    "coordinates": "P-9",
+    "suns": "Kashyyyk",
+    "position": "6",
+    "moons": [
+      "Alaris Prime",
+      "7 others"
+    ],
+    "routes": [
+      "Durkteel Loop",
+      "Great Kashyyyk Branch",
+      "Nightroad",
+      "Randon Run"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Alaris",
+    "x": 6642.2,
+    "y": 817.7,
+    "z": -214.6,
+    "region": "Mid Rim",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

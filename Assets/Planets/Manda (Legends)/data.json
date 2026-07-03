@@ -1,0 +1,63 @@
+{
+  "name": "Manda",
+  "wookieepedia_title": "Manda/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Manda/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Manda was a planet located in the Mid Rim region of the galaxy.",
+  "lead_paragraphs": [
+    "Manda was a planet located in the Mid Rim region of the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Manda",
+    "region": [
+      "Mid Rim;",
+      "The Slice"
+    ],
+    "sector": "Manda sector",
+    "system": "Manda system",
+    "coordinates": "R-15",
+    "suns": "1: Manda Prime",
+    "routes": [
+      "Manda Merchant Route",
+      "Manda-Roon Merchant Route",
+      "Tatooine Dash"
+    ],
+    "terrain": "Cities",
+    "interest": [
+      "Baobab Archives",
+      "Baobab Merchant Fleet Complex",
+      "Baobab Merchant Marine Academy",
+      "The Blue Nebula",
+      "Manda spaceport"
+    ],
+    "otherspecies": "Humans",
+    "language": [
+      "Galactic Basic Standard",
+      "Bocce"
+    ],
+    "population": "1 to 10 billion (c. 25 ABY)",
+    "cities": "Aroo",
+    "affiliation": [
+      "Galactic Republic",
+      "Exar Kun's Sith Empire",
+      "Brotherhood of Darkness",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Manda",
+    "x": 10231.9,
+    "y": -7563.6,
+    "z": -174.4,
+    "region": "Mid Rim",
+    "grid": "R-15"
+  },
+  "scraped": "2026-07-03"
+}

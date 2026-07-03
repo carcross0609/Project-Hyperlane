@@ -1,0 +1,69 @@
+{
+  "name": "Mima II",
+  "wookieepedia_title": "Mima II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mima_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mima II, also referred to as Mima, was a tropical planet located in the Mid Rim's D'Aelgoth sector. The gravitational influence of Lar, the planet's star, caused the tectonic plates on Mima II to be constantly moving across its surface in various directions, leading to the active creation of new landforms, such as mountains and seas. The accompanying release of chemical elements vital to the development of life resulted in the planet being abundant with plant and animal species, including the sentient Bilars.",
+  "lead_paragraphs": [
+    "Mima II, also referred to as Mima, was a tropical planet located in the Mid Rim's D'Aelgoth sector. The gravitational influence of Lar, the planet's star, caused the tectonic plates on Mima II to be constantly moving across its surface in various directions, leading to the active creation of new landforms, such as mountains and seas. The accompanying release of chemical elements vital to the development of life resulted in the planet being abundant with plant and animal species, including the sentient Bilars.",
+    "Living in Mima II's lush jungles as well as in cities, the Bilars were herbivorous primates that had developed a unique ability to form group minds known as claqas. That ability, coupled with the abundance of basic necessities on Mima II, such as food, allowed the Bilars to rapidly establish a highly technological society on their homeworld. However, due to various other reasons, interstellar merchants avoided doing business with the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "  Geologic activity",
+    "  A world rich in life",
+    "History",
+    "Inhabitants",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Mima II",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "D'Aelgoth sector",
+    "system": "Lar system",
+    "coordinates": "L-17",
+    "suns": "1: Lar",
+    "position": "2",
+    "moons": "At least 2",
+    "lengthday": "15 standard hours",
+    "lengthyear": "103 standard days",
+    "class": "Terrestrial",
+    "climate": "Extremely warm",
+    "terrain": [
+      "Jungles",
+      "Mountains",
+      "Volcanoes"
+    ],
+    "water": [
+      "Oceans",
+      "Seas",
+      "Rivers"
+    ],
+    "interest": [
+      "Business districts",
+      "Magma pool"
+    ],
+    "flora": [
+      "Lianas",
+      "Moss",
+      "Trees"
+    ],
+    "fauna": "Riam",
+    "species": "Bilars",
+    "cities": "A city"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bilar",
+      "directory": "Bilar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

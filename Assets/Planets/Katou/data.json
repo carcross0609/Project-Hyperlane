@@ -1,0 +1,33 @@
+{
+  "name": "Katou",
+  "wookieepedia_title": "Katou",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Katou",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Katou was a jungle planet located in Wild Space in the galaxy that became embroiled in the Clone Wars when Count Dooku ordered General Grievous to conquer it. While the planet's population initially proved no threat, Jedi Knight Cardiff Baye arrived with a contingent of clone troopers, prompting Grievous to hunt them amidst the jungles.",
+  "lead_paragraphs": [
+    "Katou was a jungle planet located in Wild Space in the galaxy that became embroiled in the Clone Wars when Count Dooku ordered General Grievous to conquer it. While the planet's population initially proved no threat, Jedi Knight Cardiff Baye arrived with a contingent of clone troopers, prompting Grievous to hunt them amidst the jungles."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Katou",
+    "region": "Wild Space",
+    "moons": "2",
+    "class": "Terrestrial",
+    "terrain": "Jungles",
+    "fauna": "Katou creature",
+    "species": [
+      "Human",
+      "  Katouan"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Katouan",
+      "directory": "Katouan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Malastare",
+  "wookieepedia_title": "Malastare",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Malastare",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Malastare was a forested planet located in the Malastare system of the Mid Rim, situated along the Hydian Way. Its core was home to large reserves of Malastarian fuel, a toxic fuel found only on Malastare. It was the homeworld of the Dug species, though it was represented in the Galactic Senate by the Gran species, who had colonized Malastare. Ainlee Teem, the senator of Malastare, was nominated in the election for Supreme Chancellor during the Invasion of Naboo. During the Clone Wars, Malastare was the location of a battle between the Galactic Republic and the Confederacy of Independent Systems over the planet's fuel reserves. The battle awoke a creature known as the Zillo Beast, which the Republic successfully neutralized, leading the Dug Council to sign a treaty with the Republic allowing them access to their fuel reserves.",
+  "lead_paragraphs": [
+    "Malastare was a forested planet located in the Malastare system of the Mid Rim, situated along the Hydian Way. Its core was home to large reserves of Malastarian fuel, a toxic fuel found only on Malastare. It was the homeworld of the Dug species, though it was represented in the Galactic Senate by the Gran species, who had colonized Malastare. Ainlee Teem, the senator of Malastare, was nominated in the election for Supreme Chancellor during the Invasion of Naboo. During the Clone Wars, Malastare was the location of a battle between the Galactic Republic and the Confederacy of Independent Systems over the planet's fuel reserves. The battle awoke a creature known as the Zillo Beast, which the Republic successfully neutralized, leading the Dug Council to sign a treaty with the Republic allowing them access to their fuel reserves."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Late Republic Era",
+    "    A falling Republic",
+    "    Clone Wars",
+    "  Galactic Empire",
+    "Government"
+  ],
+  "data": {
+    "name": "Malastare",
+    "region": [
+      "Mid Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Dustig sector",
+    "system": "Malastare system",
+    "coordinates": "N-16",
+    "suns": "Striar",
+    "moons": [
+      "Blightmoon",
+      "Zillo"
+    ],
+    "routes": [
+      "Biox Detour",
+      "Hydian Way"
+    ],
+    "lengthday": "26 standard hours",
+    "lengthyear": "201 local days",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Rocky"
+    ],
+    "interest": [
+      "Imperial palace",
+      "Malastare communications station",
+      "Malastare Narrows",
+      "Pandion's vacation palace"
+    ],
+    "flora": [
+      "Cactus",
+      "Glod-pod"
+    ],
+    "fauna": [
+      "Insectomorph",
+      "Mantabog",
+      "Zillo Beast"
+    ],
+    "species": "Dug",
+    "otherspecies": [
+      "Gran",
+      "Human"
+    ],
+    "government": "Dug Council",
+    "demonym": "Malastarian",
+    "cities": "Pixelito",
+    "exports": "Malastarian fuel",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Kenner Loring's faction"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Dug",
+      "directory": "Dug",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Dug",
+      "directory": "Dug (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Gran",
+      "directory": "Gran",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Malastare",
+    "x": 3124.9,
+    "y": -10253.5,
+    "z": -18.2,
+    "region": "Mid Rim",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

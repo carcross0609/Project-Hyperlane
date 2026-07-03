@@ -1,0 +1,57 @@
+{
+  "name": "Lannik",
+  "wookieepedia_title": "Lannik",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lannik",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Lannik was a planet with a long history of war that was located in the galaxy's Mid Rim and was the homeworld of the Lannik species.",
+  "lead_paragraphs": [
+    "Lannik was a planet with a long history of war that was located in the galaxy's Mid Rim and was the homeworld of the Lannik species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lannik",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Lannik Space",
+    "system": "Lannik system",
+    "coordinates": "R-13",
+    "routes": "Bothawui–Daalang hyperlane",
+    "terrain": [
+      "Rocky, inhospitable deserts (at the equator)",
+      "Mountainous highlands and vast forests (at the north and south)"
+    ],
+    "flora": "Vast forests",
+    "fauna": "Ridden beasts",
+    "species": "Lannik",
+    "language": "Toffar (known as Lannik to offworlders)",
+    "government": "A hierarchical system of vassalage with a hereditary prince at its head",
+    "affiliation": [
+      "Rivalled clans and houses",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lannik",
+      "directory": "Lannik (species)",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Lannik",
+      "directory": "Lannik (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lannik",
+    "x": 9155.6,
+    "y": -4957.7,
+    "z": 177.2,
+    "region": "Mid Rim",
+    "grid": "R-13"
+  },
+  "scraped": "2026-07-03"
+}

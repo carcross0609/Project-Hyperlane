@@ -1,0 +1,47 @@
+{
+  "name": "Klatooine",
+  "wookieepedia_title": "Klatooine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Klatooine",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Klatooine was a desert planet located within the Klatooine system in Hutt Space that was the homeworld of the Klatooinian species. The former pirate Queen Maz Kanata marked it as a point of interest on a map she included in the book that would become known as the Smuggler's Guide. The xenolinguist Jaiyna Sibinth, who studied the language of Pasaana's Aki-Aki, saw similar recurring symbols and themes to the native cultures of other desert planets, including Klatooine's.",
+  "lead_paragraphs": [
+    "Klatooine was a desert planet located within the Klatooine system in Hutt Space that was the homeworld of the Klatooinian species. The former pirate Queen Maz Kanata marked it as a point of interest on a map she included in the book that would become known as the Smuggler's Guide. The xenolinguist Jaiyna Sibinth, who studied the language of Pasaana's Aki-Aki, saw similar recurring symbols and themes to the native cultures of other desert planets, including Klatooine's."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Klatooine",
+    "region": [
+      "Hutt Space",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Klatooine system",
+    "coordinates": "S-9",
+    "terrain": "Desert",
+    "flora": "Paddy flower",
+    "fauna": "Klatooine paddy frog",
+    "species": "Klatooinian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Klatooinian",
+      "directory": "Klatooinian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Klatooinian",
+      "directory": "Klatooinian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Klatooine",
+    "x": 11616.0,
+    "y": 1443.8,
+    "z": 194.7,
+    "region": "Hutt Space",
+    "grid": "S-9"
+  },
+  "scraped": "2026-07-03"
+}

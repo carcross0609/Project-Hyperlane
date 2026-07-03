@@ -1,0 +1,82 @@
+{
+  "name": "Pochi",
+  "wookieepedia_title": "Pochi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pochi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pochi was a planet located in the Faarlsun system, a part of Wild Space's Parthovian Cluster. It was an arid yet habitable world, the surface of which featured endless plains, covered in low grasses and small trees, and low mountain ranges.",
+  "lead_paragraphs": [
+    "Pochi was a planet located in the Faarlsun system, a part of Wild Space's Parthovian Cluster. It was an arid yet habitable world, the surface of which featured endless plains, covered in low grasses and small trees, and low mountain ranges.",
+    "Pochi was the homeworld of the Tulvarees, semi-intelligent, tribe-based avians that practiced hunting. At some point, a massive tower known as Fortress Baarlos was constructed on Pochi by a group whose identity was later forgotten.",
+    "Ten millennia later, the Human pirate and warlord Faarl established his base of operations on Pochi, running his empire from Fortress Baarlos. Faarl employed the Tulvarees as soldiers, but eventually the bounty hunter Boba Fett assaulted Faarl's fortress and claimed the bounty posted on the warlord."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Pochi",
+    "region": "Wild Space",
+    "sector": "Parthovian Cluster",
+    "system": "Faarlsun system",
+    "coordinates": "T-4",
+    "suns": "1: Faarlsun",
+    "position": "4",
+    "moons": "3",
+    "lengthday": "25 standard hours",
+    "lengthyear": "350 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Arid",
+      "Temperate-to-warm"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Caves",
+      "Endless dry plains",
+      "Low mountain ranges",
+      "Small forests"
+    ],
+    "water": "Present",
+    "interest": [
+      "Fortress Baarlos",
+      "Hatching caves"
+    ],
+    "flora": [
+      "Scrub grasses",
+      "Trees"
+    ],
+    "fauna": "Grazing herbivores",
+    "species": "Tulvarees",
+    "otherspecies": "Humans",
+    "government": "Warlord",
+    "population": "6 million",
+    "cities": "Vindru",
+    "imports": [
+      "Low-level technology",
+      "Luxury items",
+      "Raw materials"
+    ],
+    "exports": "None",
+    "affiliation": "Faarl's empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tulvaree",
+      "directory": "Tulvaree",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Pochi",
+    "x": 12413.7,
+    "y": 8843.4,
+    "z": -220.7,
+    "region": "Wild Space",
+    "grid": "T-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,66 @@
+# Bestine IV
+
+**Continuity:** Canon  
+**Source:** [Bestine IV](https://starwars.fandom.com/wiki/Bestine_IV)
+**Galaxy atlas:** system `Bestine IV`, Inner Rim, grid M-14 — map position (1589.9, -6162.0, -96.6)
+
+Bestine IV was a water-covered planet located in the Inner Rim Territories' Bestine system. One of the key members of the Galactic Republic by the time of the High Republic Era, it served primarily as an agricultural world, hosting starship manufacturing facilities as well. Bestine was also part of a lommite ore shipping route that connected the planet Eriadu to the Core Worlds. During the rise of the Separatist Alliance, the Separatist leader Count Dooku expressed threats to the security of the lommite shipping route via Bestine to Eriadu's governor, Wilhuff Tarkin.
+
+Bestine IV remained loyal to the Republic during the Clone Wars against the Separatists, hosting a Republic Navy fleet. After the war ended with the Separatists' defeat, the Republic became the Galactic Empire and brutally annexed Bestine. The new government built a naval shipyard on the local island of Jahnae to help quell potential rebellions in the Inner Rim. The new base was unpopular with the locals and forced many, including the merchant Jek Porkins, to leave. During the Galactic Civil War, in 3 ABY, the Rebel Alliance's Twenty-First traveled to Bestine as part of a coordinated rebel effort.
+
+In Bestine IV's Bsellis City, Sergeant Mey Kilrow of the local Bestine Security Force kept a protection deal with the planet's most ruthless gang, the Nova Razors. A warrior visited the neighborhood where the gang operated and attacked its headquarters, defeating the gang leader and many of his thugs. Learning of Kilrow's corruption, the warrior then sought to end it.
+
+Between 3 ABY and 4 ABY, the criminal syndicate Crimson Dawn hired a crew of bounty hunters led by T'onga to help insurgents on Bestine IV stop an Imperial munitions shipment. The Empire learned of the syndicate's plan, and a team led by the cyborg mercenary Beilert Valance was sent to set a trap for the attackers. The trap was sprung during the attack, and Valance and T'onga, two old allies, found themselves in a confrontation. There, T'onga revealed to Valance that the people the latter was working with the Empire to protect had already been taken or killed.
+
+Angered about being lied to by the Empire, Valance killed the Imperial shipment's shoretrooper security force and had the transport fly into the base on Jahnae, destroying it. Valance used the base's destruction as bait for the Sith Lord Darth Vader, who arrived on the planet to confront the mercenary. The two fought, with Vader ultimately defeating Valance, and TIE/sa bombers bombed the village on Jahnae. Imperial Lieutenant Jyala Haydenn then shot the mercenary, sending him dropping off a cliff. T'onga and her crew then found Valance alive and took him offworld.
+
+## Planetary data
+
+- **Name:** Bestine IV
+- **Region:** Inner Rim Territories
+- **Sector:** None
+- **System:** Bestine system
+- **Coordinates:** M-14
+- **Position:** 4
+- **Routes:** Corellian Trade Spine
+- **Class:** Terrestrial
+- **Atmosphere:** Type I (breathable)
+- **Terrain:**
+  - Caves
+  - Cliffs
+  - Island spires
+  - Hills
+  - Plains
+- **Water:** Oceans
+- **Interest:** Imperial naval base
+- **Otherspecies:** Humans and other species
+- **Cities:** Bsellis City
+- **Affiliation:**
+  - Galactic Republic
+  - Galactic Empire
+  - New Republic
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+- History
+-   Loyal to the Republic
+-     Garnering importance
+-     Allegiances tested
+-   Decline under the Empire
+-     A bad reputation
+-     Corruption in Bsellis City
+-   Crimson Dawn strikes
+-     Dual preparation
+-     Clash and revelations
+-     Base or bait
+-     Punishment
+- Inhabitants
+- Locations
+-   Origins
+-   Canon developments
+-   Inconsistencies
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

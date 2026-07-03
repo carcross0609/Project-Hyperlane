@@ -1,0 +1,99 @@
+{
+  "name": "Trandosha",
+  "wookieepedia_title": "Trandosha/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trandosha/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Trandosha, also known as Dosha or Hsskhor, was the homeworld of the warlike, reptilian Trandoshan species. It was located in the same star system as Kashyyyk, the home world of the Wookiees, causing bitter animosity between the two species.",
+  "lead_paragraphs": [
+    "Trandosha, also known as Dosha or Hsskhor, was the homeworld of the warlike, reptilian Trandoshan species. It was located in the same star system as Kashyyyk, the home world of the Wookiees, causing bitter animosity between the two species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Trandosha",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region"
+    ],
+    "sector": "Mytaranor sector",
+    "system": "Kashyyyk system",
+    "coordinates": "P-9",
+    "suns": "1: Kashyyyk",
+    "position": "5",
+    "moons": "2: Akoshissss, Wasskah",
+    "routes": [
+      "Durkteel Loop",
+      "Great Kashyyyk Branch",
+      "Nightroad",
+      "Randon Run"
+    ],
+    "lengthday": "25 standard hours",
+    "lengthyear": "371 local days",
+    "class": "Terrestrial",
+    "climate": "Humid (in some parts) Arid (in some parts)",
+    "gravity": "0.62 standard",
+    "terrain": [
+      "Jungles",
+      "Rainforests",
+      "Woodlands",
+      "Savannahs",
+      "Deserts",
+      "Grasslands",
+      "High mountains",
+      "Seas",
+      "Villages"
+    ],
+    "fauna": [
+      "Doshian jellyfish",
+      "Frist shark",
+      "Gnathgrg"
+    ],
+    "species": "Trandoshan",
+    "language": "Dosh",
+    "government": "Tribal",
+    "population": [
+      "42 million:",
+      "  99% Trandoshan",
+      "  1% other"
+    ],
+    "demonym": "Trandoshan",
+    "cities": [
+      "Forak",
+      "Hsskhor (capital)"
+    ],
+    "imports": "Technology",
+    "exports": [
+      "Mercenaries",
+      "Slaves",
+      "Detectives"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Trandoshan",
+      "directory": "Trandoshan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Trandoshan",
+      "directory": "Trandoshan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Trandosha",
+    "x": 7105.4,
+    "y": 196.9,
+    "z": -81.1,
+    "region": "Mid Rim",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

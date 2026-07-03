@@ -1,0 +1,60 @@
+{
+  "name": "Bogden",
+  "wookieepedia_title": "Bogden/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bogden/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bogden was a many-mooned world located in the Inner Rim, along the Hydian Way, between Arkania and Ploo.",
+  "lead_paragraphs": [
+    "Bogden was a many-mooned world located in the Inner Rim, along the Hydian Way, between Arkania and Ploo."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Bogden",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "system": "Bogden system",
+    "coordinates": "M-8",
+    "moons": [
+      "20:",
+      "Bog moon of Bogden",
+      "Bogden 3",
+      "Bogg 2",
+      "Bogg 4",
+      "Bogg 5",
+      "Bogg 9",
+      "Bogg 11",
+      "Kohlma"
+    ],
+    "routes": [
+      "Hydian Way",
+      "  Corsin Run"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Swamps",
+    "flora": "Ironwithe",
+    "fauna": "Renda bear",
+    "population": "Modern: none",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Bogden",
+    "x": 1580.2,
+    "y": 2639.1,
+    "z": 48.3,
+    "region": "Inner Rim",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

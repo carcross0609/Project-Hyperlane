@@ -1,0 +1,73 @@
+{
+  "name": "Vortex",
+  "wookieepedia_title": "Vortex/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vortex/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vortex was a Mid Rim planet in the Glythe sector. The planet was the homeworld of the Vors, a non-emotional winged species.",
+  "lead_paragraphs": [
+    "Vortex was a Mid Rim planet in the Glythe sector. The planet was the homeworld of the Vors, a non-emotional winged species."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Vortex",
+    "region": "Mid Rim",
+    "sector": "Glythe sector",
+    "system": "Ten Tempests system",
+    "coordinates": "K-7",
+    "suns": "1",
+    "moons": "None",
+    "routes": "Celanon Spur",
+    "lengthday": "18 standard hours",
+    "lengthyear": "421 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Light",
+    "terrain": [
+      "Forest",
+      "Mountain",
+      "Plains"
+    ],
+    "water": "50%",
+    "interest": "Cathedral of Winds",
+    "fauna": "Goa lawah",
+    "species": "Vors",
+    "language": "Vortexlex",
+    "government": "Tribal",
+    "population": "6.5 billion",
+    "imports": [
+      "High tech",
+      "Mid tech"
+    ],
+    "exports": [
+      "Foodstuffs",
+      "Raw materials"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Vor",
+      "directory": "Vor",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vortex",
+    "x": -1372.6,
+    "y": 3317.2,
+    "z": 11.9,
+    "region": "Mid Rim",
+    "grid": "K-7"
+  },
+  "scraped": "2026-07-03"
+}

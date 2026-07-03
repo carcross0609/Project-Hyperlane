@@ -1,0 +1,83 @@
+{
+  "name": "Csilla",
+  "wookieepedia_title": "Csilla/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Csilla/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Csilla, the homeworld of the Chiss, was a cold world of glaciers and snowy wastes located deep within Chiss Space, and served as the capital of the Chiss Ascendancy.",
+  "lead_paragraphs": [
+    "Csilla, the homeworld of the Chiss, was a cold world of glaciers and snowy wastes located deep within Chiss Space, and served as the capital of the Chiss Ascendancy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Csilla",
+    "region": "Unknown Regions",
+    "sector": "Chiss Space",
+    "system": "Csilla system",
+    "coordinates": "F-8",
+    "suns": "1: Csilla",
+    "position": "2",
+    "moons": "3",
+    "routes": [
+      "Path of the Houses",
+      "Vagaari Corridor"
+    ],
+    "lengthday": "25 standard hours",
+    "lengthyear": "462 local days",
+    "class": "Terrestrial",
+    "diameter": "11,080 km",
+    "climate": "Frigid",
+    "gravity": "Standard",
+    "terrain": [
+      "Glaciers",
+      "Caves"
+    ],
+    "interest": "Expeditionary Library",
+    "fauna": "Nanja fly",
+    "species": "Chiss",
+    "language": "Cheunh",
+    "government": "Oligarchy",
+    "population": [
+      "8 billion:",
+      "  99% Chiss",
+      "  1% other species"
+    ],
+    "demonym": "Csillan",
+    "cities": [
+      "Csaplar (capital)",
+      "Ac'siel"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Luxury goods",
+      "Technology"
+    ],
+    "exports": "Information",
+    "affiliation": "Chiss Ascendancy (5000 BBY—)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chiss",
+      "directory": "Chiss",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Chiss",
+      "directory": "Chiss (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Csilla",
+    "x": -8893.8,
+    "y": 1832.0,
+    "z": 97.4,
+    "region": "Unknown Regions",
+    "grid": "F-8"
+  },
+  "scraped": "2026-07-03"
+}

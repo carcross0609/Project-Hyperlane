@@ -1,0 +1,58 @@
+{
+  "name": "Anoth",
+  "wookieepedia_title": "Anoth/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anoth/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Anoth was a planet located in Wild Space. The world was shattered at some point during an unknown cataclysm, but remained largely together due to its gravitational pull.",
+  "lead_paragraphs": [
+    "Anoth was a planet located in Wild Space. The world was shattered at some point during an unknown cataclysm, but remained largely together due to its gravitational pull."
+  ],
+  "article_sections": [
+    "Geography",
+    "History"
+  ],
+  "data": {
+    "name": "Anoth",
+    "region": "Wild Space",
+    "system": "Anoth system",
+    "coordinates": "J-20",
+    "suns": "1",
+    "position": "3",
+    "lengthday": "14 standard hours",
+    "lengthyear": "286 local days",
+    "class": "Planetary fragment",
+    "atmosphere": "Type III (breath mask required)",
+    "climate": "Frigid",
+    "gravity": "Light",
+    "terrain": "Barren",
+    "interest": [
+      "Anoth Base",
+      "Thunder Peak"
+    ],
+    "fauna": "Anothian living crystal",
+    "otherspecies": [
+      "None (modern)",
+      "Human (historic)"
+    ],
+    "language": [
+      "Historic:",
+      "Galactic Basic Standard"
+    ],
+    "population": [
+      "Modern:",
+      "3-150"
+    ],
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Anoth",
+    "x": -2605.3,
+    "y": -16467.2,
+    "z": -522.5,
+    "region": "Wild Space",
+    "grid": "J-20"
+  },
+  "scraped": "2026-07-03"
+}

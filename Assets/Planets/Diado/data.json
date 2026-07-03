@@ -1,0 +1,52 @@
+{
+  "name": "Diado",
+  "wookieepedia_title": "Diado",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Diado",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Diado was a snow-covered world in the Mid Rim.",
+  "lead_paragraphs": [
+    "Diado was a snow-covered world in the Mid Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Diado",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Lifh sector",
+    "system": "Diado system",
+    "coordinates": "R-8",
+    "moons": "At least 2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cold",
+    "terrain": [
+      "Snow",
+      "Mountains"
+    ],
+    "interest": "CIS Weapons Factory",
+    "otherspecies": [
+      "Human",
+      "Other species"
+    ],
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Separatist holdouts"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Diado",
+    "x": 7410.4,
+    "y": 2195.3,
+    "z": -30.2,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

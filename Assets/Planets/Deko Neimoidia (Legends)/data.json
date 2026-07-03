@@ -1,0 +1,55 @@
+{
+  "name": "Deko Neimoidia",
+  "wookieepedia_title": "Deko Neimoidia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deko_Neimoidia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Deko Neimoidia was a wealthy Colonies planet that was a purse world of the Neimoidian species. By the time of the Clone Wars, it was the possession of the Trade Federation and the Confederacy of Independent Systems. The Galactic Republic laid siege to the planet near the end of that conflict, with the Jedi-led offensive eventually resulting in the devastation and capture of the world.",
+  "lead_paragraphs": [
+    "Deko Neimoidia was a wealthy Colonies planet that was a purse world of the Neimoidian species. By the time of the Clone Wars, it was the possession of the Trade Federation and the Confederacy of Independent Systems. The Galactic Republic laid siege to the planet near the end of that conflict, with the Jedi-led offensive eventually resulting in the devastation and capture of the world."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Ruination of a purse world",
+    "  The final month",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Deko Neimoidia",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Deko Neimoidia system",
+    "coordinates": "N-11",
+    "class": "Terrestrial",
+    "interest": [
+      "A fortress",
+      "Neimoidian residences"
+    ],
+    "otherspecies": "Neimoidians",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Neimoidian",
+      "directory": "Neimoidian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Deko Neimoidia",
+    "x": 1197.0,
+    "y": 241.0,
+    "z": -34.1,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

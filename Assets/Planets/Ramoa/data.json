@@ -1,0 +1,33 @@
+{
+  "name": "Ramoa",
+  "wookieepedia_title": "Ramoa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ramoa",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ramoa was a planet, and the homeworld of the Ramoan species, including Bazel Warv, a Jedi Knight.",
+  "lead_paragraphs": [
+    "Ramoa was a planet, and the homeworld of the Ramoan species, including Bazel Warv, a Jedi Knight."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ramoa",
+    "region": "Outer Rim Territories",
+    "sector": "Sprizen sector",
+    "system": "Ramoa system",
+    "coordinates": "N-5",
+    "species": "Ramoan",
+    "language": "Ramoan language",
+    "affiliation": "Yuuzhan Vong empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ramoan",
+      "directory": "Ramoan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

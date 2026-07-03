@@ -1,0 +1,64 @@
+{
+  "name": "Chalacta",
+  "wookieepedia_title": "Chalacta/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chalacta/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Chalacta was a Mid Rim planet, homeworld of the Chalactan Adepts.",
+  "lead_paragraphs": [
+    "Chalacta was a Mid Rim planet, homeworld of the Chalactan Adepts."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Chalacta",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region"
+    ],
+    "sector": "Kastolar sector",
+    "system": "Chalacta system",
+    "coordinates": "R-10",
+    "suns": "1",
+    "routes": "Pabol Sleheyron",
+    "class": "Terrestrial",
+    "terrain": [
+      "Jagged mountains",
+      "Dry and dusty valleys"
+    ],
+    "interest": "Temple of Illumination",
+    "species": "Chalactans",
+    "population": "10 million to 100 million",
+    "cities": "Jordir",
+    "affiliation": [
+      "Galactic Republic",
+      "Hutt Cartel",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Chalactan",
+      "directory": "Chalactan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Chalactan",
+      "directory": "Chalactan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Chalacta",
+    "x": 9822.6,
+    "y": -310.7,
+    "z": 169.2,
+    "region": "Mid Rim",
+    "grid": "R-10"
+  },
+  "scraped": "2026-07-03"
+}

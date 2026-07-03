@@ -1,0 +1,42 @@
+{
+  "name": "Telfrey",
+  "wookieepedia_title": "Telfrey",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Telfrey",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Telfrey was a planet in the Mid Rim's Trans-Nebular sector that was home to a native sentient species called the Telfreyans, and also supported a population of Humans during the Imperial Period. Among the Humans who called Telfrey home were Tay Vanis and Yom Argo, who later left home to serve the Rebel Alliance as spies. Vanis and Argo later returned to Telfrey to investigate reports of increased Imperial activity in the region, and eventually Telfrey erupted in open rebellion. The Imperial response was swift and brutal, and the ensuing bombardment rendered the planet completely uninhabitable. During the Nagai–Tof War, the Tofs established a heavily fortified base on Telfrey's surface.",
+  "lead_paragraphs": [
+    "Telfrey was a planet in the Mid Rim's Trans-Nebular sector that was home to a native sentient species called the Telfreyans, and also supported a population of Humans during the Imperial Period. Among the Humans who called Telfrey home were Tay Vanis and Yom Argo, who later left home to serve the Rebel Alliance as spies. Vanis and Argo later returned to Telfrey to investigate reports of increased Imperial activity in the region, and eventually Telfrey erupted in open rebellion. The Imperial response was swift and brutal, and the ensuing bombardment rendered the planet completely uninhabitable. During the Nagai–Tof War, the Tofs established a heavily fortified base on Telfrey's surface."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Telfrey",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Trans-Nebular sector",
+    "system": "Iskalon system",
+    "coordinates": "R-16",
+    "terrain": "Slag; formerly: Urban",
+    "species": "None; formerly: Telfreyans",
+    "otherspecies": "None; formerly: Humans",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Telfreyan",
+      "directory": "Telfreyan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Telfrey",
+    "x": 9407.0,
+    "y": -10325.3,
+    "z": -61.0,
+    "region": "Mid Rim",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

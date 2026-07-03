@@ -1,0 +1,57 @@
+{
+  "name": "Gaftikar",
+  "wookieepedia_title": "Gaftikar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gaftikar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gaftikar was a planet in the Outer Rim. Some time before the Galactic War between the Galactic Republic and the reconstituted Sith Empire, the mercenaries known as the Brig Stompers wiped out the planet's entire defense force during a coup.",
+  "lead_paragraphs": [
+    "Gaftikar was a planet in the Outer Rim. Some time before the Galactic War between the Galactic Republic and the reconstituted Sith Empire, the mercenaries known as the Brig Stompers wiped out the planet's entire defense force during a coup.",
+    "Omega Squad was stationed there for some time during the Clone Wars. It was the site of the Battle of Gaftikar, which started with attacking the capital city of Eyat. It was speculated by Omega Squad that the Republic wasn't attacking the planet so much for the war effort or to help the Marits, but rather as a favor to the Shenio Mining corporation, who were interested in the gaining greater economical control over the planet.",
+    "The local population consisted of the reptilian Marits and Humans. Neither species was native to the planet, but rather, the Marits had been hired by the Humans to create their cities for them, due to the Marits' high reputation of being skilled mathematicians and natural engineers. After completing construction, however, the Marits were exiled into the forests by the Humans, with almost no contact between the two species. The Humans had great fear of the Marits, especially since the former species was greatly outnumbered, afraid that they would someday rise up and take control of the planet. In truth, the Marits only wanted proportional representation in the government and equal rights."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gaftikar",
+    "region": "Outer Rim Territories",
+    "sector": "Kalamith sector",
+    "system": "Gaftikar system",
+    "coordinates": "P-5",
+    "terrain": [
+      "Forests",
+      "Heathlands",
+      "Rolling hills"
+    ],
+    "interest": [
+      "Assembly House",
+      "Bidean Way"
+    ],
+    "species": "None",
+    "otherspecies": [
+      "Humans",
+      "Marits"
+    ],
+    "population": "Half a billion",
+    "cities": "Eyat (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Marit",
+      "directory": "Marit",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gaftikar",
+    "x": 4009.1,
+    "y": 7740.9,
+    "z": -75.9,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

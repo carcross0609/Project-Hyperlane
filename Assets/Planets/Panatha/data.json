@@ -1,0 +1,51 @@
+{
+  "name": "Panatha",
+  "wookieepedia_title": "Panatha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Panatha",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Panatha, also known as Epicanthix was a jungle planet in the Pacanth Reach in the Outer Rim Territories. It was the homeworld of the Epicanthix. It was close to the Unknown Regions.",
+  "lead_paragraphs": [
+    "Panatha, also known as Epicanthix was a jungle planet in the Pacanth Reach in the Outer Rim Territories. It was the homeworld of the Epicanthix. It was close to the Unknown Regions."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Panatha",
+    "region": "Outer Rim Territories",
+    "sector": "Pacanth Reach",
+    "system": "Panatha system",
+    "coordinates": "H-16",
+    "terrain": [
+      "Mountains",
+      "Jungles",
+      "Rainforests"
+    ],
+    "flora": "Flowers",
+    "species": "Epicanthix",
+    "language": "Epicant",
+    "cities": "Lorvian City",
+    "affiliation": [
+      "Sith Empire",
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Epicanthix",
+      "directory": "Epicanthix",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Panatha",
+    "x": -5827.0,
+    "y": -9390.3,
+    "z": 20.9,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

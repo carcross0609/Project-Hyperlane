@@ -1,0 +1,44 @@
+{
+  "name": "Ubuuga",
+  "wookieepedia_title": "Ubuuga",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ubuuga",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ubuuga was a planet located in the Ubuuga system and the homeworld of the Ubuugans and the Ubuugan fleshborers. Ubuuga was well-known for its caviar.",
+  "lead_paragraphs": [
+    "Ubuuga was a planet located in the Ubuuga system and the homeworld of the Ubuugans and the Ubuugan fleshborers. Ubuuga was well-known for its caviar."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ubuuga",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Halori sector",
+    "system": "Ubuuga system",
+    "coordinates": "Q-7",
+    "species": [
+      "Ubuugans",
+      "Ubuugan fleshborer"
+    ],
+    "demonym": "Ubuugan",
+    "exports": "Caviar"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ubuugan",
+      "directory": "Ubuugan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ubuuga",
+    "x": 7917.1,
+    "y": 4052.4,
+    "z": -22.0,
+    "region": "Mid Rim",
+    "grid": "Q-7"
+  },
+  "scraped": "2026-07-03"
+}

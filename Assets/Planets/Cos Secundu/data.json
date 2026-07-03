@@ -1,0 +1,34 @@
+{
+  "name": "Cos Secundu",
+  "wookieepedia_title": "Cos Secundu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cos_Secundu",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Cos Secundu was a planet located near Cosia, in the Deep Core region of the galaxy. Cosian bioengineers created an offshoot of their own species, the Nu-Cosians, to colonize that world.",
+  "lead_paragraphs": [
+    "Cos Secundu was a planet located near Cosia, in the Deep Core region of the galaxy. Cosian bioengineers created an offshoot of their own species, the Nu-Cosians, to colonize that world."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Cos Secundu",
+    "region": "Deep Core",
+    "sector": "Cosian Space",
+    "species": "Nu-Cosian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nu-Cosian",
+      "directory": "Nu-Cosian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Cos Secundu",
+    "x": 3890.8,
+    "y": 6979.4,
+    "z": -61.3,
+    "region": "Deep Core",
+    "grid": "N-5"
+  },
+  "scraped": "2026-07-03"
+}

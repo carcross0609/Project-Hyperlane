@@ -1,0 +1,57 @@
+{
+  "name": "Narg",
+  "wookieepedia_title": "Narg",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Narg",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Narg was an isolated planet in the Rayter sector of the Outer Rim Territories. Its Human inhabitants were known to be xenophobic. During the Galactic Civil War, the planet was controlled by TransGalMeg Industries, Incorporated.",
+  "lead_paragraphs": [
+    "Narg was an isolated planet in the Rayter sector of the Outer Rim Territories. Its Human inhabitants were known to be xenophobic. During the Galactic Civil War, the planet was controlled by TransGalMeg Industries, Incorporated."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Narg",
+    "region": "Outer Rim Territories",
+    "sector": "Rayter sector",
+    "system": "Narg system",
+    "coordinates": "J-19",
+    "lengthday": "21 standard hours",
+    "lengthyear": "431 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Forests",
+      "Plains"
+    ],
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "government": "Corporate",
+    "population": "250 million",
+    "cities": [
+      "Grig",
+      "Toggeus"
+    ],
+    "imports": [
+      "Metals",
+      "Minerals"
+    ],
+    "exports": [
+      "Mid tech",
+      "High tech"
+    ],
+    "affiliation": "TransGalMeg Industries, Incorporated"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Narg",
+    "x": 4764.3,
+    "y": 8542.2,
+    "z": 51.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

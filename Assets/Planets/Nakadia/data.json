@@ -1,0 +1,80 @@
+{
+  "name": "Nakadia",
+  "wookieepedia_title": "Nakadia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nakadia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Nakadia was an agricultural planet in the Expansion Region located just off of the Rimma Trade Route. The homeworld of the Nakadian species, it was occupied for some time by the Separatist Alliance. In 3 ABY, the Rebel Alliance 61st Mobile Infantry destroyed the Galactic Empire's plastoid factories on Nakadia, facing the Empire's local bioweapon stockpile.",
+  "lead_paragraphs": [
+    "Nakadia was an agricultural planet in the Expansion Region located just off of the Rimma Trade Route. The homeworld of the Nakadian species, it was occupied for some time by the Separatist Alliance. In 3 ABY, the Rebel Alliance 61st Mobile Infantry destroyed the Galactic Empire's plastoid factories on Nakadia, facing the Empire's local bioweapon stockpile.",
+    "In 5 ABY, Nakadia began serving as the temporary headquarters of the senate for the Alliance's successor, the New Republic. With the bulk of the Empire's forces amassed at the planet Jakku, the New Republic Senate struggled to unanimously vote on attacking the forces, due to the blackmail and bribes from a syndicate alliance. A group of allies of Chancellor Mon Mothma were able to determine the nature of the corruption and deter it before the final vote.",
+    "After the subsequent defeat of the Empire, the ex-Imperial Yrica Quell was subject to judgement by the New Republic, weighing her actions for the Empire against her later actions for the New Republic. Quell was ultimately cleared for her crimes and allowed to live a normal life. The arrested rogue archaeologist Doctor Chelli Aphra was taken to the Department of Artifacts and Archival Goods Retrieval on Nakadia and forced to work for them in order to reduce her sentences by the New Republic. Aphra underwent a number of missions, reporting back to the D.A.A.G.R. Headquarters on Nakadia, but grew frustrated about her situation and bargained for her freedom."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Site of war",
+    "  Fall of the Empire",
+    "    The five vote conspiracy",
+    "    Surveillance",
+    "    Truths unveiled",
+    "    War-ending decisions",
+    "    Quell's judgement",
+    "  Treasure hunting",
+    "    Aphra's recruitment",
+    "    A Solo mission",
+    "    The tattoo dilemma",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Nakadia",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Tregillis sector",
+    "system": "Nakadia system",
+    "coordinates": "M-15",
+    "moons": "2",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Hills",
+      "Fields",
+      "Forests"
+    ],
+    "interest": [
+      "Leia Organa's Nakadia office",
+      "Mon Mothma's Nakadia office",
+      "Nakadia's northernmost spaceport",
+      "Plastoid factories",
+      "Quell's apartment",
+      "A café",
+      "An Imperial bioweapons warehouse"
+    ],
+    "species": "Nakadian",
+    "demonym": "Nakadian",
+    "cities": "Quarrow (capital)",
+    "affiliation": [
+      "Confederacy of Independent Systems (occupied)",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Nakadian",
+      "directory": "Nakadian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Nakadia",
+    "x": 9211.4,
+    "y": -7026.0,
+    "z": 397.7,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

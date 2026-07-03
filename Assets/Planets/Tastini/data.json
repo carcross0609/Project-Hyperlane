@@ -1,0 +1,53 @@
+{
+  "name": "Tastini",
+  "wookieepedia_title": "Tastini",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tastini",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Tastini was a planet in the Chamberlam system.",
+  "lead_paragraphs": [
+    "Tastini was a planet in the Chamberlam system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tastini",
+    "system": "Chamberlam system",
+    "lengthday": "32 hours",
+    "lengthyear": "463 days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Tropical",
+    "gravity": "1.30 Standard",
+    "terrain": [
+      "Jungle",
+      "Forests",
+      "Mountains",
+      "Oceans"
+    ],
+    "interest": "Chez Gorham",
+    "species": "Sawal",
+    "otherspecies": [
+      "Human",
+      "Various other species"
+    ],
+    "government": "None",
+    "population": [
+      "2,000 colonists and workers",
+      "3 million Sawals"
+    ],
+    "exports": [
+      "Precious woods",
+      "Rare herbs"
+    ],
+    "affiliation": "Faversham Corporation"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sawal",
+      "directory": "Sawal",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

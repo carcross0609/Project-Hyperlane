@@ -1,0 +1,44 @@
+{
+  "name": "Gastol",
+  "wookieepedia_title": "Gastol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gastol",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gastol was a planet in the Brentaal system. It was a gas giant with three moons.",
+  "lead_paragraphs": [
+    "Gastol was a planet in the Brentaal system. It was a gas giant with three moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gastol",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "sector": "Bormea sector",
+    "system": "Brentaal system",
+    "coordinates": "L-9",
+    "suns": "1: Brenta",
+    "position": "3",
+    "moons": "3",
+    "routes": [
+      "Commenor Run",
+      "Hydian Way",
+      "  Brentaal–Denon Route",
+      "  Corsin Run",
+      "Perlemian Trade Route"
+    ],
+    "terrain": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Gastol",
+    "x": 178.7,
+    "y": -659.2,
+    "z": -62.1,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

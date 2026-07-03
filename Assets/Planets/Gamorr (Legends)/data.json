@@ -1,0 +1,122 @@
+{
+  "name": "Gamorr",
+  "wookieepedia_title": "Gamorr/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gamorr/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gamorr was an agrarian planet located in the Opoku system of the Outer Rim Territories. It was the homeworld of a porcine sentient species, the Gamorreans. Its varied terrain ranged from frozen tundra to deep forests, and was considered quite pleasant by off-worlders. Nevertheless, tourism was highly discouraged to Gamorr because of the vicious lifestyle of ferocious, bloody warfare constantly being waged between rival Gamorrean clans. Prominent mushrooms were also found on Gamorr, as were native coolsap trees.",
+  "lead_paragraphs": [
+    "Gamorr was an agrarian planet located in the Opoku system of the Outer Rim Territories. It was the homeworld of a porcine sentient species, the Gamorreans. Its varied terrain ranged from frozen tundra to deep forests, and was considered quite pleasant by off-worlders. Nevertheless, tourism was highly discouraged to Gamorr because of the vicious lifestyle of ferocious, bloody warfare constantly being waged between rival Gamorrean clans. Prominent mushrooms were also found on Gamorr, as were native coolsap trees."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Gamorr",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Galov sector",
+    "system": "Opoku system",
+    "coordinates": "T-14",
+    "suns": "1: Opoku",
+    "position": "3",
+    "moons": "2",
+    "routes": "Triellus Trade Route",
+    "lengthday": "28 standard hours",
+    "lengthyear": "380 local days",
+    "class": "Terrestrial",
+    "diameter": "15,520 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forest",
+      "Mountains",
+      "Jungle",
+      "Tundra",
+      "Plains",
+      "Swamps"
+    ],
+    "water": [
+      "Seas",
+      "Streams"
+    ],
+    "interest": [
+      "Jugsmuk Station",
+      "Nudskutch",
+      "Jugsmuk",
+      "Carnuss Gorgull",
+      "Field of Legend",
+      "Ruins of Carnuss Gorgull",
+      "Sith Academy",
+      "Watchtower Run"
+    ],
+    "flora": [
+      "Coolsap tree",
+      "Gorgt",
+      "Snoruuk"
+    ],
+    "fauna": [
+      "Dwoob",
+      "Flapdragon",
+      "Morrt",
+      "Quizzer",
+      "Watch-beast"
+    ],
+    "otherlife": "Algark stalk",
+    "species": "Gamorrean",
+    "language": [
+      "Gamorrean",
+      "Basic"
+    ],
+    "government": "Feudal clans",
+    "population": [
+      "500 million:",
+      "  100% Gamorreans"
+    ],
+    "demonym": "Gamorrean",
+    "cities": "Citadel",
+    "imports": [
+      "Melee weapons",
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": [
+      "Mercenaries",
+      "Slaves"
+    ],
+    "affiliation": [
+      "Exar Kun's Sith Empire",
+      "Darth Revan's Sith Empire",
+      "Hutt Space",
+      "Hutt dependencies"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Gamorrean",
+      "directory": "Gamorrean",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gamorrean",
+      "directory": "Gamorrean (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gamorr",
+    "x": 12682.2,
+    "y": -6473.3,
+    "z": 134.8,
+    "region": "Outer Rim",
+    "grid": "T-14"
+  },
+  "scraped": "2026-07-03"
+}

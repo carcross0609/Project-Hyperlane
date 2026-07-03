@@ -1,0 +1,33 @@
+{
+  "name": "Oru",
+  "wookieepedia_title": "Oru",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oru",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Oru was a planet in the Outer Rim Territories that was home to a group of human warriors known as Oruans. The First Order took over the planet and stripped it of its resources, causing Oru to become toxic. A group of Oruans led by the strategist Mezlo attempted to fight off the First Order, almost succeeding, but they were forced to flee the planet to survive, taking up residence at Horizon Base.",
+  "lead_paragraphs": [
+    "Oru was a planet in the Outer Rim Territories that was home to a group of human warriors known as Oruans. The First Order took over the planet and stripped it of its resources, causing Oru to become toxic. A group of Oruans led by the strategist Mezlo attempted to fight off the First Order, almost succeeding, but they were forced to flee the planet to survive, taking up residence at Horizon Base."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Oru",
+    "region": "Outer Rim Territories",
+    "sector": "Veragi sector",
+    "system": "Oru system",
+    "coordinates": "L-3",
+    "routes": "Veragi Trade Route",
+    "climate": "Toxic",
+    "species": "Human",
+    "demonym": "Oruan",
+    "affiliation": "First Order"
+  },
+  "homeworld_of": [
+    {
+      "name": "Oruan",
+      "directory": "Oruan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

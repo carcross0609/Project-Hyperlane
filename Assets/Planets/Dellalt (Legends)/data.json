@@ -1,0 +1,82 @@
+{
+  "name": "Dellalt",
+  "wookieepedia_title": "Dellalt/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dellalt/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dellalt was a planet in the Tion Hegemony.",
+  "lead_paragraphs": [
+    "Dellalt was a planet in the Tion Hegemony."
+  ],
+  "article_sections": [
+    "Geography",
+    "History"
+  ],
+  "data": {
+    "name": "Dellalt",
+    "region": [
+      "Outer Rim Territories",
+      "Greater Tion",
+      "  Tion Cluster"
+    ],
+    "sector": "Tion Hegemony",
+    "system": "Dellalt system",
+    "coordinates": "T-6",
+    "suns": "1",
+    "moons": "2",
+    "routes": [
+      "Giblim Route",
+      "Tion Trade Route"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen mix, Type I (breathable)",
+    "climate": "Humid",
+    "terrain": [
+      "Lakes",
+      "Mountains",
+      "Plains"
+    ],
+    "interest": [
+      "J'uoch's mining camp",
+      "Treasure Vaults of Xim the Despot",
+      "Survivors encampment"
+    ],
+    "fauna": [
+      "Dellalt canoid",
+      "Dray beast",
+      "Stoneshell",
+      "Yapper"
+    ],
+    "species": "Dellaltian",
+    "otherspecies": "Human",
+    "language": [
+      "Galactic Basic Standard",
+      "Previously: Tionese"
+    ],
+    "cities": "Vault's City",
+    "affiliation": [
+      "Xim's Empire",
+      "Galactic Republic",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Swimming People of Dellalt",
+      "directory": "Swimming People of Dellalt",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dellalt",
+    "x": 12414.5,
+    "y": 4803.3,
+    "z": -694.9,
+    "region": "Outer Rim",
+    "grid": "T-6"
+  },
+  "scraped": "2026-07-03"
+}

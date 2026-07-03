@@ -1,0 +1,44 @@
+{
+  "name": "Knores",
+  "wookieepedia_title": "Knores",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Knores",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Knores was a Mid Rim world located in the Senex sector that was famous for its red seas. The world also featured a deep equatorial trench, appealing cities, and violent weather. By 3637 BBY, the seismologist Fez Burba hypothesized that a civilization once existing on Knores had been rendered extinct due to shifts in Knores' crust. Millennia later, the world was ruled by the aristocratic House Viholn.",
+  "lead_paragraphs": [
+    "Knores was a Mid Rim world located in the Senex sector that was famous for its red seas. The world also featured a deep equatorial trench, appealing cities, and violent weather. By 3637 BBY, the seismologist Fez Burba hypothesized that a civilization once existing on Knores had been rendered extinct due to shifts in Knores' crust. Millennia later, the world was ruled by the aristocratic House Viholn."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Knores",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Knores system",
+    "coordinates": "L-17",
+    "class": "Terrestrial",
+    "water": "Seas",
+    "interest": "Equatorial trench",
+    "affiliation": "House Viholn"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Knores",
+    "x": 641.6,
+    "y": -11877.5,
+    "z": 436.1,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Sirpar",
+  "wookieepedia_title": "Sirpar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sirpar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sirpar, a large planet with little natural resources, was an Imperial high-gravity training center and the Eklaad homeworld. It was near Tatooine. It was the primary Imperial training facility in its sector. Stories about Sirpar—usually not good ones—were known throughout the Empire, even by soldiers that were trained elsewhere.",
+  "lead_paragraphs": [
+    "Sirpar, a large planet with little natural resources, was an Imperial high-gravity training center and the Eklaad homeworld. It was near Tatooine. It was the primary Imperial training facility in its sector. Stories about Sirpar—usually not good ones—were known throughout the Empire, even by soldiers that were trained elsewhere."
+  ],
+  "article_sections": [
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Sirpar",
+    "region": "Outer Rim Territories",
+    "sector": "Arkanis sector",
+    "system": "Sirpar system",
+    "coordinates": "R-17",
+    "routes": "Corellian Run",
+    "lengthday": "28 standard hours",
+    "lengthyear": "399 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "Heavy",
+    "terrain": [
+      "Jungle",
+      "Deserts",
+      "Mountain"
+    ],
+    "water": "Dry",
+    "interest": [
+      "Arctic Environments Combat Range",
+      "Deep Ocean Operations Camp",
+      "Nonessential Equipment Storage and Disposal Facility 456"
+    ],
+    "fauna": "Watch-beast",
+    "species": "Eklaad",
+    "otherspecies": "Humans",
+    "population": "1.5 million Eklaad, 8,000 Humans",
+    "cities": "Jacelle (capital)",
+    "imports": [
+      "Foodstuffs",
+      "Military supplies"
+    ],
+    "exports": "None",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Eklaad",
+      "directory": "Eklaad",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sirpar",
+    "x": 9341.8,
+    "y": -10750.7,
+    "z": 117.4,
+    "region": "Outer Rim",
+    "grid": "R-17"
+  },
+  "scraped": "2026-07-03"
+}

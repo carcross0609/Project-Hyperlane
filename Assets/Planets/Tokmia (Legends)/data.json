@@ -1,0 +1,67 @@
+{
+  "name": "Tokmia",
+  "wookieepedia_title": "Tokmia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tokmia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tokmia was a mostly icy, snow-covered planet in the Anoat sector of the Outer Rim Territories. Home to the primitive, barely-sentient Oku species, Tokmia featured bountiful crystal and ore deposits, from which the Figg Excavations mining company earned a fortune before abandoning the planet. In 3 ABY, during the Galactic Civil War, Tokmia was one of three worlds in the Anoat sector, including Hoth, to which the Galactic Empire sent reconnaissance probe droids in search of the hidden Rebel Alliance base.",
+  "lead_paragraphs": [
+    "Tokmia was a mostly icy, snow-covered planet in the Anoat sector of the Outer Rim Territories. Home to the primitive, barely-sentient Oku species, Tokmia featured bountiful crystal and ore deposits, from which the Figg Excavations mining company earned a fortune before abandoning the planet. In 3 ABY, during the Galactic Civil War, Tokmia was one of three worlds in the Anoat sector, including Hoth, to which the Galactic Empire sent reconnaissance probe droids in search of the hidden Rebel Alliance base."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Mining operations",
+    "  Search for the Rebel base",
+    "Inhabitants",
+    "Locations",
+    "  Star Wars: Rebellion cartography"
+  ],
+  "data": {
+    "name": "Tokmia",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Greater Javin",
+      "  Anoat sector"
+    ],
+    "system": "Tokmia system",
+    "coordinates": "K-18",
+    "lengthday": "18 standard hours",
+    "lengthyear": "220 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable for humans)",
+    "climate": "Frigid",
+    "gravity": "90% standard",
+    "terrain": [
+      "Forests",
+      "Snow fields"
+    ],
+    "water": "Oceans",
+    "interest": "Abandoned mining colony",
+    "species": "Oku",
+    "government": "Tribal councils",
+    "population": "400,000 Oku",
+    "imports": "None",
+    "exports": "None (formerly crystals)",
+    "affiliation": "Figg Excavations"
+  },
+  "homeworld_of": [
+    {
+      "name": "Oku",
+      "directory": "Oku",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tokmia",
+    "x": -1175.8,
+    "y": -12929.7,
+    "z": 80.8,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

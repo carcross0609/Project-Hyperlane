@@ -1,0 +1,43 @@
+{
+  "name": "Seylott",
+  "wookieepedia_title": "Seylott",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Seylott",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Seylott was a planet located in the Seylott system in the Sarin sector of the Outer Rim Territories. It was the site of one of Maz Kanata's treasure troves. Cikatro Vizago, Azmorigan, and Lando Calrissian traveled there to look for the treasure, but were confronted by Black Sun thugs who were in control of the planet. Andris spice was mined there. Vecari trees from Seylott were exported to Coruscant during the High Republic Era.",
+  "lead_paragraphs": [
+    "Seylott was a planet located in the Seylott system in the Sarin sector of the Outer Rim Territories. It was the site of one of Maz Kanata's treasure troves. Cikatro Vizago, Azmorigan, and Lando Calrissian traveled there to look for the treasure, but were confronted by Black Sun thugs who were in control of the planet. Andris spice was mined there. Vecari trees from Seylott were exported to Coruscant during the High Republic Era."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Seylott",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Sarin sector",
+    "system": "Seylott system",
+    "coordinates": "P-18",
+    "routes": "Mumble's Turnaround",
+    "interest": "Maz Kanata's treasure trove",
+    "flora": "Vecari tree",
+    "exports": "Andris",
+    "affiliation": "Black Sun"
+  },
+  "homeworld_of": [
+    {
+      "name": "Seylott",
+      "directory": "Seylott (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Seylott",
+    "x": 6565.4,
+    "y": -12583.0,
+    "z": 11.0,
+    "region": "Outer Rim",
+    "grid": "P-18"
+  },
+  "scraped": "2026-07-03"
+}

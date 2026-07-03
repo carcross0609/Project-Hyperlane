@@ -1,0 +1,76 @@
+{
+  "name": "Crait",
+  "wookieepedia_title": "Crait",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crait",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Crait was a small salty mineral planet located in a remote sector of the galaxy's Outer Rim Territories, in grid square N-17 on the Standard Galactic Grid. Covered with a layer of white salt over its red soil, the planet once hosted a Rebel Alliance outpost during their early rebellion against the Galactic Empire. Many years later, the uninhabited planet became a haven for Leia Organa's Resistance, which resulted in a battle between the Resistance and the First Order on the planet's surface.",
+  "lead_paragraphs": [
+    "Crait was a small salty mineral planet located in a remote sector of the galaxy's Outer Rim Territories, in grid square N-17 on the Standard Galactic Grid. Covered with a layer of white salt over its red soil, the planet once hosted a Rebel Alliance outpost during their early rebellion against the Galactic Empire. Many years later, the uninhabited planet became a haven for Leia Organa's Resistance, which resulted in a battle between the Resistance and the First Order on the planet's surface."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  High Republic era",
+    "  Imperial Era",
+    "  First Order–Resistance War",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Crait",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Bon'nyuw-Luq sector",
+    "system": "Crait system",
+    "coordinates": "N-17",
+    "suns": "1: Crait",
+    "position": "First planet from the sun",
+    "moons": "0",
+    "lengthday": "27 standard hours",
+    "lengthyear": "525 standard days",
+    "diameter": "7,400 kilometers",
+    "atmosphere": [
+      "Breathable",
+      "  Oxygen",
+      "  Nitrogen"
+    ],
+    "climate": "Temperate",
+    "terrain": [
+      "Briny seas",
+      "Canyons",
+      "Mountains",
+      "Salt flats"
+    ],
+    "water": "Waterways",
+    "interest": [
+      "Crait outpost",
+      "Mines of Crait",
+      "Nupayuni salt flats"
+    ],
+    "fauna": "Vulptex",
+    "population": "Uninhabited",
+    "exports": [
+      "Minerals",
+      "  Rhodochrosite",
+      "Salt",
+      "  Sodium"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Resistance"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Crait",
+    "x": 3720.8,
+    "y": -11167.1,
+    "z": -171.3,
+    "region": "Outer Rim",
+    "grid": "N-17"
+  },
+  "scraped": "2026-07-03"
+}

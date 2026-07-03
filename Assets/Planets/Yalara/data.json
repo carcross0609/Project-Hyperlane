@@ -1,0 +1,44 @@
+{
+  "name": "Yalara",
+  "wookieepedia_title": "Yalara",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yalara",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yalara was a planet located within the Yalara system of the Wild Space of the galaxy.",
+  "lead_paragraphs": [
+    "Yalara was a planet located within the Yalara system of the Wild Space of the galaxy."
+  ],
+  "article_sections": [
+    "History",
+    "  Battle of Yalara",
+    "  Aftermath of the battle"
+  ],
+  "data": {
+    "name": "Yalara",
+    "region": "Wild Space",
+    "system": "Yalara system",
+    "coordinates": "I-21",
+    "atmosphere": "Breathable",
+    "terrain": "Desert",
+    "interest": "Yalara dam",
+    "species": "Yalaran (extinct)",
+    "otherspecies": "Noghri",
+    "affiliation": "Imperial Remnant"
+  },
+  "homeworld_of": [
+    {
+      "name": "Yalaran",
+      "directory": "Yalaran",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yalara",
+    "x": -4095.7,
+    "y": -17623.6,
+    "z": 208.0,
+    "region": "Wild Space",
+    "grid": "I-21"
+  },
+  "scraped": "2026-07-03"
+}

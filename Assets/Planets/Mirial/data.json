@@ -1,0 +1,48 @@
+{
+  "name": "Mirial",
+  "wookieepedia_title": "Mirial",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mirial",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Mirial was a cold and dry desert planet located in the Mirial system of the Outer Rim Territories. It was the homeworld of the near-human Mirialan species, including Jedi Master Luminara Unduli and her Padawan Barriss Offee. Unduli honored the traditions of the world by selecting a fellow Mirialan as her apprentice.",
+  "lead_paragraphs": [
+    "Mirial was a cold and dry desert planet located in the Mirial system of the Outer Rim Territories. It was the homeworld of the near-human Mirialan species, including Jedi Master Luminara Unduli and her Padawan Barriss Offee. Unduli honored the traditions of the world by selecting a fellow Mirialan as her apprentice."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Mirial",
+    "region": "Outer Rim Territories",
+    "sector": "Illisurevimurasi sector",
+    "system": "Mirial system",
+    "coordinates": "Q-4",
+    "routes": "Listehol Run",
+    "climate": "Cold and dry",
+    "terrain": "Desert",
+    "species": "Mirialan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Mirialan",
+      "directory": "Mirialan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Mirialan",
+      "directory": "Mirialan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mirial",
+    "x": 8164.8,
+    "y": 8474.3,
+    "z": 284.4,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

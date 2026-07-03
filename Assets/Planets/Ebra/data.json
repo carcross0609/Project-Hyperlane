@@ -1,0 +1,78 @@
+{
+  "name": "Ebra",
+  "wookieepedia_title": "Ebra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ebra",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ebra, also referred to as Ebran, was a planet located in the Mid Rim's Kesh sector. Its surface was mountainous and featured caverns and large canyons such as the Grythsorin. Ebra was the homeworld of the Ebranites, six-armed humanoids who were well adapted for their environment. A relatively primitive, clan-based species, the Ebranites exported the valuable oil lu-ramin off-world.",
+  "lead_paragraphs": [
+    "Ebra, also referred to as Ebran, was a planet located in the Mid Rim's Kesh sector. Its surface was mountainous and featured caverns and large canyons such as the Grythsorin. Ebra was the homeworld of the Ebranites, six-armed humanoids who were well adapted for their environment. A relatively primitive, clan-based species, the Ebranites exported the valuable oil lu-ramin off-world.",
+    "The Galactic Empire subjugated Ebra, enslaving the Ebranites and forcing them to harvest lu-ramin. After the Ebranite sisters Rith Tar'ak, Nyik, and Tor'ara escaped Ebra and joined the Rebel Alliance, hundreds of Ebranites became members of the Alliance in order to fight the Empire on Ebra. By 12 ABY, Ebra was a part of the New Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Ebra and the Republic",
+    "  Ebra and the Empire",
+    "  Ebra and the Rebellion",
+    "Inhabitants",
+    "  Ebranites and Imperials",
+    "  A droid for Ebra",
+    "Locations"
+  ],
+  "data": {
+    "name": "Ebra",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Kesh sector",
+    "system": "Dousc system",
+    "coordinates": "L-6",
+    "position": "2",
+    "class": "Terrestrial",
+    "terrain": [
+      "Canyons",
+      "Caverns",
+      "Mountains"
+    ],
+    "interest": [
+      "Grythsorin",
+      "Imperial outpost"
+    ],
+    "flora": "Casanvine",
+    "fauna": "Hag'thyyr",
+    "otherlife": "Fungi",
+    "species": "Ebranites",
+    "language": "Ebranese",
+    "government": "Clans",
+    "imports": [
+      "Food",
+      "Water"
+    ],
+    "exports": [
+      "Low-grade ores",
+      "Lu-ramin"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ebranite",
+      "directory": "Ebranite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ebra",
+    "x": 1027.1,
+    "y": 4989.5,
+    "z": 262.6,
+    "region": "Mid Rim",
+    "grid": "L-6"
+  },
+  "scraped": "2026-07-03"
+}

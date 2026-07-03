@@ -1,0 +1,41 @@
+{
+  "name": "Droxine",
+  "wookieepedia_title": "Droxine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Droxine",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Droxine was a planet located in the Esstran sector of the Outer Rim Territories. It was home to the carchar and nightmare demon species, although the latter—intelligent, telepathic killers—were believed to have been eradicated by the time of the Clone Wars. However, some survived, and one such demon, Reist, was forced to work for the Galactic Empire during the Galactic Civil War. He was sent to Lapez 3 to kill the Rebel Luke Skywalker but was defeated by the pilot.",
+  "lead_paragraphs": [
+    "Droxine was a planet located in the Esstran sector of the Outer Rim Territories. It was home to the carchar and nightmare demon species, although the latter—intelligent, telepathic killers—were believed to have been eradicated by the time of the Clone Wars. However, some survived, and one such demon, Reist, was forced to work for the Galactic Empire during the Galactic Civil War. He was sent to Lapez 3 to kill the Rebel Luke Skywalker but was defeated by the pilot."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Droxine",
+    "region": "Outer Rim Territories",
+    "sector": "Esstran sector",
+    "system": "Droxine system",
+    "coordinates": "Q-5",
+    "fauna": "Carchar",
+    "species": "Nightmare demon"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nightmare demon",
+      "directory": "Nightmare demon",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Droxine",
+    "x": 11001.0,
+    "y": 8695.7,
+    "z": -203.5,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

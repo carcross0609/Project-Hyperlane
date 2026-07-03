@@ -1,0 +1,70 @@
+{
+  "name": "Altor 14",
+  "wookieepedia_title": "Altor 14",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Altor_14",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Altor 14 was a planet in the Zoraster sector, and the homeworld of the Avogwi and Nuiwit. It was subjugated by the Galactic Empire.",
+  "lead_paragraphs": [
+    "Altor 14 was a planet in the Zoraster sector, and the homeworld of the Avogwi and Nuiwit. It was subjugated by the Galactic Empire."
+  ],
+  "article_sections": [
+    "History",
+    "Society and culture"
+  ],
+  "data": {
+    "name": "Altor 14",
+    "region": [
+      "Outer Rim Territories; The Slice",
+      "The Slice"
+    ],
+    "sector": "Zoraster sector",
+    "system": "Roti-Ow system",
+    "coordinates": "U-13",
+    "suns": [
+      "2:",
+      "Roti",
+      "Ow"
+    ],
+    "position": "14th",
+    "lengthday": "94 standard hours",
+    "class": "Terrestrial",
+    "climate": "Hot",
+    "terrain": "Arid plains",
+    "species": [
+      "Avogwi",
+      "Nuiwit"
+    ],
+    "government": "Council of Elders",
+    "population": "Less than 1 million",
+    "exports": [
+      "Minerals",
+      "Droids"
+    ],
+    "affiliation": [
+      "Independent",
+      "Hutt Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Avogwi",
+      "directory": "Avogwi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Nuiwit",
+      "directory": "Nuiwit",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Altor 14",
+    "x": 13866.1,
+    "y": -5598.4,
+    "z": 87.5,
+    "region": "Outer Rim",
+    "grid": "U-13"
+  },
+  "scraped": "2026-07-03"
+}

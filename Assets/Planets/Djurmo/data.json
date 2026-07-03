@@ -1,0 +1,44 @@
+{
+  "name": "Djurmo",
+  "wookieepedia_title": "Djurmo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Djurmo",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Djurmo was a blasted volcanic world located in the Djurmo system, a part of the Strabin sector in the New Territories portion of the Mid Rim. It was the homeworld of the sentient reptilian Huralok species, members of which spoke the Huralok language and became well-known during the reign of the Galactic Empire for piracy. Redkihl Rokk was a Huralok pirate from Djurmo.",
+  "lead_paragraphs": [
+    "Djurmo was a blasted volcanic world located in the Djurmo system, a part of the Strabin sector in the New Territories portion of the Mid Rim. It was the homeworld of the sentient reptilian Huralok species, members of which spoke the Huralok language and became well-known during the reign of the Galactic Empire for piracy. Redkihl Rokk was a Huralok pirate from Djurmo.",
+    "Between 12 ABY and 13 ABY, Djurmo was situated within the borders of the New Republic, and at some point between 27 ABY and 29 ABY, the Djurmo system was conquered by the extragalactic Yuuzhan Vong species as part of its invasion of the galaxy."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Djurmo",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Strabin sector",
+    "system": "Djurmo system",
+    "coordinates": "M-7",
+    "class": "Terrestrial",
+    "terrain": "Volcanic",
+    "species": "Huralok",
+    "language": "Huralok",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Huralok",
+      "directory": "Huralok",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Djurmo",
+    "x": 2542.4,
+    "y": 4235.4,
+    "z": -23.7,
+    "region": "Mid Rim",
+    "grid": "M-7"
+  },
+  "scraped": "2026-07-03"
+}

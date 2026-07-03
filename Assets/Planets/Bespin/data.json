@@ -1,0 +1,81 @@
+{
+  "name": "Bespin",
+  "wookieepedia_title": "Bespin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bespin",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bespin was a gas giant in the star system of the same name in the Anoat sector, its riches manifested in the form of rare tibanna gas. Attracting mining interests and remaining unaffiliated in galactic affairs, Ugnaughts were employed to extract tibanna from repulsorlifted facilities whilst Bespin's mostly human population resided in the open upper levels, exposed to a thin layer of breathable atmosphere in an area known as a \"Life Zone.\"",
+  "lead_paragraphs": [
+    "Bespin was a gas giant in the star system of the same name in the Anoat sector, its riches manifested in the form of rare tibanna gas. Attracting mining interests and remaining unaffiliated in galactic affairs, Ugnaughts were employed to extract tibanna from repulsorlifted facilities whilst Bespin's mostly human population resided in the open upper levels, exposed to a thin layer of breathable atmosphere in an area known as a \"Life Zone.\""
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Bespin",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector",
+    "system": "Bespin system",
+    "coordinates": "K-18",
+    "distance": "49,100 light-years",
+    "moons": "2",
+    "lengthday": "12 standard-hours",
+    "lengthyear": "14 standard-years",
+    "class": "Gas giant",
+    "diameter": "118,000 kilometers (73,322 miles)",
+    "atmosphere": "Breathable (in the life stratum)",
+    "terrain": "Gaseous",
+    "flora": "Algae",
+    "fauna": [
+      "Air shrimp",
+      "Beldon",
+      "Crab glider",
+      "Rawwk",
+      "Thranta",
+      "Velker"
+    ],
+    "otherspecies": [
+      "Human",
+      "Ugnaught"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Ugnaught"
+    ],
+    "population": "6,000,000",
+    "demonym": "Bespinite",
+    "cities": [
+      "Chinook Station",
+      "Cloud City",
+      "Ugnorgrad"
+    ],
+    "exports": "Tibanna",
+    "affiliation": [
+      "Galactic Empire",
+      "Ubrik Adelhard's Imperial remnant",
+      "New Republic",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Neo-Bespinian",
+      "directory": "Neo-Bespinian",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "Bespin",
+    "x": -1430.0,
+    "y": -12747.8,
+    "z": -177.8,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

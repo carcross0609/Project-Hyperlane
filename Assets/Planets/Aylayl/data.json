@@ -1,0 +1,39 @@
+{
+  "name": "Aylayl",
+  "wookieepedia_title": "Aylayl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aylayl",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aylayl was a verdant planet that was located within the Aylayl system of the galaxy's Hutt Space region and lay on the hyperlane called the Hollastin Run, which connected it to the worlds of Hollastin and Tsyk.",
+  "lead_paragraphs": [
+    "Aylayl was a verdant planet that was located within the Aylayl system of the galaxy's Hutt Space region and lay on the hyperlane called the Hollastin Run, which connected it to the worlds of Hollastin and Tsyk.",
+    "The surface of Aylayl was covered in deep forests and spiky mountains, and the planet was mined for metal ore and minerals by beings enslaved by members of the Hutt species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Aylayl",
+    "region": "Hutt Space",
+    "system": "Aylayl system",
+    "coordinates": "S-12",
+    "routes": "Hollastin Run",
+    "class": "Terrestrial",
+    "terrain": [
+      "Forests",
+      "Mountains"
+    ],
+    "exports": [
+      "Metal ore",
+      "Minerals"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Aylayl",
+    "x": 11834.3,
+    "y": -4342.0,
+    "z": -365.1,
+    "region": "Hutt Space",
+    "grid": "S-12"
+  },
+  "scraped": "2026-07-03"
+}

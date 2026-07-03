@@ -1,0 +1,84 @@
+{
+  "name": "Despayre",
+  "wookieepedia_title": "Despayre",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Despayre",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Despayre, originally known as Horuz, was a planet in the Horuz system in the Outer Rim Territories, that served as a massive penal and slave world for the Galactic Empire and as a location where the first Death Star was constructed and completed, after being relocated many times to avoid Alliance to Restore the Republic.",
+  "lead_paragraphs": [
+    "Despayre, originally known as Horuz, was a planet in the Horuz system in the Outer Rim Territories, that served as a massive penal and slave world for the Galactic Empire and as a location where the first Death Star was constructed and completed, after being relocated many times to avoid Alliance to Restore the Republic."
+  ],
+  "article_sections": [
+    "History",
+    "  Early history",
+    "  Construction of the First Death Star",
+    "  The Destruction of Despayre",
+    "  The ruins of Despayre",
+    "Biosphere",
+    "  Flora",
+    "  Fauna"
+  ],
+  "data": {
+    "name": "Despayre",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Atrivis sector",
+    "system": "Horuz system",
+    "coordinates": "L-5",
+    "suns": "1",
+    "moons": "1: Haroon",
+    "routes": "Relgim Run",
+    "lengthday": "26 standard hours",
+    "lengthyear": "368 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen mix",
+    "climate": "Tropical",
+    "gravity": "Standard",
+    "terrain": [
+      "Jungles",
+      "Rivers",
+      "Seas"
+    ],
+    "fauna": [
+      "Crab spider",
+      "Ratbat",
+      "Scorpion slug",
+      "Virevol"
+    ],
+    "otherspecies": [
+      "Wookiees (60%)",
+      "Mon Calamari (20%)",
+      "Humans (10%)",
+      "Others (10%)"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Imperial governorship",
+    "population": "In the millions",
+    "cities": [
+      "Dungeontown",
+      "Slashtown Prison Colony"
+    ],
+    "imports": [
+      "Slaves",
+      "Starships components"
+    ],
+    "exports": [
+      "Starships",
+      "Ore",
+      "  Quadanium steel"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Despayre",
+    "x": 9606.3,
+    "y": -9843.3,
+    "z": 28.3,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

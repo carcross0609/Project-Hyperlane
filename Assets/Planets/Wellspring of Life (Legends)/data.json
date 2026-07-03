@@ -1,0 +1,43 @@
+{
+  "name": "Wellspring of Life",
+  "wookieepedia_title": "Wellspring of Life/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wellspring_of_Life/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The Wellspring of Life was a planet located somewhere \"in the heart of the galaxy,\" the homeworld to the midi-chlorians. Its surface appeared barren and heavily damaged, but life was plentiful in large open spaces deep beneath the ground. Large amounts of light were released from within the planet, which was hidden in the Force, and also appeared to negatively affect mechanical and electronic devices.",
+  "lead_paragraphs": [
+    "The Wellspring of Life was a planet located somewhere \"in the heart of the galaxy,\" the homeworld to the midi-chlorians. Its surface appeared barren and heavily damaged, but life was plentiful in large open spaces deep beneath the ground. Large amounts of light were released from within the planet, which was hidden in the Force, and also appeared to negatively affect mechanical and electronic devices."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "no_grid_check": "1",
+    "name": "Wellspring of Life",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "terrain": [
+      "Desert",
+      "Jungle (below ground)"
+    ],
+    "fauna": "Neebray",
+    "species": "Midi-chlorians"
+  },
+  "homeworld_of": [
+    {
+      "name": "Midi-chlorian",
+      "directory": "Midi-chlorian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Wellspring of Life",
+    "x": 1217.4,
+    "y": -5572.2,
+    "z": 43.4,
+    "region": "Other",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

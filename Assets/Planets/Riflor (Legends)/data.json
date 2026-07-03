@@ -1,0 +1,86 @@
+{
+  "name": "Riflor",
+  "wookieepedia_title": "Riflor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Riflor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Riflor was a tectonically active Mid Rim planet located in the trinary star system of Riflorii on the Cerean Reach with a tendency to change its gravitational pull. The native population was known for its bureaucracy and engineering accomplishments.",
+  "lead_paragraphs": [
+    "Riflor was a tectonically active Mid Rim planet located in the trinary star system of Riflorii on the Cerean Reach with a tendency to change its gravitational pull. The native population was known for its bureaucracy and engineering accomplishments."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Riflor",
+    "region": "Mid Rim",
+    "sector": "Narrant sector",
+    "system": "Riflorii system",
+    "coordinates": "J-16",
+    "suns": "3: Riflorii A, Riflorii B, and Riflorii C",
+    "position": "2",
+    "routes": "Cerean Reach",
+    "lengthday": "30.5 standard hours",
+    "lengthyear": "288 standard days",
+    "class": "Terrestrial/Volcanic",
+    "atmosphere": "Breathable oxygen mix",
+    "climate": "Arctic to temperate",
+    "gravity": "1.2–1.4 standard (fluctuates)",
+    "terrain": [
+      "Volcanic mountains",
+      "Forest",
+      "Jungle"
+    ],
+    "species": [
+      "Modern: None",
+      "Historic:",
+      "Advozsec",
+      "Various aliens"
+    ],
+    "language": "Historically: Advb",
+    "population": "5.6 billion",
+    "cities": "Advora (capital)",
+    "imports": [
+      "Droids",
+      "Medical supplies",
+      "Preserved foodstuffs"
+    ],
+    "exports": [
+      "Fuel Isotope I-944",
+      "Heavy construction supplies",
+      "Intelligence",
+      "Repulsorlift engineers and technology",
+      "Processed ore and heavy metals",
+      "Various smuggled goods"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Advozse",
+      "directory": "Advozse",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Advozse",
+      "directory": "Advozse (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Riflor",
+    "x": -2747.7,
+    "y": -10474.4,
+    "z": -146.8,
+    "region": "Mid Rim",
+    "grid": "J-16"
+  },
+  "scraped": "2026-07-03"
+}

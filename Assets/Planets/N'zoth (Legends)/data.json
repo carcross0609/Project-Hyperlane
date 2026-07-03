@@ -1,0 +1,93 @@
+{
+  "name": "N'zoth",
+  "wookieepedia_title": "N'zoth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/N%27zoth",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "N'zoth was the fifth planet in the N'zoth system, located in the Farlax sector in the Koornacht Cluster of the Core Worlds. It was the homeworld of the Yevetha.",
+  "lead_paragraphs": [
+    "N'zoth was the fifth planet in the N'zoth system, located in the Farlax sector in the Koornacht Cluster of the Core Worlds. It was the homeworld of the Yevetha."
+  ],
+  "article_sections": [
+    "Characteristics",
+    "History"
+  ],
+  "data": {
+    "name": "N'zoth",
+    "region": [
+      "Core Worlds",
+      "The Negs"
+    ],
+    "sector": [
+      "Farlax sector",
+      "  Koornacht Cluster"
+    ],
+    "system": "N'zoth system",
+    "coordinates": "K-10",
+    "suns": "1: C'rel",
+    "position": "5",
+    "moons": [
+      "3:",
+      "Pa'aal",
+      "Pa'rak",
+      "Pa'red"
+    ],
+    "lengthday": "28 standard hours",
+    "lengthyear": "354 standard days",
+    "class": "Terrestrial",
+    "diameter": "9,500 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Arid plains",
+      "Deserts"
+    ],
+    "interest": [
+      "Black Fifteen",
+      "Hariz Downside",
+      "Valley of Rejection"
+    ],
+    "fauna": "Siringana",
+    "species": "Yevetha",
+    "language": "Yevethan",
+    "government": "Caste",
+    "population": [
+      "Modern: 7,000:",
+      "  100% Yevetha",
+      "Historic: 700 million:",
+      "  100% Yevetha"
+    ],
+    "cities": [
+      "Giat Nor (capital)",
+      "Hariz",
+      "Reject Alley",
+      "Werstilhere"
+    ],
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Duskhan League",
+      "Yuuzhan Vong empire",
+      "Jedi Coalition (briefly)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Yevetha",
+      "directory": "Yevetha",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "N'Zoth",
+    "x": -1435.4,
+    "y": -866.5,
+    "z": 116.3,
+    "region": "Core Worlds",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

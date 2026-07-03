@@ -1,0 +1,64 @@
+{
+  "name": "Quermia",
+  "wookieepedia_title": "Quermia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quermia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Quermia was a terraformed planet and the homeworld of the Quermian species. It was located near the end of the Perlemian Trade Route.",
+  "lead_paragraphs": [
+    "Quermia was a terraformed planet and the homeworld of the Quermian species. It was located near the end of the Perlemian Trade Route."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Quermia",
+    "region": "Outer Rim Territories",
+    "sector": "Nilgaard sector",
+    "system": "Quermia system",
+    "coordinates": "S-5",
+    "routes": [
+      "Perlemian Trade Route",
+      "Overic Griplink"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Gardens",
+    "species": "Quermian",
+    "language": "Quermian",
+    "population": "10 million to 100 million",
+    "affiliation": [
+      "Xim's Empire",
+      "Galactic Republic",
+      "Mandalorian Neo-Crusaders",
+      "Darth Revan's Sith Empire",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Querm Rybet",
+      "directory": "Querm Rybet",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Quermian",
+      "directory": "Quermian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Quermian",
+      "directory": "Quermian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Quermia",
+    "x": 11426.2,
+    "y": 6944.7,
+    "z": -122.5,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

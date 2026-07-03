@@ -1,0 +1,46 @@
+{
+  "name": "Khorm",
+  "wookieepedia_title": "Khorm/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Khorm/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Khorm was a frozen planet located in the Mid Rim, home to the Khormai species. It was one of the few planets that contained an extremely rare ore called Agrocite that could be used to enhance the power of turbolasers. During The Clone Wars between the Galactic Republic and the Confederacy of Independent Systems, Khormai warlord Unger Gout betrayed his people and enslaved them to mine Agrocite for Dooku. This resulted in a major Republic offensive led by Plo Koon, Kit Fisto, and Tauht at the Battle of Khorm. During the battle, both Gout and Tauht were killed, but in the end the Republic won with the help of native Khormai and air support from Republic Admiral Wieler, who, along with Fisto and Captain \"Sharp,\" destroyed Gout's powerful Agrocite cannons.",
+  "lead_paragraphs": [
+    "Khorm was a frozen planet located in the Mid Rim, home to the Khormai species. It was one of the few planets that contained an extremely rare ore called Agrocite that could be used to enhance the power of turbolasers. During The Clone Wars between the Galactic Republic and the Confederacy of Independent Systems, Khormai warlord Unger Gout betrayed his people and enslaved them to mine Agrocite for Dooku. This resulted in a major Republic offensive led by Plo Koon, Kit Fisto, and Tauht at the Battle of Khorm. During the battle, both Gout and Tauht were killed, but in the end the Republic won with the help of native Khormai and air support from Republic Admiral Wieler, who, along with Fisto and Captain \"Sharp,\" destroyed Gout's powerful Agrocite cannons."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The Clone Wars"
+  ],
+  "data": {
+    "name": "Khorm",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Halori sector",
+    "system": "Khorm system",
+    "coordinates": "P-8",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Frozen",
+    "terrain": "Ice",
+    "fauna": "Aelids",
+    "species": "Khormai",
+    "demonym": "Khormai",
+    "exports": "Agrocite",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Khormai",
+      "directory": "Khormai (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

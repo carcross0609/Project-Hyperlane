@@ -1,0 +1,43 @@
+{
+  "name": "Jendorn",
+  "wookieepedia_title": "Jendorn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jendorn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jendorn was an Expansion Region planet located in the Farstey sector. It was situated in the Borderland Regions, an area over which the confederation led by Imperial Grand Admiral Thrawn had control. In 9 ABY, a fierce battle was fought at Jendorn between the Imperial and New Republic forces, in which the Empire was victorious.",
+  "lead_paragraphs": [
+    "Jendorn was an Expansion Region planet located in the Farstey sector. It was situated in the Borderland Regions, an area over which the confederation led by Imperial Grand Admiral Thrawn had control. In 9 ABY, a fierce battle was fought at Jendorn between the Imperial and New Republic forces, in which the Empire was victorious.",
+    "After the battle, the Empire occupied the Jendorn city of Bruzion, where captured pilots that had been downed in the confrontation were held prisoner in an Imperial compound. Two members of the New Republic Katarn Commandos unit, Gottu and Idow, were subsequently dispatched on a mission to rescue the pilots. The lightly-armed pair of commandos were successful in their mission, during which Gottu used a vibro-ax to cause the prison compound's turbolaser tower to explode."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Battle of Jendorn",
+    "  Gottu's diversion",
+    "Locations"
+  ],
+  "data": {
+    "name": "Jendorn",
+    "region": [
+      "Expansion Region",
+      "Trans-Hydian"
+    ],
+    "sector": "Farstey sector",
+    "system": "Jendorn system",
+    "coordinates": "O-8",
+    "class": "Terrestrial",
+    "interest": "Imperial prison compound",
+    "cities": "Bruzion",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Jendorn",
+    "x": 5198.7,
+    "y": 2811.4,
+    "z": 286.2,
+    "region": "Expansion Region",
+    "grid": "O-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Rekkiad",
+  "wookieepedia_title": "Rekkiad",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rekkiad",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rekkiad was a planet in the remote Rekkiad system, located in the Outer Rim region of the galaxy. A desolate world covered in ice and snow, it was where the Jedi Knights Revan and Malak hid Mandalore's Mask following the Mandalorian Wars.",
+  "lead_paragraphs": [
+    "Rekkiad was a planet in the remote Rekkiad system, located in the Outer Rim region of the galaxy. A desolate world covered in ice and snow, it was where the Jedi Knights Revan and Malak hid Mandalore's Mask following the Mandalorian Wars."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Rekkiad",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Chorlian sector",
+    "system": "Rekkiad system",
+    "coordinates": "S-4",
+    "suns": "1",
+    "class": "Terrestrial",
+    "climate": "Frozen",
+    "terrain": [
+      "Glaciers",
+      "Frozen wastelands",
+      "Mountains"
+    ],
+    "interest": [
+      "Twin Spears",
+      "  First Spear",
+      "    Dramath the Second's tomb"
+    ],
+    "affiliation": [
+      "Dramath the Second",
+      "Mandalorians"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Rekkiad",
+    "x": 11058.4,
+    "y": 8114.5,
+    "z": -72.1,
+    "region": "Outer Rim",
+    "grid": "S-4"
+  },
+  "scraped": "2026-07-03"
+}

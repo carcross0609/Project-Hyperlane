@@ -1,0 +1,39 @@
+{
+  "name": "Ansion",
+  "wookieepedia_title": "Ansion",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ansion",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ansion was a planet located in the Ansion system, a star system located in the Churnis sector of the Mid Rim Territories that was the junction of the Namadii Corridor hyperspace route and another route that ran from Keitum to the Rago system.",
+  "lead_paragraphs": [
+    "Ansion was a planet located in the Ansion system, a star system located in the Churnis sector of the Mid Rim Territories that was the junction of the Namadii Corridor hyperspace route and another route that ran from Keitum to the Rago system.",
+    "A border dispute occurred on Ansion during the Separatist Crisis, which, along with turmoil on the planet Ando, was enough to stagger the galaxy."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ansion",
+    "region": "Mid Rim Territories",
+    "sector": "Churnis sector",
+    "system": "Ansion system",
+    "coordinates": "I-6",
+    "routes": "Namadii Corridor",
+    "interest": "Unidentified Imperial base",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ansionian",
+      "directory": "Ansionian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ansion",
+    "x": -3099.7,
+    "y": 4500.7,
+    "z": 192.7,
+    "region": "Mid Rim",
+    "grid": "I-6"
+  },
+  "scraped": "2026-07-03"
+}

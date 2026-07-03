@@ -1,0 +1,73 @@
+{
+  "name": "Rordak",
+  "wookieepedia_title": "Rordak",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rordak",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rordak was a planet in the Rordak system. It was an Imperial penal colony with an orbital nightcloak. A battle was fought there between 3681 BBY and 3653 BBY between the Sith Empire and the Galactic Republic. The battle ended in a Republic victory when Bouris Ulgo personally boarded Moff Ceptor's battlecruiser.",
+  "lead_paragraphs": [
+    "Rordak was a planet in the Rordak system. It was an Imperial penal colony with an orbital nightcloak. A battle was fought there between 3681 BBY and 3653 BBY between the Sith Empire and the Galactic Republic. The battle ended in a Republic victory when Bouris Ulgo personally boarded Moff Ceptor's battlecruiser.",
+    "Prisoners assigned to Rordak were either forced to work in the dangerous mines or are sold into slavery, laboring at the behalf of a Viska noble. Because every prisoner on the world had been sentenced to life imprisonment, they were considered property of the Empire, to be used as the prisons' wardens saw fit."
+  ],
+  "article_sections": [
+    "Description",
+    "Locations",
+    "  Viska Flying Cities",
+    "  Imperial Prison Camps"
+  ],
+  "data": {
+    "name": "Rordak",
+    "region": "Outer Rim Territories",
+    "sector": "Pelgrin sector",
+    "system": "Rordak system",
+    "coordinates": "R-17",
+    "suns": "1: Rordak",
+    "position": "1",
+    "moons": "None",
+    "lengthday": "14 standard hours",
+    "lengthyear": "201 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Temperate",
+    "gravity": "Light",
+    "terrain": [
+      "Mountainous desert",
+      "Desert plains"
+    ],
+    "interest": [
+      "Alpha TR-8",
+      "Azkulkt",
+      "Deggaruls",
+      "Dreggusom",
+      "Whosk"
+    ],
+    "fauna": [
+      "Drivveb",
+      "Kessarch"
+    ],
+    "species": "Viska",
+    "otherspecies": "Human",
+    "language": "Basic",
+    "government": "Monarchy",
+    "population": "5 million",
+    "imports": "High technology, foodstuffs",
+    "exports": "Metals",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Viska",
+      "directory": "Viska (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rordak",
+    "x": 10296.1,
+    "y": -11399.2,
+    "z": -101.1,
+    "region": "Outer Rim",
+    "grid": "R-17"
+  },
+  "scraped": "2026-07-03"
+}

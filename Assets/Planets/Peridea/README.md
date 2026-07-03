@@ -1,0 +1,78 @@
+# Peridea
+
+**Continuity:** Canon  
+**Source:** [Peridea](https://starwars.fandom.com/wiki/Peridea)
+
+Peridea was an extragalactic planet located in the far galaxy. It was the homeworld of the Noti and once the center of the Witch Kingdom of the Dathmiri, which eventually collapsed. Imperial Grand Admiral Thrawn and Bokken Jedi Ezra Bridger were banished to Peridea from the known galaxy by a pod of purrgil following the Liberation of Lothal, on Bridger's request. The Arcana Star Map of the Witches of Dathomir depicted a Pathway to Peridea from the main galaxy.
+
+According to Baylan Skoll, Jedi Younglings shared tales of Peridea throughout their childhood. The rings of the planet consisted of purrgil bones, as members of the species came to Peridea to die.
+
+## Planetary data
+
+- **Unlisted:** 1
+- **Name:** Peridea
+- **Region:** Far galaxy
+- **Class:** Terrestrial
+- **Atmosphere:** Type I (breathable)
+- **Terrain:**
+  - Barren wastelands:
+  -   Grasslands
+  -   Plains
+  -   Meadows
+  - Mountains
+- **Water:** Lakes
+- **Interest:**
+  - Monument to the Ones
+  - Great Mothers' Fortress
+- **Fauna:**
+  - Howler
+  - Reptavian creature
+- **Species:**
+  - Dathomiri
+  - Noti
+  - Zabrak
+- **Otherspecies:**
+  - Chiss
+  - Human
+  - Togruta
+  - Zeffonian
+- **Language:**
+  - Ur-Kittât
+  - Dathomirian language
+  - Noti language
+  - Galactic Basic Standard
+- **Affiliation:**
+  - The Ones
+  - Witch Kingdom of the Dathmiri
+  - Nightsisters
+  -   Great Mothers
+  - Zeffo Sage Kujet
+  - Bandits of Peridea
+  - Thrawn's forces (whilst exiled)
+
+## Homeworld of
+
+- [Dathomirian (Canon)](../../Species/Dathomirian/README.md)
+- [Noti (Canon)](../../Species/Noti/README.md)
+- [Zabrak (Canon)](../../Species/Zabrak/README.md)
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+- History
+-   Myths and legends
+-   Ancient history
+-   Imperial Era
+-     Exiled by the whales
+-     Survivors in a land of dreams
+-   New Republic Era
+-     Morgan Elsbeth's discovery
+-     Friends and enemies reunited
+- Inhabitants
+-   Natives
+-   Legendary inhabitants
+-   Immigrated species
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

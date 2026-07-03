@@ -1,0 +1,52 @@
+{
+  "name": "T'surr",
+  "wookieepedia_title": "T'surr",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T%27surr",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "T'surr was a cold and windswept high-gravity planet in the Expansion Region's Nuon e Safyd sector. Most of the planet's lifeforms had excellent low-light vision, and the harsh conditions of the world gave rise to a predatory sentient species also known as the T'surr. T'surr males often left their homeworld for the wider galaxy, but their planet was never represented in the Galactic Republic or the New Republic.",
+  "lead_paragraphs": [
+    "T'surr was a cold and windswept high-gravity planet in the Expansion Region's Nuon e Safyd sector. Most of the planet's lifeforms had excellent low-light vision, and the harsh conditions of the world gave rise to a predatory sentient species also known as the T'surr. T'surr males often left their homeworld for the wider galaxy, but their planet was never represented in the Galactic Republic or the New Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "T'surr",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Nuon e Safyd sector",
+    "system": "T'surr system",
+    "coordinates": "P-12",
+    "suns": "1",
+    "class": "Terrestrial",
+    "climate": [
+      "Cold",
+      "Windy"
+    ],
+    "gravity": "High",
+    "terrain": "Desert",
+    "species": "T'surr",
+    "language": "T'surrese"
+  },
+  "homeworld_of": [
+    {
+      "name": "T'surr",
+      "directory": "T'surr (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "T'surr",
+    "x": 6628.2,
+    "y": -3653.8,
+    "z": -165.6,
+    "region": "Expansion Region",
+    "grid": "P-12"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Couronne",
+  "wookieepedia_title": "Couronne/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Couronne/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The planet Couronne was the namesake of the Couronne system in the Couronne sector, located within the Slice portion of the Expansion Region. It was the homeworld of the humanoid Imzig species.",
+  "lead_paragraphs": [
+    "The planet Couronne was the namesake of the Couronne system in the Couronne sector, located within the Slice portion of the Expansion Region. It was the homeworld of the humanoid Imzig species.",
+    "Utris M'Toc, once a member of the High King's Guard on Couronne, was forced to leave the Imzig home planet following a bloody coup."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Couronne",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Couronne sector",
+    "system": "Couronne system",
+    "coordinates": "P-10",
+    "species": "Imzig"
+  },
+  "homeworld_of": [
+    {
+      "name": "Imzig",
+      "directory": "Imzig",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

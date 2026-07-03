@@ -1,0 +1,47 @@
+{
+  "name": "Tarsa",
+  "wookieepedia_title": "Tarsa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tarsa",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tarsa was a forested planet in the Tarsa system, which was located in the Mid Rim.",
+  "lead_paragraphs": [
+    "Tarsa was a forested planet in the Tarsa system, which was located in the Mid Rim."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tarsa",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "D'Aelgoth sector",
+    "system": "Tarsa system",
+    "coordinates": "L-17",
+    "moons": "Alessia",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": [
+      "Forested",
+      "Jungle",
+      "Rivers"
+    ],
+    "water": "Present",
+    "interest": "Imperial relay station",
+    "fauna": "Alessian terror moth",
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tarsa",
+    "x": 17.2,
+    "y": -11637.0,
+    "z": -293.1,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

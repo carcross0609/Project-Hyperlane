@@ -1,0 +1,87 @@
+{
+  "name": "Zeltros",
+  "wookieepedia_title": "Zeltros/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zeltros/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zeltros was a planet in the Inner Rim, and the homeworld of the Zeltron race. An opulent world, hedonism was the doctrine encouraged by the empathetic Zeltrons, and Zeltros was continuously in a state of never ending revelry. The Zeltron appreciation of beauty in its many forms led to luxurious art and architecture covering the world, and the galaxy's most wealthy favored Zeltros as a vacation destination. Many who came to the planet were taken in by the celebratory atmosphere and the powerful pheromones of the Zeltron people to the point they found it difficult to leave, and even planetary invasions often floundered in the face of Zeltros' planet-wide festivities.",
+  "lead_paragraphs": [
+    "Zeltros was a planet in the Inner Rim, and the homeworld of the Zeltron race. An opulent world, hedonism was the doctrine encouraged by the empathetic Zeltrons, and Zeltros was continuously in a state of never ending revelry. The Zeltron appreciation of beauty in its many forms led to luxurious art and architecture covering the world, and the galaxy's most wealthy favored Zeltros as a vacation destination. Many who came to the planet were taken in by the celebratory atmosphere and the powerful pheromones of the Zeltron people to the point they found it difficult to leave, and even planetary invasions often floundered in the face of Zeltros' planet-wide festivities."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Zeltros",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Zel system",
+    "coordinates": "O-10",
+    "suns": "1: Zel",
+    "position": "3",
+    "moons": "2",
+    "routes": [
+      "Trellen Trade Route",
+      "Lesser Lantillian Route",
+      "Great Kashyyyk Branch"
+    ],
+    "lengthday": "25 standard hours",
+    "lengthyear": "312 local days",
+    "class": "Terrestrial",
+    "diameter": "11,397 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "0.92 standard",
+    "terrain": [
+      "Forests",
+      "Lakes",
+      "Oceans",
+      "Rivers",
+      "Urban"
+    ],
+    "interest": [
+      "Northern Province",
+      "Southern Province",
+      "Paradise"
+    ],
+    "species": "Zeltron",
+    "language": "Galactic Basic Standard",
+    "government": "Popular monarchy",
+    "population": [
+      "5.3 billion:",
+      "  91% Zeltron",
+      "  9% other"
+    ],
+    "cities": "Zeltros (capital)",
+    "imports": "Gourmet consumables",
+    "exports": [
+      "Art",
+      "Entertainment",
+      "Luxury goods",
+      "High technology"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Alliance of Free Planets",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Zeltron",
+      "directory": "Zeltron (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zeltros",
+    "x": 5295.3,
+    "y": -1043.5,
+    "z": -117.0,
+    "region": "Inner Rim",
+    "grid": "O-10"
+  },
+  "scraped": "2026-07-03"
+}

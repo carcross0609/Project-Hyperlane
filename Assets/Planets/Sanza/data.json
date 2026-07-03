@@ -1,0 +1,44 @@
+{
+  "name": "Sanza; (Krish)",
+  "wookieepedia_title": "Sanza",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sanza",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sanza, also known as Krish, was a Mid Rim world dedicated to casinos, race tracks, arenas, agriculture, and manufacturing. It was the home of the Krish species.",
+  "lead_paragraphs": [
+    "Sanza, also known as Krish, was a Mid Rim world dedicated to casinos, race tracks, arenas, agriculture, and manufacturing. It was the home of the Krish species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sanza; (Krish)",
+    "region": "Mid Rim",
+    "sector": "Sloo sector",
+    "system": "Sanza system",
+    "coordinates": "P-14",
+    "position": "P-14",
+    "class": "Terrestrial",
+    "terrain": [
+      "Urban",
+      "Rainforests"
+    ],
+    "species": "Krish",
+    "language": "Krish",
+    "population": "10 million to 100 million (c. 25 ABY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Krish",
+      "directory": "Krish (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sanza",
+    "x": 6629.6,
+    "y": -6789.3,
+    "z": 113.0,
+    "region": "Mid Rim",
+    "grid": "P-14"
+  },
+  "scraped": "2026-07-03"
+}

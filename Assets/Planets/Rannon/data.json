@@ -1,0 +1,64 @@
+{
+  "name": "Rannon",
+  "wookieepedia_title": "Rannon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rannon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rannon was a forested planet that was located in the Outer Rim Territories' Instrop sector. It was settled centuries before the reign of the New Republic and was inhabited by a population of ten million Humans and Rodians, who governed their settlements via cooperative council.",
+  "lead_paragraphs": [
+    "Rannon was a forested planet that was located in the Outer Rim Territories' Instrop sector. It was settled centuries before the reign of the New Republic and was inhabited by a population of ten million Humans and Rodians, who governed their settlements via cooperative council.",
+    "Following the Battle of Endor in 4 ABY, the Dark Jedi Danaan Kerr took up residence in Rannon's Valley of Ternaax. By 7 ABY, Kerr had sensed that the Galactic Emperor Palpatine had survived his death at Endor, which caused Kerr's dark side corruption to manifest, transforming the valley he resided in. Kerr began to terrorize Rannon's populace, with rumors concerning atrocities committed by the Dark Jedi spreading off-world. Eventually, a group of individuals investigated the Valley of Ternaax and encountered Kerr himself."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Rannon",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Instrop sector",
+    "system": "Rannon system",
+    "coordinates": "T-17",
+    "suns": "1: Rannon",
+    "position": "3",
+    "moons": "2",
+    "lengthday": "20 standard hours",
+    "lengthyear": "380 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Mountainous forests",
+    "water": "Moderate hydrosphere",
+    "interest": [
+      "Spaceport",
+      "Valley of Ternaax"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Rodians"
+    ],
+    "government": "Cooperative council",
+    "population": "10 million",
+    "imports": "None",
+    "exports": [
+      "Foodstuffs",
+      "Gems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Rannon",
+    "x": 12255.5,
+    "y": -10695.4,
+    "z": 518.8,
+    "region": "Outer Rim",
+    "grid": "T-17"
+  },
+  "scraped": "2026-07-03"
+}

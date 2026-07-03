@@ -1,0 +1,38 @@
+{
+  "name": "Ilos",
+  "wookieepedia_title": "Ilos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ilos",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ilos was a bland agricultural world dotted with cities. It was located within the Ilos system of the galaxy's Hutt Space region and lay on the hyperlane called the Pabol Sleheyron, which connected it to the planets of Chalacta and Ilos Minor.",
+  "lead_paragraphs": [
+    "Ilos was a bland agricultural world dotted with cities. It was located within the Ilos system of the galaxy's Hutt Space region and lay on the hyperlane called the Pabol Sleheyron, which connected it to the planets of Chalacta and Ilos Minor.",
+    "Ilos was the homeworld of the sentient Ilosian species, and millennia before the Battle of Yavin, the Ilosians ventured offworld and colonized hundreds of nearby planets."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ilos",
+    "region": "Hutt Space",
+    "system": "Ilos system",
+    "coordinates": "R-10",
+    "routes": "Pabol Sleheyron",
+    "species": "Ilosians",
+    "affiliation": "Hutts"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ilosian",
+      "directory": "Ilosian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ilos",
+    "x": 10167.9,
+    "y": -395.3,
+    "z": 25.3,
+    "region": "Hutt Space",
+    "grid": "R-10"
+  },
+  "scraped": "2026-07-03"
+}

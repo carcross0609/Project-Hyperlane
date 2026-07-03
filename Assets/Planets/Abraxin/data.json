@@ -1,0 +1,49 @@
+{
+  "name": "Abraxin",
+  "wookieepedia_title": "Abraxin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Abraxin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Abraxin was a swampy world in the Tion Cluster. It was an exporter of Abrax cognac.",
+  "lead_paragraphs": [
+    "Abraxin was a swampy world in the Tion Cluster. It was an exporter of Abrax cognac."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Abraxin",
+    "region": "Outer Rim Territories",
+    "sector": "Tion Hegemony",
+    "system": "Abraxin system",
+    "coordinates": "S-6",
+    "class": "Terrestrial",
+    "diameter": "12,000 km",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Swamps",
+    "interest": "A Barabel settlement",
+    "fauna": "Marsh haunt",
+    "otherspecies": [
+      "Barabel",
+      "Human"
+    ],
+    "language": "Basic",
+    "exports": "Abrax cognac",
+    "affiliation": [
+      "Xim's Empire",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Tion Hegemony"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Abraxin",
+    "x": 11237.7,
+    "y": 5939.2,
+    "z": 238.3,
+    "region": "Outer Rim",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

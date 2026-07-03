@@ -1,0 +1,33 @@
+{
+  "name": "Atron",
+  "wookieepedia_title": "Atron",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Atron",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Atron was a planet located within the Atron system of the Mid Rim's Senex sector.",
+  "lead_paragraphs": [
+    "Atron was a planet located within the Atron system of the Mid Rim's Senex sector."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Atron",
+    "region": "Mid Rim",
+    "sector": "Senex sector",
+    "system": "Atron system",
+    "coordinates": "L-18",
+    "routes": "Anturi Reach",
+    "affiliation": "House Garonnin"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Atron",
+    "x": 561.2,
+    "y": -12116.1,
+    "z": -357.3,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

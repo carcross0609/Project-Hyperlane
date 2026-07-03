@@ -1,0 +1,40 @@
+{
+  "name": "Tolan",
+  "wookieepedia_title": "Tolan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tolan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tolan was a planet located within the Tolan system of the Colonies. It was the location of the Tolan Navy Shipyards, near Dankayo and probably within a few sectors of Ralltiir.",
+  "lead_paragraphs": [
+    "Tolan was a planet located within the Tolan system of the Colonies. It was the location of the Tolan Navy Shipyards, near Dankayo and probably within a few sectors of Ralltiir."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Tolan",
+    "region": [
+      "Colonies",
+      "Northern Dependencies"
+    ],
+    "system": "Tolan system",
+    "coordinates": "L-9",
+    "class": "Terrestrial",
+    "interest": "Tolan Navy Shipyards",
+    "species": [
+      "Humans",
+      "Tolanese"
+    ],
+    "language": "Galactic Basic Standard",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tolanese",
+      "directory": "Tolanese",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

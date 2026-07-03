@@ -1,0 +1,80 @@
+{
+  "name": "Kerkoidia",
+  "wookieepedia_title": "Kerkoidia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kerkoidia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kerkoidia was the homeworld of the Kerkoiden species and was located in the Expansion Region.",
+  "lead_paragraphs": [
+    "Kerkoidia was the homeworld of the Kerkoiden species and was located in the Expansion Region."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Kerkoidia",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Kerkoidia system",
+    "coordinates": "N-15",
+    "moons": "3",
+    "lengthday": "26 standard hours",
+    "lengthyear": "324 local days",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Savannah",
+      "Swamps",
+      "Jungles"
+    ],
+    "interest": "Whorm Loathsom's castle",
+    "species": "Kerkoiden",
+    "language": [
+      "Kerkoidese",
+      "Basic"
+    ],
+    "government": "Oligarchy",
+    "population": [
+      "99% Kerkoiden",
+      "1% other"
+    ],
+    "cities": "Maldinian City (capital)",
+    "imports": [
+      "High technology",
+      "Luxury goods"
+    ],
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Retail Caucus"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kerkoiden",
+      "directory": "Kerkoiden",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kerkoiden",
+      "directory": "Kerkoiden (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kerkoidia",
+    "x": 4264.6,
+    "y": -8911.3,
+    "z": 114.8,
+    "region": "Expansion Region",
+    "grid": "N-15"
+  },
+  "scraped": "2026-07-03"
+}

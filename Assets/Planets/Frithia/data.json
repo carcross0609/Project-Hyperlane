@@ -1,0 +1,39 @@
+{
+  "name": "Frithia",
+  "wookieepedia_title": "Frithia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Frithia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Frithia was a terrestrial planet located in the Frithia system, a part of the Glythe sector in the New Territories portion of the Mid Rim. It was home to the predator known as poth as well as the gigantic herd creature krag.",
+  "lead_paragraphs": [
+    "Frithia was a terrestrial planet located in the Frithia system, a part of the Glythe sector in the New Territories portion of the Mid Rim. It was home to the predator known as poth as well as the gigantic herd creature krag.",
+    "At some point, Frithia was colonized by members of the Zabrak species from the Glythe sector planet Iridonia. Many of the colonists on Frithia were killed by the local krags, although the creature was eventually domesticated."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Frithia",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Glythe sector",
+    "system": "Frithia system",
+    "coordinates": "K-7",
+    "class": "Terrestrial",
+    "fauna": [
+      "Krag",
+      "Poth"
+    ],
+    "otherspecies": "Zabraks"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Frithia",
+    "x": -1189.8,
+    "y": 3781.7,
+    "z": -120.8,
+    "region": "Mid Rim",
+    "grid": "K-7"
+  },
+  "scraped": "2026-07-03"
+}

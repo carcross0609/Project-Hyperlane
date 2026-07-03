@@ -1,0 +1,97 @@
+{
+  "name": "Kalee",
+  "wookieepedia_title": "Kalee/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalee/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kalee was a planet located in the star system of Wild Space that was the homeworld of the Kaleesh species, including General Grievous. It was located on the border of the Kadok Regions.",
+  "lead_paragraphs": [
+    "Kalee was a planet located in the star system of Wild Space that was the homeworld of the Kaleesh species, including General Grievous. It was located on the border of the Kadok Regions."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kalee",
+    "region": "Wild Space",
+    "system": "Kalee system",
+    "coordinates": "J-4",
+    "suns": "1: Iminec",
+    "position": "4",
+    "moons": "1",
+    "lengthday": "23 standard hours",
+    "lengthyear": "378 standard days",
+    "class": "Terrestrial",
+    "diameter": "13,850 kilometers",
+    "climate": [
+      "Arctic",
+      "Arid",
+      "Temperate",
+      "Tropical"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Canyons",
+      "Rainforests",
+      "Seas"
+    ],
+    "interest": [
+      "Abesmi",
+      "Ausez Steppes",
+      "Grendaju",
+      "Jenuwaa Sea",
+      "Kunbal jungle",
+      "Shrupak"
+    ],
+    "fauna": [
+      "Erkush",
+      "Karabbac",
+      "Mumuu",
+      "Shoni",
+      "Tokin crab",
+      "Unidentified creature"
+    ],
+    "species": "Kaleesh",
+    "language": "Kaleesh",
+    "government": "Khanate",
+    "population": [
+      "4 billion",
+      "99% Kaleesh",
+      "1% other"
+    ],
+    "cities": "Kaleela (capital)",
+    "imports": [
+      "Foodstuffs",
+      "Medicine",
+      "Technology",
+      "Weapons"
+    ],
+    "exports": [
+      "Exotic animals",
+      "Mercenaries"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kaleesh",
+      "directory": "Kaleesh",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kaleesh",
+      "directory": "Kaleesh (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kalee",
+    "x": -2460.2,
+    "y": 8495.6,
+    "z": 115.4,
+    "region": "Wild Space",
+    "grid": "J-4"
+  },
+  "scraped": "2026-07-03"
+}

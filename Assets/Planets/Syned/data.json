@@ -1,0 +1,75 @@
+{
+  "name": "Syned",
+  "wookieepedia_title": "Syned",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Syned",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Syned was an ice-covered planet in the Syned system, in Grumani sector. During the Republic Dark Age, Syned was under the control of Sith Lord Chagras, but after his death, it fell into the hands of his daughter Arkadia Calimondra.",
+  "lead_paragraphs": [
+    "Syned was an ice-covered planet in the Syned system, in Grumani sector. During the Republic Dark Age, Syned was under the control of Sith Lord Chagras, but after his death, it fell into the hands of his daughter Arkadia Calimondra."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  New Sith Wars",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Syned",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Grumani sector",
+    "system": "Syned system",
+    "coordinates": "N-17",
+    "suns": "1",
+    "routes": "Sanrafsix Corridor",
+    "lengthday": "147 standard hours",
+    "lengthyear": "15,245 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type IV (environment suit required)",
+    "climate": "Frigid",
+    "gravity": "Light",
+    "terrain": [
+      "Shattered ice sheets",
+      "Glaciers",
+      "Frozen plains",
+      "Ice calderas",
+      "Under-ice seas",
+      "Domed urban"
+    ],
+    "water": "Saturated",
+    "flora": "Synedian algae",
+    "otherspecies": [
+      "Duros",
+      "Gotal",
+      "Human",
+      "Sluissi",
+      "Sullustan"
+    ],
+    "government": "City councilors",
+    "population": "2 million",
+    "demonym": "Synedian",
+    "cities": "Calimondretta",
+    "imports": [
+      "Foodstuffs",
+      "High technology"
+    ],
+    "affiliation": [
+      "Chagras Hegemony",
+      "Arkadianate",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Syned",
+    "x": 3270.9,
+    "y": -11461.3,
+    "z": -279.4,
+    "region": "Outer Rim",
+    "grid": "N-17"
+  },
+  "scraped": "2026-07-03"
+}

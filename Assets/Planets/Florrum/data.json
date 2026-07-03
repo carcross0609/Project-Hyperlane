@@ -1,0 +1,59 @@
+{
+  "name": "Florrum",
+  "wookieepedia_title": "Florrum",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Florrum",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Florrum was a sulfurous desert planet located in the Florrum system, within the Sertar sector of the galaxy's Outer Rim Territories. During the Clone Wars, it was the location of a pirate gang led by Hondo Ohnaka. Florrum was briefly held by the Confederacy of Independent Systems before the forces of General Grievous were repelled by Ohnaka's forces and the Jedi.",
+  "lead_paragraphs": [
+    "Florrum was a sulfurous desert planet located in the Florrum system, within the Sertar sector of the galaxy's Outer Rim Territories. During the Clone Wars, it was the location of a pirate gang led by Hondo Ohnaka. Florrum was briefly held by the Confederacy of Independent Systems before the forces of General Grievous were repelled by Ohnaka's forces and the Jedi."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Florrum",
+    "region": "Outer Rim Territories",
+    "sector": "Sertar sector",
+    "system": "Florrum system",
+    "coordinates": "R-5",
+    "suns": "1",
+    "moons": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Hot and dry",
+    "terrain": [
+      "Deserts",
+      "Sulfurous",
+      "Geysers"
+    ],
+    "interest": [
+      "Doshar fields",
+      "Hondo's complex",
+      "Hondo's secret ship vault"
+    ],
+    "fauna": "Skalder",
+    "otherspecies": [
+      "Weequay",
+      "Nikto",
+      "Bith",
+      "Jawa"
+    ],
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Ohnaka Gang",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Florrum",
+    "x": 9904.4,
+    "y": 6597.5,
+    "z": -621.6,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

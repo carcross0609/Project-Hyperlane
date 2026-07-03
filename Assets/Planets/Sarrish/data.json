@@ -1,0 +1,35 @@
+{
+  "name": "Sarrish",
+  "wookieepedia_title": "Sarrish",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sarrish",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sarrish was a planet located in the Sarrish system in the Vensensor sector of the Expansion Region where the Battle of Sarrish took place during the Clone Wars. The Galactic Republic lost the battle and suffered tremendous casualties, and it was considered a devastating loss.",
+  "lead_paragraphs": [
+    "Sarrish was a planet located in the Sarrish system in the Vensensor sector of the Expansion Region where the Battle of Sarrish took place during the Clone Wars. The Galactic Republic lost the battle and suffered tremendous casualties, and it was considered a devastating loss."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sarrish",
+    "region": "Expansion Region",
+    "sector": "Vensensor sector",
+    "system": "Sarrish system",
+    "coordinates": "K-16"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Sarrish species",
+      "directory": "Unidentified Sarrish species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sarrish",
+    "x": -256.2,
+    "y": -9207.5,
+    "z": 17.8,
+    "region": "Expansion Region",
+    "grid": "K-16"
+  },
+  "scraped": "2026-07-03"
+}

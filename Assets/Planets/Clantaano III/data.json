@@ -1,0 +1,48 @@
+{
+  "name": "Clantaano III",
+  "wookieepedia_title": "Clantaano III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Clantaano_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Clantaano III, also known as Clantaano, was a desert planet located within the Outer Rim Territories' Albanin sector. It was the homeworld of the nomadic and violent Clantaani species. The Clantaani gunman Longo Two-Guns and his cousins were born on Clantaano III, and they gave rise to a gang of Clantaani criminals that moved offworld by 32 BBY.",
+  "lead_paragraphs": [
+    "Clantaano III, also known as Clantaano, was a desert planet located within the Outer Rim Territories' Albanin sector. It was the homeworld of the nomadic and violent Clantaani species. The Clantaani gunman Longo Two-Guns and his cousins were born on Clantaano III, and they gave rise to a gang of Clantaani criminals that moved offworld by 32 BBY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Clantaano III",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Albanin sector",
+    "system": "Clantaano system",
+    "coordinates": "U-12",
+    "position": "3",
+    "routes": "Triellus Trade Route",
+    "class": "Terrestrial",
+    "climate": "Arid",
+    "terrain": "Dusty desert",
+    "species": "Clantaani"
+  },
+  "homeworld_of": [
+    {
+      "name": "Clantaani",
+      "directory": "Clantaani",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Clantaano III",
+    "x": 13679.9,
+    "y": -4080.8,
+    "z": 38.5,
+    "region": "Outer Rim",
+    "grid": "U-12"
+  },
+  "scraped": "2026-07-03"
+}

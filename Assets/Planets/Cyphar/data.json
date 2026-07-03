@@ -1,0 +1,46 @@
+{
+  "name": "Cyphar",
+  "wookieepedia_title": "Cyphar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cyphar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Cyphar was a terrestrial planet located in the Spirva sector of the Mid Rim that was the homeworld of the Cyphari species. The planet was mainly covered in grasslands and deserts with canyons, and had ground rich in scarn, a pre-spice compound. At some point, during the reign of the Galactic Empire, a land dispute occurred between the Cyphari's Afe clan and the human colonists from the Hollenside Enclave. the situation escalated so much, the Empire was forced to send Admiral Thrawn and Ensign Eli N. Vanto to ease the tensions.",
+  "lead_paragraphs": [
+    "Cyphar was a terrestrial planet located in the Spirva sector of the Mid Rim that was the homeworld of the Cyphari species. The planet was mainly covered in grasslands and deserts with canyons, and had ground rich in scarn, a pre-spice compound. At some point, during the reign of the Galactic Empire, a land dispute occurred between the Cyphari's Afe clan and the human colonists from the Hollenside Enclave. the situation escalated so much, the Empire was forced to send Admiral Thrawn and Ensign Eli N. Vanto to ease the tensions."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Cyphar",
+    "region": "Mid Rim Territories",
+    "sector": "Spirva sector",
+    "system": "Cyphar system",
+    "coordinates": "L-17",
+    "moons": "Karfeddion–Kriselist hyperlane",
+    "interest": [
+      "Afe clan meetinghouse",
+      "Hollenside Enclave",
+      "A Twi'lek settlement"
+    ],
+    "species": "Cyphari",
+    "government": [
+      "Afe clan",
+      "Cyphar government"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Cyphari",
+      "directory": "Cyphari",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Cyphar",
+    "x": 135.9,
+    "y": -11170.7,
+    "z": -202.4,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

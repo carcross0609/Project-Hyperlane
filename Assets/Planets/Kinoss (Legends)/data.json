@@ -1,0 +1,37 @@
+{
+  "name": "Kinoss",
+  "wookieepedia_title": "Kinoss/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kinoss/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kinoss was a planet that was located within the Kinoss system, in the Chiss Space sector of the galaxy's Unknown Regions. It was connected by the Cressus Route hyperlane to the Bogo Rai system, and other hyperspace routes linked the planet to the Avidich system and to regions lying west of the core territory of the Chiss Ascendancy, the government of the Chiss species.",
+  "lead_paragraphs": [
+    "Kinoss was a planet that was located within the Kinoss system, in the Chiss Space sector of the galaxy's Unknown Regions. It was connected by the Cressus Route hyperlane to the Bogo Rai system, and other hyperspace routes linked the planet to the Avidich system and to regions lying west of the core territory of the Chiss Ascendancy, the government of the Chiss species.",
+    "Similarly to the planet Cormit, Kinoss served as one of the two major staging and resupply bases for the Chiss Expansionary Defense Fleet. In addition, an armory and munitions depot was located on the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kinoss",
+    "region": "Unknown Regions",
+    "sector": "Chiss Space",
+    "system": "Kinoss system",
+    "coordinates": "E-8",
+    "routes": "Cressus Route",
+    "interest": [
+      "Chiss Expansionary Defense Fleet base",
+      "Armory and munitions depot"
+    ],
+    "otherspecies": "Chiss",
+    "affiliation": "Chiss Ascendancy"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kinoss",
+    "x": -9762.2,
+    "y": 1836.5,
+    "z": 44.3,
+    "region": "Unknown Regions",
+    "grid": "E-8"
+  },
+  "scraped": "2026-07-03"
+}

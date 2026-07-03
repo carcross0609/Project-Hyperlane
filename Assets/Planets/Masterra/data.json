@@ -1,0 +1,42 @@
+{
+  "name": "Masterra",
+  "wookieepedia_title": "Masterra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Masterra",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Masterra, originally known as Ord Masterra, was a planet in the Hertae sector of the Mid Rim.",
+  "lead_paragraphs": [
+    "Masterra, originally known as Ord Masterra, was a planet in the Hertae sector of the Mid Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Masterra",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Hertae sector",
+    "system": "Masterra system",
+    "coordinates": "Q-14",
+    "routes": "Reena Trade Route",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Masterra",
+    "x": 8061.4,
+    "y": -6944.2,
+    "z": -416.8,
+    "region": "Mid Rim",
+    "grid": "Q-14"
+  },
+  "scraped": "2026-07-03"
+}

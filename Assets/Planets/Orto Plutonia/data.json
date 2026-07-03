@@ -1,0 +1,64 @@
+{
+  "name": "Orto Plutonia",
+  "wookieepedia_title": "Orto Plutonia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orto_Plutonia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Orto Plutonia, also known as Orto, was a frigid planet located in the Pantora system of the Outer Rim Territories' Sujimis sector. It was orbited by the moon Pantora, which was long believed to be the only inhabited world in the system. It was the homeworld of the Talz species, but was considered to be a protectorate of Pantora until the presence of the Talz was discovered during the Clone Wars. The Pantoran Assembly gave formal recognition to the sovereignty of the Talz over Orto Plutonia following a brief war between the Talz and the Pantorans. Shortly after the Battle of Yavin, the Rebel Alliance hid its fleet in the planet's orbit.",
+  "lead_paragraphs": [
+    "Orto Plutonia, also known as Orto, was a frigid planet located in the Pantora system of the Outer Rim Territories' Sujimis sector. It was orbited by the moon Pantora, which was long believed to be the only inhabited world in the system. It was the homeworld of the Talz species, but was considered to be a protectorate of Pantora until the presence of the Talz was discovered during the Clone Wars. The Pantoran Assembly gave formal recognition to the sovereignty of the Talz over Orto Plutonia following a brief war between the Talz and the Pantorans. Shortly after the Battle of Yavin, the Rebel Alliance hid its fleet in the planet's orbit."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Clone Wars",
+    "  Galactic Civil War",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Orto Plutonia",
+    "region": "Outer Rim Territories",
+    "sector": "Sujimis sector",
+    "system": "Pantora system",
+    "coordinates": "P-19",
+    "suns": "1",
+    "moons": "Pantora",
+    "atmosphere": "Breathable",
+    "climate": "Frigid",
+    "terrain": [
+      "Ice plains",
+      "Tors",
+      "Canyons"
+    ],
+    "interest": [
+      "Glid Station",
+      "Separatist outpost",
+      "Talz village"
+    ],
+    "fauna": "Narglatch",
+    "species": "Talz (adopted)",
+    "language": "Talzzi",
+    "government": "Protectorate",
+    "cities": "Talz village",
+    "affiliation": [
+      "Talz",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Talz",
+      "directory": "Talz",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Orto Plutonia",
+    "x": 6473.7,
+    "y": -14529.9,
+    "z": 357.1,
+    "region": "Outer Rim",
+    "grid": "P-19"
+  },
+  "scraped": "2026-07-03"
+}

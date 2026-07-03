@@ -1,0 +1,36 @@
+{
+  "name": "Isen",
+  "wookieepedia_title": "Isen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Isen",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Isen was a young gas giant and the sole planet in the Isen system. Its five planetoid satellites included Isen IV.",
+  "lead_paragraphs": [
+    "Isen was a young gas giant and the sole planet in the Isen system. Its five planetoid satellites included Isen IV."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Isen",
+    "region": "Outer Rim Territories",
+    "sector": "D'Astan sector",
+    "system": "Isen system",
+    "coordinates": "N-5",
+    "suns": "1: Isen",
+    "position": "3",
+    "moons": [
+      "5 planetoid satellites:",
+      "Isen IV"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Isen",
+    "x": 3215.8,
+    "y": 7310.9,
+    "z": 9.6,
+    "region": "Outer Rim",
+    "grid": "N-5"
+  },
+  "scraped": "2026-07-03"
+}

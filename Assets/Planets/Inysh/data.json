@@ -1,0 +1,51 @@
+{
+  "name": "Inysh",
+  "wookieepedia_title": "Inysh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Inysh",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Inysh was a Core Worlds planet that was home to the Abinyshi. A sentient, passive species of reptilians, the natives of Inysh were among the first species to achieve space travel, although their interstellar colonization was limited. The Galactic Empire eventually discovered the planet had vast reserves of the kalonterium ore and proceeded to strip-mine the world.",
+  "lead_paragraphs": [
+    "Inysh was a Core Worlds planet that was home to the Abinyshi. A sentient, passive species of reptilians, the natives of Inysh were among the first species to achieve space travel, although their interstellar colonization was limited. The Galactic Empire eventually discovered the planet had vast reserves of the kalonterium ore and proceeded to strip-mine the world.",
+    "The ecology of Inysh was devastated as a result, with toxic waste being dumped across the planet and native flora and fauna dying off. The Abinyshi were enslaved and brought to the brink of extinction, and the galaxy at large was misled to believe the species had eradicated itself in a civil war. At some point, the Empire abandoned the mining operations on Inysh, leaving the natives on their ruined homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Inysh",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "system": "Inysh system",
+    "coordinates": "J-12",
+    "class": "Terrestrial",
+    "species": "Abinyshi",
+    "population": "At least a few thousand",
+    "exports": [
+      "Abinyshi cuisine",
+      "Abinyshi literature",
+      "Kalonterium"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Abinyshi",
+      "directory": "Abinyshi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Inysh",
+    "x": -1779.1,
+    "y": -4436.4,
+    "z": -157.3,
+    "region": "Core Worlds",
+    "grid": "J-12"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Thyrsus",
+  "wookieepedia_title": "Thyrsus/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thyrsus/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thyrsus was a planet located in the Thyrsus system of the Inner Rim and the homeworld of the Thyrsians, an Echani offshoot that originated the Sun Guard.",
+  "lead_paragraphs": [
+    "Thyrsus was a planet located in the Thyrsus system of the Inner Rim and the homeworld of the Thyrsians, an Echani offshoot that originated the Sun Guard."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Thyrsus",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "sector": "Six Sisters",
+    "system": "Thyrsus system",
+    "coordinates": "M-8",
+    "species": "Thyrsians",
+    "otherspecies": "Humans",
+    "affiliation": [
+      "Echani Command",
+      "Independent"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Thyrsian",
+      "directory": "Thyrsian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Thyrsus",
+    "x": 1859.8,
+    "y": 2781.5,
+    "z": -22.5,
+    "region": "Inner Rim",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Absanz",
+  "wookieepedia_title": "Absanz",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Absanz",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Absanz was a desert planet that hosted a factory belonging to Sienar Fleet Systems. The Spectres traveled to Absanz to retrieve intelligence on Sienar's newest TIE prototypes. They attempted to capture lead designer Dron Ryall, but were forced to let him go in order to escape.",
+  "lead_paragraphs": [
+    "Absanz was a desert planet that hosted a factory belonging to Sienar Fleet Systems. The Spectres traveled to Absanz to retrieve intelligence on Sienar's newest TIE prototypes. They attempted to capture lead designer Dron Ryall, but were forced to let him go in order to escape."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Absanz",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Allied Tion sector",
+    "system": "Absanz system",
+    "coordinates": "S-6",
+    "atmosphere": "Breathable",
+    "terrain": "Deserts",
+    "interest": "Sienar Fleet Systems factory",
+    "affiliation": [
+      "Galactic Empire",
+      "Sienar Fleet Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Absanz",
+    "x": 11123.4,
+    "y": -8637.3,
+    "z": -452.1,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

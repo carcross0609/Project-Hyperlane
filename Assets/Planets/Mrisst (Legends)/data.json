@@ -1,0 +1,74 @@
+{
+  "name": "Mrisst",
+  "wookieepedia_title": "Mrisst/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mrisst/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mrisst was a mid-sized planet, located in the Fakir sector of the Colonies. It had a mild climate, and its four continents were dotted with small lakes and rivers. Jungle made up the majority of the terrain, consisting of spinetrees, spirepines, and a variety of other flora. It was the homeworld of the Mrissi.",
+  "lead_paragraphs": [
+    "Mrisst was a mid-sized planet, located in the Fakir sector of the Colonies. It had a mild climate, and its four continents were dotted with small lakes and rivers. Jungle made up the majority of the terrain, consisting of spinetrees, spirepines, and a variety of other flora. It was the homeworld of the Mrissi.",
+    "Mrisst became a center of higher learning for many underprivileged youths galaxywide; its Mrisst Trade and Science Academy, while not as prestigious as other universities, was an effective learning institution."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Mrisst",
+    "region": [
+      "Colonies",
+      "The Negs"
+    ],
+    "sector": "Fakir sector",
+    "system": "GaTir system",
+    "coordinates": "K-9",
+    "lengthday": "20 standard hours",
+    "lengthyear": "278 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "0.8 of Standard",
+    "terrain": [
+      "Jungles",
+      "Mountains"
+    ],
+    "water": "Moderate",
+    "interest": "Mrisst Trade and Science Academy",
+    "flora": [
+      "Spinetree",
+      "Spirepine"
+    ],
+    "species": "Mriss",
+    "otherspecies": "Various",
+    "government": "Representative democracy",
+    "population": [
+      "3.5 billion Mrissi",
+      "6 billion other species (mostly students)"
+    ],
+    "imports": [
+      "Educational material",
+      "Computers"
+    ],
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mriss",
+      "directory": "Mriss (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mrisst",
+    "x": -911.2,
+    "y": 1172.2,
+    "z": 10.1,
+    "region": "Colonies",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

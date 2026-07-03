@@ -1,0 +1,47 @@
+{
+  "name": "Sluis Van",
+  "wookieepedia_title": "Sluis Van",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sluis_Van",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sluis Van was an astronomical object in the southern region of the galaxy's Outer Rim Territories and Western Reaches, along the Rimma Trade Route, in square M-19 of the Standard Galactic Grid. It provided ships to Seswenna's Outland Regions Security Force prior to the Clone Wars.",
+  "lead_paragraphs": [
+    "Sluis Van was an astronomical object in the southern region of the galaxy's Outer Rim Territories and Western Reaches, along the Rimma Trade Route, in square M-19 of the Standard Galactic Grid. It provided ships to Seswenna's Outland Regions Security Force prior to the Clone Wars."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Sluis Van",
+    "region": [
+      "Outer Rim Territories",
+      "  Occlusion Zone",
+      "Western Reaches"
+    ],
+    "sector": "Sluis sector",
+    "system": "Sluis Van system",
+    "coordinates": "M-19",
+    "routes": "Rimma Trade Route",
+    "exports": "Starships",
+    "affiliation": [
+      "Outland Regions Security Force",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sluissi",
+      "directory": "Sluissi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sluis Van",
+    "x": 2411.1,
+    "y": -13762.1,
+    "z": -3.7,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

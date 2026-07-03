@@ -1,0 +1,52 @@
+{
+  "name": "Dubrava",
+  "wookieepedia_title": "Dubrava/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dubrava/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dubrava was a planet where Jal Te Gniev was placed to recruit rebel pilots. An Imperial patrol discovered him, by an accident, in a local cantina where they had tracked down a female informant. Jal's life was saved by the young humanoid Dubravan, Bobek. The planet was referred to as the galaxy's armpit hole.",
+  "lead_paragraphs": [
+    "Dubrava was a planet where Jal Te Gniev was placed to recruit rebel pilots. An Imperial patrol discovered him, by an accident, in a local cantina where they had tracked down a female informant. Jal's life was saved by the young humanoid Dubravan, Bobek. The planet was referred to as the galaxy's armpit hole."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dubrava",
+    "region": "Outer Rim Territories",
+    "sector": "Albanin sector",
+    "system": "Dubrava system",
+    "coordinates": "T-13",
+    "routes": "Triellus Trade Route",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Semi-tropical swamps",
+    "interest": [
+      "Canal District",
+      "Canal bar"
+    ],
+    "species": "Dubravans",
+    "otherspecies": [
+      "Abyssins",
+      "Humans",
+      "Snivvians",
+      "Nimbanel"
+    ],
+    "population": "10–100 million (25 ABY)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Dubravan",
+      "directory": "Dubravan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dubrava",
+    "x": 13368.2,
+    "y": -4825.0,
+    "z": 38.7,
+    "region": "Outer Rim",
+    "grid": "T-13"
+  },
+  "scraped": "2026-07-03"
+}

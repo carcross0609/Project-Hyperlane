@@ -1,0 +1,65 @@
+{
+  "name": "Charros IV",
+  "wookieepedia_title": "Charros IV/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Charros_IV/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Charros IV, also referred to simply as Charros, was an arid planet in the Mid Rim with high plateaus, snow-capped mountains, and black-water lakes.",
+  "lead_paragraphs": [
+    "Charros IV, also referred to simply as Charros, was an arid planet in the Mid Rim with high plateaus, snow-capped mountains, and black-water lakes."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Charros IV",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region"
+    ],
+    "sector": "Taldot sector",
+    "system": "Charros system",
+    "coordinates": "R-9",
+    "routes": [
+      "Great Kashyyyk Branch",
+      "Lesser Lantillian Route"
+    ],
+    "climate": "Arid",
+    "terrain": [
+      "Lakes",
+      "Mountains",
+      "Plateaus"
+    ],
+    "interest": [
+      "Xi Char cathedral factories",
+      "  Workshop Xcan"
+    ],
+    "species": "Xi Charrian",
+    "language": "Xi Char",
+    "affiliation": [
+      "Galactic Republic",
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Greater Maldrood",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Xi Charrian",
+      "directory": "Xi Charrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Charros IV",
+    "x": 9202.3,
+    "y": 1071.9,
+    "z": 242.4,
+    "region": "Mid Rim",
+    "grid": "R-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Vasha",
+  "wookieepedia_title": "Vasha/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vasha/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vasha was a desert planet located in the Outer Rim Territories' Moddell sector. It was the homeworld of the insectoid Vashan species, which governed itself through a system theocratic castes and members of which were prized as workers across the Moddell sector. After it experienced a series of religious wars that ended when contact was established with the Galactic Republic, Vasha came to be dominated by the Ayrou species from the planet Maya Kovel, with Ayrou administrators overseeing deep-delving mines from which Vashan miners retrieved valuable ores and minerals.",
+  "lead_paragraphs": [
+    "Vasha was a desert planet located in the Outer Rim Territories' Moddell sector. It was the homeworld of the insectoid Vashan species, which governed itself through a system theocratic castes and members of which were prized as workers across the Moddell sector. After it experienced a series of religious wars that ended when contact was established with the Galactic Republic, Vasha came to be dominated by the Ayrou species from the planet Maya Kovel, with Ayrou administrators overseeing deep-delving mines from which Vashan miners retrieved valuable ores and minerals.",
+    "At some point by 3 ABY, miners in the mine known as The Abyss discovered the valuable statue known as the Ayrou Tessent. When a group of treasure hunters subsequently visited The Abyss in order to retrieve the artifact, the Vashan theocrat Dochi At-Rial instead fled with the Tessent for a Vashan holy site situated on the Qina system moon of the same name."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Vasha",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Zuma sector",
+      "  Inner Zuma Region",
+      "    Moddell subsector"
+    ],
+    "system": [
+      "Inner Moddell systems",
+      "  Vasha system"
+    ],
+    "coordinates": "H-16",
+    "routes": "Annaj-Houche Run",
+    "lengthday": "22 standard hours",
+    "lengthyear": "402 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "110% standard",
+    "terrain": [
+      "Desert",
+      "Mountains"
+    ],
+    "interest": "The Abyss",
+    "fauna": "Apilid worm",
+    "species": "Vashan",
+    "otherspecies": "Ayrou",
+    "language": "Vashan",
+    "government": "Theocracy",
+    "population": "1.2 billion",
+    "cities": "Tatarrar",
+    "imports": "Foodstuffs",
+    "exports": [
+      "Ore",
+      "Workers"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Vashan",
+      "directory": "Vashan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vasha",
+    "x": -4866.7,
+    "y": -10140.6,
+    "z": -160.1,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Hjaff",
+  "wookieepedia_title": "Hjaff",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hjaff",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hjaff was a planet located in the Colonies. It was the homeworld of the Tarc, a isolationist species of sentient crustacean creatures. Hjaff had three continents.",
+  "lead_paragraphs": [
+    "Hjaff was a planet located in the Colonies. It was the homeworld of the Tarc, a isolationist species of sentient crustacean creatures. Hjaff had three continents.",
+    "During the Galactic Civil War, Hjaff was in a region under the jurisdiction of Moff Joss Leskwin but remained out of the control of the Galactic Empire, who had difficulty in subduing the native Tarc, with Leskwin hoping to gather enough forces to eventually overwhelm the alien natives."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Hjaff",
+    "region": "Colonies",
+    "sector": "Tarc domain",
+    "system": "Hjaff system",
+    "coordinates": "J-13",
+    "routes": "Giju Run",
+    "class": "Terrestrial",
+    "climate": "Arid",
+    "terrain": "Deserts",
+    "water": "Small oceans",
+    "fauna": "Sand mollusk",
+    "species": "Tarc",
+    "otherspecies": "None",
+    "language": "Tarc language",
+    "government": "Unified Hjaff government",
+    "imports": "None",
+    "exports": "None"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tarc",
+      "directory": "Tarc",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Hjaff",
+    "x": -1911.9,
+    "y": -4570.2,
+    "z": -164.0,
+    "region": "Colonies",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Pheon",
+  "wookieepedia_title": "Pheon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pheon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pheon was the outermost planet in the Vaxal system. It was a barren rock with two moons.",
+  "lead_paragraphs": [
+    "Pheon was the outermost planet in the Vaxal system. It was a barren rock with two moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pheon",
+    "region": [
+      "Inner Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Callia sector",
+    "system": "Vaxal system",
+    "coordinates": "N-13",
+    "suns": "1: Vaxal",
+    "position": "5",
+    "moons": "2",
+    "class": "Barren rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pheon",
+    "x": 3924.8,
+    "y": -5195.7,
+    "z": -45.2,
+    "region": "Inner Rim",
+    "grid": "N-13"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Toong'l",
+  "wookieepedia_title": "Toong'l/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Toong%27l/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Toong'l, also known as Toong'L, was a planet located within the Toong'l system of the Outer Rim Territories and the homeworld of the Toong species.",
+  "lead_paragraphs": [
+    "Toong'l, also known as Toong'L, was a planet located within the Toong'l system of the Outer Rim Territories and the homeworld of the Toong species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Toong'l",
+    "region": "Outer Rim Territories",
+    "sector": "Jubilar sector",
+    "system": "Toong'l system",
+    "coordinates": "T-7",
+    "terrain": "Barren",
+    "species": "Toong",
+    "otherspecies": "Yuuzhan Vong",
+    "language": [
+      "Yuuzhan Vong",
+      "Formerly: Toongese"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Toong",
+      "directory": "Toong (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Toong'l",
+    "x": 13290.4,
+    "y": 3389.9,
+    "z": -488.5,
+    "region": "Outer Rim",
+    "grid": "T-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Skustell",
+  "wookieepedia_title": "Skustell/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skustell/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Skustell was an humid planet in the Skustell Cluster of the Outer Rim Territories. It was the homeworld of the Ongree, a bipedal, humpbacked, amphibious sentient species. Even after Skustell became part of galactic society, Ongree were not widely seen away from their homeworld.",
+  "lead_paragraphs": [
+    "Skustell was an humid planet in the Skustell Cluster of the Outer Rim Territories. It was the homeworld of the Ongree, a bipedal, humpbacked, amphibious sentient species. Even after Skustell became part of galactic society, Ongree were not widely seen away from their homeworld.",
+    "During the Old Republic Skustell was rumored that a golden waterfall on the planet hid the entrance of a cave, which contained treasures."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Skustell",
+    "region": [
+      "Outer Rim Territories",
+      "  Trailing Sectors"
+    ],
+    "sector": "Tarabba sector",
+    "system": "Skustell Cluster",
+    "coordinates": "N-19",
+    "class": "Terrestrial",
+    "water": "Some water sources",
+    "species": "Ongree",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ongree",
+      "directory": "Ongree",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ongree",
+      "directory": "Ongree (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Skustell",
+    "x": 3923.1,
+    "y": -14549.4,
+    "z": -601.6,
+    "region": "Outer Rim",
+    "grid": "N-19"
+  },
+  "scraped": "2026-07-03"
+}

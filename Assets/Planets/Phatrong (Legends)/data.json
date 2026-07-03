@@ -1,0 +1,40 @@
+{
+  "name": "Phatrong",
+  "wookieepedia_title": "Phatrong/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phatrong/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Phatrong was the homeworld of the Kyuzo species.",
+  "lead_paragraphs": [
+    "Phatrong was the homeworld of the Kyuzo species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Phatrong",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Thrasybule sector",
+    "system": "Phatrong system",
+    "coordinates": "P-6",
+    "species": "Kyuzo",
+    "language": "Kyuzo language"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kyuzo",
+      "directory": "Kyuzo",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Phatrong",
+    "x": 7061.1,
+    "y": 4641.5,
+    "z": -393.1,
+    "region": "Outer Rim",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Barlok",
+  "wookieepedia_title": "Barlok",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barlok",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Barlok was a terrestrial planet in the Barlok system of the Marcol sector in the Inner Rim Territories and the Interior. It fell within grid square L-8 of the Standard Galactic Grid. The world was known for its advanced horticultural techniques. Prisht-fruit was native to the world and its most prized produce. Other edible plants like taba leaf and shi-shok could also be purchased there.",
+  "lead_paragraphs": [
+    "Barlok was a terrestrial planet in the Barlok system of the Marcol sector in the Inner Rim Territories and the Interior. It fell within grid square L-8 of the Standard Galactic Grid. The world was known for its advanced horticultural techniques. Prisht-fruit was native to the world and its most prized produce. Other edible plants like taba leaf and shi-shok could also be purchased there.",
+    "Having had enough of hot worlds like Li-Toran and Jakku, the Artiodac chef Strono Tuggs visited Barlok during a culinary tour of the galaxy that he made between 34 ABY and 35 ABY. Tuggs used the opportunity to stock up on fruit and vegetables, including two bushels of prisht-fruit, which he thought he would have been a fool to miss. He later mentioned Barlok as part of the recipe for prisht parfait in his third cookbook, The Ultimate Cookbook, which was published in 35 ABY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Barlok",
+    "region": [
+      "Inner Rim Territories",
+      "The Interior"
+    ],
+    "sector": "Marcol sector",
+    "system": "Barlok system",
+    "coordinates": "L-8",
+    "class": "Terrestrial",
+    "flora": "Prisht-fruit"
+  },
+  "homeworld_of": [
+    {
+      "name": "Brolf",
+      "directory": "Brolf",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Barlok",
+    "x": 684.1,
+    "y": 1988.0,
+    "z": -137.5,
+    "region": "Inner Rim",
+    "grid": "L-8"
+  },
+  "scraped": "2026-07-03"
+}

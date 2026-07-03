@@ -1,0 +1,81 @@
+{
+  "name": "Iego",
+  "wookieepedia_title": "Iego",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iego",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Iego was a mysterious planet located in the Outer Rim Territories on the fringes of the known galaxy that was surrounded by a thousand moons collectively known as the moons of Iego, at least one of which was populated by a race of beings known as Angels. During the Clone Wars, the Confederacy of Independent Systems constructed a laser field that prevented anyone from leaving the planet, before the field was destroyed by Obi-Wan Kenobi and Anakin Skywalker, freeing the Iegoans.",
+  "lead_paragraphs": [
+    "Iego was a mysterious planet located in the Outer Rim Territories on the fringes of the known galaxy that was surrounded by a thousand moons collectively known as the moons of Iego, at least one of which was populated by a race of beings known as Angels. During the Clone Wars, the Confederacy of Independent Systems constructed a laser field that prevented anyone from leaving the planet, before the field was destroyed by Obi-Wan Kenobi and Anakin Skywalker, freeing the Iegoans."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Iego",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Ash Worlds",
+    "system": "Iego system",
+    "coordinates": "T-7",
+    "moons": [
+      "1,000 moons, including:",
+      "Clepresdan",
+      "Cobarb",
+      "Flitrude",
+      "Millius Prime",
+      "Rawnde",
+      "Uncovalor",
+      "Winlion"
+    ],
+    "climate": [
+      "Hot",
+      "Humid",
+      "Temperate",
+      "Tropical"
+    ],
+    "terrain": [
+      "Basaltic spires",
+      "Canyons",
+      "Deserts"
+    ],
+    "flora": "Reeksa",
+    "fauna": "Xandu",
+    "otherspecies": [
+      "Diathim",
+      "Human",
+      "Ithorian",
+      "Kajain'sa'Nikto",
+      "Quarren",
+      "Rodian"
+    ],
+    "demonym": "Iegoan",
+    "cities": "Cliffhold",
+    "exports": "Spice",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Diathim",
+      "directory": "Diathim (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Maelibus",
+      "directory": "Maelibus",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Iego",
+    "x": 12414.7,
+    "y": 3743.4,
+    "z": -346.7,
+    "region": "Outer Rim",
+    "grid": "T-7"
+  },
+  "scraped": "2026-07-03"
+}

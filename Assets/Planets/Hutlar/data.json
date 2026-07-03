@@ -1,0 +1,51 @@
+{
+  "name": "Hutlar",
+  "wookieepedia_title": "Hutlar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hutlar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hutlar was a small, chilly world located in the Mid Rim's Senex sector. Orbiting a red dwarf star, it was the homeworld of the sentient Hutlarians. They served the aristocratic Ancient Houses of the Senex-Juvex region in various roles until 553 BBY, when their home was liberated from the nobles' control.",
+  "lead_paragraphs": [
+    "Hutlar was a small, chilly world located in the Mid Rim's Senex sector. Orbiting a red dwarf star, it was the homeworld of the sentient Hutlarians. They served the aristocratic Ancient Houses of the Senex-Juvex region in various roles until 553 BBY, when their home was liberated from the nobles' control."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Hutlar",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Hutlar system",
+    "coordinates": "L-17",
+    "suns": "1 (red dwarf)",
+    "routes": "Senex-Juvex Loop",
+    "class": "Terrestrial",
+    "climate": "Chilly",
+    "species": "Hutlarians",
+    "affiliation": "Ancient Houses (pre–553 BBY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Hutlarian",
+      "directory": "Hutlarian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Hutlar",
+    "x": 567.2,
+    "y": -12007.6,
+    "z": -107.6,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

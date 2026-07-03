@@ -1,0 +1,41 @@
+{
+  "name": "N'Zoth",
+  "wookieepedia_title": "N'Zoth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/N%27Zoth",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "N'Zoth was a planet located in the N'zoth system of the Koornacht Cluster in the galaxy's Core Worlds. On the periphery of the Deep Core, it was connected via hyperspace route to Jedha and Coruscant, and situated in square K-10 of the Standard Galactic Grid.",
+  "lead_paragraphs": [
+    "N'Zoth was a planet located in the N'zoth system of the Koornacht Cluster in the galaxy's Core Worlds. On the periphery of the Deep Core, it was connected via hyperspace route to Jedha and Coruscant, and situated in square K-10 of the Standard Galactic Grid."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "N'Zoth",
+    "region": [
+      "Core Worlds",
+      "The Interior"
+    ],
+    "sector": [
+      "Farlax sector",
+      "  Koornacht Cluster"
+    ],
+    "system": "N'zoth system",
+    "coordinates": "K-10"
+  },
+  "homeworld_of": [
+    {
+      "name": "Yevetha",
+      "directory": "Yevetha",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "N'Zoth",
+    "x": -1435.4,
+    "y": -866.5,
+    "z": 116.3,
+    "region": "Core Worlds",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}
