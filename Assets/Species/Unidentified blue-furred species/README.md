@@ -1,0 +1,16 @@
+# Unidentified blue-furred species
+
+**Continuity:** Canon  
+**Source:** [Unidentified blue-furred species](https://starwars.fandom.com/wiki/Unidentified_blue-furred_species)
+
+A species of blue-furred bipeds could be found on the forest moon Endor. They had fluffy, blue tails, large, pointed ears, and long snouts with a black nose and sharp teeth. After the Battle of Endor in 4 ABY, word spread across Endor that Imperials had returned to the moon but been seen off by members of the Ewok Bright Tree tribe and their Yuzzum neighbours, who had been summoned by the Ewok Wicket Wystri Warrick. This led to many of the tribes neighbours, including atleast six members of the blue-furred species, gathering in Bright Tree Village to meet the Ewoks, share stories, and work in unity to build the forest's future together. During the gathering, the blue-furred visitors all wore orange capes and black face masks while sitting around a table and eating various types of food.
+
+## Biology & Culture
+
+- **Name:** Unidentified blue-furred species
+- **Designation:** Sentient
+- **Haircolor:** Blue
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

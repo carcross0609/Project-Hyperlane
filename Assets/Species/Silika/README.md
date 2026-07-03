@@ -1,0 +1,16 @@
+# Silika
+
+**Continuity:** Legends  
+**Source:** [Silika](https://starwars.fandom.com/wiki/Silika)
+
+Silika were sapients indigenous to Dohu VII. They had a very rigid code of honor. Despite having three arms, they were not more dexterous due to their short, stubby fingers, additionally they had stumpy legs. As they consisted mainly of silicon, mineral water—or Silika water as they called it—had an intoxicating effect on the Silika. Silika would often challenge each other to the Contest, a water-drinking game.
+
+## Biology & Culture
+
+- **Name:** Silika
+- **Distinctions:** Silicon-based, an extra arm, stumpy legs and short, stubby fingers
+- **Origin:** Dohu VII
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

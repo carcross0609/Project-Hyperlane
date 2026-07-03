@@ -1,0 +1,29 @@
+{
+  "name": "Kessurian",
+  "wookieepedia_title": "Kessurian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kessurian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Kessurians were a sentient species that originated in the Kessur system. They had red skin and elongated ears and montrals, which increased their senses.",
+  "data": {
+    "name": "Kessurian",
+    "designation": "Sentient",
+    "skincolor": "Red",
+    "haircolor": [
+      "Brown",
+      "Grey",
+      "Red-brown"
+    ],
+    "eyecolor": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "distinctions": [
+      "Elongated ears with keen hearing",
+      "Montrals to aid with space-perception"
+    ],
+    "origin": "Kessur system"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Gand",
+  "wookieepedia_title": "Gand/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gand/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Gands, or Gand , were a sentient species of humanoids that xenobiologists believed to have evolved from an insect genus that inhabited the ammonia-gas planet of Gand. Several physical varieties of the species existed, differing from one another in the structure of the head and the texture and color of the exoskeleton, but the species was usually divided into two main subspecies: those with lungs and those without. Gands with such organs were adapted to their homeworld's atmosphere, but like Kel Dors, required specialized breathing gear if they wanted to leave Gand to manage potentially poisonous offworld gas mixtures. Gands without lungs, however, did not respire and were immune to poisonous gases; thus they could venture offworld without worry of suffocation. Both races possessed an exoskeleton and regenerative properties.",
+  "data": {
+    "name": "Gand",
+    "designation": "Sentient",
+    "class": "Insectoid",
+    "subspecies": [
+      "Breathers",
+      "Lungless"
+    ],
+    "height": "1.5 meters (females), 1.8 meters (males)",
+    "mass": "70 kilograms (females), 80 kilograms (males)",
+    "skincolor": "Varying shades of brown, green and purple (exoskeleton)",
+    "distinctions": "Hard Exoskeletons, Regenerative Capabilities, Limited telepathy among some, three-fingered hands",
+    "lifespan": "61 standard years old, with some individuals living to over 95",
+    "origin": "Gand",
+    "language": "Gand"
+  },
+  "scraped": "2026-07-03"
+}

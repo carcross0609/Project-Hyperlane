@@ -1,0 +1,33 @@
+{
+  "name": "Neimoidian",
+  "wookieepedia_title": "Neimoidian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Neimoidian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Neimoidians were a humanoid species native to the planet of Neimoidia, while also settling wealthy colonies they named Purse Worlds, such as Cato Neimoidia. They had smooth noseless faces, mottled green-gray skin, and large red-gold eyes. In the waning years of the Galactic Republic, they ran the Trade Federation, a vast consortium of business interests. As such, they ended up joining the Confederacy of Independent Systems and helped start the Clone Wars. Neimoidians were related to the Duros species.",
+  "data": {
+    "name": "Neimoidian",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "skincolor": [
+      "Beige",
+      "Green",
+      "Gray"
+    ],
+    "eyecolor": "Red-gold",
+    "distinctions": [
+      "Noseless faces",
+      "Bony fingers",
+      "Lanky bodies"
+    ],
+    "origin": [
+      "Neimoidia",
+      "Purse Worlds (colonized)",
+      "  Cato Neimoidia (colonized)",
+      "  Deko Neimoidia (colonized)",
+      "  Koru Neimoidia (colonized)"
+    ],
+    "language": "Pak-Pak"
+  },
+  "scraped": "2026-07-03"
+}

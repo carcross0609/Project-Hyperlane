@@ -1,0 +1,10 @@
+# Mishtak
+
+**Continuity:** Legends  
+**Source:** [Mishtak](https://starwars.fandom.com/wiki/Mishtak)
+
+The Mishtak people were New Republic members, some of which were part of the non-Bothan community present on Bothawui. In 19 ABY, during an anti-Bothan demonstration set off by the discovery of the Caamas Document, a Mishtak was hit by a blaster bolt. Though the blaster bolt was blamed by the crowd on either Han Solo or a Bothan clan leader named Rayl'skar, it was later discovered that the bolt was set off by an Imperial Remnant agent working for the "Vengeance" cell using a Xerrol Nightstinger.
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

@@ -1,0 +1,23 @@
+# Bilar
+
+**Continuity:** Legends  
+**Source:** [Bilar](https://starwars.fandom.com/wiki/Bilar)
+
+Bilars were one of the few examples of a true group mind in the galaxy. Evolved from small, vegetarian primates on the tectonically active but highly fertile planet Mima II, each member of the species was a hairless, pink creature with large, dark eyes, a short muzzle, and two rounded ears. An individual Bilar was unintelligent, but the species had the ability to pool the knowledge and consciousnesses of groups of Bilars who shared a special bond with one another, creating conglomerations known as a claqas. Thus, a pair of Bilars collectively was as intelligent as a trained domestic animal, but a group of four achieved true sentience. The group mind developed shortly after the birth of those Bilars born nearby and within a few minutes of each other. The group mind depended on single Bilars sharing thoughts through pheromones, physical and visual contact, and telepathy. Larger claqas grew progressively smarter, with seven-member groups achieving genius-level intellects. Claqas with more than ten members were rare, and claqas generally referred to themselves as a single individual and went by a single name. Separation of any of the constituent Bilars resulted in a temporary loss of intelligence, and the death of a Bilar sent his or her claqa into a deep depression, sometimes leading to catatonia or the death of the whole.
+
+## Biology & Culture
+
+- **Name:** Bilar
+- **Designation:** Non-sentient, semi-sentient, or sentient depending on size of group
+- **Class:** Mammal
+- **Height:** 1 meter
+- **Skincolor:** Pink
+- **Haircolor:** Hairless
+- **Eyecolor:** Dark
+- **Distinctions:** Communal intelligence, semi-erect posture
+- **Origin:** Mima II
+- **Diet:** Herbivore
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

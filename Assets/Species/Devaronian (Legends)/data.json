@@ -1,0 +1,39 @@
+{
+  "name": "Devaronian",
+  "wookieepedia_title": "Devaronian/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Devaronian/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Devaronians were a horned humanoid species from the world of Devaron in the Colonies, a planet of low mountains and deep valleys linked by thousands of rivers. It was believed that they were descended from a race of primates that lived in the mountains of Devaron, and that their horns were a genetic mutation that proved useful in fending off predatory birds.",
+  "data": {
+    "name": "Devaronian",
+    "designation": "Sentient",
+    "class": "Mammal",
+    "height": "1.6 meters",
+    "skincolor": [
+      "Red",
+      "Pink",
+      "Brown",
+      "White"
+    ],
+    "haircolor": [
+      "Males: None",
+      "Females:",
+      "Brown",
+      "Black",
+      "White"
+    ],
+    "eyecolor": [
+      "Yellow",
+      "Brown"
+    ],
+    "distinctions": "Males: Horns\nFemales: Vestigial horn spots",
+    "origin": "Devaron",
+    "diet": "Carnivorous",
+    "language": [
+      "Basic",
+      "Devaronese"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

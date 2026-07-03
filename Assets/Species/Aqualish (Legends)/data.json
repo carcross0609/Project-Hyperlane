@@ -1,0 +1,55 @@
+{
+  "name": "Aqualish",
+  "wookieepedia_title": "Aqualish/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aqualish/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Aqualish were tusked humanoids from the planet Ando whose appearance combined aspects of arachnids and pinniped aquatic mammals. Aqualish had a reputation for being nasty, crude and aggressive, and generally pursued off-world careers as mercenaries, bounty hunters, and pirates. One of the most infamous such Aqualish was the smuggler Ponda Baba.",
+  "data": {
+    "name": "Aqualish",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "subspecies": [
+      "Aquala",
+      "Quara",
+      "Ualaq"
+    ],
+    "height": "1.7-2.0 meters",
+    "skincolor": [
+      "Black",
+      "Dark blue",
+      "Deep russet",
+      "Green"
+    ],
+    "eyecolor": [
+      "Black",
+      "Dark blue",
+      "Red",
+      "Dark brown"
+    ],
+    "distinctions": [
+      "Tusks",
+      "Belligerent personalities",
+      "Ualaq:",
+      "Two sets of eyes: one for night vision, one for daylight"
+    ],
+    "lifespan": [
+      "Child: 1-11 years",
+      "Young adult: 12-16 years",
+      "Adult: 17-50 years",
+      "Middle age: 51-69 years",
+      "Old: 70-79 years",
+      "Venerable: 80+ years"
+    ],
+    "origin": "Ando",
+    "diet": [
+      "Fish",
+      "Shellfish"
+    ],
+    "language": [
+      "Aqualish",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

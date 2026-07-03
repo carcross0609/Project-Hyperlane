@@ -1,0 +1,78 @@
+{
+  "name": "Human",
+  "wookieepedia_title": "Human",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Human",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Humans were a species of sentient, bipedal mammals with bilateral symmetry. Throughout the galaxy, they constituted the culturally dominant species and were commonly encountered on most settled planets, from the bountiful planet of Naboo to the desert world of Tatooine. Some believed humans were possibly native to the planet Coruscant but that theory was disputed.",
+  "data": {
+    "name": "Human",
+    "designation": "Sentient",
+    "class": "Mammal",
+    "subspecies": [
+      "Alder-Espirion",
+      "Loongren"
+    ],
+    "races": [
+      "Alderaanian",
+      "Atterran",
+      "Chalactan",
+      "Chandrilan",
+      "Christophsian",
+      "Corellian",
+      "Dathomirian",
+      "Dhani",
+      "Genetian",
+      "Ghorman",
+      "Grizmallti",
+      "Hisseenian",
+      "Ilohian",
+      "Kenari",
+      "Lew'elan",
+      "Lothalite",
+      "Ming Po",
+      "Naboo",
+      "Noomis Rigan",
+      "Oktarian",
+      "Onderonian",
+      "Oruan",
+      "Pamarthen",
+      "Pijali",
+      "Polynean",
+      "Savarian",
+      "Serennian",
+      "Valgauthian"
+    ],
+    "height": "A little below 1.85 meters",
+    "skincolor": "Light to dark tones",
+    "haircolor": [
+      "Auburn",
+      "Black",
+      "Blond",
+      "Brown",
+      "Gray (usually with age)",
+      "Green",
+      "Red",
+      "White (usually with age)"
+    ],
+    "eyecolor": [
+      "Amber",
+      "Blue",
+      "Brown",
+      "Gray",
+      "Green",
+      "Hazel",
+      "Purple",
+      "Red",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Bipedal with bilateral symmetry",
+      "Opposable thumb",
+      "Oxygen breathing"
+    ],
+    "origin": "Coruscant (disputed but generally accepted)",
+    "language": "Galactic Basic Standard among others"
+  },
+  "scraped": "2026-07-03"
+}

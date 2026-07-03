@@ -1,0 +1,37 @@
+{
+  "name": "Weequay",
+  "wookieepedia_title": "Weequay",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Weequay",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Weequays were a sentient species from the planet Sriluur common throughout the galaxy. Weequay possessed tough, leathery skin resistant to desert environments and blaster fire. Many Weequay were mercenaries, pirates, and bodyguards for the Hutt Clan. Notable Weequays included Hondo Ohnaka, who led the Ohnaka Gang, and the Jedi Sora Bulq.",
+  "data": {
+    "name": "Weequay",
+    "designation": "Sentient",
+    "height": "1.89 meters",
+    "skincolor": [
+      "Blue",
+      "Brown",
+      "Gray",
+      "Pink",
+      "Red",
+      "Yellow"
+    ],
+    "haircolor": [
+      "Black",
+      "Blond",
+      "Brown",
+      "Gray"
+    ],
+    "eyecolor": [
+      "Black",
+      "Blue",
+      "Gold",
+      "Gray"
+    ],
+    "distinctions": "Tough, leathery skin that provided resistance to blasterfire",
+    "origin": "Sriluur",
+    "habitat": "Deserts"
+  },
+  "scraped": "2026-07-03"
+}

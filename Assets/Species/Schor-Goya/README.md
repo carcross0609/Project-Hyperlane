@@ -1,0 +1,10 @@
+# Schor-Goya
+
+**Continuity:** Legends  
+**Source:** [Schor-Goya](https://starwars.fandom.com/wiki/Schor-Goya)
+
+The Schor-Goya were a barbarian humanoid people of Mala who wore the skulls of a bull-like creature as helmets. During the last years of the Second Imperial Civil War, they moved down from the mountains and swept through many villages, killing many of the people of the man who would become Darth Wredd. Using his Force abilities and swordsmanship, Darth Wredd defeated the Schor-Goya in combat and became known as the defender of his people. When the One Sith tested a bioweapon on Mala, the Schor-Goya were rendered extinct. The sole survivor on Mala was Darth Wredd, who was spared by the Sith.
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

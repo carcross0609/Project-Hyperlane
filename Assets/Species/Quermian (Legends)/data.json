@@ -1,0 +1,38 @@
+{
+  "name": "Quermian",
+  "wookieepedia_title": "Quermian/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quermian/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Quermians were a mammalian species of sentients hailing from the planet Quermia after being genetically designed from Xexto DNA by the Arkanian race.",
+  "data": {
+    "name": "Quermian",
+    "designation": "Sentient",
+    "class": "Mammalian",
+    "height": "2.4 meters",
+    "skincolor": [
+      "Brown",
+      "Pasty white"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Extended necks",
+      "Two brains"
+    ],
+    "lifespan": [
+      "Child: 1–11 years",
+      "Young adult: 12–16 years",
+      "Adult: 17–42 years",
+      "Middle age: 43–65 years",
+      "Old: 66–85 years",
+      "Venerable: 86+ years"
+    ],
+    "origin": "Quermia",
+    "language": "Quermian"
+  },
+  "scraped": "2026-07-03"
+}

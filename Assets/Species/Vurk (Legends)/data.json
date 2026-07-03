@@ -1,0 +1,30 @@
+{
+  "name": "Vurk",
+  "wookieepedia_title": "Vurk/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vurk/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Vurks were the predominant sentient species of the planet Sembla. They were tall, amphibious humanoids with bulbous dark eyes and sweeping head crests. Their hands and feet had three digits each, one of which was opposable. They had distinguishing gray-green, leathery skin.",
+  "data": {
+    "name": "Vurk",
+    "designation": "Sentient",
+    "class": "Reptomammal",
+    "height": [
+      "2.1 meters (Male)",
+      "1.9 meters (Female)"
+    ],
+    "mass": [
+      "85 kilograms (females)",
+      "90 kilograms (males)"
+    ],
+    "skincolor": "Dark",
+    "distinctions": [
+      "Bulbous eyes",
+      "Head crests"
+    ],
+    "lifespan": "Up to 70 standard years",
+    "origin": "Sembla",
+    "language": "Semblan"
+  },
+  "scraped": "2026-07-03"
+}

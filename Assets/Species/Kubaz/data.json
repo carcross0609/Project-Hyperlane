@@ -1,0 +1,23 @@
+{
+  "name": "Kubaz",
+  "wookieepedia_title": "Kubaz",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kubaz",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Kubaz were an insectoid sentient species that were native to the planet Kubindi. They lived on a diet of insects, using their long snout to snatch their prey from inside hives. This did not make them very popular with sentient insectoid species, such as the Geonosians, despite the Kubaz themselves being descended from insects. They had dark skin, long snouts, and sensitive eyesight causing them to require protective eyewear. On the whole, their appearance resembled that of the northern Mustafarians. Kubaz were unable to pronounce the phonemes of Galactic Basic Standard, and their language was made of whirring syllables.",
+  "data": {
+    "name": "Kubaz",
+    "designation": "Sentient",
+    "class": [
+      "Insectoid",
+      "Elephantine",
+      "Mammalian"
+    ],
+    "skincolor": "Dark",
+    "distinctions": "Long snout, sensitive eyes",
+    "origin": "Kubindi",
+    "diet": "Insectivorous",
+    "language": "Kubazian"
+  },
+  "scraped": "2026-07-03"
+}

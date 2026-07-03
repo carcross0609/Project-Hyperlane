@@ -1,0 +1,22 @@
+# Troig
+
+**Continuity:** Legends  
+**Source:** [Troig/Legends](https://starwars.fandom.com/wiki/Troig/Legends)
+
+The Troigs were a two-headed, multi-limbed, sentient species from the planet Pollillus. The majority of Troigs had two heads and four arms, with one head controlling one set of arms independently of the other; nevertheless, most Troigs had only one primary hand and three off hands. Each head exhibited its own personality and volition. For a two-headed Troig, the Saprin, or right head, was thought to be the source of qualities such as loyalty, faith, and cunning, while the Saprah, or left head, was the source of features such as love, anger, and passion. Troigs with more than two heads were rare but celebrated in Troig culture. Heads remained constantly aware of one another, a circumstance that afforded members of the species great awareness of their surroundings.
+
+## Biology & Culture
+
+- **Name:** Troig
+- **Designation:** Sentient
+- **Height:** 1.96–2.00 meters
+- **Skincolor:** Pale, brown, black, yellow, orange, green, red, pink
+- **Haircolor:** Brown, green, pink
+- **Eyecolor:** Brown, yellow, orange, green, red
+- **Distinctions:** Two heads, long tail, four arms
+- **Origin:** Pollillus
+- **Language:** Troig
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

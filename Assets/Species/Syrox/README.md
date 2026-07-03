@@ -1,0 +1,19 @@
+# Syrox
+
+**Continuity:** Legends  
+**Source:** [Syrox](https://starwars.fandom.com/wiki/Syrox)
+
+Syrox, also known as the Wolf Worms of Monsolar, were an alpha species of ectomorphic worm native to the planet Monsolar. They lacked a brain, yet were highly efficient predators which fed on blood using their large circular mouth of sharp teeth. Syrox were parasitic for the earliest stages of their life cycle, with Syrox females laying their microscopic eggs into the rivers of their homeworld, where they were consumed by other animals. These animals would become hosts for the juvenile worms, which would slowly incubate and grow within them for several years. They would eventually emerge from their host, with adults having grown hugely in size. The worms could be coaxed out of their hosts by the smell of Anzati snot garlic, and a folk remedy on Monsolar said if a host placed a bulb of garlic on their pillow while they slept the Syrox would crawl out of their mouth. Waleed Nagma, a native of Monsolar, became infested by a Syrox prior to being incarcerated in Cog Hive Seven. Whilst in the prison he had some garlic smuggled in and drew the creature out, after which it was killed.
+
+## Biology & Culture
+
+- **Name:** Syrox
+- **Designation:** Sentient
+- **Class:** Worm
+- **Skincolor:** White
+- **Origin:** Monsolar
+- **Diet:** Blood
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

@@ -1,0 +1,17 @@
+# Theoretical Serias species
+
+**Continuity:** Legends  
+**Source:** [Theoretical Serias species](https://starwars.fandom.com/wiki/Theoretical_Serias_species)
+
+New Republic scout Korren Starchaser led an expedition to the Serianan system that uncovered evidence of an advanced sentient species. Starchaser found several bits of evidence for the species's existence: the planet Serias, which was located in the same star system, was inhabited, and the Serianan Belt contained runes in various sizes that, due to the asteroids' density, suggested that they had been created by beings with access to tools that required more power to operate than anything known to Starchaser's team. Starchaser also discovered five alien statues. The scout guessed that the creators of these artifacts were humanoids but not Humans. The team gathered the statues, logged the runes, and departed to analyze their data. Afterward, a team of alien xenoarchaeologists discovered the Serianan system's mysteries and began their own analysis. A followup visit by the New Republic Scout Service discovered the independent scientists as well as prospectors who sought to exploit the asteroids. A later group of spacers was kidnapped by pirates and brought to a base that resembled one of the Serianan statues.
+
+## Biology & Culture
+
+- **Name:** Theoretical Serias species
+- **Designation:** Sentient
+- **Distinctions:** Humanoid (possibly)
+- **Origin:** Serias (possibly)
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

@@ -1,0 +1,39 @@
+{
+  "name": "Mirialan",
+  "wookieepedia_title": "Mirialan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mirialan",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Mirialans were a long-lived, near-human species native to the planet Mirial. They had skin tones ranging from green to yellow or pink to purple. Most had traditional geometric tattoos on their faces which symbolized personal achievements. The species had a strong connection with the natural world and typically believed in the Force. Mirialans included several members of the Jedi Order, including Jedi Masters Luminara Unduli, Cyslin Myr, Katri, and Vernestra Rwoh, the former Padawan Barriss Offee, and the Seventh Sister, both of whom were fallen Jedi who hunted Great Jedi Purge survivors as a member of the Galactic Empire's Inquisitorius.",
+  "data": {
+    "name": "Mirialan",
+    "designation": "Sentient",
+    "class": "Near-human",
+    "skincolor": [
+      "Blue",
+      "Brown",
+      "Green",
+      "Olive",
+      "Pink",
+      "Purple",
+      "Yellow"
+    ],
+    "haircolor": [
+      "Black",
+      "Brown",
+      "Green",
+      "Purple"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Brown",
+      "Green",
+      "Purple"
+    ],
+    "distinctions": "Facial tattoos",
+    "lifespan": "Centuries",
+    "origin": "Mirial",
+    "habitat": "Desert or wastelands"
+  },
+  "scraped": "2026-07-03"
+}

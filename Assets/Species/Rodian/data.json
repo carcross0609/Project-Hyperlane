@@ -1,0 +1,40 @@
+{
+  "name": "Rodian",
+  "wookieepedia_title": "Rodian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rodian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Rodians were reptilian humanoids native to the planet Rodia. During the Clone Wars, Rodia was represented by Senator Onaconda Farr in the Galactic Republic's senate. He briefly sided with the Trade Federation during the war, under the promise of food and protection from pirates. Rodia was betrayed, and fell back in line with the Republic. A number of Rodians acted as bounty hunters, including Greedo and Jakoli. Greedo was an amateur eventually killed by the smuggler Han Solo, while Jakoli was a skilled bounty hunter who only killed his targets. Some Rodians also worked as informants, such as Tsoklo, who worked for the Galactic Empire.",
+  "data": {
+    "name": "Rodian",
+    "designation": "Sentient",
+    "class": "Reptilian",
+    "height": "1.75 meters",
+    "skincolor": [
+      "Blue",
+      "Green",
+      "Orange",
+      "Red",
+      "Turquoise",
+      "Yellow"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Black",
+      "Green",
+      "Purple",
+      "Red"
+    ],
+    "distinctions": [
+      "Large and round pupil-less eyes",
+      "Snouts",
+      "Pointed ears",
+      "Antennae",
+      "Scaled and usually green skin"
+    ],
+    "origin": "Rodia",
+    "habitat": "Swamps",
+    "language": "Rodian;"
+  },
+  "scraped": "2026-07-03"
+}

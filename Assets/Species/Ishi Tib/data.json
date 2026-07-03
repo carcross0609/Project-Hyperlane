@@ -1,0 +1,33 @@
+{
+  "name": "Ishi Tib",
+  "wookieepedia_title": "Ishi Tib",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ishi_Tib",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Ishi Tib were a sentient species of amphibious humanoids from the planet Tibrin. They had skin that ranged from green to blue, large eyes that extended from angular stalks on either side of their skull, and a beak-like mouth. A number of Ishi Tib were employed for Jabba the Hutt, while others fought for the Alliance to Restore the Republic.",
+  "data": {
+    "name": "Ishi Tib",
+    "designation": "Sentient",
+    "class": [
+      "Humanoid",
+      "Amphibian"
+    ],
+    "skincolor": [
+      "Blue",
+      "Green"
+    ],
+    "eyecolor": [
+      "Black",
+      "Brown",
+      "Gold"
+    ],
+    "distinctions": [
+      "Eyestalks",
+      "Beak-like mouth"
+    ],
+    "origin": "Tibrin",
+    "habitat": "Aquatic",
+    "language": "Ishi Tibrin"
+  },
+  "scraped": "2026-07-03"
+}

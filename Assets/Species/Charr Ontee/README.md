@@ -1,0 +1,18 @@
+# Charr Ontee
+
+**Continuity:** Legends  
+**Source:** [Charr Ontee](https://starwars.fandom.com/wiki/Charr_Ontee)
+
+The Charr Ontee were sentient arachnids with two pairs of legs and two pairs of arms indigenous to Kathol. They were genetically created by the ancient Kathol species. They also were capable of exuding a sticky webbing. They were originally created as a race of farmers thousands of years before the Galactic Civil War, but despite their role, they were considered colleagues by the Kathol themselves. This way of life ended when the Rift Disaster occurred, which nearly destroyed the Charr Ontee. Those that survived served the Darkstryder as it watched over the Lifewell. When the time came for the Kathol to awaken, the Darkstryder defied its programming and banished the Charr Ontee for opposing it. This made them the eternal enemies of the Darkstryder construct, living far from the creature's fortress on the Kathol homeworld. This time apart allowed them to develop their own culture and society but they gradually discovered a terrible secret from their origins. They had learned that on a genetic level the species was degenerating, but this did not affect them learning to use the Ta-Ree life energy and they became quite adept in its usage. This made them a force to be reckoned with in the Kathol Rift and the more powerful of the Kathol servants.
+
+## Biology & Culture
+
+- **Name:** Charr Ontee
+- **Designation:** Sentient
+- **Class:** Arachnoid
+- **Subspecies:** Charon
+- **Origin:** Kathol
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

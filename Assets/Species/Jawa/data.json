@@ -1,0 +1,31 @@
+{
+  "name": "Jawa",
+  "wookieepedia_title": "Jawa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jawa",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Jawas were a nomadic sentient species of meter-tall furry humanoids native to the Outer Rim desert world of Tatooine. Jawas who migrated from Tatooine were referred to as Offworld Jawas.",
+  "data": {
+    "name": "Jawa",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "height": "1 meter (3 ft)",
+    "mass": "30 kilograms",
+    "skincolor": "Black",
+    "haircolor": "Black",
+    "eyecolor": [
+      "Yellow",
+      "Orange",
+      "Red"
+    ],
+    "lifespan": "80 standard years",
+    "origin": "Tatooine",
+    "habitat": "Desert",
+    "diet": "Omnivorous",
+    "language": [
+      "Jawaese",
+      "Jawa Trade Talk"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

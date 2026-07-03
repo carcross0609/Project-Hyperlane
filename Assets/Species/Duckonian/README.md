@@ -1,0 +1,10 @@
+# Duckonian
+
+**Continuity:** Legends  
+**Source:** [Duckonian](https://starwars.fandom.com/wiki/Duckonian)
+
+Duckonian was a term that was created to make potentially racist jokes politically correct and was used in the publication 1001 Duckonian Lightbulb Jokes. The term was later adopted by the Togorian Mebara Jos, who had members of the Fireclaw Horde, a Togorian criminal gang that she led, disguise themselves as Duckonians to infiltrate the Cularin Classic swoop race, an event Jos planned to attack. One of the disguised Togorians took up the alias Otsock and flew for the "Duckonians" during the race.
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

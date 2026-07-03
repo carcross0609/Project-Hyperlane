@@ -1,0 +1,33 @@
+{
+  "name": "Anomid",
+  "wookieepedia_title": "Anomid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anomid/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Anomids, pale-skinned humanoids native to Yablari, were among the galaxy's wealthiest societies, thanks to their natural technical aptitude. Anomids had long been part of the Galactic Republic, and were seen throughout the populated galaxy as technicians, explorers, or tourists.",
+  "data": {
+    "name": "Anomid",
+    "designation": "Sentient",
+    "class": "Mammalian",
+    "height": "1.75 meters",
+    "skincolor": "Translucent",
+    "haircolor": "Dark",
+    "eyecolor": "Opalescent",
+    "distinctions": [
+      "No vocal cords",
+      "Six fingers"
+    ],
+    "lifespan": [
+      "90 standard years",
+      "Child: 1-13 years",
+      "Young adult: 14-17 years",
+      "Adult: 18-45 years",
+      "Middle age: 46-70 years",
+      "Old: 71-94 years",
+      "Venerable: 95+ years"
+    ],
+    "origin": "Yablari",
+    "language": "Anomid sign language"
+  },
+  "scraped": "2026-07-03"
+}

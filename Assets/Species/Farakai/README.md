@@ -1,0 +1,17 @@
+# Farakai
+
+**Continuity:** Canon  
+**Source:** [Farakai](https://starwars.fandom.com/wiki/Farakai)
+
+The Farakai were a large anthropoid sentient species from the Outer Rim. They possessing a unique bonding ability in which two individuals would be joined with a bridge of bone and muscle. The Farakai were brutal and powerful and a notoriously secretive species that had clandestine rituals of war and mating. The Farakai Chu bonded with the Rodian Lok to become Chulok, who would become a gangster operating on the planet Metagos.
+
+## Biology & Culture
+
+- **Name:** Farakai
+- **Designation:** Sentient
+- **Class:** Anthropoid
+- **Language:** Farakai
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

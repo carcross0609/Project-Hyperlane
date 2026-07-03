@@ -1,0 +1,24 @@
+{
+  "name": "Hoopaloo",
+  "wookieepedia_title": "Hoopaloo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hoopaloo",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Hoopaloo were a sentient species covered head to toe in ruffled feathers, which could be brown with blue highlights. They had a sharply hooked beak, and their feet had three toes forward and one back. One known Hoopaloo was the information broker Graysom, while another, Skreech, worked for the criminal Rekias Nodo.",
+  "data": {
+    "name": "Hoopaloo",
+    "designation": "Sentient",
+    "class": "Avian",
+    "feathers": [
+      "Blue",
+      "Brown"
+    ],
+    "eyecolor": "Yellow",
+    "distinctions": [
+      "Ruffled feathers",
+      "Sharp hooked beak",
+      "Four-toed feet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

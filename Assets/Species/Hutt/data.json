@@ -1,0 +1,50 @@
+{
+  "name": "Hutt",
+  "wookieepedia_title": "Hutt",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hutt",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Hutts were a large slug-like sentient species who were native to the planet Varl, but considered their homeworld to be Nal Hutta after abandoning Varl due to the Kayfoundo Kapa. They were well known as galactic gangsters who controlled the Hutt Clan crime syndicate. One famous Hutt was the crime lord Jabba, who ruled a massive criminal empire from his palace on Tatooine.",
+  "data": {
+    "option1": "Adult",
+    "option2": "Huttlet",
+    "name": "Hutt",
+    "designation": "Sentient",
+    "class": "Reptiloid",
+    "length": "3.9 meters",
+    "skincolor": [
+      "Black",
+      "Blue",
+      "Brown",
+      "Gold",
+      "Green",
+      "Mottled brown",
+      "Pink",
+      "Purple",
+      "Tan",
+      "White (genetic defect)",
+      "Yellow"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Gray",
+      "Green",
+      "Orange",
+      "Turquoise",
+      "Violet",
+      "Yellow"
+    ],
+    "distinctions": [
+      "3 lungs",
+      "Slug-like"
+    ],
+    "lifespan": "Up to 1000 years",
+    "origin": [
+      "Varl (Originally)",
+      "Nal Hutta"
+    ],
+    "habitat": "Swamp",
+    "language": "Huttese"
+  },
+  "scraped": "2026-07-03"
+}

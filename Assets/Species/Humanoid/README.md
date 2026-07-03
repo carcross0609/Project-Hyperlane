@@ -1,0 +1,10 @@
+# Humanoid
+
+**Continuity:** Canon  
+**Source:** [Humanoid](https://starwars.fandom.com/wiki/Humanoid)
+
+s were a sentient humanoid species.]] A humanoid was an organic or mechanical being that was similar in overall form to a human. Species like Cereans, Twi'leks, and Mirialans were humanoid lifeforms. Most protocol droids were humanoid in shape. That was also the case of the battle droids used by the Confederacy of Independent Systems, as the humanoid configuration allowed a better degree of versatility. The term was also used by a Vanguard Axis member to refer to Clone Force 99 member Omega, who was human.
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

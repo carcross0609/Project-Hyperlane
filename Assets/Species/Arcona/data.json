@@ -1,0 +1,37 @@
+{
+  "name": "Arcona",
+  "wookieepedia_title": "Arcona",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arcona",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Arcona were a sentient species of desert-dwelling humanoids that was native to the planet Cona that possessed a triangular shaped head. Notable Arcona include El-Les, a bounty hunter who assisted in the training of new clone troopers, and Hem Dazon, an Arcona who was stranded on Tatooine.",
+  "data": {
+    "name": "Arcona",
+    "designation": "Sentient",
+    "skincolor": [
+      "Blue",
+      "Brown",
+      "Gold",
+      "Gray",
+      "Green",
+      "Purple"
+    ],
+    "eyecolor": [
+      "Gold",
+      "Green",
+      "Pink",
+      "Purple",
+      "Red",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Triangular head",
+      "Eyes set wide apart",
+      "Three or four-fingered hands"
+    ],
+    "origin": "Cona",
+    "habitat": "Desert",
+    "language": "Arconese"
+  },
+  "scraped": "2026-07-03"
+}

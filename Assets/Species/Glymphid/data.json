@@ -1,0 +1,25 @@
+{
+  "name": "Glymphid",
+  "wookieepedia_title": "Glymphid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Glymphid",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Glymphid were a sentient species with orange or red colored eyes and beige, blue, gray, green, and yellow colored skin. The podracer Aldar Beedo from Ploo II was a Glymphid.",
+  "data": {
+    "name": "Glymphid",
+    "designation": "Sentient",
+    "skincolor": [
+      "Beige",
+      "Blue",
+      "Gray",
+      "Green",
+      "Yellow"
+    ],
+    "eyecolor": [
+      "Orange",
+      "Red"
+    ],
+    "origin": "Ploo II"
+  },
+  "scraped": "2026-07-03"
+}

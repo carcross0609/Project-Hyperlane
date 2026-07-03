@@ -1,0 +1,53 @@
+{
+  "name": "Gungan",
+  "wookieepedia_title": "Gungan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gungan",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Gungans were an amphibious sentient species and the indigenous inhabitants of the planet Naboo. The various different Gungan races could live on both water and land, but often made their home in underwater cities such as Otoh Gunga. Physically, Gungans were tall humanoids with a flexible structure, strong leg muscles, strong bills, muscular tongues, and many other traits designed for living in the waters of Naboo. They had strong accents when speaking in Galactic Basic Standard. Gungans were also known to rarely leave Naboo.",
+  "data": {
+    "option1": "Otolla",
+    "option2": "Ankura",
+    "name": "Gungan",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "races": [
+      "Ankura",
+      "Otolla"
+    ],
+    "height": "2 meters",
+    "mass": "75 kg (165lbs)",
+    "skincolor": [
+      "Brown",
+      "Green",
+      "Orange",
+      "Pink",
+      "Purple",
+      "White"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Green",
+      "Orange",
+      "Purple",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Haillu",
+      "Extendable tongues",
+      "Eye stalks",
+      "Three toes"
+    ],
+    "origin": "Naboo",
+    "diet": [
+      "Omnivorous",
+      "Mollusks",
+      "Aquatic plants"
+    ],
+    "language": [
+      "Gunganese",
+      "Basic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

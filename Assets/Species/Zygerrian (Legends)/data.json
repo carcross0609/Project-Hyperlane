@@ -1,0 +1,42 @@
+{
+  "name": "Zygerrian",
+  "wookieepedia_title": "Zygerrian/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zygerrian/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Zygerrians were a sentient humanoid species native to the planet Zygerria. Members of the species were medium-sized, standing 1.7 meters tall on average and weighing around sixty kilograms. The Zygerrians were distinguished by their feline appearance, having pointed ears and clawed hands, while some individuals also had faces that were entirely covered in fur. The species was well-known for its long history of violence, war, and slavery, which the Zygerrians viewed as a natural order of life. This contributed to the Zygerrians being feared across the galaxy.",
+  "data": {
+    "name": "Zygerrian",
+    "designation": "Sentient",
+    "class": [
+      "Humanoid",
+      "Feline"
+    ],
+    "height": "1.7 meters",
+    "mass": "60 kilograms",
+    "skincolor": "Light",
+    "haircolor": [
+      "Black",
+      "Brown",
+      "Gray",
+      "Red"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Pointed ears",
+      "Clawed hands",
+      "Faces covered in fur (Some individuals)",
+      "Bony spurs on chins of males"
+    ],
+    "lifespan": "81 years",
+    "origin": "Zygerria",
+    "language": [
+      "Galactic Basic Standard",
+      "Zygerrian"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

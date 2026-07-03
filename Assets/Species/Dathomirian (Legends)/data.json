@@ -1,0 +1,53 @@
+{
+  "name": "Dathomirian",
+  "wookieepedia_title": "Dathomirian/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dathomirian/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Dathomirian Zabraks, also known as Dathomiri Zabraks (shortened as Dathomirians and Dathomiri), were a sentient species native to the Outer Rim Territories planet Dathomir. The creation of the Dathomirian species was the result of hybridization between the Human female members of the Witches of Dathomir and their enslaved Zabrak malelings, and thus they were also known as Human-Zabrak hybrids and Zabrak-Humans. This resulted in the species' prominent sexual dimorphism, with males and females exhibiting different physical characteristics. Generally, females more closely resembled Humans, while males mostly resembled Zabraks as they possessed cranial horns and had no hair. Members of the female sex had paler skin of white or gray varieties, while members of the male sex had skin of red, orange, or yellow shades.",
+  "data": {
+    "option1": "Male Sex",
+    "option2": "Female Sex",
+    "name": "Dathomirian",
+    "designation": "Sentient",
+    "class": "Hybrid (Human and Zabrak)",
+    "skincolor": [
+      "Female sex:",
+      "Pale-gray",
+      "White",
+      "Male sex:",
+      "Red",
+      "Orange",
+      "Yellow"
+    ],
+    "haircolor": [
+      "Female sex:",
+      "Black",
+      "Brown",
+      "Silver",
+      "Silver-blonde",
+      "White"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Green",
+      "Grey",
+      "Red",
+      "Silver",
+      "Violet",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Sexual dimorphism",
+      "  Differing skin colors between male and female sexes",
+      "  Generally no facial hair, eyelashes, or hair on top of the head in members of male sex",
+      "  Generally no cranial horns in members of female sex, except in rare cases"
+    ],
+    "origin": "Dathomir",
+    "language": [
+      "Dathomiri",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

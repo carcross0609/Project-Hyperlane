@@ -1,0 +1,16 @@
+# Maoi
+
+**Continuity:** Legends  
+**Source:** [Maoi](https://starwars.fandom.com/wiki/Maoi)
+
+The Maoi were amorphous sapients indigenous to Kathol and were created by the ancient Kathol race. The DarkStryder considered them amoral and self-centered, and attempted to discard them in the Segmi tunnels after the Rift Disaster. Despite this, the Maoi survived and thrived in their underground environment. Like other Kathol servants, they developed an affinity with the Ta-Ree life energy and used it to hold their prey while they devoured it. They did this by forcing themselves through the mouth and into the body of the prey; where they would digest the prey from the inside out by eating the internal organs with powerful digestive acids.
+
+## Biology & Culture
+
+- **Name:** Maoi
+- **Distinctions:** Amorphous
+- **Origin:** Kathol
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

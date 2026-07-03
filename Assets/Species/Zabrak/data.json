@@ -1,0 +1,26 @@
+{
+  "name": "Zabrak",
+  "wookieepedia_title": "Zabrak",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zabrak",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Zabraks were a near-human carnivorous species native to the planets Iridonia and Dathomir. Most members of the species had distinctive horns atop their heads, as well as two hearts. Although most Zabraks lived on Iridonia, some settled on the planet Dathomir, where the females of the species, known as Nightsisters, ruled over the Nightbrother males and practiced powerful dark side magick. Notably, female Dathomirian Zabraks had paler skin and lacked the cranial horns shared by the rest of the species.",
+  "data": {
+    "name": "Zabrak",
+    "designation": "Sentient",
+    "class": "Near-human",
+    "subspecies": [
+      "Dathomirian",
+      "Iridonian"
+    ],
+    "distinctions": "Vestigial horns, two hearts, facial tattoos",
+    "origin": [
+      "Iridonia",
+      "Dathomir (Colony)",
+      "Peridea (ancient Nightsister Witch Kingdom)"
+    ],
+    "diet": "Carnivorous",
+    "language": "Zabraki"
+  },
+  "scraped": "2026-07-03"
+}

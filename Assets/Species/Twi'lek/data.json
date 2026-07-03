@@ -1,0 +1,49 @@
+{
+  "name": "Twi'lek",
+  "wookieepedia_title": "Twi'lek",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Twi%27lek",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Twi'leks, sometimes referred to xenophobically as tail-heads or Twi, occasionally referred to as Rylothians, were a tall near-human species whose most striking feature was a pair of long appendages protruding from their skulls, called lekku. They hailed from the planet of Ryloth, in the Outer Rim Territories, and female Twi'leks were often exported off world as slaves. Twi'leks were considered one of the most common species in the galaxy, with its members easily able to blend into a crowd without drawing attention, as opposed to rarer, more prominent species, like Togrutas. Some armies used this to their advantage, employing Twi'leks as undercover agents.",
+  "data": {
+    "name": "Twi'lek",
+    "designation": "Sentient",
+    "class": "Near-human",
+    "races": [
+      "Lethan",
+      "Rutian"
+    ],
+    "skincolor": [
+      "Black",
+      "Blue",
+      "Gray",
+      "Green",
+      "Olive",
+      "Orange",
+      "Pale",
+      "Pink",
+      "Purple",
+      "Red",
+      "Teal",
+      "White",
+      "Yellow"
+    ],
+    "eyecolor": [
+      "Black",
+      "Blue",
+      "Brown",
+      "Green",
+      "Hazel",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Red",
+      "Yellow"
+    ],
+    "distinctions": "Lekku",
+    "origin": "Ryloth",
+    "habitat": "Desert or wastelands",
+    "language": "Twi'leki"
+  },
+  "scraped": "2026-07-03"
+}
