@@ -1,0 +1,34 @@
+{
+  "name": "Garman-class Gas Miner",
+  "wookieepedia_title": "Garman-class Gas Miner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Garman-class_Gas_Miner",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Garman-class Gas Miner was an atmospheric mining craft used extensively by Lant Mining Corporation.",
+  "data": {
+    "name": "Garman-class Gas Miner",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Atmospheric mining vessel",
+    "cost": [
+      "7,500,000 credits (new)",
+      "5,800,000 credits (used)"
+    ],
+    "length": "300 meters",
+    "hyperdrive": [
+      "Class 2",
+      "  Class 8 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "4 quad laser cannons"
+    ],
+    "crew": "300 (4 gunners)",
+    "skeleton": "150",
+    "passengers": "20",
+    "capacity": "70,000 metric tons",
+    "consumables": "2 years"
+  },
+  "scraped": "2026-07-03"
+}

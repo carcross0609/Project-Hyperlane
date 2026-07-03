@@ -1,0 +1,41 @@
+{
+  "name": "Cosinga-class Heavy Corvette",
+  "wookieepedia_title": "Cosinga-class Heavy Corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cosinga-class_Heavy_Corvette",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Cosinga-class Heavy Corvette was a class of corvette that was used as a Luxury Star Yacht for Galactic Emperor Palpatine. The Imperialis and its replica at the Jakku Observatory were ships of this class.",
+  "data": {
+    "name": "Cosinga-class Heavy Corvette",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Cosinga-class",
+    "type": "Heavy Corvette",
+    "length": "120 meters",
+    "width": "63.25 meters",
+    "height": "19.4 meters",
+    "max_accel": "3,000G",
+    "max_speed": "1,350 kph",
+    "engine": "Desando Dynamics Dy-Lar 3 ion engines (4)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "sensor": "Forward sensor suite",
+    "countermeasures": "Canard wing-mounted deflector shield projector",
+    "armament": [
+      "Dual turbolasers (2)",
+      "Heavy blaster cannons (8)",
+      "Ion cannons (2)",
+      "Concealed concussion missile launchers (2)"
+    ],
+    "escapepods": "Escape pods (6) (Class 2 hyperdrive-equipped)",
+    "crew": "8",
+    "passengers": "20",
+    "capacity": "2,000 metric tons",
+    "consumables": "8 years",
+    "role": "Luxury Star Yacht",
+    "affiliation": [
+      "Galactic Empire",
+      "Sith Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

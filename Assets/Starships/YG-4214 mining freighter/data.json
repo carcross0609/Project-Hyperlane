@@ -1,0 +1,31 @@
+{
+  "name": "YG-4214 mining freighter",
+  "wookieepedia_title": "YG-4214 mining freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YG-4214_mining_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The YG-4212 mining freighter was a model of mining freighter manufactured by the Corellian Engineering Corporation. One such vessel, the Remora, had been retrofitted for stealth infiltration and was utilized by the fledgling Clone Underground in operations against the Galactic Empire during or after 18 BBY.",
+  "data": {
+    "name": "YG-4214 mining freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YG-series",
+    "model": "YG-4214",
+    "type": "Mining freighter",
+    "engine": "4 engine units",
+    "hyperdrive": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "2 forward-mounted laser cannons",
+      "2 laser cannon turrets"
+    ],
+    "complement": "1 leech vessel",
+    "skeleton": "1 pilot",
+    "lifesupport": "Equipped",
+    "affiliation": [
+      "Clone Underground",
+      "Clone Force 99"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

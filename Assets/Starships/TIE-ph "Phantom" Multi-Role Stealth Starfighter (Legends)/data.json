@@ -1,0 +1,39 @@
+{
+  "name": "TIE/ph \"Phantom\" Multi-Role Stealth Starfighter",
+  "wookieepedia_title": "TIE/ph \"Phantom\" Multi-Role Stealth Starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ph_%22Phantom%22_Multi-Role_Stealth_Starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ph \"Phantom\" Multi-Role Stealth Starfighter, also referred to as the TIE/ph phantom, TIE Phantom or Phantom V38, was a prototype TIE Series starfighter developed by the Galactic Empire during the Galactic Civil War. A modified V38 assault fighter, the TIE phantom was the result of a development project led by Grand Admiral Martio Batch and was equipped with both deflector shields and a hyperdrive, along with a technology not seen for decades&mdash;a stygium cloaking device.",
+  "data": {
+    "name": "TIE/ph \"Phantom\" Multi-Role Stealth Starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/ph phantom",
+    "type": "Starfighter",
+    "cost": "365,000 credits",
+    "max_speed": "1,490 km/h",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer",
+    "countermeasures": "Mk. III Stygium Cloaking Device",
+    "armament": "Laser cannons (5)",
+    "crew": [
+      "Pilot (1)",
+      "Copilot/gunner (1)"
+    ],
+    "passengers": "None",
+    "capacity": "90 kilograms",
+    "consumables": "2 weeks",
+    "lifesupport": "Equipped",
+    "othersystems": "Self-destruct mechanism",
+    "availability": "Military",
+    "role": "Prototype cloaked assault fighter",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

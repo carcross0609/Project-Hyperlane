@@ -1,0 +1,30 @@
+{
+  "name": "YG-4400 light freighter",
+  "wookieepedia_title": "YG-4400 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YG-4400_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YG-4400 light freighter was a transport ship created by the Corellian Engineering Corporation around 44 BBY. The main distinguishing feature of the YG-4400 was their armament, which included a getaway concussion missile launcher.",
+  "data": {
+    "name": "YG-4400 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YG-series",
+    "model": "YG-4400",
+    "type": "Light freighter",
+    "cost": "110,000 credits",
+    "hyperdrive": [
+      "Class 1",
+      "Backup: Class 18"
+    ],
+    "shield_gen": "equipped",
+    "navigation": "equipped",
+    "armament": "Getaway concussion missile launcher (1)",
+    "crew": [
+      "1 pilot",
+      "1 co-pilot/gunner"
+    ],
+    "passengers": "2",
+    "consumables": "1 month"
+  },
+  "scraped": "2026-07-03"
+}

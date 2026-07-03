@@ -1,0 +1,40 @@
+{
+  "name": "VCX-700 heavy courier",
+  "wookieepedia_title": "VCX-700 heavy courier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/VCX-700_heavy_courier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The VCX-700 heavy courier was a 26-meter-long armed courier produced by Corellian Engineering Corporation. Like the rest of the VCX series, the VCX-700 was equipped as standard with near-military grade engines, shields, and weapons.",
+  "data": {
+    "name": "VCX-700 heavy courier",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "VCX series",
+    "model": "VCX-700 heavy courier",
+    "type": "Light freighter",
+    "length": "26 meters",
+    "max_speed": "1000 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Backup Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Dual laser cannon turret (1)",
+      "Light ion cannons (4)",
+      "Autoblaster (1)",
+      "Concussion missile launchers (4)",
+      "  2 missiles each"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunners (4)"
+    ],
+    "skeleton": "1 (armament can be re-routed to the cockpit)",
+    "passengers": "6",
+    "capacity": "5 metric tons",
+    "role": "Courier",
+    "affiliation": "Civilian"
+  },
+  "scraped": "2026-07-03"
+}

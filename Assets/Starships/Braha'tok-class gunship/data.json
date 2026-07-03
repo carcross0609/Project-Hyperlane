@@ -1,0 +1,61 @@
+{
+  "name": "Braha'tok-class gunship",
+  "wookieepedia_title": "Braha'tok-class gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Braha%27tok-class_gunship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Braha'tok-class gunship, also known as the Dornean gunship or shortened to Braha'tok, was a model of gunship designed by the Dornean species and built by the Dornean Braha'ket Fleetworks Conglomerate to protect the Dornean homeworld, Dornea, and its star system from the Galactic Empire. Standing at 90 meters long, the vessel was armed with eight turbolaser cannons and eight concussion missile launchers and could carry two starfighters in its underbelly, linked to attachment clips. The Braha'toks were designed as dedicated anti-starfighter platforms but were able to serve a number of other roles.",
+  "data": {
+    "name": "Braha'tok-class gunship",
+    "manufacturer": "Dornean Braha'ket Fleetworks Conglomerate",
+    "model": "Braha'tok-class",
+    "type": [
+      "Corvette",
+      "Gunship"
+    ],
+    "cost": "1,400,000 credits",
+    "length": "90 meters (295 feet, 3 inches)",
+    "mglt": "80 MGLT",
+    "max_speed": "800 kilometers per hour (497 miles per hour)",
+    "engine": "3",
+    "hyperdrive": [
+      "Class 3 (primary)",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Silver plating",
+    "sensor": "Long range",
+    "navigation": "Equipped",
+    "countermeasures": "Silver plating deflects solar radiation",
+    "armament": [
+      "Concussion missile launchers (8)",
+      "Double turbolaser cannons (8)"
+    ],
+    "complement": [
+      "Starfighters (2)",
+      "X-wing starfighters (2) (via attachment clips)"
+    ],
+    "crew": "70&ndash;75",
+    "passengers": "15",
+    "capacity": "300 (encumbrance)",
+    "consumables": "Eight standard months",
+    "role": [
+      "Anti-starfighter",
+      "Bombardment",
+      "Capital ship",
+      "Escort",
+      "Fast attack",
+      "Screening"
+    ],
+    "affiliation": [
+      "Dornea",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

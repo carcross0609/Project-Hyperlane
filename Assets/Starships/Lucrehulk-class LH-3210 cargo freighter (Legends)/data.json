@@ -1,0 +1,41 @@
+{
+  "name": "Lucrehulk-class LH-3210 cargo freighter",
+  "wookieepedia_title": "Lucrehulk-class LH-3210 cargo freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lucrehulk-class_LH-3210_cargo_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Lucrehulk-class LH-3210 cargo freighter was a transport freighter produced by Hoersch-Kessel Drive, Inc..",
+  "data": {
+    "name": "Lucrehulk-class LH-3210 cargo freighter",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Lucrehulk-class LH-3210 cargo freighter",
+    "type": [
+      "Freighter",
+      "Cruiser (standard classification)",
+      "Capital ship (standard classification)"
+    ],
+    "length": "3,170 meters",
+    "engine": [
+      "Primary: Proton 2",
+      "Secondary: Proton 12"
+    ],
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 10.0 (backup)"
+    ],
+    "armament": "Quad laser cannons (28)",
+    "crew": "500",
+    "passengers": [
+      "50 Passengers",
+      "200 battle droids or troops"
+    ],
+    "capacity": "25 million metric tons",
+    "consumables": "500 days",
+    "role": "Freighter",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Nu-class attack/transport shuttle",
+  "wookieepedia_title": "Nu-class attack/transport shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nu-class_attack/transport_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Nu-class attack/transport shuttle, also known as the Nu-class attack shuttle or Republic attack shuttle, was a model of shuttle used by the Republic Navy during the Clone Wars. In the aftermath of the war, the Nu-class shuttles were absorbed into the fledgling Imperial Navy. It was the predecessor of the Lambda-class T-4a shuttle. One transport fell into the hands of the Free Ryloth Movement, and was used during the Mission to Ryloth.",
+  "data": {
+    "name": "Nu-class attack/transport shuttle",
+    "manufacturer": "Cygnus Spaceworks",
+    "line": "Abecederian line",
+    "model": "Nu-class attack/transport shuttle",
+    "type": [
+      "Attack shuttle",
+      "Multi-purpose transport"
+    ],
+    "cost": "85,000 credits",
+    "length": "18.9 meters",
+    "height": "24.34 meters",
+    "max_speed": "850 kph",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Short-ranged sensor",
+    "navigation": "Equipped",
+    "armament": "Laser cannons (8)",
+    "passengers": "30",
+    "consumables": "One month",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Batonn insurgents",
+      "Free Ryloth Movement"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

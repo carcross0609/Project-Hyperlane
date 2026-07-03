@@ -1,0 +1,24 @@
+{
+  "name": "T-36 Skyfighter",
+  "wookieepedia_title": "T-36 Skyfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-36_Skyfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The T-36 Skyfighter was originally built by Incom to fill the near-orbit planetary defense niche, and later upgraded to compete against new mass produced and expendable Sienar TIE designs. As it was originally designed as an advanced skyhopper capable of orbital operations, life support systems were added although the T-36 Skyfighter possessed a poor design that sacrificed everything else redundant to a limited fighter role, consequently neither hyperdrive engines were added nor deflector shields, but even the final frame lacked inertial dampers and landing gears. Its sublight speed relayed on two modest ion fission engines fitted at the back and atop of the main fuselage, the hull structure was strictly basic to maintain its main systems, its cockpit, the engine and its two wings together to form the simplest starfighter spaceframe possible. The T-36 was usually compared with the TIE/LN starfighter, but it became quickly evident that the comparison was just nominal as the Sienar design outperformed Incom's Skyfighter in every aspect.",
+  "data": {
+    "name": "T-36 Skyfighter",
+    "manufacturer": "Incom Corporation",
+    "model": "T-36 Light defense starfighter",
+    "type": "Starfighter (limited to near-orbit)",
+    "length": "8.2 meters",
+    "armament": "Laser cannons (2)",
+    "crew": "Pilot (1)",
+    "role": [
+      "Near-orbit defense",
+      "Light reconnaissance",
+      "Training"
+    ],
+    "affiliation": "Various"
+  },
+  "scraped": "2026-07-03"
+}

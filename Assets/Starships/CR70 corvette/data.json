@@ -1,0 +1,36 @@
+{
+  "name": "CR70 corvette",
+  "wookieepedia_title": "CR70 corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CR70_corvette",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The CR70 corvette was a model of corvette used by the House of Organa during Order 66 and later the Alliance to Restore the Republic during the Galactic Civil War against the Galactic Empire. One notable CR70 corvette was the Tantive III, which was utilized by Viceroy and Senator Bail Organa during the fall of the Galactic Republic and rise of the Galactic Empire.",
+  "data": {
+    "name": "CR70 corvette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Alderaanian diplomatic cruiser",
+    "model": "CR70 corvette",
+    "type": "Corvette",
+    "engine": "Sublight engines (11)",
+    "hdsystem": "Equipped",
+    "sensor": "Sensor",
+    "armament": "Double turbolaser turrets (2)",
+    "complement": "Could accommodate at least 1 Belbullab-22 heavy starfighter",
+    "bays": "1",
+    "escapepods": "Equipped",
+    "crew": "At least 2 pilots",
+    "othersystems": [
+      "Boarding ramp",
+      "Landing gear"
+    ],
+    "role": "Blockade Runner/Transport between worlds",
+    "affiliation": [
+      "House of Organa",
+      "Galactic Republic",
+      "  Galactic Senate",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

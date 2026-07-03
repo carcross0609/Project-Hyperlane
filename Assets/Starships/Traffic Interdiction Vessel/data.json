@@ -1,0 +1,19 @@
+{
+  "name": "Traffic Interdiction Vessel",
+  "wookieepedia_title": "Traffic Interdiction Vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Traffic_Interdiction_Vessel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Traffic Interdiction Vessel (TIV) was a starship designed and used by the Grand Army of the Republic for detaining and boarding ships that were suspected of being Separatist craft. They were armed with laser cannons and proton torpedoes.",
+  "data": {
+    "name": "Traffic Interdiction Vessel",
+    "model": "Traffic Interdiction Vessel",
+    "armament": [
+      "Laser cannons",
+      "Proton torpedoes"
+    ],
+    "role": "Traffic interdiction",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

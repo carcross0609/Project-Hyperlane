@@ -1,0 +1,32 @@
+{
+  "name": "Fleet shuttle",
+  "wookieepedia_title": "Fleet shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fleet_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The New Republic Fleet Shuttle, known informally amongst crewmen and officers as the gig, was a starship similar in size to an X-wing and a TIE Interceptor.",
+  "data": {
+    "name": "Fleet shuttle",
+    "manufacturer": "New Republic",
+    "length": "~12 meters",
+    "shield_gen": "Equipped, superior to T-65BR X-wing reconnaissance starfighter",
+    "armament": "None",
+    "crew": [
+      "2 (interstellar role)",
+      "1 pilot",
+      "1 engineer"
+    ],
+    "skeleton": [
+      "1 (intership role)",
+      "1 pilot"
+    ],
+    "passengers": "5 (typically 1)",
+    "role": [
+      "Intership personnel transport",
+      "Long-range interstellar personnel transport",
+      "Pilot evacuation"
+    ],
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

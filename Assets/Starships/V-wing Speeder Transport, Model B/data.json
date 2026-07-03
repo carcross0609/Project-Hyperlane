@@ -1,0 +1,27 @@
+{
+  "name": "V-wing Speeder Transport, Model B",
+  "wookieepedia_title": "V-wing Speeder Transport, Model B",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V-wing_Speeder_Transport%2C_Model_B",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The V-wing Speeder Transport, Model B was an updated model of the Model A produced by Slayn & Korpil and used to transport V-wing airspeeders into battle. It was longer than the Model A, measuring 27 meters, and had an internal cargo capacity of four metric tons. The main difference was that the Model B could transport six V-wing airspeeders and their pilots into battle, rather than the Model A's four.",
+  "data": {
+    "name": "V-wing Speeder Transport, Model B",
+    "manufacturer": "Slayn & Korpil",
+    "type": "Orbital interface transport",
+    "cost": "195,000 credits",
+    "length": "27 meters",
+    "max_speed": "1,000 kmh",
+    "shield_gen": "Equipped",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "6 (pilots)",
+    "capacity": [
+      "4 metric tons",
+      "Docking sleeves for 6 V-wing airspeeders"
+    ],
+    "consumables": "3 days",
+    "role": "Airspeeder transport and deployment"
+  },
+  "scraped": "2026-07-03"
+}

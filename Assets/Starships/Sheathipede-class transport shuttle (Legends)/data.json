@@ -1,0 +1,42 @@
+{
+  "name": "Sheathipede-class transport shuttle",
+  "wookieepedia_title": "Sheathipede-class transport shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sheathipede-class_transport_shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sheathipede-class transport shuttle, also known as the Neimoidian shuttle or the Separatist shuttle, was a craft manufactured by Haor Chall Engineering and used by high-ranking officials of the Trade Federation to visit potential clients and marketplaces.",
+  "data": {
+    "name": "Sheathipede-class transport shuttle",
+    "manufacturer": "Haor Chall Engineering",
+    "model": "Sheathipede-class transport shuttle",
+    "type": "Transport shuttle",
+    "cost": "Not available for sale",
+    "length": "20 meters",
+    "max_speed": "880 km/h",
+    "hdsystem": "Equipped",
+    "armament": "Armed model: Laser cannons (3)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "or",
+      "Pilot (1)",
+      "Gunner (1)",
+      "or",
+      "Integrated droid brain"
+    ],
+    "passengers": "10",
+    "capacity": "1 ton",
+    "consumables": "1 week",
+    "availability": "Licensed",
+    "role": "Short-range transport",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Republic (stolen)",
+      "  Delta Squad (stolen)",
+      "Alderaanian Resistance",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

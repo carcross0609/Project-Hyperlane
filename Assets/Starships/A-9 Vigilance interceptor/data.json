@@ -1,0 +1,39 @@
+{
+  "name": "A-9 Vigilance interceptor",
+  "wookieepedia_title": "A-9 Vigilance interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A-9_Vigilance_interceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The A-9 Vigilance interceptor was a short-range starfighter used by the Galactic Empire and the Dark Empire that began production in 9 ABY.",
+  "data": {
+    "name": "A-9 Vigilance interceptor",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "A-series interceptors",
+    "model": "A-9 Vigilance interceptor",
+    "type": "Starfighter",
+    "cost": [
+      "185,000 credits (New)",
+      "130,000 credits (Used)"
+    ],
+    "length": "7.4 meters",
+    "max_speed": "1,300 km/h",
+    "engine": "KuatDriveSystems A-9x thrust engines (2)",
+    "hdsystem": "None",
+    "shield_gen": "None",
+    "armament": "Heavy laser cannons (2)",
+    "crew": "Pilot (1)",
+    "capacity": "55 kilograms",
+    "consumables": "1 day",
+    "role": "Territorial defensive interceptor",
+    "firstuse": "9 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Five Worlds",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

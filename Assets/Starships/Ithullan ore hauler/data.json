@@ -1,0 +1,23 @@
+{
+  "name": "Ithullan ore hauler",
+  "wookieepedia_title": "Ithullan ore hauler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ithullan_ore_hauler",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ithullan ore haulers were large starships in use circa 4000 BBY. Unlike standard starships, it was not manufactured, but built out of Ithullian colossus wasp corpses, giant insectoids over a kilometer in length. This unique design easily distinguished them from any other type of ship. These ships were used by the humanoid Nessies of the Stenness Node systems, a valuable mining region in what was then the galaxy's frontier.",
+  "data": {
+    "name": "Ithullan ore hauler",
+    "manufacturer": "Nessies",
+    "model": "Ithullan ore hauler",
+    "length": "1 kilometer",
+    "engine": "Ion drive engines (2)",
+    "hyperdrive": "Class 15",
+    "armament": [
+      "Turbolaser (2)",
+      "Point-defense blasters"
+    ],
+    "role": "Ore hauler",
+    "firstuse": "c. 4000 BBY"
+  },
+  "scraped": "2026-07-03"
+}

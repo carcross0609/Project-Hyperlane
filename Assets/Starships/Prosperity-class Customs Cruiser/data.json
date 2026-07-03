@@ -1,0 +1,33 @@
+{
+  "name": "Prosperity-class Customs Cruiser",
+  "wookieepedia_title": "Prosperity-class Customs Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Prosperity-class_Customs_Cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Prosperity-class Customs Cruiser was a light cruiser built by Elrood StarYards, Ltd.",
+  "data": {
+    "name": "Prosperity-class Customs Cruiser",
+    "manufacturer": "Elrood StarYards, Ltd.",
+    "type": "Light cruiser",
+    "cost": [
+      "12,000,000 credits (new)",
+      "7,000,000 credits (used)"
+    ],
+    "length": "300 meters",
+    "max_speed": "1,150 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 16"
+    ],
+    "armament": [
+      "6 heavy turbolasers",
+      "2 tractor beam projectors"
+    ],
+    "crew": "100; 24 gunners",
+    "skeleton": "35",
+    "passengers": "40",
+    "capacity": "2,500 metric tons",
+    "consumables": "6 weeks"
+  },
+  "scraped": "2026-07-03"
+}

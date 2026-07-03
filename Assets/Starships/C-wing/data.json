@@ -1,0 +1,27 @@
+{
+  "name": "C-wing",
+  "wookieepedia_title": "C-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/C-wing",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The C-wing was a starfighter designed to be piloted by a single person with an optional gunner and room for two passengers.",
+  "data": {
+    "name": "C-wing",
+    "model": "C-wing",
+    "hyperdrive": "Class 1.5",
+    "armament": [
+      "Fire-linked heavy blaster cannons (4)",
+      "Proton torpedo launcher (1)"
+    ],
+    "crew": [
+      "1 Pilot",
+      "1 Gunner"
+    ],
+    "skeleton": "1 Person",
+    "passengers": "1 Person",
+    "capacity": "220 kg",
+    "consumables": "2 weeks",
+    "role": "Starfighter"
+  },
+  "scraped": "2026-07-03"
+}

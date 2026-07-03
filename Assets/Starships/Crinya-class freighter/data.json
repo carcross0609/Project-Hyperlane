@@ -1,0 +1,30 @@
+{
+  "name": "Crinya-class freighter",
+  "wookieepedia_title": "Crinya-class freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crinya-class_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Crinya-class freighter was a light freighter used during the reign of the Galactic Empire.",
+  "data": {
+    "name": "Crinya-class freighter",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "type": "Light freighter",
+    "cost": "65,000 credits",
+    "length": "29.2 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 10"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "crew": "2; 2 gunners",
+    "skeleton": "1",
+    "passengers": "7",
+    "capacity": "90 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "GR-75 medium transport",
+  "wookieepedia_title": "GR-75 medium transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GR-75_medium_transport",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The GR-75 medium transport, sometimes referred to as the Gallofree transport, was a transport designed and constructed by Gallofree Yards, Inc.. They were lightly armed with a clamshell-like hull to protect the cargo pods it carried. They could not reach anymore than 650 kilometers per hour and had a class 4 hyperdrive.",
+  "data": {
+    "name": "GR-75 medium transport",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "line": "GR-series",
+    "model": [
+      "GR-75 medium transport",
+      "  GR-75 Combat Retrofit"
+    ],
+    "type": [
+      "Transport",
+      "Medium transport"
+    ],
+    "cost": "180,000 credits",
+    "length": "90 meters",
+    "mglt": "20 MGLT",
+    "max_speed": "650 kph",
+    "hyperdrive": [
+      "Class 4 (primary)",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "hull": "Durasteel",
+    "sensor": "Medium range",
+    "navigation": "Equipped",
+    "armament": "Four twin laser cannons (combat retrofit)",
+    "crew": [
+      "1 pilot",
+      "1 co-pilot",
+      "1 engineer",
+      "1 cargo master",
+      "3 crew"
+    ],
+    "passengers": "None",
+    "capacity": [
+      "19,000 metric tons"
+    ],
+    "consumables": "Six months",
+    "role": [
+      "Transport",
+      "Communications",
+      "Medical ship",
+      "Fireship",
+      "Resupply",
+      "Rescue",
+      "Fire support"
+    ],
+    "affiliation": [
+      "Batonn insurgents",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Jinata Security",
+      "Resistance",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

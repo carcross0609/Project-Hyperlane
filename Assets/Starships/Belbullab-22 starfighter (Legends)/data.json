@@ -1,0 +1,33 @@
+{
+  "name": "Belbullab-22 starfighter",
+  "wookieepedia_title": "Belbullab-22 starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Belbullab-22_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Belbullab-22 starfighter was a heavy starfighter constructed by Feethan Ottraw Scalable Assemblies for the Confederacy of Independent Systems. General Grievous flew a heavily-modified and battle-worn Belbullab-22, Soulless One, during the Clone Wars.",
+  "data": {
+    "name": "Belbullab-22 starfighter",
+    "manufacturer": "Feethan Ottraw Scalable Assemblies",
+    "model": "Belbullab-22 starfighter",
+    "type": "Starfighter",
+    "cost": "168,000 credits (125,000 used)",
+    "length": "6.71 meters",
+    "max_speed": "1,100 km/h",
+    "hyperdrive": "Class 6 (backup class 15)",
+    "hdsystem": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": "Triple laser cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "140 kg",
+    "consumables": "1 week",
+    "availability": "Military",
+    "role": "Heavy assault fighter",
+    "affiliation": [
+      "Techno Union",
+      "Confederacy of Independent Systems",
+      "Blackscale Clan"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

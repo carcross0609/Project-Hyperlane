@@ -1,0 +1,24 @@
+{
+  "name": "Omega-class freighter",
+  "wookieepedia_title": "Omega-class freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Omega-class_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Omega-class freighter was an Imperial freighter class.",
+  "data": {
+    "name": "Omega-class freighter",
+    "model": "Omega-class freighter",
+    "type": "Freighter",
+    "engine": [
+      "3 main engines",
+      "3 VTOL engines"
+    ],
+    "shield_gen": "None",
+    "armament": "At least 2 fire-linked turbolasers",
+    "crew": "At least 2 plus 1 astromech droid",
+    "skeleton": "1 astromech droid",
+    "role": "Freighter",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

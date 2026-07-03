@@ -1,0 +1,43 @@
+{
+  "name": "TL-1200 transport",
+  "wookieepedia_title": "TL-1200 transport/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TL-1200_transport/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TL-1200 transport was a freighter manufactured by Suwantek Systems.",
+  "data": {
+    "name": "TL-1200 transport",
+    "manufacturer": "Suwantek Systems",
+    "line": "TL-series transport",
+    "model": "TL-1200 Freighter",
+    "type": "Transport",
+    "cost": "170,000 credits",
+    "length": "52 meters",
+    "engine": "military-grade",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 12"
+    ],
+    "shield_gen": "Military-grade",
+    "sensor": "Military-grade",
+    "navigation": "Equipped",
+    "avionics": "Lateral maneuvering jets",
+    "armament": [
+      "Medium laser cannons (2)"
+    ],
+    "crew": "6",
+    "skeleton": "1",
+    "passengers": "8 standard (Up to 100 in cargo hold)",
+    "capacity": "150 metric tons",
+    "consumables": "3 months",
+    "othersystems": [
+      "Hyperspace transceiver",
+      "2 escape pods"
+    ],
+    "affiliation": [
+      "Hutts",
+      "Suwanee Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

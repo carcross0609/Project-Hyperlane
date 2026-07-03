@@ -1,0 +1,25 @@
+{
+  "name": "Qektoth Confederation starfighter",
+  "wookieepedia_title": "Qektoth Confederation starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Qektoth_Confederation_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Qektoth Confederation starfighter was employed by the Qektoth Confederation during the early years of the New Republic. Based on Hyrotii Corporation's Zebra starfighter, the fighter was heavily modified by the Confederation for their needs. Chief among the modifications was the addition of a bio-plasmatic gel launcher, which carried a magazine of three bio-plasmatic gel torpedoes. The fighters could be carried aboard Qektoth attack cruisers.",
+  "data": {
+    "name": "Qektoth Confederation starfighter",
+    "manufacturer": "Qektoth Confederation",
+    "model": "Modified Zebra starfighter",
+    "length": "12.3 meters",
+    "armament": [
+      "Two laser cannons",
+      "One bio-plasmatic gel launcher"
+    ],
+    "crew": "1",
+    "capacity": "65 kilograms",
+    "consumables": "1 day",
+    "role": "Combat starfighter",
+    "firstuse": "8 ABY",
+    "affiliation": "Qektoth Confederation"
+  },
+  "scraped": "2026-07-03"
+}

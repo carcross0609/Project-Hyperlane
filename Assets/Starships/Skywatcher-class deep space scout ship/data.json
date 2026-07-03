@@ -1,0 +1,35 @@
+{
+  "name": "Skywatcher-class deep space scout ship",
+  "wookieepedia_title": "Skywatcher-class deep space scout ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skywatcher-class_deep_space_scout_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Skywatcher-class deep space scout ship was a scout vessel manufactured by Sienar Fleet Systems for the Imperial Survey Corps during the Galactic Civil War.",
+  "data": {
+    "name": "Skywatcher-class deep space scout ship",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Skywatcher-class",
+    "type": "Transport",
+    "cost": "120,000 credits",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Twin medium laser cannon turrets (2)",
+    "crew": "12",
+    "skeleton": "3",
+    "passengers": [
+      "6",
+      "12 droids"
+    ],
+    "consumables": "1 year",
+    "role": "Scout vessel",
+    "affiliation": [
+      "Galactic Empires",
+      "Imperial Survey Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

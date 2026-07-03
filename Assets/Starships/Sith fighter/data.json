@@ -1,0 +1,31 @@
+{
+  "name": "Sith fighter",
+  "wookieepedia_title": "Sith fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sith_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sith fighter, also known as the Sith interceptor, was a starfighter that formed the bulk of Darth Revan and Darth Malak's space forces during the Jedi Civil War.",
+  "data": {
+    "name": "Sith fighter",
+    "manufacturer": "Star Forge",
+    "type": "Light starfighter",
+    "cost": "Not available for sale",
+    "length": "7 meters with wings extended",
+    "max_speed": "1,250 km/h",
+    "power": "Unique prototype twin ion drive system of Rakatan design",
+    "hull": "Minimal integrity",
+    "armament": "Laser cannons (2)",
+    "complement": "None",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "40 kg",
+    "consumables": "1 day",
+    "lifesupport": "Minimal, pilot did not require spacesuit",
+    "availability": "Military",
+    "role": "Combat starfighter",
+    "firstuse": "During the Jedi Civil War",
+    "retired": "End of the Jedi Civil War",
+    "affiliation": "Sith Empire"
+  },
+  "scraped": "2026-07-03"
+}

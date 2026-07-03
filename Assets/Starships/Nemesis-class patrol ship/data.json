@@ -1,0 +1,37 @@
+{
+  "name": "Nemesis-class patrol ship",
+  "wookieepedia_title": "Nemesis-class patrol ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nemesis-class_patrol_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nemesis-class patrol ship was a patrol ship manufactured by Corellian Engineering Corporation.",
+  "data": {
+    "name": "Nemesis-class patrol ship",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Nemesis-class patrol ship",
+    "type": "Patrol ship",
+    "cost": "180,000 credits (95,000 used)",
+    "max_speed": "830 km/h",
+    "hyperdrive": "Class 2",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Fire-linked laser cannons",
+      "or",
+      "Laser cannons (4)"
+    ],
+    "complement": "Speeder bikes (6)",
+    "crew": "4",
+    "skeleton": "2",
+    "passengers": "10",
+    "capacity": "5 tons",
+    "consumables": "6 months",
+    "availability": "Licensed",
+    "role": "Patrol ship",
+    "affiliation": [
+      "Outer Rim governments",
+      "Law enforcement",
+      "Black Sun"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

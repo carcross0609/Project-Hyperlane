@@ -1,0 +1,33 @@
+{
+  "name": "Quartermaster-class supply carrier",
+  "wookieepedia_title": "Quartermaster-class supply carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quartermaster-class_supply_carrier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Quartermaster-class supply carrier was a freighter used by the Republic Navy and civilian users after the Great Sith War and during the Mandalorian Wars. It had a reinforced duranium hull which allowed it to withstand punishing damage without breaching and spilling its cargo into space.",
+  "data": {
+    "name": "Quartermaster-class supply carrier",
+    "manufacturer": "Corellia StarDrive",
+    "model": "Quartermaster-class supply carrier",
+    "type": "Freighter",
+    "cost": "300,000 credits (110,000 used)",
+    "length": "45 meters",
+    "max_speed": "350 km/h",
+    "hyperdrive": "Class 3",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "crew": [
+      "Pilot (1)",
+      "Copilot (1)"
+    ],
+    "passengers": "10 (standard configuration)",
+    "capacity": "120 metric tons",
+    "consumables": "6 months",
+    "role": [
+      "Freight transport",
+      "Provisioning"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

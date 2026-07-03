@@ -1,0 +1,40 @@
+{
+  "name": "NB-1S Royal Bomber",
+  "wookieepedia_title": "NB-1S Royal Bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/NB-1S_Royal_Bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Naboo NB-1S Royal Bomber, or Naboo bomber, was a prototype vehicle rarely used by the Royal Naboo Security Forces. It combined deadly Nubian technology with Naboo spaceframe design. It was the successor of the NB-1 Royal Bomber.",
+  "data": {
+    "name": "NB-1S Royal Bomber",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "type": "Starfighter (Bomber)",
+    "cost": "Not available for sale",
+    "length": "20 meters",
+    "engine": [
+      "Five engines:",
+      "  2",
+      "  Secondary engines (2)",
+      "  1 other engine"
+    ],
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Laser cannons (2)",
+      "Ion bomb chute (1)",
+      "  Ion bombs (30)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "2",
+    "capacity": "5 metric tons",
+    "consumables": "2 weeks",
+    "communications": "Equipped",
+    "role": "Bomber",
+    "firstuse": "C. 32 BBY",
+    "affiliation": "Naboo Royal Space Fighter Corps"
+  },
+  "scraped": "2026-07-03"
+}

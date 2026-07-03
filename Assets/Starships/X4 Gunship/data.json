@@ -1,0 +1,23 @@
+{
+  "name": "X4 Gunship",
+  "wookieepedia_title": "X4 Gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X4_Gunship",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The X4 Gunship was a type of gunship built by Incom Corporation that was used by the Alliance to Restore the Republic and the Mining Guild during the Galactic Civil War.",
+  "data": {
+    "name": "X4 Gunship",
+    "manufacturer": "Incom Corporation",
+    "line": "X4 line",
+    "type": "Gunship",
+    "armament": [
+      "Laser cannons",
+      "Light laser cannon turrets"
+    ],
+    "affiliation": [
+      "Mining Guild",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

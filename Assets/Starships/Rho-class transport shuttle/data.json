@@ -1,0 +1,46 @@
+{
+  "name": "Rho-class transport shuttle",
+  "wookieepedia_title": "Rho-class transport shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rho-class_transport_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Rho-class transport shuttle, shortened as Rho-class shuttle and known also as Ru-class shuttle, was a class of transport shuttle deployed by the Galactic Republic during the Clone Wars against the Confederacy of Independent Systems and later by its successor government, the Galactic Empire and its Imperial Navy. A transport variant of the Nu-class attack/transport shuttle, the Rho-class served in a cargo transportation role and as a medical transport. When operating in the latter role in the Republic Navy, the Rho-class transport shuttle was known as the Republic medical shuttle.",
+  "data": {
+    "name": "Rho-class transport shuttle",
+    "manufacturer": "Cygnus Spaceworks",
+    "line": "Abecederian line",
+    "model": "Rho-class",
+    "type": "Transport shuttle",
+    "length": "43 meters (141 feet)",
+    "mglt": "75 mglt",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (8)",
+    "crew": "Pilots (2)",
+    "passengers": "Multiple",
+    "cargohandling": [
+      "Magnetic clamps",
+      "Elevator"
+    ],
+    "othersystems": "Autopilot",
+    "role": [
+      "Medical ship",
+      "Transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "  D-Squad",
+      "  Republic Medic Corps",
+      "  Coruscant Guard",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "  Advanced Science Division",
+      "Free Ryloth Movement (stolen)",
+      "Partisans (stolen)",
+      "Clone Underground (stolen)",
+      "Clone Force 99 (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

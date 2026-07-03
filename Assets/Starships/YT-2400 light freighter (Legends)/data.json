@@ -1,0 +1,46 @@
+{
+  "name": "YT-2400 light freighter",
+  "wookieepedia_title": "YT-2400 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-2400_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-2400 light freighter was a YT-series light freighter produced by Corellian Engineering Corporation similar to the YT-1300.",
+  "data": {
+    "name": "YT-2400 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2400",
+    "type": "Light freighter",
+    "cost": [
+      "130,000 credits (new)",
+      "32,000 credits (used)"
+    ],
+    "length": "18.65 meters",
+    "width": "28.5 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12"
+    ],
+    "shield_gen": "Rated 248 SBD",
+    "hull": "Doubled-armored plating (rated 102 RU)",
+    "navigation": "Equipped",
+    "armament": "Laser cannons mounted on 1D servo turrets (2)",
+    "crew": "3",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "150 metric tons",
+    "consumables": "2 months",
+    "othersystems": "2 escape pods",
+    "role": [
+      "Transport",
+      "Freighter",
+      "Smuggling vessel"
+    ],
+    "affiliation": [
+      "Various",
+      "Veiled Sorority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,10 @@
+# TST-T
+
+**Continuity:** Legends  
+**Source:** [TST-T](https://starwars.fandom.com/wiki/TST-T)
+
+TST-T was a pair of Delta-class DX-9 stormtrooper transports in the service of Twin Suns Transport Services and the Azzameen family. It was present at the Twin Sun Station the day that the Galactic Empire and Viraxo Industries attacked the Azzameen family assets in retaliation for aiding the Rebel Alliance. TST-T Group evacuated workers from the facility at the time the Imperial I-class Star Destroyer Corrupter attacked the base. The two transports then fled the area to a safer part of Azzameen space, thanks to some protection from Ace Azzameen.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,41 @@
+{
+  "name": "MT dropship",
+  "wookieepedia_title": "MT dropship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MT_dropship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MT dropship was a Corellian Engineering Corporation troop transport used by members of the Galactic Alliance Core Fleet as of 137 ABY.",
+  "data": {
+    "name": "MT dropship",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "MT dropship",
+    "type": "Dropship",
+    "cost": "600,000 credits (300,000 used)",
+    "max_speed": "850 km/h",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "hull": "Armored",
+    "armament": [
+      "Laser cannon battery",
+      "Concussion missile launchers",
+      "  Missile payload (24)"
+    ],
+    "complement": [
+      "Speeders",
+      "or",
+      "Huge walkers (4)"
+    ],
+    "crew": "15",
+    "passengers": [
+      "Troops (200)",
+      "or",
+      "Supporting troops for heavy vehicles (50)"
+    ],
+    "capacity": "500 tons",
+    "consumables": "1 week",
+    "availability": "Military",
+    "role": "Transport",
+    "affiliation": "Galactic Alliance Remnant"
+  },
+  "scraped": "2026-07-03"
+}

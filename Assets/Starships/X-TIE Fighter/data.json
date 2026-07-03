@@ -1,0 +1,39 @@
+{
+  "name": "X-TIE Fighter",
+  "wookieepedia_title": "X-TIE Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X-TIE_Fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The X-TIE Fighter was an Ugly starfighter made out of the cannibalized parts of a T-65 X-wing starfighter and a TIE/LN starfighter. The ship consisted of an X-wing fuselage and engines, and solar panels from a TIE Fighter. The solar panels replaced the S-foils that were present on a standard X-wing.",
+  "data": {
+    "name": "X-TIE Fighter",
+    "manufacturer": "Corellians",
+    "line": "Ugly",
+    "model": "T-65 X-wing starfighter/TIE/LN starfighter",
+    "type": "starfighter",
+    "cost": "60,000 credits",
+    "length": "12.5 meters",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": "Class 1.0 - 1.5",
+    "shield_gen": "None or equipped",
+    "navigation": "1 to 10-jump memory",
+    "armament": "Laser cannons (4)",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid"
+    ],
+    "passengers": "None",
+    "capacity": "110 kg",
+    "consumables": "1 week",
+    "availability": "Military",
+    "affiliation": [
+      "Corellian Defense Force",
+      "Sacorrian Triad",
+      "Pirates",
+      "Smugglers",
+      "Private defense fleets",
+      "Other groups"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

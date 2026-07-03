@@ -1,0 +1,33 @@
+{
+  "name": "ARC-40b Scout-Reconnaissance Fighter",
+  "wookieepedia_title": "ARC-40b Scout-Reconnaissance Fighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ARC-40b_Scout-Reconnaissance_Fighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The ARC-40b Scout-Reconnaissance Fighter was a medium escort fighter for ARC-170s. It carried a crew of three. Most were destroyed during the Clone Wars, or were scrapped by the Imperial Navy, although many still serve in the Outer Rim in mercenary units or with surveyors during the Imperial Era.",
+  "data": {
+    "name": "ARC-40b Scout-Reconnaissance Fighter",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "ARC-40b",
+    "type": "Scout-Reconnaissance Fighter",
+    "cost": "85,000",
+    "hyperdrive": [
+      "Class 2",
+      "Class 8 (backup)"
+    ],
+    "armament": [
+      "2 Light laser cannons",
+      "2 Concussion grenade or missile launchers",
+      "1 Turretted twin light blaster cannon"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 co-pilot",
+      "1 gunner"
+    ],
+    "consumables": "2 months",
+    "role": "Escort fighter",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

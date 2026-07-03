@@ -1,0 +1,50 @@
+{
+  "name": "Trident-class surveyor ship",
+  "wookieepedia_title": "Trident-class surveyor ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trident-class_surveyor_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Trident-class surveyor ship was a scout ship produced by Arakyd Industries during the Galactic Civil War for long-term, deep-space exploration and planetary surveying.",
+  "data": {
+    "name": "Trident-class surveyor ship",
+    "manufacturer": "Arakyd Industries",
+    "model": "Trident-class surveyor ship",
+    "type": "Exploration ship",
+    "cost": [
+      "1,475,000 credits (new)",
+      "950,000 credits (used)"
+    ],
+    "length": "82.5 meters",
+    "max_speed": [
+      "800 km/h (atmosphere)",
+      "200 km/h (aquatic)"
+    ],
+    "engine": "Capable of underwater operation",
+    "hyperdrive": [
+      "Class 0.75",
+      "Backup: Class 10"
+    ],
+    "shield_gen": "Equipped",
+    "hull": "Reinforced for high pressure",
+    "sensor": "Scientific-grade sensors capable of underwater operation",
+    "armament": [
+      "Double turbolaser cannon turret(1, starboard)",
+      "Concussion mine layer   (1, aft)",
+      "  12 seismic charges"
+    ],
+    "escapepods": "1 escape pod, plus detachable command pod \"life boat\"",
+    "crew": "7&ndash;10",
+    "skeleton": "1 in conjunction with AI",
+    "passengers": "3",
+    "capacity": "80 tons",
+    "consumables": "9 months",
+    "othersystems": [
+      "Droid intelligence system",
+      "Hidden electronics suite",
+      "Bacta tanks (4)",
+      "Stasis pods (2)"
+    ],
+    "role": "Scout ship"
+  },
+  "scraped": "2026-07-03"
+}

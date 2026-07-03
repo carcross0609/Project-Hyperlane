@@ -1,0 +1,30 @@
+{
+  "name": "440 freighter",
+  "wookieepedia_title": "440 freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/440_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The 440 freighter was an older model light freighter produced by Ghtroc Industries. It was operated by a crew of two plus two gunners.",
+  "data": {
+    "name": "440 freighter",
+    "manufacturer": "Ghtroc Industries",
+    "model": "Class 440 freighter",
+    "type": "Light freighter",
+    "length": "28 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 3",
+      "Class 15 backup"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (2)",
+    "crew": "4, 2 gunners",
+    "passengers": "4",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "affiliation": [
+      "Smugglers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

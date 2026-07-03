@@ -1,0 +1,35 @@
+{
+  "name": "Blade-32 superiority fighter",
+  "wookieepedia_title": "Blade-32 superiority fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blade-32_superiority_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Blade-32 superiority fighter was the craft of choice for many Adumari pilots.",
+  "data": {
+    "name": "Blade-32 superiority fighter",
+    "manufacturer": "Tarrvin-on-Kallik",
+    "line": "Blade series",
+    "model": "Blade-32 superiority fighter",
+    "type": "Starfighter",
+    "cost": "60,000 credits",
+    "length": "18 meters",
+    "max_speed": "900 km/h",
+    "hyperdrive": "None (Blade-32 Beta equipped with Class 3 hyperdrive)",
+    "sensor": "Close",
+    "navigation": "Yes",
+    "armament": [
+      "Laser cannons (4; 2 forward-firing, 2 aft-firing)",
+      "Concussion missile launchers (2)",
+      "  16 missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Aft Gunner (1)"
+    ],
+    "passengers": "1 (if no gunner)",
+    "capacity": "150 kg",
+    "consumables": "1 week",
+    "affiliation": "Adumar"
+  },
+  "scraped": "2026-07-03"
+}

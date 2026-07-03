@@ -1,0 +1,23 @@
+{
+  "name": "Flashfire",
+  "wookieepedia_title": "Flashfire",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Flashfire",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Flashfire was a scouting starfighter used by the Galactic Republic. Designed without the usual accompaniment of advanced reconnaissance and communication equipment, the nimble scout was made to be more of an offensive ship. Touting the ability to equip quad laser cannons, cluster missiles and reinforced armor, the Flashfire was able to match other scouts' maneuverability and speed but come out ahead with pure power.",
+  "data": {
+    "name": "Flashfire",
+    "manufacturer": "Corellia StarDrive",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "Additional missiles and rockets equippable"
+    ],
+    "crew": "1",
+    "role": "Scout",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

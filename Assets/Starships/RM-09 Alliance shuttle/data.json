@@ -1,0 +1,22 @@
+{
+  "name": "RM-09 Alliance shuttle",
+  "wookieepedia_title": "RM-09 Alliance shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RM-09_Alliance_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The RM-09 Alliance Shuttle was a craft employed by the Rebel Alliance during the Galactic Civil War.",
+  "data": {
+    "name": "RM-09 Alliance shuttle",
+    "model": "RM-09 Alliance Shuttle",
+    "type": "Shuttle",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (3)",
+    "role": [
+      "Personnel shuttle",
+      "Cargo transport"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

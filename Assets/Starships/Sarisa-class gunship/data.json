@@ -1,0 +1,27 @@
+{
+  "name": "Sarisa-class gunship",
+  "wookieepedia_title": "Sarisa-class gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sarisa-class_gunship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Sarisa-class gunship, also known as the Pyke patrol ship, or simply the Pyke starship, was a type of starship used by the Pyke Syndicate during the Clone Wars.",
+  "data": {
+    "name": "Sarisa-class gunship",
+    "model": "Sarisa-class",
+    "type": [
+      "Gunship",
+      "Patrol ship"
+    ],
+    "hdsystem": "Equipped",
+    "othersystems": "Tractor beam projector",
+    "role": [
+      "Transport",
+      "Patrol ship"
+    ],
+    "affiliation": [
+      "Pyke Syndicate",
+      "Shadow Collective"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

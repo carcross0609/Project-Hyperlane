@@ -1,0 +1,35 @@
+{
+  "name": "J-1 shuttle",
+  "wookieepedia_title": "J-1 shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/J-1_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The J-1 shuttle, commonly known as the \"Jedi shuttle\" for its use by the New Jedi Order, was a personnel and light starship transport vessel in use around 130 ABY.",
+  "data": {
+    "name": "J-1 shuttle",
+    "manufacturer": "Koensayr Manufacturing",
+    "model": "J-1 shuttle",
+    "type": "Shuttle",
+    "cost": "220,000 credits (100,000 used)",
+    "max_speed": "850 km/h",
+    "engine": "Wing-mounted sublight engines",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": "Double laser cannons",
+    "complement": "X-83 TwinTail starfighter (1)",
+    "crew": [
+      "Pilot (1)",
+      "Copilot (1)"
+    ],
+    "passengers": "30",
+    "capacity": "90 tons",
+    "consumables": "2 months",
+    "availability": "Restricted",
+    "role": "Transport",
+    "affiliation": "New Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

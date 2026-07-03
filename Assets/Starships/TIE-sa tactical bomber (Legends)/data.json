@@ -1,0 +1,74 @@
+{
+  "name": "TIE/sa tactical bomber",
+  "wookieepedia_title": "TIE/sa tactical bomber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/sa_tactical_bomber/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/sa tactical bomber, simply known as the TIE/sa bomber, TIE bomber or T/B, was a larger, less maneuverable TIE starfighter used for destroying large starships and pinpoint-precision bombing. The \"sa\" in the TIE bomber's designation stood for \"surface assault.\"",
+  "data": {
+    "name": "TIE/sa tactical bomber",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/sa bomber",
+    "type": "Space/planetary bomber",
+    "length": "7.8 meters",
+    "width": "8.6 meters",
+    "height": "5.0 meters",
+    "max_accel": [
+      "2,380 G",
+      "13 MGLT/s"
+    ],
+    "mglt": [
+      "80 MGLT with empty warhead launchers",
+      "60 MGLT with a full payload of warheads"
+    ],
+    "max_speed": "850 km/h",
+    "maneuverability": "86 DPF",
+    "engine": "SFS P-s4 twin ion engines (rated 125 KTU)",
+    "hdsystem": "None (could be equipped as upgrade)",
+    "power": "SFS I-a2b solar ionization reactor",
+    "shield_gen": "None",
+    "hull": "Titanium alloy hull with quadanium steel armor (rated 28 RU)",
+    "target": [
+      "SFS T-s7b targeting computer",
+      "Nordoxicon bomb sight"
+    ],
+    "navigation": "SFS N-s4 Navcon",
+    "avionics": "SFS F-3.2 flight avionics system",
+    "armament": [
+      "SFS L-s1 laser cannons (2)",
+      "SFS T-s5 proton torpedo launchers (2)",
+      "  Standard load: 4 torpedoes each (often modified to hold 6 each)",
+      "SFS M-s3 concussion missile launchers (2)",
+      "  Standard load: 8 missiles each (often modified to hold 10 each)",
+      "Bomb bay (variable load) (1)",
+      "  ArmaTek SJ-62/68 orbital mines",
+      "  ArmaTek VL-61/79 proton bombs",
+      "  Thermal detonators"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "Optional",
+    "capacity": [
+      "None in flight pod",
+      "15 metric tons in bomb bay"
+    ],
+    "consumables": "2 days",
+    "lifesupport": "Life-support system equipped",
+    "othersystems": "Ejector seat",
+    "role": [
+      "Heavy assault ship",
+      "Light space bomber"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Starfighter Corps",
+      "Zann Consortium",
+      "Zsinj's Empire",
+      "Thrawn's confederation",
+      "Dark Empire",
+      "United Warlord Fleets",
+      "Imperial Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

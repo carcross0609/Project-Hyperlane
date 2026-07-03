@@ -1,0 +1,28 @@
+{
+  "name": "YV-560 light freighter",
+  "wookieepedia_title": "YV-560 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-560_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YV-560 light freighter was a model of light freighter made by Corellian Engineering Corporation.",
+  "data": {
+    "name": "YV-560 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV series",
+    "type": "Light freighter",
+    "cost": "120,000",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 15 (Backup)"
+    ],
+    "sensor": "Long range sensor",
+    "armament": "Twin medium laser cannon",
+    "crew": [
+      "1 pilot",
+      "1 co-pilot/engineer"
+    ],
+    "passengers": "5",
+    "consumables": "8 months"
+  },
+  "scraped": "2026-07-03"
+}

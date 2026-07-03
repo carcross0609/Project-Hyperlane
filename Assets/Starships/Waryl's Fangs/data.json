@@ -1,0 +1,31 @@
+{
+  "name": "Waryl's Fangs",
+  "wookieepedia_title": "Waryl's Fangs",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Waryl%27s_Fangs",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Waryl's Fangs were modified Royal Yvarema scout ships constructed by the Yvarema after encountering the crew of the FarStar. The ships were modified under the supervision of Gunthar and Qesya Vth'naar. The vessels were armed with a navigational deflector designed to clear space dust while traveling through the Kathol Rift but which could be employed as a makeshift weapon when needed. Under Vth'naar's direction, primitive quad laser cannons were fitted to the ship, alongside a single tactical fusion missile.",
+  "data": {
+    "name": "Waryl's Fangs",
+    "model": "Modified Royal Yvarema scout ship",
+    "length": "20 meter",
+    "max_speed": "800 kmh",
+    "hyperdrive": "Class 4",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped, limited to three jumps",
+    "armament": [
+      "Navigational deflector",
+      "Quad laser cannon",
+      "Tactical fusion missile"
+    ],
+    "crew": "2",
+    "passengers": "3",
+    "capacity": "10 metric tons",
+    "consumables": "2 weeks",
+    "role": "Warship",
+    "firstuse": "4 ABY",
+    "affiliation": "Yvarema"
+  },
+  "scraped": "2026-07-03"
+}

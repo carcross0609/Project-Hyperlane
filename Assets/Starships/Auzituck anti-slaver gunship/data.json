@@ -1,0 +1,35 @@
+{
+  "name": "Auzituck anti-slaver gunship",
+  "wookieepedia_title": "Auzituck anti-slaver gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Auzituck_anti-slaver_gunship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Auzituck anti-slaver gunship, also called the Auzituck-class gunship, or the Wookiee gunship, was a gunship manufactured by Appazanna Engineering Works and used by Wookiees to battle slavers.",
+  "data": {
+    "name": "Auzituck anti-slaver gunship",
+    "manufacturer": "Appazanna Engineering Works",
+    "cost": "95,000 credits",
+    "length": "14.7 meters",
+    "width": "7.6 meters",
+    "height": "6 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Sureggi twin laser cannons (3)",
+    "crew": [
+      "One pilot",
+      "One co-pilot/gunner"
+    ],
+    "passengers": "8",
+    "consumables": "One month",
+    "affiliation": [
+      "Kashyyyk resistance",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

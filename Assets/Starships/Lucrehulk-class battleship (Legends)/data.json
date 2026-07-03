@@ -1,0 +1,76 @@
+{
+  "name": "Lucrehulk-class battleship",
+  "wookieepedia_title": "Lucrehulk-class battleship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lucrehulk-class_battleship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Lucrehulk-class battleship was the primary capital ship of the Trade Federation's Trade Defense Force. Most Lucrehulks were modified from enormous cargo haulers. Upgraded and modified versions were later used by the CIS Navy, the Separatist holdouts, the Alliance to Restore the Republic, the Corporate Sector Authority and the Killik Colony. Some Lucrehulk-class battleships were equipped with an array of transmitters and broadcasting equipment, allowing them to serve as Droid Control Ships.",
+  "data": {
+    "name": "Lucrehulk-class battleship",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "line": "Lucrehulk-class",
+    "model": "Modified Lucrehulk-class LH-3210 cargo freighter",
+    "type": "Battleship",
+    "cost": "Not for sale (black market value 40,000,000 credits)",
+    "length": "3,170 meters",
+    "width": "3,009 meters",
+    "height": "1,028.77 meters",
+    "max_accel": "300 g",
+    "max_speed": "500 km/h",
+    "engine": [
+      "Rendili StarDrive proton 2 (primary)",
+      "Proton 12 (secondary)"
+    ],
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "poweroutput": "Peak (shields): &lt;1,08 × 1025&ndash;4.32 x 1025 W",
+    "armament": [
+      "Pre&ndash;Clone Wars refitting:",
+      "Quad turbolaser batteries (42)",
+      "Clone Wars refitting:",
+      "Ring carrier:",
+      "  Point-defense quad laser batteries (164)",
+      "  Laser cannons (472)",
+      "Quad turbolaser batteries (48)",
+      "Core ship:",
+      "  Point-defense quad laser batteries (21)",
+      "  Assault laser cannons (48)",
+      "  Turbolasers (3)"
+    ],
+    "complement": [
+      "C-9979 landing craft (50)",
+      "Vulture droid starfighters (1,500)",
+      "Troop carriers (1,500)",
+      "Multi-Troop Transports (550)",
+      "Armored Assault Tanks (6,250)",
+      "B1-Series battle droids (over 329,600)"
+    ],
+    "crew": "150 to 350",
+    "passengers": "100,000+",
+    "capacity": "5 million tons",
+    "consumables": "500 days",
+    "role": [
+      "Battleship",
+      "Carrier",
+      "Command ship",
+      "Heavy transport",
+      "Warship"
+    ],
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "  Trade Federation resistance",
+      "  Gizor Dellso's navy",
+      "Galactic Empire",
+      "Corporate Sector",
+      "Independent merchants",
+      "Alliance to Restore the Republic",
+      "The Colony"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

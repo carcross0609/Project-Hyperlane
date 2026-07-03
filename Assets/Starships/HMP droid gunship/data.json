@@ -1,0 +1,71 @@
+{
+  "name": "HMP droid gunship",
+  "wookieepedia_title": "HMP droid gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HMP_droid_gunship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The HMP (Heavy Missile Platform) droid gunship, also known as the HMP Predator gunship, Droid Heavy Missile Platform, or droid gunship, was a model of repulsorlift airspeeder created by Geonosians and manufactured by Baktoid Fleet Ordnance and Haor Chall Engineering Corporation. Operated by an advanced droid brain, they were used by the Confederacy of Independent Systems during the Clone Wars. They were heavily armed with missile pods, and seven laser cannons. Droid gunships were also used to transport B1-series battle droids, B2-series super battle droids, and BX-series droid commandos by use of racks and could deploy them into battle.",
+  "data": {
+    "name": "HMP droid gunship",
+    "designer": [
+      "Geonosians",
+      "Haor Chall Engineering"
+    ],
+    "manufacturer": [
+      "Baktoid Fleet Ordnance",
+      "Haor Chall Engineering"
+    ],
+    "model": "Heavy Missile Platform droid gunship",
+    "type": [
+      "Droid lander",
+      "Gunship",
+      "Heavy repulsorlift airspeeder"
+    ],
+    "cost": "60,000 credits",
+    "length": "12.3 meters",
+    "width": "11 meters",
+    "height": "3.1 meters",
+    "max_speed": "100 kph",
+    "engine": "Ion-drive engines",
+    "power": "Reactor core",
+    "shield_gen": "High-powered deflector shield generators (ray shielding)",
+    "sensor": "Long-range sensors",
+    "target": [
+      "2 Binocular rangefinders",
+      "Upgraded targeting sensors/scanners"
+    ],
+    "armament": [
+      "1 heavy/medium laser cannon",
+      "2 dual medium laser cannons",
+      "2 twin light laser cannon turrets",
+      "2 flex ordnance launchers (14 missile racks)",
+      "  Concussion bombs",
+      "  Torpedoes",
+      "  Interchangeable to other munitions types"
+    ],
+    "crew": "Predatory droid brain",
+    "passengers": [
+      "12 battle droids of either:",
+      "B1-series model",
+      "B2-series model",
+      "BX-series model"
+    ],
+    "cargohandling": "Droid deployment racks (optional)",
+    "consumables": "Radioactive fuel",
+    "othersystems": "Repulsorlift generators",
+    "role": [
+      "Anti-infantry and armor",
+      "Atmospheric aerial strike vessel",
+      "Close air-support",
+      "Missile platform",
+      "Troop carrier"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "  Separatist Droid Army",
+      "Bedlam Raiders"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

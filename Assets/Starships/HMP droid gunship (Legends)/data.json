@@ -1,0 +1,55 @@
+{
+  "name": "HMP droid gunship",
+  "wookieepedia_title": "HMP droid gunship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HMP_droid_gunship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The HMP (Heavy Missile Platform) droid gunship, also simply known as the droid gunship, Separatist gunship, or HMP Predator, was deployed by the Confederacy of Independent Systems (CIS) relatively late in the Clone Wars and was based on the design of the older Mechanized Assault Flyer. A shielded missile platform, the gunship was designed for air strikes in planetary atmospheres. Though the ship was slower and less maneuverable than smaller fighters, it made up in its heavy and powerful arsenal. HMPs were armed with two laser cannon turrets, one medium laser cannon, two light laser cannons, and 14 missiles. The gunship was able to carry a large variety of ordnance ranging from concussion bombs to torpedoes and electromagnetic pulse missiles.",
+  "data": {
+    "name": "HMP droid gunship",
+    "manufacturer": [
+      "Baktoid Fleet Ordnance",
+      "Haor Chall Engineering"
+    ],
+    "model": "HMP (Heavy Missile Platform) droid gunship",
+    "type": [
+      "Airspeeder",
+      "Gunship"
+    ],
+    "cost": [
+      "60,000 credits (new)",
+      "30,000 credits (used)"
+    ],
+    "length": "12.3 meters",
+    "width": "11 meters",
+    "height": "3.1 meters",
+    "max_accel": "100 G",
+    "mglt": "50",
+    "max_speed": "600 km/h to 14,200 km/h",
+    "hyperdrive": "None",
+    "hdsystem": "None",
+    "shield_gen": "30 (DR 10)",
+    "hull": "50 (DR 10)",
+    "armament": [
+      "Turreted twin medium laser cannons (2)",
+      "Medium laser cannon (1)",
+      "Light laser cannons (2)",
+      "Variable-payload missile launchers (2, with 7 missiles each)",
+      "  Concussion bombs (2)",
+      "  Torpedoes",
+      "  EMP missiles"
+    ],
+    "crew": "Integrated droid brain",
+    "passengers": "None",
+    "capacity": "12 SBDs or BX-series droid commandos with droid deployment racks",
+    "cargohandling": "Droid deployment racks (optional)",
+    "role": "Aerial assault craft",
+    "firstuse": "c. 20 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "  Gizor Dellso's navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

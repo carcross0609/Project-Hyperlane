@@ -1,0 +1,23 @@
+{
+  "name": "D-type fighter",
+  "wookieepedia_title": "D-type fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/D-type_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The D-type fighter was a starfighter built and used exclusively by the Yevetha, an alien race living in the Koornacht Cluster.",
+  "data": {
+    "name": "D-type fighter",
+    "manufacturer": "Nazfar Metalworks Guild",
+    "type": "Starfighter",
+    "length": "12 meters",
+    "max_speed": "1,300 km/h",
+    "shield_gen": "Equipped",
+    "armament": "3 laser cannons",
+    "crew": "1",
+    "capacity": "50 kilograms",
+    "consumables": "1 day",
+    "role": "Space superiority fighter",
+    "affiliation": "Yevetha"
+  },
+  "scraped": "2026-07-03"
+}

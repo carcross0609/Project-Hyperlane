@@ -1,0 +1,10 @@
+# Arkanian hyperdrive
+
+**Continuity:** Legends  
+**Source:** [Arkanian hyperdrive](https://starwars.fandom.com/wiki/Arkanian_hyperdrive)
+
+The Arkanian hyperdrive was a custom-built hyperdrive designed by an engineer who was long dead by the time of the Cold War. It was owned by Peema Ahuff of the House Alde of Alderaan, who traded it to Skavak in exchange for the head of Darth Bandon, not knowing it was a fake. However, Risha Drayen's partner Voidhound tracked down Skavak's ship and retrieved the hypderdrive from Vonddado Briimyo, whom Skavak kidnapped to install it. The hyperdrive was then installed onto Ace's XS stock light freighter, allowing Ace to reach the The Long Shadow and claim the lost treasure of Nok Drayen.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

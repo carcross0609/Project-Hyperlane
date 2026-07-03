@@ -1,0 +1,46 @@
+{
+  "name": "Discril-class attack cruiser",
+  "wookieepedia_title": "Discril-class attack cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Discril-class_attack_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Discril-class attack cruisers were small capital ships originally built for the defense fleet of the planet Daupherm.",
+  "data": {
+    "name": "Discril-class attack cruiser",
+    "manufacturer": "Daupherm Planet States",
+    "model": "Discril-class attack cruiser",
+    "type": "Attack cruiser",
+    "cost": "500,000 credits (used)",
+    "length": "85 meters",
+    "hyperdrive": [
+      "Class 3.0 (primary)",
+      "Class 20 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannons (5)",
+      "Tri-particle beamers (4)",
+      "Tri-laser cannons (3)"
+    ],
+    "crew": [
+      "Crew (150)",
+      "  Gunners (51)"
+    ],
+    "skeleton": "75",
+    "passengers": "60 (troops)",
+    "capacity": "7,800 metric tons",
+    "consumables": "2 weeks",
+    "role": [
+      "Attack cruiser (Daupherm marines)",
+      "Corvette",
+      "System defense"
+    ],
+    "affiliation": [
+      "Daupherm Marine Corps",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

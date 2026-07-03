@@ -1,0 +1,61 @@
+{
+  "name": "Onager-class Star Destroyer",
+  "wookieepedia_title": "Onager-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Onager-class_Star_Destroyer",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Onager-class Star Destroyer, nicknamed the Imperial Siege Breaker by members of the Rebel Alliance, was a type of rare capital ship and superweapon deployed by the Galactic Empire that was shrouded in secrecy. Initially developed to swiftly eradicate Separatist holdouts that remained after the Clone Wars and to bring Core Worlds under the control of the Empire, the Onager-class saw service throughout the Imperial Era. Following the deployment of the Death Star, the Onager was considered to be a possibly greater threat than the battle station.",
+  "data": {
+    "name": "Onager-class Star Destroyer",
+    "manufacturer": "Rothana Heavy Engineering (licensed by Kuat Drive Yards)",
+    "model": "Onager-class Star Destroyer",
+    "type": [
+      "Cruiser-classed Star Destroyer",
+      "Superweapon"
+    ],
+    "cost": "376,500,000 credits",
+    "length": "1,288 meters",
+    "engine": "Sublight engines (5)",
+    "hyperdrive": [
+      "Class 1.75 (primary)",
+      "Class 6 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "power": [
+      "Kyber crystals (allegedly for primary armament)",
+      "Solar ionization reactor"
+    ],
+    "shield_gen": [
+      "Deflector shield generator domes (2)",
+      "Additional frontal deflector shields"
+    ],
+    "sensor": "Extreme-ranged advanced sensor array",
+    "target": "Advanced targeting array",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Superheavy Composite Beam Turbolasers (2) or Orbital Bombardment Particle Cannons (2)",
+      "Twin heavy turbolaser batteries (6)",
+      "Heavy turbolaser batteries (24)",
+      "Point-defense laser cannons (20)"
+    ],
+    "complement": [
+      "Lambda-class T-4a shuttles (6)",
+      "TIE fighter series starfighters (36)"
+    ],
+    "bays": "Equipped (2)",
+    "crew": "25,200 officers, pilots, and crew",
+    "passengers": "240 troops",
+    "consumables": "One year",
+    "othersystems": "Power conduits",
+    "role": [
+      "Naval warfare",
+      "Orbital bombardment"
+    ],
+    "firstuse": "Between 19 BBY and 0 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

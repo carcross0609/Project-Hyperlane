@@ -1,0 +1,38 @@
+{
+  "name": "Mankvim-814 light interceptor",
+  "wookieepedia_title": "Mankvim-814 light interceptor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mankvim-814_light_interceptor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mankvim-814 light interceptor, also known as the Techno Union starfighter, or Rattletrap, was a starfighter used by the Confederacy of Independent Systems near the close of the Clone Wars.",
+  "data": {
+    "name": "Mankvim-814 light interceptor",
+    "manufacturer": "Feethan Ottraw Scalable Assemblies",
+    "model": "Mankvim-814 light interceptor",
+    "type": "Starfighter",
+    "cost": [
+      "New: 15,000 credits",
+      "Used: 6,000 credits"
+    ],
+    "length": "10.7 meters",
+    "width": "6.46 meters",
+    "height": "3.45 meters",
+    "max_accel": "3,400 G",
+    "max_speed": "1,450 km/h",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "armament": "Light laser cannons (2)\n:Fire arc: Front",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "None",
+    "consumables": "2 hours",
+    "availability": "Licensed",
+    "role": "Interceptor",
+    "affiliation": [
+      "Techno Union",
+      "Confederacy of Independent Systems",
+      "Corporate Sector Authority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

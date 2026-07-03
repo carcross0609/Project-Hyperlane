@@ -1,0 +1,28 @@
+{
+  "name": "Warlord Dropship",
+  "wookieepedia_title": "Warlord Dropship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Warlord_Dropship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Warlord Dropship was an Imperial transport used for large ground operations.",
+  "data": {
+    "name": "Warlord Dropship",
+    "manufacturer": "Telgorn Corporation",
+    "type": "Dropship",
+    "length": "110 meters",
+    "max_speed": [
+      "1,200 KMH (during drop)",
+      "800 KMH (return flight)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "6 double turbolaser cannons",
+    "crew": "200",
+    "passengers": "360 (troops)",
+    "capacity": "180 metric tons",
+    "consumables": "3 days",
+    "othersystems": "Ablative heatshield",
+    "role": "Troop or armor dropship"
+  },
+  "scraped": "2026-07-03"
+}

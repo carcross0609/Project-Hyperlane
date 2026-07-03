@@ -1,0 +1,43 @@
+{
+  "name": "Beta-class ETR-3 escort transport",
+  "wookieepedia_title": "Beta-class ETR-3 escort transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Beta-class_ETR-3_escort_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Beta-class ETR-3 escort transport was a medium-sized troop transport vessel produced by Telgorn Corporation.",
+  "data": {
+    "name": "Beta-class ETR-3 escort transport",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Beta-class ETR-3 escort transport",
+    "type": "Transport",
+    "length": "45 meters",
+    "mglt": "70 MGLT",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 250 SBD",
+    "hull": "Rated 133 RU",
+    "armament": [
+      "Turbolaser turrets (4)",
+      "Laser cannons (2)",
+      "Ion cannons (2)",
+      "double proton torpedo launchers (2)"
+    ],
+    "crew": [
+      "Crewers (3)",
+      "Gunners (4)"
+    ],
+    "passengers": "40 troops",
+    "capacity": "1 squad of speeder bikes",
+    "role": [
+      "Transport",
+      "Convoy escort",
+      "Boarding craft"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Airam Clans",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

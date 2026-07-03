@@ -1,0 +1,51 @@
+{
+  "name": "Centurion-class battlecruiser",
+  "wookieepedia_title": "Centurion-class battlecruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Centurion-class_battlecruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Centurion-class battlecruiser was a capital ship used by the Galactic Republic and the Sith Triumvirate.",
+  "data": {
+    "name": "Centurion-class battlecruiser",
+    "model": "Centurion-class battlecruiser",
+    "type": [
+      "Battlecruiser",
+      "Capital ship"
+    ],
+    "cost": "Not available for sale",
+    "length": "1,200 meters",
+    "hdsystem": [
+      "Class 2",
+      "Class 8 (backup)"
+    ],
+    "armament": [
+      "Medium turbolaser batteries (6)",
+      "Heavy ion cannon batteries (6)",
+      "Light point-defense laser cannon batteries (6)",
+      "Tractor beam batteries (3)"
+    ],
+    "complement": [
+      "96 Sith interceptors",
+      "Various support vehicles"
+    ],
+    "crew": "31,452",
+    "passengers": "Troops (7,400)",
+    "capacity": "32,000 tons",
+    "consumables": "5 years",
+    "availability": "Military",
+    "role": [
+      "Battlecruiser",
+      "Command ship"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy",
+      "Darth Revan's Sith Empire",
+      "  Sith armada",
+      "  Sith Triumvirate",
+      "Reconstituted Sith Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

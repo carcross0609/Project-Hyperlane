@@ -1,0 +1,35 @@
+{
+  "name": "Zenuas 33 Umbaran starfighter",
+  "wookieepedia_title": "Zenuas 33 Umbaran starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zenuas_33_Umbaran_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Zenuas 33 Umbaran starfighter was a technologically advanced starfighter produced by Ghost Armaments. Its shielded cockpit surrounded the pilot with touch-sensitive holographic displays that react instantly to touch. It was used heavily during the Battle of Umbara, a conflict that occurred during the Clone Wars between the Galactic Republic and the Umbarans who had sided with the Separatist Alliance.",
+  "data": {
+    "name": "Zenuas 33 Umbaran starfighter",
+    "manufacturer": "Ghost Armaments",
+    "model": "Zenuas 33",
+    "type": "Starfighter",
+    "length": "10.38&ndash;10.4 meters (34 feet 2 inches)",
+    "height": "12.47 meters",
+    "mglt": "110 MGLT",
+    "max_speed": "1,100 kph",
+    "hdsystem": "None",
+    "armament": [
+      "Chin-mounted electromagnetic plasma cannons",
+      "Missile pods (2) (wing-mounted)"
+    ],
+    "crew": "Pilot (1)",
+    "othersystems": [
+      "Ray-shielded cockpit",
+      "Flexible airframe and wings"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Umbaran Militia",
+      "Galactic Republic (captured)",
+      "  501st Legion (captured)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

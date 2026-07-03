@@ -1,0 +1,41 @@
+{
+  "name": "Sovereign-class Super Star Destroyer",
+  "wookieepedia_title": "Sovereign-class Super Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sovereign-class_Super_Star_Destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sovereign-class Super Star Destroyer, alternatively named the Sovereign-class Star Destroyer, was a planned class of Super Star Destroyer produced by the Galactic Empire at the behest of the Galactic Emperor Palpatine, who envisioned a fleet of the fifteen-thousand-meter-long vessels.",
+  "data": {
+    "name": "Sovereign-class Super Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Super Star Destroyer (dreadnought)",
+    "cost": "2,500,000,000 credits",
+    "length": "15,000 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "1 Axial superlaser",
+      "500 heavy laser cannons",
+      "500 turbolaser batteries",
+      "75 ion cannons",
+      "100 tractor beam emplacements",
+      "5 gravity well projectors"
+    ],
+    "complement": [
+      "35 TIE/IN interceptor squadrons",
+      "5 TIE/sa bomber squadrons",
+      "75 All Terrain Armored Transports"
+    ],
+    "crew": "601,670",
+    "skeleton": "86,000",
+    "passengers": "130,100 troops",
+    "capacity": "400,000 metric tons",
+    "consumables": "5 years",
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

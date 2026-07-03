@@ -1,0 +1,21 @@
+{
+  "name": "Galleon",
+  "wookieepedia_title": "Galleon (Starship class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galleon_%28Starship_class%29",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Galleon was the unarmed predecessor of the Star Galleon-class frigate.",
+  "data": {
+    "name": "Galleon",
+    "type": "Galleon",
+    "hdsystem": "Equipped",
+    "armament": "None",
+    "passengers": "Multiple troops",
+    "role": "Cargo",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

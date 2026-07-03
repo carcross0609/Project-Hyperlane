@@ -1,0 +1,74 @@
+{
+  "name": "Lambda-class T-4a shuttle",
+  "wookieepedia_title": "Lambda-class T-4a shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lambda-class_T-4a_shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Lambda-class T-4a shuttle, also known as the Imperial Shuttle, was a standard light utility craft in common with the Imperial military as a transport for troops and high-ranking individuals.",
+  "data": {
+    "name": "Lambda-class T-4a shuttle",
+    "manufacturer": [
+      "Sienar Fleet Systems (designer and primary builder)",
+      "Cygnus Spaceworks (subcontractor)",
+      "Silviut Corporation (subcontractor)"
+    ],
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Armed government transport shuttle",
+    "cost": "Likely valued at 240,000 credits",
+    "length": "20 meters",
+    "max_accel": "1,400 G",
+    "mglt": "50 MGLT",
+    "max_speed": "850 km/h",
+    "engine": "SFS-204 sublight ion engines (2) or Z-Rk5 ion engines (2)",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "SFS S/ig-37 hyperdrive",
+    "shield_gen": "Multiple shield generators (rated 100 SBD)",
+    "hull": "Reinforced durasteel/carbon fiber hull (rated 66 RU)",
+    "navigation": "Navigation computer equipped",
+    "armament": "Standard configuration:\n2 x Steerable forward twin Taim & Bak KX5 laser cannons \n\n2 x Taim & Bak GA-60s twin laser cannons \n\n1 x Aft retractable ArMek R-T0 twin blaster cannon \n\nAlternate military configuration:\nTaim & Bak KX5 laser cannons (8 or 4 x 2 forward, 2 or 1 x 2 aft)",
+    "escapepods": "Detachable cockpit serves as escape pod",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Navigator (1)",
+      "Gunner (1)",
+      "Communications officer (1)",
+      "Engineer (1)"
+    ],
+    "skeleton": "1",
+    "passengers": [
+      "20+ passengers (standard)",
+      "8 passengers in staterooms (alternate configuration)"
+    ],
+    "capacity": "80 metric tons (without passengers)",
+    "cargohandling": "Personnel tractor beam (equipped when used as a rescue craft)",
+    "consumables": "2 months",
+    "communications": "HoloNet transceiver (in some Imperial VIP models)",
+    "role": [
+      "Personnel shuttle",
+      "Troop transport",
+      "Scoutcraft",
+      "Escape vessel"
+    ],
+    "firstuse": "19 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Zann Consortium",
+      "Dimok government",
+      "Ripoblus government",
+      "Empire Reborn",
+      "Disciples of Ragnos",
+      "Imperial Remnant",
+      "Galactic Federation of Free Alliances",
+      "Darth Krayt's Galactic Empire",
+      "Airam Clans"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

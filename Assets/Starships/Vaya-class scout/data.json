@@ -1,0 +1,33 @@
+{
+  "name": "Vaya-class scout",
+  "wookieepedia_title": "Vaya-class scout",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vaya-class_scout",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Vaya-class scout was a type of scout ship manufactured by Hoersch-Kessel Drive, Inc. c. 3999 BBY.",
+  "data": {
+    "name": "Vaya-class scout",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Scout",
+    "cost": "45,000 credits (new) or 15,000 credits (used)",
+    "length": "30 meters",
+    "engine": "Six ion engines",
+    "hyperdrive": [
+      "Class 8 or Class 4",
+      "Class 15 (backup)"
+    ],
+    "armament": [
+      "Laser cannon",
+      "Concussion projectile launcher"
+    ],
+    "crew": "(1), Gunners (2)",
+    "passengers": "4",
+    "capacity": "60 metric tons",
+    "consumables": "1 month",
+    "affiliation": [
+      "Republic Astrogation Survey Team",
+      "independent scouts"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "TIE/sk x1 experimental air superiority fighter",
+  "wookieepedia_title": "TIE/sk x1 experimental air superiority fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/sk_x1_experimental_air_superiority_fighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/sk x1 experimental air superiority fighter, also known as the TIE/sk atmospheric fighter or simply the TIE striker, was a streamlined variant of the TIE fighter series starfighters used by the Galactic Empire, most notably during the Battle of Scarif. Specialized for in-atmosphere missions, the atmospheric fighter was identifiable by its horizontal high-speed wings and large central pod. Largely because of its specialization for such missions, it was one of the few TIE models to be used by the Imperial Army as well as the Imperial Navy.",
+  "data": {
+    "name": "TIE/sk x1 experimental air superiority fighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE fighter series",
+    "model": "TIE/sk x1 experimental air superiority fighter",
+    "type": "Atmospheric fighter",
+    "cost": "50,000 credits",
+    "length": "17.18 meters",
+    "width": "11.3 meters",
+    "height": "2.95 meters",
+    "max_accel": "Not applicable",
+    "mglt": "Not applicable",
+    "max_speed": "1,500 kph",
+    "engine": [
+      "Repulsorlifts",
+      "Twin ion engines"
+    ],
+    "hdsystem": "None",
+    "power": "Solar energy",
+    "shield_gen": "None",
+    "target": "T-s9a targeting computer",
+    "navigation": "SFS N-a1 Navcon",
+    "avionics": "Aviation regulator",
+    "armament": [
+      "Fire-linked SFS L-s9.3 laser cannons (4)",
+      "H-s1 heavy laser cannons (2)",
+      "Proton bomb chute (1)",
+      "  VL-61/79 proton bombs (Several)"
+    ],
+    "escapepods": "Ejector seats",
+    "crew": [
+      "Pilot (1)",
+      "Bombardier/gunner (1) (optional)"
+    ],
+    "passengers": "Optional",
+    "consumables": "One day",
+    "lifesupport": "Equipped",
+    "othersystems": [
+      "Advanced high-speed wings",
+      "Heat exchange matrix",
+      "Solar energy collectors",
+      "Solar energy support"
+    ],
+    "role": [
+      "Aerial assault vehicles",
+      "Atmospheric patrols over important Imperial ground-based installations",
+      "Space combat alongside traditional TIE fighters",
+      "Transporting supplies and personnel"
+    ],
+    "firstuse": "c. 18 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Army Air Corps",
+      "  Imperial Starfighter Corps",
+      "Ubrik Adelhard's Imperial remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

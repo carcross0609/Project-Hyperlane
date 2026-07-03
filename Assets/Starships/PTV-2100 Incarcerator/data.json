@@ -1,0 +1,29 @@
+{
+  "name": "PTV-2100 Incarcerator",
+  "wookieepedia_title": "PTV-2100 Incarcerator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/PTV-2100_Incarcerator",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The PTV-2100 Incarcerator was a type of starship that was designed by Kuat Drive Yards during the Clone Wars. They were mainly used by governments for transporting prisoners, although a number of Incarcerators were used by criminals for the transport of slaves. Although the Incarcerators were heavily armed, they were slow and often relied on starfighters or frigates for protection. The Incarcerator was also excellent at repelling boarding attacks.",
+  "data": {
+    "name": "PTV-2100 Incarcerator",
+    "designer": "Kuat Drive Yards",
+    "cost": "4.5 million credits",
+    "hyperdrive": [
+      "Class 3",
+      "Class 12 (backup)"
+    ],
+    "armament": [
+      "2 turbolaser batteries",
+      "2 point-defense batteries"
+    ],
+    "complement": "2 shuttles",
+    "crew": "250",
+    "passengers": "1500",
+    "cargohandling": "5,500 tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "role": "Prisoner transport"
+  },
+  "scraped": "2026-07-03"
+}

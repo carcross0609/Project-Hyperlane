@@ -1,0 +1,47 @@
+{
+  "name": "Personal Luxury Yacht 3000",
+  "wookieepedia_title": "Personal Luxury Yacht 3000/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Personal_Luxury_Yacht_3000/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The SoroSuub Personal Luxury Yacht 3000 was a yacht starship, similar to a transport, only more suited to travellers rather than cargo, and far more luxurious.",
+  "data": {
+    "name": "Personal Luxury Yacht 3000",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "Personal Luxury Yachts",
+    "model": "Personal Luxury Yacht 3000",
+    "type": "Yacht",
+    "cost": [
+      "250,000 credits (new)",
+      "150,000 credits (used)"
+    ],
+    "length": "50 meters",
+    "max_speed": "850 km/h",
+    "engine": "Ion engines (2, housed in exterior nacelles)",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 14 (backup)"
+    ],
+    "hdsystem": "Hyperdrive engines (2, housed in exterior nacelles)",
+    "shield_gen": "Chempat-6 deflector shield generators (2) (rated 36 SBD)",
+    "hull": "Rated 20 RU",
+    "navigation": "Navigation computer equipped",
+    "armament": "None",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "skeleton": "Pilot (1)",
+    "passengers": "10",
+    "capacity": "100 metric tons",
+    "consumables": "1 month",
+    "othersystems": [
+      "Gourmet Master 500",
+      "Jetstream meditation pool"
+    ],
+    "role": [
+      "Private Shuttle/Transport"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

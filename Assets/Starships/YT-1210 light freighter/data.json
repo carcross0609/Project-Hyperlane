@@ -1,0 +1,30 @@
+{
+  "name": "YT-1210 light freighter",
+  "wookieepedia_title": "YT-1210 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1210_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YT-1210 light freighter, also known as the YT-1210 transport, was a class of transport manufactured by Corellian Engineering Corporation and was nearly identical to the YT-1200 transport.",
+  "data": {
+    "name": "YT-1210 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1210",
+    "type": "Transport",
+    "cost": "120,000",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 16 (Backup)"
+    ],
+    "sensor": "Sensor-laden boom",
+    "navigation": "Navicomputer",
+    "armament": "Medium laser cannon",
+    "crew": [
+      "1 pilot",
+      "1 gunner"
+    ],
+    "passengers": "4",
+    "consumables": "2 months"
+  },
+  "scraped": "2026-07-03"
+}

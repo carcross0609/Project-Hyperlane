@@ -1,0 +1,33 @@
+{
+  "name": "Warden-class light cruiser",
+  "wookieepedia_title": "Warden-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Warden-class_light_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A small starship with a wide mission profile, the Warden-class light cruiser was produced by Sienar Fleet Systems as a follow-up to the Guardian-class light cruiser.",
+  "data": {
+    "name": "Warden-class light cruiser",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Warden-class light cruiser",
+    "type": "Light cruiser",
+    "length": "42 meters",
+    "max_speed": "1,200 kmh",
+    "hyperdrive": [
+      "x1 (Primary)",
+      "x10 (Backup)"
+    ],
+    "sensor": "Improved over the Guardian-class",
+    "armament": "Turreted laser cannons (2)",
+    "crew": "16",
+    "passengers": "14",
+    "capacity": "100 tons",
+    "consumables": "2 months",
+    "role": [
+      "Picket",
+      "Patrol",
+      "Customs corvette"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

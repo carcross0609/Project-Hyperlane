@@ -1,0 +1,46 @@
+{
+  "name": "IPV-1 System Patrol Craft",
+  "wookieepedia_title": "IPV-1 System Patrol Craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IPV-1_System_Patrol_Craft",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The IPV-1 System Patrol Craft, also known as the Imperial patrol vessel, Imperial patrol vehicle or IPV-1-class corvette, was a standard system security and customs vessel commonly used near planets to interdict smugglers and protect against piracy. It was produced by Republic Sienar Systems.",
+  "data": {
+    "name": "IPV-1 System Patrol Craft",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "IPV-1 System Patrol Craft",
+    "type": "Inter-system patrol/customs craft",
+    "cost": "4,000,000 credits",
+    "length": "120 meters",
+    "max_speed": "1,000 km/h",
+    "hdsystem": "Not equipped stock, but hyperspace capable with modification.",
+    "shield_gen": "Rated 400 SBD",
+    "hull": "Rated 285 RU",
+    "armament": [
+      "Taim & Bak XV7 turbolasers (4)",
+      "Krupx Munitions VL-4a warhead launcher (1)"
+    ],
+    "crew": "12",
+    "skeleton": "3",
+    "passengers": "10 troops",
+    "capacity": "200 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Inter-system patrol craft",
+      "Customs vessel"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Airam Clans",
+      "Alliance to Restore the Republic",
+      "Black Sun",
+      "Hutt Cartel",
+      "Mandalorians",
+      "Zann Consortium",
+      "Ripoblus government",
+      "Viraxo Industries"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Imperial extermination ship",
+  "wookieepedia_title": "Imperial extermination ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_extermination_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperial extermination ship was a type of dungeon ship used by the Galactic Empire.",
+  "data": {
+    "name": "Imperial extermination ship",
+    "model": "Imperial extermination ship",
+    "type": "Dungeon ship",
+    "engine": "Four thrusters",
+    "hdsystem": "Equipped",
+    "power": "Fusion reactors",
+    "shield_gen": "Equipped",
+    "othersystems": [
+      "Holding pens",
+      "Ionization chambers"
+    ],
+    "role": [
+      "Prison barge",
+      "Transport",
+      "Mobile extermination camp"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

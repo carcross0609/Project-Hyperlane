@@ -1,0 +1,24 @@
+{
+  "name": "FT-8 Star Guard",
+  "wookieepedia_title": "FT-8 Star Guard",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/FT-8_Star_Guard",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The FT-8 Star Guard was a starfighter in the FT-series of Galactic Republic starfighters produced by Rendili StarDrive. Similar to other models of the series, the Star Guard had two wings and two rear engines, and it featured a laser cannon on each wing. The Star Guard was a redesign of the older FT-5A Honor Guard model.",
+  "data": {
+    "name": "FT-8 Star Guard",
+    "manufacturer": "Rendili StarDrive",
+    "line": "FT-series",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "Additional ion cannons and weapons equippable"
+    ],
+    "crew": "2",
+    "role": "Starfighter",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

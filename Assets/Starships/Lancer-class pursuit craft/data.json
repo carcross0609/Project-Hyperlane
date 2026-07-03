@@ -1,0 +1,39 @@
+{
+  "name": "Lancer-class pursuit craft",
+  "wookieepedia_title": "Lancer-class pursuit craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lancer-class_pursuit_craft",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Lancer-class pursuit craft, also known as the Lancer Pursuit Craft, was a patrol ship produced by MandalMotors at the behest of the Black Sun crime syndicate. Bounty hunter Asajj Ventress utilized the Lancer-class craft Banshee during the Clone Wars, while hunter Ketsu Onyo flew a Lancer-class vessel, the Shadow Caster, during the reign of the Galactic Empire. Another Lancer-class, the Nebular Kelpie, was seen during the Battle of Exegol, allied with the Resistance.",
+  "data": {
+    "name": "Lancer-class pursuit craft",
+    "manufacturer": "MandalMotors",
+    "model": "Lancer-class",
+    "type": "Pursuit craft",
+    "cost": "120,000 credits (varies)",
+    "length": "± 34 meters",
+    "max_speed": "1,050 kph",
+    "engine": "High performance Ion drives",
+    "hyperdrive": [
+      "Class 2 hyperdrive",
+      "Class 12 (backup)"
+    ],
+    "armament": [
+      "Dorsal mounted triple light laser cannon turret",
+      "Forward-mounted twin light laser cannon",
+      "Ventral mounted tractor beam projector"
+    ],
+    "crew": "2 (pilot, co-pilot)",
+    "skeleton": "1 (pilot)",
+    "passengers": "4",
+    "consumables": "Three months",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "role": [
+      "Transport",
+      "Pursuit ship"
+    ],
+    "affiliation": "Citizens' Fleet"
+  },
+  "scraped": "2026-07-03"
+}

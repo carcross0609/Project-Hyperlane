@@ -1,0 +1,58 @@
+{
+  "name": "TIE boarding craft",
+  "wookieepedia_title": "TIE boarding craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_boarding_craft",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE boarding craft was a variant of Sienar Fleet Systems's TIE series. An armored shuttle, it was used by the Galactic Empire for troop transportation and boarding.",
+  "data": {
+    "name": "TIE boarding craft",
+    "designer": "Raith Sienar",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": [
+      "TIE/sa (variant)",
+      "Twin ion engine boarding craft"
+    ],
+    "type": [
+      "Transport",
+      "Shuttle"
+    ],
+    "cost": [
+      "150,000 credits (new)",
+      "60,000 credits (used)"
+    ],
+    "length": "7.6 meters (24 ft 11 in)",
+    "width": "9.9 meters (32 ft 5 in)",
+    "height": "5.9 meters (19 ft 6 in)",
+    "max_accel": "2,380 G",
+    "mglt": "90 megalight per hour",
+    "max_speed": "850 km/h (528 mph)",
+    "engine": "P-s4 twin ion engines",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "target": "T-s8 targeting computer",
+    "navigation": "N-s4 Navcon",
+    "armament": [
+      "L-s1 laser cannons (2)",
+      "H-s1 heavy laser cannons (2)",
+      "Missile and warhead launchers",
+      "Various munitions"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "passengers": "20 (2 stormtrooper squads)",
+    "consumables": "2 days",
+    "lifesupport": "Equipped",
+    "othersystems": [
+      "Military-grade laser cutter",
+      "Retractable docking claw"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Military",
+      "  Imperial Office of Customs"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

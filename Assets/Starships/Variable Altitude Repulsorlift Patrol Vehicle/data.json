@@ -1,0 +1,47 @@
+{
+  "name": "Variable Altitude Repulsorlift Patrol Vehicle",
+  "wookieepedia_title": "Variable Altitude Repulsorlift Patrol Vehicle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Variable_Altitude_Repulsorlift_Patrol_Vehicle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Variable Altitude Repulsorlift Patrol Vehicle was a Kuat Drive Yards design used by the Republic Correction Authority for a variety of uses. One such use was guarding the reactor of the Oovo IV's detention facility, where it earned the name of reactor patrol vehicle or RPV for short.",
+  "data": {
+    "name": "Variable Altitude Repulsorlift Patrol Vehicle",
+    "manufacturer": "Kuat Drive Yards",
+    "length": [
+      "20 meters"
+    ],
+    "width": [
+      "30 meters (wingspan)"
+    ],
+    "height": [
+      "15 meters"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Rotational heavy laser cannons (2)",
+      "composite-beam, pinpoint auto-laser turret (3)",
+      "Concussion missile launcher (1)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)",
+      "Auxiliary turret gunner (1)",
+      "Astromech droid (2)"
+    ],
+    "passengers": [
+      "None"
+    ],
+    "capacity": [
+      "90 cubic meters"
+    ],
+    "consumables": [
+      "100 hours"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Correction Authority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

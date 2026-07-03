@@ -1,0 +1,33 @@
+{
+  "name": "Tapani-class assault frigate",
+  "wookieepedia_title": "Tapani-class assault frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tapani-class_assault_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Tapani-class Assault Frigate was the primary capital ship used in the Tapani sector by both the noble houses and the Freeworlds.",
+  "data": {
+    "name": "Tapani-class assault frigate",
+    "manufacturer": "Tapani Starship Cooperative",
+    "type": "Heavy Assault Frigate",
+    "cost": "1.6 billion credits",
+    "length": "750 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 14 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "20 laser cannons",
+      "15 turbolaser batteries",
+      "6 quad turbolaser batteries"
+    ],
+    "crew": "3,550; 114 gunners",
+    "skeleton": "988",
+    "passengers": "800 troops",
+    "capacity": "12,500 metric tons",
+    "consumables": "1 year"
+  },
+  "scraped": "2026-07-03"
+}

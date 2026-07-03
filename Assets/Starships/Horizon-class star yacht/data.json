@@ -1,0 +1,41 @@
+{
+  "name": "Horizon-class star yacht",
+  "wookieepedia_title": "Horizon-class star yacht",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Horizon-class_star_yacht",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Manufactured by the SoroSuub Corporation during the rise of the New Republic, The Horizon-class Star Yacht was one of SoroSuub's engineering triumphs. While certain design aspects were built off the themes visible in SoroSuub's line of Personal Luxury Yachts, the Horizon-class was a true paradigm in design.",
+  "data": {
+    "name": "Horizon-class star yacht",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Yacht",
+    "length": "55 meters",
+    "max_accel": "3,080 G",
+    "max_speed": "1,000 km/h",
+    "engine": "2 ion engines",
+    "hyperdrive": "Class 0.5",
+    "hull": "Armored non-reflective hull",
+    "navigation": "Equipped",
+    "armament": "1 tractor beam projector",
+    "complement": "1 starfighter or shuttle",
+    "crew": [
+      "1 Pilot",
+      "1 Co-pilot",
+      "1 Navigator",
+      "1 Astromech droid"
+    ],
+    "skeleton": [
+      "1 pilot OR",
+      "1 astromech droid"
+    ],
+    "passengers": "5",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "role": "Transport",
+    "affiliation": [
+      "Mara Jade Skywalker",
+      "New Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

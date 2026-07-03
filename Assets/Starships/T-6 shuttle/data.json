@@ -1,0 +1,35 @@
+{
+  "name": "T-6 shuttle",
+  "wookieepedia_title": "T-6 shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-6_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The T-6 shuttle, also called the Jedi T-6 shuttle, or the T-6 Jedi Shuttle, was an unarmed transport used by the Jedi Order. An older design, it saw greater use during the Clone Wars. By the time of the early rebellion against the Galactic Empire, the shuttle cockpit was used in the design of the A/SF-01 B-wing starfighter.",
+  "data": {
+    "name": "T-6 shuttle",
+    "manufacturer": "Slayn & Korpil",
+    "model": "T-6",
+    "type": [
+      "Shuttle",
+      "Short range shuttle fighter",
+      "Transport"
+    ],
+    "length": "22.8 meters long (74 feet 9 inches)",
+    "mglt": "100 MGLT",
+    "max_speed": "1,200 kph",
+    "engine": "Sublight engines (3)",
+    "hyperdrive": "Class 1",
+    "armament": "None",
+    "escapepods": [
+      "Emergency survival capsules",
+      "Ejector seats (in cockpit)"
+    ],
+    "role": "Transport",
+    "affiliation": [
+      "Jedi Order",
+      "New Republic",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

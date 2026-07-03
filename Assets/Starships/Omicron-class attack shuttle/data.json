@@ -1,0 +1,31 @@
+{
+  "name": "Omicron-class attack shuttle",
+  "wookieepedia_title": "Omicron-class attack shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Omicron-class_attack_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Omicron-class attack shuttle, also known as an Omicron-class shuttle,, Omicron-class gunship or simply, the Omicron was a class of attack shuttle that was active during the Clone Wars. The Marauder, the starship of the Galactic Republic's Clone Force 99, was a modified Omicron-class attack shuttle. Halland Goth and TC-99 would later pilot one to visit the Diso system.",
+  "data": {
+    "name": "Omicron-class attack shuttle",
+    "manufacturer": "Cygnus Space Workshops",
+    "type": [
+      "Attack shuttle",
+      "Gunship"
+    ],
+    "mglt": "80 MGLT (The Marauder)",
+    "max_speed": "750 kph (The Marauder)",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "armament": [
+      "2 front laser cannons",
+      "1 aft laser turret"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire (briefly for Clone Force 99)",
+      "  Imperial Navy (briefly for Clone Force 99)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

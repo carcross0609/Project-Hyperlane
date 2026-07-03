@@ -1,0 +1,59 @@
+{
+  "name": "CR92a Assassin-class corvette",
+  "wookieepedia_title": "CR92a Assassin-class corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CR92a_Assassin-class_corvette",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CR92a Assassin-class corvette, better known as the modified corvette, was a small warship first produced some time before the Battle of Hoth and used primarily by the Imperial Navy.",
+  "data": {
+    "name": "CR92a Assassin-class corvette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CR92a Assassin-class corvette",
+    "type": "Corvette",
+    "cost": "2,500,000 credits",
+    "length": "139.25 meters",
+    "width": "58.95 meters",
+    "height": "16.97 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 16 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 400 SBD",
+    "hull": "Rated 228 RU",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Dual turbolaser batteries (6)",
+      "  3 port",
+      "  3 starboard",
+      "Quad laser cannons (2)",
+      "  1 dorsal",
+      "  1 ventral",
+      "Proton torpedo launcher (1)",
+      "  10 torpedoes",
+      "Tractor beam projector (1)"
+    ],
+    "crew": "60 to 150 (depending on configuration)",
+    "passengers": "60",
+    "capacity": "2,100 tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "role": [
+      "Corvette",
+      "System patrol craft",
+      "Rapid strike craft",
+      "Priority cargo transport"
+    ],
+    "affiliation": [
+      "Corellian Defense Force",
+      "Galactic Empire",
+      "Dimok government",
+      "Ripoblus government",
+      "Zaarin coup forces",
+      "Alliance to Restore the Republic",
+      "Airam Clans",
+      "Maw Irregular Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

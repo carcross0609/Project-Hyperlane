@@ -1,0 +1,52 @@
+{
+  "name": "Harrower-class dreadnought",
+  "wookieepedia_title": "Harrower-class dreadnought",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Harrower-class_dreadnought",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Harrower-class dreadnought, known more infrequently as the Harrower-class battle cruiser, was a heavily-armed class of wedge-shaped capital ship that was the backbone of the Imperial Navy of the reconstituted Sith Empire for over eight and a half decades; seeing action throughout the Great Galactic War, the Cold War, the Galactic War and the Third Galactic War with the Galactic Republic as well as the war against the Eternal Empire. Produced by Taerab Starship Manufacturing and measuring around eight hundred meters long with heavily-reinforced hull plating and shield generators, the Harrower-class dreadnought carried a complement of over one hundred starfighters, bombers, and shuttles; a single dreadnought required a crew of 2,400 and could carry 7,300 troops. Harrower-class dreadnoughts required an immense amount of energy and materials to produce, and a single dreadnought was capable of taking on starfighters and smaller warships on its own when it was not coordinating Imperial fleets as a command ship.",
+  "data": {
+    "name": "Harrower-class dreadnought",
+    "manufacturer": "Taerab Starship Manufacturing",
+    "type": [
+      "Battle cruiser",
+      "Dreadnought"
+    ],
+    "cost": "10 years' output of a major mining colony",
+    "length": "Almost 800 meters",
+    "width": "433 meters",
+    "height": "151 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "4 equipped",
+    "hull": "Heavily-reinforced hull plating",
+    "armament": [
+      "Turbolaser batteries (32+)",
+      "Quad laser turrets",
+      "Ion cannons",
+      "Proton torpedo tubes",
+      "Concussion missile launchers"
+    ],
+    "complement": [
+      "95 starfighters",
+      "  Mark VI Supremacy-class starfighters",
+      "32 B28 Extinction-class bombers",
+      "35 shuttles"
+    ],
+    "bays": "5",
+    "escapepods": "Many",
+    "crew": "2,400",
+    "passengers": "7,300 troops",
+    "availability": "Military",
+    "role": [
+      "Capital ship",
+      "Warship"
+    ],
+    "affiliation": [
+      "Sith Empire",
+      "  Imperial Navy",
+      "Order of Revan",
+      "Darth Jadus"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

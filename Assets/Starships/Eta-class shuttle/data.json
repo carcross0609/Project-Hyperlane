@@ -1,0 +1,46 @@
+{
+  "name": "Eta-class shuttle",
+  "wookieepedia_title": "Eta-class shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eta-class_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Eta-class shuttle, also known as the Jedi ambassador shuttle, Republic executive shuttle, or Republic ambassadorial shuttle, was a model of shuttle manufactured by Cygnus Spaceworks and used by the Galactic Senate and the Republic Ambassadorial Corps for diplomatic missions, and was later utilized by the Jedi Order during the Clone Wars. The Dark Lord of the Sith Darth Sidious used a modified Eta-class as his personal shuttle in the later stages of the Clone Wars. He used the ship to travel to the planet Mandalore to thwart his former apprentice Maul's rise to power.",
+  "data": {
+    "name": "Eta-class shuttle",
+    "manufacturer": "Cygnus Spaceworks",
+    "line": "Early Abecederian line",
+    "model": "Eta-class shuttle",
+    "type": "Shuttle",
+    "cost": "100,000 credits",
+    "length": "14.2 meters",
+    "max_speed": "750 kilometers per hour",
+    "engine": "Equipped (2)",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Short-ranged sensor",
+    "navigation": "Equipped",
+    "armament": "Laser cannons (3)",
+    "complement": "Undicur-class jumpspeeders (2)",
+    "crew": [
+      "Pilots (2)",
+      "Gunner (1)"
+    ],
+    "passengers": "10",
+    "capacity": "100 metric tons (without passengers and embarked speeder bikes)",
+    "consumables": "Two months",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Senate",
+      "  Republic Ambassadorial Corps",
+      "Jedi Order",
+      "Morgan Elsbeth's forces",
+      "Thrawn's forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

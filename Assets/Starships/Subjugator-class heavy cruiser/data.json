@@ -1,0 +1,87 @@
+{
+  "name": "Subjugator-class heavy cruiser",
+  "wookieepedia_title": "Subjugator-class heavy cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Subjugator-class_heavy_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Subjugator-class heavy cruiser was a type of heavy cruiser, battleship, dreadnought, and Star Dreadnought designed by Ruggle Schmong for use by the Confederacy of Independent Systems' naval forces from a discarded SoroSuub Corporation starship design. Potentially the largest warship that served at the time of the Clone Wars, the Subjugator was heavily armed with hundreds of laser cannons of different types, ion cannons, flak guns, proton torpedoes, heavy tractor beams, and a pair of mega-ion cannons capable of disabling the power of an entire fleet of capital ships in a single blast. The heavy cruiser carried over two-hundred droid starfighters, and a multitude of boarding ships, landing craft, assault vehicles, and shuttles.",
+  "data": {
+    "name": "Subjugator-class heavy cruiser",
+    "designer": "Ruggle Schmong",
+    "manufacturer": [
+      "Free Dac Volunteers Engineering Corps",
+      "Pammant Docks"
+    ],
+    "model": "Subjugator-class heavy cruiser",
+    "type": [
+      "Battleship",
+      "Battlecruiser (Anaxes War College System)",
+      "Dreadnought",
+      "Heavy cruiser",
+      "Star Dreadnought"
+    ],
+    "cost": "875,500,000 credits",
+    "length": "4,845 meters",
+    "max_speed": "1,050 kilometers per hour",
+    "engine": "16 sublight engines",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "power": [
+      "Primary power generator",
+      "Secondary power plant (waste heat capture and distribution)"
+    ],
+    "shield_gen": "Equipped",
+    "hull": "Armored",
+    "sensor": "Long-range sensors",
+    "navigation": "Navigation computer",
+    "armament": [
+      "2 Mega-ion cannons (primary weapon)",
+      "500 dual turbolasers",
+      "  20 twin heavy turbolaser battery turrets",
+      "  20 twin medium turbolaser battery turrets",
+      "  200 twin light turbolaser battery turrets",
+      "Flak guns",
+      "Ion cannons",
+      "400 point-defense twin light laser cannon turrets",
+      "10 proton torpedo launchers",
+      "  5 torpedoes each",
+      "2 heavy tractor beam emitters"
+    ],
+    "complement": [
+      "Ammunition",
+      "200+ droid starfighters",
+      "  48 Hyena-class Droid Fighter/Bombers",
+      "  144 Vulture-class starfighters",
+      "Droch-class boarding ships",
+      "Landing craft",
+      "Ground combat vehicles",
+      "Shuttles",
+      "Other utility vehicles"
+    ],
+    "bays": "Several",
+    "crew": "23,350 officers, droids and other enlisted crew",
+    "skeleton": "900",
+    "passengers": "60,000 battle droids",
+    "capacity": "85,000 tons",
+    "cargohandling": "Rail jet transportation system",
+    "consumables": "2 years",
+    "communications": [
+      "Communications unit",
+      "Internal communications"
+    ],
+    "othersystems": "Plasma rotors",
+    "role": [
+      "Flagship",
+      "Fleet destruction"
+    ],
+    "firstuse": "By 22 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

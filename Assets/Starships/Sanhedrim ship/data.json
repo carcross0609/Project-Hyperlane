@@ -1,0 +1,25 @@
+{
+  "name": "Sanhedrim ship",
+  "wookieepedia_title": "Sanhedrim ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sanhedrim_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sanhedrim Ship was the mode of transportation used by the warrior class of the Aing-Tii monks.",
+  "data": {
+    "name": "Sanhedrim ship",
+    "manufacturer": "Aing-Tii",
+    "length": "~300 meters",
+    "hdsystem": "None, equipped with instant transportation system",
+    "armament": [
+      "Energy web generators (30)",
+      "Null-burst projectors (6)"
+    ],
+    "crew": [
+      "Crewmembers (150)",
+      "  Gunners (66)"
+    ],
+    "role": "Transport",
+    "affiliation": "Aing-Tii"
+  },
+  "scraped": "2026-07-03"
+}

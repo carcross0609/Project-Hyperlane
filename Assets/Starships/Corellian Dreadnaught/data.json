@@ -1,0 +1,28 @@
+{
+  "name": "Corellian Dreadnaught",
+  "wookieepedia_title": "Corellian Dreadnaught",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corellian_Dreadnaught",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Corellian Dreadnaught was a capital ship used by the Five Worlds.",
+  "data": {
+    "name": "Corellian Dreadnaught",
+    "manufacturer": "Kiris shipyards",
+    "type": [
+      "Dreadnaught",
+      "Cruiser (standard classification)",
+      "Capital ship (standard classification)"
+    ],
+    "armament": [
+      "Turbolasers",
+      "Missile launchers"
+    ],
+    "role": "Battleship (dreadnaught)",
+    "firstuse": "40 ABY",
+    "affiliation": [
+      "Five Worlds",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Beta-class assault shuttle",
+  "wookieepedia_title": "Beta-class assault shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Beta-class_assault_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Beta-class assault shuttle was an Imperial shuttle and a direct predecessor to the Gamma-class assault shuttle.",
+  "data": {
+    "name": "Beta-class assault shuttle",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Beta-class assault shuttle",
+    "type": "Assault shuttle",
+    "length": "30 meters",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": "Class 3.0",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Modular",
+    "navigation": "Equipped, three jump limit",
+    "avionics": "Telgorn twin-tandem flight computers",
+    "armament": [
+      "Laser cannons (4)",
+      "Concussion missile launcher (1)",
+      "Tractor beam/Legends projector (1)"
+    ],
+    "crew": "5",
+    "skeleton": "3",
+    "passengers": [
+      "Depending on cargo module:",
+      "40 spacetroopers",
+      "68 standard troops",
+      "None (cargo or weapons)"
+    ],
+    "capacity": "500 kg",
+    "consumables": "5 days",
+    "role": [
+      "Transport",
+      "Boarding craft",
+      "Gunship",
+      "Convoy escort"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

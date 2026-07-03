@@ -1,0 +1,45 @@
+{
+  "name": "Dragon-class Heavy Cruiser",
+  "wookieepedia_title": "Dragon-class Heavy Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dragon-class_Heavy_Cruiser",
+  "continuity": "Unknown",
+  "infobox_template": "StarshipClass",
+  "description": "The Dragon-class Heavy Cruiser was produced as part of Emperor Palpatine's Doctrine of Fear, designed to intimidate entire planets into submission.",
+  "data": {
+    "name": "Dragon-class Heavy Cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Dragon-class heavy cruiser",
+    "type": "Heavy cruiser",
+    "length": "700 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 6 (backup)"
+    ],
+    "armament": [
+      "10 turbolaser batteries",
+      ":Fire Arc: 5 left, 5 right",
+      ":Crew: 2 to 4",
+      "15 quad turbolaser cannons",
+      ":Fire Arc: 5 front, 10 rear",
+      ":Crew: 3",
+      "7 concussion missile tubes",
+      ":Fire Arc: 3 front, 4 rear",
+      ":Crew: 7",
+      "8 tractor beam projectors",
+      ":Fire Arc: 4 front, 2 left, 2 right",
+      ":Crew: 2 to 10"
+    ],
+    "complement": "24 TIE/LN starfighters",
+    "crew": "3,529",
+    "skeleton": "1,260",
+    "passengers": "1,335 troops",
+    "capacity": "6,000 metric tons",
+    "consumables": "2 years",
+    "role": [
+      "Cruiser",
+      "Carrier"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

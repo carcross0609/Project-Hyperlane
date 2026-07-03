@@ -1,0 +1,33 @@
+{
+  "name": "Fury-class starfighter",
+  "wookieepedia_title": "Fury-class starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fury-class_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Fury-class starfighter, also known as Sith Fury, was a starfighter first used by the One Sith around 130 ABY. Its design was based on the Old Republic Cutlass-9 patrol fighter.",
+  "data": {
+    "name": "Fury-class starfighter",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Fury-class Sith starfighter",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "max_speed": "1,320 km/h",
+    "engine": "3 units",
+    "hyperdrive": "Class 0.75",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Armored",
+    "navigation": "Navicomputer",
+    "armament": "Advanced heavy laser cannons (4)",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid"
+    ],
+    "capacity": "150 kg",
+    "consumables": "2 months",
+    "availability": "Military",
+    "role": "Starfighter",
+    "affiliation": "One Sith"
+  },
+  "scraped": "2026-07-03"
+}

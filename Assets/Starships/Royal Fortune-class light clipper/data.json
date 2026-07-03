@@ -1,0 +1,51 @@
+{
+  "name": "Royal Fortune-class light clipper",
+  "wookieepedia_title": "Royal Fortune-class light clipper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Royal_Fortune-class_light_clipper",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Royal Fortune-class light clipper was a Tof ship of the line.",
+  "data": {
+    "name": "Royal Fortune-class light clipper",
+    "model": "Royal Fortune-class light clipper",
+    "type": [
+      "Light clipper",
+      "Frigate"
+    ],
+    "cost": "Not available for sale",
+    "length": "290 meters",
+    "hyperdrive": [
+      "Class 2",
+      "  Backup: Class 12"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannons (38)",
+      "  19 port",
+      "  19 starboard",
+      "  Laser cannon batteries (8)",
+      "Quad laser cannon batteries (2)",
+      "  1 fore",
+      "  1 aft",
+      "Fotia's Fire cannon (1)"
+    ],
+    "complement": [
+      "Tof starfighters (14)",
+      "Longboat shuttles (4)"
+    ],
+    "crew": [
+      "480",
+      "  Captain (1)",
+      "  Gunners (45)"
+    ],
+    "passengers": "200",
+    "capacity": "8,000 tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "role": "Assault ship",
+    "affiliation": "Tof Kingdom"
+  },
+  "scraped": "2026-07-03"
+}

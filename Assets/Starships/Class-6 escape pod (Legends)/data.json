@@ -1,0 +1,19 @@
+{
+  "name": "Class-6 escape pod",
+  "wookieepedia_title": "Class-6 escape pod/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Class-6_escape_pod/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Class-6 escape pod was a standard emergency craft created by Corellian Engineering Corporation and used on many of their designs, such as the CR90 corvette.",
+  "data": {
+    "name": "Class-6 escape pod",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Escape pod",
+    "engine": [
+      "Escape thrusters (4)",
+      "Several maneuvering thrusters"
+    ],
+    "passengers": "6"
+  },
+  "scraped": "2026-07-03"
+}

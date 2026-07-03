@@ -1,0 +1,26 @@
+{
+  "name": "Lupus-class missile frigate",
+  "wookieepedia_title": "Lupus-class missile frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lupus-class_missile_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Lupus-class missile frigate, also known as the Trade Federation Missile Frigate, was a light frigate used by the Trade Federation prior to and during the Invasion of Naboo and by the CIS Navy early in the Clone Wars.",
+  "data": {
+    "name": "Lupus-class missile frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Lupus-class missile frigate",
+    "type": "Missile Frigate",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Concussion missile launchers (4)",
+      "Point-defense dual laser cannons (6)"
+    ],
+    "role": "Frigate",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

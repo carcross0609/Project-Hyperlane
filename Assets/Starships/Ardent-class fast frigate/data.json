@@ -1,0 +1,47 @@
+{
+  "name": "Ardent-class fast frigate",
+  "wookieepedia_title": "Ardent-class fast frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ardent-class_fast_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ardent-class fast frigate was a Kuat Drive Yards warship used by the Fel Empire and Darth Krayt's Galactic Empire.",
+  "data": {
+    "name": "Ardent-class fast frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Ardent-class fast frigate",
+    "type": [
+      "Frigate",
+      "Capital ship"
+    ],
+    "cost": "Not available for sale",
+    "length": "~400 meters",
+    "hyperdrive": "Class 1 (backup class 12)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Lighter shielding than Pellaeon-class",
+    "hull": "Lighter armor than Pellaeon-class",
+    "target": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Heavy turbolaser batteries (5)",
+      "Medium turbolaser batteries (3)",
+      "Point-defense cannon batteries (5)",
+      "Tractor beam batteries (2)"
+    ],
+    "complement": [
+      "Nune-class Imperial shuttles",
+      "Predator-class fighter (12)"
+    ],
+    "crew": "1,400",
+    "passengers": "200 troops",
+    "capacity": "5,000 tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "affiliation": [
+      "Fel Empire",
+      "Darth Krayt's Galactic Empire",
+      "Empire-in-exile",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

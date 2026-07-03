@@ -1,0 +1,31 @@
+{
+  "name": "Imperial Patrol Ship",
+  "wookieepedia_title": "Imperial Patrol Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Patrol_Ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperial Patrol Ship was a militarized variant of the Corellian Engineering Corporation Action IV transport. It saw service during the Galactic Civil War as a support ship for remote Imperial outposts, combining the twin roles of resupplying Imperial personnel and performing customs inspections.",
+  "data": {
+    "name": "Imperial Patrol Ship",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Action series",
+    "type": "Modified bulk freighter",
+    "length": "100 meters",
+    "hyperdrive": "Class 3",
+    "hull": "2D",
+    "armament": "2 laser cannons",
+    "complement": "2 TIE starfighters",
+    "crew": [
+      "8 crew",
+      "  2 gunners"
+    ],
+    "passengers": "4",
+    "capacity": "74,000 TM",
+    "consumables": "3 months",
+    "affiliation": [
+      "Imperial Navy",
+      "Imperial Customs"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

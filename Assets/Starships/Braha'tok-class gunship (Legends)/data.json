@@ -1,0 +1,40 @@
+{
+  "name": "Braha'tok-class gunship",
+  "wookieepedia_title": "Braha'tok-class gunship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Braha%27tok-class_gunship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Braha'tok-class gunship, also known as the Dornean gunship, was an anti-starfighter gunship constructed by the Dornean Braha'ket Fleetworks Conglomerate for use by the independent Dornean Navy. Designed purely for military use, the ninety-meter-long craft bristled with weaponry, including turbolasers and concussion missile launchers. At first, the gunships were used to defend Dornea from the Imperial Navy, but in 4 ABY, two of them were sent to Sullust to join Admiral Gial Ackbar's Rebel Alliance Fleet, which was poised to strike at the Galactic Empire's second Death Star over the Forest Moon of Endor.",
+  "data": {
+    "name": "Braha'tok-class gunship",
+    "manufacturer": "Dornean Braha'ket Fleetworks Conglomerate",
+    "model": "Braha'tok-class gunship",
+    "type": "Gunship",
+    "length": "90 meters",
+    "maneuverability": "Poor",
+    "engine": "Equipped",
+    "hyperdrive": "Class 3 primary (Class 15 backup)",
+    "sensor": "Long-range",
+    "navigation": "Navicomputer-equipped",
+    "armament": [
+      "Forward-mounted  proton torpedo launchers (2)",
+      "Forward-mounted  concussion missile launchers (4)",
+      "Twin-light  turbolaser  cannons (2) (One port; one starboard)",
+      "Four dorsal & four ventral quad- laser cannons"
+    ],
+    "complement": [
+      "Starfighters (2+)"
+    ],
+    "bays": "Limited room",
+    "crew": "70 officers & enlisted crew",
+    "passengers": "15",
+    "consumables": "8 months",
+    "role": "Anti-starfighter gunship",
+    "affiliation": [
+      "Dornean Navy",
+      "Alliance to Restore the Republic",
+      "  Alliance Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

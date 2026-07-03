@@ -1,0 +1,28 @@
+{
+  "name": "Mark III bulk transport",
+  "wookieepedia_title": "Mark III bulk transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mark_III_bulk_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mark III bulk transport was a product of Sienar Ships, basically an oversized version of the Mark I bulk transport.",
+  "data": {
+    "name": "Mark III bulk transport",
+    "manufacturer": "Sienar Ships",
+    "model": "Mark III",
+    "type": "Bulk transport",
+    "cost": "400,000 credits (used)",
+    "length": "300 meters",
+    "max_speed": "750 km/h",
+    "hyperdrive": [
+      "Class 3.0",
+      "Class 20 (backup)"
+    ],
+    "shield_gen": "None",
+    "armament": "Laser cannon",
+    "crew": "10",
+    "capacity": "160,000 metric tons",
+    "consumables": "5 months",
+    "role": "Bulk freighter"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Container transport",
+  "wookieepedia_title": "Container transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Container_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The container transport was a widely used freighter during the Galactic Civil War. The ship was manufactured by Xizor Transport Systems.",
+  "data": {
+    "name": "Container transport",
+    "manufacturer": "Xizor Transport Systems",
+    "model": "Container Transport",
+    "type": "Medium-sized freighter",
+    "length": "200.41 meters",
+    "width": "101.66 meters",
+    "height": "82.78 meters",
+    "mglt": "33 MGLT",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 320 SBD",
+    "hull": "Rated 268 RU",
+    "armament": "Turbolaser turrets (3)",
+    "crew": "8",
+    "passengers": "None",
+    "role": "Cargo transport",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire",
+      "Azzameen family",
+      "Various: commercial and private"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "YT Dart",
+  "wookieepedia_title": "YT Dart",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT_Dart",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YT Dart was a model of small spacetug designed by an authorized affiliate of the Corellian Engineering Corporation to serve as an auxiliary craft for YT-1300 light freighters. A compact ship with a narrow viewport, the YT Dart fit between the front mandibles of the YT-1300, seemingly extending its prow and giving it a sleeker appearance. When Lando Calrissian owned the Millennium Falcon, he had a YT Dart modified into a maneuverable two-passenger life pod by sealing its viewport and installing both a hyperdrive and a more powerful sublight engine.",
+  "data": {
+    "name": "YT Dart",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Spacetug",
+    "cost": "9,000 credits",
+    "engine": "Sublight engine (1) (with 4 thrusters)",
+    "hyperdrive": "Class 4 (modified)",
+    "hdsystem": "Equipped (with modification)",
+    "sensor": "Short range sensor",
+    "crew": "1 pilot",
+    "passengers": "3",
+    "consumables": "3 days",
+    "role": "Escape pod (with modification)"
+  },
+  "scraped": "2026-07-03"
+}

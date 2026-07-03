@@ -1,0 +1,24 @@
+{
+  "name": "NK-Witell-class freighter",
+  "wookieepedia_title": "NK-Witell-class freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/NK-Witell-class_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The NK-Witell-class freighter was a freighter class built by Sanhar-Witell which entered common service roughly 13 years after the Battle of Endor. Seventeen years later, an estimated 137,417 NK-Witell-class freighters were still in use throughout the galaxy's trade lanes. One such freighter, the Yissira Zyde, was hijacked by the First Order in the Mirrin sector.",
+  "data": {
+    "name": "NK-Witell-class freighter",
+    "manufacturer": "Sanhar-Witell",
+    "type": "Freighter",
+    "engine": "Hoersch-Kessel model alpha",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Sanhar model 67 hyperdrive",
+    "skeleton": "2",
+    "passengers": "12",
+    "capacity": [
+      "50 metric tons",
+      "75 metric tons (maximum)"
+    ],
+    "firstuse": "17 ABY"
+  },
+  "scraped": "2026-07-03"
+}

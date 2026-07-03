@@ -1,0 +1,35 @@
+{
+  "name": "Sigma-class long-range shuttle",
+  "wookieepedia_title": "Sigma-class long-range shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sigma-class_long-range_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sigma-class long-range shuttle was a lightly-armed Sienar Fleet Systems shuttle model used by the Fel Empire to ferry important individuals across the galaxy. In comparison to the Nune-class Imperial shuttle, which was often confined to one area of space and doubled as a troop transport, the Sigma-class shuttle was considered a luxury transport. The shuttle's amenities included large passenger quarters and a well-stocked galley; however, the class was not extravagant enough to be classified as a luxury yacht. The Sigma-class was incapable of carrying any starfighters, but a modified variant employed by the Imperial Knights could hold up to three Predator-class starfighters.",
+  "data": {
+    "name": "Sigma-class long-range shuttle",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "Sigma-class long range shuttle",
+    "type": "Shuttle",
+    "cost": "Not available for public sale",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 8.0 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Heavy laser cannons (2)",
+    "crew": "1",
+    "passengers": "10",
+    "capacity": "200 tons",
+    "consumables": "3 months",
+    "availability": "Military",
+    "role": "Luxury transport",
+    "firstuse": "137 ABY",
+    "affiliation": [
+      "Fel Empire",
+      "Empire-in-exile",
+      "  Imperial Knights"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

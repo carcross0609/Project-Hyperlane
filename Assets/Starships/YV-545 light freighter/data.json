@@ -1,0 +1,25 @@
+{
+  "name": "YV-545 light freighter",
+  "wookieepedia_title": "YV-545 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-545_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YV-545 light freighter was a light freighter produced by the Corellian Engineering Corporation in an attempt to replace the aging YT-series freighters.",
+  "data": {
+    "name": "YV-545 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV series",
+    "model": "YV-545 light freighter",
+    "type": "Freighter",
+    "cost": "120,000 credits (35,000 used)",
+    "max_accel": "800 km/h",
+    "hyperdrive": "Class 2 (Backup class 15)",
+    "navigation": "Navicomputer",
+    "crew": "2",
+    "passengers": "5",
+    "capacity": "80 tons",
+    "consumables": "3 months",
+    "availability": "Licensed"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "YT-1930 transport",
+  "wookieepedia_title": "YT-1930 transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1930_transport",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YT-1930 transport was a class of transport manufactured by Corellian Engineering Corporation and was considered a variant of the YT-1300 light freighter.",
+  "data": {
+    "name": "YT-1930 transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1930",
+    "type": "Transport",
+    "cost": [
+      "135,000 credits",
+      "62,000 credits (used)"
+    ],
+    "length": "36.8 meters",
+    "max_speed": "950 kph",
+    "engine": "Sublight engines",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": "Turret-mounted medium laser cannon (1)",
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "200 metric tons",
+    "consumables": "4 months"
+  },
+  "scraped": "2026-07-03"
+}

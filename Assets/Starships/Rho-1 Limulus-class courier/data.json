@@ -1,0 +1,39 @@
+{
+  "name": "Rho-1 Limulus-class courier",
+  "wookieepedia_title": "Rho-1 Limulus-class courier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rho-1_Limulus-class_courier",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "A Rho-1 Limulus-class courier was used by Obi-Wan Kenobi and Qui-Gon Jinn during a mission to help miners on the Codia's second moon. It was commonly used in the Clone Wars.",
+  "data": {
+    "name": "Rho-1 Limulus-class courier",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Rho-series",
+    "model": "Rho-1 Limulus-class courier",
+    "type": "Courier",
+    "cost": "55,000 credits",
+    "hyperdrive": [
+      "Primary: Class 2",
+      "Backup: Class 10"
+    ],
+    "sensor": "Short-range",
+    "armament": "2 Light laser cannons",
+    "crew": [
+      "1 Pilot",
+      "1 Co-pilot"
+    ],
+    "passengers": "1",
+    "capacity": "Several tons",
+    "consumables": "1 month",
+    "availability": "Military (Jedi only)",
+    "role": [
+      "Starfighter",
+      "Elite personnel transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

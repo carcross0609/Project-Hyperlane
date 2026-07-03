@@ -1,0 +1,49 @@
+{
+  "name": "Droid tri-fighter",
+  "wookieepedia_title": "Droid tri-fighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Droid_tri-fighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The droid tri-fighter, also known as the tri-droid fighter or simply tri-fighter, was a deadly Confederacy droid starfighter designed as a fast, agile and powerful space-superiority starfighter, built to excel in dogfighting. It would be used in large numbers throughout the Clone Wars.",
+  "data": {
+    "name": "Droid tri-fighter",
+    "manufacturer": [
+      "Colla Designs",
+      "Phlac-Arphocc Automata Industries"
+    ],
+    "line": "Droid starfighters",
+    "model": "Tri-fighter",
+    "type": "Starfighter",
+    "cost": [
+      "New: 20,000 to 40,000 credits",
+      "Used: 8,000 credits"
+    ],
+    "length": "5.4 meters",
+    "width": "3.45 meters",
+    "max_accel": "3,600 G",
+    "mglt": "125",
+    "max_speed": "1,050 km/h",
+    "hdsystem": "None",
+    "shield_gen": "None",
+    "armament": [
+      "Heavy laser cannon (1)",
+      "Light laser cannons (3)",
+      "Missile launchers",
+      "  Medium concussion missile (6)",
+      ":or",
+      ":*Buzz droid discord missiles (2-6)"
+    ],
+    "crew": "Integrated droid brain",
+    "passengers": "None",
+    "capacity": "None",
+    "consumables": "2 days",
+    "availability": "Restricted",
+    "firstuse": "c. 21 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "  Gizor Dellso's navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Maelstrom-class battle cruiser",
+  "wookieepedia_title": "Maelstrom-class battle cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maelstrom-class_battle_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Maelstrom-class battle cruiser was a class of battle cruiser in the proto&ndash;Star Destroyer family of starships manufactured by Kuat Drive Yards. The vessel was armed with heavy cannons, assault concussion missile launchers, and other weaponry. It was capable of serving planetary siege and bombardment duties, as well as fleet command, carrier duties, and anti&ndash;space station operations.",
+  "data": {
+    "name": "Maelstrom-class battle cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Maelstrom-class",
+    "type": "Battlecruiser classed proto&ndash;Star Destroyer",
+    "cost": "158,000,000 credits",
+    "engine": "Sublight engines",
+    "hyperdrive": [
+      "Class 3 (Primary)",
+      "Class 15 (Backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shields",
+    "hull": "Thick armored hull",
+    "sensor": "Long-range sensor",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Heavy turbolaser batteries",
+      "  Port (10)",
+      "  Starboard (10)",
+      "Ventral battleship ion cannon batteries (10)",
+      "Medium ion cannons",
+      "  Port (10)",
+      "  Starboard (10)",
+      "Proton torpedo launchers",
+      "  Port (10)",
+      "  Starboard (10)",
+      "  Forward (10)",
+      "Ventral retractable quad-barrel heavy assault concussion missile launchers (10)",
+      "Ventral medium tractor beam projector (20)",
+      "Ventral heavy tractor beam projector (10)"
+    ],
+    "complement": [
+      "Assault craft",
+      "Gunboats",
+      "Landing craft",
+      "Shuttles",
+      "Starfighters (96-120)",
+      "Ground vehicles"
+    ],
+    "crew": "45,000 officers, pilots, enlisted crew",
+    "passengers": "15,000 troops and support staff",
+    "consumables": "2 years",
+    "othersystems": "Sophisticated command and control system",
+    "role": [
+      "Anti&ndash;space station operations",
+      "Fleet command",
+      "Fleet carrier",
+      "Planetary siege"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Alliance to Restore the Republic",
+      "  Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

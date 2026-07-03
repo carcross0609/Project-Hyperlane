@@ -1,0 +1,33 @@
+{
+  "name": "Prowler-class reconnaissance vessel",
+  "wookieepedia_title": "Prowler-class reconnaissance vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Prowler-class_reconnaissance_vessel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Prowler-class reconnaissance vessel was a spy vessel for the New Republic built by the Republic Engineering Corporation as part of the New Class Modernization Program.",
+  "data": {
+    "name": "Prowler-class reconnaissance vessel",
+    "manufacturer": "Republic Engineering Corporation",
+    "line": "New Class Modernization Program",
+    "type": "Scout vessel",
+    "length": "48 meters",
+    "engine": "Baffled sublight drive",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "navigation": "Navigation computer",
+    "countermeasures": "Sensor decoys (4 sets)",
+    "armament": [
+      "Medium Concussion missile launcher",
+      "10 Concussion missiles"
+    ],
+    "crew": "6",
+    "passengers": "0",
+    "capacity": "3 tons",
+    "consumables": "5 months",
+    "role": "Reconnaissance",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

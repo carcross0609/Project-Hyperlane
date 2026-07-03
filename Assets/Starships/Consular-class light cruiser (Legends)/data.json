@@ -1,0 +1,58 @@
+{
+  "name": "Consular-class light cruiser",
+  "wookieepedia_title": "Consular-class light cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Consular-class_light_cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Consular-class light cruiser or Consular-class cruiser, commonly referred to as Republic cruiser, was a Corellian Engineering Corporation starship used by the Galactic Republic to transport Jedi and diplomats to troubled spots across the galaxy.",
+  "data": {
+    "name": "Consular-class light cruiser",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Consular-class space cruiser",
+    "type": "Space cruiser",
+    "length": "115 meters",
+    "max_accel": "2,040 G",
+    "max_speed": "900 km/h",
+    "engine": "Dyne 577 radial atomizer engines (3)",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "Longe Voltrans tri-arc CD-3.2 hyperdrive",
+    "shield_gen": "Equipped",
+    "armament": [
+      "None standard, can be refitted with various configurations",
+      "Clone Wars configuration: At least 4 turbolasers; 2 concussion missile launchers"
+    ],
+    "complement": "Varies, based on modular configuration",
+    "escapepods": [
+      "Detachable salon pod",
+      "2 escape pods"
+    ],
+    "crew": [
+      "Total crew (9)",
+      "Captain (1)",
+      "Pilot (1)",
+      "Co-pilots (2)",
+      "Navigator (1)",
+      "Communication officer (1)",
+      "Technicians (3)"
+    ],
+    "passengers": "16 (varies, depends on modular configuration)",
+    "capacity": [
+      "1,000 metric tons"
+    ],
+    "role": [
+      "Diplomatic ship",
+      "Light cruiser (refit)",
+      "Frigate (alternate refit)",
+      "Smuggler vessel (Rebel use)"
+    ],
+    "firstuse": "By 990 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Alliance to Restore the Republic",
+      "Noggox the Hutt",
+      "Smugglers",
+      "Veiled Sorority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

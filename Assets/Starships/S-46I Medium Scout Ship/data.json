@@ -1,0 +1,41 @@
+{
+  "name": "S-46I Medium Scout Ship",
+  "wookieepedia_title": "S-46I Medium Scout Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/S-46I_Medium_Scout_Ship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The S-46I Medium Scout Ship was a class of espionage scout ship used by the Imperial Security Bureau of the Galactic Empire. One such ship was the Darkflare, captained by ISB Commander Trey Trellen. The Darkflare was involved in Operation Night Fire, an operation by the Rebel Alliance Intelligence Service to steal the Darkflare.",
+  "data": {
+    "name": "S-46I Medium Scout Ship",
+    "manufacturer": "Sienar Fleet Systems",
+    "model": "S-46I Medium Scout Ship",
+    "type": "Scout ship",
+    "cost": "524,000 credits",
+    "engine": "Equipped",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 14 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turret-mounted twin light laser cannon (2)",
+      "Forward-mounted twin medium laser cannon (1)"
+    ],
+    "complement": "10 probe droids",
+    "crew": [
+      "34",
+      "  1 pilot",
+      "  1 co-pilot/engineer",
+      "  2 gunners"
+    ],
+    "passengers": "10",
+    "consumables": "6 months",
+    "role": "Espionage",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Security Bureau",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

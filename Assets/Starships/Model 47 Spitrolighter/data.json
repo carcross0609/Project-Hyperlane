@@ -1,0 +1,29 @@
+{
+  "name": "Model 47 Spitrolighter",
+  "wookieepedia_title": "Model 47 Spitrolighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Model_47_Spitrolighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Model 47 Spitrolighter was a light freighter manufactured by Arden Industries.",
+  "data": {
+    "name": "Model 47 Spitrolighter",
+    "manufacturer": "Arden Industries",
+    "type": "Light freighter",
+    "cost": "155,000 credits",
+    "length": "30 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 7"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "2; 2 gunners",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months"
+  },
+  "scraped": "2026-07-03"
+}

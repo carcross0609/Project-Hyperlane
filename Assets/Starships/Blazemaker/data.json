@@ -1,0 +1,24 @@
+{
+  "name": "Blazemaker",
+  "wookieepedia_title": "Blazemaker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blazemaker",
+  "continuity": "Unknown",
+  "infobox_template": "IndividualShip",
+  "description": "The Blazemaker was a starship owned by Zander Freemaker during the Imperial Era. It was a Z-wing and Zander considered the ship his pride and joy. After Zander took Wick Cooper's vintage N-1 starfighter for a damaging joyride, Cooper took the starship as compensation and to spite Zander. However, Zander forgot to fix the fusion tubes and the starship exploded. Wick bailed out and vowed to sue the Freemakers. Zander then decided that he would address the fusion tube issue in the Blazemaker Mark II.",
+  "data": {
+    "name": "Blazemaker",
+    "manufacturer": "Zander Freemaker",
+    "type": [
+      "Ugly",
+      "  Z-wing"
+    ],
+    "engine": "SFS-204 sublight ion engine",
+    "destroyed": "Between 3 ABY and 4 ABY, outside The Wheel.",
+    "affiliation": "Freemakers",
+    "owners": [
+      "Zander Freemaker",
+      "Wick Cooper"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

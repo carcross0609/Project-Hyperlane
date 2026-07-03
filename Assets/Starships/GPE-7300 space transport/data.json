@@ -1,0 +1,28 @@
+{
+  "name": "GPE-7300 space transport",
+  "wookieepedia_title": "GPE-7300 space transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GPE-7300_space_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The GPE-7300 was sturdy and fast space transport built by Galactic Power Engineering.",
+  "data": {
+    "name": "GPE-7300 space transport",
+    "manufacturer": "Galactic Power Engineering",
+    "model": "GPE-7300 space transport",
+    "cost": "165,000 credits (90,000 used)",
+    "max_speed": "1050 km/h",
+    "hyperdrive": "Class 2",
+    "navigation": "Navigation computer",
+    "armament": "Heavy laser cannons",
+    "crew": "Pilot (1)",
+    "passengers": "4",
+    "capacity": "45 tons",
+    "consumables": "1 month",
+    "availability": "Licensed",
+    "role": [
+      "Transport",
+      "Long-range shuttle"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

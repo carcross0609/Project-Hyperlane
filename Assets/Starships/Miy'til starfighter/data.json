@@ -1,0 +1,51 @@
+{
+  "name": "Miy'til starfighter",
+  "wookieepedia_title": "Miy'til starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Miy%27til_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Miy'til starfighter was a fighter unique to the Hapes Consortium, where it served as the primary superiority fighter for the Hapan Royal Navy.",
+  "data": {
+    "name": "Miy'til starfighter",
+    "manufacturer": "Olanji/Charubah",
+    "model": "Miy'til starfighter",
+    "type": "Starfighter",
+    "cost": [
+      "210,000 credits (new)",
+      "85,000 (used)"
+    ],
+    "length": "7.5 meters",
+    "width": "7.2 meters",
+    "mglt": "160 MGLT",
+    "max_speed": "1,150 km/h",
+    "engine": "Incom 6X4 fusial thrust engines (4)",
+    "hyperdrive": [
+      "Class 1.5",
+      "Backup Class 12.0"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "Laser cannons (2) (Single-fire or linked)",
+      "Concussion missile launcher (1)",
+      "  Standard load: 6 missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "25 kilograms",
+    "consumables": "1 week",
+    "role": [
+      "Patrol interceptor",
+      "Space superiority starfighter"
+    ],
+    "affiliation": [
+      "Hapes Consortium",
+      "  Hapan Royal Navy",
+      "Confederation",
+      "  Heritage Council"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

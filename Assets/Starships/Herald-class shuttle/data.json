@@ -1,0 +1,42 @@
+{
+  "name": "Herald-class shuttle",
+  "wookieepedia_title": "Herald-class shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Herald-class_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Herald-class shuttle was a light freighter created by the Star Forge for use in the Jedi Civil War.",
+  "data": {
+    "name": "Herald-class shuttle",
+    "manufacturer": "Republic Fleet Systems, Star Forge",
+    "model": "Herald-class shuttle",
+    "cost": [
+      "Estimated cost 120,000 credits",
+      "Estimated cost 222,500 credits shuttle-only model"
+    ],
+    "length": "28 meters",
+    "max_speed": "600 km/h",
+    "hyperdrive": "Class 2",
+    "countermeasures": "6",
+    "armament": [
+      "Turbolasers (2)",
+      "Point-defense double laser cannons (2)"
+    ],
+    "complement": [
+      "Landspeeder (1)",
+      "Speeder bikes (2)"
+    ],
+    "crew": "2",
+    "passengers": [
+      "5",
+      "10 on shuttle-only models"
+    ],
+    "capacity": [
+      "70 tons",
+      "15 tons on shuttle-only models"
+    ],
+    "consumables": "1 month",
+    "role": "Freighter",
+    "affiliation": "Sith Empire"
+  },
+  "scraped": "2026-07-03"
+}

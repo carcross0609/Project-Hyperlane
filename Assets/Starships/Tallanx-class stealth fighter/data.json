@@ -1,0 +1,32 @@
+{
+  "name": "Tallanx-class stealth fighter",
+  "wookieepedia_title": "Tallanx-class stealth fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tallanx-class_stealth_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Tallanx-class stealth fighter was a type of starfighter that saw regular service during the Galactic Civil War. It was involved in fighting on Ord Gimmel. The Tallanx-class was fast and agile but very lightly armed and designed strictly for swift sneak attacks using its stealth systems to ambush its prey.",
+  "data": {
+    "name": "Tallanx-class stealth fighter",
+    "manufacturer": "Gimmellian Shipworks",
+    "type": "Starfighter",
+    "cost": "120,000 credits",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer",
+    "countermeasures": [
+      "Electronic countermeasures",
+      "Gimmellian Stealth Device"
+    ],
+    "armament": "Light Laser cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "consumables": "2 weeks",
+    "lifesupport": "Equipped",
+    "role": "Stealth fighter",
+    "affiliation": [
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

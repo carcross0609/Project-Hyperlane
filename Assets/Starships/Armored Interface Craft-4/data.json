@@ -1,0 +1,30 @@
+{
+  "name": "Armored Interface Craft-4",
+  "wookieepedia_title": "Armored Interface Craft-4",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Armored_Interface_Craft-4",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Armored Interface Craft-4 was a medium-sized dropship used by the Galactic Empire and produced by Sonda Armament.",
+  "data": {
+    "name": "Armored Interface Craft-4",
+    "manufacturer": "Sonda Armament",
+    "type": "Dropship",
+    "length": "40 meters",
+    "max_speed": [
+      "1,150 KMH (during drop)",
+      "750 KMH (return flight)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "2 heavy repeating blasters"
+    ],
+    "crew": "6",
+    "passengers": "44",
+    "capacity": "10 metric tons",
+    "consumables": "3 days",
+    "role": "Troop dropship"
+  },
+  "scraped": "2026-07-03"
+}

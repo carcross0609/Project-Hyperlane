@@ -1,0 +1,29 @@
+{
+  "name": "Cumulus-class corsair",
+  "wookieepedia_title": "Cumulus-class corsair",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cumulus-class_corsair",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Cumulus-class corsair was a type of corsair ship used by the Pirate King Gorian Shard approximately five years after the Battle of Endor.",
+  "data": {
+    "name": "Cumulus-class corsair",
+    "model": "Cumulus-class Corsair",
+    "type": "Corsair",
+    "length": "126 meters (413 feet)",
+    "mglt": "75 mglt",
+    "engine": "Multiple engines",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Quad laser cannon turrets (4)",
+      "Ventral gunwales (14)"
+    ],
+    "complement": "At least 10 F3-Vara snubfighters",
+    "bays": "Dorsal hangar",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "affiliation": "Gorian Shard's pirate crew"
+  },
+  "scraped": "2026-07-03"
+}

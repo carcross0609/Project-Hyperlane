@@ -1,0 +1,19 @@
+{
+  "name": "TIE/rc",
+  "wookieepedia_title": "TIE/rc",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/rc",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/rc was a model of reconnaissance TIE series starfighter that was used by the Galactic Empire. It was a variant produced from the base TIE/ln space superiority starfighter by fitting the standard model's fuselage with specialized equipment. For the TIE/rc, this meant replacing the TIE/ln's laser cannons with a suite of advanced sensor equipment to serve specifically for reconnaissance and surveillance missions.",
+  "data": {
+    "name": "TIE/rc",
+    "line": "TIE series",
+    "sensor": "Equipped",
+    "role": [
+      "Reconnaissance",
+      "Surveillance"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

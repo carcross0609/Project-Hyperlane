@@ -1,0 +1,44 @@
+{
+  "name": "CR70 corvette",
+  "wookieepedia_title": "CR70 corvette/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CR70_corvette/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CR70 corvette was a predecessor of the CR90 corvette, produced by the Corellian Engineering Corporation. The Sundered Heart was a CR70 corvette before later being retrofitted with the Vanguard c20 retrofit suite to become a CR90 corvette.",
+  "data": {
+    "name": "CR70 corvette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "CR series",
+    "model": "CR70 corvette",
+    "type": "Corvette",
+    "cost": [
+      "2.9 million credits (new)",
+      "1 million credits (used)"
+    ],
+    "length": "≈120 meters",
+    "width": "≈49 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Primary dorsal sensor unit",
+    "navigation": "Navicomputer",
+    "armament": "None (stock)",
+    "escapepods": "High-capacity escape pods mimicking cannon turrets (2)",
+    "crew": "18 to 150",
+    "passengers": "Up to 600 (depending on configuration)",
+    "capacity": "5,000 tons",
+    "consumables": "1 year",
+    "othersystems": "Ventral docking ring and boarding ramp",
+    "availability": "Licensed",
+    "role": [
+      "Corvette",
+      "Transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Rebel Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

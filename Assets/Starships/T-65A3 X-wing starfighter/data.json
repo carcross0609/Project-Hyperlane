@@ -1,0 +1,24 @@
+{
+  "name": "T-65A3 X-wing starfighter",
+  "wookieepedia_title": "T-65A3 X-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-65A3_X-wing_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The T-65A3 X-wing was the starfighter flown by Rogue Squadron in 25 ABY.",
+  "data": {
+    "name": "T-65A3 X-wing starfighter",
+    "manufacturer": "Incom Corporation",
+    "line": "X-wing",
+    "model": "T-65A3",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "target": "Equipped",
+    "armament": [
+      "Laser cannons (4)",
+      "Proton torpedo magazines (2)"
+    ],
+    "crew": "Pilot (1)",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

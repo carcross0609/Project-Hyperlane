@@ -1,0 +1,93 @@
+{
+  "name": "Munificent-class star frigate",
+  "wookieepedia_title": "Munificent-class star frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Munificent-class_star_frigate",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Munificent-class star frigate, also known as the Munificent-class star Banking Clan frigate, Munificent-class heavy frigate, Separatist frigate or Banking Clan frigate, was a warship designed by Hoersch-Kessel Drive Inc. and Gwori Revolutionary Industries for use by the InterGalactic Banking Clan, the Trade Federation, and later the Confederacy of Independent Systems during the Clone Wars.",
+  "data": {
+    "name": "Munificent-class star frigate",
+    "manufacturer": [
+      "Gwori Revolutionary Industries",
+      "Hoersch-Kessel Drive Inc."
+    ],
+    "model": [
+      "Munificent-class star frigate",
+      "  Munificent-class Comms Frigate"
+    ],
+    "type": [
+      "Cruiser (pocket cruiser)",
+      "Frigate"
+    ],
+    "cost": "12,000,000 credits",
+    "length": "825 meters (2,707 ft)",
+    "width": "426 meters (1,397 ft, 8 in)",
+    "height": "243 meters (797 ft, 3 in)",
+    "max_accel": "2,500 G",
+    "max_speed": "950 kilometers per hour",
+    "engine": "7 ion drive thrusters",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Multiple hyperdrive units",
+    "power": "Twin main reactors",
+    "shield_gen": [
+      "Deflector shield generator",
+      "Ray shield generator"
+    ],
+    "hull": "Lightly armored",
+    "sensor": "Long-range sensory antennae",
+    "navigation": "Navigation computer",
+    "countermeasures": "Hyperwave, sensor and targeting jammers",
+    "armament": [
+      "2 heavy turbolaser cannons",
+      "2 heavy ion cannons",
+      "26 twin light turbolasers",
+      "20 light turbolaser turrets",
+      "8-12 medium flak cannons",
+      "40 twin light laser cannons (retractable)",
+      "Ordnance launchers"
+    ],
+    "complement": [
+      "48 Vulture-class droid starfighters (4 squadrons)",
+      "12 - 36 starfighters (depending on configuration)"
+    ],
+    "escapepods": "Equipped",
+    "crew": [
+      "Largely automated and controlled by droid brain",
+      "1,100 officers, pilots and enlisted crew (lifeforms)"
+    ],
+    "skeleton": "200 battle droids",
+    "passengers": [
+      "150,000 battle droids",
+      "Up to 850 troops and support staff (depending on configuration)"
+    ],
+    "capacity": "10,000 tons",
+    "consumables": "2 years",
+    "communications": "2 hyperwave supralight transceivers",
+    "othersystems": [
+      "Inertial compensator",
+      "Neutrino radiator",
+      "Tensor field generator"
+    ],
+    "role": [
+      "Multi-role",
+      "Combat-communications vessel",
+      "Corporate asset protection",
+      "Flagship",
+      "Fleet coordination and navigation",
+      "Squadron command"
+    ],
+    "firstuse": "Decades before the Clone Wars",
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "Trade Federation",
+      "  Trade Federation fleet",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Sidon Ithano's crew"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

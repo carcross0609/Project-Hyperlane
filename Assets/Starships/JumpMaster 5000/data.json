@@ -1,0 +1,24 @@
+{
+  "name": "JumpMaster 5000",
+  "wookieepedia_title": "JumpMaster 5000",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/JumpMaster_5000",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The JumpMaster 5000 was a model of lightly-armed starship designed for long-distance reconnaissance missions and scouting new hyperlane routes. One such vessel was the Punishing One owned by the bounty hunter Dengar.",
+  "data": {
+    "name": "JumpMaster 5000",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Scout ship",
+    "cost": "55,000 credits",
+    "hyperdrive": [
+      "Class 3 (Primary)",
+      "Class 15 (Backup)"
+    ],
+    "sensor": "Extreme",
+    "armament": "Light laser cannon",
+    "crew": "1 pilot",
+    "passengers": "1",
+    "consumables": "2 months"
+  },
+  "scraped": "2026-07-03"
+}

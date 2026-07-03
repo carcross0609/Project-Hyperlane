@@ -1,0 +1,57 @@
+{
+  "name": "Punworcca 116-class interstellar sloop",
+  "wookieepedia_title": "Punworcca 116-class interstellar sloop/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Punworcca_116-class_interstellar_sloop/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Punworcca 116-class interstellar sloop was a personal yacht designed by the Huppla Pasa Tisc Shipwrights Collective of Geonosis. Count Dooku possessed such a vessel that was gifted to him by Archduke Poggle the Lesser. His particular vessel was heavily modified, propelled by a unique solar sail using ancient Gree technology. He used the vessel to enter and leave Coruscant undetected.",
+  "data": {
+    "name": "Punworcca 116-class interstellar sloop",
+    "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+    "model": "Punworcca 116-class interstellar sloop",
+    "type": "Yacht",
+    "cost": "35,700 credits",
+    "length": [
+      "15.2 meters",
+      "105.16 meters with sail deployed"
+    ],
+    "width": "4.6 meters",
+    "height": "4.8 meters",
+    "max_accel": [
+      "1,000 G (using sail)",
+      "30 G (using backup repulsors)"
+    ],
+    "max_speed": "1,600 km/h",
+    "engine": [
+      "Gree solar sail (only Dooku's)",
+      "Backup repulsorlift system",
+      "Guide Thrusters (2)"
+    ],
+    "hyperdrive": "Class 1.5",
+    "shield_gen": "Triple-layer shield system",
+    "navigation": "Navicomputer",
+    "armament": "1 array of 84 miniature tractor-repulsor projectors",
+    "crew": [
+      "Pilots (2)",
+      "Engineer (1)"
+    ],
+    "skeleton": "1",
+    "passengers": [
+      "1 (standard usage)",
+      "10 (standing room only)"
+    ],
+    "capacity": "240 kg",
+    "consumables": "1 week",
+    "othersystems": "HoloNet transceiver",
+    "availability": "Licensed",
+    "role": "Transport",
+    "firstuse": "32 BBY",
+    "affiliation": [
+      "Order of the Sith Lords",
+      "Count Dooku",
+      "Dark Acolytes",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

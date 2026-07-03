@@ -1,0 +1,40 @@
+{
+  "name": "Imperial research transport",
+  "wookieepedia_title": "Imperial research transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_research_transport",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperial research transport, also simply called a science vessel, was a type of Imperial transport utilized for the capture, containment and transport of various cloning experiments conducted by the Advanced Science Division. It was manned by Imperial commandos led by Imperial royal guards. One such transport, transport 904, saw its Zillo Beast \"Specimen A\" escape while traveling in hyperspace; the escaped beast rampaged through the ship consuming the crew and damaging its systems, forcing it to drop out of hyperspace before reaching its destination and crash-landing on Silla. The reinforced walls kept the beast contained inside, until Clone Force 99 arrived to salvage any valuables still inside and encountered the beast, which gave chase to them and eventually escaped when they accidentally blew a hole through a wall.",
+  "data": {
+    "name": "Imperial research transport",
+    "type": [
+      "Science vessel",
+      "Transport"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Proximity sensors",
+    "armament": "Ventral-mounted NNJ-40 \"Thunderbolt\" long-range ion cannon",
+    "crew": [
+      "Conscription trooper pilots (2)",
+      "1 Imperial officer",
+      "R-series astromech droids (4)",
+      "MSE-6 series repair droid",
+      "RA-7 protocol droid"
+    ],
+    "passengers": [
+      "Imperial clone commandos (19)",
+      "At least one Imperial nanny droid",
+      "Several TK stormtroopers"
+    ],
+    "lifesupport": "Equipped",
+    "role": [
+      "Containment and transport of Zillo Beast clones",
+      "Transport of science personnel to Tantiss Base"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Advanced Science Division"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

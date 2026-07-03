@@ -1,0 +1,58 @@
+{
+  "name": "Starhawk-class Battleship Mark I",
+  "wookieepedia_title": "Starhawk-class Battleship Mark I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starhawk-class_Battleship_Mark_I",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Starhawk-class Battleship Mark I, also known as the Mark One Starhawk or Nadiri Mk I Starhawk, was the first model of Starhawk-class battleships in service with the New Republic Defense Fleet. Like all the ships constructed at the Nadiri Dockyards, they were constructed from disassembled captured Imperial spacecraft. It was notable for being one of the first class of ships built by the New Republic, through military contract, after the Battle of Endor. By 5 ABY, at least three Starhawks had been constructed: the Amity, the Concord, and the Unity. The Amity and Concord were destroyed during the Battle of Jakku.",
+  "data": {
+    "name": "Starhawk-class Battleship Mark I",
+    "line": "Starhawk-class battleship",
+    "type": "Battleship",
+    "cost": "60,000,000 credits",
+    "length": "2,400 meters",
+    "height": "900 meters (forward bow approximation)",
+    "engine": "Equipped",
+    "hyperdrive": [
+      "Class 1.5 (primary)",
+      "Class 5 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "power": [
+      "Magna-batteries",
+      "Fuel cells"
+    ],
+    "shield_gen": "Deflector shields",
+    "sensor": "Long-range",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Octuple turbolaser batteries (10)",
+      "Forward-mounted heavy turbolaser batteries (24)",
+      "Battleship ion cannon turrets (40)",
+      "Forward-mounted battleship ion cannon batteries (4)",
+      "Hull-mounted concussion missile launchers (32)",
+      "Point-defense heavy laser cannons (36)",
+      "Magnite Crystal Tractor Beam Arrays (6)",
+      "Ion torpedoes"
+    ],
+    "complement": [
+      "36 T-65B X-wing starfighters",
+      "24 RZ-1 A-wing interceptors",
+      "12 A/SF-01 B-wing starfighters",
+      "Numerous shuttles, landing craft, and utility vehicles"
+    ],
+    "bays": "2+",
+    "escapepods": "Escape pods",
+    "crew": "33,650 officers and enlisted crew",
+    "passengers": "7,200 troops",
+    "consumables": "Two years",
+    "communications": "Equipped",
+    "role": "Flagship",
+    "firstuse": "5 ABY",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

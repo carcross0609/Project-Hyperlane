@@ -1,0 +1,58 @@
+{
+  "name": "Supremacy-class attack ship",
+  "wookieepedia_title": "Supremacy-class attack ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Supremacy-class_attack_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Supremacy-class attack ship was the primary capital ship of the Krath and used by its leaders.",
+  "data": {
+    "name": "Supremacy-class attack ship",
+    "manufacturer": "Koros Spaceworks",
+    "model": "Supremacy-class attack ship",
+    "type": [
+      "Attack ship",
+      "Cruiser (standard classification)"
+    ],
+    "cost": "Estimated cost 16,000,000 credits",
+    "length": "550 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 8 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Light double turbolaser batteries (3)",
+      "Heavy ion cannon batteries (3)",
+      "Point-defense medium laser cannon batteries (10)",
+      "Tractor beam generator batteries (3)"
+    ],
+    "complement": [
+      "CX-133 Chaos fighters (144)",
+      "Shuttles (8)",
+      "Krath troops",
+      "Mandalorian Crusaders",
+      "Basilisk war droids"
+    ],
+    "crew": [
+      "1,800",
+      "  52 gunners"
+    ],
+    "passengers": "3,000 troops",
+    "capacity": "6,000 tons",
+    "consumables": "2 years",
+    "availability": "Military",
+    "role": [
+      "Assault ship",
+      "Command ship",
+      "Carrier",
+      "Mobile attack platform",
+      "Warship"
+    ],
+    "affiliation": [
+      "Krath",
+      "Sith Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

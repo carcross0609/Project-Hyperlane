@@ -1,0 +1,29 @@
+{
+  "name": "Freighter Type C",
+  "wookieepedia_title": "Freighter Type C",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Freighter_Type_C",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Freighter Type C was a medium-sized cargo freighter manufactured by Yuung, Tygg & Josse Engineering.",
+  "data": {
+    "name": "Freighter Type C",
+    "manufacturer": "Yuung, Tygg & Josse Engineering Corporation",
+    "type": "Medium freighter",
+    "length": "190.43 meters",
+    "width": "60.31 meters",
+    "height": "32.06 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "15 MGLT",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 232 SBD",
+    "hull": "Rated 156 RU",
+    "armament": "None",
+    "crew": "4",
+    "skeleton": "1",
+    "role": "Freight transport",
+    "affiliation": [
+      "Various: private and commercial"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

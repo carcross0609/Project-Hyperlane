@@ -1,0 +1,38 @@
+{
+  "name": "Porax-38 starfighter",
+  "wookieepedia_title": "Porax-38 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Porax-38_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Porax-38 (P-38) starfighter was a tough, hyperdrive-equipped starfighter used by the Utapauns as part of the Utapau Skyforce. Some models were adapted by the Confederacy of Independent Systems into the Rogue-class starfighter line.",
+  "data": {
+    "name": "Porax-38 starfighter",
+    "manufacturer": "Buuper Torsckil Abbey Devices",
+    "model": "Porax-38 starfighter",
+    "type": "Starfighter",
+    "cost": "120,000 credits",
+    "length": "12.7 meters",
+    "width": "12.88 meters",
+    "height": "2.71 meters",
+    "max_accel": "3,300 G",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 1.0 or 2.0",
+    "hdrange": "3,000 light-years",
+    "poweroutput": "5.6 × 1017 W",
+    "power": "Hypermatter annihilator",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Fire-linked laser cannons (2)",
+      ":Fire arc: Front",
+      "Munitions rack with 8 mounts (Bomber version)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "65 kg",
+    "consumables": "2 to 20 days",
+    "role": "Planetary/sector defense",
+    "affiliation": "Utapau Skyforce"
+  },
+  "scraped": "2026-07-03"
+}

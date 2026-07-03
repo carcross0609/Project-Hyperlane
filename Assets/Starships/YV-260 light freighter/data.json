@@ -1,0 +1,27 @@
+{
+  "name": "YV-260 light freighter",
+  "wookieepedia_title": "YV-260 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-260_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YV-260 light freighter was a freighter manufactured by Corellian Engineering Corporation.",
+  "data": {
+    "name": "YV-260 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV series",
+    "model": "YV-260 light freighter",
+    "type": "Freighter",
+    "length": "41.5 meters",
+    "hyperdrive": "Class 1 (x8 backup)",
+    "armament": [
+      "Blaster cannons (2)",
+      "Twin Ion cannon turrets (2)",
+      "Tractor beam projector"
+    ],
+    "crew": "2",
+    "passengers": "28 (prisoners and troops)",
+    "capacity": "40 metric tons",
+    "consumables": "1 month"
+  },
+  "scraped": "2026-07-03"
+}

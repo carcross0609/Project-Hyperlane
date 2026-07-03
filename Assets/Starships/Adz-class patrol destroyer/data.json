@@ -1,0 +1,52 @@
+{
+  "name": "Adz-class patrol destroyer",
+  "wookieepedia_title": "Adz-class patrol destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adz-class_patrol_destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Adz-class patrol destroyer was a type of small capital ship used by the forces of the Galactic Empire in the later stages of the Galactic Civil War.",
+  "data": {
+    "name": "Adz-class patrol destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Adz-class patrol destroyer",
+    "type": "Destroyer",
+    "cost": "4,450,000 credits",
+    "length": "150 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup) (limited to 4 jumps)"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Quad Laser cannon batteries (3)",
+      ":Fire Arc: Turret",
+      ":Crew: 2",
+      ":Space Range: 75 km",
+      ":Atmospheric Range: 150 km",
+      "Ion cannon batteries (3)",
+      ":Fire Arc: Turret",
+      ":Crew: 2",
+      ":Space Range: 50 km",
+      ":Atmospheric Range: 100 km"
+    ],
+    "complement": "Starfighters (6)",
+    "crew": [
+      "Crewmembers (12)",
+      "Gunners (12)"
+    ],
+    "skeleton": "6",
+    "passengers": [
+      "Troopers (8)",
+      "Brig (4)"
+    ],
+    "capacity": "400 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Patrol",
+      "Reconnaissance"
+    ],
+    "affiliation": "Imperial Remnant"
+  },
+  "scraped": "2026-07-03"
+}

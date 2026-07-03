@@ -1,0 +1,83 @@
+{
+  "name": "Low Altitude Assault Transport/infantry",
+  "wookieepedia_title": "Low Altitude Assault Transport/infantry",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Low_Altitude_Assault_Transport/infantry",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Low Altitude Assault Transport/infantry (LAAT/i), also referred to as the Republic Gunship, Republic attack gunship, Assault Gunship, or LAATi, and nicknamed a larty, was one of the several models in the Low Altitude Assault Transport line of starships that mainly served as gunships and troop transports for the Grand Army of the Republic during the Clone Wars. Its role was to transport clone troopers as well as offering air-to-ground and air-to-air support for the Galactic Republic against the Confederacy of Independent Systems. The LAAT/i gunship saw extensive use in numerous battles and campaigns of the Clone Wars. During the Imperial Era, the ships continued to see use by various factions, including both the Galactic Empire and Alliance to Restore the Republic.",
+  "data": {
+    "name": "Low Altitude Assault Transport/infantry",
+    "manufacturer": "Rothana Heavy Engineering",
+    "line": "Low Altitude Assault Transport",
+    "model": "LAAT/i",
+    "type": [
+      "Gunship",
+      "Transport",
+      "Starfighter",
+      "Bomber"
+    ],
+    "cost": "85,000 credits",
+    "length": [
+      "17.69 meters",
+      "17.4 meters (clearance with guns)"
+    ],
+    "width": [
+      "17 or 28.8 meters"
+    ],
+    "height": [
+      "6.1 or 6.94 meters"
+    ],
+    "max_speed": "620 kph (388 mph)",
+    "engine": [
+      "Repulsorlift arrays (ventral, wing and tail repulsors)",
+      "2 thrust engines (rear)"
+    ],
+    "sensor": [
+      "Medium-ranged sensors",
+      "Navigational terrain-sensor"
+    ],
+    "maincomp": "Flight computer",
+    "armament": [
+      "3 antipersonnel turrets (2 chin-mounted, 1 tail-mounted)",
+      "4 composite-beam pinpoint laser turrets (2 manned and optional bow side-mounted, 2 remote wing-mounted)",
+      "8 light air-to-air rockets (ventral wing-mounted)",
+      "Mass-driver missile launchers (dorsal-mounted) (variable payload) or 2 EP-750X EMP missile launchers",
+      "  Missile belts (dorsal-mounted)"
+    ],
+    "complement": [
+      "Speeder bikes (4)",
+      "IM-6 Battlefield Medical Droid"
+    ],
+    "escapepods": "Escape capsule",
+    "crew": [
+      "Clone trooper pilot (2)",
+      "  Co-pilot/Forward gunner (1)",
+      "Auxiliary turret clone gunners (2) (optional)"
+    ],
+    "passengers": "30 clone troopers (heavy infantry) (one platoon)",
+    "capacity": "30 kilograms (encumbrance)",
+    "othersystems": "Blast shields",
+    "role": [
+      "Lander",
+      "Escort",
+      "Elevated gun platform",
+      "Infantry transport",
+      "Air-to-ground support",
+      "Air-to-air support"
+    ],
+    "firstuse": "22 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Kashyyyk resistance",
+      "Partisans",
+      "Hidden Path",
+      "Alliance to Restore the Republic",
+      "  Tatooine rebel cell",
+      "Jul Tambor's forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

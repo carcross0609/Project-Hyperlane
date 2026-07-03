@@ -1,0 +1,33 @@
+{
+  "name": "Corsair-class cruiser",
+  "wookieepedia_title": "Corsair-class cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corsair-class_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Corsair-class cruiser was an 18-meter heavy assault starfighter built by SoroSuub. It was armed with two turbolaser batteries and a pair of ion cannons. It was used by the Cavrilhu Pirates, Dharus’ Buccaneers, as well as by the pirate Rei'Kas.",
+  "data": {
+    "name": "Corsair-class cruiser",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Corsair-class cruiser",
+    "type": "Starfighter",
+    "cost": "275,000 Galactic Credit Standard",
+    "length": "18 meters",
+    "hyperdrive": "Class 3.0",
+    "hdsystem": "Equipped",
+    "navigation": "Limited to 3 jumps",
+    "armament": [
+      "Turbolaser batteries (2)",
+      ":Fire Arc: Front",
+      ":Space Range: 50 km",
+      "Ion cannons (2)",
+      ":Fire Arc: Turret",
+      ":Space Range: 30 km"
+    ],
+    "crew": "2, 1 gunner",
+    "passengers": "None",
+    "capacity": "15 kilograms",
+    "consumables": "2 days",
+    "role": "Heavy assault starfighter"
+  },
+  "scraped": "2026-07-03"
+}

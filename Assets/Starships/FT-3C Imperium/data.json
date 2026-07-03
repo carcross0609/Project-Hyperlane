@@ -1,0 +1,22 @@
+{
+  "name": "FT-3C Imperium",
+  "wookieepedia_title": "FT-3C Imperium",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/FT-3C_Imperium",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The FT-3C Imperium was a starfighter in the reconstituted Sith Empire which performed in Strikefighter roles. Created in the shipyards of Dromund Kalakar, the Imperium was derived from the similar F-T2 Quell, though it was designed as a sensor-oriented coordinator starfighter.",
+  "data": {
+    "name": "FT-3C Imperium",
+    "manufacturer": "Dromund Kalakar shipyards",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 twin laser cannons",
+      "equipable missiles or torpedoes"
+    ],
+    "role": "Reconnaissance",
+    "affiliation": "Sith Empire"
+  },
+  "scraped": "2026-07-03"
+}

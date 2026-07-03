@@ -1,0 +1,35 @@
+{
+  "name": "Purgatory-class prison ship",
+  "wookieepedia_title": "Purgatory-class prison ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Purgatory-class_prison_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Purgatory-class prison ship was the modified version of the Porter-class transport.",
+  "data": {
+    "name": "Purgatory-class prison ship",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Purgatory-class prison ship",
+    "cost": "Not available for sale",
+    "length": "1,060 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 14 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "turbolasers (5)",
+      "laser cannons (16)"
+    ],
+    "bays": "2",
+    "crew": "350",
+    "passengers": "200 guards and 4,000 prisoners",
+    "capacity": "15,000 tons of cargo",
+    "consumables": "5 years",
+    "role": "Prison ship",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Bio-fighter",
+  "wookieepedia_title": "Bio-fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bio-fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The bio-fighter was a construct created by the same Charon bioengineering that went into the Desolate.",
+  "data": {
+    "name": "Bio-fighter",
+    "manufacturer": "Charon",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "armament": "Tri-laser pulse-cannon",
+    "crew": "1 pilot, 1 gunner",
+    "role": "Assault",
+    "affiliation": "Charon"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "VR-10 Cuirilla-Rayl Xylines-class spacetug",
+  "wookieepedia_title": "VR-10 Cuirilla-Rayl Xylines-class spacetug",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/VR-10_Cuirilla-Rayl_Xylines-class_spacetug",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The VR-10 Cuirilla-Rayl Xylines-class spacetug, sometimes known as Cuirilla-Raye Xylines-class Spacetug and often called CRX-Tug, was a short-range starship designed to tow bigger transports to their docks. Slow, difficult to customize and lacking hyperdrive or stock weaponry, the Xylines-class spacetug was unpopular among spacers, although it was seen in fleets of the Alliance to Restore the Republic and in the hands of pirates like Yearo Seville, as was the case with the Worthless Fool. The Cragmoloid smuggler Rooty owned a modified Xylines-class spacetug, the Solar Grazer.",
+  "data": {
+    "name": "VR-10 Cuirilla-Rayl Xylines-class spacetug",
+    "model": "Xylines-Class Spacetug",
+    "type": "Starfighter",
+    "cost": [
+      "50,000 credits (new)",
+      "20,000 credits (used)"
+    ],
+    "length": "42 meters",
+    "max_speed": "230 kmh (atmosphere)",
+    "hyperdrive": "None",
+    "shield_gen": "None",
+    "armament": "2 turret-mounted Hansen FeatherTouch tractor beam projectors",
+    "crew": "2",
+    "skeleton": "2",
+    "passengers": "8",
+    "capacity": "225 tons",
+    "consumables": "2 weeks",
+    "role": [
+      "In-system towing"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

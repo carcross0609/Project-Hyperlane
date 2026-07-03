@@ -1,0 +1,23 @@
+{
+  "name": "NovaDive",
+  "wookieepedia_title": "NovaDive",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/NovaDive",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The NovaDive was a starfighter in the Galactic Republic which performed in scouting roles. The centerpiece of Corellia StarDrive's scout ship line, it was designed to be equipped with advanced reconnaissance, communication and offensive capabilities. Touting the ability to immediately recognize enemy spacecraft from afar, the fast scout could then engage with its twin laser cannons or if faced with armored targets, release a volley of rockets. Its nimble outward appearance would fool some pilots but the scouts extreme maneuverability and velocity were a vital trade off for veteran pilots.",
+  "data": {
+    "name": "NovaDive",
+    "manufacturer": "Corellia StarDrive",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "Additional missiles and torpedoes equippable"
+    ],
+    "crew": "2",
+    "role": "Scout",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

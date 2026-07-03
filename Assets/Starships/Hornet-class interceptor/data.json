@@ -1,0 +1,29 @@
+{
+  "name": "Hornet-class interceptor",
+  "wookieepedia_title": "Hornet-class interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hornet-class_interceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Hornet-class interceptor was a sleek, insect-like starfighter built on the black market for the Tenloss Syndicate.",
+  "data": {
+    "name": "Hornet-class interceptor",
+    "manufacturer": "Tenloss Syndicate",
+    "model": "Hornet-class interceptor",
+    "type": "Starfighter",
+    "cost": "75,000 credits (32,000 used)",
+    "length": "14 meters",
+    "mglt": "105 MGLT",
+    "max_speed": "1,150 km/h",
+    "shield_gen": "Equipped",
+    "hull": "Relatively weak",
+    "armament": "Gyrhil R-9X heavy laser cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "80 kilograms",
+    "consumables": "5 days",
+    "availability": "Illegal",
+    "role": "Interceptor",
+    "affiliation": "Tenloss Syndicate"
+  },
+  "scraped": "2026-07-03"
+}

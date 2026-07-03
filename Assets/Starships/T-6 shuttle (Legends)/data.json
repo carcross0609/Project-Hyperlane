@@ -1,0 +1,32 @@
+{
+  "name": "T-6 shuttle",
+  "wookieepedia_title": "T-6 shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-6_shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The T-6 shuttle, also known as the Jedi ambassador shuttle, was a semicircular shuttle manufactured by Slayn & Korpil and in use by the Galactic Republic and the Jedi Order during the Clone Wars. Adorned with a Galactic Roundel and painted in the red-and-white color scheme of the Grand Army of the Republic, T-6 shuttles featured rotating cockpits and engine blocks, and were hyperdrive-equipped. Several craft of this model were utilized by Jedi throughout the Clone Wars on a variety of missions. It was still in use during the Galactic Civil War.",
+  "data": {
+    "name": "T-6 shuttle",
+    "manufacturer": "Slayn & Korpil",
+    "model": "T-6 shuttle",
+    "type": "Shuttle",
+    "length": "22.8 meters",
+    "hdsystem": "Equipped",
+    "armament": [
+      "None",
+      "Missile launchers (2)"
+    ],
+    "escapepods": "Survival capsule&ndash;equipped ejector seats",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "Yes",
+    "role": "Shuttle",
+    "firstuse": "Before 32 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

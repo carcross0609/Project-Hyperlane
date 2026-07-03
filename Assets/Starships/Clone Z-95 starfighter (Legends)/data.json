@@ -1,0 +1,39 @@
+{
+  "name": "Clone Z-95 starfighter",
+  "wookieepedia_title": "Clone Z-95 starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Clone_Z-95_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The clone Z-95 starfighter, known more commonly as the clone Z-95 Headhunter or the Headhunter starfighter after its predecessor model, was a single-seater starfighter developed by Incom and Subpro Corporations for the Galactic Republic's clone trooper pilots during the Clone Wars. A variant of the popular Z-95 Headhunter, the clone Z-95 starfighter boasted speed and maneuverability on account of its sleek design. It was equipped with recessed torpedo launchers and a pair of wingtip laser cannons, and its shielding allowed it to endure much damage, though it lacked a hyperdrive. The model was specifically customized for the clone trooper pilots of the Republic Navy, who often cross-trained in the Z-95 and another Incom/Subpro product, the heavy-duty ARC-170 starfighter, due to the similarity of both starships' flight controls.",
+  "data": {
+    "name": "Clone Z-95 starfighter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Subpro Corporation"
+    ],
+    "line": "Z-95 Headhunter",
+    "model": "Clone Z-95 starfighter",
+    "type": "Starfighter",
+    "length": "16.74 meters",
+    "width": "18.13 meters (wingspan)",
+    "engine": "Engines (2)",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Wingtip-mounted laser cannons (2)",
+      "Recessed torpedo launchers"
+    ],
+    "crew": "Pilot (1)",
+    "role": [
+      "Starfighter",
+      "Escort for larger craft"
+    ],
+    "firstuse": "21 BBY",
+    "retired": "After the Declaration of a New Order, 19 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

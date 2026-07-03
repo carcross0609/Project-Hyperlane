@@ -1,0 +1,35 @@
+{
+  "name": "Neutralizer-class bomber",
+  "wookieepedia_title": "Neutralizer-class bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Neutralizer-class_bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Neutralizer-class bomber was a starfighter developed by Sienar Fleet Systems during the time of the Sith–Imperial War using the designs of the Predator-class fighter. The bombers were used by the Sith-backed Fel Empire in its battles against the Galactic Alliance; however, they saw limited use following the end of the conflict. When forces loyal to deposed Emperor Roan Fel began to rebel against Dark Lord of the Sith Darth Krayt's regime, the Sith-led Empire began sending Neutralizer-class bombers to perform air strikes against locations believed to be hiding those sympathetic to the Emperor-in-exile.",
+  "data": {
+    "name": "Neutralizer-class bomber",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series (derivative)",
+    "model": "Neutralizer-class bomber",
+    "type": "Bomber",
+    "max_speed": "1,500 km/h",
+    "engine": "Equipped",
+    "hyperdrive": "Class 1.0",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannons (2)",
+      "Proton torpedoes (10)"
+    ],
+    "crew": "Pilot (1)",
+    "capacity": "110 kg",
+    "consumables": "1 week",
+    "availability": "Military",
+    "role": "Bomber",
+    "affiliation": [
+      "Fel Empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

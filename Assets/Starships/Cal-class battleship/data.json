@@ -1,0 +1,28 @@
+{
+  "name": "Cal-class battleship",
+  "wookieepedia_title": "Cal-class battleship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cal-class_battleship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Cal-class battleship was the final version of a warship type designed by the Kumauri Empire.",
+  "data": {
+    "name": "Cal-class battleship",
+    "manufacturer": [
+      "Kumauri Empire (original design)",
+      "Republic Navy"
+    ],
+    "type": "Battleship",
+    "length": "3,000 meters",
+    "armament": [
+      "Turbolasers",
+      "Large mass-driver cannon (1)",
+      "Tractor beam projectors (6)"
+    ],
+    "role": "Battleship",
+    "affiliation": [
+      "Kumauri Empire",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

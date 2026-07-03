@@ -1,0 +1,39 @@
+{
+  "name": "Gun tug",
+  "wookieepedia_title": "Gun tug/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gun_tug/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "SoroSuub Gun Tugs were small, two-seat spacecraft often employed by pirates and space scavengers.",
+  "data": {
+    "name": "Gun tug",
+    "manufacturer": "SoroSuub",
+    "model": "Gun Tug",
+    "type": "Starfighter",
+    "cost": "143,000 credits",
+    "length": "12 meters",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 Blaster cannons (fire-linked)",
+      "2 Tractor beams"
+    ],
+    "crew": "1 + 1 gunner",
+    "passengers": "none",
+    "capacity": "500 kg",
+    "consumables": "1 week",
+    "lifesupport": "Equipped",
+    "role": [
+      "Escort",
+      "Starfighter",
+      "Tug"
+    ],
+    "affiliation": [
+      "Civilian",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

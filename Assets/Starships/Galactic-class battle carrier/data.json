@@ -1,0 +1,27 @@
+{
+  "name": "Galactic-class battle carrier",
+  "wookieepedia_title": "Galactic-class battle carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galactic-class_battle_carrier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Galactic-class battle carrier was a capital ship in use by the Galactic Alliance Navy by 40 ABY, designed some point after the end of the Yuuzhan Vong War.",
+  "data": {
+    "name": "Galactic-class battle carrier",
+    "model": "Galactic-class battle carrier",
+    "type": "Battle carrier",
+    "length": "1,600 meters",
+    "complement": [
+      "One bay:",
+      "XJ6 X-wing starfighters (1 squadron)",
+      "Eta-5 interceptors (1 squadron)",
+      "Shield-equipped TIE/LN starfighters (2 squadrons)",
+      "B-wing starfighters (1/2 squadron)"
+    ],
+    "role": [
+      "Destroyer",
+      "Carrier"
+    ],
+    "affiliation": "Galactic Federation of Free Alliances"
+  },
+  "scraped": "2026-07-03"
+}

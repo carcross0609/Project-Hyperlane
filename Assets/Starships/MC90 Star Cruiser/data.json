@@ -1,0 +1,66 @@
+{
+  "name": "MC90 Star Cruiser",
+  "wookieepedia_title": "MC90 Star Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC90_Star_Cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MC90 Star Cruiser was a warship class designed by the Mon Calamari for the New Republic.",
+  "data": {
+    "name": "MC90 Star Cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC90 Star Cruiser",
+    "type": "Heavy Star Cruiser",
+    "cost": "Likely valued at 131,800,000 credits",
+    "length": "1,255 meters",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 9.0 (backup)"
+    ],
+    "poweroutput": "Peak: >9,28 × 1024 W (over 20% more power than the ISD-I)",
+    "power": "Power generator",
+    "shield_gen": "Increased main and backup shields",
+    "sensor": "Equipped",
+    "armament": [
+      "Light turbolaser batteries (75)",
+      ":Fire arc: 30 front, 15 each left/right/back",
+      ":Crew: 3",
+      ":Atmospheric range: 150 km",
+      "Heavy ion cannon batteries (30 - 35)",
+      ":Fire arc: 10 front, 8/10 each left/right, 4/5 back",
+      ":Crew: 7",
+      ":Atmospheric range: 100 km",
+      "Heavy proton torpedo/missile tubes (6)",
+      ":Fire arc: forward",
+      ":Ammunition: 16 missiles each",
+      ":Crew: 15",
+      ":Atmospheric range: 6 km",
+      "Tractor beam projectors (8)",
+      ":Fire arc: 5 forward, 1 starboard, 1 portside, 1 aft",
+      ":Crew: 10",
+      ":Atmospheric range: 60 km"
+    ],
+    "complement": "Starfighters (72)",
+    "crew": [
+      "Crew (5,860)",
+      "Gunners (605)"
+    ],
+    "skeleton": "1,350",
+    "passengers": "1,700 soldiers",
+    "capacity": "30,000 metric tons",
+    "consumables": "2 years",
+    "role": [
+      "Heavy combat cruiser",
+      "Battlecruiser",
+      "Command ship",
+      "Carrier",
+      "Destroyer"
+    ],
+    "firstuse": "9 ABY",
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

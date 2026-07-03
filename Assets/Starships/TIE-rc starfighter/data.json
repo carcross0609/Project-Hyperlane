@@ -1,0 +1,27 @@
+{
+  "name": "TIE/rc starfighter",
+  "wookieepedia_title": "TIE/rc starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/rc_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/rc starfighter was a variant of the standard TIE/LN starfighter that was used by the Galactic Empire which was specialized for reconnaissance, used for scouting in both fleet and starfighter wing operations.",
+  "data": {
+    "name": "TIE/rc starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/reconnaissance starfighter",
+    "type": "Starfighter",
+    "length": "6.3 meters",
+    "hyperdrive": "None",
+    "hdsystem": "None",
+    "shield_gen": "None",
+    "hull": "Titanium alloy hull (15 RU)",
+    "sensor": "Additional sensor and communications gear",
+    "armament": "SFS L-s1 laser cannon (1)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "role": "Reconnaissance",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

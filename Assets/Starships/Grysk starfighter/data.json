@@ -1,0 +1,25 @@
+{
+  "name": "Grysk starfighter",
+  "wookieepedia_title": "Grysk starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grysk_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Grysk Hegemony of the Grysk species employed a type of starfighter in their military. Equipped with missiles, spectrum laser, and electrostatic barriers, the Grysk starfighters were able to deal significant damage to Chiss heavy cruisers. However, during a skirmish against the Chiss heavy cruiser Steadfast, Chiss Ascendancy Admiral Ar'alani found a weakness in the fighters.",
+  "data": {
+    "name": "Grysk starfighter",
+    "designer": "Grysk Hegemony",
+    "manufacturer": "Grysk Hegemony",
+    "type": "Starfighter",
+    "shield_gen": "Light electrostatic barriers",
+    "armament": [
+      "Dual lasers",
+      "Quad missiles"
+    ],
+    "affiliation": [
+      "Jixtus's fleet",
+      "Grysk Hegemony",
+      "  Grysk military"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

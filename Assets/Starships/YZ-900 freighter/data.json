@@ -1,0 +1,27 @@
+{
+  "name": "YZ-900 freighter",
+  "wookieepedia_title": "YZ-900 freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YZ-900_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Corellian Engineering Corporation's YZ-900 was an unusually heavily-armed cargo vessel.",
+  "data": {
+    "name": "YZ-900 freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YZ series",
+    "model": "YZ-900",
+    "type": "Transport",
+    "length": "54.5 meters",
+    "armament": [
+      "Double heavy laser cannon turrets (2)",
+      "Double laser cannons (2)",
+      "Concussion missile launchers (at least 2)"
+    ],
+    "passengers": "14",
+    "capacity": "500 metric tons",
+    "affiliation": [
+      "Civilians"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

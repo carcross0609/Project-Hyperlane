@@ -1,0 +1,10 @@
+# Garbage scow
+
+**Continuity:** Legends  
+**Source:** [Garbage scow/Legends](https://starwars.fandom.com/wiki/Garbage_scow/Legends)
+
+A garbage scow was a type of starship designed to traverse space, seeking out debris that was obstructing spacelanes. During the time of the Cold War, a proxy-conflict between Galactic Republic and Sith Empire, Padawan Fia had crewed a garbage scow on Raxus Prime, previous to being inducted into the Jedi Order. During the administration of the Galactic Empire, the droid Tee-Eleven operated a garbage scow in the Core Worlds. However, over time, the droid's programming degraded and it vanished into the Outer Rim Territories together with its garbage scow, where it the scow was captured by the Kaarenth Dissention.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,35 @@
+{
+  "name": "TIE/rpt starfighter",
+  "wookieepedia_title": "TIE/rpt starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/rpt_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/rpt starfighter, or TIE Raptor, was an unofficial, smaller variant of the standard TIE Fighter.",
+  "data": {
+    "name": "TIE/rpt starfighter",
+    "manufacturer": [
+      "Sienar Fleet Systems (original TIE design and components)",
+      "Rancor Base (Raptor design and manufacture)"
+    ],
+    "line": "TIE Series (derivative)",
+    "model": "Twin Ion Engine/rpt starfighter",
+    "type": "Starfighter",
+    "length": "6.8 meters",
+    "max_speed": "1,050 kmh",
+    "hyperdrive": "Class 1.0",
+    "shield_gen": "Equipped on some ships",
+    "armament": [
+      "Laser cannons (4)",
+      "Concussion missile launchers (2)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "50 kilograms",
+    "role": [
+      "Space superiority fighter",
+      "Assault fighter"
+    ],
+    "affiliation": "Zsinj's Empire"
+  },
+  "scraped": "2026-07-03"
+}

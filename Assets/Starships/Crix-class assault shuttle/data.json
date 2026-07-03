@@ -1,0 +1,38 @@
+{
+  "name": "Crix-class assault shuttle",
+  "wookieepedia_title": "Crix-class assault shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crix-class_assault_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Crix-class assault shuttle, also designated A-2s, was an assault vessel used by the Galactic Alliance and later by the Galactic Alliance Core Fleet.",
+  "data": {
+    "name": "Crix-class assault shuttle",
+    "manufacturer": [
+      "Corellian Engineering Corporation",
+      "Mon Calamari Shipyards"
+    ],
+    "model": "Crix-class",
+    "type": "Assault shuttle",
+    "cost": "600,000 credits (260,000 used)",
+    "max_speed": "850 km/h",
+    "hyperdrive": "Class 1 (backup class 10)",
+    "shield_gen": "Equipped",
+    "sensor": "Long-range communication sensors",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Twin laser cannons",
+      "Blaster cannon battery (2)"
+    ],
+    "crew": "5",
+    "passengers": "50",
+    "capacity": "50 tons",
+    "consumables": "1 month",
+    "availability": "Military",
+    "role": "Assault shuttle",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

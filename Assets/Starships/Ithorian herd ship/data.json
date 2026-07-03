@@ -1,0 +1,32 @@
+{
+  "name": "Ithorian herd ship",
+  "wookieepedia_title": "Ithorian herd ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ithorian_herd_ship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "Ithorian herd ships were a class of massive city-ship used by the Ithorians as a home away from home. They were based on the repulsorlift herd-cities of their planet, but were enclosed for space travel. The ships travel the galaxy on a predetermined course set by the herd, but return to Ithor once every three years in an event known as the Herd Meet.",
+  "data": {
+    "name": "Ithorian herd ship",
+    "manufacturer": "Ithorian SkyYards",
+    "type": "City-ship",
+    "cost": "600,000,000 credits",
+    "length": "1,000 meters",
+    "width": "1,000 meters",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 9 (secondary)"
+    ],
+    "hdsystem": "Equipped",
+    "armament": [
+      "Dorsal turret-mounted medium turbolasers (10)",
+      "Ventral turret-mounted medium turbolasers (10)",
+      "Hull-mounted heavy tractor beam projectors (4)"
+    ],
+    "complement": "Numerous shuttles, landing craft, and utility vehicles",
+    "crew": "3,000",
+    "passengers": "10,000",
+    "consumables": "Three years",
+    "affiliation": "Ithorians"
+  },
+  "scraped": "2026-07-03"
+}

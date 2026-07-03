@@ -1,0 +1,29 @@
+{
+  "name": "Jermaguim-class Light Freighter",
+  "wookieepedia_title": "Jermaguim-class Light Freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jermaguim-class_Light_Freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Jermaguim-class Light Freighter, also known as the Jermaguim-class light cruiser, was a freighter of average design and popularity.",
+  "data": {
+    "name": "Jermaguim-class Light Freighter",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Light freighter",
+    "cost": "28,000 credits (used)",
+    "length": "25 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon",
+    "crew": "2",
+    "passengers": "8",
+    "cargohandling": "85 metric tons",
+    "consumables": "2 months",
+    "role": "Freighter"
+  },
+  "scraped": "2026-07-03"
+}

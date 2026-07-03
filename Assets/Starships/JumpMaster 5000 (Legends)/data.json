@@ -1,0 +1,31 @@
+{
+  "name": "JumpMaster 5000",
+  "wookieepedia_title": "JumpMaster 5000/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/JumpMaster_5000/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The JumpMaster 5000, also known as the JM-5000 Jumpmaster Long Range Scout, or colloquially as simply the JM-5K, was a scout ship designed by Corellian Engineering Corporation.",
+  "data": {
+    "name": "JumpMaster 5000",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "JumpMaster 5000",
+    "type": "Transport / Long-range scout",
+    "cost": "110,000 credits (40,000 used)",
+    "length": "20 meters",
+    "max_speed": "1200 km/h",
+    "hyperdrive": [
+      "Class 3.0",
+      "Class 15 (backup)"
+    ],
+    "sensor": "Military-grade long-range sensor suite",
+    "navigation": "Equipped",
+    "armament": "Twin Laser cannon (1)",
+    "crew": "1 (pilot)",
+    "passengers": "1",
+    "capacity": "50 metric tons",
+    "consumables": "4 months",
+    "availability": "Restricted",
+    "role": "Scout vessel"
+  },
+  "scraped": "2026-07-03"
+}

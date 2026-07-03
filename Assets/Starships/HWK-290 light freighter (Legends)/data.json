@@ -1,0 +1,35 @@
+{
+  "name": "HWK-290 light freighter",
+  "wookieepedia_title": "HWK-290 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HWK-290_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The HWK-290 was a light freighter manufactured by the Corellian Engineering Corporation in an effort to break into a new market for fast, small cargo ships. The production lasted from the decades leading up to the Battle of Naboo until being discontinued during the Clone Wars.",
+  "data": {
+    "name": "HWK-290 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Hawk series",
+    "model": "Light freighter",
+    "type": "Transport",
+    "cost": "135,000 credits new, 55,000 credits used",
+    "length": "29 meters",
+    "maneuverability": "High",
+    "hdsystem": "Class 2.0",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "None (Stock)",
+    "crew": "1 pilot & 1 copilot",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "75 metric tons",
+    "consumables": "6 months",
+    "availability": "Licensed",
+    "role": "Freighter",
+    "firstuse": "c, 9 BBY",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Smugglers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

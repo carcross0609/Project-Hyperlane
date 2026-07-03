@@ -1,0 +1,38 @@
+{
+  "name": "Raider II-class corvette",
+  "wookieepedia_title": "Raider II-class corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raider_II-class_corvette",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Raider II-class corvette was a model of the Raider-class corvette. The Corvus, which belonged to Inferno Squad, was one such ship.",
+  "data": {
+    "name": "Raider II-class corvette",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Raider-class corvette",
+    "model": "Raider II-class corvette",
+    "type": "Corvette",
+    "length": "150 meters",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "Concussion missiles",
+      "Dual heavy laser cannons",
+      "Ion cannons"
+    ],
+    "complement": "Multiple starfighters",
+    "escapepods": "At least 3 escape pods",
+    "crew": "Minimum 2 pilots",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "  Inferno Squad",
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Resistance",
+      "  Resistance navy",
+      "  Inferno Squad",
+      "First Order",
+      "  First Order Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

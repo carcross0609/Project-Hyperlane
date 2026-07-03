@@ -1,0 +1,46 @@
+{
+  "name": "Firespray-31-class patrol and attack craft",
+  "wookieepedia_title": "Firespray-31-class patrol and attack craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Firespray-31-class_patrol_and_attack_craft",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Firespray-31-class patrol and attack craft, also known simply as a Firespray-class patrol and attack craft, Firespray-class interceptor or Firespray gunship, was a patrol ship manufactured by Kuat Systems Engineering. Firesprays were used to guard and patrol the prison moon Oovo 4, while bounty hunters Jango Fett and Boba Fett, throughout their careers, piloted a customized Firespray named Slave I, which Jango had stolen from Oovo IV. Another bounty hunter, Koshka Frost, also flew her own Firespray-31. Amid a stalemate during the Outer Rim Sieges of the Clone Wars, a Firespray-31 was flown by a pro-Confederacy of Independent Systems racketeer.",
+  "data": {
+    "name": "Firespray-31-class patrol and attack craft",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Firespray-31-class patrol and attack craft",
+    "type": [
+      "Pursuit vessel",
+      "Starfighter"
+    ],
+    "cost": "80,000 credits",
+    "hyperdrive": [
+      "Class 3 (primary)",
+      "Class 15 (backup)"
+    ],
+    "sensor": "Short-ranged sensors",
+    "navigation": "Equipped",
+    "armament": [
+      "Auto-blasters",
+      "Light Tractor beam projector"
+    ],
+    "crew": [
+      "1 pilot",
+      "2 guards"
+    ],
+    "passengers": "6 prisoners",
+    "consumables": "1 month",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Ohnaka Gang",
+      "Krayt's Claw",
+      "Hutt Clan",
+      "Galactic Empire",
+      "T'onga's crew",
+      "Fett gotra",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "ILH-KK Citadel-class civilian cruiser",
+  "wookieepedia_title": "ILH-KK Citadel-class civilian cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ILH-KK_Citadel-class_civilian_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The ILH-KK Citadel-class civilian cruiser, also known as simply the Citadel-class cruiser or Citadel cruiser, was a heavily armed and armored transport built by Koensayr during the final years of the Galactic Republic.",
+  "data": {
+    "name": "ILH-KK Citadel-class civilian cruiser",
+    "manufacturer": "Koensayr Manufacturing",
+    "model": "ILH-KK Citadel-class civilian cruiser",
+    "type": "Armed transport",
+    "cost": [
+      "205,000 credits (new)",
+      "120,000 (used)"
+    ],
+    "length": "36 meters",
+    "max_speed": "830 km/h",
+    "hyperdrive": "Class 2",
+    "power": "KM-440.a1 reactor",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Twin forward laser cannons (2 fire-linked)",
+      "Heavy ion cannons (2 turrets of 2 fire-linked)",
+      "1 medium concussion missile launcher (12 missiles)",
+      "1 tractor beam"
+    ],
+    "complement": "2 starfighters",
+    "bays": "External mounts",
+    "crew": "2-3",
+    "skeleton": "1",
+    "passengers": "14",
+    "capacity": "50 tons",
+    "consumables": "6 months",
+    "availability": "Licensed",
+    "role": [
+      "Transport",
+      "Luxury yacht",
+      "Pirate vessel",
+      "Diplomatic vessel",
+      "Minor warship"
+    ],
+    "affiliation": [
+      "Civilian",
+      "Pirate",
+      "Corporate Sector Authority",
+      "Galactic Republic",
+      "Alliance to Restore the Republic",
+      "Veiled Sorority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

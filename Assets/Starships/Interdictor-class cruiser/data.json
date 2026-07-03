@@ -1,0 +1,56 @@
+{
+  "name": "Interdictor-class cruiser",
+  "wookieepedia_title": "Interdictor-class cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Interdictor-class_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Interdictor-class cruiser, also known as the hyperspace interdiction cruiser, the Interdictor-class capital ship, the Interdictor-class Sith destroyer, the Interdictor-class star cruiser, or the the Interdictor-class warship was among the most numerous capital ships seen in action with the Sith armada during and after the Jedi Civil War.",
+  "data": {
+    "name": "Interdictor-class cruiser",
+    "manufacturer": [
+      "Republic Sienar Systems",
+      "Star Forge"
+    ],
+    "model": "Interdictor-class cruiser",
+    "type": "Warship",
+    "cost": "Not available for sale",
+    "length": "600 meters",
+    "engine": [
+      "Main thrusters (3)",
+      "Auxiliary thrusters (4)"
+    ],
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 9 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Medium turbolaser batteries (5)",
+      "Point-defense light laser batteries (6)",
+      "Tractor beam batteries (3)",
+      "Gravity well projectors (4)"
+    ],
+    "complement": [
+      "48 Sith interceptors",
+      "2 shuttles",
+      "Various support vehicles"
+    ],
+    "crew": "5,224",
+    "passengers": "3,600 (Sith troops)",
+    "capacity": "11,000 tons",
+    "consumables": "3 years",
+    "availability": "Military",
+    "role": [
+      "Command ship",
+      "Cruiser"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Sith Empire",
+      "Sith Triumvirate"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

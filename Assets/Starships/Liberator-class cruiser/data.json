@@ -1,0 +1,36 @@
+{
+  "name": "Liberator-class cruiser",
+  "wookieepedia_title": "Liberator-class cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Liberator-class_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Liberator-class cruiser, also Liberator Cruiser, was a powerful frontline capital ship designed by the SoroSuub Corporation to combat piracy. Although slender and small in size, the cruiser boasted a formidable array of weaponry comprising of turbolaser and ion cannon batteries, and could carry a complement of six starfighter squadrons and three troop regiments. Utilized by both the Sullustan Home Guard and the Rebel Alliance during the Galactic Civil War, the Liberator featured cutting-edge armor plating, shielding, and drive unit technology that made it one of the galaxy's most advanced warships.",
+  "data": {
+    "name": "Liberator-class cruiser",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Liberator-class cruiser",
+    "type": "Cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Excellent shielding",
+    "hull": "State-of-the-art armor",
+    "armament": [
+      "Turbolasers",
+      "Ion cannons",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "6 starfighter squadrons",
+      "3 troop regiments"
+    ],
+    "role": [
+      "Antipiracy",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Sullustan Home Guard",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

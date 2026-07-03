@@ -1,0 +1,22 @@
+{
+  "name": "SC3000 freighter",
+  "wookieepedia_title": "SC3000 freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SC3000_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The SC3000 freighter was an older transport series in use during the Age of the Empire. Akshaya Ponta flew one as part of her business, named Ponta One. It was subsequently destroyed during their escape from Skuhl.",
+  "data": {
+    "name": "SC3000 freighter",
+    "model": "SC3000",
+    "type": "Freighter",
+    "crew": [
+      "Pilot",
+      "Co-pilot"
+    ],
+    "role": [
+      "Transport",
+      "Light freighter"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

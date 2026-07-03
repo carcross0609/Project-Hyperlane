@@ -1,0 +1,35 @@
+{
+  "name": "3-Z light freighter",
+  "wookieepedia_title": "3-Z light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/3-Z_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The 3-Z light freighter was a freighter made by Nova-Drive. It was an upgraded version of the YT-1200 light freighter design to make it competitive with contemporary offerings in the independent spacer market.",
+  "data": {
+    "name": "3-Z light freighter",
+    "manufacturer": "Nova-Drive",
+    "line": "YT-series",
+    "model": "3-Z light freighter",
+    "type": "Light freighter",
+    "cost": [
+      "60,000 credits (new)",
+      "20,000 credits (used)"
+    ],
+    "length": "28 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon turrets (2)",
+    "escapepods": "Equipped",
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "150 metric tons",
+    "consumables": "2 months",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

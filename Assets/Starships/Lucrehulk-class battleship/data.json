@@ -1,0 +1,104 @@
+{
+  "name": "Lucrehulk-class battleship",
+  "wookieepedia_title": "Lucrehulk-class battleship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lucrehulk-class_battleship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Lucrehulk-class battleship, also known as a Droid Control Ship, or Trade Federation battleship, was a modified Lucrehulk-class LH-3210 cargo freighter that was used by the Trade Federation and the Confederacy of Independent Systems and manufactured by Hoersch-Kessel Drive Inc.",
+  "data": {
+    "name": "Lucrehulk-class battleship",
+    "manufacturer": "Hoersch-Kessel Drive Inc. (primary contractor)",
+    "model": "Modified Lucrehulk-class LH-3210 cargo freighter",
+    "type": "Battleship",
+    "cost": "500,000,000 credits",
+    "length": "3,356.9 meters",
+    "width": "3,009 meters",
+    "height": "1,028.77 meters",
+    "max_speed": "500 kilometers per hour",
+    "engine": [
+      "3 Proton 2 sublight engines",
+      "12 Proton 12 sublight engines"
+    ],
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "power": [
+      "Two main reactors",
+      "Other reactors (in centersphere)"
+    ],
+    "shield_gen": "Multiple deflector shield generators",
+    "hull": [
+      "Hull strengthened",
+      "Armored interior segments"
+    ],
+    "sensor": [
+      "Long-range",
+      "1 main sensor rectenna",
+      "4 auxiliary sensor rectennas"
+    ],
+    "navigation": "Equipped",
+    "maincomp": "Central Computer Core",
+    "countermeasures": "Turret droids",
+    "armament": [
+      "42 quad turbolaser batteries",
+      "Multiple tractor beam projectors",
+      "Clone Wars refitting:",
+      "51 turbolasers",
+      "520 assault laser cannons",
+      "185 point-defense quad laser batteries",
+      "Alternative refitting",
+      "24 heavy quad turbolaser batteries",
+      "4 twin heavy turbolaser batteries",
+      "160 point-defense quad laser cannon turrets",
+      "400 twin heavy laser cannons"
+    ],
+    "complement": [
+      "Ammunition",
+      "1,500 Vulture-class droid starfighters",
+      "6,250 Armored Assault Tanks (max load)",
+      "550 Multi-Troop Transports (max load)",
+      "50 C-9979 landing crafts (max load)",
+      "Other boarding ships, shuttles and ship's boats"
+    ],
+    "bays": "At least 3",
+    "crew": [
+      "203,060",
+      "60 supervisors",
+      "3,000 droid crewmembers, including OOM pilot battle droids",
+      "200,000 maintenance droids"
+    ],
+    "passengers": [
+      "1 army of 139,000 battle droids (329,000 maximum)",
+      "  OOM-series battle droids, including command and security models",
+      "  B1-series battle droids",
+      "  Droidekas, including the P-series"
+    ],
+    "capacity": "25,000,000 tons",
+    "consumables": "2 years",
+    "lifesupport": "Ventilation shafts",
+    "communications": [
+      "2 main communications antennae",
+      "6 auxiliary antennae",
+      "16 signal receiver stations"
+    ],
+    "othersystems": "Computer core temperature control system",
+    "role": [
+      "Battleship",
+      "Heavy transport"
+    ],
+    "affiliation": [
+      "Trade Federation",
+      "  Trade Federation fleet",
+      "  Trade Federation Home Defense Legions",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

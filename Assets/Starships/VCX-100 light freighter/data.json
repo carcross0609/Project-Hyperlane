@@ -1,0 +1,46 @@
+{
+  "name": "VCX-100 light freighter",
+  "wookieepedia_title": "VCX-100 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/VCX-100_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The VCX-100 light freighter was one of the Corellian Engineering Corporation's freighter designs. A notable example of this model was the Ghost, a modified VCX-100 owned by Hera Syndulla.",
+  "data": {
+    "name": "VCX-100 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "VCX series",
+    "model": "VCX-100 light freighter",
+    "type": "Light freighter",
+    "cost": "155,000 credits",
+    "length": "43.7 meters (143 ft 4 in)",
+    "width": "13.26 meters (43 ft 6 in)",
+    "height": "33.84 meters (111 ft)",
+    "max_speed": "1,025 kph",
+    "engine": [
+      "Main engines (2)",
+      "Secondary engines (2)"
+    ],
+    "hyperdrive": [
+      "Class 2",
+      "Class 14 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Short range sensor",
+    "armament": "2 CEC dual laser turrets",
+    "complement": "1 VCX-series auxiliary starfighter",
+    "crew": [
+      "1 pilot",
+      "1 co-pilot/engineer",
+      "2 gunners"
+    ],
+    "passengers": "6",
+    "consumables": "One month",
+    "othersystems": "External loudspeaker",
+    "role": [
+      "Transport",
+      "Freighter"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

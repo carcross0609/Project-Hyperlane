@@ -1,0 +1,45 @@
+{
+  "name": "TIE Avenger prototype",
+  "wookieepedia_title": "TIE Avenger prototype",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_Avenger_prototype",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE Avenger prototype was a model of TIE series starfighter that was used by the Galactic Empire. The manufactured prototypes of the TIE Advanced x1 inspired future development of starfighters, which resulted in the creation of the TIE/IN interceptor and the TIE Avenger. The wings of TIE/d \"Defender\" Multi-Role Starfighter appeared similar to those found on the TIE Avenger and TIE/IN interceptor, with the difference being that the Defender's wings were angled outwards rather than inwards.",
+  "data": {
+    "name": "TIE Avenger prototype",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE avenger",
+    "type": "Starfighter",
+    "length": "13.41 meters",
+    "width": "7.49 meters",
+    "height": "5.13 meters",
+    "mglt": "140 MGLT",
+    "engine": "Rear-mounted engines (2)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Double heavy laser cannon turret (1)",
+      "Rotary laser cannons (2) (retractable)",
+      "Emission-style heavy laser cannon (1) (retractable)",
+      "Light laser cannons (16) (wing-mounted)",
+      "Medium laser cannons (2) (chin-mounted)",
+      "Light warhead launchers (12)",
+      "Medium warhead launchers (4)"
+    ],
+    "crew": "1 pilot",
+    "passengers": "At least 2",
+    "lifesupport": "Equipped",
+    "othersystems": [
+      "Armoured solar gather array",
+      "Headlights (4)"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Starfighter Corps",
+      "Axis network (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

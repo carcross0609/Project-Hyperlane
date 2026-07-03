@@ -1,0 +1,36 @@
+{
+  "name": "Deep-X Explorer",
+  "wookieepedia_title": "Deep-X Explorer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deep-X_Explorer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Deep-X Explorer was a scout vessel manufactured by Uulshos Manufacturing. It was a variant of the DPx yacht.",
+  "data": {
+    "name": "Deep-X Explorer",
+    "manufacturer": "Uulshos Manufacturing",
+    "type": "Scout vessel",
+    "cost": [
+      "135,000 credits (new)",
+      "55,000 credits (used)"
+    ],
+    "length": "12 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Class 8"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 blaster cannons",
+    "crew": "1",
+    "passengers": "5",
+    "capacity": [
+      "50 metric tons",
+      "20 cubic meters"
+    ],
+    "consumables": "6 months",
+    "availability": "Licensed",
+    "role": "Long range scouting"
+  },
+  "scraped": "2026-07-03"
+}

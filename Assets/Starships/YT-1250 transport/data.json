@@ -1,0 +1,39 @@
+{
+  "name": "YT-1250 transport",
+  "wookieepedia_title": "YT-1250 transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1250_transport",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YT-1250 transport was a class of transport of the YT-series that was manufactured by Corellian Engineering Corporation. It was an upgraded version of the YT-1200 and YT-1210 transports.",
+  "data": {
+    "name": "YT-1250 transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1250",
+    "type": "Transport",
+    "cost": [
+      "120,000 credits (new)",
+      "30,000 credits (used)"
+    ],
+    "length": "32.25 meters",
+    "max_speed": "800 kph",
+    "engine": "Thrusters (3)",
+    "hyperdrive": [
+      "Class 2",
+      "Class 16 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": "Double laser cannon (1)",
+    "crew": "2",
+    "passengers": "5",
+    "capacity": "80 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Cargo duties",
+      "Light defense"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Delaya-class courier",
+  "wookieepedia_title": "Delaya-class courier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Delaya-class_courier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Delaya-class courier was a Galactic Republic courier starship developed circa 4000 BBY. It was designed and built by Hoersch-Kessel Drive, Inc. while the company was owned by Duros. The ship was popularized due to its use by Arca Jeth and his own Delaya-Class courier, known as SunGem. Their fame led to other Jedi acquiring the same class of ship, and eventually for Hoersch-Kessel Drive to create the Vanya-Class Courier based on its design and purpose for use by the Jedi Order.",
+  "data": {
+    "name": "Delaya-class courier",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Delaya-class courier",
+    "length": "70 meters",
+    "max_speed": "950 km/h",
+    "engine": "21 HKD ion engines",
+    "hyperdrive": [
+      "Class 7.0",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "hull": "Articulated armor plates",
+    "armament": [
+      "2 rotating laser cannons",
+      "1 proton torpedo launcher"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "8",
+    "capacity": "10 metric tons",
+    "consumables": "2 weeks",
+    "othersystems": "1 escape pod",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

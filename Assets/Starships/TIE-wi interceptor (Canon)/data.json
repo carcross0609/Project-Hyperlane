@@ -1,0 +1,33 @@
+{
+  "name": "TIE/wi interceptor",
+  "wookieepedia_title": "TIE/wi interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/wi_interceptor",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/wi interceptor, also referred to as the TIE whisper or simply the whisper, was a First Order TIE fighter series interceptor used during the war against the Resistance. During the war, Supreme Leader Kylo Ren utilised his modified TIE whisper in the search for Exegol and to confront Rey on the planet Pasaana.",
+  "data": {
+    "name": "TIE/wi interceptor",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE fighter series",
+    "model": "TIE/wi interceptor",
+    "type": "Starfighter",
+    "length": "15.9 meters",
+    "width": "6.4 meters",
+    "height": "4.1 meters",
+    "mglt": "140 MGLT (Kylo Ren's TIE whisper)",
+    "max_speed": "over 1,200 kph",
+    "engine": "Twin ion engine",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Wing bracket-mounted laser cannons (5 per wing)",
+      "Heavy weapons turret"
+    ],
+    "othersystems": "Sensor-confusing technology",
+    "affiliation": [
+      "First Order",
+      "Knights of Ren"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

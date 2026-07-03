@@ -1,0 +1,28 @@
+{
+  "name": "Hornet-class carrier",
+  "wookieepedia_title": "Hornet-class carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hornet-class_carrier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Hornet-class carrier was a large warship developed by SoroSuub Corporation prior to the Invasion of Naboo. It is considered a Frigate analog.",
+  "data": {
+    "name": "Hornet-class carrier",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Hornet-class carrier",
+    "type": "Carrier",
+    "engine": "Ion engines",
+    "hdsystem": "Equipped",
+    "countermeasures": "Engine baffles (optional)",
+    "armament": [
+      "point defense weapons",
+      "missile launchers"
+    ],
+    "complement": "Several starfighters",
+    "role": "Carrier",
+    "affiliation": [
+      "Sullustan Home Guard",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "TIE/D Defender Elite",
+  "wookieepedia_title": "TIE/D Defender Elite",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/D_Defender_Elite",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/D Defender Elite was an upgraded model of the TIE/d \"Defender\" Multi-Role Starfighter. It was developed in 1 BBY, at the Galactic Empire's facilities on Lothal. Like normal Defenders, the Elite had three wings, heavy cannons, and a hyperdrive. However, it was much faster and had even more durable shielding. Sabine Wren speculated that it could outclass the Spectres' ship, the Ghost, in terms of speed. It was also equipped with a kill switch, as a security measure.",
+  "data": {
+    "name": "TIE/D Defender Elite",
+    "designer": "Darth Vader (improvements on the TIE/d design)",
+    "manufacturer": "Sienar Advanced Projects Laboratory",
+    "line": "TIE series",
+    "model": "TIE/D Defender Elite",
+    "type": "Starfighter",
+    "cost": [
+      "310,000 Imperial credits",
+      "90,000 credits (used)"
+    ],
+    "length": "11.3 meters",
+    "width": "10 meters",
+    "height": "8.7 meters",
+    "max_accel": "4,300 G",
+    "mglt": "120 MGLT",
+    "max_speed": "1,800 kph",
+    "engine": "Advanced SFS P-sz9.7 twin ion engines",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "power": "Solar collectors",
+    "shield_gen": "Equipped",
+    "sensor": "Sensor arrays (2)",
+    "target": "Glucon CRX-9 targeting computer",
+    "navigation": "SFS N-s6.1 Navcon",
+    "armament": [
+      "L-s9.3 laser cannons (8) (wingtip and chin-mounted)",
+      "Warhead launchers",
+      "  Missiles (6)",
+      "Tractor beam projector"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "passengers": "1 (uncommon)",
+    "consumables": "5 days",
+    "lifesupport": "None",
+    "availability": "Military requisition charges",
+    "firstuse": "1 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Starfighter Corps",
+      "Lothal resistance group (stolen)",
+      "Spectres (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

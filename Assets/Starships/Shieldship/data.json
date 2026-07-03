@@ -1,0 +1,40 @@
+{
+  "name": "Shieldship",
+  "wookieepedia_title": "Shieldship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shieldship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Shieldship was a starship designed to protect ships while traveling to the planet Nkllon in the Athega system from Athega's superhot star. It was so hot that the dark side of Nkllon was the only habitable half of the planet though it was rich in mineral resources.",
+  "data": {
+    "name": "Shieldship",
+    "manufacturer": "Republic Engineering Corporation",
+    "model": "Shieldship",
+    "type": "Utility craft",
+    "length": "500 meters",
+    "width": "800 meters",
+    "height": "800 meters",
+    "mglt": "60 MGLT",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 20"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Fabritech navigation computers",
+    "armament": "Defensive turbolaser turret (1)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Navigator (1)",
+      "Technicians (2)"
+    ],
+    "passengers": "None",
+    "capacity": "25 kilograms",
+    "consumables": "1 month",
+    "role": "Heat-resistant escort vehicle",
+    "affiliation": [
+      "Lando Calrissian",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Republic-class Star Destroyer",
+  "wookieepedia_title": "Republic-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Republic-class_Star_Destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Republic-class Star Destroyer was Walex Blissex's follow-up design to his Victory-class Star Destroyer.",
+  "data": {
+    "name": "Republic-class Star Destroyer",
+    "designer": "Walex Blissex",
+    "manufacturer": "Rendili StarDrive",
+    "line": "Star Destroyers",
+    "model": "Republic-class Star Destroyer",
+    "type": "Star Destroyer",
+    "cost": "75 million credits",
+    "length": "1,250 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "poweroutput": "Peak: ~9,28 × 1024 W (20% more power than the ISD-I)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Nav computer",
+    "armament": [
+      "Heavy turbolaser batteries (40)",
+      "Heavy turbolaser cannons (40)",
+      "Ion cannons (20)",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": "1 full wing of long-range starfighters",
+    "crew": [
+      "8,168",
+      "Gunners (260)"
+    ],
+    "skeleton": "2,917",
+    "passengers": "3,200 troops",
+    "capacity": "11,000 metric tons",
+    "consumables": "2 years",
+    "availability": "Not available for sale",
+    "role": [
+      "Destroyer",
+      "Carrier"
+    ],
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

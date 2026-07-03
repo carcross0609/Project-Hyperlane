@@ -1,0 +1,46 @@
+{
+  "name": "N-1 starfighter",
+  "wookieepedia_title": "N-1 starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/N-1_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Naboo Royal N-1 starfighter, sometimes known simply as the Naboo starfighter, was a starfighter used by the government of Naboo during the late years of the Galactic Republic and early days of the Galactic Empire for defense, patrol, and escort duties. The sleek vessel was manufactured by Theed Palace Space Vessel Engineering Corps, the group responsible for manufacturing Naboo royal starships.",
+  "data": {
+    "name": "N-1 starfighter",
+    "designer": "Nubia Star Drives, Incorporated",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+    "model": "Royal N-1",
+    "type": "Luxury starfighter",
+    "length": "11 meters",
+    "max_accel": "3,750 G",
+    "max_speed": "1,100 km/h",
+    "engine": "J-type Nubian 221 (2)",
+    "hyperdrive": "Class 1.0",
+    "hdrange": "1,000 LY",
+    "hdsystem": "Nubia Monarc C-4",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Twin laser cannons",
+      "Proton torpedo launchers (2; one launch tube)",
+      "  Standard load: 5 torpedoes per launcher"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "R2-series astromech droid (1)"
+    ],
+    "capacity": "65 kg",
+    "consumables": "1 week",
+    "role": [
+      "Patrol",
+      "Interceptor",
+      "Escort"
+    ],
+    "affiliation": [
+      "Naboo Royal Space Fighter Corps",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

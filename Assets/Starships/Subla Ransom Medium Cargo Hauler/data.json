@@ -1,0 +1,26 @@
+{
+  "name": "Subla Ransom Medium Cargo Hauler",
+  "wookieepedia_title": "Subla Ransom Medium Cargo Hauler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Subla_Ransom_Medium_Cargo_Hauler",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Subla Ransom Medium Cargo Hauler was a starship manufactured by Subla Ransom. The Zicreex, commanded by the Gamorrean sow Ugmush, was one, as was the Efficient, the personal transport of assassin droid Scar.",
+  "data": {
+    "name": "Subla Ransom Medium Cargo Hauler",
+    "manufacturer": "Subla Ransom",
+    "type": "Medium freighter",
+    "cost": "110,000 credits",
+    "length": "75.5 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2.0 (primary)",
+      "Class 12.0 (backup)"
+    ],
+    "crew": "5",
+    "passengers": "5",
+    "capacity": "700 metric tons",
+    "consumables": "3 months",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

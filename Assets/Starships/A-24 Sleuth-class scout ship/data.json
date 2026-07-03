@@ -1,0 +1,34 @@
+{
+  "name": "A-24 Sleuth-class scout ship",
+  "wookieepedia_title": "A-24 Sleuth-class scout ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A-24_Sleuth-class_scout_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The A-24 Sleuth-class scout ship, often called simply the A-24 Sleuth, was a model of high-performance scout vessel built by the venerable Incom Corporation.",
+  "data": {
+    "name": "A-24 Sleuth-class scout ship",
+    "manufacturer": "Incom Corporation",
+    "model": "A-24 Sleuth",
+    "type": "Scout vessel",
+    "length": "14-20 meters",
+    "max_speed": "1,000 kmh",
+    "engine": "High-output 804.d Starslinger ion drives (3)",
+    "hyperdrive": [
+      "Class 1.0 (primary)",
+      "Class 10 (backup)"
+    ],
+    "armament": "Fire-linked IX4 laser cannons (2)",
+    "crew": [
+      "1 Pilot",
+      "1 Astromech droid (optional)"
+    ],
+    "passengers": "1",
+    "capacity": "2 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Scout vessel",
+      "Bockade runner"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

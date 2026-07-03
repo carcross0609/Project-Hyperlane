@@ -1,0 +1,32 @@
+{
+  "name": "&num;2 Warpod",
+  "wookieepedia_title": "2 Warpod",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/2_Warpod",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ulig Abaha Ltd. #2 Warpod, or warpod pinnace, was a starfighter used by the Corporate Sector Authority. They were also used by the Pirates of Iridium before their defeat in 22 BBY.",
+  "data": {
+    "name": "&num;2 Warpod",
+    "manufacturer": "Ulig Abaha Ltd.",
+    "type": "Pinnace",
+    "cost": "23,000 credits",
+    "length": "20 meters",
+    "max_speed": "1,000 KMH",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "1 plasma torch"
+    ],
+    "crew": "1; 4 gunners",
+    "passengers": "6 (troops)",
+    "capacity": "1 metric ton",
+    "consumables": "1 day",
+    "role": "Combat and supply",
+    "affiliation": [
+      "Corporate Sector Authority",
+      "Pirates of Iridium"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

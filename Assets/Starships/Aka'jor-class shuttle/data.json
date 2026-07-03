@@ -1,0 +1,25 @@
+{
+  "name": "Aka'jor-class shuttle",
+  "wookieepedia_title": "Aka'jor-class shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aka%27jor-class_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Aka'jor-class shuttle, or simply the Mandalorian shuttle, was a model of shuttle used by the New Mandalorians of Mandalore. It was produced by MandalMotors and saw use during the Clone Wars on Mandalore.",
+  "data": {
+    "name": "Aka'jor-class shuttle",
+    "manufacturer": "MandalMotors",
+    "model": "Aka'jor-class shuttle",
+    "type": "Shuttle",
+    "length": "17.97 meters",
+    "max_speed": "900 kph",
+    "hdsystem": "None",
+    "crew": "At least 2 pilots",
+    "passengers": "At least 4",
+    "role": [
+      "Law enforcement",
+      "Transport"
+    ],
+    "affiliation": "New Mandalorians"
+  },
+  "scraped": "2026-07-03"
+}

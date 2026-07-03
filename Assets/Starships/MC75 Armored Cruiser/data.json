@@ -1,0 +1,23 @@
+{
+  "name": "MC75 Armored Cruiser",
+  "wookieepedia_title": "MC75 Armored Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC75_Armored_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The MC75 Armored Cruiser, a variant of the MC75 Star Cruiser, was operated by the Rebel Alliance Navy. The Star Cruiser had a bulbous hull, a dorsal mast, a longer ventral mast, and at least four engines at the stern. At one point, an MC75 Armored Cruiser in Alliance service was present above a teal astronomical object.",
+  "data": {
+    "name": "MC75 Armored Cruiser",
+    "line": "MC-series star cruiser",
+    "model": [
+      "MC75 Star Cruiser",
+      "  MC75 Armored Cruiser"
+    ],
+    "type": "Star Cruiser",
+    "engine": "At least 4",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

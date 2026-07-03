@@ -1,0 +1,66 @@
+{
+  "name": "Lucrehulk-class LH-3210 cargo freighter",
+  "wookieepedia_title": "Lucrehulk-class LH-3210 cargo freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lucrehulk-class_LH-3210_cargo_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Lucrehulk-class LH-3210 cargo freighter, also known as a Profiteer-class freighter, the Lucrehulk-class transport, or the Lucrehulk bulk freighter, was a starship utilized by the Trade Federation to haul freight. By the time of the Clone Wars, the ships had been used for decades. Many of these starships were secretly modified into Lucrehulk-class battleships, which saw extensive use throughout the Clone Wars. A single Lucrehulk could have enough resources to conquer a planet. These ships were used during the blockade and Invasion of Naboo, the First Battle of Geonosis, and the Battle of Coruscant. The Lucrehulk-class vessel Primacy crashed into the planet Koboh.",
+  "data": {
+    "name": "Lucrehulk-class LH-3210 cargo freighter",
+    "manufacturer": "Hoersch-Kessel Drive Inc.",
+    "type": "Freighter",
+    "cost": "500,000,000 credits",
+    "length": "3356.9 meters",
+    "width": "3009.0 meters",
+    "height": "1028.77 meters",
+    "engine": [
+      "Rendili StarDrive Proton 2",
+      "Proton sublight drives (12)"
+    ],
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Quad turbolaser batteries (42)",
+      "Later:",
+      "Turbolasers (51)",
+      "Assault laser cannons (520)",
+      "Point-defense quad laser batteries (185)",
+      "Alternatively:",
+      "Heavy turbolaser quad batteries (24)",
+      "Twin heavy turbolaser batteries (4)",
+      "Twin heavy laser cannon turrets (400)",
+      "Point-defense quad laser cannon turrets (160)"
+    ],
+    "complement": [
+      "C-9979 landing craft (50)",
+      "Vulture-class starfighters (up to 1,500)",
+      "Shuttles",
+      "Boarding vessels",
+      "Landing ships",
+      "Ship's boats",
+      "Multi-Troop Transports (550)",
+      "Armored Assault Tanks (6,520)",
+      "Platoon Attack Craft (1,500)",
+      "Core ship"
+    ],
+    "bays": "At least 2",
+    "escapepods": "At least 3",
+    "crew": [
+      "150 droid",
+      "25 command staff"
+    ],
+    "passengers": "139,000 battle droids (typically B1-series battle droids)",
+    "affiliation": [
+      "Trade Federation",
+      "  Trade Federation fleet",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Bedlam Raiders"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

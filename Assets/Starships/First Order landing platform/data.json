@@ -1,0 +1,27 @@
+{
+  "name": "First Order landing platform",
+  "wookieepedia_title": "First Order landing platform",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/First_Order_landing_platform",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "During the Mission to Ovanis, the First Order used a model of landing platform as a staging area to launch both TIE/fo space superiority fighters and TIE/sf space superiority fighters as well as atmospheric assault landers.",
+  "data": {
+    "name": "First Order landing platform",
+    "armament": "Twin Laser cannons (4)",
+    "complement": [
+      "At least 2 AAL-1971/9.1 Troop Transports",
+      "At least 2 TIE/fo space superiority fighters",
+      "At least 6 TIE/sf space superiority fighters",
+      "At least 1 First Order speeder bike"
+    ],
+    "crew": [
+      "At least 14"
+    ],
+    "role": "Platform",
+    "affiliation": [
+      "First Order",
+      "  First Order military"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

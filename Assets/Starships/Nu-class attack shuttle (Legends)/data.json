@@ -1,0 +1,44 @@
+{
+  "name": "Nu-class attack shuttle",
+  "wookieepedia_title": "Nu-class attack shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nu-class_attack_shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nu-class attack shuttle, also known as the Republic attack shuttle, was a vessel used by the Grand Army of the Republic during the Clone Wars.",
+  "data": {
+    "name": "Nu-class attack shuttle",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Nu-class attack shuttle",
+    "type": "Shuttle",
+    "cost": "85,000 credits (used: 50,000)",
+    "length": "18.9 meters",
+    "height": "24.34 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": "Class 1.0",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Medium laser cannons",
+      "Double light laser cannons"
+    ],
+    "complement": "None",
+    "escapepods": "1 escape pod",
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "30",
+    "capacity": "2 tons",
+    "consumables": "2 days",
+    "communications": "1 Dorsal antenna",
+    "availability": "Licensed",
+    "role": "Troop transport",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Restored Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

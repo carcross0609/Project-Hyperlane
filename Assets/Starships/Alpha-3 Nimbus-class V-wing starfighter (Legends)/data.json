@@ -1,0 +1,60 @@
+{
+  "name": "Alpha-3 Nimbus-class V-wing starfighter",
+  "wookieepedia_title": "Alpha-3 Nimbus-class V-wing starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alpha-3_Nimbus-class_V-wing_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Alpha-3 Nimbus-class V-wing starfighter, often simply known as the V-wing starfighter or Nimbus fighter, was a short-ranged starfighter deployed late in the Clone Wars by the Galactic Republic.",
+  "data": {
+    "name": "Alpha-3 Nimbus-class V-wing starfighter",
+    "designer": "Walex Blissex",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Alpha-3 Nimbus-class \"V-wing\" starfighter",
+    "type": "Starfighter",
+    "cost": [
+      "102,500 credits (new)",
+      "45,000 credits (used)",
+      "70,000 credits (post-service)"
+    ],
+    "length": "7.9 meters",
+    "width": "3.8 meters",
+    "height": "5.84 meters (wings extended)",
+    "max_accel": "4,800 G",
+    "mglt": "75",
+    "max_speed": "1,450 km/h",
+    "hyperdrive": "Class 1.0 (with booster ring)",
+    "hdsystem": [
+      "None",
+      "Syliure-45 hyperdrive module (|as docking ring)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "10-jump memory (astromech droid)",
+    "armament": [
+      "Light twin laser cannons (2)",
+      "Forward-mounted concussion missile launcher (optional)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Q7-series astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "60 kg",
+    "consumables": "15 hours&ndash;1 day",
+    "availability": "Military",
+    "role": [
+      "Interceptor",
+      "Escort"
+    ],
+    "firstuse": "19 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Pirates",
+      "Hutt Cartel",
+      "Alliance to Restore the Republic",
+      "Mandalorians",
+      "Restored Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

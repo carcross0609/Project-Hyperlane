@@ -1,0 +1,31 @@
+{
+  "name": "Alpha-class Xg-1 Star Wing",
+  "wookieepedia_title": "Alpha-class Xg-1 Star Wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alpha-class_Xg-1_Star_Wing",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Alpha-class Xg-1 Star Wing was an Imperial starship model in service during the Galactic Civil War. During the Alliance to Restore the Republic defeat in the skirmish in the Recluse's Nebula, in which the Alliance suffered a net loss of Alliance Fleet assets, one stolen Imperial Star Wing was lost among others with a loss of 125,000 credits. The lost Star Wing, along with other lost assets, were listed in an official report filed by General Baccam Grafis of Ordnance and Supply to Commander-in-Chief Mon Mothma.",
+  "data": {
+    "name": "Alpha-class Xg-1 Star Wing",
+    "manufacturer": "Cygnus Spaceworks",
+    "type": "Starfighter",
+    "cost": "135,000 credits",
+    "hyperdrive": "Class 3",
+    "sensor": "Short range sensor",
+    "armament": [
+      "Forward laser cannons",
+      "Forward concussion missile launchers",
+      "Forward ion cannons"
+    ],
+    "crew": "1 pilot",
+    "consumables": "3 days",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "  Imperial Office of Customs",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

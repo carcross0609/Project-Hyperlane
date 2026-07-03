@@ -1,0 +1,45 @@
+{
+  "name": "T-65XJ3 X-wing starfighter",
+  "wookieepedia_title": "T-65XJ3 X-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-65XJ3_X-wing_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The T-65XJ3 X-wing starfighter was a starfighter used by the New Republic and the Galactic Federation of Free Alliances.",
+  "data": {
+    "name": "T-65XJ3 X-wing starfighter",
+    "manufacturer": "Incom Corporation",
+    "line": "X-wing",
+    "model": "T-65XJ3 X-wing",
+    "type": "Starfighter",
+    "cost": [
+      "New: 315,000 credits",
+      "Used: 220,000 credits"
+    ],
+    "length": "12.6 meters",
+    "max_speed": "1,100 km/h",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Strong shields with backup generators",
+    "navigation": "10-jump memory (astromech)",
+    "armament": [
+      "Stutter-fire capable heavy laser cannons (4)",
+      "Proton torpedo launchers (3)",
+      "  4 heavy proton torpedoes or shadow bombs each (standard load)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "35 kilograms",
+    "consumables": "3 days",
+    "othersystems": "Expandable inertial compensator field",
+    "availability": "Military",
+    "firstuse": "27 ABY",
+    "affiliation": [
+      "New Jedi Order",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

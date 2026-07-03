@@ -1,0 +1,44 @@
+{
+  "name": "J-type star skiff",
+  "wookieepedia_title": "J-type star skiff",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/J-type_star_skiff",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The J-type star skiff, also known as the Naboo star skiff, was a yacht starship created by the Theed Palace Space Vessel Engineering Corps for the Royal House of Naboo. It was referred to as a star skiff due to its primary purpose as a passenger transport, a role often shared by the common repulsorlift surface vehicles known as skiffs.",
+  "data": {
+    "name": "J-type star skiff",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
+    "line": "J-type star skiff",
+    "model": "Modified J-type star skiff",
+    "type": "Star yacht",
+    "length": "29.2 meters",
+    "width": "49.3 meters",
+    "max_speed": "1050 km/h",
+    "engine": "Sossen-7 sublight engines (2)",
+    "hyperdrive": "Class 0.5",
+    "hdsystem": "Modified hyperdrive system",
+    "shield_gen": "Equipped",
+    "hull": "Reinforced hull with chromium plating",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "avionics": "Equipped",
+    "armament": "Top-mounted laser cannons (2)",
+    "crew": [
+      "Pilot (1)",
+      "Navigator (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "3",
+    "role": [
+      "Transport",
+      "Personal starship"
+    ],
+    "affiliation": [
+      "Royal House of Naboo",
+      "  Padmé Amidala",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

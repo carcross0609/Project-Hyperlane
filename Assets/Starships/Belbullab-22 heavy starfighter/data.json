@@ -1,0 +1,40 @@
+{
+  "name": "Belbullab-22 heavy starfighter",
+  "wookieepedia_title": "Belbullab-22 heavy starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Belbullab-22_heavy_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Belbullab-22 heavy starfighter was a single-pilot heavy starfighter model manufactured by Feethan Ottraw Scalable Assemblies. It was the heaviest fighter in the Confederacy of Independent Systems naval forces during the Clone Wars against the Galactic Republic and the only fighter crewed by a pilot. General Grievous flew a customized Belbullab-22 named the Soulless One.",
+  "data": {
+    "name": "Belbullab-22 heavy starfighter",
+    "manufacturer": "Feethan Ottraw Scalable Assemblies",
+    "model": "Belbullab-22 starfighter",
+    "type": "Starfighter",
+    "cost": "168,000 credits",
+    "engine": [
+      "Main engines (2)",
+      "Auxiliary thrusters"
+    ],
+    "hyperdrive": [
+      "Class 6 (primary)",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Close-ranged sensors",
+    "navigation": "Equipped",
+    "armament": "Triple light laser cannons (2)",
+    "crew": "Pilot (1)",
+    "consumables": "One week",
+    "othersystems": [
+      "Autopilot",
+      "Repulsorlift"
+    ],
+    "role": "Starfighter",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

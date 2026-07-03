@@ -1,0 +1,36 @@
+{
+  "name": "X-wing",
+  "wookieepedia_title": "X-wing (tandem)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X-wing_%28tandem%29",
+  "continuity": "Legends",
+  "infobox_template": "IndividualShip",
+  "description": "The tandem X-wing starfighter was a modified two-seat version of Incom's more common T-65 X-wing.",
+  "data": {
+    "name": "X-wing",
+    "manufacturer": "Incom Corporation",
+    "line": "T-65 series",
+    "type": "Heavy starfighter",
+    "sysmods": [
+      "Added T-19 \"Star Burner\" sublight engines (3)",
+      "Augmented forward armor"
+    ],
+    "engine": [
+      "Sublight engines (7)",
+      "  T-19 \"Star Burners\" (3)"
+    ],
+    "hyperdrive": "Equipped",
+    "navigation": "Astromech droid",
+    "armament": [
+      "Laser cannons (4)",
+      "Proton torpedo launchers (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "role": "Starfighter",
+    "owners": "Kir Kanos"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Umbaran starfighter",
+  "wookieepedia_title": "Umbaran starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Umbaran_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Umbaran starfighter, also known as the T-20 fighter, was a starfighter model developed by the Umbaran militia during the Clone Wars. The starfighters saw heavy action in a defense of Umbara against the Galactic Republic.",
+  "data": {
+    "name": "Umbaran starfighter",
+    "manufacturer": "Umbarans",
+    "type": "Starfighter",
+    "length": "10.38 meters (flight configuration)",
+    "height": "12.47 meters (flight configuration)",
+    "armament": [
+      "Chin-mounted plasma cannon",
+      "2 wing-mounted missile pods"
+    ],
+    "crew": "Pilot (1)",
+    "othersystems": [
+      "Ray-shielded cockpit",
+      "Flexible airframe"
+    ],
+    "role": "Starfighter",
+    "affiliation": [
+      "Umbaran militia",
+      "Confederacy of Independent Systems",
+      "Galactic Republic (captured)",
+      "  501st Legion (captured)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

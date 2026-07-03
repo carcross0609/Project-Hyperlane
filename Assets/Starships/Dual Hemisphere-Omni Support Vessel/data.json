@@ -1,0 +1,63 @@
+{
+  "name": "Dual Hemisphere-Omni Support Vessel",
+  "wookieepedia_title": "Dual Hemisphere-Omni Support Vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dual_Hemisphere-Omni_Support_Vessel",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Dual Hemisphere-Omni Support Vessel, otherwise identified as the DH-Omni Support Vessel, DH-O Support Vessel, or simply as the DH-O and dubbed as the Separatist supply ship or Separatist support ship, or Separatist transport, was a model of massive transport and supply ship manufactured by Hoersch-Kessel Drive, Inc. and utilized by the Confederacy of Independent Systems during the Clone Wars.",
+  "data": {
+    "name": "Dual Hemisphere-Omni Support Vessel",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Dual Hemisphere-Omni Support Vessel",
+    "type": [
+      "Heavy transport",
+      "Supply ship"
+    ],
+    "length": "908.78 meters",
+    "width": "1257.32 meters",
+    "height": "910.35 meters",
+    "engine": "Sublight engines",
+    "hyperdrive": "Class 6",
+    "hdsystem": "Equipped",
+    "power": "Reactors",
+    "shield_gen": "Powerful deflector shield generators (particle and energy shielding)",
+    "hull": "Strong hull",
+    "armament": "Point-defense laser cannons",
+    "complement": [
+      "Weapons, ammunition and power-supply units",
+      "C-9979 landing craft",
+      "Starfighters",
+      "Transport shuttles"
+    ],
+    "bays": [
+      "12 main hangars",
+      "Other small hangars"
+    ],
+    "crew": [
+      "1 T-series tactical droid",
+      "B1-series battle droids",
+      "Other organic crewmembers"
+    ],
+    "passengers": "Battle droids",
+    "capacity": "40 million tons",
+    "cargohandling": "Freight elevators",
+    "communications": [
+      "1 main satellite dish",
+      "Transmitting antennae"
+    ],
+    "othersystems": "Automated repair and manufacturing facilities",
+    "role": [
+      "Arms shipment and supply",
+      "Corporate transport",
+      "Mobile factory",
+      "Planetary invasion support"
+    ],
+    "firstuse": "20 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Agamar garrison"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

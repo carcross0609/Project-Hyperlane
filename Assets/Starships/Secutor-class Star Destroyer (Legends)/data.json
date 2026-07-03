@@ -1,0 +1,47 @@
+{
+  "name": "Secutor-class Star Destroyer",
+  "wookieepedia_title": "Secutor-class Star Destroyer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Secutor-class_Star_Destroyer/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Secutor-class Star Destroyer, also known as the Secutor-class battlecarrier, was a carrier in the Imperial Navy and possibly the Republic Navy.",
+  "data": {
+    "name": "Secutor-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "type": "Star Destroyer",
+    "cost": "200 million credits",
+    "length": "2,200 meters",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 14 (secondary)"
+    ],
+    "armament": [
+      "15 Heavy turbolaser batteries",
+      "15 light turbolasers",
+      "15 battleship ion cannon batteries",
+      "16 medium ion cannons",
+      "12 Tractor beam projector"
+    ],
+    "complement": [
+      "144 starfighters",
+      "Multiple other crafts",
+      "Walkers",
+      "14,000 troops"
+    ],
+    "bays": "Two ventral hangar bays",
+    "crew": "40,000",
+    "consumables": "2 years",
+    "role": [
+      "Star Destroyer",
+      "Carrier"
+    ],
+    "firstuse": "Around 19 BBY",
+    "affiliation": [
+      "Galactic Republic (possibly)",
+      "Galactic Empire",
+      "Dark Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

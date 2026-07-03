@@ -1,0 +1,48 @@
+{
+  "name": "YT-2400 light freighter",
+  "wookieepedia_title": "YT-2400 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-2400_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YT-2400 light freighter, also known as the YT-2400 transport, was a class of YT-series light freighter. During the Imperial Era, this model of freighter was widely used by many factions, primarily by cargo haulers and pirates.",
+  "data": {
+    "name": "YT-2400 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2400",
+    "type": "Light freighter",
+    "cost": [
+      "130,000 (new)",
+      "32,000 (used)"
+    ],
+    "length": "21 meters",
+    "width": "28.5 meters",
+    "max_speed": "800 kph",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "hull": [
+      "Double-armored exterior hull plating",
+      "Reinforced bulkhead frames"
+    ],
+    "navigation": "Navicomputer",
+    "armament": [
+      "1D servo turret-mounted dual laser cannons (2)",
+      "Concussion missile launchers",
+      "Variable"
+    ],
+    "escapepods": "2",
+    "crew": "3",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "150 metric tons",
+    "consumables": "2 months",
+    "role": [
+      "Stock cargo hauler",
+      "Troop transport"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

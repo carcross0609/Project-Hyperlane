@@ -1,0 +1,22 @@
+{
+  "name": "Z-95t Headhunter",
+  "wookieepedia_title": "Z-95t Headhunter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-95t_Headhunter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Z-95t Headhunter was a variant of the Z-95 Headhunter designed by Adar Tallon. Unlike the standard headhunter, it was equipped with a class 3 hyperdrive and lacked concussion missile launchers.",
+  "data": {
+    "name": "Z-95t Headhunter",
+    "line": "Z-95 Headhunter",
+    "model": "Z-95t",
+    "type": "Starfighter",
+    "modifier": "Adar Tallon",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Linked triple blasters (2)"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

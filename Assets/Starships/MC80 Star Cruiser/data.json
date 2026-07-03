@@ -1,0 +1,34 @@
+{
+  "name": "MC80 Star Cruiser",
+  "wookieepedia_title": "MC80 Star Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC80_Star_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "ShipSeries",
+  "description": "MC80 Star Cruisers, otherwise generally referred to as Mon Calamari Star Cruisers were capital ships used by the Rebel Alliance during the Galactic Civil War. These immense vessels were a startling contrast to the angular-shaped Imperial-class Star Destroyers, which were favored by the Imperial Fleet. Whereas the Imperial warship resembled a pointed dagger in shape, a Mon Calamari cruiser lacked hard angles and was covered with ovoid forms suggesting an organic sculpture. There were pods attached all around the ship, containing turbolasers, sensor arrays and viewing ports, the latter fulfilling the ships' original intended role as an exploration and observation vessel. Each cruiser was of a unique design. Despite their smooth lines, these vessels were heavily armed with dozens of turbolasers, SW-7 ion cannons, tractor beam projectors and shield generators. The MC80A Home One Type Heavy Star Cruiser was a variant of the MC80 star cruiser.",
+  "data": {
+    "name": "MC80 Star Cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC-series star cruiser",
+    "type": "Heavy Star Cruiser",
+    "models": [
+      "MC80A Home One Type Heavy Star Cruiser",
+      "MC80 Liberty Type Heavy Star Cruiser"
+    ],
+    "role": [
+      "Command ship",
+      "Carrier",
+      "Capital ship engagement"
+    ],
+    "affiliation": [
+      "Mon Calamari monarchy",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Resistance",
+      "  Resistance navy",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

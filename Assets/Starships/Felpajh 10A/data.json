@@ -1,0 +1,25 @@
+{
+  "name": "Felpajh 10A",
+  "wookieepedia_title": "Felpajh 10A",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Felpajh_10A",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Felpajh 10A was a luxury suborbital shuttle manufactured by Larjh StarCorporation. These shuttles were commonly used to transport passengers from the ground to a waiting liner.",
+  "data": {
+    "name": "Felpajh 10A",
+    "manufacturer": "Larjh StarCorporation",
+    "type": "Sublight passenger shuttle",
+    "cost": [
+      "225,000 credits (new)",
+      "100,000 credits (used)"
+    ],
+    "length": "31 meters",
+    "max_speed": "750 kmh",
+    "crew": "1",
+    "passengers": "8",
+    "capacity": "5 metric tons",
+    "consumables": "10 days",
+    "role": "Personal shuttle"
+  },
+  "scraped": "2026-07-03"
+}

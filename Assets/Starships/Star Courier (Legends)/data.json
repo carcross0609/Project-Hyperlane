@@ -1,0 +1,24 @@
+{
+  "name": "Star Courier",
+  "wookieepedia_title": "Star Courier/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Courier/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Republic Sienar Systems Star Courier was a small transport design with a limited production run.",
+  "data": {
+    "name": "Star Courier",
+    "designer": "Rugess Nome",
+    "manufacturer": "Republic Sienar Systems",
+    "type": "Courier",
+    "length": "26.5 meters",
+    "engine": "2 thrusters",
+    "hdsystem": "Equipped",
+    "role": "Transport",
+    "affiliation": [
+      "Order of the Sith Lords",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

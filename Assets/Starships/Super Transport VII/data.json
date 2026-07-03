@@ -1,0 +1,28 @@
+{
+  "name": "Super Transport VII",
+  "wookieepedia_title": "Super Transport VII",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Super_Transport_VII",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Super Transport VII was a large container ship built by Kuat Drive Yards.",
+  "data": {
+    "name": "Super Transport VII",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Container ship",
+    "length": "280 meters",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "None",
+    "crew": "80",
+    "skeleton": "10-20",
+    "capacity": "2 million metric tons",
+    "consumables": "9 months",
+    "role": "Freighter",
+    "affiliation": [
+      "Civilians",
+      "Radell Mining",
+      "The Scourges"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

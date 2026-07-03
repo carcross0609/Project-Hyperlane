@@ -1,0 +1,35 @@
+{
+  "name": "T-65AC4 X-wing starfighter",
+  "wookieepedia_title": "T-65AC4 X-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-65AC4_X-wing_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The T-65AC4 X-wing starfighter was an updated version of the T-65 X-wing starfighter.",
+  "data": {
+    "name": "T-65AC4 X-wing starfighter",
+    "manufacturer": "Incom Corporation",
+    "line": "X-wing",
+    "model": "T-65AC4",
+    "type": "Starfighter",
+    "cost": [
+      "200,000 credits (new)",
+      "180,000 credits (used)"
+    ],
+    "length": "12.5 meters",
+    "max_speed": "1,300 km/h",
+    "hyperdrive": "Class 1",
+    "armament": [
+      "Heavy Laser cannons (4)",
+      "Proton torpedo launchers (2)",
+      "  4 heavy proton torpedoes each"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "capacity": "150 kg",
+    "consumables": "2 days",
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

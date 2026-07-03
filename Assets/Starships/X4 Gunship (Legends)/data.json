@@ -1,0 +1,45 @@
+{
+  "name": "X4 Gunship",
+  "wookieepedia_title": "X4 Gunship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X4_Gunship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The X4 Gunship was an assault gunship built by the Incom Corporation and employed by the Rebel Alliance in their fight against the Galactic Empire during the Galactic Civil War.",
+  "data": {
+    "name": "X4 Gunship",
+    "manufacturer": "Incom Corporation",
+    "model": "X4 Gunship",
+    "type": "Gunship",
+    "cost": [
+      "200,000 credits (new)",
+      "75,000 credits (used)"
+    ],
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 3",
+      "Backup class 15"
+    ],
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannon (2)",
+      "Light laser cannon turrets (6)"
+    ],
+    "crew": "8",
+    "passengers": "6",
+    "capacity": "20 tons",
+    "consumables": "1 month",
+    "availability": "Licensed",
+    "role": [
+      "Assault gunship",
+      "Dropship"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Black Sun",
+      "Lok Revenants",
+      "Ghrag Mercenaries",
+      "Velocity Mercenaries"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ebruchi fighter",
+  "wookieepedia_title": "Ebruchi fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ebruchi_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Ebruchi fighters were starfighters used by the Ebruchi Pirates in 2 ABY. A complement of these fighters were used by Creysis against the Admonitor, during which most of them were destroyed.",
+  "data": {
+    "name": "Ebruchi fighter",
+    "type": "Starfighter",
+    "length": "25 meters",
+    "engine": "Gas-drive landing jets",
+    "hyperdrive": "Equipped",
+    "sensor": "Sensor pods",
+    "armament": [
+      "2 laser cannons",
+      "8 projectile weapons",
+      "  At least 1 grappling line"
+    ],
+    "crew": "Pilot (1)",
+    "affiliation": "Ebruchi Pirates"
+  },
+  "scraped": "2026-07-03"
+}

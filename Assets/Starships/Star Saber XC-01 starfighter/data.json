@@ -1,0 +1,39 @@
+{
+  "name": "Star Saber XC-01 starfighter",
+  "wookieepedia_title": "Star Saber XC-01 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Saber_XC-01_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Star Saber XC-01 starfighter was an experimental fighter produced by Republic Fleet Systems, and tested by Jedi pilots during the Great Sith War. Long, sleek craft, the single-seat starfighters nonetheless were equipped with hyperdrives. Although the ships were capable of swift acceleration, their low maneuverability-to-speed ratio and slow control stick reaction gained them a reputation as dangerous and unwieldy craft. Heavy blaster cannons and deflector shields gave the Star Saber more offensive and defensive capabilities than contemporary fighters, however, and the Galactic Republic pressed the craft into service despite their design flaws. From their initial combat mission against the Krath stronghold of Cinnagar until the retirement of their line with the advent of the Aurek-class tactical strikefighter, the Star Saber was largely flown by Jedi, who could compensate by using the Force for the fighter's design flaws, which were never corrected.",
+  "data": {
+    "name": "Star Saber XC-01 starfighter",
+    "manufacturer": "Republic Fleet Systems",
+    "model": "Star Saber XC-01 starfighter",
+    "type": [
+      "Starfighter",
+      "Snubfighter"
+    ],
+    "cost": [
+      "145,000 credits (new)&ndash;3976 BBY",
+      "75,000 credits (used)&ndash;3976 BBY"
+    ],
+    "length": "13 meters",
+    "max_speed": "1,280 km/h",
+    "hyperdrive": "Class 2.0",
+    "armament": "Heavy blaster cannons (2)",
+    "crew": "1 (Pilot)",
+    "passengers": "None",
+    "capacity": "45 kg",
+    "consumables": "1 week",
+    "availability": [
+      "Not available for sale&ndash;3997 BBY",
+      "Restricted&ndash;3976 BBY"
+    ],
+    "firstuse": "3997 BBY",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

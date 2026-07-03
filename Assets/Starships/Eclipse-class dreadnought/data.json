@@ -1,0 +1,62 @@
+{
+  "name": "Eclipse-class dreadnought",
+  "wookieepedia_title": "Eclipse-class dreadnought",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eclipse-class_dreadnought",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Eclipse-class dreadnought, also known as the Eclipse-class Super Star Destroyer, was a class of Imperial Super Star Destroyer manufactured by Kuat Drive Yards and mainly used around six years after the Battle of Endor. Like the Sovereign-class, they were regarded as a new generation of Super Star Destroyer.",
+  "data": {
+    "name": "Eclipse-class dreadnought",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Dreadnoughts",
+    "model": "Eclipse-class dreadnought",
+    "type": "Star Dreadnought",
+    "length": "17,500 meters",
+    "max_accel": "940 G",
+    "engine": [
+      "6 engines (Eclipse I)",
+      "8 engines (Eclipse II)"
+    ],
+    "hyperdrive": [
+      "Class 2",
+      "Class 6 (backup)"
+    ],
+    "armament": [
+      "Axial superlaser (1)",
+      "Heavy laser cannons (550)",
+      "Turbolasers (500)",
+      "Ion cannons (75)",
+      "Tractor beam projectors (100)",
+      "Gravity well projectors (10)"
+    ],
+    "complement": [
+      "TIE/IN interceptors (600) (50 squadrons)",
+      "TIE/sa bombers (96)",
+      "Various other support craft",
+      "All Terrain Armored Transport walkers (100)",
+      "Prefabricated garrison bases (5)"
+    ],
+    "crew": [
+      "780,470 (crew)",
+      "4,175 (gunners)"
+    ],
+    "skeleton": "88,500",
+    "passengers": "150,000 (Stormtroopers)",
+    "capacity": "600,000 metric tons",
+    "consumables": "10 years",
+    "availability": "Military",
+    "role": [
+      "Battlestation (when in orbit around Byss)",
+      "Command ship",
+      "Carrier",
+      "Battleship (Dreadnought)"
+    ],
+    "firstuse": "4 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Zann Consortium (briefly)",
+      "Dark Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

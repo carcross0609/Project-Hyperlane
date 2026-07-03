@@ -1,0 +1,25 @@
+{
+  "name": "Freight-Loading External Rover",
+  "wookieepedia_title": "Freight-Loading External Rover",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Freight-Loading_External_Rover",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Freight-Loading External Rover, or F-LER for short, was a single-pilot starship designed by the Corellian Engineering Corporation (CEC) to fit between the mandibles of an YT-1300 light freighter, directly in front of the freight loading room. Designed by Tee Riffle, the F-LER was a compact tug and cargo handler capable of flying in either realspace or atmospheres. If an YT-1300 was used as in freight-pusher mode, the F-LER could also be mounted at the front of the line of intermodal cargo containers to assist with guidance.",
+  "data": {
+    "name": "Freight-Loading External Rover",
+    "designer": "Tee Riffle",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "F-LER",
+    "engine": "Thruster (1)",
+    "armament": [
+      "Laser cannons (2) (optional)",
+      "Harpoon and tow cable"
+    ],
+    "crew": "Pilot (1)",
+    "role": [
+      "Cargo handler",
+      "Tug"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

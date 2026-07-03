@@ -1,0 +1,36 @@
+{
+  "name": "Pelagia Duplex Command Assault Gunship",
+  "wookieepedia_title": "Pelagia Duplex Command Assault Gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pelagia_Duplex_Command_Assault_Gunship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Pelagia Duplex Command Assault Gunship, nicknamed the \"Orphanmaker\" or a Tapani Murder Machine, protected the Tapani sector in the time of the Great Sith War. It was a military vessel outfitted for use in the private fleets of the Lords of the Expanse.",
+  "data": {
+    "name": "Pelagia Duplex Command Assault Gunship",
+    "manufacturer": "Pelagian shipyards",
+    "model": "Pelagia Duplex Command Assault Gunship",
+    "type": "Gunship",
+    "cost": "525,000 credits (310,000 used)",
+    "length": "30 meter",
+    "max_speed": "870 km/h",
+    "armament": [
+      "Dual heavy laser cannons",
+      "Dual laser cannons"
+    ],
+    "crew": "5",
+    "skeleton": "2",
+    "passengers": "6",
+    "cargohandling": "10 tons",
+    "consumables": "1 week",
+    "availability": "Restricted",
+    "role": [
+      "Planetary defense"
+    ],
+    "affiliation": [
+      "Lords of the Expanse",
+      "Moomo Brothers",
+      "Sith Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

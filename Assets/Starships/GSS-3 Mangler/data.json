@@ -1,0 +1,22 @@
+{
+  "name": "GSS-3 Mangler",
+  "wookieepedia_title": "GSS-3 Mangler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GSS-3_Mangler",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The GSS-3 Mangler, was a starfighter used by the Sith Empire which performed in gunship roles. Created by Soro-Suub after the Imperial conquest of Sullust, the Mangler had the ability to fire from long range with its rail gun while able to defend itself with its four twin light laser cannons. As with most gunships of its time the Mangler had an unimpressive sensor suite, engines and maneuvering thrusters. Its impressive array of offensive capabilities was rumored to have impressed a Mandalorian clan so much that the Mangler was requested to as payment for their services.",
+  "data": {
+    "name": "GSS-3 Mangler",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "4 twin laser cannons",
+      "railgun"
+    ],
+    "role": "Gunship",
+    "affiliation": "Sith Empire"
+  },
+  "scraped": "2026-07-03"
+}

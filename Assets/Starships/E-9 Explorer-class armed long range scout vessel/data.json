@@ -1,0 +1,36 @@
+{
+  "name": "E-9 Explorer-class armed long range scout vessel",
+  "wookieepedia_title": "E-9 Explorer-class armed long range scout vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/E-9_Explorer-class_armed_long_range_scout_vessel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The E-9 Explorer-class armed long range scout vessel was a scout vessel produced by the Loronar Corporation that required a small crew to operate at peak efficiency.",
+  "data": {
+    "name": "E-9 Explorer-class armed long range scout vessel",
+    "manufacturer": "Loronar Corporation",
+    "model": "E-9",
+    "type": "Scout vessel",
+    "length": "65 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon turrets (2)",
+    "crew": "4",
+    "passengers": "4",
+    "consumables": "2 years",
+    "othersystems": "2 escape pods",
+    "role": "Scout vessel",
+    "affiliation": [
+      "Civilians",
+      "Mercenaries",
+      "Merchants",
+      "Pirates",
+      "Scouts"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

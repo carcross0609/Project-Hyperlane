@@ -1,0 +1,35 @@
+{
+  "name": "Mynock-class assault boat",
+  "wookieepedia_title": "Mynock-class assault boat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mynock-class_assault_boat",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mynock-class assault boat was a Corellian in-system combat vessel, developed during the early years of the New Republic.",
+  "data": {
+    "name": "Mynock-class assault boat",
+    "manufacturer": "Corellia",
+    "model": "Mynock-class assault boat",
+    "type": "Assault boat",
+    "length": "44 meters",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Quad-laser cannon",
+      "Concussion missile tube",
+      "Medium ion cannons (2)",
+      "Light chin guns (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (2)",
+      "Gunner (1)"
+    ],
+    "passengers": "24",
+    "role": [
+      "Boarding craft",
+      "Troop carrier"
+    ],
+    "affiliation": "Human League"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Jadthu-class landing ship",
+  "wookieepedia_title": "Jadthu-class landing ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jadthu-class_landing_ship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Jadthu-class landing ship was a landing craft designed by Incom Corporation and developed by Republic Sienar Systems. Originally used to carry freight for the Grand Army of the Republic during the Clone Wars, the Jadthu-class landing ship was upgraded into orbital dropships for deployment of clone troopers. Upon the Galactic Republic's transformation into the Galactic Empire, the Jadthu-class was scrapped by the Imperial Navy, though some found their way into the hands of the Rebel Alliance, as well as mercenary and criminal organizations.",
+  "data": {
+    "name": "Jadthu-class landing ship",
+    "designer": "Incom Corporation",
+    "manufacturer": "Republic Sienar Systems",
+    "type": "Jadthu-class landing ship",
+    "cost": "200,000 credits",
+    "hdsystem": "None",
+    "sensor": "Short range",
+    "navigation": "None",
+    "armament": [
+      "Caltrop-5 Chaff Gun",
+      "Defensive laser turrets",
+      "Dorsal and ventral turret-mounted twin heavy laser cannons"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Loadmaster (1)",
+      "Loadmaster's assistant (1)",
+      "Engineer (1)"
+    ],
+    "passengers": "60 armed troops",
+    "consumables": "Two days",
+    "role": "Troop transport",
+    "affiliation": [
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

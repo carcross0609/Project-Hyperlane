@@ -1,0 +1,54 @@
+{
+  "name": "YV-865 Aurore-class freighter",
+  "wookieepedia_title": "YV-865 Aurore-class freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-865_Aurore-class_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The YV-865 Aurore-class freighter was a highly durable model of freighter built by the Corellian Engineering Corporation. Due to their excessive use by the Zygerrian Slave Empire, they were often nicknamed Zygerrian slave ships.",
+  "data": {
+    "name": "YV-865 Aurore-class freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV-series",
+    "model": "YV-865 Aurore-class freighter",
+    "type": "Freighter",
+    "cost": "240,000 credits",
+    "length": "52.3 meters",
+    "width": "42.33 meters",
+    "height": "16.44 meters",
+    "max_speed": "900 kph",
+    "hyperdrive": "Class 1",
+    "sensor": "Medium range sensor",
+    "armament": [
+      "Twin medium laser cannon",
+      "Grappling turret"
+    ],
+    "escapepods": "1",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (optional)",
+      "Engineer (1)",
+      "Comms/sensor operator (1)",
+      "Loadmaster (2)",
+      "Gunners (4)"
+    ],
+    "passengers": [
+      "Passengers (15)",
+      "Prisoners (100)"
+    ],
+    "consumables": "2 months",
+    "role": [
+      "Slave transport",
+      "Patrol vessel"
+    ],
+    "affiliation": [
+      "Zygerrian Slave Empire",
+      "Confederacy of Independent Systems",
+      "InterGalactic Banking Clan",
+      "Galactic Republic",
+      "Mining Guild",
+      "Partisans",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

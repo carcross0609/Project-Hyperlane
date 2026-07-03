@@ -1,0 +1,29 @@
+{
+  "name": "Aramand System Cruiser III",
+  "wookieepedia_title": "Aramand System Cruiser III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aramand_System_Cruiser_III",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Aramand System Cruiser III was an Aramandi capital ship used in the Taler navy.",
+  "data": {
+    "name": "Aramand System Cruiser III",
+    "length": "140 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped, limited to Aramand Cluster star systems",
+    "armament": "4 laser cannons",
+    "crew": "15; 4 gunners",
+    "skeleton": "7",
+    "passengers": "10 (troops)",
+    "capacity": "250 metric tons",
+    "consumables": "1 month",
+    "role": "Aramand Cluster patrol and defense",
+    "affiliation": "Taler"
+  },
+  "scraped": "2026-07-03"
+}

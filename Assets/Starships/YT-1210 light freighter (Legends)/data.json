@@ -1,0 +1,34 @@
+{
+  "name": "YT-1210 light freighter",
+  "wookieepedia_title": "YT-1210 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1210_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-1210 light freighter was a Corellian Engineering Corporation YT-series light freighter that immediately preceded the YT-1250 freighter.",
+  "data": {
+    "name": "YT-1210 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1210 light freighter",
+    "type": "Light freighter",
+    "cost": "120,000 credits",
+    "length": "28 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 16"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon (1)",
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "4",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Shaadlar-type troopship",
+  "wookieepedia_title": "Shaadlar-type troopship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shaadlar-type_troopship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Shaadlar-type troopship was a series of military personnel carriers used by the Mandalorian Crusaders and Mandalorian Neo-Crusaders.",
+  "data": {
+    "name": "Shaadlar-type troopship",
+    "model": "Shaadlar-type troopship",
+    "type": "Troopship",
+    "cost": [
+      "3,000,000 credits",
+      "1,200,000 credits used"
+    ],
+    "length": "130 meters",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Medium turbolaser batteries (2)",
+      "Point-defense medium ion cannon batteries (2)",
+      "Point-defense light concussion missile batteries (2)",
+      "  50 medium concussion missiles"
+    ],
+    "crew": "30",
+    "passengers": "800",
+    "capacity": "2,500 tons",
+    "consumables": "1 year",
+    "availability": "Restricted",
+    "role": "Troop transport",
+    "affiliation": [
+      "Mandalorian Crusaders",
+      "Mandalorian Neo-Crusaders"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

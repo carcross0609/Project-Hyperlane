@@ -1,0 +1,42 @@
+{
+  "name": "MC30c frigate",
+  "wookieepedia_title": "MC30c frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC30c_frigate",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The MC30c frigate, also referred to simply as the MC30C and MC30c, was a class of Mon Calamari frigate that was manufactured by Mon Calamari Shipyards and saw service during the Imperial Era. The frigates were deployed by the Alliance to Restore the Republic's naval forces during the Galactic Civil War against the Galactic Empire, and they were adopted by the New Republic Defense Fleet, the naval branch of the Alliance's successor state, the New Republic.",
+  "data": {
+    "name": "MC30c frigate",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC-series star cruiser",
+    "model": "MC30C",
+    "type": "Frigate",
+    "cost": "9,500,000 credits",
+    "length": "380 meters",
+    "hyperdrive": [
+      "Class 1 (primary)",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Mon Calamari deflector shield generator",
+    "sensor": "Long-range sensor",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Forward-mounted heavy proton torpedo launchers (2)",
+      "Turret-mounted medium turbolasers (16)",
+      "Twin medium laser cannons (16)",
+      "Cluster bomb launchers (6)"
+    ],
+    "crew": "820 officers and enlisted crew",
+    "passengers": "95 soldiers",
+    "consumables": "Two years",
+    "role": "Fleet escort",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "New Republic",
+      "  New Republic Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

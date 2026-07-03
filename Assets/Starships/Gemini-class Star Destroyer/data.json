@@ -1,0 +1,35 @@
+{
+  "name": "Gemini-class Star Destroyer",
+  "wookieepedia_title": "Gemini-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gemini-class_Star_Destroyer",
+  "continuity": "Unknown",
+  "infobox_template": "Starship_class",
+  "description": "The Gemini-class Star Destroyer, also known as the Twin Star Destroyer, was a model of Star Destroyer used by the dark-side twins Karre and Am in service of the TRIGGER Empire during the time of the Republic. The ship was armed with a hyper cannon capable of destroying entire planets, powered by a kyber crystal.",
+  "data": {
+    "name": "Gemini-class Star Destroyer",
+    "model": "Gemini-class",
+    "type": "Star Destroyer",
+    "armament": [
+      "Laser cannons",
+      "Hyper cannon",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "All Terrain Scout Transports",
+      "TIE fighter series starfighters:",
+      "  TIE/ln space superiority starfighter",
+      "  TIE/IN interceptor",
+      "  TIE/sa bomber",
+      "T-X-wing",
+      "Eta-2 Actis-class light interceptors",
+      "A/SF-01 B-wing starfighter",
+      "BTL-A4 Y-wing starfighter",
+      "Alpha-3 Nimbus-class V-wing starfighter"
+    ],
+    "bays": "Hangars (2)",
+    "crew": "T-Imperial crew",
+    "passengers": "T-Stormtroopers",
+    "affiliation": "T-Empire"
+  },
+  "scraped": "2026-07-03"
+}

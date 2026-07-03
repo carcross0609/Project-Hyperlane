@@ -1,0 +1,143 @@
+# Imperial I-class Star Destroyer
+
+**Continuity:** Canon  
+**Source:** [Imperial I-class Star Destroyer](https://starwars.fandom.com/wiki/Imperial_I-class_Star_Destroyer)
+
+The Imperial I-class Star Destroyer was a model of Imperial-class Star Destroyer in the service of the Imperial Navy. A wedge-shaped capital ship, it bristled with weapons emplacements, assault troops, boarding craft, and TIE fighter series starfighters. In the era of the Galactic Empire, its command bridge was staffed by the finest crewmen in the navy.
+
+## Specifications
+
+- **Name:** Imperial I-class Star Destroyer
+- **Designer:** Lira Wessex
+- **Manufacturer:** Kuat Drive Yards
+- **Line:** Imperial-class Star Destroyer
+- **Model:** Imperial I-class Star Destroyer
+- **Type:** Star Destroyer
+- **Cost:** 150,000,000 credits
+- **Length:**
+  - 1,600.52 meters (5,251 ft 1 in) (precise length)
+  - 1,600 meters (5,249 ft 3 in)
+- **Width:** 985.17 meters (3,232 ft 2 in )
+- **Height:** 455.40 meters (1,461 ft 3 in)
+- **Mass:** 40 million tons
+- **Mglt:** 60 MGLT
+- **Max Speed:** 975 kilometers per hour (606 mph)
+- **Engine:**
+  - Main Destroyer-I ion engines (3)
+  - Gemon-4 ion engines (4) (emergency use)
+- **Hyperdrive:**
+  - Class 2 (primary)
+  - Class 8 (backup)
+- **Hdsystem:** Equipped
+- **Power:**
+  - Main I-a2b solar ionization reactor
+  - Primary power generator
+  - Auxiliary reactor
+  - Backup engine reactor
+  - Subsidiary weapons reactor
+- **Shield Gen:**
+  - Multi-purpose bridge ISD-72x shield generator domes (2)
+  - Deflector shield projector ports
+  - Deflector shield projector (ventral hull-mounted)
+- **Hull:**
+  - Titanium-reinforced alusteel hull with armored durasteel plating
+  - Carbonite and durasteel-reinforced alloy (encasing the reactor)
+- **Sensor:**
+  - Long range sensors
+  -   Fore active sensor array pallets
+  -   Sensor pallets (ventral)
+- **Target:**
+  - Tractor beam targeting array
+  - Targeting computers
+  - Cannon targeting systems (within axial defence turret)
+- **Navigation:** Navicomputer
+- **Armament:**
+  - Eight gun turret stations
+  -   Six dual defence heavy turbolaser turrets
+  -   Two dual heavy ion cannon turrets
+  - Two quad heavy turbolaser batteries (port and starboard lateral-mounted)
+  - Three triple medium turbolaser axial defence turrets
+  - Two medium turbolasers (ventral bow-mounted)
+  - XX-9 heavy turbolaser cannon emplacements (60) (dorsal and ventral-mounted)
+  - NK-7 ion cannons (60)
+  - Other turbolaser and ion cannon variants (numerous)
+  - At least four point-defense laser cannons (aft and dorsal-mounted)
+  - Tractor beam projectors
+  -   Heavy Q7 tractor beam projectors (10) (two ventral-mounted)
+  -   Pursuit tractor beam array (forward bow-mounted)
+- **Complement:**
+  - A wing of TIE fighter series starfighters (72) (minimum)
+  - Consisting typically of:
+  -   TIE/ln space superiority starfighters (48)
+  -   TIE/sa tactical bombers (12) or TIE/d "Defender" Multi-Role Starfighters
+  -   TIE boarding crafts (12) or TIE/IN interceptors (12)
+  - Assault gunboats (5)
+  - Delta-class stormtrooper transports (15)
+  - Gamma-class assault shuttle (1)
+  - Imperial Gozanti-class cruisers (2)
+  - LAAT/le patrol gunships (8)
+  - Lambda-class T-4a shuttles (8) (minimum)
+  - Sentinel-class landing craft (12)
+  - Skipray Blastboats
+  - Stormtrooper dropships
+  - Walker transport barges
+  - Hyperdrive pods
+  -   X3-13s
+  - Prefabricated garrison bases
+  - V-82 dropships (Imperial Troop Transports)
+  - AT-AT walkers (20) (minimum)
+  - AT-ST or AT-DP walkers (30) (minimum)
+  - K79-S80 Imperial Troop Transports (15)
+  - 74-Z speeder bikes
+- **Bays:**
+  - Primary docking bay (1)
+  - Secondary docking and launch bay
+- **Escapepods:** Equipped
+- **Crew:**
+  - 37,085-47,060
+  -   Officers (9,235) (standard complement) (or 9,200 minimum)
+  -   Enlisted personnel (27,850) (minimum) (standard complement)
+  -     Imperial Navy Troopers
+  -     Imperial ground crews
+  -   Imperial weapons technicians (275) (typical)
+  - Thousands of various droids
+  -   KX-series security droids
+- **Skeleton:** 2,000
+- **Passengers:**
+  - A contingent of Stormtroopers (9,700) (minimum) (standard complement) or infantry troops (9,700) (typical)
+  -   Stormtrooper Commanders
+  -   Stormtrooper Sergeants
+  - Death troopers
+- **Capacity:** 36,000 tonnes
+- **Consumables:** 2 years (including munitions)
+- **Communications:**
+  - High-frequency communications transmission station
+  - HoloNet transceiver
+- **Othersystems:** Umbilical restocking vestibules (laterally-situated)
+- **Role:**
+  - Multi-function
+  - Capital ship
+  - Command ship
+  - Destroyer
+  - Military transport
+  - Warship
+  - Planetary subjugation
+  - Ship-to-ship warfare
+  - Troop and vehicle deployment
+- **Firstuse:** 19 BBY
+- **Retired:** Production terminated by 9 BBY
+- **Affiliation:**
+  - Galactic Empire
+  -   Imperial Navy
+  - Alliance to Restore the Republic (Captured)
+  -   Rebel Alliance Navy (Captured)
+  - Scourge (Captured)
+  - New Republic
+  -   New Republic Defense Fleet
+  - Imperial Remnants
+  -   Jakku Imperial remnant
+  -   Thrawn's forces
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

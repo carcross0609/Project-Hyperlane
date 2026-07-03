@@ -1,0 +1,27 @@
+{
+  "name": "Starlight-class light freighter",
+  "wookieepedia_title": "Starlight-class light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starlight-class_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Starlight-class light freighter was a light freighter produced by Rendili StarDrive in conjunction with Surron StarTech. It proved to be the last design produced by Rendili-Surron.",
+  "data": {
+    "name": "Starlight-class light freighter",
+    "manufacturer": "Rendili StarDrive and Surron StarTech",
+    "model": "Starlight-class light freighter",
+    "type": "Freighter",
+    "cost": "26,000 credits (used)",
+    "length": "34 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 2.0 (primary)",
+      "Class 12 (backup)"
+    ],
+    "armament": "Turret-mounted blaster cannon",
+    "passengers": "4",
+    "capacity": "50 metric tons",
+    "consumables": "3 weeks",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Lone Scout-A",
+  "wookieepedia_title": "Lone Scout-A",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lone_Scout-A",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Lone Scout-A was a scout vessel which used technology similar to the TIE Series starships, especially the TIE/sr starfighter. Produced by Republic Sienar Systems, it was later manufactured by Sienar Fleet Systems and its civilian subsidiary, Sienar Ships. The Lone Scout-A served as an exploration vessel for the Galactic Empire and the New Republic, as well as civilian scouts.",
+  "data": {
+    "name": "Lone Scout-A",
+    "manufacturer": [
+      "Republic Sienar Systems",
+      "Sienar Ships",
+      "Sienar Fleet Systems"
+    ],
+    "cost": [
+      "125,000 credits",
+      "30,000 credits"
+    ],
+    "length": "24 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "High quality sensor array",
+    "navigation": "Equipped",
+    "armament": "Laser cannon",
+    "crew": "1",
+    "passengers": "3",
+    "capacity": [
+      "150 metric tons",
+      "60 cubic meters"
+    ],
+    "consumables": "1 year",
+    "role": "Scouting",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

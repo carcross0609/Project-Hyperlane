@@ -1,0 +1,35 @@
+{
+  "name": "IRD starfighter",
+  "wookieepedia_title": "IRD starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IRD_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The IRD starfighters, short for Intercept *Reconnaissance *Defense, was a swift and heavily armed starfighter used by the Corporate Sector's Picket Fleet.",
+  "data": {
+    "name": "IRD starfighter",
+    "manufacturer": "Corporate Sector Authority",
+    "model": "IRD starfighter",
+    "type": "Starfighter",
+    "cost": "75,000 credits",
+    "length": "8.5 meters",
+    "max_accel": "18 MGLT/s",
+    "mglt": "102 MGLT",
+    "max_speed": "850 km/h",
+    "maneuverability": "64 DPF",
+    "hdsystem": "None",
+    "shield_gen": "None",
+    "hull": "Rated 18 RU",
+    "armament": "Medium blaster cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "15 - 30 kg",
+    "consumables": "1 day",
+    "availability": "Military",
+    "affiliation": [
+      "Corporate Sector Authority",
+      "Falcon's Nest mercenaries",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

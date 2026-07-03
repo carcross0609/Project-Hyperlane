@@ -1,0 +1,60 @@
+{
+  "name": "UT-60D U-wing; starfighter/support craft",
+  "wookieepedia_title": "UT-60D U-wing starfighter/support craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/UT-60D_U-wing_starfighter/support_craft",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The UT-60D U-wing starfighter/support craft, also designated as the UT-60D U-wing Troop Transport, was a starship model manufactured by Incom Corporation and used by the Alliance to Restore the Republic during the Galactic Civil War. U-wings served as transports, gunships, and starfighters that dropped soldiers into battle and provided cover fire. Each vessel had powerful fixed cannons that served well in space and versatile gun ports by the loading doors. U-wings were pivotal in transporting and protecting the Rebel Alliance's ground forces during the Battle of Scarif.",
+  "data": {
+    "name": "UT-60D U-wing; starfighter/support craft",
+    "manufacturer": "Incom Corporation",
+    "model": "UT-60D U-wing starfighter/support craft",
+    "type": "Starfighter/Gunship (after alliance modifications)",
+    "cost": "65,000 credits",
+    "length": "23.99 meters (78 ft 8 in) with S-foils forward",
+    "width": "8.54 meters (28 ft)",
+    "height": "3.51 meters (11 ft 6 in)",
+    "max_accel": "2,600 G",
+    "mglt": "95 MGLT",
+    "max_speed": "950 kph (590 mph)",
+    "engine": "Incom 4J.7 fusial thrust engines (4)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Incom GBk-585 hyperdrive motivators (4)",
+    "shield_gen": "Chempat deflector shield generator",
+    "target": "Fabritech ANq 2.9 tracking computer with IN-344-B \"Sightline\" holographic imaging system",
+    "navigation": "Microaxial HyD modular navicomputer",
+    "armament": [
+      "Taim & Bak KX7 laser cannons (2)",
+      "Infantry-based heavy weapons (up to 2, optional)",
+      "  \"Roba\" M-45 repeating ion blaster"
+    ],
+    "escapepods": "Guidenhauser ejector seats",
+    "crew": [
+      "Pilots (2)",
+      "Door gunners (up to 2, optional)"
+    ],
+    "skeleton": "1",
+    "passengers": "8",
+    "consumables": "Two weeks",
+    "lifesupport": "Equipped",
+    "othersystems": [
+      "Cryogenic power cells",
+      "S-foils (2)"
+    ],
+    "availability": "Limited",
+    "role": [
+      "Gunship",
+      "Troop transport",
+      "Shuttle"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Partisans",
+      "Lothal resistance group",
+      "New Republic",
+      "  Adelphi Rangers",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

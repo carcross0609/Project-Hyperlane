@@ -1,0 +1,89 @@
+{
+  "name": "Victory I-class Star Destroyer",
+  "wookieepedia_title": "Victory I-class Star Destroyer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Victory_I-class_Star_Destroyer/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Victory I-class Star Destroyer, also known as the Victory I-class Destroyer and Victoria I-class Star Destroyer, was a warship designed for planetary defense, planetary assault, ground troop support, and ship-to-ship combat. It was used by the Galactic Republic during the mid-Clone Wars, the Galactic Empire and the Corporate Sector during the Galactic Civil War and the Confederation during the Second Galactic Civil War.",
+  "data": {
+    "name": "Victory I-class Star Destroyer",
+    "designer": "Walex Blissex",
+    "manufacturer": [
+      "Rendili StarDrive",
+      "Kuat Drive Yards"
+    ],
+    "line": "Star Destroyers",
+    "model": "Victory I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "cost": "57,000,000 credits",
+    "length": "900 meters",
+    "engine": [
+      "Alderaan Royal Engineers LF9 ion engines"
+    ],
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 3200 SBD",
+    "hull": "Rated 1520 RU",
+    "armament": [
+      "Quad turbolaser batteries (10)",
+      "  5 port",
+      "  5 starboard",
+      "Double turbolaser batteries (40)",
+      "  10 fore",
+      "  15 port",
+      "  15 starboard",
+      "Concussion missile tube launchers (80)",
+      "  20 fore",
+      "  20 port",
+      "  20 starboard",
+      "  20 aft",
+      "Tractor beam projectors (10)",
+      "  6 fore",
+      "  2 port",
+      "  2 starboard",
+      "Alternate configuration",
+      "Light Turbo Quadlasers (10)",
+      "Heavy Double Turbolaser Cannons (20)",
+      "Assault concussion missile tubes (20)",
+      "  80 heavy concussion missiles total",
+      "Tractor beam projectors (10)"
+    ],
+    "complement": [
+      "TIE Series starfighters (24)",
+      "Dropships",
+      "Troop transports",
+      "AT-AT walkers",
+      "Juggernauts",
+      "HAVr A9 Floating Fortresses"
+    ],
+    "crew": [
+      "Crew (4,798)",
+      "Gunners (402)"
+    ],
+    "skeleton": "1,785",
+    "passengers": "2,040 (troops)",
+    "capacity": "8,100 metric tons",
+    "consumables": "4 years",
+    "availability": "Restricted to military",
+    "role": [
+      "Planetary defense",
+      "Planetary assault",
+      "Ground-troop support",
+      "Ship-to-ship combat"
+    ],
+    "firstuse": "20 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Corporate Sector Authority",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Imperial Remnant",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "GX1 short hauler",
+  "wookieepedia_title": "GX1 short hauler/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GX1_short_hauler/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The GX1 short hauler, also called the short hauler or Lantillian deluxe short hauler, was a starship model produced by Lantillian ShipWrights.",
+  "data": {
+    "name": "GX1 short hauler",
+    "manufacturer": "Lantillian ShipWrights",
+    "model": "GX1 Short Hauler",
+    "type": "Light freighter / luxury shuttle",
+    "cost": "20,500 credits (used)",
+    "length": "27 meters",
+    "width": "12 meters",
+    "height": "9 meters",
+    "max_speed": "800 km/h",
+    "engine": "Lantillian ShipWrights Class Four sublight engine",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "sensor": "Fabritech 7Y4 sensor suite",
+    "navigation": "Cybot Galactica NavMaster navigational computer",
+    "armament": "Turbolaser (1, civilian-grade)",
+    "crew": "4",
+    "skeleton": "2",
+    "passengers": "6",
+    "capacity": "85 metric tons",
+    "consumables": "1 month",
+    "role": [
+      "Luxury Passenger Transport",
+      "Freighter"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Assorted Private Use"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Yorik-et",
+  "wookieepedia_title": "Yorik-et",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yorik-et",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The yorik-et, referred to as a coralskipper or skip by New Republic forces, was the Yuuzhan Vong version of a starfighter during their invasion of the galaxy.",
+  "data": {
+    "name": "Yorik-et",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Yorik-et",
+    "type": "Starfighter",
+    "length": "13 meters",
+    "max_accel": "3,700 G",
+    "max_speed": "400 Kilometers per hour",
+    "engine": "Dovin basal",
+    "hdsystem": "None",
+    "shield_gen": "Dovin basal",
+    "hull": "Yorik coral",
+    "armament": "Yaret-Kor (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "1.3 metric tons",
+    "consumables": "1 day",
+    "role": "Starfighter",
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "4R3 Light Assault Transport",
+  "wookieepedia_title": "4R3 Light Assault Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/4R3_Light_Assault_Transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A 4R3 Light Assault Transport was a model of assault ship.",
+  "data": {
+    "name": "4R3 Light Assault Transport",
+    "manufacturer": "Telgorn Corporation",
+    "model": "4R3 Light Assault Transport",
+    "type": "Assault ship",
+    "cost": "300,000 credits",
+    "hyperdrive": [
+      "Class 2",
+      "Backup class 15"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Retractable Medium laser cannons (2)",
+      "Retractable Twin light ion cannons (2)",
+      "Proton torpedo launchers (2)",
+      "  7 proton torpedoes per launcher"
+    ],
+    "crew": "5",
+    "passengers": "16",
+    "role": "Disguised assault ship"
+  },
+  "scraped": "2026-07-03"
+}

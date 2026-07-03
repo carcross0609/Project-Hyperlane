@@ -1,0 +1,29 @@
+{
+  "name": "Space gunship",
+  "wookieepedia_title": "Space gunship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Space_gunship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A space gunship was a model of gunship of the Galactic Republic, similar to the LAAT/i, used during the Clone Wars. Circa 21 BBY, one such craft belonging to the unit Plo's Bros was utilized to evacuate the strike team sent to Lola Sayu during the Battle of Lola Sayu.",
+  "data": {
+    "name": "Space gunship",
+    "type": "Gunship",
+    "armament": [
+      "Anti-personnel laser turrets (1 behind the doors and 2 at the front)",
+      "Mass-driver missile launchers (2)"
+    ],
+    "complement": "All Terrain Recon Transport (1)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)"
+    ],
+    "othersystems": [
+      "Floodlights (2)",
+      "Sealed cabin"
+    ],
+    "role": "Transport",
+    "firstuse": "21 BBY, Battle of Lola Sayu",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Cargo Empress-class super freighter",
+  "wookieepedia_title": "Cargo Empress-class super freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cargo_Empress-class_super_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ghtroc Industries Cargo Empress-class super freighter was a 110-meter long ship which carried 50,000 metric tons of cargo. It operated with a crew of four and could carry up to eight passengers. Its defenses relied entirely on weak shields, as the ship was completely unarmed and had a weak hull.",
+  "data": {
+    "name": "Cargo Empress-class super freighter",
+    "manufacturer": "Ghtroc Industries",
+    "line": "Empress-class",
+    "type": "Medium Bulk freighter",
+    "cost": [
+      "1,000,000 credits (new)",
+      "825,000 credits (used)"
+    ],
+    "length": "110 meters",
+    "max_speed": "650 kmh",
+    "hyperdrive": "Class 2.0 (primary)",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "crew": "4",
+    "passengers": "8",
+    "capacity": "50,000 metric tons",
+    "consumables": "2 months",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

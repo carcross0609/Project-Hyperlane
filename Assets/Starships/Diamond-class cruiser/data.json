@@ -1,0 +1,30 @@
+{
+  "name": "Diamond-class cruiser",
+  "wookieepedia_title": "Diamond-class cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Diamond-class_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Diamond-class cruiser, also known simply as the Commerce Guild cruiser and Commerce Guild Starship, was a class of cruiser used by the Commerce Guild. Forty-one such ships were involved in the First Battle of Geonosis, which was the first battle of the Clone Wars.",
+  "data": {
+    "name": "Diamond-class cruiser",
+    "manufacturer": "Commerce Guild",
+    "model": "Diamond-class cruiser",
+    "type": [
+      "Cruiser",
+      "Transport"
+    ],
+    "length": "200 meters",
+    "hyperdrive": "Class 0.75",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (2)",
+    "complement": "OG-9 homing spider droids or DSD1 dwarf spider droids",
+    "crew": "148",
+    "role": "Defense",
+    "affiliation": [
+      "Commerce Guild",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

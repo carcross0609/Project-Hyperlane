@@ -1,0 +1,24 @@
+{
+  "name": "Concealer-class Prison Ship",
+  "wookieepedia_title": "Concealer-class Prison Ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Concealer-class_Prison_Ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Concealer-class Prison Ship was a 50-meter transport built by Sienar Fleet Systems. It was used by the Galactic Empire to move prisoners from one location to another. Two vessels operated by the Empire were the Caged Animal and the Constrictor.",
+  "data": {
+    "name": "Concealer-class Prison Ship",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Transport",
+    "length": "50 meters",
+    "armament": "Laser cannons (4)",
+    "crew": [
+      "Pilots (3)",
+      "Gunners (4)",
+      "Guards (10)"
+    ],
+    "capacity": "Up to 60 prisoners and 25 metric tons of cargo",
+    "role": "Prison ship",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

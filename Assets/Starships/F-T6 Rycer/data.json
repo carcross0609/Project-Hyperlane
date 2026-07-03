@@ -1,0 +1,22 @@
+{
+  "name": "F-T6 Rycer",
+  "wookieepedia_title": "F-T6 Rycer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/F-T6_Rycer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The F-T6 Rycer was a starfighter used by the Sith Empire which performed in Strikefighter roles. Created in the shipyards of Dromund Kalakar, the fighter was named after the ace pilot Rycer who served during the Great Galactic War. As the Empire's finest dogfighter, the Rycer was touted to have improved maneuvering capabilities better than most strikefighters in the galaxy but this came at the price of its defenses.",
+  "data": {
+    "name": "F-T6 Rycer",
+    "manufacturer": "Dromund Kalakar shipyards",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 Laser cannons",
+      "equipable missiles or torpedoes"
+    ],
+    "role": "Strikefighter",
+    "affiliation": "Sith Empire"
+  },
+  "scraped": "2026-07-03"
+}

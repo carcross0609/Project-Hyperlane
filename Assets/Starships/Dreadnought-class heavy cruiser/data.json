@@ -1,0 +1,58 @@
+{
+  "name": "Dreadnought-class heavy cruiser",
+  "wookieepedia_title": "Dreadnought-class heavy cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dreadnought-class_heavy_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Dreadnought-class heavy cruiser, also known as the Imperial Support Vessel, the Dreadnought Support Vessel, or the Rendili Dreadnought&mdash;alternatively spelled as the Dreadnaught-class heavy cruiser or the Rendili Dreadnaught&mdash;was a powerful, midsize capital ship manufactured by Rendili StarDrive. The warship was designed for heavy space combat and planetary occupation and was armed with a considerable number of turbolasers and heavy laser cannons. Featuring a thoroughly armored hull with minimal shielding, the heavy cruiser could carry an entire starfighter squadron in a dedicated hangar.",
+  "data": {
+    "name": "Dreadnought-class heavy cruiser",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Dreadnought-class",
+    "type": "Heavy cruiser",
+    "cost": "7,200,000 credits",
+    "engine": "Sublight engines (12)",
+    "hyperdrive": [
+      "Class 4 (primary)",
+      "Class 2",
+      "Class 18 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Minimal",
+    "sensor": [
+      "Medium-range sensors",
+      "  Sensor dish (1)"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy laser cannons (10)",
+      "Quad light turbolasers (20)",
+      "Twin medium turbolaser batteries (10)"
+    ],
+    "complement": [
+      "Shuttles",
+      "Starfighters (12)"
+    ],
+    "bays": "Launch bays",
+    "crew": "9,000 to 16,000 officers, pilots, and enlisted crew (depending on configuration)",
+    "passengers": "3,000 troops",
+    "consumables": "One year",
+    "role": [
+      "Anti-piracy",
+      "Planetary occupation",
+      "Warship"
+    ],
+    "firstuse": "Prior to 22 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Utapaun Security Forces",
+      "Batonn insurgents",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

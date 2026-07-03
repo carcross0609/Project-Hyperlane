@@ -1,0 +1,26 @@
+{
+  "name": "Uumufalh",
+  "wookieepedia_title": "Uumufalh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Uumufalh",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Uumufalh was a type of starship used by the Yuuzhan Vong, often referred to as a gunship.",
+  "data": {
+    "name": "Uumufalh",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Uumufalh gunship",
+    "type": "Capital ship",
+    "length": "615 meters",
+    "hyperdrive": "Class 3.0",
+    "armament": [
+      "Yaret-Kors (40)",
+      "Dovin basals"
+    ],
+    "crew": "335",
+    "passengers": "840",
+    "capacity": "1,380 metric tons",
+    "consumables": "6 months",
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

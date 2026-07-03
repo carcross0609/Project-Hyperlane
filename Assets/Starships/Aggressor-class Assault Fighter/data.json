@@ -1,0 +1,29 @@
+{
+  "name": "Aggressor-class Assault Fighter",
+  "wookieepedia_title": "Aggressor-class Assault Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aggressor-class_Assault_Fighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Aggressor-class Assault Fighter was a model of starship. One such vessel was the IG-2000, which was owned by the bounty hunter IG-88B.",
+  "data": {
+    "name": "Aggressor-class Assault Fighter",
+    "manufacturer": "Trilon Incorporated",
+    "type": "Starfighter",
+    "cost": "160,000 credits",
+    "engine": "Sol-Mk. VI ion engine",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 8 (Backup)"
+    ],
+    "sensor": "Short range sensor",
+    "armament": [
+      "Twin medium laser cannons",
+      "Twin medium ion cannons",
+      "Light Tractor beam projector"
+    ],
+    "passengers": "8",
+    "consumables": "3 months",
+    "role": "Combat"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "V-19 Torrent starfighter",
+  "wookieepedia_title": "V-19 Torrent starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V-19_Torrent_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The V-19 Torrent starfighter, also known as the V-19 Torrent Interceptor, was a model of starfighter manufactured by Slayn & Korpil. They were used by the Republic Navy during the Clone Wars, predominantly during the early stages of the war, participating in campaigns such as the Battle of Christophsis, the Malevolence Campaign, the Battle of Ryloth, the Battle of Kamino, and the Battle of Sullust. It was eventually succeeded by the Alpha-3 Nimbus-class V-wing starfighter.",
+  "data": {
+    "name": "V-19 Torrent starfighter",
+    "manufacturer": "Slayn & Korpil",
+    "model": "V-19 Torrent starfighter",
+    "type": "Starfighter",
+    "cost": "75,000 credits",
+    "length": "6.0 meters",
+    "max_speed": "1,200 kph",
+    "engine": "Thrusters (3)",
+    "hyperdrive": "Class 1",
+    "hdsystem": [
+      "External hyperdrive ring (first variant)",
+      "Equipped (second variant)"
+    ],
+    "sensor": "Short-ranged sensors",
+    "navigation": "Equipped",
+    "avionics": "QY77.b avionics suite",
+    "armament": [
+      "Laser cannons (2)",
+      "Concussion missile launchers (2)",
+      "  Concussion missiles (6)"
+    ],
+    "crew": "Pilot (1)",
+    "consumables": "One week",
+    "othersystems": "S-foils (2)",
+    "role": [
+      "Short-range fighter (originally)",
+      "Interceptor"
+    ],
+    "firstuse": "c. 22 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Confederacy of Independent Systems (stolen)",
+      "  Confederacy of Independent Systems Navy (stolen)",
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Botajef Defense Force",
+      "Resistance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

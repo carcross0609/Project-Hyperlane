@@ -1,0 +1,35 @@
+{
+  "name": "YT-2000 light freighter",
+  "wookieepedia_title": "YT-2000 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-2000_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The YT-2000 light freighter, also called the YT-2000 transport, was a model of freighter produced by Corellian Engineering Corporation. One such vessel, the Stellar Sun, was owned by the human Rikarda.",
+  "data": {
+    "name": "YT-2000 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2000",
+    "type": "Freighter",
+    "cost": [
+      "150,000 credits (new)",
+      "45,000 credits (used)"
+    ],
+    "length": "29.4 meters",
+    "max_speed": "800 kph (500 mph)",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": "Dual laser cannon turret (2)",
+    "escapepods": "Break away cockpit (emergency lifeboat)",
+    "crew": "4",
+    "passengers": "7",
+    "capacity": "115 metric tons",
+    "consumables": "3 months"
+  },
+  "scraped": "2026-07-03"
+}

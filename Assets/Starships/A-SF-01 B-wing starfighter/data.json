@@ -1,0 +1,84 @@
+{
+  "name": "A/SF-01 B-wing starfighter",
+  "wookieepedia_title": "A/SF-01 B-wing starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A/SF-01_B-wing_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The A/SF-01 B-wing starfighter, also designated as the A/SF-01 B-wing assault starfighter, more commonly referred to as the B-wing, was a heavily armed Rebel Alliance single-pilot starfighter and bomber designed by the starship engineer Quarrie and manufactured by Slayn & Korpil. The B-wing saw action during the Galactic Civil War and was subsequently substituted by the B-wing Mark II.",
+  "data": {
+    "name": "A/SF-01 B-wing starfighter",
+    "designer": "Quarrie",
+    "manufacturer": "Slayn & Korpil",
+    "line": "B-wing heavy assault starfighter",
+    "model": "A/SF-01 B-wing starfighter",
+    "type": "Heavy assault starfighter",
+    "cost": [
+      "220,000 credits (new)",
+      "120,000 (used)"
+    ],
+    "length": "16.9 meters (55 ft 5 in)",
+    "width": "2.9 meters (9 ft 6 in)",
+    "height": [
+      "2.5 meters (8 ft 2 in) (with S-foils closed)",
+      "7.3 meters (23 ft 11 in) (with S-foils in attack position)"
+    ],
+    "max_accel": "2,390 G",
+    "mglt": "91 MGLT",
+    "max_speed": "950 kph",
+    "engine": "Quadex Kyromaster ion engine with 4 thrusters",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Slayn & Korpil HYd-997 hyperdrive motivator",
+    "power": "Slayn & Korpil JZ-5g7 power convertors",
+    "shield_gen": "Sirplex Zr-41 shield generator",
+    "sensor": "Fabritech ANv-9q sensor array",
+    "target": [
+      "Fabritech ANq 3.6 Computer Tracking System",
+      "Low-power targeting lasers (4)"
+    ],
+    "navigation": "Microaxial LpM-549 navigation computer",
+    "countermeasures": "Powerful ECM packages",
+    "armament": [
+      "Energy weapons:",
+      "ArMek SW-7a ion cannons (3)",
+      "Gyrhil R-9X heavy laser cannon (1)",
+      "Gyrhil 72 twin auto-blaster (1-2)",
+      "or",
+      "Gyrhil R-9X heavy laser cannons (4)",
+      "Multiple ion cannons",
+      "Ordnance:",
+      "Krupx MG9 proton torpedo launchers (2)",
+      "  4 torpedoes each",
+      "as well as",
+      "Laser-guided bombs",
+      "Alternate configuration:",
+      "Composite-beam laser"
+    ],
+    "escapepods": [
+      "Ejectable pod",
+      "Ejector seat"
+    ],
+    "crew": "Pilot (1)",
+    "consumables": "1 week",
+    "lifesupport": "Equipped",
+    "othersystems": [
+      "S-foils",
+      "Gyroscopic controls"
+    ],
+    "role": [
+      "Heavy anti-capital bomber",
+      "Blockade buster",
+      "Escort"
+    ],
+    "firstuse": [
+      "4 BBY (Prototype)",
+      "By 0 ABY (regular model)"
+    ],
+    "affiliation": [
+      "Phoenix Cell",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Amaxine warriors"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "TIE Subfighter",
+  "wookieepedia_title": "TIE Subfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_Subfighter",
+  "continuity": "Legends",
+  "infobox_template": "AquaticVehicle",
+  "description": "The TIE Subfighter was a submersible attack craft. It was armed with a concussion missile launcher and a single blaster cannon.",
+  "data": {
+    "name": "TIE Subfighter",
+    "line": "TIE Series",
+    "speed": "90 kmh",
+    "armament": [
+      "concussion missile launcher",
+      "blaster cannon"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

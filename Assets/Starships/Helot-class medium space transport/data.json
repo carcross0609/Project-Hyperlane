@@ -1,0 +1,32 @@
+{
+  "name": "Helot-class medium space transport",
+  "wookieepedia_title": "Helot-class medium space transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Helot-class_medium_space_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Cygnus Spaceworks Helot-class medium space transport was a transport that was designed in the time before the resurgence of the Galactic Empire, that had already declined in popularity by the end of the Yuuzhan Vong invasion of the galaxy. The ship was designed by engineers from both Cygnus Spaceworks and Sienar Fleet Systems, and was designed as an affordable ship. The Helot lacked shields and had low maneuverability, but was equipped with fire-linked laser cannons.",
+  "data": {
+    "name": "Helot-class medium space transport",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Helot-class medium space transport",
+    "type": "Transport",
+    "cost": "105,000 credits (new), 45,000 credits (used)",
+    "max_speed": "850 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup class 10"
+    ],
+    "shield_gen": "None",
+    "navigation": "Navigation computer",
+    "armament": "Medium laser cannons",
+    "complement": "None",
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "100 tons",
+    "consumables": "3 months",
+    "availability": "Licensed",
+    "role": "Transport",
+    "firstuse": "Prior to 29 ABY"
+  },
+  "scraped": "2026-07-03"
+}

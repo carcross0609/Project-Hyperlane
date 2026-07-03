@@ -1,0 +1,25 @@
+{
+  "name": "G61 Delta Wing",
+  "wookieepedia_title": "G61 Delta Wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G61_Delta_Wing",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The G61 Delta Wing, also known as the Cularin Starfighter, as a type of starfighter that was used by the Cularin Militia during the Clone Wars.",
+  "data": {
+    "name": "G61 Delta Wing",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Starfighter",
+    "cost": "204, 500 credits",
+    "length": "9.5 meters",
+    "hyperdrive": "Class 1.5",
+    "armament": [
+      "2 Fire-linked laser cannons",
+      "ST2 concussion missiles"
+    ],
+    "crew": "1",
+    "passengers": "0",
+    "consumables": "2 days",
+    "affiliation": "Cularin Militia"
+  },
+  "scraped": "2026-07-03"
+}

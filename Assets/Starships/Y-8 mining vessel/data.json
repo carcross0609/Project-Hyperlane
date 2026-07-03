@@ -1,0 +1,35 @@
+{
+  "name": "Y-8 mining vessel",
+  "wookieepedia_title": "Y-8 mining vessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Y-8_mining_vessel",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Y-8 was a Corellian Engineering Corporation mining vessel which dominated mining operations throughout the galaxy.",
+  "data": {
+    "name": "Y-8 mining vessel",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Y-8",
+    "type": "Mining vessel",
+    "length": "80 meters",
+    "width": "30 meters",
+    "height": "140 meters",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Mining lasers",
+      "Tractor beams turret"
+    ],
+    "crew": [
+      "1 pilot",
+      "2 ops station personnel",
+      "4 gunners"
+    ],
+    "skeleton": "2",
+    "passengers": "4",
+    "role": [
+      "Mining Ship",
+      "Gunship"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

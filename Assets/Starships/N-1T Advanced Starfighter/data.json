@@ -1,0 +1,22 @@
+{
+  "name": "N-1T Advanced Starfighter",
+  "wookieepedia_title": "N-1T Advanced Starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/N-1T_Advanced_Starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Naboo N-1T Advanced Starfighter was the successor of the N-1 starfighter.",
+  "data": {
+    "name": "N-1T Advanced Starfighter",
+    "model": "N-1T Advanced Starfighter",
+    "type": "Starfighter",
+    "engine": "2 engines",
+    "armament": "Laser cannons, more powerful than the N-1 starfighter",
+    "crew": [
+      "1 pilot",
+      "1 astromech droid"
+    ],
+    "role": "Starfighter",
+    "affiliation": "Naboo Royal Space Fighter Corps"
+  },
+  "scraped": "2026-07-03"
+}

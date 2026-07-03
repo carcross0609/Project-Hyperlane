@@ -1,0 +1,76 @@
+{
+  "name": "CR90 corvette",
+  "wookieepedia_title": "CR90 corvette",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CR90_corvette",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The CR90 Corvette, also identified as the CR90 class and colloquially known as the Corellian corvette or blockade runner, were consular vessels manufactured by the Corellian Engineering Corporation. While the CR90 would see initial use within the late Galactic Republic and Imperial Senate, many vessels would be appropriated by the early rebellion and Rebel Alliance against the First Galactic Empire, despite not being designed as a combat-oriented vessel. They were later used by the navies of both the New Republic and the Resistance.",
+  "data": {
+    "name": "CR90 corvette",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Alderaanian diplomatic cruiser",
+    "model": "CR90 corvette",
+    "type": "Corvette",
+    "cost": "1,200,000 credits",
+    "length": "150 meters",
+    "mglt": "81 MGLT",
+    "max_speed": "950 kph",
+    "engine": "Corellian Engineering Corporation ion turbine drives (11)",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "power": "Reactor",
+    "shield_gen": "Deflector shields",
+    "sensor": "Sensor dish",
+    "armament": [
+      "Configuration 1:",
+      "  Dorsal and ventral dual turbolaser turrets (2)",
+      "  Turbolaser cannons (4)",
+      "Configuration 2:",
+      "  Dual turbolasers (6)",
+      "Configuration 3:",
+      "  Dorsal quad laser cannon turret (1)",
+      "  Ventral dual turbolaser turret (1)",
+      "  Port and starboard laser cannon (2)",
+      "  Turbolaser cannons (4)",
+      "Configuration 4:",
+      "  Dorsal and ventral dual turbolaser turrets (3)",
+      "  Turbolaser cannons (6)"
+    ],
+    "complement": "3 RZ-1 A-wing interceptors (docked externally)",
+    "escapepods": [
+      "12-passenger capacity escape pods (4)",
+      "6-passenger capacity escape pods (8)"
+    ],
+    "crew": [
+      "46 - 165",
+      "39 diplomats (partially)"
+    ],
+    "passengers": "Hundreds",
+    "communications": "Communications dish",
+    "role": [
+      "Fast attack",
+      "Blockade runner",
+      "Consular ship",
+      "Command ship"
+    ],
+    "affiliation": [
+      "House of Organa",
+      "Galactic Republic",
+      "  Judicial Department",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Senate",
+      "  Imperial Navy",
+      "Botajef Defense Force",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "Crymorah-backed pirates",
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Resistance",
+      "  Resistance navy",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

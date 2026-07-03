@@ -1,0 +1,39 @@
+{
+  "name": "Wayfarer-class medium freighter",
+  "wookieepedia_title": "Wayfarer-class medium freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wayfarer-class_medium_freighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The Wayfarer-class medium freighter was a class of medium freighter used by Senator Bail Organa's resistance movement during the blockade of Ibaar. Two vessels of this class were Cargo Comet and Cargo Sky, which were ordered to deliver supplies to rebels on Ibaar.",
+  "data": {
+    "name": "Wayfarer-class medium freighter",
+    "manufacturer": "Kuat Systems Engineering",
+    "type": "Medium freighter",
+    "cost": "120,000 credits",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 14 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Short range sensor",
+    "navigation": "Navicomputer",
+    "armament": "Quad laser cannon",
+    "crew": [
+      "1 pilot",
+      "1 co-pilot",
+      "1 engineer",
+      "1 cargo master",
+      "6 other crew members"
+    ],
+    "passengers": "6",
+    "capacity": "850",
+    "consumables": "3 months",
+    "role": "Supply ship",
+    "affiliation": [
+      "House of Organa",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

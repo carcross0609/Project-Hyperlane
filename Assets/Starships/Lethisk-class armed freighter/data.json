@@ -1,0 +1,45 @@
+{
+  "name": "Lethisk-class armed freighter",
+  "wookieepedia_title": "Lethisk-class armed freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lethisk-class_armed_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Lethisk-class armed freighter was a large space transport designed by Arakyd Industries and used around the time of the Jedi Civil War.",
+  "data": {
+    "name": "Lethisk-class armed freighter",
+    "manufacturer": "Arakyd Industries",
+    "model": "Lethisk-class armed freighter",
+    "type": "Freighter",
+    "cost": [
+      "470,000 credits (new)",
+      "225,000 (used)"
+    ],
+    "length": "34 meters",
+    "max_speed": "900 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Laser cannons (2)",
+      "Concussion missile launcher",
+      "  12 light concussion missiles"
+    ],
+    "crew": "3",
+    "passengers": "8",
+    "capacity": "60 tons",
+    "consumables": "2 months",
+    "availability": "Restricted",
+    "role": [
+      "Transport",
+      "Escort"
+    ],
+    "affiliation": [
+      "Exchange",
+      "Sandral family"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

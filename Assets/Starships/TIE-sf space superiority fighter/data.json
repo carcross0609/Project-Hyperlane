@@ -1,0 +1,54 @@
+{
+  "name": "TIE/sf space superiority fighter",
+  "wookieepedia_title": "TIE/sf space superiority fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/sf_space_superiority_fighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/sf space superiority fighter, also known as the First Order SF TIE Fighter or Special Forces TIE fighter, was a starfighter model used by the First Order, a specialized version of the TIE/fo space superiority fighter. It was a two-seater unlike the previous TIE models and was outfitted with enhanced weapons and sensor systems as well as a hyperdrive and deflector shields. The TIE/sf was reserved for members of the First Order's elite Special Forces.",
+  "data": {
+    "name": "TIE/sf space superiority fighter",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE series",
+    "type": "Starfighter",
+    "cost": "190,000 credits",
+    "length": "6.69 meters",
+    "max_accel": "4,450 G",
+    "mglt": "140 MGLT",
+    "max_speed": "1,250 kph",
+    "engine": "SJFS P-s6 twin ion engine",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "power": [
+      "2 ion reactors",
+      "Pre-charged deuterium power cells"
+    ],
+    "shield_gen": "Equipped",
+    "target": "T-sj1a targeting computer",
+    "maincomp": "Torplex flight computer",
+    "armament": [
+      "2 SJFS L-s9.6 laser cannons",
+      "SJFS Lb-14 dual heavy laser turret",
+      "KDY missile launcher:",
+      "  ST7 concussion missiles",
+      "  Mag-pulse warheads",
+      "  Torpedoes"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": [
+      "1 pilot",
+      "1 gunner"
+    ],
+    "consumables": "5 days",
+    "lifesupport": "Equipped",
+    "communications": "Subspace communications antenna",
+    "othersystems": "Ion-flux cooling system",
+    "affiliation": [
+      "First Order",
+      "  First Order starfighter corps",
+      "  First Order Special Forces",
+      "Resistance (stolen)",
+      "  Inferno Squad (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

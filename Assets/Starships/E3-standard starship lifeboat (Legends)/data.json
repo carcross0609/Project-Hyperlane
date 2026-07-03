@@ -1,0 +1,24 @@
+{
+  "name": "E3-standard starship lifeboat",
+  "wookieepedia_title": "E3-standard starship lifeboat/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/E3-standard_starship_lifeboat/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The E3-standard starship lifeboat was an escape pod designed by His Grace the Duke Gadal-Herm's Safety Inspectorate. Jedi Master Yoda used one such lifeboat to reach the world of Dagobah to begin his self-imposed exile after the Clone Wars.",
+  "data": {
+    "name": "E3-standard starship lifeboat",
+    "manufacturer": "His Grace the Duke Gadal-Herm's Safety Inspectorate",
+    "model": "E3-standard starship lifeboat",
+    "type": "Escape pod",
+    "length": "4 meters (legs retracted)",
+    "width": "3.5 meters (diameter)",
+    "max_accel": "300 G",
+    "max_speed": "Over 40,000 km/h (during descent)",
+    "hdsystem": "None",
+    "passengers": "3",
+    "consumables": "4 weeks",
+    "role": "Escape pod",
+    "affiliation": "Yoda"
+  },
+  "scraped": "2026-07-03"
+}

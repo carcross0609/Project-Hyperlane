@@ -1,0 +1,64 @@
+{
+  "name": "Vulture-class starfighter; Variable Geometry Self-Propelled Battle Droid, Mark I",
+  "wookieepedia_title": "Vulture-class starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vulture-class_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Vulture-class starfighter (also known as the Variable Geometry Self-Propelled Battle Droid, Mark I or simply as the vulture droid) was a droid starfighter used by the Trade Federation. Later, in much greater numbers, it was utilized by the Confederacy of Independent Systems. It participated heavily in the Clone Wars, at engagements such as the Battles of Kamino and Coruscant.",
+  "data": {
+    "name": "Vulture-class starfighter; Variable Geometry Self-Propelled Battle Droid, Mark I",
+    "manufacturer": [
+      "Haor Chall Engineering",
+      "Baktoid Armor Workshop"
+    ],
+    "line": "Droid starfighters",
+    "model": "Variable Geometry Self-Propelled Battle Droid, Mark I",
+    "type": "Starfighter",
+    "cost": "19,000 credits",
+    "length": "3.6 meters",
+    "height": "3.5 meters",
+    "max_speed": "1,180 km/h",
+    "maneuverability": "100 DPF",
+    "hdsystem": "None",
+    "shield_gen": "None",
+    "hull": "Non-magnetic alclad alloy",
+    "armament": [
+      "Trade Federation version:",
+      "Blaster cannons (4)",
+      "Energy torpedo launchers (2)",
+      "Confederacy of Independent Systems version:",
+      "Blaster cannons (4) (6)",
+      "Concussion missile launchers",
+      "  Medium concussion missile (6)",
+      "  Discord missile (4)",
+      "Buzz droid missile launchers (2)"
+    ],
+    "crew": "Integrated droid brain",
+    "passengers": "None",
+    "capacity": "None",
+    "consumables": "2 days",
+    "availability": "Restricted",
+    "role": [
+      "In starfighter mode:",
+      "Starfighter",
+      "Interceptor",
+      "Escort",
+      "In walker-stance:",
+      "Walker",
+      "Reconnaissance"
+    ],
+    "affiliation": [
+      "Trade Federation",
+      "Galactic Republic",
+      "  Republic Outland Regions Security Force",
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "  Gizor Dellso's navy",
+      "Detritus Satellites",
+      "Jillion Bolts Company",
+      "S.A.T Artisan Sect",
+      "Scintilla Scavengers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Deathraven",
+  "wookieepedia_title": "Deathraven",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deathraven",
+  "continuity": "Legends",
+  "infobox_template": "IndividualShip",
+  "description": "The Deathraven was the personal starship of a mercenary pilot named Erron Kell, who constructed the ship sometime after the formation of the New Republic from two Slayn & Korpil B-wing/E2 starfighters with the help of engineers at Kuat Drive Yards. The thirty-two meter-long vessel combined the two B-wing hulls, which were obtained from Kell's contacts in the New Republic, around an enlarged central cockpit. Due to the addition of two light ion cannons, the Deathraven was more heavily armed than the two B-wing/E2s combined, and it boasted a Class 1.0 hyperdrive, two months of fuel and consumables, and many other improved systems. Kell flew the ship while working as a pilot-for-hire during the reign of the New Republic and the Yuuzhan Vong invasion, although Kell still preferred to transport the Deathraven as cargo during long trips due to the cramped nature of the vessel.",
+  "data": {
+    "name": "Deathraven",
+    "manufacturer": [
+      "Erron Kell (merged design)",
+      "Kuat Drive Yards (aided with the merged design)",
+      "Slayn & Korpil (original B-wing/E2 design)"
+    ],
+    "model": "Combination of two B-wing/E2 starfighters",
+    "type": "Warship",
+    "cost": "609,000 credits",
+    "modifier": [
+      "Erron Kell",
+      "Kuat Drive Yards"
+    ],
+    "sysmods": [
+      "Cargo hold",
+      "Consumables and fuel storage",
+      "Deflector shield generator",
+      "Enlarged cockpit",
+      "Hyperdrive",
+      "Increased armor strength",
+      "Increased engine speed"
+    ],
+    "length": "32 meters",
+    "engine": "Sublight and atmospheric engines equipped",
+    "hyperdrive": "Class 1.0",
+    "shield_gen": "Equipped",
+    "armament": [
+      "4 fire-linked assault laser cannons",
+      "8 fire-linked light ion cannons",
+      "4 proton torpedo launchers",
+      "  40 proton torpedoes"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "1",
+    "capacity": "250 kilograms",
+    "consumables": "2 months",
+    "role": "Personal starship",
+    "commission": "Sometime after the founding of the New Republic, 4 ABY",
+    "owners": "Erron Kell",
+    "captains": "Erron Kell"
+  },
+  "scraped": "2026-07-03"
+}

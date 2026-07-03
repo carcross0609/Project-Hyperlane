@@ -1,0 +1,33 @@
+{
+  "name": "Aegis-class Combat Shuttle",
+  "wookieepedia_title": "Aegis-class Combat Shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aegis-class_Combat_Shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Aegis-class Combat Shuttle was a ship-to-surface combat transport employed produced by the Telgorn Corporation.",
+  "data": {
+    "name": "Aegis-class Combat Shuttle",
+    "manufacturer": "Telgorn Corporation",
+    "type": [
+      "Ship-to-surface combat transport",
+      "Transport shuttle"
+    ],
+    "cost": "40,000 credits",
+    "length": "29 meters",
+    "max_speed": "950 kmh (atmosphere)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "1&mdash;2 concussion missile launcher"
+    ],
+    "crew": "2; 2 gunners",
+    "passengers": [
+      "6",
+      "40 soldiers"
+    ],
+    "capacity": "120 metric tons",
+    "consumables": "4 days"
+  },
+  "scraped": "2026-07-03"
+}

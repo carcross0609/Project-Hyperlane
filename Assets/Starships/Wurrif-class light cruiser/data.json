@@ -1,0 +1,42 @@
+{
+  "name": "Wurrif-class light cruiser",
+  "wookieepedia_title": "Wurrif-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wurrif-class_light_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Wurrif-class light cruisers were the mid-range ships of the Ssi-ruuk.",
+  "data": {
+    "name": "Wurrif-class light cruiser",
+    "manufacturer": "Ssi-ruuvi Imperium",
+    "model": "Wurrif-class light cruiser",
+    "type": "Light cruiser",
+    "length": "400 meters",
+    "hyperdrive": "Class 1.0",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped, 3 jump limit",
+    "armament": [
+      "6 heavy turbolasers",
+      "24 ion cannons",
+      "12 tractor beam projectors"
+    ],
+    "complement": "200 Swarm-class battle droids",
+    "crew": [
+      "Crewman (1,700)",
+      "  Ssi-ruuk (200)",
+      "  P'w'ecks (1500)",
+      "Gunners (156)"
+    ],
+    "skeleton": [
+      "800",
+      "  100 Ssi-ruuk",
+      "  700 P'w'ecks"
+    ],
+    "passengers": "None",
+    "capacity": "2,000 metric tons",
+    "consumables": "3 months",
+    "role": "Escort",
+    "affiliation": "Ssi-ruuvi Imperium"
+  },
+  "scraped": "2026-07-03"
+}

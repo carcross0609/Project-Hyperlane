@@ -1,0 +1,32 @@
+{
+  "name": "Loronar medium transport",
+  "wookieepedia_title": "Loronar medium transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Loronar_medium_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Loronar medium transport was designed by the Loronar Corporation prior to the Clone Wars.",
+  "data": {
+    "name": "Loronar medium transport",
+    "manufacturer": "Loronar Corporation",
+    "model": "Loronar medium transport",
+    "type": "Transport",
+    "cost": "27,000 credits",
+    "length": "75 meters",
+    "max_speed": "650 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 15.0"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Twin laser cannons (4)",
+    "crew": "4 (2 gunners)",
+    "skeleton": "2",
+    "passengers": "10",
+    "capacity": "17,000 metric tons",
+    "consumables": "3 months",
+    "role": "Medium transport"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ro'ik chuun m'arh",
+  "wookieepedia_title": "Ro'ik chuun m'arh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ro%27ik_chuun_m%27arh",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The ro'ik chuun m'arh was a frigate analog used by the Yuuzhan Vong as a picket and long-range reconnaissance ship.",
+  "data": {
+    "name": "Ro'ik chuun m'arh",
+    "manufacturer": "Yuuzhan Vong",
+    "model": "Chuun m'arh frigate",
+    "type": "Capital ship",
+    "length": "440 meters as standard but many in fact 150-200 meters",
+    "hyperdrive": "Class 3",
+    "armament": [
+      "Yaret-Kors (30)",
+      "Dovin basals"
+    ],
+    "complement": "3 scourges",
+    "crew": "225",
+    "passengers": "370",
+    "capacity": "980 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Frigate",
+      "Picket",
+      "Long-range reconnaissance",
+      "Cargo transport",
+      "Troop transport"
+    ],
+    "affiliation": "Yuuzhan Vong empire"
+  },
+  "scraped": "2026-07-03"
+}

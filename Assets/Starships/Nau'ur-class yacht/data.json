@@ -1,0 +1,39 @@
+{
+  "name": "Nau'ur-class yacht",
+  "wookieepedia_title": "Nau'ur-class yacht",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nau%27ur-class_yacht",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Nau'ur-class yacht, also commonly known as the Kalevalan star yacht or just Kalevalan, was a type of custom-order luxurious yacht manufactured by Kalevala Spaceworks. Notable Nau'ur-class yachts included the First Light, owned by Dryden Vos, a high ranking member of the criminal Crimson Dawn syndicate, and the Coronet, owned by Duchess Satine Kryze of Mandalore. Several Kalevalan yachts were part of the Dawn Fleet.",
+  "data": {
+    "name": "Nau'ur-class yacht",
+    "manufacturer": "Kalevala Spaceworks",
+    "type": "Yacht",
+    "cost": "850,000 credits",
+    "hyperdrive": [
+      "Primary: Class 2",
+      "Secondary: Class 15"
+    ],
+    "sensor": "Medium range",
+    "navigation": "Equipped",
+    "armament": [
+      "1 port retractable turret-mounted quad laser cannon",
+      "1 starboard retractable turret-mounted quad laser cannon"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 co-pilot",
+      "1 engineer",
+      "2 gunners",
+      "Numerous service crew including stewards, chefs and bodyguards"
+    ],
+    "passengers": "40",
+    "consumables": "6 months",
+    "affiliation": [
+      "New Mandalorians",
+      "Galactic Republic",
+      "Crimson Dawn"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

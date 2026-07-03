@@ -1,0 +1,32 @@
+{
+  "name": "Light Frigate",
+  "wookieepedia_title": "Light Frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Light_Frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sienar Fleet Systems Light Frigate was a smaller starship that was often used in customs enforcement. It was frequently captured by pirates and used in privateering.",
+  "data": {
+    "name": "Light Frigate",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Frigate",
+    "cost": "1,000,000 credits",
+    "length": "40 meters",
+    "max_speed": "1,050 kmh",
+    "hyperdrive": [
+      "x2 (Primary)",
+      "x15 (Backup)"
+    ],
+    "armament": [
+      "Heavy laser cannon (4)",
+      "Ion cannon (1)",
+      "Tractor beam (1)"
+    ],
+    "crew": "6",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "role": "Customs enforcement",
+    "affiliation": "Privateers"
+  },
+  "scraped": "2026-07-03"
+}

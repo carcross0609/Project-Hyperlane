@@ -1,0 +1,10 @@
+# Haulcraft
+
+**Continuity:** Canon  
+**Source:** [Haulcraft](https://starwars.fandom.com/wiki/Haulcraft)
+
+A haulcraft was a type of transport starship commonly used to haul cargo around the galaxy using twin load-bearing cargo arms mounted on both sides of its hull. They were separated in types, including the light haulcraft. One model of light haulcraft was the V-21.1 Chevlex manufactured by Fondor Yards Commercial Ventures and nicknamed the "Fondor Haulcraft."
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

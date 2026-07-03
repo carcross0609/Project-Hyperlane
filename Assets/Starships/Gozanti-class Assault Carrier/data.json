@@ -1,0 +1,46 @@
+{
+  "name": "Gozanti-class Assault Carrier",
+  "wookieepedia_title": "Gozanti-class Assault Carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gozanti-class_Assault_Carrier",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Gozanti-class Assault Carrier, also known simply as the Imperial assault carrier, was a variant of the Imperial Gozanti-class cruiser used by the Galactic Empire during the Galactic Civil War against the Alliance to Restore the Republic.",
+  "data": {
+    "name": "Gozanti-class Assault Carrier",
+    "model": [
+      "Imperial Gozanti-class cruiser",
+      "Gozanti-class Assault Carrier"
+    ],
+    "type": "Transport",
+    "length": "62.75 meters (205 feet 11 inches)",
+    "width": "31.45 meters (103 feet 2 inches)",
+    "height": "13.05 meters (42 feet 10 inches)",
+    "engine": "Ion turbine engines (3)",
+    "armament": [
+      "Base model:",
+      "  Dorsal twin laser cannon turret (1)",
+      "  Ventral heavy laser cannon turret (1)",
+      "Up-armored model:",
+      "  Forward dorsal twin laser cannon turret (1)",
+      "  Rear dorsal twin laser cannon turret (1)",
+      "  Forward ventral twin laser cannon turret (1)"
+    ],
+    "complement": [
+      "External mounting allowed for either:",
+      "  All Terrain Armored Transports (2) or",
+      "  All Terrain Defense Pods (4) or",
+      "  All Terrain Scout Transports (4) or",
+      "  TIE fighter series starfighters (4)"
+    ],
+    "bays": "Cargo bay (Up-armored model)",
+    "communications": "Rectenna",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Gideon's Imperial remnant",
+      "Mandalorian resistance",
+      "  Mandalorian fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

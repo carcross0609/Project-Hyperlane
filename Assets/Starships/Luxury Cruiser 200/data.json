@@ -1,0 +1,27 @@
+{
+  "name": "Luxury Cruiser 200",
+  "wookieepedia_title": "Luxury Cruiser 200",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Luxury_Cruiser_200",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Luxury Cruiser 200 was a yacht manufactured by SoroSuub Corporation. This model was popular among the young rich of the Mid Rim. Small enough to be intimate and cozy, the 200 was built for amusement, not combat.",
+  "data": {
+    "name": "Luxury Cruiser 200",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "Luxury Cruiser",
+    "model": "Personal Luxury Yacht 200",
+    "type": "Yacht",
+    "cost": "125,000 credits",
+    "length": "100 meters",
+    "hyperdrive": [
+      "Class 2.0 (primary)",
+      "Clas 12.0 (backup)"
+    ],
+    "crew": "2",
+    "skeleton": "1/+10",
+    "passengers": "28",
+    "capacity": "15 metric tons",
+    "consumables": "3 months"
+  },
+  "scraped": "2026-07-03"
+}

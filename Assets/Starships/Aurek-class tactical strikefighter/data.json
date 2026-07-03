@@ -1,0 +1,35 @@
+{
+  "name": "Aurek-class tactical strikefighter",
+  "wookieepedia_title": "Aurek-class tactical strikefighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aurek-class_tactical_strikefighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Aurek-class tactical strikefighter, also known as an A-wing, was a Republic starfighter, several models of which were used in the Old Sith Wars, the Great Galactic War, the New Sith Wars, and even until the final generation of the Republic.",
+  "data": {
+    "name": "Aurek-class tactical strikefighter",
+    "manufacturer": "Republic Fleet Systems",
+    "type": "Starfighter",
+    "cost": "An estimated 360,000 credits",
+    "length": "9.2 meters",
+    "mglt": "115 MGLT",
+    "max_speed": "1,400 km/h",
+    "hyperdrive": [
+      "Class 2"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "Heavy laser cannons (2)",
+      "Proton torpedo launchers (2)",
+      "  6 torpedoes"
+    ],
+    "crew": "Pilot (1)",
+    "capacity": "20 kg",
+    "consumables": "1 week",
+    "affiliation": [
+      "Galactic Republic",
+      "Onderon separatists",
+      "Numerous civilian organizations"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Multi-Altitude Assault Transport",
+  "wookieepedia_title": "Multi-Altitude Assault Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Multi-Altitude_Assault_Transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Multi-Altitude Assault Transport (MAAT) was an aerial vehicle that was used by the Galactic Empire.",
+  "data": {
+    "name": "Multi-Altitude Assault Transport",
+    "model": "Multi Altitude Assault Transport",
+    "type": "Gunship",
+    "armament": [
+      "Missile launchers",
+      "Laser cannons"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunners (at least 2)"
+    ],
+    "role": [
+      "Gunship",
+      "Troop transport"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Kota's Militia",
+      "Rebel Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

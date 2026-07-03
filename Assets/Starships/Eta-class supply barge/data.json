@@ -1,0 +1,36 @@
+{
+  "name": "Eta-class supply barge",
+  "wookieepedia_title": "Eta-class supply barge",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eta-class_supply_barge",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Eta-class supply barge was a type of supply barge used by the Galactic Empire. Larger than the Zeta-class Heavy Cargo Shuttle, the Eta-class could hold multiple pods aloft on a dorsal cargo bed.",
+  "data": {
+    "name": "Eta-class supply barge",
+    "manufacturer": "Telgorn Corporation",
+    "model": "Eta-class supply barge",
+    "type": "Supply ship",
+    "cost": "750,000 credits",
+    "hyperdrive": [
+      "Class 3 (primary)",
+      "Class 12 (backup)"
+    ],
+    "sensor": "Medium range sensor",
+    "armament": "None",
+    "crew": [
+      "1 pilot",
+      "1 co-pilot",
+      "1 loadmaster"
+    ],
+    "passengers": "2",
+    "capacity": "12,000 Metric ton",
+    "cargohandling": "Dorsal cargo bed",
+    "consumables": "3 weeks",
+    "role": "Cargo transport",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sabaoth destroyer",
+  "wookieepedia_title": "Sabaoth destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sabaoth_destroyer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sabaoth destroyer was a capital ship used by the forces of Captain Cavik Toth prior to and during the initial stages of the Clone Wars. Captain Toth himself used one of these destroyers as his flagship.",
+  "data": {
+    "name": "Sabaoth destroyer",
+    "model": "Sabaoth destroyer",
+    "type": "Destroyer",
+    "cost": "3,500,000 credits (1,500,000 used)",
+    "length": "Several hundred meters",
+    "hyperdrive": [
+      "Class 3",
+      "Class 18 (backup)"
+    ],
+    "armament": [
+      "Minimal:",
+      "Light turbolaser batteries (2)",
+      "Point-defense heavy laser cannon batteries (3)",
+      "Total:",
+      "Capital ship turrets (6)",
+      "Heavy anti-starfighter laser turrets (11)"
+    ],
+    "complement": [
+      "Starfighters (12)",
+      "Multiple Sabaoth starfighters",
+      "Multiple Sabaoth Defenders"
+    ],
+    "crew": "250",
+    "passengers": "3,000",
+    "capacity": "3,000 tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "role": [
+      "Destroyer",
+      "Command ship"
+    ],
+    "affiliation": [
+      "Sabaoth Squadron",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

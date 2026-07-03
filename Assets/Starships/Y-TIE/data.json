@@ -1,0 +1,43 @@
+{
+  "name": "Y-TIE",
+  "wookieepedia_title": "Y-TIE",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Y-TIE",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Y-TIE was an Ugly starfighter built by replacing the standard engine package of a BTL Y-wing starfighter with the radiator wings and ion engines of a standard TIE/LN starfighter. The laser cannons from the TIE replaced the ion cannons in the Y-wing's turret, and the TIE's sensor package replaced the Y-wing's missing sensor array.",
+  "data": {
+    "name": "Y-TIE",
+    "line": "Ugly",
+    "model": "BTL Y-wing starfighter/TIE/LN starfighter",
+    "type": "Starfighter",
+    "cost": "52,000 credits",
+    "length": "10 meters",
+    "max_speed": "800 kmh",
+    "engine": "Twin ion engine",
+    "hdsystem": "None",
+    "shield_gen": "None or equipped",
+    "sensor": "Fabritech Sensor Arrays",
+    "armament": [
+      "L-s1 laser cannons (4)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)",
+      "Astromech droid (1)"
+    ],
+    "skeleton": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "110 kg",
+    "consumables": "3 days to 1 week",
+    "role": "Starfighter",
+    "affiliation": [
+      "Pirates",
+      "Privateers",
+      "Crimson Aces",
+      "Smugglers",
+      "Private defense fleets",
+      "Other groups"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

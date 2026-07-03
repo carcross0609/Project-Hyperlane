@@ -1,0 +1,56 @@
+{
+  "name": "MC80B Star Cruiser",
+  "wookieepedia_title": "MC80B Star Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC80B_Star_Cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MC80B Star Cruiser was a Mon Calamari warship produced for the fledgling New Republic fleet. The Mon Remonda was the first MC80B Star Cruiser.",
+  "data": {
+    "name": "MC80B Star Cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "Mon Calamari Star Cruisers",
+    "model": "MC80B Star Cruiser",
+    "type": "Heavy Star Cruiser",
+    "length": "Approximately 1,200 meters",
+    "width": "~572 meters",
+    "height": "~150 meters",
+    "engine": "Ion engines",
+    "hyperdrive": [
+      "Class 1",
+      "Class 6 (backup)"
+    ],
+    "power": "Main reactor core",
+    "shield_gen": "Superior main and multiple backup shield generators",
+    "hull": "Heavily reinforced hull",
+    "sensor": "Sensor clusters",
+    "navigation": "Navi computer",
+    "armament": [
+      "Turbolaser batteries (48)",
+      ":Fire arc: 12 front, 12 left, 12 right, 12 aft",
+      "Ion cannon batteries (20)",
+      ":Fire arc: 8 front, 4 left, 4 right, 4 aft",
+      "Tractor beam projectors"
+    ],
+    "complement": "Starfighter squadrons (4, later upgraded to 8)",
+    "crew": [
+      "Crew members (5,156)",
+      "Gunners (246)"
+    ],
+    "skeleton": "1,230",
+    "passengers": "1,200 troops",
+    "capacity": "15,000 metric tons",
+    "consumables": "1.5 years",
+    "availability": "Not available for sale",
+    "role": [
+      "Heavy assault star cruiser",
+      "Carrier",
+      "Command ship"
+    ],
+    "firstuse": "5 ABY",
+    "affiliation": [
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

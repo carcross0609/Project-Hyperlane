@@ -1,0 +1,40 @@
+{
+  "name": "CF9 Crossfire starfighter",
+  "wookieepedia_title": "CF9 Crossfire starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CF9_Crossfire_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CF9 Crossfire starfighter was a starfighter produced by Incom Corporation around 130 ABY and used by the Galactic Alliance and the Galactic Alliance Remnant.",
+  "data": {
+    "name": "CF9 Crossfire starfighter",
+    "manufacturer": "Incom Corporation",
+    "model": "CF9 Crossfire starfighter",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "max_speed": "1,200 km/h",
+    "engine": "Coldstar ion tri-engine",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannons (4)",
+      "Aft double laser cannon (1)",
+      "Proton torpedo launcher",
+      "  6 Proton torpedoes"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "Gunner (1)",
+    "capacity": "70 kg",
+    "consumables": "1 week",
+    "othersystems": "S-foils",
+    "availability": "Military",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

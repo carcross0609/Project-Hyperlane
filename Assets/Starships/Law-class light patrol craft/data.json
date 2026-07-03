@@ -1,0 +1,38 @@
+{
+  "name": "Law-class light patrol craft",
+  "wookieepedia_title": "Law-class light patrol craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Law-class_light_patrol_craft",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kuat Drive Yards Law-class light patrol craft was intended as a scout craft but more often saw use as a systems patrol and customs ship.",
+  "data": {
+    "name": "Law-class light patrol craft",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Patrol craft",
+    "length": "51 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": [
+      "Laser cannons (2)",
+      "Laser cannon turrets (2)",
+      "Proton torpedo launcher",
+      "  (5 torpedoes)"
+    ],
+    "crew": "15 (5 gunners)",
+    "skeleton": "4",
+    "passengers": "10 prisoners",
+    "capacity": "250 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Scout craft",
+      "Systems patrol craft",
+      "Customs ship"
+    ],
+    "affiliation": "Sector Rangers"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ISP-6 Imperial Shuttle Pod",
+  "wookieepedia_title": "ISP-6 Imperial Shuttle Pod",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ISP-6_Imperial_Shuttle_Pod",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The ISP-6 Imperial Shuttle Pod was a small air/space vehicle used by the Imperial forces.",
+  "data": {
+    "name": "ISP-6 Imperial Shuttle Pod",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "ISP-6",
+    "type": "Shuttle pod",
+    "cost": "15,000 credits",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Light blaster cannons (2)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "role": "Utility craft",
+    "affiliation": [
+      "Galactic Empire",
+      "Rebel Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

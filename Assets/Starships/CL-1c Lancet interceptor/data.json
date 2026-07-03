@@ -1,0 +1,30 @@
+{
+  "name": "CL-1c Lancet interceptor",
+  "wookieepedia_title": "CL-1c Lancet interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CL-1c_Lancet_interceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "CL-1c Lancet interceptors were small, Corellian-built starfighters.",
+  "data": {
+    "name": "CL-1c Lancet interceptor",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CL-1c",
+    "type": "Starfighter",
+    "cost": "55,000 credits",
+    "engine": "Ter22 ion engine",
+    "hyperdrive": "Class 1.0",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": "Medium Laser cannons (2)",
+    "crew": "1 pilot",
+    "passengers": "1",
+    "consumables": "1 day",
+    "role": "Space Superiority",
+    "affiliation": [
+      "Corellian Defense Force",
+      "Corellian Security Force",
+      "Judicial Forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

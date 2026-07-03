@@ -1,0 +1,77 @@
+{
+  "name": "Z-95 Headhunter",
+  "wookieepedia_title": "Z-95 Headhunter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-95_Headhunter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Z-95 Headhunter was a starfighter designed jointly by Incom and Subpro Corporations years before the Invasion of Naboo. Its resilience and longevity meant it remained a staple of private and low-priority government starfighter forces long after its introduction.",
+  "data": {
+    "name": "Z-95 Headhunter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Subpro Corporation"
+    ],
+    "model": "Z-95 Headhunter",
+    "type": "Starfighter",
+    "cost": [
+      "80,000 credits (new)",
+      "45,000 credits (used)"
+    ],
+    "length": "11.8 meters",
+    "max_accel": [
+      "2,780 G",
+      "16 MGLT/s"
+    ],
+    "mglt": "100 MGLT",
+    "max_speed": "1,150 km/h",
+    "maneuverability": "86 DPF",
+    "engine": "Incom 2a fission engines (4)",
+    "hdsystem": "None standard; later fighters included a Gbk-435 hyperdrive motivator",
+    "shield_gen": "Forward/Rear Projecting XoLyyn Shields (rated 20 SBD)",
+    "hull": "Rated 14 RU",
+    "sensor": "ANS-5c sensor unit",
+    "target": [
+      "ANq 2.4 tracking computer",
+      "SI 5g8 \"Quickscan\" imaging system"
+    ],
+    "navigation": "Zr-390 navicomputer system",
+    "armament": [
+      "Variable, depending on model configuration. Typically:",
+      "(standard for Z-95-AF4)",
+      "Linked Taim & Bak KX5 laser cannons (2)",
+      "Krupx MG5 concussion missile launchers (2)",
+      "  3 missiles each",
+      "Or:",
+      "(standard for Z-95 Mark I)",
+      "Linked triple blasters (2)",
+      "Concussion missile launchers (2)"
+    ],
+    "crew": "Pilot (1)",
+    "capacity": "85 kg",
+    "consumables": "1 day",
+    "role": [
+      "Space superiority",
+      "Reconnaissance",
+      "Bomber",
+      "Close air support",
+      "Training"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Alliance to Restore the Republic",
+      "Virgillian Free Alignment",
+      "New Republic",
+      "Zsinj",
+      "Galactic Federation of Free Alliances",
+      "Hutt Cartel",
+      "Black Sun",
+      "Binayre Pirates",
+      "Tenloss Syndicate",
+      "Smugglers",
+      "System defense forces",
+      "Confederation",
+      "Pirates of Iridium"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

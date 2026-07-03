@@ -1,0 +1,55 @@
+{
+  "name": "Namana-class light cruiser",
+  "wookieepedia_title": "Namana-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Namana-class_light_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Namana-class light cruiser was a warship of the Bakuran Defense Fleet.",
+  "data": {
+    "name": "Namana-class light cruiser",
+    "manufacturer": "Bakuran shipyards",
+    "model": "Namana-class light cruiser",
+    "type": "Light cruiser",
+    "length": "400 meters",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 12 (backup)"
+    ],
+    "armament": [
+      "Heavy turbolasers (10)",
+      ":Fire Arc: 2 front, 3 right, 3 left, 2 back",
+      ":Crew: 3",
+      ":Space Range: 75 km",
+      ":Atmospheric Range: 75 km",
+      "Laser cannons (20)",
+      ":Fire Arc: 5 front, 5 right. 5 left, 5 back",
+      ":Crew: 3",
+      ":Space Range: 30 km",
+      ":Atmospheric Range: 30 km",
+      "Tractor beam projectors (2)",
+      ":Fire Arc: Front",
+      ":Crew: 1 (2)",
+      ":Space Range: 30 km",
+      ":Atmospheric Range: 60 km"
+    ],
+    "complement": [
+      "T-65 X-wing starfighters (12)",
+      "Shuttles (4)"
+    ],
+    "crew": [
+      "Crew (1,200)",
+      "Gunners (100)"
+    ],
+    "skeleton": "500",
+    "passengers": "150 troops",
+    "capacity": "3,500 metric tons",
+    "consumables": "1 year",
+    "othersystems": "Hyperwave inertial momentum sustainer",
+    "role": "Escort",
+    "affiliation": [
+      "Bakura",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

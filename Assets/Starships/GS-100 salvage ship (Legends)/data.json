@@ -1,0 +1,32 @@
+{
+  "name": "GS-100 salvage ship",
+  "wookieepedia_title": "GS-100 salvage ship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GS-100_salvage_ship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The GS-100 salvage ship, more commonly known as a Trandoshan scavenger ship, was a Gallofree Yards vessel, designed to navigate debris fields in the wake of space battles, picking up salvageable parts to sell for scrap.",
+  "data": {
+    "name": "GS-100 salvage ship",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "GS-100 salvage ship",
+    "type": "Salvage ship",
+    "cost": "190,000 credits (95,000 used)",
+    "length": "174.78 meters",
+    "max_speed": "400 km/h",
+    "hyperdrive": "Class 3",
+    "armament": "Laser cannons (2)",
+    "crew": [
+      "Pilot (1)",
+      "2 droids"
+    ],
+    "skeleton": "1",
+    "passengers": "20 (droids)",
+    "capacity": "140 tons",
+    "cargohandling": "Multiple cargo arms for handling salvaged material",
+    "consumables": "1 month",
+    "availability": "Licensed",
+    "role": "Salvage vessel",
+    "affiliation": "Independent"
+  },
+  "scraped": "2026-07-03"
+}

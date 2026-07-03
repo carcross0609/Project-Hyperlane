@@ -1,0 +1,29 @@
+{
+  "name": "CR25 troop carrier",
+  "wookieepedia_title": "CR25 troop carrier/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CR25_troop_carrier/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CR25 troop carrier, more commonly known as the Republic dropship, was a multipurpose dropship used to deploy units of clone troopers and gunships in battlefronts where the use of an Acclamator-class assault ship was deemed too impractical.",
+  "data": {
+    "name": "CR25 troop carrier",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CR25 troop carrier",
+    "type": "Dropship",
+    "length": "60 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Twin turbolaser cannons (2)",
+    "complement": [
+      "8 LAAT/i gunships"
+    ],
+    "passengers": "40 clone troopers",
+    "capacity": "Appropriate supplies for complement and troops",
+    "role": "Troop/supply transport",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

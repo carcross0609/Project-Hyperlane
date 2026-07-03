@@ -1,0 +1,25 @@
+{
+  "name": "Zakuul fighter",
+  "wookieepedia_title": "Zakuul fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zakuul_fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Zakuul fighters were a starfighter type used by the Eternal Empire of Zakuul.",
+  "data": {
+    "name": "Zakuul fighter",
+    "manufacturer": "Eternal Empire",
+    "type": "Starfighter",
+    "armament": [
+      "Twin laser cannons"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "role": "Fighter",
+    "affiliation": [
+      "Eternal Empire",
+      "Eternal Alliance",
+      "  Eternal Alliance fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

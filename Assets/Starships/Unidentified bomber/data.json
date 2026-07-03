@@ -1,0 +1,23 @@
+{
+  "name": "Unidentified bomber",
+  "wookieepedia_title": "Unidentified bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "These bombers were used by the war-profiteer Attuma Duum. They were three-engined starfighters with a laser cannon and the capacity to carry space mines. The craft's single pilot had access to life support and communication systems, as well as hyperdrives. Duum utilized them to lay hundreds of thousands of mines in the prelude to his downfall. The Jedi Knight Aayla Secura stole a bomber on two different occasions.",
+  "data": {
+    "name": "Unidentified bomber",
+    "model": "Bomber",
+    "armament": [
+      "One laser cannon",
+      "Space mines"
+    ],
+    "crew": "One pilot",
+    "lifesupport": "Equipped",
+    "communications": "Equipped",
+    "role": "Bomber",
+    "firstuse": "C. 21 BBY",
+    "affiliation": "Attuma Duum"
+  },
+  "scraped": "2026-07-03"
+}

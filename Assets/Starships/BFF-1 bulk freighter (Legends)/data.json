@@ -1,0 +1,34 @@
+{
+  "name": "BFF-1 bulk freighter",
+  "wookieepedia_title": "BFF-1 bulk freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BFF-1_bulk_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "BFF-1 bulk freighters were freighters designed by Phylon Freight along with Aratech Repulsor Company, and built under contract by Damorian Manufacturing Corporation.",
+  "data": {
+    "name": "BFF-1 bulk freighter",
+    "manufacturer": [
+      "Damorian Manufacturing Corporation",
+      "Phylon Freight",
+      "Aratech Repulsor Company"
+    ],
+    "model": "BFF-1 Bulk Freighter",
+    "type": "Medium-sized freighter",
+    "length": "120.9 meters",
+    "width": "75.56 meters",
+    "height": "34 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "17 MGLT",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 200 SBD",
+    "hull": "Rated 140 RU",
+    "armament": "None",
+    "crew": "10",
+    "skeleton": "4",
+    "role": "Bulk transport",
+    "affiliation": [
+      "Independent"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

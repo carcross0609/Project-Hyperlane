@@ -1,0 +1,43 @@
+{
+  "name": "Deep Space Recovery Vessel L-2783",
+  "wookieepedia_title": "Deep Space Recovery Vessel L-2783",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deep_Space_Recovery_Vessel_L-2783",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Deep Space Recovery Vessel L-2783, or simply the L-2783, was a class of bulk cruiser manufactured by Corellian Engineering Corporation that was designed to travel to remote locations to repair or recover damaged starships. At least one L-2783 was owned by the Alliance to Restore the Republic, which served as the flagship of a small flotilla of starfighters and corvettes.",
+  "data": {
+    "name": "Deep Space Recovery Vessel L-2783",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "L-2783",
+    "type": "Bulk cruiser",
+    "cost": "6,500,000 credits",
+    "length": "Comparable to a CR90 corvette",
+    "hyperdrive": "Primary: Class 4, Backup: Class 15",
+    "shield_gen": "Equipped",
+    "sensor": "Long range sensors",
+    "armament": [
+      "Dorsal turret-mounted turbolaser cannon",
+      "Port & starboard turret-mounted laser cannons",
+      "Ventral mounted heavy industrial tractor beam"
+    ],
+    "complement": [
+      "50 maintenance/scavenger pods",
+      "4 cargo shuttles"
+    ],
+    "crew": "100",
+    "skeleton": "25",
+    "passengers": "100",
+    "capacity": "Roughly half that of a Action VI transport",
+    "consumables": "1 Year",
+    "role": [
+      "Repair & salvage craft",
+      "Carrier",
+      "Pirate ships"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

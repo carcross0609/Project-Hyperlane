@@ -1,0 +1,26 @@
+{
+  "name": "Planetary Defender starfighter",
+  "wookieepedia_title": "Planetary Defender starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Planetary_Defender_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Planetary Defender starfighter, also known simply as the Planetary Fighter was one of the countless products of SoroSuub Corporation.",
+  "data": {
+    "name": "Planetary Defender starfighter",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Planetary Defender",
+    "type": "Starfighter",
+    "max_accel": "27 MGLT/s",
+    "mglt": "138 MGLT",
+    "maneuverability": "78 DPF",
+    "shield_gen": "Rated 40 SBD",
+    "hull": "Rated 14 RU",
+    "armament": [
+      "Laser cannons (2)",
+      "2 concussion missile launchers",
+      "  3 missiles each"
+    ],
+    "role": "Corporate/local Security"
+  },
+  "scraped": "2026-07-03"
+}

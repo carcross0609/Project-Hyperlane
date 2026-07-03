@@ -1,0 +1,45 @@
+{
+  "name": "Warrior-class gunship",
+  "wookieepedia_title": "Warrior-class gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Warrior-class_gunship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Warrior-class gunship was a deadly addition to the New Republic fleet produced under the New Class Modernization Program.",
+  "data": {
+    "name": "Warrior-class gunship",
+    "manufacturer": "Republic Engineering Corporation",
+    "line": "New Class Modernization Program",
+    "model": "Warrior-class gunship",
+    "length": "190 meters",
+    "mglt": "75",
+    "max_speed": "1,050 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "sensor": "Equipped",
+    "armament": [
+      "Turbolaser cannons (10)",
+      ":Fire arc: 4 fore, 3 port, 3 starboard",
+      "Laser cannons (8)",
+      ":Fire arc: 2 fore, 3 port, 3 starboard",
+      "Concussion missile tubes (4)",
+      ":Fire arc: 2 fore, 2 aft",
+      "Antimissile octets"
+    ],
+    "crew": [
+      "Crewmembers (44)",
+      "Gunners (36)"
+    ],
+    "skeleton": "22",
+    "passengers": "10",
+    "capacity": "500 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Heavy assault ship",
+      "Gunship"
+    ],
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

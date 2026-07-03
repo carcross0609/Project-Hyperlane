@@ -1,0 +1,49 @@
+{
+  "name": "Kandosii-type dreadnaught",
+  "wookieepedia_title": "Kandosii-type dreadnaught",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kandosii-type_dreadnaught",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kandosii-type dreadnaught, named after the Mando'a word for \"indomitable\", was the largest capital ship used by the Mandalorians during the Mandalorian Wars.",
+  "data": {
+    "name": "Kandosii-type dreadnaught",
+    "manufacturer": [
+      "Original parts stolen from the Fenelar",
+      "Various Mandalorian manufacturers"
+    ],
+    "model": "Kandosii-type dreadnaught",
+    "type": "Dreadnaught",
+    "cost": "200 million credits (120 million used)",
+    "length": "1,360 meters",
+    "engine": "Corellia StarDrive engine system",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 9.0 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Double layered deflector shields",
+    "hull": "Deck plating by Byblos Drive Yards",
+    "navigation": "Navicomputer equipped",
+    "armament": [
+      "Heavy double turbolaser batteries (5)",
+      "Point-defense medium ion cannon batteries (4)",
+      "Point-defense triple laser cannon batteries (2)",
+      "Super-heavy concussion missile batteries (2)",
+      "  120 missiles",
+      "Tractor beam batteries (2)"
+    ],
+    "complement": [
+      "Davaab-type fighters (128)",
+      "Shaadlar-type troopships (8)",
+      "various support craft"
+    ],
+    "crew": "10,000",
+    "passengers": "30,000 troops",
+    "capacity": "45,000 tons",
+    "consumables": "5 years",
+    "availability": "Restricted",
+    "role": "Battleship",
+    "affiliation": "Mandalorian Neo-Crusaders"
+  },
+  "scraped": "2026-07-03"
+}

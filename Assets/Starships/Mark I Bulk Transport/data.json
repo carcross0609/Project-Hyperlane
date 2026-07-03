@@ -1,0 +1,28 @@
+{
+  "name": "Mark I Bulk Transport",
+  "wookieepedia_title": "Mark I Bulk Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mark_I_Bulk_Transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mark I Bulk Transport was manufactured by Sienar Ships.",
+  "data": {
+    "name": "Mark I Bulk Transport",
+    "manufacturer": "Sienar Ships",
+    "type": "Bulk transport",
+    "cost": "500,000 credits (used)",
+    "length": "50 meters",
+    "max_speed": "750 KMH",
+    "hyperdrive": [
+      "Class 3.0",
+      "Class 20"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 laser cannon",
+    "crew": "4",
+    "passengers": "5",
+    "capacity": "60,000 metric tons",
+    "consumables": "5 months"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Orca-class freighter",
+  "wookieepedia_title": "Orca-class freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orca-class_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Orca-class freighter was a class of civilian freighter that saw use during the Galactic Civil War. One Orca-class, Freighter 2716, was used by the Galactic Empire as part of Project Stardust and delivered a large kyber crystal to the Tonnis sector.",
+  "data": {
+    "name": "Orca-class freighter",
+    "model": "Orca-class freighter",
+    "type": "Freighter",
+    "engine": "Sublight engines (6)",
+    "hdsystem": "Equipped",
+    "bays": "At least 1 cargo bay",
+    "escapepods": "Escape pods",
+    "crew": [
+      "Imperial officers",
+      "Death troopers",
+      "Stormtroopers"
+    ],
+    "capacity": "Multiple large containers",
+    "communications": "Equipped",
+    "role": "Cargo transport",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

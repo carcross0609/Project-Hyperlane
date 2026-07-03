@@ -1,0 +1,46 @@
+{
+  "name": "TIE/ad v1",
+  "wookieepedia_title": "TIE/ad v1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ad_v1",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ad v1, or TIE Advanced v1, was an experimental TIE fighter model of the Imperial Navy.",
+  "data": {
+    "name": "TIE/ad v1",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "Experimental twin ion engine space superiority fighter",
+    "type": "Starfighter",
+    "cost": "150,000 credits",
+    "length": "3.2 meters (10 ft 4 in)",
+    "width": "6.6 meters (21 ft 9 in)",
+    "height": "5.7 meters (18 ft 8 in)",
+    "max_accel": "4,150 G",
+    "mglt": "105 MGLT",
+    "max_speed": "1,600 kph",
+    "engine": "Sienar Fleet Systems P-s5.2 twin ion engine",
+    "hyperdrive": "Class 4.5",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Medium-ranged sensor",
+    "target": "T-s8.a targeting computer",
+    "navigation": "N-s6.a Navcon",
+    "armament": [
+      "L-s9.1 laser cannon (2)",
+      "Projectile launcher (1)"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "consumables": "2 days",
+    "lifesupport": "Equipped",
+    "firstuse": "4 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Starfighter Corps",
+      "  Inquisitorius",
+      "Spectres",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

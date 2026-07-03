@@ -1,0 +1,30 @@
+{
+  "name": "Worldcraft",
+  "wookieepedia_title": "Worldcraft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Worldcraft",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A Worldcraft was a large type of habitation sphere. The Worldcraft were artificial planetoids which resembled a terrestrial planet or moon and were capable of traveling through hyperspace and realspace.",
+  "data": {
+    "name": "Worldcraft",
+    "manufacturer": "Imperial Department of Military Research",
+    "model": "Worldcraft",
+    "type": "Habitation sphere",
+    "hdsystem": "Equipped",
+    "armament": "Tractor beam projector (1)",
+    "othersystems": [
+      "Gravfield plates",
+      "Atmospheric containment field"
+    ],
+    "role": [
+      "Space station",
+      "  Mobile artificial planetoid"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Restored Empire",
+      "Empire Reborn"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "S-13 Sting",
+  "wookieepedia_title": "S-13 Sting",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/S-13_Sting",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The S-13 Sting was a starfighter used by the reconstituted Sith Empire which performed in scout roles. The culmination of Tandankin shipyards' line of experimental designs, its array of offensive, defensive and maneuvering capabilities surpassed most other known scout craft, so much so that it was barely classified as a scout with its basic suite of sensor and communication equipment.",
+  "data": {
+    "name": "S-13 Sting",
+    "manufacturer": "Tandankin shipyards",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "equipable rockets or missiles"
+    ],
+    "role": "Scout",
+    "affiliation": "Sith Empire"
+  },
+  "scraped": "2026-07-03"
+}

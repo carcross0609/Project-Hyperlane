@@ -1,0 +1,50 @@
+{
+  "name": "Hapan Battle Dragon",
+  "wookieepedia_title": "Hapan Battle Dragon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hapan_Battle_Dragon",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Hapan Battle Dragons were the premier warships used by the Hapes Consortium.",
+  "data": {
+    "name": "Hapan Battle Dragon",
+    "manufacturer": "Olanji/Charubah",
+    "model": "Hapan Battle Dragon",
+    "type": "Cruiser",
+    "length": "500 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 14"
+    ],
+    "armament": [
+      "Turbolaser batteries (40)",
+      "Ion cannons (40)",
+      "Triple ion cannons (2)",
+      "Proton torpedo launchers (10)",
+      "Tractor beam projector (1)",
+      "Pulse mass generator tubes (4)",
+      "  Pulse mass mines (16)"
+    ],
+    "complement": [
+      "Miy'til starfighters (36) or",
+      "T-65 X-wing starfighters (36)"
+    ],
+    "crew": [
+      "Crew (1,200)",
+      "Gunners (190)"
+    ],
+    "skeleton": "700",
+    "passengers": "500 ground troops",
+    "capacity": "6,000 metric tons",
+    "consumables": "1 year",
+    "role": "Destroyer",
+    "affiliation": [
+      "Hapes Consortium",
+      "  Hapan Royal Navy",
+      "Galactic Federation of Free Alliances",
+      "Confederation",
+      "  Heritage Council",
+      "Jedi Coalition"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

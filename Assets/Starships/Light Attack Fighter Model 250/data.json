@@ -1,0 +1,33 @@
+{
+  "name": "Light Attack Fighter Model 250",
+  "wookieepedia_title": "Light Attack Fighter Model 250",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Light_Attack_Fighter_Model_250",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Light Attack Fighter Model 250, commonly known as the LAF-250 starfighter, was a light starfighter used primarily by the Corellian Defense Force, having been created to police the Corellian sector.",
+  "data": {
+    "name": "Light Attack Fighter Model 250",
+    "manufacturer": [
+      "Corellian Engineering Corporation",
+      "Republic Engineering Corporation"
+    ],
+    "type": "Starfighter",
+    "cost": "60,000 credits",
+    "length": "12 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": "None",
+    "shield_gen": "Equipped",
+    "navigation": "None",
+    "armament": "Light Laser cannons (2)",
+    "crew": "1 pilot",
+    "consumables": "2 days",
+    "role": [
+      "Space Superiority"
+    ],
+    "affiliation": [
+      "Corellian Defense Force",
+      "Selonian Overden"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

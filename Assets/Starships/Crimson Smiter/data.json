@@ -1,0 +1,36 @@
+{
+  "name": "Crimson Smiter",
+  "wookieepedia_title": "Crimson Smiter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crimson_Smiter",
+  "continuity": "Canon",
+  "infobox_template": "IndividualShip",
+  "description": "The Crimson Smiter was an MG-100 StarFortress SF-17 in the Resistance's Crimson Squadron. When a First Order TIE fighter crashed into its bomb bay, it set off a chain reaction which resulted in the Cobalt Hammer being the final bomber left.",
+  "data": {
+    "name": "Crimson Smiter",
+    "manufacturer": "Slayn & Korpil",
+    "model": "MG-100 StarFortress SF-17",
+    "type": "Bomber",
+    "length": "29.67 meters (97.34ft)",
+    "width": "15.3 meters (50.2ft)",
+    "height": "21.65 meters (71.03ft)",
+    "engine": "Sublight ion thrusters (3)",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "Merr-Sonn Munitions EM-1919 paired repeating laser cannons (3)",
+      "Proton bombs (1,048)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Bombardier (1)",
+      "Flight engineer (1)",
+      "Gunner (2)"
+    ],
+    "othersystems": "Electronic countermeasures (ECM)",
+    "role": "Bomber",
+    "destroyed": "34 ABY",
+    "affiliation": "Resistance",
+    "navy": "Resistance navy",
+    "fleet": "Crimson Squadron"
+  },
+  "scraped": "2026-07-03"
+}

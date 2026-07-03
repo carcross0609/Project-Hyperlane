@@ -1,0 +1,64 @@
+{
+  "name": "YT-1300 light freighter",
+  "wookieepedia_title": "YT-1300 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1300_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-1300 light freighter, also known as the YT-1300 Corellian freighter, the Corellian YT-1300 transport or simply as the YT-1300 transport was a type of light freighter manufactured by the Corellian Engineering Corporation that saw operation in the galaxy during the final days of the Galactic Republic and the reign of the Galactic Empire. By the year 1 BBY, it was considered an outdated model. The Millennium Falcon, a smuggling vessel that became part of the Rebel Alliance fleet, was a heavily modified YT-1300 of the YT-1300f variety.",
+  "data": {
+    "name": "YT-1300 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300",
+    "type": "Light freighter",
+    "cost": [
+      "100,000",
+      "25,000 (used)"
+    ],
+    "length": "34.75 meters",
+    "max_speed": "800 kph (500 mph)",
+    "engine": "Girodyne SRB42 sublight engines",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": [
+      "Corellian Avatar-10",
+      "Backup hyperdrive"
+    ],
+    "power": "Quadex power core",
+    "shield_gen": "Equipped",
+    "hull": "Durasteel plating",
+    "navigation": [
+      "Microaxial Rubicon navicomputer",
+      "Incom Corporation AH 1701 gyrocomputer"
+    ],
+    "maincomp": "Hanx-Wargel SuperFlow IV",
+    "armament": "Standard laser cannon (1)",
+    "escapepods": [
+      "Class-6 escape pods",
+      "  (2) (YT-1300p)",
+      "  (1) (YT-1300fp)",
+      "Class-1 escape pods (5)"
+    ],
+    "crew": "2",
+    "passengers": [
+      "9-15 (YT-1300p)",
+      "6 (YT-1300f/YT-1300fp)"
+    ],
+    "capacity": [
+      "25 metric tons (YT-1300p)",
+      "100 metric tons (YT-1300f/YT-1300fp)"
+    ],
+    "cargohandling": [
+      "Boarding ramp",
+      "Freight elevator",
+      "Industrial freight-loading arms",
+      "Phylon C5 tractor beam emitters (2)"
+    ],
+    "consumables": "2 months",
+    "lifesupport": "Corellstand C-8 life support system",
+    "role": "Freight/passenger transport"
+  },
+  "scraped": "2026-07-03"
+}

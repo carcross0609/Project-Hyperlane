@@ -1,0 +1,42 @@
+{
+  "name": "Neutron Star-class bulk cruiser",
+  "wookieepedia_title": "Neutron Star-class bulk cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Neutron_Star-class_bulk_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Neutron Star-class bulk cruiser was a class of bulk cruiser utilized by various factions, including the Galactic Empire and the Alliance to Restore the Republic, during the Imperial Era.",
+  "data": {
+    "name": "Neutron Star-class bulk cruiser",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Neutron Star-class bulk cruiser",
+    "type": [
+      "Bulk cruiser",
+      "Carrier (conversion)"
+    ],
+    "cost": [
+      "2,800,000 credits",
+      "2,871,000 credits (carrier conversion)"
+    ],
+    "hyperdrive": [
+      "Class 3 (primary)",
+      "Class 20 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Long range sensor",
+    "armament": [
+      "24 heavy bulk cruiser turbolasers",
+      "25 heavy laser cannons",
+      "2 heavy tractor beam projectors"
+    ],
+    "complement": "Starfighters (36) (carrier conversion)",
+    "crew": "2,200",
+    "passengers": "250 troops",
+    "consumables": "1 year",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Starfighter Corps",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

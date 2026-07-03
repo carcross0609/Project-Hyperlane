@@ -1,0 +1,59 @@
+{
+  "name": "E-7 E-wing multi-role starfighter",
+  "wookieepedia_title": "E-7 E-wing multi-role starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/E-7_E-wing_multi-role_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The E-7 E-wing multi-role starfighter, also called E-wing escort starfighter, was a single-pilot starfighter developed by FreiTek Inc. It was notable for being the first fighter designed entirely under the support of the New Republic. E-wings deployed with updated laser cannons were known as the Type B.",
+  "data": {
+    "name": "E-7 E-wing multi-role starfighter",
+    "manufacturer": "FreiTek Inc.",
+    "line": "E-wing",
+    "model": "E-7 E-wing multi-role starfighter",
+    "type": "Escort starfighter",
+    "cost": [
+      "160,000 - 200,000 credits",
+      "80,000 credits used"
+    ],
+    "length": "11.2 meters",
+    "max_accel": "4,200 G",
+    "mglt": "120 MGLT",
+    "max_speed": "1,300 km/h",
+    "engine": "FreiTek J8LF fusial thrust engines (2)",
+    "hyperdrive": "Class 1.0 or 2",
+    "hdsystem": "Equipped",
+    "power": "Power generator",
+    "shield_gen": "Deflector shield generator",
+    "hull": "Heavy armor",
+    "sensor": "Primary sensor array",
+    "target": "Fire control systems",
+    "navigation": "10-jump memory (astromech)",
+    "armament": [
+      "Heavy Taim & Bak IX9 medium laser cannons (3)",
+      "Proton torpedo launchers (2)",
+      "  16 Proton torpedoes"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "R7-series astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "100 - 110 kg",
+    "consumables": "1 week",
+    "role": [
+      "Multi-role starfighter",
+      "Space superiority fighter",
+      "Medium assault fighter",
+      "Close-support fighter",
+      "Reconnaissance",
+      "Escort"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Peace Brigade",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

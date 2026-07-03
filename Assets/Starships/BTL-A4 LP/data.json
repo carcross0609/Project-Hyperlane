@@ -1,0 +1,23 @@
+{
+  "name": "BTL-A4 LP",
+  "wookieepedia_title": "BTL-A4 LP",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BTL-A4_LP",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The BTL-A4 LP, or \"Longprobe,\" was a model of BTL Y-wing starfighter used by the Alliance to Restore the Republic during the Galactic Civil War against the Galactic Empire. It was designed for long-distance reconnaissance missions, and provided more space for the crew and equipment. It also had more efficient sensors, and several were provided with ejectable emergency modules which could be used as vehicles with limited repulsors.",
+  "data": {
+    "name": "BTL-A4 LP",
+    "manufacturer": "Koensayr Manufacturing",
+    "line": "BTL Y-wing starfighter",
+    "model": "BTL-A4 LP",
+    "type": "Starfighter/bomber",
+    "sensor": "Equipped",
+    "escapepods": "Ejectable emergency module",
+    "role": "Long-distance reconnaissance",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Starfighter Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

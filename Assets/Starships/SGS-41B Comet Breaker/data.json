@@ -1,0 +1,23 @@
+{
+  "name": "SGS-41B Comet Breaker",
+  "wookieepedia_title": "SGS-41B Comet Breaker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SGS-41B_Comet_Breaker",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The SGS-41B Comet Breaker was a starfighter produced by Republic Sienar Systems for the Galactic Republic. Named after accidentally firing its weapon and destroying a comet during a test run, the gunship was known as a flying armory. At the cost of its moddable rail gun and a bit of its defensive capabilities, the gunship was able to equip proton torpedoes and heavy laser cannons.",
+  "data": {
+    "name": "SGS-41B Comet Breaker",
+    "manufacturer": "Republic Sienar Systems",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "1 railgun",
+      "2 laser cannons",
+      "Additional missiles and torpedoes equippable"
+    ],
+    "role": "Gunship",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

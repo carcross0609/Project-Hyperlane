@@ -1,0 +1,25 @@
+{
+  "name": "Dartship",
+  "wookieepedia_title": "Dartship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dartship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The dartship was a Killik version of a starfighter. They were mass-produced during the Dark Nest Crisis and used against both the Chiss Ascendancy and the Galactic Alliance. There were two main variants: one with a rocket-powered engine, the other with an ion drive. The latter became much more common as the Gorog assumed a more active role in the Colony and began making preparations for war.",
+  "data": {
+    "name": "Dartship",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "max_speed": "1,200 km/h",
+    "engine": "Rocket-powered or Ion drive",
+    "armament": "Laser cannon (1)",
+    "complement": "None",
+    "crew": "1 (skilled)",
+    "passengers": "None",
+    "capacity": "70 kilograms",
+    "consumables": "2 days",
+    "availability": "Military",
+    "firstuse": "Prior to 3641 BBY or during the Killik Great Migration",
+    "affiliation": "Killiks"
+  },
+  "scraped": "2026-07-03"
+}

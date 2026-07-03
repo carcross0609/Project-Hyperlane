@@ -1,0 +1,28 @@
+{
+  "name": "Pocket Patrol Boat",
+  "wookieepedia_title": "Pocket Patrol Boat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pocket_Patrol_Boat",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Pocket Patrol Boat (PPB) was a Corellian-built starfighter design used by the Corellian Defense Force.",
+  "data": {
+    "name": "Pocket Patrol Boat",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "PPB",
+    "type": "Heavy starfighter",
+    "cost": "70,000 credits",
+    "hyperdrive": "None",
+    "shield_gen": "Equipped",
+    "navigation": "None",
+    "armament": "Heavy Laser cannon (1)",
+    "crew": [
+      "Pilot (1)",
+      "Gunner/sensor operator (1)"
+    ],
+    "passengers": "None",
+    "consumables": "2 weeks",
+    "role": "Patrol",
+    "affiliation": "Corellian Defense Force"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "TIE crawler",
+  "wookieepedia_title": "TIE crawler/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_crawler/Legends",
+  "continuity": "Legends",
+  "infobox_template": "GroundVehicle",
+  "description": "The TIE crawler, also known as the century tank or TIE tank, was a light armoured vehicle used by the Galactic Empire. It was an unlikely fusion of two vastly different vehicle types.",
+  "data": {
+    "name": "TIE crawler",
+    "manufacturer": "Sienar Army Systems",
+    "model": "Century tank",
+    "type": "Compact assault vehicle",
+    "cost": "Not available for sale",
+    "length": "6.7 meters",
+    "speed": "90 km/h",
+    "engine": "Santhe SSct power generators (2)",
+    "shield_gen": "None",
+    "armament": [
+      "Light turbolaser cannon (1)",
+      "Medium blaster cannons (2)"
+    ],
+    "crew": "Pilot/gunner (1)",
+    "passengers": "None",
+    "capacity": "65 kg",
+    "consumables": "5 days",
+    "availability": "Military",
+    "role": "Heavy cavalry",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Army",
+      "Dark Empire",
+      "Five Worlds"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,21 @@
+# PT-7 starfighter
+
+**Continuity:** Legends  
+**Source:** [PT-7 starfighter](https://starwars.fandom.com/wiki/PT-7_starfighter)
+
+The PT-7 starfighter, also known as the Raven starfighter or Raven bomber, was a model of starfighter in use by the Galactic Republic during the Cold War and Galactic War with the reconstituted Sith Empire. The fighter, which was grayish-white in color with blue and yellow markings, had two wings that ended in laser cannons extending from two engines attached to the side of the rear of the fuselage, and a third engine sat atop the fuselage with two smaller weapon-tipped fins extending diagonally upwards. The pilot was situated in a cockpit at the front of the fuselage, and bombs could be attached to the bottom of the craft. Around 3643 BBY they were used in the Independent Operation Sebaddon.
+
+## Specifications
+
+- **Name:** PT-7 starfighter
+- **Manufacturer:** Rendili StarDrive
+- **Line:** FT-series
+- **Type:** Starfighter
+- **Role:**
+  - Starfighter
+  - Bomber
+- **Affiliation:** Galactic Republic
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

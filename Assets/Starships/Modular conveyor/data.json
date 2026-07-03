@@ -1,0 +1,30 @@
+{
+  "name": "Modular conveyor",
+  "wookieepedia_title": "Modular conveyor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Modular_conveyor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Modular Conveyor was a freighter built by Allegra Enterprise Systems.",
+  "data": {
+    "name": "Modular conveyor",
+    "manufacturer": "Allegra Enterprise Systems",
+    "type": "Medium-sized freighter",
+    "length": "126.8 meters",
+    "width": "70.35 meters",
+    "height": "42.27 meters",
+    "mglt": "26 MGLT",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 256 SBD",
+    "hull": "Rated 152 RU",
+    "armament": "Dual laser cannon turrets (3)",
+    "crew": "6",
+    "role": "Cargo transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Ripoblus government",
+      "Various: private and commercial"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Drone freighter",
+  "wookieepedia_title": "Drone freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drone_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The drone freighter was a type of unmanned freighter used by the Galactic Empire during the Galactic Civil War.",
+  "data": {
+    "name": "Drone freighter",
+    "type": "Freighter",
+    "hdsystem": "Equipped",
+    "armament": "Equipped",
+    "bays": "At least 1 docking bay",
+    "escapepods": "At least 3 escape pods",
+    "crew": "None required",
+    "skeleton": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "lifesupport": "Equipped",
+    "othersystems": "Command relay",
+    "role": "Unmanned freighter",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

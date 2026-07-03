@@ -1,0 +1,31 @@
+{
+  "name": "Chir'daki",
+  "wookieepedia_title": "Chir'daki",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chir%27daki",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Chir'daki, known in Basic as Deathseed, was a unique type of starfighter developed and used by the Twi'lek species.",
+  "data": {
+    "name": "Chir'daki",
+    "manufacturer": [
+      "Incom Corporation (X-wing parts)",
+      "Sienar Fleet Systems (TIE Fighter parts)",
+      "Twi'leks"
+    ],
+    "model": "Chir'daki",
+    "type": "Ugly starfighter",
+    "engine": "Twin ion engines",
+    "hdsystem": "Equipped",
+    "power": "4L4 fusial thrust engines (powered the lasers, hyperdrive, and shields)",
+    "shield_gen": "Equipped",
+    "armament": "Taim & Bak KX9 or IX4 laser cannons (4)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "othersystems": "S-foils",
+    "affiliation": [
+      "Twi'leks",
+      "Antilles's Rogues"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

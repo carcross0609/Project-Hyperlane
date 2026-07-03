@@ -1,0 +1,42 @@
+{
+  "name": "I4 Ionizer starfighter",
+  "wookieepedia_title": "I4 Ionizer starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/I4_Ionizer_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The I4 Ionizer starfighter was a starfighter deployed by the Galactic Alliance during the Sith–Imperial War and the subsequent Second Imperial Civil War.",
+  "data": {
+    "name": "I4 Ionizer starfighter",
+    "manufacturer": "Koensayr Manufacturing",
+    "model": "I4 Ionizer starfighter",
+    "type": "Starfighter",
+    "cost": "Not available for sale",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Laser cannons",
+      "Quad medium ion cannons",
+      "Disruptor torpedo launcher",
+      "  2 Disruptor torpedoes"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "0",
+    "capacity": "70 kg",
+    "consumables": "1 week",
+    "lifesupport": "Equipped",
+    "availability": "Military",
+    "affiliation": [
+      "Galactic Alliance",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

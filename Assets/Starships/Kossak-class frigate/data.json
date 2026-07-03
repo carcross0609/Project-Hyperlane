@@ -1,0 +1,37 @@
+{
+  "name": "Kossak-class frigate",
+  "wookieepedia_title": "Kossak-class frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kossak-class_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kossak-class Frigate was a frigate manufactured by Ubrikkian Industries.",
+  "data": {
+    "name": "Kossak-class frigate",
+    "manufacturer": "Ubrikkian Industries",
+    "model": "Kossak-class frigate",
+    "type": "Frigate",
+    "cost": "8,300,000 credits",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Medium turbolaser batteries (12)",
+      "Twin light Laser cannons (12)",
+      "Twin Medium Ion cannons (4)",
+      "Heavy Tractor beam emitters (2)"
+    ],
+    "complement": [
+      "Starfighters (8)",
+      "Heavy starfighters/bombers (4)",
+      "Shuttles (3)"
+    ],
+    "crew": "975 officers, pilots, and crew",
+    "passengers": "90",
+    "consumables": "2 years",
+    "affiliation": "Hutt"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Star Cab",
+  "wookieepedia_title": "Star Cab",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Cab",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Orlean Star Cab was an exploration vessel considered ancient by the time of the early years of the New Republic.",
+  "data": {
+    "name": "Star Cab",
+    "manufacturer": "Orlean",
+    "length": "70 meters",
+    "max_speed": "1,050 kmh",
+    "hyperdrive": "Class 10",
+    "sensor": "Equipped",
+    "navigation": "Astromech droid",
+    "armament": "4 blaster cannons",
+    "crew": "4 (1 Human, 3 droids)",
+    "passengers": "11",
+    "capacity": [
+      "100 metric tons",
+      "40 cubic meters"
+    ],
+    "consumables": "5 years",
+    "role": "Exploration vessel"
+  },
+  "scraped": "2026-07-03"
+}

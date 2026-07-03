@@ -1,0 +1,30 @@
+{
+  "name": "Mneffe-class Superluminal",
+  "wookieepedia_title": "Mneffe-class Superluminal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mneffe-class_Superluminal",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mneffe-class Superluminal was a rapid passenger shuttle produced by DuroTech during the early years of the Galactic Empire.",
+  "data": {
+    "name": "Mneffe-class Superluminal",
+    "manufacturer": "DuroTech",
+    "model": "Mneffe-class superluminal",
+    "type": "rapid passenger shuttle",
+    "cost": "200,000 credits (new), 100,000 credits (used)",
+    "length": "27 meters",
+    "max_speed": "1,000 kmh",
+    "hyperdrive": [
+      "Class 1 hyperdrive",
+      "Class 10 hyperdrive (backup)"
+    ],
+    "navigation": "Equipped",
+    "armament": "Turret-mounted double laser cannon (1)",
+    "crew": "Pilot (1), Copilot (1)",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "20 metric tons",
+    "consumables": "1 month",
+    "role": "Passenger transport"
+  },
+  "scraped": "2026-07-03"
+}

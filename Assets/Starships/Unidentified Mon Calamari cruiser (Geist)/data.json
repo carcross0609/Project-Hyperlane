@@ -1,0 +1,32 @@
+{
+  "name": "Unidentified Mon Calamari cruiser",
+  "wookieepedia_title": "Unidentified Mon Calamari cruiser (Geist)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Mon_Calamari_cruiser_%28Geist%29",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "A cruiser class of Mon Calamari design was used as a trading vessel by the monarchy's Mon Cala Mercantile Fleet and was subsequently used by the naval forces of the Alliance to Restore the Republic as a warship during the Galactic Civil War against the Galactic Empire. The Geist, the flagship of General Hera Syndulla, was of the class, as was Commander Lajaie's cruiser. The Star Cruisers had blunt wings and a bulbous surface.",
+  "data": {
+    "name": "Unidentified Mon Calamari cruiser",
+    "type": "Star Cruiser",
+    "engine": "Engines (5)",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Proximity sensors",
+    "complement": "Starfighter squadrons",
+    "bays": "At least 2",
+    "escapepods": "Equipped",
+    "role": [
+      "Flagship",
+      "Trading"
+    ],
+    "affiliation": [
+      "Mon Calamari monarchy",
+      "  Mon Cala Mercantile Fleet",
+      "Galactic Empire",
+      "  Mon Cala Imperial Trade Fleet",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

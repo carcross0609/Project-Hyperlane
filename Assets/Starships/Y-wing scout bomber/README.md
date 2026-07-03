@@ -1,0 +1,28 @@
+# Y-wing scout bomber
+
+**Continuity:** Canon  
+**Source:** [Y-wing scout bomber](https://starwars.fandom.com/wiki/Y-wing_scout_bomber)
+
+The Y-wing scout bomber was a prototype starfighter that shared similarities with the BTL-A4 Y-wing assault starfighter/bomber used by the Alliance to Restore the Republic. The scout bomber was a small one pilot fighter that supported the presence of an astromech droid in a astromech socket. As the name suggests, the Y-wing was roughly oriented in the shape of a 'Y,' with a forward facing cockpit with two engines attached to the rear of it on either side. The starfighter boasted four laser cannons: two forward facing guns next to the cockpit, and a rear pair of guns attached to the astromech socket. The starfighter also featured a bomb bay so it could function as a bomber.
+
+## Specifications
+
+- **Name:** Y-wing scout bomber
+- **Model:** Scout Bomber
+- **Type:** Starfighter/Bomber
+- **Engine:** Equipped (2)
+- **Armament:** Laser cannon (4)
+- **Bays:** Equipped (Single bomb bay)
+- **Crew:**
+  - Pilot (1)
+  - Astromech droid (1)
+- **Role:**
+  - Reconnaissance
+  - Bomber
+- **Affiliation:**
+  - Phoenix Cell
+  -   Spectres
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

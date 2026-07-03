@@ -1,0 +1,25 @@
+{
+  "name": "Bothan frigate",
+  "wookieepedia_title": "Bothan frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bothan_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Bothan frigate was a warship deployed by the Bothans for use by the Confederation Fleet. It was produced by the Tallaani Shipyards.",
+  "data": {
+    "name": "Bothan frigate",
+    "manufacturer": "Tallaani Shipyards",
+    "model": "Bothan frigate",
+    "type": "Frigate",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turbolasers (12)",
+      "Laser cannons (20)"
+    ],
+    "role": "Frigate",
+    "affiliation": [
+      "Bothan Space",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

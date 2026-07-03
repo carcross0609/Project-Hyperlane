@@ -1,0 +1,32 @@
+{
+  "name": "Grek-class troop shuttle",
+  "wookieepedia_title": "Grek-class troop shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grek-class_troop_shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Grek-class troop shuttle was a Corellian Engineering Corporation shuttle design used by the Imperial Navy, as well as other fleets.",
+  "data": {
+    "name": "Grek-class troop shuttle",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Grek-class troop shuttle",
+    "type": "Armored shuttle",
+    "cost": [
+      "40,000 credits (new)",
+      "18,000 credits (used)"
+    ],
+    "length": "30 meters",
+    "max_speed": "950 kmh",
+    "hdsystem": "None",
+    "armament": "Laser cannon (1)",
+    "crew": "2",
+    "passengers": "50 (troops)",
+    "capacity": "500 kilograms",
+    "consumables": "1 day",
+    "role": [
+      "Troop shuttle",
+      "Boarding craft"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

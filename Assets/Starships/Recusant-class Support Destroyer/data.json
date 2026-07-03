@@ -1,0 +1,25 @@
+{
+  "name": "Recusant-class Support Destroyer",
+  "wookieepedia_title": "Recusant-class Support Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Recusant-class_Support_Destroyer",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Recusant-class Support Destroyer was a model of the Recusant-class light destroyer utilized by the naval forces of the Confederacy of Independent Systems during the Clone Wars against the Galactic Republic. A class of destroyer, the starship was equipped with several thrusters, electromagnetic sensor antennas, a neutrino radiator grille, and several heavy turbolaser cannons. The symbol of the Separatist Alliance was also emblazoned on its starboard hull. At one point during the war, a Recusant-class Support Destroyer was located in orbit of a sickly green celestial body alongside two Separatist automated vulture droid deployment stations.",
+  "data": {
+    "name": "Recusant-class Support Destroyer",
+    "model": [
+      "Recusant-class light destroyer",
+      "  Recusant-class Support Destroyer"
+    ],
+    "type": "Destroyer",
+    "engine": "Thrusters",
+    "sensor": "Electromagnetic sensor antennas",
+    "armament": "Heavy turbolaser cannons",
+    "othersystems": "Neutrino radiator grille",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

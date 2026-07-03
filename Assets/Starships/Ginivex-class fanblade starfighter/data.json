@@ -1,0 +1,35 @@
+{
+  "name": "Ginivex-class fanblade starfighter",
+  "wookieepedia_title": "Ginivex-class fanblade starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ginivex-class_fanblade_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Ginivex-class fanblade starfighter, also known as the Ginivex series and the Geonosian fanblade starfighter, was a model of starfighter manufactured by Huppla Pasa Tisc Shipwrights Collective. It was flown by Sith apprentice and Separatist commander Asajj Ventress during the Clone Wars against the Galactic Republic. The ship was equipped with a solar sail, which granted it greater speed and shielding at the cost of allowing other ships' sensors to more easily detect the fighter.",
+  "data": {
+    "name": "Ginivex-class fanblade starfighter",
+    "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+    "model": "Ginivex-class",
+    "type": "Starfighter",
+    "length": "13.05 meters (42 ft, 11 in)",
+    "width": "2.25 meters",
+    "height": "14.40 meters (sail deployed)",
+    "mglt": "125 MGLT",
+    "max_speed": "1,250 kph (777 mph)",
+    "engine": "Air scoop thrusters",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (2)",
+    "crew": "Pilot (1)",
+    "lifesupport": "Equipped",
+    "othersystems": [
+      "Sail deployment arms (2)",
+      "Solar sail"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Ventress's fleet",
+      "Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

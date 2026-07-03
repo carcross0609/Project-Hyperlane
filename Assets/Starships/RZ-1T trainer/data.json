@@ -1,0 +1,31 @@
+{
+  "name": "RZ-1T trainer",
+  "wookieepedia_title": "RZ-1T trainer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RZ-1T_trainer",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The RZ-1T, also known as RZ-1T A-wing, was a model of A-wing trainer starship used by the early rebellion against the Galactic Empire and later the Rebel Alliance, to train aspiring rebel pilots. The starship, developed in the early days of the rebellion, bore many similarities to the base RZ-1, such as a wedge-shaped hull, dual laser cannons and sublight engines, and an internal hyperdrive. Due to its role as a pilot training vehicle, the RZ-1T also featured an additional seat reserved for an instructor in the back of the cockpit.",
+  "data": {
+    "name": "RZ-1T trainer",
+    "line": "A-wing starfighter",
+    "model": "RZ-1T",
+    "type": "Trainer",
+    "engine": "Sublight engines (2)",
+    "hdsystem": "Equipped",
+    "target": "Equipped",
+    "armament": "Laser cannons (2)",
+    "escapepods": "Ejector seat",
+    "crew": [
+      "Pilot (1)",
+      "Instructor (1)"
+    ],
+    "role": "Pilot training",
+    "affiliation": [
+      "Phoenix Cell",
+      "Alliance to Restore the Republic",
+      "  Phoenix Squadron",
+      "Dreamers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

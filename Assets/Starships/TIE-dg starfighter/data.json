@@ -1,0 +1,32 @@
+{
+  "name": "TIE/dg starfighter",
+  "wookieepedia_title": "TIE/dg starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/dg_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/dg starfighter, also known as the TIE Dagger or the Sith TIE fighter, was a type of Sith Eternal-affiliated TIE fighter series starship that was forged in secret by forces under the command of the reborn Darth Sidious, along with the Xyston-class Star Destroyer, the AAL-2100/9.5 atmospheric assault lander, and other new technology created by the Sith cult.",
+  "data": {
+    "name": "TIE/dg starfighter",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/dg starfighter",
+    "type": "Starfighter",
+    "length": "9.51 meters",
+    "height": "7.67 meters",
+    "mglt": "150 MGLT",
+    "engine": "Twin ion engines",
+    "shield_gen": "Equipped",
+    "armament": [
+      "SJFS L-s9.6 laser cannons (2)",
+      "SJFS L-7.0 heavy laser cannons (2)"
+    ],
+    "crew": "Pilot (1)",
+    "role": "Dogfighting",
+    "affiliation": [
+      "First Order",
+      "Sith Eternal",
+      "  Final Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

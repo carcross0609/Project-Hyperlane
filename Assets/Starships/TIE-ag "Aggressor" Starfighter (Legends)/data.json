@@ -1,0 +1,38 @@
+{
+  "name": "TIE/ag \"Aggressor\" Starfighter",
+  "wookieepedia_title": "TIE/ag \"Aggressor\" Starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ag_%22Aggressor%22_Starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ag \"Aggressor\" Starfighter, or simply the TIE Aggressor, was a multi-role superiority starfighter-strike fighter. Its specific role was a hybrid fighter/bomber.",
+  "data": {
+    "name": "TIE/ag \"Aggressor\" Starfighter",
+    "manufacturer": "Santhe/Sienar Technologies",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/AG Aggressor starfighter",
+    "type": "Hybrid starfighter/bomber",
+    "cost": "75,000 credits, not available for sale",
+    "max_speed": "1,100 km/h",
+    "hyperdrive": "None",
+    "shield_gen": "None",
+    "sensor": "Close",
+    "armament": [
+      "Laser cannons",
+      "  Turret mounted twin light laser cannons",
+      "  Forward-mounted medium laser cannons",
+      "Missile launcher",
+      "  6 concussion missiles"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner/Weapon Systems Operator (1)"
+    ],
+    "passengers": "None",
+    "capacity": "75 kilograms",
+    "consumables": "2 days&ndash;1 week",
+    "availability": "Military",
+    "role": "Multi-purpose starfighter",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

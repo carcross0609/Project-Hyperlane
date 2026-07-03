@@ -1,0 +1,45 @@
+{
+  "name": "ShaShore-class frigate",
+  "wookieepedia_title": "ShaShore-class frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ShaShore-class_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The ShaShore-class frigate was a capital ship that served in the New Republic Defense Fleet during the Yuuzhan Vong War and later in the Galactic Alliance Defense Fleet over a hundred years afterwards. A fast and versatile starship, the ShaShore-class saw extensive use during the Sith–Imperial War and the subsequent operations that followed. Many of these frigates were part of Admiral Gar Stazi's Galactic Alliance Remnant fleet.",
+  "data": {
+    "name": "ShaShore-class frigate",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "ShaShore-class frigate",
+    "type": "Frigate",
+    "cost": "Not available for sale",
+    "hdsystem": "Class 1 (backup Class 10)",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Navigation computer",
+    "countermeasures": "Communications jammers (alternatively)",
+    "armament": [
+      "Turbolaser batteries (6)",
+      "Point-defense cannon batteries (2)",
+      "Proton torpedo launcher batteries (2)",
+      "  80 proton torpedoes",
+      "Tractor beam battery",
+      "or",
+      "Barrage missile launchers (alternatively)"
+    ],
+    "complement": "CF9 Crossfire starfighters (24), Crix-class armored shuttles (2)",
+    "crew": "1,200",
+    "passengers": "250 (troops)",
+    "capacity": "7,000 tons",
+    "consumables": "2 years",
+    "othersystems": "Long-range sensor pods (alternatively)",
+    "availability": "Military",
+    "firstuse": "25 ABY",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Galactic Federation of Free Alliances",
+      "  Galactic Alliance Core Fleet",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

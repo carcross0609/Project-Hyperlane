@@ -1,0 +1,57 @@
+{
+  "name": "Derriphan-class battleship",
+  "wookieepedia_title": "Derriphan-class battleship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Derriphan-class_battleship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Derriphan-class battleship was the primary capital ship used by the old Sith Empire. Most Sith Lords of the time carried these vessels in their fleets.",
+  "data": {
+    "name": "Derriphan-class battleship",
+    "manufacturer": [
+      "Sith Empire",
+      "Star Forge"
+    ],
+    "model": "Derriphan-class battleship",
+    "type": [
+      "Battleship",
+      "Frigate (Star Forge manufacture)"
+    ],
+    "cost": "Not available for sale",
+    "length": "215 meters",
+    "hyperdrive": [
+      "Class 4.0",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "None",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Autoblasters (6: three left and right)",
+      "Point-defense medium blaster cannon battery (Star Forge manufacture)",
+      "Heavy concussion missile launchers (3 frontal)",
+      "  Heavy concussion missile battery (1)",
+      "  Payload: 60 missiles"
+    ],
+    "complement": [
+      "Starfighters (6)",
+      "Shuttles (2)"
+    ],
+    "crew": "25",
+    "passengers": "850",
+    "capacity": "5,000 metric tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "role": [
+      "Battleship",
+      "Command ship",
+      "Strike cruiser",
+      "Frigate analog (later use)"
+    ],
+    "affiliation": [
+      "Old Sith Empire",
+      "Exar Kun's Sith Empire",
+      "Darth Revan's Sith Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

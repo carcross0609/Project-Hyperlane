@@ -1,0 +1,39 @@
+{
+  "name": "Mankvim-814 light interceptor",
+  "wookieepedia_title": "Mankvim-814 light interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mankvim-814_light_interceptor",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Mankvim-814 light interceptor, also known as the Techno Union Fighter, was an interceptor manufactured by the Techno Union during the era of the Clone Wars. The Grand Hall of the Traders' Guild in Pau City on the planet Utapau was converted by the guild into a factory to construct Mankvim-814s prior to the Battle of Utapau.",
+  "data": {
+    "name": "Mankvim-814 light interceptor",
+    "manufacturer": [
+      "Techno Union",
+      "Feethan Ottraw Scalable Assemblies"
+    ],
+    "model": "Mankvim-814",
+    "type": "Starfighter",
+    "length": "10.7 m",
+    "width": "6.46 m",
+    "height": "3.45 m",
+    "engine": [
+      "High-velocity ion drive",
+      "Maneuvering side thrusters"
+    ],
+    "power": "Reactor",
+    "shield_gen": "Compact deflector shield generator",
+    "sensor": [
+      "Forward scanner",
+      "Sensory processor"
+    ],
+    "armament": "Rapid-fire laser cannons (2)",
+    "crew": "1 pilot",
+    "othersystems": "Wing-mounted maneuvering repulsorlifts",
+    "role": "Interceptor",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Techno Union"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

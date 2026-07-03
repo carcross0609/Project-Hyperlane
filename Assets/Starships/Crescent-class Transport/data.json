@@ -1,0 +1,29 @@
+{
+  "name": "Crescent-class Transport",
+  "wookieepedia_title": "Crescent-class Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crescent-class_Transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Crescent-class Transport or Crescent-class freighter was a fast luxury courier manufactured by Hyrotii Corporation.",
+  "data": {
+    "name": "Crescent-class Transport",
+    "manufacturer": "Hyrotii Corporation",
+    "model": "Light freighter",
+    "cost": "25,000 credits (used)",
+    "length": "30 meters",
+    "max_speed": "950 KMH",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 Light Laser cannon",
+    "crew": "1-2",
+    "passengers": "(Varies) Up to 8",
+    "capacity": "80 metric tons",
+    "consumables": "2 months",
+    "role": "Freighter"
+  },
+  "scraped": "2026-07-03"
+}

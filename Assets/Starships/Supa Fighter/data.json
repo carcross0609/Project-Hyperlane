@@ -1,0 +1,45 @@
+{
+  "name": "Supa Fighter",
+  "wookieepedia_title": "Supa Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Supa_Fighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Supa Fighter was manufactured by Joraan Drive Systems for the Black Sun criminal organization during the height of the New Order.",
+  "data": {
+    "name": "Supa Fighter",
+    "manufacturer": "Joraan Drive Systems",
+    "model": "Supa Fighter",
+    "type": "Starfighter",
+    "cost": [
+      "110,000 credits (new)",
+      "70,000 credits (used)"
+    ],
+    "length": "27.6 meters",
+    "width": "25.7 meters",
+    "height": "9.5 meters",
+    "max_accel": "16 MGLT/s",
+    "mglt": "89 MGLT",
+    "max_speed": "850 km/h",
+    "maneuverability": "88 DPF",
+    "hdsystem": "None",
+    "shield_gen": "Rated 80 SBD",
+    "hull": "Rated 38 RU",
+    "armament": [
+      "Laser cannons (2)",
+      "Ion cannon (1)",
+      "Concussion missile launchers (2)",
+      "  8 missiles total"
+    ],
+    "crew": "1",
+    "passengers": "None",
+    "capacity": "80 kg",
+    "consumables": "1 day",
+    "availability": "Restricted",
+    "role": [
+      "Assault fighter",
+      "Convoy escort"
+    ],
+    "affiliation": "Black Sun"
+  },
+  "scraped": "2026-07-03"
+}

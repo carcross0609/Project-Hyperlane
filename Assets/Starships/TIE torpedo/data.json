@@ -1,0 +1,20 @@
+{
+  "name": "TIE torpedo",
+  "wookieepedia_title": "TIE torpedo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_torpedo",
+  "continuity": "Legends",
+  "infobox_template": "AquaticVehicle",
+  "description": "The TIE torpedo was a sleek, one-man attack submarine under development by the Galactic Empire at Juggerhead on Bestine IV. It was researched in secret, under the cover of Acclamator-class assault ship construction. The former Imperial research facility was scrapped in 9 ABY when Bestine had joined the New Republic.",
+  "data": {
+    "name": "TIE torpedo",
+    "model": "TIE torpedo",
+    "type": "Submersible",
+    "crew": "1",
+    "role": "Aquatic assault",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

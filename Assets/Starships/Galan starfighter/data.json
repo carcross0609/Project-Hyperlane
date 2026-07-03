@@ -1,0 +1,29 @@
+{
+  "name": "Galan starfighter",
+  "wookieepedia_title": "Galan starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galan_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Galan starfighter was a sleek, small two-seater starfighter used by the Galacians.",
+  "data": {
+    "name": "Galan starfighter",
+    "type": "Starfighter",
+    "engine": "Ion engines",
+    "hdsystem": "Equipped",
+    "target": "Emergency weapon sighting plate",
+    "navigation": "Equipped",
+    "armament": "Laser cannons (at least 2)",
+    "complement": "Swoop bikes (at least 2)",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "At least 1",
+    "role": "Transport",
+    "affiliation": [
+      "Jedi Order",
+      "Gala"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

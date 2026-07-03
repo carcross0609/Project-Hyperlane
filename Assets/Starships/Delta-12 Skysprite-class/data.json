@@ -1,0 +1,35 @@
+{
+  "name": "Delta-12 Skysprite-class",
+  "wookieepedia_title": "Delta-12 Skysprite-class",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Delta-12_Skysprite-class",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Delta-12 Skysprite was a two-being starfighter/transport developed by Kuat Systems Engineering for civilian use, and use by the Jedi Order.",
+  "data": {
+    "name": "Delta-12 Skysprite-class",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series fighter",
+    "model": "Delta-12 Skysprite",
+    "type": "Starfighter",
+    "cost": "85,000 credits",
+    "length": "Over 8 meters",
+    "hyperdrive": "Class 1.0 (With booster ring, 150,000 LY range)",
+    "hdsystem": "Syliure-31 long-range hyperdrive module",
+    "sensor": "Short-range",
+    "navigation": "Astromech socket",
+    "armament": "None",
+    "crew": "Pilot (1)",
+    "passengers": "1",
+    "consumables": "Two weeks",
+    "role": [
+      "Interceptor",
+      "Long-range reconnaissance fighter",
+      "Elite personnel transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

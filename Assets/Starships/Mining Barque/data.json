@@ -1,0 +1,35 @@
+{
+  "name": "Mining Barque",
+  "wookieepedia_title": "Mining Barque",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mining_Barque",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Mining Barques were 80-meter long work ships manufactured by Trilon, Inc. They carried three crew, six passengers, 3,000 metric tons (1,000 cubic meters) of cargo, and 4 months' consumables. They had a class 4 hyperdrive, a class 9 backup, a navigation computer, and the ability to achieve 400 kmh in atmosphere. They were equipped with automated mining equipment, a sensor array designed to detect precious metals, shields, a forward turbolaser, and a heavy mining laser. Though the laser was intended for strip mining, it could easily penetrate a small ship's hull.",
+  "data": {
+    "name": "Mining Barque",
+    "manufacturer": "Trilon, Inc.",
+    "type": "Mobile mining vehicle",
+    "length": "80 meters",
+    "max_speed": "400 kmh",
+    "hyperdrive": [
+      "Class 4",
+      "Class 9"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy mining laser",
+      "Turbolaser"
+    ],
+    "crew": "3",
+    "passengers": "6",
+    "capacity": [
+      "3,000 metric tons",
+      "1,000 cubic meters"
+    ],
+    "consumables": "4 months",
+    "role": "Mining vessel"
+  },
+  "scraped": "2026-07-03"
+}

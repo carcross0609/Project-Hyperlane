@@ -1,0 +1,26 @@
+{
+  "name": "G-59 Cannibalizer",
+  "wookieepedia_title": "G-59 Cannibalizer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G-59_Cannibalizer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The G-59 Cannibalizer was a starfighter that was designed by Syub Kyak and manufactured by SoroSuub Corporation on Edic Bar during the last years of the Old Republic. It was similar to Incom Corporation's Z-95 Headhunter.",
+  "data": {
+    "name": "G-59 Cannibalizer",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "G-59 Cannibalizer",
+    "type": "Starfighter",
+    "length": "11.8 meters",
+    "armament": [
+      "Triple fire-linked blasters",
+      "Concussion missile launcher"
+    ],
+    "crew": "1 pilot",
+    "skeleton": "1 pilot",
+    "capacity": "85 kg",
+    "consumables": "1 day",
+    "role": "Patrol starfighter",
+    "affiliation": "SoroSuub Corporation"
+  },
+  "scraped": "2026-07-03"
+}

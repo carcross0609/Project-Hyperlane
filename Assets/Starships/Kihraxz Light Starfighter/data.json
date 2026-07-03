@@ -1,0 +1,32 @@
+{
+  "name": "Kihraxz Light Starfighter",
+  "wookieepedia_title": "Kihraxz Light Starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kihraxz_Light_Starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Kihraxz Light Starfighter was a model of starfighter that was commissioned by the Black Sun criminal organization and shared its name with the Kihraxz Heavy Fighter. Some of the light fighters were used by the Rebel Alliance Intelligence Service. In order to increase performance, the manufacturer offered a modification package after some time.",
+  "data": {
+    "name": "Kihraxz Light Starfighter",
+    "manufacturer": "TransGalMeg Industries Inc.",
+    "type": "Starfighter",
+    "cost": "65,000 credits",
+    "engine": "Engines",
+    "hyperdrive": "Class 3",
+    "hdsystem": "Equipped",
+    "sensor": "Close range sensor",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Twin light blaster cannon",
+      "Concussion missile launcher",
+      "Light ion cannon"
+    ],
+    "crew": "Pilot (1)",
+    "consumables": "1 day",
+    "affiliation": [
+      "Black Sun",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Intelligence Service"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

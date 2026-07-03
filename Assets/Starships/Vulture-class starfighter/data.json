@@ -1,0 +1,73 @@
+{
+  "name": "Vulture-class starfighter",
+  "wookieepedia_title": "Vulture-class starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vulture-class_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Vulture-class starfighter, also known as the Variable Geometry Self-Propelled Battle Droid, Mark I, or more simply as the vulture droid, was an unmanned model of droid starfighter manufactured by Haor Chall Engineering Corporation and utilized by the Trade Federation and later the Confederacy of Independent Systems. The fighter relied on overwhelming numbers during combat. Usually, these droids were constructed in the cathedral factories of Xi Char, where precision manufacturing was considered an act of religious worship. Later they were manufactured by Baktoid Armor Workshop. Vulture droids were present at many engagements during the Clone Wars.",
+  "data": {
+    "name": "Vulture-class starfighter",
+    "designer": "Xi Charrian",
+    "manufacturer": [
+      "Haor Chall Engineering Corporation (initial production)",
+      "  Xi Char Cathedral factories (initial production)",
+      "Baktoid Armor Workshop (Clone Wars production)"
+    ],
+    "model": "Vulture-class",
+    "type": "Droid starfighter",
+    "cost": "40,000 credits",
+    "length": [
+      "6.96 meters (in flight)",
+      "3.5 meters (11 feet 6 inches) (walking)"
+    ],
+    "height": [
+      "1.86 meters (in flight)",
+      "6.87 meters (walking)"
+    ],
+    "mglt": "120 MGLT",
+    "max_speed": "1,200 kph",
+    "engine": [
+      "2 equipped",
+      "Repulsorlift (for landing)",
+      "Antigrav generator"
+    ],
+    "power": [
+      "Blaster power cells",
+      "Power cells",
+      "Solid fuel-concentrate slugs"
+    ],
+    "hull": "Light nonmagnetic alclad alloy plating",
+    "sensor": [
+      "Magnetic imaging sensors",
+      "Visual sensors",
+      "Active sensor eyes"
+    ],
+    "armament": [
+      "Twin blaster cannon (2) (four on upgraded version)",
+      "Energy torpedo launcher (2) (standard version)",
+      "Buzz droid missile launcher (4) (upgraded version)"
+    ],
+    "crew": "Integrated droid brain",
+    "communications": [
+      "Antenna"
+    ],
+    "othersystems": [
+      "Power converters"
+    ],
+    "role": "Starfighter",
+    "affiliation": [
+      "Trade Federation",
+      "  Trade Federation fleet",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Separatist holdouts",
+      "  Kelrodo-Ai holdout",
+      "Scintilla Scavenger",
+      "Berch Teller's rebel cell",
+      "Free Ryloth Movement",
+      "Bedlam Raiders",
+      "House Maccon"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

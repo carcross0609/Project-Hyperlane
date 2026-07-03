@@ -1,0 +1,49 @@
+{
+  "name": "Vibre-class assault cruiser",
+  "wookieepedia_title": "Vibre-class assault cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vibre-class_assault_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "IndividualShip",
+  "description": "The Vibre-class assault cruiser was a starship specifically designed for commerce raiding by the Galactic Empire, used both by elements of the Imperial military and by pro-Imperial privateer crews.",
+  "data": {
+    "name": "Vibre-class assault cruiser",
+    "manufacturer": "Silviut Corporation",
+    "model": "Vibre-class assault cruiser",
+    "type": "Assault cruiser",
+    "cost": "Not available for sale (Valued at 2,259,000 credits)",
+    "length": "100 meters",
+    "mglt": "70",
+    "max_speed": "1,000 km/h (in atmosphere)",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped (capital ship grade)",
+    "sensor": "Sensor antenna arrays",
+    "navigation": "Equipped",
+    "countermeasures": "Sensor mask, stealth coating",
+    "armament": [
+      "Quadruple Light Turbolaser turret (1)",
+      "Tractor beam projectors (2)",
+      "Heavy Ion cannons (4)",
+      "Or",
+      "Laser cannon turrets (4)",
+      "Tractor beam projectors (2)",
+      "Ion cannons (4)"
+    ],
+    "crew": [
+      "30",
+      "Gunners (15)"
+    ],
+    "skeleton": [
+      "10",
+      "Gunners (10)"
+    ],
+    "passengers": "Spacetroopers (60)",
+    "capacity": "500 metric tons",
+    "consumables": "5 months",
+    "role": "Assault cruiser",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

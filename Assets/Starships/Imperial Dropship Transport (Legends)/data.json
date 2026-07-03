@@ -1,0 +1,32 @@
+{
+  "name": "Imperial Dropship Transport",
+  "wookieepedia_title": "Imperial Dropship Transport/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Dropship_Transport/Legends",
+  "continuity": "Legends",
+  "infobox_template": "RepulsorliftVehicle",
+  "description": "The Imperial Dropship Transport, or IDT for short, was a type of craft that was used by the Galactic Empire.",
+  "data": {
+    "name": "Imperial Dropship Transport",
+    "manufacturer": "Rothana Heavy Engineering",
+    "type": "Transport",
+    "length": "16.8 meters",
+    "width": "20 meters",
+    "armament": [
+      "Mass-driver missile launchers (2)",
+      "Light laser cannons (2)",
+      "Blaster cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "Stormtroopers",
+    "role": [
+      "Gunship",
+      "Troop transport"
+    ],
+    "firstuse": "c. 19 BBY",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

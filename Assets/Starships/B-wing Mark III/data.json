@@ -1,0 +1,27 @@
+{
+  "name": "B-wing Mark III",
+  "wookieepedia_title": "B-wing Mark III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/B-wing_Mark_III",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "In 35 ABY, the Resistance used the B-wing Mark III, also known as the Resistance B-wing, during the First Order-Resistance War. The Resistance B-wing was the newest of the \"blade wing\" line, lacking the speed and maneuverability of its contemporaries, but it had the raw firepower needed to take on the Sith Eternal's fleet, the Final Order. All the Resistance B-wings were armed with the fearsome Gyrhil R-9X heavy laser cannon.",
+  "data": {
+    "name": "B-wing Mark III",
+    "line": "B-wing heavy assault starfighter",
+    "model": "B-wing Mark III",
+    "type": "Starfighter",
+    "mglt": "100 MGLT",
+    "engine": "Equipped with 4 thrusters (2 sizes)",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "Gyrhil R-9X heavy laser cannon",
+      "Proton bombs"
+    ],
+    "crew": "Pilot (1)",
+    "othersystems": "Adjustable S-foils",
+    "affiliation": "Resistance"
+  },
+  "scraped": "2026-07-03"
+}

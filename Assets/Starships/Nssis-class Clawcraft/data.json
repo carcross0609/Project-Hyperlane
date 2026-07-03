@@ -1,0 +1,38 @@
+{
+  "name": "Nssis-class Clawcraft",
+  "wookieepedia_title": "Nssis-class Clawcraft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nssis-class_Clawcraft",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nssis-class Clawcraft was a starfighter typically associated with the Chiss, but in fact was a hybrid development of standard Imperial technology.",
+  "data": {
+    "name": "Nssis-class Clawcraft",
+    "manufacturer": "Unknown shipyards affiliated with the Chiss Ascendancy and the Empire of the Hand",
+    "line": "TIE Series relative",
+    "model": "Nssis-class Clawcraft",
+    "type": "Starfighter",
+    "length": "7.65 meters",
+    "max_accel": "3,800 G",
+    "max_speed": "1,000 km/h",
+    "engine": "Twin ion engines",
+    "hyperdrive": "Class 1.5",
+    "shield_gen": "Equipped",
+    "navigation": "Chiss anchor-point network (navigation computer could be installed as an upgrade)",
+    "armament": "SFS L-s7.2 laser cannons (4)",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "25 kilograms",
+    "consumables": "1 week",
+    "othersystems": "Control jets",
+    "availability": "Military",
+    "role": "Space superiority fighter",
+    "affiliation": [
+      "Galactic Empire",
+      "Syndic Mitth'raw'nuruodo's Household Phalanx",
+      "Empire of the Hand",
+      "Chiss Ascendancy",
+      "  Chiss Expansionary Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

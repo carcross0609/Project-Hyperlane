@@ -1,0 +1,59 @@
+{
+  "name": "Xyston-class Star Destroyer",
+  "wookieepedia_title": "Xyston-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xyston-class_Star_Destroyer",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The Xyston-class Star Destroyer, also known as the Xyston-class Destroyer, the Final Order Star Destroyer, the Sith Star Destroyer, Sith Destroyer, or simply the \"planet destroyer,\" was a model of Star Destroyer exclusively used by the Sith Eternal's fleet, the Final Order. Manufactured by Kuat-Entralla Engineering and essentially derived from the traditional Imperial-class Star Destroyer, the Xyston-class was one of a kind due to its axial superlaser capable of annihilating any world or ship. The Sith Star Destroyer represented the culmination of the Dark Lord of the Sith Darth Sidious' vision of a galaxy forced into submission by sheer military might and intimidation.",
+  "data": {
+    "name": "Xyston-class Star Destroyer",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "type": [
+      "Battlecruiser-classed Star Destroyer (Anaxes War College System)",
+      "Battleship"
+    ],
+    "length": "2,406 meters",
+    "height": "682 meters",
+    "mglt": "60 MGLT",
+    "engine": [
+      "Ion engines (7)",
+      "  Destroyer-I ion engines (3)",
+      "  Gemon-4 ion engines (4)"
+    ],
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "power": [
+      "Solar ionization reactor",
+      "Auxiliary reactor"
+    ],
+    "shield_gen": "Deflector shield generator domes (2)",
+    "hull": "Multi-layered armor",
+    "sensor": "Equipped",
+    "armament": [
+      "Axial superlaser (1)",
+      "Heavy turbolaser batteries (40)",
+      "Ion cannons (40)",
+      "Point-defense laser cannons (40)",
+      "Variable-ordnance warhead launchers (35)",
+      "Heavy tractor beam projectors (10)"
+    ],
+    "complement": "TIE/dg starfighters (72)",
+    "bays": "Launch bays (2)",
+    "crew": "29,585",
+    "communications": "Enhanced communications array",
+    "othersystems": [
+      "Artificial intelligence",
+      "Automated systems",
+      "Flight control systems",
+      "Tractor beam control center"
+    ],
+    "role": "Orbital bombardment",
+    "firstuse": "35 ABY",
+    "retired": "35 ABY (all ships destroyed)",
+    "affiliation": [
+      "Sith Eternal",
+      "  Final Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

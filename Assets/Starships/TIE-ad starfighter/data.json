@@ -1,0 +1,52 @@
+{
+  "name": "TIE/ad starfighter",
+  "wookieepedia_title": "TIE/ad starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ad_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ad starfighter, simply known as the TIE Advanced, TIE/Ad or T/A, was the culmination of a series of starfighter designs first explored with Darth Vader's TIE Advanced x1. To avoid confusion with Lord Vader's personal craft, it was known better by its nickname TIE Avenger.",
+  "data": {
+    "name": "TIE/ad starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/ad starfighter",
+    "type": "Starfighter",
+    "cost": "400,000 credits",
+    "max_accel": "16 MGLT/s",
+    "mglt": "133 MGLT",
+    "max_speed": "1,300 km/h",
+    "maneuverability": "104 DPF",
+    "engine": "SFS P-sx7.4 Twin ion engines (rated 230 KTU)",
+    "hdsystem": "SFS ND9 hyperdrive motivator",
+    "power": "SFS I-s3a solar ionization reactor",
+    "shield_gen": "Forward/Rear projecting Novaldex deflector shield generators (rated 40 SBD)",
+    "hull": "Titanium hull with Quadanium steel solar panels (rated 14 RU)",
+    "navigation": "SFS N-s6 Navcon computer system",
+    "avionics": "SFS F-s5x flight avionics system",
+    "armament": [
+      "SFS L-s9.3 laser cannons (4)",
+      "SFS M-g-2 general-purpose warhead launchers (2), selective:",
+      "  4 concussion missiles each (standard), advanced and 8 each possible",
+      "  3 advanced proton torpedoes each",
+      "  2 heavy rockets each",
+      "  1 heavy space bomb each",
+      "Tractor beam/jamming beam projector (1; optional)"
+    ],
+    "crew": "Pilot (1)",
+    "consumables": "2 days",
+    "othersystems": "Ejector seat",
+    "role": [
+      "Multi-role craft",
+      "Space superiority fighter",
+      "Interceptor",
+      "Snubfighter",
+      "Assault fighter"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Zaarin coup forces",
+      "Imperial Remnant (rumored)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

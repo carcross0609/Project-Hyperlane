@@ -1,0 +1,30 @@
+{
+  "name": "Zebra starfighter",
+  "wookieepedia_title": "Zebra starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zebra_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Zebra starfighter was a basic and inexpensive single-pilot starfighter manufactured by Hyrotii Vehicle Works.",
+  "data": {
+    "name": "Zebra starfighter",
+    "manufacturer": "Hyrotii Corporation",
+    "type": "Starfighter",
+    "cost": "80,000 credits (30,000 used)",
+    "max_speed": "1,000 km/h",
+    "hdsystem": "No",
+    "armament": "Laser cannons (2+)",
+    "crew": "Pilot (1)",
+    "capacity": "65 kg",
+    "consumables": "1 day",
+    "role": "Ground-assault fighter",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Tenloss Syndicate",
+      "Riders of the Maelstrom",
+      "Virgillian Free Alignment",
+      "New Republic",
+      "Qektoth Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

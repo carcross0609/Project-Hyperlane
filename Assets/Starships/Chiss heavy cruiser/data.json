@@ -1,0 +1,27 @@
+{
+  "name": "Chiss heavy cruiser",
+  "wookieepedia_title": "Chiss heavy cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chiss_heavy_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Chiss heavy cruiser, also known as the Chiss warship, was a class of heavy cruiser utilized by the Expansionary Defense Fleet of the Chiss Ascendancy that when uncloaked glistened with lights and was covered in weaponry. Darth Vader noticed that it was not as big as a Star Destroyer, although after seeing its flankside weaponry he believed it would be a formidable opponent. One such starship, the Steadfast was used by Admiral Ar'alani to rendezvous with Commander Eli Vanto of the naval branch of the Galactic Empire in the aftermath of the Batonn insurgency, and was again used to gather and return kidnapped Force-sensitive female Chiss children after a battle between the Grysk and the Galactic Empire.",
+  "data": {
+    "name": "Chiss heavy cruiser",
+    "type": "Heavy cruiser",
+    "length": "Much smaller than a Kilji war cruiser",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "shield_gen": "Electrostatic barrier generator nodes",
+    "sensor": "Equipped",
+    "armament": [
+      "Plasma sphere launchers",
+      "Spectrum lasers",
+      "Breacher missiles"
+    ],
+    "affiliation": [
+      "Chiss Ascendancy",
+      "  Chiss Expansionary Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

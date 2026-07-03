@@ -1,0 +1,20 @@
+{
+  "name": "Nomad Four",
+  "wookieepedia_title": "Nomad Four",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nomad_Four",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Nomad Four was a class of starship. It was the civilian version of the Seltaya military courier ship. One Nomad Four, the Possibility, was used by the Naboo Royal Handmaiden Duja to travel to the planet Batuu during the Clone Wars.",
+  "data": {
+    "name": "Nomad Four",
+    "model": "Civilian Seltaya military courier ship",
+    "type": "Transport",
+    "shield_gen": "Deflector shield",
+    "armament": [
+      "Twin laser cannons",
+      "Proton torpedoes"
+    ],
+    "escapepods": "At least 1"
+  },
+  "scraped": "2026-07-03"
+}

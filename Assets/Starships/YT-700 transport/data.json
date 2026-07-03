@@ -1,0 +1,31 @@
+{
+  "name": "YT-700 transport",
+  "wookieepedia_title": "YT-700 transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-700_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-700 was a transport starship manufactured by Corellian Engineering Corporation. It was one of the first freighters of the YT-series. The Jackpot was a heavily modified YT-700.",
+  "data": {
+    "name": "YT-700 transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-700",
+    "type": "Transport",
+    "cost": "18,000 credits (used)",
+    "length": "21.7 meters",
+    "max_speed": "600 kmh",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 20"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon",
+    "crew": "1 (gunners: 1)",
+    "passengers": "4",
+    "capacity": "50 metric tons",
+    "consumables": "6 months",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

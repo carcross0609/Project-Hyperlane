@@ -1,0 +1,32 @@
+{
+  "name": "580 freighter",
+  "wookieepedia_title": "580 freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/580_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The 580 freighter was an older model light freighter produced by Ghtroc Industries. It was not as impressive as some of the newer models, but it did have the advantage of a larger cargo capacity and longer operational times between replenishment. It was operated by a crew of one.",
+  "data": {
+    "name": "580 freighter",
+    "manufacturer": "Ghtroc Industries",
+    "model": "Class 580 freighter",
+    "type": "Light freighter",
+    "cost": "20,000 credits",
+    "length": "37 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 15 backup"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "Laser cannon (1)",
+    "crew": "1",
+    "passengers": "6",
+    "capacity": "200 metric tons",
+    "consumables": "6 months",
+    "affiliation": [
+      "Civilian",
+      "Smugglers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "HWK-1000 light freighter",
+  "wookieepedia_title": "HWK-1000 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HWK-1000_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The HWK-1000 light freighter was a transport manufactured by the Corellian Engineering Corporation during the Imperial Era. It boasted improved speed and performance over its predecessor, the HWK-290. Even though the Galactic Empire officially objected to the improved design, several hundred prototypes were manufactured at the Halyard 2 factory. These prototypes were sold through various underground channels in the Outer Rim with many being purchased by smugglers and collectors.",
+  "data": {
+    "name": "HWK-1000 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Hawk series",
+    "model": "HWK-1000",
+    "type": "Transport",
+    "cost": "120,000 credits",
+    "hyperdrive": [
+      "Class 1.0",
+      "Backup Class 12"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "None",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "4",
+    "consumables": "6 months",
+    "role": "Light freighter",
+    "affiliation": "Smugglers"
+  },
+  "scraped": "2026-07-03"
+}

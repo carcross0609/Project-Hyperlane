@@ -1,0 +1,42 @@
+{
+  "name": "Imperial Customs Frigate",
+  "wookieepedia_title": "Imperial Customs Frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Customs_Frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Imperial Customs Frigate was one of the main vessels used by the Imperial Customs Office's patrols.",
+  "data": {
+    "name": "Imperial Customs Frigate",
+    "manufacturer": [
+      "Rendili StarDrive",
+      "Illegal shipyards"
+    ],
+    "model": "Imperial Customs Frigate",
+    "type": "Frigate",
+    "length": "35 meters",
+    "max_speed": "850 kmh",
+    "hyperdrive": [
+      "Class 2 (primary)",
+      "Class 8 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": "Heavy laser cannons (6; turret mounted)",
+    "crew": [
+      "Crew (6)",
+      "Gunners (6)"
+    ],
+    "skeleton": "3",
+    "passengers": "10",
+    "capacity": "100 metric tons",
+    "consumables": "3 months",
+    "role": "Customs patrol vessel",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

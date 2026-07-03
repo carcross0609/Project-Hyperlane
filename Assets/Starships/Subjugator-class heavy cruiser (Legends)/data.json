@@ -1,0 +1,60 @@
+{
+  "name": "Subjugator-class heavy cruiser",
+  "wookieepedia_title": "Subjugator-class heavy cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Subjugator-class_heavy_cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Subjugator-class heavy cruiser was a Confederacy of Independent Systems warship class that consisted of at least five ships.",
+  "data": {
+    "name": "Subjugator-class heavy cruiser",
+    "manufacturer": [
+      "Free Dac Volunteers Engineering Corps",
+      "Pammant Docks"
+    ],
+    "model": "Subjugator-class heavy cruiser",
+    "type": "Heavy cruiser",
+    "cost": "Not available for sale",
+    "length": "4,845 meters",
+    "engine": "Equipped with 16 engines",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "power": "Hypermatter annihilation reactor",
+    "shield_gen": "Equipped",
+    "sensor": "Sensor array",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Minimal:",
+      "Ion pulse cannons (2)",
+      "Heavy turbolaser batteries (5)",
+      "Medium turbolaser batteries (2)",
+      "Point-defense light laser cannon batteries (5)",
+      "Tractor beam batteries (2)",
+      "Proton torpedo launchers",
+      "Standard:",
+      "T2 ion pulse cannons (2)",
+      "Twin turbolaser batteries (500)",
+      "Tractor beam batteries (2)",
+      "Point-defense light laser cannon batteries (5)"
+    ],
+    "complement": [
+      "Vulture-class droid fighters (144)",
+      "Hyena-class bombers (48)",
+      "Various support ships"
+    ],
+    "crew": "25,350",
+    "passengers": "60,000 (battle droids)",
+    "capacity": "13,000 tons",
+    "cargohandling": "Rail jet transportation system",
+    "consumables": "2 years",
+    "availability": "Military",
+    "role": [
+      "Heavy battleship",
+      "Command ship (Flagship)"
+    ],
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "scraped": "2026-07-03"
+}

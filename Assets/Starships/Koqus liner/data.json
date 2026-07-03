@@ -1,0 +1,31 @@
+{
+  "name": "Koqus liner",
+  "wookieepedia_title": "Koqus liner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Koqus_liner",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Koqus liner was a type of starliner manufactured by the Koqus Design Syndic. This model was based on an older Republic Sienar design.",
+  "data": {
+    "name": "Koqus liner",
+    "manufacturer": "Koqus Design Syndic",
+    "type": "Starliner",
+    "length": "44 meters",
+    "width": "28 meters",
+    "engine": "SoroSuub Viper 40 ion engines (2)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "power": "Fusion generators (2)",
+    "crew": "Pilot (1)",
+    "passengers": "58",
+    "role": [
+      "Passenger liner",
+      "Cargo transport"
+    ],
+    "firstuse": "By 34 BBY",
+    "affiliation": [
+      "Fallanassi",
+      "  Kell Plath Corporation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

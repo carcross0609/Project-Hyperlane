@@ -1,0 +1,39 @@
+{
+  "name": "Defender starfighter",
+  "wookieepedia_title": "Defender starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defender_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Defender starfighter, or Republic Systems Defender, was a starfighter developed by the Republic Engineering Corporation as part of the Defender design program. It was based on the ATL Interceptor used by the Fromm Gang 15 BBY.",
+  "data": {
+    "name": "Defender starfighter",
+    "designer": "Incom Corporation",
+    "manufacturer": "Republic Engineering Corporation",
+    "model": "Defender starfighter",
+    "type": "Starfighter",
+    "cost": "45.000 credits",
+    "length": "5.3 meters",
+    "width": "3.95 meters",
+    "height": [
+      "4.49 meters (space configuration)",
+      "2.03 meters (atmospheric configuration)"
+    ],
+    "max_speed": "1,000 km/h",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "3 laser cannons (fire-linked)",
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)"
+    ],
+    "capacity": "50 kg",
+    "consumables": "1 week",
+    "role": [
+      "Short-range space defense",
+      "Atmospheric defense"
+    ],
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

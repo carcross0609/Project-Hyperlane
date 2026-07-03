@@ -1,0 +1,32 @@
+{
+  "name": "TIE/ca \"Punisher\" Starfighter",
+  "wookieepedia_title": "TIE/ca \"Punisher\" Starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ca_%22Punisher%22_Starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ca \"Punisher\" Starfighter, also known as the TIE capital assault or the TIE punisher, was a class of heavy bomber that was used by the Galactic Empire during the Galactic Civil War. It was armed with multiple payloads that could be used against capital ships and ground targets.",
+  "data": {
+    "name": "TIE/ca \"Punisher\" Starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/ca \"Punisher\" Starfighter",
+    "type": "Starfighter",
+    "cost": "253,000 credits",
+    "engine": "Twin ion engine",
+    "hdsystem": "None",
+    "shield_gen": "Strong deflector shield generator",
+    "navigation": "None",
+    "armament": [
+      "Forward-mounted light laser cannons",
+      "Forward-mounted Proton torpedo launchers or forward-mounted Concussion missile launchers",
+      "Ventral-mounted proton bomb release chute"
+    ],
+    "crew": "1 pilot",
+    "consumables": "2 days",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Starfighter Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

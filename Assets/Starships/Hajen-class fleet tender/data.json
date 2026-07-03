@@ -1,0 +1,36 @@
+{
+  "name": "Hajen-class fleet tender",
+  "wookieepedia_title": "Hajen-class fleet tender",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hajen-class_fleet_tender",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The 375-meter-long Hajen-class fleet tender was a vital part of the New Republic's New Class Modernization Program.",
+  "data": {
+    "name": "Hajen-class fleet tender",
+    "manufacturer": "Republic Engineering Corporation",
+    "line": "New Class Modernization Program",
+    "model": "Hajen-class fleet tender",
+    "length": "375 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Nav computer",
+    "armament": "None",
+    "crew": "6 (plus extensive droid complement)",
+    "skeleton": "2",
+    "passengers": "6",
+    "capacity": "300,000 metric tons",
+    "consumables": "1 month",
+    "availability": "Not available for sale",
+    "role": [
+      "Fleet tender",
+      "Supply ship"
+    ],
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

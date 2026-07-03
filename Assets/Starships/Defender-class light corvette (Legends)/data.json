@@ -1,0 +1,35 @@
+{
+  "name": "Defender-class light corvette",
+  "wookieepedia_title": "Defender-class light corvette/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Defender-class_light_corvette/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Defender-class light corvette was produced by the Rendili Vehicle Corporation for the Jedi Order during the Great Galactic War between the Galactic Republic and the Sith Empire. Manufactured on Corellia, the Defender-class light corvette was modeled after a similar consumer corvette that was inspired by the Republic Military's Thranta-class corvette, but the Defender-class was modified specifically for use by Jedi as a mobile operations base and a capable starfighter in its own right. The corvette could be flown by a single pilot, and it was equipped with heavy shielding, two sets of dual laser cannons, and missiles. The ship's interior was laid out over two decks, and a secure holoterminal, transceiver, conference room, and a medbay were among the vessel's numerous amenities. The Defender-class saw use by the Jedi throughout the Cold War and the Galactic War with the Republic, and several of the Order's greatest heroes flew Defender-class corvettes on their adventures across the galaxy. At least one corvette survived to the time of the Galactic Civil War, when agents of the Alliance to Restore the Republic stole the vessel and used it on one of their missions.",
+  "data": {
+    "name": "Defender-class light corvette",
+    "manufacturer": "Rendili Vehicle Corporation",
+    "model": "Defender-class light corvette",
+    "type": "Light corvette",
+    "length": "94 meters",
+    "width": "71 meters",
+    "height": "29 meters",
+    "engine": "2 high-power thrusters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Heavy",
+    "sensor": "Comm dish and sensor array",
+    "navigation": "Navigation computer",
+    "armament": [
+      "2 sets of dual laser cannons",
+      "Missiles"
+    ],
+    "escapepods": "1",
+    "crew": "Bridge maximum of 5",
+    "skeleton": "1",
+    "communications": "Secure holoterminal and transceiver",
+    "availability": "Exclusive to the Jedi",
+    "role": "Personal starship",
+    "firstuse": "c. 3660 BBY",
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

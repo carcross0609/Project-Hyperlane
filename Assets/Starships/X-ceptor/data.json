@@ -1,0 +1,29 @@
+{
+  "name": "X-ceptor",
+  "wookieepedia_title": "X-ceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X-ceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "An X-ceptor was a type of Ugly starfighter, the result of ingenious engineering. Solar panel components would be salvaged from Imperial TIE Interceptor starfighters and attached onto the fuselage of Incom T-65 X-wings, creating what would be commonly referred to as another variant of the range of starfighters called Uglies, the X-ceptor.",
+  "data": {
+    "name": "X-ceptor",
+    "manufacturer": "Corellians",
+    "line": "Ugly",
+    "model": "T-65 X-wing starfighter/TIE/In starfighter",
+    "type": "starfighter",
+    "armament": [
+      "Laser cannons",
+      "Proton torpedo launcher (1)"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "none",
+    "role": "Starfighter",
+    "affiliation": [
+      "Pirates",
+      "Smugglers",
+      "Private defense fleets",
+      "Other groups"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

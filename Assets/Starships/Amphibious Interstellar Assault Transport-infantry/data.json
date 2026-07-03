@@ -1,0 +1,50 @@
+{
+  "name": "Amphibious Interstellar Assault Transport/infantry",
+  "wookieepedia_title": "Amphibious Interstellar Assault Transport/infantry",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amphibious_Interstellar_Assault_Transport/infantry",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Amphibious Interstellar Assault Transport/infantry (AIAT/i) was a gunship used by the Galactic Republic's Judicial Forces, as well as Mandalorian troops, as a troop transport in the decades before the Clone Wars.",
+  "data": {
+    "name": "Amphibious Interstellar Assault Transport/infantry",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Amphibious Interstellar Assault Transport/infantry",
+    "type": "Gunship",
+    "length": "31.5 meters",
+    "width": "30 meters (wingspan)",
+    "height": "12.5 meters",
+    "max_speed": "700 km/h",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Twin laser turrets (2)",
+      "Rear laser turret (1)",
+      "Concussion missile launchers (4)",
+      "  Standard load: 5 concussion missiles each",
+      "Additional weaponry"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Others (3)"
+    ],
+    "passengers": [
+      "Troops (50)",
+      "Prisoners (6)",
+      "IM-6 battlefield medical droid (1)"
+    ],
+    "capacity": [
+      "350 cubic meters",
+      "or",
+      "Repulsorlift assault vehicle (1)",
+      "Speeder bikes (4)"
+    ],
+    "role": [
+      "Aerial assault",
+      "Repulsorcraft"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Mandalorians"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "TIE/gt starfighter",
+  "wookieepedia_title": "TIE/gt starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/gt_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/gt (ground-targeting) starfighter was a ground-targeting bomber manufactured by Sienar Fleet Systems.",
+  "data": {
+    "name": "TIE/gt starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "type": "Ground-targeting starfighter/bomber",
+    "length": "6.3 meters",
+    "width": "6.4 meters",
+    "height": "7.5 meters",
+    "max_speed": "800 kmh",
+    "sensor": "Equipped",
+    "armament": [
+      "1 laser cannon",
+      "Concussion missile launcher"
+    ],
+    "crew": "1",
+    "capacity": "10 metric tons",
+    "consumables": "2 days",
+    "role": "Ground support",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Trade Federation droid bomber",
+  "wookieepedia_title": "Trade Federation droid bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trade_Federation_droid_bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Trade Federation droid bomber, or advanced droid bomber, was a droid starfighter used by the Trade Federation and later the Confederacy of Independent Systems.",
+  "data": {
+    "name": "Trade Federation droid bomber",
+    "manufacturer": [
+      "Haor Chall Engineering",
+      "Baktoid Armor Workshop"
+    ],
+    "model": "Advanced droid bomber",
+    "type": [
+      "Bomber",
+      "Droid starfighter"
+    ],
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons (4)",
+    "crew": "Integrated droid brain",
+    "passengers": "None",
+    "capacity": "None",
+    "role": "Bomber",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

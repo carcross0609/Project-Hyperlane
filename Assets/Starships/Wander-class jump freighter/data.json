@@ -1,0 +1,28 @@
+{
+  "name": "Wander-class jump freighter",
+  "wookieepedia_title": "Wander-class jump freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wander-class_jump_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Wander-class jump freighter was a Mon Calamari freighter design.",
+  "data": {
+    "name": "Wander-class jump freighter",
+    "manufacturer": "Mon Calamari Shipyards",
+    "type": "Freighter",
+    "length": "30 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "2 double laser cannons",
+    "crew": "1; 2 gunners",
+    "passengers": "6",
+    "capacity": "75 metric tons",
+    "consumables": "1 months"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "A-type Stiletto",
+  "wookieepedia_title": "A-type Stiletto",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A-type_Stiletto",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The A-type Stiletto was designed to serve as a space superiority starfighter by Nubia Star Drives, Incorporated for an anonymous customer. The manufacturer later offered to sell copies of the highly personalized design to customers who could afford them.",
+  "data": {
+    "name": "A-type Stiletto",
+    "manufacturer": "Nubia Star Drives, Incorporated",
+    "model": "A-Type Stiletto",
+    "type": "Starfighter",
+    "cost": "90,000 credits",
+    "hyperdrive": "none",
+    "shield_gen": "Equipped",
+    "armament": [
+      "1 Long-nosed laser cannon",
+      "1 hunter killer concussion missile launcher",
+      "  1 hunter killer concussion missile"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "0",
+    "consumables": "2 days",
+    "role": "Starfighter"
+  },
+  "scraped": "2026-07-03"
+}

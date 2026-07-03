@@ -1,0 +1,27 @@
+{
+  "name": "TIS Zeta 19",
+  "wookieepedia_title": "TIS Zeta 19",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIS_Zeta_19",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIS Zeta 19 was a light aerospace fighter manufactured by the Corporate Sector Authority for use by the Espos. Stolen craft were used by criminals in neighboring space.",
+  "data": {
+    "name": "TIS Zeta 19",
+    "manufacturer": "Corporate Sector Authority",
+    "type": "Light aerospace patrol starfighter",
+    "cost": [
+      "45,000 credits (new)",
+      "4,500 credits (used)"
+    ],
+    "length": "15 meters",
+    "max_speed": "950 KMH",
+    "sensor": "Equipped",
+    "armament": "2 laser cannons",
+    "crew": "1; 1 gunner",
+    "passengers": "2",
+    "capacity": "200 kilograms",
+    "consumables": "1 day",
+    "role": "Patrol fighter"
+  },
+  "scraped": "2026-07-03"
+}

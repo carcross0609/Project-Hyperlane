@@ -1,0 +1,51 @@
+{
+  "name": "TIE/fo space superiority fighter",
+  "wookieepedia_title": "TIE/fo space superiority fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/fo_space_superiority_fighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/fo space superiority fighter, commonly known as the First Order TIE fighter, was a starfighter used by the First Order. A product of Sienar-Jaemus Fleet Systems, the TIE/fo carried the appearance of its predecessor, the TIE/ln space superiority starfighter, though it featured internal advancements that provided it with greater defensive capabilities.",
+  "data": {
+    "name": "TIE/fo space superiority fighter",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/fo space superiority fighter",
+    "type": "Starfighter",
+    "cost": "90,000 credits",
+    "length": "6.69 meters",
+    "width": "6.34 meters",
+    "height": "8.17 meters",
+    "max_accel": "4,400 G",
+    "mglt": "130 MGLT",
+    "max_speed": "1,200 kph",
+    "engine": "SJFS P-s6 twin ion engine",
+    "hdsystem": [
+      "None (standard)",
+      "Equipped (certain fighters only)"
+    ],
+    "power": [
+      "SJFS I-a4b solar ionization reactor",
+      "Ultra-high efficiency girondium-colium solar collectors"
+    ],
+    "shield_gen": "Rudimentary deflector shields",
+    "sensor": "2 sensor arrays",
+    "target": "T-sj1a targeting computer",
+    "maincomp": "Torplex flight computer",
+    "armament": "2 SJFS L-s9.6 laser cannons\nSecondary weapon",
+    "escapepods": "Ejector seat",
+    "crew": "1 pilot",
+    "consumables": "1 day",
+    "lifesupport": "None",
+    "communications": "Subspace communications antenna",
+    "role": [
+      "Short-range space superiority fighter",
+      "Attack craft"
+    ],
+    "affiliation": [
+      "First Order",
+      "  First Order starfighter corps",
+      "Resistance (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

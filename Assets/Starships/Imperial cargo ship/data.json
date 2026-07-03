@@ -1,0 +1,33 @@
+{
+  "name": "Imperial cargo ship",
+  "wookieepedia_title": "Imperial cargo ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_cargo_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Imperial cargo ships were starships used by the Galactic Empire to transport military supplies.",
+  "data": {
+    "name": "Imperial cargo ship",
+    "manufacturer": "Rothana Heavy Engineering (original ship)",
+    "model": "Heavily modified Acclamator-class assault ship",
+    "type": "Cargo ship",
+    "cost": "Not available for sale",
+    "max_speed": "980 km/h",
+    "hyperdrive": "Class 2",
+    "armament": [
+      "Quad-turbolaser batteries (2)",
+      "Light point-defense laser cannon batteries (4)"
+    ],
+    "complement": "Varies",
+    "crew": "14,857",
+    "passengers": "16,000 (stormtroopers)",
+    "capacity": "502,212 tons",
+    "consumables": "2 years",
+    "availability": "Military",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

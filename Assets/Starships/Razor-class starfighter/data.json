@@ -1,0 +1,42 @@
+{
+  "name": "Razor-class starfighter",
+  "wookieepedia_title": "Razor-class starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Razor-class_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Razor-class starfighter was a product of Starypan/SunHui Spaceworks, manufactured shortly before Alderaan's destruction. It was meant to succeed the R-41 Starchaser and was used by many corporate security forces, including the Viraxo family, as it was cheap and reliable.",
+  "data": {
+    "name": "Razor-class starfighter",
+    "manufacturer": "Starypan/SunHui Spaceworks",
+    "model": "Razor-class starfighter",
+    "type": "Starfighter",
+    "cost": [
+      "75,000 credits (new)",
+      "45,000 credits (used)"
+    ],
+    "max_accel": "15 MGLT/s",
+    "mglt": "98 MGLT",
+    "max_speed": "1,050 km/h",
+    "maneuverability": "86 DPF",
+    "hyperdrive": "Class 2.0",
+    "shield_gen": "Rated 38 SBD",
+    "hull": "Rated 20 RU",
+    "navigation": "Navicomputer",
+    "armament": [
+      "2 laser cannons",
+      "2 ion cannons",
+      "2 concussion missile launchers",
+      "  8 missiles total"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "1",
+    "cargohandling": "110 kg",
+    "consumables": "1 week",
+    "availability": "Licensed",
+    "affiliation": [
+      "Viraxo",
+      "Other security forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

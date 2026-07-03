@@ -1,0 +1,31 @@
+{
+  "name": "Vakbeor-class cargo frigate",
+  "wookieepedia_title": "Vakbeor-class cargo frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vakbeor-class_cargo_frigate",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Vakbeor-class cargo frigate, also known as the Resistance Cargo Frigate, was a type of hybrid cargo frigate design manufactured by Kuat Drive Yards. They were used by the Resistance navy during its conflict with the First Order.",
+  "data": {
+    "name": "Vakbeor-class cargo frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Vakbeor-class cargo frigate",
+    "type": "Cargo frigate",
+    "length": "496.92 meters",
+    "width": "79.88 meters",
+    "height": "154.46 meters",
+    "engine": "Sublight drive engines",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "4 laser cannons",
+      "2 tractor beam projectors"
+    ],
+    "skeleton": "26",
+    "communications": "Long-range comms array",
+    "role": "Transport of equipment and supplies",
+    "affiliation": [
+      "Resistance",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

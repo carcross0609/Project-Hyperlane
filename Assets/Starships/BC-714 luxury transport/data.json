@@ -1,0 +1,40 @@
+{
+  "name": "BC-714 luxury transport",
+  "wookieepedia_title": "BC-714 luxury transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BC-714_luxury_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BC-714 luxury transport, also known as the InterGalactic Banking Clan Starship or InterGalactic Banking Clan ship, was a sleek space transport designed by the Techno Union for the InterGalactic Banking Clan. As the BC-714 was one of the fastest starships in the galaxy, the Banking Clan used it as a transport vessel for its Muun executives to travel to star systems with which they had business dealings. The BC-714 had a luxurious interior, which often led to its passengers despising less comfortable vessels.",
+  "data": {
+    "name": "BC-714 luxury transport",
+    "manufacturer": "Techno Union",
+    "model": "BC-714 luxury transport",
+    "type": "Transport",
+    "cost": [
+      "1,700,000 credits (new)",
+      "980,000 credits (used)"
+    ],
+    "length": "55.2 meters",
+    "max_speed": "1,800 km/h",
+    "engine": "Twin ion engines (2 or 4)",
+    "hyperdrive": [
+      "Class 1",
+      "Class 6 (backup)"
+    ],
+    "shield_gen": "Heavy shields",
+    "navigation": "Navigation computer",
+    "armament": "None",
+    "complement": "None",
+    "crew": "17",
+    "passengers": "30",
+    "capacity": "80 metric tons",
+    "consumables": "6 months",
+    "availability": "Restricted",
+    "role": "Luxury transport",
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

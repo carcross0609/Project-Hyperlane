@@ -1,0 +1,27 @@
+{
+  "name": "TIE/wi Interceptor",
+  "wookieepedia_title": "TIE/wi Interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/wi_Interceptor",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/wi Interceptor, also known as the TIE whisper Interceptor, was a TIE fighter series starfighter that was used by the First Order, which was similar in design to the TIE/wi interceptor. It was also similar to the TIE/sf space superiority fighter employed by the same government, although the TIE whisper starfighter had upgraded stealth systems. The TIE whisper had a crew of two, a pilot and a gunner.",
+  "data": {
+    "name": "TIE/wi Interceptor",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE fighter series",
+    "type": "Starfighter",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (2)",
+    "crew": [
+      "1 pilot",
+      "1 gunner"
+    ],
+    "othersystems": "Hyperspace tracker",
+    "affiliation": [
+      "First Order",
+      "  First Order starfighter corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

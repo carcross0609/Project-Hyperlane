@@ -1,0 +1,29 @@
+{
+  "name": "ZH-40 Tribune-class light freighter",
+  "wookieepedia_title": "ZH-40 Tribune-class light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ZH-40_Tribune-class_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The ZH-40 Tribune-class light freighter was a model of light freighter produced by Starfeld Industries, and a newer model of the ZH-25 Questor-class. During the Imperial Era, these freighters were used by the crime syndicates Crimson Dawn and Zerek Besh. The pirate Hondo Ohnaka owned a modified ZH-40, the Katooni, at Black Spire Outpost on Batuu. At least one ZH-40 was part of the Citizens' Fleet that fought at the Battle of Exegol in 35 ABY.",
+  "data": {
+    "name": "ZH-40 Tribune-class light freighter",
+    "manufacturer": "Starfeld Industries",
+    "type": "Light freighter",
+    "engine": "Quad Novaldex JV-74 engines",
+    "armament": [
+      "Fixed heavy laser cannon (1)",
+      "Fixed laser cannons (4)",
+      "Paired laser cannons (2)"
+    ],
+    "crew": "4",
+    "capacity": "85 metric tons",
+    "affiliation": [
+      "Ashiga Clan",
+      "Crimson Dawn",
+      "Zerek Besh",
+      "Ohnaka Transport Solutions",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Carrack-class light cruiser",
+  "wookieepedia_title": "Carrack-class light cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carrack-class_light_cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Carrack-class light cruiser, also known as the Carrack-class gunship, was a cruiser deployed by the Republic Navy throughout the final era of the Galactic Republic and was prominent in the Clone Wars.",
+  "data": {
+    "name": "Carrack-class light cruiser",
+    "manufacturer": "Damorian Manufacturing Corporation",
+    "model": "Carrack-class light cruiser",
+    "type": "Frigate",
+    "cost": "Not available for sale",
+    "length": "350 meters",
+    "width": "72 meters",
+    "height": "75 meters",
+    "mglt": "80 MGLT",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Rated 880 SBD",
+    "hull": "Rated 480 RU",
+    "armament": [
+      "Standard",
+      "10 heavy turbolaser",
+      "20 ion cannon batteries",
+      "5 tractor beam projectors",
+      "Anti-starfighter version:",
+      "10 heavy turbolasers",
+      "  2 fore",
+      "  3 port",
+      "  3 starboard",
+      "  2 aft",
+      "20 laser cannons",
+      "  4 fore",
+      "  4 port",
+      "  4 starboard",
+      "  4 aft",
+      "5 tractor beam projectors",
+      "  1 fore",
+      "  2 port",
+      "  2 starboard"
+    ],
+    "complement": "TIE Series starfighters (4) (external racks)",
+    "crew": [
+      "Crew (1,007)",
+      "Gunners (85)"
+    ],
+    "skeleton": "500",
+    "passengers": "142 troops",
+    "capacity": "3,500 metric tons",
+    "consumables": "1 year",
+    "availability": "Military",
+    "role": [
+      "Frigate",
+      "Anti-starfighter Frigate",
+      "Patrol",
+      "Transport (later use)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Thrawn's Confederation",
+      "Kaarenth Dissension",
+      "Dark Empire",
+      "Galactic Federation of Free Alliances",
+      "Pirates",
+      "Corellian Defense Force",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

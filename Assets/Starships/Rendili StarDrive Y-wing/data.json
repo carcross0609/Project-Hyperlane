@@ -1,0 +1,40 @@
+{
+  "name": "Rendili StarDrive Y-wing",
+  "wookieepedia_title": "Rendili StarDrive Y-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rendili_StarDrive_Y-wing",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Rendili StarDrive Y-wing was a variant of Koensayr Manufacturing's BLT Y-wing starfighter designed by Rendili StarDrive. Unlike its predecessor, the Rendili StarDrive Y-wing was constructed with passenger transportation in mind, being much larger than the typical BTL Y-wing model so that it could ferry three passengers alongside a designated pilot and astromech co-pilot. At least one of these vessels was owned by Jedi Knight Luke Skywalker while he was acting as an agent for the New Republic's Senate Planetary Intelligence Network in 5 ABY.",
+  "data": {
+    "name": "Rendili StarDrive Y-wing",
+    "manufacturer": "Rendili StarDrive",
+    "line": "BLT Y-wing starfighter",
+    "model": "Rendili StarDrive Y-wing",
+    "type": "Transport starship/Starfighter",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "SW-4 ion cannon"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech Co-Pilot (1)",
+      "Additional Passangers (3)"
+    ],
+    "skeleton": "1",
+    "passengers": "3",
+    "role": [
+      "Transport",
+      "Attack Fighter"
+    ],
+    "firstuse": "c. 5 ABY",
+    "affiliation": [
+      "New Republic",
+      "  Senate Planetary Intelligence Network",
+      "New Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

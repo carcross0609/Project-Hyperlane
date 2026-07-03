@@ -1,0 +1,10 @@
+# Gunship
+
+**Continuity:** Legends  
+**Source:** [Gunship/Legends](https://starwars.fandom.com/wiki/Gunship/Legends)
+
+Attack Gunship]] The term gunship described a variety of vessels. The term was used for small troop deployment and attack carriers or for small capital ships. Typically heavily armed and armored, gunships were designed to break through whatever obstacles prohibited the completion of their mission. They were commonly used for troop carriers, supply relief ships, and escorts. Some were designed to carry large ground vehicles and drop them onto a battlefield. During the Clone Wars, the Republic Gunship was one of the most-used small spacecraft in the Grand Army of the Republic.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,24 @@
+{
+  "name": "Indulgent-class luxury starliner",
+  "wookieepedia_title": "Indulgent-class luxury starliner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Indulgent-class_luxury_starliner",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Indulgent-class luxury starliner was one of the most luxurious models of passenger liner during the Galactic Civil War. It was manufactured by Leonore Luxury Liners Incorporated.",
+  "data": {
+    "name": "Indulgent-class luxury starliner",
+    "manufacturer": "Leonore Luxury Liners Incorporated",
+    "model": "Indulgent",
+    "type": "Passenger liner",
+    "cost": "25,500,000 credits",
+    "hyperdrive": [
+      "Class 3",
+      "Class 12 (backup)"
+    ],
+    "navigation": "Equipped",
+    "armament": "Heavy ion cannons (4)",
+    "crew": "850",
+    "passengers": "1,500"
+  },
+  "scraped": "2026-07-03"
+}

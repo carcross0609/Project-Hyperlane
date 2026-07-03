@@ -1,0 +1,42 @@
+{
+  "name": "Enforcer-class picket cruiser",
+  "wookieepedia_title": "Enforcer-class picket cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Enforcer-class_picket_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Enforcer-class picket cruiser was a starship of the Pentastar Alignment.",
+  "data": {
+    "name": "Enforcer-class picket cruiser",
+    "manufacturer": [
+      "Kuat Drive Yards",
+      "Sienar Fleet Systems"
+    ],
+    "line": "Star Destroyer",
+    "type": "Heavy cruiser",
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 10"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "6 Ion cannon batteries",
+      "10 quad laser cannons",
+      "4 tractor beam projectors",
+      "10 turbolaser batteries"
+    ],
+    "crew": [
+      "Crew (3,000)",
+      "Gunners (60)"
+    ],
+    "skeleton": "1,000",
+    "passengers": "300 troops",
+    "capacity": "10,000 metric tons",
+    "consumables": "2 years",
+    "role": "Picket operations",
+    "affiliation": "Pentastar Alignment"
+  },
+  "scraped": "2026-07-03"
+}

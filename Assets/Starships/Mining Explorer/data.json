@@ -1,0 +1,28 @@
+{
+  "name": "Mining Explorer",
+  "wookieepedia_title": "Mining Explorer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mining_Explorer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A Mining Explorer was a large utility craft used for research and exploration.",
+  "data": {
+    "name": "Mining Explorer",
+    "manufacturer": "Tagge Company",
+    "type": "Capital ship",
+    "length": "~500 meters",
+    "hdsystem": "Equipped",
+    "countermeasures": "aft mine launcher (with heavy duty mines).",
+    "armament": "Six double turbolaser turrets: one over bow section, two in middle section , three around aft bridge At least three additional weapons (type unindentified) in the underside.",
+    "complement": "Enough room for over a dozen TIE/LN starfighter At least one shuttle",
+    "bays": "One primary . At least another secondary for Stock Light Freighters",
+    "role": [
+      "Research and exploration",
+      "Flagship"
+    ],
+    "affiliation": [
+      "Tagge Mining Company",
+      "House of Tagge"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

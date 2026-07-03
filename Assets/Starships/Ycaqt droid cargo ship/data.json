@@ -1,0 +1,31 @@
+{
+  "name": "Ycaqt droid cargo ship",
+  "wookieepedia_title": "Ycaqt droid cargo ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ycaqt_droid_cargo_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A product of The Nerfworks design group, the Ycaqt droid cargo ship was named after a rather stubborn riding beast native to Velmor, a planet on the Mid Rim.",
+  "data": {
+    "name": "Ycaqt droid cargo ship",
+    "manufacturer": "Corellian Engineering Corporation/Loronar Corporation",
+    "model": "Ycagt droid cargo ship",
+    "type": "Space transport",
+    "cost": [
+      "New: 130,000 credits",
+      "Used: 32,000 credits"
+    ],
+    "length": "21 meters",
+    "max_speed": "720 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 12"
+    ],
+    "hdsystem": "Equipped",
+    "armament": "Ion cannon (1)",
+    "crew": "0",
+    "passengers": "0",
+    "capacity": "250 metric tons",
+    "consumables": "2 years"
+  },
+  "scraped": "2026-07-03"
+}

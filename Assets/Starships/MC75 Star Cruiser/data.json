@@ -1,0 +1,76 @@
+{
+  "name": "MC75 Star Cruiser",
+  "wookieepedia_title": "MC75 Star Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC75_Star_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The MC75 Star Cruiser, also referred to as the MC75 modified star cruiser or the MC75 Mon Calamari cruiser, was a model of Star Cruiser in the service of the Alliance Fleet. One such ship, the Profundity, served as Admiral Raddus's flagship during the pivotal Battle of Scarif. Other examples included the Aspiration, the Accordance, the Silver Coronet, and the Temperance.",
+  "data": {
+    "name": "MC75 Star Cruiser",
+    "designer": "Mon Calamari",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC-series star cruiser",
+    "model": [
+      "MC75",
+      "  MC75 Armored Cruiser",
+      "  MC75 Ordnance Cruiser",
+      "  MC75B Star Cruiser",
+      "  MC75C Star Cruiser"
+    ],
+    "type": "Star Cruiser",
+    "cost": "88,000,000 credits",
+    "length": "1,204.44 meters (3,951ft 7in)",
+    "height": "435.56 meters (1,429 ft)",
+    "max_speed": "650 kilometers per hour",
+    "engine": [
+      "Gemon-15 sublight ion drives (4)",
+      "Another type of KDY sublight engine (8)"
+    ],
+    "hyperdrive": [
+      "Class 1 (Primary)",
+      "Class 9 (Backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Redundant deflector shield projectors",
+    "hull": "Reinforced battleship hull",
+    "sensor": "Long range sensor",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Point-defense twin heavy laser cannons (20)",
+      "  5 port, 5 starboard, 5 aft, and 5 foreward",
+      "Broadside turbolaser cannons (12)",
+      "  6 port and 6 starboard",
+      "Heavy ion cannons (4)",
+      "  2 port and 2 starboard",
+      "Proton torpedo launchers (12)",
+      "  3 port, 3 starboard, 3 aft, abd 3 foreward",
+      "Hull mounted Tractor beam projectors (6)"
+    ],
+    "complement": [
+      "36 starfighters",
+      "  RZ-1 A-wing interceptors",
+      "  T-65B X-wing starfighters",
+      "  BTL-A4 Y-wing assault starfighter/bombers",
+      "  UT-60D U-wing starfighter/support crafts",
+      "  A/SF-01 B-wing starfighters",
+      "1 CR90 corvette"
+    ],
+    "crew": "3,225",
+    "passengers": "1,000",
+    "consumables": "2 years",
+    "communications": "Communications transmission mast",
+    "role": [
+      "Transport",
+      "Passenger liner",
+      "Capital ship"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

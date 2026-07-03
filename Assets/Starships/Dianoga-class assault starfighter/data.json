@@ -1,0 +1,28 @@
+{
+  "name": "Dianoga-class assault starfighter",
+  "wookieepedia_title": "Dianoga-class assault starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dianoga-class_assault_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Dianoga-class assault starfighter was engineered by Koensayr Manufacturing and saw use in the years prior and during the Clone Wars.",
+  "data": {
+    "name": "Dianoga-class assault starfighter",
+    "manufacturer": "Koensayr Manufacturing",
+    "model": "Dianoga starfighter",
+    "type": "Assault starfighter",
+    "cost": "45,000 credits (12,000 used)",
+    "length": "16.1 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 2",
+    "armament": [
+      "Laser cannons (4)",
+      "Heavy ion cannon(1)"
+    ],
+    "crew": "Pilot (1)",
+    "capacity": "90 kg",
+    "consumables": "3 days",
+    "availability": "Restricted",
+    "affiliation": "Mercenaries"
+  },
+  "scraped": "2026-07-03"
+}

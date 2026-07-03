@@ -1,0 +1,34 @@
+{
+  "name": "Xanter-class deep-space exploration frigate",
+  "wookieepedia_title": "Xanter-class deep-space exploration frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xanter-class_deep-space_exploration_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Xanter-class frigate was a starship designed by Rendili StarDrive during an exploration boom which occurred approximately 500 years prior to the Galactic Civil War. The frigate was designed from the ground up for exploration missions beyond known space including such features as a hydroponic garden, a well-equipped galley, spacious quarters, and equipment for a variety of recreational activities. The class also carried three fully functional hyperdrives and a trio of ion engine systems to greatly decrease the chances of a ship being stranded by drive failure.",
+  "data": {
+    "name": "Xanter-class deep-space exploration frigate",
+    "manufacturer": "Rendili StarDrive",
+    "model": "Xanter-class frigate",
+    "type": "Frigate",
+    "cost": "3,750,000 credits",
+    "engine": "Equipped",
+    "hyperdrive": [
+      "Class 3",
+      "Backup class 9",
+      "Tertiary Backup class 18"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Twin Light turbolasers (2)",
+      "Heavy laser cannons (8)",
+      "Twin ion cannon (1)"
+    ],
+    "complement": "6 starfighters",
+    "crew": "150",
+    "passengers": "50",
+    "consumables": "2.5 years",
+    "role": "Long range exploration"
+  },
+  "scraped": "2026-07-03"
+}

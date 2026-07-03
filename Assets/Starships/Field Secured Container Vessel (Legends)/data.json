@@ -1,0 +1,32 @@
+{
+  "name": "Field Secured Container Vessel",
+  "wookieepedia_title": "Field Secured Container Vessel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Field_Secured_Container_Vessel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A Field Secured Container Vessel (FSCV) was a type of bulk transport vessel used by the Imperial Navy.",
+  "data": {
+    "name": "Field Secured Container Vessel",
+    "manufacturer": [
+      "Loronar Corporation",
+      "Rendili StarDrive"
+    ],
+    "model": "Field Secured Container Vessel",
+    "length": [
+      "Loronar design:",
+      "  ~19,200 meters (with maximum number of field bubbles)",
+      "Rendili design:",
+      "  ~10,400 meters (with maximum number of field bubbles)"
+    ],
+    "crew": "Rendili design: 100 (per tug)",
+    "capacity": [
+      "Loronar design:",
+      "  Up to 5 billion cubic meters",
+      "Rendili design:",
+      "  Up to 990 million tons"
+    ],
+    "role": "Massive transport vessel",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

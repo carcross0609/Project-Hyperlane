@@ -1,0 +1,50 @@
+{
+  "name": "Kappa-class shuttle",
+  "wookieepedia_title": "Kappa-class shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kappa-class_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kappa-class shuttle was a Galactic Republic-era shuttle that possessed many features which were later incorporated into the Imperial Lambda-class shuttle.",
+  "data": {
+    "name": "Kappa-class shuttle",
+    "manufacturer": "Republic Sienar Systems",
+    "model": "Kappa-class troop shuttle",
+    "type": "Shuttle",
+    "cost": "Usually not for sale, 110,000 credits otherwise",
+    "length": "35 meters",
+    "max_speed": "820 km/h",
+    "hyperdrive": "Class 2 (backup Class 18)",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Double blaster cannons (2)",
+      "Forward repeating blaster cannons (2)"
+    ],
+    "complement": [
+      "2 AT-RT or AT-PT walkers",
+      "or",
+      "2 Infantry Support Platforms"
+    ],
+    "crew": [
+      "Crew (2)",
+      "  Pilot (1)",
+      "  Co-pilot/engineer (1)",
+      "Gunners (2)"
+    ],
+    "passengers": "40 (troops)",
+    "capacity": "50 metric tons",
+    "consumables": "1 or 2 months",
+    "availability": "Military",
+    "role": [
+      "Troop shuttle",
+      "Landing craft"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "  Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

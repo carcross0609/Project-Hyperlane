@@ -1,0 +1,43 @@
+{
+  "name": "Stathas-class freighter",
+  "wookieepedia_title": "Stathas-class freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stathas-class_freighter",
+  "continuity": "Unknown",
+  "infobox_template": "StarshipClass",
+  "description": "The Stathas-class freighter was an experimental model of starship designed by MandalMotors.",
+  "data": {
+    "name": "Stathas-class freighter",
+    "manufacturer": "MandalMotors",
+    "model": "Stathas-class freighter",
+    "type": "Freighter",
+    "length": "29 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 15 (backup)"
+    ],
+    "armament": [
+      "Quad Laser cannon (1)",
+      "  Fire Arc: Turret",
+      "  Crew: 1 Gunner",
+      "  Atmospheric Range: 2.5 km",
+      "Proton torpedo launcher (1)",
+      "  Fire Arc: Turret",
+      "  Crew: 1 Gunner",
+      "  Atmospheric Range: 700 m"
+    ],
+    "crew": [
+      "2 People",
+      "2 Gunners"
+    ],
+    "skeleton": "1 Person",
+    "passengers": "8 People",
+    "capacity": "110 metric tons",
+    "consumables": "2 months",
+    "affiliation": [
+      "Hutts",
+      "Mandalorians"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

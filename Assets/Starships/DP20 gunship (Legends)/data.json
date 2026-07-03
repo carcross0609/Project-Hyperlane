@@ -1,0 +1,74 @@
+{
+  "name": "DP20 gunship",
+  "wookieepedia_title": "DP20 gunship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DP20_gunship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The DP20 gunship or DP20 frigate, commonly called the Corellian gunship, was one of the few dedicated warship designs produced by Corellian Engineering Corporation, and was the most common member of the Corellian gunship product line. Though small and compact, it was fast and carried heavy firepower for a ship of its size and class.",
+  "data": {
+    "name": "DP20 gunship",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "Corellian gunship",
+    "model": "DP20 frigate",
+    "type": [
+      "Frigate",
+      "Corvette",
+      "Capital ship"
+    ],
+    "cost": [
+      "4,800,000 credits (new)",
+      "2,400,000 credits (used)"
+    ],
+    "length": "120 meters",
+    "mglt": "75 MGLT",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 16 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 416 SBD",
+    "hull": "Rated 176 RU",
+    "navigation": "Equipped",
+    "armament": [
+      "Double turbolaser cannons (8)",
+      "  2 fore",
+      "  3 port",
+      "  3 starboard",
+      "Quad laser cannons (6)",
+      "  3 port",
+      "  3 starboard",
+      "Concussion missile tubes (4)",
+      "  120 heavy concussion missiles total"
+    ],
+    "crew": [
+      "Crew (45)",
+      "Gunners (46)"
+    ],
+    "skeleton": "10",
+    "passengers": "None",
+    "capacity": "300 metric tons",
+    "consumables": "8 months",
+    "role": [
+      "Frigate",
+      "Capital gunship"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Merchant companies",
+      "Wealthy travelers",
+      "Planetary defense forces",
+      "Pirates",
+      "  Crimson Jack's pirate gang",
+      "  Loose Cannon pirates",
+      "Alderaanian Resistance",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Confederation",
+      "Hutts"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

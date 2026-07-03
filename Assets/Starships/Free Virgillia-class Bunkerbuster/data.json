@@ -1,0 +1,49 @@
+{
+  "name": "Free Virgillia-class Bunkerbuster",
+  "wookieepedia_title": "Free Virgillia-class Bunkerbuster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Free_Virgillia-class_Bunkerbuster",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Free Virgillia-class Bunkerbuster, also known as the Bunker Buster, the Resistance Bunkerbuster, or the Resistance cruiser, was a type of corvette model constructed by the Corellian Engineering Corporation and used during the First Order-Resistance War by the Resistance. Vice Admiral Amilyn Holdo commanded a Bunker Buster known as the Ninka for the Resistance.",
+  "data": {
+    "name": "Free Virgillia-class Bunkerbuster",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Free Virgillia-class Bunkerbuster",
+    "type": [
+      "Corvette",
+      "Cruiser",
+      "Frigate"
+    ],
+    "length": "316.05 meters",
+    "width": "242.53 meters",
+    "height": "88.69 meters",
+    "engine": "Ion engines (12)",
+    "hdsystem": "Equipped",
+    "power": "Main reactor",
+    "shield_gen": "Deflector shield projectors",
+    "sensor": "Primary sensor array",
+    "armament": [
+      "2 Dual heavy turbolaser turrets",
+      "4 Point-defense laser cannon turrets",
+      "3 Heavy plasma bombs",
+      "  Explosive yield of 100 megatons",
+      "8 Heavy ordnance pods"
+    ],
+    "complement": [
+      "Starfighters",
+      "MG-100 StarFortress SF-17 bombers (8)",
+      "Resistance transport pod (1)",
+      "U-55 orbital loadlifters (2)"
+    ],
+    "skeleton": "23",
+    "communications": "Long-range comms dish",
+    "role": "Support ship",
+    "affiliation": [
+      "Virgillian Free Alignment",
+      "Alliance to Restore the Republic",
+      "Resistance",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

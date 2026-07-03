@@ -1,0 +1,30 @@
+{
+  "name": "Lady-class Luxury Liner",
+  "wookieepedia_title": "Lady-class Luxury Liner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lady-class_Luxury_Liner",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Lady-class Luxury Liner was a 310-meter long passenger cruiser design produced by Shobquix Yards. Ships of this design were considered part of the wider M-class subset of the luxury liner classification.",
+  "data": {
+    "name": "Lady-class Luxury Liner",
+    "manufacturer": "Shobquix Yards",
+    "type": "Passenger liner",
+    "cost": "19 million credits",
+    "length": "310 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Class 20"
+    ],
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "4 twin blaster cannons",
+    "crew": "117; 4 gunners",
+    "skeleton": "47",
+    "passengers": "600",
+    "capacity": "1,000 metric tons",
+    "consumables": "300 days",
+    "role": "Luxury liner",
+    "affiliation": "Authority Tours"
+  },
+  "scraped": "2026-07-03"
+}

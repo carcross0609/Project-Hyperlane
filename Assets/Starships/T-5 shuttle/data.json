@@ -1,0 +1,23 @@
+{
+  "name": "T-5 shuttle",
+  "wookieepedia_title": "T-5 shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-5_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The T-5 shuttle was a type of shuttle used by the Jedi Order. It had large semicircle wings which would rotate around the body. They remained horizontal while docked, but in flight, they were vertical to make the cockpit and engines more aerodynamic. It had several seats for passengers in addition to the pilot and copilot's chairs. It was considered not as spacious as a T-6 shuttle.",
+  "data": {
+    "name": "T-5 shuttle",
+    "model": "T-5",
+    "type": "Shuttle",
+    "navigation": "Astromech droid",
+    "armament": "None",
+    "crew": [
+      "Pilot (1)",
+      "Copilot or astromech (1)"
+    ],
+    "passengers": "Several",
+    "role": "Transport",
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

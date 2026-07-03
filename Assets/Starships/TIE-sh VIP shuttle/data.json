@@ -1,0 +1,43 @@
+{
+  "name": "TIE/sh VIP shuttle",
+  "wookieepedia_title": "TIE/sh VIP shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/sh_VIP_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/sh VIP shuttle was a short-range shuttle manufactured by Sienar Fleet Systems. The personnel priority model was one of the more successful variants of the basic TIE/sa bomber, affording room for up to four individuals as well as additional cargo. Although the TIE was sluggish and not designed for combat, it was equipped with a laser cannon and a shield generator and was typically used by the Galactic Empire to quickly ferry officers between starships and other installations. The TIE/sh was an unpopular mode of transportation among users, as they preferred the luxury of the larger Lambda-class shuttle.",
+  "data": {
+    "name": "TIE/sh VIP shuttle",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/sh VIP shuttle",
+    "type": "Priority personnel shuttle",
+    "cost": [
+      "120,000 credits (new)",
+      "45,000 credits (used)",
+      "Not available for public sale"
+    ],
+    "length": "7.8 meters",
+    "max_speed": "650 km/h",
+    "engine": "Twin ion engine",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "Laser cannon (1)",
+    "crew": "1 (pilot/gunner)",
+    "passengers": "4 (2 seats)",
+    "capacity": "1 metric ton",
+    "consumables": "2 days",
+    "communications": [
+      "Comm system",
+      "Internal intercom"
+    ],
+    "othersystems": [
+      "Repulsorlifts",
+      "Solar panel array wings"
+    ],
+    "availability": "Military",
+    "role": "Priority personnel/cargo ferry",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

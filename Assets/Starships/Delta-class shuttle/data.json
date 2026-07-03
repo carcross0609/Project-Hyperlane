@@ -1,0 +1,22 @@
+{
+  "name": "Delta-class shuttle",
+  "wookieepedia_title": "Delta-class shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Delta-class_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Delta-class shuttle was a shuttle model used by the Galactic Empire during the Galactic Civil War.",
+  "data": {
+    "name": "Delta-class shuttle",
+    "model": "Shuttle",
+    "engine": [
+      "1 main engines",
+      "2 VTOL engines"
+    ],
+    "hdsystem": "Equipped",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "At least 8",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

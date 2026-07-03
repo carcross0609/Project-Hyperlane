@@ -1,0 +1,33 @@
+{
+  "name": "RC-2 Twilight scoutship",
+  "wookieepedia_title": "RC-2 Twilight scoutship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RC-2_Twilight_scoutship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The RC-2 Twilight was a large starfighter that was primarily used for scouting and reconnaissance.",
+  "data": {
+    "name": "RC-2 Twilight scoutship",
+    "manufacturer": "Incom Corporation",
+    "model": "RC-2 Twilight scoutship",
+    "type": "Starfighter",
+    "cost": "275,000 credits (125,000 used)",
+    "max_speed": "1,200 km/h",
+    "hyperdrive": "Class 1",
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "countermeasures": "Advanced jamming suite",
+    "armament": [
+      "Laser cannons",
+      "Proton torpedo launcher",
+      "  2 proton torpedoes"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "2",
+    "capacity": "100 kg",
+    "consumables": "2 weeks",
+    "availability": "Military",
+    "role": "Scout",
+    "affiliation": "Galactic Federation of Free Alliances"
+  },
+  "scraped": "2026-07-03"
+}

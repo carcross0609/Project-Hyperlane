@@ -1,0 +1,27 @@
+{
+  "name": "GS-100 salvage ship",
+  "wookieepedia_title": "GS-100 salvage ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GS-100_salvage_ship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The GS-100 salvage ship was a salvage freighter, the ship design included multiple arms that could pick up debris from space battles. The scavenger Gha Nachkt owned one such ship, the Vulture's Claw, during the Clone Wars. In 3 ABY, a GS-100 was approved to depart from Hauler's Keep in the Khepi system.",
+  "data": {
+    "name": "GS-100 salvage ship",
+    "manufacturer": "Gallofree Yards, Inc.",
+    "model": "GS-100 salvage ship",
+    "type": "Salvage freighter",
+    "length": "174.8 meters (573 ft 5 in)",
+    "max_speed": "400 kph (248 mph)",
+    "engine": "4",
+    "hyperdrive": "Class 3",
+    "armament": [
+      "Torpedoes",
+      "Dual laser cannon"
+    ],
+    "crew": "Pilot",
+    "capacity": "140 metric tons",
+    "cargohandling": "Multiple arms for handling salvaged material",
+    "role": "Salvage freighter"
+  },
+  "scraped": "2026-07-03"
+}

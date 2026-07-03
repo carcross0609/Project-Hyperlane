@@ -1,0 +1,38 @@
+{
+  "name": "Heraklon-class transport",
+  "wookieepedia_title": "Heraklon-class transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Heraklon-class_transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Heraklon-class transport was a frigate-type transport starship that was widely used by the Galactic Republic during the time of the Dark Wars. Typically used as a cargo freighter, its versatility allowed for a broad use as a passenger liner especially in the Core Worlds and Inner Rim.",
+  "data": {
+    "name": "Heraklon-class transport",
+    "manufacturer": "Sadon Shipwrights",
+    "type": "Frigate",
+    "cost": [
+      "1,250,000 credits (new)",
+      "600,000 credits (used)"
+    ],
+    "max_speed": "725 km/h",
+    "hyperdrive": "Class 3",
+    "crew": "20",
+    "passengers": [
+      "450 (steerage)",
+      "150 (luxury)"
+    ],
+    "capacity": "75,000 tons",
+    "consumables": "3 months",
+    "availability": "Licensed",
+    "role": [
+      "Freighter",
+      "Luxury liner",
+      "Pirate ship",
+      "Transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Zhug brothers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

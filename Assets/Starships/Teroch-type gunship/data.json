@@ -1,0 +1,25 @@
+{
+  "name": "Teroch-type gunship",
+  "wookieepedia_title": "Teroch-type gunship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Teroch-type_gunship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Teroch-type gunship, named for a Mando'a word \"pitiless\", was a fast-attack gunship used by Mandalorian Neo-Crusaders during the Mandalorian Wars. If they broke through an enemy line they could surround enemy capital ships in moments.",
+  "data": {
+    "name": "Teroch-type gunship",
+    "type": "Gunship",
+    "cost": "400,000 credits (200,000 used)",
+    "length": "18 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (double)",
+    "crew": "8",
+    "passengers": "6",
+    "consumables": "3 weeks",
+    "availability": "Restricted",
+    "role": "Gunship",
+    "affiliation": "Mandalorian Neo-Crusaders"
+  },
+  "scraped": "2026-07-03"
+}

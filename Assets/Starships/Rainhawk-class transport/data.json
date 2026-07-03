@@ -1,0 +1,26 @@
+{
+  "name": "Rainhawk-class transport",
+  "wookieepedia_title": "Rainhawk-class transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rainhawk-class_transport",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Rainhawk-class transport, also known as the Pantoran cruiser, was a model of transport. Baron Notluwiski Papanoida, the Supreme Chairman of the Pantoran Assembly was known for owning one. The starship seated two in the cockpit, and possessed bunks amidships for long journeys. Favoring defense over offense, the Rainhawk was equipped with powerful ion engines and repulsorlift technology, allowing it to outmaneuver standard starfighters, yet not outpace them. The vessel was discontinued before the beginning of the Clone Wars. Into the Imperial Era, the Twi'lek freedom fighter Gobi Glie's personal starship was a Rainhawk-class.",
+  "data": {
+    "name": "Rainhawk-class transport",
+    "manufacturer": "Kuat Systems Engineering",
+    "model": "Rainhawk-class transport",
+    "type": "Transport",
+    "length": "20 meters",
+    "max_speed": "700 Kilometer per hour",
+    "engine": "Ion engines (2)",
+    "hyperdrive": "Equipped",
+    "hdsystem": "Class 2",
+    "armament": "Laser cannons (2)",
+    "crew": "2",
+    "affiliation": [
+      "Pantoran Assembly",
+      "Free Ryloth Movement"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

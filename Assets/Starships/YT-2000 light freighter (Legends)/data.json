@@ -1,0 +1,49 @@
+{
+  "name": "YT-2000 light freighter",
+  "wookieepedia_title": "YT-2000 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-2000_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-2000 transport was designed to be a direct improvement over the YT-1300, but it only saw a limited production run. Its basic design was similar to the YT-1930 with its centrally-placed cockpit and symmetrical design, while the rest of the ship returned to the saucer-like design of the YT-1300.",
+  "data": {
+    "name": "YT-2000 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-2000",
+    "type": "Light freighter",
+    "cost": [
+      "150,000 credits (new)",
+      "45,000 credits (used)"
+    ],
+    "length": "29.4 meters",
+    "width": "21.6 meters",
+    "height": "9.6 meters",
+    "mglt": "96 MGLT",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup Class 12"
+    ],
+    "shield_gen": "Heavy-duty shield generators (rated 320 SBD)",
+    "hull": "Reinforced hull (rated 114 RU)",
+    "navigation": "Equipped",
+    "countermeasures": "Chaff (10 charges)",
+    "armament": [
+      "Laser cannon (1)",
+      "Ion cannon (1)",
+      "Dual laser turrets (2)"
+    ],
+    "crew": "4",
+    "skeleton": "1",
+    "passengers": "7",
+    "capacity": "115 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Transport",
+      "Freighter",
+      "Smuggling vessel"
+    ],
+    "affiliation": "Various"
+  },
+  "scraped": "2026-07-03"
+}

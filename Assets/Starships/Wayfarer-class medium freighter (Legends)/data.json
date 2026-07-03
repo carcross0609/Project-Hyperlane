@@ -1,0 +1,35 @@
+{
+  "name": "Wayfarer-class medium freighter",
+  "wookieepedia_title": "Wayfarer-class medium freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wayfarer-class_medium_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Wayfarer-class medium freighter, also known as the Wayfarer-class medium transport, was a medium transport constructed by Kuat Systems Engineering, a now-folded subsidiary of Kuat Drive Yards.",
+  "data": {
+    "name": "Wayfarer-class medium freighter",
+    "manufacturer": "Kuat Systems Engineering",
+    "type": "Medium transport",
+    "cost": [
+      "140,000 credits (new)",
+      "50,000 credits (used)"
+    ],
+    "length": "82 meters",
+    "max_speed": "830 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 14 (backup)"
+    ],
+    "armament": [
+      "Quad laser cannon (1)",
+      "Laser cannon (1)"
+    ],
+    "complement": "(2) Starfighters",
+    "crew": "10",
+    "passengers": "6",
+    "capacity": "220 metric tons",
+    "consumables": "3 months",
+    "role": "Freighter",
+    "affiliation": "Various"
+  },
+  "scraped": "2026-07-03"
+}

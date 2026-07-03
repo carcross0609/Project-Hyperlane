@@ -1,0 +1,71 @@
+{
+  "name": "Providence-class carrier/destroyer",
+  "wookieepedia_title": "Providence-class carrier/destroyer/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Providence-class_carrier/destroyer/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Providence-class carrier/destroyer, additionally designated as the Dreadnaught-class command ship and also known as the Trade Federation cruiser, or the Separatist dreadnought, was a series of capital ship models fielded by the Confederate Navy during the Clone Wars. It was originally produced and used by the Trade Federation, hence the nickname.",
+  "data": {
+    "name": "Providence-class carrier/destroyer",
+    "manufacturer": [
+      "Rendili StarDrive (original Dreadnaught design)",
+      "Free Dac Volunteers Engineering Corps",
+      "Pammant Docks"
+    ],
+    "model": "Providence-class carrier/destroyer",
+    "type": [
+      "Light carrier",
+      "Destroyer (stock)",
+      "Star Destroyer (larger variant)"
+    ],
+    "cost": "125 million credits",
+    "length": [
+      "1,088 meters",
+      "2,177.35 meters (larger variant)"
+    ],
+    "width": "198 meters",
+    "height": "374 meters",
+    "max_accel": "2,500G",
+    "max_speed": "1,050 km/h",
+    "engine": "3 Nubian Creveld-4 radial ion drives",
+    "hyperdrive": [
+      "Class 1.5",
+      "Class 10 (backup)"
+    ],
+    "poweroutput": "Peak: >1.08 × 1024 W",
+    "power": "Hypermatter annihilation reactor",
+    "shield_gen": "Equipped; thermal shield (some ships)",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Quad turbolaser cannons (14)",
+      "Point-defense dual laser cannons (34)",
+      "Heavy ion cannons (2)",
+      "Point-defense ion cannons (12)",
+      "Proton torpedo tubes (102)",
+      "  2.800 proton torpedoes",
+      "Flak guns (12+)",
+      "Tractor beam projectors (8)"
+    ],
+    "complement": "Landing craft/shuttles (8; standard)",
+    "crew": "22.350",
+    "passengers": "48,247",
+    "capacity": "29,000 tons",
+    "consumables": "1 year",
+    "lifesupport": "Equipped",
+    "availability": "Not available for sale",
+    "role": [
+      "Command ship",
+      "Battleship",
+      "Dreadnought (larger variant)",
+      "Light starfighter carrier"
+    ],
+    "firstuse": "22 BBY",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

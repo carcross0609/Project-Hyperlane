@@ -1,0 +1,25 @@
+{
+  "name": "TIE/fc starfighter",
+  "wookieepedia_title": "TIE/fc starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/fc_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/fc starfighter was an Imperial starfighter.",
+  "data": {
+    "name": "TIE/fc starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/fire control starfighter",
+    "type": "Starfighter",
+    "length": "6.3 meters",
+    "max_speed": "1,050 kmh",
+    "hyperdrive": "None",
+    "sensor": "Several",
+    "armament": "Laser cannon (1)",
+    "crew": "Pilot (1)",
+    "capacity": "65 kilograms",
+    "role": "Reconnaissance",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

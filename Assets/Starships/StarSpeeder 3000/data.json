@@ -1,0 +1,33 @@
+{
+  "name": "StarSpeeder 3000",
+  "wookieepedia_title": "StarSpeeder 3000",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/StarSpeeder_3000",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The StarSpeeder 3000 was a transport spacecraft used by the Star Tours travel agency. It had room to carry up to 40 passengers. The craft were produced sometime around 4 ABY, when Star Tours referred to them as \"new.\"",
+  "data": {
+    "name": "StarSpeeder 3000",
+    "engine": "Thrusters",
+    "hdrange": "1 billion light-years",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navcom",
+    "armament": "Laser cannons (2)",
+    "crew": [
+      "RX-Series pilot droid (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "40",
+    "othersystems": [
+      "Landing gear",
+      "Forward lights",
+      "Fuel pressure"
+    ],
+    "role": "Passenger transport",
+    "affiliation": [
+      "Star Tours",
+      "Corellian Translines"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

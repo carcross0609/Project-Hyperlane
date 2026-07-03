@@ -1,0 +1,36 @@
+{
+  "name": "DeepWater-class light freighter",
+  "wookieepedia_title": "DeepWater-class light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DeepWater-class_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The DeepWater-class light freighter was a Mon Calamari Shipyards transport design.",
+  "data": {
+    "name": "DeepWater-class light freighter",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "DeepWater-class light freighter",
+    "type": "Light freighter",
+    "cost": [
+      "99,000 credits (new)",
+      "80,000 credits (used)"
+    ],
+    "length": "45 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped, with backup shield generator",
+    "navigation": "Equipped",
+    "armament": "Dual laser cannon turret (1)",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "85 metric tons",
+    "consumables": "2 months",
+    "othersystems": "Capable of operating as a submarine",
+    "role": "Transport",
+    "affiliation": "Civilians"
+  },
+  "scraped": "2026-07-03"
+}

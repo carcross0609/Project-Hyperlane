@@ -1,0 +1,44 @@
+{
+  "name": "Luke Skywalker's Rendili StarDrive Y-wing",
+  "wookieepedia_title": "Luke Skywalker's Rendili StarDrive Y-wing",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Luke_Skywalker%27s_Rendili_StarDrive_Y-wing",
+  "continuity": "Legends",
+  "infobox_template": "IndividualShip",
+  "description": "A Rendili StarDrive Y-wing was operated by Jedi Knight Luke Skywalker in 5 ABY during the early days of the New Republic. While on a mission to save ex-Imperial Triclops from a mind-controlling device imbedded in his skull, Luke Skywalker flew this Y-wing with a crew consisting of R2-D2, Jedi Prince Ken, Chewbacca and C-3PO from Yavin IV to the planet Arzid. After landing the Y-wing within the mushroom forests of Arzid, the crew searched the planet for Macaab Mushrooms, a fungus detrimental to the removal of Triclops' implant. When Luke and Ken were abducted by agents of the Prophets of the Dark Side, Chewbacca took over as the Y-wing's pilot and alerted the New Republic of Luke and Ken's capture.",
+  "data": {
+    "name": "Luke Skywalker's Rendili StarDrive Y-wing",
+    "manufacturer": "Rendili StarDrive",
+    "line": "BLT Y-wing starfighter",
+    "model": "Rendili StarDrive Y-wing",
+    "type": "Transport starship/Starfighter",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Laser cannons",
+      "SW-4 ion cannon"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech Co-Pilot (1)",
+      "Additional Passangers (3)"
+    ],
+    "skeleton": "1",
+    "passengers": "3",
+    "role": [
+      "Transport",
+      "Attack Fighter"
+    ],
+    "affiliation": [
+      "New Republic",
+      "  Senate Planetary Intelligence Network",
+      "New Jedi Order"
+    ],
+    "owners": "Luke Skywalker",
+    "captains": [
+      "Luke Skywalker",
+      "Chewbacca (Briefly)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

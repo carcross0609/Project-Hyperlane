@@ -1,0 +1,40 @@
+{
+  "name": "Vaksai",
+  "wookieepedia_title": "Vaksai",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vaksai",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Vaksai was a starfighter model commonly employed by the Black Sun crime syndicate during the Galactic Civil War. It was a TransGalMeg Industries, Incorporated-manufactured Kihraxz light fighter modified by Black Sun. A medium fighter, the Vaksai gave its pilot a good balance between firepower and maneuverability. While it was generally only used by Black Sun, one of these ships became the property of a spacer who assisted the Civilian Protection Guild in the recapture of a CR90 corvette over the planet Kashyyyk.",
+  "data": {
+    "name": "Vaksai",
+    "manufacturer": "TransGalMeg Industries, Incorporated",
+    "model": "Modified Kihraxz light fighter",
+    "type": "Medium starfighter",
+    "cost": [
+      "185,000 credits (new)",
+      "115,000 credits (used)"
+    ],
+    "modifier": "Black Sun",
+    "max_speed": "1,250 km/h",
+    "engine": "Equipped (1)",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "navigation": "Equipped",
+    "countermeasures": "Countermeasure launcher",
+    "armament": [
+      "Medium laser cannon (1)",
+      "Concussion missile launcher (1)",
+      "Customization possible"
+    ],
+    "escapepods": "Equipped (1)",
+    "crew": "1",
+    "passengers": "None",
+    "capacity": "95 kilograms",
+    "consumables": "2 days",
+    "lifesupport": "Equipped",
+    "availability": "Restricted",
+    "role": "Starfighter",
+    "affiliation": "Black Sun"
+  },
+  "scraped": "2026-07-03"
+}

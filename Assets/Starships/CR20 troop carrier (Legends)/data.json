@@ -1,0 +1,38 @@
+{
+  "name": "CR20 troop carrier",
+  "wookieepedia_title": "CR20 troop carrier/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CR20_troop_carrier/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CR20 troop carrier or CR-20 trooper carrier was a type of transport ship used to deploy small units of clone troopers.",
+  "data": {
+    "name": "CR20 troop carrier",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "CR20 troop carrier",
+    "type": "Troop carrier",
+    "cost": "680,000 credits (265,000 used)",
+    "length": "60 meters",
+    "max_speed": "850 km/h",
+    "hyperdrive": "Class 3 (backup class 12)",
+    "shield_gen": "Equipped",
+    "armament": "Double turbolaser cannons (2)",
+    "complement": "74-Z speeder bikes (12)",
+    "escapepods": "4",
+    "crew": [
+      "Pilots (2)",
+      "Communications officer (1)",
+      "Engineers (3)"
+    ],
+    "passengers": "40 clone troopers",
+    "capacity": "15 tons",
+    "consumables": "2 weeks",
+    "availability": "Restricted",
+    "role": "Troop carrier",
+    "affiliation": [
+      "Corellian Defense Force",
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "BTY-180 carrier",
+  "wookieepedia_title": "BTY-180 carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BTY-180_carrier",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The BTY-180 carrier, also known as the Pre-Mor Authority Carrier, the Preox-Morlana personnel carrier or simply the Authority Carrier was a class of personnel carrier owned and operated by the Pre-Mor Authority. It was utilized to transport members of the Pre-Mor Enforcement to the different territories and star systems under the jurisdiction of Preox-Morlana. During the Imperial Era, one of these personnel carriers was utilized in 5 BBY to transport three teams of Corpos, including Deputy Inspector Syril Karn, to Ferrix. The teams would collectively stage the operation to apprehend Cassian Jeron Andor.",
+  "data": {
+    "name": "BTY-180 carrier",
+    "manufacturer": "Consolidated Holdings of Preox-Morlana Corporation",
+    "model": "BTY-180",
+    "type": "Carrier",
+    "width": "47.47 meters",
+    "height": "52.13 meters(171 feet)",
+    "mglt": "75 mglt",
+    "engine": "Equipped",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Laser cannons (3)",
+      "Ventral dual-laser turret (1)"
+    ],
+    "complement": "Mobile Tac-Pods (5)",
+    "bays": "5",
+    "passengers": "At least 14 Corpos",
+    "lifesupport": "Equipped",
+    "affiliation": [
+      "Preox-Morlana",
+      "  Pre-Mor Enforcement"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

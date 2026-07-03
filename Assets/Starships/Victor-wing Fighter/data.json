@@ -1,0 +1,26 @@
+{
+  "name": "Victor-wing Fighter",
+  "wookieepedia_title": "Victor-wing Fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Victor-wing_Fighter",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The Victor-wing Fighter was a model of starfighter that was active during the Imperial Era and used by criminal factions. In 1 BBY, several Victor-wing fighters ambushed the smuggling ship Windfall after the freighter stole a shipment of spice from the Hutt Clan. By 3 ABY, Victor-wing Fighters were used by Crimson Dawn in the space around both the moon Toshara and the planet Kijimi. These Victor-wings used the red livery associated with the Dawn.",
+  "data": {
+    "name": "Victor-wing Fighter",
+    "model": "Victor-wing",
+    "type": "Starfighter",
+    "engine": "Equipped (8)",
+    "hdsystem": "Equipped",
+    "armament": [
+      "4 laser cannons",
+      "1 quad ion cannon turret"
+    ],
+    "crew": "At least 1",
+    "role": "Starfighter combat",
+    "affiliation": [
+      "Crimson Dawn",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

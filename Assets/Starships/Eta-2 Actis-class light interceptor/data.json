@@ -1,0 +1,63 @@
+{
+  "name": "Eta-2 Actis-class light interceptor",
+  "wookieepedia_title": "Eta-2 Actis-class light interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eta-2_Actis-class_light_interceptor",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Eta-2 Actis-class light interceptor, also known as the Eta-2 Actis Jedi Interceptor, Eta-2 light interceptor, Eta-2 interceptor or simply Actis, was a starfighter used by the Jedi during the Clone Wars. Their popularity with the Jedi Order during the conflict resulted in the Actis being known as the Jedi starfighter. Designed to replace the Delta-7 Aethersprite-class light interceptor, the Eta-2 interceptor was a smaller vessel but possessed superior firepower.",
+  "data": {
+    "name": "Eta-2 Actis-class light interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series",
+    "model": "Eta-2 Actis-class",
+    "type": "Starfighter",
+    "cost": "290,000 credits",
+    "length": [
+      "5.47 meters (precise length)",
+      "5.4 meters (17 feet 8 inches)"
+    ],
+    "width": "4.3 meters",
+    "height": "2.5 meters (with wings deployed)",
+    "max_accel": "5,200 G",
+    "mglt": "118&ndash;128 MGLT",
+    "max_speed": "1,500 kph",
+    "engine": [
+      "Twin ion engine (two ion thrusters)",
+      "Repulsorlift projectors (landing and take-off assistance)"
+    ],
+    "hyperdrive": "Class 1 (external hyperspace transport ring required)",
+    "power": [
+      "High-power reactor",
+      "Auxiliary power cell"
+    ],
+    "shield_gen": "None",
+    "hull": "Thin movable hull segments with superficial armor",
+    "sensor": "Close-ranged sensors (optional)",
+    "target": "Equipped (optional)",
+    "avionics": "Pilot monitors",
+    "armament": [
+      "Dual laser cannons (2) (forward-mounted)",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "consumables": "72 hours",
+    "lifesupport": "Equipped",
+    "othersystems": "S-foils",
+    "role": [
+      "Starfighter",
+      "Interceptor"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Resistance",
+      "  Black Squadron"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

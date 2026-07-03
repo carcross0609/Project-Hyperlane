@@ -1,0 +1,43 @@
+# Immobilizer 418 cruiser; (Interior depicted)
+
+**Continuity:** Canon  
+**Source:** [Immobilizer 418 cruiser](https://starwars.fandom.com/wiki/Immobilizer_418_cruiser)
+
+The Immobilizer 418 cruiser, or simply the Immobilizer, was a type of cruiser used by the Galactic Empire's Imperial Navy that was developed for Imperial adviser Kren Blista-Vanee's Deep Core Security Zone and manufactured by the Corellian Engineering Corporation and Sienar Fleet Systems. It represented the Empire's first foray into Interdictor design based on less successful designs from the Galactic Republic. The Immobilizer was 600 meters in length and possessed a quartet of gravity well projectors located toward the aft of the vessel's sharply bowed hull. The starship additionally had twenty laser cannons, including multiple quad laser cannons. The Immobilizer 418 typically acted with an escort, and it carried a complement of twenty-four TIE fighters divided into two squadrons.
+
+## Specifications
+
+- **Name:** Immobilizer 418 cruiser; (Interior depicted)
+- **Manufacturer:**
+  - Corellian Engineering Corporation
+  - Sienar Fleet Systems
+- **Model:** Immobilizer 418 cruiser
+- **Type:** Cruiser
+- **Length:** 600 meters
+- **Engine:** Equipped
+- **Power:** Reactor
+- **Shield Gen:**
+  - Deflector shield generators (12)
+  -   Particle shields
+  -   Ray shields
+- **Armament:**
+  - Gravity well projectors (4)
+  - Laser cannons (20)
+  -   Quad laser cannons
+- **Complement:**
+  - 2 squadrons
+  -   24 TIE/ln space superiority starfighters
+- **Bays:** Ventral hangar
+- **Crew:** Stormtroopers and gunners
+- **Othersystems:** Overcurrent resistors
+- **Role:** Interdictor vessel
+- **Retired:** By 0 ABY (Manufacturing only)
+- **Affiliation:**
+  - Galactic Empire
+  -   Imperial Navy
+  - New Republic (Captured)
+  -   New Republic Defense Fleet
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,44 @@
+{
+  "name": "Hyena-class Droid Fighter/Bomber",
+  "wookieepedia_title": "Hyena-class Droid Fighter/Bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hyena-class_Droid_Fighter/Bomber",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "Hyena-class Droid Fighter/Bombers, also known as Hyena-class Droid Bombers, Hyena-class bombers, Hyena droid bombers, or Hyena bombers, were droid starfighters manufactured by Baktoid Armor Workshop. They were designed for heavy ordnance bombing runs. Based on vulture droid designs, Hyena bombers had wider and sturdier hulls with huge wings to gain stability during flight. Like vulture droids, it could transform its shape into walking mode. These were used by the Confederacy of Independent Systems, against the Republic forces during the Clone Wars.",
+  "data": {
+    "name": "Hyena-class Droid Fighter/Bomber",
+    "manufacturer": "Baktoid Armor Workshop",
+    "model": "Hyena-class Droid Fighter/Bomber",
+    "type": [
+      "Droid bomber",
+      "Starfighter"
+    ],
+    "cost": "120,000 credits",
+    "length": "12.48&ndash;12.50 meters (41 feet) (in flight)",
+    "height": "3.1 meters (in flight)",
+    "mglt": "110 MGLT",
+    "max_speed": "1,150 kph",
+    "engine": "Equipped",
+    "hdsystem": "None",
+    "hull": "Sturdy hull",
+    "sensor": "2 photoreceptors",
+    "armament": [
+      "4 Quad light laser cannons",
+      "Concussion missile launchers (6 concussion missiles)",
+      "Proton torpedo launchers (6 proton torpedoes)",
+      "Proton bomb chute (4 proton bombs)"
+    ],
+    "crew": "Integrated droid brain",
+    "consumables": "48 hours",
+    "role": [
+      "Bombing raids",
+      "Fortification/capital ship bombardment"
+    ],
+    "firstuse": "22 BBY",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

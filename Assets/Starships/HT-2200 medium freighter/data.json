@@ -1,0 +1,42 @@
+{
+  "name": "HT-2200 medium freighter",
+  "wookieepedia_title": "HT-2200 medium freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HT-2200_medium_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The HT-2200 was a medium freighter from Corellian Engineering Corporation which was intended to capitalize on the popularity of the YT-1300.",
+  "data": {
+    "name": "HT-2200 medium freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "HT-2200",
+    "type": "Medium freighter",
+    "cost": [
+      "240,000 credits (new)",
+      "110,000 credits (used)"
+    ],
+    "length": "54.8 meters",
+    "max_speed": "750 kmh",
+    "engine": "Koensayr single-tube ion drive",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 15 (backup)"
+    ],
+    "power": "Lotek 11P power generator",
+    "shield_gen": "Novaldex GA21 shield generator",
+    "hull": [
+      "Reinforced superstructure",
+      "Trimantium hull plating"
+    ],
+    "armament": "Taim & Bak \"Queldor\" single-barrel laser cannon turrets (2)",
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "800 metric tons (4 independent bays)",
+    "consumables": "3 months",
+    "role": [
+      "Freighter",
+      "Smuggling vessel",
+      "Troop transport (Rebel modification)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "AA-9 Freighter-Liner",
+  "wookieepedia_title": "AA-9 Freighter-Liner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/AA-9_Freighter-Liner",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The AA-9 Freighter-Liner, also known as the Botajef Freighter-Liner or AA-9 Coruscant Starfreighter, was a starship produced by Botajef Shipyards which first brought the small shipbuilding concern to galactic prominence. Initially conceived as a freighter, it went on to be used as a refugee transport and, during the Clone Wars, served as a troopship for the Grand Army of the Republic.",
+  "data": {
+    "name": "AA-9 Freighter-Liner",
+    "manufacturer": "Botajef Shipyards",
+    "model": "AA-9 Freighter-Liner",
+    "type": "Freighter",
+    "length": "390 meters (1,276 ft 6 in)",
+    "max_speed": "420 kph (261 mph)",
+    "engine": "CEC Dyne 2577 radial sublight engines (2)",
+    "hyperdrive": "Class 4",
+    "passengers": "30,000",
+    "consumables": "3 months of supplies",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "Refugee Relief Movement"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "YT-1930 transport",
+  "wookieepedia_title": "YT-1930 transport/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1930_transport/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-1930 was a moderately successful YT-series light freighter that was released by the Corellian Engineering Corporation shortly before the Battle of Yavin.",
+  "data": {
+    "name": "YT-1930 transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1930",
+    "type": "Light freighter",
+    "cost": [
+      "135,000 credits (new)",
+      "62,000 credits (used)"
+    ],
+    "length": "36.8 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": "Class 2 (backup class 12)",
+    "shield_gen": "Equipped",
+    "navigation": "Navcomputer",
+    "armament": "Medium laser cannon (1)",
+    "crew": "2",
+    "passengers": "6",
+    "capacity": "200 tons",
+    "consumables": "4 months",
+    "availability": "Licensed",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

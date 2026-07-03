@@ -1,0 +1,34 @@
+{
+  "name": "Pathfinder-class scout ship",
+  "wookieepedia_title": "Pathfinder-class scout ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pathfinder-class_scout_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Pathfinder-class scout ship was a scout vessel first produced by Vangaard Industries over sixty years before the formation of the New Republic.",
+  "data": {
+    "name": "Pathfinder-class scout ship",
+    "manufacturer": "Vangaard Industries",
+    "type": "Scout vessel",
+    "length": "36 meters",
+    "max_speed": "950 kmh",
+    "hyperdrive": [
+      "Class 3",
+      "Class 15"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Laser cannon",
+    "crew": "1 or 2",
+    "skeleton": "1",
+    "passengers": "2",
+    "capacity": [
+      "100 metric tons",
+      "40 cubic meters"
+    ],
+    "consumables": "6 months",
+    "role": "Scout ship",
+    "firstuse": "56 BBY"
+  },
+  "scraped": "2026-07-03"
+}

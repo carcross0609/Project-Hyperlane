@@ -1,0 +1,27 @@
+{
+  "name": "R93 refractor",
+  "wookieepedia_title": "R93 refractor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R93_refractor",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The R93 Refractor was a type of starfighter that served as the main vessel model used by the Rokana Raiders by 3 ABY.",
+  "data": {
+    "name": "R93 refractor",
+    "type": "Starfighter",
+    "engine": "T-57B Light Engine",
+    "hdsystem": "Equipped",
+    "shield_gen": [
+      "FE-3 energy shield",
+      "Ion shield"
+    ],
+    "hull": "Rokana hull",
+    "armament": [
+      "modified L-13 cannons (2)",
+      "modified M-19 cannons (2)",
+      "Ion torpedoes"
+    ],
+    "complement": "RK-250 repair system",
+    "affiliation": "Rokana Raiders"
+  },
+  "scraped": "2026-07-03"
+}

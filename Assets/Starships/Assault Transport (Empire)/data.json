@@ -1,0 +1,19 @@
+{
+  "name": "Assault Transport",
+  "wookieepedia_title": "Assault Transport (Empire)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Assault_Transport_%28Empire%29",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Assault Transport was a troop transport vessel used by the Imperial Navy.",
+  "data": {
+    "name": "Assault Transport",
+    "type": "Transport",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannons",
+    "passengers": "One regiment of troops",
+    "role": "Troop transport",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

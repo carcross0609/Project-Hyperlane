@@ -1,0 +1,22 @@
+{
+  "name": "Trandoshan dropship",
+  "wookieepedia_title": "Trandoshan dropship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trandoshan_dropship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Trandoshan dropship was a large transport vessel used to deploy Trandoshan mercenaries and slavers on target ships.",
+  "data": {
+    "name": "Trandoshan dropship",
+    "model": "Trandoshan troop transport",
+    "type": "Transport",
+    "crew": "Pilot (2)",
+    "passengers": "30 (approximately)",
+    "role": "Carrier",
+    "affiliation": [
+      "Trandoshans",
+      "  Trandoshan fleet",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

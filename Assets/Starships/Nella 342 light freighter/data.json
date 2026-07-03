@@ -1,0 +1,26 @@
+{
+  "name": "Nella 342 light freighter",
+  "wookieepedia_title": "Nella 342 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nella_342_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Nella 342 light freighter was produced by SoroSuub Corporation.",
+  "data": {
+    "name": "Nella 342 light freighter",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Nella 342 Light Freighter",
+    "length": "29.7 meters",
+    "max_accel": "800 kph (atmosphere)",
+    "hyperdrive": [
+      "Class 2 Hyperdrive",
+      "Class 12 Hyperdrive (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "None (stock)",
+    "crew": "1",
+    "passengers": "5",
+    "capacity": "50 metric tons",
+    "role": "Cargo transport"
+  },
+  "scraped": "2026-07-03"
+}

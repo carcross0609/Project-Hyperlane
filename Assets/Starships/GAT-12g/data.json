@@ -1,0 +1,26 @@
+{
+  "name": "GAT-12g",
+  "wookieepedia_title": "GAT-12g",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GAT-12g",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The GAT-12g \"Skipray\" was part of the GAT Blastboat series produced by Sienar Fleet Systems.",
+  "data": {
+    "name": "GAT-12g",
+    "manufacturer": "Sienar Fleet Systems",
+    "type": "Defense and patrol blastboat",
+    "length": "25 meters",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "navigation": "Equipped (4 jump limit)",
+    "armament": [
+      "3 medium ion cannons",
+      "1 proton torpedo launcher",
+      "2 laser cannons",
+      "1 tractor beam"
+    ],
+    "crew": "2 and 2 gunners",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "MC30c frigate",
+  "wookieepedia_title": "MC30c frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC30c_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MC30c frigate was a class of Mon Calamari-designed warship, utilized by the Rebel Alliance during the Galactic Civil War.",
+  "data": {
+    "name": "MC30c frigate",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC30 series",
+    "model": "MC30c frigate",
+    "type": "Frigate",
+    "cost": "9,500,000 credits",
+    "hyperdrive": [
+      "Class 1",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "hull": "Lightly armored",
+    "armament": [
+      "Heavy Proton torpedo launchers (2)",
+      "Medium Turbolaser turrets (16)",
+      "Twin Laser cannons (16)",
+      "Cluster bomb launchers (6)",
+      "  6 Cluster bombs each"
+    ],
+    "crew": "820",
+    "passengers": "95",
+    "consumables": "2 years",
+    "role": "Frigate",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

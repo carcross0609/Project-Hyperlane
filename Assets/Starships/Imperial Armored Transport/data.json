@@ -1,0 +1,40 @@
+{
+  "name": "Imperial Armored Transport",
+  "wookieepedia_title": "Imperial Armored Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Armored_Transport",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Kuat Drive Yards Imperial Armored Transport was fifty meters long and carried ten crewmen and twenty soldiers",
+  "data": {
+    "name": "Imperial Armored Transport",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Transport",
+    "cost": [
+      "240,000 credits (new)",
+      "110,000 credits (used)"
+    ],
+    "length": "50 meters",
+    "max_speed": "800 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "Or",
+      "Two laser cannons",
+      "Four double turbolaser batteries"
+    ],
+    "crew": "10",
+    "passengers": "20 (troops)",
+    "capacity": "30,000 metric tons",
+    "consumables": "3 months",
+    "role": "Transport",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

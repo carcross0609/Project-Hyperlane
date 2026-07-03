@@ -1,0 +1,24 @@
+{
+  "name": "Victory-class Star Destroyer",
+  "wookieepedia_title": "Victory-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Victory-class_Star_Destroyer",
+  "continuity": "Canon",
+  "infobox_template": "Ship_series",
+  "description": "The Victory-class Star Destroyer was a line of Star Destroyer used by both the Republic Navy and Imperial Navy. One ship of the line was the Victory II-class Star Destroyer. The Victory-class was capable of deploying a garrison base and making surface landings, and boasted seven sublight engines. The ship could be used to provide security for convoys, to transport cargo, and to accompany other vessels.",
+  "data": {
+    "name": "Victory-class Star Destroyer",
+    "line": "Victory-class Star Destroyer",
+    "type": "Escort frigate-class Star Destroyer",
+    "models": [
+      "Victory I-class Star Destroyer",
+      "Victory II-class Star Destroyer"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

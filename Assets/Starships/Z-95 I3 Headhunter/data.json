@@ -1,0 +1,32 @@
+{
+  "name": "Z-95 I3 Headhunter",
+  "wookieepedia_title": "Z-95 I3 Headhunter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-95_I3_Headhunter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Z-95 I3 Headhunter was a starfighter produced by the Incom and the Subpro Corporation. The \"Improved Model 3\" (I3) was one of the most popular models in the Z-95 Headhunter series and saw use on various planets in the galaxy.",
+  "data": {
+    "name": "Z-95 I3 Headhunter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Subpro Corporation"
+    ],
+    "line": "Z-95 Headhunter",
+    "model": "Z-95 I3",
+    "type": "Starfighter",
+    "cost": "23,000 credits",
+    "length": "11.8 meters",
+    "max_speed": "1,150 kmh",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "Two triple blasters",
+      "Concussion missiles"
+    ],
+    "crew": "1",
+    "capacity": "85 kilogram",
+    "consumables": "1 day",
+    "role": "Assault starfighter"
+  },
+  "scraped": "2026-07-03"
+}

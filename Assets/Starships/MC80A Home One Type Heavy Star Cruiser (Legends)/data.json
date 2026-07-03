@@ -1,0 +1,68 @@
+{
+  "name": "MC80A Home One Type Heavy Star Cruiser",
+  "wookieepedia_title": "MC80A Home One Type Heavy Star Cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC80A_Home_One_Type_Heavy_Star_Cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MC80A Home One Type Heavy Star Cruiser, also known as the MC80 Home One type Star Cruiser or MC80 Command Cruiser, was one of the several MC80 Star Cruiser designs built by the Mon Calamari. Originally fielded before the Galactic Civil War as civilian vessels, they were modified by the Rebel Alliance, and served in command ship and battleship roles in the Alliance Fleet.",
+  "data": {
+    "name": "MC80A Home One Type Heavy Star Cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC80 Star Cruisers",
+    "model": "MC80 Home One type Star Cruiser",
+    "type": "Heavy Star Cruiser",
+    "cost": "112,000,000 (standard)&ndash;150,000,000 (individual ships) credits",
+    "length": [
+      "Standard length: 1,200 meters",
+      "Individual ships: 1,400 meters or longer"
+    ],
+    "mglt": "60 MGLT",
+    "engine": [
+      "M8.0-StarDrive engines (4)",
+      "M4.5-StarDrive maneuvering engines (6)"
+    ],
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 9.0 (backup)"
+    ],
+    "hdsystem": "TriLuna 400MGS stardrive and hyperdrive system",
+    "shield_gen": "Serridge SEAL Shielding System",
+    "sensor": "Long-range sensors",
+    "navigation": "Navi computer",
+    "armament": [
+      "Twin/quad heavy turbolaser batteries (29&ndash;36)",
+      "Heavy twin ion cannon batteries (36)",
+      "Quad laser cannon batteries (80)",
+      "Heavy tractor beam projectors (6)"
+    ],
+    "complement": [
+      "36&ndash;120 starfighters (a mix of A-wings, B-wings, X-wings and/or Y-wings)",
+      "Shuttles",
+      "Landing craft",
+      "Gunboats",
+      "Assault craft",
+      "Planetary vehicles",
+      "Landing barges",
+      "Rebel personnel carriers"
+    ],
+    "crew": "5,402&ndash;5,480",
+    "skeleton": "1,230",
+    "passengers": "1,200 troops and support staff",
+    "capacity": "20,000 tons",
+    "consumables": "2 years",
+    "availability": "Not available for sale",
+    "role": [
+      "Passenger liner",
+      "Deep-space exploration vessel",
+      "Command ship",
+      "Battleship",
+      "Carrier"
+    ],
+    "firstuse": "By 20 BBY",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

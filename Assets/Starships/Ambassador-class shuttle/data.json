@@ -1,0 +1,27 @@
+{
+  "name": "Ambassador-class shuttle",
+  "wookieepedia_title": "Ambassador-class shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ambassador-class_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ambassador-class shuttle, also known as the Ambassador-class luxury shuttle and Luxury Shuttle 001, was a SoroSuub shuttle model.",
+  "data": {
+    "name": "Ambassador-class shuttle",
+    "manufacturer": "SoroSuub Corporation",
+    "length": "50 meters",
+    "max_speed": "1,000 kmh",
+    "hyperdrive": [
+      "Class 2",
+      "Class 14"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Twin double laser cannons",
+    "crew": "2; 1 gunner",
+    "passengers": "10",
+    "capacity": "100 metric tons",
+    "consumables": "1 month"
+  },
+  "scraped": "2026-07-03"
+}

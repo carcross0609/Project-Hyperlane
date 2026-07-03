@@ -1,0 +1,27 @@
+{
+  "name": "HH-87 Starhopper",
+  "wookieepedia_title": "HH-87 Starhopper/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HH-87_Starhopper/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The HH-87 Starhopper was a starfighter used commonly by various factions of the criminal underworld. Notably, the craft saw widespread use by the Hutt crime families and Zygerrian slavers of the Zygerrian Slave Empire.",
+  "data": {
+    "name": "HH-87 Starhopper",
+    "manufacturer": "MandalMotors",
+    "type": "Starfighter",
+    "cost": "50,000 credits",
+    "length": "6.8 meters",
+    "width": "13.59 meter wingspan",
+    "hyperdrive": "Class 1.0",
+    "navigation": "Yes",
+    "armament": "Twin light laser cannons (2)",
+    "crew": "1",
+    "consumables": "2 days",
+    "affiliation": [
+      "Hutts",
+      "Zygerrian Slave Empire",
+      "Various others"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

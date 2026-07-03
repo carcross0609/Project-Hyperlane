@@ -1,0 +1,40 @@
+{
+  "name": "VT-49 Decimator",
+  "wookieepedia_title": "VT-49 Decimator/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/VT-49_Decimator/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The VT-49 Decimator was a heavily armed Imperial transport that had gone through many revisions and modifications, making it one of the galaxy's more feared Imperial warships.",
+  "data": {
+    "name": "VT-49 Decimator",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "VT-49 Decimator",
+    "type": "Assault ship",
+    "cost": "160,000 credits",
+    "length": "38 meters",
+    "max_speed": "975 km/h",
+    "hyperdrive": "Class 1 (backup class 12)",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Quad laser cannon turrets (2)",
+      "Twin concussion missile launchers",
+      "  40 missiles total"
+    ],
+    "crew": [
+      "Crew (2)",
+      "Gunners (2)"
+    ],
+    "skeleton": "2",
+    "passengers": "6",
+    "capacity": "80 tons",
+    "consumables": "1 month",
+    "availability": "Military",
+    "role": "Troop transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Rodian hunters",
+      "Ter-Doac Vaine's forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

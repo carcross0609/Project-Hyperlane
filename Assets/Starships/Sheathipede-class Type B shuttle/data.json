@@ -1,0 +1,26 @@
+{
+  "name": "Sheathipede-class Type B shuttle",
+  "wookieepedia_title": "Sheathipede-class Type B shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sheathipede-class_Type_B_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Sheathipede-class Type B shuttle, also known simply as the Class Type B shuttle, was a model of cargo shuttle manufactured by Haor Chall Engineering Corporation and used by the Confederacy of Independent Systems during the Clone Wars. At least one was captured by the Galactic Republic.",
+  "data": {
+    "name": "Sheathipede-class Type B shuttle",
+    "manufacturer": "Haor Chall Engineering Corporation",
+    "model": "Sheathipede-class Type B shuttle",
+    "type": "Shuttle",
+    "max_accel": "880 kph",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons (3)",
+    "role": "Cargo shuttle",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "Galactic Republic",
+      "  Galactic Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

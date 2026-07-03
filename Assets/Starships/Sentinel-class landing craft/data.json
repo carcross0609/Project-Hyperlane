@@ -1,0 +1,66 @@
+{
+  "name": "Sentinel-class landing craft",
+  "wookieepedia_title": "Sentinel-class landing craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sentinel-class_landing_craft",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "A Sentinel-class landing craft, also known as a Sentinel-class shuttle, Sentinel assault shuttle or Imperial Landing Craft, was a large-scale troop transport utilized by the Galactic Empire. During the early stages of the Galactic Civil War, Imperials such as Agent Alexsandr Kallus and the Grand Inquisitor utilized these transports to either deploy stormtroopers or to travel to a planet. Imperial Star Destroyers carried these shuttles.",
+  "data": {
+    "name": "Sentinel-class landing craft",
+    "designer": [
+      "Sienar Fleet Systems",
+      "Cygnus Spaceworks"
+    ],
+    "model": "Sentinel-class",
+    "type": "Assault shuttle",
+    "cost": "240,000 credits",
+    "length": "38 meters",
+    "mglt": "70 MGLT",
+    "max_speed": "1,000 kph",
+    "engine": "HD7 engine array (2)",
+    "hyperdrive": [
+      "Class 1",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Four deflector shield generators",
+    "hull": "Heavily armored (25% heavier than Lambda-class)",
+    "sensor": "Close-range sensors",
+    "navigation": "Equipped",
+    "armament": [
+      "8 laser cannons",
+      "2 concussion missile launchers",
+      "2 blaster cannon turrets",
+      "Ion cannon turret"
+    ],
+    "complement": [
+      "12 E-Web heavy repeating blaster cannons",
+      "6 74-Z speeder bikes"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/sensor operator (1)",
+      "Gunners (3)"
+    ],
+    "passengers": "54 - 75 (six squads)",
+    "capacity": "180 tonnes",
+    "cargohandling": "Attack vehicle cargo pod (optional)",
+    "consumables": "One month",
+    "role": [
+      "Air/starfighter support",
+      "Assault ship",
+      "Light cargo vessel",
+      "Rapid deployment vessel",
+      "Short-range scout"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "Phoenix Cell (stolen)",
+      "Alliance to Restore the Republic (stolen)",
+      "  Rebel Alliance Navy",
+      "Scourge (corrupted)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

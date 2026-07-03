@@ -1,0 +1,35 @@
+{
+  "name": "Luxury 2800",
+  "wookieepedia_title": "Luxury 2800",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Luxury_2800",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Luxury 2800 was a luxury yacht produced by the SoroSuub Corporation.",
+  "data": {
+    "name": "Luxury 2800",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "SoroSuub Luxury Yachts",
+    "model": "2800",
+    "type": "Yacht",
+    "cost": [
+      "225,000 credits (new)",
+      "110,000 credits (used)"
+    ],
+    "length": "37 meters",
+    "max_speed": "1,000 kph",
+    "engine": "Dual sublight/Hyperdrive external drive pods",
+    "hyperdrive": [
+      "Class 2.0 (primary)",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "armament": "None",
+    "crew": "Pilot (1)",
+    "passengers": "8",
+    "capacity": "75 metric tons",
+    "consumables": "1 month",
+    "role": "Yacht",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

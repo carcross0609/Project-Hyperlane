@@ -1,0 +1,74 @@
+{
+  "name": "C-ROC Gozanti-class light cruiser",
+  "wookieepedia_title": "C-ROC Gozanti-class light cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/C-ROC_Gozanti-class_light_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The C-ROC Gozanti-class light cruiser, also known as the C-ROC Carrier Ship, with the shipyard custom configuration known as the Configuration-Restored Operational Capacity, was an official modified version of the Gozanti-class cruiser that was manufactured by the Corellian Engineering Corporation prominently during the Clone Wars and the Imperial Era.",
+  "data": {
+    "name": "C-ROC Gozanti-class light cruiser",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Gozanti-class cruiser",
+    "type": "Light cruiser",
+    "cost": "190,000 credits",
+    "length": "73.91 meters",
+    "max_speed": "1,200 kph",
+    "engine": "Novaldex JV-80 ion drives (4-5)",
+    "hyperdrive": [
+      "Class 3 (primary)",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Medium-ranged sensor",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Stock",
+      "Retractable quad laser cannon turrets (2) (1 dorsal, 1 ventral)",
+      "Retractable twin heavy laser cannons (4) (2 port, 2 starboard)",
+      "Corsair Refit",
+      "Stronger power source",
+      "Additional fixed cannon mounts",
+      "Additional ordnance tubes",
+      "Additional turret mounts"
+    ],
+    "complement": "M3-A Scyk interceptors (4) (modified)",
+    "escapepods": "Equipped",
+    "crew": [
+      "12:",
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Engineer (1)",
+      "Comms/sensor operator (1)",
+      "Loadmasters (2)",
+      "Gunners (6)"
+    ],
+    "skeleton": "Pilot (1)",
+    "passengers": [
+      "20",
+      "Hundreds (modified)"
+    ],
+    "capacity": "Roughly 4,000 metric tons",
+    "consumables": "2 months",
+    "communications": "Equipped",
+    "othersystems": [
+      "Quick-release cargo locks",
+      "Ventral rectenna (1)"
+    ],
+    "role": [
+      "Cargo transport",
+      "Raiding vessel",
+      "Smuggling vessel",
+      "Substitute capital ship",
+      "Warship"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy",
+      "InterGalactic Banking Clan",
+      "Broken Horn Syndicate",
+      "Rebel cells"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

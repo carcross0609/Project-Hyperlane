@@ -1,0 +1,59 @@
+{
+  "name": "Delta-7 Aethersprite-class light interceptor",
+  "wookieepedia_title": "Delta-7 Aethersprite-class light interceptor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Delta-7_Aethersprite-class_light_interceptor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Delta-7 Aethersprite-class light interceptor, more commonly known as the Delta-7 Aethersprite light interceptor or Jedi starfighter due to its extensive use by Jedi, was an interceptor commissioned just before the outbreak of the Clone Wars in 22 BBY.",
+  "data": {
+    "name": "Delta-7 Aethersprite-class light interceptor",
+    "designer": "Project Engineer Walex Blissex",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series fighter",
+    "model": "Delta-7 Aethersprite-class light interceptor",
+    "type": "Starfighter",
+    "cost": [
+      "180,000 credits (145,000 credits used) (standard model)",
+      "210,000 credits (160,000 credits used) (High-Maneuver variant)",
+      "385,000 credits (295,000 credits used) (High-Speed variant)"
+    ],
+    "length": "8 meters",
+    "width": "3.92 meters",
+    "height": "1.44 meters",
+    "max_accel": "5,000 G",
+    "max_speed": [
+      "1,150 km/h (standard and High-Maneuver model)",
+      "1,260 km/h (High-Speed variant)"
+    ],
+    "hyperdrive": "Class 1.0 (with booster ring)",
+    "hdrange": "150,000 LY",
+    "hdsystem": "Syluire-31 hyperspace docking ring",
+    "shield_gen": "Equipped",
+    "armament": "Taim Co. sds 8/5 dual laser cannons (2)",
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "passengers": "None",
+    "capacity": "0 - 60 kg (0.03 m³)",
+    "consumables": [
+      "1 week",
+      "Fuel: 5 hrs",
+      "Air: 5 hrs"
+    ],
+    "availability": "Military (Jedi / MHC Only)",
+    "role": [
+      "Interceptor",
+      "Scout",
+      "Elite personnel transport"
+    ],
+    "firstuse": "By 27 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order",
+      "Antarian Rangers",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

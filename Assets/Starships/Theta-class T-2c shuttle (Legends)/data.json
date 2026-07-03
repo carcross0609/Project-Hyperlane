@@ -1,0 +1,48 @@
+{
+  "name": "Theta-class T-2c shuttle",
+  "wookieepedia_title": "Theta-class T-2c shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Theta-class_T-2c_shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Cygnus Spaceworks Theta-class T-2c shuttle, also known as the Theta-class T-2c Personnel Transport, was a tri-winged personnel transport craft, most often used by influential senators, officers, and courtiers to travel between planets and starships while maintaining high levels of security. Newly appointed Emperor Palpatine used one to save the maimed and burned Darth Vader from the volcanic world of Mustafar.",
+  "data": {
+    "name": "Theta-class T-2c shuttle",
+    "manufacturer": "Cygnus Spaceworks",
+    "model": "Theta-class T-2c personnel transport",
+    "type": "Personal transport",
+    "cost": "Not available for sale (likely valued at 210,000 to 1,000,000 Republic credits)",
+    "length": "18.5 meters",
+    "width": "29.3 meters",
+    "height": "18.5 meters",
+    "max_accel": "1,800 G",
+    "max_speed": "700 km/h to 2,000 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 15 (backup)"
+    ],
+    "hdrange": "8,000 LY",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Aft laser cannon (1)",
+      "Quad laser cannons (2)"
+    ],
+    "crew": "5",
+    "skeleton": "1",
+    "passengers": "16",
+    "capacity": "50 tons",
+    "consumables": "2 months",
+    "role": [
+      "Personnel shuttle",
+      "Troop transport"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Order of the Sith Lords",
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cargo tanker",
+  "wookieepedia_title": "Cargo tanker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cargo_tanker",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The cargo tanker was a long-distance freight haulage solution designed by Virella Systems for use in conjunction with several classes of Xizor cargo containers. In this respect it was similar to Virella Systems' other widespread cargo vessel, the cargo freighter.",
+  "data": {
+    "name": "Cargo tanker",
+    "manufacturer": "Virella Systems",
+    "max_accel": "5 MGLT/s",
+    "mglt": "13 MGLT",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 320 SBD",
+    "hull": "Rated 92 RU",
+    "armament": "None",
+    "crew": "2-4",
+    "role": "Cargo haulage",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Various: private and commercial"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

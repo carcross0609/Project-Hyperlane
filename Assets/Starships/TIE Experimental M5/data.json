@@ -1,0 +1,31 @@
+{
+  "name": "TIE Experimental M5",
+  "wookieepedia_title": "TIE Experimental M5",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_Experimental_M5",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE Experimental M5, also known as the TIE Booster, was an experimental member of the TIE Series and a part of the TIE Experimental Project.",
+  "data": {
+    "name": "TIE Experimental M5",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series Experimental",
+    "model": "Twin Ion Engine Experimental M5 (T/e5)",
+    "type": "Starfighter",
+    "length": "10 meters",
+    "mglt": "132 MGLT",
+    "engine": [
+      "Twin ion engines",
+      "1 booster engine"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Optional (20 SBD)",
+    "hull": "Titanium alloy hull (11 RU)",
+    "navigation": "None (slaved to control ship)",
+    "armament": "Laser cannons (2)",
+    "crew": "Remote control system",
+    "passengers": "None",
+    "role": "Space superiority fighter",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

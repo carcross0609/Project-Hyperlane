@@ -1,0 +1,21 @@
+{
+  "name": "Firekiln",
+  "wookieepedia_title": "Firekiln",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Firekiln",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A Firekiln was a type of warship deployed by the battle fleet of Storm-hair Warlord Nuso Esva's realm. Heavily armed, five Firekilns were as powerful as a single Imperial I-class Star Destroyer. In 0 ABY, one of Esva's attack squadrons that included eight Firekilns engaged and attempted to capture part of the Galactic Empire's Task Force Admonitor&mdash;whose flagship was the Imperial-class Star Destroyer Admonitor&mdash;in the Unknown Regions' Teptixii system. However, the Imperial II-class Star Destroyer Chimaera arrived and divided the squadron, which then fled.",
+  "data": {
+    "name": "Firekiln",
+    "model": "Firekiln",
+    "engine": "Equipped",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons",
+    "role": "Ship-to-ship combatant",
+    "affiliation": [
+      "Nuso Esva's realm",
+      "  Nuso Esva's battle fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

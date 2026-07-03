@@ -1,0 +1,25 @@
+{
+  "name": "Yinchorri starfighter",
+  "wookieepedia_title": "Yinchorri starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yinchorri_starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "A Yinchorri starfighter was a starfighter used by the Yinchorri during their expansion in 33 BBY. Such fighters required one pilot and were armed with a heavy blaster cannon and a medium blaster cannon. These vessels also had two sublight accelerators.",
+  "data": {
+    "name": "Yinchorri starfighter",
+    "manufacturer": "Golden Nyss Shipyards",
+    "model": "Yinchorri starfighter",
+    "type": "Starfighter",
+    "length": "9 meters",
+    "mglt": "160 MGLT",
+    "engine": "Equipped with two sublight accelerators",
+    "armament": [
+      "Heavy blaster cannon (1)",
+      "Medium blaster cannon (1)"
+    ],
+    "crew": "Pilot (1)",
+    "role": "Starfighter",
+    "affiliation": "Yinchorri"
+  },
+  "scraped": "2026-07-03"
+}

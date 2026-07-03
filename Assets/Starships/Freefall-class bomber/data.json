@@ -1,0 +1,42 @@
+{
+  "name": "Freefall-class bomber",
+  "wookieepedia_title": "Freefall-class bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Freefall-class_bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Freefall-class bomber was designed to serve as a bomber. Jinkins' personal starfighter, the Freefall, was a modified version of this craft.",
+  "data": {
+    "name": "Freefall-class bomber",
+    "manufacturer": "Nubian Design Collective",
+    "model": "Freefall-class bomber",
+    "type": [
+      "Bomber (stock configuration)",
+      "Starfighter (modified)"
+    ],
+    "cost": "70,000 credits (18,000 used)",
+    "length": "30 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": "Class 2 (backup class 10)",
+    "armament": [
+      "2 laser cannons",
+      "1 bomb chute",
+      "  20 proton bombs"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Gunner (1)",
+      "Navigator (1)",
+      "Bombardier (1)"
+    ],
+    "passengers": "10",
+    "capacity": "20 metric tons",
+    "consumables": "4 weeks",
+    "availability": "Restricted",
+    "role": [
+      "Bomber",
+      "Starfighter"
+    ],
+    "affiliation": "Lok Revenants"
+  },
+  "scraped": "2026-07-03"
+}

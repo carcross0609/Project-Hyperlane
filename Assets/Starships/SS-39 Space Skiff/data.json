@@ -1,0 +1,29 @@
+{
+  "name": "SS-39 Space Skiff",
+  "wookieepedia_title": "SS-39 Space Skiff",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SS-39_Space_Skiff",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The SS-39 Space Skiff was a small space maintenance vehicle used by the Galactic Empire, manufacturers and asteroid prospectors.",
+  "data": {
+    "name": "SS-39 Space Skiff",
+    "manufacturer": "Telex-Delcor",
+    "type": "Space skiff",
+    "cost": [
+      "12,500 credits (new)",
+      "7,000 credits (used)"
+    ],
+    "length": "9.6 meters",
+    "sensor": "Equipped",
+    "crew": "1",
+    "passengers": "8 (in powersuits)",
+    "capacity": "3 metric tons",
+    "consumables": "30 hours",
+    "role": [
+      "shuttle",
+      "maintenance vehicle"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

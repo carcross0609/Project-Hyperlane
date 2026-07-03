@@ -1,0 +1,20 @@
+{
+  "name": "Predator I",
+  "wookieepedia_title": "Predator I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Predator_I",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Arakyd Industries Predator I was a streamlined hyperdrive and sublight drive-equipped pod used to transport Viper probe droids through hyperspace.",
+  "data": {
+    "name": "Predator I",
+    "manufacturer": "Arakyd Industries",
+    "type": "Hyperdrive pod",
+    "length": "4 meters",
+    "max_speed": "750 kmh",
+    "hyperdrive": "Class 2",
+    "shield_gen": "Equipped",
+    "crew": "1 Viper probe droid",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

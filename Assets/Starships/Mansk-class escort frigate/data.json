@@ -1,0 +1,29 @@
+{
+  "name": "Mansk-class escort frigate",
+  "wookieepedia_title": "Mansk-class escort frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mansk-class_escort_frigate",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Mansk-class escort frigate was a starship manufactured by the Tallaani Shipyards in the Tapani sector. The Mansk-class vessel, Knife's Edge, was used by House Melantha during the Galactic Civil War.",
+  "data": {
+    "name": "Mansk-class escort frigate",
+    "manufacturer": "Tallaani Shipyards",
+    "cost": "135,000 credits (used only)",
+    "length": "100 meters",
+    "max_speed": "1,000 kph (atmosphere)",
+    "engine": "Powerful sublight drives",
+    "hdrange": "Class 3 Hyperdrive (Class 12 backup)",
+    "shield_gen": "Military-grade shielding",
+    "hull": "Military-grade heavy plating",
+    "armament": [
+      "Dual Laser turrets (6)",
+      "Ion cannon (1)"
+    ],
+    "crew": "5 gunners 7",
+    "passengers": "30 troops",
+    "capacity": "80 metric tons",
+    "consumables": "1 month",
+    "role": "Escort frigate"
+  },
+  "scraped": "2026-07-03"
+}

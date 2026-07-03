@@ -1,0 +1,34 @@
+{
+  "name": "MC-24a light shuttle",
+  "wookieepedia_title": "MC-24a light shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC-24a_light_shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The MC-24a light shuttle was a Mon Calamari-produced short-range shuttle.",
+  "data": {
+    "name": "MC-24a light shuttle",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "MC-24a light shuttle",
+    "type": "Light shuttle",
+    "cost": "90,000 (50,000 used)",
+    "max_speed": "1,030 km/h",
+    "shield_gen": "Equipped with back-up shield generators",
+    "countermeasures": "Sensor-baffling or other stealth systems on modified shuttles",
+    "armament": "Light laser cannons",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "6",
+    "capacity": "10 tons",
+    "consumables": "2 days",
+    "availability": "Licensed",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "Galactic Alliance Remnant",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Maelstrom-class battle cruiser",
+  "wookieepedia_title": "Maelstrom-class battle cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maelstrom-class_battle_cruiser/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Maelstrom-class battle cruiser was a heavily-armed and expensive Galactic Republic command ship in use during the time of the Clone Wars.",
+  "data": {
+    "name": "Maelstrom-class battle cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Maelstrom-class",
+    "type": "Battlecruiser",
+    "cost": "158,000,000 credits",
+    "hyperdrive": [
+      "Class 3",
+      "Class 15 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy turbolaser batteries (20)",
+      "Battleship ion cannon batteries (10)",
+      "Medium ion cannons (20)",
+      "Proton torpedo launchers (30)",
+      "Quad assault concussion missile launcher batteries (10)",
+      "Medium tractor beam emitters (20)",
+      "Heavy tractor beam emitters (10)"
+    ],
+    "complement": [
+      "Starfighters (96)",
+      "Shuttles",
+      "Landing crafts",
+      "Gunboats",
+      "Assault crafts",
+      "Landing barges"
+    ],
+    "crew": "45,000",
+    "passengers": "15,000 troops and support staff",
+    "consumables": "2 years",
+    "role": [
+      "Battlecruiser",
+      "Command ship",
+      "Artillery",
+      "Carrier"
+    ],
+    "firstuse": "c. 20 BBY/19 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Trade Federation Freighter",
+  "wookieepedia_title": "Trade Federation Freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trade_Federation_Freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Trade Federation Freighter was a small freighter used by the Trade Federation. It and its successor, the Trade Federation Superfreighter were both common around the time of the Invasion of Naboo.",
+  "data": {
+    "name": "Trade Federation Freighter",
+    "model": "Trade Federation Freighter",
+    "type": "Freighter",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "countermeasures": "Capable of ejecting cargo",
+    "affiliation": "Trade Federation"
+  },
+  "scraped": "2026-07-03"
+}

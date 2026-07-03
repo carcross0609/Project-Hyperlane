@@ -1,0 +1,52 @@
+{
+  "name": "Scimitar assault bomber",
+  "wookieepedia_title": "Scimitar assault bomber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scimitar_assault_bomber",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Scimitar assault bomber, also known as the TIE Scimitar Assault Bomber, was an advanced starfighter/bomber based on TIE Series technology. It was used by the Galactic Empire.",
+  "data": {
+    "name": "Scimitar assault bomber",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Scimitar assault bomber",
+    "type": "Starfighter",
+    "cost": "Approximately 120,000 credits",
+    "length": "13.8 meters",
+    "max_speed": [
+      "1,150 km/h (cruising)",
+      "1,250 km/h (dive-bombing)"
+    ],
+    "engine": [
+      "Ion engine (1)",
+      "Interlocked repulsorlift generators"
+    ],
+    "hdsystem": "None (can be equipped as an upgrade)",
+    "shield_gen": "Equipped",
+    "armament": [
+      "L-s laser cannons (2)",
+      "Missile racks (16)",
+      "  Standard load: 32 concussion missiles",
+      "Thermal detonators",
+      "Proton grenades"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Bombardier (1)"
+    ],
+    "skeleton": "1",
+    "passengers": "None",
+    "capacity": "200 kilograms",
+    "consumables": "2 days",
+    "othersystems": "Detachable command pod",
+    "role": [
+      "Bomber"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

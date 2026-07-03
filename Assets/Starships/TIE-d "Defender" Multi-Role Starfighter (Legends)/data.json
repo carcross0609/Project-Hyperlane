@@ -1,0 +1,64 @@
+{
+  "name": "TIE/d \"Defender\" Multi-Role Starfighter",
+  "wookieepedia_title": "TIE/d \"Defender\" Multi-Role Starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/d_%22Defender%22_Multi-Role_Starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/d \"Defender\" Multi-Role Starfighter, commonly known as the TIE/D Defender, TIE Defender or T/D, was a high-performance TIE Series starfighter developed for the Imperial Navy by Sienar Fleet Systems in a project overseen by Grand Admiral Demetrius Zaarin shortly before the Battle of Endor. Representing a shift in starfighter design from previous TIE models, the ship featured a hyperdrive as well as deflector shields to allow it to operate independently of Imperial capital ships. The ship's speed and agility, combined with its arsenal of four laser cannons, two ion cannons, two warhead launchers, and an optional tractor beam projector, made it arguably the most advanced starfighter available at the time.",
+  "data": {
+    "name": "TIE/d \"Defender\" Multi-Role Starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine Defender",
+    "type": "Starfighter",
+    "cost": [
+      "300,000 credits (new)",
+      "80,000 credits (used)"
+    ],
+    "length": "9.2 meters",
+    "max_accel": [
+      "4,220 G",
+      "21 MGLT/s"
+    ],
+    "mglt": [
+      "144 MGLT with all recharges set to maintenance level",
+      "180 MGLT with tractor beam recharge fully redirected to engines"
+    ],
+    "max_speed": "1,680 km/h",
+    "maneuverability": "110 DPF",
+    "engine": "SFS P-sz9.7 twin ion engines (rated 230 KTU)",
+    "hyperdrive": "Class 2.0",
+    "hdsystem": "SFS ND9 hyperdrive motivator",
+    "power": "SFS I-s4d solar ionization reactor",
+    "shield_gen": "Forward/Rear projecting Novaldex deflector shield generators (rated 100 SBD)",
+    "hull": "Titanium hull with Quadanium steel solar panels (rated 14 RU)",
+    "navigation": "SFS N-s6 Navcon",
+    "avionics": "SFS F-s5x flight avionics system",
+    "armament": [
+      "SFS L-s9.3 laser cannons (4)",
+      "Borstel NK-3 medium ion cannons (2)",
+      "SFS M-g-2 general-purpose warhead launchers (2)",
+      "  Standard load: 4 concussion missiles or 3 proton torpedoes each",
+      "Tractor beam projector (1; optional)"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "65 kilograms",
+    "consumables": "1 week",
+    "othersystems": "Wing-mounted maneuvering jets",
+    "role": [
+      "Space superiority fighter",
+      "Interceptor",
+      "Light bomber"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Zaarin coup forces",
+      "Nami",
+      "X1's faction",
+      "Imperial Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

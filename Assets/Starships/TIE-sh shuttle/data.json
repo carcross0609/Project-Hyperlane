@@ -1,0 +1,42 @@
+{
+  "name": "TIE/sh shuttle",
+  "wookieepedia_title": "TIE/sh shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/sh_shuttle",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/sh shuttle, also known as the TIE Command Shuttle, was a model of armored shuttle manufactured by Sienar Fleet Systems for the Galactic Empire. It was designed to transport Imperial officers plus a squad of stormtroopers between Imperial-class Star Destroyers. Captain Lorth Needa of the Imperial Star Destroyer Avenger made his final space voyage aboard such a ship to the Executor before being executed by Darth Vader.",
+  "data": {
+    "name": "TIE/sh shuttle",
+    "designer": "Raith Sienar",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE series",
+    "model": "Twin ion engine command shuttle",
+    "type": "Shuttle",
+    "cost": [
+      "150,000 credits (new)",
+      "60,000 credits (used)"
+    ],
+    "length": "7.8 meters (25 ft 7 in)",
+    "width": "10.4 meters (34 ft 1 in)",
+    "height": "5.1 meters (16 ft 9 in)",
+    "max_accel": "2,380 G",
+    "mglt": "90",
+    "max_speed": "850 kph (528 mph)",
+    "engine": "P-s4 twin ion engines",
+    "hdsystem": "None",
+    "shield_gen": "Equipped",
+    "target": "T-s8 targeting computer",
+    "navigation": "N-s4 Navcon",
+    "armament": "Laser cannons (2)",
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "passengers": "12 (1 stormtrooper squad)",
+    "consumables": "2 days",
+    "lifesupport": "Equipped",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

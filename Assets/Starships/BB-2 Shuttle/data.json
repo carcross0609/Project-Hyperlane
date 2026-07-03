@@ -1,0 +1,25 @@
+{
+  "name": "BB-2 Shuttle",
+  "wookieepedia_title": "BB-2 Shuttle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BB-2_Shuttle",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The BB-2 Shuttle was a type of spacecraft active around the time of the Invasion of Naboo. It was manufactured by the spaceworks arm of BullbaBong, a Gungan company. The shuttle could be used by law enforcement or paramilitary units. The solid in-system ship was fit for long-distance travel.",
+  "data": {
+    "name": "BB-2 Shuttle",
+    "manufacturer": "BullbaBong",
+    "type": "Transport",
+    "cost": [
+      "25,000 credits (new)",
+      "11,000 credits (used)"
+    ],
+    "length": "13 meters",
+    "hdsystem": "None",
+    "armament": "2 blaster cannons",
+    "crew": "+9",
+    "passengers": "6",
+    "capacity": "550 kg",
+    "consumables": "3 days"
+  },
+  "scraped": "2026-07-03"
+}

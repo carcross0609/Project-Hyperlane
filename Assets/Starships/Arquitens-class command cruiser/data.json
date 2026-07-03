@@ -1,0 +1,80 @@
+{
+  "name": "Arquitens-class command cruiser",
+  "wookieepedia_title": "Arquitens-class command cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arquitens-class_command_cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Arquitens-class command cruiser, also known as the Imperial light cruiser, was a multipurpose light cruiser used by the Imperial Navy, in which it filled roles from detached patrol vessel to communications ship to capital ship support. It was a reworking of Kuat Drive Yards' Arquitens-class light cruiser, though they shared only structural similarities.",
+  "data": {
+    "name": "Arquitens-class command cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": [
+      "Arquitens-class",
+      "Arquitens-class command cruiser",
+      "  Class 546 Cruiser"
+    ],
+    "type": "Light cruiser",
+    "cost": "5,000,000 credits",
+    "length": [
+      "230 meters",
+      "380.34 meters (1,248 feet)"
+    ],
+    "width": "162.99 meters (534 ft, 9 in)",
+    "height": "66.72 meters (218 ft, 11 in)",
+    "engine": "3",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 (backup)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Medium-range sensors",
+    "navigation": "Navigation computer",
+    "armament": [
+      "Turret-mounted twin light turbolaser batteries (4)",
+      "Quad laser batteries (8)",
+      "Concussion missile launchers (4)",
+      "Medium tractor beam projector (1)"
+    ],
+    "complement": [
+      "3 TIE fighter series starfighters (tripled with retrofitted hangar), 2 TIE line bombers or 1 Sentinel-class landing craft",
+      "  TIE/d \"Defender\" Multi-Role Starfighters",
+      "  TIE/IN interceptors",
+      "  TIE/ln space superiority starfighters",
+      "  TIE/sa bombers",
+      "Small shuttles",
+      "Landspeeders",
+      "Ship's boats"
+    ],
+    "bays": "Retrofitted hangar",
+    "escapepods": "8",
+    "crew": [
+      "750 officers, enlisted crew and pilots",
+      "Nearly 250 (Class 546 Cruiser)"
+    ],
+    "passengers": "100",
+    "consumables": "3 months",
+    "role": [
+      "Light multipurpose cruiser",
+      "Command cruiser",
+      "Battleship",
+      "Support ship",
+      "Communications ship",
+      "Blockade ship",
+      "Electronic warfare",
+      "Reconnaissance",
+      "Armed transport"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy",
+      "  Imperial Press Corps",
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Gideon's Imperial remnant",
+      "Mandalorian resistance",
+      "  Mandalorian fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

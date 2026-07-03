@@ -1,0 +1,20 @@
+{
+  "name": "OreDigger",
+  "wookieepedia_title": "OreDigger",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/OreDigger",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "OreDiggers were MG-100 StarFortress SF-17 heavy bombers modified for mining. They were used by Central Ridge, a mining company based on the planet Hays Minor. When the First Order took over the planet, the OreDiggers were equipped with a powerful laser, and used to mine directly through Hays Minor's crust to extract minerals, tearing the planet apart.",
+  "data": {
+    "name": "OreDigger",
+    "model": "MG-100 StarFortress SF-17 heavy bomber",
+    "type": "Bomber",
+    "role": "Mining",
+    "affiliation": [
+      "Central Ridge Mining Company",
+      "First Order",
+      "  First Order Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,10 @@
+# Generation ship
+
+**Continuity:** Canon  
+**Source:** [Generation ship](https://starwars.fandom.com/wiki/Generation_ship)
+
+Generation ships were a type of vessel by the earliest space travelers before the invention of the hyperdrive. The discovery of carbonite on the planet Koros Major ended the era of generation ships and ushered a new age of sleeper ship exploration. The Koros Trunk Line was allegedly blazed by an unnamed patriarch of the Coruscanti family on a generation ship.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

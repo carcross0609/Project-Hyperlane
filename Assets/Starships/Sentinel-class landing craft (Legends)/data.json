@@ -1,0 +1,76 @@
+{
+  "name": "Sentinel-class landing craft",
+  "wookieepedia_title": "Sentinel-class landing craft/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sentinel-class_landing_craft/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sentinel-class landing craft, also known as the Sentinel-class shuttle, was a transport used primarily by the Galactic Empire to carry troops, small vehicles, and supplies.",
+  "data": {
+    "name": "Sentinel-class landing craft",
+    "manufacturer": [
+      "Sienar Fleet Systems",
+      "Cygnus Spaceworks"
+    ],
+    "model": "Sentinel-class landing craft",
+    "type": "Landing craft",
+    "cost": "240,000 credits",
+    "length": "38 meters",
+    "max_accel": "2,400 G",
+    "mglt": "70 MGLT",
+    "max_speed": "1,000 km/h",
+    "engine": "Cygnus HD7 engine",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 10 (backup)"
+    ],
+    "hdsystem": "HD7 Hyperdrive Activator Unit",
+    "shield_gen": "2 forward and 2 aft shield generators (rated 120 SBD)",
+    "hull": "Rated 28 RU",
+    "navigation": "Navigation computer equipped",
+    "armament": [
+      "Retractable laser cannons (8)",
+      "Concussion missile launchers (2)",
+      "  8 missiles each",
+      "Retractable ion cannon turret (1)",
+      "Retractable repeating blaster cannon turrets (2)"
+    ],
+    "complement": [
+      "Standard configuration:",
+      "  54 stormtroopers",
+      "  12 E-Web heavy repeating blasters",
+      "  6 74-Z speeder bikes",
+      "Alternate configuration:",
+      "  36 74-Z speeder bikes",
+      "Or",
+      "  12 Compact Assault Vehicles",
+      "Or TIE Maulers",
+      "Or",
+      "SPMA-Ts"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/sensor officer (1)",
+      "Gunners (3)"
+    ],
+    "passengers": "up to 75 troops",
+    "capacity": "180 metric tons (total capacity for passengers or cargo)",
+    "consumables": "1 month",
+    "communications": "High-power communication array",
+    "role": [
+      "Transport",
+      "Shuttle"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Jedi Coalition",
+      "Mercenary groups",
+      "Imperial Remnant",
+      "Galactic Federation Triumvirate",
+      "Fel Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

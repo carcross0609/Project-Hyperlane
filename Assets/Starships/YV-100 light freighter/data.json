@@ -1,0 +1,47 @@
+{
+  "name": "YV-100 light freighter",
+  "wookieepedia_title": "YV-100 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-100_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YV-100 light freighter was the first of the Corellian Engineering Corporation's YV series starships released in the era surrounding the rise of the Galactic Empire. Its 46.5-meter-long frame housed enough room to hold 150 cubic meters of cargo, as well as other vital starship systems, including the hyperdrive, weaponry, and living arrangements. The ship's exterior featured a long, slender forward portion&mdash;a feature that would become trademark to the future ships of the YV series&mdash;which housed the ship's cockpit. The ship's aft half strongly resembled ships in CEC's YT-series, a feature specifically designed to capitalize on the influence of the popular YT-series already on the market.",
+  "data": {
+    "name": "YV-100 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV series",
+    "model": "YV-100 light freighter",
+    "type": "Light freighter",
+    "cost": [
+      "New: 150,000 credits",
+      "Used: 50,000 credits"
+    ],
+    "length": "46.5 meters",
+    "max_speed": "880 km/h",
+    "hyperdrive": [
+      "Class 3",
+      "Backup Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Fire-linked Laser cannons (2)",
+      ":Fire Arc: Front",
+      "Fire-linked Blaster cannons (2)",
+      ":Fire Arc: Partial turret (front, right, left)"
+    ],
+    "crew": "3",
+    "skeleton": "2",
+    "passengers": "10",
+    "capacity": "150 metric tons",
+    "consumables": "6 months",
+    "role": [
+      "Freighter",
+      "Shuttle"
+    ],
+    "affiliation": [
+      "Civilians",
+      "Smugglers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

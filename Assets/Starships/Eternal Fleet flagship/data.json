@@ -1,0 +1,22 @@
+{
+  "name": "Eternal Fleet flagship",
+  "wookieepedia_title": "Eternal Fleet flagship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eternal_Fleet_flagship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Eternal Fleet flagship was a class of spaceships that served as the flagships in the Eternal Empire of Zakuul.",
+  "data": {
+    "name": "Eternal Fleet flagship",
+    "manufacturer": "Eternal Empire",
+    "type": "Capital ship",
+    "engine": "9",
+    "armament": "Laser cannons",
+    "complement": [
+      "Eternal Empire shuttles",
+      "Zakuul fighters"
+    ],
+    "role": "Flagship",
+    "affiliation": "Eternal Empire"
+  },
+  "scraped": "2026-07-03"
+}

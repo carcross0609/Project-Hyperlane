@@ -1,0 +1,27 @@
+{
+  "name": "Nightdragon man-of-war",
+  "wookieepedia_title": "Nightdragon man-of-war",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nightdragon_man-of-war",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Nightdragon man-of-war was a type of Man-of-war warship utilized by the Chiss Ascendancy's Expansionary Defense Fleet. It was equipped with a hyperdrive and engines, as well as electrostatic barriers for countermeasures. Its armaments included spectrum lasers, plasma spheres, and breachers. The ships' hull was constructed of nyix-alloy, and it was equipped with escape pods.",
+  "data": {
+    "name": "Nightdragon man-of-war",
+    "type": "Man-of-war",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "hull": "Nyix-alloy",
+    "countermeasures": "Electrostatic barrier",
+    "armament": [
+      "Spectrum lasers",
+      "Plasma spheres",
+      "Breachers"
+    ],
+    "escapepods": "Equipped",
+    "affiliation": [
+      "Chiss Ascendancy",
+      "  Chiss Expansionary Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

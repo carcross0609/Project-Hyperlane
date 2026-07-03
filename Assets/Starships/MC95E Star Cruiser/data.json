@@ -1,0 +1,27 @@
+{
+  "name": "MC95E Star Cruiser",
+  "wookieepedia_title": "MC95E Star Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MC95E_Star_Cruiser",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The MC95E Star Cruiser was a class of Mon Calamari Star Cruiser that was active during the Galactic Civil War between the Galactic Empire and the New Republic, and subsequently during the war between the First Order and the Resistance. At least one MC95E Star Cruiser participated in the Battle of Var-Shaa against the Empire as part of a New Republic Defense Fleet contingent. Decades later, many MC95E Star Cruisers were present on Exegol as part of the Citizens' Fleet that participated in the Battle of Exegol in 35 ABY between the Resistance and the Sith Eternal.",
+  "data": {
+    "name": "MC95E Star Cruiser",
+    "designer": "Mon Calamari",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC-series star cruiser",
+    "model": "MC95E Star Cruiser",
+    "type": "Star Cruiser",
+    "engine": "Engines",
+    "hdsystem": "Equipped",
+    "armament": "Laser cannons",
+    "bays": "Hangars (2)",
+    "communications": "Antenna",
+    "affiliation": [
+      "New Republic",
+      "  New Republic Defense Fleet",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

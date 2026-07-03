@@ -1,0 +1,44 @@
+{
+  "name": "Scurrg H-6 Bomber",
+  "wookieepedia_title": "Scurrg H-6 Bomber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scurrg_H-6_Bomber/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Scurrg H-6 Bomber was an experimental bomber.",
+  "data": {
+    "name": "Scurrg H-6 Bomber",
+    "manufacturer": "Nubian Design Collective",
+    "model": "Scurrg H-6 prototype bomber",
+    "type": "Starfighter",
+    "cost": "150,000 credits",
+    "length": "22 meters",
+    "max_accel": "2,730 G",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Class 10 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "6 laser cannons",
+      "1 automated twin laser cannon turret",
+      "2 proton bomb launchers"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 gunner",
+      "1 navigator"
+    ],
+    "passengers": "3",
+    "capacity": "10 metric tons",
+    "consumables": "2 weeks",
+    "availability": "Military",
+    "role": [
+      "Starfighter",
+      "Bomber",
+      "Light transport"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Victory I-class Star Destroyer",
+  "wookieepedia_title": "Victory I-class Star Destroyer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Victory_I-class_Star_Destroyer",
+  "continuity": "Canon",
+  "infobox_template": "Starship_class",
+  "description": "The Victory I-class Star Destroyer was a model of the Victory-class Star Destroyer line that was used by the Galactic Republic. Plagued by design issues that caused constant maintenance, it had a negative reputation within the navy. Following the Proclamation of the New Order, the Victory I ships were inherited by the Imperial Navy of the Galactic Empire and underwent a service life extension program, known as the Victory II program. The program brought the Victory II-class Star Destroyer into service, though it did not amend all of the issues with the vessel.",
+  "data": {
+    "name": "Victory I-class Star Destroyer",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Victory-class Star Destroyer",
+    "model": "Victory I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "900 meters",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield generator domes (2)",
+    "armament": [
+      "Quadruple turbolaser batteries (12)",
+      "Double turbolasers (40)",
+      "Tractor beam projectors (10)",
+      "Concussion missile launchers"
+    ],
+    "role": "Warship",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

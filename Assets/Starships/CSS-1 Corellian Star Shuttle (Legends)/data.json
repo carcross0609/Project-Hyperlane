@@ -1,0 +1,34 @@
+{
+  "name": "CSS-1 Corellian Star Shuttle",
+  "wookieepedia_title": "CSS-1 Corellian Star Shuttle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CSS-1_Corellian_Star_Shuttle/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The CSS-1 Corellian Star Shuttle, also known as the Republic shuttle, was a starship designed to carry a large number of ambassadors on missions throughout the galaxy.",
+  "data": {
+    "name": "CSS-1 Corellian Star Shuttle",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Shuttle",
+    "length": "80 meters",
+    "hyperdrive": "Class 1.5 (backup: Class 12)",
+    "armament": "None standard, can be refitted with various configurations",
+    "complement": "Varies, based on modular configuration",
+    "crew": "8",
+    "passengers": "200",
+    "capacity": "900 metric tons",
+    "consumables": "3 years",
+    "role": [
+      "Shuttle",
+      "Diplomatic ship",
+      "Transport",
+      "Corvette (refit)",
+      "Cruiser",
+      "Armored freighter (Rebellion era)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Private individuals"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

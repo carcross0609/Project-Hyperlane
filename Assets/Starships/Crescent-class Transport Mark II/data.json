@@ -1,0 +1,29 @@
+{
+  "name": "Crescent-class Transport Mark II",
+  "wookieepedia_title": "Crescent-class Transport Mark II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crescent-class_Transport_Mark_II",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Crescent-class Mark II Transport or Crescent-class Mark II freighter was a fast luxury courier manufactured by Hyrotii Corporation.",
+  "data": {
+    "name": "Crescent-class Transport Mark II",
+    "manufacturer": "Hyrotii Corporation",
+    "model": "Light freighter",
+    "cost": [
+      "200,000 credits (new)",
+      "125,000 (used)"
+    ],
+    "length": "30 meters",
+    "max_speed": "950 KMH",
+    "hyperdrive": "None",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "1 Light Laser cannon",
+    "crew": "1-2",
+    "passengers": "(Varied) Up to 8",
+    "capacity": "80 metric tons",
+    "consumables": "2 months",
+    "role": "Freighter"
+  },
+  "scraped": "2026-07-03"
+}

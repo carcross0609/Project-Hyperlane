@@ -1,0 +1,32 @@
+{
+  "name": "SS-54 assault ship",
+  "wookieepedia_title": "SS-54 assault ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SS-54_assault_ship",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The SS-54 light assault gunship, also known as the SS-54 assault ship, was a model of gunship manufactured by Botajef Shipyards. Intended as the company's first foray into the military market, the gunship instead became popular with mercenaries and bounty hunters.",
+  "data": {
+    "name": "SS-54 assault ship",
+    "manufacturer": "Botajef Shipyards",
+    "model": "SS-54",
+    "type": "Gunship",
+    "cost": "110,000 credits",
+    "length": "24.2 meters",
+    "max_speed": "800 kph",
+    "engine": "Incom HA-980a H/O ion engines (2)",
+    "hyperdrive": [
+      "Class 2",
+      "Backup Class 1.2"
+    ],
+    "armament": [
+      "Forward twin ZX7 laser cannons (2)",
+      "Aft dual laser cannons (1)"
+    ],
+    "complement": "Varies, based on modular configuration",
+    "crew": "2",
+    "passengers": "6-10",
+    "capacity": "30",
+    "consumables": "2 weeks"
+  },
+  "scraped": "2026-07-03"
+}

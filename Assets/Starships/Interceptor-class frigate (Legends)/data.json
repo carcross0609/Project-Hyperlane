@@ -1,0 +1,29 @@
+{
+  "name": "Interceptor-class frigate",
+  "wookieepedia_title": "Interceptor-class frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Interceptor-class_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Interceptor-class frigate was a light capital ship used primarily by pirate organizations.",
+  "data": {
+    "name": "Interceptor-class frigate",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Interceptor-class frigate",
+    "type": "Frigate",
+    "length": "150 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Turbolaser cannons",
+      "Proton torpedo launchers"
+    ],
+    "role": "Assault vessel",
+    "affiliation": [
+      "Pirates",
+      "Smugglers",
+      "Black Sun",
+      "One Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

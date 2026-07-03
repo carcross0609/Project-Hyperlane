@@ -1,0 +1,23 @@
+{
+  "name": "Spearpoint",
+  "wookieepedia_title": "Spearpoint",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spearpoint",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Spearpoint was a starfighter in the Galactic Republic which performed in scouting roles. Produced by Corellia StarDrive, it used dozens of components manufactured by scientific sensor manufacturers, giving it the best sensor and communication suite on the market. However, the Spearpoint sacrificed some of its internal storage space, maneuverability, and speed in exchange for its upgrades.",
+  "data": {
+    "name": "Spearpoint",
+    "manufacturer": "Corellia StarDrive",
+    "type": "Starfighter",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": [
+      "2 laser cannons",
+      "Additional missiles and torpedoes equippable"
+    ],
+    "crew": "1",
+    "role": "Scout",
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}
