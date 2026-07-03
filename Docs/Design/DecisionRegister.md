@@ -72,6 +72,13 @@ and a changelog note, never silently.
 | ID | Decision | Choice | Why |
 |---|---|---|---|
 | DR-25 (2026-07-02) | Hidden-actor concealment (closes OQ-8) | **Influence stakes + host-verb bias + evidence records with exposure thresholds** (Bible 02 §5) | Concealment becomes statistical, not authored immunity; the conspiracy is discoverable in principle from tick one (Pillar 2), and the player can be the one who exposes it |
+| DR-26 (2026-07-02) | CIS split seam (closes OQ-5) | **Cohesion bands 70/40 with per-band behavior; split upgrade built when runs live below 40 and outcomes feel flat** (Bible 03 §2.2) | The fracture line exists as a number years before it exists as code |
+| DR-27 (2026-07-03) | Ironman succession (closes OQ-6) | **Named beneficiary; assets minus estate friction; standing decays, licenses void, maps are property, relationships aren't** (Bible 09 §3) | Death becomes the strongest proof the galaxy is continuous; schema cost is one field cluster in Phase 2 |
+| DR-28 (2026-07-03) | Ship attribute schema (closes OQ-4) | **Six groups; abstract combat reads exactly two fields; 24-class roster cap with a new-entry-needs-a-consumer rule** (Bible 05) | Keeps 10,000-ship wars cheap and the roster honest |
+| DR-29 (2026-07-03) | Commodity roster (closes OQ-3, economy interview) | **15 goods across six families** (Bible 06 §1), three-requirements rule for additions | Every flow debuggable in the inspector; texture without redundant clones |
+| DR-30 (2026-07-03) | Production chain depth | **2-tier everywhere except the Ore → Alloys → Hulls shipbuilding showcase** (Bible 06 §2) | Strategic depth exactly where the war's fantasy wants it; tuning burden nowhere else |
+| DR-31 (2026-07-03) | Currency | **One galactic credit + per-polity acceptance modifiers drifting with war confidence** (Bible 06 §3) | Era-true credit distrust for the cost of one multiplier; no FX subsystem |
+| DR-32 (2026-07-03) | Price tempo | **Readable-fast**: local shocks reprice in 1–2 game days, regions re-equilibrate in 1–2 weeks, player arbitrage survives 3–5 runs (Bible 06 §4) | Cause→effect must be *felt* in a session; the Phase 3 exit criterion stated as tempo |
 
 ---
 
@@ -83,11 +90,11 @@ blocks current work; anything that starts to, gets promoted to a decision.
 | ID | Question | Decide in |
 |---|---|---|
 | OQ-1 | Re-bin the 157 `Other`-region atlas systems | Phase 2 import (tracked in Bible 01) |
-| OQ-2 | The Phase 2 authored-systems shortlist (10–15 worlds; must include Bible 01 §4.3 chokepoints + one world per allegiance state) | Bible 02–04 will inform; finalize before Phase 2 content |
-| OQ-3 | Commodity roster & production chains v0 | Bible 06 |
-| OQ-4 | Ship class roster + attribute schema | Bible 05 |
-| OQ-5 | Trigger conditions for the CIS/Republic coalition split upgrade (DR-09) — *sharpened by Bible 02 P7: the CIS cohesion track is the designated splitting number; Bible 03 defines its thresholds* | Bible 03 (design the seam now, build later) |
-| OQ-6 | Ironman successor mechanics (who/where the successor is, what carries over) | Bible 09; save design lands Phase 2 |
+| OQ-2 | The Phase 2 authored-systems shortlist — *proposal drafted 2026-07-03 in `AuthoredSystemsShortlist.md` (15 systems, two tiers, start candidates); awaiting Carson's approval* | Approve before Phase 2 content |
+| ~~OQ-3~~ | **Resolved 2026-07-03 → DR-29…32.** 15 goods / six families; 2-tier chains with shipbuilding showcase; credit + acceptance modifiers; readable-fast tempo (Bible 06) | Bible 06 |
+| ~~OQ-4~~ | **Resolved 2026-07-03 → DR-28.** Six-group attribute schema + 24-class tick-zero roster; abstract combat reads exactly two fields (Bible 05) | Bible 05 |
+| ~~OQ-5~~ | **Resolved 2026-07-02 → DR-26.** CIS cohesion bands (Unified ≥70 / Strained 40–69 / Fracturing <40) with per-band behavior; build trigger for the split upgrade: sim runs living below 40 with flat outcomes (Bible 03 §2.2) | Bible 03 §2.2 |
+| ~~OQ-6~~ | **Resolved 2026-07-03 → DR-27.** Named beneficiary; registered assets transfer minus estate friction (what's on you becomes salvage); standing decays sharply, licenses void, charts survive where the ship does, social knowledge dies with you (Bible 09 §3). Save-schema fields flagged for Phase 2 | Bible 09 §3 |
 | OQ-7 | Character skills model (capability modifiers, never gates) | Phase 6 planning (logged in SimulationFramework §2.11) |
 | ~~OQ-8~~ | **Resolved 2026-07-02 → DR-25.** Hidden-actor concealment designed in Bible 02 §5: influence stakes on other factions' entities, action-through-hosts'-legal-verbs (decision bias, not commands), evidence records with exposure thresholds — discoverable in principle from tick one | Bible 02 §5 |
 
@@ -132,3 +139,6 @@ agenda governs *design* work and the current blockers.)
   interview; OQ-1…OQ-8; agenda established.
 - 2026-07-02 — v1.1. Bible 02 written: OQ-8 resolved as DR-25; OQ-5
   sharpened (CIS cohesion track is the splitting number).
+- 2026-07-03 — v1.2. Bible 03–09 + shortlist complete: OQ-3/4/5/6 resolved
+  as DR-26…32; OQ-2 proposal drafted, awaiting approval. Remaining open:
+  OQ-1 (region re-bin), OQ-2 (approval), OQ-7 (Phase 6 skills).
