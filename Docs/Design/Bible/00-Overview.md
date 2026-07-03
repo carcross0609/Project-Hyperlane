@@ -10,6 +10,9 @@ Ryloth. It is the content companion to two documents it must never duplicate:
   says *factions have doctrine weights*; the Bible says *what the Trade
   Federation's weights are, and why*. When a Bible section describes
   behavior, it references the Framework section that implements it.
+- **`Docs/Design/DecisionRegister.md`** — decisions already made, with
+  rationale (DR-IDs) and open questions (OQ-IDs). Bible sections cite IDs
+  instead of re-arguing settled questions.
 
 Everything in the Bible is **seed data by design** (Pillar 2): it describes
 the galaxy at tick zero and the pressures acting on it — never what happens

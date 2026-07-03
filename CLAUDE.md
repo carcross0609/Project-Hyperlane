@@ -32,6 +32,7 @@ them:
 | `Docs/Roadmap.md` | Phase goals, deliverables, exit criteria |
 | `Docs/Vision.md` | What the game is and (importantly) is not |
 | `Docs/Design/SimulationFramework.md` | The simulation GDD — factions, economy, fleets, NPCs; how the galaxy runs itself |
+| `Docs/Design/DecisionRegister.md` | Every design decision (DR-IDs) + open questions (OQ-IDs) — check before re-litigating anything |
 
 When a design or technical decision is contested, resolve it by asking "which
 pillar wins?" (CorePillars are ranked 1–8; lower wins). Document any knowing
