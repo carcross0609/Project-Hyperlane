@@ -95,7 +95,33 @@ body{background:var(--void);color:var(--ink);font-family:var(--f-body);font-size
   letter-spacing:.08em;color:var(--faint);word-break:break-all}
 /* nav computer */
 #route{left:14px;bottom:14px;width:250px;padding:12px 14px;display:none;
-  max-height:44vh;overflow-y:auto}
+  max-height:60vh;overflow-y:auto}
+#navbtn{flex:none;background:rgba(255,198,107,.08);border:1px solid rgba(255,198,107,.4);
+  color:var(--amber);font-family:var(--f-disp);font-size:10px;font-weight:600;
+  letter-spacing:.2em;text-transform:uppercase;padding:8px 12px;cursor:pointer}
+#navbtn:hover{background:rgba(255,198,107,.18)}
+.navfield{margin-bottom:8px}
+.navfield label{display:block;font-family:var(--f-mono);font-size:9px;letter-spacing:.2em;
+  color:var(--dim);text-transform:uppercase;margin-bottom:3px}
+.navfield input{width:100%;background:rgba(10,22,36,.7);border:1px solid var(--line);
+  color:var(--ink);font-family:var(--f-mono);font-size:11px;padding:6px 8px;
+  letter-spacing:.05em;outline:none}
+.navfield input::placeholder{color:var(--faint)}
+.navfield input:focus{border-color:rgba(127,212,255,.5)}
+.navfield input.bad{border-color:rgba(255,110,90,.7)}
+.navresults{background:rgba(10,22,36,.9);border:1px solid var(--line);border-top:0;
+  display:none;max-height:150px;overflow-y:auto}
+.navresults div{padding:5px 8px;font-family:var(--f-mono);font-size:11px;cursor:pointer}
+.navresults div b{color:var(--holo);font-weight:600}
+.navresults div .rg{float:right;color:var(--dim);font-size:9px;padding-top:1px}
+.navresults div:hover,.navresults div.hot{background:rgba(127,212,255,.12)}
+#r-plot{width:100%;background:rgba(255,198,107,.12);border:1px solid rgba(255,198,107,.5);
+  color:var(--amber);font-family:var(--f-disp);font-size:10px;font-weight:600;
+  letter-spacing:.2em;text-transform:uppercase;padding:8px 0;cursor:pointer;margin:2px 0 8px}
+#r-plot:hover{background:rgba(255,198,107,.22)}
+#r-advisory{display:none;font-family:var(--f-mono);font-size:9px;letter-spacing:.1em;
+  color:#ff8d70;border:1px solid rgba(255,110,90,.35);padding:5px 8px;margin-bottom:6px;
+  text-transform:uppercase;line-height:1.6}
 #route .eyebrow{font-family:var(--f-mono);font-size:9px;letter-spacing:.26em;color:var(--amber);text-transform:uppercase}
 #route h2{margin:4px 0 2px;font-family:var(--f-disp);font-size:13px;font-weight:600;
   letter-spacing:.12em;text-transform:uppercase;color:#fff}
@@ -166,6 +192,7 @@ WebGL is unavailable in this browser, and the atlas needs it to render.<br>Try a
     <input id="search" type="text" placeholder="SEARCH SYSTEMS…" autocomplete="off" spellcheck="false">
     <div id="results"></div>
   </div>
+  <button id="navbtn">Nav Computer</button>
 </header>
 
 <button id="layersbtn">Layers</button>
@@ -208,11 +235,24 @@ WebGL is unavailable in this browser, and the atlas needs it to render.<br>Try a
 
 <section class="hud" id="route">
   <div class="eyebrow">Nav Computer</div>
+  <div class="navfield">
+    <label for="nav-from">Origin</label>
+    <input id="nav-from" type="text" placeholder="ORIGIN SYSTEM…" autocomplete="off" spellcheck="false">
+    <div class="navresults" id="navr-from"></div>
+  </div>
+  <div class="navfield">
+    <label for="nav-to">Destination</label>
+    <input id="nav-to" type="text" placeholder="DESTINATION SYSTEM…" autocomplete="off" spellcheck="false">
+    <div class="navresults" id="navr-to"></div>
+  </div>
+  <button id="r-plot">Plot Hyperlane Route</button>
+  <div id="r-advisory"></div>
   <h2 id="r-title"></h2>
   <div class="sum" id="r-sum"></div>
   <div id="r-legs"></div>
   <div id="routebtns">
     <button id="r-clear">Clear Route</button>
+    <button id="r-close">Close</button>
   </div>
 </section>
 
@@ -351,9 +391,29 @@ const PLANET_DB = (typeof window!=="undefined" && window.PLANET_DB) ? window.PLA
 const NAV=DATA.nav;
 const adj=Array.from({length:N},()=>[]);
 for(const [a,b,w,dist,l] of NAV.edges){ adj[a].push([b,w,dist,l]); adj[b].push([a,w,dist,l]); }
+
+/* War-climate conditions. The galaxy sim (or the console, for testing) fills
+   these in via setWarClimate(); the router consults them on every plot.
+   Empty means peacetime: nothing closed, nothing blockaded, no penalties. */
+const NAV_CONDITIONS={
+  closedLanes:new Set(),       // lane index — lane unusable end to end (interdiction, collapse)
+  blockadedSystems:new Set(),  // system index — cannot be entered or transited (blockade)
+  laneCostMult:new Map(),      // lane index -> multiplier >1 = contested, avoid if practical
+  systemCostMult:new Map(),    // system index -> multiplier applied to edges into that system
+};
+
+/* Routes travel THROUGH the hyperlane network, not point-to-point between
+   planets. Three phases enforce it structurally:
+     0 — realspace out of the origin, only until the first lane is joined
+     1 — on charted lanes; off-lane hops are not available here
+     2 — realspace final approach; once off the network, no rejoining
+   So an off-lane shortcut mid-route is impossible by construction, and
+   realspace legs can only appear at the two ends of an itinerary. */
 function findRoute(src,dst){
-  const D=new Float64Array(N).fill(Infinity), P=new Int32Array(N).fill(-1), PL=new Int32Array(N).fill(-1);
-  D[src]=0;
+  if(NAV_CONDITIONS.blockadedSystems.has(dst)||NAV_CONDITIONS.blockadedSystems.has(src))
+    return {blocked:NAV_CONDITIONS.blockadedSystems.has(dst)?dst:src};
+  const D=new Float64Array(3*N).fill(Infinity), P=new Int32Array(3*N).fill(-1), PL=new Int32Array(3*N).fill(-1);
+  D[src]=0; // state = phase*N + system; src starts in phase 0
   const hk=[-1], hv=[-1]; // 1-indexed binary heap (index 0 unused)
   function push(k,v){ hk.push(k); hv.push(v); let i=hk.length-1;
     while(i>1){ const p=i>>1; if(hk[p]<=hk[i]) break; [hk[p],hk[i]]=[hk[i],hk[p]]; [hv[p],hv[i]]=[hv[i],hv[p]]; i=p; } }
@@ -365,20 +425,33 @@ function findRoute(src,dst){
         [hk[i],hk[c]]=[hk[c],hk[i]]; [hv[i],hv[c]]=[hv[c],hv[i]]; i=c; } }
     return [k,v]; }
   push(0,src);
+  let goal=-1;
   while(hk.length>1){
-    const [dd,u]=pop();
-    if(u===dst) break;
-    if(dd>D[u]) continue;
+    const [dd,s]=pop();
+    if(dd>D[s]) continue;
+    const ph=(s/N)|0, u=s-ph*N;
+    if(u===dst){ goal=s; break; } // Dijkstra pop order: first dst state is the cheapest
     for(const [v,w,dist,l] of adj[u]){
-      const nd=dd+w;
-      if(nd<D[v]-1e-9){ D[v]=nd; P[v]=u; PL[v]=l; push(nd,v); }
+      let nph;
+      if(l>=0){
+        if(ph===2 || NAV_CONDITIONS.closedLanes.has(l)) continue;
+        nph=1;
+      } else {
+        nph=(ph===0?0:2);
+      }
+      if(NAV_CONDITIONS.blockadedSystems.has(v)) continue;
+      let c=w;
+      if(l>=0){ const lm=NAV_CONDITIONS.laneCostMult.get(l); if(lm) c*=lm; }
+      const sm=NAV_CONDITIONS.systemCostMult.get(v); if(sm) c*=sm;
+      const t=nph*N+v, nd=dd+c;
+      if(nd<D[t]-1e-9){ D[t]=nd; P[t]=s; PL[t]=l; push(nd,t); }
     }
   }
-  if(!isFinite(D[dst])) return null;
+  if(goal<0) return null;
   const path=[dst], lanesOf=[];
-  while(path[path.length-1]!==src){
-    lanesOf.push(PL[path[path.length-1]]);
-    path.push(P[path[path.length-1]]);
+  for(let s=goal; P[s]!==-1; s=P[s]){
+    lanesOf.push(PL[s]);
+    path.push(P[s]%N);
   }
   return {path:path.reverse(), lanes:lanesOf.reverse()};
 }
@@ -735,9 +808,9 @@ function buildGalaxyTexture(){
     const r=t*Rd;
     let ang, arm=0, tight=true;
     const roll=rnd();
-    if(roll<0.90){                         // 90% concentrated in the two arms
+    if(roll<0.72){                         // fewer stars pinned to the arms -> less pronounced
       arm=Math.floor(rnd()*ARMS);
-      const jit=(0.10+0.16*(1-t))*gauss()*1.7;   // tighter -> arms read clearly
+      const jit=(0.16+0.22*(1-t))*gauss()*1.9;   // wider jitter -> arms blend into the disc
       ang=arm*(Math.PI*2/ARMS) + WIND*t + jit;
     } else {
       ang=rnd()*Math.PI*2; tight=false;    // sparse inter-arm field stars
@@ -746,7 +819,7 @@ function buildGalaxyTexture(){
     if(x<0||x>=S||y<0||y>=S) continue;
     // color: warm-white core -> blue rim
     const cr=Math.round(215-75*t), cg=Math.round(225-45*t), cb=255;
-    const bright=(1.0-0.5*t)*(0.55+0.6*rnd())*(tight?1.0:0.6);
+    const bright=(1.0-0.5*t)*(0.55+0.6*rnd())*(tight?0.85:0.75);
     const clump=rnd();
     if(clump>0.90){ armDot(x,y, 3+rnd()*6, cr,cg,cb, 0.07*bright); }
     else if(clump>0.55){ armDot(x,y, 1.5+rnd()*2.5, cr,cg,cb, 0.16*bright); }
@@ -765,27 +838,27 @@ function buildGalaxyTexture(){
     const ang=arm*(Math.PI*2/ARMS) + WIND*t + jit - 0.28;   // lead the bright arm
     const [x,y]=warp(r,ang);
     if(x<0||x>=S||y<0||y>=S) continue;
-    const rad=2+rnd()*5, dark=0.62*(1-t*0.45);
+    const rad=2+rnd()*5, dark=0.40*(1-t*0.45);
     const g=ctx.createRadialGradient(x,y,0,x,y,rad);
     g.addColorStop(0,`rgba(0,0,0,${dark})`); g.addColorStop(1,"rgba(0,0,0,0)");
     ctx.fillStyle=g; ctx.beginPath(); ctx.arc(x,y,rad,0,Math.PI*2); ctx.fill();
   }
   ctx.globalCompositeOperation="lighter";
 
-  // central bulge: warm, soft, gently elliptical — bright but not blown out
+  // central bulge: warm, soft, gently elliptical — dimmed to avoid blowing out
   ctx.save(); ctx.translate(cx,cy); ctx.rotate(TILT); ctx.scale(1,SQ); ctx.translate(-cx,-cy);
   let g=ctx.createRadialGradient(cx,cy,0,cx,cy,S*0.16);
-  g.addColorStop(0.00,"rgba(255,250,235,0.42)");
-  g.addColorStop(0.35,"rgba(255,238,200,0.22)");
-  g.addColorStop(0.70,"rgba(230,225,220,0.08)");
+  g.addColorStop(0.00,"rgba(255,250,235,0.24)");
+  g.addColorStop(0.35,"rgba(255,238,200,0.13)");
+  g.addColorStop(0.70,"rgba(230,225,220,0.05)");
   g.addColorStop(1.00,"rgba(220,225,235,0)");
   ctx.fillStyle=g; ctx.beginPath(); ctx.arc(cx,cy,S*0.16,0,Math.PI*2); ctx.fill();
   ctx.restore();
   // tight bright core
-  g=ctx.createRadialGradient(cx,cy,0,cx,cy,S*0.05);
-  g.addColorStop(0.00,"rgba(255,255,250,0.55)");
+  g=ctx.createRadialGradient(cx,cy,0,cx,cy,S*0.045);
+  g.addColorStop(0.00,"rgba(255,255,250,0.30)");
   g.addColorStop(1.00,"rgba(255,250,235,0)");
-  ctx.fillStyle=g; ctx.beginPath(); ctx.arc(cx,cy,S*0.05,0,Math.PI*2); ctx.fill();
+  ctx.fillStyle=g; ctx.beginPath(); ctx.arc(cx,cy,S*0.045,0,Math.PI*2); ctx.fill();
   return cv;
 }
 const bgTex=gl.createTexture();
@@ -1157,10 +1230,14 @@ function select(i){
 }
 document.getElementById("c-close").addEventListener("click",()=>{ selected=-1; portraitIdx=-1; card.style.display="none"; dirty=true; });
 document.getElementById("c-focus").addEventListener("click",()=>{ if(selected>=0) flyTo(selected); });
-document.getElementById("c-nav").addEventListener("click",()=>{ if(selected>=0) navigateTo(selected); });
+document.getElementById("c-nav").addEventListener("click",()=>{
+  if(selected<0) return;
+  const src=fieldSys(navFrom);
+  plotRoute(src>=0?src:originIdx, selected);
+});
 document.getElementById("c-origin").addEventListener("click",()=>{
   if(selected<0) return;
-  originIdx=selected; clearRoute(); select(selected); dirty=true;
+  originIdx=selected; setField(navFrom,selected); clearRoute(); select(selected); dirty=true;
 });
 function flyTo(i){
   fly={t:0,dur:reduced?1:900,
@@ -1221,15 +1298,100 @@ function startPortrait(i){
 /* ================= nav computer ================= */
 let originIdx=(()=>{ for(let i=0;i<N;i++) if(SYS[i][0]==="Coruscant") return i; return 0; })();
 function dist3(a,b){ return Math.hypot(px[a]-px[b],py[a]-py[b],pz[a]-pz[b]); }
-function navigateTo(dst){
-  const rp=document.getElementById("route");
-  if(dst===originIdx){ return; }
-  const res=findRoute(originIdx,dst);
-  rp.style.display="block";
-  document.getElementById("r-title").textContent=SYS[originIdx][0]+" → "+SYS[dst][0];
-  const legsEl=document.getElementById("r-legs");
+
+function matchSystems(qRaw){
+  const q=qRaw.trim().toLowerCase();
+  if(q.length<2) return [];
+  const out=[];
+  for(let i=0;i<N && out.length<9;i++){
+    if(SYS[i][0].toLowerCase().includes(q)) out.push(i);
+  }
+  out.sort((a,b)=>{
+    const qa=SYS[a][0].toLowerCase().startsWith(q)?0:1, qb=SYS[b][0].toLowerCase().startsWith(q)?0:1;
+    return qa-qb || SYS[a][5]-SYS[b][5];
+  });
+  return out;
+}
+function matchRowsHTML(q,ms){
+  return ms.map(i=>{
+    const nm=SYS[i][0], pos=nm.toLowerCase().indexOf(q.toLowerCase());
+    return `<div data-sys="${i}">`+
+      (pos>=0? nm.slice(0,pos)+"<b>"+nm.slice(pos,pos+q.length)+"</b>"+nm.slice(pos+q.length) : nm)+
+      `<span class="rg">${REGIONS[SYS[i][4]][0]}</span></div>`;
+  }).join("");
+}
+
+const routePanel=document.getElementById("route");
+const navFrom=document.getElementById("nav-from"), navTo=document.getElementById("nav-to");
+function setField(input,i){
+  input.value=SYS[i][0]; input.dataset.sys=i;
+  input.classList.remove("bad");
+  document.getElementById("navr-"+(input===navFrom?"from":"to")).style.display="none";
+}
+function attachTypeahead(input,box){
+  let ms=[];
+  input.addEventListener("input",()=>{
+    delete input.dataset.sys; input.classList.remove("bad");
+    const q=input.value.trim();
+    ms=matchSystems(q);
+    box.innerHTML=matchRowsHTML(q,ms);
+    box.style.display=ms.length?"block":"none";
+    if(ms.length) box.firstChild.classList.add("hot");
+  });
+  box.addEventListener("mousedown",e=>{
+    const d=e.target.closest("div[data-sys]");
+    if(d){ e.preventDefault(); setField(input,+d.dataset.sys); }
+  });
+  input.addEventListener("keydown",e=>{
+    if(e.key==="Enter"){ if(ms.length && input.dataset.sys===undefined) setField(input,ms[0]); plotFromFields(); }
+    if(e.key==="Escape") box.style.display="none";
+  });
+  input.addEventListener("blur",()=>{ setTimeout(()=>{ box.style.display="none"; },120); });
+}
+attachTypeahead(navFrom,document.getElementById("navr-from"));
+attachTypeahead(navTo,document.getElementById("navr-to"));
+
+function fieldSys(input){
+  if(input.dataset.sys!==undefined) return +input.dataset.sys;
+  const q=input.value.trim().toLowerCase();
+  if(!q) return -1;
+  for(let i=0;i<N;i++) if(SYS[i][0].toLowerCase()===q) return i;
+  const ms=matchSystems(q);
+  return ms.length?ms[0]:-1;
+}
+function openNavComputer(){
+  routePanel.style.display="block";
+  if(fieldSys(navFrom)<0) setField(navFrom,originIdx);
+  updateAdvisory();
+}
+function plotFromFields(){
+  const src=fieldSys(navFrom), dst=fieldSys(navTo);
+  navFrom.classList.toggle("bad",src<0);
+  navTo.classList.toggle("bad",dst<0);
+  if(src<0||dst<0) return;
+  plotRoute(src,dst);
+}
+
+let lastRoute=null;
+function plotRoute(src,dst){
+  openNavComputer();
+  setField(navFrom,src); setField(navTo,dst);
+  originIdx=src; dirty=true;
+  document.getElementById("r-title").textContent=SYS[src][0]+" → "+SYS[dst][0];
+  const legsEl=document.getElementById("r-legs"), sumEl=document.getElementById("r-sum");
+  if(src===dst){
+    sumEl.textContent="ALREADY THERE";
+    legsEl.innerHTML=""; rtCount=0; lastRoute=null; return;
+  }
+  lastRoute={src,dst};
+  const res=findRoute(src,dst);
+  if(res && res.blocked!==undefined){
+    sumEl.textContent="ROUTE UNAVAILABLE";
+    legsEl.innerHTML=`<div class="leg"><div class="via">${SYS[res.blocked][0]} is under blockade — no lawful route.</div></div>`;
+    rtCount=0; return;
+  }
   if(!res){
-    document.getElementById("r-sum").textContent="NO CHARTED ROUTE";
+    sumEl.textContent="NO CHARTED ROUTE";
     legsEl.innerHTML=`<div class="leg"><div class="via">Target lies beyond charted navigational range.</div></div>`;
     rtCount=0; dirty=true; return;
   }
@@ -1250,20 +1412,74 @@ function navigateTo(dst){
       groups[groups.length-1].jumps++; groups[groups.length-1].d+=d;
     } else groups.push({li,jumps:1,d});
   }
-  document.getElementById("r-sum").textContent=
-    `${res.path.length-1} JUMPS · ${Math.round(arc*U2LY).toLocaleString()} LY`;
+  const laneCount=new Set(res.lanes.filter(l=>l>=0)).size;
+  sumEl.textContent=
+    `${res.path.length-1} JUMPS · ${Math.round(arc*U2LY).toLocaleString()} LY · ${laneCount} LANE${laneCount!==1?"S":""}`;
   legsEl.innerHTML=groups.map(g=>
-    `<div class="leg"><div class="via"><b>${g.li>=0?NAV.laneNames[g.li]:"Realspace transit"}</b>`+
+    `<div class="leg"><div class="via"><b>${g.li>=0?(NAV.laneNames[g.li]||"Minor hyperlane"):"Realspace transit"}</b>`+
     `<span>${g.jumps} jump${g.jumps>1?"s":""}</span></div>`+
     `<div class="n">${Math.round(g.d*U2LY).toLocaleString()} ly</div></div>`).join("");
   dirty=true;
 }
 function clearRoute(){
-  rtCount=0;
-  document.getElementById("route").style.display="none";
+  rtCount=0; lastRoute=null;
+  document.getElementById("r-title").textContent="";
+  document.getElementById("r-sum").textContent="";
+  document.getElementById("r-legs").innerHTML="";
+  navTo.value=""; delete navTo.dataset.sys; navTo.classList.remove("bad");
   dirty=true;
 }
 document.getElementById("r-clear").addEventListener("click",clearRoute);
+document.getElementById("r-close").addEventListener("click",()=>{ routePanel.style.display="none"; });
+document.getElementById("r-plot").addEventListener("click",plotFromFields);
+document.getElementById("navbtn").addEventListener("click",()=>{
+  if(routePanel.style.display==="block") routePanel.style.display="none";
+  else { openNavComputer(); navTo.focus(); }
+});
+
+/* ---- war climate (future feature hook) ----
+   The galaxy sim will call setWarClimate() as the political situation shifts;
+   the router then refuses blockaded systems, skips closed lanes, and steers
+   around penalized (contested) space. Accepts system/lane names or indices.
+   Console test:
+     setWarClimate({blockadeSystems:["Ryloth"], closeLanes:["Corellian Run"],
+                    contestedLanes:{"Perlemian Trade Route":3}})
+     setWarClimate() // back to peacetime */
+function laneIdxByName(n){
+  if(typeof n==="number") return n;
+  const q=String(n).toLowerCase();
+  return NAV.laneNames.findIndex(x=>x.toLowerCase()===q);
+}
+function sysIdxByName(n){
+  if(typeof n==="number") return n;
+  const q=String(n).toLowerCase();
+  for(let i=0;i<N;i++) if(SYS[i][0].toLowerCase()===q) return i;
+  return -1;
+}
+function setWarClimate(o){
+  o=o||{};
+  NAV_CONDITIONS.closedLanes.clear(); NAV_CONDITIONS.blockadedSystems.clear();
+  NAV_CONDITIONS.laneCostMult.clear(); NAV_CONDITIONS.systemCostMult.clear();
+  for(const n of o.closeLanes||[]){ const i=laneIdxByName(n); if(i>=0) NAV_CONDITIONS.closedLanes.add(i); }
+  for(const n of o.blockadeSystems||[]){ const i=sysIdxByName(n); if(i>=0) NAV_CONDITIONS.blockadedSystems.add(i); }
+  for(const [n,m] of Object.entries(o.contestedLanes||{})){ const i=laneIdxByName(n); if(i>=0) NAV_CONDITIONS.laneCostMult.set(i,m); }
+  for(const [n,m] of Object.entries(o.contestedSystems||{})){ const i=sysIdxByName(n); if(i>=0) NAV_CONDITIONS.systemCostMult.set(i,m); }
+  updateAdvisory();
+  if(lastRoute) plotRoute(lastRoute.src,lastRoute.dst); // live re-plot under new conditions
+}
+function updateAdvisory(){
+  const el=document.getElementById("r-advisory");
+  const nl=NAV_CONDITIONS.closedLanes.size, ns=NAV_CONDITIONS.blockadedSystems.size,
+        nc=NAV_CONDITIONS.laneCostMult.size+NAV_CONDITIONS.systemCostMult.size;
+  if(!nl&&!ns&&!nc){ el.style.display="none"; return; }
+  const bits=[];
+  if(nl) bits.push(`${nl} lane${nl!==1?"s":""} closed`);
+  if(ns) bits.push(`${ns} system${ns!==1?"s":""} blockaded`);
+  if(nc) bits.push(`${nc} contested`);
+  el.textContent="War advisory: "+bits.join(" · ");
+  el.style.display="block";
+}
+window.setWarClimate=setWarClimate; // exposed for the sim + console testing
 
 /* ================= legend / filters ================= */
 const regionsEl=document.getElementById("regions");
@@ -1309,26 +1525,15 @@ document.getElementById("layersbtn").addEventListener("click",()=>{
 const searchEl=document.getElementById("search"), resultsEl=document.getElementById("results");
 let matches=[];
 searchEl.addEventListener("input",()=>{
-  const q=searchEl.value.trim().toLowerCase();
-  resultsEl.innerHTML=""; matches=[];
-  if(q.length<2){ resultsEl.style.display="none"; return; }
-  for(let i=0;i<N && matches.length<9;i++){
-    if(SYS[i][0].toLowerCase().includes(q)) matches.push(i);
-  }
-  matches.sort((a,b)=>{
-    const qa=SYS[a][0].toLowerCase().startsWith(q)?0:1, qb=SYS[b][0].toLowerCase().startsWith(q)?0:1;
-    return qa-qb || SYS[a][5]-SYS[b][5];
-  });
-  for(const i of matches){
-    const d=document.createElement("div");
-    const nm=SYS[i][0], pos=nm.toLowerCase().indexOf(q);
-    d.innerHTML=(pos>=0? nm.slice(0,pos)+"<b>"+nm.slice(pos,pos+q.length)+"</b>"+nm.slice(pos+q.length) : nm)
-      +`<span class="rg">${REGIONS[SYS[i][4]][0]}</span>`;
-    d.addEventListener("click",()=>{ pick(i); });
-    resultsEl.appendChild(d);
-  }
+  const q=searchEl.value.trim();
+  matches=matchSystems(q);
+  resultsEl.innerHTML=matchRowsHTML(q,matches);
   resultsEl.style.display=matches.length?"block":"none";
   if(matches.length) resultsEl.firstChild.classList.add("hot");
+});
+resultsEl.addEventListener("click",e=>{
+  const d=e.target.closest("div[data-sys]");
+  if(d) pick(+d.dataset.sys);
 });
 searchEl.addEventListener("keydown",e=>{
   if(e.key==="Enter" && matches.length) pick(matches[0]);
