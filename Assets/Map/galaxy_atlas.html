@@ -389,8 +389,6 @@ const PLANET_DB = (typeof window!=="undefined" && window.PLANET_DB) ? window.PLA
 
 /* ============ navigation graph ============ */
 const NAV=DATA.nav;
-const adj=Array.from({length:N},()=>[]);
-for(const [a,b,w,dist,l] of NAV.edges){ adj[a].push([b,w,dist,l]); adj[b].push([a,w,dist,l]); }
 
 /* War-climate conditions. The galaxy sim (or the console, for testing) fills
    these in via setWarClimate(); the router consults them on every plot.
@@ -402,6 +400,27 @@ const NAV_CONDITIONS={
   systemCostMult:new Map(),    // system index -> multiplier applied to edges into that system
 };
 
+/* Directed-edge view of the graph for turn-aware routing: the search state
+   is (edge just traversed, phase), so the cost of continuing through a
+   system can depend on the direction of arrival. */
+const eFrom=[], eTo=[], eW=[], eLane=[], eDx=[], eDz=[];
+for(const [a,b,w,dist,l] of NAV.edges){
+  const dx=px[b]-px[a], dz=pz[b]-pz[a], n=Math.hypot(dx,dz)||1;
+  eFrom.push(a); eTo.push(b); eW.push(w); eLane.push(l); eDx.push(dx/n); eDz.push(dz/n);
+  eFrom.push(b); eTo.push(a); eW.push(w); eLane.push(l); eDx.push(-dx/n); eDz.push(-dz/n);
+}
+const outE=Array.from({length:N},()=>[]);
+for(let e=0;e<eTo.length;e++) outE[eFrom[e]].push(e);
+
+/* Course-shaping weights, in the same units as edge weights (median lane
+   hop ≈ 19). A "turn" is a course change — switching lanes or maneuvering
+   in realspace; following the drawn curve of one lane costs nothing extra.
+   TURN_COST scales with how sharply the course bends (0 straight-on, ×2
+   for a full reversal), TRANSFER_COST is a flat fee per lane switch, and
+   OFFLANE_MULT makes realspace hops dear so a course joins the network
+   quickly and holds one lane as long and straight as the chart allows. */
+const TURN_COST=220, TRANSFER_COST=320, OFFLANE_MULT=2.5;
+
 /* Routes travel THROUGH the hyperlane network, not point-to-point between
    planets. Three phases enforce it structurally:
      0 — realspace out of the origin, only until the first lane is joined
@@ -412,8 +431,7 @@ const NAV_CONDITIONS={
 function findRoute(src,dst){
   if(NAV_CONDITIONS.blockadedSystems.has(dst)||NAV_CONDITIONS.blockadedSystems.has(src))
     return {blocked:NAV_CONDITIONS.blockadedSystems.has(dst)?dst:src};
-  const D=new Float64Array(3*N).fill(Infinity), P=new Int32Array(3*N).fill(-1), PL=new Int32Array(3*N).fill(-1);
-  D[src]=0; // state = phase*N + system; src starts in phase 0
+  const D=new Float64Array(eTo.length*3).fill(Infinity), P=new Int32Array(eTo.length*3).fill(-1);
   const hk=[-1], hv=[-1]; // 1-indexed binary heap (index 0 unused)
   function push(k,v){ hk.push(k); hv.push(v); let i=hk.length-1;
     while(i>1){ const p=i>>1; if(hk[p]<=hk[i]) break; [hk[p],hk[i]]=[hk[i],hk[p]]; [hv[p],hv[i]]=[hv[i],hv[p]]; i=p; } }
@@ -424,36 +442,119 @@ function findRoute(src,dst){
         if(hk[i]<=hk[c]) break;
         [hk[i],hk[c]]=[hk[c],hk[i]]; [hv[i],hv[c]]=[hv[c],hv[i]]; i=c; } }
     return [k,v]; }
-  push(0,src);
+  function nextPhase(f,ph){ // -1 = edge not usable from this phase
+    const l=eLane[f];
+    if(l>=0){
+      if(ph===2 || NAV_CONDITIONS.closedLanes.has(l)) return -1;
+      return 1;
+    }
+    return ph===0?0:2;
+  }
+  function edgeCost(f){
+    let c=eW[f];
+    const l=eLane[f];
+    if(l>=0){ const lm=NAV_CONDITIONS.laneCostMult.get(l); if(lm) c*=lm; }
+    else c*=OFFLANE_MULT;
+    const sm=NAV_CONDITIONS.systemCostMult.get(eTo[f]); if(sm) c*=sm;
+    return c;
+  }
+  // seed with every edge out of the origin — no arrival direction, no turn cost
+  for(const f of outE[src]){
+    const nph=nextPhase(f,0);
+    if(nph<0 || NAV_CONDITIONS.blockadedSystems.has(eTo[f])) continue;
+    const s=f*3+nph, c=edgeCost(f);
+    if(c<D[s]){ D[s]=c; push(c,s); }
+  }
   let goal=-1;
   while(hk.length>1){
     const [dd,s]=pop();
     if(dd>D[s]) continue;
-    const ph=(s/N)|0, u=s-ph*N;
+    const e=(s/3)|0, ph=s-e*3, u=eTo[e];
     if(u===dst){ goal=s; break; } // Dijkstra pop order: first dst state is the cheapest
-    for(const [v,w,dist,l] of adj[u]){
-      let nph;
-      if(l>=0){
-        if(ph===2 || NAV_CONDITIONS.closedLanes.has(l)) continue;
-        nph=1;
-      } else {
-        nph=(ph===0?0:2);
+    for(const f of outE[u]){
+      const nph=nextPhase(f,ph);
+      if(nph<0 || NAV_CONDITIONS.blockadedSystems.has(eTo[f])) continue;
+      let c=edgeCost(f);
+      if(eLane[f]!==eLane[e] || eLane[f]<0){ // course change or realspace maneuvering — not a lane's own curve
+        c+=TURN_COST*(1-(eDx[e]*eDx[f]+eDz[e]*eDz[f]));
+        if(eLane[f]>=0 && eLane[e]>=0) c+=TRANSFER_COST;
       }
-      if(NAV_CONDITIONS.blockadedSystems.has(v)) continue;
-      let c=w;
-      if(l>=0){ const lm=NAV_CONDITIONS.laneCostMult.get(l); if(lm) c*=lm; }
-      const sm=NAV_CONDITIONS.systemCostMult.get(v); if(sm) c*=sm;
-      const t=nph*N+v, nd=dd+c;
-      if(nd<D[t]-1e-9){ D[t]=nd; P[t]=s; PL[t]=l; push(nd,t); }
+      const t=f*3+nph, nd=dd+c;
+      if(nd<D[t]-1e-9){ D[t]=nd; P[t]=s; push(nd,t); }
     }
   }
   if(goal<0) return null;
   const path=[dst], lanesOf=[];
-  for(let s=goal; P[s]!==-1; s=P[s]){
-    lanesOf.push(PL[s]);
-    path.push(P[s]%N);
+  for(let s=goal;;s=P[s]){
+    const e=(s/3)|0;
+    lanesOf.push(eLane[e]); path.push(eFrom[e]);
+    if(P[s]===-1) break;
   }
   return {path:path.reverse(), lanes:lanesOf.reverse()};
+}
+
+/* ---- lane stroke geometry, so plotted routes ride the drawn lanes ----
+   DATA.lanes stores each lane as many 2–3 point fragments (traced strokes).
+   Stitch fragments whose endpoints touch into continuous polylines so two
+   systems on the same lane usually land on the same stroke. */
+function revFlat(P){ const o=[]; for(let i=P.length-2;i>=0;i-=2) o.push(P[i],P[i+1]); return o; }
+function stitchPieces(pieces){
+  const EPS=9, used=new Array(pieces.length).fill(false), out=[];
+  const near=(x1,y1,x2,y2)=>Math.hypot(x1-x2,y1-y2)<EPS;
+  for(let i=0;i<pieces.length;i++){
+    if(used[i]) continue;
+    used[i]=true;
+    let chain=pieces[i].slice();
+    for(let extended=true;extended;){
+      extended=false;
+      const hx=chain[0],hy=chain[1],tx=chain[chain.length-2],ty=chain[chain.length-1];
+      for(let j=0;j<pieces.length;j++){
+        if(used[j]) continue;
+        const P=pieces[j], sx=P[0],sy=P[1],ex=P[P.length-2],ey=P[P.length-1];
+        if(near(tx,ty,sx,sy)) chain=chain.concat(P.slice(2));
+        else if(near(tx,ty,ex,ey)) chain=chain.concat(revFlat(P).slice(2));
+        else if(near(hx,hy,ex,ey)) chain=P.slice(0,P.length-2).concat(chain);
+        else if(near(hx,hy,sx,sy)) chain=revFlat(P).slice(0,P.length-2).concat(chain);
+        else continue;
+        used[j]=true; extended=true; break;
+      }
+    }
+    out.push(chain);
+  }
+  return out;
+}
+const LANE_GEOM=DATA.lanes.map(l=>stitchPieces(l[1])); // stitched flat [x0,y0,x1,y1,…] map coords; world = (x, 0, -y)
+function projOnLane(li,mx,my){
+  let best=null;
+  const pieces=LANE_GEOM[li];
+  for(let p=0;p<pieces.length;p++){
+    const P=pieces[p], nseg=(P.length>>1)-1;
+    for(let s=0;s<nseg;s++){
+      const ax=P[2*s],ay=P[2*s+1],vx=P[2*s+2]-ax,vy=P[2*s+3]-ay;
+      const L=vx*vx+vy*vy;
+      let t=L?((mx-ax)*vx+(my-ay)*vy)/L:0; t=t<0?0:t>1?1:t;
+      const x=ax+vx*t,y=ay+vy*t,d=Math.hypot(mx-x,my-y);
+      if(!best||d<best.d) best={piece:p,seg:s,t,x,y,d};
+    }
+  }
+  return best;
+}
+const SNAP_MAX=400; // graph builder snapped systems within ~250u of a stroke; beyond this it's not really on the lane
+function laneWalkPts(li,a,b){ // map-coord polyline from system a to b along lane li, or null to chord it
+  const pa=projOnLane(li,SYS[a][1],SYS[a][2]), pb=projOnLane(li,SYS[b][1],SYS[b][2]);
+  if(!pa||!pb||pa.piece!==pb.piece||pa.d>SNAP_MAX||pb.d>SNAP_MAX) return null;
+  const P=LANE_GEOM[li][pa.piece], pts=[[pa.x,pa.y]];
+  if(pa.seg<pb.seg || (pa.seg===pb.seg && pa.t<=pb.t)){
+    for(let s=pa.seg;s<pb.seg;s++) pts.push([P[2*s+2],P[2*s+3]]);
+  } else {
+    for(let s=pa.seg;s>pb.seg;s--) pts.push([P[2*s],P[2*s+1]]);
+  }
+  pts.push([pb.x,pb.y]);
+  // a stroke stitched through a junction can run the long way round — chord instead
+  let walk=0; for(let i=1;i<pts.length;i++) walk+=Math.hypot(pts[i][0]-pts[i-1][0],pts[i][1]-pts[i-1][1]);
+  const direct=Math.hypot(SYS[a][1]-SYS[b][1],SYS[a][2]-SYS[b][2]);
+  if(walk>3*direct+150) return null;
+  return pts;
 }
 const U2LY=10/3; // 1500 map units per grid square = 5000 ly
 const TIER_SIZE = [8.5, 6.0, 4.4, 3.2, 2.5];
@@ -1395,15 +1496,32 @@ function plotRoute(src,dst){
     legsEl.innerHTML=`<div class="leg"><div class="via">Target lies beyond charted navigational range.</div></div>`;
     rtCount=0; dirty=true; return;
   }
-  // route line buffers
-  const verts=[], arcs=[]; let arc=0, prev=null;
-  for(const i of res.path){
-    if(prev!==null) arc+=dist3(prev,i);
-    verts.push(px[i],py[i],pz[i]); arcs.push(arc); prev=i;
+  // route line: lane legs follow the drawn lane stroke; realspace legs (and
+  // lane hops whose systems weren't snapped to this stroke) are straight chords
+  const verts=[], arcs=[]; let arc=0, lx=0,ly=0,lz=0, started=false;
+  function emit(wx,wy,wz){
+    if(started) arc+=Math.hypot(wx-lx,wy-ly,wz-lz);
+    verts.push(wx,wy,wz); arcs.push(arc); lx=wx; ly=wy; lz=wz; started=true;
   }
+  emit(px[res.path[0]],py[res.path[0]],pz[res.path[0]]);
+  for(let k=0;k<res.lanes.length;k++){
+    const a=res.path[k], b=res.path[k+1], li=res.lanes[k];
+    const pts=li>=0?laneWalkPts(li,a,b):null;
+    if(pts){
+      // blend altitude across the stroke so the line still touches both systems
+      let tot=0; for(let i=1;i<pts.length;i++) tot+=Math.hypot(pts[i][0]-pts[i-1][0],pts[i][1]-pts[i-1][1]);
+      let run=0;
+      for(let i=0;i<pts.length;i++){
+        if(i) run+=Math.hypot(pts[i][0]-pts[i-1][0],pts[i][1]-pts[i-1][1]);
+        emit(pts[i][0], py[a]+(py[b]-py[a])*(tot?run/tot:1), -pts[i][1]);
+      }
+    } else emit(px[b],py[b],pz[b]);
+  }
+  const last=res.path[res.path.length-1];
+  emit(px[last],py[last],pz[last]); // land the line on the destination system
   gl.bindBuffer(gl.ARRAY_BUFFER,bufRtPos); gl.bufferData(gl.ARRAY_BUFFER,new Float32Array(verts),gl.STATIC_DRAW);
   gl.bindBuffer(gl.ARRAY_BUFFER,bufRtArc); gl.bufferData(gl.ARRAY_BUFFER,new Float32Array(arcs),gl.STATIC_DRAW);
-  rtCount=res.path.length;
+  rtCount=verts.length/3;
   // legs grouped by lane
   const groups=[];
   for(let k=0;k<res.lanes.length;k++){
