@@ -1,0 +1,25 @@
+{
+  "name": "BL-39 interrogator droid",
+  "wookieepedia_title": "BL-39 interrogator droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BL-39_interrogator_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The BL-39 interrogator droid was a Interrogation droid manufactured by Aratech, that was mainly used by the Galactic Empire. It was a direct successor of the IT-O Interrogator, which schematics were bought by Aratech after the Galactic Civil War. It could easily be converted into a medical assistant droid by making use of the droid's existing medical knowledge.",
+  "data": {
+    "name": "BL-39 interrogator droid",
+    "manufacturer": "Aratech Repulsor Company",
+    "model": "BL-39 interrogator droid",
+    "class": "Interrogation droid",
+    "cost": "13,000 credits",
+    "armament": "Blaster pistol",
+    "equipment": [
+      "Heuristic processor",
+      "Improved sensor package",
+      "Audio tape recorder",
+      "5 holders for torture tools"
+    ],
+    "affiliation": "Darth Krayt's Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

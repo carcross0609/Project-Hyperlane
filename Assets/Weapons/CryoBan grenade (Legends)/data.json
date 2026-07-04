@@ -1,0 +1,26 @@
+{
+  "name": "CryoBan grenade",
+  "wookieepedia_title": "CryoBan grenade/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CryoBan_grenade/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The CryoBan grenade, also named cryo grenade, was a type of grenade that could temporarily freeze targets.",
+  "data": {
+    "name": "CryoBan grenade",
+    "type": "Grenade",
+    "cost": "500–800 credits",
+    "size": "Handheld",
+    "weight": "0.5 kg",
+    "capacity": "Single-use",
+    "range": [
+      "Thrown weapon range",
+      "3-meter blast radius"
+    ],
+    "purpose": [
+      "Firefighting tool",
+      "To temporarily freeze targets"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

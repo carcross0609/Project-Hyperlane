@@ -1,0 +1,32 @@
+{
+  "name": "DX-2 disruptor pistol",
+  "wookieepedia_title": "DX-2 disruptor pistol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DX-2_disruptor_pistol/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DX-2 was a disruptor pistol built and mass-produced by the Tenloss Criminal Syndicate.",
+  "data": {
+    "name": "DX-2 disruptor pistol",
+    "manufacturer": "Tenloss Criminal Syndicate",
+    "model": "DX-2",
+    "type": "Disruptor pistol",
+    "cost": "3,000 credits (Illegal)",
+    "shape": "Pistol-shaped",
+    "size": "One-handed weapon",
+    "weight": "3 kg",
+    "capacity": "5 shots or 10 shots",
+    "range": [
+      "Optimum: up to 5 m",
+      "Maximum: up to 7 m"
+    ],
+    "purpose": "To disintegrate a target",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inquisitorius",
+      "  Imperial Military",
+      "    Imperial Special Forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

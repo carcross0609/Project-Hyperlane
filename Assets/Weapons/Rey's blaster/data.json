@@ -1,0 +1,27 @@
+{
+  "name": "Rey's blaster",
+  "wookieepedia_title": "Rey's blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rey%27s_blaster",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Rey's blaster was an NN-14 blaster pistol formerly owned by Han Solo, who gave it to the scavenger Rey. Manufactured by LPA, it had a safety switch that prevented the blaster from firing.",
+  "data": {
+    "name": "Rey's blaster",
+    "manufacturer": "LPA",
+    "model": "NN-14 blaster pistol",
+    "type": "Blaster pistol",
+    "owners": [
+      "Han Solo",
+      "Rey"
+    ],
+    "locations": [
+      "Takodana",
+      "Starkiller Base",
+      "Ahch-To",
+      "Pasaana"
+    ],
+    "affiliation": "Resistance"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "R-3PO",
+  "wookieepedia_title": "R-3PO",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R-3PO",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "R-3PO, also known as \"R-3,\" was a 3PO-series protocol droid with distinctive deep red plating, bright yellow “eye” sensors, and a moody attitude. During the Galactic Civil War, it served the Alliance to Restore the Republic and Alliance High Command in their fight against the Galactic Empire, and when the Alliance established Echo Base on the planet Hoth, R-3PO was tasked with keeping a lookout for spies and Imperial spy droids within the base. The droid was present for the Battle of Hoth, which the Alliance lost, forcing them to evacuate Echo Base.",
+  "data": {
+    "type": "Rebel",
+    "name": "R-3PO",
+    "manufacturer": "Cybot Galactica",
+    "model": "3PO-series protocol droid",
+    "class": "Protocol droid",
+    "height": "1.67 meters",
+    "mass": "75 kilograms",
+    "pronouns": "It/its",
+    "sensor": "Yellow",
+    "plating": "Deep red",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance High Command"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

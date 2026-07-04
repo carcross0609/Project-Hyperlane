@@ -1,0 +1,40 @@
+{
+  "name": "Sol's lightsaber",
+  "wookieepedia_title": "Sol's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sol%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Sol's lightsaber was the personal single-bladed royal blue lightsaber of Jedi Master Sol. In 132 BBY, the weapon was damaged after Sol was disarmed by former Sith assassin Mae-ho Aniseya, after a duel on Brendok.",
+  "data": {
+    "name": "Sol's lightsaber",
+    "model": [
+      "Jedi lightsaber",
+      "Sith lightsaber"
+    ],
+    "type": "Single-blade",
+    "culture": [
+      "Jedi",
+      "Sith"
+    ],
+    "created": "Prior to 148 BBY",
+    "owners": [
+      "Sol",
+      "Verosha Aniseya"
+    ],
+    "hilt_shape": "Cylindrical",
+    "crystal": "Kyber crystal",
+    "color": [
+      "Royal blue",
+      "Red (after bleeding)"
+    ],
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Sol's family",
+      "Jedi Order",
+      "  Brendok four",
+      "Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

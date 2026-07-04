@@ -1,0 +1,23 @@
+{
+  "name": "Atlatl",
+  "wookieepedia_title": "Atlatl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Atlatl",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "An atlatl was a one-handed Gungan throwing device consisting of a short stick of non-conductive hardwood with a cradle in one of its ends. It acted as an extension of the arm, enabling a booma to travel at a greater speed and force than possible with the unaided arm. It had optimal range of 30 meters, and a maximum range of 100 meters. It could also be used without an energy ball, as a blunt weapon.",
+  "data": {
+    "name": "Atlatl",
+    "manufacturer": "Otoh Gunga Defense League",
+    "type": "Ranged/bludgeoning weapon",
+    "culture": "Gungan",
+    "locations": "Naboo",
+    "range": [
+      "30 meters (optimal)",
+      "100 meters (maximum)"
+    ],
+    "purpose": "Offensive booma launch",
+    "affiliation": "Amidalans"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "TN-123",
+  "wookieepedia_title": "TN-123",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TN-123",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "TN-123 was a T-series military strategic analysis and tactics droid of masculine programming who served within the Separatist Droid Army of the Confederacy of Independent Systems as a commander during the Clone Wars. In 21 BBY, during a prolonged battle of attrition on the planet Malastare, the droid commander came to the conclusion that his droid army had been able to surround the Galactic Republic's forces commanded by Jedi Generals Mace Windu and Anakin Skywalker at the Dug species' palace. However, despite his droid forces' capabilities of succeeding in an attritional battle, TN-123 was deactivated alongside the rest of his army during the engagements following the Republic's deployment of the electro-proton bomb.",
+  "data": {
+    "type": "CIS",
+    "name": "TN-123",
+    "death": "21 BBY, Malastare",
+    "manufacturer": "Baktoid Combat Automata",
+    "model": "T-series military strategic analysis and tactics droid",
+    "class": "Tactical droid",
+    "gender": "Masculine programming",
+    "sensor": "Orange",
+    "plating": "Purple and blue",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Malastare droid army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Protosaber",
+  "wookieepedia_title": "Protosaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Protosaber",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Archaic lightsabers—commonly referred to as protosabers—were the first known design of lightsaber. Like later lightsabers, their focusing crystal was set inside a hilt from which a blade of energy was emitted. The main difference between protosabers and later lightsabers was that the hilt was connected via cable to an external power pack due to limitations in power pack technology.",
+  "data": {
+    "name": "Protosaber",
+    "model": "Protosaber",
+    "type": "Lightsaber",
+    "culture": "Jedi",
+    "crystal": "Focusing crystal",
+    "capacity": "As much energy as user's power pack could hold.",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi",
+      "Dark Jedi",
+      "Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Striker projectile pistol",
+  "wookieepedia_title": "Striker projectile pistol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Striker_projectile_pistol",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Striker projectile pistol was a typical slugthrower pistol manufactured by Oriolanis Defense Systems. Considered to be durable but otherwise unimpressive, the Striker had an ammunition clip of eight slugs. Only a direct hit on a vital area was likely to kill a target. The Striker was readily available, even on planets with strict weapons regulations, and was favored by those in the Outer Rim Territories.",
+  "data": {
+    "name": "Striker projectile pistol",
+    "manufacturer": "Oriolanis Defense Systems",
+    "type": "Slugthrower pistol",
+    "cost": "275 credits",
+    "weight": "1.4 kilograms",
+    "capacity": "8 slugs",
+    "range": [
+      "30 meters (Optimum)",
+      "60 meters(Maximum)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Maul's lightsaber",
+  "wookieepedia_title": "Maul's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maul%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Maul's lightsaber was a double-bladed lightsaber wielded by the crime lord and former Sith Lord Maul during the reign of the Galactic Empire. The lightsaber produced two crimson-red blades, and was an Inquisitor lightsaber, albeit broken and bent outward. Indeed, the lightsaber appeared as if it had been built out of pieces retrieved from an Inquisitor's blade. He would hide the hilt by attaching a piece of wood to it, and pretending it was a walking stick, all the while masquerading as a feeble old man.",
+  "data": {
+    "name": "Maul's lightsaber",
+    "model": "Inquisitor lightsaber",
+    "type": [
+      "Double-bladed lightsaber",
+      "Cane lightsaber"
+    ],
+    "owners": "Maul",
+    "hilt_shape": "Cylindrical, straight",
+    "crystal": "Kyber crystal",
+    "color": "Red",
+    "design": "Outward grip-guard on the upper emitter",
+    "precede": "Darth Maul's double-bladed lightsaber",
+    "purpose": [
+      "Lightsaber combat",
+      "Mobility aid"
+    ],
+    "affiliation": "Crimson Dawn"
+  },
+  "scraped": "2026-07-03"
+}

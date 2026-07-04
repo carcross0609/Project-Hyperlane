@@ -1,0 +1,31 @@
+{
+  "name": "Support Droid",
+  "wookieepedia_title": "Support Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Support_Droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Support Droid was a battle droid model used for support in combat. It had two chin-mounted blasters and could support it's allies with different effects. Apart from regular blue, the Support Droid had four other variants, specialized for different priorities, which were designated by different colors—red for Combat, purple for Enhancing, green for Healing and yellow for Restraining.",
+  "data": {
+    "name": "Support Droid",
+    "model": [
+      "Combat Support Droid",
+      "Enhancing Support Droid",
+      "Healing Support Droid",
+      "Restraining Support Droid"
+    ],
+    "class": "Battle droid",
+    "sensor": "Grey",
+    "plating": [
+      "White",
+      "Various:",
+      "  Blue",
+      "  Red",
+      "  Purple",
+      "  Healing",
+      "  Yellow"
+    ],
+    "armament": "2 blasters"
+  },
+  "scraped": "2026-07-03"
+}

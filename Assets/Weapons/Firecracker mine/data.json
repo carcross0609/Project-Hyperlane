@@ -1,0 +1,19 @@
+{
+  "name": "Firecracker mine",
+  "wookieepedia_title": "Firecracker mine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Firecracker_mine",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A firecracker mine was a type of space mine used to disorient enemy starships. Deployed in groups, a firecracker mine emitted an intense burst of light, noise, and radiation when it exploded. Starships caught in the blast had their sensors and comm units suppressed, and their crews could be disoriented. Firecracker mines were sold for 400 credits.",
+  "data": {
+    "name": "Firecracker mine",
+    "type": "Space mine",
+    "cost": "400 credits",
+    "purpose": [
+      "Disorient a starship's crew",
+      "Suppress sensors and comm units"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

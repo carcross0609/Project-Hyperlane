@@ -1,0 +1,32 @@
+{
+  "name": "E-Web missile launcher",
+  "wookieepedia_title": "E-Web missile launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/E-Web_missile_launcher",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The E-Web Missile Launcher or referred as a \"Swarm Turret\" was a heavy, tripod-mounted firing mechanization, from which anti-personnel rockets and ground-to-air missiles were launched. It was modified from the E-Web heavy repeating blaster and unlike its predecessor, it did not require a power generator. While one person could operate it with two hands, a second crew member would reload the launcher between the shots, jamming live missiles into the launch tubes. They were often deployed by the Empire during the Rise of the Empire and early Galactic Civil War and were used in various Imperial locations, including the Death Star.",
+  "data": {
+    "name": "E-Web missile launcher",
+    "manufacturer": "BlasTech Industries",
+    "type": "Missile launcher",
+    "cost": "9,500 credits (Available for military use only)",
+    "weight": "42 kilograms",
+    "crew": "2",
+    "capacity": [
+      "1 missile",
+      "3-meter square blast area"
+    ],
+    "range": [
+      "Optimum: up to 75 meters",
+      "Maximum: up to 750 meters"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "Galactic Empire",
+      "  Imperial Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

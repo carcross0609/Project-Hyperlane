@@ -1,0 +1,30 @@
+{
+  "name": "Marrok's lightsaber",
+  "wookieepedia_title": "Marrok's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Marrok%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Marrok's lightsaber was the red double-bladed spinning lightsaber owned by the Inquisitor Marrok, once known as the First Brother. Marrok continued to use the lightsaber after becoming a mercenary by 9 ABY. The saber was capable of switching between crescent mode, single-bladed, and disk mode double-bladed. While not in use, Marrok hooked the lightsaber on the upper back of his armor. Marrok used the lightsaber against Jedi Ahsoka Tano on the Core Worlds planet Corellia and for the final time on the planet Seatos, where the former Inquisitor fell to Tano in battle.",
+  "data": {
+    "name": "Marrok's lightsaber",
+    "model": "Double-bladed spinning lightsaber",
+    "type": [
+      "Double-bladed spinning lightsaber (disk mode)",
+      "Single-bladed lightsaber (crescent mode)"
+    ],
+    "owners": "Marrok",
+    "hilt_shape": "Cylindrical",
+    "crystal": "Two kyber crystals",
+    "color": "Red",
+    "mods": "Two barbs on either side of the emitter ring",
+    "protection": "Emitter ring",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inquisitorius",
+      "Morgan Elsbeth's forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

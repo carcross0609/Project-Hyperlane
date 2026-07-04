@@ -1,0 +1,29 @@
+{
+  "name": "Systech aural blaster",
+  "wookieepedia_title": "Systech aural blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Systech_aural_blaster",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Systech aural blaster was a sonic blaster pistol designed by the Systech Corporation. Designed by Systech Corporation weapons manufacturing company, it was an awkward weapon, which was difficult to wield without special training. Shaped like a pistol with auxiliary sonic emitters attached to either side of the barrel, the aural blaster could deafen a target with a successful hit. Though inferior in damage potential to traditional blasters, the blaster's design made it a viable weapon, with its deafening and disorientating capabilities. This weapon dealt a type of damage called sonic damage which meant it could not be deflected by a lightsaber as a normal blaster bolt could.",
+  "data": {
+    "name": "Systech aural blaster",
+    "manufacturer": "Systech Corporation",
+    "model": "Aural blaster",
+    "type": "Pistol",
+    "cost": "2,500 credits",
+    "shape": "Pistol that was awkward and difficult to wield",
+    "size": "One-handed weapon",
+    "weight": "1 kg",
+    "capacity": [
+      "50 shots",
+      "Could not be deflected by a lightsaber"
+    ],
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 120 m"
+    ],
+    "purpose": "To deafen targets with sonic damage"
+  },
+  "scraped": "2026-07-03"
+}

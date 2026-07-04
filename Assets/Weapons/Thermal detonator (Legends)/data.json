@@ -1,0 +1,29 @@
+{
+  "name": "Thermal detonator",
+  "wookieepedia_title": "Thermal detonator/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thermal_detonator/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A thermal detonator, also known as a thermal grenade, was a highly unstable grenade-like weapon popular among military personnel, criminals, bounty hunters, and mercenaries. The thermal detonator was utilized since at least as early as 4000 BBY.",
+  "data": {
+    "name": "Thermal detonator",
+    "manufacturer": [
+      "BlasTech Industries",
+      "Merr-Sonn Munitions, Inc.",
+      "Tarascii Explosives"
+    ],
+    "type": "Nuclear Fusion Explosive",
+    "cost": "2,000 credits",
+    "shape": "Spherical",
+    "size": "Handheld",
+    "weight": "1 kg",
+    "capacity": "1 detonation",
+    "range": [
+      "Thrown weapon range (up to 20 meters)",
+      "6-meter blast radius"
+    ],
+    "affiliation": "Various"
+  },
+  "scraped": "2026-07-03"
+}

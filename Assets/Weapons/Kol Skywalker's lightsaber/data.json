@@ -1,0 +1,32 @@
+{
+  "name": "Kol Skywalker's lightsaber",
+  "wookieepedia_title": "Kol Skywalker's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kol_Skywalker%27s_lightsaber",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Jedi Master Kol Skywalker built his blue-bladed lightsaber prior to the failure of the Ossus Project in 127 ABY. Kol wielded it in combat against Darth Nihl and the rest of the Sith strike force that attacked Ossus in 130 ABY. It was lost after Kol's death and later discovered by Yuuzhan Vong Master Shaper Nei Rin amongst the ruins. Rin had replaced the original focusing crystal with a lambent crystal of her own shaping after it was badly burnt in the battle against the Sith, thus the blue blade was replaced with a green blade.",
+  "data": {
+    "name": "Kol Skywalker's lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "creator": "Kol Skywalker",
+    "created": "Prior to 127 ABY",
+    "discovered": "130 ABY by Nei Rin",
+    "owners": [
+      "Kol Skywalker",
+      "Nei Rin",
+      "Cade Skywalker"
+    ],
+    "crystal": "Lambent (after recovery by Nei Rin)",
+    "color": [
+      "Blue (formerly)",
+      "Green (currently)"
+    ],
+    "design": "Similar to Anakin Skywalker's second lightsaber",
+    "purpose": "Lightsaber combat",
+    "affiliation": "New Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

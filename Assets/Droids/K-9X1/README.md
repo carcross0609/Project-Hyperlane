@@ -1,0 +1,22 @@
+# K-9X1
+
+**Kind:** Individual  
+**Continuity:** Canon  
+**Source:** [K-9X1](https://starwars.fandom.com/wiki/K-9X1)
+
+K-9X1, or K-9, was a droid in service to the Galactic Empire in the Mount Tantiss facility on the planet Wayland. They had a yellow sensor, and were equipped with a stun baton. K-9X1 was tasked with handling the lurca hounds under the Empire's service, though the task of feeding the hounds was delegated to the clone Omega. When Omega noticed that the lurca hound LH-201—affectionately named "Batcher" by the clone—was injured, K-9X1 informed her that the hound had sustained the injury during her nightly patrol, and that she was scheduled for termination. When Omega requested that the droid help Batcher, they declined, stating that they were not a medical droid and it was against their programming. After later learning that Batcher's termination had not been staved off—despite having treated the hound's wound—Omega overpowered K-9X1 and smashed their lower half with a crate before freeing Batcher, though the droid had called security.
+
+## Specifications
+
+- **Type:** Galactic Empire
+- **Name:** K-9X1
+- **Death:**
+  - During or after 18 BBY, Mount Tantiss, Wayland (later rebuilt)
+  - During or after 18 BBY, Mount Tantiss, Wayland
+- **Model:** A model of Imperial labor droid
+- **Sensor:** White
+- **Affiliation:** Galactic Empire
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

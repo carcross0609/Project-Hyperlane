@@ -1,0 +1,24 @@
+{
+  "name": "DC5-1",
+  "wookieepedia_title": "DC5-1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DC5-1",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "DC5-1 was the designation of a series of freight droids manufactured by Serv-O-Droid, Inc.",
+  "data": {
+    "name": "DC5-1",
+    "manufacturer": "Serv-O-Droid, Inc.",
+    "class": "Freight droid",
+    "cost": "4,500 credits",
+    "length": "2.8 meters",
+    "equipment": [
+      "Cranial turret with audio and video sensors",
+      "Four extendable manipulator arms",
+      "Laser scanner",
+      "Pair of lifting claws",
+      "Remote directional transponder"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Radiation grenade",
+  "wookieepedia_title": "Radiation grenade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Radiation_grenade",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Radiation grenades were small explosives that were either thrown or launched from a grenade launcher. On impact, a radiation grenade detonated in a burst of light smoke, releasing a cloud of short-lived radioactive particles that immediately sickened and weakened targets. The radiation grenade had a 3-meter blast radius and bypassed most conventional armors and shields; because of this they were considered highly illegal and were used by only the most depraved or desperate armies. Radiation sickness would persist and progressively worsen until it was cured.",
+  "data": {
+    "name": "Radiation grenade",
+    "type": "Grenade",
+    "cost": "500 credits (Illegal)",
+    "size": "Hand-held",
+    "weight": "0.5 kg",
+    "capacity": "Single-use",
+    "range": [
+      "Thrown weapon range",
+      "3-meter blast radius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

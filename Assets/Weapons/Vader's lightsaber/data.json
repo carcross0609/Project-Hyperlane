@@ -1,0 +1,37 @@
+{
+  "name": "Vader's lightsaber",
+  "wookieepedia_title": "Vader's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vader%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Vader's lightsaber, formerly known as Kirak Infil'a's lightsaber was a green-bladed curved-hilt lightsaber owned by Jedi Master Kirak Infil'a and briefly Darth Vader during the early stages of the Great Jedi Purge.",
+  "data": {
+    "name": "Vader's lightsaber",
+    "model": "Curved-hilt lightsaber",
+    "type": "Single-blade",
+    "culture": [
+      "Jedi",
+      "Sith"
+    ],
+    "destroyed": "19 BBY, Cabarria",
+    "owners": [
+      "Kirak Infil'a",
+      "Darth Vader"
+    ],
+    "hilt_shape": "Slightly curved",
+    "crystal": "Kyber crystal",
+    "color": [
+      "Green",
+      "Red (after bleeding)"
+    ],
+    "precede": "Skywalker lightsaber (Darth Vader)",
+    "succeed": "Darth Vader's lightsaber (Darth Vader)",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Sith Order (appropriated)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

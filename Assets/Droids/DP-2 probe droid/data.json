@@ -1,0 +1,22 @@
+{
+  "name": "DP-2 probe droid",
+  "wookieepedia_title": "DP-2 probe droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DP-2_probe_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The DP-2 probe droid was a large droid used to explore space.",
+  "data": {
+    "name": "DP-2 probe droid",
+    "manufacturer": "Duwani Mechanical Products",
+    "class": "Probe droid",
+    "degree": "Class two droid",
+    "cost": "36,500 credits",
+    "armament": [
+      "blaster cannon",
+      "claw appendage"
+    ],
+    "equipment": "space beacon launcher (16 beacons)"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "R7-FNG",
+  "wookieepedia_title": "R7-FNG",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R7-FNG",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "R7-FNG was an R7 droid that was optimized to function on the dark and desolate planet Exegol. The astromech droid was colored in white, purple, red and black. It notably had a glow-in-the-dark head for easy navigation through dark parts of the galaxy.",
+  "data": {
+    "name": "R7-FNG",
+    "homeworld": "Exegol",
+    "line": "R-series",
+    "model": "R7 droid",
+    "class": "Astromech droid",
+    "pronouns": "They/them",
+    "sensor": "Red",
+    "plating": "White, purple, red, black",
+    "equipment": [
+      "Cargo compartment",
+      "Fuel system",
+      "Function indicators",
+      "Head rotation point",
+      "Heat exhaust",
+      "Hydraulic arm shaft",
+      "Linkage arms",
+      "Motorized treads",
+      "Power cells",
+      "Recharging coupling",
+      "Loud speaker",
+      "Radar eye",
+      "System ventilation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,17 @@
+# BB-3000
+
+**Kind:** Series  
+**Continuity:** Legends  
+**Source:** [BB-3000](https://starwars.fandom.com/wiki/BB-3000)
+
+The BB-3000 was a Human replica droid model that was produced by LeisureMech Enterprises during the early years of the Galactic Empire. Their droid bodies were encased in cloned synthflesh to make them appear identical to a living being. The droid brain of the BB-3000 would somehow get contaminated with the synthflesh's cloned genome. This resulted in the development of a strange hybrid virus that was partly RNA from the cloned tissue, and partly hardwired memetic algorithm from the substratum operating system. The droid's hybrid virus would catch the droid between two modalities of being, overload its sensorium circuitry, and cause its internal temperature to rapidly fluctuate until it melted. LeisureMech abandoned trying to solve this issue and instead moved on to develop the BB-4000.
+
+## Specifications
+
+- **Name:** BB-3000
+- **Manufacturer:** LeisureMech Enterprises
+- **Class:** Human replica droid
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

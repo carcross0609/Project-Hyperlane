@@ -1,0 +1,23 @@
+{
+  "name": "Ion pistol",
+  "wookieepedia_title": "Ion pistol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ion_pistol",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The ion pistol was a type of ion gun that fired ion energy instead of blaster bolts. This type of energy disrupted electrical systems, making it an effective weapon against droids, vehicles, electronic devices, and cybernetically enhanced creatures. It was designed to be much more portable and less cumbersome than the ion rifle. Unlike the ion rifle, this weapon could be operated one-handed. The weapon was typically available for a cost of 250 credits.",
+  "data": {
+    "name": "Ion pistol",
+    "type": "Pistol",
+    "cost": "250 credits",
+    "size": "Small",
+    "weight": "1 kg to 2.7 kg",
+    "capacity": "30 shots",
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 120 meters"
+    ],
+    "purpose": "Disabling droids and other electronics"
+  },
+  "scraped": "2026-07-03"
+}

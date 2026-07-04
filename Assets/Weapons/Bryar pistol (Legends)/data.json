@@ -1,0 +1,23 @@
+{
+  "name": "Bryar pistol",
+  "wookieepedia_title": "Bryar pistol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bryar_pistol/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Bryar pistol was a modified Bryar rifle with its stock and muzzle sawed down.",
+  "data": {
+    "name": "Bryar pistol",
+    "type": "Blaster pistol",
+    "cost": "1,350 credits",
+    "shape": "Pistol-shaped",
+    "size": "One-handed weapon",
+    "weight": "3 kg",
+    "capacity": "100 shots",
+    "range": [
+      "Optimum: up to 60 m",
+      "Maximum: up to 120 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

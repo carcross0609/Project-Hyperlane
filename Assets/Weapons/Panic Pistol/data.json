@@ -1,0 +1,24 @@
+{
+  "name": "Panic Pistol",
+  "wookieepedia_title": "Panic Pistol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Panic_Pistol",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Panic Pistol was a type of slugthrower pistol manufactured by Oriolanis Defense Systems as a compact civilian self-defense pistol. The squat weapon fired a high-caliber round, but the barrel could barely extend past most species' knuckles. This made it easy to wield in close-quarters combat, but wildly inaccurate. Further, the extractor required constant tension adjustments, which made jammings and misfires common.",
+  "data": {
+    "name": "Panic Pistol",
+    "manufacturer": "Oriolanis Defense Systems",
+    "type": "Slugthrower pistol",
+    "locations": [
+      "Cerea",
+      "Jakku",
+      "Rattatak"
+    ],
+    "cost": "400 credits",
+    "weight": "1 kg",
+    "range": "Short-ranged",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

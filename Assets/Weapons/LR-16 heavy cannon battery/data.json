@@ -1,0 +1,24 @@
+{
+  "name": "LR-16 heavy cannon battery",
+  "wookieepedia_title": "LR-16 heavy cannon battery",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/LR-16_heavy_cannon_battery",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The LR-16 heavy cannon battery was a massive artillery cannon employed by the Galactic Republic during the Great Galactic War, Cold War, the following Galactic War and possibly in further conflicts afterwards. One of the battlefields, where these cannons were used successfully was the Battle of Ilum during which a pair of LR-16s defended Fray Landing Base against the Sith imperial attackers.",
+  "data": {
+    "name": "LR-16 heavy cannon battery",
+    "type": "Artillery cannon",
+    "locations": "Ilum",
+    "crew": "1-4 (depending on beam settings)",
+    "range": [
+      "27km (Main cannon)",
+      "8km (Secondary cannon)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Eternal Alliance (unconfirmed)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

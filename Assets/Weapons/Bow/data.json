@@ -1,0 +1,35 @@
+{
+  "name": "Bow",
+  "wookieepedia_title": "Bow",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bow",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A bow was a primitive weapon consisting of a flexible arc bent by a string at each end and used to launch pointed projectiles called arrows. The Ewoks, a sentient species from the Forest Moon orbiting the planet of Endor, had bows among their arsenal. During the Battle of Endor, Ewoks notably used bows and arrows to assist the Alliance to Restore the Republic in the fight against the Galactic Empire.",
+  "data": {
+    "name": "Bow",
+    "manufacturer": "Ewoks",
+    "type": "Weapon",
+    "culture": [
+      "Dathomirians",
+      "Ewoks"
+    ],
+    "locations": [
+      "Dathomir",
+      "Endor"
+    ],
+    "material": [
+      "Plasma",
+      "Wood"
+    ],
+    "capacity": "1 arrow",
+    "purpose": "Combat",
+    "affiliation": [
+      "Bright Tree tribe",
+      "Nightsisters",
+      "  Nightbrothers",
+      "Brendok coven"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

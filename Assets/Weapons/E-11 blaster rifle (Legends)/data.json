@@ -1,0 +1,39 @@
+{
+  "name": "E-11 blaster rifle",
+  "wookieepedia_title": "E-11 blaster rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/E-11_blaster_rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The BlasTech Industries E-11 blaster rifle, also referred to as the E-11 BlasTech Standard Imperial Sidearm, the Stormtrooper Armament Blaster Rifle (BlasTech E-11), and the E-11 Military Issue Blaster Rifle, was a blaster rifle used during the time of the Galactic Empire. It was the standard-issue blaster rifle of the Imperial stormtroopers. A powerful, light and compact weapon, the E-11 was used widely throughout the galaxy for nearly a century and a half.",
+  "data": {
+    "name": "E-11 blaster rifle",
+    "manufacturer": [
+      "BlasTech Industries",
+      "SoroSuub Corporation",
+      "Merr-Sonn Munitions, Inc."
+    ],
+    "model": "E-11",
+    "type": "Blaster rifle",
+    "cost": "1,000 credits",
+    "size": [
+      "One-handed weapon with the stock folded",
+      "Two-handed weapon with the stock extended"
+    ],
+    "weight": "2.7 kg",
+    "capacity": "500 shots",
+    "range": [
+      "Optimum: 100 meters",
+      "Maximum: 300 meters"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Thrawn's confederation",
+      "Dark Empire",
+      "Imperial Remnant",
+      "Fel Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

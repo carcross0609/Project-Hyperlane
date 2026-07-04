@@ -1,0 +1,26 @@
+{
+  "name": "EV-II",
+  "wookieepedia_title": "EV-II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/EV-II",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The EV-II was the second generation model of EV-series supervisor droid that was introduced by MerenData to remedy the personality flaws that plagued its predecessor. Costing 6,400 credits, it stood 1.8 meters tall and was equipped with an auditory receptor, a broadband broadcast antenna/receiver system, a high frequency binary comlink, Human range photoreceptors, and a vocabulator, as well as an advanced personality matrix.",
+  "data": {
+    "name": "EV-II",
+    "manufacturer": "MerenData",
+    "line": "EV-series supervisor droid",
+    "class": "Supervisor droid",
+    "degree": "Class three droid",
+    "cost": "6,400 credits",
+    "height": "1.8 meters",
+    "equipment": [
+      "Auditory receptor",
+      "Broadband broadcast antenna/receiver system",
+      "High frequency binary comlink",
+      "Photoreceptors (Human range)",
+      "Vocabulator"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

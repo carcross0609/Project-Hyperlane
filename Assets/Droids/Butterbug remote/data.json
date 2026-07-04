@@ -1,0 +1,19 @@
+{
+  "name": "Butterbug remote",
+  "wookieepedia_title": "Butterbug remote",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Butterbug_remote",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "A butterbug remote was a type of small, palm-sized remote that could be linked together in batches as a networked swarm. Used to transmit localized information to one another and the user, the remotes came equipped with micro-tools, including drills. Butterbug remotes were vulnerable to blasts. Around the Galactic Civil War, a butterbug remote cost 700 credits.",
+  "data": {
+    "name": "Butterbug remote",
+    "class": "Remote",
+    "cost": "700 credits",
+    "equipment": [
+      "Drills",
+      "Micro-tools"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

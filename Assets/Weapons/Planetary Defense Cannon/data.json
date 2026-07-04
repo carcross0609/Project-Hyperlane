@@ -1,0 +1,22 @@
+{
+  "name": "Planetary Defense Cannon",
+  "wookieepedia_title": "Planetary Defense Cannon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Planetary_Defense_Cannon",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Planetary Defense Cannon was a heavy turbolaser built by Loronar Corporation. It bore an uncanny resemblance to the W-165 planetary turbolaser and there were accusations of corporate espionage. Regardless it used four times as much energy as the W-165 and was capable of completely obliterating an Imperial Star Destroyer. It required a crew of 46 to operate but could get by with a skeleton crew of 21.",
+  "data": {
+    "name": "Planetary Defense Cannon",
+    "manufacturer": "Loronar Corporation",
+    "type": "Heavy turbolaser surface-to-space cannon",
+    "cost": [
+      "13,000,000 credits (new)",
+      "6,000,000 credits (used)"
+    ],
+    "crew": "46",
+    "capacity": "Unlimited (power generator)",
+    "range": "High orbit"
+  },
+  "scraped": "2026-07-03"
+}

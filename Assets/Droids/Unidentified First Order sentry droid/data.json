@@ -1,0 +1,33 @@
+{
+  "name": "Unidentified First Order sentry droid",
+  "wookieepedia_title": "Unidentified First Order sentry droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_First_Order_sentry_droid",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "A First Order sentry droid was stationed on the First Order's Station Theta Black, a mining space station. It encountered Resistance members Poe Dameron and Kazuda Xiono in 34 ABY, resulting in its destruction.",
+  "data": {
+    "type": "First Order",
+    "option1": "Compact",
+    "image2": "File:SentryDroid-StationThetaBlack.jpg",
+    "option2": "Fully extended",
+    "name": "Unidentified First Order sentry droid",
+    "death": "34 ABY, Station Theta Black",
+    "manufacturer": "Rebaxan Columni",
+    "model": "First Order sentry droid",
+    "class": "Security droid",
+    "height": "1.5 meters (4 ft, 11 in) (fully extended)",
+    "pronouns": [
+      "He/him",
+      "It/its"
+    ],
+    "sensor": "Red",
+    "plating": "White",
+    "armament": [
+      "Two blasters",
+      "Four spark projectors"
+    ],
+    "affiliation": "First Order"
+  },
+  "scraped": "2026-07-03"
+}

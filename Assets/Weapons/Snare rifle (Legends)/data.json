@@ -1,0 +1,23 @@
+{
+  "name": "Snare rifle",
+  "wookieepedia_title": "Snare rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Snare_rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The snare rifle was a cord-shooting weapon designed to ensnare a target so that they can be captured alive.",
+  "data": {
+    "name": "Snare rifle",
+    "type": "Cord-launching rifle",
+    "cost": "1,200 credits",
+    "size": "Medium",
+    "weight": "5 kg",
+    "capacity": "5 shots",
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 450 meters"
+    ],
+    "purpose": "To capture targets alive"
+  },
+  "scraped": "2026-07-03"
+}

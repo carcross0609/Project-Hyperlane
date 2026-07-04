@@ -1,0 +1,34 @@
+{
+  "name": "Rail detonator",
+  "wookieepedia_title": "Rail detonator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rail_detonator",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A rail detonator or rail detonator gun was a rifle-shaped weapon that used powerful electromagnets to launch rail charges or explosive canisters at a target at incredible speed.",
+  "data": {
+    "name": "Rail detonator",
+    "type": "Explosive projectile launcher",
+    "cost": [
+      "1,900 credits (Available for military use only)",
+      "Magazine of 10 explosive canisters costs 50 credits"
+    ],
+    "shape": "Rifle-like",
+    "size": "Large",
+    "weight": "5 kg",
+    "capacity": [
+      "10 shots",
+      "Collateral damage to adjacent targets"
+    ],
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 450 meters"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial jumptroopers",
+      "Kota's Militia"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

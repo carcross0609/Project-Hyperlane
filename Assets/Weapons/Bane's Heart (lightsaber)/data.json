@@ -1,0 +1,42 @@
+{
+  "name": "Bane's Heart (lightsaber)",
+  "wookieepedia_title": "Bane's Heart (lightsaber)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bane%27s_Heart_%28lightsaber%29",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Bane's Heart was the name given to the lightsaber of the Sith Lord Darth Zannah, a name shared with one of the two synthetic crystals used to focus its blade. The double-bladed weapon was created to suit both her smaller figure and particular choice in lightsaber combat style, Form III: Soresu. Darth Zannah's lightsaber served her during the early decades of the reformed Galactic Republic and was instrumental in the defeat of many an opponent, including her own Sith Master, Darth Bane. The ancient Sith lightsaber was rediscovered during the Clone Wars by the infamous Jedi killer General Grievous and was later counted among the weapons of the prototype combat droid N-K Necrosis.",
+  "data": {
+    "name": "Bane's Heart",
+    "model": "Sith lightsaber",
+    "type": "Double-bladed lightsaber",
+    "culture": "Sith",
+    "creator": "Darth Zannah",
+    "created": "996 BBY, Ambria",
+    "owners": [
+      "Darth Zannah",
+      "General Grievous",
+      "N-K Necrosis"
+    ],
+    "hilt_shape": "Cylindrical",
+    "hilt_length": "Slightly longer than standard lightsaber",
+    "crystal": [
+      "Synthetic lightsaber crystal",
+      "Bane's Heart"
+    ],
+    "color": "Carmine",
+    "blade_length": "0.75 meters",
+    "mods": [
+      "Elongated hilt",
+      "Specialized crystal"
+    ],
+    "protection": "An electrical discharge released when lightsaber was used by anyone other than the owner",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Order of the Sith Lords",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

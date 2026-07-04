@@ -1,0 +1,34 @@
+{
+  "name": "Bow",
+  "wookieepedia_title": "Bow/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bow/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Bows were primitive weapons that fired arrows used for hunting, sport, or combat. Advanced versions were also made for high-tech worlds.",
+  "data": {
+    "name": "Bow",
+    "type": "Simple ranged weapon",
+    "culture": "Ewoks",
+    "cost": "300 credits",
+    "material": [
+      "Wood",
+      "Durable and lightweight composite materials"
+    ],
+    "weight": "1.4 kg",
+    "capacity": [
+      "1 arrow",
+      "Quiver can hold 10 arrows"
+    ],
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 120 m"
+    ],
+    "purpose": [
+      "Hunting",
+      "Sport",
+      "Combat"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

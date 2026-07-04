@@ -1,0 +1,52 @@
+{
+  "name": "C1-10P",
+  "wookieepedia_title": "C1-10P",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/C1-10P",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "C1-10P, commonly known as \"Chopper,\" or simply \"Chop,\" was a masculine C1-series astromech droid manufactured by Industrial Automaton that was active during the Clone Wars and the early years of the Galactic Empire. He was a member of the Spectres, a rebel cell led by the Twi'lek captain Hera Syndulla and the Jedi Kanan Jarrus that fought against the Empire. He was responsible for maintaining the Ghost, a modified VCX-100 light freighter which served as the rebel cell's main base of operations.",
+  "data": {
+    "type": "New Republic",
+    "option1": "Standard paintjob",
+    "image2": "File:ChopperDisguise-BYOR2D2-26.png",
+    "option2": "Disguised",
+    "name": "C1-10P\"Chopper\"",
+    "homeworld": "Lasan",
+    "manufacturer": "Industrial Automaton",
+    "line": "C-series",
+    "model": "C1-series astromech droid",
+    "class": "Astromech droid",
+    "height": "0.99 meters",
+    "mass": "32 kilograms",
+    "gender": "Masculine programming",
+    "pronouns": "He/him",
+    "sensor": "Blue",
+    "equipment": [
+      "Arc welder",
+      "Buzz saw",
+      "Computer probe",
+      "Electro-shock prod",
+      "Nitrogen-pressurised fire extinguisher",
+      "Holoprojector",
+      "Retractable grasping arms (3)",
+      "Rocket booster",
+      "Spark projector",
+      "Transmitter"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Syndulla clan",
+      "Free Ryloth Movement",
+      "Alliance to Restore the Republic",
+      "  Spectres",
+      "  Phoenix Cell",
+      "  Massassi Group",
+      "  Lothal resistance group",
+      "Galactic Empire (briefly, reprogrammed)",
+      "  Imperial Information Office (briefly, reprogrammed)",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

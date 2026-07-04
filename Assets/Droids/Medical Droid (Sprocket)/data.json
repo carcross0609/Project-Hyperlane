@@ -1,0 +1,27 @@
+{
+  "name": "Medical Droid (Sprocket)",
+  "wookieepedia_title": "Medical Droid (Sprocket)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Medical_Droid_%28Sprocket%29",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "A disposable Medical Droid model designed and created by the Mon Calamari Hunter Sprocket for use in the Hunters of the Outer Rim competition hosted on Vespaara. The small hovering droids were used to hold and distribute a bacta solution among the various Hunters in the Grand Arena during matches. These droids would fly above he and his teammates and spray them with Bacta from six spigots found on their underbelly, healing anyone within the vicinity instantly. The moment their Bacta reserves had run dry, these medical droids would then self-destruct.",
+  "data": {
+    "name": "Medical Droid",
+    "creator": "Sprocket",
+    "designer": "Sprocket",
+    "class": "Medical droid",
+    "sensor": "Black",
+    "plating": [
+      "Silver",
+      "Orange"
+    ],
+    "equipment": [
+      "Repulsorlift",
+      "Bacta container",
+      "Spray spouts"
+    ],
+    "affiliation": "Hunters of the Outer Rim"
+  },
+  "scraped": "2026-07-03"
+}

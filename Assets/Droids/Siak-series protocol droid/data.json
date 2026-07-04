@@ -1,0 +1,27 @@
+{
+  "name": "Siak-series protocol droid",
+  "wookieepedia_title": "Siak-series protocol droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Siak-series_protocol_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "Siak-series protocol droids were a model designed by Roche Hive Mechanical Apparatus Design and Construction Activity for Those Who Need the Hive's Machines. They were equipped with a Tranlang IV Communications module, two Photoreceptors, two auditory receptors, a languages database, a Verpinoid body and head, and a vocabulator. They stood 1.5 meters tall and cost 3,500 credits new (1,200 credits used). The model was Roche's great success after the failure of the J9 worker drone, in part because Roche hired human engineers to develop the droid's chassis and personality matrix, so as to make them more appealing to mammalian species.",
+  "data": {
+    "name": "Siak-series protocol droid",
+    "manufacturer": "Roche Hive Mechanical Apparatus Design and Construction Activity for Those Who Need the Hive's Machines",
+    "class": "Protocol droid",
+    "degree": "Class three droid",
+    "cost": [
+      "3,500 credits (new)",
+      "1,200 credits (used)"
+    ],
+    "height": "1.5 meters",
+    "equipment": [
+      "Languages database",
+      "Photoreceptors",
+      "Tranlang IV Communications module",
+      "Vocabulator"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

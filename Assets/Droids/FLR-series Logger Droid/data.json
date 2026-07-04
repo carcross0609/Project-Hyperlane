@@ -1,0 +1,30 @@
+{
+  "name": "FLR-series Logger Droid",
+  "wookieepedia_title": "FLR-series Logger Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/FLR-series_Logger_Droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The FLR Logger, also known as the FLR-series Logger Droid and the Lumberdroid, was an environmental droid designed by Industrial Automaton for the Greel Wood Logging Corporation. Greel trees' crimson timber was highly sought after in the upmarket world of the vain and wealthy. However, Pii III and Pii IV were the only two planets in the galaxy able to support greel trees. Pii IV's rolling terrain was perfect for the lumber droids. However, its popularity quickly spread, and it was soon used to cut all kinds of trees across the galaxy.",
+  "data": {
+    "name": "FLR-series Logger Droid",
+    "manufacturer": [
+      "Greel Wood Logging Corporation",
+      "Industrial Automaton"
+    ],
+    "degree": "Class 2",
+    "cost": "2,500 credits",
+    "height": "2 meters",
+    "equipment": [
+      "Emergency audio alarm",
+      "Extendible video sensor",
+      "Fabritech communications array",
+      "Heavy tree-felling vibrosaw",
+      "Light brush-removing vibrosaw",
+      "Heavy manipulator arms (2)",
+      "Probability projection computer"
+    ],
+    "affiliation": "Greel Wood Logging Corporation"
+  },
+  "scraped": "2026-07-03"
+}

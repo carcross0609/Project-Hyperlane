@@ -1,0 +1,24 @@
+{
+  "name": "Weik Greatsword",
+  "wookieepedia_title": "Weik Greatsword",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Weik_Greatsword",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Weik Greatsword was a metal sword made from Weik. It permits a wielder to employ a tremendous amount of power and leverage to each swing. The greatsword required two hands to wield.",
+  "data": {
+    "name": "Weik Greatsword",
+    "model": "Sword",
+    "type": "Melee weapon",
+    "culture": "People of Weik",
+    "cost": "315 credits",
+    "material": "Metal",
+    "protection": [
+      "Unarmed opponent",
+      "Opponent wielding a more compact weapon"
+    ],
+    "purpose": "Melee combat",
+    "affiliation": "Weik"
+  },
+  "scraped": "2026-07-03"
+}

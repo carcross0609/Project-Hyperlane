@@ -1,0 +1,26 @@
+{
+  "name": "HURID-327",
+  "wookieepedia_title": "HURID-327",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HURID-327",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "HURID-327 was a loadlifter droid who worked as groundskeeper and luggage porter for Pirate Queen Maz Kanata's castle on the planet Takodana. He was jovial and slightly lazy, but kept the area around the castle clear of undergrowth. In 382 BBY, the droid witnessed a fight break out in the castle between the lawman Raf Thatchburn argue with Kanata's employee Alak before Kanata broke it up.",
+  "data": {
+    "name": "HURID-327",
+    "model": "Loadlifter droid",
+    "class": "Loader droid",
+    "pronouns": [
+      "He/him",
+      "It/its"
+    ],
+    "sensor": "Black",
+    "plating": "Red",
+    "equipment": [
+      "Binary acoustic signaller",
+      "Repulsor anchors"
+    ],
+    "affiliation": "Takodana Castle"
+  },
+  "scraped": "2026-07-03"
+}

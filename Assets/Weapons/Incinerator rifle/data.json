@@ -1,0 +1,29 @@
+{
+  "name": "Incinerator rifle",
+  "wookieepedia_title": "Incinerator rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Incinerator_rifle",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The incinerator rifle was a type of weapon that was often used by Bothan spies of the Rebel Alliance to hide the evidence of their misdeeds.",
+  "data": {
+    "name": "Incinerator rifle",
+    "type": "Disintegrating energy rifle",
+    "culture": "Bothan spies",
+    "cost": "3,500 credits (Available for military use only)",
+    "size": "Medium (two-handed weapon)",
+    "weight": "5 kg",
+    "capacity": "20 shots",
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 450 meters"
+    ],
+    "purpose": "To disintegrate a target",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Renegade Squadron",
+      "  Bothan Spynet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

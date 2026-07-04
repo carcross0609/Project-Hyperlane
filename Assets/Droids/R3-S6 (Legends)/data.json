@@ -1,0 +1,37 @@
+{
+  "name": "R3-S6",
+  "wookieepedia_title": "R3-S6/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R3-S6/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "R3-S6 was a masculine programmed R3-series astromech droid manufactured by Industrial Automaton on the planet Nubia around the time of the Clone Wars. On his homeworld, R3-S6 was stolen by a group of agents hired by the Confederate General Grievous. They took R3-S6 to the planet Milagro where the astromech droid underwent reprogramming to become a spy for Grievous.",
+  "data": {
+    "type": "CIS",
+    "name": "R3-S6",
+    "homeworld": "Nubia",
+    "death": "22 BBY, Skytop Station",
+    "manufacturer": "Industrial Automaton",
+    "line": "R-series",
+    "model": "R3-series astromech droid",
+    "class": "Astromech droid",
+    "height": "1.09 meters",
+    "mass": "31.8 kg",
+    "pronouns": "He/him",
+    "sensor": "Yellow",
+    "equipment": [
+      "Grasping arm",
+      "Holographic projector",
+      "Periscope",
+      "Power charge arm",
+      "Retractable third leg",
+      "Scanner antenna",
+      "Scomp link"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Republic (spy)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

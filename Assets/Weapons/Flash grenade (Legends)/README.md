@@ -1,0 +1,17 @@
+# Flash grenade
+
+**Kind:** Model  
+**Continuity:** Legends  
+**Source:** [Flash grenade/Legends](https://starwars.fandom.com/wiki/Flash_grenade/Legends)
+
+A flash grenade, also known as a flash-bang grenade or flash bomb, was a weapon that, when thrown, blinded and deafened the target rather than harming them, allowing the user to either attack or flee. Most modern versions disrupted the senses of both organic and inorganics such as droids. Clone commandos used these weapons to great advantage during the Clone Wars.
+
+## Specifications
+
+- **Name:** Flash grenade
+- **Type:** Grenade
+- **Purpose:** Disorienting the opponent
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

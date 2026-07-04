@@ -1,0 +1,28 @@
+{
+  "name": "Turbolaser System I",
+  "wookieepedia_title": "Turbolaser System I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Turbolaser_System_I",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Turbolaser System I was a type of heavy turbolaser emplacement that was manufactured by Loronar Corporation.",
+  "data": {
+    "name": "Turbolaser System I",
+    "manufacturer": "Loronar Defense Industries",
+    "type": "Heavy fixed turbolaser emplacement",
+    "cost": [
+      "250,000 credits (new)",
+      "125,000 credits (used)"
+    ],
+    "protection": "Permacite casing",
+    "crew": "5",
+    "capacity": "Unlimited (Boron fission reactor)",
+    "range": [
+      "50–600 meters (short range)",
+      "601–5,000 meters (medium range)",
+      "5,001–25,000 meters (long range)",
+      "10 meter blast radius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

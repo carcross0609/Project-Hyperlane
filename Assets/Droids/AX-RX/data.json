@@ -1,0 +1,35 @@
+{
+  "name": "AX/RX",
+  "wookieepedia_title": "AX/RX",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/AX/RX",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "AX/RX was a modified MD-series medical droid owned by Kh'aris Fenn and was active in 30 BBY. Kh'aris used it as a torture droid, utilizing its knowledge of the anatomy to inflict maximum pain.",
+  "data": {
+    "name": "AX/RX",
+    "death": "30 BBY, Kintan",
+    "model": "Modified MD-series medical droid",
+    "class": "Medical droid / torture droid",
+    "gender": "Masculine programming",
+    "pronouns": "new",
+    "sensor": "Gray",
+    "equipment": [
+      "Hydraulic lines",
+      "Analytical computer",
+      "Precision servomotor",
+      "Multiwave visual sensors (2)",
+      "Vocabulator",
+      "Interface socket for computer tether",
+      "Medical diagnostic computer",
+      "Torso sheath",
+      "Hydraulic systems pumps",
+      "Hypodermic injector attachment point",
+      "Precise servogrip pincers",
+      "Knee assembly",
+      "Torture equipment"
+    ],
+    "affiliation": "Kh'aris Fenn"
+  },
+  "scraped": "2026-07-03"
+}

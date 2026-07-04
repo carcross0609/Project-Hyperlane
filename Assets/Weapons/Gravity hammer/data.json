@@ -1,0 +1,20 @@
+{
+  "name": "Gravity hammer",
+  "wookieepedia_title": "Gravity hammer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gravity_hammer",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A gravity hammer was a type of hammer used by the Armorer to forge Mandalorian armor. Around 9 ABY, the Armorer used it within her workshop inside the Mandalorian covert on the Outer Rim planet Nevarro to forge Din Djarin's armor. Later, she used it within the covert on Glavis Ringworld to reforge a beskar spear to Grogu's chainmail shirt. She also used it to spar with Din Djarin, while she trained him to use the Darksaber, as the tool was able to repel strikes from the lightsaber.",
+  "data": {
+    "name": "Gravity hammer",
+    "type": "Tool",
+    "locations": [
+      "Nevarro",
+      "Glavis Ringworld"
+    ],
+    "material": "Beskar",
+    "affiliation": "The Tribe"
+  },
+  "scraped": "2026-07-03"
+}

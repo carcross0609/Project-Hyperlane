@@ -1,0 +1,40 @@
+{
+  "name": "Thermal detonator",
+  "wookieepedia_title": "Thermal detonator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thermal_detonator",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Thermal detonators, also known as thermal charges or thermal devices, were palm-sized, spherical devices that were used as extremely deadly explosive weapons. Different models of thermal detonators saw use across galactic history, resulting in their wide-spread usage by militaries and third party actors alike.",
+  "data": {
+    "name": "Thermal detonator",
+    "manufacturer": [
+      "BlasTech Industries",
+      "Merr-Sonn Munitions, Inc."
+    ],
+    "model": [
+      "Class-A thermal detonator",
+      "N-20 Baradium-core thermal detonator"
+    ],
+    "type": "Grenade-like explosive",
+    "cost": "2,000 credits",
+    "shape": "Spherical",
+    "material": "Contained baradium",
+    "capacity": "1 detonation",
+    "range": "5 meter radius",
+    "purpose": "Demolition",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Military",
+      "Nihil",
+      "Confederacy of Independent Systems",
+      "  Separatist Droid Army",
+      "Cad Bane's group",
+      "Galactic Empire",
+      "  Imperial Military",
+      "Alliance to Restore the Republic",
+      "Warbird gang"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

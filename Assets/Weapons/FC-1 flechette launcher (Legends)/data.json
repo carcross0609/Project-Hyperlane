@@ -1,0 +1,28 @@
+{
+  "name": "FC-1 flechette launcher",
+  "wookieepedia_title": "FC-1 flechette launcher/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/FC-1_flechette_launcher/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The FC-1 flechette launcher was an antipersonnel and antivehicle flechette launcher produced by Golan Arms.",
+  "data": {
+    "name": "FC-1 flechette launcher",
+    "manufacturer": "Golan Arms",
+    "model": "FC-1",
+    "type": "Flechette launcher",
+    "cost": "2,000 credits",
+    "weight": "20 kg",
+    "capacity": "6 flechette canisters",
+    "range": [
+      "100 meters (optimum)",
+      "250 meters(maximum)"
+    ],
+    "affiliation": [
+      "Corporate Sector Authority",
+      "Imperial Remnant",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

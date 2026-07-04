@@ -1,0 +1,25 @@
+{
+  "name": "Police probe",
+  "wookieepedia_title": "Police probe/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Police_probe/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The police probe was a type of hovering cam droid used by the Coruscant Security Force to assist in policing the Galactic Republic's capital planet of Coruscant during the Clone Wars. One probe was present after Davu Golec of the Republic Ministry of Intelligence was killed by an assassin. Seeing only Duchess Satine Kryze of Mandalore at the scene, the probe assumed that she had been the murderer. After informing other CSF forces of the situation, the probe initiated a police chase, though the Duchess eventually escaped the area.",
+  "data": {
+    "name": "Police probe",
+    "class": "Cam droid",
+    "gender": "Masculine programing",
+    "equipment": [
+      "Antenna",
+      "Holocam",
+      "Lights",
+      "Siren"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Coruscant Security Force"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

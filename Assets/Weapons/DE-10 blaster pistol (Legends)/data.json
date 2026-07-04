@@ -1,0 +1,21 @@
+{
+  "name": "DE-10 blaster pistol",
+  "wookieepedia_title": "DE-10 blaster pistol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DE-10_blaster_pistol/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DE-10 blaster pistol was a model of blaster pistol that saw use in the galaxy during the Galactic Civil War. Its heaviest users in the period were members of the Death Watch, a Mandalorian splinter group based on the Forest Moon of Endor at the time. When a spacer infiltrated the Death Watch bunker, their main base on the moon, sometime after the Battle of Yavin, the sentient discovered a schematic for the weapon along with specialized barrels used in its construction. The spacer eventually had one of the weapons created for personal use.",
+  "data": {
+    "name": "DE-10 blaster pistol",
+    "model": "DE-10",
+    "type": "Blaster pistol",
+    "locations": [
+      "Forest Moon of Endor",
+      "Mustafar"
+    ],
+    "range": "65 meters",
+    "affiliation": "Death Watch"
+  },
+  "scraped": "2026-07-03"
+}

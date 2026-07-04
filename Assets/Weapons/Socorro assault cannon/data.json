@@ -1,0 +1,21 @@
+{
+  "name": "Socorro assault cannon",
+  "wookieepedia_title": "Socorro assault cannon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Socorro_assault_cannon",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Socorro assault cannons were a series of portable blaster cannons that were considered antiquated by the time of the Conquest of Makeb.",
+  "data": {
+    "name": "Socorro assault cannon",
+    "model": [
+      "Socorro assault cannon aurek",
+      "Socorro assault cannon besh",
+      "Socorro assault cannon cresh",
+      "Socorro assault cannon dorn"
+    ],
+    "type": "Blaster cannon",
+    "culture": "Socorro"
+  },
+  "scraped": "2026-07-03"
+}

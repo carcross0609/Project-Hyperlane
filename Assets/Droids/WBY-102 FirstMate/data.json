@@ -1,0 +1,27 @@
+{
+  "name": "WBY-102 FirstMate",
+  "wookieepedia_title": "WBY-102 FirstMate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/WBY-102_FirstMate",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The WBY-102 FirstMate was a specialized third-degree droid programmed to instruct people in sailing, caring for and navigating a multi-crewed sailing vessel. It was sheathed in waterproof hard plastic. It has an inflatable flotation bag designed to deploy if the droid was submerged in water.",
+  "data": {
+    "name": "WBY-102 FirstMate",
+    "line": "WBY series",
+    "class": "Sailing droid",
+    "height": "1.6 meters",
+    "plating": "Deep blue",
+    "equipment": [
+      "Emergency inflatable flotation bag",
+      "Visual sensor recorders",
+      "Auditory sensor recorders",
+      "Vocabulator speech/sound system",
+      "Comlink",
+      "AA-1 VerboBrain",
+      "Inertial compensators",
+      "Waterproof hard-impact plastic shell"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

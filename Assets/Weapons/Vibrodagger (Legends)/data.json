@@ -1,0 +1,23 @@
+{
+  "name": "Vibrodagger",
+  "wookieepedia_title": "Vibrodagger/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vibrodagger/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A vibrodagger, or vibro-dagger, was a knife-like vibroweapon.",
+  "data": {
+    "name": "Vibrodagger",
+    "type": "Vibroblade",
+    "cost": "200 credits",
+    "shape": "Knife-like",
+    "size": "Hand-held",
+    "weight": "1 kg",
+    "range": "Thrown weapon range",
+    "purpose": [
+      "Melee combat",
+      "Thrown weapon"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

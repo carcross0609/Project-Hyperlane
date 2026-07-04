@@ -1,0 +1,19 @@
+# Ne'eda Frip's protocol droid
+
+**Kind:** Individual  
+**Continuity:** Canon  
+**Source:** [Ne'eda Frip's protocol droid](https://starwars.fandom.com/wiki/Ne%27eda_Frip%27s_protocol_droid)
+
+A protocol droid was owned by the crime lord Ne'eda Frip, leader of Ne'eda's Stalwarts on Neral's moon. The protocol droid translated for Frip, who usually resided within a tank in her tower. When the smuggler Lando Calrissian visited Frip after failing to pay back a debt, the droid spoke with Calrissian, translating his master's words. Calrissian attempted to work his way out of immediate punishment by falsely promising to give Frip a valuable Hynestian royal artifact he had aboard his starship, the Millennium Falcon. Frip sent one of her Stalwarts with Calrissian to inspect the cargo, but the smuggler escaped, though was captured by Queen Forsythia Jin of Hynestia. Ne'eda's Stalwarts managed to track Calrissian back to Hynestia, and the droid led a squadron of five starships to pursue him. Calrissian managed to outmaneuver the Stalwarts, destroying four of the vessels, while the surviving ship fled.
+
+## Specifications
+
+- **Name:** Ne'eda Frip's protocol droid
+- **Class:** Protocol droid
+- **Gender:** Masculine programming
+- **Pronouns:** new
+- **Affiliation:** Ne'eda's Stalwarts
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

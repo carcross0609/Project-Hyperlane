@@ -1,0 +1,25 @@
+{
+  "name": "Shyarn",
+  "wookieepedia_title": "Shyarn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shyarn",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Shyarns were light, curved swords employed by the ancient Cereans during their traditional honor duels.",
+  "data": {
+    "name": "Shyarn",
+    "type": "Exotic Melee weapon",
+    "culture": "Cerean culture",
+    "creators": "Cereans",
+    "cost": "40 credits",
+    "shape": "Sword-like",
+    "size": "One-handed weapon",
+    "material": "Unique metals found on Cerea",
+    "weight": "1 kg",
+    "purpose": [
+      "Ceremonial weapon",
+      "Melee combat"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

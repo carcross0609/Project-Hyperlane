@@ -1,0 +1,26 @@
+{
+  "name": "Pulse-wave blaster",
+  "wookieepedia_title": "Pulse-wave blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pulse-wave_blaster",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The pulse-wave blaster, or pulse-wave pistol, was a ranged weapon seen as the predecessor of the blaster pistol. They were commonly in use c. 4000 BBY, but had been replaced by the first models of the standard blaster by 3956 BBY. By the time of the Rise of the Empire era these weapons were virtually extinct and considered archaic, however they were still used in the Outer Rim Territories and in Wild Space, particularly on backwater worlds.",
+  "data": {
+    "name": "Pulse-wave blaster",
+    "type": "Pulse-wave pistol",
+    "cost": "200 credits",
+    "size": "Small",
+    "weight": "1 kg",
+    "capacity": "100 shots",
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 90 meters"
+    ],
+    "affiliation": [
+      "Krath",
+      "  Krath war droids"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

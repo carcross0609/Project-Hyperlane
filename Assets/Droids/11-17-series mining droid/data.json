@@ -1,0 +1,33 @@
+{
+  "name": "11-17-series mining droid",
+  "wookieepedia_title": "11-17-series mining droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/11-17-series_mining_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "11-17 mining droids were independent mole miners. They were made by Slayn & Korpil and Roche. 11-17s were equipped with a large plasma jet, a telescoping circular saw and a blow torch. To protect it against rockslides, the 11-17 had durasteel armor plating. Such droids were used on Hosk Station.",
+  "data": {
+    "name": "11-17-series mining droid",
+    "manufacturer": "Roche/Slayn & Korpil",
+    "class": "Mining droid",
+    "degree": "Class five",
+    "cost": [
+      "3500 credits (new)",
+      "2650 credits (used)"
+    ],
+    "height": "1 meter",
+    "sensor": "White",
+    "equipment": [
+      "1 plasma jet",
+      "1 telescoping circular saw",
+      "1 blowtorch",
+      "Durasteel armor plating",
+      "1 retractable broadband antennae",
+      "OmniNode communications set",
+      "Model SW-95 Message Transceiver",
+      "Heavy tank treads",
+      "3 High-beam spotlights"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

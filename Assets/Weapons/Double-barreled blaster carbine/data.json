@@ -1,0 +1,27 @@
+{
+  "name": "Double-barreled blaster carbine",
+  "wookieepedia_title": "Double-barreled blaster carbine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Double-barreled_blaster_carbine",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The double-barreled blaster carbine was a powerful blaster small enough to conceal under loose clothing. Unlike a normal blaster carbine, the double-barreled carbine did not have an autofire setting, however it could be switched to a \"double shot\" mode which allowed the weapon to fire two shots at the same time, targeting a wider area.",
+  "data": {
+    "name": "Double-barreled blaster carbine",
+    "type": "Blaster carbine",
+    "cost": "1,200 credits",
+    "shape": "Double-barreled",
+    "size": "Medium",
+    "weight": "1.9 kg",
+    "capacity": [
+      "50 shots",
+      "Close-range stun setting available"
+    ],
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 225 m"
+    ],
+    "purpose": "Ranged combat"
+  },
+  "scraped": "2026-07-03"
+}

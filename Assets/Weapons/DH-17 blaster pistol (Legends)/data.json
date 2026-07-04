@@ -1,0 +1,30 @@
+{
+  "name": "DH-17 blaster pistol",
+  "wookieepedia_title": "DH-17 blaster pistol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DH-17_blaster_pistol/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DH-17 blaster pistol was a ranged weapon produced by BlasTech Industries and used primarily for shipboard combat.",
+  "data": {
+    "name": "DH-17 blaster pistol",
+    "manufacturer": "BlasTech Industries",
+    "type": "Blaster pistol",
+    "cost": "550—800 credits",
+    "length": "43.2 cm (17 inches)",
+    "weight": "1 kilogram",
+    "capacity": "100 shots",
+    "range": [
+      "30 meters (optimum range)",
+      "120 meters (maximum range)"
+    ],
+    "affiliation": [
+      "Law enforcement agencies",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

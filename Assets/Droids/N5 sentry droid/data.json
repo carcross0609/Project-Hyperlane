@@ -1,0 +1,33 @@
+{
+  "name": "N5 sentry droid",
+  "wookieepedia_title": "N5 sentry droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/N5_sentry_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The N5 sentry droid, also known as the New Republic Security Droid, was a model of security droid manufactured by SoroSuub Corporation that existed in the Imperial Era and the later New Republic Era, where it would be used by the New Republic Correctional Corps.",
+  "data": {
+    "name": "N5 sentry droid",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "N5",
+    "class": [
+      "Security droid",
+      "Sentry droid"
+    ],
+    "height": "1.95 meters (6 ft, 5 in)",
+    "sensor": "Yellow",
+    "plating": "Gray",
+    "armament": [
+      "DH-17 blaster pistol",
+      "Stun baton"
+    ],
+    "affiliation": [
+      "Second Revelation",
+      "New Republic",
+      "  New Republic Correctional Corps",
+      "Droid Gotra",
+      "The Twins"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

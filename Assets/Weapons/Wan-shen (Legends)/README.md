@@ -1,0 +1,18 @@
+# Wan-shen
+
+**Kind:** Model  
+**Continuity:** Legends  
+**Source:** [Wan-shen/Legends](https://starwars.fandom.com/wiki/Wan-shen/Legends)
+
+Wan-shen was the weapon of Matukai, constructed when they graduated from apprentice to adept. This weapon was a polearm with a short, single blade on one end and served as a focal point for their abilities. The weapon, much like a lightsaber, tended to be decorated and crafted according to the adept's tastes and preferences. Many were made of collapsible or separative shafts for ease of concealment and transportation, as the wan-shen tended to be around 2 meters in length. Masters of this weapon were capable of swinging it around their bodies and attacking with incredible speed and ability. Because they were made with the use of the Force, many wan-shen staves and their blades were capable of resisting lightsabers.
+
+## Specifications
+
+- **Name:** Wan-shen
+- **Cost:** 1,000 credits
+- **Weight:** 2 kg
+- **Affiliation:** Matukai
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

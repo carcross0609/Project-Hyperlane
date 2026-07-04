@@ -1,0 +1,26 @@
+# Stun net
+
+**Kind:** Model  
+**Continuity:** Canon  
+**Source:** [Stun net](https://starwars.fandom.com/wiki/Stun_net)
+
+The stun net, also known as an electro-net or an energy net, was an electrified webbing favored by the Trandoshans for capturing live prey. They were sometimes launched from electrified net guns, which fired five yellow energy balls, between which the webbing of the net formed and expanded as it approached its target. When the electro-net made contact with its victim, it ensnared them and delivered an electric shock, rendering them unconscious before dissipating. They were also capable of disabling droids.
+
+## Specifications
+
+- **Name:** Stun net
+- **Model:** Electro-net
+- **Type:** Net
+- **Culture:** Hunting
+- **Locations:**
+  - Balnab
+  - Felucia
+  - Tenoo
+- **Shape:** Web
+- **Material:** Energy
+- **Purpose:** Ensnaring targets and rendering them unconscious
+- **Affiliation:** Confederacy of Independent Systems
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

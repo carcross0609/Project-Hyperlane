@@ -1,0 +1,26 @@
+{
+  "name": "Force pike",
+  "wookieepedia_title": "Force pike/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Force_pike/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Force pike, also referred to as an energy pike, stun pike, or stun pole, was the name of several similar weapons that evolved independently between races and civilizations throughout the galaxy.",
+  "data": {
+    "name": "Force pike",
+    "type": [
+      "Vibro-weapon",
+      "Electrical stunning weapon"
+    ],
+    "cost": "500 credits",
+    "shape": "Polearm",
+    "length": "1 meter",
+    "weight": "2-7 kilograms",
+    "purpose": [
+      "Crowd control",
+      "Security",
+      "Defense"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "G-003 Tri-Tracker",
+  "wookieepedia_title": "G-003 Tri-Tracker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G-003_Tri-Tracker",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The G-003 Tri-Tracker was built by CoMar Combat Systems.",
+  "data": {
+    "name": "G-003 Tri-Tracker",
+    "manufacturer": "CoMar Combat Systems",
+    "type": [
+      "Medium surface-to-air defense",
+      "Anti-atmospheric gun"
+    ],
+    "cost": [
+      "50,000 credits (new)",
+      "25,000 credits (used)"
+    ],
+    "crew": "2",
+    "capacity": "40 (battery)",
+    "range": [
+      "20–600 meters (short range)",
+      "601–3,000 meters (medium range)",
+      "3,001 – 16,000 meters (long range)",
+      "10 meter blast radius"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

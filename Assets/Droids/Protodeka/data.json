@@ -1,0 +1,29 @@
+{
+  "name": "Protodeka",
+  "wookieepedia_title": "Protodeka",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Protodeka",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Protodeka was a prototype droid mobile ground siege weapon designed by a Colicoid engineer and manufactured by Geonosians on the planet Raxus Prime that was used by the Confederacy of Independent Systems during the Dark Reaper crisis.",
+  "data": {
+    "name": "Protodeka",
+    "manufacturer": "Geonosians",
+    "designer": "A Colicoid engineer",
+    "homeworld": "Raxus Prime",
+    "model": "Protodeka prototype",
+    "class": "Mobile ground siege weapon",
+    "sensor": "Red",
+    "armament": [
+      "Claw",
+      "Homing concussion missiles",
+      "Laser cannons",
+      "Seismic wave emitter"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Separatist Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

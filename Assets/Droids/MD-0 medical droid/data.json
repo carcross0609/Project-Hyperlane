@@ -1,0 +1,30 @@
+{
+  "name": "MD-0 medical droid",
+  "wookieepedia_title": "MD-0 medical droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MD-0_medical_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "MD-0 medical droids or MD-0 diagnostic droids were medical droids made by Industrial Automaton. They were part of the MD-series medical droid line and had specialized diagnostic sensors in their six-fingered hands.",
+  "data": {
+    "name": "MD-0 medical droid",
+    "manufacturer": "Industrial Automaton",
+    "homeworld": "Telti",
+    "line": "MD-series medical droid",
+    "class": "Class one",
+    "cost": "2,000 credits",
+    "height": "1.5 meters",
+    "sensor": "Yellow",
+    "plating": "Gray",
+    "equipment": [
+      "Detachable hands",
+      "Medical diagnostic computer",
+      "Medical diagnostic sensors",
+      "Photoreceptors",
+      "Surgical gown",
+      "Tool mount",
+      "Vocabulator"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

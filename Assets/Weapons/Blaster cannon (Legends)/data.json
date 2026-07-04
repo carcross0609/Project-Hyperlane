@@ -1,0 +1,34 @@
+{
+  "name": "Blaster cannon",
+  "wookieepedia_title": "Blaster cannon/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blaster_cannon/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A blaster cannon, also known as a flash cannon and assault cannons, was a limited-range heavy artillery variant of the handheld blaster. Blaster cannons were commonly fitted aboard atmospheric vehicles; however, a portable shoulder-fired version was also used to inflict devastation on vehicles, troops, and structures.",
+  "data": {
+    "name": "Blaster cannon",
+    "type": "Heavy weapon",
+    "cost": "3000 credits (Available for military use only)",
+    "size": [
+      "Two-handed portable shoulder-fired weapon",
+      "Vehicle-mounted weapon",
+      "Built-in droid weapon"
+    ],
+    "weight": "18 kg",
+    "capacity": "6 shots to 10 shots",
+    "range": [
+      "Portable version:",
+      "  Optimum: up to 150 m",
+      "  Maximum: up to 375 m",
+      "Vehicle-mounted version:",
+      "  Optimum: up to 360 m",
+      "  Maximum: up to 1800 m"
+    ],
+    "purpose": [
+      "Anti-personnel weaponry",
+      "Anti-vehicle weaponry"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

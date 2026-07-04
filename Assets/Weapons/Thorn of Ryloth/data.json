@@ -1,0 +1,31 @@
+{
+  "name": "Thorn of Ryloth",
+  "wookieepedia_title": "Thorn of Ryloth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thorn_of_Ryloth",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Thorn of Ryloth was a specialized Twi'lek melee-weapon that was utilized by Rebel Alliance mercenary, Rianna Saren. It was stated that Ryloth had these edged blades in abundance, however beyond the planet, these weapons were rare and due to this, expensive off-world.",
+  "data": {
+    "name": "Thorn of Ryloth",
+    "type": [
+      "Melee-weapon",
+      "  Spring-knife"
+    ],
+    "owners": "Rianna Saren",
+    "locations": [
+      "Ryloth",
+      "Coruscant",
+      "Alderaan",
+      "Mustafar",
+      "Tatooine",
+      "Despayre",
+      "DS-1 Orbital Battle Station",
+      "Danuta"
+    ],
+    "shape": "Pronged blade",
+    "range": "Melee-weapon range",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

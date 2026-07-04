@@ -1,0 +1,21 @@
+{
+  "name": "StarSlasher Blaster Carbine",
+  "wookieepedia_title": "StarSlasher Blaster Carbine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/StarSlasher_Blaster_Carbine",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The StarSlasher Blaster Carbine was a blaster carbine produced by BlasTech Industries. It was one of the oldest working models of blaster carbine in the galaxy, and was very reliable, able to remain functional after being left neglected in a storage crate for a decade.",
+  "data": {
+    "name": "StarSlasher Blaster Carbine",
+    "manufacturer": "BlasTech Industries",
+    "type": "Blaster carbine",
+    "cost": [
+      "900 credits",
+      "25 credits per blaster power pack"
+    ],
+    "capacity": "100 shots",
+    "range": "250 meters"
+  },
+  "scraped": "2026-07-03"
+}

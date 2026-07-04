@@ -1,0 +1,24 @@
+{
+  "name": "C-136",
+  "wookieepedia_title": "C-136",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/C-136",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The C-136 was a land-based ion cannon produced by Speizoc Arms. Intended for use against targets such as cities and other infrastructure, the C-136 was also capable of striking targets in low-orbit. The C-136 was effective against the less refined deflector shield designs of the time it was designed in, but the weapon became obsolete as the effectiveness of shield technology increased.",
+  "data": {
+    "name": "C-136",
+    "manufacturer": "Speizoc Arms",
+    "type": "Heavy surface-to-surface bombardment cannon",
+    "cost": "100,000 (used)",
+    "crew": "7",
+    "capacity": "40 power generator",
+    "range": [
+      "50–600 meters",
+      "601–5,000 meters",
+      "5,001–25,000 meters",
+      "100 meter blast radius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Spear",
+  "wookieepedia_title": "Spear/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spear/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A spear was a weapon used by hunters and warriors in a variety of galactic cultures, especially primitive ones, either as a melee or thrown weapon.",
+  "data": {
+    "name": "Spear",
+    "type": "Melee weapon",
+    "culture": "Primitive",
+    "cost": "60 credits",
+    "weight": "1.5 kg",
+    "range": [
+      "Melee weapon",
+      "Thrown weapon range"
+    ],
+    "purpose": [
+      "Combat",
+      "Hunting",
+      "Sport"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

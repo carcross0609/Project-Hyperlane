@@ -1,0 +1,42 @@
+{
+  "name": "Lightsaber pike",
+  "wookieepedia_title": "Lightsaber pike/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lightsaber_pike/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The lightsaber pike, also known as the lightsaber lance, was a unique weapon that resembled a primitive halberd or spear in many aspects. As staff weapons, they were typically considered the domain of exotic weapon specialists among the Jedi. They were notably used by all Jedi Temple Guards during the Clone Wars.",
+  "data": {
+    "name": "Lightsaber pike",
+    "model": "Lightsaber",
+    "type": [
+      "Single-bladed",
+      "Double-bladed"
+    ],
+    "culture": [
+      "Eternal Empire",
+      "Jedi",
+      "Galactic Empire"
+    ],
+    "owners": [
+      "Senya Tirall (Senya Tirall's lightsaber pike)",
+      "Kazdan Paratus (Kazdan Paratus's lightsaber pike)",
+      "Judd (Judd's lightsaber pike)"
+    ],
+    "cost": "4,000 credits",
+    "shape": "Cylindrical, straight",
+    "weight": "2 kg",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Eternal Empire",
+      "  Knights of Zakuul",
+      "Jedi Order",
+      "  Jedi Temple Guard",
+      "Galactic Empire",
+      "  Emperor's Shadow Guard",
+      "  Emperor's Royal Guard",
+      "  Imperial Senate Guard"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

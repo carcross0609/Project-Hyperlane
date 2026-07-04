@@ -1,0 +1,28 @@
+{
+  "name": "Ion blaster",
+  "wookieepedia_title": "Ion blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ion_blaster",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Ion blasters, also known as ionization blasters, and Droid blaster, were handheld weapons used by the Jawas of Tatooine while hunting for salvage. These customized blasters fired particles of ionized energy to disable the electrical systems of droids, rendering them powerless. When used against living creatures, they could be used as stun weapons.",
+  "data": {
+    "name": "Ion blaster",
+    "model": "Handcrafted ion blaster pistol",
+    "type": "Blaster pistol",
+    "culture": "Jawas",
+    "creators": "Jawas",
+    "locations": "Tatooine",
+    "cost": "250 credits",
+    "size": "Handheld",
+    "weight": "3 kilograms",
+    "capacity": "1 shot",
+    "range": [
+      "8 meters (optimal)",
+      "12 meters (39 ft) (maximum)"
+    ],
+    "purpose": "Droid immobilization",
+    "affiliation": "Jawas"
+  },
+  "scraped": "2026-07-03"
+}

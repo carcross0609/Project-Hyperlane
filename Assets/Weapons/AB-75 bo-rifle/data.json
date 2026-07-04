@@ -1,0 +1,27 @@
+{
+  "name": "AB-75 bo-rifle",
+  "wookieepedia_title": "AB-75 bo-rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/AB-75_bo-rifle",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The AB-75 bo-rifle was a model of bo-rifle manufactured by the Lasan-Malamut Firearms Corporation. Bo-rifles had a long tradition in the Lasat culture, and were used exclusively by the Lasan High Honor Guard. Since the destruction of Lasan by the Empire, bo-rifles were rarely seen anywhere in the galaxy.",
+  "data": {
+    "name": "AB-75 bo-rifle",
+    "manufacturer": "Lasan-Malamut Firearms Corporation",
+    "model": "AB-75 bo-rifle",
+    "type": [
+      "Blaster rifle",
+      "Electrostaff"
+    ],
+    "culture": "Lasat",
+    "cost": "900 credits",
+    "weight": "19 kilograms",
+    "affiliation": [
+      "Lasan High Honor Guard",
+      "Galactic Empire",
+      "  Imperial Security Bureau"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

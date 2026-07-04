@@ -1,0 +1,21 @@
+{
+  "name": "Adhesive grenade",
+  "wookieepedia_title": "Adhesive grenade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adhesive_grenade",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The adhesive grenade was a type of grenade used during and after the Jedi Civil War, around 4000 BBY.",
+  "data": {
+    "name": "Adhesive grenade",
+    "type": "Grenade",
+    "cost": "200 credits",
+    "size": "Hand-held",
+    "weight": "0.5 kg",
+    "range": [
+      "Thrown weapon range",
+      "3-meter blast radius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

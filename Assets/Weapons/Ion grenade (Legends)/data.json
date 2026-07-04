@@ -1,0 +1,30 @@
+{
+  "name": "Ion grenade",
+  "wookieepedia_title": "Ion grenade/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ion_grenade/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Ion grenades were hand grenades that disrupted electronics similar to EMP grenades.",
+  "data": {
+    "name": "Ion grenade",
+    "type": "Grenade",
+    "cost": "250 credits",
+    "size": "Hand-held",
+    "weight": "0.5 kilograms",
+    "capacity": "Single use",
+    "range": [
+      "Thrown weapon",
+      "3-meter blast radius"
+    ],
+    "purpose": "Disabling droids or vehicles",
+    "affiliation": [
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "    ARC troopers",
+      "    Clone commandos",
+      "Darth Revan's Sith Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

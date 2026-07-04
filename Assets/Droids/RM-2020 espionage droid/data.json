@@ -1,0 +1,35 @@
+{
+  "name": "RM-2020 espionage droid",
+  "wookieepedia_title": "RM-2020 espionage droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RM-2020_espionage_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "RM-2020 espionage droids were a model from MerenData.",
+  "data": {
+    "name": "RM-2020 espionage droid",
+    "manufacturer": "MerenData",
+    "class": "Espionage droid",
+    "degree": "Class four droid",
+    "cost": [
+      "160,000 credits (new)",
+      "100,000 credits (used) (black market only)"
+    ],
+    "height": "1 meter",
+    "armament": [
+      "Defensive energy cannon",
+      "Wide-dispersal ionizer"
+    ],
+    "equipment": [
+      "Analysis sensor",
+      "Espionage hardwired module",
+      "Information recording/coded broadcast system",
+      "Infrared sensor",
+      "Repulsorlift engine",
+      "Ultraviolet sensor",
+      "Visual/audio sensor package",
+      "Vocabulator speech/sound system"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

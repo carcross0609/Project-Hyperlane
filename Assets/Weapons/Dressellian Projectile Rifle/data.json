@@ -1,0 +1,32 @@
+{
+  "name": "Dressellian Projectile Rifle",
+  "wookieepedia_title": "Dressellian Projectile Rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dressellian_Projectile_Rifle",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Dressellian Projectile Rifle was a slugthrower rifle used by the Dressellians in their resistance against the Galactic Empire's occupation of their homeworld, Dressel. A crude weapon typically built with primitive tools, some of the slugthrowers were made by the Dressellians, while others were smuggled to Dressel by Bothans. In 4 ABY, several Dressellians fought for the Alliance to Restore the Republic at the Battle of Endor, and the Dressellian Projectile Rifle was among the weapons used by the species in the battle.",
+  "data": {
+    "name": "Dressellian Projectile Rifle",
+    "manufacturer": [
+      "Dressellians",
+      "Bothans"
+    ],
+    "type": "Slugthrower rifle",
+    "locations": "Dressel",
+    "cost": "300 credits",
+    "size": "Medium",
+    "material": [
+      "Metal",
+      "Dressellian woods"
+    ],
+    "weight": "4 kilograms",
+    "capacity": "Clips of 12 shells",
+    "range": "200 meters",
+    "affiliation": [
+      "Dressellian resistance",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

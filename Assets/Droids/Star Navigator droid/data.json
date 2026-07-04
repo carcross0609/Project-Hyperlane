@@ -1,0 +1,23 @@
+{
+  "name": "Star Navigator droid",
+  "wookieepedia_title": "Star Navigator droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Navigator_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "Star Navigator droids were droids that served on the Eye of Sion as part of Morgan Elsbeth's forces. Their number included a red sensored droid and a white sensored droid.",
+  "data": {
+    "name": "Star Navigator droid",
+    "class": "Pilot droid",
+    "sensor": [
+      "Red",
+      "White"
+    ],
+    "plating": "Gold",
+    "affiliation": [
+      "Morgan Elsbeth's forces",
+      "Thrawn's forces"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

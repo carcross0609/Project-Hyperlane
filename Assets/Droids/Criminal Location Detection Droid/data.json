@@ -1,0 +1,30 @@
+{
+  "name": "Criminal Location Detection Droid",
+  "wookieepedia_title": "Criminal Location Detection Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Criminal_Location_Detection_Droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "A Criminal Location Detection Droid was a model of seeker droid in use during the early years of the New Republic.",
+  "data": {
+    "name": "Criminal Location Detection Droid",
+    "line": "Seeker",
+    "cost": "15,000 credits",
+    "height": "0.35 meters diameter",
+    "sensor": [
+      "Audio sensor",
+      "Photoreceptor"
+    ],
+    "equipment": [
+      "AA-1 VerboBrain",
+      "Comlink",
+      "DNA Tracer/Tracing Module",
+      "Repulsorlift",
+      "stabilizers",
+      "Threat Evaluation Module",
+      "TranLang I-A Communications module",
+      "Vocabulator"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

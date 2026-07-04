@@ -1,0 +1,22 @@
+{
+  "name": "MX-10",
+  "wookieepedia_title": "MX-10",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MX-10",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Merr-Sonn MX-10 was an anti-vehicle missile launcher emplacement developed by Merr-Sonn Munitions during the Galactic Civil War.",
+  "data": {
+    "name": "MX-10",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "type": "Anti-vehicle missile emplacement",
+    "cost": [
+      "20,000 credits (new)",
+      "8,000 credits (used)"
+    ],
+    "capacity": "10 missiles",
+    "range": "10 kilometers",
+    "purpose": "Anti-vehicle weapon"
+  },
+  "scraped": "2026-07-03"
+}

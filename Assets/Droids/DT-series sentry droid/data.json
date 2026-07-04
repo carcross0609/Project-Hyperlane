@@ -1,0 +1,49 @@
+{
+  "name": "DT-series sentry droid",
+  "wookieepedia_title": "DT-series sentry droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DT-series_sentry_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The DT-series sentry droid, the \"DT\" standing for Dark Trooper, and also known simply as the Imperial sentry droid, was a line of sentry droids for the Dark Trooper project, manufactured by Baktoid Combat Automata and utilized by the Galactic Empire. Imperial sentry droids were used as guards and combat training units, with one specific training model being stationed in Tipoca City on the extragalactic Kamino after the Clone Wars. Many of the droids were stationed aboard Imperial starships such as Class four container transports and Imperial Star Destroyers.",
+  "data": {
+    "name": "DT-series sentry droid",
+    "manufacturer": "Baktoid Combat Automata",
+    "model": "DT-series sentry droid",
+    "class": [
+      "Assassin droid",
+      "Sentry droid",
+      "Training droid"
+    ],
+    "height": "2 meters",
+    "sensor": [
+      "Red",
+      "Purple (Under Scourge infection)"
+    ],
+    "plating": [
+      "Black and gray",
+      "White"
+    ],
+    "armament": [
+      "Built-in E-11 medium blaster rifle",
+      "Built-in Smart Rocket",
+      "Electrostaff",
+      "Electrohammer"
+    ],
+    "affiliation": [
+      "Ruling Council",
+      "Galactic Republic",
+      "  Dark Trooper project",
+      "Galactic Empire",
+      "  Imperial Military",
+      "Clone Force 99 (reprogrammed)",
+      "Droid uprising",
+      "Scourge (As a vessel)"
+    ],
+    "firstmade": [
+      "19 BBY (white model)",
+      "By 9 BBY (black model)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

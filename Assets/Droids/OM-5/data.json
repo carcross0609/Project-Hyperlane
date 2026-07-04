@@ -1,0 +1,28 @@
+{
+  "name": "OM-5",
+  "wookieepedia_title": "OM-5",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/OM-5",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "OM-5 was a B1-series battle droid who served in the droid army of the Confederacy of Independent Systems during the Clone Wars. In 22 BBY, the battle droid participated in the Confederacy's invasion of the planet Ryloth, where they and fellow B1 battle droid OM-7 were ordered by an OOM command battle droid to investigate a Galactic Republic Low Altitude Assault Transport/infantry gunship that was preventing their assault against the Republic's garrison. The gunship had been engineered to explode, and while inspecting the vessel, the two battle droids were destroyed when it was detonated by a clone trooper, ultimately forcing the droid army to take a different path.",
+  "data": {
+    "type": "CIS",
+    "name": "OM-5",
+    "death": "22 BBY, Ryloth",
+    "line": "B-series battle droid",
+    "model": "B1-series battle droid",
+    "class": "Battle droid",
+    "height": "1.93 meters",
+    "mass": "65 kilograms",
+    "sensor": "Black",
+    "plating": "Bone-white",
+    "armament": "E-5 blaster rifle",
+    "equipment": "Comlink booster pack",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Separatist Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "R5-2JE",
+  "wookieepedia_title": "R5-2JE",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R5-2JE",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "R5-2JE, also known as \"Toojay,\" was an R5 series astromech droid that served as the head of the droid pool for the forest landing area in the Resistance base on the moon Ajan Kloss. The droid also filled out shipboard astromech duties, and used a restraining bolt that had been modified into a command signal bolt that allowed R5-2JE to send commands and work orders to similarly equipped Resistance droids from a distance.",
+  "data": {
+    "type": "Resistance",
+    "name": "R5-2JE",
+    "manufacturer": "Industrial Automaton",
+    "line": "R-series",
+    "model": "R5 series astromech droid",
+    "class": "Astromech droid",
+    "height": "97 centimeters",
+    "sensor": "Silver",
+    "plating": "Red and white",
+    "equipment": [
+      "Command signal bolt",
+      "Spacecraft linkage and control arms"
+    ],
+    "affiliation": "Resistance"
+  },
+  "scraped": "2026-07-03"
+}

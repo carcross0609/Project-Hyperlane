@@ -1,0 +1,30 @@
+{
+  "name": "Pablo-Jill's lightsaber",
+  "wookieepedia_title": "Pablo-Jill's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pablo-Jill%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Pablo-Jill's lightsaber was the personal blue-bladed lightsaber of Jedi Knight Pablo-Jill. Separatist warlord General Grievous claimed the lightsaber from floating debris, after injuring Pablo-Jill in an intense duel in a collapsing satellite city over Duro.",
+  "data": {
+    "name": "Pablo-Jill's lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "owners": [
+      "Pablo-Jill",
+      "General Grievous"
+    ],
+    "hilt_shape": "Cylindrical, straight",
+    "hilt_length": "29.2 centimeters (11.5 inches)",
+    "hilt_material": "Alloy metal",
+    "crystal": "Kyber crystal",
+    "color": "Blue",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

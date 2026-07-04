@@ -1,0 +1,30 @@
+{
+  "name": "Smoke grenade",
+  "wookieepedia_title": "Smoke grenade/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Smoke_grenade/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Smoke grenades or smoke bombs were a type of grenade that released clouds of thick smoke to obscure the vision of enemies.",
+  "data": {
+    "name": "Smoke grenade",
+    "type": "Grenade",
+    "cost": "100 credits",
+    "size": "Hand-held",
+    "weight": "0.5 kg",
+    "capacity": [
+      "Single-use",
+      "Smoke lasted for one minute"
+    ],
+    "range": [
+      "Thrown weapon range",
+      "3-meter blast radius"
+    ],
+    "purpose": [
+      "Marking landing zones",
+      "Obscuring the vision of enemies",
+      "Signaling"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

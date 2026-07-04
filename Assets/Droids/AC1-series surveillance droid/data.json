@@ -1,0 +1,24 @@
+{
+  "name": "AC1-series surveillance droid",
+  "wookieepedia_title": "AC1-series surveillance droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/AC1-series_surveillance_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The AC1-series surveillance droid, also known as Spy Eyes, was among the most ubiquitous model of surveillance droid manufactured by Cybot Galactica. They were spherical droids that were under a meter across, equipped with a low-output repulsorlift generator and were packed full of sophisticated imaging and observation systems. These droids were used by the Galactic Empire in Murkhana City, along with an ASN courier droid retrofitted with a holotransmitter, to infiltrate a former medcenter that housed a deflector shield generator.",
+  "data": {
+    "name": "AC1-series surveillance droid",
+    "manufacturer": "Cybot Galactica",
+    "model": "Surveillance droid",
+    "cost": "1,100 credits",
+    "armament": "Turret-mounted light blaster pistol",
+    "equipment": [
+      "Holocam",
+      "Holotransceiver",
+      "Repulsorlift generator",
+      "Various sensors"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Datadagger",
+  "wookieepedia_title": "Datadagger",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Datadagger",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Datadaggers were concealed personal weapons seen among the gentry and nobility of Chandrila.",
+  "data": {
+    "name": "Datadagger",
+    "type": "Disguised melee weapon",
+    "culture": "Chandrilans",
+    "locations": "Chandrila",
+    "cost": "500 credits",
+    "shape": "Looks like a code cylinder",
+    "size": "Hand-held weapon",
+    "material": "Ivory",
+    "length": "20 cm",
+    "weight": "0.1 kg",
+    "markings": "Inlaid patterns of silver and gold",
+    "purpose": [
+      "Self-defense",
+      "Assassination"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

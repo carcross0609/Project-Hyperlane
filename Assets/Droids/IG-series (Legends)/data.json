@@ -1,0 +1,34 @@
+{
+  "name": "IG-series",
+  "wookieepedia_title": "IG-series/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IG-series/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The IG-series was a line of battle and assassin droids produced by Holowan Laboratories and its subsidiary, Holowan Mechanicals, though some of their components (including the head parts) were in fact of Incom Corporation make.",
+  "data": {
+    "name": "IG-series",
+    "manufacturer": [
+      "Holowan Laboratories",
+      "  Holowan Mechanicals"
+    ],
+    "model": [
+      "IG drone",
+      "IG lancer combat droid",
+      "IG-1",
+      "IG-72",
+      "IG-86 sentinel droid",
+      "IG-88 assassin droid",
+      "IG-97",
+      "IG-100 MagnaGuard",
+      "IG-106 assassin droid",
+      "IG-110 lightsaber droid"
+    ],
+    "class": [
+      "Assassin droid",
+      "Battle droid"
+    ],
+    "degree": "Class four droid"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Heavy blaster rifle",
+  "wookieepedia_title": "Heavy blaster rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Heavy_blaster_rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The heavy blaster rifle was a larger, more powerful version of the blaster rifle often used by clone troopers, stormtroopers, and other troopers.",
+  "data": {
+    "name": "Heavy blaster rifle",
+    "type": "Blaster rifle",
+    "cost": "2,000 credits (Available for military use only)",
+    "shape": "Rifle-shaped",
+    "size": "Two-handed weapon",
+    "weight": "6 kg",
+    "capacity": [
+      "30 shots",
+      "Close-range stun setting available",
+      "Autofire mode available"
+    ],
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 225 m"
+    ],
+    "affiliation": [
+      "Grand Army of the Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

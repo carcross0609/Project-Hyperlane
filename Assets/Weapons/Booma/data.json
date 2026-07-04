@@ -1,0 +1,27 @@
+{
+  "name": "Booma",
+  "wookieepedia_title": "Booma",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Booma",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Boomas, also known as boomers, energy balls, or Gungan grenades, were spherical, grenade-like energy weapons used by the Gungans. They were manufactured by the Otoh Gunga Defense League with the exotic plasma that was naturally present in the porous crust of Naboo, They came in different sizes, and could be thrown by hand, sling, atlatl, cesta, or falumpaset-towed catapult. Boomas were used by the Gungan Grand Army, notably during the Battle of Naboo. During the Imperial Era, they were sold at an Arms Market on Nar Shaddaa.",
+  "data": {
+    "name": "Booma",
+    "manufacturer": "Otoh Gunga Defense League",
+    "type": "Energy weapon",
+    "culture": "Gungan",
+    "locations": "Naboo",
+    "material": [
+      "Bubble pod paste",
+      "Locap",
+      "Natural plasma"
+    ],
+    "affiliation": [
+      "Gungan Grand Army",
+      "Grand Army of the Republic",
+      "Amidalans"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "MT-7",
+  "wookieepedia_title": "MT-7",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MT-7",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "MT-7 was a BX-series droid commando who briefly participated in the Clone Wars as a soldier of the Confederacy of Independent Systems. His first mission sent him to the planet Akiva, but a rainstorm soon separated him from the rest of his unit. The storm left MT-7 damaged, immobilized, and unable to finish his mission. MT-7 was trapped on Akiva for several years and still remained operative in 3 ABY. By that time, MT-7 was located at an Abandoned Hideout, trapped by debris as a result of the rainstorm.",
+  "data": {
+    "type": "CIS",
+    "name": "MT-7",
+    "model": "BX-series droid commando",
+    "class": "Battle droid",
+    "height": "1.91 meters",
+    "pronouns": "He/him",
+    "sensor": "White",
+    "plating": "Silver",
+    "equipment": "Decryption module",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  MT-7's unit"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

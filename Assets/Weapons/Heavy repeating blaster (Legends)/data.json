@@ -1,0 +1,30 @@
+{
+  "name": "Heavy repeating blaster",
+  "wookieepedia_title": "Heavy repeating blaster/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Heavy_repeating_blaster/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The heavy repeating blaster was a large and powerful variant of a blaster rifle.",
+  "data": {
+    "name": "Heavy repeating blaster",
+    "type": "Repeating blaster",
+    "cost": "4,000 to 6,000 credits (Available for military use only)",
+    "size": "Two-handed weapon",
+    "weight": "12 kg",
+    "capacity": [
+      "20 shots on a single power pack",
+      "can be attached to a power generator for longer use"
+    ],
+    "range": [
+      "Optimum: up to 75 m",
+      "Maximum: up to 750 m"
+    ],
+    "affiliation": [
+      "Grand Army of the Republic",
+      "  ARC Troopers",
+      "Alliance Special Forces heavy weapon specialists"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

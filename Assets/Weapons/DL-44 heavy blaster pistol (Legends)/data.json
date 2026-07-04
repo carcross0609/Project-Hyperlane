@@ -1,0 +1,33 @@
+{
+  "name": "DL-44 heavy blaster pistol",
+  "wookieepedia_title": "DL-44 heavy blaster pistol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DL-44_heavy_blaster_pistol/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The BlasTech Industries DL-44 heavy blaster pistol was a powerful sidearm from the time of the Galactic Republic through the Galactic Civil War.",
+  "data": {
+    "name": "DL-44 heavy blaster pistol",
+    "manufacturer": "BlasTech Industries",
+    "model": "DL-44",
+    "type": "Heavy blaster pistol",
+    "cost": "750 credits",
+    "size": "Medium",
+    "weight": "1.3 kg",
+    "capacity": "25 shots",
+    "range": [
+      "25 meters (optimum)",
+      "50 meters (maximum)"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Bounty hunters",
+      "Galactic Empire",
+      "New Jedi Order",
+      "Smugglers",
+      "Ohnaka Gang",
+      "Twi'lek freedom fighters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

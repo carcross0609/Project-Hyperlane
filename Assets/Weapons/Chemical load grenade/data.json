@@ -1,0 +1,24 @@
+{
+  "name": "Chemical load grenade",
+  "wookieepedia_title": "Chemical load grenade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chemical_load_grenade",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Highly versatile, chemical load grenades could be used for many different purposes. Each carrying a specific type of chemical within, their contents ranged from lethal Fex-M3 nerve gas to plank gas, an airborne chemical which broke down mechanical objects. Some types were reusable and could carry multiple payloads.",
+  "data": {
+    "name": "Chemical load grenade",
+    "manufacturer": "Czerka Arms",
+    "type": "Grenade",
+    "cost": [
+      "Varies by load:",
+      "650 credits (Agent T-238)",
+      "1050 credits (Fex-M3)",
+      "850 credits (Plank Gas)",
+      "150 credits (Smoke)"
+    ],
+    "size": "Tiny",
+    "weight": "0.5 kg"
+  },
+  "scraped": "2026-07-03"
+}

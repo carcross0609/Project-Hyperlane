@@ -1,0 +1,22 @@
+{
+  "name": "Thermal Devastator",
+  "wookieepedia_title": "Thermal Devastator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thermal_Devastator",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Thermal Devastator was a grenade-like incendiary explosive which was in use during at least 3630 BBY. Feared among the galaxy for its potency, the Devastator's effects were twofold: first lighting the immediate area around it ablaze before emitting a concussive wave which launched enemies through the air. The Commander of the Eternal Alliance utilized Thermal Devastators while defending against a series of uprisings which occurred following the fall of the Eternal Empire.",
+  "data": {
+    "name": "Thermal Devastator",
+    "type": "Grenade",
+    "shape": "Spherical",
+    "size": "Hand-held",
+    "capacity": "1 detonation",
+    "range": [
+      "Thrown weapon range",
+      "30-meter blast radius"
+    ],
+    "affiliation": "Various"
+  },
+  "scraped": "2026-07-03"
+}

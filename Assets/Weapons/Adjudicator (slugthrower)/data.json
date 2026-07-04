@@ -1,0 +1,27 @@
+{
+  "name": "Adjudicator (slugthrower)",
+  "wookieepedia_title": "Adjudicator (slugthrower)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adjudicator_%28slugthrower%29",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Adjudicator was a small palm-sized hold-out slugthrower pistol manufactured by Czerka Arms.",
+  "data": {
+    "name": "Adjudicator",
+    "manufacturer": "Czerka Arms",
+    "type": "Slugthrower hold-out pistol",
+    "cost": [
+      "300—325 credits",
+      "50 credits (clamp magnetic holstering lock)",
+      "10 credits (ammo)"
+    ],
+    "weight": "0.5 kg",
+    "capacity": "4 shots",
+    "range": "25",
+    "purpose": [
+      "Backup weapon",
+      "Concealed weapon"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

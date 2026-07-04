@@ -1,0 +1,37 @@
+{
+  "name": "XJ9-CS14",
+  "wookieepedia_title": "XJ9-CS14",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/XJ9-CS14",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "XJ9-CS14 was a Viper probe droid in service to the Galactic Empire during the Galactic Civil War. Manufactured as a product of Arakyd Industries, XJ9-CS14 began life in a factory on the planet Vulpter sometime after the Clone Wars, designed to be a tenacious and exacting hunter. In 3 ABY, the droid was deployed as part of Project Swarm, a galaxy-wide search for the hidden base of the clandestine Alliance to Restore the Republic. It was sent to the snow planet of Hoth, where it traversed icy dunes and battled a ferocious wampa before discovering a deflector shield generator that secretly powered the headquarters of the Rebel Alliance. Although the droid did not believe that the harsh planet was capable of sustaining life, it still transmitted footage of the generator to the forces of the Imperial Navy.",
+  "data": {
+    "type": "Galactic Empire",
+    "name": "XJ9-CS14",
+    "homeworld": "Vulpter",
+    "birth": "Sometime after the Clone Wars",
+    "death": "3 ABY, Hoth",
+    "creator": "Maela's mother",
+    "manufacturer": "Arakyd Industries",
+    "line": "Viper probe droid",
+    "model": "Speculated to be between X0037 and X0172",
+    "class": "Probe droid",
+    "height": "1.6 m (5 ft 3 in)",
+    "sensor": "Black",
+    "plating": "Black",
+    "armament": [
+      "Blaster",
+      "Self-destruct mechanism"
+    ],
+    "equipment": [
+      "HoloNet transceiver",
+      "Manipulator arms"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Project Swarm"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Infiltrator/Demolition droid",
+  "wookieepedia_title": "Infiltrator/Demolition droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Infiltrator/Demolition_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Infiltrator/Demolition droid (I/D droid) was a model of transforming droid that the Confederacy of Independent Systems used during the Clone Wars.",
+  "data": {
+    "name": "Infiltrator/Demolition droid",
+    "manufacturer": "LIN demolitionmech",
+    "class": "Battle droid",
+    "height": "2.43 meters",
+    "mass": "158 kilograms",
+    "gender": "Masculine programing",
+    "sensor": [
+      "Red",
+      "Blue (when holoprojector is activated)"
+    ],
+    "armament": [
+      "Laser cannons (2)",
+      "Explosive charges"
+    ],
+    "equipment": "Holoprojector",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "scraped": "2026-07-03"
+}

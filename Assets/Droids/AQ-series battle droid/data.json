@@ -1,0 +1,33 @@
+{
+  "name": "AQ-series battle droid",
+  "wookieepedia_title": "AQ-series battle droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/AQ-series_battle_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "AQ-series battle droids, more commonly known as aqua droids, were an amphibious model of battle droid and droid tank manufactured by Haor Chall Engineering Corporation. They were excellent swimmers, posessed a retractable laser cannon on their right wrist, and were used by the Confederacy of Independent Systems to lay siege to aquatic planets such as Kamino and Mon Cala during the Clone Wars. The heavy aqua droid variant existed which had an integrated missile launcher on the right arm, similar to the B2-HA super battle droid.",
+  "data": {
+    "name": "AQ-series battle droid",
+    "creator": "Techno Union",
+    "manufacturer": "Haor Chall Engineering Corporation",
+    "model": "AQ-series battle droid",
+    "class": [
+      "Battle droid",
+      "Droid tank"
+    ],
+    "height": "2.83 meters (9 ft, 3 in)",
+    "gender": "Masculine programming",
+    "sensor": "Red",
+    "plating": "Gray",
+    "armament": [
+      "Retractable laser cannon (1)",
+      "Grenade launcher or missile launcher (1)"
+    ],
+    "equipment": "Propellers (2)",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Separatist Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

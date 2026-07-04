@@ -1,0 +1,40 @@
+{
+  "name": "Fallen Revan's Lightsaber",
+  "wookieepedia_title": "Fallen Revan's Lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fallen_Revan%27s_Lightsaber",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Fallen Revan's Lightsaber was the lightsaber wielded by the Jedi-turned-Sith Lord Darth Revan. He wielded it before and during his reign as the Dark Lord of the Sith.",
+  "data": {
+    "name": "Fallen Revan's Lightsaber",
+    "model": [
+      "Jedi lightsaber",
+      "Sith lightsaber"
+    ],
+    "type": "Single-blade",
+    "culture": [
+      "Jedi",
+      "Sith"
+    ],
+    "creator": "Revan",
+    "created": "Before 3963 BBY",
+    "owners": "Revan",
+    "hilt_material": "Alloy metal",
+    "crystal": "Synthetic lightsaber crystal",
+    "color": [
+      "Violet",
+      "Blue",
+      "Red"
+    ],
+    "succeed": "Redeemed Revan's Lightsaber",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Revanchists",
+      "Darth Revan's Sith Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

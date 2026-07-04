@@ -1,0 +1,33 @@
+{
+  "name": "Kreel's lightsaber",
+  "wookieepedia_title": "Kreel's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kreel%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "The Imperial Sergeant Kreel wielded a green-bladed lightsaber during the Galactic Civil War. The Jedi who originally owned the lightsaber died with the weapon in their hand.",
+  "data": {
+    "name": "Kreel's lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "destroyed": "During the mission to Crait (rebuilt)",
+    "owners": [
+      "A Jedi",
+      "Grakkus Jahibakti Tingi",
+      "Kreel"
+    ],
+    "hilt_shape": "Cylindrical, straight",
+    "crystal": "Kyber crystal",
+    "color": "Green",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Hutt Clan",
+      "  Grakkus's criminal empire",
+      "Galactic Empire",
+      "  Task Force 99"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

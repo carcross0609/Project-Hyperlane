@@ -1,0 +1,27 @@
+{
+  "name": "Sparky",
+  "wookieepedia_title": "Sparky",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sparky",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "\"Sparky\" was the nickname given to a commando droid captain by clone trooper Hevy who led a team of BX-series droid commandos to capture Rishi Station during the Clone Wars. When the station was contacted by Clone Captain Rex and Clone Commander Cody, Sparky posed as a clone by wearing a helmet and modulating their voice in an unsuccessful attempt to make them leave. During the clones' fight to retake the station, the droid captain attacked Rex, but Rex instead destroyed the droid by dodging its vibrosword strike, breaking its neck and slamming it face-first into the floor.",
+  "data": {
+    "type": "CIS",
+    "name": "\"Sparky\"",
+    "death": "22 BBY, Rishi Moon",
+    "manufacturer": "Baktoid Combat Automata",
+    "model": "Commando droid captain",
+    "class": "Battle droid",
+    "height": "1.91 meters (6 ft, 3 in)",
+    "sensor": "White",
+    "plating": "Black",
+    "equipment": [
+      "E-5 blaster rifle",
+      "Thermal detonator",
+      "Vibrosword"
+    ],
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "scraped": "2026-07-03"
+}

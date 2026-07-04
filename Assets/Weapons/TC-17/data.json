@@ -1,0 +1,22 @@
+{
+  "name": "TC-17",
+  "wookieepedia_title": "TC-17",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TC-17",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The TC-17 was a long-range blaster rifle equipped with a scope and designed for use by snipers. The rifle had a range of over three-hundred meters. Each power cell held enough energy for a dozen shots before it needed to be replaced.",
+  "data": {
+    "name": "TC-17",
+    "model": "TC-17",
+    "type": "Blaster rifle",
+    "capacity": "12 shots",
+    "range": "300 meters",
+    "purpose": "Sniper rifle",
+    "affiliation": [
+      "Brotherhood of Darkness",
+      "Gloom Walkers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

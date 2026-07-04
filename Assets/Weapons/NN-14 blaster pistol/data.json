@@ -1,0 +1,28 @@
+{
+  "name": "NN-14 blaster pistol",
+  "wookieepedia_title": "NN-14 blaster pistol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/NN-14_blaster_pistol",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The NN-14 blaster pistol was a blaster pistol manufactured by LPA.",
+  "data": {
+    "name": "NN-14 blaster pistol",
+    "manufacturer": "LPA",
+    "model": "NN-14",
+    "type": "Blaster pistol",
+    "locations": [
+      "Takodana",
+      "Starkiller Base",
+      "Ahch-To",
+      "Pasaana"
+    ],
+    "protection": [
+      "Safety switch",
+      "Reinforced frame"
+    ],
+    "purpose": "Ranged combat",
+    "affiliation": "Resistance"
+  },
+  "scraped": "2026-07-03"
+}

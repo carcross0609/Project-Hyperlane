@@ -1,0 +1,18 @@
+# Unidentified droid bouncer
+
+**Kind:** Individual  
+**Continuity:** Canon  
+**Source:** [Unidentified droid bouncer](https://starwars.fandom.com/wiki/Unidentified_droid_bouncer)
+
+A droid worked as a bouncer for a cantina on the planet Janix during the Imperial Era. During or after 19 BBY, the bouncer was present outside of the cantina when the undercover human police officer Brander Lawson attempted to enter the establishment to make an arrest. Holding up their hand to Lawson, the droid stated how the cantina was a club for members only. Lawson then proceeded to flick a device onto the droid and expressed how it was his membership, which caused the droid to be electrocuted and deactivate in front of the cantina. Lawson carried on into the bar and successfully stopped the illegal-running business inside.
+
+## Specifications
+
+- **Name:** Unidentified droid bouncer
+- **Sensor:** Black
+- **Plating:** Gray
+- **Affiliation:** A cantina
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

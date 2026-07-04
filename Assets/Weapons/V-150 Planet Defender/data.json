@@ -1,0 +1,27 @@
+{
+  "name": "V-150 Planet Defender",
+  "wookieepedia_title": "V-150 Planet Defender",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V-150_Planet_Defender",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The v-150 Planet Defender, also known as the v-150 ion cannon, was a model of planetary ion cannon designed to disable capital ships. Often deployed in conjunction with planetary shields, its purpose was to defend planets while the shields reached full power. It could disrupt Star Destroyers with a single ion bolt; however, its stationary nature made it vulnerable to attack, and its blast shield had to retract in order to utilize the cannon. It was equipped with an independent power generator buried roughly 40 meters below the weapon emplacement.",
+  "data": {
+    "name": "v-150 Planet Defender",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "v-150",
+    "type": "Heavy ion surface-to-space cannon",
+    "locations": "Echo Base, Hoth",
+    "cost": "More than 978,900 credits",
+    "value": "978,900 credits",
+    "protection": "Permacite blast shielding",
+    "crew": "27",
+    "range": [
+      "4,000 kilometers (optimum)",
+      "180,000 kilometers (maximum)"
+    ],
+    "purpose": "Disabling capital ships",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

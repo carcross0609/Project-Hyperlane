@@ -1,0 +1,20 @@
+{
+  "name": "Baton",
+  "wookieepedia_title": "Baton/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Baton/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A baton was a type of handheld club that was used by police forces for various purposes including crowd control.",
+  "data": {
+    "name": "Baton",
+    "type": "Melee weapon",
+    "cost": "15 credits",
+    "shape": "Club-like",
+    "size": "Hand-held",
+    "weight": "0.5 kg",
+    "purpose": "Crowd control",
+    "affiliation": "Law enforcement"
+  },
+  "scraped": "2026-07-03"
+}

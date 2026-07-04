@@ -1,0 +1,34 @@
+{
+  "name": "Mortar",
+  "wookieepedia_title": "Mortar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mortar/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A mortar, also known as a mortar launcher or mortar cannon, was an indirect fire weapon that lobbed explosive projectiles known as mortar bombs or shells in a high arc.",
+  "data": {
+    "name": "Mortar",
+    "cost": "2,500 credits (Available for military use only)",
+    "size": "Large",
+    "weight": "20 kg",
+    "capacity": [
+      "5 mortar shells",
+      "3-meter blast radius"
+    ],
+    "range": [
+      "Optimum: 76 to 150 meters",
+      "Maximum: up to 750 meters"
+    ],
+    "purpose": "To drop shells on the enemy from behind cover and at a distance",
+    "affiliation": [
+      "Galactic Republic",
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Royal Naboo Security Forces",
+      "Wookiee"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

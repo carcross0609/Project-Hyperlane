@@ -1,0 +1,22 @@
+{
+  "name": "Ballista",
+  "wookieepedia_title": "Ballista/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ballista/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A ballista was a piece of siege equipment that fired large arrows. The Anointed People of Abonshee were known to have employed ballistae, as did the Sevari of Sevarcos II, who mounted them on their wind riders.",
+  "data": {
+    "name": "Ballista",
+    "type": "Siege weapon",
+    "culture": [
+      "Anointed People",
+      "Sevari"
+    ],
+    "locations": [
+      "Abonshee",
+      "Sevarcos II"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "DAS-430 Neural Inhibitor",
+  "wookieepedia_title": "DAS-430 Neural Inhibitor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DAS-430_Neural_Inhibitor/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Mennotor DAS-430 Neural Inhibitor was a launcher of small, hollow darts that included a neurotoxin to paralyze a target for ten minutes without killing it.",
+  "data": {
+    "name": "DAS-430 Neural Inhibitor",
+    "manufacturer": "Mennotor",
+    "model": "DAS-430",
+    "type": "Rail gun",
+    "created": "Before or during Galactic Civil War",
+    "cost": [
+      "5,000 credits (rifle)",
+      "4,000 credits (pistol)",
+      "750 credits (ammo)"
+    ],
+    "weight": "1 kg",
+    "capacity": "240 darts",
+    "range": [
+      "150 meter (rifle)",
+      "50 meter (pistol)"
+    ],
+    "purpose": "Non-lethal subduing",
+    "affiliation": [
+      "Bounty hunters",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

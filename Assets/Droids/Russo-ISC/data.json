@@ -1,0 +1,31 @@
+{
+  "name": "Russo-ISC",
+  "wookieepedia_title": "Russo-ISC",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Russo-ISC",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Russo-ISC was an SP-4 ISC crime scene analysis droid who served the Jedi Order, working at the Jedi Temple on the planet Coruscant during the Clone Wars, a conflict between the Galactic Republic and the Confederacy of Independent Systems. In 21 BBY, Russo served as a crime scene analyzer, working alongside Police Inspector Tanivos Divo, as they investigated the murder of the Trandoshan assassin Nack Movers, who had been slain by his girlfriend Ione Marcy and his bodyguard Cassilyda Cryar.",
+  "data": {
+    "type": "Jedi",
+    "name": "Russo-ISC",
+    "homeworld": "Coruscant",
+    "manufacturer": "Cybot Galactica",
+    "model": "SP-4 ISC crime scene analysis droid",
+    "class": [
+      "Analysis droid",
+      "Forensics droid"
+    ],
+    "height": "1.8 meters (5 ft, 11 in)",
+    "pronouns": "He/him",
+    "sensor": "Black",
+    "plating": "Blue, silver and gold",
+    "equipment": "Optics and scanning visor",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "  Coruscant Security Force"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

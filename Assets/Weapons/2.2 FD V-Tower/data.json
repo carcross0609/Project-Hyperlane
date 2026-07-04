@@ -1,0 +1,23 @@
+{
+  "name": "2.2 FD V-Tower",
+  "wookieepedia_title": "2.2 FD V-Tower",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/2.2_FD_V-Tower",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The 2.2 FD V-Tower was a model of anti-vehicle laser cannon that was manufactured by Atgar. It was crewed by four beings, but could be controlled from a command center if the crew was disabled. Several of them were deployed in defense of Fortress Keremark.",
+  "data": {
+    "name": "2.2 FD V-Tower",
+    "manufacturer": "Atgar SpaceDefense Corporation",
+    "type": "Anti-vehicle laser cannon",
+    "locations": "Fortress Keremark",
+    "cost": [
+      "15,000 credits (new)",
+      "8,000 credits (used)"
+    ],
+    "crew": "4",
+    "capacity": "Unlimited (power generator)",
+    "range": "10 kilometers"
+  },
+  "scraped": "2026-07-03"
+}

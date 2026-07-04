@@ -1,0 +1,25 @@
+{
+  "name": "Repeating crossbow",
+  "wookieepedia_title": "Repeating crossbow",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Repeating_crossbow",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The repeating crossbow was a crossbow made of modern materials capable of firing multiple shots.",
+  "data": {
+    "name": "Repeating crossbow",
+    "manufacturer": "Drolan Plasteel",
+    "type": "Repeating crossbow",
+    "cost": "400 credits",
+    "shape": "A cross between a bowcaster and a rifle",
+    "size": "One-handed weapon",
+    "material": "Lightweight plasteel",
+    "weight": "1.2 kg",
+    "capacity": "10 arrows",
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 120 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

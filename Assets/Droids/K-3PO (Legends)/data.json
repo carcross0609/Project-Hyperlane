@@ -1,0 +1,30 @@
+{
+  "name": "K-3PO",
+  "wookieepedia_title": "K-3PO/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/K-3PO/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "K-3PO (Kay-Threepio) was a white, older model 3PO-series protocol droid who became one of the most valued droids to serve the Alliance to Restore the Republic. K-3PO was originally owned by starfighter pilot Arhul Narra, who used K-3PO as a repository for his personal files while fighting for the Old Republic during the Clone Wars. When Narra later joined the Rebel Alliance, he maintained detailed records of his service with the Rebellion, which often included top-secret data that he kept only in shielded files within K-3PO. As K-3PO accumulated thousands of files over the years, the military tactics contained within began to seep into his comprehension circuits. Consequently, K-3PO became a tactical expert, and so Narra refrained from performing a memory wipe on his droid, whose military value increased every day.",
+  "data": {
+    "type": "Rebel",
+    "name": "K-3PO",
+    "death": "3 ABY, Hoth",
+    "manufacturer": "Cybot Galactica",
+    "model": "3PO-series protocol droid",
+    "class": "Protocol droid",
+    "height": "1.67 meters",
+    "pronouns": "He/him",
+    "sensor": "Yellow",
+    "plating": "White",
+    "equipment": [
+      "Audio/visual sensors (2 each)",
+      "Broadband antenna receiver",
+      "AA-1 VerboBrain",
+      "TranLang III communications module",
+      "Vocabulator speech/sound system"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Ki-Adi-Mundi's lightsaber",
+  "wookieepedia_title": "Ki-Adi-Mundi's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ki-Adi-Mundi%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Ki-Adi-Mundi's lightsaber was the personal lightsaber of Jedi Master Ki-Adi-Mundi. Containing two kyber crystals within its simple yet functional hilt, the weapon was capable of emitting either a blue or green blade. Mundi used it during many campaigns in the Clone Wars against the Separatist Droid Army, including the first and the second battles of Geonosis, until his death during the Fourth Battle of Mygeeto.",
+  "data": {
+    "name": "Ki-Adi-Mundi's lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "created": "Prior to 32 BBY",
+    "owners": [
+      "Ki-Adi-Mundi",
+      "Anolo",
+      "Dok-Ondar"
+    ],
+    "hilt_length": "26.60 centimeters",
+    "hilt_material": "Durasteel",
+    "crystal": "Two kyber crystals",
+    "color": [
+      "Blue (primary blade)",
+      "Green (secondary blade)"
+    ],
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Dok-Ondar's Den of Antiquities"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

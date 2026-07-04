@@ -1,0 +1,20 @@
+{
+  "name": "Light repeating blaster",
+  "wookieepedia_title": "Light repeating blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Light_repeating_blaster",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The light repeating blaster was a heavy rifle- and/or pistol-type blaster weapon carried by military personnel. The SE-14r light repeating blaster and the T-21 light repeating blaster were two light repeating blasters.",
+  "data": {
+    "name": "Light repeating blaster",
+    "model": "Repeating blaster",
+    "cost": "2,250 credits",
+    "shape": [
+      "Pistol",
+      "Rifle"
+    ],
+    "range": "Long-ranged"
+  },
+  "scraped": "2026-07-03"
+}

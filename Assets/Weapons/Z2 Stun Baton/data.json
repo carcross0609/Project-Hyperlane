@@ -1,0 +1,21 @@
+{
+  "name": "Z2 Stun Baton",
+  "wookieepedia_title": "Z2 Stun Baton",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z2_Stun_Baton",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Z2 Stun Baton was a model of stun baton manufactured by Merr-Sonn Munitions, Inc. A one-handed blunt weapon, the Z2 was built from heavily reinforced polymer with conductive alloy striking surfaces. Upon contact with organic beings, it could deliver a concentrated stun blast that was often completely unexpected and capable of rendering a target unconscious quickly and effectively. The weapon resembled a regular police baton and was used against offenders by riot police, as well as criminal enforcers, on many planets. During the Galactic Civil War, the Z2 cost two hundred credits and could be located for purchase with an average amount of difficulty.",
+  "data": {
+    "name": "Z2 Stun Baton",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "model": "Z2",
+    "type": "Stun baton",
+    "cost": "200 credits",
+    "material": [
+      "Heavily reinforced polymer",
+      "Conductive alloy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

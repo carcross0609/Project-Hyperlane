@@ -1,0 +1,28 @@
+{
+  "name": "Electroblade training sword",
+  "wookieepedia_title": "Electroblade training sword/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Electroblade_training_sword/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "An electroblade training sword, sometimes referred to as a practice saber, was a melee training weapon used by the Jedi Order and the Sith during the Cold War between the Galactic Republic and the reconstituted Sith Empire. Similar to vibroswords, electroblade swords were melee weapons with cylindrical blades that delivered painful shocks on contact instead of cutting or cauterizing like a normal sword or lightsabers.",
+  "data": {
+    "name": "Electroblade training sword",
+    "type": "Melee weapon",
+    "locations": [
+      "Tython",
+      "Korriban"
+    ],
+    "value": "5 to 105 credits",
+    "shape": "Cylindrical blade",
+    "purpose": [
+      "Training weapon",
+      "Melee combat"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

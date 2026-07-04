@@ -1,0 +1,33 @@
+{
+  "name": "Double-bladed spinning lightsaber",
+  "wookieepedia_title": "Double-bladed spinning lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Double-bladed_spinning_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The double-bladed spinning lightsaber, also known as the double-bladed Inquisitorius lightsaber, or simply as the Inquisitor lightsaber, was a specially-designed lightsaber model used by the Inquisitorius, a group of dark side adepts who enforced the will of the Galactic Empire. It was capable of both single and double blades, and was capable of spinning in a circular motion when both blades were emitted. Known wielders of this model included the Grand Inquisitor, Barriss Offee, the Second Sister, the Third Sister, the Fourth Sister, the Fifth Brother, the Sixth Brother, the Seventh Sister, the Eighth Brother, the Ninth Sister, the Eleventh Brother, the Thirteenth Sister, Tualon Yaluna, Marrok, Jerserra and her Imperial master.",
+  "data": {
+    "name": "Double-bladed spinning lightsaber",
+    "model": "Lightsaber",
+    "type": [
+      "Double-bladed spinning lightsaber (disc mode)",
+      "Single-bladed lightsaber (crescent mode)"
+    ],
+    "shape": "Cylindrical, straight",
+    "material": [
+      "Metallic",
+      "Two Kyber crystals"
+    ],
+    "length": "1 meter (fully extended, crescent mode)",
+    "diam": "Extendable hand guard, can spin around central handle with detachable emitters locked to hand guard (disc mode)",
+    "protection": "Large circular handguard",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inquisitorius",
+      "Morgan Elsbeth's forces",
+      "Acolytes of the Beyond"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

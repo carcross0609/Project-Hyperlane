@@ -1,0 +1,37 @@
+{
+  "name": "X-1 Viper",
+  "wookieepedia_title": "X-1 Viper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X-1_Viper",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The X-1 Viper, also known as the Automadon, was a large military droid manufactured by Balmorran Arms. It was used during the reborn Emperor Palpatine's insurrection from 10 ABY–11 ABY.",
+  "data": {
+    "name": "X-1 Viper",
+    "manufacturer": "Balmorran Arms",
+    "homeworld": "Balmorra",
+    "class": [
+      "Mechanized armor",
+      "Reconnaissance",
+      "Walker"
+    ],
+    "degree": "Class four droid",
+    "cost": "43,000 credits",
+    "height": "c. 6 meters",
+    "armament": [
+      "Heavy front pincers (2)",
+      "Boosted blaster cannons (2)",
+      "Concealed chin-mounted laser cannons (2)",
+      "Grenade launcher (1)"
+    ],
+    "equipment": [
+      "Full-body molecular shielding mechanism",
+      "Manual override controls"
+    ],
+    "affiliation": [
+      "Balmorran Defense Force",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SIS Surveillance Droid",
+  "wookieepedia_title": "SIS Surveillance Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SIS_Surveillance_Droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The SIS Surveillance Droid was a model of surveillance droid manufactured by Taptronics. They were simple units intended to supplement organic security forces. The main role of the droid was to notice criminal activity and report it to Human police officers.",
+  "data": {
+    "name": "SIS Surveillance Droid",
+    "manufacturer": "Taptronics",
+    "class": "Surveillance droid",
+    "cost": "5,000 credits",
+    "length": "1 meter",
+    "width": "1 meter",
+    "height": "1 meter",
+    "equipment": [
+      "Holographic/audio recorder",
+      "Internal comlink",
+      "Repulsorlift"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

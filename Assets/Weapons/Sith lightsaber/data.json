@@ -1,0 +1,33 @@
+{
+  "name": "Sith lightsaber",
+  "wookieepedia_title": "Sith lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sith_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Sith lightsabers, also known as Sith sabers, were lightsabers wielded by members of the Sith. They were constructed through methods similar to those used by other Force-sensitives, but the underlying philosophy was different. Unlike the Jedi who followed the light side of the Force, the Sith could not establish a mutual bond with kyber crystals. This was due to the hate, fear, and other emotions associated with the dark side that clouded their concentration. Sith lightsabers were often variations of the Power and Control or Passion and Strength hilts.",
+  "data": {
+    "name": "Sith lightsaber",
+    "model": "Lightsaber",
+    "type": "Melee weapon",
+    "culture": "Sith",
+    "creator": "Sith",
+    "owners": [
+      "Sith",
+      "Jedi Order",
+      "Knights of Ren"
+    ],
+    "hilt_shape": "Various",
+    "hilt_length": "Various",
+    "hilt_material": "Various",
+    "crystal": "One or more kyber crystals",
+    "color": "Crimson/red",
+    "design": "Various",
+    "purpose": [
+      "Melee combat",
+      "Sith artifact"
+    ],
+    "affiliation": "Sith"
+  },
+  "scraped": "2026-07-03"
+}

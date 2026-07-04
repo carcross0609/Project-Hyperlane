@@ -1,0 +1,20 @@
+{
+  "name": "Imperial Heavy Repeater",
+  "wookieepedia_title": "Imperial Heavy Repeater",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imperial_Heavy_Repeater",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Imperial Heavy Repeater was a projectile weapon used by Imperial troops. It was an improvement over the earlier Imperial repeater rifle, which was developed by Moff Rebus.",
+  "data": {
+    "name": "Imperial Heavy Repeater",
+    "model": "Slugthrower",
+    "cost": "1,500 credits",
+    "capacity": "400 metallic bolts, or 50 concussive blasts",
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

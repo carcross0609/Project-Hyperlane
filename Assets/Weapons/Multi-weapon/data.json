@@ -1,0 +1,21 @@
+{
+  "name": "Multi-weapon",
+  "wookieepedia_title": "Multi-weapon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Multi-weapon",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The multi-weapon was a melee weapon designed specifically for Infiltrators. It was an attempt to cut down on the weight of their equipment by combining three weapons into one tool. One end contains a weighted club, the other a sliding dagger secured by a twist lock, and a coiled garrote. Variations on the tool replace the garrote with a Slicewire.",
+  "data": {
+    "name": "Multi-weapon",
+    "manufacturer": "Alliance to Restore the Republic",
+    "type": "Personal combat multi-weapon",
+    "purpose": [
+      "Club",
+      "Dagger",
+      "Garrote"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

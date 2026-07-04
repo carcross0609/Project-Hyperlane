@@ -1,0 +1,31 @@
+{
+  "name": "ASN-121",
+  "wookieepedia_title": "ASN-121",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ASN-121",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "ASN-121 was a modified ASN courier droid used as an assassin droid by the Clawdite bounty hunter Zam Wesell. Shortly before the start of the Clone Wars, the droid was used in an assassination attempt on the life of Naboo Senator Padmé Amidala, though it failed at its task and was ultimately destroyed by Zam when Jedi Knight Obi-Wan Kenobi attempted to use it to reach her.",
+  "data": {
+    "type": "Bounty hunter",
+    "name": "ASN-121",
+    "death": "22 BBY, Coruscant",
+    "model": "Modified ASN courier droid",
+    "class": [
+      "Assassin droid",
+      "Sentry droid"
+    ],
+    "height": "0.3 meters",
+    "sensor": "Red",
+    "plating": "Gold and silver",
+    "armament": [
+      "Extendible cutter",
+      "Flamethrower",
+      "Gas dispenser",
+      "Harpoon gun",
+      "Kouhun canister dispenser"
+    ],
+    "affiliation": "Zam Wesell"
+  },
+  "scraped": "2026-07-03"
+}

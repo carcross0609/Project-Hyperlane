@@ -1,0 +1,23 @@
+{
+  "name": "Ion rifle",
+  "wookieepedia_title": "Ion rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ion_rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The ion rifle was a type of ion blaster that fired ion energy instead of blaster bolts. This type of energy disrupted electrical systems, making it an effective weapon against droids, vehicles, electronic devices, and cybernetically enhanced creatures. It was larger and more powerful that the ion pistol.",
+  "data": {
+    "name": "Ion rifle",
+    "type": "Rifle",
+    "cost": "800 credits",
+    "size": "Medium",
+    "weight": "3.1 kg",
+    "capacity": "20 shots",
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 450 meters"
+    ],
+    "purpose": "Disabling droids and other electronics"
+  },
+  "scraped": "2026-07-03"
+}

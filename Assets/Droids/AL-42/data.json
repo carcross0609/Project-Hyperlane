@@ -1,0 +1,23 @@
+{
+  "name": "AL-42",
+  "wookieepedia_title": "AL-42",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/AL-42",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "AL-42 was a train operator droid who operated a train for the Pyke Syndicate. In 5 ABY, the droid operated a train that made its way across the Dune Sea, killing various Tusken Raiders and their banthas along the way. Boba Fett and a group of Tuskens attacked the train and stopped it during its course, the droid attempted to accelerate the train to loose the intruders but the former bounty hunter manage to break in and demand him to stop the train, but the droid jumps out the window and managed to escape soon before the train was stopped.",
+  "data": {
+    "type": "Criminal",
+    "name": "AL-42",
+    "model": "Train operator droid",
+    "class": [
+      "Pilot droid",
+      "Engineer droid"
+    ],
+    "pronouns": "He/him",
+    "sensor": "Red",
+    "plating": "Black",
+    "affiliation": "Pyke Syndicate"
+  },
+  "scraped": "2026-07-03"
+}

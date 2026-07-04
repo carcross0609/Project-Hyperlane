@@ -1,0 +1,23 @@
+{
+  "name": "B2-ACM Trooper",
+  "wookieepedia_title": "B2-ACM Trooper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/B2-ACM_Trooper",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The B2-ACM Trooper was a type of B2-series super battle droid used by the Separatist Droid Army of the Confederacy of Independent Systems. Featuring a more powerful wrist blaster than the standard model, B2-ACMs were deployed when the firepower of a standard B2 was not enough.",
+  "data": {
+    "name": "B2-ACM Trooper",
+    "line": "B2-series super battle droid",
+    "model": "B2-ACM Trooper",
+    "class": "Battle droid",
+    "sensor": "Red",
+    "plating": "Gray",
+    "armament": "Wrist blaster",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Separatist Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

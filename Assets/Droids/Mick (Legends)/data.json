@@ -1,0 +1,27 @@
+{
+  "name": "Mick",
+  "wookieepedia_title": "Mick/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mick/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "\"Mick\" was one of the thousands of small, flying INS-444 window installation droids on Coruscant. It worked together with CLE-004, taking instructions from a central computer. Together, the two droids replaced the bedroom window of Senator Amidala's Coruscant apartment after the original window was destroyed through the actions of ASN-121 and Obi-Wan Kenobi.",
+  "data": {
+    "name": "\"Mick\"",
+    "homeworld": "Coruscant",
+    "manufacturer": "Publictechnic",
+    "model": "INS-444 window installation droid",
+    "class": "Window installation droid",
+    "height": "0.7 meters",
+    "pronouns": "new",
+    "sensor": "Red",
+    "armament": "None",
+    "equipment": [
+      "Magnatomic grip pad (2)",
+      "Manipulator arm (3)",
+      "Testing probe (2)",
+      "Repulsorlift"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

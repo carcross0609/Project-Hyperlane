@@ -1,0 +1,19 @@
+{
+  "name": "FA-series",
+  "wookieepedia_title": "FA-series/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/FA-series/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The FA-series was a line of service droids manufactured by the SoroSuub Corporation. The FA-4 pilot droid was one of the most famous models of the line.",
+  "data": {
+    "name": "FA-series",
+    "manufacturer": "SoroSuub Corporation",
+    "model": [
+      "FA-4 pilot droid",
+      "FA-5 valet droid"
+    ],
+    "class": "Service droid"
+  },
+  "scraped": "2026-07-03"
+}

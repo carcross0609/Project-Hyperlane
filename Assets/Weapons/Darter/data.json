@@ -1,0 +1,34 @@
+{
+  "name": "Darter",
+  "wookieepedia_title": "Darter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darter",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A darter was a short-ranged large pistol that launched a dart via compressed air. It caused minimal damage, but could be used to deliver a surveillance tagger or poison. Hunters, medical personnel, assassins and security personnel were known to use them.",
+  "data": {
+    "name": "Darter",
+    "type": "Dart-shooting pistol",
+    "culture": [
+      "Poachers",
+      "Game wardens",
+      "Security personnel",
+      "Assassins",
+      "Medical personnel"
+    ],
+    "cost": "150 credits",
+    "shape": "Pistol-shaped",
+    "size": "One-handed weapon",
+    "weight": "3 kg",
+    "capacity": "1 dart",
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 60 m"
+    ],
+    "purpose": [
+      "Poison a target",
+      "Tag a target with a surveillance tagger"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

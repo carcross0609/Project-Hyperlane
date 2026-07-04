@@ -1,0 +1,32 @@
+{
+  "name": "Slugthrower rifle",
+  "wookieepedia_title": "Slugthrower rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Slugthrower_rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A slugthrower rifle (or simply \"rifle\") was a type of slugthrower and a larger two-handed version of the slugthrower pistol. It was a vast improvement from a musket.",
+  "data": {
+    "name": "Slugthrower rifle",
+    "type": "Slugthrower",
+    "culture": [
+      "Newly-industrialized cultures",
+      "Tusken Raiders",
+      "Primitive cultures",
+      "Petty criminals and street thugs"
+    ],
+    "cost": "250 credits to 300 credits",
+    "shape": "Rifle-shaped",
+    "size": "Medium",
+    "weight": "4 kg",
+    "capacity": [
+      "20 shots",
+      "Autofire mode available"
+    ],
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 450 meters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

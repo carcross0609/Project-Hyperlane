@@ -1,0 +1,20 @@
+# L7-BO
+
+**Kind:** Individual  
+**Continuity:** Legends  
+**Source:** [L7-BO](https://starwars.fandom.com/wiki/L7-BO)
+
+L7-BO was a protocol droid who, together with the elderly Human Sleightan, formed a successful con artist duo traveling between space stations during the Galactic Civil War. Their scam routine involved Sleightan attempting to sell L7-BO to their marks while claiming that he had inherited the droid from his deceased son and that he needed the money from such a sale to stave off poverty. After L7-BO was successfully sold, the droid would seek out any opportunity to sneak away from his new owners and return to Sleightan. At one point, the pair attempted their con at the Farrimmer Cafe eatery aboard the Mynock 7 Space Station, with Sleightan eventually selling L7-BO to a group of spacers and the droid subsequently attempting to slip away unnoticed while they were distracted by other events.
+
+## Specifications
+
+- **Type:** Criminal
+- **Name:** L7-BO
+- **Class:** Protocol droid
+- **Pronouns:** He/him
+- **Sensor:** Yellow
+- **Plating:** Blue-tinted metallic
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

@@ -1,0 +1,31 @@
+{
+  "name": "SE4 servant droid",
+  "wookieepedia_title": "SE4 servant droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SE4_servant_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The SE4 servant droid, also known as the SE4 Series Protocol Droid, was a droid line constructed by Industrial Automaton to help with the planning of social occasions and parties.",
+  "data": {
+    "name": "SE4 servant droid",
+    "manufacturer": "Industrial Automaton",
+    "class": [
+      "Servant droid",
+      "Protocol droid"
+    ],
+    "degree": "Class three droid",
+    "cost": [
+      "2,600 credits (new)",
+      "1,300 credits (used)"
+    ],
+    "height": "1.6 meters",
+    "equipment": [
+      "Auditory sensors",
+      "Olfactory sensors",
+      "Photoreceptors",
+      "Simulated tastebuds",
+      "Vocabulator speech system"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

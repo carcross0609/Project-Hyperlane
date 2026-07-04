@@ -1,0 +1,25 @@
+{
+  "name": "Tantiss medical droid",
+  "wookieepedia_title": "Tantiss medical droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tantiss_medical_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Tantiss medical droid was a model of medical droid used by the Galactic Empire's Advanced Science Division for medical procedures on their Tantiss Base headquarters. In particular the droids drew blood from the subjects of Project Necromancer inside the Tantiss vault and recorded the results inside each subject's cell monitor. They could also administer injections with its specialized arm.",
+  "data": {
+    "name": "Tantiss medical droid",
+    "class": "Medical droid",
+    "sensor": "Blue",
+    "plating": "Gray",
+    "equipment": [
+      "Diagnostic sensor",
+      "Vocabulator",
+      "Injector"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Advanced Science Division"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

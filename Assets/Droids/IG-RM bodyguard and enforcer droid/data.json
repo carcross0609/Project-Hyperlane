@@ -1,0 +1,38 @@
+{
+  "name": "IG-RM bodyguard and enforcer droid",
+  "wookieepedia_title": "IG-RM bodyguard and enforcer droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IG-RM_bodyguard_and_enforcer_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The IG-RM bodyguard and enforcer droid, more commonly known as the IG-RM thug droid and sometimes known as the IG-RM war droid, or IG-RM assassin droid, was a security droid model manufactured by Holowan Laboratories. They were commonly used as enforcers, and as such proved popular with gangsters. Cikatro Vizago, a crime lord on Lothal during the reign of the Galactic Empire, employed IG-RM thug droids to conduct his criminal operations. The Mining Guild also made use of these droids on ore crawlers. Those variations became known as Mining Guild security droids. The Empire itself would also make use of the IG-RM series as a battle droid model.",
+  "data": {
+    "name": "IG-RM bodyguard and enforcer droid",
+    "manufacturer": "Holowan Laboratories",
+    "line": "IG-series",
+    "class": [
+      "Security droid",
+      "Assassin droid",
+      "Bodyguard droid"
+    ],
+    "degree": "Class 4",
+    "cost": "23,000 credits",
+    "height": "2.09 meters",
+    "mass": "140 kilograms",
+    "gender": "Masculine programming",
+    "sensor": "Black",
+    "plating": "Silver",
+    "armament": [
+      "DLT-18 laser rifle",
+      "773 Firepuncher rifle",
+      "Electrostaff"
+    ],
+    "equipment": "Audio receptors",
+    "affiliation": [
+      "Broken Horn Syndicate",
+      "Galactic Empire",
+      "Mining Guild"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

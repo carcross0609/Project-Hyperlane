@@ -1,0 +1,31 @@
+{
+  "name": "Magna caster",
+  "wookieepedia_title": "Magna caster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Magna_caster",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The magna caster was a quiet weapon that fired arrow-like projectiles.",
+  "data": {
+    "name": "Magna caster",
+    "type": "Magnetic acceleration projectile launcher",
+    "culture": [
+      "Game hunters",
+      "Assassins"
+    ],
+    "cost": "2,000 credits",
+    "size": "Medium",
+    "weight": "4 kg",
+    "capacity": "10 bolts",
+    "range": [
+      "Optimum: up to 90 meters",
+      "Maximum: up to 450 meters"
+    ],
+    "purpose": [
+      "Hunting",
+      "Assassination"
+    ],
+    "heritage": "Design inspired by Wookiee bowcasters"
+  },
+  "scraped": "2026-07-03"
+}

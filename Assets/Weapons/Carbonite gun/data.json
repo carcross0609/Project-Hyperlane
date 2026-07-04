@@ -1,0 +1,25 @@
+{
+  "name": "Carbonite gun",
+  "wookieepedia_title": "Carbonite gun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carbonite_gun",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Carbonite guns, also known as carbonite rifles, were weapons that fired a short stream of liquid carbonite that solidified on contact with a target. It was a very formidable weapon capable of immobilizing everything from small infantry such as a stormtrooper to extremely large opponents such as a rancor. They could also be used to disable mechanical devices such as tanks.",
+  "data": {
+    "name": "Carbonite gun",
+    "type": "Heavy weapon",
+    "creators": "Empress Teta scientists",
+    "cost": "1,200 credits",
+    "shape": "Rifle-shaped",
+    "size": "Two-handed weapon",
+    "weight": "6 kg",
+    "capacity": "20 shots",
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 450 m"
+    ],
+    "purpose": "To immobilize targets"
+  },
+  "scraped": "2026-07-03"
+}

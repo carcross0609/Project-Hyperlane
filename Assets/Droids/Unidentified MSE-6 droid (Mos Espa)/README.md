@@ -1,0 +1,17 @@
+# Unidentified MSE-6 droid (Mos Espa)
+
+**Kind:** Individual  
+**Continuity:** Canon  
+**Source:** [Unidentified MSE-6 droid (Mos Espa)](https://starwars.fandom.com/wiki/Unidentified_MSE-6_droid_%28Mos_Espa%29)
+
+An MSE-6 droid was located in a Mos Espa house on the desert planet Tatooine. In 28 BBY, the Naboo Royal Handmaiden Sabé lived in the house for six weeks while attempting to free slaves on the planet. She tried to ignore the droid during her stay, but her companion Tonra formed an attachment to it through the course of their mission. He suggested to Sabé that they take it with them to Coruscant when they were recalled by their lady, Senator Padmé Amidala. The mouse droid had trouble maneuvering on its wheels and was prone to turn in circles.
+
+## Specifications
+
+- **Name:** Unidentified MSE-6 droid
+- **Line:** MSE series
+- **Model:** MSE-6 series repair droid
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

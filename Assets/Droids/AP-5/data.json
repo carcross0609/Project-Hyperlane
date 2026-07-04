@@ -1,0 +1,30 @@
+{
+  "name": "AP-5",
+  "wookieepedia_title": "AP-5",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/AP-5",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "AP-5, nicknamed AP, was a masculine RA-7 protocol droid who served as an analyst droid on a Galactic Republic attack cruiser during the Clone Wars. At the end of the conflict, the Republic was replaced by the Galactic Empire, and AP-5 was relegated to inventory duty aboard the cargo transport 241, an Imperial cargo ship. In the third year before the Battle of Yavin, AP-5 encountered the astromech droid Chopper when the latter hid in the cargo ship while evading several pursuing stormtroopers. Tired of being mistreated, the inventory droid befriended Chopper, helping him steal the cargo ship and providing his rebel allies with a suitable location for a secret base.",
+  "data": {
+    "type": "Rebel",
+    "name": "AP-5",
+    "manufacturer": "Arakyd Industries",
+    "model": "RA-7 protocol droid",
+    "class": "Protocol droid",
+    "height": "1.77 meters",
+    "gender": "Masculine programming",
+    "pronouns": "He/him",
+    "sensor": "Gray",
+    "plating": "Blue",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "  Phoenix Cell",
+      "  Massassi Group"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

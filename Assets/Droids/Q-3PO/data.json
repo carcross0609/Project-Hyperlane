@@ -1,0 +1,23 @@
+{
+  "name": "Q-3PO",
+  "wookieepedia_title": "Q-3PO",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Q-3PO",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Q-3PO was a protocol droid that worked as a species relations droid for the Galactic Republic during the Clone Wars. Later he was given to Doctor Deena Kinnet, after she became a spy for the Galactic Empire.",
+  "data": {
+    "name": "Q-3PO",
+    "class": "Protocol droid",
+    "gender": "Masculine programming",
+    "pronouns": "new",
+    "sensor": "Yellow",
+    "plating": "Silver",
+    "affiliation": [
+      "Galactic Republic",
+      "Deena Kinnet",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

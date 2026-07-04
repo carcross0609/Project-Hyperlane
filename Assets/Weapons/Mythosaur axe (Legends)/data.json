@@ -1,0 +1,35 @@
+{
+  "name": "Mythosaur axe",
+  "wookieepedia_title": "Mythosaur axe/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mythosaur_axe/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Mythosaur axe was a weapon used by the Mandalorian Crusaders, named after the extinct Mandalorian monster, the Mythosaur. It was most notably used by Mandalore the Indomitable.",
+  "data": {
+    "name": "Mythosaur axe",
+    "manufacturer": "Mandalorians",
+    "model": "Custom-made weapon",
+    "type": "Melee weapon",
+    "culture": "Mandalorians",
+    "locations": [
+      "Plains of Harkul, Kuar",
+      "Arumorut, Vlemoth Port"
+    ],
+    "cost": "1,000 credits",
+    "shape": "Axe-like",
+    "size": "Two-handed weapon",
+    "material": [
+      "Calcified bones of a mythosaur",
+      "Modern metals (Mandalore the Ultimate's variation)"
+    ],
+    "weight": "10 kg",
+    "range": "Close range",
+    "purpose": [
+      "Ceremony",
+      "Combat"
+    ],
+    "affiliation": "Mandalorians"
+  },
+  "scraped": "2026-07-03"
+}

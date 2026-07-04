@@ -1,0 +1,32 @@
+{
+  "name": "Blaster carbine",
+  "wookieepedia_title": "Blaster carbine/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blaster_carbine/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A blaster carbine was a shortened variant of an already existing weapon, traditionally blaster rifles. An individual who specialized at using carbines was known as a carbineer.",
+  "data": {
+    "name": "Blaster carbine",
+    "type": "Blaster rifle",
+    "cost": [
+      "850 credits without retractable stock",
+      "900 credits with retractable stock"
+    ],
+    "size": [
+      "One-handed weapon with stock folded",
+      "Two-handed weapon with stock extended"
+    ],
+    "weight": "2.2 kg",
+    "capacity": [
+      "50 shots",
+      "Close-range stun setting available",
+      "Autofire mode available"
+    ],
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 225 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Ripper (weapon)",
+  "wookieepedia_title": "Ripper (weapon)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ripper_%28weapon%29",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The ripper was an Old Republic weapon designed to bypass personal energy shields by firing physical projectiles. The ripper fired many pieces of shrapnel at a target, in a similar manner to the flechette weapons later used during the Galactic Civil War. The shrapnel fired by the ripper penetrated deep into the target's body, causing additional damage.",
+  "data": {
+    "name": "Ripper",
+    "type": "Shrapnel-shooting pistol",
+    "cost": "750 credits",
+    "size": "Small",
+    "weight": "1 kg",
+    "capacity": [
+      "10 shots",
+      "Additional embedded shrapnel damage"
+    ],
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 90 meters"
+    ],
+    "purpose": "To bypass personal energy shields"
+  },
+  "scraped": "2026-07-03"
+}

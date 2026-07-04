@@ -1,0 +1,35 @@
+{
+  "name": "Miniature proton torpedo launcher",
+  "wookieepedia_title": "Miniature proton torpedo launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Miniature_proton_torpedo_launcher",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The miniature proton torpedo launcher was a portable missile launcher that fired miniaturized proton torpedoes. It was originally designed as an integrated weapon for the Zero-G assault stormtroopers of the Galactic Empire. The launcher was fitted into the Zero-G stormtrooper's left gauntlet which enabled them to rip through the hull of a starship in boarding missions. However, Rebel engineers adapted the weapon into a portable shoulder-mounted launcher.",
+  "data": {
+    "name": "Miniature proton torpedo launcher",
+    "type": "Portable missile launcher",
+    "creators": "Rebel engineers",
+    "cost": "1,500 credits (Available for military use only)",
+    "size": "Large",
+    "weight": "8 kg",
+    "capacity": [
+      "4 miniature proton torpedoes",
+      "3-meter blast radius"
+    ],
+    "range": [
+      "Optimum: up to 75 meters",
+      "Maximum: up to 750 meters"
+    ],
+    "purpose": [
+      "Anti-personnel weapon",
+      "Anti-vehicle weapon"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire",
+      "  Zero-G assault stormtrooper"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

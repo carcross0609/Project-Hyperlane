@@ -1,0 +1,42 @@
+{
+  "name": "Massassi lanvarok",
+  "wookieepedia_title": "Massassi lanvarok",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Massassi_lanvarok",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Massassi lanvarok was a primitive version of the lanvarok. Massassi warriors used this primitive version more than the rest of their species: a two-handed polearm that required brute strength rather than mechanical action or the Force to launch the same discs fired by a Sith lanvarok. After its disks were launched, the polearm itself could be used as a battle axe.",
+  "data": {
+    "name": "Massassi lanvarok",
+    "manufacturer": "Sith",
+    "type": "Exotic",
+    "culture": [
+      "Massassi",
+      "Kissai"
+    ],
+    "cost": "250 credits",
+    "shape": "Polearm-like",
+    "size": "Large",
+    "material": [
+      "Wood",
+      "Bone",
+      "Metal alloys"
+    ],
+    "weight": "9.8 kg",
+    "capacity": "1 disk",
+    "range": [
+      "Disk:",
+      "  Optimum: up to 9 meters",
+      "  Maximum: up to 15 meters",
+      "Polearm:",
+      "  Melee weapon range"
+    ],
+    "purpose": [
+      "Hunting",
+      "Melee combat",
+      "Ranged combat"
+    ],
+    "affiliation": "Sith"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Jaro Tapal's lightsaber",
+  "wookieepedia_title": "Jaro Tapal's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jaro_Tapal%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "This lightsaber was first used by Jedi Master Jaro Tapal. Just before Tapal's death, he passed the weapon to his padawan, Cal Kestis, who used the weapon until its crystal broke while Kestis was on Dathomir.",
+  "data": {
+    "name": "Jaro Tapal's lightsaber",
+    "model": "Lightsaber",
+    "type": [
+      "Double-bladed lightsaber",
+      "Single-bladed lightsaber (damaged hilt)"
+    ],
+    "culture": "Jedi",
+    "destroyed": "14 BBY, Dathomir (remains incorporated into Cal Kestis' second lightsaber)",
+    "owners": [
+      "Jaro Tapal",
+      "Cal Kestis"
+    ],
+    "hilt_shape": "Cylindrical handgrip and squared emitter",
+    "hilt_material": "Alloy metal",
+    "crystal": "Kyber crystal",
+    "color": "Blue",
+    "precede": "Cal Kestis' first lightsaber (Cal Kestis)",
+    "succeed": "Cal Kestis' second lightsaber (Cal Kestis)",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "  13th Battalion",
+      "Mantis crew"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

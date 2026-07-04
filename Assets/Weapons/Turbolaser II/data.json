@@ -1,0 +1,22 @@
+{
+  "name": "Turbolaser II",
+  "wookieepedia_title": "Turbolaser II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Turbolaser_II",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Turbolaser II was a type of heavy turbolaser emplacement manufactured by Golan Arms, used to protect a variety of military compounds and fortress from starfighter attacks. It drew power from a dedicated power generator and required a crew of three to operate, although if incapacitated the weapon could also be controlled from a central command center.",
+  "data": {
+    "name": "Turbolaser II",
+    "manufacturer": "Golan Arms",
+    "type": "Anti-aircraft battery",
+    "cost": [
+      "50,000 credits (new)",
+      "30,000 credits (used)"
+    ],
+    "crew": "3",
+    "capacity": "Unlimited (power generator)",
+    "range": "140 kilometers"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Garrote chrono",
+  "wookieepedia_title": "Garrote chrono",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Garrote_chrono",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A garrote chrono was a type of specialized melee weapon designed for use by field agents. It was composed of a retractable, spun durasteel garrote concealed within a chronometer. Due to its concealed nature, a garrote chrono gave its user constant access to a weapon, even when being searched or disarmed. They cost 100 credits on the market and were popular among assassins and undercover agents.",
+  "data": {
+    "name": "Garrote chrono",
+    "type": [
+      "Chrono",
+      "Garrote"
+    ],
+    "cost": "100 credits",
+    "purpose": "Hand-to-hand combat"
+  },
+  "scraped": "2026-07-03"
+}

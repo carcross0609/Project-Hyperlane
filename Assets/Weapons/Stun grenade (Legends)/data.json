@@ -1,0 +1,23 @@
+{
+  "name": "Stun grenade",
+  "wookieepedia_title": "Stun grenade/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stun_grenade/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Stun grenades were grenades that stunned opponents, usually used when the object of a mission was to detain, capture, or subdue rather than kill.",
+  "data": {
+    "name": "Stun grenade",
+    "type": "Grenade",
+    "cost": "75 credits to 250 credits",
+    "size": "Hand-held",
+    "weight": "0.5 kilogram",
+    "capacity": "Single use",
+    "range": [
+      "Thrown weapon",
+      "3-meter to 4-meter blast radius"
+    ],
+    "purpose": "Nonlethal incapacitation of living targets"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Leia's lightsaber",
+  "wookieepedia_title": "Leia's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Leia%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Leia's lightsaber was a blue-bladed lightsaber used by Princess Leia Organa during her time as a Jedi Padawan training under her brother, the Jedi Knight Luke Skywalker. Leia constructed her Jedi weapon shortly after the Battle of Endor, and utilized it in various sparring sessions with Skywalker. After Organa sensed the death of her son occurring at the end of her Jedi path, she discontinued her training and gave the lightsaber to Skywalker, who kept it with him until his death at the Battle of Crait. A year later, Skywalker, now a Force spirit, gave the weapon to Rey during the final days of the war between the First Order and the Resistance.",
+  "data": {
+    "name": "Leia's lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "creator": "Leia Organa",
+    "created": "4 ABY",
+    "owners": [
+      "Leia Organa",
+      "Luke Skywalker",
+      "Rey"
+    ],
+    "hilt_shape": "Cylindrical, straight",
+    "hilt_material": [
+      "Silver",
+      "Copper"
+    ],
+    "crystal": "Kyber crystal",
+    "color": "Blue",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Elder Houses",
+      "  House of Organa",
+      "Skywalker family",
+      "Solo family",
+      "Jedi Order",
+      "Resistance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

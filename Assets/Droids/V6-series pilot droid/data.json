@@ -1,0 +1,29 @@
+{
+  "name": "V6-series pilot droid",
+  "wookieepedia_title": "V6-series pilot droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V6-series_pilot_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The V6-series pilot droid model was Industrial Automaton's followup to their successful V1-series pilot droid model. Like other pilot droids, they were designed to supplement or replace biological pilots for spacecraft and starships.",
+  "data": {
+    "name": "V6-series pilot droid",
+    "manufacturer": "Industrial Automaton",
+    "line": "V-series pilot droid",
+    "class": "Astromech droid",
+    "degree": "Class two droid",
+    "cost": [
+      "17,800 credits (new)",
+      "12,000 credits (used)"
+    ],
+    "height": "1 meter",
+    "equipment": [
+      "1 retractable arm",
+      "Starship interface jack",
+      "Video display screen",
+      "1 visual sensor (Human range)",
+      "Memory for five hyperspace jumps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

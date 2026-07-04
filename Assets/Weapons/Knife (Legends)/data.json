@@ -1,0 +1,26 @@
+{
+  "name": "Knife",
+  "wookieepedia_title": "Knife/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Knife/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The knife, also known as a combat knife or throwing knife, was a handheld melee weapon used for slashing and stabbing. A knife could also be used as a cutting tool or utensil.",
+  "data": {
+    "name": "Knife",
+    "type": "Melee weapon",
+    "cost": "25 credits",
+    "size": "Hand-held",
+    "weight": "1 kg",
+    "range": [
+      "Melee weapon",
+      "Thrown weapon range"
+    ],
+    "purpose": [
+      "Melee weapon",
+      "Thrown weapon",
+      "Cutting tool"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

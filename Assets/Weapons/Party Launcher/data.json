@@ -1,0 +1,28 @@
+{
+  "name": "Party Launcher",
+  "wookieepedia_title": "Party Launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Party_Launcher",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Party Launcher was the name of a set of objects, including a custom Nanite Launcher, a specialized projectile launcher, owned by the Twi'lek Hunter Tuya that she could wield for the Hunters of the Outer Rim competition on Vespaara as an alternative to her standard launcher, as well as matching exterior plating and photoreceptor for Tuya's droid partner, T-U8.",
+  "data": {
+    "name": "Party Launcher",
+    "model": "Nanite Launcher",
+    "type": [
+      "Projectile launcher",
+      "  Grenade launcher"
+    ],
+    "creators": "Tuya",
+    "owners": [
+      "Tuya",
+      "T-U8"
+    ],
+    "purpose": "Cosmetic",
+    "affiliation": [
+      "Medtech Industries",
+      "Hunters of the Outer Rim"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "4-A7",
+  "wookieepedia_title": "4-A7",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/4-A7",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "4-A7 was a masculine-programmed RA-7 protocol droid and prototype spy droid that served the Confederacy of Independent Systems under Dark Acolyte Asajj Ventress during the Clone Wars. During the Battle of Teth in 22 BBY, 4-A7 was stationed at a B'omarr Order Monastery where the Confederacy had placed Rotta, the kidnapped son of the crime lord Jabba Desilijic Tiure. After the Galactic Republic's Torrent Company defeated the monastery's battle droid defense, Ventress dispatched 4-A7 to greet their enemies. Masquerading as an old caretaker droid, he claimed they had freed him and informed the company's Jedi General, Anakin Skywalker, that Rotta was being kept on the detention level.",
+  "data": {
+    "type": "CIS",
+    "name": "4-A7",
+    "birth": "22 BBY",
+    "death": "22 BBY, Teth",
+    "manufacturer": "Arakyd Industries",
+    "model": "RA-7 protocol droid",
+    "class": [
+      "Protocol droid",
+      "Spy droid"
+    ],
+    "height": "1.7 meters",
+    "gender": "Masculine programming",
+    "pronouns": "He/him",
+    "plating": "Gray",
+    "equipment": [
+      "Broadband photoreceptors",
+      "Built-in holocamera"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  4-A7's battle droid platoon"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

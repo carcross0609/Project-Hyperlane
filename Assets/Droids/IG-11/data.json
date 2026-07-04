@@ -1,0 +1,40 @@
+{
+  "name": "IG-11",
+  "wookieepedia_title": "IG-11",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IG-11",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "IG-11, also known as Eyegee-Eleven or simply as IG or Eyegee, was a IG-series assassin droid who was a bounty hunter during the New Republic Era. IG-11 was programmed to follow the protocols of the Bounty Hunters' Guild, and had a built-in self-destruct mechanism to prevent itself from being captured while working as a hired gun.",
+  "data": {
+    "type": "New Republic",
+    "name": "IG-11",
+    "birth": "Before or during the Galactic Civil War, a factory",
+    "death": [
+      "9 ABY, Arvala-7 (later rebuilt)",
+      "9 ABY, Nevarro (later rebuilt)",
+      "9 ABY, Nevarro (later repurposed as IG-12) (later rebuilt from IG-12's remains)"
+    ],
+    "manufacturer": "Holowan Mechanicals",
+    "line": "IG-series",
+    "model": "IG-series assassin droid",
+    "class": [
+      "Assassin droid",
+      "Nurse droid (after reprogramming)",
+      "Police droid (after second reprogramming)"
+    ],
+    "height": "2.19 meters (7 ft, 2 in)",
+    "gender": "Masculine programming",
+    "pronouns": [
+      "He/him",
+      "It/its"
+    ],
+    "sensor": "Red",
+    "plating": "Gray and bronze",
+    "affiliation": [
+      "Bounty Hunters' Guild",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

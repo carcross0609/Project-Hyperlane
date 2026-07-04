@@ -1,0 +1,35 @@
+{
+  "name": "Z-6 rotary blaster cannon",
+  "wookieepedia_title": "Z-6 rotary blaster cannon/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-6_rotary_blaster_cannon/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Z-6 rotary blaster cannon was a powerful rotating blaster cannon chaingun developed by Merr-Sonn Munitions and used during the Clone Wars and the Galactic Civil War.",
+  "data": {
+    "name": "Z-6 rotary blaster cannon",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "model": "Z-6 rotary blaster cannon",
+    "type": "Chaingun",
+    "cost": "5,500 credits (available for military use only)",
+    "size": "Two-handed weapon",
+    "weight": "16 kg",
+    "capacity": [
+      "20 shots",
+      "Autofire-only",
+      "Can be attached to a power generator for longer use"
+    ],
+    "range": [
+      "Up to 75 m (optimum)",
+      "Up to 750 m (maximum)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "Galactic Empire",
+      "Kota's Militia",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

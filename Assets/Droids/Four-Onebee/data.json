@@ -1,0 +1,31 @@
+{
+  "name": "Four-Onebee",
+  "wookieepedia_title": "Four-Onebee",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Four-Onebee",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Four-Onebee was the medical droid that Captain Ixsthmus used aboard the starship Long Shot.",
+  "data": {
+    "type": "Rebel",
+    "name": "Four-Onebee",
+    "manufacturer": "Industrial Automaton",
+    "model": "2-1B surgical droid",
+    "class": "Medical droid",
+    "cost": "1,275 credits",
+    "height": "1.5 Imperial standard meters",
+    "pronouns": "new",
+    "sensor": "White",
+    "plating": "Grey",
+    "equipment": [
+      "Computer interface tether",
+      "Medical diagnostic computer",
+      "Analytical computer",
+      "Surgical attachments",
+      "Hypodermic injectors",
+      "Medicine dispensers"
+    ],
+    "affiliation": "Reekeene's Roughnecks"
+  },
+  "scraped": "2026-07-03"
+}

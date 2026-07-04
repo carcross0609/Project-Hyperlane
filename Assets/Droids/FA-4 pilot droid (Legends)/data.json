@@ -1,0 +1,32 @@
+{
+  "name": "FA-4 pilot droid",
+  "wookieepedia_title": "FA-4 pilot droid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/FA-4_pilot_droid/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The FA-4 pilot droid was a model of wheeled pilot droid in operation during the last decades of the Galactic Republic. It was the predecessor of the FA-5 valet droid, both of which were produced by SoroSuub.",
+  "data": {
+    "name": "FA-4 pilot droid",
+    "manufacturer": "SoroSuub Corporation",
+    "line": "FA-series",
+    "class": "Pilot droid",
+    "height": "2.1 meters",
+    "sensor": "Red",
+    "armament": "None",
+    "equipment": [
+      "Extensible neck",
+      "Fine-motor graspers",
+      "Heavy-duty treads",
+      "High-torque shoulder motor",
+      "Logic processor module",
+      "Manipulator arms",
+      "Power axis"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

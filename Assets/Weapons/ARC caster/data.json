@@ -1,0 +1,24 @@
+{
+  "name": "ARC caster",
+  "wookieepedia_title": "ARC caster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ARC_caster",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "ARC casters were modified E-11 blaster rifles that unleashed powerful electric shocks that could disable electronics, and boil organic beings from the inside out. They were utilized by Phase Zero Dark Troopers, Phase II Dark Troopers, and the Emperor's Royal Guard deployed by the Imperial Army. X1, a Dark Side Adept, also employed this in his career.",
+  "data": {
+    "name": "ARC caster",
+    "model": "Modified E-11",
+    "type": "Electroshock weapon",
+    "size": "Two-handed weapon",
+    "capacity": "25",
+    "range": "Short",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Army",
+      "Imperial Remnant",
+      "  X1's faction"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

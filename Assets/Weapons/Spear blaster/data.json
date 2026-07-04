@@ -1,0 +1,24 @@
+{
+  "name": "Spear blaster",
+  "wookieepedia_title": "Spear blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spear_blaster",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Mon Calamari spear blaster was an underwater weapon used by the Mon Calamari Guard during the Clone Wars. The weapons cost 1,350 credits and were used in the Battle of Mon Cala during the Clone Wars. The spear blaster could be used both as a spear and a blaster, and was effective underwater and on land. Some members of the Mon Calamari Guard who joined the Rebel Alliance brought their spear blasters with them.",
+  "data": {
+    "name": "Spear blaster",
+    "manufacturer": "Mon Calamarians",
+    "type": [
+      "Melee weapon",
+      "Ranged weapon"
+    ],
+    "locations": "Mon Calamari",
+    "cost": "1,350 credits",
+    "affiliation": [
+      "Mon Calamari",
+      "  Mon Calamari Guard"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

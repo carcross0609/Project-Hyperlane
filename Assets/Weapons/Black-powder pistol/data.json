@@ -1,0 +1,26 @@
+{
+  "name": "Black-powder pistol",
+  "wookieepedia_title": "Black-powder pistol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Black-powder_pistol",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The black-powder pistol was an archaic slugthrower pistol that used a combustible powder to launch a physical projectile. It was commonly used by pre-industrial civilizations, and had a slow reload time.",
+  "data": {
+    "name": "Black-powder pistol",
+    "manufacturer": "Yctor Arms",
+    "model": "Black Powder",
+    "type": "Slugthrower pistol",
+    "cost": "200 credits",
+    "shape": "Pistol-shaped",
+    "size": "One-handed weapon",
+    "weight": "1.4 kg",
+    "capacity": "50 shots",
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 90 m"
+    ],
+    "markings": "Decorated grip often inlaid with semiprecious stones"
+  },
+  "scraped": "2026-07-03"
+}

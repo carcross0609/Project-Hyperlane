@@ -1,0 +1,22 @@
+{
+  "name": "Mounted GML 32i",
+  "wookieepedia_title": "Mounted GML 32i",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mounted_GML_32i",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Mounted GML 32i was a type of missile launcher manufactured by Bryn & Gweith. They were often installed on Rapid Deployment stations.",
+  "data": {
+    "name": "Mounted GML 32i",
+    "manufacturer": "Bryn & Gweith",
+    "type": "Anti-vehicle missile launcher",
+    "cost": [
+      "8,000 credits (new)",
+      "5,000 credits (used)"
+    ],
+    "crew": "1",
+    "capacity": "Five missiles",
+    "range": "Two kilometers"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "TO-series",
+  "wookieepedia_title": "TO-series",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TO-series",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The TO-series was a series of protocol droids. The droid 10-4TO was this model.",
+  "data": {
+    "name": "TO-series",
+    "class": "Protocol droid",
+    "sensor": [
+      "Two segmented cranial antennae",
+      "Two gold-colored photoreceptors"
+    ],
+    "plating": "Glossy black",
+    "armament": "Arm-mounted blaster",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

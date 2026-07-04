@@ -1,0 +1,25 @@
+# 11-3K viper probe droid
+
+**Kind:** Series  
+**Continuity:** Canon  
+**Source:** [11-3K viper probe droid](https://starwars.fandom.com/wiki/11-3K_viper_probe_droid)
+
+11-3K viper probe droids, or 11-3K Viper Droids were a variant of viper probe droid produced by Aratech Repulsor Company and used by the Galactic Empire. Like most other Imperial droids, they were programmed with unflagging loyalty and received frequent memory wipes. They were commonly used for investigation, exploration, and reconnaissance. They included a rotating blaster cannon collar assembly able to rotate a 360 degree and an articulated manipulator with sampling claws. It was more heavily armored than the standard viper probe droid, and as such was used on remote planets such as guarding the Crispin Imperial Depository at the end of the conveyex train line on Vandor, or Koboh and Jedha. During the heist on Vandor, the criminal Val fought several 11-3K viper probe droids near the depository which had been dispatched to the scene.
+
+## Specifications
+
+- **Name:** 11-3K viper probe droid
+- **Manufacturer:** Aratech Repulsor Company
+- **Model:** Viper probe droid
+- **Class:** Probe droid
+- **Sensor:** Black
+- **Plating:** Black
+- **Armament:** Blaster cannons
+- **Affiliation:**
+  - Galactic Empire
+  - Unbroken Clan
+  - Scourge (As a vessel)
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

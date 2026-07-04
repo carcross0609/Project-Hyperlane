@@ -1,0 +1,22 @@
+# R-3PO
+
+**Kind:** Individual  
+**Continuity:** Legends  
+**Source:** [R-3PO/Legends](https://starwars.fandom.com/wiki/R-3PO/Legends)
+
+R-3PO (Ar-Threepio) was a 3PO-series protocol droid affiliated with the Alliance to Restore the Republic during the height of the Galactic Civil War. Known for his distinctive red coloring, a tattoo on his left posterior plating that read "Thank The Maker," and a moody disposition, R-3PO was stationed at the Alliance High Command's secret Echo Base on the remote ice world of Hoth by 3 ABY. After his original owner, a smuggler named Chaz, purposely left R-3PO at the base for the Rebels to deal with, Alliance Major Palo Torshan recommended he be used as an espionage droid to uncover Imperial spy droids. R-3PO successfully helped to foil several Imperial infiltration attempts while serving at the base and, subsequently, with High Command.
+
+## Specifications
+
+- **Type:** Rebel
+- **Name:** R-3PO
+- **Model:** 3PO-series protocol droid
+- **Class:** Protocol droid
+- **Pronouns:** He/him
+- **Sensor:** Yellow
+- **Plating:** Red
+- **Affiliation:** Alliance to Restore the Republic
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

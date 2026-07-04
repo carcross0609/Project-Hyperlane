@@ -1,0 +1,27 @@
+{
+  "name": "Crossbow",
+  "wookieepedia_title": "Crossbow/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crossbow/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Crossbows were primitive weapons normally used by archaic peoples who did not have the technology to build blaster weapons or even black-powder weapons.",
+  "data": {
+    "name": "Crossbow",
+    "type": "Bow",
+    "culture": [
+      "Assassins",
+      "Ewoks",
+      "Primitive cultures"
+    ],
+    "cost": "300 credits",
+    "size": "One-handed weapon",
+    "weight": "1.8 kg",
+    "capacity": "1 arrow",
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 90 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

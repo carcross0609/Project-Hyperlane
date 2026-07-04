@@ -1,0 +1,30 @@
+{
+  "name": "Sonic rifle",
+  "wookieepedia_title": "Sonic rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sonic_rifle",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Sonic rifles were the sonic analog to the blaster rifles, capable of striking targets from a greater range than the heavy sonic blaster while still maintaining the same damage.",
+  "data": {
+    "name": "Sonic rifle",
+    "type": "Sonic weapon",
+    "cost": "900 credits",
+    "size": "Medium",
+    "weight": "5 kg",
+    "capacity": [
+      "50 shots",
+      "Autofire mode available",
+      "Cannot be deflected by a lightsaber"
+    ],
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 450 meters"
+    ],
+    "purpose": [
+      "To counter lightsaber-wielding Jedi and Sith",
+      "To disorient an opponent"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

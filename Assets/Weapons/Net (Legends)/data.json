@@ -1,0 +1,25 @@
+{
+  "name": "Net",
+  "wookieepedia_title": "Net/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Net/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Nets were any type of meshed or overlapping grid used to ensnare, trap and hold something or someone against its will. Nets were typically used for hunting and fishing in primative cultures and as a means of non-lethal crowd control in more advanced civilizations. As a weapon, the net later evolved into the electroshock net and the razor net. A net could also be shot out of a net gun.",
+  "data": {
+    "name": "Net",
+    "type": "Simple weapon",
+    "culture": "Ewoks",
+    "cost": "25 credits",
+    "size": "Large",
+    "weight": "4.5 kg",
+    "range": "Thrown weapon range",
+    "purpose": [
+      "Hunting and fishing",
+      "Nonlethal crowd control",
+      "Nonlethal capture for bounty hunting"
+    ],
+    "affiliation": "Bounty hunters"
+  },
+  "scraped": "2026-07-03"
+}

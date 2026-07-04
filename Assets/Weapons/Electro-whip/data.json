@@ -1,0 +1,22 @@
+{
+  "name": "Electro-whip",
+  "wookieepedia_title": "Electro-whip",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Electro-whip",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "An electro-whip, also called a Zygerrian slaver whip, an electrowhip, or a lightwhip, was an electrified whip that was the preferred method of domination for the subjugation of slaves taken by the Zygerrian Slave Empire. It consisted of a metal grip and an electrified wire that glowed when powered up. The wire could be retracted into the grip when powered down. It was incredibly painful, but typically not physically damaging, as Zygerrians did not want to damage their merchandise irreparably. Electro-whips could be effectively used against lightsabers. Members of the Mining Guild were also known to use the weapon during the Imperial Era. The alternate name \"lightwhip\" typically referred to an unrelated lightsaber variant with pure plasma blades.",
+  "data": {
+    "name": "Electro-whip",
+    "type": "Whip",
+    "culture": "Zygerrian",
+    "cost": "2,000 credits",
+    "protection": "Lightsaber-resistant",
+    "purpose": "Subduing slaves without inflicting permanent injury",
+    "affiliation": [
+      "Zygerrian Slave Empire",
+      "Mining Guild"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Rahm Kota's lightsaber",
+  "wookieepedia_title": "Rahm Kota's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rahm_Kota%27s_lightsaber",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "This green-bladed lightsaber was the chosen weapon of Jedi Master Rahm Kota, and was a heavy-duty model that saw frequent use. During the Dark Times, the Jedi General wielded this lightsaber during his personal insurrection against the Galactic Empire. In 2 BBY, Darth Vader dispatched Starkiller to kill Kota and bring him the lightsaber. Starkiller blinded Kota with his own weapon, and though the Jedi escaped, Starkiller turned it over to Darth Vader.",
+  "data": {
+    "name": "Rahm Kota's lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "creator": "Rahm Kota",
+    "destroyed": "2 BBY (later rebuilt by Kota)",
+    "owners": [
+      "Rahm Kota",
+      "Darth Vader",
+      "Galen Marek"
+    ],
+    "hilt_model": "Heavy duty",
+    "hilt_shape": "Cylindrical, straight",
+    "color": [
+      "Green",
+      "Aqua blue"
+    ],
+    "protection": "Interwoven fabric handgrip",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Kota's Militia",
+      "Rebel Alliance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

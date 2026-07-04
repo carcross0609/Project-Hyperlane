@@ -1,0 +1,25 @@
+{
+  "name": "Blaster pistol",
+  "wookieepedia_title": "Blaster pistol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blaster_pistol/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A blaster pistol was a small, hand-held blaster.",
+  "data": {
+    "name": "Blaster pistol",
+    "type": "Blaster",
+    "cost": "500 credits",
+    "size": "One-handed weapon",
+    "weight": "1 kg",
+    "capacity": [
+      "100 shots",
+      "Close-range stun setting available"
+    ],
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 120 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "R1-series astromech droid",
+  "wookieepedia_title": "R1-series astromech droid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R1-series_astromech_droid/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The R1-series astromech droid, also known as the R1 reactor drone, was Industrial Automaton's first production model of their new consumer-market R-series astromech droid line.",
+  "data": {
+    "name": "R1-series astromech droid",
+    "manufacturer": "Industrial Automaton",
+    "line": "R-series",
+    "class": "Astromech droid",
+    "degree": "Class two droid",
+    "cost": "3,500 credits",
+    "height": "2.2 meters",
+    "equipment": [
+      "Acoustic signaller",
+      "Intellex III",
+      "Retractable manipulator arms",
+      "Treaded unipod"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

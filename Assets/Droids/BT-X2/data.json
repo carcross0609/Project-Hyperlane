@@ -1,0 +1,32 @@
+{
+  "name": "BT-X2",
+  "wookieepedia_title": "BT-X2",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BT-X2",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "BT-X2 or Botax and his counterpart NT-X2 were designed as a top-of-the-line Imperial assassin droids, however they were stolen mid-transport and ended up working for Luskin Exovar as a security guards at Exovar's Emporium.",
+  "data": {
+    "name": "BT-X2",
+    "manufacturer": "MerenData",
+    "model": "TX-1118 Series \"Terminax\" Assassin Droid",
+    "class": "Assassin droid",
+    "cost": "Not for sale",
+    "gender": "Masculine programming",
+    "pronouns": "new",
+    "armament": [
+      "Heavy blaster cannon (arm mount)",
+      "Concussion missile launcher (arm mount)",
+      "Vibroblade (retractable)"
+    ],
+    "equipment": [
+      "Broadband antenna",
+      "Infrared detector",
+      "Built-in Comlink",
+      "Omnidirectional motion detector",
+      "Armored Body"
+    ],
+    "affiliation": "Exovar's Emporium"
+  },
+  "scraped": "2026-07-03"
+}

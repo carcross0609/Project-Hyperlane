@@ -1,0 +1,32 @@
+{
+  "name": "Lightsaber pike",
+  "wookieepedia_title": "Lightsaber pike",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lightsaber_pike",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The lightsaber pike, also known as the Jedi Temple Guard lightsaber, was a lightsaber variant similar to the double-bladed lightsaber, featuring two rare yellow plasma blades on each side of the staff, and used by the Jedi Temple Guard.",
+  "data": {
+    "name": "Lightsaber pike",
+    "model": "Lightsaber",
+    "type": [
+      "Double-bladed",
+      "Single-blade"
+    ],
+    "culture": [
+      "Jedi",
+      "Sith"
+    ],
+    "locations": "Jedi Temple, Coruscant",
+    "cost": "9,600 credits",
+    "shape": "Staff-like",
+    "size": "Longer hilt with much shorter blades than a double-bladed lightsaber",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "  Jedi Temple Guard",
+      "Sith Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

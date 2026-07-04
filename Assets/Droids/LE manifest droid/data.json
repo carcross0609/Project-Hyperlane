@@ -1,0 +1,23 @@
+{
+  "name": "LE manifest droid",
+  "wookieepedia_title": "LE manifest droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/LE_manifest_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The LE manifest droid was a third-degree shipping management droid produced by Cybot Galactica. The LE droid was designed to serve as a protocol droid variant that specialized in facilitating shipping and import/export business, and found use from starship captains and spaceport operators in the centuries before the Galactic Civil War. However, the droid's notorious honesty caused it to quickly fall out of favor—it became known for its habit of willingly reporting contraband being transported upon its ship—and the line was ultimately discontinued. One LE unit, LE-914, or \"Ellie,\" would later play a key role in the Rebel Alliance receiving intelligence on the second Death Star's construction in 3 ABY.",
+  "data": {
+    "name": "LE manifest droid",
+    "manufacturer": "Cybot Galactica",
+    "class": "Manifest droid",
+    "degree": "Class three droid",
+    "height": "1.7 meters",
+    "gender": "Feminine personality",
+    "sensor": "Silver",
+    "equipment": [
+      "Vocabulator/broadcast speaker",
+      "Magnetic footpads"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

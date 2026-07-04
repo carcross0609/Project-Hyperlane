@@ -1,0 +1,22 @@
+{
+  "name": "Espo grenade mortar",
+  "wookieepedia_title": "Espo grenade mortar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Espo_grenade_mortar",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Espo grenade mortar was a mobile artillery grenade mortar, with an integrated repulsorlift unit. The repulsorlift did not propel the mortar, but did allow an operator to push or pull the mortar into position. The mortar was capable of firing any type of grenade up to a distance of a kilometer, and had an ammunition capacity of a hundred grenades.",
+  "data": {
+    "name": "Espo grenade mortar",
+    "type": "Grenade mortar",
+    "cost": "3,500 credits",
+    "crew": "1",
+    "capacity": "100 grenades",
+    "range": "1 kilometer",
+    "affiliation": [
+      "Corporate Sector Authority",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

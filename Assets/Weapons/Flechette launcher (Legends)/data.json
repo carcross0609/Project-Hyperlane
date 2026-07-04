@@ -1,0 +1,32 @@
+{
+  "name": "Flechette launcher",
+  "wookieepedia_title": "Flechette launcher/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Flechette_launcher/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A flechette launcher was an anti-personnel weapon that saw extensive use during the last half of the Clone Wars. This weapon fired canisters containing hundreds of razor-sharp flechettes — durasteel darts that spread out over the large area. The projectiles would explode, releasing flechettes at high velocity in a wide spread.",
+  "data": {
+    "name": "Flechette launcher",
+    "type": "Projectile weapon",
+    "cost": "1,100 credits (Available for military use only)",
+    "size": "Two-handed weapon",
+    "weight": "5 kg",
+    "capacity": [
+      "4 shots",
+      "Collateral damage to adjacent targets"
+    ],
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 225 m"
+    ],
+    "purpose": "Antipersonnel weapon",
+    "affiliation": [
+      "Galactic Empire",
+      "  Stormtrooper Corps",
+      "    EVO troopers",
+      "    Swamptroopers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

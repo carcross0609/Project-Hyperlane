@@ -1,0 +1,26 @@
+{
+  "name": "Heavy blaster pistol",
+  "wookieepedia_title": "Heavy blaster pistol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Heavy_blaster_pistol/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A heavy blaster pistol, or heavy blaster, was a more powerful version of the standard blaster pistol.",
+  "data": {
+    "name": "Heavy blaster pistol",
+    "type": "Blaster",
+    "cost": "750 credits (Available for military use only)",
+    "size": "One-handed weapon",
+    "weight": "1.3 kg",
+    "capacity": [
+      "50 shots",
+      "Close-range stun setting available"
+    ],
+    "range": [
+      "Optimum: up to 25 m",
+      "Maximum: up to 50 m"
+    ],
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "V5-T transport droid",
+  "wookieepedia_title": "V5-T transport droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V5-T_transport_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "V5-T transport droids were manufactured by Veril Line Systems. They were labor droids, with no more intelligence than required to obey simple commands. Unfortunately, they were not intelligent enough to recognize from whom they should take orders, and would take orders from anyone unless programmed to respond only from individuals with specific identification cards, such as used by starport employees. They could be preprogrammed to take faster routes, and advanced versions had a remote computer link through which they could learn traffic conditions or receive orders via com signal. Each droid was 2.2 meters tall, essentially a box (capable of carrying up to two metric tons) with retractable lifting arms (capable of lifting up to 500 kilograms). A slower version with treaded wheels cost 2,500 credits, while a faster repulsorlift-equipped version cost 4,500 credits.",
+  "data": {
+    "name": "V5-T transport droid",
+    "manufacturer": "Veril Line Systems",
+    "cost": [
+      "2,500 credits (tread version)",
+      "4,500 credits (repulsorlift version)"
+    ],
+    "height": "2.2 meters",
+    "equipment": "Retractable lifting arm"
+  },
+  "scraped": "2026-07-03"
+}

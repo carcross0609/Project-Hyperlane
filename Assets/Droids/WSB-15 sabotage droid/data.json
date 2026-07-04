@@ -1,0 +1,37 @@
+{
+  "name": "WSB-15 sabotage droid",
+  "wookieepedia_title": "WSB-15 sabotage droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/WSB-15_sabotage_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The WSB-15 sabotage droid was a fourth-degree military sabotage droid model physically identical to the WED Treadwell repair droid. Along with sharing all the fifth-degree WED-15 Treadwell's systems and abilities, the WSB-15's differences from the latter included having a heuristic processor, military-grade sabotage and weapon use programming, and a self-destruct system unit. With most WSB-15 sabotage droids simply being WED-15 Treadwells with different processors, uses for the former included reprogramming droid factories to produce droids with very different personalities and training than intended, creating serious starfighter malfunctions that would only show up in combat or engaging in wanton destruction sprees.",
+  "data": {
+    "name": "WSB-15 sabotage droid",
+    "class": "Sabotage droid",
+    "degree": "Class four droid",
+    "cost": "13,000 credits",
+    "sensor": "Gray",
+    "plating": [
+      "Gray",
+      "Red panels on each side of base, above treaded wheels"
+    ],
+    "armament": [
+      "Two claws, each with appendages",
+      "Two plasma cutters"
+    ],
+    "equipment": [
+      "Tracked locomotion system",
+      "Sensor package",
+      "Heuristic processor",
+      "Eight manipulator arms",
+      "  Two hand appendages",
+      "  Two tool appendages",
+      "  Two instrument appendages",
+      "Weapon use programming",
+      "Self-destruct system",
+      "Ten treaded wheels"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

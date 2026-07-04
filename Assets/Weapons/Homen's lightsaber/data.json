@@ -1,0 +1,23 @@
+{
+  "name": "Homen's lightsaber",
+  "wookieepedia_title": "Homen's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Homen%27s_lightsaber",
+  "continuity": null,
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "A lightsaber was created by the sabersmith Lah Zhima and was given to the Jedi Homen. The lightsaber's kyber crystal was tempered so that its color would reflect the user's connection to the Force, and its blade was red before turning purple while Homen wielded it during his fight against Lah Kara.",
+  "data": {
+    "name": "Homen's lightsaber",
+    "model": "Lightsaber",
+    "creator": "Lah Zhima",
+    "owners": "Homen",
+    "crystal": "Kyber crystal",
+    "color": [
+      "Red",
+      "Purple"
+    ],
+    "mods": "Tempered kyber crystal",
+    "purpose": "Lightsaber combat"
+  },
+  "scraped": "2026-07-03"
+}

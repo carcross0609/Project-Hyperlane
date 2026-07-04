@@ -1,0 +1,22 @@
+{
+  "name": "Heavy slugthrower pistol",
+  "wookieepedia_title": "Heavy slugthrower pistol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Heavy_slugthrower_pistol",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A heavy slugthrower pistol was a weapon that fired metal bullets called \"slugs\" instead of the energy bolts normally fired out of a blaster. It was larger and slightly more powerful version of the standard slugthrower pistol. Its increased power created more recoil, which made it more difficult to fire several shots in rapid succession accurately. Its larger size and loud firing could be used for intimidation if one encountered a group of unfriendly natives.",
+  "data": {
+    "name": "Heavy slugthrower pistol",
+    "type": "Slugthrower pistol",
+    "cost": "400 credits",
+    "size": "Medium",
+    "weight": "2.1 kg",
+    "capacity": "8 shots",
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 120 meters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

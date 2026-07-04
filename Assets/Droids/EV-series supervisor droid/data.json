@@ -1,0 +1,39 @@
+{
+  "name": "EV-series supervisor droid",
+  "wookieepedia_title": "EV-series supervisor droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/EV-series_supervisor_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The EV-series supervisor droid, also known as the EV-series droid overseer, was a model of supervisor droid manufactured by MerenData. The droid was gangly in form. One of the droids, EV-9D9, worked for Jabba Desilijic Tiure, as the chief of his palace's Cyborg Operations.",
+  "data": {
+    "name": "EV-series supervisor droid",
+    "manufacturer": "MerenData",
+    "line": "EV-series",
+    "class": "Supervisor droid",
+    "height": "1.9 meters",
+    "sensor": [
+      "Red",
+      "Yellow",
+      "Purple (Under Scourge infection)"
+    ],
+    "plating": "Black, bronze",
+    "equipment": [
+      "Logic center",
+      "Manipulator arms (2)",
+      "Photoreceptors (2)",
+      "Broadband antenna receiver"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Hutt Clan",
+      "  Jabba's criminal empire",
+      "Alliance to Restore the Republic",
+      "Scourge (As a vessel)",
+      "Pyke Syndicate",
+      "Chalmun's Spaceport Cantina",
+      "Plazir-15 government"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

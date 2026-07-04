@@ -1,0 +1,23 @@
+{
+  "name": "J4-K3",
+  "wookieepedia_title": "J4-K3",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/J4-K3",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "J4-K3, also known as Jake, was an orange and white maintenance droid that moved around on a large rolling base. He was very dedicated to his work and communicated using binary. His standard sensor color was orange, but it would change color based on his emotions.",
+  "data": {
+    "name": "J4-K3\"Jake\"",
+    "class": "Maintenance droid",
+    "pronouns": "He/him",
+    "sensor": [
+      "Orange",
+      "Yellow",
+      "Blue",
+      "Red",
+      "Gray"
+    ],
+    "plating": "Orange and white"
+  },
+  "scraped": "2026-07-03"
+}

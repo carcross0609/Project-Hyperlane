@@ -1,0 +1,29 @@
+{
+  "name": "BG01-1",
+  "wookieepedia_title": "BG01-1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BG01-1",
+  "continuity": null,
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "BG01-1 was a BG01-1 farming droid programmed for farming and security in Habo village on the planet Habo. It was capable of moving back and forth on a repulsorlift, automatically collecting weeds and monitoring the fields. It was conical in shape and had a black photoreceptor on its grey, white, and green outer shell. The top of the droid had an antenna and was able to rise from the base, revealing a second black sensor and a red sensor. It also had three retractable arms with two prongs each for plucking weeds.",
+  "data": {
+    "name": "BG01-1",
+    "model": "BG01-1 farming droid",
+    "class": [
+      "Farming droid",
+      "Security droid"
+    ],
+    "pronouns": "It/its",
+    "sensor": [
+      "Black",
+      "Red"
+    ],
+    "plating": [
+      "Green",
+      "Grey",
+      "White"
+    ],
+    "affiliation": "Habo village"
+  },
+  "scraped": "2026-07-03"
+}

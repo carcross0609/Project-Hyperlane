@@ -1,0 +1,23 @@
+{
+  "name": "Lightwhip",
+  "wookieepedia_title": "Lightwhip",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lightwhip",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Lightwhips were a heavily modified lightsaber variant with one or more plasma blades in flexible containment shields. Due to the blades' flexibility, they required more care of use than a regular lightsaber, and had less cutting power. With a history dating back to the Sith Wars, lightwhips were particularly associated with the Nightsisters of Dathomir, although Jedi had been known to use them as well since they were effective against the Forbidden Forms of the Sith. High Republic Era Jedi Knight Vernestra Rwoh was able to modify her lightsaber to have an additional whip mode after learning the design in a Force vision.",
+  "data": {
+    "name": "Lightwhip",
+    "model": "Lightsaber",
+    "cost": "11,400 credits",
+    "size": "Short",
+    "material": "Alloys or composites (laced with either cortosis, phrik alloy, or a comparable energy resistant alloy)",
+    "length": "Several meters",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Nightsisters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

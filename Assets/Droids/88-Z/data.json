@@ -1,0 +1,26 @@
+{
+  "name": "88-Z",
+  "wookieepedia_title": "88-Z",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/88-Z",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "88-Z was a remotely activated droid used in combat missions and for surveillance by the Galactic Empire. It was equipped with infrared scanners and targeting sensors. The droid was armed with blaster emplacements and electromagnetic disruptors. It also had the ability to deploy energy shields. 88-Z was a round droid with gray and yellow plating, and a black sensor. The droid also had two antennas on top of its body, and a dish extending from its side. While on the planet Coruscant, during the Galactic Civil War, 88-Z encountered a rebel cell.",
+  "data": {
+    "type": "Galactic Empire",
+    "name": "88-Z",
+    "sensor": "Black",
+    "plating": "Gray-and-yellow",
+    "armament": [
+      "Blaster emplacements",
+      "Electromagnetic disruptors"
+    ],
+    "equipment": [
+      "Energy shields",
+      "Infrared scanners",
+      "Targeting sensors"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

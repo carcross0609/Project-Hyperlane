@@ -1,0 +1,26 @@
+{
+  "name": "Light concussion missile launcher",
+  "wookieepedia_title": "Light concussion missile launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Light_concussion_missile_launcher",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The light concussion missile launcher was an antivehicle weapon used by military units on battlefields where tanks, combat vehicles, and other heavy artillery were often present. Unlike the standard concussion missile launcher which was mounted on starships, the light concussion missile launcher was a portable missile launcher. This made it one of the most powerful personal heavy weapons to exist, however it was only effective against very large targets such as Armored Assault Tanks, AT-STs, or similar vehicles. The weapon was ineffective against smaller targets such as individual soldiers.",
+  "data": {
+    "name": "Light concussion missile launcher",
+    "type": "Portable missile launcher",
+    "cost": "4,000 credits (Available for military use only)",
+    "size": "Large",
+    "weight": "18 kg",
+    "capacity": [
+      "1 light concussion missile",
+      "Collateral damage to nearby targets"
+    ],
+    "range": [
+      "Optimum: up to 75 meters",
+      "Maximum: up to 750 meters"
+    ],
+    "purpose": "Antivehicle weapon"
+  },
+  "scraped": "2026-07-03"
+}

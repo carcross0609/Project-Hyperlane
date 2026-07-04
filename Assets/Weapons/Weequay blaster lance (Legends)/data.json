@@ -1,0 +1,33 @@
+{
+  "name": "Weequay blaster lance",
+  "wookieepedia_title": "Weequay blaster lance/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Weequay_blaster_lance/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Weequay blaster lance also known as an ancient blaster rifle, long-barreled blaster rifle, or simply Weequay Rifle, was a type of exceptionally long-ranged blaster rifle native to Sriluur.",
+  "data": {
+    "name": "Weequay blaster lance",
+    "model": "Weequay blaster lance",
+    "type": "Heavy blaster rifle",
+    "culture": "Weequay",
+    "locations": [
+      "Coruscant",
+      "Felucia",
+      "Florrum",
+      "Naboo",
+      "Onderon",
+      "Rattatak",
+      "Serenno",
+      "Sriluur"
+    ],
+    "cost": "850 credits",
+    "length": "Long (some models up to two meters in length)",
+    "range": "Extreme",
+    "affiliation": [
+      "Ohnaka Gang",
+      "Onderon rebels"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

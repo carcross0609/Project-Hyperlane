@@ -1,0 +1,17 @@
+# Octeroidian blaster
+
+**Kind:** Model  
+**Continuity:** Canon  
+**Source:** [Octeroidian blaster](https://starwars.fandom.com/wiki/Octeroidian_blaster)
+
+Octeroidian blasters were a type of blaster. Around 232 BBY, the Octeroid gang leader Norikus used a pair of Octeroidian blasters, and drew them from his cheap shaak-hide coat when confronted by Jedi Master Stellan Gios in the under levels of the planet Coruscant. He let off a volley of crimson shots from the weapons, but Gios somersaulted out of their way and used his lightsaber to slice through both of the blasters, after which the Octeroid fled. When Gios latter knocked on the door of the thief Nittel Karkson's hovel, Karkson feared that it was possibly Norikus knocking and armed himself with a dented ladle, despite knowing it would be useless against Octeroidian blasters.
+
+## Specifications
+
+- **Name:** Octeroidian blaster
+- **Type:** Blaster
+- **Culture:** Octeroid
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

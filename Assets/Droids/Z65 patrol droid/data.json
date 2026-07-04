@@ -1,0 +1,25 @@
+{
+  "name": "Z65 patrol droid",
+  "wookieepedia_title": "Z65 patrol droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z65_patrol_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Z65 patrol droid was a successor to the 501-Z police droid, used around 137 ABY. It was designed to offer security and protection to anyone who could afford it. Unlike the 501-Z, it had simplified programming structure and reduced combat capabilities, but was significantly cheaper, allowing one to build an effective security force without hiring living individuals. They had large, red-hued frames and a blaster cannon built-in to each arm, unlike the 501-Z, which had hands with fingers.",
+  "data": {
+    "name": "Z65 patrol droid",
+    "manufacturer": "SoroSuub Corporation",
+    "class": "Security droid",
+    "degree": "Fourth degree",
+    "cost": "6,400 credits",
+    "sensor": "Red",
+    "plating": "Red Quadanium battle armor",
+    "armament": "Arm-mounted Blaster cannons (2)",
+    "equipment": [
+      "Sensor package",
+      "Tool mounts (2)",
+      "Vocabulator"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

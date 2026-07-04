@@ -1,0 +1,27 @@
+{
+  "name": "Snare pistol",
+  "wookieepedia_title": "Snare pistol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Snare_pistol",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The snare pistol was cord-shooting weapon designed to ensnare a target so that they can be captured alive. The pistol fired a length of synthcord which wrapped around the target, hindering its ability to move or escape. The snare pistol was a smaller version of the snare rifle and the snare gun.",
+  "data": {
+    "name": "Snare pistol",
+    "type": "Cord-launching pistol",
+    "cost": "600 credits",
+    "size": "Medium",
+    "weight": "2 kg",
+    "capacity": "2 shots",
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 90 meters"
+    ],
+    "purpose": "To capture targets alive",
+    "affiliation": [
+      "Blujay",
+      "  B4J4 security droids"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

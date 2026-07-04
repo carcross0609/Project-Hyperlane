@@ -1,0 +1,27 @@
+{
+  "name": "Short sword",
+  "wookieepedia_title": "Short sword",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Short_sword",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A short sword was a simple and ancient type of melee weapon, largely overlooked by contemporary warriors, but still effective in the hands of a skilled wielder. The sword could be used to parry incoming melee attacks, and was often used while wielding another weapon, as the former did not unbalance the user when held in the off-hand.",
+  "data": {
+    "name": "Short sword",
+    "type": "Sword",
+    "locations": [
+      "Endar Spire",
+      "Leviathan",
+      "Taris"
+    ],
+    "cost": "1–40 credits",
+    "material": "Cortosis-weave",
+    "weight": "1.5 Kilograms",
+    "purpose": "Parrying melee attacks",
+    "affiliation": [
+      "Galactic Republic",
+      "Sith Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

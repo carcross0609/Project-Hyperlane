@@ -1,0 +1,30 @@
+{
+  "name": "K3 security droid",
+  "wookieepedia_title": "K3 security droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/K3_security_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "K3 security droids were a model of security droid manufactured by Rim Securities. They had a humanoid-shaped body and a flat, dome-shaped head with two sensors at the front—a small red one at the left side and a light-blue eight-dotted circle with an additional dot in the center on the right side. During the early Imperial Era, a group of reprogrammed K3 security droids operated at part of the all-droid Vanguard Axis criminal cartel, an offshoot of the Droid Gotra.",
+  "data": {
+    "name": "K3 security droid",
+    "manufacturer": "Rim Securities",
+    "model": "K3",
+    "class": "Security droid",
+    "height": "Humanoid",
+    "gender": "Masculine programming",
+    "sensor": [
+      "Blue",
+      "Red"
+    ],
+    "plating": [
+      "Blue",
+      "Gold",
+      "Red",
+      "White",
+      "Yellow"
+    ],
+    "affiliation": "Vanguard Axis"
+  },
+  "scraped": "2026-07-03"
+}

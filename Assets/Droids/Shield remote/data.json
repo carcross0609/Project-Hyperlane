@@ -1,0 +1,19 @@
+{
+  "name": "Shield remote",
+  "wookieepedia_title": "Shield remote",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shield_remote",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "A shield remote was a type of armored remote. Asymmetrical, the remote had an armored shield, motion-tracking sensors across its shell, and was equipped with a general purpose scanner. Used to physically impede attacks, the remote placed itself between aggressors and its user. Shield remotes cost 1,100 credits and sold around time of the the Galactic Civil War, a Rebel-Imperial conflict.",
+  "data": {
+    "name": "Shield remote",
+    "class": "Remote",
+    "cost": "1,100 credits",
+    "equipment": [
+      "General purpose scanner",
+      "Motion-tracking sensors"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Darksaber",
+  "wookieepedia_title": "Darksaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darksaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "The Darksaber was an ancient and unique black-bladed lightsaber created by Tarre Vizsla, the first Mandalorian ever inducted into the Jedi Order, around 1050 BBY. The weapon was kept in the Jedi Temple after Vizsla's passing, but members of House Vizsla stole the saber in a conflict with the Jedi during the fall of the Old Republic. The Darksaber was passed down, generation to generation, by the ancestors of Pre Vizsla, who held onto the weapon even after the pacifist ideals of the New Mandalorians replaced the warrior ways of Mandalore.",
+  "data": {
+    "name": "Darksaber",
+    "model": "Handcrafted",
+    "type": "Single-bladed lightsaber",
+    "culture": [
+      "Jedi",
+      "Mandalorian"
+    ],
+    "creator": "Tarre Vizsla",
+    "created": "c. 1050 BBY",
+    "destroyed": "9 ABY, Mandalore",
+    "owners": [
+      "Tarre Vizsla",
+      "Pre Vizsla",
+      "Darth Maul",
+      "Sabine Wren",
+      "Bo-Katan Kryze",
+      "Gideon",
+      "Din Djarin"
+    ],
+    "hilt_shape": "Straight, rectangular with guard",
+    "hilt_material": "Beskar",
+    "crystal": "Onyx kyber",
+    "blade_type": "Thin, curved to a point",
+    "color": "Black, with a crackling white edge",
+    "blade_length": [
+      "Length: 90.932 centimeters",
+      "Width: 7.112 centimeters",
+      "Depth: 3.4554 centimeters"
+    ],
+    "range": "Close range",
+    "succeed": "Sabine Wren's lightsaber (Sabine Wren)",
+    "purpose": [
+      "Lightsaber combat",
+      "Symbol of House Vizsla, later Death Watch, leadership"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "House Vizsla",
+      "  Clan Vizsla",
+      "  Clan Wren",
+      "Death Watch",
+      "Shadow Collective",
+      "Spectres",
+      "House Kryze",
+      "  Clan Kryze",
+      "Mandalorian resistance",
+      "Galactic Empire",
+      "Gideon's Imperial remnant",
+      "Clan Mudhorn"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

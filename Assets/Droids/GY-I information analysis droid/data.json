@@ -1,0 +1,23 @@
+{
+  "name": "GY-I information analysis droid",
+  "wookieepedia_title": "GY-I information analysis droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/GY-I_information_analysis_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The GY-I information analysis droid was created by Cybot Galactica to be an efficient and hardworking \"Intelligence Analysis Unit\". The droid performed admirably in this role, able to process up to 500,000 packets of information per second. Originally intended for use by government and educational centers, both the Rebel Alliance and the Empire used these powerful droids for data analysis, tactical planning, logistics and sorting through espionage reports.",
+  "data": {
+    "name": "GY-I information analysis droid",
+    "manufacturer": "Cybot Galactica",
+    "class": "Information analysis droid",
+    "degree": "Class 1",
+    "cost": "7,500 – 11,855 credits",
+    "height": "1 meter",
+    "equipment": [
+      "Arakyd data storage and collation software",
+      "Cybot Galactica GY-I data analysis software",
+      "Cybot Galactica multi-socket computer interface"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

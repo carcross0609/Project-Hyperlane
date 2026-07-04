@@ -1,0 +1,29 @@
+{
+  "name": "Snap shot blaster",
+  "wookieepedia_title": "Snap shot blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Snap_shot_blaster",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The snap shot blaster was an easily concealed blaster pistol that was favored by intelligence agents, undercover law enforcement officers, and criminals. A variant of a hold-out blaster, it was often used as a last resort. Morrigan Corde used a snap shot blaster pistol in emergency situations.",
+  "data": {
+    "name": "Snap shot blaster",
+    "type": "Blaster pistol",
+    "cost": "250 credits (Illegal)",
+    "shape": "Pistol-shaped",
+    "size": "Hand-held",
+    "weight": "1 kg",
+    "capacity": "1 shot",
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 120 m"
+    ],
+    "purpose": "Concealed weapon",
+    "affiliation": [
+      "Intelligence agents",
+      "Undercover law enforcement",
+      "Criminals"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

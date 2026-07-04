@@ -1,0 +1,20 @@
+# KR2-M80
+
+**Kind:** Individual  
+**Continuity:** Canon  
+**Source:** [KR2-M80](https://starwars.fandom.com/wiki/KR2-M80)
+
+KR2-M80 was an astromech droid that was forced to work in the control room of the criminal Pyke Syndicate's spice mines on the planet Kessel. The droid featured a silver dome, and white and yellow plating and it used an Intellex IV droid brain. In 10 BBY, KR2-M80 was freed when his restraining bolt was removed during a slave revolt in the mines started by the droid L3-37. KR2-M80 stood by one of the room's consoles as the criminals in the control room remotely guided their companion Han Solo to the mines' coaxium vault, after which the criminals left the room in order to escape Kessel. KR2-M80 was shortly afterwards standing on one of the landing platforms while around it raged a battle between the freed slaves and their slavers.
+
+## Specifications
+
+- **Name:** KR2-M80
+- **Line:** R-series
+- **Model:** R2-series astromech droid
+- **Class:** Astromech droid
+- **Sensor:** Black
+- **Plating:** White and orange
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

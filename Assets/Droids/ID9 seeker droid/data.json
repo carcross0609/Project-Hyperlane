@@ -1,0 +1,29 @@
+{
+  "name": "ID9 seeker droid",
+  "wookieepedia_title": "ID9 seeker droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ID9_seeker_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "ID9 seeker droids, also called Parrot Droids, Mimic Droids, or ID9 Electro Shock-Prods, were a model of seeker droids that resembled the Viper probe droids manufactured by Arakyd Industries. The body of ID9 seekers consisted in a half-hemisphere dome with a red photoreceptor. Attached to that dome were five articulated, tentacle-like limbs that ended in pincers. The ID9s had a large red sensor to monitor and track targets and could record audio. They were outfitted with electro-shock prods that allowed them to harm organic lifeforms and incapacitate mechanical beings in addition to the blaster built into the center of their photoreceptor. They were capable of imitating the sounds of other droid models, and had two locomotions modes: hovering and crawling. The Seventh Sister, a member of the Galactic Empire's Inquisitorius, employed a small army of such seekers in her efforts to capture Jedi and insurgents. The successor of the ID9, the ID10 seeker droid, was used by Inferno Squad.",
+  "data": {
+    "name": "ID9 seeker droid",
+    "manufacturer": "Arakyd Industries",
+    "class": "Seeker",
+    "degree": "Class two droid",
+    "cost": "4,500 credits",
+    "sensor": "Red",
+    "plating": "Black",
+    "armament": [
+      "Electro-shock prod",
+      "Blaster"
+    ],
+    "equipment": "Antenna",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Security Bureau",
+      "  Inquisitorius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

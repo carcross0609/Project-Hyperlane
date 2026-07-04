@@ -1,0 +1,32 @@
+{
+  "name": "Mustafar panning droid",
+  "wookieepedia_title": "Mustafar panning droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mustafar_panning_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Mustafar panning droid, also known as the droid lava collector, was a fifth-degree droid modified by the Techno Union from the Kalibac Industries information cataloging droid. These so-called panning droids operated on Mustafar, mining minerals from the planet's lava rivers.",
+  "data": {
+    "name": "Mustafar panning droid",
+    "manufacturer": "Kalibac Industries/Techno Union",
+    "class": "Mining droid",
+    "degree": "Class five",
+    "height": "1.5 meters",
+    "sensor": "Blue",
+    "armament": "None",
+    "equipment": [
+      "Deflector shield generator",
+      "High torque manipulator arm (2)",
+      "Lava collection bucket",
+      "Repulsorlift",
+      "Stereoscopic binocular sensor (2)"
+    ],
+    "affiliation": [
+      "Techno Union",
+      "Tagge Company",
+      "Klegger Corporation",
+      "Mensix Mining Company"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

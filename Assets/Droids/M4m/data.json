@@ -1,0 +1,22 @@
+{
+  "name": "M4m",
+  "wookieepedia_title": "M4m",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/M4m",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The M4m was the military model of Cybot Galactica's M4 Series Messenger Droid. It was almost identical to the civilian version, but included a small internal sporting blaster to protect the information it carried. The M4m cost 4,000 credits, double the cost of a standard M4.",
+  "data": {
+    "name": "M4m",
+    "manufacturer": "Cybot Galactica",
+    "cost": "4,000 credits",
+    "height": "0.3 meters",
+    "armament": "Small internal sporting blaster",
+    "equipment": [
+      "Body armor",
+      "Holographic projector/recorder",
+      "Repulsorlift drive unit (4-meter flight ceiling)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

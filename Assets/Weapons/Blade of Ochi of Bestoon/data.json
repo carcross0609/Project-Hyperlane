@@ -1,0 +1,32 @@
+{
+  "name": "Blade of Ochi of Bestoon",
+  "wookieepedia_title": "Blade of Ochi of Bestoon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blade_of_Ochi_of_Bestoon",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Blade of Ochi of Bestoon, or simply Ochi's blade or Ochi's dagger, was a dagger, an ornate knife, and Sith dagger owned by the Sith cultist and assassin, Ochi of Bestoon. The Sith assassin and relic hunter Ochi used the melee weapon to kill many. The blade itself was capable of withstanding lightsaber blows, making it a formidable weapon. The dagger's crossguards have concealed measurements arcs for use in pinpointing the missing wayfinder's location. Additionally, it was inscribed with runes in the Sith language which recorded coordinates leading to the location of the wayfinder belonging to Darth Sidious.",
+  "data": {
+    "name": "Blade of Ochi of Bestoon",
+    "model": "Custom",
+    "type": [
+      "Ornate Knife",
+      "Ceremonial Sith dagger"
+    ],
+    "owners": "Ochi",
+    "locations": [
+      "Forbidden Valley, Pasaana",
+      "Kef Bir, Cliffs of Dead Empire"
+    ],
+    "size": "One-handed weapon",
+    "protection": "Impervious to lightsabers",
+    "range": "Close range",
+    "inscription": "The location of the Emperor's wayfinder written in ur-Kittât",
+    "purpose": [
+      "Combat",
+      "Reveal the secret location of a Sith wayfinder"
+    ],
+    "affiliation": "Sith"
+  },
+  "scraped": "2026-07-03"
+}

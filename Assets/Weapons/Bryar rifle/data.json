@@ -1,0 +1,23 @@
+{
+  "name": "Bryar rifle",
+  "wookieepedia_title": "Bryar rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bryar_rifle",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Bryar rifle was a type of blaster rifle that could fire small and fast shots, although it could also fire a 'charge,' one large and stronger shot. The Bryar rifle was heavy, and less accurate than other types of blaster rifles.",
+  "data": {
+    "name": "Bryar rifle",
+    "type": "Blaster rifle",
+    "cost": "1,350 credits",
+    "shape": "Rifle-shaped",
+    "size": "Two-handed weapon",
+    "weight": "3 kg",
+    "capacity": "50 shots",
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 225 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

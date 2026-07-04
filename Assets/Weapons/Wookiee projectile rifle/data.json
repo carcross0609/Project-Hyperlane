@@ -1,0 +1,23 @@
+{
+  "name": "Wookiee projectile rifle",
+  "wookieepedia_title": "Wookiee projectile rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wookiee_projectile_rifle",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Wookiee projectile rifle was a primitive slugthrower rifle used and produced by Wookiees on Kashyyyk. The rifle utilized the explosive force produced by a chemical product or compressed gas to propel its projectiles at high speeds. The weapon had an effective range of 300 meters and was made in-part with bronzium.",
+  "data": {
+    "name": "Wookiee projectile rifle",
+    "manufacturer": "Wookiees",
+    "type": "Slugthrower rifle",
+    "culture": "Wookiee",
+    "locations": "Kashyyyk",
+    "material": "Bronzium",
+    "range": "300 meters",
+    "affiliation": [
+      "Galactic Republic",
+      "  Wookiee Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

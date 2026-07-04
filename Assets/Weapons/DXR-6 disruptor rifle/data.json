@@ -1,0 +1,39 @@
+{
+  "name": "DXR-6 disruptor rifle",
+  "wookieepedia_title": "DXR-6 disruptor rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DXR-6_disruptor_rifle",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DXR-6 disruptor rifle was a disruptor rifle built and mass-produced by the Tenloss Criminal Syndicate.",
+  "data": {
+    "name": "DXR-6 disruptor rifle",
+    "manufacturer": "Tenloss Syndicate",
+    "model": "DXR-6",
+    "type": "Disruptor rifle",
+    "culture": [
+      "Bounty hunters",
+      "Assassins",
+      "Slavers"
+    ],
+    "cost": "3,500 credits (Illegal)",
+    "shape": "Rifle-shaped",
+    "size": "Two-handed weapon",
+    "weight": "6 kg",
+    "capacity": "5 shots or 10 shots",
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 450 m"
+    ],
+    "purpose": "To disintegrate a target",
+    "affiliation": [
+      "Galactic Empire",
+      "  Stormtrooper Corps",
+      "  Inquisitorius",
+      "Zann Consortium",
+      "Imperial Remnant",
+      "New Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

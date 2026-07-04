@@ -1,0 +1,44 @@
+{
+  "name": "Leia's lightsaber",
+  "wookieepedia_title": "Leia's lightsaber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Leia%27s_lightsaber/Legends",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "After discovering she was Force-sensitive, Leia Organa Solo utilized several lightsabers through her career as a Jedi of the New Jedi Order.",
+  "data": {
+    "name": "Leia's lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "creator": [
+      "Leia Organa Solo (green, pale-blue)",
+      "Luke Skywalker (red)",
+      "Leia Organa Solo (blue)"
+    ],
+    "created": [
+      "9 ABY (green)",
+      "≤ 13 ABY (pale-blue)",
+      "18 ABY (red)",
+      "36 ABY (blue)"
+    ],
+    "owners": "Leia Organa Solo",
+    "hilt_shape": "Cylindrical, straight",
+    "crystal": "Kaiburr shard (blue)",
+    "color": [
+      "Green",
+      "Pale-blue",
+      "Red",
+      "Blue"
+    ],
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Skywalker family",
+      "House of Solo",
+      "New Republic",
+      "New Jedi Order",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

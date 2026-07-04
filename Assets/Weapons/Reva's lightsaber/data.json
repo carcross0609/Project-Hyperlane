@@ -1,0 +1,38 @@
+{
+  "name": "Reva's lightsaber",
+  "wookieepedia_title": "Reva's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reva%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Reva's lightsaber also known as Reva's double-bladed Inquisitor Lightsaber, and the Third Sister's lightsaber, was a lightsaber wielded by the Jedi hunter known as the Third Sister, also known as Reva, during her service to the Galactic Empire. It was similar in appearance to other double-bladed spinning lightsabers wielded by Imperial Inquisitors. As the hunt for Obi-Wan Kenobi came to an end, Reva would lay down her lightsaber, seeking to turn her back on the dark side of the Force.",
+  "data": {
+    "name": "Reva's lightsaber",
+    "model": [
+      "Double-bladed spinning lightsaber",
+      "Split saber"
+    ],
+    "type": [
+      "Double-bladed spinning lightsaber (disc mode)",
+      "Single-bladed lightsaber (crescent mode)",
+      "Two lightsabers (disconnect mode)"
+    ],
+    "owners": "Third Sister",
+    "hilt_shape": "Cylindrical",
+    "hilt_material": "Metallic",
+    "crystal": "Kyber crystal",
+    "color": "Red",
+    "blade_length": "2.35 meters (When both blades are ignited)",
+    "mods": [
+      "Extendable hand guard, can spin around central handle with detachable emitters locked to hand guard (disc mode)",
+      "Detachable hilt allows the user to fight with two single sabers (disconnect mode)"
+    ],
+    "protection": "Large circular hand guard",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inquisitorius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

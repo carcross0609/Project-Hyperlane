@@ -1,0 +1,24 @@
+{
+  "name": "MB-12",
+  "wookieepedia_title": "MB-12",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MB-12",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "MB-12 was a BB-series astromech droid that served the Resistance on board the MC85 Star Cruiser Raddus at some point prior to the starship's destruction in 34 ABY. While on board the Raddus, the droid was ordered to report to the vessel's repair bay in order to have a performance chip replaced and diagnostics run. MB-12 recorded the order and an image of the repair bay on an Internal Data Recorder.",
+  "data": {
+    "type": "Resistance",
+    "name": "MB-12",
+    "manufacturer": "Industrial Automaton",
+    "model": "BB-series astromech droid",
+    "class": "Astromech droid",
+    "height": "0.67 meters",
+    "sensor": "Black",
+    "plating": "Black and brown",
+    "affiliation": [
+      "Resistance",
+      "Droid Depot"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

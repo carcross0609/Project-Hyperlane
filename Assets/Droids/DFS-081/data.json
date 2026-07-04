@@ -1,0 +1,38 @@
+{
+  "name": "DFS-081",
+  "wookieepedia_title": "DFS-081",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DFS-081",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "DFS-081 was a Vulture-class starfighter that served in the Separatist Alliance during the Clone Wars. At one point, DFS-081 was visibly damaged while flying in an atmosphere.",
+  "data": {
+    "type": "CIS",
+    "name": "DFS-081",
+    "manufacturer": [
+      "Haor Chall Engineering Corporation",
+      "Xi Char Cathedral factories"
+    ],
+    "model": "Vulture-class starfighter",
+    "length": [
+      "6.96 meters (in flight)",
+      "3.5 meters (walking)"
+    ],
+    "width": "4.90 meters",
+    "pronouns": "It/its",
+    "sensor": [
+      "Magnetic imaging sensors",
+      "Visual sensors"
+    ],
+    "armament": [
+      "Twin blaster cannons",
+      "2 energy torpedo launchers",
+      "Buzz droid missile launcher"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

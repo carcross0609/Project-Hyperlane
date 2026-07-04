@@ -1,0 +1,29 @@
+{
+  "name": "81",
+  "wookieepedia_title": "81",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/81",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "81 was the designation of an OG-9 homing spider droid produced by Baktoid Armor Workshop for the Commerce Guild. Unit 81 fought in the Battle of Geonosis that marked the beginning of the Clone Wars.",
+  "data": {
+    "type": "CIS",
+    "name": "81",
+    "manufacturer": "Baktoid Armor Workshop",
+    "model": "OG-9 homing spider droid",
+    "class": "Walker",
+    "height": "7.32 meters",
+    "sensor": "Red",
+    "plating": "Gray",
+    "armament": [
+      "Mounted laser emplacement (1)",
+      "Anti-personnel laser cannon (1)",
+      "Retractable ion cannon (1)"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Commerce Guild"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

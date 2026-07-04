@@ -1,0 +1,19 @@
+{
+  "name": "Scrapper (astromech)",
+  "wookieepedia_title": "Scrapper (astromech)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scrapper_%28astromech%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Scrapper was a R5 series astromech droid that worked for the Rokana Raiders while it was based at the Khepi Tomb in the Sayma Nebula during 3 ABY. During that year, Scrapper stole a keycard to an area of the base's forge where a number of items had been stashed. One of the raiders tried to get it back from it but couldn't find a tool small enough to force open its panel. The raider considered blasting Scrapper but decided not to because they knew it would upset a fellow raider named Adden. Later when the lights were turned off in the forge area the raider lost track of Scrapper and eventually wrote a data message to Adden; in which they told Adden to forget about the stash.",
+  "data": {
+    "type": "Criminal",
+    "name": "Scrapper",
+    "line": "R-series",
+    "model": "R5 unit",
+    "class": "Astromech droid",
+    "pronouns": "It/its",
+    "affiliation": "Rokana Raiders"
+  },
+  "scraped": "2026-07-03"
+}

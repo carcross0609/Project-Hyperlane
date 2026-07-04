@@ -1,0 +1,34 @@
+{
+  "name": "Satine's Lament",
+  "wookieepedia_title": "Satine's Lament",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Satine%27s_Lament",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Satine's Lament, also known as Leia's blaster, was a model of the Defender sporting blaster pistol produced by Drearian Defense Conglomerate. The blaster pistol model was named after the planet Mandalore's former Duchess, Satine Kryze, a devout pacifist who hated violence. Its alternative name came from its usage by General Leia Organa, a famous revolutionary who fought for both the Alliance to Restore the Republic and Resistance.",
+  "data": {
+    "name": "Satine's Lament",
+    "manufacturer": "Drearian Defense Conglomerate",
+    "model": "Defender sporting blaster pistol",
+    "type": "Sporting blaster pistol",
+    "owners": "Leia Organa",
+    "locations": [
+      "Tantive IV",
+      "Endor",
+      "Naboo",
+      "Raddus"
+    ],
+    "cost": "300-350 credits",
+    "weight": "1 kilogram",
+    "capacity": "100 shots",
+    "range": [
+      "30 meters (optimal)",
+      "60 meters (maximum)"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Resistance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Stromma cannon",
+  "wookieepedia_title": "Stromma cannon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stromma_cannon",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A type of cannon powerful enough to destroy a TIE/LN starfighter with a single shot was given to the Quesoth species by the Stromma species years before 8 ABY. The weapons were used as anti-air defenses, with their massive forward shield plates protecting them from destruction along their fire-lines. The cannons only had manual targeting.",
+  "data": {
+    "name": "Stromma cannon",
+    "type": "Cannon",
+    "owners": "Quesoth",
+    "locations": [
+      "Quethold",
+      "  Red City"
+    ],
+    "size": "Large",
+    "protection": "Massive forward shield plates",
+    "crew": "Several",
+    "purpose": "Anti-air defense",
+    "affiliation": [
+      "Nuso Esva's realm",
+      "  Stromma",
+      "  Quesoth",
+      "  Chosen"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

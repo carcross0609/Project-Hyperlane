@@ -1,0 +1,24 @@
+{
+  "name": "DEMP Ion Carbine",
+  "wookieepedia_title": "DEMP Ion Carbine/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DEMP_Ion_Carbine/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DEMP Ion Carbine was an electromagnetic pulse weapon manufactured by Merr-Sonn Munitions, Inc. While mostly used as a droid-disabling weapon, it could also be used to incapacitate an organic enemy. It was the predecessor to the DEMP 2 gun built on the same principles.",
+  "data": {
+    "name": "DEMP Ion Carbine",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "type": "DEMP gun",
+    "cost": "750–800 credits",
+    "weight": "3.1 kilogram",
+    "capacity": "10",
+    "range": [
+      "3–25 meters",
+      "26–60 meters",
+      "61–250 meters"
+    ],
+    "purpose": "Anti-droid electromagnetic pulse weapon"
+  },
+  "scraped": "2026-07-03"
+}

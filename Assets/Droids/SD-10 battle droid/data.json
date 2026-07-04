@@ -1,0 +1,35 @@
+{
+  "name": "SD-10 battle droid",
+  "wookieepedia_title": "SD-10 battle droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SD-10_battle_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The SD-10 battle droid was part of the SD-series of Balmorran Arms battle droids. Like preceding models in the series, the SD-10 was a humanoid fighting droid significantly larger than a human. The model was designed by Umak Leth.",
+  "data": {
+    "name": "SD-10 battle droid",
+    "creator": "Umak Leth",
+    "manufacturer": "Balmorran Arms",
+    "homeworld": "Balmorra",
+    "line": "SD-series battle droid",
+    "class": "Battle droid",
+    "degree": "Class four droid",
+    "height": "3.8 meters",
+    "armament": [
+      "1 concussion missile launcher",
+      "1 heavy repeating blaster",
+      "1 explosive plasma cannon"
+    ],
+    "equipment": [
+      "Experimental self-healing metals",
+      "Fast-reaction servomotors",
+      "Point-of-impact shielding"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Balmorran Defense Force",
+      "Dark Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

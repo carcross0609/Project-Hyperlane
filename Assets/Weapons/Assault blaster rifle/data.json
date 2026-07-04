@@ -1,0 +1,29 @@
+{
+  "name": "Assault blaster rifle",
+  "wookieepedia_title": "Assault blaster rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Assault_blaster_rifle",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The assault blaster rifle was a Mandalorian assault rifle modified by the Czerka Corporation. A precision weapon used by military units, it was one of the most precise weapons of its time.",
+  "data": {
+    "name": "Assault blaster rifle",
+    "manufacturer": "Czerka Corporation",
+    "type": "Blaster rifle",
+    "creators": "Mandalorians (original design)",
+    "cost": "1,750 credits (Available for military use only)",
+    "size": "Two-handed weapon",
+    "weight": "5 kg",
+    "capacity": [
+      "50 shots",
+      "Close-range stun setting available",
+      "Autofire mode available"
+    ],
+    "range": [
+      "Optimum: up to 90 m",
+      "Maximum: up to 450 m"
+    ],
+    "affiliation": "Military units"
+  },
+  "scraped": "2026-07-03"
+}

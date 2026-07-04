@@ -1,0 +1,31 @@
+{
+  "name": "Parang",
+  "wookieepedia_title": "Parang/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Parang/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A parang was a heavy-bladed weapon, sometimes made of glass, which was used by various sects of ancient Sith. Its main advantage was that it could be thrown at an enemy and returned to the thrower, similar to a boomerang.",
+  "data": {
+    "name": "Parang",
+    "culture": [
+      "Dark Jedi",
+      "Lost Tribe of Sith"
+    ],
+    "locations": [
+      "Ziost",
+      "Kesh"
+    ],
+    "shape": "Sometimes made of glass",
+    "length": "Hilt and blade together are approximately the length of a Human arm",
+    "weight": "Heavy",
+    "markings": "Decorated hilt",
+    "purpose": [
+      "Gardening tool",
+      "Killing"
+    ],
+    "heritage": "Sith",
+    "affiliation": "Lost Tribe of Sith"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Fifth Brother's lightsaber",
+  "wookieepedia_title": "Fifth Brother's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fifth_Brother%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "The Fifth Brother's lightsaber was a double-bladed spinning lightsaber wielded by the Jedi hunter known as Fifth Brother, similar to other double-bladed spinning lightsabers wielded by Imperial Inquisitors.",
+  "data": {
+    "name": "Fifth Brother's lightsaber",
+    "model": [
+      "Double-bladed spinning lightsaber",
+      "Split saber"
+    ],
+    "type": [
+      "Double-bladed spinning lightsaber (disc mode)",
+      "Single-bladed lightsaber (crescent mode)"
+    ],
+    "creator": "Unknown",
+    "owners": "Fifth Brother",
+    "hilt_shape": "Cylindrical",
+    "hilt_material": "Metallic",
+    "crystal": "Kyber crystal",
+    "color": "Red",
+    "blade_length": "1 meter (fully extended, crescent mode)",
+    "mods": "Extendable hand guard, can spin around central handle with detachable emitters locked to hand guard (disc mode)",
+    "protection": "Large circular hand guard",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Galactic Empire",
+      "  Inquisitorius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

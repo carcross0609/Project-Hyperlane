@@ -1,0 +1,22 @@
+{
+  "name": "BALK1",
+  "wookieepedia_title": "BALK1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BALK1",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "BALK1 was the designation of an Imperial Viper probe droid that was captured by the New Republic and repurposed for their use. After the New Republic became suspicious of Imperial activity on the planet Akiva, the probe droid was sent to gather data. It discovered that two Republic A-wings previously sent to the system had been destroyed and that communications were blacked out on the planet itself, but could not confirm Imperial presence. This was not enough to prompt a full attack on the system by the New Republic, but a message sent by the captive pilot Wedge Antilles later confirmed the presence of the Empire, who were then chased from the system by a New Republic fleet.",
+  "data": {
+    "type": "New Republic",
+    "name": "BALK1",
+    "manufacturer": "Arakyd Industries",
+    "model": "Viper probe droid",
+    "class": "Probe droid",
+    "equipment": "Retrothrusters, measurement antenna",
+    "affiliation": [
+      "Galactic Empire (formerly)",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "DT-12 heavy blaster pistol",
+  "wookieepedia_title": "DT-12 heavy blaster pistol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DT-12_heavy_blaster_pistol/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DT-12 heavy blaster pistol was a heavy blaster pistol designed for species with long fingers such as Rodians.",
+  "data": {
+    "name": "DT-12 heavy blaster pistol",
+    "manufacturer": "BlasTech Industries",
+    "model": "DT-12",
+    "type": "Heavy blaster pistol",
+    "cost": "900 credits (Available for military use only)",
+    "shape": "Pistol-like",
+    "size": "One-handed weapon",
+    "weight": "2 kg",
+    "capacity": [
+      "50 shots",
+      "Close-range stun setting available"
+    ],
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 90 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

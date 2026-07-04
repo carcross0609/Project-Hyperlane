@@ -1,0 +1,30 @@
+{
+  "name": "T4 turret droid",
+  "wookieepedia_title": "T4 turret droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T4_turret_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The T4 turret droid was a large, multi-legged battle droid from the Colicoid Creation Nest.",
+  "data": {
+    "name": "T4 turret droid",
+    "manufacturer": "Colicoid Creation Nest",
+    "class": "battle droid",
+    "degree": "Class four droid",
+    "cost": "26,940 credits (new)",
+    "armament": [
+      "(2) Blaster cannon",
+      "(1) Modified grenade launcher with (4) thermal detonators",
+      "(1) laser cutter"
+    ],
+    "equipment": [
+      "Plasteel shell",
+      "Shield generator"
+    ],
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

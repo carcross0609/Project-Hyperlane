@@ -1,0 +1,24 @@
+{
+  "name": "E-11P blaster",
+  "wookieepedia_title": "E-11P blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/E-11P_blaster",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The E-11P blaster was a blaster pistol used by coastal defender stormtroopers, a specialized variant of stormtrooper active under the Coastal Defense Division and deployed to beachside locations. The pistol was tan in color, matching the armor of the shoretroopers themselves, and tipped with water-sealed cooling vanes. Those vanes also had built-in filters to keep out sand. A black variant of the E-11P blaster was seen carried by a member of the Ghorman Front prior to the Ghorman Massacre.",
+  "data": {
+    "name": "E-11P blaster",
+    "model": "E-11P",
+    "type": "Blaster pistol",
+    "locations": [
+      "Niamos",
+      "Ghorman"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Coastal Defense Division",
+      "Ghorman Front"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

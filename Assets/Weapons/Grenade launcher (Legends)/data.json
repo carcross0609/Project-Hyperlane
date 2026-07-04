@@ -1,0 +1,33 @@
+{
+  "name": "Grenade launcher",
+  "wookieepedia_title": "Grenade launcher/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grenade_launcher/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A grenade launcher was a portable weapon used to shoot grenades over longer distances than they could normally be thrown.",
+  "data": {
+    "name": "Grenade launcher",
+    "type": "Heavy weapon",
+    "cost": "500 credits (Available for military use only)",
+    "size": "One-handed weapon",
+    "weight": "5 kg",
+    "capacity": "4 grenades",
+    "range": [
+      "Optimum: up to 75 m",
+      "Maximum: up to 375 m"
+    ],
+    "purpose": "Firing grenades at greater range",
+    "affiliation": [
+      "Mandalorians",
+      "  Mandalorian Supercommandos",
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "    Clone jet troopers",
+      "Galactic Empire",
+      "  Imperial Military",
+      "    Zero-G assault stormtroopers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

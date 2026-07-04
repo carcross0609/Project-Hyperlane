@@ -1,0 +1,34 @@
+{
+  "name": "DF.9",
+  "wookieepedia_title": "DF.9/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DF.9/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DF.9 was an anti-infantry battery produced by Golan Arms. Used extensively throughout the Galactic Civil War by both the Galactic Empire and the Alliance to Restore the Republic, the DF.9 was used to protect vital military installations. The Alliance installed several DF.9s as part of their defensive emplacements protecting Echo Base on the planet Hoth. During the Battle of Hoth, the arrayed DF.9s were not enough to stop the advance of the Empire's All Terrain Armored Transports.",
+  "data": {
+    "name": "DF.9",
+    "manufacturer": "Golan Arms",
+    "type": "Anti-infantry battery",
+    "cost": [
+      "14,000–15,000 credits (new)",
+      "7,000–9,500 credits (used)"
+    ],
+    "width": "Two and a half meters",
+    "diam": "Two and a half meters",
+    "height": "Four meters",
+    "protection": [
+      "Durasteel",
+      "Proton-shielding"
+    ],
+    "crew": "3",
+    "capacity": "Unlimited (power generator)",
+    "range": [
+      "20–600 meters (short range)",
+      "601–3,000 meters (medium range)",
+      "3,001–16,000 meters (long range)",
+      "8 meter blast radius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

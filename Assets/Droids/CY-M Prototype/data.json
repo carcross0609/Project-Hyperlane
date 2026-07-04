@@ -1,0 +1,21 @@
+{
+  "name": "CY-M Prototype",
+  "wookieepedia_title": "CY-M Prototype",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CY-M_Prototype",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The CY-M Prototype was a battle droid that was part of HK-47's droid army. It was similar in appearance to a Chirq Council Mechanized Guardian and was armed with a red-bladed lightsaber.",
+  "data": {
+    "name": "CY-M Prototype",
+    "homeworld": "Mustafar",
+    "sensor": "Red",
+    "plating": "Silver",
+    "armament": [
+      "Lightsaber",
+      "Force pike"
+    ],
+    "affiliation": "HK-47's Droid Army"
+  },
+  "scraped": "2026-07-03"
+}

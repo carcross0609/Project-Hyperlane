@@ -1,0 +1,29 @@
+{
+  "name": "R2-AG agromech droid",
+  "wookieepedia_title": "R2-AG agromech droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R2-AG_agromech_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The R2-AG agromech droid, also known as the R2-AG4 agromech droid, was a model of R-series agromech droid manufactured by Industrial Automaton. A subseries of the R2-series astromech droid designed to work closely with farming equipment and food production machinery, the model was moderately successful. In the year 22 BBY, Industrial Automaton began reusing existing shells from their cancelled R5-series astromech droid in the production of R2-AG and R4-series agromech droid lines in the hopes of recouping losses after a year of disappointing sales. However, these reshelled agromech droids did not sell very well.",
+  "data": {
+    "name": "R2-AG agromech droid",
+    "manufacturer": "Industrial Automaton",
+    "line": [
+      "R-series",
+      "  R2-series astromech droid"
+    ],
+    "model": "R2-AG",
+    "class": "Agromech droid",
+    "degree": "Class two droid",
+    "equipment": [
+      "Arc welder",
+      "Cybot acoustic signaller",
+      "Retractable manipulator arms",
+      "Tripodal wheeled legs (one retractable)",
+      "Video display screen",
+      "Visual sensor"
+    ]
+  },
+  "scraped": "2026-07-03"
+}
