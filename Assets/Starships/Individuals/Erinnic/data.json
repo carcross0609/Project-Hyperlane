@@ -1,0 +1,26 @@
+{
+  "name": "Erinnic",
+  "wookieepedia_title": "Erinnic",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Erinnic",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Erinnic was an Imperial II-class Star Destroyer of the Imperial Starfleet. It was commanded by Vice Admiral Ark Poinard from the days of the Empire, when it carried only TIE Fighters. His trademark send off, despite the anti-Jedi policies of the Empire, was \"May the Force be with you!\". The ship had a female officer in its command crew.",
+  "data": {
+    "name": "Erinnic",
+    "type": "Imperial II-class Star Destroyer",
+    "length": "1,600 meters",
+    "complement": [
+      "TIE/LN starfighters (Historical)",
+      "T-65A3 X-wing starfighters",
+      "E-wing escort starfighters",
+      "TIE/IN interceptors"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant"
+    ],
+    "captains": "Vice Admiral Ark Poinard"
+  },
+  "scraped": "2026-07-03"
+}

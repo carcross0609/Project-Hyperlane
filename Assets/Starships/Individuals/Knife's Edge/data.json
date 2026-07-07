@@ -1,0 +1,32 @@
+{
+  "name": "Knife's Edge",
+  "wookieepedia_title": "Knife's Edge",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Knife%27s_Edge",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Knife's Edge was a Mansk-class escort frigate used by House Melantha during the Galactic Civil War. The vessel posed as a privateer in service to both the Rebel Alliance and House Mecetti to hide its true affiliations.",
+  "data": {
+    "name": "Knife's Edge",
+    "manufacturer": "Tallaani Shipyards",
+    "model": "Mansk-class escort frigate",
+    "type": "Escort frigate",
+    "length": "100 meters",
+    "max_speed": "1,000 kmh",
+    "hyperdrive": [
+      "Class 3",
+      "  Class 12"
+    ],
+    "armament": [
+      "6 dual laser cannon turrets",
+      "Ion cannon"
+    ],
+    "crew": "5",
+    "passengers": "30 troops",
+    "capacity": "80 metric tons",
+    "consumables": "1 months",
+    "role": "Escort frigate",
+    "owners": "House Melantha"
+  },
+  "scraped": "2026-07-03"
+}

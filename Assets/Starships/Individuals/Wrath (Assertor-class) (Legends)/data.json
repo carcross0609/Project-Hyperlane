@@ -1,0 +1,26 @@
+{
+  "name": "Wrath",
+  "wookieepedia_title": "Wrath (Assertor-class)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wrath_%28Assertor-class%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Wrath was an Assertor-class Star Dreadnought used by the Galactic Empire, built sometime before the Battle of Yavin.",
+  "data": {
+    "name": "Wrath",
+    "line": "Star Dreadnought",
+    "model": "Assertor-class Star Dreadnought",
+    "type": "Star Dreadnought",
+    "length": "15,000 meters",
+    "engine": "28 aft thrusters",
+    "hyperdrive": "Equipped",
+    "armament": "Equipped",
+    "role": [
+      "Dreadnought",
+      "Sector command and control ship"
+    ],
+    "commission": "c. 2&mdash;0 BBY",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

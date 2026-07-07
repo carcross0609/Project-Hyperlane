@@ -1,0 +1,57 @@
+{
+  "name": "Anakin Solo",
+  "wookieepedia_title": "Anakin Solo (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anakin_Solo_%28starship%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Anakin Solo, also known as the Anakin for short or Black Annie to its crew, was a modified Imperial II-class Star Destroyer that served as the command ship of the Galactic Alliance Guard during the Second Galactic Civil War&mdash;a pan-galactic conflict between the Galactic Federation of Free Alliances and the Confederation. Serving as the personal flagship of Colonel Jacen Solo, the Anakin Solo was named after Solo's deceased brother. The commissioning of a GAG Star Destroyer reflected the Guard's expanding influence and responsibilities; by then the Guard had taken a more active role in the war, whereas their original purpose as a covert police force was to enforce domestic security on the capital world of Coruscant.",
+  "data": {
+    "name": "Anakin Solo",
+    "model": "Imperial II-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "avionics": "Berda",
+    "armament": [
+      "Long-range turbolasers (4)",
+      "Standard turbolasers",
+      "Baradium missiles",
+      "Proton torpedoes",
+      "Concussion missiles",
+      "Advanced anti-starfighter weaponry"
+    ],
+    "complement": [
+      "Duracrud",
+      "Rover",
+      "XJ5 X-wing starfighters",
+      "Various TIE starfighter models",
+      "  At least 1 TIE recon fighter",
+      "1 StealthX starfighter"
+    ],
+    "passengers": [
+      "Galactic Alliance Guard",
+      "  967 Commando"
+    ],
+    "othersystems": [
+      "Cloaking device",
+      "Gravity well generator",
+      "Tractor beam projectors"
+    ],
+    "role": [
+      "Carrier",
+      "Destroyer",
+      "Flagship"
+    ],
+    "affiliation": [
+      "Galactic Federation of Free Alliances",
+      "  Galactic Alliance Guard",
+      "Lumiya's Sith"
+    ],
+    "captains": [
+      "Darth Caedus (formerly Jacen Solo)",
+      "Kral Nevil",
+      "Unidentified captain"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

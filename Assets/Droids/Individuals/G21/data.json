@@ -1,0 +1,25 @@
+{
+  "name": "G21",
+  "wookieepedia_title": "G21",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/G21",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "G21 was a B2-series super battle droid manufactured by Baktoid Combat Automata and used in the Separatist Droid Army of the Confederacy of Independent Systems during the Clone Wars against the Galactic Republic. At some point, the droid delivered a report to a superior that a planet and its population were under control. Like all B2 super battle droids, G21 was armed with built in dual laser cannons and stood 1.91 meters tall.",
+  "data": {
+    "type": "CIS",
+    "name": "G21",
+    "manufacturer": "Baktoid Combat Automata",
+    "model": "B2-series super battle droid",
+    "class": "Battle droid",
+    "height": "1.91 meters",
+    "gender": "Masculine programming",
+    "pronouns": "new",
+    "armament": "Dual laser cannon wrist blaster",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Separatist Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

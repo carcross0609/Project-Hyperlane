@@ -1,0 +1,33 @@
+{
+  "name": "Penumbra-class stealth freighter",
+  "wookieepedia_title": "Penumbra-class stealth freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Penumbra-class_stealth_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Penumbra-class stealth freighter was a stealth freighter manufactured by the Brennkeyes Syndicate.",
+  "data": {
+    "name": "Penumbra-class stealth freighter",
+    "manufacturer": "Brennkeyes Syndicate",
+    "model": "Penumbra-class stealth freighter",
+    "type": "Stealth freighter",
+    "cost": "100,000 credits",
+    "hyperdrive": [
+      "Class 4",
+      "Backup class 20"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Twin light ion cannon"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Copilot (1)",
+      "Gunner (1)"
+    ],
+    "passengers": "4",
+    "consumables": "One month",
+    "role": "Freighter"
+  },
+  "scraped": "2026-07-03"
+}

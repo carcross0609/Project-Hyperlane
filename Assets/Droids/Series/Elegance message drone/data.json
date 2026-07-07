@@ -1,0 +1,31 @@
+{
+  "name": "Elegance message drone",
+  "wookieepedia_title": "Elegance message drone",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Elegance_message_drone",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Elegance message drone was a message drone variant.",
+  "data": {
+    "name": "Elegance message drone",
+    "manufacturer": "Industrial Automaton",
+    "class": "Courier droid",
+    "degree": "Class five droid",
+    "cost": [
+      "250,000 credit (new)",
+      "50,000 credits (fuel replenishment)"
+    ],
+    "length": "9 meters",
+    "equipment": [
+      "Anti-tampering safeguards",
+      "Automated droid brain",
+      "Hyperdrive",
+      "Self-destruct mechanism"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

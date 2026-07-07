@@ -1,0 +1,29 @@
+{
+  "name": "Packered mortar gun",
+  "wookieepedia_title": "Packered mortar gun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Packered_mortar_gun",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Packered mortar gun, or PMG, was a mortar weapon utilized by the Galactic Empire during the Galactic Civil War. The mortar gun could quickly fire a barrage of explosive shells with a wide explosive radius in an arced trajectory. The weapons were stocked in various Imperial bases and supply caches. In the aftermath of the Battle of Yavin, Rebel Alliance mercenary Kyle Katarn commandeered Packered mortar guns during his campaign to stop the Dark Trooper Project, effectively using the weapons against their original owners. Katarn first used one against Imperial stormtroopers during his mission to Orinackra, where he stormed a prison complex in order to rescue the Imperial informant Crix Madine.",
+  "data": {
+    "name": "Packered mortar gun",
+    "type": "Mortar",
+    "locations": [
+      "Cal-Seti",
+      "  Ramsees Hed",
+      "Coruscant",
+      "  Imperial Security Operations",
+      "Fuel Station Ergo",
+      "Orinackra",
+      "  Imperial Detention Center"
+    ],
+    "cost": "120 credits",
+    "size": "Personal",
+    "crew": "1",
+    "range": "Short-to-medium range",
+    "purpose": "Anti-personnel weapon",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

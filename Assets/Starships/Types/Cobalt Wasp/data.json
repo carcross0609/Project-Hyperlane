@@ -1,0 +1,35 @@
+{
+  "name": "Cobalt Wasp",
+  "wookieepedia_title": "Cobalt Wasp",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cobalt_Wasp",
+  "continuity": "Canon",
+  "infobox_template": "IndividualShip",
+  "description": "The Cobalt Wasp was an MG-100 StarFortress SF-17 in the Resistance's Cobalt Squadron.",
+  "data": {
+    "name": "Cobalt Wasp",
+    "manufacturer": "Slayn & Korpil",
+    "model": "MG-100 StarFortress SF-17",
+    "type": "Bomber",
+    "length": "29.67 meters (97.34ft)",
+    "width": "15.3 meters (50.2ft)",
+    "height": "21.65 meters (71.03ft)",
+    "engine": "Sublight ion thrusters (3)",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "Merr-Sonn Munitions EM-1919 paired repeating laser cannons (3)",
+      "Proton bombs (1,048)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Bombardier (1)",
+      "Flight engineer (1)",
+      "Gunner (2)"
+    ],
+    "othersystems": "Electronic countermeasures (ECM)",
+    "role": "Bomber",
+    "destroyed": "34 ABY, Atterra system",
+    "affiliation": "Resistance",
+    "fleet": "Cobalt Squadron"
+  },
+  "scraped": "2026-07-03"
+}

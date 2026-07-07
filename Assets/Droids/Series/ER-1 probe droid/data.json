@@ -1,0 +1,32 @@
+{
+  "name": "ER-1 probe droid",
+  "wookieepedia_title": "ER-1 probe droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ER-1_probe_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The ER-1 was a Naboo-built probe droid designed to operate under extreme temperature and pressure conditions. Repulsorlifts provided the ER-1 with mobility, and the model was also outfitted with high-end sensor, recording, and communications devices. The ER-1 carried twelve deployable biosensors, along with a set of repulsor-powered sensors and recording devices, slaved to the main unit. The peripherals were designed to transmit all data collected back to the droid for analysis.",
+  "data": {
+    "name": "ER-1 probe droid",
+    "creator": [
+      "Graf Zapalo",
+      "A female droid designer",
+      "A male droid designer"
+    ],
+    "homeworld": "Naboo",
+    "class": "Probe droid",
+    "cost": "22,000 credits",
+    "armament": "Stun blaster",
+    "equipment": [
+      "Heuristic processor",
+      "Sensor package",
+      "Comlink",
+      "Recording unit",
+      "Rust inhibitor",
+      "Biosensors (24)",
+      "Remote sensor platform"
+    ],
+    "affiliation": "Naboo"
+  },
+  "scraped": "2026-07-03"
+}

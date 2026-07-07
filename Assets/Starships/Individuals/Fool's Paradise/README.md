@@ -1,0 +1,11 @@
+# Fool's Paradise
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Fool's Paradise](https://starwars.fandom.com/wiki/Fool%27s_Paradise)
+
+The Fool's Paradise was a Ghtroc Industries freighter that was used by the Duros Welrin Maduk during the waning years of the Galactic Republic. Circa 31 BBY, Maduk landed the Fool's Paradise in Hedrett on the planet Cularin, from where he planned to use the starship to transport a cargo of technical equipment to a research station on the nearby planet Almas. However, Maduk was attacked by a group of Believers led by the Dark Jedi Gar Granga and Kosa-Yin Hadu, who attempted to capture the Fool's Paradise. The Heroes of Cularin, a group of freelance agents, intervened and defeated the Believers, and the agents subsequently escorted Maduk and the Fool's Paradise to Almas.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

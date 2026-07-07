@@ -1,0 +1,46 @@
+{
+  "name": "TIE/hu \"Hunter\" Multi-Role Starfighter",
+  "wookieepedia_title": "TIE/hu \"Hunter\" Multi-Role Starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/hu_%22Hunter%22_Multi-Role_Starfighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/hu \"Hunter\" Multi-Role Starfighter, commonly referred to as the TIE Hunter, was a starfighter from the TIE Series used during the Galactic Civil War by the Galactic Empire. Developed by the Empire as a means of countering the Rebel Alliance's T-65 X-wing starfighter, the TIE Hunter was used exclusively by storm commandos.",
+  "data": {
+    "name": "TIE/hu \"Hunter\" Multi-Role Starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/HU",
+    "type": "Multi-role Starfighter",
+    "cost": [
+      "100,000 credits",
+      "275,000 credits"
+    ],
+    "engine": "Twin ion engines",
+    "hyperdrive": [
+      "Class 1; *Class 2"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Ion cannons (2)",
+      "Laser cannons (2)",
+      "  Medium laser cannons",
+      "Proton torpedo launcher",
+      "  Standard load: 12 torpedoes in total"
+    ],
+    "crew": "1 pilot",
+    "consumables": "2 days&ndash;1 week",
+    "role": "Space superiority fighter",
+    "firstuse": [
+      "Developed between 1 BBY-0 BBY",
+      "3 ABY"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Stormtrooper Corps",
+      "    Storm commandos",
+      "Rebel Alliance (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

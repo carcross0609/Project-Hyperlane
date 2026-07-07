@@ -1,0 +1,30 @@
+{
+  "name": "R1 security droid",
+  "wookieepedia_title": "R1 security droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R1_security_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The R1 security droid, also known as R1-NRCC, was a model of security droid that was utilized by the New Republic Correctional Corps. The sentry droid was repurposed R1-series droid, albeit outfitted with a air-cooled heavy blaster cannon to better suit its role. Just like standard R1 units, R1-NRCCs had the Mark II reactor drone shell that serves as security armor. At least two units of this droid were deployed to a New Republic Correctional Transport, the Bothan-5, where they were used to patrol the vessel, until they were encountered by a crew of mercenaries attempting to rescue a Twi'lek prisoner named Qin. One of the mercenaries, a Devaronian named Burg, attacked the droids severely damaging one before throwing it into the other, causing an explosion which destroyed both units.",
+  "data": {
+    "name": "R1 security droid",
+    "manufacturer": "Industrial Automaton",
+    "line": "R-series (Repurposed R1-series)",
+    "model": "R1-NRCC",
+    "class": "Security droid/Sentry droid",
+    "height": "2 meters (6 ft, 7 in)",
+    "sensor": "Red and blue",
+    "plating": "Black",
+    "armament": "Air-cooled heavy blaster cannon",
+    "equipment": [
+      "Power cells",
+      "Retractable manipulator arms",
+      "A Repulsorlift generator  base"
+    ],
+    "affiliation": [
+      "New Republic",
+      "  New Republic Correctional Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

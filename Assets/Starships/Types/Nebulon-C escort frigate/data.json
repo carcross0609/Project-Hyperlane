@@ -1,0 +1,57 @@
+{
+  "name": "Nebulon-C escort frigate",
+  "wookieepedia_title": "Nebulon-C escort frigate",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nebulon-C_escort_frigate",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Nebulon-C escort frigate was a type of frigate used by the New Republic and later by the Resistance during the First Order-Resistance War. It was a successor model to the EF76 Nebulon-B escort frigate.",
+  "data": {
+    "name": "Nebulon-C escort frigate",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Nebulon-series",
+    "model": "Nebulon-C escort frigate",
+    "type": "Frigate",
+    "length": "549.17 meters",
+    "width": "195.06 meters",
+    "height": "322.24 meters",
+    "engine": "Ion drive thruster nozzles (9)",
+    "hdsystem": "Equipped",
+    "power": [
+      "Main reactor",
+      "Auxiliary power generator",
+      "Power recycling cells",
+      "Power cells (5)"
+    ],
+    "shield_gen": "Deflector shield generator",
+    "sensor": [
+      "Navigation and targeting sensor spine",
+      "Sensor array blister"
+    ],
+    "armament": [
+      "After removal of most potent armaments:",
+      "10 Heavy turbolasers",
+      "6 Point-defense laser cannon turrets",
+      "2 Proton torpedo launchers",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "1 fighter wing",
+      "U-55 orbital loadlifters (2)"
+    ],
+    "bays": "2 docking booms",
+    "skeleton": "170",
+    "communications": "Primary comms array",
+    "role": [
+      "Escort",
+      "Cruiser",
+      "Support ship",
+      "Hospital ship (modified)"
+    ],
+    "affiliation": [
+      "New Republic",
+      "Resistance",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "TIE/ln space superiority starfighter",
+  "wookieepedia_title": "TIE/ln space superiority starfighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ln_space_superiority_starfighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ln space superiority starfighter, commonly referred to as the TIE/LN starfighter, TIE/line starfighter, TIE Fighter or T/F, was the signature starfighter of the Galactic Empire and symbol of its superiority. It was seen in massive numbers throughout most of the Galactic Civil War and onward. Occasionally, due to their distinct shape, Rebel and New Republic pilots referred to the craft as \"eyeballs.\"",
+  "data": {
+    "name": "TIE/ln space superiority starfighter",
+    "manufacturer": "Sienar Fleet Systems",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine/Ln Starfighter",
+    "type": "Starfighter",
+    "cost": "60,000 credits (25,000 credits used)",
+    "length": "7.2 meters",
+    "width": "6.7 meters",
+    "height": "8.8 meters",
+    "max_accel": [
+      "4,100 G",
+      "20 MGLT/s"
+    ],
+    "mglt": "100 MGLT",
+    "max_speed": "1,200 km/h",
+    "maneuverability": "96 - 100 DPF",
+    "engine": [
+      "P-s4 twin ion engines (rated 150 KTU)",
+      "P-w401 ion maneuvering jets (2)"
+    ],
+    "hdsystem": "None",
+    "power": [
+      "I-a2b solar ionization reactor",
+      "I-a3b solar ionization reactor",
+      "Secondary generator for cannons"
+    ],
+    "shield_gen": [
+      "Stock: None",
+      "Equipped (New Republic usual modification)"
+    ],
+    "hull": [
+      "Titanium hull (rated 9 - 15 RU)",
+      "Quadanium steel solar panels"
+    ],
+    "sensor": "Fabritech Sensor Arrays (2)",
+    "navigation": "N-s6 Navcon",
+    "avionics": "F-s3.2 flight avionics system",
+    "armament": "L-s1 laser cannons (2)",
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "65 - 110 kilograms",
+    "consumables": "1 - 2 days",
+    "lifesupport": "None",
+    "communications": [
+      "AE-35 subspace transceiver",
+      "Distress beacon"
+    ],
+    "availability": "Military",
+    "role": "Space superiority starfighter",
+    "affiliation": [
+      "Galactic Empire",
+      "Pirates of Tarnoonga",
+      "Alliance to Restore the Republic",
+      "Zann Consortium",
+      "New Republic",
+      "Zsinj's Empire",
+      "Dark Empire",
+      "Imperial Remnant",
+      "Galactic Federation of Free Alliances",
+      "Peace Brigade",
+      "Confederation"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

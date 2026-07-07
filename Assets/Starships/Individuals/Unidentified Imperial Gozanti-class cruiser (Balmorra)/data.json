@@ -1,0 +1,37 @@
+{
+  "name": "Unidentified Imperial Gozanti-class cruiser",
+  "wookieepedia_title": "Unidentified Imperial Gozanti-class cruiser (Balmorra)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Imperial_Gozanti-class_cruiser_%28Balmorra%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "A Gozanti-class cruiser belonged to the Advanced Science Division and commanded by Captain Pearce was used during or after 18 BBY to transport Howzer and two of his troops from Balmorra to Tantiss Base on Mount Tantiss. Before it could jump to hyperspace, it was attacked by a gunship piloted by Echo and Gregor who destroyed its engines and boarded the ship using a leech vessel, successfully defeating its security and rescuing the prisoners. The starship was subsequently destroyed by V-wing starfighters sent from a Venator-class Star Destroyer, intending to erase all evidence of its existence, prompting the boarders to escape to their own ship and leave the system.",
+  "data": {
+    "name": "Unidentified Imperial Gozanti-class cruiser",
+    "model": "Imperial-model Gozanti-class cruiser",
+    "length": "63.8 meters",
+    "width": "32 meters",
+    "height": "14.7 meters",
+    "engine": "Three engine units",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": "Laser cannon turrets",
+    "bays": "Forward dock",
+    "crew": [
+      "1 Imperial royal guard",
+      "At least 12 TK stormtroopers"
+    ],
+    "passengers": "3 clone stormtroopers",
+    "communications": "Equipped",
+    "role": "Prisoner transport",
+    "destroyed": "During or after 18 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "  Advanced Science Division"
+    ],
+    "navy": "Imperial Navy",
+    "owners": "Advanced Science Division",
+    "captains": "Captain Pearce"
+  },
+  "scraped": "2026-07-03"
+}

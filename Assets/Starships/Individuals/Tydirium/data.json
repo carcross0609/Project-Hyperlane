@@ -1,0 +1,37 @@
+{
+  "name": "Tydirium",
+  "wookieepedia_title": "Tydirium",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tydirium",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Tydirium was an Imperial Lambda-class T-4a shuttle. Stolen by Sullustan Nien Nunb from the Imperial-class Star Destroyer Shieldmaiden during a diversionary mission called Operation Yellow Moon leading up to the events of the Battle of Endor, it was used by the Alliance to Restore the Republic to transport General Han Solo and his strike team to Endor to knock out the shield generator that was protecting the second Death Star.",
+  "data": {
+    "name": "Tydirium",
+    "manufacturer": [
+      "Sienar Fleet Systems",
+      "Cygnus Spaceworks"
+    ],
+    "line": "Abecederian line",
+    "model": "Lambda-class T-4a shuttle",
+    "type": "Multi-purpose transport",
+    "length": "20 meters",
+    "hyperdrive": "Equipped",
+    "armament": [
+      "2 forward double laser cannons",
+      "2 wing-mounted double cannons",
+      "1 rear double laser cannon"
+    ],
+    "capacity": "80 metric tons",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "Rebel Alliance Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "B-7 light freighter",
+  "wookieepedia_title": "B-7 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/B-7_light_freighter",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Loronar B-7 light freighter was a starship used throughout the Galaxy.",
+  "data": {
+    "name": "B-7 light freighter",
+    "manufacturer": "Loronar Corporation",
+    "model": "B-7 Light Freighter",
+    "length": "19 meters",
+    "hdsystem": "Equipped",
+    "armament": "1 Light laser cannon",
+    "crew": [
+      "1 pilot",
+      "1 gunner"
+    ],
+    "skeleton": "1 pilot",
+    "passengers": "8",
+    "capacity": "1 metric ton",
+    "role": "Light Freighter"
+  },
+  "scraped": "2026-07-03"
+}

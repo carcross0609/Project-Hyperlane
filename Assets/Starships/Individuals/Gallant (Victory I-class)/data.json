@@ -1,0 +1,37 @@
+{
+  "name": "Gallant",
+  "wookieepedia_title": "Gallant (Victory I-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gallant_%28Victory_I-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Gallant was a Victory I-class Star Destroyer that saw service with the Republic Navy and later in the Imperial Navy.",
+  "data": {
+    "name": "Gallant",
+    "manufacturer": [
+      "Rendili StarDrive",
+      "Kuat Drive Yards"
+    ],
+    "line": "Star Destroyers",
+    "model": "Victory I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "900 meters",
+    "width": "578 meters",
+    "height": "248 meters",
+    "role": [
+      "Peacekeeping battleship",
+      "Destroyer",
+      "Rise of the Empire era",
+      "Rebellion era"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ],
+    "navy": [
+      "Republic Navy",
+      "Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

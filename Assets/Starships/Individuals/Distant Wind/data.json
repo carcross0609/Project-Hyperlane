@@ -1,0 +1,34 @@
+{
+  "name": "Distant Wind",
+  "wookieepedia_title": "Distant Wind",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Distant_Wind",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Distant Wind was a modified XS-800 light freighter from Corellian Engineering Corporation. It was owned by Sullustan gamester Cunbus Locb.",
+  "data": {
+    "name": "Distant Wind",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "XS-800 light freighter",
+    "type": "Light Freighter",
+    "cost": "37,500",
+    "length": "30.2 meters",
+    "max_speed": "1,000 km/h",
+    "hyperdrive": "Class 3.0",
+    "armament": [
+      "Double laser cannon (1)",
+      "Laser cannon (1)"
+    ],
+    "crew": "2",
+    "passengers": "8",
+    "capacity": "115 metric tons",
+    "consumables": "2 months",
+    "affiliation": "Civilian",
+    "owners": [
+      "Cunbus Locb",
+      "Galactic Empire"
+    ],
+    "captains": "Cunbus Locb"
+  },
+  "scraped": "2026-07-03"
+}

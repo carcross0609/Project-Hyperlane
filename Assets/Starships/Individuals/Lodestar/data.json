@@ -1,0 +1,37 @@
+{
+  "name": "Lodestar",
+  "wookieepedia_title": "Lodestar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lodestar",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lodestar was an Acclamator-class transgalactic military assault ship that served as the flagship of New Republic General Hera Syndulla's Barma Battle Group during the Galactic Civil War.",
+  "data": {
+    "name": "Lodestar",
+    "model": "Acclamator-class transgalactic military assault ship",
+    "type": "Cruiser",
+    "complement": [
+      "X-wing starfighters",
+      "BTL Y-wing starfighters",
+      "1 A/SF-01 B-wing starfighter",
+      "1 RZ-1 A-wing interceptor",
+      "1 UT-60D U-wing starfighter/support craft"
+    ],
+    "role": "Flagship",
+    "destroyed": "c. 5 ABY, Cerberon system",
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic"
+    ],
+    "navy": [
+      "Galactic Republic Navy",
+      "New Republic Defense Fleet"
+    ],
+    "fleet": "Barma Battle Group",
+    "captains": [
+      "Hera Syndulla",
+      "Giginivek"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

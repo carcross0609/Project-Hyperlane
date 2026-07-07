@@ -1,0 +1,47 @@
+{
+  "name": "Emancipator",
+  "wookieepedia_title": "Emancipator",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Emancipator",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Originally named the Accuser, this warship was one of two Imperial I-class Star Destroyers captured by the Rebel Alliance after the Battle of Endor, when it was boarded by Rebel forces under the command of Han Solo and Judder Page.",
+  "data": {
+    "name": "Emancipator",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "modifier": "Hast Shipyards",
+    "sysmods": [
+      "Six proton torpedo launchers",
+      "Improved sensors",
+      "Class 1.5 hyperdrive",
+      "Reduced crew and gunnery requirements",
+      "Proton beam cannon"
+    ],
+    "length": "1,600 meters",
+    "complement": "Rogue Wing",
+    "role": [
+      "Destroyer",
+      "Command ship"
+    ],
+    "destroyed": "10 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "  Death Squadron (temporarily)",
+      "New Republic Defense Fleet"
+    ],
+    "captains": [
+      "Captain Firmus Piett",
+      "General Lando Calrissian",
+      "General Wedge Antilles"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

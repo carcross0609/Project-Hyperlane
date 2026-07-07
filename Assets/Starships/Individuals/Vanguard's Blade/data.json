@@ -1,0 +1,33 @@
+{
+  "name": "Vanguard's Blade",
+  "wookieepedia_title": "Vanguard's Blade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vanguard%27s_Blade",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vanguard's Blade was a Thranta-class corvette in the Republic Navy that served in the Galactic War with the Sith Empire. The Vanguard's Blade was commanded by the Captain Exteen during the Battle of Denova, where it was sent by the Supreme Chancellor Leontyne Saresh after the Warstalkers forces under Kephess defected from the Republic and joined the Dread Masters. Exteen dispatched a strike team to the surface of Denova that defeated Kephess and revealed the involvement of the Dread Masters.",
+  "data": {
+    "name": "Vanguard's Blade",
+    "manufacturer": "Corellia StarDrive",
+    "model": "Thranta-class corvette",
+    "type": "Corvette",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Twin-mounted turbolaser cannons",
+      "Laser turrets",
+      "Ion cannon",
+      "Concussion missiles"
+    ],
+    "complement": [
+      "14 Liberator-class starfighters",
+      "3 bombers",
+      "4 Fortitude-class assault shuttles"
+    ],
+    "crew": "300",
+    "communications": "Boosted long-range communications transceiver",
+    "role": "Warship",
+    "affiliation": "Republic Navy",
+    "captains": "Exteen"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "K-X12 probe droid",
+  "wookieepedia_title": "K-X12 probe droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/K-X12_probe_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The MerenData KX-12 probe droid was a multi-function droid model commonly used around 3956 BBY and 3951 BBY. Billed as a probe droid by its manufacturer, it gained popularity for its adaptability. It was a nonhumanoid model equipped with a red photoreceptor, three multi-jointed appendages equipped with claw graspers, a blaster, and a repulsorlift.",
+  "data": {
+    "name": "K-X12 probe droid",
+    "manufacturer": "MerenData",
+    "cost": "6,000 credits",
+    "height": "1 meter",
+    "sensor": "Red",
+    "equipment": [
+      "Claw graspers",
+      "Blaster",
+      "Repulsorlift"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

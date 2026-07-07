@@ -1,0 +1,31 @@
+{
+  "name": "Black Obsession",
+  "wookieepedia_title": "Black Obsession",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Black_Obsession",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Black Obsession was a modified Mon Calamari Shipyards A-Z-Z-3 Light Freighter. It smuggled political prisoners from the city of Selkren off the planet Demophon during the Galactic Civil War.",
+  "data": {
+    "name": "Black Obsession",
+    "model": "Modified A-Z-Z-3 Light Freighter",
+    "type": "Light freighter",
+    "length": "24 meters",
+    "max_speed": "850 KMH",
+    "hyperdrive": [
+      "Class 1",
+      "Class 12"
+    ],
+    "shield_gen": "Equipped, with backup shield",
+    "sensor": "Primary and backup systems",
+    "navigation": "Navigation computer equipped",
+    "armament": "2 laser cannon",
+    "crew": "2; 2 gunners",
+    "passengers": "8",
+    "capacity": "60 metric tons",
+    "consumables": "2 months",
+    "lifesupport": "Primary and backup systems",
+    "role": "Transport"
+  },
+  "scraped": "2026-07-03"
+}

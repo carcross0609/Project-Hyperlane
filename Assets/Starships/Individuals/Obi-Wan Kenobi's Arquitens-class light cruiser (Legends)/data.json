@@ -1,0 +1,30 @@
+{
+  "name": "Obi-Wan Kenobi's Arquitens-class light cruiser",
+  "wookieepedia_title": "Obi-Wan Kenobi's Arquitens-class light cruiser/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Obi-Wan_Kenobi%27s_Arquitens-class_light_cruiser/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "High Jedi General Obi-Wan Kenobi commanded an Arquitens-class light cruiser during the Battle of Saleucami.",
+  "data": {
+    "name": "Obi-Wan Kenobi's Arquitens-class light cruiser",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Arquitens-class light cruiser",
+    "type": "Escort cruiser",
+    "engine": "3",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Quad laser turrets (4)",
+      "Dual turbolaser cannons (4)",
+      "Missile tubes (4)"
+    ],
+    "skeleton": "Pilots (2)",
+    "passengers": "At least 10 troops",
+    "role": "Escort",
+    "destroyed": "21 BBY",
+    "affiliation": "Galactic Republic",
+    "captains": "High Jedi General Obi-Wan Kenobi"
+  },
+  "scraped": "2026-07-03"
+}

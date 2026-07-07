@@ -1,0 +1,53 @@
+{
+  "name": "Sh'ner-class planetary assault carrier",
+  "wookieepedia_title": "Sh'ner-class planetary assault carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sh%27ner-class_planetary_assault_carrier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Sh'ner-class Planetary Assault Carrier was a central warship class of the Ssi-ruuvi Imperium fleet, using its D'kee-class planetary landers in both invasions and space battles.",
+  "data": {
+    "name": "Sh'ner-class planetary assault carrier",
+    "manufacturer": "Ssi-ruuvi Imperium",
+    "model": "Sh'ner-class planetary assault carrier",
+    "type": [
+      "Cruiser",
+      "Assault carrier"
+    ],
+    "length": "Nearly 750 meters",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield",
+    "sensor": "Equipped",
+    "navigation": "Nav computer",
+    "armament": [
+      "Ion cannons (6)",
+      "Tractor beam projectors (2)"
+    ],
+    "complement": "12 D'kee-class landing ships",
+    "bays": [
+      "6 primary launch bays",
+      "12 secondary landing bays"
+    ],
+    "crew": [
+      "60 Ssi-ruuk",
+      "500 P'w'eck",
+      "300 droids"
+    ],
+    "skeleton": [
+      "30 Ssi-ruuk",
+      "250 P'w'ecks"
+    ],
+    "capacity": "5000 metric tons",
+    "consumables": "1 month",
+    "othersystems": "12 entechment labs",
+    "role": [
+      "Carrier",
+      "Transport"
+    ],
+    "affiliation": [
+      "Ssi-ruuvi Imperium",
+      "P'w'eck Emancipation Movement"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

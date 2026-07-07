@@ -1,0 +1,37 @@
+{
+  "name": "Tapani-class carrier",
+  "wookieepedia_title": "Tapani-class carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tapani-class_carrier",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Tapani-class carrier was a heavy starfighter carrier used in the Tapani sector and manufactured by Tapani Starship Cooperative. It was designed to deliver Manta-class starfighters into the heat of a space combat arena.",
+  "data": {
+    "name": "Tapani-class carrier",
+    "manufacturer": "Tapani Starship Cooperative",
+    "type": "Heavy starfighter carrier",
+    "cost": "700 million credits",
+    "length": "375 meters",
+    "hyperdrive": [
+      "Class 1.5",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "6 Turbolaser batteries",
+      "10 Ion cannon batteries"
+    ],
+    "complement": "40 Manta-class assault starfighters",
+    "crew": "1,855; 53 gunners",
+    "skeleton": "715",
+    "passengers": [
+      "100 troops",
+      "120 pilots"
+    ],
+    "capacity": "75 metric tons",
+    "consumables": "2 years",
+    "role": "Starfighter carrier"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Green Ace",
+  "wookieepedia_title": "Green Ace",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Green_Ace",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Green Ace was a modified G30 ship piloted by Hype Fazon. The racer's wings could shift angles for maximum maneuverability while flying. It was plastered with the logos of Fazon's sponsors. The two largest were painted on each wing, and included inscriptions in Aurebesh: \"Outer Rim Supply Co.\" on the left wing, and \"Craft Repair and Maintenance\" on the right wing, which were advertisements.",
+  "data": {
+    "name": "Green Ace",
+    "manufacturer": "Incom-FreiTek Corporation",
+    "model": "G30 (modified)",
+    "type": "Racing starfighter",
+    "armament": [
+      "KX10B laser cannons (2)",
+      "Missile launchers"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "role": "Starfighter",
+    "affiliation": [
+      "Ace Squadron",
+      "Citizens' Fleet"
+    ],
+    "owners": "Hype Fazon"
+  },
+  "scraped": "2026-07-03"
+}

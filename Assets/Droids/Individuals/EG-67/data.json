@@ -1,0 +1,31 @@
+{
+  "name": "EG-67",
+  "wookieepedia_title": "EG-67",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/EG-67",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "EG-67 was an EG-6 power droid for sale at Jawa Traders in Mos Eisley during the Galactic Civil War. His memory had been wiped haphazardly many times, resulting in fragments of memory of former owners and previous events. EG-67 tended to embellish these fragments into fanciful stories, which due to his limited communications he could only tell to other Droids. This left him with a rather cranky attitude.",
+  "data": {
+    "name": "EG-67",
+    "manufacturer": "Veril Line Systems",
+    "model": "EG-6 power droid",
+    "class": "Power droid",
+    "height": "1.1 meters",
+    "gender": "Masculine programming",
+    "pronouns": "new",
+    "equipment": [
+      "Bipedal locomotion",
+      "Cybot acoustic signaller (droid and computer languages)",
+      "System diagnosis package",
+      "  Infrared receptor",
+      "  Sonar",
+      "  X-ray",
+      "  Spectrometer",
+      "Ultra-fine manipulator arm",
+      "Video sensor"
+    ],
+    "affiliation": "Jawa Traders"
+  },
+  "scraped": "2026-07-03"
+}

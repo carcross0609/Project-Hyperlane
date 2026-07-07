@@ -1,0 +1,29 @@
+{
+  "name": "Desolation Station transport",
+  "wookieepedia_title": "Desolation Station transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Desolation_Station_transport",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Desolation Station transport was a transport vessel used by Desolation Station to transport components of the Death Star to it's construction site. As the transport was delivering the tributary beam, was infiltrated by the clone X2 during a Rebel raid on the Station. X2 used the attached Tributary Beam to destroy Desolation Station, severely delaying production time for parts to the Death Star.",
+  "data": {
+    "name": "Desolation Station transport",
+    "engine": "4",
+    "armament": [
+      "Laser canons (7)",
+      "Tributary beam (1)"
+    ],
+    "complement": [
+      "TIE Fighters",
+      "Stormtroopers"
+    ],
+    "bays": "At least 1",
+    "lifesupport": "Equipped",
+    "othersystems": "Weapons control room",
+    "role": "Transport",
+    "affiliation": [
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

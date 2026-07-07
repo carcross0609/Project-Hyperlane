@@ -1,0 +1,32 @@
+{
+  "name": "Wrist blaster",
+  "wookieepedia_title": "Wrist blaster/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wrist_blaster/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A wrist blaster was a blaster that was worn and fired from the wrist.",
+  "data": {
+    "name": "Wrist blaster",
+    "type": "Blaster",
+    "cost": "800 credits (Illegal) (wrist-worn model)",
+    "shape": "Like a bracelet (wrist-worn model)",
+    "size": "Tiny",
+    "weight": "0.5 kg (wrist-worn model)",
+    "capacity": [
+      "Wrist-worn model:",
+      "  1 shot",
+      "Built-in droid model:",
+      "  50 shots"
+    ],
+    "range": [
+      "Wrist-worn model:",
+      "  Optimum: up to 30 m",
+      "  Maximum: up to 90 m",
+      "Built-in droid model:",
+      "  Optimum: up to 45 meters",
+      "  Maximum: up to 450 meters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

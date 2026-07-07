@@ -1,0 +1,27 @@
+{
+  "name": "Ryyk blade",
+  "wookieepedia_title": "Ryyk blade/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ryyk_blade/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Ryyk blades were traditional swords constructed and used by the Wookiees of Kashyyyk.",
+  "data": {
+    "name": "Ryyk blade",
+    "model": "Custom-made weapon",
+    "type": "Exotic melee weapon",
+    "culture": "Wookiee",
+    "creators": "Wookiees",
+    "locations": "Kashyyyk",
+    "cost": "500 credits",
+    "shape": "Sword-like",
+    "weight": "1.5 kg to 15 kg",
+    "markings": "Wookiee symbols of strength and honor",
+    "purpose": [
+      "Hunting",
+      "Clearing jungle paths",
+      "Melee combat"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

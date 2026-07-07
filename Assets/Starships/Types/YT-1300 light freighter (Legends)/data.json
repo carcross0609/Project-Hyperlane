@@ -1,0 +1,65 @@
+{
+  "name": "YT-1300 light freighter",
+  "wookieepedia_title": "YT-1300 light freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YT-1300_light_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The YT-1300 light freighter was one of the Corellian Engineering Corporation's freighter designs. The most notable example of this model was the Millennium Falcon, a heavily modified YT-1300.",
+  "data": {
+    "name": "YT-1300 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YT-series",
+    "model": "YT-1300",
+    "type": "Light freighter",
+    "cost": [
+      "100,000 credits (new)",
+      "25,000 credits (used)"
+    ],
+    "length": "34.75 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Rated 120 SBD",
+    "hull": "Rated 76 RU",
+    "navigation": "Equipped",
+    "countermeasures": "Flares (7)",
+    "armament": [
+      "Laser cannons (2)",
+      "Quad laser turret (1)",
+      "Proton torpedo launchers (2)",
+      "  3 torpedoes each"
+    ],
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "6-15",
+    "capacity": "25-100 metric tons",
+    "consumables": "2 months",
+    "role": [
+      "Transport",
+      "Freighter",
+      "Smuggling Vessel"
+    ],
+    "firstuse": "72 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "Airam Clans",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Black Sun",
+      "Civilian Protection Guild",
+      "Cloak",
+      "Hidden Daggers",
+      "Hutt Cartel",
+      "Naboo Diplomatic Corps",
+      "Smugglers",
+      "Velocity Mercenaries",
+      "Void Wings",
+      "Vylukh Clan",
+      "Various others"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "WW-41 CryoBan grenade",
+  "wookieepedia_title": "WW-41 CryoBan grenade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/WW-41_CryoBan_grenade",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The WW-41 CryoBan grenade, known simply as the WW-41 grenade, was a model of grenade manufactured by Merr-Sonn Munitions, Inc. It was initially designed to put out fires aboard starships and space stations by spraying CryoBan, one of the chemical compounds used in carbon-freezing. The grenade resembled a short, blue baton with a ring at its smaller end. The WW-41 grenade was an excellent area denial weapon, as it could do damage to a living organism through frostbite, nerve damage, and shock.",
+  "data": {
+    "name": "WW-41 CryoBan grenade",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "model": "WW-41",
+    "type": "Grenade",
+    "cost": "220 credits",
+    "material": "CryoBan",
+    "range": "Short",
+    "purpose": [
+      "Area denial",
+      "Suppressing fires"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

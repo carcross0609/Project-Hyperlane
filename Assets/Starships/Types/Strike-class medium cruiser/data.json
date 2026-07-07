@@ -1,0 +1,99 @@
+{
+  "name": "Strike-class medium cruiser",
+  "wookieepedia_title": "Strike-class medium cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Strike-class_medium_cruiser",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Strike-class medium cruiser, also known simply as the Strike Cruiser, was a medium star cruiser designed by the Loronar Corporation during the Galactic Civil War for the Imperial Navy as a general-purpose vessel capable of modular modifications to allow it to fit many mission profiles, yet cheap enough to be produced in large quantities.",
+  "data": {
+    "name": "Strike-class medium cruiser",
+    "manufacturer": "Loronar Corporation",
+    "model": "Strike-class medium cruiser",
+    "type": "Medium cruiser",
+    "cost": "Black market value 17,000,000 credits (used)",
+    "length": "450 meters",
+    "height": "90 meters",
+    "max_accel": "4 MGLT/s",
+    "mglt": "16 MGLT",
+    "engine": [
+      "2 big engines",
+      "2 small engines"
+    ],
+    "hyperdrive": [
+      "Class 2.0",
+      "Class 12 (backup)"
+    ],
+    "shield_gen": "Rated 1600 SBD",
+    "hull": "Rated 752 RU",
+    "sensor": "Equipped",
+    "navigation": "Nav computer",
+    "armament": [
+      "Light turbolasers (20)",
+      "  5 fore",
+      "  5 port",
+      "  5 starboard",
+      "  5 aft",
+      "Turbolaser batteries (10)",
+      "  4 fore",
+      "  3 port",
+      "  3 starboard",
+      "Ion cannons (10)",
+      "  4 fore",
+      "  3 port",
+      "  3 starboard",
+      "Tractor beam projectors (10)",
+      "  2 fore",
+      "  3 port",
+      "  3 starboard",
+      "  2 aft",
+      "Warhead launcher (1)",
+      "  14 advanced concussion missiles"
+    ],
+    "complement": [
+      "Starfighters (18)",
+      "Depending on configuration:",
+      "AT-ST walkers (2-6)",
+      "AT-AT walkers (1 - 2)",
+      "Various dropships",
+      "Support craft"
+    ],
+    "crew": [
+      "Crew (1,972)",
+      "Gunners (140)"
+    ],
+    "skeleton": "800",
+    "passengers": "340 - 1,020 troops",
+    "capacity": "6,000 - 9,000 metric tons",
+    "consumables": "1.5 - 2 years",
+    "availability": [
+      "Military",
+      "Not available for sale"
+    ],
+    "role": [
+      "Light starship",
+      "Star cruiser",
+      "Escort",
+      "Prefab garrison deployer",
+      "Troop transport",
+      "Carrier",
+      "Heavy vehicle recovery",
+      "Planetary assault vessel",
+      "System garrison flagship"
+    ],
+    "firstuse": "By 0 BBY",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Zaarin coup forces",
+      "Rneekii pirates",
+      "Nami",
+      "New Republic",
+      "Imperial Remnant",
+      "Zsinj's Empire",
+      "Galactic Federation of Free Alliances",
+      "Confederation",
+      "Doole's Defense Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

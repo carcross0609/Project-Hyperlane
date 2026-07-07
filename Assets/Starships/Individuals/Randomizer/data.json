@@ -1,0 +1,22 @@
+{
+  "name": "Randomizer",
+  "wookieepedia_title": "Randomizer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Randomizer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Randomizer was a Pelta-class frigate that served as the flagship of Zilastra, leader of the pirate gang known as the Riftwalkers. Zilastra had previously stolen the frigate from the Trade Federation. Prior to being stolen, the starship was known as the Resilient, once hunting pirates.",
+  "data": {
+    "name": "Randomizer",
+    "model": "Pelta-class frigate",
+    "type": "Frigate",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "affiliation": [
+      "Trade Federation",
+      "Riftwalkers"
+    ],
+    "owners": "Zilastra"
+  },
+  "scraped": "2026-07-03"
+}

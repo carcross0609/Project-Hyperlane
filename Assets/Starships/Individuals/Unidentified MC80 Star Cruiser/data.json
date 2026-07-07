@@ -1,0 +1,41 @@
+{
+  "name": "Unidentified MC80 Star Cruiser",
+  "wookieepedia_title": "Unidentified MC80 Star Cruiser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_MC80_Star_Cruiser",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "This MC80 star cruiser was a MC80 Liberty Type Heavy Star Cruiser that served in the Alliance Fleet and most notably participated in a battle at the Fondor shipyards. Leading a small fleet, the cruiser emerged from hyperspace above the shipyard and, before the Imperials could react, bombarded the Imperial II-class Star Destroyer Dauntless with several blasts from its ion cannons, disabling the Imperial warship and leaving it unable to detach from the station. However, agents of Inferno Squad were able to repel the rebel starfighters and boarding craft and in turn boarded the cruiser itself, where they proceeded to disable its ion batteries from within. Unable to fire back, the cruiser was then helplessly struck by a heavy barrage from the newly freed Dauntless, leaving it heavily damaged.",
+  "data": {
+    "name": "Unidentified MC80 Star Cruiser",
+    "manufacturer": "Mon Calamari Shipyards",
+    "line": "MC80 Star Cruiser",
+    "model": "MC80 Liberty Type Heavy Star Cruiser",
+    "type": "Star Cruiser",
+    "height": "1,200 meters",
+    "engine": "Sublight thrusters (10)",
+    "hdsystem": "Equipped",
+    "armament": [
+      "Turbolasers",
+      "Port-side heavy ion cannons (3)"
+    ],
+    "complement": [
+      "T-65B X-wing starfighters",
+      "RZ-1 A-wing interceptors"
+    ],
+    "bays": "Hangar (1)",
+    "crew": [
+      "New Republic officers",
+      "New Republic pilots",
+      "New Republic soldiers",
+      "  Heavy Soldiers",
+      "3PO-series protocol droids",
+      "R-series astromech droids",
+      "GNK-series power droids",
+      "Scrubber droids"
+    ],
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet"
+  },
+  "scraped": "2026-07-03"
+}

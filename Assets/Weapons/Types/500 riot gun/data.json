@@ -1,0 +1,29 @@
+{
+  "name": "500 riot gun",
+  "wookieepedia_title": "500 riot gun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/500_riot_gun",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The BlasTech 500 \"ESPO\" riot gun was manufactured specifically for the Corporate Sector Authority's brutal Espo Troops.",
+  "data": {
+    "name": "500 riot gun",
+    "manufacturer": "BlasTech Industries",
+    "model": "500 \"ESPO\"",
+    "type": "Riot gun",
+    "cost": "1,000 to 1,200 credits (available for military use only)",
+    "size": "Two-handed weapon",
+    "weight": "2.2 kg to 4.5 kg",
+    "capacity": [
+      "50 shots",
+      "Close-range stun setting available",
+      "Autofire mode available"
+    ],
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 450 m"
+    ],
+    "affiliation": "Corporate Sector Security"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Xiytiar-class heavy transport",
+  "wookieepedia_title": "Xiytiar-class heavy transport/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xiytiar-class_heavy_transport/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Xiytiar-class heavy transport was a cargo ship manufactured by TransGalMeg Industries, Incorporated.",
+  "data": {
+    "name": "Xiytiar-class heavy transport",
+    "manufacturer": "TransGalMeg Industries",
+    "model": "Xiytiar-class transport",
+    "type": "Transport",
+    "cost": "800,000 credits",
+    "length": "164.8 meters",
+    "engine": "3",
+    "hyperdrive": [
+      "Class 3 (primary)",
+      "Class 16 (backup)"
+    ],
+    "shield_gen": "Rated 256 SBD",
+    "hull": "Rated 156 RU",
+    "navigation": "Equipped",
+    "armament": "Standard configuration: None\nCommon upgrade: 2 to 4 laser cannons",
+    "crew": "10",
+    "skeleton": "2",
+    "passengers": "2 (up to 12 if operating on minimal crew)",
+    "capacity": "5,000 metric tons",
+    "consumables": "3 months",
+    "role": [
+      "Cargo Transport"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

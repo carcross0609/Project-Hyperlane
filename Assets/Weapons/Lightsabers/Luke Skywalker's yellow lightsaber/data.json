@@ -1,0 +1,31 @@
+{
+  "name": "Luke Skywalker's yellow lightsaber",
+  "wookieepedia_title": "Luke Skywalker's yellow lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Luke_Skywalker%27s_yellow_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Luke Skywalker's yellow lightsaber was a yellow-bladed lightsaber used by Luke Skywalker after he discovered it within a Jedi outpost on Tempes. Unlike the other lightsaber pikes, this lightsaber only had a single blade due to Luke finding it damaged and later repaired it to serve as a single-blade variation.",
+  "data": {
+    "name": "Luke Skywalker's yellow lightsaber",
+    "model": "Lightsaber pike",
+    "type": "Single-blade lightsaber",
+    "culture": "Jedi",
+    "discovered": "3 ABY",
+    "owners": "Luke Skywalker",
+    "hilt_shape": "Cylindrical, straight",
+    "crystal": "Kyber crystal",
+    "color": "Yellow",
+    "mods": "Damaged side repaired and a hilt-ring added to allow belt-attachment",
+    "precede": "Skywalker lightsaber",
+    "succeed": "Luke Skywalker's green lightsaber",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Skywalker family",
+      "Jedi Order",
+      "  Jedi Temple Guard",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

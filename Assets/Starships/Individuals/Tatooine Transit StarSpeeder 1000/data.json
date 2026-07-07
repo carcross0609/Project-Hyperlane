@@ -1,0 +1,29 @@
+{
+  "name": "Tatooine Transit StarSpeeder 1000",
+  "wookieepedia_title": "Tatooine Transit StarSpeeder 1000",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tatooine_Transit_StarSpeeder_1000",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Tatooine Transit StarSpeeder 1000 was a modified StarSpeeder 1000 spacecraft used by interstellar travel agency Star Tours to operate flights bound for the Outer Rim planet Tatooine prior to 0 BBY. This starship was painted blue and light grey with the Aurebesh letters Nern and Dorn. It was named after the planet itself as well as Tatooine Transit, a separate spaceliner company from Star Tours, and a fellow member with Star Tours in the Galactic Tourist Bureau.",
+  "data": {
+    "name": "Tatooine Transit StarSpeeder 1000",
+    "line": "StarSpeeder 1000",
+    "modifier": "Star Tours",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "Flash cannons (2)",
+      "Laser cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)",
+      "Systems analyst (1)"
+    ],
+    "passengers": "40",
+    "role": "Passenger transport",
+    "affiliation": "Star Tours"
+  },
+  "scraped": "2026-07-03"
+}

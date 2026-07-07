@@ -1,0 +1,68 @@
+{
+  "name": "C-9979 landing craft",
+  "wookieepedia_title": "C-9979 landing craft/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/C-9979_landing_craft/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The C-9979 landing craft, also known as the Trade Federation landing ship or the Separatist landing craft, was a large landing craft built by Haor Chall Engineering for the Trade Federation's military forces, and later for the Confederacy of Independent Systems. When the Trade Federation began planning to create its military forces, Haor Chall Engineering produced a design for a landing craft that would carry troops and ground vehicles from warships down to planets.",
+  "data": {
+    "name": "C-9979 landing craft",
+    "manufacturer": "Haor Chall Engineering",
+    "model": "C-9979 landing craft",
+    "type": "Landing craft",
+    "cost": [
+      "200,000 credits",
+      "75,000 credits (used)"
+    ],
+    "width": "370 meters",
+    "max_speed": "587 km/h",
+    "hdsystem": [
+      "None",
+      "Equipped (carrier version)"
+    ],
+    "armament": [
+      "Wingtip laser cannons (4)",
+      "  Arrangement: 2 fire-linked pairs",
+      "    Fire arc: Front",
+      "Turret-mounted cannons (4)",
+      "  Arrangement: 2 fire-linked pairs",
+      "    Fire arc: Turret"
+    ],
+    "complement": [
+      "Platoon Attack Crafts (28: 7 per wing)",
+      "Armored Assault Tanks (114: 24 per fore wing, 33 per aft wing)",
+      "Multi-Troop Transports or Multi-Utility Transports (11: 3 per fore wing, 3 in staging area, 2 in landing pedestal)",
+      "NR-N99 Persuader-class droid enforcers",
+      "CIS mobile command center (1) and Sheathipede-class transport shuttle(1)",
+      "Starfighter Carrier:",
+      "  Vulture Droids",
+      "  Scarab-class Starfighters",
+      "  Advanced Droid Bombers"
+    ],
+    "crew": [
+      "OOM-series battle droids (88)",
+      ":or",
+      "140 sapients"
+    ],
+    "passengers": [
+      "Repair droids (30)",
+      "OOM command battle droids (40)",
+      "OOM pilot battle droids (39)",
+      "OOM security battle droids (15)"
+    ],
+    "capacity": "1,800 metric tons",
+    "consumables": "1 day",
+    "availability": "Military",
+    "role": [
+      "Transport",
+      "Carrier"
+    ],
+    "affiliation": [
+      "Trade Federation",
+      "Galactic Republic",
+      "  Republic Outland Regions Security Force",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

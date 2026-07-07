@@ -1,0 +1,46 @@
+{
+  "name": "Z-95 Headhunter",
+  "wookieepedia_title": "Z-95 Headhunter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z-95_Headhunter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Z-95 Headhunter, also referred to as the Z-95 starfighter or simply the Z-95, was a multi-purpose starfighter jointly manufactured by Incom Corporation and Sublights Products Corporation. Despite being considered outdated, the Z-95 was durable and adaptable to a variety of different roles, which led many to recognize it as a versatile and respectable snub-fighter of its era. Countless variants of the Headhunter were produced, including one model designed specifically for the Grand Army of the Republic's clone pilots during the Clone Wars. The Z-95 was the forerunner of Incom's popular T-65B X-wing starfighter.",
+  "data": {
+    "name": "Z-95 Headhunter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Sublights Products Corporation"
+    ],
+    "model": "Z-95 Headhunter",
+    "type": "Starfighter",
+    "length": "16.74 meters",
+    "width": "18.12 meters",
+    "height": "3.24 meters",
+    "max_speed": "1150 kph",
+    "engine": "Incom 2a fission engines (4)",
+    "hdsystem": "Equipped (retrofit only)",
+    "shield_gen": "XoLynn 9771 deflector shield generator",
+    "sensor": "ANS-5c sensor unit",
+    "navigation": "Equipped",
+    "armament": [
+      "Ion cannon (1)",
+      "Taim & Bak KX5 linked laser cannons (2)",
+      "Krupx MG5 concussion missile launchers",
+      "Proton cannon (Modification)"
+    ],
+    "crew": "Pilot (1)",
+    "lifesupport": "Equipped",
+    "role": "Close air support",
+    "firstuse": "c. 22 BBY",
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Navy",
+      "Galactic Empire",
+      "Berch Teller's rebel cell",
+      "Partisans",
+      "Alliance to Restore the Republic",
+      "  Tatooine rebel cell"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

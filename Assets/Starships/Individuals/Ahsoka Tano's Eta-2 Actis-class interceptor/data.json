@@ -1,0 +1,40 @@
+{
+  "name": "Ahsoka Tano's Eta-2 Actis-class interceptor",
+  "wookieepedia_title": "Ahsoka Tano's Eta-2 Actis-class interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ahsoka_Tano%27s_Eta-2_Actis-class_interceptor",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Ahsoka's Jedi Interceptor was an Eta-2 Actis-class light interceptor flown by Jedi Padawan Ahsoka Tano. The ship color was red similar to her previous Delta-7B Aethersprite-class light interceptor. Her droid R7-A7 continued to serve as her copilot.",
+  "data": {
+    "name": "Ahsoka Tano's Eta-2 Actis-class interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "line": "Delta-series",
+    "model": "Eta-2 Actis-class light interceptor",
+    "type": "Starfighter",
+    "length": "5.47 meters",
+    "width": "4.3 meters",
+    "height": "2.5 meters (with wings deployed)",
+    "max_accel": "5,200G",
+    "mglt": "118 MGLT",
+    "max_speed": "1,500 kph",
+    "engine": "Twin ion engines (2)",
+    "hyperdrive": "Class 1 (hyperspace transport ring required)",
+    "armament": [
+      "Laser cannons (2)",
+      "Secondary ion cannons (2)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Astromech droid (1)"
+    ],
+    "othersystems": "S-foils",
+    "role": "Interceptor",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "captains": "Ahsoka Tano"
+  },
+  "scraped": "2026-07-03"
+}

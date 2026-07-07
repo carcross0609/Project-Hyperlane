@@ -1,0 +1,32 @@
+{
+  "name": "HH-15 projectile launcher",
+  "wookieepedia_title": "HH-15 projectile launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HH-15_projectile_launcher",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Golan Arms HH-15 projectile launcher was a shoulder-fired missile launcher widely used by Rebel Alliance ground forces, notably Rebel vanguard divisions.",
+  "data": {
+    "name": "HH-15 projectile launcher",
+    "manufacturer": "Golan Arms",
+    "model": "HH-15",
+    "type": "Portable missile launcher",
+    "cost": "2,000 credits (Available for military use only)",
+    "size": "Large",
+    "weight": "12 kg",
+    "capacity": "1; 2; 7 or 8 missiles in reserve",
+    "range": [
+      "Optimum: up to 75 meters",
+      "Maximum: up to 750 meters"
+    ],
+    "purpose": [
+      "Anti-vehicle",
+      "Blasting through armored fortifications"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rebel vanguards"
+    ]
+  },
+  "scraped": "2026-07-03"
+}
