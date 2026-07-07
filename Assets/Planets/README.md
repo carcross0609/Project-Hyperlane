@@ -29,7 +29,7 @@ Assets/Planets/
   <Planet Name>/
     data.json                 # full structured data
     README.md                 # human-readable planetary survey
-    Assets/                   # planet-specific assets (surface materials, skyboxes, landmarks)
+    Models/                   # planet-specific assets (surface materials, skyboxes, landmarks)
 ```
 
 Planets in both continuities get `<Name>` (Canon) and `<Name> (Legends)`

@@ -1,0 +1,35 @@
+{
+  "asset": "Libro",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Star Wars Galaxies - YT1300 (Inside)",
+      "url": "https://sketchfab.com/3d-models/none-400abf08c94e4b4e809fca0aa51a5e00",
+      "uid": "400abf08c94e4b4e809fca0aa51a5e00",
+      "author": "Zorg_Sinister",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 0.769,
+      "likes": 261,
+      "thumbnail": "https://media.sketchfab.com/models/400abf08c94e4b4e809fca0aa51a5e00/thumbnails/ff3d7d6a696848959a61dac8f284b216/ca251db33dab4939a7dbda64adbc6917.jpeg"
+    },
+    {
+      "name": "Star Wars Galaxies - YT1300 (Outside)",
+      "url": "https://sketchfab.com/3d-models/none-26d0f09e4ae64c41ad0119caa30d8058",
+      "uid": "26d0f09e4ae64c41ad0119caa30d8058",
+      "author": "Zorg_Sinister",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 0.769,
+      "likes": 65,
+      "thumbnail": "https://media.sketchfab.com/models/26d0f09e4ae64c41ad0119caa30d8058/thumbnails/0fe183be7a324aaca7ae3a8f04443f25/ca2170d3983e42449a64f70a97fe55e7.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/YT-1300 light freighter"
+}

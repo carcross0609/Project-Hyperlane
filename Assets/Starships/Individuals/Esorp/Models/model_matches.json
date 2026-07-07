@@ -1,0 +1,48 @@
+{
+  "asset": "Esorp",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "YTS-27 light freighter \"The Kowakian Corsair\"",
+      "url": "https://sketchfab.com/3d-models/none-3e187fed67034c488a0a9e41eae36628",
+      "uid": "3e187fed67034c488a0a9e41eae36628",
+      "author": "JP_2793",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 356,
+      "thumbnail": "https://media.sketchfab.com/models/3e187fed67034c488a0a9e41eae36628/thumbnails/8af82e25054d434ca4674f53a6d1e8ec/26522b8a463b48e9a0247472e2cd2b9b.jpeg"
+    },
+    {
+      "name": "Star Wars: YT-2400 Light Freighter",
+      "url": "https://sketchfab.com/3d-models/none-ccd2749df33641fba7a5326500abdbfb",
+      "uid": "ccd2749df33641fba7a5326500abdbfb",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 242,
+      "thumbnail": "https://media.sketchfab.com/models/ccd2749df33641fba7a5326500abdbfb/thumbnails/7d9d1867a4ad4577b231248a94dc406e/549dea2f0a884fef9e8e6134e3945ca3.jpeg"
+    },
+    {
+      "name": "Star Wars: BFF-1 Bulk Freighter",
+      "url": "https://sketchfab.com/3d-models/none-2131f750afff479588a46321d17ee25f",
+      "uid": "2131f750afff479588a46321d17ee25f",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 117,
+      "thumbnail": "https://media.sketchfab.com/models/2131f750afff479588a46321d17ee25f/thumbnails/6d879f419f6e41a3a0173adac332c549/5d1c72a71eb34c528fbb09a997e7817a.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Freighter"
+}

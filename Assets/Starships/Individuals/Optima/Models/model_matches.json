@@ -1,0 +1,48 @@
+{
+  "asset": "Optima",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Star Wars: Imperial II Star Destroyer",
+      "url": "https://sketchfab.com/3d-models/none-b8bd2d35f7604670ab85242c06c6d280",
+      "uid": "b8bd2d35f7604670ab85242c06c6d280",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 808,
+      "thumbnail": "https://media.sketchfab.com/models/b8bd2d35f7604670ab85242c06c6d280/thumbnails/85fa29439b474ce188465801c938fbbf/468c4787a6f34c86b73f9c55f0348145.jpeg"
+    },
+    {
+      "name": "Star Wars; Imperial-Class Star Destroyer",
+      "url": "https://sketchfab.com/3d-models/none-fa18d537db4d4020a443c1802ec0f88e",
+      "uid": "fa18d537db4d4020a443c1802ec0f88e",
+      "author": "Heataker",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 441,
+      "thumbnail": "https://media.sketchfab.com/models/fa18d537db4d4020a443c1802ec0f88e/thumbnails/8cbfc34b38bb49e1911d558b735f6f84/c6e961a37642425599081671fc713ba6.jpeg"
+    },
+    {
+      "name": "Star Destroyer Bridge (Star Wars)",
+      "url": "https://sketchfab.com/3d-models/none-40656d2870fa43cba1b53785363611f7",
+      "uid": "40656d2870fa43cba1b53785363611f7",
+      "author": "KLGaming",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 299,
+      "thumbnail": "https://media.sketchfab.com/models/40656d2870fa43cba1b53785363611f7/thumbnails/9f22c3225fec43d7b4405cb6328bc53d/907ea8a51789404c8f6dd7db8726a987.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Stardestroyer"
+}
