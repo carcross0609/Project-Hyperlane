@@ -1,0 +1,29 @@
+{
+  "name": "Trandoshan",
+  "wookieepedia_title": "Trandoshan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trandoshan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Trandoshans, or T'doshok in Dosh, were a species of tall, bipedal, reptilian humanoids from the planet of Trandosha (or Dosha). They had highly sensitive eyes that could see into the infrared range, and the ability to regenerate lost limbs (albeit slowly) in a similar fashion to some lizards voluntarily detaching and regrowing their tails—an anatomical feature which Trandoshans lacked, however, compared to other reptilian species (such as the Barabels and the Ssi-ruuk). They would, however, periodically shed their skin, as do many reptilian species. Trandoshans were physically-sturdier and were considerably stronger than Humans and most other humanoids. The Trandoshan species, as a whole, was known for its penchant for violence and domination, with many individuals becoming slavers, bounty hunters, hired guns, interrogators, and other potentially questionable or unsavory professions. During the Imperial Era, the Trandoshans, as a collective, allied early on with the Empire, taking Wookiees, whom they considered bitter rivals, as slaves.",
+  "data": {
+    "name": "Trandoshan",
+    "designation": "Sentient",
+    "class": "Reptilian",
+    "subspecies": "Saurin",
+    "height": "2 meters",
+    "skincolor": [
+      "Sandy brown",
+      "Glossy green"
+    ],
+    "eyecolor": [
+      "Yellow",
+      "Orange",
+      "Red"
+    ],
+    "distinctions": "Regenerative properties",
+    "origin": "Trandosha",
+    "language": "Dosh"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Trandosha (Legends)"
+}

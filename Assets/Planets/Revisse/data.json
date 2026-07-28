@@ -1,0 +1,49 @@
+{
+  "name": "Revisse",
+  "wookieepedia_title": "Revisse",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Revisse",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Revisse was the first planet from its star, Coruscant Prime, in the Coruscant system. The planet had a molten surface.",
+  "lead_paragraphs": [
+    "Revisse was the first planet from its star, Coruscant Prime, in the Coruscant system. The planet had a molten surface."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Revisse",
+    "region": "Core Worlds",
+    "sector": [
+      "Corusca sector",
+      "  Coruscant sector"
+    ],
+    "system": "Coruscant system",
+    "coordinates": "L-9",
+    "xyz": "0, 0, 0",
+    "suns": "1: Coruscant Prime",
+    "position": "1",
+    "moons": "0",
+    "routes": [
+      "Corellian Run",
+      "Coruscant–Dantooine hyperlane",
+      "Koros Trunk Line",
+      "Leisure Corridor",
+      "Martial Cross",
+      "Metellos Trade Route",
+      "Namadii Corridor",
+      "Perlemian Trade Route",
+      "Shawken Spur"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Molten rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Revisse",
+    "x": 424.2,
+    "y": 835.8,
+    "z": -22.4,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

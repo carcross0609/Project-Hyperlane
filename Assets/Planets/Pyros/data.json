@@ -1,0 +1,34 @@
+{
+  "name": "Pyros",
+  "wookieepedia_title": "Pyros",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pyros",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pyros, originally known as Ord Pyros, was a planet located in the Colonies.",
+  "lead_paragraphs": [
+    "Pyros, originally known as Ord Pyros, was a planet located in the Colonies."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Pyros",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "system": "Pyros system",
+    "coordinates": "K-13",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pyros",
+    "x": -908.5,
+    "y": -5114.3,
+    "z": -66.1,
+    "region": "Colonies",
+    "grid": "K-13"
+  },
+  "scraped": "2026-07-03"
+}

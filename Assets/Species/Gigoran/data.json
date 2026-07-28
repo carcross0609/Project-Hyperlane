@@ -1,0 +1,29 @@
+{
+  "name": "Gigoran",
+  "wookieepedia_title": "Gigoran",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gigoran",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Gigorans were a sentient species of tall, hairy humanoids that hailed from the planet Gigor. They were often exploited for their strength and typically used as bodyguards.",
+  "data": {
+    "name": "Gigoran",
+    "designation": "Sentient",
+    "haircolor": [
+      "White",
+      "Brown",
+      "Cream",
+      "Grey",
+      "Black"
+    ],
+    "eyecolor": [
+      "Black",
+      "Brown",
+      "Red",
+      "Yellow"
+    ],
+    "origin": "Gigor",
+    "language": "Gigoran"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Gigor"
+}

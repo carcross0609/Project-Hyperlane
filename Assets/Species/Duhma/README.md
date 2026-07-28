@@ -1,0 +1,10 @@
+# Duhma
+
+**Continuity:** Legends  
+**Source:** [Duhma](https://starwars.fandom.com/wiki/Duhma)
+
+The Duhma were a rare sentient species that was divided into many tribes. The tribes identified themselves through use of ceremonial tattoos. The Duhma lived on the dark side of their planet and had lost their sight over time. As a result, they wore dark visors during their occasional journeys off their planet to protect their highly sensitive eyes.
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

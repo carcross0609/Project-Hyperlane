@@ -1,0 +1,58 @@
+{
+  "name": "Jatee",
+  "wookieepedia_title": "Jatee",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jatee",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jatee was the third planet of the Demophon system. It was the site of a Galactic Empire mining operation for rutgar-4. It was destroyed when its sun went supernova.",
+  "lead_paragraphs": [
+    "Jatee was the third planet of the Demophon system. It was the site of a Galactic Empire mining operation for rutgar-4. It was destroyed when its sun went supernova."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Jatee",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "sector": "Demophon sector",
+    "system": "Demophon system",
+    "coordinates": "M-10",
+    "suns": "Demophon",
+    "position": "3",
+    "lengthday": "546 standard hours",
+    "lengthyear": "467 local days",
+    "atmosphere": "Type IV (environment suit required)",
+    "gravity": "Heavy",
+    "terrain": [
+      "Barren rock",
+      "Canyons"
+    ],
+    "species": "Ssither",
+    "government": "Tribal",
+    "population": "960,000",
+    "imports": "High technology (droids and parts)",
+    "exports": "Rutgar-4",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ssither",
+      "directory": "Ssither",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Jatee",
+    "x": 386.3,
+    "y": -12182.4,
+    "z": -307.7,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Mon Gazza",
+  "wookieepedia_title": "Mon Gazza",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mon_Gazza",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Mon Gazza was a Mid Rim Territories planet located on both the Corellian Run and the Llanic Spice Run. It was the site of spice mining and trading. A significant portion of the spice trade was under the reign of the kingpin Ravi, who was murdered by the mercenary droid AD-W4 when he attempted to hire the droid to kill a rival. The Pyke Syndicate spice cartel controlled the bulk of Mon Gazza's spice mines by the time of the Clone Wars.",
+  "lead_paragraphs": [
+    "Mon Gazza was a Mid Rim Territories planet located on both the Corellian Run and the Llanic Spice Run. It was the site of spice mining and trading. A significant portion of the spice trade was under the reign of the kingpin Ravi, who was murdered by the mercenary droid AD-W4 when he attempted to hire the droid to kill a rival. The Pyke Syndicate spice cartel controlled the bulk of Mon Gazza's spice mines by the time of the Clone Wars.",
+    "During the Galactic Civil War in 4 ABY, the New Republic began establishing a planetary outpost on Mon Gazza, although spice gang warfare continued in the meantime. The Galactic Empire's 204th Imperial Fighter Wing destroyed the outpost in 5 ABY. During the New Republic's reign, the Spice Runners of Kijimi carried out a heist on Mon Gazza and outran New Republic patrols using the local Zugga Challenge podracing course."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Underworld dealings",
+    "  New Republic control",
+    "Locations"
+  ],
+  "data": {
+    "name": "Mon Gazza",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Lambda sector",
+    "system": "Mon Gazza system",
+    "coordinates": "Q-16",
+    "routes": [
+      "Corellian Run",
+      "Llanic Spice Run",
+      "Manda–Mon Gazza hyperlane"
+    ],
+    "class": "Terrestrial",
+    "interest": [
+      "Planetary outpost",
+      "Ravi's palace",
+      "Relic markets",
+      "Spice mines",
+      "Zugga Challenge"
+    ],
+    "exports": "Spice",
+    "affiliation": [
+      "Pyke Syndicate",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Mon Gazza",
+    "x": 7742.2,
+    "y": -9217.1,
+    "z": -113.9,
+    "region": "Mid Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

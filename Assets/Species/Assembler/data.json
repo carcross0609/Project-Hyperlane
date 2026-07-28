@@ -1,0 +1,24 @@
+{
+  "name": "Assembler",
+  "wookieepedia_title": "Assembler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Assembler",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Assemblers were huge enigmatic arachnids who lived in a large tube-like web floating in space. Their vacuum-resistant exoskeleton essentially allowed them to survive in such an environment. Each Assembler created Nodes—smaller arachnoid drones that lived to do the Assembler's bidding who were created from the primary intelligence's own neural tissue. Boba Fett discovered that Assemblers evolved from Nodes who killed their old master to take their place, sometimes through consumption of their creator. Two Assemblers named in galactic history were Kud'ar Mub'at and Balancesheet, the masterminds who acted as a go-between for criminal organizations and potential employees.",
+  "data": {
+    "name": "Assembler",
+    "designation": "Sentient",
+    "class": "Arachnid",
+    "races": [
+      "Assembler",
+      "Subnodes"
+    ],
+    "height": "3 meters",
+    "skincolor": "Brown",
+    "haircolor": "None",
+    "distinctions": "Huge arachnoids",
+    "origin": "Unknown",
+    "language": "Galactic Basic Standard"
+  },
+  "scraped": "2026-07-03"
+}

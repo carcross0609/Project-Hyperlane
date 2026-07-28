@@ -1,0 +1,65 @@
+{
+  "name": "Pitann",
+  "wookieepedia_title": "Pitann",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pitann",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pitann was a desert planet in the Kathol Outback, two days travel from Dayark.",
+  "lead_paragraphs": [
+    "Pitann was a desert planet in the Kathol Outback, two days travel from Dayark.",
+    "Pitann was previously part of the Galactic Republic, and was represented in the Senate by Senator Han Olbeg. Later, Pitann was part of the Kathol Republic, and was represented in the Kathol Republic Senatorial Council by Senator Sho'ban Do.",
+    "Pitann had many rich veins of ore, and was scarred by a large amount of strip-mining operations and covered with refineries. The planet had heavy gravity, and a searingly hot and polluted atmosphere. However, the high gravity reduced the ore and metal's economic value since it was expensive to lift them out of the gravity well.",
+    "Life was hard and uncomfortable on Pitann, and the gruff natives believed that they were tougher than anyone else in the Kathol Republic. The populace supported Senator Do completely.",
+    "The planet only had limited service landing fields, and several industrial cities such as Ghaz Kul IV.",
+    "In 7 ABY, Pitann's miners began modifying their mining droids and using them in gladiatorial combat as a form of entertainment. The contests became a point of contention for the members of the Senatorial Council."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pitann",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Kathol sector",
+      "  Kathol Outback"
+    ],
+    "system": "Pitann system",
+    "coordinates": "M-21",
+    "lengthday": "12 standard hours",
+    "lengthyear": "841 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Hot",
+    "gravity": "Heavy",
+    "terrain": "Deserts",
+    "species": "Sho'ban Do's species",
+    "otherspecies": [
+      "Human",
+      "Sullustan",
+      "Others"
+    ],
+    "language": "Galactic Basic Standard",
+    "population": "20,000",
+    "cities": "Ghaz Kul IV",
+    "imports": "Foodstuffs",
+    "exports": "Metals",
+    "affiliation": [
+      "Galactic Empire",
+      "Kathol Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sho'ban Do's species",
+      "directory": "Sho'ban Do's species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Pitann",
+    "x": 2705.2,
+    "y": -17728.6,
+    "z": 379.9,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

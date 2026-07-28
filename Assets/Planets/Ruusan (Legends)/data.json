@@ -1,0 +1,117 @@
+{
+  "name": "Ruusan",
+  "wookieepedia_title": "Ruusan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ruusan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ruusan was a planet in the Mid Rim most famous for the Ruusan campaign, the last stand of the Brotherhood of Darkness under Lord Kaan and the birthplace of Darth Bane's Order of the Sith Lords. The planet lent its name to the Ruusan Reformations enacted after the battle.",
+  "lead_paragraphs": [
+    "Ruusan was a planet in the Mid Rim most famous for the Ruusan campaign, the last stand of the Brotherhood of Darkness under Lord Kaan and the birthplace of Darth Bane's Order of the Sith Lords. The planet lent its name to the Ruusan Reformations enacted after the battle."
+  ],
+  "article_sections": [
+    "Characteristics",
+    "History",
+    "  Reemergence"
+  ],
+  "data": {
+    "name": "Ruusan",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Teraab sector",
+    "system": "Hoth's Brand system",
+    "coordinates": "P-11",
+    "suns": "2: Hoth's Brand and Petja",
+    "position": "3",
+    "moons": [
+      "3: the Three Sisters",
+      "  Ruusan 2"
+    ],
+    "lengthday": "23 standard hours",
+    "lengthyear": "335 local days/321 standard days",
+    "class": "Terrestrial",
+    "diameter": "21,000 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Varied",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert",
+      "Canyons",
+      "Caves",
+      "Rivers",
+      "Lakes",
+      "Formerly: forests"
+    ],
+    "interest": [
+      "Katarn's Hill",
+      "Valley of the Jedi"
+    ],
+    "fauna": [
+      "Drugon",
+      "Munk"
+    ],
+    "species": [
+      "Bouncer",
+      "Ruusanian"
+    ],
+    "otherspecies": [
+      "Human",
+      "Other"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "None",
+    "population": [
+      "30,000:",
+      "  60% Bouncer",
+      "  25% Ruusanian",
+      "  10% Human",
+      "  5% other species"
+    ],
+    "cities": [
+      "Olmondo (capital)",
+      "Fort Nowhere"
+    ],
+    "imports": [
+      "Technology",
+      "Foodstuffs"
+    ],
+    "exports": "Ore",
+    "affiliation": [
+      "Galactic Republic",
+      "Mining Guild",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Alliance to Restore the Republic",
+      "Empire Reborn",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Bouncer",
+      "directory": "Bouncer",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Ruusanian",
+      "directory": "Ruusanian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ruusanian",
+      "directory": "Ruusanian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ruusan",
+    "x": 7369.4,
+    "y": -1514.6,
+    "z": 294.0,
+    "region": "Mid Rim",
+    "grid": "P-11"
+  },
+  "scraped": "2026-07-03"
+}

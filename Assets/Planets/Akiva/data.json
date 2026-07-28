@@ -1,0 +1,115 @@
+{
+  "name": "Akiva",
+  "wookieepedia_title": "Akiva",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Akiva",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Akiva was a remote jungle planet in the Outer Rim Territories. The planet was once part of the Confederacy of Independent Systems, who created a large droid construction facility under the planet's surface. After the Clone Wars, the planet fell under the occupation of the Galactic Empire with the Satrapy of Myrra collaborating with its new rulers.",
+  "lead_paragraphs": [
+    "Akiva was a remote jungle planet in the Outer Rim Territories. The planet was once part of the Confederacy of Independent Systems, who created a large droid construction facility under the planet's surface. After the Clone Wars, the planet fell under the occupation of the Galactic Empire with the Satrapy of Myrra collaborating with its new rulers.",
+    "Some time after the Battle of Endor, the shattered Empire gathered for an emergency summit above Akiva, where they intended to regroup and launch an attack against the New Republic. The meeting failed, leading to the rebellion on the planet as the Imperial leaders on the planet fled to safety during which its citizens overthrew the Empire, Akiva then became the first Outer Rim planet to join the New Republic. Akiva later pledged allegiance to the growing First Order in 34 ABY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history and Clone Wars",
+    "  Age of the Empire",
+    "  Era of the New Republic",
+    "  Joining the First Order"
+  ],
+  "data": {
+    "name": "Akiva",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Meerian sector",
+    "system": "Akiva system",
+    "coordinates": "O-6",
+    "moons": "Akiva's moon",
+    "routes": "Hydian Way",
+    "climate": "Hot",
+    "terrain": "Jungles",
+    "interest": [
+      "Great Basin",
+      "Chenza Hill",
+      "Farsigo Bay",
+      "Myrra Valley",
+      "Northern Jungles",
+      "Rebel Alliance holding facility",
+      "Salea's Hand",
+      "Sashin",
+      "Southern Archipelago",
+      "Stratha Peaks",
+      "Witch's Finger"
+    ],
+    "flora": [
+      "Asuka tree",
+      "Charra crop",
+      "Jarwal tree",
+      "Maize"
+    ],
+    "fauna": [
+      "Atele",
+      "Bladder-bug",
+      "Capupi fly",
+      "Cerulean skycatcher",
+      "Clever-bird",
+      "Fengla",
+      "Fish",
+      "Jabarek lizard",
+      "Land-eel",
+      "Massiff",
+      "Sammakho beast",
+      "Scurrier",
+      "Sommato bird",
+      "Shaparak",
+      "Kowakian monkey-lizard",
+      "Venga",
+      "Ya-ya fly"
+    ],
+    "species": [
+      "Ahia-Ko",
+      "Uugteen"
+    ],
+    "otherspecies": [
+      "Abednedo",
+      "Besalisk",
+      "Human",
+      "Ithorian",
+      "Koorivar",
+      "Sullustan"
+    ],
+    "government": "Satrapy of Myrra",
+    "demonym": "Akivan",
+    "cities": "Myrra (capital)",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ahia-Ko",
+      "directory": "Ahia-Ko",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Uugteen",
+      "directory": "Uugteen",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Akiva",
+    "x": 6154.9,
+    "y": 5220.9,
+    "z": 104.3,
+    "region": "Outer Rim",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

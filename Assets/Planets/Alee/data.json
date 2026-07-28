@@ -1,0 +1,43 @@
+{
+  "name": "Alee",
+  "wookieepedia_title": "Alee",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alee",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alee was a primarily agricultural world located in the Alee system, a part of Hutt Space in the Slice. It was situated on the Ilosian Spur hyperlane, which connected it to the Tal Nami system as well as the Boz Pity system in the Mid Rim.",
+  "lead_paragraphs": [
+    "Alee was a primarily agricultural world located in the Alee system, a part of Hutt Space in the Slice. It was situated on the Ilosian Spur hyperlane, which connected it to the Tal Nami system as well as the Boz Pity system in the Mid Rim.",
+    "Alee was the homeworld of the sentient Vippit species, members of which were already in the service of the Hutt species by 15,000 BBY. The planet was also home to a substantial population of Ilosians, natives of the nearby world Ilos who were mostly employed as agricultural workers and farmhands. Alee had extensive trade dealings with Mid Rim star systems.",
+    "At some point between 25 ABY and 26 ABY, the Alee system was attacked by the military forces of the extra-galactic Yuuzhan Vong during their conquest of the galaxy, and the star system was held under the control of those invaders until at least 27 ABY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Alee",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "system": "Alee system",
+    "coordinates": "R-9",
+    "routes": "Ilosian Spur",
+    "class": "Terrestrial",
+    "species": "Vippit",
+    "otherspecies": "Ilosians"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vippit",
+      "directory": "Vippit",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alee",
+    "x": 10265.7,
+    "y": 418.1,
+    "z": -104.4,
+    "region": "Hutt Space",
+    "grid": "R-9"
+  },
+  "scraped": "2026-07-03"
+}

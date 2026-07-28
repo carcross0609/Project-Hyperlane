@@ -1,0 +1,62 @@
+{
+  "name": "Kirtarkin",
+  "wookieepedia_title": "Kirtarkin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kirtarkin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kirtarkin was a smoky world of pollution and machinery that traditionally served as the customs checkpoint for the Twin Nebulae sectors in the Greater Javin region of the Outer Rim Territories. Located along the Corellian Trade Spine in the Anoat sector, Kirtarkin collected billions in revenue annually from import/export taxes. During the Galactic Empire's rule, the Imperial Star Destroyer Desolator staged from Kirtarkin while patrolling the Greater Javin.",
+  "lead_paragraphs": [
+    "Kirtarkin was a smoky world of pollution and machinery that traditionally served as the customs checkpoint for the Twin Nebulae sectors in the Greater Javin region of the Outer Rim Territories. Located along the Corellian Trade Spine in the Anoat sector, Kirtarkin collected billions in revenue annually from import/export taxes. During the Galactic Empire's rule, the Imperial Star Destroyer Desolator staged from Kirtarkin while patrolling the Greater Javin."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Kirtarkin",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Greater Javin",
+      "  Anoat sector"
+    ],
+    "system": "Kirtarkin system",
+    "coordinates": "K-18",
+    "routes": "Corellian Trade Spine",
+    "lengthday": "30 standard hours",
+    "lengthyear": "450 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Polluted urban",
+    "otherspecies": [
+      "Human",
+      "Lutrillian",
+      "Nothoiin",
+      "Mugaari"
+    ],
+    "government": "Appointed councils",
+    "population": "2 billion",
+    "imports": "Foodstuffs",
+    "exports": [
+      "Fuel",
+      "Technology"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kirtarkin",
+    "x": -1345.8,
+    "y": -12464.7,
+    "z": -121.7,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

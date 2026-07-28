@@ -1,0 +1,58 @@
+{
+  "name": "Trigalis",
+  "wookieepedia_title": "Trigalis/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trigalis/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Trigalis was a swamp-covered planet located within the Outer Rim Territories' Juris sector. Long before the Clone Wars, the trading post of New Coronet was founded on Trigalis, but over time the city degenerated into a busy center of various illegal activities.",
+  "lead_paragraphs": [
+    "Trigalis was a swamp-covered planet located within the Outer Rim Territories' Juris sector. Long before the Clone Wars, the trading post of New Coronet was founded on Trigalis, but over time the city degenerated into a busy center of various illegal activities.",
+    "In 19.48 BBY, the Jedi Master Aayla Secura was assigned a mission to Trigalis. A month later, the planet was also visited by Jedi General Obi-Wan Kenobi, who was investigating rumors of the survival of Asajj Ventress, a commander of the Confederacy of Independent Systems believed to have been previously killed. Evading groups of local thugs attempting to rob him, Kenobi rendezvoused with Secura, who led him to the fortress of Xist, a local Black Sun enforcer with ties to the Confederacy.",
+    "After nightfall, Kenobi attacked the fortress, causing several explosions and defeating many of the compound's guards. Finally, the Jedi engaged Xist himself in a vicious duel, demanding he surrender information on Ventress's whereabouts. Following his defeat, Xist intentionally provided Kenobi with a misleading tip, claiming that the Confederacy had sent a top agent to assassinate one of Xist's rivals at the world of Maramere. The following day, Kenobi left Trigalis in Secura's starfighter in order to recruit Jedi Knight Anakin Skywalker for assistance in preventing the planned assassination."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic shadowport",
+    "  Kenobi's mission",
+    "    Hunting for leads",
+    "    Tips and lies",
+    "  Under the Empire",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Trigalis",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Juris sector",
+    "system": "Trigalis system",
+    "coordinates": "P-17",
+    "routes": "Five Veils Route",
+    "class": "Terrestrial",
+    "terrain": "Swamps",
+    "interest": "Xist's fortress",
+    "flora": "Trees",
+    "fauna": [
+      "Bird",
+      "Winged insects"
+    ],
+    "otherspecies": "Several species",
+    "language": "Galactic Basic Standard",
+    "population": "10 million to 100 million (Trigalis system) (25 ABY)",
+    "cities": "New Coronet",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Trigalis",
+    "x": 6137.3,
+    "y": -11189.7,
+    "z": 91.3,
+    "region": "Outer Rim",
+    "grid": "P-17"
+  },
+  "scraped": "2026-07-03"
+}

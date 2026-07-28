@@ -1,0 +1,103 @@
+{
+  "name": "Chad",
+  "wookieepedia_title": "Chad/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chad/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The planet Chad (also known as Chadra or Chad III) was the homeworld of the Chadra-Fan race. It was in the Outer Rim Territories, more specifically in the Slice.",
+  "lead_paragraphs": [
+    "The planet Chad (also known as Chadra or Chad III) was the homeworld of the Chadra-Fan race. It was in the Outer Rim Territories, more specifically in the Slice."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Chad",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Jospro sector",
+    "system": "Chad system",
+    "coordinates": "R-7",
+    "suns": "1: Chad",
+    "position": "Varied between 3 and 4",
+    "moons": [
+      "9",
+      "Bafwizzy"
+    ],
+    "lengthday": "20 standard hours",
+    "lengthyear": "380 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot (Average of 89 standard degrees)",
+    "gravity": "Standard",
+    "terrain": [
+      "Wetlands",
+      "Mountains",
+      "Bayous",
+      "Marshes",
+      "Bogs"
+    ],
+    "water": [
+      "75%",
+      "Oceans"
+    ],
+    "interest": "Chadra-Fan Hospital",
+    "flora": "Cyperill tree",
+    "fauna": [
+      "Bildog",
+      "Cy'een",
+      "Eloag",
+      "Lactil",
+      "Methnap",
+      "Proop",
+      "Sea cow",
+      "Tubular eel",
+      "Tsaelke",
+      "Treem",
+      "Wander-kelp",
+      "Wystoh"
+    ],
+    "species": "Chadra-Fan",
+    "otherspecies": "Human",
+    "government": [
+      "Anarchistic clans",
+      "Local ranches"
+    ],
+    "population": [
+      "20 million Chadra-Fan",
+      "15,000 Humans"
+    ],
+    "demonym": "Chadean",
+    "imports": "Homestead supplies",
+    "exports": [
+      "Bildog and proop meat",
+      "Unusual mechanisms",
+      "Milk"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Chadra-Fan",
+      "directory": "Chadra-Fan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Chad",
+    "x": 10065.1,
+    "y": 3958.7,
+    "z": 408.3,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

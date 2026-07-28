@@ -1,0 +1,58 @@
+{
+  "name": "Mirial",
+  "wookieepedia_title": "Mirial/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mirial/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mirial was a cold, dry planet located near the Hydian Way. It was the homeworld of the Mirialans, including Luminara Unduli.",
+  "lead_paragraphs": [
+    "Mirial was a cold, dry planet located near the Hydian Way. It was the homeworld of the Mirialans, including Luminara Unduli."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Mirial",
+    "region": "Outer Rim Territories, Tingel Arm",
+    "sector": "Illisurevimurasi sector",
+    "system": "Mirial system",
+    "coordinates": "Q-4",
+    "routes": "Listehol Run",
+    "class": "Terrestrial",
+    "climate": "Cold",
+    "terrain": "Deserts",
+    "species": "Mirialans",
+    "language": "Mirialan",
+    "population": "100 million to 500 million (c. 25 ABY)",
+    "cities": "Unknown underground city",
+    "affiliation": [
+      "Galactic Republic",
+      "Darth Revan's Sith Empire",
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mirialan",
+      "directory": "Mirialan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Mirialan",
+      "directory": "Mirialan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mirial",
+    "x": 8164.8,
+    "y": 8474.3,
+    "z": 284.4,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

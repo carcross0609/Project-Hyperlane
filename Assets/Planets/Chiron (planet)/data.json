@@ -1,0 +1,39 @@
+{
+  "name": "Chiron",
+  "wookieepedia_title": "Chiron (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chiron_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Chiron was a planet located in the Chiron system, in the large sector known as the Ash Worlds. It was the homeworld of a sentient species, the Chironians.",
+  "lead_paragraphs": [
+    "Chiron was a planet located in the Chiron system, in the large sector known as the Ash Worlds. It was the homeworld of a sentient species, the Chironians.",
+    "One Chironian, Lusa, joined Luke Skywalker's New Jedi Order and became a Jedi Knight. Shortly before the Yuuzhan Vong conquest of Coruscant, Lusa was killed on Chiron by a voxyn."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Chiron",
+    "region": "Outer Rim Territories",
+    "sector": "Ash Worlds",
+    "system": "Chiron system",
+    "coordinates": "T-7",
+    "terrain": "Grassy plains",
+    "species": "Chironians (indigenous)",
+    "language": "Basic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chironian",
+      "directory": "Chironian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Chiron",
+    "x": 13416.1,
+    "y": 3942.2,
+    "z": -43.4,
+    "region": "Outer Rim",
+    "grid": "T-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Shawken",
+  "wookieepedia_title": "Shawken",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shawken",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shawken was a planet in the Core Worlds that boasted one of the most ancient known civilizations in the galaxy, dating back to the Pre-Republic era. The Shawkenese were noted for their studies of science, technology and philosophy, and over the course of several millennia created achievements such as the low orbit-piercing Shawken Spire—one of the Twenty Wonders of the Galaxy—and the universe-destroying Shawken Device. In 4 ABY, after the withdrawal of Imperial forces from Shawken, the world became an early member of the new Alliance of Free Planets.",
+  "lead_paragraphs": [
+    "Shawken was a planet in the Core Worlds that boasted one of the most ancient known civilizations in the galaxy, dating back to the Pre-Republic era. The Shawkenese were noted for their studies of science, technology and philosophy, and over the course of several millennia created achievements such as the low orbit-piercing Shawken Spire—one of the Twenty Wonders of the Galaxy—and the universe-destroying Shawken Device. In 4 ABY, after the withdrawal of Imperial forces from Shawken, the world became an early member of the new Alliance of Free Planets."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Shawken",
+    "region": [
+      "Core Worlds",
+      "Northern Dependencies"
+    ],
+    "system": "Shawken system",
+    "coordinates": "L-9",
+    "routes": "Shawken Spur",
+    "class": "Terrestrial",
+    "interest": [
+      "Shawken Spire",
+      "Shawken Device",
+      "Catacombs"
+    ],
+    "species": "Shawkenese",
+    "language": "Basic",
+    "government": "Monarchy",
+    "demonym": "Shawkenese",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance of Free Planets"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Shawken",
+    "x": 429.8,
+    "y": 674.3,
+    "z": -39.2,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

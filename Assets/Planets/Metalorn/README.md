@@ -1,0 +1,42 @@
+# Metalorn
+
+**Continuity:** Canon  
+**Source:** [Metalorn](https://starwars.fandom.com/wiki/Metalorn)
+**Galaxy atlas:** system `Metalorn`, Mid Rim, grid R-8 — map position (9150.9, 2660.5, 149.0)
+
+Metalorn was a Mid Rim Territories planet that became a famed industrial world by the time of the High Republic Era. It was inhabited by immigrated Skakoans, such as Wat Tambor, the future foreman of the Techno Union merchant guild. A vital Techno Union world by the Clone Wars of 22 BBY to 19 BBY, Metalorn was under the control of the Separatist Alliance, which was supported by the resident Skakoans. The world saw engagements during the war, including one where leaked information led to the deaths of many Galactic Republic clone troopers. The Republic also attacked Metalorn as part of its Outer Rim Sieges.
+
+Following the Clone Wars, the Republic became the Galactic Empire, which enslaved Metalorn's Skakoan population as punishment for their prior Separatist sympathies, in return causing some of them to join the Rebel Alliance. Metalorn also went on to be a key industrial location for the Empire, and the Alliance considered it a potential target during the Galactic Civil War. By 5 ABY, the world was under New Republic control and produced probe droids for that government.
+
+## Planetary data
+
+- **Name:** Metalorn
+- **Region:**
+  - Mid Rim Territories
+  - The Slice
+  - Foundry of the Confederacy
+- **Sector:** Talcene sector
+- **System:** Metalorn system
+- **Coordinates:** R-8
+- **Class:** Terrestrial
+- **Interest:** Unreal City
+- **Otherspecies:** Skakoans
+- **Affiliation:**
+  - Techno Union
+  - Confederacy of Independent Systems
+  - Galactic Empire
+  - New Republic
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+- History
+-   Separatist ties
+-   Clone Wars engagements
+-   Imperial Era
+- Inhabitants
+- Locations
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

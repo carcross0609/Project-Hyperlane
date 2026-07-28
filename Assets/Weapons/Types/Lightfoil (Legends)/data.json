@@ -1,0 +1,26 @@
+{
+  "name": "Lightfoil",
+  "wookieepedia_title": "Lightfoil/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lightfoil/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Lightfoils were small and elegant energy swords based upon lightsaber design.",
+  "data": {
+    "name": "Lightfoil",
+    "type": "Lightsaber",
+    "creators": "Mecrosa Order/Sith",
+    "cost": [
+      "\"Archaic\" (original) lightfoil: 4,500 credits",
+      "\"Modern\" (copy) lightfoil: 2,500 credits"
+    ],
+    "size": "One-handed weapon",
+    "weight": "0.5 kg",
+    "affiliation": [
+      "Sith",
+      "  Mecrosa Order",
+      "Tapani sector nobles"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

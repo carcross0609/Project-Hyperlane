@@ -1,0 +1,48 @@
+{
+  "name": "Ventooine",
+  "wookieepedia_title": "Ventooine/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ventooine/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ventooine was a planet located within the Ventooine system of the Outer Rim Territories. It was ruled by the Satabs until their line was ended by Han Solo and the local Tieress, Chrysalla. The planet exported sansanna spice, crystals, and a mineral named Shadeshine.",
+  "lead_paragraphs": [
+    "Ventooine was a planet located within the Ventooine system of the Outer Rim Territories. It was ruled by the Satabs until their line was ended by Han Solo and the local Tieress, Chrysalla. The planet exported sansanna spice, crystals, and a mineral named Shadeshine."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ventooine",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Corva sector",
+    "system": "Ventooine system",
+    "coordinates": "P-3",
+    "class": "Terrestrial",
+    "terrain": [
+      "Mountains",
+      "Mesas"
+    ],
+    "interest": "Hall of Satabs",
+    "species": "Unidentified Ventooine species",
+    "language": "Galactic Basic Standard",
+    "population": "1 million to 10 million (c.25 ABY)",
+    "cities": "Goyoikin (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Ventooine species",
+      "directory": "Unidentified Ventooine species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ventooine",
+    "x": 7127.9,
+    "y": 9324.6,
+    "z": -169.4,
+    "region": "Outer Rim",
+    "grid": "P-3"
+  },
+  "scraped": "2026-07-03"
+}

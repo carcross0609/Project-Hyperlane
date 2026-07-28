@@ -1,0 +1,84 @@
+{
+  "name": "Cato Neimoidia",
+  "wookieepedia_title": "Cato Neimoidia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cato_Neimoidia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Cato Neimoidia was a planet in the Cato Neimoidia system, within the Quellor sector of the galaxy's Colonies. It was a purse world of the Neimoidians and capital of its own planetary government. Cato Neimoidia was also the headquarters of the Trade Federation, a wealthy megacorporation during the era of the Galactic Republic. Much of the world was covered in a persistent fog, while the bridge cities of Cato Neimoidia were suspended above the planet's acidic ocean surface on bridges anchored on massive giant rock arches, upon which thrived forests and grasslands.",
+  "lead_paragraphs": [
+    "Cato Neimoidia was a planet in the Cato Neimoidia system, within the Quellor sector of the galaxy's Colonies. It was a purse world of the Neimoidians and capital of its own planetary government. Cato Neimoidia was also the headquarters of the Trade Federation, a wealthy megacorporation during the era of the Galactic Republic. Much of the world was covered in a persistent fog, while the bridge cities of Cato Neimoidia were suspended above the planet's acidic ocean surface on bridges anchored on massive giant rock arches, upon which thrived forests and grasslands."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic Era",
+    "  Clone Wars",
+    "  Reign of the Galactic Empire",
+    "  New Republic Era",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Cato Neimoidia",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "Quellor sector",
+    "system": "Cato Neimoidia system",
+    "coordinates": "N-11",
+    "suns": "1: Neri",
+    "moons": "At least 2",
+    "routes": "Quellor Run",
+    "lengthday": "25 standard hours",
+    "lengthyear": "278 local days",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Acidic oceans",
+      "Canyons",
+      "Cliffs",
+      "Grasslands",
+      "Forests",
+      "Rock arches"
+    ],
+    "interest": [
+      "Bridge cities",
+      "Great Vaults of Cato Neimoidia",
+      "Reya's palace",
+      "University of Cato Neimoidia"
+    ],
+    "fauna": "Neimiodian kreehawk",
+    "otherspecies": "Neimoidian",
+    "language": "Pak-Pak",
+    "government": [
+      "Cato Neimoidian government",
+      "Protectorate (Imperial Era)"
+    ],
+    "cities": [
+      "Tarko-se",
+      "Zarra (capital)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Trade Federation",
+      "InterGalactic Banking Clan",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Neimoidian",
+      "directory": "Neimoidian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Cato Neimoidia",
+    "x": 3244.6,
+    "y": -2027.4,
+    "z": 13.4,
+    "region": "Colonies",
+    "grid": "N-11"
+  },
+  "scraped": "2026-07-03"
+}

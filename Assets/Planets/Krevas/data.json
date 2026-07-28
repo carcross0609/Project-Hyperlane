@@ -1,0 +1,43 @@
+{
+  "name": "Krevas",
+  "wookieepedia_title": "Krevas",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krevas",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Krevas was a swampy planet in the Outer Rim and the homeworld of the Krevaaki.",
+  "lead_paragraphs": [
+    "Krevas was a swampy planet in the Outer Rim and the homeworld of the Krevaaki."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Krevas",
+    "region": "Outer Rim Territories",
+    "sector": "Antemeridian sector",
+    "system": "Krevas system",
+    "coordinates": "R-7",
+    "class": "Terrestrial",
+    "terrain": [
+      "Oceans",
+      "Swamps"
+    ],
+    "species": "Krevaaki",
+    "language": "Kreva",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Krevaaki",
+      "directory": "Krevaaki",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Krevas",
+    "x": -550.0,
+    "y": 7021.9,
+    "z": 233.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

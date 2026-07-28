@@ -1,0 +1,58 @@
+{
+  "name": "Iakar",
+  "wookieepedia_title": "Iakar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iakar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Iakar, also known as Iakaru, was a jungle planet and the homeworld of the Iakaru species. It was located in the Iakar system in the Rseik sector of the Outer Rim Territories. During the Clone Wars companies such as the Chiewab, Fabreth Medical, and Merisee Prime set up research installations on the planet which drove the Iakaru deeper into the jungle. When the Empire rose to power, it brought a full scale seizure and occupation of Iakar. The goal of the occupation was to get medical supplies for the Empire's expanding war machine. Six months before the Battle of Scarif, a Rebel Alliance Special Forces team stole medical supplies from Iakar.",
+  "lead_paragraphs": [
+    "Iakar, also known as Iakaru, was a jungle planet and the homeworld of the Iakaru species. It was located in the Iakar system in the Rseik sector of the Outer Rim Territories. During the Clone Wars companies such as the Chiewab, Fabreth Medical, and Merisee Prime set up research installations on the planet which drove the Iakaru deeper into the jungle. When the Empire rose to power, it brought a full scale seizure and occupation of Iakar. The goal of the occupation was to get medical supplies for the Empire's expanding war machine. Six months before the Battle of Scarif, a Rebel Alliance Special Forces team stole medical supplies from Iakar."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Iakar",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Rseik sector",
+    "system": "Iakar system",
+    "coordinates": "N-20",
+    "moons": "At least 1",
+    "atmosphere": "Breathable",
+    "terrain": "Jungle",
+    "interest": [
+      "Chiewab research installation",
+      "Fabreth Medical research installation",
+      "Merisee Prime research installation"
+    ],
+    "fauna": [
+      "Ambush spiders",
+      "Felines",
+      "Rodents"
+    ],
+    "species": "Iakaru",
+    "otherspecies": "Humans",
+    "language": "Iakari",
+    "exports": "Compounds for medical supplies",
+    "affiliation": "Galactic Empire (during occupation)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Iakaru",
+      "directory": "Iakaru",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Iakar",
+    "x": 7748.2,
+    "y": 5881.6,
+    "z": 21.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

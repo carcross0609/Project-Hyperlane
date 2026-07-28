@@ -1,0 +1,26 @@
+{
+  "name": "All-Terrain Exploration Droid",
+  "wookieepedia_title": "All-Terrain Exploration Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/All-Terrain_Exploration_Droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The All-Terrain Exploration Droid (AT-ED) was a model of exploration droid developed in collaboration between Cybot Galactica and Kuat Drive Yards, designed to assist in the exploration and surveying of newly discovered planets.",
+  "data": {
+    "name": "All-Terrain Exploration Droid",
+    "manufacturer": [
+      "Cybot Galactica",
+      "Kuat Drive Yards"
+    ],
+    "line": "AT-series",
+    "class": "Explorer droid",
+    "degree": "Class two droid",
+    "cost": "8,900 credits",
+    "height": "2.5 meters",
+    "sensor": "Red",
+    "plating": "Gray",
+    "armament": "Forward-mounted blaster",
+    "equipment": "Fabritech \"Surveyor\" mapping-and-surveying suite"
+  },
+  "scraped": "2026-07-03"
+}

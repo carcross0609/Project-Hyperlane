@@ -1,0 +1,43 @@
+{
+  "name": "AAL-1971/9.1 Troop Transport",
+  "wookieepedia_title": "AAL-1971/9.1 Troop Transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/AAL-1971/9.1_Troop_Transport",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The AAL-1971/9.1 Troop Transport, also known as an Atmospheric Assault Lander (AAL), First Order Transporter, or First Order shuttle was an armored troop carrier operated by the First Order designed to ferry up to twenty stormtroopers from orbital vessels to planetary surfaces.",
+  "data": {
+    "name": "AAL-1971/9.1 Troop Transport",
+    "manufacturer": "Sienar-Jaemus Army Systems",
+    "model": "AAL-1971/9.1",
+    "type": "Troop transport",
+    "length": "17.83 meters",
+    "height": "3.72 meters",
+    "mass": "Equipped",
+    "max_speed": "900 kph",
+    "engine": "4 SJAS-210 sublight ion engines",
+    "hdsystem": "Equipped",
+    "shield_gen": "Deflector shield",
+    "hull": "Xerradin IonOre",
+    "sensor": "Terrain sensors",
+    "armament": "1 F-Z0 antipersonnel blaster cannon",
+    "complement": "2 125-Z treadspeeder bikes",
+    "crew": [
+      "1 pilot",
+      "1 gunner"
+    ],
+    "passengers": "20 stormtroopers (two squads)",
+    "role": [
+      "Troop carrier",
+      "Prisoner transport",
+      "Shuttle"
+    ],
+    "affiliation": [
+      "First Order",
+      "  First Order Navy",
+      "Resistance (stolen)",
+      "  Resistance navy",
+      "  Team Colossus (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

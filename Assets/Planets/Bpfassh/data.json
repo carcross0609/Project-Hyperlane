@@ -1,0 +1,69 @@
+{
+  "name": "Bpfassh",
+  "wookieepedia_title": "Bpfassh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bpfassh",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bpfassh was an arid double planet in the Sluis sector orbited by a complicated system of moons, located near Praesitlyn and Sluis Van. It was the homeworld of the Bpfasshi.",
+  "lead_paragraphs": [
+    "Bpfassh was an arid double planet in the Sluis sector orbited by a complicated system of moons, located near Praesitlyn and Sluis Van. It was the homeworld of the Bpfasshi."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Bpfassh",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Sluis sector",
+    "system": "Bpfassh system",
+    "coordinates": "M-19",
+    "suns": "1: Bpfassh",
+    "moons": "More than 3",
+    "routes": "Rimma Trade Route",
+    "lengthday": "Variable due to double planet",
+    "class": "Double planet",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Barren desert",
+    "water": "Dry",
+    "species": "Bpfasshi (Near-Human)",
+    "government": "Representative council (New Republic administration)",
+    "population": "50 million",
+    "demonym": "Bpfasshi",
+    "imports": [
+      "High technology",
+      "Mid technology"
+    ],
+    "exports": [
+      "Metals",
+      "Natural resources"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Bpfasshi",
+      "directory": "Bpfasshi (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bpfassh",
+    "x": 2076.0,
+    "y": -13889.9,
+    "z": -402.5,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

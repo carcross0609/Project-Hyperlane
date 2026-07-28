@@ -1,0 +1,32 @@
+{
+  "name": "DF.9 anti-infantry battery",
+  "wookieepedia_title": "DF.9 anti-infantry battery",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DF.9_anti-infantry_battery",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DF.9 anti-infantry battery, also known as the DF.9 turret placement, DF9 Turret, or simply the DF.9 was a model of stationary anti-infantry laser cannon emplacement manufactured by Golan Arms.",
+  "data": {
+    "name": "DF.9 anti-infantry battery",
+    "manufacturer": "Golan Arms",
+    "model": "DF.9",
+    "type": "Anti-infantry battery",
+    "created": "During the Clone Wars",
+    "cost": "7,000-15,000 credits",
+    "height": "4 meters",
+    "protection": "Durasteel armored",
+    "crew": "3",
+    "range": [
+      "20-66 meters (close range)",
+      "601-3,000 meters (medium range)",
+      "3,001-16,000 meters (long range)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

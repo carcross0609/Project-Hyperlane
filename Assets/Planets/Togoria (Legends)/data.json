@@ -1,0 +1,85 @@
+{
+  "name": "Togoria",
+  "wookieepedia_title": "Togoria/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Togoria/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Togoria was a planet in the Mid Rim and the homeworld of the Togorians.",
+  "lead_paragraphs": [
+    "Togoria was a planet in the Mid Rim and the homeworld of the Togorians."
+  ],
+  "article_sections": [
+    "Geography",
+    "History",
+    "  Galactic Civil War",
+    "  Yuuzhan Vong War"
+  ],
+  "data": {
+    "name": "Togoria",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region"
+    ],
+    "sector": "Taldot sector",
+    "system": "Thanos system",
+    "coordinates": "P-9",
+    "suns": "1: Thanos",
+    "moons": "2",
+    "routes": "Lesser Lantillian Route",
+    "terrain": [
+      "Savannahs",
+      "Dense forests",
+      "Great canyons",
+      "Swamps"
+    ],
+    "interest": [
+      "Mud Worg River",
+      "Swamp of Vapors"
+    ],
+    "fauna": [
+      "Bist",
+      "Etelo",
+      "Foora",
+      "Liphon",
+      "Mosgoth",
+      "Mud worg",
+      "Tyrannosaur"
+    ],
+    "species": "Togorian",
+    "otherspecies": "Fire bush",
+    "language": "Togorian",
+    "government": "Hereditary office",
+    "cities": "Caross (capital)",
+    "exports": "Togorian scimitars",
+    "affiliation": [
+      "Mandalorians",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Greater Maldrood",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Shaper",
+      "directory": "Shaper (creature)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Togorian",
+      "directory": "Togorian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Togoria",
+    "x": 7102.0,
+    "y": 1094.4,
+    "z": 85.7,
+    "region": "Mid Rim",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

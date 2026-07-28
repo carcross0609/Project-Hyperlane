@@ -1,0 +1,49 @@
+{
+  "name": "Triffis",
+  "wookieepedia_title": "Triffis/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Triffis/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Triffis was a planet located within the Triffis system of the Mid Rim, along the Duros Space Run It was the homeworld of the Triffians, including Podracer pilot Ebe E. Endocott and Senator Eelen Li.",
+  "lead_paragraphs": [
+    "Triffis was a planet located within the Triffis system of the Mid Rim, along the Duros Space Run It was the homeworld of the Triffians, including Podracer pilot Ebe E. Endocott and Senator Eelen Li."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Triffis",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Hevvrol sector",
+    "system": "Triffis system",
+    "coordinates": "O-15",
+    "routes": "Duros Space Run",
+    "interest": "Unidentified Triffian museum",
+    "species": "Triffians",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Triffian",
+      "directory": "Triffian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Triffian",
+      "directory": "Triffian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Triffis",
+    "x": 5752.8,
+    "y": -8352.2,
+    "z": -243.0,
+    "region": "Mid Rim",
+    "grid": "O-15"
+  },
+  "scraped": "2026-07-03"
+}

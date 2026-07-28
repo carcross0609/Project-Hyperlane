@@ -1,0 +1,48 @@
+{
+  "asset": "Concord",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Space Battleship Yamato 2205",
+      "url": "https://sketchfab.com/3d-models/none-526cf6c315dd4056848f1431140d1965",
+      "uid": "526cf6c315dd4056848f1431140d1965",
+      "author": "DJ-CheeF",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 96,
+      "thumbnail": "https://media.sketchfab.com/models/526cf6c315dd4056848f1431140d1965/thumbnails/108d164c9f714c3b861d63bfbd7dcb1d/58d4ee52c5174930bb64389d6fd13b5e.jpeg"
+    },
+    {
+      "name": "Lucrehulk-class Battleship (Unfinished/WIP)",
+      "url": "https://sketchfab.com/3d-models/none-39bbd96e87ea47f68b80d4336259137d",
+      "uid": "39bbd96e87ea47f68b80d4336259137d",
+      "author": "DrEgguin",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 48,
+      "thumbnail": "https://media.sketchfab.com/models/39bbd96e87ea47f68b80d4336259137d/thumbnails/bdb6cf88840f41c5911467697b06d171/687ea83a8d634a679c593eb36a405460.jpeg"
+    },
+    {
+      "name": "Keldabe-class Battleship [Star Wars] ZEO",
+      "url": "https://sketchfab.com/3d-models/none-dd4376b8aa9f485ebd4e22a560adaf5d",
+      "uid": "dd4376b8aa9f485ebd4e22a560adaf5d",
+      "author": "ZEO CMF",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 38,
+      "thumbnail": "https://media.sketchfab.com/models/dd4376b8aa9f485ebd4e22a560adaf5d/thumbnails/5b08b5917e674a7d98e62db6607b6e93/6c2ca4cbcc9b4ab8a909c06a2fafc104.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Battleship"
+}

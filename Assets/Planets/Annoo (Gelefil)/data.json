@@ -1,0 +1,53 @@
+{
+  "name": "Annoo; Gelefil",
+  "wookieepedia_title": "Annoo (Gelefil)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Annoo_%28Gelefil%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The planet originally known as Gelefil was an agricultural world between Ingo and Ko Vari. It was one of seven inhabited planets out of a total of fourteen in the Annoo system of the Tharin sector of the Outer Rim Territories. The main hyperspace route to the planet was the Nimat Corridor which passed through the system. It was inhabited by the peaceful, long-lived Ret. The planet was later renamed Annoo after it was conquered by the Annoo-dat.",
+  "lead_paragraphs": [
+    "The planet originally known as Gelefil was an agricultural world between Ingo and Ko Vari. It was one of seven inhabited planets out of a total of fourteen in the Annoo system of the Tharin sector of the Outer Rim Territories. The main hyperspace route to the planet was the Nimat Corridor which passed through the system. It was inhabited by the peaceful, long-lived Ret. The planet was later renamed Annoo after it was conquered by the Annoo-dat."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Annoo; Gelefil",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tharin sector",
+    "system": "Annoo system",
+    "coordinates": "S-8",
+    "class": "Terrestrial",
+    "terrain": "Fields, Industrial",
+    "fauna": "Sand sloth",
+    "species": "Ret",
+    "otherspecies": [
+      "Annoo-dat Prime",
+      "Humans"
+    ],
+    "language": "Dat-an; previously: Tra'ang'a",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Annoo-dat Prime",
+      "directory": "Annoo-dat Prime",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Annoo",
+    "x": 10954.4,
+    "y": 1726.4,
+    "z": 404.8,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

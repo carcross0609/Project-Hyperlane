@@ -1,0 +1,26 @@
+{
+  "name": "Juro's lightsaber",
+  "wookieepedia_title": "Juro's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Juro%27s_lightsaber",
+  "continuity": null,
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "A lightsaber was created by the sabersmith Lah Zhima and was delivered to the Hy Izlan Aerial Temple by his daughter Lah Kara, where it was taken by Hanbei, an acolyte of the Sith posing as a masterless Jedi. When Hanbei tried to kill Margrave Juro with the lightsaber, Juro took the lightsaber and used it to kill Hanbei. The lightsaber's kyber crystal was tempered so that its color would reflect the user's connection to the Force. Its blade was red while wielded by Hanbei, but it turned green while Juro used it.",
+  "data": {
+    "name": "Juro's lightsaber",
+    "model": "Lightsaber",
+    "creator": "Lah Zhima",
+    "owners": [
+      "Hanbei",
+      "Juro"
+    ],
+    "crystal": "Kyber crystal",
+    "color": [
+      "Red",
+      "Green"
+    ],
+    "mods": "Tempered kyber crystal",
+    "purpose": "Lightsaber combat"
+  },
+  "scraped": "2026-07-03"
+}

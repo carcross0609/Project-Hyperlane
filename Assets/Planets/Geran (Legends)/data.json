@@ -1,0 +1,44 @@
+{
+  "name": "Geran",
+  "wookieepedia_title": "Geran/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Geran/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Geran was a planet located in the Calaron sector of the Outer Rim.",
+  "lead_paragraphs": [
+    "Geran was a planet located in the Calaron sector of the Outer Rim."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Geran",
+    "region": "Outer Rim Territories",
+    "sector": "Calaron sector",
+    "system": "Mneon system",
+    "coordinates": "T-9",
+    "fauna": "Shell-bats",
+    "species": "Geranite"
+  },
+  "homeworld_of": [
+    {
+      "name": "Geranite",
+      "directory": "Geranite",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Geranite",
+      "directory": "Geranite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Geran",
+    "x": 6162.7,
+    "y": -13480.8,
+    "z": 0.5,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Gree",
+  "wookieepedia_title": "Gree/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gree/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gree was a planet located within the Gree Enclave, a small region in the Veragi sector of the Outer Rim Territories. It was the homeworld of the Gree species, a race of six-tentacled cephalopods who, despite having an advanced form of technology, allowed their society to fall into ruin when they began prizing an individual's mastery of their advanced devices over improving them or creating new ones. As the Operator caste became more powerful within Gree society, they guarded the secrets of operating and manipulating their devices, sometimes dying before they could pass the knowledge on to their apprentices.",
+  "lead_paragraphs": [
+    "Gree was a planet located within the Gree Enclave, a small region in the Veragi sector of the Outer Rim Territories. It was the homeworld of the Gree species, a race of six-tentacled cephalopods who, despite having an advanced form of technology, allowed their society to fall into ruin when they began prizing an individual's mastery of their advanced devices over improving them or creating new ones. As the Operator caste became more powerful within Gree society, they guarded the secrets of operating and manipulating their devices, sometimes dying before they could pass the knowledge on to their apprentices.",
+    "Gree served as the capital of the Enclave and was considered to be the cultural center of Gree society, revered by all members of the species as a sacred place. By the time of the Galactic Empire, Gree had fallen into ruin following the near-collapse of Gree society. Only one major city remained, and the rest of the planet was a virtual wasteland covered in barren plains and abandoned ruins. Little was known of the planet to other species; the Gree restricted visitors to the world, with individuals only being permitted onto the world at the behest of the planetary grand council."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Gree",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Veragi sector",
+      "  Gree Enclave"
+    ],
+    "system": "Gree system",
+    "coordinates": "L-2",
+    "lengthday": "27 standard hours",
+    "lengthyear": "360 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Wasteland",
+    "species": "Gree",
+    "population": "60 million",
+    "cities": "Capital city"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gree",
+      "directory": "Gree (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gree",
+    "x": 84.3,
+    "y": 10641.4,
+    "z": 226.9,
+    "region": "Outer Rim",
+    "grid": "L-2"
+  },
+  "scraped": "2026-07-03"
+}

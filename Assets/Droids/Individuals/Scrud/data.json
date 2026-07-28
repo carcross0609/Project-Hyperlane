@@ -1,0 +1,26 @@
+{
+  "name": "Scrud",
+  "wookieepedia_title": "Scrud",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scrud",
+  "continuity": null,
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Scrud was an Espionage droid that worked for GalactiCore.",
+  "data": {
+    "name": "Scrud",
+    "manufacturer": "MerenData",
+    "model": "RM-2020 espionage droid",
+    "cost": "160,000 credits (new), 100,000 credits (Used, Black Market)",
+    "height": "1.0 meters",
+    "pronouns": "new",
+    "equipment": [
+      "Espionage hardwired module",
+      "Information recording/coded broadcast system",
+      "Repulsorlift engine",
+      "Ultraviolet, Infrared and analysis sensors",
+      "Visual/Audio sensor package (Human Range)",
+      "Vocabulator speech/sound package"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

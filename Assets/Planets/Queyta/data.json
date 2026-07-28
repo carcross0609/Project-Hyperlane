@@ -1,0 +1,40 @@
+{
+  "name": "Queyta",
+  "wookieepedia_title": "Queyta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Queyta",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Queyta was a planet in the Outer Rim's Danjar sector.",
+  "lead_paragraphs": [
+    "Queyta was a planet in the Outer Rim's Danjar sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Queyta",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Danjar sector",
+    "system": "Queyta system",
+    "coordinates": "M-19",
+    "terrain": "Volcanoes",
+    "otherspecies": "Skakoan",
+    "affiliation": [
+      "Techno Union",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Queyta",
+    "x": 2696.9,
+    "y": -13916.5,
+    "z": -77.1,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Gravlex Med",
+  "wookieepedia_title": "Gravlex Med",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gravlex_Med",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Gravlex Med was a mountainous high gravity planet located in the galaxy's Outer Rim Territories that was the homeworld of the Anx species. As a result of the planet's high gravity, it was dotted by the numerous Gravlex Launchworks—enormous high-velocity cannons that were originally used to fire starships on trajectories to other planets. After the Anx adopted hyperdrive technology, they converted the Launchworks into garbage disposal facilities instead. The Anx species originated from the extensive cave system that spread throughout the planet's crust, though the majority of the species eventually migrated above the surface to cities such as the capital Ozlyn Gox.",
+  "lead_paragraphs": [
+    "Gravlex Med was a mountainous high gravity planet located in the galaxy's Outer Rim Territories that was the homeworld of the Anx species. As a result of the planet's high gravity, it was dotted by the numerous Gravlex Launchworks—enormous high-velocity cannons that were originally used to fire starships on trajectories to other planets. After the Anx adopted hyperdrive technology, they converted the Launchworks into garbage disposal facilities instead. The Anx species originated from the extensive cave system that spread throughout the planet's crust, though the majority of the species eventually migrated above the surface to cities such as the capital Ozlyn Gox."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gravlex Med",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Raioballo sector",
+    "system": "Gravlex Med system",
+    "coordinates": "L-4",
+    "class": "Terrestrial",
+    "gravity": "High",
+    "terrain": [
+      "Mountains",
+      "Savannahs",
+      "Caves",
+      "Polluted wastelands"
+    ],
+    "interest": "Gravlex Launchworks",
+    "flora": "Chiliox tree",
+    "species": "Anx",
+    "language": "Anx language",
+    "cities": "Ozlyn Gox (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Anx",
+      "directory": "Anx",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Anx",
+      "directory": "Anx (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gravlex Med",
+    "x": 1021.2,
+    "y": 8417.8,
+    "z": 198.1,
+    "region": "Outer Rim",
+    "grid": "L-4"
+  },
+  "scraped": "2026-07-03"
+}

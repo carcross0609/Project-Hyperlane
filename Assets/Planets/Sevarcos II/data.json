@@ -1,0 +1,82 @@
+{
+  "name": "Sevarcos II",
+  "wookieepedia_title": "Sevarcos II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sevarcos_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sevarcos II was the only inhabitable planet in the Sevarcos system. Sevarcos was the only source for the spice variants carsunum and andris, which were its only export. In 52 BBY, Jedi Master Dooku negotiated the Sevarcos Dispute, which would have great consequences for the history of the galaxy, and ultimately for the rise of the Galactic Empire.",
+  "lead_paragraphs": [
+    "Sevarcos II was the only inhabitable planet in the Sevarcos system. Sevarcos was the only source for the spice variants carsunum and andris, which were its only export. In 52 BBY, Jedi Master Dooku negotiated the Sevarcos Dispute, which would have great consequences for the history of the galaxy, and ultimately for the rise of the Galactic Empire."
+  ],
+  "article_sections": [
+    "Climate and nature",
+    "History",
+    "  Imperial presence",
+    "Spice",
+    "  Catching the wind",
+    "  The spice mines of Sevarcos",
+    "  Spice smuggling"
+  ],
+  "data": {
+    "name": "Sevarcos II",
+    "region": "Outer Rim Territories",
+    "sector": "Tamarin sector",
+    "system": "Sevarcos system",
+    "coordinates": "N-19",
+    "suns": "1: Lumea",
+    "routes": "Sanrafsix Corridor",
+    "lengthday": "26 standard hours",
+    "lengthyear": "378 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "terrain": [
+      "Mountains",
+      "Plains",
+      "Deserts",
+      "Subterranean tunnels and water networks"
+    ],
+    "water": "Arid",
+    "interest": [
+      "Northern Frontier",
+      "Equatorial Belt",
+      "Southern Deserts",
+      "Arrandle Mountains",
+      "Trekali Mountains",
+      "Desert of Kariste",
+      "Arienne Desert"
+    ],
+    "fauna": [
+      "Sevarcosan prickle pig",
+      "Spice worm"
+    ],
+    "otherspecies": [
+      "Human",
+      "Various species in the spice mining population"
+    ],
+    "language": "Galactic Basic Standard",
+    "population": "1 million (excluding mining population and Imperial personnel)",
+    "demonym": "Sevari",
+    "cities": [
+      "2 Imperial class starports",
+      "4 civilian starports"
+    ],
+    "imports": "Low technology",
+    "exports": "Andris and carsunum spice",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Sevarcos II",
+    "x": 3440.2,
+    "y": -13765.3,
+    "z": -267.9,
+    "region": "Outer Rim",
+    "grid": "N-19"
+  },
+  "scraped": "2026-07-03"
+}

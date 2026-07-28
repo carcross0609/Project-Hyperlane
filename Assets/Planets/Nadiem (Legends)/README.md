@@ -1,0 +1,52 @@
+# Nadiem
+
+**Continuity:** Legends  
+**Source:** [Nadiem/Legends](https://starwars.fandom.com/wiki/Nadiem/Legends)
+**Galaxy atlas:** system `Nadiem`, Outer Rim, grid U-11 — map position (14130.5, -2752.6, 665.9)
+
+Nadiem was an Outer Rim Territories planet located in the Baxel sector. It was home to a population of farmers, including both Humans and members of other species. During the Clone Wars, it had little to offer either the Galactic Republic or the Confederacy of Independent Systems, yet the latter nevertheless launched an attack on it due to the former choosing to defend it. The Republic carried out evacuations of the planet's settlements, during which the local Crys Taanzer gave up her son Kennan for training as a Jedi, which allowed him to be granted priority evacuation off Nadiem.
+
+The Confederacy's General Grievous sent his droid army to attack a main settlement; however, it was defeated by a Republic force led by Jedi Luminara Unduli and Barriss Offee. On the far side of the planet, during Grievous's escape from Nadiem, he severely injured Jedi Master B'dard Tone and killed his Padawan Zephata'ru'tor. Years later, both Taanzer and Tone would recall their experiences on Nadiem in conversations with others. In 2 BBY, the smuggler Han Solo would also invoke Nadiem as part of a cover story told to a Galactic Empire border patrol for a starship smuggling operation he and his partner Chewbacca were carrying out.
+
+## Planetary data
+
+- **Name:** Nadiem
+- **Region:**
+  - Outer Rim Territories
+  - The Slice
+- **Sector:** Baxel sector
+- **System:** Nadiem system
+- **Coordinates:** U-11
+- **Class:** Terrestrial
+- **Terrain:** Mountains
+- **Water:** Present
+- **Interest:**
+  - Threadneedle Canyon
+  - A settlement
+  - A village
+- **Flora:**
+  - Grass
+  - Shrubs
+  - Trees
+- **Fauna:**
+  - A type of centipede
+  - A type of flying creature
+  - A type of lizard
+- **Otherspecies:**
+  - Humans
+  - Other species
+- **Language:** Galactic Basic Standard
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+- History
+-   A world caught in the middle
+-   Grievous's command
+-   After the war moved on
+- Inhabitants
+- Locations
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

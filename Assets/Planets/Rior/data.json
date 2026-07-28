@@ -1,0 +1,41 @@
+{
+  "name": "Rior",
+  "wookieepedia_title": "Rior",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rior",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rior was an Outer Rim Territories planet located in the Rior system of the Tamarin sector in grid N-18 of the Standard Galactic Grid. It was situated on a hyperspace route that connected it to the Kabal and Sevarcos systems. Rior was the homeworld of Loje Nella, a Riorian member of the court of the Hutt crime lord Jabba Desilijic Tiure.",
+  "lead_paragraphs": [
+    "Rior was an Outer Rim Territories planet located in the Rior system of the Tamarin sector in grid N-18 of the Standard Galactic Grid. It was situated on a hyperspace route that connected it to the Kabal and Sevarcos systems. Rior was the homeworld of Loje Nella, a Riorian member of the court of the Hutt crime lord Jabba Desilijic Tiure."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rior",
+    "region": "Outer Rim Territories",
+    "sector": "Tamarin sector",
+    "system": "Rior system",
+    "coordinates": "N-18",
+    "routes": "Sanrafsix–Cotellier hyperlane"
+  },
+  "homeworld_of": [
+    {
+      "name": "Riorian",
+      "directory": "Riorian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Riorian",
+      "directory": "Riorian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rior",
+    "x": 3245.4,
+    "y": -12765.4,
+    "z": -289.8,
+    "region": "Outer Rim",
+    "grid": "N-18"
+  },
+  "scraped": "2026-07-03"
+}

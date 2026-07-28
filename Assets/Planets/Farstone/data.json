@@ -1,0 +1,39 @@
+{
+  "name": "Farstone",
+  "wookieepedia_title": "Farstone",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Farstone",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Farstone was a world located in the Farstone system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. A hyperlane connected Farstone to the Umthyg system.",
+  "lead_paragraphs": [
+    "Farstone was a world located in the Farstone system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. A hyperlane connected Farstone to the Umthyg system.",
+    "Featuring soaring mountain ranges, Farstone was sparsely populated and was at one point a mining colony, but was eventually abandoned, although nominally remaining under the control of the aristocratic Ancient Houses of the Senex-Juvex. By 43 ABY, the world was mostly inhabited by fugitives, hermits, and sociopaths."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Farstone",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Juvex sector"
+    ],
+    "system": "Farstone system",
+    "coordinates": "K-18",
+    "class": "Terrestrial",
+    "terrain": "Mountain ranges",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Farstone",
+    "x": -13.9,
+    "y": -12240.6,
+    "z": -366.1,
+    "region": "Mid Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

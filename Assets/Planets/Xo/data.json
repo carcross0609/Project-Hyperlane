@@ -1,0 +1,49 @@
+{
+  "name": "Xo",
+  "wookieepedia_title": "Xo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xo",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Xo was a planet located within the Xo system in the Spinward sector of the Outer Rim Territories. It was the homeworld of the Zanibar species and the site of their sacrificial rituals.",
+  "lead_paragraphs": [
+    "Xo was a planet located within the Xo system in the Spinward sector of the Outer Rim Territories. It was the homeworld of the Zanibar species and the site of their sacrificial rituals."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Xo",
+    "region": "Outer Rim Territories",
+    "sector": "Spinward sector",
+    "system": "Xo system",
+    "coordinates": "N-2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Jungles",
+      "Mountains"
+    ],
+    "otherspecies": [
+      "Human (extinct)",
+      "Zanibar"
+    ],
+    "affiliation": "Infinite Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Zanibar",
+      "directory": "Zanibar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Xo",
+    "x": 3100.0,
+    "y": 10882.8,
+    "z": 152.7,
+    "region": "Outer Rim",
+    "grid": "N-2"
+  },
+  "scraped": "2026-07-03"
+}

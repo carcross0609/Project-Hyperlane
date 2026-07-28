@@ -1,0 +1,43 @@
+{
+  "name": "Torize",
+  "wookieepedia_title": "Torize",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Torize",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The planet Torize was located in the system of the same name on the Trition Trade Route in the Kathol sector of the Outer Rim Territories. A major trade and industrial hub, the planet was orbited by numerous space stations, and spaceports littered the surface. A naturally volcanic planet with high levels of activity, Torize's atmosphere was hazardous to most beings, and a breath mask was required. The atmosphere was worsened by an industrial accident in 5 ABY that released toxic pollutants into the air. In 8 ABY, the sector capital, Kal'Shebbol, was liberated by New Republic forces, forcing the local Imperial warlord, Moff Kentor Sarne, into retreat. The planet subsequently faced an internal power struggle between Imperial loyalists intent on holding the planet, and New Republic sympathizers who wished to overthrow them.",
+  "lead_paragraphs": [
+    "The planet Torize was located in the system of the same name on the Trition Trade Route in the Kathol sector of the Outer Rim Territories. A major trade and industrial hub, the planet was orbited by numerous space stations, and spaceports littered the surface. A naturally volcanic planet with high levels of activity, Torize's atmosphere was hazardous to most beings, and a breath mask was required. The atmosphere was worsened by an industrial accident in 5 ABY that released toxic pollutants into the air. In 8 ABY, the sector capital, Kal'Shebbol, was liberated by New Republic forces, forcing the local Imperial warlord, Moff Kentor Sarne, into retreat. The planet subsequently faced an internal power struggle between Imperial loyalists intent on holding the planet, and New Republic sympathizers who wished to overthrow them."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Torize",
+    "region": "Outer Rim Territories",
+    "sector": "Kathol sector",
+    "system": "Torize system",
+    "coordinates": "M-21",
+    "routes": "Trition Trade Route",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Volcanic",
+    "otherspecies": "Human",
+    "population": "1.5 billion",
+    "affiliation": [
+      "Galactic Empire",
+      "Moff Kentor Sarne"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Torize",
+    "x": 2337.2,
+    "y": -17069.3,
+    "z": -194.2,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

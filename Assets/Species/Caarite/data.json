@@ -1,0 +1,30 @@
+{
+  "name": "Caarite",
+  "wookieepedia_title": "Caarite",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Caarite",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Caarites were a sentient porcine species indigenous to the planet Caarimon.",
+  "data": {
+    "name": "Caarite",
+    "designation": "Sentient",
+    "class": "Mammalian",
+    "height": "1 meter",
+    "skincolor": "Pale pink",
+    "lifespan": [
+      "Child:1–10",
+      "Young adult: 11–15",
+      "Adult: 16–44",
+      "Middle age: 45–57",
+      "Old: 58–74",
+      "Venerable: 75+"
+    ],
+    "origin": "Caarimon",
+    "language": [
+      "Caarimala",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Caarimon"
+}

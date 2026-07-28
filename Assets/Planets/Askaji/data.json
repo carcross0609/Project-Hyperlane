@@ -1,0 +1,27 @@
+{
+  "name": "Askaji",
+  "wookieepedia_title": "Askaji",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Askaji",
+  "continuity": "Unknown",
+  "infobox_template": null,
+  "description": null,
+  "lead_paragraphs": [],
+  "article_sections": [],
+  "data": {},
+  "homeworld_of": [
+    {
+      "name": "Askajian",
+      "directory": "Askajian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Askaji",
+    "x": 1835.6,
+    "y": -15992.2,
+    "z": -144.4,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

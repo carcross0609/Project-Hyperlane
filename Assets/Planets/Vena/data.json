@@ -1,0 +1,41 @@
+{
+  "name": "Vena",
+  "wookieepedia_title": "Vena",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vena",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vena was a planet located within the Vena system of the Expansion Region and ruled by Baroness Omnino.",
+  "lead_paragraphs": [
+    "Vena was a planet located within the Vena system of the Expansion Region and ruled by Baroness Omnino."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vena",
+    "region": "Expansion Region",
+    "sector": "Nojic sector",
+    "system": "Vena system",
+    "coordinates": "P-9",
+    "routes": "Lesser Lantillian Route",
+    "atmosphere": "Type I (breathable)",
+    "species": "Venans",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Venan",
+      "directory": "Venan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vena",
+    "x": 6019.5,
+    "y": 874.8,
+    "z": 16.9,
+    "region": "Expansion Region",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

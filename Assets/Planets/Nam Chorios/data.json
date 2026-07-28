@@ -1,0 +1,46 @@
+{
+  "name": "Nam Chorios",
+  "wookieepedia_title": "Nam Chorios",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nam_Chorios",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Nam Chorios was a planet located in the galaxy's Outer Rim Territories that housed both an Imperial mining colony and prison facility by the fifth year of Darth Sidious' reign as Emperor. The primary star in its planetary system provided barely enough sunshine to illuminate Nam Chorios properly, conferring it a bleak appearance. For that reason, Nam Chorios was considered too cold and unwelcoming by human standards.",
+  "lead_paragraphs": [
+    "Nam Chorios was a planet located in the galaxy's Outer Rim Territories that housed both an Imperial mining colony and prison facility by the fifth year of Darth Sidious' reign as Emperor. The primary star in its planetary system provided barely enough sunshine to illuminate Nam Chorios properly, conferring it a bleak appearance. For that reason, Nam Chorios was considered too cold and unwelcoming by human standards."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nam Chorios",
+    "region": "Outer Rim Territories",
+    "sector": "Meridian sector",
+    "system": "Nam Chorios system",
+    "coordinates": "R-6",
+    "climate": "Cold",
+    "interest": [
+      "Nam Chorios Imperial mining colony",
+      "Nam Chorios Imperial prison facility"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Droch",
+      "directory": "Droch (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Tsil",
+      "directory": "Tsil",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nam Chorios",
+    "x": 9543.3,
+    "y": 4567.0,
+    "z": 191.2,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

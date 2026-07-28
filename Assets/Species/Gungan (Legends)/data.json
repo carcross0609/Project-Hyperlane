@@ -1,0 +1,44 @@
+{
+  "name": "Gungan",
+  "wookieepedia_title": "Gungan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gungan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Gungans were a sentient, amphibious humanoid race native to the terrestrial planet known as Naboo. Prior to the Invasion of Naboo, an event that took place in 32 BBY, the Gungans were a largely isolationist society. They were able to combine machinery with biology. They lived in large bubble-like domes under water. Gungans had strong leg muscles for swimming and were aided by their long fin-like ears. Their somewhat lanky arms ended in four-fingered hands, and their feet had three stubby toes each. Females tended to be slightly smaller with sleeker faces. They often tied their long ears back.",
+  "data": {
+    "name": "Gungan",
+    "designation": "Sentient",
+    "subspecies": [
+      "Ankura",
+      "Otolla"
+    ],
+    "height": "1.9 meters",
+    "mass": "75 kilograms",
+    "skincolor": [
+      "Brown",
+      "Green",
+      "Pink",
+      "White"
+    ],
+    "eyecolor": [
+      "Orange",
+      "Purple",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Extendable tongues",
+      "Long ears",
+      "Eye stalks",
+      "Three toes",
+      "Aquatic species"
+    ],
+    "lifespan": "Around 65 years",
+    "origin": "Naboo",
+    "language": [
+      "Old Gungan",
+      "Gungan Basic (later)"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Naboo (Legends)"
+}

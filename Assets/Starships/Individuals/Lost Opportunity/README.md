@@ -1,0 +1,11 @@
+# Lost Opportunity
+
+**Kind:** Individual ship  
+**Continuity:** Legends  
+**Source:** [Lost Opportunity](https://starwars.fandom.com/wiki/Lost_Opportunity)
+
+The Lost Opportunity was a starship that was used by the smuggler Vordell during the time of the Galactic Civil War. Among it's crew were the individuals Kollu and Trom, and along with Vordell, they were captured by the Imperial Customs corvette Auditor. The Auditor traveled to the moon Phinel's Folly, where it planned to recover a missing shipment of blaster rifles, and the Lost Opportunity was placed on the moon's surface, while it's crew remained in custody aboard the corvette.
+
+## Models
+
+Place 3D model assets for this ship in `Models/`.

@@ -1,0 +1,35 @@
+{
+  "name": "Zellone",
+  "wookieepedia_title": "Zellone",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zellone",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zellone was a gas giant in the Zel system.",
+  "lead_paragraphs": [
+    "Zellone was a gas giant in the Zel system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Zellone",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Zel system",
+    "coordinates": "O-10",
+    "suns": "1: Zel",
+    "position": "5",
+    "moons": "17",
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Zellone",
+    "x": 5741.2,
+    "y": -1148.4,
+    "z": -3.6,
+    "region": "Inner Rim",
+    "grid": "O-10"
+  },
+  "scraped": "2026-07-03"
+}

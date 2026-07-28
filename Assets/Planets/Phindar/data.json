@@ -1,0 +1,46 @@
+{
+  "name": "Phindar",
+  "wookieepedia_title": "Phindar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phindar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Phindar was a planet located in the Phindar system, part of the Demetras sector in the Outer Rim Territories. During the High Republic Era, Vaadu served as the planet's senator. The planet, which was home to the Phindian species, was attacked by the Confederacy of Independent Systems during the Clone Wars, and later became affiliated with the Galactic Empire. In orbit over the planet was a tanker facility. About five years after the Clone Wars, the facility was destroyed by a rebel group using the hijacked Imperial starship known as the Carrion Spike. The planet was later host to a battle during the Galactic Civil War.",
+  "lead_paragraphs": [
+    "Phindar was a planet located in the Phindar system, part of the Demetras sector in the Outer Rim Territories. During the High Republic Era, Vaadu served as the planet's senator. The planet, which was home to the Phindian species, was attacked by the Confederacy of Independent Systems during the Clone Wars, and later became affiliated with the Galactic Empire. In orbit over the planet was a tanker facility. About five years after the Clone Wars, the facility was destroyed by a rebel group using the hijacked Imperial starship known as the Carrion Spike. The planet was later host to a battle during the Galactic Civil War."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Phindar",
+    "region": "Outer Rim Territories",
+    "sector": "Demetras sector",
+    "system": "Phindar system",
+    "coordinates": "P-6",
+    "routes": "Salin Corridor",
+    "species": "Phindian",
+    "affiliation": [
+      "A criminal cartel",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Phindian",
+      "directory": "Phindian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Phindian",
+      "directory": "Phindian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Phindar",
+    "x": 6334.3,
+    "y": 4526.5,
+    "z": 366.8,
+    "region": "Outer Rim",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

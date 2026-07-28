@@ -1,0 +1,32 @@
+{
+  "name": "Needler",
+  "wookieepedia_title": "Needler/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Needler/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A needler was a type of pistol designed to penetrate personal energy shields by firing a sharp, tiny dart. The dart could also be laced with contact poison, delivering the poison to its targets. The NX-14 was a popular model.",
+  "data": {
+    "name": "Needler",
+    "manufacturer": "Golan Arms",
+    "type": "Dart-shooting pistol",
+    "locations": [
+      "Darkknell",
+      "  Xakrea",
+      "    Daimanate Dynamic Testing Facility"
+    ],
+    "cost": "650 credits",
+    "size": "Small",
+    "weight": "1 kilogram",
+    "capacity": "10 shots",
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 90 meters"
+    ],
+    "purpose": [
+      "To penetrate personal energy shields",
+      "To poison targets"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

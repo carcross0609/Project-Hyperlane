@@ -1,0 +1,50 @@
+{
+  "name": "Yaga Minor",
+  "wookieepedia_title": "Yaga Minor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yaga_Minor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Yaga Minor was an industrialized planet located in the Outer Rim Territories where shipyards were located. A base of the Ubiqtorate, the Galactic Empire's military intelligence branch, was also located at the planet.",
+  "lead_paragraphs": [
+    "Yaga Minor was an industrialized planet located in the Outer Rim Territories where shipyards were located. A base of the Ubiqtorate, the Galactic Empire's military intelligence branch, was also located at the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Yaga Minor",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Prefsbelt sector",
+    "system": "Yaga Minor system",
+    "coordinates": "K-5",
+    "routes": "Entralla Route",
+    "interest": [
+      "Yaga Minor shipyards",
+      "Yaga Minor Ubiqtorate Base"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Yaga",
+      "directory": "Yaga (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yaga Minor",
+    "x": -1441.0,
+    "y": 7194.2,
+    "z": 39.8,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

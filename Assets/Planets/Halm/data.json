@@ -1,0 +1,60 @@
+{
+  "name": "Halm",
+  "wookieepedia_title": "Halm",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Halm",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Halm was an arid desert world in the Mid Rim, famous for its extensive mines. These mines contained rare Adegan crystals, which were used in the construction of lightsabers.",
+  "lead_paragraphs": [
+    "Halm was an arid desert world in the Mid Rim, famous for its extensive mines. These mines contained rare Adegan crystals, which were used in the construction of lightsabers."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Halm",
+    "region": "Mid Rim",
+    "sector": "Halm sector",
+    "system": "Halm system",
+    "coordinates": "J-16",
+    "routes": "Great Gran Run",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Deserts",
+      "Oases"
+    ],
+    "water": "Present (Oases)",
+    "interest": "Mines",
+    "fauna": [
+      "Pincerless scorpion",
+      "Snakes"
+    ],
+    "otherspecies": [
+      "Gran",
+      "Bith",
+      "Cathar",
+      "Jawas",
+      "Tusken Raiders",
+      "Ubese",
+      "Other species"
+    ],
+    "language": "Basic",
+    "affiliation": [
+      "Separatist holdouts",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Halm",
+    "x": -2564.3,
+    "y": -9452.3,
+    "z": -11.4,
+    "region": "Mid Rim",
+    "grid": "J-16"
+  },
+  "scraped": "2026-07-03"
+}

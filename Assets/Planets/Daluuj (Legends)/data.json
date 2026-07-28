@@ -1,0 +1,76 @@
+{
+  "name": "Daluuj",
+  "wookieepedia_title": "Daluuj/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Daluuj/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Daluuj was a lightly populated Outer Rim planet covered with barren canyons and muddy slopes.",
+  "lead_paragraphs": [
+    "Daluuj was a lightly populated Outer Rim planet covered with barren canyons and muddy slopes."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Rebellion era",
+    "  Legacy era",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Daluuj",
+    "region": [
+      "Outer Rim Territories",
+      "  Hutt dependencies"
+    ],
+    "sector": "Albanin sector",
+    "system": "Daluuj system",
+    "coordinates": "U-13",
+    "suns": "1",
+    "moons": "2",
+    "lengthday": "28 standard hours",
+    "lengthyear": "391 local days",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Barren canyons",
+      "Mud lake",
+      "Muddy slopes"
+    ],
+    "water": "Oceans",
+    "interest": "Imperial Training Center",
+    "fauna": "Lake worm",
+    "otherspecies": [
+      "Humans",
+      "Yuuzhan Vong"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Empire",
+    "population": [
+      "88% Human",
+      "6% Yuuzhan Vong",
+      "6% other"
+    ],
+    "cities": "Oldranai (capital)",
+    "imports": [
+      "Foodstuffs",
+      "Luxury goods",
+      "Technology"
+    ],
+    "exports": "None",
+    "affiliation": [
+      "Hutt Space",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Daluuj",
+    "x": 13991.8,
+    "y": -4713.9,
+    "z": -54.9,
+    "region": "Outer Rim",
+    "grid": "U-13"
+  },
+  "scraped": "2026-07-03"
+}

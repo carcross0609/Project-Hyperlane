@@ -1,0 +1,45 @@
+{
+  "name": "Ordo",
+  "wookieepedia_title": "Ordo/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ordo/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ordo was the homeworld of the Mandalorian Clan Ordo, including Canderous Ordo, who became Mandalore in 3954 BBY. Mostly a barren desert planet, Ordo had some vegetation around its equator.",
+  "lead_paragraphs": [
+    "Ordo was the homeworld of the Mandalorian Clan Ordo, including Canderous Ordo, who became Mandalore in 3954 BBY. Mostly a barren desert planet, Ordo had some vegetation around its equator.",
+    "Mandalore the Ultimate promised Dorjander Kace a training center on Ordo, so he could train a group of Jedi younglings he kidnapped from the Jedi Enclave on Dantooine. His plan was stopped by Zayne Carrick."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ordo",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Mandalore sector",
+    "system": "Ordo system",
+    "coordinates": "O-7",
+    "routes": "Mandalorian Road",
+    "class": "Terrestrial",
+    "terrain": [
+      "Deserts",
+      "Vegetation near the equator"
+    ],
+    "otherspecies": "Humans",
+    "language": "Mando'a",
+    "affiliation": [
+      "Mandalorians",
+      "Clan Ordo"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ordo",
+    "x": 5353.0,
+    "y": 4015.1,
+    "z": 322.0,
+    "region": "Outer Rim",
+    "grid": "O-7"
+  },
+  "scraped": "2026-07-03"
+}

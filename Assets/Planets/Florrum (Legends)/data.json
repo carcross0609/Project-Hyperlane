@@ -1,0 +1,70 @@
+{
+  "name": "Florrum",
+  "wookieepedia_title": "Florrum/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Florrum/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Florrum was a rocky, backwater planet located six parsecs from Vanqor in the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Florrum was a rocky, backwater planet located six parsecs from Vanqor in the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Capture of Dooku",
+    "  Boba Fett's Arrival",
+    "  Crash landing",
+    "  Rescue Mission",
+    "  Second battle of Florrum",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Florrum",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Sertar sector",
+    "system": "Florrum system",
+    "coordinates": "R-5",
+    "moons": "1",
+    "climate": "Arid",
+    "terrain": [
+      "Desert",
+      "Canyons",
+      "Sulfuric geysers"
+    ],
+    "interest": [
+      "Doshar fields",
+      "Hondo Ohnaka's pirate base"
+    ],
+    "fauna": "Skalder",
+    "otherspecies": [
+      "Bith",
+      "Jawa",
+      "Kowakian monkey-lizard",
+      "Kajain'sa'Nikto",
+      "Twi'lek",
+      "Weequay",
+      "Massiff"
+    ],
+    "language": [
+      "Galactic Basic",
+      "Jawaese"
+    ],
+    "affiliation": [
+      "Ohnaka Gang",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Florrum",
+    "x": 9904.4,
+    "y": 6597.5,
+    "z": -621.6,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

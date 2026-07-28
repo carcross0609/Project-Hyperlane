@@ -1,0 +1,47 @@
+{
+  "name": "Amarin",
+  "wookieepedia_title": "Amarin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amarin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Amarin was an Outer Rim Territories world located in the Tion Cluster's Allied Tion sector. By around 25,130 BBY, it was ruled by the Livien League and was the site of a League victory over the forces of the Kingdom of Cron. Amarin was later part of the empire of the Cronese ruler Xim, who expanded and constructed palaces there and on Argai and Raxus Prime. After Xim's death, Ammarin was part of the Jaminere Marches; over time, it became a busy agriworld despite also preserving the forests from the world's Xim-era service as a hunting reserve.",
+  "lead_paragraphs": [
+    "Amarin was an Outer Rim Territories world located in the Tion Cluster's Allied Tion sector. By around 25,130 BBY, it was ruled by the Livien League and was the site of a League victory over the forces of the Kingdom of Cron. Amarin was later part of the empire of the Cronese ruler Xim, who expanded and constructed palaces there and on Argai and Raxus Prime. After Xim's death, Ammarin was part of the Jaminere Marches; over time, it became a busy agriworld despite also preserving the forests from the world's Xim-era service as a hunting reserve."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Amarin",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Tion Cluster",
+      "  Allied Tion sector"
+    ],
+    "system": "Amarin system",
+    "coordinates": "S-6",
+    "routes": "Desevran Trace",
+    "class": "Terrestrial",
+    "terrain": "Forests",
+    "interest": "At least 1 palace",
+    "affiliation": [
+      "Livien League",
+      "Xim's empire",
+      "Jaminere Marches"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Amarin",
+    "x": 11060.6,
+    "y": 5762.6,
+    "z": 295.3,
+    "region": "Outer Rim",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

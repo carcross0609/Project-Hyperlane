@@ -1,0 +1,31 @@
+{
+  "name": "Darth Atrius' lightsabers",
+  "wookieepedia_title": "Darth Atrius' lightsabers",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Atrius%27_lightsabers",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "A pair of crossguard lightsabers were once owned by Darth Atrius during a time when the Sith were plentiful and powerful. Sometime after the Battle of Yavin, the sabers were recovered by the smuggler Sana Starros and she sold one of them to a crime lord on Hradreek, and the other to the Galactic Empire. Both were later destroyed by Luke Skywalker and Darth Vader in 0 ABY during the Galactic Civil War.",
+  "data": {
+    "name": "Darth Atrius' lightsabers",
+    "model": "Crossguard Sith lightsaber",
+    "type": "Single-blade",
+    "culture": "Sith",
+    "destroyed": "0 ABY, Hradreek",
+    "discovered": "By 0 ABY",
+    "owners": [
+      "Darth Atrius",
+      "Sana Starros"
+    ],
+    "hilt_shape": "Cylindrical, straight",
+    "crystal": "Kyber crystal",
+    "color": "Red",
+    "design": "Crossguard",
+    "purpose": [
+      "Lightsaber combat",
+      "Sith artifact"
+    ],
+    "affiliation": "Sith"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Umbara",
+  "wookieepedia_title": "Umbara",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Umbara",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Umbara, known as the \"Shadow World\" due to the lack of sunlight on its surface, was a planet located within the Expansion Region. The planet was also an exporter of doonium, a metal utilized in the construction of starships. During the Clone Wars, the planet was initially part of the Galactic Republic before seceding to join the Confederacy of Independent Systems. It proceeded to host one of the larger battles of the Clone Wars and eventually fell to the Republic. After the fall of the Republic, the planet fell under the power of the Galactic Empire. During the Imperial Era, Captain Thrawn suppressed an uprising on Umbara that had been engineered by the shadowy insurgent leader Nevil Cygni.",
+  "lead_paragraphs": [
+    "Umbara, known as the \"Shadow World\" due to the lack of sunlight on its surface, was a planet located within the Expansion Region. The planet was also an exporter of doonium, a metal utilized in the construction of starships. During the Clone Wars, the planet was initially part of the Galactic Republic before seceding to join the Confederacy of Independent Systems. It proceeded to host one of the larger battles of the Clone Wars and eventually fell to the Republic. After the fall of the Republic, the planet fell under the power of the Galactic Empire. During the Imperial Era, Captain Thrawn suppressed an uprising on Umbara that had been engineered by the shadowy insurgent leader Nevil Cygni."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic Era",
+    "  Imperial Era",
+    "Society and culture"
+  ],
+  "data": {
+    "name": "Umbara",
+    "region": "Expansion Region",
+    "sector": "Ghost Nebula sector",
+    "system": "Umbara system",
+    "coordinates": "P-10",
+    "suns": "Umbara",
+    "moons": "At least 2: Umbara's outermost moon",
+    "routes": "Great Kashyyyk Branch",
+    "atmosphere": "Breathable",
+    "climate": "Moist",
+    "terrain": [
+      "Plains with overgrown plant life",
+      "Jungle",
+      "Urban"
+    ],
+    "interest": [
+      "Sector delta",
+      "Umbaran airbase"
+    ],
+    "flora": [
+      "Death's embrace",
+      "Zabrak Spine"
+    ],
+    "fauna": [
+      "Banshee",
+      "Vixus"
+    ],
+    "species": "Umbaran",
+    "language": "Umbarese",
+    "government": "Umbaran government",
+    "cities": "Umbaran capital city",
+    "exports": "Doonium",
+    "affiliation": [
+      "Galactic Republic (seceded during Clone Wars)",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Umbaran",
+      "directory": "Umbaran",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Umbaran",
+      "directory": "Umbaran (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Umbara",
+    "x": 6113.1,
+    "y": -277.4,
+    "z": 13.4,
+    "region": "Expansion Region",
+    "grid": "P-10"
+  },
+  "scraped": "2026-07-03"
+}

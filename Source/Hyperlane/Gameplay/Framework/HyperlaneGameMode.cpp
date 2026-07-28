@@ -1,8 +1,8 @@
 // Copyright (c) 2026 Carson Crossno. Personal, non-commercial project.
 
-#include "Gameplay/Framework/HyperlaneGameMode.h"
+#include "Hyperlane/Gameplay/Framework/HyperlaneGameMode.h"
 
-#include "Gameplay/Player/HyperlanePlayerController.h"
+#include "Hyperlane/Gameplay/Player/HyperlanePlayerController.h"
 #include "GameFramework/SpectatorPawn.h"
 
 AHyperlaneGameMode::AHyperlaneGameMode()

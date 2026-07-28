@@ -1,0 +1,32 @@
+{
+  "name": "Quermian",
+  "wookieepedia_title": "Quermian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quermian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Quermians were a gaunt, long-necked humanoid sentient species native to the planet Quermia. They had two brains, one located inside their head and the other within their chest cavity, and two pairs of arms. During the Trade Federation's Invasion of Naboo, four Quermians were enrolled in the Jedi Order, one of whom was Jedi Master Yarael Poof, a member of the Jedi High Council.",
+  "data": {
+    "name": "Quermian",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "skincolor": [
+      "Gray",
+      "Pasty white"
+    ],
+    "eyecolor": [
+      "Black",
+      "Brown",
+      "Red"
+    ],
+    "distinctions": [
+      "Long necks,",
+      "Two brains",
+      "Two pairs of arms"
+    ],
+    "origin": "Quermia",
+    "habitat": "Garden",
+    "language": "Quermian"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Quermia"
+}

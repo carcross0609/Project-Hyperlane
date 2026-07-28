@@ -1,0 +1,31 @@
+{
+  "name": "W-165 planetary turbolaser",
+  "wookieepedia_title": "W-165 planetary turbolaser",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/W-165_planetary_turbolaser",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The w-165 planetary turbolaser was a heavy turbolaser manufactured by Kuat Drive Yards. At the time of its introduction, it was the most powerful planetary turbolaser ever built, and was four times as powerful as the v-150 Planet Defender .",
+  "data": {
+    "name": "w-165 planetary turbolaser",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Planetary turbolaser",
+    "cost": "10 million credits",
+    "diam": [
+      "150 meter diameter support platform",
+      "Over 50 meter diameter reactor core",
+      "Nearly 25 meter diameter barrel"
+    ],
+    "protection": [
+      "Permacite armor",
+      "Deflector shield generator"
+    ],
+    "crew": "50 (soldiers, technicians, computer operators, engineers, and gunners)",
+    "range": [
+      "1,100 kilometers (optimum)",
+      "9,600 kilometers (maximum)"
+    ],
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

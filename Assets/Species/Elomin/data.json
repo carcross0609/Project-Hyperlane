@@ -1,0 +1,28 @@
+{
+  "name": "Elomin",
+  "wookieepedia_title": "Elomin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Elomin",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Elomin were humanoids from the planet Elom with tapered ears, a crown of horns around their head, and tusks on their cheekbones.",
+  "data": {
+    "name": "Elomin",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "skincolor": [
+      "Orange",
+      "Pale",
+      "Red"
+    ],
+    "eyecolor": [
+      "Blue",
+      "White",
+      "Yellow"
+    ],
+    "distinctions": "Crown of horns, tusks on cheekbones",
+    "origin": "Elom",
+    "language": "Elomin"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Elom (planet)"
+}

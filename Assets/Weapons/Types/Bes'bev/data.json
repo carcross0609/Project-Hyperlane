@@ -1,0 +1,27 @@
+{
+  "name": "Bes'bev",
+  "wookieepedia_title": "Bes'bev",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bes%27bev",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A bes'bev was a traditional Mandalorian flute. Forged from beskar iron, a bes'bev was a combination of musical instrument and melee weapon. At one end, a bes'bev was cut to a sharp tip, similar to a quill stylus, and this bladed end made the instrument ideal for stabbing and drawing blood. A bes'bev was also hard and sturdy, and could be hefted as a club should the need arise.",
+  "data": {
+    "name": "Bes'bev",
+    "model": "Flute",
+    "type": [
+      "Musical instrument",
+      "Stabbing weapon"
+    ],
+    "culture": "Mandalorians",
+    "creators": "Mandalorian artisans",
+    "material": "Beskar iron",
+    "range": "Close range",
+    "purpose": [
+      "Playing music",
+      "Stabbing"
+    ],
+    "affiliation": "Mandalorians"
+  },
+  "scraped": "2026-07-03"
+}

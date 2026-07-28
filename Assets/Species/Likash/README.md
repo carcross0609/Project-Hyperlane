@@ -1,0 +1,10 @@
+# Likash
+
+**Continuity:** Legends  
+**Source:** [Likash](https://starwars.fandom.com/wiki/Likash)
+
+The Likash (adj. Likashan) were members of the New Republic from the Likasha system. During the last stages of the Galactic Civil War, their Senator took an aggressive stance, arguing that the New Republic military was powerful enough to utterly crush the Imperial Remnant, despite the apparent return of Grand Admiral Thrawn. The Likash had formerly been subjects of the Empire.
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

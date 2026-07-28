@@ -1,0 +1,54 @@
+{
+  "name": "Qhulosk",
+  "wookieepedia_title": "Qhulosk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Qhulosk",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Qhulosk was a planet located in the galaxy's Outer Rim Territories, home to the Qhuloskian species. During the Imperial Era, the Galactic Empire operated an Imperial Navy Mobile Base on Qhulosk to assist in a battle against the Qhuloskian inhabitants. After completing his training as an Imperial cadet, Han Solo was briefly stationed on Qhulosk along with his squadron.",
+  "lead_paragraphs": [
+    "Qhulosk was a planet located in the galaxy's Outer Rim Territories, home to the Qhuloskian species. During the Imperial Era, the Galactic Empire operated an Imperial Navy Mobile Base on Qhulosk to assist in a battle against the Qhuloskian inhabitants. After completing his training as an Imperial cadet, Han Solo was briefly stationed on Qhulosk along with his squadron."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Qhulosk",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tharin sector",
+    "system": "Qhulosk system",
+    "coordinates": "T-8",
+    "moons": "At least 2",
+    "routes": "Triellus Trade Route",
+    "atmosphere": "Breathable",
+    "terrain": "Deserts",
+    "interest": "Imperial Navy Mobile Base",
+    "species": "Qhuloskians",
+    "otherspecies": "Ghulars",
+    "demonym": "Qhuloskian",
+    "cities": "Howlan",
+    "exports": "Farium",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Qhuloskian",
+      "directory": "Qhuloskian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Qhulosk",
+    "x": 221.4,
+    "y": -10325.0,
+    "z": -457.4,
+    "region": "Outer Rim",
+    "grid": "L-16"
+  },
+  "scraped": "2026-07-03"
+}

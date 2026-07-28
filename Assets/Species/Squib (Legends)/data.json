@@ -1,0 +1,37 @@
+{
+  "name": "Squib",
+  "wookieepedia_title": "Squib/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Squib/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Squibs were a sentient species from Skor II known for collecting, trading, and haggling. Adult Squibs had humanoid bodies that averaged a meter in height. They were covered in colorful fur and had pointed snouts, tufted ears, and large eyes. Squibs tasted objects by rubbing them over their fur. They were gregarious, insatiably curious, and obsessed with haggling and deal-making. It was said that the easiest way to get information from a Squib was to propose a trade.",
+  "data": {
+    "name": "Squib",
+    "designation": "Sentient",
+    "class": "Mammal",
+    "height": "1 meter",
+    "mass": "22 kilograms",
+    "skincolor": "Pink",
+    "haircolor": [
+      "White",
+      "Gray",
+      "Black",
+      "Brown",
+      "Blue",
+      "Violet",
+      "Red"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Brown"
+    ],
+    "distinctions": "Curious, overconfident, hagglers",
+    "lifespan": "65 standard years",
+    "origin": "Skor II",
+    "language": "Squibbian"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Skor II"
+}

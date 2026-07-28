@@ -1,0 +1,39 @@
+{
+  "name": "Gerres Gule",
+  "wookieepedia_title": "Gerres Gule",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gerres_Gule",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gerres Gule was the Kulless homeworld.",
+  "lead_paragraphs": [
+    "Gerres Gule was the Kulless homeworld."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gerres Gule",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Primtara sector",
+    "system": "Gerres Gule system",
+    "coordinates": "P-15",
+    "species": "Kulless"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kulless",
+      "directory": "Kulless",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gerres Gule",
+    "x": 7721.8,
+    "y": -2093.5,
+    "z": -298.9,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

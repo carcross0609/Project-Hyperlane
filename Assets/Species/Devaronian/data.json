@@ -1,0 +1,53 @@
+{
+  "name": "Devaronian",
+  "wookieepedia_title": "Devaronian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Devaronian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Devaronians were a sentient species from the planet Devaron. They exhibited great sexual dimorphism, with the males typically being bald and sporting horns, and the mostly hornless females displaying a full head of hair. Cikatro Vizago, a crime lord on Lothal and the leader of the Broken Horn Syndicate, was a male Devaronian.",
+  "data": {
+    "name": "Devaronian",
+    "designation": "Sentient",
+    "class": "Mammal",
+    "skincolor": [
+      "Brown",
+      "Green",
+      "Light",
+      "Pink",
+      "Red"
+    ],
+    "haircolor": [
+      "Brown",
+      "Dark green",
+      "Pink",
+      "Purple",
+      "Silver",
+      "White"
+    ],
+    "eyecolor": [
+      "Black",
+      "Blue",
+      "Brown",
+      "Dark brown",
+      "Green",
+      "Pink",
+      "Red",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Horn-headed",
+      "Long pointed ears",
+      "Two livers",
+      "Fireproof skin"
+    ],
+    "origin": "Devaron",
+    "habitat": "Jungle",
+    "diet": "Carnivorous",
+    "language": [
+      "Devaronese",
+      "Basic"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Devaron"
+}

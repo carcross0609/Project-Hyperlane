@@ -1,0 +1,34 @@
+{
+  "name": "Tordus",
+  "wookieepedia_title": "Tordus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tordus",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tordus was a planet that was the homeworld of the Tordusian species.",
+  "lead_paragraphs": [
+    "Tordus was a planet that was the homeworld of the Tordusian species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tordus",
+    "water": "Ocean",
+    "interest": "Axil Research Station",
+    "fauna": [
+      "Carcaros",
+      "Xorfin"
+    ],
+    "species": "Tordusian",
+    "government": "Tordusian Government",
+    "demonym": "Tordusian",
+    "cities": "Axiloth City"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tordusian",
+      "directory": "Tordusian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Serias",
+  "wookieepedia_title": "Serias",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Serias",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Serias was a planet located within the Serianan system in the Wild Space region of the galaxy. The lone inhabited world in the star system, Serias was theorized by the New Republic Scout Service captain Korren Starchaser to be the home of a sentient humanoid species. Upon exploring the Serianan system, Starchaser's scouting team only gave the planet a cursory inspection without making any contact with the local civilization due to the already amassed information from the nearby Serianan Belt of asteroids.",
+  "lead_paragraphs": [
+    "Serias was a planet located within the Serianan system in the Wild Space region of the galaxy. The lone inhabited world in the star system, Serias was theorized by the New Republic Scout Service captain Korren Starchaser to be the home of a sentient humanoid species. Upon exploring the Serianan system, Starchaser's scouting team only gave the planet a cursory inspection without making any contact with the local civilization due to the already amassed information from the nearby Serianan Belt of asteroids."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Serias",
+    "region": "Wild Space",
+    "system": "Serianan system",
+    "coordinates": "P-2",
+    "class": "Terrestrial",
+    "species": "Sentient humanoid species (theorized)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Theoretical Serias species",
+      "directory": "Theoretical Serias species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Serias",
+    "x": 6998.2,
+    "y": 10779.4,
+    "z": -339.3,
+    "region": "Wild Space",
+    "grid": "P-2"
+  },
+  "scraped": "2026-07-03"
+}

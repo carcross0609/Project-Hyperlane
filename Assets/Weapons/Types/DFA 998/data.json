@@ -1,0 +1,23 @@
+{
+  "name": "DFA 998",
+  "wookieepedia_title": "DFA 998",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DFA_998",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DFA 998 was a model of anti-infantry laser cannon manufactured by Golan Arms. Several were installed at Fortress Keremark.",
+  "data": {
+    "name": "DFA 998",
+    "manufacturer": "Golan Arms",
+    "type": "Anti-infantry laser cannon",
+    "locations": "Fortress Keremark",
+    "cost": [
+      "20,000 credits (new)",
+      "10,000 credits (used)"
+    ],
+    "crew": "3",
+    "capacity": "Unlimited (power generator)",
+    "range": "16 kilometers"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Karkaris",
+  "wookieepedia_title": "Karkaris",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Karkaris",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Karkaris was an aquatic planet in the Nilgaard sector of the Outer Rim Territories. Its expansive oceans were home to much of the world's biodiversity, including the native Karkarodon species. Despite its prior membership in Galactic Republic, Karkaris declared itself neutral during the Clone Wars and informally aligned with the Confederacy of Independent Systems, with many Karkarodons outright joining the Separatist cause.",
+  "lead_paragraphs": [
+    "Karkaris was an aquatic planet in the Nilgaard sector of the Outer Rim Territories. Its expansive oceans were home to much of the world's biodiversity, including the native Karkarodon species. Despite its prior membership in Galactic Republic, Karkaris declared itself neutral during the Clone Wars and informally aligned with the Confederacy of Independent Systems, with many Karkarodons outright joining the Separatist cause."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Karkaris",
+    "region": "Outer Rim Territories",
+    "sector": "Nilgaard sector",
+    "system": "Karkaris system",
+    "coordinates": "S-5",
+    "routes": "Overic Griplink",
+    "terrain": "Oceanic",
+    "fauna": "Hydroid Medusa",
+    "species": "Karkarodon",
+    "language": [
+      "Galactic Basic Standard",
+      "Numerous unintelligible languages"
+    ],
+    "exports": "Cybernetics",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Karkarodon",
+      "directory": "Karkarodon",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Karkarodon",
+      "directory": "Karkarodon (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Karkaris",
+    "x": 10773.1,
+    "y": 6637.5,
+    "z": -297.6,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Euceron",
+  "wookieepedia_title": "Euceron",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Euceron",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Euceron was a planet located in the Eucer sector of the Mid Rim. It was located near Anzat.",
+  "lead_paragraphs": [
+    "Euceron was a planet located in the Eucer sector of the Mid Rim. It was located near Anzat."
+  ],
+  "article_sections": [
+    "History",
+    "  Galactic Games",
+    "  Clone Wars"
+  ],
+  "data": {
+    "name": "Euceron",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Eucer sector",
+    "system": "Euceron system",
+    "coordinates": "Q-7",
+    "routes": "Perlemian Trade Route",
+    "interest": "Great Dordon Caves",
+    "species": "Euceron",
+    "otherspecies": "Humans",
+    "cities": "Eusebus (capital)",
+    "affiliation": [
+      "Ruling Power",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Euceron",
+      "directory": "Euceron (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Euceron",
+    "x": 8910.3,
+    "y": 3156.1,
+    "z": -80.2,
+    "region": "Mid Rim",
+    "grid": "Q-7"
+  },
+  "scraped": "2026-07-03"
+}

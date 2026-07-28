@@ -1,0 +1,53 @@
+{
+  "name": "Muunilinst",
+  "wookieepedia_title": "Muunilinst",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Muunilinst",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Muunilinst was a planet located in the Muunilinst system, in the Albarrio sector of the Outer Rim Territories, that was the homeworld of the Muun species. Muunilinst was considered one of the financial centers of the galaxy. It was the base of a division of the InterGalactic Banking Clan, and was the site of the Battle of Muunilinst during the Clone Wars, where the Galactic Republic took the planet. By the time of the Outer Rim Sieges, Mygeeto was still considered an important world for the Banking Clan, as a vault world. IG-227 Hailfire-class droid tanks of the Iotran Guard were deployed on the planet and used for patrolling.",
+  "lead_paragraphs": [
+    "Muunilinst was a planet located in the Muunilinst system, in the Albarrio sector of the Outer Rim Territories, that was the homeworld of the Muun species. Muunilinst was considered one of the financial centers of the galaxy. It was the base of a division of the InterGalactic Banking Clan, and was the site of the Battle of Muunilinst during the Clone Wars, where the Galactic Republic took the planet. By the time of the Outer Rim Sieges, Mygeeto was still considered an important world for the Banking Clan, as a vault world. IG-227 Hailfire-class droid tanks of the Iotran Guard were deployed on the planet and used for patrolling."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Muunilinst",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Obtrexta sector",
+    "system": "Muunilinst system",
+    "coordinates": "K-4",
+    "routes": [
+      "Braxant Run",
+      "Entralla Route"
+    ],
+    "species": "Muun",
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "  Muunilinst Banking Clan",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Muun",
+      "directory": "Muun",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Muun",
+      "directory": "Muun (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Muunilinst",
+    "x": -1207.5,
+    "y": 8254.6,
+    "z": 224.6,
+    "region": "Outer Rim",
+    "grid": "K-4"
+  },
+  "scraped": "2026-07-03"
+}

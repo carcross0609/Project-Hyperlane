@@ -1,0 +1,26 @@
+{
+  "name": "Teedo",
+  "wookieepedia_title": "Teedo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Teedo",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Teedos were a sentient reptilian species native to the planet Jakku, in the Western Reaches. They were diminutive in height and had gray-green skin, most of which was covered in wrappings to protect them from the intense heat of their homeworld.",
+  "data": {
+    "name": "Teedo",
+    "designation": "Sentient",
+    "class": "Reptilian",
+    "height": "1.24 meters",
+    "mass": "28 kilograms",
+    "skincolor": "Gray-green",
+    "distinctions": [
+      "Short stature",
+      "Wrappings on their skin",
+      "Three digit hands and feet"
+    ],
+    "origin": "Jakku",
+    "habitat": "Desert or wastelands",
+    "language": "Teedospeak"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Jakku"
+}

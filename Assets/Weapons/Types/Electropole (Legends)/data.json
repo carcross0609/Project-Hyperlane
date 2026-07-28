@@ -1,0 +1,32 @@
+{
+  "name": "Electropole",
+  "wookieepedia_title": "Electropole/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Electropole/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The electropole (not to be confused with the electrostaff) was an electric melee weapon used by many cultures, including the Gungans of Naboo and the Swokes Swokes of Makem Te.",
+  "data": {
+    "name": "Electropole",
+    "type": [
+      "Melee weapon",
+      "Thrown weapon"
+    ],
+    "cost": "1500 credits",
+    "shape": "Spear-like",
+    "weight": "1.3 kilograms",
+    "range": [
+      "Melee weapon",
+      "Thrown weapon range"
+    ],
+    "purpose": [
+      "Melee or thrown weapon",
+      "Herding beasts"
+    ],
+    "affiliation": [
+      "Gungans",
+      "Geonosian picadors"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Brodo Asogi",
+  "wookieepedia_title": "Brodo Asogi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Brodo_Asogi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Brodo Asogi, also known as the Green Planet, was a planet that was the homeworld of the Asogian species. It was located near the border of the Outer Rim Territories and Wild Space, nearby Kalee and Huk.",
+  "lead_paragraphs": [
+    "Brodo Asogi, also known as the Green Planet, was a planet that was the homeworld of the Asogian species. It was located near the border of the Outer Rim Territories and Wild Space, nearby Kalee and Huk.",
+    "It was represented by Senator Grebleips and two aides in the Galactic Senate. According to the HoloNet News, Grebleips was to fund a expedition project outside the galaxy shortly before the Clone Wars."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Brodo Asogi",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Perinn sector",
+    "system": "Brodo Asogi system",
+    "coordinates": "J-4",
+    "species": "Asogian",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Asogian",
+      "directory": "Asogian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Brodo Asogi",
+    "x": -2612.2,
+    "y": 7898.1,
+    "z": -161.2,
+    "region": "Outer Rim",
+    "grid": "J-4"
+  },
+  "scraped": "2026-07-03"
+}

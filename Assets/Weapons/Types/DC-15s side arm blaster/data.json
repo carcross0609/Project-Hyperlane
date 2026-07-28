@@ -1,0 +1,34 @@
+{
+  "name": "DC-15s side arm blaster",
+  "wookieepedia_title": "DC-15s side arm blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DC-15s_side_arm_blaster",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DC-15s side arm blaster was a blaster pistol created by BlasTech Industries for the Grand Army of the Republic. DC-15s pistols were used by clone commandos as a backup in addition to the heavier DC-17m Interchangeable Weapon System. The energy cell kept the blaster recharging at a slow but steady rate.",
+  "data": {
+    "name": "DC-15s side arm blaster",
+    "manufacturer": "BlasTech Industries",
+    "model": "DC-15s side arm blaster",
+    "type": "Blaster pistol",
+    "creators": "BlasTech Industries",
+    "cost": "400 credits (available for military use only)",
+    "shape": "Pistol-shaped",
+    "size": "Compact",
+    "weight": "1 kg",
+    "capacity": [
+      "250 shots",
+      "Close-range stun setting available"
+    ],
+    "range": [
+      "Up to 30 meters (optimum)",
+      "Up to 120 meters (maximum)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Grand Army of the Republic",
+      "  Clone Commandos"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

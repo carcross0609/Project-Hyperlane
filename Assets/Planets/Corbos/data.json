@@ -1,0 +1,42 @@
+{
+  "name": "Corbos",
+  "wookieepedia_title": "Corbos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corbos",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Corbos was an Outer Rim planet near the Yavin system which was rich in ores. It had \"Black Rain Seasons\" which saw whole sections of the planet become uninhabitable due to massive thunderstorms.",
+  "lead_paragraphs": [
+    "Corbos was an Outer Rim planet near the Yavin system which was rich in ores. It had \"Black Rain Seasons\" which saw whole sections of the planet become uninhabitable due to massive thunderstorms."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Corbos",
+    "region": "Outer Rim Territories",
+    "sector": "Esstran sector",
+    "system": "Corbos system",
+    "coordinates": "Q-5",
+    "terrain": [
+      "Deserts",
+      "Craters",
+      "Plateaus",
+      "Volcanoes",
+      "Mines"
+    ],
+    "interest": "Mining outpost",
+    "otherspecies": "Leviathan",
+    "language": "Galactic Basic Standard",
+    "cities": "Corbos Mining City"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Corbos",
+    "x": 9070.0,
+    "y": 6789.8,
+    "z": 308.9,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

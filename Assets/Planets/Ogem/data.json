@@ -1,0 +1,47 @@
+{
+  "name": "Ogem",
+  "wookieepedia_title": "Ogem",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ogem",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ogem was a world located in the D'Aelgoth sector of the Mid Rim Territories within the Western Reaches.",
+  "lead_paragraphs": [
+    "Ogem was a world located in the D'Aelgoth sector of the Mid Rim Territories within the Western Reaches.",
+    "The junk dealer Unkar Plutt sometimes marketed his salvage to spacers from Ogem. The occupants of Niima Outpost claimed that a scavenger, Miggs McKane, managed to slice into the datacore of a crashed Imperial Star Destroyer and found a complete order of battle. He then sold his find to an offworlder and used the profits to retire to Ogem."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ogem",
+    "region": [
+      "Mid Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "D'Aelgoth sector",
+    "system": "Ogem system",
+    "coordinates": "L-17",
+    "routes": "Karfeddion–Kriselist hyperlane",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Caves",
+      "Forests"
+    ],
+    "fauna": "Snakes",
+    "otherspecies": "Onodone"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ogemite",
+      "directory": "Ogemite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ogem",
+    "x": 123.8,
+    "y": -11585.3,
+    "z": -150.9,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

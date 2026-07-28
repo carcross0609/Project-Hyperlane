@@ -1,0 +1,50 @@
+{
+  "name": "Pollillus",
+  "wookieepedia_title": "Pollillus/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pollillus/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pollillus was a Core Worlds planet. It was the homeworld of the two-headed sentient Troigs, including the famous sportscaster Fodesinbeed Annodue. By 32 BBY, the planet had only recently been discovered by the galactic community. A decade later, HoloNet News reported on the efforts of one of the heads of the Pollillus Troig Dwuirsintabb to become surgically separated from the other head.",
+  "lead_paragraphs": [
+    "Pollillus was a Core Worlds planet. It was the homeworld of the two-headed sentient Troigs, including the famous sportscaster Fodesinbeed Annodue. By 32 BBY, the planet had only recently been discovered by the galactic community. A decade later, HoloNet News reported on the efforts of one of the heads of the Pollillus Troig Dwuirsintabb to become surgically separated from the other head."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Pollillus",
+    "region": "Core Worlds",
+    "sector": "Vannell sector",
+    "system": "Vannell system",
+    "coordinates": "J-10",
+    "class": "Terrestrial",
+    "terrain": "Landmasses",
+    "water": "Numerous bodies of water",
+    "species": "Troig",
+    "language": "Troig",
+    "cities": "Twin Cities"
+  },
+  "homeworld_of": [
+    {
+      "name": "Troig",
+      "directory": "Troig",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Troig",
+      "directory": "Troig (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Pollillus",
+    "x": -1520.0,
+    "y": -958.4,
+    "z": -100.3,
+    "region": "Core Worlds",
+    "grid": "J-10"
+  },
+  "scraped": "2026-07-03"
+}

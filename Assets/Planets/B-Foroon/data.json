@@ -1,0 +1,44 @@
+{
+  "name": "B-Foroon",
+  "wookieepedia_title": "B-Foroon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/B-Foroon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "B-Foroon was a mucky world located in the B-Foroon system, a part of the Arkanis sector in the Slice portion of the Outer Rim Territories. It was situated on the Triellus Trade Route hyperlane, which linked it to the A-Foroon and C-Foroon systems.",
+  "lead_paragraphs": [
+    "B-Foroon was a mucky world located in the B-Foroon system, a part of the Arkanis sector in the Slice portion of the Outer Rim Territories. It was situated on the Triellus Trade Route hyperlane, which linked it to the A-Foroon and C-Foroon systems.",
+    "Together with A-Foroon and C-Foroon, B-Foroon made up the Foroon Worlds, a trio of celestial bodies remade by members of the Hutt species into throneworlds during the century immediately preceding the dissolution of the Galactic Republic in 19 BBY. B-Foroon in particular was controlled by the Hutt Faljozic kajidic as well as its Toydarian retainers."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "B-Foroon",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Arkanis sector",
+      "  Foroon Worlds"
+    ],
+    "system": "B-Foroon system",
+    "coordinates": "R-16",
+    "routes": "Triellus Trade Route",
+    "class": "Terrestrial",
+    "terrain": "Mucky",
+    "otherspecies": [
+      "Hutts",
+      "Toydarians"
+    ],
+    "affiliation": "Faljozic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "B-Foroon",
+    "x": 9892.7,
+    "y": -9768.3,
+    "z": 472.8,
+    "region": "Outer Rim",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Sith lanvarok",
+  "wookieepedia_title": "Sith lanvarok",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sith_lanvarok",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Sith lanvarok was a wrist-mounted projectile launcher that could fire a volley of metal discs, usually in a small but unpredictable spray pattern, which made dodging or blocking the deadly projectiles very difficult. Due to the lanvarok's exceptionally long reload time, it was best used for delivering a one-shot surprise attack. To counter its lack of accuracy, a Sith could use the Force to guide the discs to their targets, turning the lanvarok into an incredibly deadly weapon.",
+  "data": {
+    "name": "Sith lanvarok",
+    "type": "Wrist-mounted projectile launcher",
+    "culture": "Sith culture",
+    "creators": "Sith",
+    "cost": [
+      "4,000 credits (Rare item)",
+      "Each disc costs 5 credits"
+    ],
+    "size": "Medium",
+    "material": [
+      "Durasteel",
+      "Occasionally with a thin layer of cortosis"
+    ],
+    "weight": [
+      "5.8 kg",
+      "Each disc weighs 0.1 kg"
+    ],
+    "protection": "Cortosis alloy to resist lightsabers",
+    "capacity": "5 discs",
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 90 meters"
+    ],
+    "purpose": "Could be activated by the Force",
+    "heritage": "Modernized version of the Massassi lanvarok",
+    "affiliation": "Sith"
+  },
+  "scraped": "2026-07-03"
+}

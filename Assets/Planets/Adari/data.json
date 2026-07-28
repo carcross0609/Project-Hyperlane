@@ -1,0 +1,67 @@
+{
+  "name": "Adari",
+  "wookieepedia_title": "Adari",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adari",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Adari was a mountainous, volcanic planet located in the Inner Rim's Adari sector. It was the homeworld of the sentient Adarians, although archaeologists believed evidence pointed to the species not being native to the planet. The earliest Adarians on Adari spread outward from a single region of the planet, already having a single shared culture by the time.",
+  "lead_paragraphs": [
+    "Adari was a mountainous, volcanic planet located in the Inner Rim's Adari sector. It was the homeworld of the sentient Adarians, although archaeologists believed evidence pointed to the species not being native to the planet. The earliest Adarians on Adari spread outward from a single region of the planet, already having a single shared culture by the time.",
+    "Such cultural homogeneity among the Adarians allowed the species to rapidly develop ore mining and smelting and atomic-fission industries and technologies. A planet-wide corporate government was formed, and the species came to be divided by a rigid caste system.",
+    "Eventually, the Adarians expanded outward into the Adari system, and the discovery of hyperdrive technology led to the species controlling the entire Adari sector and joining the Galactic Republic millennium before the Battle of Yavin. Adari later signed a non-aggression treaty with the Galactic Empire and supplied it with raw materials necessary for starship construction, and the Rebel Alliance eventually established a presence on the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The origin of Adarians",
+    "  Outward expansion",
+    "  Adari and the Empire",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Adari",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Adari sector",
+    "system": "Adari system",
+    "coordinates": "M-9",
+    "lengthyear": "409 standard days",
+    "class": "Terrestrial",
+    "terrain": [
+      "Mountains",
+      "Volcanoes"
+    ],
+    "water": "Freshwater lakes",
+    "interest": [
+      "Geographic area",
+      "Hall of Decisions"
+    ],
+    "species": "Adarians (origin disputed)",
+    "language": "Adarese",
+    "government": "Corporate government",
+    "exports": "Minerals and ores",
+    "affiliation": [
+      "Galactic Republic",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Adarian",
+      "directory": "Adarian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Adari",
+    "x": 2547.1,
+    "y": 1169.7,
+    "z": -39.7,
+    "region": "Inner Rim",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

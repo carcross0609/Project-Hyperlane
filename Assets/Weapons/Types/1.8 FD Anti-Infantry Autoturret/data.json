@@ -1,0 +1,23 @@
+{
+  "name": "1.8 FD Anti-Infantry Autoturret",
+  "wookieepedia_title": "1.8 FD Anti-Infantry Autoturret",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/1.8_FD_Anti-Infantry_Autoturret",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The 1.8 FD Anti-Infantry Autoturret, known simply as the 1.8 FD, was a model of autoturret manufactured by the Atgar SpaceDefense Corporation. It was created by recycling much of the 1.4 FD P-Tower's components.",
+  "data": {
+    "name": "1.8 FD Anti-Infantry Autoturret",
+    "manufacturer": "Atgar SpaceDefense Corporation",
+    "model": "1.8 FD",
+    "type": "Anti-infantry autoturret",
+    "cost": "12,000 credits",
+    "capacity": [
+      "Limited (without an energy source)",
+      "Unlimited (linked to an energy source)"
+    ],
+    "range": "Extremely far",
+    "purpose": "Suppressing infantry"
+  },
+  "scraped": "2026-07-03"
+}

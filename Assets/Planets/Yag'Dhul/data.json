@@ -1,0 +1,46 @@
+{
+  "name": "Yag'Dhul",
+  "wookieepedia_title": "Yag'Dhul",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yag%27Dhul",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Yag'Dhul was a planet located in the Yag'Dhul system in the Inner Rim that was the homeworld of the sentient Givin species. Its environment was so harsh that their organs were sealed away from the atmosphere and they could survive for a short while in vacuum. Yag'Dhul was located at the intersection of the Corellian Trade Spine and the Rimma Trade Route. During the Separatist Crisis, it joined the Confederacy of Independent Systems. Along with Sluis Van, Yag'Dhul made up part of a southern sphere of Separatist worlds, to which Count Dooku unsuccessfully attempted to add Eriadu.",
+  "lead_paragraphs": [
+    "Yag'Dhul was a planet located in the Yag'Dhul system in the Inner Rim that was the homeworld of the sentient Givin species. Its environment was so harsh that their organs were sealed away from the atmosphere and they could survive for a short while in vacuum. Yag'Dhul was located at the intersection of the Corellian Trade Spine and the Rimma Trade Route. During the Separatist Crisis, it joined the Confederacy of Independent Systems. Along with Sluis Van, Yag'Dhul made up part of a southern sphere of Separatist worlds, to which Count Dooku unsuccessfully attempted to add Eriadu."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Yag'Dhul",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Yag'Dhul system",
+    "coordinates": "L-14",
+    "routes": [
+      "Corellian Trade Spine",
+      "Rimma Trade Route"
+    ],
+    "species": "Givin",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Givin",
+      "directory": "Givin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Givin",
+      "directory": "Givin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yag'Dhul",
+    "x": 1297.2,
+    "y": -7348.0,
+    "z": 339.2,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

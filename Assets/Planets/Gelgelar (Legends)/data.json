@@ -1,0 +1,90 @@
+{
+  "name": "Gelgelar",
+  "wookieepedia_title": "Gelgelar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gelgelar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gelgelar was a cold, cloud-covered swamp planet in the Outer Rim Territories. It was the homeworld of the Glarsaurs.",
+  "lead_paragraphs": [
+    "Gelgelar was a cold, cloud-covered swamp planet in the Outer Rim Territories. It was the homeworld of the Glarsaurs."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Gelgelar",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Gelgelar system",
+    "coordinates": "M-20",
+    "lengthday": "30 standard hours",
+    "lengthyear": "287 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Cold",
+    "gravity": "Standard",
+    "terrain": [
+      "Oceans",
+      "Plains",
+      "Wetlands"
+    ],
+    "interest": [
+      "Drop Point Gelgelar",
+      "Farmers' Landing",
+      "Great Shore Marshes",
+      "Krevk Settlement",
+      "Shrine of Kooroo"
+    ],
+    "flora": [
+      "Maugesh tree",
+      "Vohis mold",
+      "Willotum tree"
+    ],
+    "fauna": [
+      "Monkey",
+      "Marsh Wyrm",
+      "Reeho",
+      "Si-hen"
+    ],
+    "species": "Glarsaur",
+    "otherspecies": [
+      "Human",
+      "Quarren",
+      "Rodian",
+      "Sullustan",
+      "Twi'lek",
+      "Other non-humans"
+    ],
+    "government": "Anarchy",
+    "population": "10,000",
+    "cities": "Gelgelar Free Port (capital)",
+    "imports": [
+      "Foodstuffs",
+      "High technology",
+      "Starship parts"
+    ],
+    "exports": [
+      "Shvash gas",
+      "Vohis mold"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Glarsaur",
+      "directory": "Glarsaur",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gelgelar",
+    "x": 9901.7,
+    "y": 9059.8,
+    "z": -45.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

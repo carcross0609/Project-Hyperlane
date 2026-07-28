@@ -1,0 +1,43 @@
+{
+  "name": "Kashi",
+  "wookieepedia_title": "Kashi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kashi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kashi was an Outer Rim Territories planet located in the Phelleem sector. At one point home to the ancient, isolationist Kashi Mer civilization, it was governed by the Kashi Mer Dynasty, whose influence also extended outside the Kashi system. The Force-user organization known as the Guardians of the Breath played an important role in the Kashi Mer religion.",
+  "lead_paragraphs": [
+    "Kashi was an Outer Rim Territories planet located in the Phelleem sector. At one point home to the ancient, isolationist Kashi Mer civilization, it was governed by the Kashi Mer Dynasty, whose influence also extended outside the Kashi system. The Force-user organization known as the Guardians of the Breath played an important role in the Kashi Mer religion.",
+    "Around 24,500 BBY, the student of the Force Reda Jalooz stole from Kashi a dark side talisman that served as the symbol of the local monarchy. Jalooz soon returned the artifact to the planet; however, at that point Kashi's sun suddenly and inexplicably exploded in a supernova, destroying the entire star system. As a result, the Kashi Mer culture largely went extinct. Historians later attributed the destruction of Kashi to the Kashi Mer talisman, which had survived the disaster."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Destruction of a star system",
+    "  Legacy",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Kashi",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Phelleem sector",
+    "system": "Kashi system",
+    "coordinates": "S-7",
+    "suns": "1",
+    "class": "Terrestrial",
+    "socialgroup": "Kashi Mer",
+    "government": "Monarchy"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kashi",
+    "x": 10886.2,
+    "y": 3847.7,
+    "z": -5.3,
+    "region": "Outer Rim",
+    "grid": "S-7"
+  },
+  "scraped": "2026-07-03"
+}

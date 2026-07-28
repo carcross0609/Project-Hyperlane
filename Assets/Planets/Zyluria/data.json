@@ -1,0 +1,45 @@
+{
+  "name": "Zyluria",
+  "wookieepedia_title": "Zyluria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zyluria",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zyluria was a world located in the Zyluria system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. A hyperlane linked it to the Carsanza system. Zyluria's surface featured gentle plains, and it was the homeworld of the Zylurians, a sentient species that, by 43 ABY, had long served the aristocratic Ancient Houses of the Senex-Juvex.",
+  "lead_paragraphs": [
+    "Zyluria was a world located in the Zyluria system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. A hyperlane linked it to the Carsanza system. Zyluria's surface featured gentle plains, and it was the homeworld of the Zylurians, a sentient species that, by 43 ABY, had long served the aristocratic Ancient Houses of the Senex-Juvex."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Zyluria",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Juvex sector"
+    ],
+    "system": "Zyluria system",
+    "coordinates": "L-17",
+    "class": "Terrestrial",
+    "terrain": "Plains",
+    "species": "Zylurians",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [
+    {
+      "name": "Zylurian",
+      "directory": "Zylurian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zyluria",
+    "x": 63.5,
+    "y": -12007.1,
+    "z": 422.6,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

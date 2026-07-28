@@ -1,0 +1,41 @@
+{
+  "name": "Holess",
+  "wookieepedia_title": "Holess",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Holess",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Holess was a planet in the Galactic Federation of Free Alliances and the Holessian homeworld. It had more laws than any other world. Its capital city was the location of the Mount of Justice. Most of the population lived in towering cities built with the wealth derived from thousands of years of exporting the planet's rich local deposits of duranium.",
+  "lead_paragraphs": [
+    "Holess was a planet in the Galactic Federation of Free Alliances and the Holessian homeworld. It had more laws than any other world. Its capital city was the location of the Mount of Justice. Most of the population lived in towering cities built with the wealth derived from thousands of years of exporting the planet's rich local deposits of duranium."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Holess",
+    "region": "Mid Rim",
+    "sector": "Manda sector",
+    "system": "Holess system",
+    "coordinates": "R-14",
+    "routes": "Manda Merchant Route",
+    "interest": "Mount of Justice",
+    "species": "Holessian",
+    "population": "500 million to 1 billion (c. 25 ABY)",
+    "exports": "Duranium",
+    "affiliation": "Galactic Federation of Free Alliances"
+  },
+  "homeworld_of": [
+    {
+      "name": "Holessian",
+      "directory": "Holessian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Holess",
+    "x": 9993.6,
+    "y": -7277.7,
+    "z": -510.1,
+    "region": "Mid Rim",
+    "grid": "R-14"
+  },
+  "scraped": "2026-07-03"
+}

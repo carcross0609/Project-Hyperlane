@@ -1,0 +1,45 @@
+{
+  "name": "Aquilae",
+  "wookieepedia_title": "Aquilae (The Star Wars)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aquilae_%28The_Star_Wars%29",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Aquilae was a Planet in the Aquilaean system that was a target of conquest by the New Galactic Empire.",
+  "lead_paragraphs": [
+    "Aquilae was a Planet in the Aquilaean system that was a target of conquest by the New Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "no_grid_check": "1",
+    "name": "Aquilae",
+    "system": "Aquilaean system",
+    "terrain": "Desert",
+    "interest": [
+      "Palace of Lite",
+      "Hidden Fortress"
+    ],
+    "species": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Constitutional Monarchy",
+    "cities": [
+      "Amsel",
+      "Anchorhead",
+      "Caldin",
+      "Calvas",
+      "Chathos",
+      "Gordon",
+      "Yuell"
+    ],
+    "affiliation": "New Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Aquilae",
+    "x": 3227.9,
+    "y": -3919.3,
+    "z": -216.3,
+    "region": "Colonies",
+    "grid": "N-12"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Altawar",
+  "wookieepedia_title": "Altawar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Altawar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Altawar was the homeworld of the Corragut species, located in the Altawar system of the Corellian sector.",
+  "lead_paragraphs": [
+    "Altawar was the homeworld of the Corragut species, located in the Altawar system of the Corellian sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Altawar",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "sector": "Corellian sector",
+    "system": "Altawar system",
+    "coordinates": "M-11",
+    "class": "Terrestrial",
+    "species": "Corragut"
+  },
+  "homeworld_of": [
+    {
+      "name": "Corragut",
+      "directory": "Corragut",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Altawar",
+    "x": 2541.1,
+    "y": -1941.0,
+    "z": 24.4,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

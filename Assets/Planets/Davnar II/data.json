@@ -1,0 +1,35 @@
+{
+  "name": "Davnar II",
+  "wookieepedia_title": "Davnar II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Davnar_II",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Davnar II, also known as Davnar, was a planet located in the Davnar system, within the Kanchen sector in the Core Worlds and the Interior regions, in grid square K-9 on the Standard Galactic Grid. The planet occupied the second orbital position in its star system. It was the homeworld of the kalidor, a predatory avian species, as well as historian Eloc Throno.",
+  "lead_paragraphs": [
+    "Davnar II, also known as Davnar, was a planet located in the Davnar system, within the Kanchen sector in the Core Worlds and the Interior regions, in grid square K-9 on the Standard Galactic Grid. The planet occupied the second orbital position in its star system. It was the homeworld of the kalidor, a predatory avian species, as well as historian Eloc Throno.",
+    "At some point, Throno left Davnar II to study cartography at the Graf Archive on the moon Orchis 2. In 34 ABY, after leaving his homeworld, Throno mentioned the planet in his book Traveler's Guide to Batuu, which detailed the planet Batuu and also included a map depicting the location of Davnar II in the work."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Davnar II",
+    "region": [
+      "Core Worlds",
+      "The Interior"
+    ],
+    "sector": "Kanchen sector",
+    "system": "Davnar system",
+    "coordinates": "K-9",
+    "position": "2",
+    "fauna": "Kalidor"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Davnar II",
+    "x": -1067.9,
+    "y": 625.8,
+    "z": 48.4,
+    "region": "Core Worlds",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

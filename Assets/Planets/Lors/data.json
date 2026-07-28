@@ -1,0 +1,44 @@
+{
+  "name": "Lors",
+  "wookieepedia_title": "Lors",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lors",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lors was a planet in the Duro system of the Core Worlds. The closest to the star Duro, Lors was a searing rock with one moon.",
+  "lead_paragraphs": [
+    "Lors was a planet in the Duro system of the Core Worlds. The closest to the star Duro, Lors was a searing rock with one moon."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lors",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "sector": [
+      "Duro sector",
+      "Corellian sector; Outlier systems (Imperial)"
+    ],
+    "system": "Duro system",
+    "coordinates": "M-11",
+    "suns": "1: Duro",
+    "position": "1",
+    "moons": "1",
+    "routes": [
+      "Corellian Trade Spine",
+      "Duros Run"
+    ],
+    "class": "Searing rock",
+    "climate": "Hot"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lors",
+    "x": 141.0,
+    "y": 767.8,
+    "z": -39.3,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Serphidi",
+  "wookieepedia_title": "Serphidi/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Serphidi/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Serphidi was a planet in the Outer Rim Territories' Sanbra sector. The fourth planet in the Belial system, Serphidi was blanketed in vine-draped forests that contained dangerous plant life—the planet was also home to the Serps, a reptilian sentient species that used giant lizards as mounts and who built a thriving, high-tech society before tearing it apart with generations of violence. Eventually, the Serps united under one King, rebuilding their society through banning technology and sublimating their violent urges in yearly jousting competitions. By 3 ABY, the Imperial-aligned King S'Shah ruled over Serphidi, deviating from Serp tradition by reintroducing high-tech weapons in his mortal Doom-Jousts. However, he was defeated and overthrown by Rebel agent Luke Skywalker, who installed rival Elglih to the throne, promptly receiving Alliance support from Serphidi.",
+  "lead_paragraphs": [
+    "Serphidi was a planet in the Outer Rim Territories' Sanbra sector. The fourth planet in the Belial system, Serphidi was blanketed in vine-draped forests that contained dangerous plant life—the planet was also home to the Serps, a reptilian sentient species that used giant lizards as mounts and who built a thriving, high-tech society before tearing it apart with generations of violence. Eventually, the Serps united under one King, rebuilding their society through banning technology and sublimating their violent urges in yearly jousting competitions. By 3 ABY, the Imperial-aligned King S'Shah ruled over Serphidi, deviating from Serp tradition by reintroducing high-tech weapons in his mortal Doom-Jousts. However, he was defeated and overthrown by Rebel agent Luke Skywalker, who installed rival Elglih to the throne, promptly receiving Alliance support from Serphidi."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Serphidi",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Sanbra sector",
+    "system": "Belial system",
+    "coordinates": "N-17",
+    "suns": "1: Belial",
+    "terrain": [
+      "Forests",
+      "Mesas",
+      "Mountains"
+    ],
+    "interest": [
+      "Harmony Glade",
+      "Castle S'Shah"
+    ],
+    "species": "Serps",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Serp",
+      "directory": "Serp",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Serphidi",
+    "x": 4144.8,
+    "y": -11022.2,
+    "z": -268.2,
+    "region": "Outer Rim",
+    "grid": "N-17"
+  },
+  "scraped": "2026-07-03"
+}

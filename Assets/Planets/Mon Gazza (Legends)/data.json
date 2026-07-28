@@ -1,0 +1,56 @@
+{
+  "name": "Mon Gazza",
+  "wookieepedia_title": "Mon Gazza/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mon_Gazza/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mon Gazza was a planet located in the Mon Gazza system in the Mid Rim. It was a famous shadowport and featured podracing.",
+  "lead_paragraphs": [
+    "Mon Gazza was a planet located in the Mon Gazza system in the Mid Rim. It was a famous shadowport and featured podracing."
+  ],
+  "article_sections": [
+    "History",
+    "  Podracing",
+    "  Nagai invasion",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Mon Gazza",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Lambda sector",
+    "system": "Mon Gazza system",
+    "coordinates": "Q-16",
+    "moons": "3",
+    "routes": [
+      "Corellian Run",
+      "Llanic Spice Run",
+      "Old Corellian Run"
+    ],
+    "terrain": [
+      "Urban decay",
+      "Mountains"
+    ],
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "cities": "Miner's Town (capital)",
+    "exports": "Spice",
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Mon Gazza",
+    "x": 7742.2,
+    "y": -9217.1,
+    "z": -113.9,
+    "region": "Mid Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

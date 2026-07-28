@@ -1,0 +1,46 @@
+{
+  "name": "Ragna III",
+  "wookieepedia_title": "Ragna III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ragna_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ragna III was a forest planet in the Mid Rim, and the homeworld of the Yuzzem race.",
+  "lead_paragraphs": [
+    "Ragna III was a forest planet in the Mid Rim, and the homeworld of the Yuzzem race.",
+    "Ragna III was also home to much larger predators than the Yuzzem, forcing these thick-furred natives to roam in prides in the planet's treetops. The planet's temperature was mild.",
+    "The Yuzzem were enslaved by the Galactic Empire, sent to serve in Imperial mining facilities. However, the Yuzzem were hard to control, and often caused riots and breakouts, especially when teamed up with Wookiee slaves. Thus, many Yuzzem were able to return to Ragna III, sparking a new generation of Yuzzem eager to travel the galaxy."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ragna III",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Daimar sector",
+    "system": "Ragna system",
+    "coordinates": "Q-16",
+    "position": "3rd",
+    "terrain": "Forests",
+    "species": "Yuzzem",
+    "language": "Yuzz",
+    "cities": "None",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Yuzzem",
+      "directory": "Yuzzem",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ragna III",
+    "x": 8671.4,
+    "y": -9986.6,
+    "z": 88.6,
+    "region": "Mid Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Vestar",
+  "wookieepedia_title": "Vestar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vestar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vestar was the Icarii homeworld located within the Vestar system of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Vestar was the Icarii homeworld located within the Vestar system of the Outer Rim Territories.",
+    "In 3 BBY, the planet was invaded by the Galactic Empire in a campaign to subdue the Icarii, a conflict that ended in the extermination of the entire species through biological warfare."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vestar",
+    "region": "Outer Rim Territories",
+    "sector": "Rseik sector",
+    "system": "Vestar system",
+    "coordinates": "N-20",
+    "class": "Terrestrial",
+    "terrain": "Rainforests",
+    "species": [
+      "Icarii",
+      "Vestaari"
+    ],
+    "otherspecies": [
+      "Human",
+      "Wookiee"
+    ],
+    "population": "1 million to 10 million (c.25 ABY)",
+    "cities": "Port-Esta",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Icarii",
+      "directory": "Icarii",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Vestaari",
+      "directory": "Vestaari",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vestar",
+    "x": 3908.1,
+    "y": -16055.8,
+    "z": -66.2,
+    "region": "Outer Rim",
+    "grid": "N-20"
+  },
+  "scraped": "2026-07-03"
+}

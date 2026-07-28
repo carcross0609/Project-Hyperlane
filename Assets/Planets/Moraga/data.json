@@ -1,0 +1,36 @@
+{
+  "name": "Moraga",
+  "wookieepedia_title": "Moraga",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moraga",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Moraga was a jungle planet located in the Oricho sector of the Outer Rim Territories that was the homeworld of the Moragan species.",
+  "lead_paragraphs": [
+    "Moraga was a jungle planet located in the Oricho sector of the Outer Rim Territories that was the homeworld of the Moragan species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Moraga",
+    "region": "Outer Rim Territories",
+    "sector": "Oricho sector",
+    "system": "Moraga system",
+    "coordinates": "M-5",
+    "moons": "At least 2",
+    "atmosphere": "Breathable",
+    "terrain": "Jungle",
+    "interest": "Moraga's spaceport",
+    "species": "Moragan",
+    "demonym": "Moragan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Moragan",
+      "directory": "Moragan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

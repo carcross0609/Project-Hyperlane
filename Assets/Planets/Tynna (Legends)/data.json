@@ -1,0 +1,84 @@
+{
+  "name": "Tynna",
+  "wookieepedia_title": "Tynna/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tynna/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tynna was a planet located within the Tynnani system of the Expansion Region and the homeworld of the Tynnans, a species of aquatic mammals. A member world of the Republic, Tynna defected to the Confederacy of Independent Systems prior to the Clone Wars, and later repelled an invasion by the Galactic Empire. During its membership of the New Republic, Tynna was captured by the extragalactic Yuuzhan Vong and its environment modified to serve the invaders as a biological production center. Subsequently a part of the Galactic Alliance, Tynna later came under the sway of Darth Krayt's Galactic Empire.",
+  "lead_paragraphs": [
+    "Tynna was a planet located within the Tynnani system of the Expansion Region and the homeworld of the Tynnans, a species of aquatic mammals. A member world of the Republic, Tynna defected to the Confederacy of Independent Systems prior to the Clone Wars, and later repelled an invasion by the Galactic Empire. During its membership of the New Republic, Tynna was captured by the extragalactic Yuuzhan Vong and its environment modified to serve the invaders as a biological production center. Subsequently a part of the Galactic Alliance, Tynna later came under the sway of Darth Krayt's Galactic Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Tynna",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": [
+      "Tynna sector",
+      "77 Sectors"
+    ],
+    "system": "Tynnani system",
+    "coordinates": "N-14",
+    "routes": "Shipwrights' Trace",
+    "class": "Terrestrial",
+    "climate": "Frigid",
+    "terrain": [
+      "Forests",
+      "Lakes",
+      "Oceans"
+    ],
+    "interest": [
+      "Lutris",
+      "  Tynna Central Government Building",
+      "  Lutris Lake",
+      "Tanallay Surge complex",
+      "  Tanallay Surge posting agency",
+      "Water Park"
+    ],
+    "fauna": "Suuri",
+    "species": "Tynnans",
+    "otherspecies": "Yuuzhan Vong",
+    "language": [
+      "Tynnan",
+      "Galactic Basic Standard"
+    ],
+    "population": "500 million to 1 billion (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "  Corellian Hegemony",
+      "Confederacy of Independent Systems",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Alliance",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tynnan",
+      "directory": "Tynnan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Tynnan",
+      "directory": "Tynnan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tynna",
+    "x": 4307.0,
+    "y": -6074.3,
+    "z": -109.3,
+    "region": "Expansion Region",
+    "grid": "N-14"
+  },
+  "scraped": "2026-07-03"
+}

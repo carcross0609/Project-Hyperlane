@@ -1,0 +1,58 @@
+{
+  "name": "Doan",
+  "wookieepedia_title": "Doan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Doan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Doan was a small planet in the Outer Rim Territories whose sole economy was focused on mining. It was ruled by a group of nobles, the Doan Royal House, while most of its population were miners who lived in poverty.",
+  "lead_paragraphs": [
+    "Doan was a small planet in the Outer Rim Territories whose sole economy was focused on mining. It was ruled by a group of nobles, the Doan Royal House, while most of its population were miners who lived in poverty."
+  ],
+  "article_sections": [
+    "History",
+    "  Early history",
+    "  Golden Age of the Old Republic"
+  ],
+  "data": {
+    "name": "Doan",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Halthor sector",
+    "system": "Doan system",
+    "coordinates": "M-6",
+    "suns": "1: Doan",
+    "class": "Terrestrial",
+    "diameter": "Small",
+    "atmosphere": "Smog and dust-filled",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": [
+      "Furrows",
+      "Quarries",
+      "Mountains",
+      "Plateaus",
+      "Caves"
+    ],
+    "interest": [
+      "Royal Manse",
+      "Doan mining facility"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Doan Royal House",
+    "exports": "Ore",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Doan",
+    "x": 1752.8,
+    "y": 5300.0,
+    "z": 210.7,
+    "region": "Outer Rim",
+    "grid": "M-6"
+  },
+  "scraped": "2026-07-03"
+}

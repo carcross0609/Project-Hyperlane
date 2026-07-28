@@ -1,0 +1,36 @@
+{
+  "name": "Perma",
+  "wookieepedia_title": "Perma",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Perma",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Perma was a planet in the galaxy's Core Worlds.",
+  "lead_paragraphs": [
+    "Perma was a planet in the galaxy's Core Worlds."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Perma",
+    "region": "Core Worlds",
+    "system": "Perma system",
+    "coordinates": "M-11",
+    "routes": "Corellian Run",
+    "otherspecies": "Faust",
+    "affiliation": [
+      "Galactic Republic",
+      "Perma families"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Perma",
+    "x": 2020.7,
+    "y": -1601.0,
+    "z": -37.0,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

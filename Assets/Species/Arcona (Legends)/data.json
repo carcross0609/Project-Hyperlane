@@ -1,0 +1,38 @@
+{
+  "name": "Arcona",
+  "wookieepedia_title": "Arcona/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arcona/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Arcona, sometimes singular Arconan, were scaleless reptiles with humanoid bodies. Hailing from the tropical desert planet of Cona in the Teke Ro system, they had poor eyesight, despite their large eyes, and had a small organ between their eyes which, often mistaken for their nose, helped them to see. An Arcona's lifespan was roughly the same as a Human's. The Arcona lived in a family-based community, where the males took care of the young, as the females were generally reckless and thrill-seeking. Despite not being a particularly technological species, by the time the Galactic Empire rose to power, Arcona could be seen in every corner of the galaxy. They were also notorious for their easy addiction to common salt.",
+  "data": {
+    "name": "Arcona",
+    "designation": "Sentient",
+    "class": "Reptile",
+    "height": "1.8 – 2 meters",
+    "skincolor": "Ebony to mahogany",
+    "eyecolor": [
+      "Green",
+      "Blue",
+      "Pink",
+      "Gold (When addicted to salt)"
+    ],
+    "distinctions": [
+      "Scaleless reptilians",
+      "Flat anvil-shaped heads"
+    ],
+    "lifespan": [
+      "Child: 1-12 years",
+      "Young adult: 13-18 years",
+      "Adult: 19-44 years",
+      "Middle age: 45-76 years",
+      "Old: 77-99 years",
+      "Venerable: 100+ years"
+    ],
+    "origin": "Cona",
+    "diet": "Ammonia-converting roots",
+    "language": "Arconese"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Cona (Legends)"
+}

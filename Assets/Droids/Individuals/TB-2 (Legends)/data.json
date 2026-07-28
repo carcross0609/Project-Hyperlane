@@ -1,0 +1,33 @@
+{
+  "name": "TB-2",
+  "wookieepedia_title": "TB-2/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TB-2/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "TB-2 was a 2-1B surgical droid stationed as a medic aboard the Twilight during the Clone Wars.",
+  "data": {
+    "type": "Galactic Republic",
+    "name": "TB-2",
+    "manufacturer": [
+      "Geentech",
+      "Industrial Automaton"
+    ],
+    "model": "2-1B surgical droid",
+    "class": "Medical droid",
+    "height": "1.5 meters",
+    "pronouns": "new",
+    "sensor": "Yellow",
+    "equipment": [
+      "Computer interface tether (range of 5 meters)",
+      "Medical diagnostic computer",
+      "Analytical computer",
+      "Modular arm attachments",
+      "Surgical attachments",
+      "Hypodermic injectors",
+      "Medicine dispensers"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

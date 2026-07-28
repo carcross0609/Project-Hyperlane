@@ -1,0 +1,26 @@
+{
+  "name": "Resource probe droid",
+  "wookieepedia_title": "Resource probe droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Resource_probe_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The resource probe droid was manufactured by Arakyd Industries, and was based on their standard probe droid design. The resource probe droid was designed to find and analyze potential mining sites. The droid was deployed via hyperdrive pod to a target planet.",
+  "data": {
+    "name": "Resource probe droid",
+    "manufacturer": "Arakyd Industries",
+    "cost": "10,000 credits",
+    "height": "1.5 meters",
+    "equipment": [
+      "Beamdrill",
+      "Broad-band transceiver",
+      "Investigation and analytical computer",
+      "Mineral sampler",
+      "Multi-purpose appendages",
+      "Planetary sensor array with long range sensors",
+      "Recording devices",
+      "Repulsorlift engine"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

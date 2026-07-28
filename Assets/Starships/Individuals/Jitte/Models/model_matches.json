@@ -1,0 +1,48 @@
+{
+  "asset": "Jitte",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Star Wars: Quartermaster-class Supply Carrier",
+      "url": "https://sketchfab.com/3d-models/none-6ee2bc9379dd44aab85988d2716bad93",
+      "uid": "6ee2bc9379dd44aab85988d2716bad93",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 123,
+      "thumbnail": "https://media.sketchfab.com/models/6ee2bc9379dd44aab85988d2716bad93/thumbnails/29e346aedb924774a2c6ac0f7272f3b0/a79739b1b0c4452b86ecd240db9a2a8c.jpeg"
+    },
+    {
+      "name": "Ton-Falk class Escort Carrier",
+      "url": "https://sketchfab.com/3d-models/none-eb9ca03715024a7c8c1778591c749fee",
+      "uid": "eb9ca03715024a7c8c1778591c749fee",
+      "author": "gavinpgamer1",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 43,
+      "thumbnail": "https://media.sketchfab.com/models/eb9ca03715024a7c8c1778591c749fee/thumbnails/d94db57f4f7d411ca79b6c49d1948e52/654ff48f3ec940f78eb1c55a01af410a.jpeg"
+    },
+    {
+      "name": "Star Wars: KT-400 Military Droid Carrier",
+      "url": "https://sketchfab.com/3d-models/none-d2b004b045c24c5abcc573c782ece9b8",
+      "uid": "d2b004b045c24c5abcc573c782ece9b8",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 41,
+      "thumbnail": "https://media.sketchfab.com/models/d2b004b045c24c5abcc573c782ece9b8/thumbnails/84fb34e5af9a419d89999b2be59b3189/b5b20668987b4a8a9014c431b34ef31a.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Carrier"
+}

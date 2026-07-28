@@ -1,0 +1,53 @@
+{
+  "name": "Drackmar",
+  "wookieepedia_title": "Drackmar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drackmar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Drackmar was the Drackmarian homeworld, located in the Drackmar system, in the Quelii sector of the Outer Rim Territories. The atmosphere of Drackmar was composed of methane, requiring native Drackmarians to wear special methane helmets when traveling off-world. On the other hand, oxygen-breathing species could use environmentally-sealed vehicles, such as the Orbitblade-2000, to visit the planet.",
+  "lead_paragraphs": [
+    "Drackmar was the Drackmarian homeworld, located in the Drackmar system, in the Quelii sector of the Outer Rim Territories. The atmosphere of Drackmar was composed of methane, requiring native Drackmarians to wear special methane helmets when traveling off-world. On the other hand, oxygen-breathing species could use environmentally-sealed vehicles, such as the Orbitblade-2000, to visit the planet."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Drackmar",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Drackmar system",
+    "coordinates": "O-6",
+    "routes": [
+      "Salin Corridor",
+      "Sprizen End Run"
+    ],
+    "atmosphere": "Type III (breath mask required)",
+    "species": "Drackmarian",
+    "affiliation": [
+      "Drackmarians",
+      "Mandalorian Neo-Crusaders",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Drackmarian",
+      "directory": "Drackmarian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Drackmar",
+    "x": 5014.4,
+    "y": 5593.8,
+    "z": 25.7,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

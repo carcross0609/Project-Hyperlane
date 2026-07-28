@@ -1,0 +1,30 @@
+{
+  "name": "Koorivar homeworld",
+  "wookieepedia_title": "Koorivar homeworld",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Koorivar_homeworld",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "A planet served as the original homeworld of the Koorivar species. It was later abandoned when the Koorivars settled on the Inner Rim planet Kooriva.",
+  "lead_paragraphs": [
+    "A planet served as the original homeworld of the Koorivar species. It was later abandoned when the Koorivars settled on the Inner Rim planet Kooriva."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Koorivar homeworld",
+    "species": "Koorivar"
+  },
+  "homeworld_of": [
+    {
+      "name": "Koorivar",
+      "directory": "Koorivar",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Koorivar",
+      "directory": "Koorivar (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

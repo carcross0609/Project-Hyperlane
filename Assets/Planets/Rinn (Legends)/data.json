@@ -1,0 +1,44 @@
+{
+  "name": "Rinn",
+  "wookieepedia_title": "Rinn/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rinn/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rinn was a backwater planet in the Outer Rim Territories and the homeworld of the Tintinna.",
+  "lead_paragraphs": [
+    "Rinn was a backwater planet in the Outer Rim Territories and the homeworld of the Tintinna."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Rinn",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Baxel sector",
+    "system": "Rinn system",
+    "coordinates": "U-12",
+    "moons": "Iope",
+    "class": "Terrestrial",
+    "species": "Tintinna"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tintinna",
+      "directory": "Tintinna (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rinn",
+    "x": 13963.9,
+    "y": -3163.6,
+    "z": 215.4,
+    "region": "Outer Rim",
+    "grid": "U-12"
+  },
+  "scraped": "2026-07-03"
+}

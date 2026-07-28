@@ -1,0 +1,52 @@
+{
+  "name": "Gibbela",
+  "wookieepedia_title": "Gibbela",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gibbela",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gibbela was a remote Outer Rim Territories planet located in the Atrivis sector. It was the homeworld of the shapeshifting Dazouri species, members of which engaged in simple farming on Gibbela.",
+  "lead_paragraphs": [
+    "Gibbela was a remote Outer Rim Territories planet located in the Atrivis sector. It was the homeworld of the shapeshifting Dazouri species, members of which engaged in simple farming on Gibbela.",
+    "During the reign of the Galactic Empire, an Imperial detachment was sent to Gibbela to scout the planet before its planned colonization. Landing at a farm of one of the local Dazouri, the officer leading the Imperial force claimed the planet for the Empire and demanded the farmer's surrender. In response, however, the Dazouri transformed into a large, ferocious killer and wiped out the Imperials, subsequently repurposing their leftover equipment as farming tools."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Gibbela",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Atrivis sector",
+    "system": "Gibbela system",
+    "coordinates": "L-5",
+    "class": "Terrestrial",
+    "interest": "Farm",
+    "flora": [
+      "Crop plant",
+      "Fruit tree"
+    ],
+    "species": "Dazouri",
+    "affiliation": "Pentastar Alignment"
+  },
+  "homeworld_of": [
+    {
+      "name": "Dazouri",
+      "directory": "Dazouri",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gibbela",
+    "x": 490.2,
+    "y": 6900.8,
+    "z": 234.4,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

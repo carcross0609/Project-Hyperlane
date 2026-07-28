@@ -1,0 +1,47 @@
+{
+  "name": "Arzid",
+  "wookieepedia_title": "Arzid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arzid",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arzid was a planet in the Calaron sector of the Outer Rim Territories. It was inhabited by forests of giant macaab mushrooms, tentacle-bushes, and by the dangerous arachnor that feasted on the mushrooms as part of their diet.",
+  "lead_paragraphs": [
+    "Arzid was a planet in the Calaron sector of the Outer Rim Territories. It was inhabited by forests of giant macaab mushrooms, tentacle-bushes, and by the dangerous arachnor that feasted on the mushrooms as part of their diet.",
+    "It was also the site of a small Imperial outpost. Death rates among sentries at this outpost, due to arachnors or tentacle bushes, were high enough that being sent there as a sentry was seen as a death sentence.",
+    "In 16 ABY, a squad of E4 baron droids overthrew the administration of the only settlement on the planet, setting themselves up as warlords over its population."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Arzid",
+    "region": "Outer Rim Territories",
+    "sector": "Calaron sector",
+    "system": "Arzid system",
+    "coordinates": "T-9",
+    "suns": "Tiki-hava",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot and humid",
+    "terrain": "Macaab mushroom forests",
+    "flora": "Tentacle-bush",
+    "fauna": [
+      "Arachnor",
+      "Arzid rodent"
+    ],
+    "otherlife": "Macaab mushroom",
+    "otherspecies": "Human",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Arzid",
+    "x": 12211.1,
+    "y": 1145.8,
+    "z": -165.8,
+    "region": "Other",
+    "grid": "T-9"
+  },
+  "scraped": "2026-07-03"
+}

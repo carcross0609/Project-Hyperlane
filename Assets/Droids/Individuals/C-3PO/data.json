@@ -1,0 +1,62 @@
+{
+  "name": "C-3PO",
+  "wookieepedia_title": "C-3PO",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/C-3PO",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "C-3PO (See-Threepio) was a 3PO-series protocol droid designed to interact with organics, programmed primarily for etiquette and protocol. Sometimes referred to as Threepio, he was fluent in over six million forms of communication, and developed a fussy and worry-prone personality throughout his many decades of operation. Along with his counterpart, the astromech droid R2-D2, C-3PO constantly found himself directly involved in pivotal moments of galactic history, and aided in saving the galaxy on many occasions.",
+  "data": {
+    "type": "Resistance",
+    "option1": "35 ABY",
+    "image2": "File:C3PO22BBY-SWI157.png",
+    "option2": "22 BBY",
+    "image3": "File:C3PO32BBY-BYOR2-2.png",
+    "option3": "32 BBY",
+    "name": "C-3PO",
+    "homeworld": "Tatooine",
+    "birth": "Between 34 BBY and 32 BBY",
+    "death": [
+      "0 ABY, Vrogas Vas (rebuilt)",
+      "3 ABY, Bespin (rebuilt)"
+    ],
+    "creator": "Anakin Skywalker",
+    "manufacturer": "Cybot Galactica",
+    "model": "3PO-series protocol droid",
+    "class": "Protocol droid",
+    "height": "1.77 meters (5 ft, 10 in)",
+    "mass": "75 kilograms",
+    "gender": "Masculine programming",
+    "pronouns": "He/him",
+    "sensor": [
+      "Yellow",
+      "Purple (under Scourge infection)",
+      "Red (briefly)"
+    ],
+    "plating": "Gray, later golden",
+    "armament": "E-5 blaster rifle (briefly, unwillingly)",
+    "equipment": "TranLang III communication module",
+    "affiliation": [
+      "Skywalker family",
+      "Confederacy of Independent Systems (briefly, unwillingly)",
+      "  A battle droid legion (briefly, unwillingly)",
+      "Royal House of Naboo",
+      "Galactic Republic",
+      "  Galactic Senate",
+      "House of Organa",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "  Heroes of Yavin",
+      "  Endor strike team",
+      "Scourge (As a vessel)",
+      "Hutt Clan (Reluctantly, briefly)",
+      "  Jabba's criminal empire (Reluctantly, briefly)",
+      "Bright Tree tribe (Honorary member)",
+      "New Republic",
+      "  Senate Defense Council",
+      "Resistance",
+      "  Resistance spy droid network"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

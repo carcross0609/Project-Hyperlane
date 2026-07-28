@@ -1,0 +1,39 @@
+{
+  "name": "New Balosar",
+  "wookieepedia_title": "New Balosar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/New_Balosar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "New Balosar was a planet in the Expansion Region, located on the Great Gran Run. It shared its name with the Core Worlds planet Balosar, the homeworld of the eponymous sentient species. It was the location of The Kindest Cut, a beauty salon run by Zenn Bien, the former owner of the Millennium Falcon.",
+  "lead_paragraphs": [
+    "New Balosar was a planet in the Expansion Region, located on the Great Gran Run. It shared its name with the Core Worlds planet Balosar, the homeworld of the eponymous sentient species. It was the location of The Kindest Cut, a beauty salon run by Zenn Bien, the former owner of the Millennium Falcon."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "New Balosar",
+    "region": "Expansion Region",
+    "sector": "Arc d'Stot sector",
+    "system": "New Balosar system",
+    "coordinates": "K-15",
+    "routes": "Great Gran Run",
+    "climate": "Pleasant",
+    "otherspecies": [
+      "Balosar",
+      "Human",
+      "Hutt",
+      "Sullustan"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "New Balosar",
+    "x": -482.0,
+    "y": -9002.4,
+    "z": -58.2,
+    "region": "Expansion Region",
+    "grid": "K-16"
+  },
+  "scraped": "2026-07-03"
+}

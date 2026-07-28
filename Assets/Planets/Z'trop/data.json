@@ -1,0 +1,43 @@
+{
+  "name": "Z'trop",
+  "wookieepedia_title": "Z'trop",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Z%27trop",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Z'trop was a planet located in the Tamarin sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Z'trop was a planet located in the Tamarin sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Z'trop",
+    "region": "Outer Rim Territories",
+    "sector": "Tamarin sector",
+    "system": "Z'trop system",
+    "coordinates": "N-18",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Tropical",
+    "terrain": [
+      "Oceans",
+      "Volcanic islands"
+    ],
+    "interest": "Kett family retreat",
+    "flora": "Trileaf tree",
+    "fauna": "Septapus",
+    "affiliation": "Neutral"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Z'trop",
+    "x": 3481.5,
+    "y": -13174.2,
+    "z": 226.1,
+    "region": "Outer Rim",
+    "grid": "N-18"
+  },
+  "scraped": "2026-07-03"
+}

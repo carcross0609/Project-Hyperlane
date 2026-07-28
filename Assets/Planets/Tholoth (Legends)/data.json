@@ -1,0 +1,44 @@
+{
+  "name": "Tholoth",
+  "wookieepedia_title": "Tholoth/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tholoth/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tholoth was a planet located within the Tholoth system of the Colonies.",
+  "lead_paragraphs": [
+    "Tholoth was a planet located within the Tholoth system of the Colonies."
+  ],
+  "article_sections": [
+    "History",
+    "Known members"
+  ],
+  "data": {
+    "name": "Tholoth",
+    "region": "Colonies",
+    "system": "Tholoth system",
+    "coordinates": "N-12",
+    "species": "Tholothian",
+    "demonym": "Tholothian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tholothian",
+      "directory": "Tholothian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Tholothian",
+      "directory": "Tholothian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tholoth",
+    "x": 3356.0,
+    "y": -3520.8,
+    "z": 14.5,
+    "region": "Colonies",
+    "grid": "N-12"
+  },
+  "scraped": "2026-07-03"
+}

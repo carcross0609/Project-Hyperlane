@@ -1,0 +1,67 @@
+{
+  "name": "Fyodos",
+  "wookieepedia_title": "Fyodos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fyodos",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fyodos, also known as Tatrang IV, was an Outer Rim planet that was located within the Tatrang system. The world's surface was devastated during the Great Cleansing, a war of mass destruction that took place in 350 BBY. Prior to the cataclysm, the surface possessed two main seas, one of which was called the Othlorian Sea.",
+  "lead_paragraphs": [
+    "Fyodos, also known as Tatrang IV, was an Outer Rim planet that was located within the Tatrang system. The world's surface was devastated during the Great Cleansing, a war of mass destruction that took place in 350 BBY. Prior to the cataclysm, the surface possessed two main seas, one of which was called the Othlorian Sea."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Fyodos",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tammuz sector",
+    "system": "Tatrang system",
+    "coordinates": "U-14",
+    "suns": "1: Tatrang",
+    "position": "4",
+    "moons": "3\n#Deathmoon\n#Lifemoon\n#Warmoon",
+    "lengthday": "20 standard hours",
+    "lengthyear": "360 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Grasslands",
+      "Mountains"
+    ],
+    "water": "Moderate",
+    "species": [
+      "Galidyn",
+      "Human (Fyodoi)"
+    ],
+    "population": "200,000",
+    "imports": [
+      "Exotic foodstuffs",
+      "Intoxicants",
+      "Slugthrower ammo"
+    ],
+    "exports": [
+      "Hides",
+      "Melee weapons"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Galidyn",
+      "directory": "Galidyn",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Fyodos",
+    "x": 14371.1,
+    "y": -7045.5,
+    "z": -495.5,
+    "region": "Outer Rim",
+    "grid": "U-14"
+  },
+  "scraped": "2026-07-03"
+}

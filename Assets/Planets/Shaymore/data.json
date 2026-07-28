@@ -1,0 +1,41 @@
+{
+  "name": "Shaymore",
+  "wookieepedia_title": "Shaymore",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shaymore",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shaymore was a planet located in the Shaymore system, which was itself located in the Immerian Outback of the Expansion Region and situated in the lee of the Trailing Sectors. It was the homeworld of the river otter–like Sessehshellah species, and was mined by the Galactic Empire for hydrocarbon–based fossil fuels. With logistical and military support from the Rebel Alliance, the Sessehshellah took up arms against the Imperials, and were ultimately successful in expelling the invaders.",
+  "lead_paragraphs": [
+    "Shaymore was a planet located in the Shaymore system, which was itself located in the Immerian Outback of the Expansion Region and situated in the lee of the Trailing Sectors. It was the homeworld of the river otter–like Sessehshellah species, and was mined by the Galactic Empire for hydrocarbon–based fossil fuels. With logistical and military support from the Rebel Alliance, the Sessehshellah took up arms against the Imperials, and were ultimately successful in expelling the invaders."
+  ],
+  "article_sections": [
+    "Locations"
+  ],
+  "data": {
+    "name": "Shaymore",
+    "region": "Expansion Region",
+    "sector": "Immerian Outback",
+    "system": "Shaymore system",
+    "coordinates": "N-14",
+    "fauna": "Amphibious wolf",
+    "species": "Sessehshellah",
+    "cities": "Sessehshellah village",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sessehshellah",
+      "directory": "Sessehshellah",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Shaymore",
+    "x": 3825.8,
+    "y": -6329.8,
+    "z": -74.5,
+    "region": "Expansion Region",
+    "grid": "N-14"
+  },
+  "scraped": "2026-07-03"
+}

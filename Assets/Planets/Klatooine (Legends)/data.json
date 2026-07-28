@@ -1,0 +1,89 @@
+{
+  "name": "Klatooine",
+  "wookieepedia_title": "Klatooine/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Klatooine/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Klatooine was the arid homeworld of the Klatooinian species. It was within the Si'Klaata Cluster, under Hutt control. It was covered with deserts and, to a lesser extent, savannas.",
+  "lead_paragraphs": [
+    "Klatooine was the arid homeworld of the Klatooinian species. It was within the Si'Klaata Cluster, under Hutt control. It was covered with deserts and, to a lesser extent, savannas."
+  ],
+  "article_sections": [
+    "Geography, flora and fauna",
+    "History"
+  ],
+  "data": {
+    "name": "Klatooine",
+    "region": "Hutt Space",
+    "sector": "Si'Klaata Cluster",
+    "system": "Klatooine system",
+    "coordinates": "S-9",
+    "moons": "1",
+    "lengthday": "26 standard hours",
+    "lengthyear": "286 local days",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert",
+      "Savannas"
+    ],
+    "interest": [
+      "Derelkoos Desert",
+      "Fountain of Ancients",
+      "Klatooine paddy-frog plantation"
+    ],
+    "flora": "Pak'pah",
+    "fauna": [
+      "Bracil",
+      "Klatooine paddy frog",
+      "Lesser Houdoggin",
+      "Voraxx"
+    ],
+    "species": "Klatooinian",
+    "otherspecies": "Hutt",
+    "language": [
+      "Huttese",
+      "Klatooinian (formerly)"
+    ],
+    "government": "Council of Elders",
+    "population": [
+      "9 million:",
+      "  99% Klatooinian",
+      "  1% other species"
+    ],
+    "demonym": "Klatooinian",
+    "cities": "Treema (capital)",
+    "imports": [
+      "Technology",
+      "Luxury goods"
+    ],
+    "exports": "Labor",
+    "affiliation": [
+      "Hutt Empire",
+      "Galactic Empire",
+      "Confederation",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Klatooinian",
+      "directory": "Klatooinian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Klatooinian",
+      "directory": "Klatooinian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Klatooine",
+    "x": 11616.0,
+    "y": 1443.8,
+    "z": 194.7,
+    "region": "Hutt Space",
+    "grid": "S-9"
+  },
+  "scraped": "2026-07-03"
+}

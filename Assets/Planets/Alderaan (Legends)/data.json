@@ -1,0 +1,161 @@
+{
+  "name": "Alderaan",
+  "wookieepedia_title": "Alderaan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alderaan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alderaan, located in the Core Worlds, was the second planet in the Alderaan system and the home of many famous heroes, including Leia Organa Solo, Bail Organa, and Ulic Qel-Droma. Renowned galaxy-wide for their planet's unspoiled beauty, refined culture, and commitment to peace, Alderaanians worked with and around the land to preserve as much of the natural surroundings as they could.",
+  "lead_paragraphs": [
+    "Alderaan, located in the Core Worlds, was the second planet in the Alderaan system and the home of many famous heroes, including Leia Organa Solo, Bail Organa, and Ulic Qel-Droma. Renowned galaxy-wide for their planet's unspoiled beauty, refined culture, and commitment to peace, Alderaanians worked with and around the land to preserve as much of the natural surroundings as they could.",
+    "Originally the home of the Killiks, Alderaan was later conquered by Humans. Despite a battle during the Great Galactic War and a civil war during the subsequent Cold War, Alderaan remained peaceful during much of galactic history. However, in attempt to force the Galaxy into submission, Grand Moff Tarkin and the Galactic Empire destroyed the unarmed and peaceful planet using the first Death Star's superlaser in 0 BBY."
+  ],
+  "article_sections": [
+    "History",
+    "  Pre-Republic",
+    "  Old Republic",
+    "  Clone Wars",
+    "  Imperial era",
+    "  Destruction of Alderaan",
+    "  Post-Destruction",
+    "Terrain",
+    "Society",
+    "Government",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Alderaan",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "sector": "Alderaan sector",
+    "system": "Alderaan system",
+    "coordinates": "M-10",
+    "distance": "5,000 light-years",
+    "suns": "Alderaan",
+    "position": "2",
+    "moons": "1: Moon of Alderaan",
+    "routes": "Commenor Run",
+    "lengthday": "24 standard hours",
+    "lengthyear": "364 standard days",
+    "class": "Terrestrial",
+    "diameter": "12,500 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Modern:",
+      "  Asteroid field",
+      "Historic:",
+      "  Forests",
+      "  Plains",
+      "  Grasslands",
+      "  Small seas",
+      "  Mountains"
+    ],
+    "interest": [
+      "Modern:",
+      "  The Graveyard",
+      "Historic:",
+      "  Aldera Royal Palace",
+      "  Apalis Coast",
+      "  Castle Lands",
+      "  Glarus Valley",
+      "  Juran Mountains",
+      "  Kaamos Territory",
+      "  King's Pass",
+      "  Museum of Antiquities",
+      "  Petrified Mounds of the Killiks",
+      "  University of Alderaan"
+    ],
+    "flora": [
+      "Arallute",
+      "Gingerbell",
+      "Hydenock tree",
+      "Kriin-wood",
+      "Ladalum",
+      "Malla petal",
+      "Muskwood",
+      "Oro wood",
+      "Starblossom",
+      "T'iil flower",
+      "Uwa"
+    ],
+    "fauna": [
+      "Alderaan furry moth",
+      "Bolraida",
+      "Grazer",
+      "Iraida",
+      "Nerf",
+      "Orobird",
+      "Stalking bird",
+      "Thranta",
+      "  Great thranta",
+      "  Pilotta thranta",
+      "Unidentified flying creature",
+      "Vorn tiger"
+    ],
+    "species": "Killik",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": [
+      "Elected monarchy and Alderaanian Parliament (pre-25,053–Cold War)",
+      "Self-declared monarchy (post-3653–3643 BBY)",
+      "Constitutional monarchy ( –0 BBY)"
+    ],
+    "population": [
+      "2 billion (pre-0 BBY):",
+      "  95% Humans",
+      "  5% other",
+      "0 (post-0 BBY)"
+    ],
+    "demonym": "Alderaanian, Alderaani",
+    "cities": [
+      "Aldera (capital)",
+      "Belleau-a-Lir",
+      "Chianar",
+      "Crevasse City",
+      "Juranno",
+      "Terrarium City"
+    ],
+    "imports": [
+      "Manufactured goods",
+      "Electronics"
+    ],
+    "exports": [
+      "Wine",
+      "Art",
+      "Luxury items"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Alderaanian",
+      "directory": "Alderaanian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Alderaanian",
+      "directory": "Alderaanian (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Mantellian Savrip",
+      "directory": "Mantellian Savrip (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alderaan",
+    "x": 1942.4,
+    "y": -89.5,
+    "z": 86.5,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

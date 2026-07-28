@@ -1,0 +1,43 @@
+{
+  "name": "Vellity",
+  "wookieepedia_title": "Vellity",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vellity",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vellity was a planet in the Trax sector's Vellity system, located in the Mid Rim. An agrarian world, it was the homeworld of the Near-Human Borneck.",
+  "lead_paragraphs": [
+    "Vellity was a planet in the Trax sector's Vellity system, located in the Mid Rim. An agrarian world, it was the homeworld of the Near-Human Borneck."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vellity",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Trax sector",
+    "system": "Vellity system",
+    "coordinates": "Q-10",
+    "terrain": [
+      "Cities",
+      "Farms"
+    ],
+    "species": "Borneck"
+  },
+  "homeworld_of": [
+    {
+      "name": "Borneck",
+      "directory": "Borneck",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vellity",
+    "x": 7681.8,
+    "y": -1025.4,
+    "z": 17.0,
+    "region": "Mid Rim",
+    "grid": "Q-10"
+  },
+  "scraped": "2026-07-03"
+}

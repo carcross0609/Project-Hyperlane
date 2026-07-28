@@ -1,0 +1,35 @@
+{
+  "name": "Wookiee",
+  "wookieepedia_title": "Wookiee/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wookiee/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Wookiees, whose name for themselves translated to the People of the Trees, were a species of tall, hairy humanoids that were inhabitants of the planet Kashyyyk. One of the most noteworthy members of the species was Chewbacca, Han Solo's best friend and co-pilot; who played a vital role in the Galactic Civil War and afterwards. A race of arboreal mammals, the Wookiees lived in treehouses nestled in the canopy of the towering wroshyr trees. Despite their fearsome appearance, they were usually gentle, although they were prone to devastating fits of rage when provoked.",
+  "data": {
+    "name": "Wookiee",
+    "designation": "Sentient",
+    "class": "Mammal",
+    "subspecies": [
+      "Rwooks",
+      "Silverbacks"
+    ],
+    "height": "Male: 2.1 meters",
+    "mass": [
+      "Male: 125 kilograms",
+      "Female: 100 kilograms"
+    ],
+    "skincolor": "Gray",
+    "haircolor": "Different shades of black, brown, and white in varying combinations",
+    "eyecolor": "Blue, green, yellow, golden, brown, red",
+    "distinctions": "Tall, hair covered, retractable climbing claws, long lifespans",
+    "lifespan": "More than 400 standard years",
+    "origin": "Nominally Kashyyyk; may have originated on an unknown planet",
+    "habitat": "Forest",
+    "language": [
+      "Shyriiwook",
+      "Xaczik",
+      "Thykarann"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

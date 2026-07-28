@@ -1,0 +1,47 @@
+{
+  "name": "Phorose",
+  "wookieepedia_title": "Phorose",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phorose",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Phorose was a planet located in the Colonies.",
+  "lead_paragraphs": [
+    "Phorose was a planet located in the Colonies."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Phorose",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "system": "Phorose system",
+    "coordinates": "M-13",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Ancient temples",
+      "Deserts",
+      "Mountains",
+      "Underground tunnels"
+    ],
+    "species": [
+      "Phorosians",
+      "Ru"
+    ],
+    "language": "Ru language",
+    "demonym": "Phorosian",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ru",
+      "directory": "Ru",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Mullan",
+  "wookieepedia_title": "Mullan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mullan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mullan was a terrestrial world located in the Mullan system. It was a part of the Keldrath sector in the Greater Tion historical region, which in turn was situated within the Slice portion of the Outer Rim Territories. The hyperlane known as the Pakuuni Drift connected Mullan to the Gbu system as well as the Brigia system in the neighboring Tion Hegemony sector.",
+  "lead_paragraphs": [
+    "Mullan was a terrestrial world located in the Mullan system. It was a part of the Keldrath sector in the Greater Tion historical region, which in turn was situated within the Slice portion of the Outer Rim Territories. The hyperlane known as the Pakuuni Drift connected Mullan to the Gbu system as well as the Brigia system in the neighboring Tion Hegemony sector.",
+    "Home to the mullanite plant, Mullan had been well-known for a long time for its placid population as well as for the hearty foodstuffs and simple wines the natives were exporting. Mullan managed to escape the long and turbulent history of the Greater Tion, and served as the capital of the Keldrath sector, which was established by the Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Mullan",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Greater Tion",
+      "  Keldrath sector"
+    ],
+    "system": "Mullan system",
+    "coordinates": "T-6",
+    "routes": "Pakuuni Drift",
+    "class": "Terrestrial",
+    "flora": "Mullanite",
+    "exports": [
+      "Foodstuffs",
+      "Wines"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Mullan",
+    "x": 12293.8,
+    "y": 5290.2,
+    "z": -553.5,
+    "region": "Outer Rim",
+    "grid": "T-6"
+  },
+  "scraped": "2026-07-03"
+}

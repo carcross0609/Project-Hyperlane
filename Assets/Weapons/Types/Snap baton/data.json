@@ -1,0 +1,25 @@
+{
+  "name": "Snap baton",
+  "wookieepedia_title": "Snap baton",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Snap_baton",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A snap baton was a collapsible baton that expanded from 12 centimeters to one meter. They were easily concealable or carried in a pocket or utility belt. Some custom upgrades (which doubled the price) that were sometimes incorporated included a panic button or a built-in glowrod. Many models existed, but the Merr-Sonn model was covered in a thin layer of dark sound absorbing material to help reduce the noise when the baton was deployed or used.",
+  "data": {
+    "name": "Snap baton",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "type": "Melee weapon",
+    "cost": "100—200 credits",
+    "length": [
+      "12 centimeters (collapsed)",
+      "1 meter (expanded)"
+    ],
+    "weight": "1 kilogram",
+    "purpose": [
+      "Melee weapon",
+      "Personal protection"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

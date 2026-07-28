@@ -1,0 +1,45 @@
+{
+  "name": "Rigel VII",
+  "wookieepedia_title": "Rigel VII",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rigel_VII",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rigel VII was a heavy-gravity planet in the Outer Rim Territories. Its native sentient species, the hulking Rigellians, were almost extinct at the time of the Galactic Civil War. The planet was also the homeworld of the Rigelian Iris.",
+  "lead_paragraphs": [
+    "Rigel VII was a heavy-gravity planet in the Outer Rim Territories. Its native sentient species, the hulking Rigellians, were almost extinct at the time of the Galactic Civil War. The planet was also the homeworld of the Rigelian Iris."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rigel VII",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Bheriz sector",
+    "system": "Rigel system",
+    "coordinates": "U-11",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "gravity": "Heavy",
+    "water": "Liquid",
+    "flora": "Rigelian Iris",
+    "species": "Rigellians",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rigellian",
+      "directory": "Rigellian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rigel VII",
+    "x": 14436.1,
+    "y": -1779.3,
+    "z": 385.5,
+    "region": "Outer Rim",
+    "grid": "U-11"
+  },
+  "scraped": "2026-07-03"
+}

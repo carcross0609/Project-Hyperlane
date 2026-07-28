@@ -1,0 +1,35 @@
+{
+  "name": "DLT-20A blaster rifle",
+  "wookieepedia_title": "DLT-20A blaster rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DLT-20A_blaster_rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The DLT-20A (also called a \"longblaster\" or \"longbarrel\") was a blaster rifle manufactured by BlasTech Industries sometime before the Galactic Civil War.",
+  "data": {
+    "name": "DLT-20A blaster rifle",
+    "manufacturer": "BlasTech Industries",
+    "model": "DLT-20A",
+    "type": "Blaster rifle",
+    "cost": "1,300 credits (Available for military use only)",
+    "shape": "Rifle-shaped",
+    "size": "Two-handed weapon",
+    "weight": "6.7 kg",
+    "capacity": [
+      "30 shots",
+      "Autofire mode available"
+    ],
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 450 m"
+    ],
+    "affiliation": [
+      "Grand Army of the Republic",
+      "  Republic recon patrols",
+      "Galactic Empire",
+      "  Imperial garrisons",
+      "Twi'lek freedom fighters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

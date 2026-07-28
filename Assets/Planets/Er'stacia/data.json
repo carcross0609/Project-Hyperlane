@@ -1,0 +1,38 @@
+{
+  "name": "Er'stacia",
+  "wookieepedia_title": "Er'stacia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Er%27stacia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Er'stacia was a planet in Wild Space and the homeworld of the Er'stacians.",
+  "lead_paragraphs": [
+    "Er'stacia was a planet in Wild Space and the homeworld of the Er'stacians."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Er'stacia",
+    "region": "Wild Space",
+    "system": "Er'stacia system",
+    "coordinates": "V-9",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "climate": "Temperate",
+    "terrain": "Tidal pools",
+    "interest": "Venerable One",
+    "species": "Er'stacians",
+    "demonym": "Er'stacian",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Er'stacian",
+      "directory": "Er'stacian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

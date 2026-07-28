@@ -1,0 +1,35 @@
+{
+  "name": "Titanicus",
+  "wookieepedia_title": "Titanicus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Titanicus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Titanicus was the fifth planet from the sun in the Sacorrian system. It was a gas giant orbited by 14 moons.",
+  "lead_paragraphs": [
+    "Titanicus was the fifth planet from the sun in the Sacorrian system. It was a gas giant orbited by 14 moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Titanicus",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "sector": "Corellian sector; Outlier systems",
+    "system": "Sacorrian system",
+    "coordinates": "M-11",
+    "suns": "1: Sacorria",
+    "moons": "14",
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Titanicus",
+    "x": 2069.4,
+    "y": -2384.3,
+    "z": -216.1,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

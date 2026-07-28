@@ -1,0 +1,36 @@
+{
+  "name": "Arcadia",
+  "wookieepedia_title": "Arcadia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arcadia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arcadia was the volcanic second planet in the Sacorrian system. It was orbited by a single moon.",
+  "lead_paragraphs": [
+    "Arcadia was the volcanic second planet in the Sacorrian system. It was orbited by a single moon."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Arcadia",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "sector": "Corellian sector; Outlier systems",
+    "system": "Sacorrian system",
+    "coordinates": "M-11",
+    "suns": "1: Sacorria",
+    "moons": "1",
+    "class": "Volcanic rock",
+    "terrain": "Volcanic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Arcadia",
+    "x": 2113.4,
+    "y": -1825.3,
+    "z": 20.4,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Lijuter",
+  "wookieepedia_title": "Lijuter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lijuter",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lijuter was the Houk homeworld. It was located near Hutt Space.",
+  "lead_paragraphs": [
+    "Lijuter was the Houk homeworld. It was located near Hutt Space."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Lijuter",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Suolriep sector",
+      "  Ansuroer sector"
+    ],
+    "system": "Reibrin system",
+    "coordinates": "S-8",
+    "position": "1",
+    "moons": "2",
+    "terrain": "Desert",
+    "species": "Houks",
+    "language": "Houkese",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Houk",
+      "directory": "Houk (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lijuter",
+    "x": 10852.9,
+    "y": 1619.4,
+    "z": -7.2,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

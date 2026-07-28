@@ -1,0 +1,20 @@
+{
+  "name": "Varovian",
+  "wookieepedia_title": "Varovian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Varovian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Varovians were a sentient species from the planet Varovia. Naarok of the Varovian Order of Seers was a Varovian.",
+  "data": {
+    "name": "Varovian",
+    "designation": "Sentient",
+    "skincolor": "Pink",
+    "distinctions": [
+      "Three eyes",
+      "One tusk"
+    ],
+    "origin": "Varovia"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Varovia"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ferroan",
+  "wookieepedia_title": "Ferroan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ferroan",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Ferroans were pale-blue skinned humanoids with gold eyes. Most females had white hair but some had traditional black hair. They were from Ferro and had colonized the Inner Ferro systems. They were known for their independence, reclusive manner, and for not often leaving their homes.",
+  "data": {
+    "name": "Ferroan",
+    "designation": "Sentient",
+    "skincolor": "Pale blue",
+    "haircolor": [
+      "White",
+      "Black"
+    ],
+    "eyecolor": "Gold",
+    "origin": "Ferro"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Ferro"
+}

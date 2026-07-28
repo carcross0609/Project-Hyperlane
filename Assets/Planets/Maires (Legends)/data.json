@@ -1,0 +1,51 @@
+{
+  "name": "Maires",
+  "wookieepedia_title": "Maires/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Maires/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Maires was the Mairan homeworld. It was an ocean world located in the Hapes Cluster.",
+  "lead_paragraphs": [
+    "Maires was the Mairan homeworld. It was an ocean world located in the Hapes Cluster."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Maires",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Hapes Cluster",
+    "system": "Maires system",
+    "coordinates": "O-9",
+    "terrain": "Oceans",
+    "species": "Mairan",
+    "language": "Mairan",
+    "affiliation": [
+      "Hapes Consortium",
+      "Galactic Empire",
+      "Galactic Alliance"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mairan",
+      "directory": "Mairan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Mairan",
+      "directory": "Mairan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Maires",
+    "x": 5068.8,
+    "y": 859.0,
+    "z": 203.8,
+    "region": "Inner Rim",
+    "grid": "O-9"
+  },
+  "scraped": "2026-07-03"
+}

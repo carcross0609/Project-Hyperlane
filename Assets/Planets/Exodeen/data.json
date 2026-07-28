@@ -1,0 +1,45 @@
+{
+  "name": "Exodeen",
+  "wookieepedia_title": "Exodeen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Exodeen",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Exodeen was a planet in the Colonies' Exodeen system, situated along the Hydian Way and Nanth'ri Trade Route. The Rebel Alliance operative Luke Skywalker traveled, aboard the yacht Desert Jewel, to Exodeen from the planet Denon to take the Nanth'ri Trade Route on his way to the planet Omereth. Imperial starships were present in Exodeen's system when the Jewel arrived, prompting its swift departure for the celestial body Nanth'ri.",
+  "lead_paragraphs": [
+    "Exodeen was a planet in the Colonies' Exodeen system, situated along the Hydian Way and Nanth'ri Trade Route. The Rebel Alliance operative Luke Skywalker traveled, aboard the yacht Desert Jewel, to Exodeen from the planet Denon to take the Nanth'ri Trade Route on his way to the planet Omereth. Imperial starships were present in Exodeen's system when the Jewel arrived, prompting its swift departure for the celestial body Nanth'ri."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Exodeen",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Exodeen system",
+    "coordinates": "M-12",
+    "routes": [
+      "Hydian Way",
+      "Nanth'ri Trade Route"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Exodeenian",
+      "directory": "Exodeenian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Exodeen",
+    "x": 2980.1,
+    "y": -3116.7,
+    "z": -32.2,
+    "region": "Colonies",
+    "grid": "M-12"
+  },
+  "scraped": "2026-07-03"
+}

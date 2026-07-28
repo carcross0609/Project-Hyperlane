@@ -1,0 +1,49 @@
+{
+  "name": "Zerm",
+  "wookieepedia_title": "Zerm/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zerm/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zerm was a planet located in the Kessel sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Zerm was a planet located in the Kessel sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Zerm",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Zerm system",
+    "coordinates": "T-10",
+    "routes": [
+      "Kessel Trade Corridor",
+      "Pabol Sleheyron"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Tropical",
+    "terrain": [
+      "Farmland",
+      "Rainforests"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Zerm",
+    "x": 12400.9,
+    "y": -304.8,
+    "z": 61.3,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

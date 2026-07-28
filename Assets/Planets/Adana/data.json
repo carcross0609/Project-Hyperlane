@@ -1,0 +1,40 @@
+{
+  "name": "Adana",
+  "wookieepedia_title": "Adana",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adana",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Adana was a planet in the Deep Core's Adana system, situated in Standard Galactic Grid square L-10. Adana was the homeworld of the Faust scientist Nuvo Vindi.",
+  "lead_paragraphs": [
+    "Adana was a planet in the Deep Core's Adana system, situated in Standard Galactic Grid square L-10. Adana was the homeworld of the Faust scientist Nuvo Vindi."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Adana",
+    "region": "Deep Core",
+    "sector": "None",
+    "system": "Adana system",
+    "coordinates": "L-10"
+  },
+  "homeworld_of": [
+    {
+      "name": "Faust",
+      "directory": "Faust",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Faust",
+      "directory": "Faust (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Adana",
+    "x": 637.5,
+    "y": -674.4,
+    "z": 2.9,
+    "region": "Deep Core",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

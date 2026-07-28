@@ -1,0 +1,37 @@
+# Split saber
+
+**Kind:** Model  
+**Continuity:** Canon  
+**Source:** [Split saber](https://starwars.fandom.com/wiki/Split_saber)
+
+A split saber was any type of lightsaber that could split into two separate lightsabers. Split sabers commonly came in the form of double-bladed lightsabers that could be split into a pair of single-bladed lightsabers. During the High Republic Era, the Jedi Keeve Trennis owned a green double-bladed lightsaber that she split into its component single blades for storage while not fighting. During the Clone Wars, Asajj Ventress, an assassin who served the Sith Lord Count Dooku, owned a pair of curved-hilt lightsabers that could attach together at the hilt. However, she rarely wielded her weapons in this fashion, doing so only briefly during the Battle of Teth. Several members of the Imperial Inquisitors, including the Third Sister, the Fifth Brother, and the Sixth Brother, used double-bladed spinning lightsabers capable of splitting into two blades. During the Imperial Era, former Jedi Padawan Cal Kestis wielded a split saber during his quest to try and rebuild the Jedi Order. Jedi Master Dagan Gera, who was placed in stasis during the High Republic Era, used a yellow-bladed lightsaber with similar functionality.
+
+## Specifications
+
+- **Name:** Split saber
+- **Model:** Lightsaber
+- **Type:**
+  - Pair of lightsabers conjoined at the hilt to form a single lightsaber:
+  - Double-bladed lightsaber (conjoined)
+  -   Single-bladed lightsabers (separate)
+  - Single-bladed lightsaber (conjoined)
+  -   Single-bladed lightsaber and shoto lightsaber (separate)
+- **Culture:**
+  - Jedi
+  - Sith
+- **Material:** Multiple kyber crystals
+- **Purpose:** Lightsaber combat
+- **Affiliation:**
+  - Jedi Order
+  - Sith
+  - Confederacy of Independent Systems
+  - Nightsisters
+  - Krayt's Claw
+  - Galactic Empire
+  -   Inquisitorius
+  - Mantis crew
+  - Bedlam Raiders
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

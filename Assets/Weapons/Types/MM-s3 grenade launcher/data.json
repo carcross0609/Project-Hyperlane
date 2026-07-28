@@ -1,0 +1,22 @@
+{
+  "name": "MM-s3 grenade launcher",
+  "wookieepedia_title": "MM-s3 grenade launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MM-s3_grenade_launcher",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The MM-s3 grenade launcher was a long-range grenade launcher manufactured by Merr-Sonn Munitions, Inc.. The MM-s3 was frequently combined with the WW-676 repulsorlift sled to form a combined artillery system known as the MobileMortar-3.",
+  "data": {
+    "name": "MM-s3 grenade launcher",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "type": "Grenade mortar",
+    "cost": "4,000 credits",
+    "weight": "20 kilograms (reduced to 2 kilograms with use of microrepulsorlift unit)",
+    "capacity": "12 (internal magazine)",
+    "range": [
+      "500 meters (optimum)",
+      "1 kilometer (maximum)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

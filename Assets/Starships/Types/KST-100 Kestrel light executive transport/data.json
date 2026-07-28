@@ -1,0 +1,28 @@
+{
+  "name": "KST-100 Kestrel light executive transport",
+  "wookieepedia_title": "KST-100 Kestrel light executive transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/KST-100_Kestrel_light_executive_transport",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The KST-100 Kestrel light executive transport, also known as the KST-100, was a limited run Light freighter produced by Corellian Engineering Corporation.",
+  "data": {
+    "name": "KST-100 Kestrel light executive transport",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "Light Freighter",
+    "cost": "120,000 credits",
+    "hyperdrive": [
+      "Class 3",
+      "Class 12 (backup)"
+    ],
+    "navigation": "Equipped",
+    "armament": "Forward mounted twin light laser cannons",
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)"
+    ],
+    "passengers": "At least 4",
+    "capacity": "70 tons",
+    "consumables": "Two months"
+  },
+  "scraped": "2026-07-03"
+}

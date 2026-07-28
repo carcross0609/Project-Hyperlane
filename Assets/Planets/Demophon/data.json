@@ -1,0 +1,82 @@
+{
+  "name": "Demophon",
+  "wookieepedia_title": "Demophon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Demophon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Demophon was a planet in the Core Worlds, the primary planet of the Demophon system. The planet had two continents, Junno and Klis, which were surrounded by a vast ocean. It was named for Alres Demophon, one of the founders of the Republic Scout Service.",
+  "lead_paragraphs": [
+    "Demophon was a planet in the Core Worlds, the primary planet of the Demophon system. The planet had two continents, Junno and Klis, which were surrounded by a vast ocean. It was named for Alres Demophon, one of the founders of the Republic Scout Service."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Demophon",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "sector": "Demophon sector",
+    "system": "Demophon system",
+    "coordinates": "M-10",
+    "suns": "Demophon",
+    "moons": "Nestro",
+    "routes": "Hydian Way",
+    "lengthday": "32 standard hours",
+    "lengthyear": "201 local days",
+    "atmosphere": "Type III (breath mask required)",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert",
+      "Industrial",
+      "Urban"
+    ],
+    "interest": "Byrneport",
+    "flora": "D'larah palm",
+    "otherspecies": "Human",
+    "government": [
+      "Demophon Council",
+      "Imperial Overlord with an advisory council"
+    ],
+    "population": [
+      "22 BBY:",
+      "35 million",
+      "Galactic Civil War:",
+      "43 million"
+    ],
+    "demonym": [
+      "Demophonic",
+      "Demophonian"
+    ],
+    "cities": [
+      "Byrne City (capital)",
+      "D'larah",
+      "Selkren",
+      "Vosk",
+      "Tiara"
+    ],
+    "imports": [
+      "Foodstuff",
+      "Manufactured goods",
+      "Luxury items"
+    ],
+    "exports": [
+      "Precious minerals",
+      "New technology"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Demophon",
+    "x": 1789.9,
+    "y": -497.7,
+    "z": 23.1,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

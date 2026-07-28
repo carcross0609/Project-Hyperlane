@@ -1,0 +1,69 @@
+{
+  "name": "New Cov",
+  "wookieepedia_title": "New Cov/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/New_Cov/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "New Cov was the third planet in the Churba system of the Churba sector, located in the Mid Rim.",
+  "lead_paragraphs": [
+    "New Cov was the third planet in the Churba system of the Churba sector, located in the Mid Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "New Cov",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Churba sector",
+    "system": "Churba system",
+    "coordinates": "P-14",
+    "suns": "1",
+    "position": "3",
+    "routes": [
+      "Corellian Run",
+      "Duros Space Run"
+    ],
+    "lengthday": "27 standard hours",
+    "lengthyear": "301 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": "Jungle",
+    "otherspecies": [
+      "Humans",
+      "A blue-skinned species"
+    ],
+    "language": "Basic",
+    "government": "Corporate",
+    "population": "90 million",
+    "demonym": "Covie",
+    "cities": "Ilic (capital)",
+    "imports": [
+      "High technology",
+      "Workers"
+    ],
+    "exports": "Biomolecules",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "New Cov",
+    "x": 6064.9,
+    "y": -7439.8,
+    "z": 11.4,
+    "region": "Mid Rim",
+    "grid": "P-14"
+  },
+  "scraped": "2026-07-03"
+}

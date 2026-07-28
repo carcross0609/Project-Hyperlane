@@ -1,0 +1,49 @@
+{
+  "name": "Unidentified probe droid (Hoth)",
+  "wookieepedia_title": "Unidentified probe droid (Hoth)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_probe_droid_%28Hoth%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "A Viper probe droid served the Galactic Empire as part of its search for the Rebel Alliance's hidden base following their Evacuation of Yavin. Along with thousands of other Viper probes of its model, the droid was developed for the Empire by Arakyd Industries in a project overseen personally by Darth Vader. Its construction occurred on Mechis III, a major droid manufacturing planet that, unknown to the Empire or most other organic beings, was under the control of IG-88, a quartet of assassin droids. The IG-88 droids' mastermind, IG-88A, altered the Viper probe droids' programming so that, even while they carried out the Empire's mission, they also gathered intelligence for a great droid revolution that the assassin was planning.",
+  "data": {
+    "type": "Galactic Empire",
+    "name": "Unidentified probe droid",
+    "homeworld": "Mechis III",
+    "birth": "After the Evacuation of Yavin",
+    "death": "3 ABY, Hoth",
+    "manufacturer": "Arakyd Industries",
+    "line": "Viper probe droid",
+    "class": "Probe droid",
+    "cost": "12,500 credits",
+    "height": "1.6 meters",
+    "pronouns": "it/its",
+    "sensor": "Black",
+    "plating": "Black",
+    "armament": [
+      "Blaster cannon (1)",
+      "Self-destruct mechanism",
+      "Probing laser beam"
+    ],
+    "equipment": [
+      "Broadband broadcast antenna",
+      "Integrated droid brain with Sentience programming",
+      "Investigation and analysis computer",
+      "Multipurpose appendages",
+      "Planetary sensor array",
+      "  Atmosphere sensor*",
+      "Long range sensor (range from 200m to 5km)",
+      "  Movement sensor (range up to 100m)",
+      "Repulsor generator",
+      "Several retractable manipulator arms",
+      "Several retractable sensor arms",
+      "Various recording devices"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Death Squadron",
+      "IG-88's Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

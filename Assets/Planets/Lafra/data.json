@@ -1,0 +1,47 @@
+{
+  "name": "Lafra",
+  "wookieepedia_title": "Lafra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lafra",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lafra was a planet in the Wyl sector of the Outer Rim with a variety of terrains. It was the home world of the Lafrarians, gray-skinned, avian humanoids who were once flyers but lost this ability over eons of evolutionary change. They built their homes in high, inaccessible locations on the planet (such as treetops or high mountain sides). Nearly everyone on the world owned a flying conveyance, with few land or water transports seeing use.",
+  "lead_paragraphs": [
+    "Lafra was a planet in the Wyl sector of the Outer Rim with a variety of terrains. It was the home world of the Lafrarians, gray-skinned, avian humanoids who were once flyers but lost this ability over eons of evolutionary change. They built their homes in high, inaccessible locations on the planet (such as treetops or high mountain sides). Nearly everyone on the world owned a flying conveyance, with few land or water transports seeing use.",
+    "An unfortunate incident involving an improperly maintained CSPL-12 projectile launcher resulted in the untimely death of Imperial General Azarin on this world.",
+    "The planet's smashball team played against that of Gathus."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lafra",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Wyl sector",
+    "system": "Lafra system",
+    "coordinates": "R-4",
+    "routes": "Authority Guardian Corridor",
+    "terrain": "Varied",
+    "species": "Lafrarians",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lafrarian",
+      "directory": "Lafrarian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lafra",
+    "x": 10202.8,
+    "y": 8639.1,
+    "z": 116.7,
+    "region": "Outer Rim",
+    "grid": "R-4"
+  },
+  "scraped": "2026-07-03"
+}

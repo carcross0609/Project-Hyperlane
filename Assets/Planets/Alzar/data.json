@@ -1,0 +1,59 @@
+{
+  "name": "Alzar",
+  "wookieepedia_title": "Alzar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alzar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alzar was a planet located in the Thanium sector of the Outer Rim Territories. The Alzarian homeworld, the world was devastated during the Stenax Massacres of 4 ABY.",
+  "lead_paragraphs": [
+    "Alzar was a planet located in the Thanium sector of the Outer Rim Territories. The Alzarian homeworld, the world was devastated during the Stenax Massacres of 4 ABY."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Alzar",
+    "region": [
+      "Outer Rim Territories",
+      "Borderland Regions"
+    ],
+    "sector": "Thanium sector",
+    "system": "Alzar system",
+    "coordinates": "R-6",
+    "class": "Terrestrial",
+    "terrain": "Arid plains",
+    "interest": "Alzarian palace",
+    "species": "Alzarians",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Alzarian monarchy",
+    "population": "10 million to 100 million",
+    "cities": "Royal City",
+    "affiliation": [
+      "Galactic Republic",
+      "Mandalorian Empire",
+      "Sith Empire",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Alzarian",
+      "directory": "Alzarian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alzar",
+    "x": 9942.5,
+    "y": 5775.0,
+    "z": 115.2,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

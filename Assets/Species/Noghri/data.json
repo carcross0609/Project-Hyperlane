@@ -1,0 +1,22 @@
+{
+  "name": "Noghri",
+  "wookieepedia_title": "Noghri",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Noghri",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Noghri were a sentient species native to Honoghr. They had gray skin, a row of horns on their head and ran on all fours. Noghri were known for their combat skills and keen sense of smell.",
+  "data": {
+    "name": "Noghri",
+    "class": "Humanoid",
+    "skincolor": "Gray",
+    "eyecolor": [
+      "Green",
+      "Silver"
+    ],
+    "distinctions": "Keen sense of smell",
+    "origin": "Honoghr",
+    "language": "Noghri language"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Honoghr (Legends)"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Sudden Death",
+  "wookieepedia_title": "Sudden Death",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sudden_Death",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Sudden Death was a modified MRX-BR Pacifier owned by the bounty hunter Iceman. He added an additional proton torpedo launcher and additional prisoner space by converting the passenger quarters into a brig.",
+  "data": {
+    "name": "Sudden Death",
+    "manufacturer": "Sydon Vehicle Works",
+    "model": "Modified MRX-BR Pacifier",
+    "type": "Starfighter",
+    "modifier": "Iceman",
+    "length": "25 meters",
+    "max_speed": "1,200 KMH",
+    "hyperdrive": [
+      "Class 1",
+      "Class 5"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Navigation computer",
+    "armament": [
+      "3 laser cannons",
+      "3 proton torpedo launchers"
+    ],
+    "crew": "1",
+    "passengers": "8 prisoners",
+    "capacity": "25 metric tons",
+    "consumables": "1 year",
+    "owners": "Iceman"
+  },
+  "scraped": "2026-07-03"
+}

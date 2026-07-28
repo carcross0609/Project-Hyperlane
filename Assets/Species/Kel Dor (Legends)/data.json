@@ -1,0 +1,28 @@
+{
+  "name": "Kel Dor",
+  "wookieepedia_title": "Kel Dor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kel_Dor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Kel Dors, sometimes referred to as Kel Dorians, were a sentient species hailing from the technological planet Dorin. They required masks to protect them when in oxygen-rich atmospheres. They were also known for the unique Force-using traditions of the Baran Do Sages. One notable Kel Dor was the Jedi Master Plo Koon, who was a member of a famous Kel Dor Jedi family. Sha Koon, a Jedi Knight, was Plo Koon's niece.",
+  "data": {
+    "name": "Kel Dor",
+    "designation": "Sentient",
+    "class": [
+      "Humanoid",
+      "Mammalian"
+    ],
+    "height": "1.4 - 2 meters",
+    "skincolor": "Ranged from peach to crimson red",
+    "eyecolor": [
+      "Black",
+      "Silver (Force-sensitives)"
+    ],
+    "distinctions": "Protective masks when in oxygen-rich atmospheres",
+    "lifespan": "70+ standard years",
+    "origin": "Dorin",
+    "language": "Kel Dor and Galactic Basic Standard"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Dorin (Legends)"
+}

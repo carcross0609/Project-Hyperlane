@@ -1,0 +1,52 @@
+{
+  "name": "Derellium",
+  "wookieepedia_title": "Derellium",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Derellium",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Derellium was a planet located within the Cronese Mandate of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Derellium was a planet located within the Cronese Mandate of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Derellium",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Tion",
+      "    Tion Cluster",
+      "The Slice"
+    ],
+    "sector": "Cronese Mandate",
+    "system": "Derellium system",
+    "coordinates": "S-6",
+    "routes": [
+      "Greater Cronese Arc",
+      "Indrexu Route",
+      "Lesser Cronese Arc"
+    ],
+    "class": "Terrestrial",
+    "exports": "Derellium Wine",
+    "affiliation": [
+      "Kingdom of Cron",
+      "Xer's Empire",
+      "Xim's empire",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Derellium",
+    "x": 11496.5,
+    "y": 5158.2,
+    "z": 36.2,
+    "region": "Outer Rim",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

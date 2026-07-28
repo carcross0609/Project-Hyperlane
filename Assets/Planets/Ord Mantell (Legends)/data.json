@@ -1,0 +1,150 @@
+{
+  "name": "Ord Mantell",
+  "wookieepedia_title": "Ord Mantell/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ord_Mantell/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ord Mantell was a terrestrial planet which was located into the Bright Jewel system of the Bright Jewel sector in the Mid Rim Territories. It was located near Anobis and was originally settled by the Galactic Republic circa 12,000 BBY as an Ordnance/Regional Depot.",
+  "lead_paragraphs": [
+    "Ord Mantell was a terrestrial planet which was located into the Bright Jewel system of the Bright Jewel sector in the Mid Rim Territories. It was located near Anobis and was originally settled by the Galactic Republic circa 12,000 BBY as an Ordnance/Regional Depot.",
+    "The planet was primarily known as a former industrial world, where large portions of the planet's surface was covered in immense junkyard fields, which served as the perfect lawless haven for many smugglers, mercenaries and bounty hunters of all stripes. Although a dangerous place, its strategic location on the Celanon Spur between the Expansion Region and the Outer Rim Territories gradually made the planet as the leading commercial hub not only of the Bright Jewel sector, but of the Dohu sector and Qiilura sector as well."
+  ],
+  "article_sections": [
+    "Description",
+    "  Overview",
+    "  Surface",
+    "  Environment",
+    "History",
+    "  Discovery",
+    "  Old Republic era",
+    "  An era of peace",
+    "  Clone Wars",
+    "  Galactic Empire",
+    "  New Republic",
+    "  Yuuzhan Vong War",
+    "Inhabitants",
+    "  Mantellian Savrips",
+    "  Immigrated species",
+    "  Government and politics",
+    "  Economy",
+    "  Entertainment and sports",
+    "Locations",
+    "  Worlport",
+    "  Scraplands",
+    "  Avilatan"
+  ],
+  "data": {
+    "name": "Ord Mantell",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Bright Jewel sector, Bright Jewel Cluster",
+    "system": "Bright Jewel system",
+    "coordinates": "L-7",
+    "distance": "About 20,000 light-years",
+    "suns": "1: Bright Jewel",
+    "position": "2",
+    "moons": "15 (inc. the twin moons)",
+    "routes": [
+      "Celanon Spur",
+      "Entralla Route"
+    ],
+    "lengthday": "26 standard hours",
+    "lengthyear": "334 local days",
+    "class": "Terrestrial",
+    "diameter": "14,050 kilometers",
+    "atmosphere": "Oxygen mix",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Plains",
+      "Jungles",
+      "Seas",
+      "Mesas",
+      "Volcanic islands",
+      "Urban"
+    ],
+    "water": "Saltwater lakes",
+    "interest": [
+      "Avilatan",
+      "Casino District",
+      "First Galactic Bank of Ord Mantell",
+      "Jubilee Wheel",
+      "Nobody's Inn",
+      "Scraplands"
+    ],
+    "fauna": [
+      "Mantellian flutterplume",
+      "Gapillian grazer",
+      "Razoronn",
+      "Spikeshell"
+    ],
+    "species": "Mantellian Savrip (semi-sentient)",
+    "otherspecies": [
+      "Arcona",
+      "Aqualish",
+      "Bith",
+      "Bothans",
+      "Devaronians",
+      "Gran",
+      "Humans",
+      "Ithorians",
+      "Rodians",
+      "Rybets",
+      "Sayormi",
+      "Sullustans",
+      "Talz",
+      "Trandoshans",
+      "Wookiees",
+      "Zabraks"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": [
+      "Ord Mantell Central Authority",
+      "New Republic governorship"
+    ],
+    "population": "4 billion",
+    "demonym": "Ord Mantellian",
+    "cities": [
+      "Worlport (capital)",
+      "Great Rock",
+      "Trader's Quarter"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Raw materials",
+      "Technology"
+    ],
+    "exports": "Manufactured goods",
+    "affiliation": [
+      "Galactic Republic",
+      "Brotherhood of Darkness",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mantellian Savrip",
+      "directory": "Mantellian Savrip",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Mantellian Savrip",
+      "directory": "Mantellian Savrip (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ord Mantell",
+    "x": 71.1,
+    "y": 3824.5,
+    "z": 137.2,
+    "region": "Mid Rim",
+    "grid": "L-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Kidron",
+  "wookieepedia_title": "Kidron/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kidron/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kidron was a planet in Elrood sector, on the Elrood-Derilyn Trade Route. It was the homeworld of the sentient Orfite species as well as the quamin and slork creatures. Attakril Meats also operated on the planet.",
+  "lead_paragraphs": [
+    "Kidron was a planet in Elrood sector, on the Elrood-Derilyn Trade Route. It was the homeworld of the sentient Orfite species as well as the quamin and slork creatures. Attakril Meats also operated on the planet."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Kidron",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Kidron system",
+    "coordinates": "M-20",
+    "suns": "1: Kidros",
+    "position": "2",
+    "moons": [
+      "4 moons:",
+      "Primor",
+      "Segual"
+    ],
+    "routes": "Elrood-Derilyn Trade Route",
+    "atmosphere": "Thin",
+    "terrain": [
+      "Rainforests",
+      "Jungles",
+      "Mountains"
+    ],
+    "interest": [
+      "Orfa City (capital)",
+      "High City of Refuge"
+    ],
+    "fauna": [
+      "Quamilla",
+      "Redjik",
+      "Slork",
+      "Sodbeast"
+    ],
+    "species": "Orfite",
+    "otherspecies": [
+      "Gamorrean",
+      "Human"
+    ],
+    "language": [
+      "Basic",
+      "Orfite vernacular"
+    ],
+    "population": "20 million",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Orfite",
+      "directory": "Orfite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kidron",
+    "x": 12461.4,
+    "y": 1914.5,
+    "z": 659.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

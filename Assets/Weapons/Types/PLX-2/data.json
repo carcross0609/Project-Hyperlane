@@ -1,0 +1,28 @@
+{
+  "name": "PLX-2",
+  "wookieepedia_title": "PLX-2",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/PLX-2",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The PLX-2 was a portable missile launcher manufactured by Merr-Sonn Munitions, Inc. during the Galactic Civil War. It was effective against repulsorcraft, as well as vehicles, atmospheric flying craft, fortifications, and other missiles. The PLX-2 was a lightweight shoulder-mounted launcher operated by a single soldier. The launcher housed one missile in the chamber, and a second in reserve. It could fire two separate kind of missiles rounds; \"dumb\" rockets and GAM guided missiles. The \"dumb\" rockets were fired in a line-of-sight attack, but the GAM guided missiles could be programmed to track a target. The GAM guided missile supported two tracking modes, which were selectable by a firing stud on the launcher itself. In EPR mode, the missile locked onto to IR sources such as vehicle exhaust or missile contrails. In Gravity-Activated Mode—after which the missile is named—the missile's targeting computer recorded the target's silhouette and pursued it until close enough to lock onto the gravity-wave anomalies from the target's repulsorlift. A GAM guide missile in GAM mode could track a target for forty kilometers before running out of fuel, although it could be confused by other targets and evasive maneuvers.",
+  "data": {
+    "name": "PLX-2",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "model": "PLX series",
+    "type": "Portable missile launcher",
+    "cost": "4,000 credits",
+    "capacity": "2",
+    "range": [
+      "25–100 meters (short range)",
+      "101–300 meters (medium range)",
+      "301–500 meters (long range)"
+    ],
+    "purpose": "Anti-vehicle missile launcher",
+    "affiliation": [
+      "Galactic Republic (Prototype)",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

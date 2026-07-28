@@ -1,0 +1,43 @@
+{
+  "name": "Ragith III",
+  "wookieepedia_title": "Ragith III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ragith_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ragith III was a minor world in the Expansion Region, that had been settled by Humans for several generations by the time of the Dissolution of the Imperial Senate. The Ragithian Human inhabitants were descendant from colonists genetically bred and selected to adapt to the high gravity of the planet. Rodo the bouncer came from Ragith III.",
+  "lead_paragraphs": [
+    "Ragith III was a minor world in the Expansion Region, that had been settled by Humans for several generations by the time of the Dissolution of the Imperial Senate. The Ragithian Human inhabitants were descendant from colonists genetically bred and selected to adapt to the high gravity of the planet. Rodo the bouncer came from Ragith III."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ragith III",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Majoor sector",
+    "system": "Ragith system",
+    "coordinates": "N-15",
+    "routes": "Hydian Way",
+    "class": "Terrestrial",
+    "gravity": "1.5 Standard",
+    "species": "Ragithian Humans",
+    "otherspecies": "Humans"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ragithian Human",
+      "directory": "Ragithian Human",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ragith III",
+    "x": 3463.4,
+    "y": -7887.4,
+    "z": 76.7,
+    "region": "Expansion Region",
+    "grid": "N-15"
+  },
+  "scraped": "2026-07-03"
+}

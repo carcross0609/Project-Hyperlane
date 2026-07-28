@@ -1,0 +1,70 @@
+{
+  "name": "Emmer",
+  "wookieepedia_title": "Emmer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Emmer",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Emmer, originally known as Umhul while it was part of Xim's empire, was a high-gravity planet in the Nilgaard sector that was covered in glowing grass and urban sprawls. The planet joined the Galactic Republic prior to 45 BBY. Emmerian walker vehicles inspired those built by Kuat Drive Yards, such as the AT-AT.",
+  "lead_paragraphs": [
+    "Emmer, originally known as Umhul while it was part of Xim's empire, was a high-gravity planet in the Nilgaard sector that was covered in glowing grass and urban sprawls. The planet joined the Galactic Republic prior to 45 BBY. Emmerian walker vehicles inspired those built by Kuat Drive Yards, such as the AT-AT.",
+    "By 4 ABY, the planet had become an Imperial fortress world. Following the Battle of Endor, New Republic-aligned Mon Calamari were able to defeat Imperial forces there. However, Warlord Zsinj later took control of the planet. The New Republic freed the planet during the Post–Zsinj campaigns in 8.5 ABY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Emmer",
+    "region": "Outer Rim Territories",
+    "sector": "Nilgaard sector",
+    "system": "Emmer system",
+    "coordinates": "S-5",
+    "lengthday": "36 hours",
+    "lengthyear": "465 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Grasslands",
+      "Plains",
+      "Urban"
+    ],
+    "water": "Moderate",
+    "species": "Emmerians",
+    "otherspecies": [
+      "Defels",
+      "Gamorreans",
+      "Herglic",
+      "Ugors"
+    ],
+    "population": [
+      "14 million (planet)",
+      "290,000 (orbital stations)",
+      "30,000 (asteroids)"
+    ],
+    "imports": [
+      "Luxury goods",
+      "Machinery",
+      "Medicinal goods",
+      "Metals",
+      "Minerals"
+    ],
+    "exports": [
+      "Foodstuffs",
+      "Walkers"
+    ],
+    "affiliation": [
+      "Xim's empire",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Emmer",
+    "x": 11264.9,
+    "y": 7159.5,
+    "z": -59.7,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

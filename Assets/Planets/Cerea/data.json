@@ -1,0 +1,53 @@
+{
+  "name": "Cerea",
+  "wookieepedia_title": "Cerea",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cerea",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Cerea was a planet located in the galaxy's Mid Rim. It was a paradise largely unspoiled by the ravages of technology. It was the homeworld of the Cereans, including the Jedi Master Ki-Adi-Mundi, who served as a member of the Jedi High Council during the waning days of the Galactic Republic. Cerea was home to big bipedal birds known as aryx, which the Rebel communications specialist Kidi Aleri rode.",
+  "lead_paragraphs": [
+    "Cerea was a planet located in the galaxy's Mid Rim. It was a paradise largely unspoiled by the ravages of technology. It was the homeworld of the Cereans, including the Jedi Master Ki-Adi-Mundi, who served as a member of the Jedi High Council during the waning days of the Galactic Republic. Cerea was home to big bipedal birds known as aryx, which the Rebel communications specialist Kidi Aleri rode."
+  ],
+  "article_sections": [
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Cerea",
+    "region": "Mid Rim Territories",
+    "sector": "Semagi sector",
+    "system": "Cerea system",
+    "coordinates": "I-16",
+    "routes": [
+      "Cerean Reach",
+      "Great Gran Run",
+      "Spar Trade Route"
+    ],
+    "terrain": "Forests",
+    "fauna": "Aryx",
+    "species": "Cerean",
+    "otherspecies": "Human",
+    "cities": "Asphodar 3"
+  },
+  "homeworld_of": [
+    {
+      "name": "Cerean",
+      "directory": "Cerean",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Cerean",
+      "directory": "Cerean (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cerea",
+    "x": -3636.4,
+    "y": -9964.5,
+    "z": -193.2,
+    "region": "Mid Rim",
+    "grid": "I-16"
+  },
+  "scraped": "2026-07-03"
+}

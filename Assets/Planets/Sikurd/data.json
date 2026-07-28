@@ -1,0 +1,38 @@
+{
+  "name": "Sikurd",
+  "wookieepedia_title": "Sikurd",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sikurd",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sikurd was a planet located in the Sikurd system within the Tynquay sector in the Outer Rim Territories, and it was the homeworld of the Sikurdian species. It was also where Sikurdian battle-axes were made.",
+  "lead_paragraphs": [
+    "Sikurd was a planet located in the Sikurd system within the Tynquay sector in the Outer Rim Territories, and it was the homeworld of the Sikurdian species. It was also where Sikurdian battle-axes were made."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sikurd",
+    "region": "Outer Rim Territories",
+    "sector": "Tynquay sector",
+    "system": "Sikurd system",
+    "coordinates": "Q-4",
+    "routes": "Listehol Run",
+    "species": "Sikurdian",
+    "population": "10 million to 100 million (c. 25 ABY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sikurdian",
+      "directory": "Sikurdian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sikurd",
+    "x": 8417.3,
+    "y": 8181.3,
+    "z": 636.7,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

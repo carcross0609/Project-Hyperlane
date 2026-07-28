@@ -1,0 +1,45 @@
+{
+  "name": "Fedje",
+  "wookieepedia_title": "Fedje",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fedje",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fedje was a planet in the Outer Rim's Atrivis sector. It was home to many exotic creatures, including the rare folded ear boosqueak. The planet was visited by members of the Alliance to Restore the Republic during the Galactic Civil War. Imperial Intelligence operatives later posed as natives of the planet while carrying out sabotage on the Bothan homeworld Bothawui.",
+  "lead_paragraphs": [
+    "Fedje was a planet in the Outer Rim's Atrivis sector. It was home to many exotic creatures, including the rare folded ear boosqueak. The planet was visited by members of the Alliance to Restore the Republic during the Galactic Civil War. Imperial Intelligence operatives later posed as natives of the planet while carrying out sabotage on the Bothan homeworld Bothawui."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Star Wars: Rebellion cartography"
+  ],
+  "data": {
+    "name": "Fedje",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Atrivis sector",
+    "system": "Fedje system",
+    "coordinates": "L-5",
+    "routes": [
+      "Braxant Run",
+      "Relgim Run"
+    ],
+    "terrain": "Forests",
+    "interest": "Betreasley district",
+    "fauna": "Folded ear boosqueak",
+    "otherspecies": "Humans",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Fedje",
+    "x": 1111.8,
+    "y": 6388.4,
+    "z": 48.6,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

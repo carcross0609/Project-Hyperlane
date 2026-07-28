@@ -1,0 +1,57 @@
+{
+  "name": "Bosph",
+  "wookieepedia_title": "Bosph/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bosph/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bosph was the homeworld of the Bosph species. Located in the Bosph sector, it was discovered by the Republic several decades before the rise of the Empire. Due to the Bosphs' Force-sensitivity, Moff Harsh bombarded the planet. The Bosphs went into denial, pretending the bombardment had never occurred; though in reality, the planet was almost completely destroyed. After this, the planet itself was covered in grassy plains broken by the scars of turbolaser fire.",
+  "lead_paragraphs": [
+    "Bosph was the homeworld of the Bosph species. Located in the Bosph sector, it was discovered by the Republic several decades before the rise of the Empire. Due to the Bosphs' Force-sensitivity, Moff Harsh bombarded the planet. The Bosphs went into denial, pretending the bombardment had never occurred; though in reality, the planet was almost completely destroyed. After this, the planet itself was covered in grassy plains broken by the scars of turbolaser fire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Bosph",
+    "region": "Outer Rim Territories",
+    "sector": "Bosph sector",
+    "system": "Bosph system",
+    "coordinates": "Q-3",
+    "moons": "At least 2",
+    "terrain": "Grassy plains",
+    "fauna": [
+      "Favria",
+      "Luprisi",
+      "Umul"
+    ],
+    "species": "Bosph",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Bosph",
+      "directory": "Bosph (species)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Bosph precursor species",
+      "directory": "Bosph precursor species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified Bosph species",
+      "directory": "Unidentified Bosph species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Bosph",
+    "x": 7792.3,
+    "y": 9746.9,
+    "z": 206.9,
+    "region": "Outer Rim",
+    "grid": "Q-3"
+  },
+  "scraped": "2026-07-03"
+}

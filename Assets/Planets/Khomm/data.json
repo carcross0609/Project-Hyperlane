@@ -1,0 +1,45 @@
+{
+  "name": "Khomm",
+  "wookieepedia_title": "Khomm",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Khomm",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Khomm was a planet located in the Khomm system of the galaxy's Deep Core. It had many oceans and was the homeworld of the Khommites and the Khommite striders. Khomm participated in cloning that left behind logo proteins. Those proteins could be used after the clone's creation to determine the clone hailed from Khomm.",
+  "lead_paragraphs": [
+    "Khomm was a planet located in the Khomm system of the galaxy's Deep Core. It had many oceans and was the homeworld of the Khommites and the Khommite striders. Khomm participated in cloning that left behind logo proteins. Those proteins could be used after the clone's creation to determine the clone hailed from Khomm."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Khomm",
+    "region": "Deep Core",
+    "sector": "None",
+    "system": "Khomm system",
+    "coordinates": "L-12",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen",
+    "terrain": "Oceans",
+    "fauna": "Khommite striders",
+    "species": "Khommites"
+  },
+  "homeworld_of": [
+    {
+      "name": "Khommite",
+      "directory": "Khommite",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Khommite",
+      "directory": "Khommite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Khomm",
+    "x": 187.6,
+    "y": -3827.1,
+    "z": -14.1,
+    "region": "Deep Core",
+    "grid": "L-12"
+  },
+  "scraped": "2026-07-03"
+}

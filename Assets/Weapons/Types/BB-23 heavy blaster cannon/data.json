@@ -1,0 +1,37 @@
+{
+  "name": "BB-23 heavy blaster cannon",
+  "wookieepedia_title": "BB-23 heavy blaster cannon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BB-23_heavy_blaster_cannon",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Merr-Sonn BB-23 heavy blaster cannon was an anti-personnel weapon used by heavy weapon specialists in the Sith Lord Darth Krayt's Imperial Army during the Second Imperial Civil War. The BB-23 was of considerable size and could unleash a great deal of damage against enemy infantry, gaining it the nickname \"big gun.\" However, the blaster cannon had to be reloaded after every four shots, requiring the user to carry around a large amount of ammunition. The stormtrooper Jes Gistang of Joker Squad used a BB-23 heavy blaster cannon during the Empire's assault on Borosk, a planet controlled by the rival Empire-in-exile, in 137 ABY. During the second day of fighting, Gistang was killed in an explosion that also incinerated her BB-23.",
+  "data": {
+    "name": "BB-23 heavy blaster cannon",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "model": "BB-23",
+    "type": "Heavy blaster cannon",
+    "locations": [
+      "Imperial base, Yinchorr",
+      "908th's HQ, Borosk"
+    ],
+    "cost": "4,200 credits (available for military use only)",
+    "size": "Large",
+    "weight": "22 kilograms",
+    "capacity": [
+      "4 shots to 10 shots",
+      "Collateral damage to adjacent targets"
+    ],
+    "range": [
+      "Up to 75 m (optimum)",
+      "375 m (maximum)"
+    ],
+    "purpose": "Anti-personnel weaponry",
+    "affiliation": [
+      "Darth Krayt's Galactic Empire",
+      "  407th Stormtrooper Division",
+      "    Joker Squad"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

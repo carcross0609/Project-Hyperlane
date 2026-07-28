@@ -1,0 +1,39 @@
+{
+  "name": "Dromund Kaas",
+  "wookieepedia_title": "Dromund Kaas",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dromund_Kaas",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Dromund Kaas was a world in the Dromund Kaas system of the Sith Worlds within the Esstran sector of the Outer Rim Territories. It fell within grid square R-5 on the Standard Galactic Grid. Along with the planet Moraband, it was once believed to be a myth.",
+  "lead_paragraphs": [
+    "Dromund Kaas was a world in the Dromund Kaas system of the Sith Worlds within the Esstran sector of the Outer Rim Territories. It fell within grid square R-5 on the Standard Galactic Grid. Along with the planet Moraband, it was once believed to be a myth.",
+    "During his reign as the Dark Lord of the Sith, Darth Sidious was believed by historian Beaumont Kin to have visited this world in search of Sith relics, based upon findings made by the Exegol Excavation Project on the Sith-controlled planet Exegol. Kin mentioned Dromund Kaas in his book The Rise and Fall of the Galactic Empire in 35 ABY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dromund Kaas",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Esstran sector",
+      "  Sith Worlds"
+    ],
+    "system": "Dromund Kaas system",
+    "coordinates": "R-5"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sith",
+      "directory": "Sith (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dromund Kaas",
+    "x": 9530.6,
+    "y": 7255.2,
+    "z": -134.9,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

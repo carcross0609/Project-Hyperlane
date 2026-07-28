@@ -1,0 +1,33 @@
+{
+  "name": "Oolidi",
+  "wookieepedia_title": "Oolidi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oolidi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Oolidi was a planet that was located in the Expansion Region. Oolidi was also the Oolid homeworld.",
+  "lead_paragraphs": [
+    "Oolidi was a planet that was located in the Expansion Region. Oolidi was also the Oolid homeworld."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Oolidi",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Hythrope sector",
+    "system": "Oolidi system",
+    "coordinates": "M-16",
+    "species": "Oolids",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Oolid",
+      "directory": "Oolid",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

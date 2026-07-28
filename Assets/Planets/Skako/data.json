@@ -1,0 +1,47 @@
+{
+  "name": "Skako",
+  "wookieepedia_title": "Skako",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skako",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Skako was a planet in the Skako system in the Core Worlds region of the galaxy which was the homeworld of the sentient Skakoan species. It had a high-pressure methane atmosphere that was unpleasant or deadly to offworlders. Using the methane and Skako's plentiful metallic resources, the technology-focused Skakoans covered the planet in industry and turned it into an ecumenopolis. For many millennia it remained disconnected from the Galactic Republic due to the Skakoans' xenophobic and isolationist tendencies, but eventually the Skakoan Foreman Wat Tambor of the Techno Union became de facto representative of the world and its people in the Galactic Senate.",
+  "lead_paragraphs": [
+    "Skako was a planet in the Skako system in the Core Worlds region of the galaxy which was the homeworld of the sentient Skakoan species. It had a high-pressure methane atmosphere that was unpleasant or deadly to offworlders. Using the methane and Skako's plentiful metallic resources, the technology-focused Skakoans covered the planet in industry and turned it into an ecumenopolis. For many millennia it remained disconnected from the Galactic Republic due to the Skakoans' xenophobic and isolationist tendencies, but eventually the Skakoan Foreman Wat Tambor of the Techno Union became de facto representative of the world and its people in the Galactic Senate.",
+    "During the Clone Wars, the world indirectly supported the Confederacy of Independent Systems, due to Tambor's allegiance with them. As a consequence, it was captured by the Republic. Following the end of the war, the Galactic Empire placed emigration restrictions on Skako and caused its people to suffer greatly, although many Skakoans were happy to remain isolated from the galaxy on Skako."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Skako",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Skako system",
+    "coordinates": "L-9",
+    "routes": "Hydian Way",
+    "atmosphere": "High-pressure methane",
+    "fauna": "Octuptarra",
+    "species": "Skakoan",
+    "language": "Skakoverbal",
+    "government": "Techno Union",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Skakoan",
+      "directory": "Skakoan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Skakoan",
+      "directory": "Skakoan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

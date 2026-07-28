@@ -1,0 +1,80 @@
+{
+  "name": "D'Qar",
+  "wookieepedia_title": "D'Qar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/D%27Qar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "D'Qar was a verdant planet located in the Ileenium system of the Outer Rim Territories. By the thirtieth year after the formation of the New Republic, the planet was the location of the headquarters of the Resistance, a private paramilitary force formed by Senator Leia Organa to combat the growing threat of the First Order, a self-proclaimed continuation of the Galactic Empire.",
+  "lead_paragraphs": [
+    "D'Qar was a verdant planet located in the Ileenium system of the Outer Rim Territories. By the thirtieth year after the formation of the New Republic, the planet was the location of the headquarters of the Resistance, a private paramilitary force formed by Senator Leia Organa to combat the growing threat of the First Order, a self-proclaimed continuation of the Galactic Empire.",
+    "After destroying the First Order's Starkiller Base superweapon, the Resistance evacuated their base, but were caught by a First Order fleet. The Resistance escaped into hyperspace from the resulting battle, but not before taking heavy losses and destroying the First Order dreadnought Fulminatrix. Some time later, the Colossus space station arrived above D'Qar, hoping to meet with the Resistance to refuel, but found only the wreckage from the Resistance's battle with the First Order. While salvaging the wreckage of the destroyed dreadnought, the First Order tracked the station to D'Qar, and attempted to attack and destroy it. The Colossus was refueled using salvaged coaxium and managed to escape from the system."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Galactic Civil War",
+    "  Conflict with the First Order",
+    "Inhabitants",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "D'Qar",
+    "region": [
+      "Outer Rim Territories",
+      "  Occlusion Zone",
+      "Trailing Sectors"
+    ],
+    "sector": "Sanbra sector",
+    "system": "Ileenium system",
+    "coordinates": "O-17",
+    "suns": "1: Ileenium",
+    "moons": "2",
+    "lengthyear": "415 days",
+    "class": "Terrestrial",
+    "diameter": "10,400 kilometers",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Jungle",
+      "Plains",
+      "Forest canopies"
+    ],
+    "interest": "Resistance base",
+    "flora": [
+      "Trees",
+      "Creepervine"
+    ],
+    "fauna": [
+      "Castua crane",
+      "Dragonflies",
+      "Dressto",
+      "Insects",
+      "Sonar swallow",
+      "Squonk",
+      "Stinging midge",
+      "Unidentified lizard"
+    ],
+    "population": "None",
+    "affiliation": [
+      "Partisans",
+      "Alliance to Restore the Republic",
+      "Resistance"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified shape-shifting creature",
+      "directory": "Unidentified shape-shifting creature",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "D'Qar",
+    "x": 5066.4,
+    "y": -11776.5,
+    "z": 231.9,
+    "region": "Outer Rim",
+    "grid": "O-17"
+  },
+  "scraped": "2026-07-03"
+}

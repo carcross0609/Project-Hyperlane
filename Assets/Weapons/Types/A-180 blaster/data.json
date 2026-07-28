@@ -1,0 +1,33 @@
+{
+  "name": "A-180 blaster",
+  "wookieepedia_title": "A-180 blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/A-180_blaster",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The A-180 blaster, also known as the A180 pistol or simply the A-180, was a modular blaster manufactured by BlasTech Industries. It could be configured to serve as a rifle, pistol, sniper rifle, and ion launcher.",
+  "data": {
+    "name": "A-180 blaster",
+    "manufacturer": "BlasTech Industries",
+    "model": "A-180",
+    "type": [
+      "Reconfigurable blaster",
+      "Blaster pistol",
+      "Blaster rifle",
+      "  Sniper rifle",
+      "    Longblaster",
+      "Ion launcher"
+    ],
+    "locations": [
+      "Jedha",
+      "Scarif"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Rogue One",
+      "New Republic",
+      "Resistance"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

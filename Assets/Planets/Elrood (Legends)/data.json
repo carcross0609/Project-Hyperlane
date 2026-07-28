@@ -1,0 +1,81 @@
+{
+  "name": "Elrood",
+  "wookieepedia_title": "Elrood/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Elrood/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Elrood was a planet located between the Halbara and Kidron systems on the Elrood-Derilyn Trade Route. It functioned as capital of the Elrood sector and as its major trade and manufacturing hub. Elrood headquartered Radell Mining Corporation, the largest company in the sector. It had two moons, Sharene and Lodos. The planet was named after Senator Elrood, who secured funding for its colonization.",
+  "lead_paragraphs": [
+    "Elrood was a planet located between the Halbara and Kidron systems on the Elrood-Derilyn Trade Route. It functioned as capital of the Elrood sector and as its major trade and manufacturing hub. Elrood headquartered Radell Mining Corporation, the largest company in the sector. It had two moons, Sharene and Lodos. The planet was named after Senator Elrood, who secured funding for its colonization."
+  ],
+  "article_sections": [
+    "Geography",
+    "History"
+  ],
+  "data": {
+    "name": "Elrood",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Elrood system",
+    "coordinates": "M-20",
+    "suns": "1: Elrad",
+    "position": "3",
+    "moons": "2: Lodos and Sharene",
+    "routes": "Elrood-Derilyn Trade Route",
+    "lengthday": "28 standard hours",
+    "lengthyear": "364 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Plains",
+      "Urban"
+    ],
+    "water": [
+      "Elraden Ocean",
+      "Lodon Ocean",
+      "South Elrood Ocean"
+    ],
+    "interest": "Radell Central",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "population": "6 billion",
+    "demonym": "Representative democracy",
+    "cities": [
+      "Dinbar",
+      "Elraden",
+      "Elrooden (capital)",
+      "Lodos"
+    ],
+    "imports": [
+      "Electronics",
+      "Foodsupplies"
+    ],
+    "exports": [
+      "Refined metals",
+      "Starships",
+      "Processed alloys"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Elrood",
+    "x": 2349.1,
+    "y": -15076.5,
+    "z": -137.4,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

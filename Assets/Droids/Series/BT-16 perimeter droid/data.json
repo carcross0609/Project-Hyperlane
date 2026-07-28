@@ -1,0 +1,32 @@
+{
+  "name": "BT-16 perimeter droid",
+  "wookieepedia_title": "BT-16 perimeter droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BT-16_perimeter_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The BT-16 perimeter droid, also known as the VT-16, was a bulbous, spider-like droid manufactured by Arakyd Industries.",
+  "data": {
+    "name": "BT-16 perimeter droid",
+    "manufacturer": "Arakyd Industries",
+    "class": "Fourth degree",
+    "cost": [
+      "4,100 credits (new)",
+      "3,100 credits (refurbished)"
+    ],
+    "height": "2.3 meters",
+    "mass": "75 kilograms",
+    "armament": "Taim & Bak repeating blaster",
+    "equipment": [
+      "Arakyd Industries vocabulator",
+      "Armor",
+      "Comlink",
+      "Sensor package",
+      "  Carbanti United Electronics motion sensor",
+      "  Fabritech seismic sensor",
+      "TranLang I Communication module",
+      "Video sensor"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

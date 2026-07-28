@@ -1,0 +1,44 @@
+{
+  "name": "Laboi II",
+  "wookieepedia_title": "Laboi II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Laboi_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Laboi II was a small planet in the Slice which was home to the Laboi species. Due to its slow, retrograde rotation, its day was 4,040 standard hours long, just ten hours shorter than its year. As a result, the side facing its sun, the red giant Er'Dox Kaan, became hot enough to melt some rocks. The night side, on the other hand, plunged into a deep freeze. The temperature differential led to high winds, which served to exchange heat between the day and night sides and moderate the temperature extremes. The animal life on Laboi II had to adapt to these temperature extremes. Plant life could not survive, since the melting and freezing cycle of the surface made soil formation impossible. Instead, much of the planet's night side was covered in mineral forests formed by cooling pools of molten rock.",
+  "lead_paragraphs": [
+    "Laboi II was a small planet in the Slice which was home to the Laboi species. Due to its slow, retrograde rotation, its day was 4,040 standard hours long, just ten hours shorter than its year. As a result, the side facing its sun, the red giant Er'Dox Kaan, became hot enough to melt some rocks. The night side, on the other hand, plunged into a deep freeze. The temperature differential led to high winds, which served to exchange heat between the day and night sides and moderate the temperature extremes. The animal life on Laboi II had to adapt to these temperature extremes. Plant life could not survive, since the melting and freezing cycle of the surface made soil formation impossible. Instead, much of the planet's night side was covered in mineral forests formed by cooling pools of molten rock."
+  ],
+  "article_sections": [
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Laboi II",
+    "region": "Outer Rim Territories",
+    "sector": "Suolriep sector",
+    "system": "Laboi system",
+    "coordinates": "S-8",
+    "suns": "1: Er'Dox Kaan",
+    "terrain": [
+      "Molten rock",
+      "Ice",
+      "Mineral forests"
+    ],
+    "species": "Laboi"
+  },
+  "homeworld_of": [
+    {
+      "name": "Laboi",
+      "directory": "Laboi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Laboi II",
+    "x": 10959.0,
+    "y": 1990.6,
+    "z": -370.5,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

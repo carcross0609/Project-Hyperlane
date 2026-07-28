@@ -1,0 +1,38 @@
+{
+  "name": "Cyrillia",
+  "wookieepedia_title": "Cyrillia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cyrillia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Cyrillia was an industrial planet located in the Cyrillia system in the Cyrillian Protectorate, a sector of the Expansion Region in grid square O-12 of the Standard Galactic Grid.",
+  "lead_paragraphs": [
+    "Cyrillia was an industrial planet located in the Cyrillia system in the Cyrillian Protectorate, a sector of the Expansion Region in grid square O-12 of the Standard Galactic Grid."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Cyrillia",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Cyrillian Protectorate",
+    "system": "Cyrillia system",
+    "coordinates": "O-12"
+  },
+  "homeworld_of": [
+    {
+      "name": "Cyrillian",
+      "directory": "Cyrillian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cyrillia",
+    "x": 5551.8,
+    "y": -4389.8,
+    "z": 15.6,
+    "region": "Expansion Region",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

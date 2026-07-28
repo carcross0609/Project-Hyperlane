@@ -1,0 +1,55 @@
+{
+  "name": "Basilisk",
+  "wookieepedia_title": "Basilisk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Basilisk",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Basilisk was a Core world in the Arrowhead of the Slice, near Coruscant.",
+  "lead_paragraphs": [
+    "Basilisk was a Core world in the Arrowhead of the Slice, near Coruscant."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Basilisk",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "system": "Basilisk system",
+    "coordinates": "L-9",
+    "class": "Terrestrial",
+    "climate": "Humid (historically)",
+    "terrain": [
+      "Barren",
+      "Lush (historically)"
+    ],
+    "species": "Basiliskans",
+    "otherspecies": "Taungs",
+    "language": "Mando'a",
+    "affiliation": [
+      "Galactic Republic",
+      "Mandalorian Crusaders",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Basiliskan",
+      "directory": "Basiliskan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Basilisk",
+    "x": 913.9,
+    "y": 103.0,
+    "z": 48.7,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

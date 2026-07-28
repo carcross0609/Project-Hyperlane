@@ -1,0 +1,48 @@
+{
+  "name": "Mortis",
+  "wookieepedia_title": "Mortis/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mortis/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mortis was a planet enclosed in a monolith located in the remote Chrelythiumn system that was a conduit for the entire Force of the universe. Mortis became home to the Ones, a family of powerful Force users, years prior to the Clone Wars. Time was experienced differently inside the Mortis monolith than in the rest of the galaxy—standard days experienced on Mortis by Obi-Wan Kenobi, Anakin Skywalker, and Ahsoka Tano were only \"a moment\" experienced in normal space by Captain Rex.",
+  "lead_paragraphs": [
+    "Mortis was a planet enclosed in a monolith located in the remote Chrelythiumn system that was a conduit for the entire Force of the universe. Mortis became home to the Ones, a family of powerful Force users, years prior to the Clone Wars. Time was experienced differently inside the Mortis monolith than in the rest of the galaxy—standard days experienced on Mortis by Obi-Wan Kenobi, Anakin Skywalker, and Ahsoka Tano were only \"a moment\" experienced in normal space by Captain Rex."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Mortis",
+    "region": "Wild Space",
+    "system": "Chrelythiumn system",
+    "coordinates": "K-2",
+    "moons": "2",
+    "atmosphere": "Type I (Breathable)",
+    "terrain": "Terrestrial",
+    "interest": [
+      "Altar of Mortis",
+      "Well of the Dark Side",
+      "Mortis monastery",
+      "Mortis monolith",
+      "Daughter's grave",
+      "Son's cathedral"
+    ],
+    "affiliation": "The Ones"
+  },
+  "homeworld_of": [
+    {
+      "name": "Force wielder",
+      "directory": "Force wielder",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Mortis",
+    "x": -839.6,
+    "y": 11000.8,
+    "z": 403.5,
+    "region": "Wild Space",
+    "grid": "K-2"
+  },
+  "scraped": "2026-07-03"
+}

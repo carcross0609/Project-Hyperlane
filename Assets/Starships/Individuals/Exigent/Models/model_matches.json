@@ -1,0 +1,48 @@
+{
+  "asset": "Exigent",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Qasar-Fire Cruiser-Carrier",
+      "url": "https://sketchfab.com/3d-models/none-a506dd65a23d40efa85bcc5adba67285",
+      "uid": "a506dd65a23d40efa85bcc5adba67285",
+      "author": "Kuat-Entralla 3D Engineering",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 41,
+      "thumbnail": "https://media.sketchfab.com/models/a506dd65a23d40efa85bcc5adba67285/thumbnails/9ab7aff2d1074dbdaee8f4014d8390a6/71310154c7ad4785a700fb22a70dc31b.jpeg"
+    },
+    {
+      "name": "Gozanti Carrier With TIE Fighters",
+      "url": "https://sketchfab.com/3d-models/none-cf2ffa7bbc4e4a5ca2a217501e617c26",
+      "uid": "cf2ffa7bbc4e4a5ca2a217501e617c26",
+      "author": "Konraad",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 4,
+      "thumbnail": "https://media.sketchfab.com/models/cf2ffa7bbc4e4a5ca2a217501e617c26/thumbnails/30299a8bf38e4fd4b08e9a2fe97ea1e7/c75711a0f3ec49ada9a503522d2d1d8d.jpeg"
+    },
+    {
+      "name": "Imperial Gozanti- Class Light Carrier",
+      "url": "https://sketchfab.com/3d-models/none-c55f830ba26b43fb8e5e8d46f95f8fd9",
+      "uid": "c55f830ba26b43fb8e5e8d46f95f8fd9",
+      "author": "Konraad",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 4,
+      "thumbnail": "https://media.sketchfab.com/models/c55f830ba26b43fb8e5e8d46f95f8fd9/thumbnails/f448b4461dd2416a9413d3023853e6bd/1c68a3dad0ad4a5a98b054977b845e87.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Cruiser-carrier"
+}

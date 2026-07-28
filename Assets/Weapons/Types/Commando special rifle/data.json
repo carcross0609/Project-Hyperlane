@@ -1,0 +1,30 @@
+{
+  "name": "Commando special rifle",
+  "wookieepedia_title": "Commando special rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Commando_special_rifle",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Commando special rifle was a blaster rifle used by Republic commandos of the Old Republic. It was sawed-off to reduce weight, but it delivered as much punch as a heavy blaster rifle. It's only drawback was reduced ammunition.",
+  "data": {
+    "name": "Commando special rifle",
+    "type": "Blaster rifle",
+    "cost": "1,250 credits (Available for military use only)",
+    "shape": "Rifle-shaped",
+    "size": "Two-handed weapon",
+    "weight": "3.3 kg",
+    "capacity": [
+      "25 shots",
+      "Autofire mode available"
+    ],
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 450 m"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic commandos"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Nagi",
+  "wookieepedia_title": "Nagi/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nagi/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nagi was a planet located in a star cluster of the Firefist satellite galaxy that was gravitational bound to the host galaxy and was part of the Unknown Regions. Nagi was the homeworld of the Nagai species, who built great cities of crystal and wire among the planet's expansive wastelands. The Tofs conquered Nagi in a long and bloody campaign starting around 296 BBY, and many Nagai would later leave Nagi in an attempt to wage war on the Alliance of Free Planets in 4 ABY.",
+  "lead_paragraphs": [
+    "Nagi was a planet located in a star cluster of the Firefist satellite galaxy that was gravitational bound to the host galaxy and was part of the Unknown Regions. Nagi was the homeworld of the Nagai species, who built great cities of crystal and wire among the planet's expansive wastelands. The Tofs conquered Nagi in a long and bloody campaign starting around 296 BBY, and many Nagai would later leave Nagi in an attempt to wage war on the Alliance of Free Planets in 4 ABY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Nagi",
+    "region": [
+      "Unknown Regions",
+      "Firefist"
+    ],
+    "system": "Nagi system",
+    "coordinates": "N/A",
+    "suns": "1: Nagi Prime",
+    "position": "4",
+    "moons": "1",
+    "lengthday": "23 local hours",
+    "lengthyear": "299 local days",
+    "class": "Terrestrial",
+    "diameter": "11,000 kilometers",
+    "atmosphere": "Type I (breathable), thin upper atmosphere",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "High peaks",
+      "Deep and wide valleys",
+      "Wastes"
+    ],
+    "species": "Nagai",
+    "language": "Nagaian",
+    "government": "Dictatorship",
+    "population": [
+      "48 million:",
+      "  92% Nagai",
+      "  8% other"
+    ],
+    "cities": "Kotokai (capital)",
+    "imports": [
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": "Raw materials"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nagai",
+      "directory": "Nagai",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Nagai",
+      "directory": "Nagai (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

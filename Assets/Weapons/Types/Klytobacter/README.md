@@ -1,0 +1,17 @@
+# Klytobacter
+
+**Kind:** Model  
+**Continuity:** Canon  
+**Source:** [Klytobacter](https://starwars.fandom.com/wiki/Klytobacter)
+
+Klytobacter was a devastating bacterial element that developed on the planet Eiram. The Path of the Open Hand developed a massive amount of klytobacter as a bioweapon designed to destroy the ecosystem of Eiram. The bioweapon consisted of a bacterium that killed of the smallest species in the oceans which disrupted the food chain thus destroying the ecosystem. Klytobacter was an inky liquid. While some described the smell to almost be neutral other described it as seawater gone rancid. Eiramis said it smelled like death. The Mother planned to use the weapon against the planet Eiram to reignite the war between Eiram and E'ronoh. For that purpose the path manufactured big quantities of the weapon in the Underground caverns of their compound.
+
+## Specifications
+
+- **Name:** Klytobacter
+- **Purpose:** Bioweapon
+- **Affiliation:** Path of the Open Hand
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

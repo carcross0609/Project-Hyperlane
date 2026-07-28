@@ -1,0 +1,40 @@
+{
+  "name": "Fest",
+  "wookieepedia_title": "Fest",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fest",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Fest was a cold, mountainous planet located in the Outer Rim Territories' Atrivis sector. It was the forged homeworld of the adopted boy Kassa, later renamed Cassian Jeron Andor. The Galactic Empire occupied Fest's industrial zones and forced many of the local humans to work there. The Empire ultimately savaged the world, and refugees were taken in by the Rebel Alliance base on the moon Yavin 4.",
+  "lead_paragraphs": [
+    "Fest was a cold, mountainous planet located in the Outer Rim Territories' Atrivis sector. It was the forged homeworld of the adopted boy Kassa, later renamed Cassian Jeron Andor. The Galactic Empire occupied Fest's industrial zones and forced many of the local humans to work there. The Empire ultimately savaged the world, and refugees were taken in by the Rebel Alliance base on the moon Yavin 4."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Fest",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Atrivis sector",
+    "system": "Fest system",
+    "coordinates": "L-5",
+    "class": "Terrestrial",
+    "climate": "Cold",
+    "terrain": "Mountains",
+    "otherspecies": "Humans",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Fest",
+    "x": 1207.5,
+    "y": 6596.8,
+    "z": -97.2,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

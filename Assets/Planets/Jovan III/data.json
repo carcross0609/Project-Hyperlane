@@ -1,0 +1,40 @@
+{
+  "name": "Jovan III",
+  "wookieepedia_title": "Jovan III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jovan_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jovan III, often called simply Jovan, was a planet located in the Jovan system and was noted for the Jovan Station, built in orbit around the planet.",
+  "lead_paragraphs": [
+    "Jovan III, often called simply Jovan, was a planet located in the Jovan system and was noted for the Jovan Station, built in orbit around the planet.",
+    "Jovan III was a fertile planet and one of the premier agriworld of the Gordian Reach. It was crisscrossed by robo-harvesters and dotted with agricultural research labs."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Jovan III",
+    "region": "Outer Rim Territories",
+    "sector": "Gordian Reach",
+    "system": "Jovan system",
+    "coordinates": "P-6",
+    "routes": [
+      "Junction-Tierell Loop",
+      "Wetyin's Way"
+    ],
+    "class": "Terrestrial",
+    "interest": "Jovan Station",
+    "exports": "Foodstuffs",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Jovan III",
+    "x": 7219.2,
+    "y": 5688.1,
+    "z": 88.3,
+    "region": "Outer Rim",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Bri'n",
+  "wookieepedia_title": "Bri'n",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bri%27n",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bri'n was an arboreal planet with a breathable atmosphere and various flora and fauna. A horned humanoid species lived on the planet. In 37 BBY, the Jedi Master Qui-Gon Jinn and his Padawan, Obi-Wan Kenobi, were sent to Bri'n to assist with negotiations between Priestess Th'er and the Metal Clan, a group that opposed her and wished to destroy the trees present on the planet. Once the negotiations failed, the Jedi were forced to bring Th'er to safety on the planet Coruscant, but advised her to seek offworld allies.",
+  "lead_paragraphs": [
+    "Bri'n was an arboreal planet with a breathable atmosphere and various flora and fauna. A horned humanoid species lived on the planet. In 37 BBY, the Jedi Master Qui-Gon Jinn and his Padawan, Obi-Wan Kenobi, were sent to Bri'n to assist with negotiations between Priestess Th'er and the Metal Clan, a group that opposed her and wished to destroy the trees present on the planet. Once the negotiations failed, the Jedi were forced to bring Th'er to safety on the planet Coruscant, but advised her to seek offworld allies."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Bri'n",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Lothal sector",
+    "system": "Bri'n system",
+    "coordinates": "U-7",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Forests",
+    "fauna": [
+      "Lizards",
+      "Reptavians"
+    ],
+    "species": "Th'er's species"
+  },
+  "homeworld_of": [
+    {
+      "name": "Th'er's species",
+      "directory": "Th'er's species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

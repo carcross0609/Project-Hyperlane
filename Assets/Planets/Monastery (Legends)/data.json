@@ -1,0 +1,51 @@
+{
+  "name": "Monastery",
+  "wookieepedia_title": "Monastery/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Monastery/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Monastery was a planet in the Mid Rim that was home to the religious order known as the Order of the Sacred Circle, who originally settled the world and ruled it for thousands of years. Distinguished by its massive ring, Monastery had a number of dangerous native predators, and its topography itself could be deadly—for instance, the planet's Crystal Valley could mean certain death to most visitors, as jagged crystals burst from the ground without warning. Monastery remained cloistered and neutral from most galactic affairs throughout much of its history, but Sacred Circle priestess Domina Tagge brought it into Imperial intrigues during the Galactic Civil War. In 0 ABY, it hosted a lightsaber duel between Rebel hero Luke Skywalker and Tagge's brother Orman, which Skywalker won in deadly fashion.",
+  "lead_paragraphs": [
+    "Monastery was a planet in the Mid Rim that was home to the religious order known as the Order of the Sacred Circle, who originally settled the world and ruled it for thousands of years. Distinguished by its massive ring, Monastery had a number of dangerous native predators, and its topography itself could be deadly—for instance, the planet's Crystal Valley could mean certain death to most visitors, as jagged crystals burst from the ground without warning. Monastery remained cloistered and neutral from most galactic affairs throughout much of its history, but Sacred Circle priestess Domina Tagge brought it into Imperial intrigues during the Galactic Civil War. In 0 ABY, it hosted a lightsaber duel between Rebel hero Luke Skywalker and Tagge's brother Orman, which Skywalker won in deadly fashion."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Monastery",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Haserian sector",
+    "system": "Monastery system",
+    "coordinates": "Q-14",
+    "routes": "Reena Trade Route",
+    "terrain": "Rainforests",
+    "interest": [
+      "Crystal Valley",
+      "Temple of the Sacred Circle"
+    ],
+    "fauna": [
+      "Nightshrike",
+      "Saber cat"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "population": "35 million",
+    "affiliation": "Order of the Sacred Circle"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Monastery",
+    "x": 7658.8,
+    "y": -7444.5,
+    "z": 281.7,
+    "region": "Mid Rim",
+    "grid": "Q-14"
+  },
+  "scraped": "2026-07-03"
+}

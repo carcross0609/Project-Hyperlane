@@ -1,0 +1,27 @@
+{
+  "name": "Wookiee dual missile turret",
+  "wookieepedia_title": "Wookiee dual missile turret",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wookiee_dual_missile_turret",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Wookiee dual missile turret, or Wookiee Dual Launcher, was a defensive anti-air emplacement individually produced by Wookiee turret crafters and employed during the Clone Wars between the Galactic Republic and the Confederacy of Independent Systems. The turret contained two explosive warhead-tipped missiles in as many launch tubes. It had a slow rate of fire but could pierce the hull of a starship, making the launcher perfectly suited to defend Wookiees from Trandoshan or Separatist forces. In 19 BBY, the clone commandos of Delta Squad used several Wookiee dual missile turrets to destroy a Separatist cruiser during their mission to the Wookiee homeworld of Kashyyyk.",
+  "data": {
+    "name": "Wookiee dual missile turret",
+    "manufacturer": "Wookiee turret crafters",
+    "type": "Anti-aircraft turret",
+    "culture": "Wookiee",
+    "locations": "Kashyyyk",
+    "shape": [
+      "Stationary emplacement with flat base",
+      "Raised gunnery platform",
+      "2 missile launchers",
+      "2 forward-facing physical shields"
+    ],
+    "protection": "Aerial assault",
+    "crew": "1",
+    "capacity": "2 explosive warhead-tipped missiles",
+    "affiliation": "Wookiees"
+  },
+  "scraped": "2026-07-03"
+}

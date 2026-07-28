@@ -1,0 +1,43 @@
+{
+  "name": "Galand",
+  "wookieepedia_title": "Galand",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galand",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Galand was a Core world. It was homeworld of the near-Human Galandans, including the religious martyr H'kig. His teachings formed the basis of the H'kig philosophy. To escape persecution, the H'kig fled to distant Rishi.",
+  "lead_paragraphs": [
+    "Galand was a Core world. It was homeworld of the near-Human Galandans, including the religious martyr H'kig. His teachings formed the basis of the H'kig philosophy. To escape persecution, the H'kig fled to distant Rishi.",
+    "Galand was girdled with endless equatorial roadways."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Galand",
+    "region": [
+      "Core Worlds",
+      "The Negs"
+    ],
+    "sector": "Torranix sector",
+    "system": "Galand system",
+    "coordinates": "K-10",
+    "routes": "Agricultural Circuit",
+    "species": "Galandans",
+    "language": "Galactic Basic Standard",
+    "government": "Ruling Families of Galand"
+  },
+  "homeworld_of": [
+    {
+      "name": "Galandan",
+      "directory": "Galandan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Galand",
+    "x": -803.4,
+    "y": -355.8,
+    "z": -74.1,
+    "region": "Core Worlds",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

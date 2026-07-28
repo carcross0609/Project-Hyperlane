@@ -1,0 +1,41 @@
+{
+  "name": "Dom-Bradden",
+  "wookieepedia_title": "Dom-Bradden/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dom-Bradden/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dom-Bradden, also known as Bradden, was a planet in the Outer Rim. It was the home planet of the Affytechans, a race of sentient botanicals.",
+  "lead_paragraphs": [
+    "Dom-Bradden, also known as Bradden, was a planet in the Outer Rim. It was the home planet of the Affytechans, a race of sentient botanicals."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Dom-Bradden",
+    "region": "Outer Rim Territories",
+    "sector": "Lol sector",
+    "system": "Dom-Bradden system",
+    "coordinates": "Q-18",
+    "terrain": "Rainforests",
+    "species": "Affytechans",
+    "population": "1 to 10 million (c. 25 ABY)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Affytechan",
+      "directory": "Affytechan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dom-Bradden",
+    "x": 5755.1,
+    "y": -12948.8,
+    "z": 95.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

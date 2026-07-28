@@ -1,0 +1,44 @@
+{
+  "name": "Phu",
+  "wookieepedia_title": "Phu/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phu/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Phu was a world inhabited by the Phuii species of aliens. It was located in the Colonies, near the Aur system. Phu was a planet famous for its gambling industry.",
+  "lead_paragraphs": [
+    "Phu was a world inhabited by the Phuii species of aliens. It was located in the Colonies, near the Aur system. Phu was a planet famous for its gambling industry."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Phu",
+    "region": "Colonies",
+    "system": "Phu system",
+    "coordinates": "J-13",
+    "otherspecies": "Bardottans",
+    "population": "10 to 100 million (c. 25 ABY)",
+    "demonym": "Phuii"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bardottan",
+      "directory": "Bardottan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Bardottan",
+      "directory": "Bardottan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Phu",
+    "x": -1606.1,
+    "y": -5610.9,
+    "z": -25.7,
+    "region": "Colonies",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

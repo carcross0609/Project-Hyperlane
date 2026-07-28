@@ -1,0 +1,36 @@
+{
+  "name": "LIN demolitionmech autonomous minelayer",
+  "wookieepedia_title": "LIN demolitionmech autonomous minelayer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/LIN_demolitionmech_autonomous_minelayer",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The LIN demolitionmech autonomous minelayer, also known more simply as just the LIN demolitionmech or LIN mining droid, was a model of dome-shaped mining droid designed and manufactured by Cybot Galactica to plant explosives to blast away rocks and debris. They were also used to lay mines on battlefields and had protective shells to protect against explosions and falling debris. These shells did however slow the droid considerably, and they also suffered from vulnerability to moisture and damage to their treads.",
+  "data": {
+    "name": "LIN demolitionmech autonomous minelayer",
+    "manufacturer": "Cybot Galactica",
+    "class": "Mining droid",
+    "degree": "Class five droid",
+    "height": "0.56 meters",
+    "plating": "Black durasteel dome",
+    "armament": [
+      "Explosives:",
+      "Mines",
+      "  Timer mines"
+    ],
+    "equipment": [
+      "Ground sensor",
+      "Internal sonic sensor",
+      "Primary visual sensor",
+      "Retracable manipulator arm",
+      "Rotating explosives storage rack",
+      "Telescopic antenna",
+      "Telescoping acoustic signaller"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

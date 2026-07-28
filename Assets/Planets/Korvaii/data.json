@@ -1,0 +1,38 @@
+{
+  "name": "Korvaii",
+  "wookieepedia_title": "Korvaii",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Korvaii",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Korvaii was a small agriworld located in the Kordu sector of the Mid Rim.",
+  "lead_paragraphs": [
+    "Korvaii was a small agriworld located in the Kordu sector of the Mid Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Korvaii",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Kordu sector",
+    "system": "Korvaii system",
+    "coordinates": "L-7",
+    "routes": "Celanon Spur",
+    "class": "Terrestrial",
+    "otherspecies": "Humans",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Korvaii",
+    "x": 642.9,
+    "y": 4071.0,
+    "z": -115.3,
+    "region": "Mid Rim",
+    "grid": "L-7"
+  },
+  "scraped": "2026-07-03"
+}

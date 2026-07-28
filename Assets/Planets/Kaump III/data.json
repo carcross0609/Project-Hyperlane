@@ -1,0 +1,43 @@
+{
+  "name": "Kaump III",
+  "wookieepedia_title": "Kaump III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kaump_III",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Kaump III was a Mid Rim planet located in the Bruanii sector. Its high gravity led to its native species being short-statured and with a dense body structure. The mercenary and pirate Chanchaz Iryt was born on Kaump III and eventually left his homeworld after committing a series of lucrative robberies in an affluent district of a local city.",
+  "lead_paragraphs": [
+    "Kaump III was a Mid Rim planet located in the Bruanii sector. Its high gravity led to its native species being short-statured and with a dense body structure. The mercenary and pirate Chanchaz Iryt was born on Kaump III and eventually left his homeworld after committing a series of lucrative robberies in an affluent district of a local city."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Kaump III",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Bruanii sector",
+    "system": "Kaump system",
+    "coordinates": "K-17",
+    "position": "3",
+    "class": "Terrestrial",
+    "gravity": "High",
+    "interest": "Nightclubs",
+    "species": "Chanchaz Iryt's species",
+    "cities": "At least 1"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chanchaz Iryt's species",
+      "directory": "Chanchaz Iryt's species",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

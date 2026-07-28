@@ -1,0 +1,62 @@
+{
+  "name": "Varl",
+  "wookieepedia_title": "Varl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Varl",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Varl, also known as Varl Prime, was a planet located in the Varl system in Hutt Space that was orbited by 3 moons. Situated along the Pabol Hutta hyperspace route in grid square S-11 of the Standard Galactic Grid, Varl was the original homeworld of the Hutt species, who fled from Varl to escape the Kayfoundo Kapa. In 29 BBY, the Pyke Baron Grott attempted to breed Kayfoundo Kapa on Varl's moon Black Rock for use as living weapons, but the creatures escaped and ran wild within the Varl system, culminating in the entire star system being quarantined.",
+  "lead_paragraphs": [
+    "Varl, also known as Varl Prime, was a planet located in the Varl system in Hutt Space that was orbited by 3 moons. Situated along the Pabol Hutta hyperspace route in grid square S-11 of the Standard Galactic Grid, Varl was the original homeworld of the Hutt species, who fled from Varl to escape the Kayfoundo Kapa. In 29 BBY, the Pyke Baron Grott attempted to breed Kayfoundo Kapa on Varl's moon Black Rock for use as living weapons, but the creatures escaped and ran wild within the Varl system, culminating in the entire star system being quarantined."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Varl",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "sector": "None",
+    "system": "Varl system",
+    "coordinates": "S-11",
+    "moons": [
+      "3",
+      "Black Rock",
+      "Varl's second moon",
+      "Varl's third moon"
+    ],
+    "routes": "Pabol Hutta",
+    "fauna": "Vrblther (allegedly)",
+    "species": "Hutt"
+  },
+  "homeworld_of": [
+    {
+      "name": "Hutt",
+      "directory": "Hutt",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Hutt",
+      "directory": "Hutt (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Rybet",
+      "directory": "Rybet (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "t'landa Til",
+      "directory": "T'landa Til",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Varl",
+    "x": 11551.0,
+    "y": -2334.9,
+    "z": -102.5,
+    "region": "Hutt Space",
+    "grid": "S-11"
+  },
+  "scraped": "2026-07-03"
+}

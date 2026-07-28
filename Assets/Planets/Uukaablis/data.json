@@ -1,0 +1,61 @@
+{
+  "name": "Uukaablis",
+  "wookieepedia_title": "Uukaablis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Uukaablis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Uukaablis was the fourth planet of the Uukaablis system, and home to the Uukaablians.",
+  "lead_paragraphs": [
+    "Uukaablis was the fourth planet of the Uukaablis system, and home to the Uukaablians.",
+    "Over a millennium before the Galactic Civil War, war raged across the planet. Fought for generations, the conflict was so devastating that the planet came to the brink of a planetary biological disaster. Seeing the fate that would befall their world, the leaders of the factions met and agreed to end hostilities after a three-day summit. To ensure peace, all weapons were loaded onto a giant barge and launched into the system's sun.",
+    "A year after ending the war, an unknown disease struck the planet. Medical authorities soon determined that the microscopic parasite responsible was a biological weapon developed by one of the factions. In response, the Uukaablians devoted all their technology to medical research. By 8 ABY, the legacy of this effort allowed Uukaablis to boast several large medical complexes, and a planet-wide database with information on every illness encountered by the Uukaablians."
+  ],
+  "article_sections": [
+    "Architecture"
+  ],
+  "data": {
+    "name": "Uukaablis",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Kathol sector",
+      "  Kathol Outback"
+    ],
+    "system": "Uukaablis system",
+    "coordinates": "M-21",
+    "position": "4",
+    "lengthday": "28 standard hours",
+    "lengthyear": "427 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Forested mountains",
+    "water": "Moderate",
+    "species": "Uukaablians",
+    "population": "100 million",
+    "imports": [
+      "Foodstuffs",
+      "High technology"
+    ],
+    "exports": [
+      "Ground-based transports",
+      "Medical supplies"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Uukaablian",
+      "directory": "Uukaablian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Uukaablis",
+    "x": 1958.9,
+    "y": -16838.8,
+    "z": 178.7,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

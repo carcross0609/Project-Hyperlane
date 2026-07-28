@@ -1,0 +1,27 @@
+{
+  "name": "OOM-9",
+  "wookieepedia_title": "OOM-9/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/OOM-9/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "OOM-9 was a B1-series battle droid created by Baktoid Combat Automata prior to the invasion of the planet Naboo in 32 BBY. OOM-9 was selected to serve as a command battle droid for the invasion, leading Trade Federation forces into battle and achieving great success in the early stages of the campaign. Under the droid's command, Trade Federation troops defeated the forces of the Naboo at Harte Secur and Spinnaker before capturing the capital city of Theed.",
+  "data": {
+    "type": "Corporate",
+    "name": "OOM-9",
+    "manufacturer": "Baktoid Combat Automata",
+    "line": "B1-series battle droid",
+    "model": "OOM command battle droid",
+    "class": "Battle droid",
+    "height": "1.91 meters",
+    "gender": "Masculine programming",
+    "pronouns": "He/him",
+    "sensor": "Black",
+    "equipment": "Macrobinoculars",
+    "affiliation": [
+      "Trade Federation",
+      "  Trade Federation Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

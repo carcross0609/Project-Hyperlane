@@ -1,0 +1,62 @@
+{
+  "name": "Quesh",
+  "wookieepedia_title": "Quesh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quesh",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Queshː (pronounciation: /'kwɛʃ/) was a world riddled with toxic waste within Hutt Space, due to a period of geological instability beginning around 53,600 BBY dubbed the Quake. It was discovered by the Galactic Republic during the Great War, but was at first promptly abandoned due to its poisonous atmosphere. To survive the atmosphere most sentients required a breath mask or protective injection, but the Hutts could breathe the toxic air without any difficulty. In addition to the toxicity, some of the planet's marshes were noted to be radioactive.",
+  "lead_paragraphs": [
+    "Queshː (pronounciation: /'kwɛʃ/) was a world riddled with toxic waste within Hutt Space, due to a period of geological instability beginning around 53,600 BBY dubbed the Quake. It was discovered by the Galactic Republic during the Great War, but was at first promptly abandoned due to its poisonous atmosphere. To survive the atmosphere most sentients required a breath mask or protective injection, but the Hutts could breathe the toxic air without any difficulty. In addition to the toxicity, some of the planet's marshes were noted to be radioactive."
+  ],
+  "article_sections": [
+    "Geographical features"
+  ],
+  "data": {
+    "name": "Quesh",
+    "region": "Hutt Space",
+    "system": "Quesh system",
+    "coordinates": "S-10",
+    "suns": "1",
+    "position": "5",
+    "moons": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Type III, Toxic (contained chemicals that could be made into adrenals)",
+    "climate": "Tropical (formerly)",
+    "gravity": "Standard",
+    "terrain": "Swamps (formerly)",
+    "water": "Present, but intensely polluted",
+    "interest": [
+      "Three Families Palace",
+      "Broga's Palace"
+    ],
+    "fauna": [
+      "Lobel (native)",
+      "Harvap",
+      "Harvorisk",
+      "Trinthan prowler"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Hutts",
+      "Abyssins",
+      "Anomids",
+      "Gamorreans"
+    ],
+    "language": [
+      "Basic",
+      "Huttese"
+    ],
+    "exports": "Adrenals",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Quesh",
+    "x": 11723.5,
+    "y": -834.0,
+    "z": 534.1,
+    "region": "Hutt Space",
+    "grid": "S-10"
+  },
+  "scraped": "2026-07-03"
+}

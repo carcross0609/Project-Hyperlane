@@ -1,0 +1,59 @@
+{
+  "name": "Mindor",
+  "wookieepedia_title": "Mindor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mindor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mindor, also known as Taspan I, was a planet in the Inner Rim with vast landmasses covered in grasslands. It had little to offer the galactic community other than its landmasses, which would have been ideal for farming. Mindor had four medium sized moons in very close proximity to the planet.",
+  "lead_paragraphs": [
+    "Mindor, also known as Taspan I, was a planet in the Inner Rim with vast landmasses covered in grasslands. It had little to offer the galactic community other than its landmasses, which would have been ideal for farming. Mindor had four medium sized moons in very close proximity to the planet."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Mindor",
+    "region": "Inner Rim",
+    "system": "Taspan system",
+    "coordinates": "M-8",
+    "suns": "Taspan",
+    "position": "1",
+    "moons": "4",
+    "terrain": "Plains",
+    "interest": [
+      "Election Center",
+      "Melter crypt",
+      "Shadow Base",
+      "Shadow Egg",
+      "Shadow Throne",
+      "Sorting Center"
+    ],
+    "otherspecies": [
+      "Chagrians",
+      "Humans"
+    ],
+    "language": "Galactic Basic Standard",
+    "demonym": "Mindorese",
+    "cities": "Chagrian colony",
+    "affiliation": [
+      "Legions of Shadow",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Melter",
+      "directory": "Melter",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mindor",
+    "x": 2013.8,
+    "y": 2205.9,
+    "z": 179.5,
+    "region": "Inner Rim",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Lahsbane",
+  "wookieepedia_title": "Lahsbane",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lahsbane",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Lahsbane was a planet located in the Lahsbane system in the Onatos sector in the Mid Rim Territories and the Slice, and was situated in grid square R-15 on the Standard Galactic Grid. During his time as a Padawan of the Jedi Order, Dooku and his Jedi Master, Yoda, traveled to Lahsbane, which the Serennian later documented in his personal journal.",
+  "lead_paragraphs": [
+    "Lahsbane was a planet located in the Lahsbane system in the Onatos sector in the Mid Rim Territories and the Slice, and was situated in grid square R-15 on the Standard Galactic Grid. During his time as a Padawan of the Jedi Order, Dooku and his Jedi Master, Yoda, traveled to Lahsbane, which the Serennian later documented in his personal journal."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lahsbane",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Onatos sector",
+    "system": "Lahsbane system",
+    "coordinates": "R-15"
+  },
+  "homeworld_of": [
+    {
+      "name": "Lahsbee/Huhk",
+      "directory": "Lahsbee-Huhk",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lahsbane",
+    "x": 9550.5,
+    "y": -8228.4,
+    "z": -428.6,
+    "region": "Mid Rim",
+    "grid": "R-15"
+  },
+  "scraped": "2026-07-03"
+}

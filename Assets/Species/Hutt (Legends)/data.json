@@ -1,0 +1,38 @@
+{
+  "name": "Hutt",
+  "wookieepedia_title": "Hutt/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hutt/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Hutts were a sentient species of large gastropods with short arms, wide cavernous mouths and huge eyes, who controlled a large space empire in Hutt Space. The species was said to originally hail from the planet Varl, but no planet by that name appeared on any Imperial star charts. Their adopted homeworld was Nal Hutta. Members of this species were often stereotyped as crime lords.",
+  "data": {
+    "name": "Hutt",
+    "designation": "Sentient",
+    "length": "4 meters",
+    "mass": "1,500 kilograms",
+    "skincolor": [
+      "Orange",
+      "Green",
+      "Blue",
+      "Brown",
+      "Purple",
+      "Turquoise",
+      "Pink"
+    ],
+    "eyecolor": [
+      "Green",
+      "Orange",
+      "Red",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Gastropods",
+      "Hermaphroditic reproduction"
+    ],
+    "lifespan": "1,000 standard years",
+    "origin": "Varl (relocated to Nal Hutta)",
+    "language": "Huttese"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Varl (Legends)"
+}

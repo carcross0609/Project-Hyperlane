@@ -1,0 +1,45 @@
+{
+  "name": "Trunska",
+  "wookieepedia_title": "Trunska",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trunska",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Trunska was a planet located within the Trunska system of the Colonies.",
+  "lead_paragraphs": [
+    "Trunska was a planet located within the Trunska system of the Colonies."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Trunska",
+    "region": "Colonies",
+    "system": "Trunska system",
+    "coordinates": "J-13",
+    "terrain": "Rocky",
+    "species": "Trunsk",
+    "government": "Monarchy",
+    "demonym": "Trunsk",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Trunsk",
+      "directory": "Trunsk",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Trunska",
+    "x": -1734.4,
+    "y": -5369.2,
+    "z": -54.6,
+    "region": "Colonies",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

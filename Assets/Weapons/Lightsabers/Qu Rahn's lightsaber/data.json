@@ -1,0 +1,30 @@
+{
+  "name": "Qu Rahn's lightsaber",
+  "wookieepedia_title": "Qu Rahn's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Qu_Rahn%27s_lightsaber",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "This green-bladed lightsaber was created by Jedi Master Qu Rahn. He passed it on to Morgan Katarn, who in turn gave it to his son, Kyle Katarn, who used it in his duel with the Dark Jedi Yun, Gorc, Pic, and Maw. It was later destroyed by Boc Aseca.",
+  "data": {
+    "name": "Qu Rahn's lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-bladed lightsaber",
+    "culture": "Jedi",
+    "creator": "Qu Rahn",
+    "destroyed": "5 ABY",
+    "owners": [
+      "Qu Rahn",
+      "Morgan Katarn",
+      "Kyle Katarn"
+    ],
+    "color": "Green",
+    "succeed": "Yun's lightsaber (Kyle Katarn)",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Katarn family"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

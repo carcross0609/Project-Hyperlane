@@ -1,0 +1,38 @@
+{
+  "name": "Velabri",
+  "wookieepedia_title": "Velabri",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Velabri",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Velabri was a planet located within the Velabri system of the Outer Rim Territories. It was conquered by the Galactic Empire.",
+  "lead_paragraphs": [
+    "Velabri was a planet located within the Velabri system of the Outer Rim Territories. It was conquered by the Galactic Empire.",
+    "During the Imperial Period, the population was enslaved."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Velabri",
+    "region": "Outer Rim Territories",
+    "sector": "N/A",
+    "system": "Velabri system",
+    "coordinates": "S-18",
+    "species": "Velabri",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Velabri",
+      "directory": "Velabri (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Velabri",
+    "x": 10708.1,
+    "y": -12722.2,
+    "z": 559.4,
+    "region": "Wild Space",
+    "grid": "S-18"
+  },
+  "scraped": "2026-07-03"
+}

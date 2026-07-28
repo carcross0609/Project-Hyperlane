@@ -1,0 +1,54 @@
+{
+  "name": "Gesaril",
+  "wookieepedia_title": "Gesaril",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gesaril",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gesaril was a planet found in the Gesaril system of the Minos Cluster. During the Galactic Civil War the Empire had chosen to quarantine the world due to it being the site of a series of nine accidents concerning Imperial warships.",
+  "lead_paragraphs": [
+    "Gesaril was a planet found in the Gesaril system of the Minos Cluster. During the Galactic Civil War the Empire had chosen to quarantine the world due to it being the site of a series of nine accidents concerning Imperial warships.",
+    "The planet was covered with a dense jungle that appeared to float above a noxious swamp. It was inhabited by a species of furry, hyperactive creatures called the Gesaril that Imperial researchers had classified as barely sentient. There wasn't much of interest on the planet other than the wrecks of nine Imperial spaceships. These ships all crashed in exactly the same coastal section of the planet, with at least the majority of them having had their crash caused by the telekinetic powers of the Gesarils. Without realizing the cause of the crashes, the Empire had put the planet under strict quarantine, and no one was allowed to enter or leave the world."
+  ],
+  "article_sections": [
+    "The sector prison"
+  ],
+  "data": {
+    "name": "Gesaril",
+    "region": "Outer Rim Territories",
+    "sector": "Minos Cluster",
+    "system": "Gesaril system",
+    "coordinates": "M-20",
+    "lengthday": "19 standard hours",
+    "lengthyear": "134 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": "Swampy jungles",
+    "species": "Gesaril",
+    "otherspecies": [
+      "Human",
+      "Many species"
+    ],
+    "language": "Basic",
+    "government": "Tribal",
+    "population": "16 million",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gesaril",
+      "directory": "Gesaril (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gesaril",
+    "x": 13762.4,
+    "y": 5683.6,
+    "z": -638.6,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

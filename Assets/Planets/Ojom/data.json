@@ -1,0 +1,43 @@
+{
+  "name": "Ojom",
+  "wookieepedia_title": "Ojom",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ojom",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ojom was a frozen planet located in the Ojom system in the the galaxy's Deep Core that was the homeworld of the Besalisk species. A frigid world, the native Besalisks lived in communities atop floating glaciers, and the planet rarely received visitors, which made the discovery of the Force-sensitive Pong Krell by the Jedi Order an exceptional occurrence.",
+  "lead_paragraphs": [
+    "Ojom was a frozen planet located in the Ojom system in the the galaxy's Deep Core that was the homeworld of the Besalisk species. A frigid world, the native Besalisks lived in communities atop floating glaciers, and the planet rarely received visitors, which made the discovery of the Force-sensitive Pong Krell by the Jedi Order an exceptional occurrence."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ojom",
+    "region": "Deep Core",
+    "sector": "None",
+    "system": "Ojom system",
+    "coordinates": "M-11",
+    "terrain": "Frozen",
+    "water": "Oceans and glaciers",
+    "species": "Besalisk"
+  },
+  "homeworld_of": [
+    {
+      "name": "Besalisk",
+      "directory": "Besalisk",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Besalisk",
+      "directory": "Besalisk (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ojom",
+    "x": 1617.8,
+    "y": -2449.2,
+    "z": -109.4,
+    "region": "Deep Core",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

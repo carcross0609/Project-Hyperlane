@@ -1,0 +1,48 @@
+{
+  "name": "Cyborrea",
+  "wookieepedia_title": "Cyborrea/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cyborrea/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Cyborrea was a heavy-gravity planet that was located within Hutt Space region of the the galaxy, on the hyperlane called the Sisar Run. It was the homeworld of both the sentient Cyborreans and the dog-like nek beasts. Cyborrea was a part of the Hutt Empire around the year 25,100 BBY, with Cyborreans serving in the armies of the Hutt species during that time. More than thirteen millennia later the Galactic Republic sent a battle-fleet toward Cyborrea during one of the Republic's crusades against the Hutts. At some point prior to the conflict known as the Freedon Nadd Uprising, members of the Republic Army's rocket-jumper unit dropped to Cyborrea's surface with rocket packs during a mission to the planet. During the Galactic War between the Republic and the resurgent Sith Empire, the renegade Sith Lords known as the Dread Masters attacked and destroyed entire fleets over Cyborrea using a Force phantom. During the Yuuzhan Vong War, the extra-galactic Yuuzhan Vong invaders attacked the star system Cyborrea was located in.",
+  "lead_paragraphs": [
+    "Cyborrea was a heavy-gravity planet that was located within Hutt Space region of the the galaxy, on the hyperlane called the Sisar Run. It was the homeworld of both the sentient Cyborreans and the dog-like nek beasts. Cyborrea was a part of the Hutt Empire around the year 25,100 BBY, with Cyborreans serving in the armies of the Hutt species during that time. More than thirteen millennia later the Galactic Republic sent a battle-fleet toward Cyborrea during one of the Republic's crusades against the Hutts. At some point prior to the conflict known as the Freedon Nadd Uprising, members of the Republic Army's rocket-jumper unit dropped to Cyborrea's surface with rocket packs during a mission to the planet. During the Galactic War between the Republic and the resurgent Sith Empire, the renegade Sith Lords known as the Dread Masters attacked and destroyed entire fleets over Cyborrea using a Force phantom. During the Yuuzhan Vong War, the extra-galactic Yuuzhan Vong invaders attacked the star system Cyborrea was located in."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Cyborrea",
+    "region": "Hutt Space",
+    "system": "Cyborrea system",
+    "coordinates": "S-9",
+    "routes": "Sisar Run",
+    "class": "Terrestrial",
+    "gravity": "High",
+    "fauna": [
+      "Nek",
+      "Cyborrean battlemount"
+    ],
+    "species": "Cyborreans",
+    "population": "100 million to 500 million (25 ABY)",
+    "affiliation": "Hutt Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Cyborrean",
+      "directory": "Cyborrean",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cyborrea",
+    "x": 11039.7,
+    "y": 279.1,
+    "z": 12.0,
+    "region": "Hutt Space",
+    "grid": "S-9"
+  },
+  "scraped": "2026-07-03"
+}

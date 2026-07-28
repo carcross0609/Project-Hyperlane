@@ -1,0 +1,100 @@
+{
+  "name": "Ilum",
+  "wookieepedia_title": "Ilum",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ilum",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ilum, also later referred to as Starkiller Base due to the First Order military installation of the same name located on the planet, was a snow-covered planet located in the 7G sector of the Unknown Regions, originally located within the Ilum system. While in the system, Ilum was the fifth planet from its parent star Asar, a blue dwarf, located roughly equidistant from Asar and the system's cometary cloud. Ilum had a kyber crystalline core, and had been utilized by the Jedi Order for the Gathering, a rite of passage in which Jedi younglings had to find and harvest kyber crystals for their lightsabers, which had existed for thousands of standard years.",
+  "lead_paragraphs": [
+    "Ilum, also later referred to as Starkiller Base due to the First Order military installation of the same name located on the planet, was a snow-covered planet located in the 7G sector of the Unknown Regions, originally located within the Ilum system. While in the system, Ilum was the fifth planet from its parent star Asar, a blue dwarf, located roughly equidistant from Asar and the system's cometary cloud. Ilum had a kyber crystalline core, and had been utilized by the Jedi Order for the Gathering, a rite of passage in which Jedi younglings had to find and harvest kyber crystals for their lightsabers, which had existed for thousands of standard years.",
+    "When the Jedi Order was exterminated by order of Darth Sidious, the new Galactic Empire occupied Ilum and began excavating it for its vast supply of kyber crystals, which were to be used in the construction of the first and second Death Stars. The over-mining of the planet caused its core, and later a massive Imperial Trench, to open up along Ilum's equator.",
+    "After the fall of the Empire, its successor state, the First Order, converted the massive trench into Starkiller Base: a system-destroying superweapon that was the culmination of the Empire's research into dark energy translations and hyperspace tunneling. Held in secret by the First Order, its modifications allowed Ilum to act as a mobile base and major weapons platform until it was destroyed by the Resistance in desperation after Starkiller's destruction of the Hosnian system. Following the attack, led by Poe Dameron, the planet collapsed into a star that would later be named Solo after the legendary smuggler Han Solo, who died at Ilum."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Discovery",
+    "  Jedi uses",
+    "  Clone Wars",
+    "  Under the Empire",
+    "  First Order superweapon",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "option1": "Starkiller",
+    "option2": "Intact",
+    "name": "Ilum",
+    "region": "Unknown Regions",
+    "sector": "7G sector",
+    "system": [
+      "Ilum system (original)",
+      "Dassal system (briefly)",
+      "Starkiller Base system (34 ABY)"
+    ],
+    "coordinates": "G-7 (original location)",
+    "suns": [
+      "Asar (original)",
+      "Dassal system's sun (briefly)",
+      "Unidentified star (briefly in 34 ABY)"
+    ],
+    "position": "5",
+    "moons": [
+      "2 (originally)",
+      "0 (34 ABY)"
+    ],
+    "routes": "Metellos-Ilum hyperspace route",
+    "lengthday": "66 hours",
+    "lengthyear": [
+      "301 days",
+      "Variable (34 ABY)"
+    ],
+    "diameter": "660 kilometers",
+    "atmosphere": "Breathable (oxygen, nitrogen mix)",
+    "climate": "Frigid",
+    "terrain": [
+      "Crystallized glaciers",
+      "Ice plains",
+      "Mountains",
+      "Forests"
+    ],
+    "water": "Shallow seas",
+    "interest": [
+      "Jedi Temple",
+      "  Crystal Cave",
+      "Holenesh Canyon",
+      "Imperial Trench",
+      "Starkiller Base",
+      "  Command center",
+      "  Precinct 47"
+    ],
+    "flora": "Trees",
+    "fauna": [
+      "Asharl panther",
+      "Blismal",
+      "Gorgodon",
+      "Razhak",
+      "Snowfeather bird",
+      "Unidentified creature"
+    ],
+    "otherspecies": "Human",
+    "population": "5,200 (nonpermanent residents)",
+    "exports": "Kyber crystals",
+    "affiliation": [
+      "Jedi Order",
+      "Sith",
+      "Galactic Empire",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ilum",
+    "x": -6195.2,
+    "y": 3684.6,
+    "z": 207.4,
+    "region": "Unknown Regions",
+    "grid": "G-7"
+  },
+  "scraped": "2026-07-03"
+}

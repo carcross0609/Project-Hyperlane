@@ -1,0 +1,48 @@
+{
+  "asset": "Jedi High Council cruiser",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Invictus Class Star Cruiser",
+      "url": "https://sketchfab.com/3d-models/none-8ba24769c02b401d88f50655505c92be",
+      "uid": "8ba24769c02b401d88f50655505c92be",
+      "author": "Conner Bentley",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 479,
+      "thumbnail": "https://media.sketchfab.com/models/8ba24769c02b401d88f50655505c92be/thumbnails/20b7b4479c79477f8a745b8ff1339a91/61dc7aeb8c9f48069ca8c8f4cb314621.jpeg"
+    },
+    {
+      "name": "Star Wars: Gozanti-Class Cruiser",
+      "url": "https://sketchfab.com/3d-models/none-6a587e545b1c48bea95480b49458ac63",
+      "uid": "6a587e545b1c48bea95480b49458ac63",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 434,
+      "thumbnail": "https://media.sketchfab.com/models/6a587e545b1c48bea95480b49458ac63/thumbnails/7b8fe8a5e36a46e080c161403605f7f5/51dacd14243b44e0a4d9b048c3969152.jpeg"
+    },
+    {
+      "name": "Imperial cruiser #1",
+      "url": "https://sketchfab.com/3d-models/none-6f599602a94940828a814b16be8d757d",
+      "uid": "6f599602a94940828a814b16be8d757d",
+      "author": "Anthony Schmidt",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 274,
+      "thumbnail": "https://media.sketchfab.com/models/6f599602a94940828a814b16be8d757d/thumbnails/6184c9e9b4784da1938e5adb4086be3b/50x50.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Cruiser"
+}

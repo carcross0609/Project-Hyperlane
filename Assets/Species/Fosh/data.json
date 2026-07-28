@@ -1,0 +1,23 @@
+{
+  "name": "Fosh",
+  "wookieepedia_title": "Fosh",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fosh",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Fosh were a sentient bird-like species that were native to the Mid Rim planet Dallenor. They were among the guards at the Dallenor Excavation and the Krypder Riders, including leader of the riders, Hudso Shaku.",
+  "data": {
+    "name": "Fosh",
+    "designation": "Sentient",
+    "skincolor": "Pink",
+    "feathers": [
+      "Blue",
+      "Purple"
+    ],
+    "eyecolor": "Brown",
+    "distinctions": "Beak-like mouths",
+    "origin": "Dallenor",
+    "language": "Galactic Basic Standard"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Dallenor"
+}

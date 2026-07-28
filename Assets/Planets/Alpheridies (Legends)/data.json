@@ -1,0 +1,83 @@
+{
+  "name": "Alpheridies",
+  "wookieepedia_title": "Alpheridies/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alpheridies/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alpheridies was a planet in the Abron system, homeworld of the Alpheridians, and the adopted homeworld of the Miraluka.",
+  "lead_paragraphs": [
+    "Alpheridies was a planet in the Abron system, homeworld of the Alpheridians, and the adopted homeworld of the Miraluka."
+  ],
+  "article_sections": [
+    "History",
+    "Culture"
+  ],
+  "data": {
+    "name": "Alpheridies",
+    "region": [
+      "Expansion Region",
+      "Trans-Hydian"
+    ],
+    "sector": "Farstey sector",
+    "system": "Abron system",
+    "coordinates": "O-8",
+    "suns": "1: Aber",
+    "moons": "0",
+    "lengthday": "21 standard hours",
+    "lengthyear": "450 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cool",
+    "gravity": "Standard",
+    "terrain": [
+      "Hills",
+      "Mountains",
+      "Plains"
+    ],
+    "interest": "Culu Memorial Center",
+    "fauna": "Thizzle-bug",
+    "species": "Alpheridian",
+    "otherspecies": "Miraluka",
+    "government": [
+      "Oligarchy",
+      "  Government Council",
+      "    Twenty three representatives"
+    ],
+    "population": [
+      "Historic (Great Sith War): 1 million",
+      "  90% Miraluka",
+      "  7% Alpheridian",
+      "  3% Other species"
+    ],
+    "cities": "Several small settlements",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Exar Kun's Sith Empire",
+      "Darth Revan's Sith Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Alpheridian",
+      "directory": "Alpheridian",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Miraluka",
+      "directory": "Miraluka (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alpheridies",
+    "x": 5416.9,
+    "y": 2750.4,
+    "z": -107.4,
+    "region": "Expansion Region",
+    "grid": "O-8"
+  },
+  "scraped": "2026-07-03"
+}

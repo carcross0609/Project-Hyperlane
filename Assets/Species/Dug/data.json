@@ -1,0 +1,42 @@
+{
+  "name": "Dug",
+  "wookieepedia_title": "Dug",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dug",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Dugs were a sentient species from the planet Malastare. They were easily identified by their long snouts and the fact that they walked using their arms. On Malastare, the Dugs were ruled by the Dug Council, which during the Clone Wars was headed by Nakha Urus, who held the title of Doge. Some Dugs were known to travel off-world in order to seek lives off of Malastare. The pilot Sebulba became a well known and feared Podracer pilot, while a Dug named Preigo headed a popular circus. Dugs could also be found on the worlds of Coruscant and Tatooine.",
+  "data": {
+    "name": "Dug",
+    "designation": "Sentient",
+    "height": "1.12 meters",
+    "skincolor": [
+      "Beige",
+      "Blue",
+      "Brown",
+      "Gray",
+      "Pale",
+      "Purple",
+      "Tan"
+    ],
+    "haircolor": [
+      "Black",
+      "Brown",
+      "White",
+      "Gray"
+    ],
+    "eyecolor": [
+      "Brown",
+      "Orange",
+      "Purple",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Elongated faces",
+      "Walk on their upper limbs"
+    ],
+    "origin": "Malastare",
+    "habitat": "Desert or wastelands"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Malastare"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Espirion",
+  "wookieepedia_title": "Espirion",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Espirion",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Espirion was a planet in the Espirion system of the Inner Rim Territories that was home to a sentient species. Although heavily militarized, Espirion was a known haven to refugees and wanderers, to the point that its natives engineered micro-ecologies to accommodate exotic lifeforms. Long before the Battle of Yavin, a number of Alderaanians, the human inhabitants of Alderaan, established their presence on Espirion. They ended up intermarrying with the locals, giving rise to a race of half-Alderaanians, the Alder-Espirions. As the generations passed, the Alderaanians of Espirion mostly lost contact with their world of origin. However, when Alderaan was blown up by the Galactic Empire, Princess Leia Organa attempted to re-unite those half-Alderaanians with the other survivors.",
+  "lead_paragraphs": [
+    "Espirion was a planet in the Espirion system of the Inner Rim Territories that was home to a sentient species. Although heavily militarized, Espirion was a known haven to refugees and wanderers, to the point that its natives engineered micro-ecologies to accommodate exotic lifeforms. Long before the Battle of Yavin, a number of Alderaanians, the human inhabitants of Alderaan, established their presence on Espirion. They ended up intermarrying with the locals, giving rise to a race of half-Alderaanians, the Alder-Espirions. As the generations passed, the Alderaanians of Espirion mostly lost contact with their world of origin. However, when Alderaan was blown up by the Galactic Empire, Princess Leia Organa attempted to re-unite those half-Alderaanians with the other survivors."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Espirion",
+    "region": [
+      "Inner Rim Territories",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Espirion system",
+    "coordinates": "N-12",
+    "atmosphere": "Breathable",
+    "species": [
+      "Alder-Espirion",
+      "Espirion"
+    ],
+    "otherspecies": [
+      "Bith",
+      "Human",
+      "Rodian",
+      "Talz"
+    ],
+    "language": "Galactic Basic Standard"
+  },
+  "homeworld_of": [
+    {
+      "name": "Alder-Espirion",
+      "directory": "Alder-Espirion",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Espirion",
+      "directory": "Espirion (species)",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

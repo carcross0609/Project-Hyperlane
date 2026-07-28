@@ -1,0 +1,41 @@
+{
+  "name": "Motexx",
+  "wookieepedia_title": "Motexx",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Motexx",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Motexx was a planet located in the Colonies region on the other side of the Black Nebula from Arat Fraca.",
+  "lead_paragraphs": [
+    "Motexx was a planet located in the Colonies region on the other side of the Black Nebula from Arat Fraca."
+  ],
+  "article_sections": [
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Motexx",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "system": "Motexx system",
+    "coordinates": "M-13",
+    "class": "Terrestrial",
+    "population": "500 million to 1 billion",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Motexx",
+    "x": 2225.5,
+    "y": -4842.2,
+    "z": 102.7,
+    "region": "Colonies",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

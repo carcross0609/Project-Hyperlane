@@ -1,0 +1,110 @@
+{
+  "name": "Arbra",
+  "wookieepedia_title": "Arbra/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arbra/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arbra was a densely forested planet that became the headquarters of the Rebel Alliance after the evacuation of Golrath Station, around 3 ABY. Home to the lagomorphic Hoojibs, Arbra was once inhabited by an ancient race who had resided in subterranean cities.",
+  "lead_paragraphs": [
+    "Arbra was a densely forested planet that became the headquarters of the Rebel Alliance after the evacuation of Golrath Station, around 3 ABY. Home to the lagomorphic Hoojibs, Arbra was once inhabited by an ancient race who had resided in subterranean cities.",
+    "As a safe haven in a desperate hour for the Rebellion, Arbra earned the nickname \"Salvation.\" They launched many missions against the Empire from the world during their stay. The location of Arbra was kept top-secret, and the Rebel base on its surface was heavily secured. Though the planet was never attacked by Imperial forces during the Rebels' stay, there were close calls, and Arbra offered its own share of dangers.",
+    "After the Battle of Endor, Arbra remained a member of the Alliance of Free Planets, and later the New Republic. The system was overlooked by the Yuuzhan Vong during their invasion, and served as a location to slowly build up military forces."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Rebel discovery",
+    "  Rebel base",
+    "  Imperial threats",
+    "  The Darker",
+    "  New Republic member",
+    "Inhabitants",
+    "Locations",
+    "    Haven Base",
+    "  Arbran city"
+  ],
+  "data": {
+    "name": "Arbra",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Bon'nyuw-Luq sector",
+    "system": "Arbran system",
+    "coordinates": "N-17",
+    "suns": "1: Arbran",
+    "position": "2",
+    "moons": "1",
+    "lengthday": "24 standard hours",
+    "lengthyear": "380 local days",
+    "class": "Terrestrial",
+    "diameter": "11,887 kilometers (non-spherical)",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "gravity": "0.97 Standard",
+    "terrain": [
+      "Clearwater lakes",
+      "Ice caps",
+      "Jungle",
+      "Mountains",
+      "Rain forests",
+      "Underground caves",
+      "Volcanoes"
+    ],
+    "water": [
+      "Small seas"
+    ],
+    "interest": "Haven Base",
+    "flora": "Trees",
+    "fauna": "Arbran lava snail",
+    "species": [
+      "Arbrans",
+      "Hoojibs"
+    ],
+    "otherspecies": [
+      "Sith",
+      "Humans",
+      "Other alien species"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Communal, with clan speakers",
+    "population": [
+      "1.2 million Hoojibs",
+      "7,525 Humans",
+      "470 other (c. 3 ABY)"
+    ],
+    "demonym": "Arbran",
+    "cities": "Grotto City (abandoned as of 3 ABY)",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Infinite Empire",
+      "Confederacy of Independent Systems",
+      "Alliance to Restore the Republic",
+      "Alliance of Free Planets",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Hoojib",
+      "directory": "Hoojib",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Hoojib",
+      "directory": "Hoojib (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Arbra",
+    "x": 4197.9,
+    "y": -11520.2,
+    "z": 602.7,
+    "region": "Outer Rim",
+    "grid": "N-17"
+  },
+  "scraped": "2026-07-03"
+}

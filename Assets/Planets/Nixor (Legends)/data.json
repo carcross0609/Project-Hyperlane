@@ -1,0 +1,39 @@
+{
+  "name": "Nixor",
+  "wookieepedia_title": "Nixor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nixor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nixor was a planet located in the Mid Rim, coreward of Hutt Space. It was the homeworld of the Nixor species.",
+  "lead_paragraphs": [
+    "Nixor was a planet located in the Mid Rim, coreward of Hutt Space. It was the homeworld of the Nixor species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Nixor",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Eclorar sector",
+    "system": "Nixor system",
+    "coordinates": "Q-12",
+    "routes": "Trax Tube",
+    "interest": "Nixor Spaceport",
+    "species": "Nixor",
+    "population": "100 million to 500 million (c. 25 ABY)",
+    "affiliation": "Sith Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Nixor",
+    "x": 7952.6,
+    "y": -3608.2,
+    "z": -226.4,
+    "region": "Mid Rim",
+    "grid": "Q-12"
+  },
+  "scraped": "2026-07-03"
+}

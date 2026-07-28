@@ -1,0 +1,43 @@
+{
+  "name": "Vanqor",
+  "wookieepedia_title": "Vanqor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vanqor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vanqor was a rocky crystalline planet located in the Vanqor system of the galaxy's Outer Rim Territories that was the homeworld of the gundark species. During the Clone Wars, the Confederacy of Independent Systems established a listening post on this world.",
+  "lead_paragraphs": [
+    "Vanqor was a rocky crystalline planet located in the Vanqor system of the galaxy's Outer Rim Territories that was the homeworld of the gundark species. During the Clone Wars, the Confederacy of Independent Systems established a listening post on this world."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Vanqor",
+    "region": "Outer Rim Territories",
+    "sector": "Sertar sector",
+    "system": "Vanqor system",
+    "coordinates": "R-5",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Caves",
+      "Crystalline formations",
+      "Rocky"
+    ],
+    "interest": "Vanqor listening station",
+    "fauna": "Gundark",
+    "otherspecies": "Mirialan",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vanqor",
+    "x": 9891.5,
+    "y": 6632.6,
+    "z": 89.1,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

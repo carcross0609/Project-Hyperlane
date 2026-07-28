@@ -1,0 +1,38 @@
+{
+  "name": "Chameleon droid",
+  "wookieepedia_title": "Chameleon droid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chameleon_droid/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Arakyd Industries chameleon droid was a mine-laying sabotage probe droid used by the Confederacy of Independent Systems during the Clone Wars. Originally mining exploration droids known as Spelunker probe droids, they were outfitted with laser cannons, military grade mines, and a holographic array for military service. The array worked by scanning the background and the angle of the viewer's sight, then projecting a hologram of the background behind the droid, camouflaging it.",
+  "data": {
+    "name": "Chameleon droid",
+    "manufacturer": [
+      "Arakyd Industries",
+      "Techno Union"
+    ],
+    "class": [
+      "Battle droid",
+      "Sabotage droid",
+      "Probe droid"
+    ],
+    "height": "2 meters",
+    "sensor": "Blue",
+    "plating": "Red",
+    "armament": [
+      "Laser cannons (3)",
+      "Frag mines (24)"
+    ],
+    "equipment": [
+      "Holographic camouflage",
+      "Repulsorlift"
+    ],
+    "affiliation": [
+      "Commerce Guild",
+      "Techno Union",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

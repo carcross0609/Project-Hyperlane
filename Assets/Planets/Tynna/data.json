@@ -1,0 +1,57 @@
+{
+  "name": "Tynna",
+  "wookieepedia_title": "Tynna",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tynna",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tynna was a planet in the Expansion Region that was placed along the Shipwrights' Trace hyperspace route and was home to the aquatic, sentient Tynnan species. At some point, during the Contagion of Tynna, the political figure Nermani Ulekt broke through the Galactic Republic's quarantine to deliver aid and was arrested. The world was occupied by the Separatist Alliance during the Clone Wars, but the Galactic Republic successfully harried the occupiers on Tynna by sending at least one commando team to work with local freedom fighters. Senator Streamdrinker of Tynna signed the Petition of 2,000 as a protest against Republic Chancellor Sheev Palpatine's emergency powers.",
+  "lead_paragraphs": [
+    "Tynna was a planet in the Expansion Region that was placed along the Shipwrights' Trace hyperspace route and was home to the aquatic, sentient Tynnan species. At some point, during the Contagion of Tynna, the political figure Nermani Ulekt broke through the Galactic Republic's quarantine to deliver aid and was arrested. The world was occupied by the Separatist Alliance during the Clone Wars, but the Galactic Republic successfully harried the occupiers on Tynna by sending at least one commando team to work with local freedom fighters. Senator Streamdrinker of Tynna signed the Petition of 2,000 as a protest against Republic Chancellor Sheev Palpatine's emergency powers.",
+    "After Palpatine transformed the Republic into the Galactic Empire, Streamdrinker and sixty-two other senators were arrested under accusations of colluding with an alleged Jedi insurgency. By 4 BBY, the rebel cell Deep Current carried out intelligence operations out of Tynna and the Shipwrights' Trace. Davits Draven, a general in Senator Mon Mothma's organized rebellion against the Empire, sent a classified document to Mothma on rebel cells like Deep Current, suggesting ways that the rebellion could use them in."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Clone Wars",
+    "  Imperial era",
+    "  Galactic Civil War",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Tynna",
+    "region": "Expansion Region",
+    "sector": "Tynna sector",
+    "system": "Tynna system",
+    "coordinates": "N-14",
+    "routes": "Shipwrights' Trace",
+    "class": "Terrestrial",
+    "species": "Tynnans",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tynnan",
+      "directory": "Tynnan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Tynnan",
+      "directory": "Tynnan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tynna",
+    "x": 4307.0,
+    "y": -6074.3,
+    "z": -109.3,
+    "region": "Expansion Region",
+    "grid": "N-14"
+  },
+  "scraped": "2026-07-03"
+}

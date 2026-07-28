@@ -1,0 +1,50 @@
+{
+  "name": "Rydar II",
+  "wookieepedia_title": "Rydar II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rydar_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rydar II was the original homeworld of the Ranat species. The local Human Governor had the Ranats exterminated in 200 BBY. Only three individuals escaped, ending up on nearby Aralia.",
+  "lead_paragraphs": [
+    "Rydar II was the original homeworld of the Ranat species. The local Human Governor had the Ranats exterminated in 200 BBY. Only three individuals escaped, ending up on nearby Aralia."
+  ],
+  "article_sections": [
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Rydar II",
+    "region": "Outer Rim Territories",
+    "sector": "Antemeridian sector",
+    "system": "Rydar system",
+    "coordinates": "R-7",
+    "species": "Ranats (formerly)",
+    "otherspecies": "Humans",
+    "language": [
+      "Basic",
+      "Ranat (formerly)"
+    ],
+    "demonym": "Rydarian",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ranat",
+      "directory": "Ranat (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rydar II",
+    "x": 9092.0,
+    "y": 4246.1,
+    "z": -262.9,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

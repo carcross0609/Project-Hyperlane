@@ -1,0 +1,41 @@
+{
+  "name": "Deylerax",
+  "wookieepedia_title": "Deylerax",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deylerax",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Deylerax was a Mid Rim world, the homeworld of the near-Human Enu race.",
+  "lead_paragraphs": [
+    "Deylerax was a Mid Rim world, the homeworld of the near-Human Enu race."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Deylerax",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Talcene sector",
+    "system": "Deylerax system",
+    "coordinates": "R-8",
+    "species": "Enu"
+  },
+  "homeworld_of": [
+    {
+      "name": "Enu",
+      "directory": "Enu",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Deylerax",
+    "x": -1139.3,
+    "y": -12121.8,
+    "z": -375.5,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

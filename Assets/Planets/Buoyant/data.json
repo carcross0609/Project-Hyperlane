@@ -1,0 +1,53 @@
+{
+  "name": "Buoyant",
+  "wookieepedia_title": "Buoyant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Buoyant",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Buoyant was an Inner Rim planet that was terraformed by a sentient species millennia before 54 BBY. The alterations made to Buoyant by the terraformers included an increased rotation rate as well as lush vegetation and imported animals, among them a long-necked herd quadruped.",
+  "lead_paragraphs": [
+    "Buoyant was an Inner Rim planet that was terraformed by a sentient species millennia before 54 BBY. The alterations made to Buoyant by the terraformers included an increased rotation rate as well as lush vegetation and imported animals, among them a long-necked herd quadruped.",
+    "In 54 BBY, Buoyant was visited by the Dark Lord of the Sith Darth Plagueis and his apprentice, Darth Sidious. The two engaged in a series of hunts in various biomes of the planet, killing numerous creatures in order to strengthen their connection to the dark side of the Force and also discussing the nature of the dark side."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Buoyant",
+    "region": "Inner Rim",
+    "system": "Buoyant system",
+    "coordinates": "J-14",
+    "class": "Terrestrial",
+    "gravity": "Low",
+    "terrain": [
+      "Forests",
+      "Grasslands",
+      "Savannas",
+      "Arid wastes"
+    ],
+    "water": "Inland seas",
+    "interest": "Machines",
+    "flora": [
+      "Grass",
+      "Brushes",
+      "Trees",
+      "Parasitic flowering plants"
+    ],
+    "fauna": [
+      "Long-necked quadrupeds",
+      "Flying insects"
+    ],
+    "imports": "Animals (millennia before 54 BBY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Bouyant species",
+      "directory": "Unidentified Bouyant species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

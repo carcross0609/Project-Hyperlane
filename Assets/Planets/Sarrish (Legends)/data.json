@@ -1,0 +1,55 @@
+{
+  "name": "Sarrish",
+  "wookieepedia_title": "Sarrish/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sarrish/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sarrish was a planet in the Vensensor sector, and homeworld of the Sarrish people.",
+  "lead_paragraphs": [
+    "Sarrish was a planet in the Vensensor sector, and homeworld of the Sarrish people."
+  ],
+  "article_sections": [
+    "Characteristics",
+    "History"
+  ],
+  "data": {
+    "name": "Sarrish",
+    "region": [
+      "Expansion Region",
+      "Western Reaches"
+    ],
+    "sector": "Vensensor sector",
+    "system": "Sarrish system",
+    "coordinates": "K-16",
+    "suns": "At least 2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Rocks",
+      "Craters",
+      "Plateaus"
+    ],
+    "interest": "Salla C'airam's cantina",
+    "species": "Unidentified Sarrish species",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Sarrish species",
+      "directory": "Unidentified Sarrish species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sarrish",
+    "x": -256.2,
+    "y": -9207.5,
+    "z": 17.8,
+    "region": "Expansion Region",
+    "grid": "K-16"
+  },
+  "scraped": "2026-07-03"
+}

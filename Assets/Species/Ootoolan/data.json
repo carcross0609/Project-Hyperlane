@@ -1,0 +1,27 @@
+{
+  "name": "Ootoolan",
+  "wookieepedia_title": "Ootoolan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ootoolan",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Ootoolans were a species of amphibious sentients indigenous to the beautiful aquatic world of Ootoola. They generally possessed humanoid features, but their skin was a mottled bright green, and their heads were adorned with a fin-like ridge and several finned jowls. Due to their fish-like appearance, members of this species were derogatorily nicknamed «fishfaces» outside Ootoola.",
+  "data": {
+    "option1": "1",
+    "option2": "2",
+    "name": "Ootoolan",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "skincolor": "Mottled, bright green",
+    "eyecolor": "Black with green-colored sclera",
+    "distinctions": [
+      "Lack of a nose",
+      "Sharp teeth and a protruding lower jaw",
+      "Finned jowls",
+      "Head with fin-like ridge",
+      "Tentacle-like arms"
+    ],
+    "origin": "Ootoola"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Ootoola"
+}

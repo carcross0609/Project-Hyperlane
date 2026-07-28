@@ -1,0 +1,53 @@
+{
+  "name": "Truuine",
+  "wookieepedia_title": "Truuine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Truuine",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Truuine was an Inner Rim waterworld planet. It featured an equatorial belt of islands as well as a polar region with mountains and glaciers. By 4000 BBY, the planet was the site of the Truuine Jedi Praxeum, a training facility established by Jedi Master Mroon Jassa. Around that time, the Gotal Kith Kark visited Truuine and encountered Jassa, which eventually led to the former taking up Jedi studies at the Praxeum. During the reign of the Galactic Empire millennia later, Truuine's islands were home to Karkarodon and Patrolian settlers.",
+  "lead_paragraphs": [
+    "Truuine was an Inner Rim waterworld planet. It featured an equatorial belt of islands as well as a polar region with mountains and glaciers. By 4000 BBY, the planet was the site of the Truuine Jedi Praxeum, a training facility established by Jedi Master Mroon Jassa. Around that time, the Gotal Kith Kark visited Truuine and encountered Jassa, which eventually led to the former taking up Jedi studies at the Praxeum. During the reign of the Galactic Empire millennia later, Truuine's islands were home to Karkarodon and Patrolian settlers."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The quest of Kith Kark",
+    "  Lost history",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Truuine",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Truuine system",
+    "coordinates": "O-11",
+    "suns": "At least 1",
+    "class": "Waterworld",
+    "terrain": [
+      "Islands (equator)",
+      "Mountains (polar region)",
+      "Glaciers (polar region)"
+    ],
+    "water": "Planet-wide ocean",
+    "interest": "Truuine Jedi Praxeum",
+    "fauna": "Fish",
+    "otherspecies": [
+      "Karkaradon",
+      "Patrolian"
+    ],
+    "affiliation": "Jedi Order"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Truuine",
+    "x": 4575.4,
+    "y": -2792.6,
+    "z": -70.2,
+    "region": "Inner Rim",
+    "grid": "O-11"
+  },
+  "scraped": "2026-07-03"
+}

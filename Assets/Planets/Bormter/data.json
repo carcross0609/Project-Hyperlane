@@ -1,0 +1,43 @@
+{
+  "name": "Bormter",
+  "wookieepedia_title": "Bormter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bormter",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Bormter was a Wild Space planet that was home to the four-armed reptiloid Bormterran species. Following the Battle of Endor, Moff Delurin broke with the Galactic Empire and declared himself a warlord, conquering Bormter with his warship, the Galaxy Dragon. Delurin used Bormter as a base and recruited Bormterrans to serve in the dragon trooper military unit.",
+  "lead_paragraphs": [
+    "Bormter was a Wild Space planet that was home to the four-armed reptiloid Bormterran species. Following the Battle of Endor, Moff Delurin broke with the Galactic Empire and declared himself a warlord, conquering Bormter with his warship, the Galaxy Dragon. Delurin used Bormter as a base and recruited Bormterrans to serve in the dragon trooper military unit."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Bormter",
+    "region": "Wild Space",
+    "system": "Svekk system",
+    "coordinates": "H-14",
+    "position": "5",
+    "class": "Terrestrial",
+    "species": "Bormterrans",
+    "affiliation": "Delurin's empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bormterran",
+      "directory": "Bormterran",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "Bormter",
+    "x": -5889.6,
+    "y": -7088.8,
+    "z": -127.5,
+    "region": "Wild Space",
+    "grid": "H-14"
+  },
+  "scraped": "2026-07-03"
+}

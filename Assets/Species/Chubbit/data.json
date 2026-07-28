@@ -1,0 +1,25 @@
+{
+  "name": "Chubbit",
+  "wookieepedia_title": "Chubbit",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chubbit",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Chubbits were a species of bipedal, sentient reptiles indigenous to the desert world of Aridus in the Expansion Region. The average Chubbit stood shorter than a fully grown Human. Their skin was green or yellow, although some featured red or black spots. Their nervous system was easily crippled by ultra-strong frequency waves. On their dry homeworld, the Chubbits made use of indigenous technology such as wind-runners, wheeled vehicles that were propelled by large sails.",
+  "data": {
+    "name": "Chubbit",
+    "designation": "Sentient",
+    "class": "Lizard",
+    "height": "Small",
+    "skincolor": "Light green or yellow with black or red mottling",
+    "haircolor": "Blond, red, black, white",
+    "eyecolor": "White, green, red",
+    "distinctions": [
+      "Sensitive nervous system",
+      "Slit pupils"
+    ],
+    "origin": "Aridus",
+    "language": "Chubbini"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Aridus (Legends)"
+}

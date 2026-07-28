@@ -1,0 +1,24 @@
+{
+  "name": "Sniper rifle",
+  "wookieepedia_title": "Sniper rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sniper_rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Sniper rifles were long-range weapons, either projectile or, more commonly, blaster-based (these were also called sniper blaster rifles). The purpose of a sniper rifle was to kill a target at extreme distances. A sniper blaster rifle fired a long beam of energy, capable of killing with a single headshot.",
+  "data": {
+    "name": "Sniper rifle",
+    "type": "Blaster rifle",
+    "cost": "2,000 credits (Available for military use only)",
+    "shape": "Rifle-shaped",
+    "size": "Two-handed weapon",
+    "weight": "8 kg",
+    "capacity": "10 shots",
+    "range": [
+      "Optimum: up to 90 m",
+      "Maximum: up to 450 m"
+    ],
+    "purpose": "Sniping"
+  },
+  "scraped": "2026-07-03"
+}

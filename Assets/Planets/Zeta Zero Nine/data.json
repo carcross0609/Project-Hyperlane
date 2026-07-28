@@ -1,0 +1,57 @@
+{
+  "name": "Zeta Zero Nine",
+  "wookieepedia_title": "Zeta Zero Nine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zeta_Zero_Nine",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zeta Zero Nine was a planet located in the Wastes of Wild Space in the galaxy.",
+  "lead_paragraphs": [
+    "Zeta Zero Nine was a planet located in the Wastes of Wild Space in the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Zeta Zero Nine",
+    "region": "Wild Space",
+    "sector": "The Wastes",
+    "system": "Zeta 0-9 system",
+    "coordinates": "K-2",
+    "lengthday": "25 standard hours",
+    "lengthyear": "403 Local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Freezing",
+    "gravity": "Standard",
+    "terrain": [
+      "Pitching ice seas",
+      "Treacherous rocky islands"
+    ],
+    "water": "Saturated",
+    "interest": "Underwater Zeta Zero Nine base",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Imperial commander",
+    "imports": [
+      "Base facilities and operational materials",
+      "Foodstuffs",
+      "Raw materials"
+    ],
+    "exports": [
+      "Ice",
+      "Other raw materials"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Zeta Zero Nine",
+    "x": -1131.3,
+    "y": 11086.1,
+    "z": 478.4,
+    "region": "Wild Space",
+    "grid": "K-2"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Varn",
+  "wookieepedia_title": "Varn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Varn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Varn was a water planet in the Quelii sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Varn was a water planet in the Quelii sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Varn",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Varn system",
+    "coordinates": "O-6",
+    "moons": "1: the Battlemoon",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": [
+      "Oceans",
+      "Forests"
+    ],
+    "water": "Present",
+    "interest": "Deep Pockets",
+    "fauna": [
+      "Cheeb",
+      "Lossor"
+    ],
+    "otherspecies": "Human",
+    "language": "Basic",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Varn",
+    "x": 4941.5,
+    "y": 4670.8,
+    "z": -64.1,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

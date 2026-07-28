@@ -1,0 +1,27 @@
+{
+  "name": "Rey's quarterstaff",
+  "wookieepedia_title": "Rey's quarterstaff",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rey%27s_quarterstaff",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The scavenger Rey owned a quarterstaff which she salvaged from the wreckage that littered the desert wastes following the Battle of Jakku. She used it for much of her life as a tool of scavenging and also for defense. These skills later proved useful when she used a lightsaber against Kylo Ren during the Battle of Starkiller Base.",
+  "data": {
+    "name": "Rey's quarterstaff",
+    "type": [
+      "Quarterstaff",
+      "Melee staff"
+    ],
+    "destroyed": "35 ABY (incorporated into Rey's lightsaber)",
+    "owners": "Rey",
+    "locations": [
+      "Jakku",
+      "Ahch-To",
+      "Ajan Kloss",
+      "Kijimi"
+    ],
+    "material": "Scavenge material",
+    "purpose": "Melee combat"
+  },
+  "scraped": "2026-07-03"
+}

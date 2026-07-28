@@ -1,0 +1,37 @@
+{
+  "name": "Gandeal",
+  "wookieepedia_title": "Gandeal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gandeal",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gandeal was a Planet in the Core Worlds and partner planet to the world of Fondor, a fortress world situated on the Corellian Trade Spine.",
+  "lead_paragraphs": [
+    "Gandeal was a Planet in the Core Worlds and partner planet to the world of Fondor, a fortress world situated on the Corellian Trade Spine.",
+    "It was one of the endpoints of the Gandeal-Fondor Hyperlane, which the Galactic Empire established to export raw materials from Gandeal to the Fondor Shipyards and Gandeal was used as a checkpoint of bulk freighters."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gandeal",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "system": "Gandeal system",
+    "coordinates": "M-12",
+    "routes": [
+      "Corellian Trade Spine",
+      "Gandeal-Fondor Hyperlane"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Gandeal",
+    "x": 2190.6,
+    "y": -4249.3,
+    "z": 57.0,
+    "region": "Core Worlds",
+    "grid": "M-12"
+  },
+  "scraped": "2026-07-03"
+}

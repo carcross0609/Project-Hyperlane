@@ -1,0 +1,54 @@
+{
+  "name": "Shalyvane",
+  "wookieepedia_title": "Shalyvane",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shalyvane",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shalyvane was a planet in the Outer Rim Territories and the homeworld of the Em'liy.",
+  "lead_paragraphs": [
+    "Shalyvane was a planet in the Outer Rim Territories and the homeworld of the Em'liy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Shalyvane",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Tion",
+      "The Slice"
+    ],
+    "sector": "Indrexu sector",
+    "system": "Shalyvane system",
+    "coordinates": "S-5",
+    "suns": "1: Kavaan'oa",
+    "moons": "At least 3",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "terrain": "Deserts",
+    "interest": "Circle of Kavaan",
+    "species": "Em'liy",
+    "language": [
+      "Em'liy",
+      "Basic"
+    ],
+    "demonym": "Shalyvanian",
+    "cities": "Chinshassa (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Em'liy",
+      "directory": "Em'liy (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Shalyvane",
+    "x": 11446.8,
+    "y": 7007.5,
+    "z": -167.1,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

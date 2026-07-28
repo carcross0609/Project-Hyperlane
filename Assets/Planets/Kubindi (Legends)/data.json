@@ -1,0 +1,109 @@
+{
+  "name": "Kubindi",
+  "wookieepedia_title": "Kubindi/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kubindi/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kubindi was a terrestrial world and home to the Kubaz. Kubindi orbited a blue giant star that emitted powerful solar flares. The planet was regularly hit with this radiation, causing erratic weather patterns and making the world dry and arid.",
+  "lead_paragraphs": [
+    "Kubindi was a terrestrial world and home to the Kubaz. Kubindi orbited a blue giant star that emitted powerful solar flares. The planet was regularly hit with this radiation, causing erratic weather patterns and making the world dry and arid."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kubindi",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Calaron sector",
+    "system": "Ku'Bakai system",
+    "coordinates": "T-9",
+    "suns": "Ku'Bakai",
+    "position": "5",
+    "moons": "3",
+    "routes": "Triellus Trade Route",
+    "lengthday": "48 standard hours",
+    "lengthyear": "420 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Searing",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Swamps",
+      "Rainforests",
+      "Bogs",
+      "Mountains",
+      "Rivers"
+    ],
+    "water": "Dry",
+    "interest": [
+      "Ambrosial Fogs",
+      "Cretlin Lake",
+      "Silver Forest of Dreams"
+    ],
+    "flora": [
+      "Thickwood tree",
+      "Silvertree"
+    ],
+    "fauna": [
+      "Antz",
+      "  Silver ant",
+      "Aquabeast",
+      "Decaleg",
+      "Fieldhopper",
+      "Ghost spider",
+      "Greenfly",
+      "Kuret",
+      "Mantys",
+      "Micromite",
+      "Scarpyen",
+      "Sun beetle",
+      "Teithek",
+      "Zingbee"
+    ],
+    "species": "Kubaz",
+    "otherspecies": "Yuuzhan Vong",
+    "language": [
+      "Kubazian",
+      "Yuuzhan Vong"
+    ],
+    "government": "Family oligarchies",
+    "population": "2 billion",
+    "cities": [
+      "Bizzin Uz's village",
+      "Zabin Hive"
+    ],
+    "imports": "Medium to high technology",
+    "exports": "Exotic cuisine",
+    "affiliation": [
+      "Hutt Empire",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kubaz",
+      "directory": "Kubaz",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kubaz",
+      "directory": "Kubaz (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kubindi",
+    "x": 13036.8,
+    "y": 410.7,
+    "z": 88.5,
+    "region": "Outer Rim",
+    "grid": "T-9"
+  },
+  "scraped": "2026-07-03"
+}

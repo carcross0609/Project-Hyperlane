@@ -1,0 +1,51 @@
+{
+  "name": "Virujansi",
+  "wookieepedia_title": "Virujansi/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Virujansi/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Virujansi was a planet in the Virujansi system of the Inner Rim. The planet's populace had a complex hierarchy.",
+  "lead_paragraphs": [
+    "Virujansi was a planet in the Virujansi system of the Inner Rim. The planet's populace had a complex hierarchy."
+  ],
+  "article_sections": [
+    "History",
+    "Society and culture"
+  ],
+  "data": {
+    "name": "Virujansi",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Virujansi system",
+    "coordinates": "O-10",
+    "routes": "Great Kashyyyk Branch",
+    "class": "Terrestrial",
+    "terrain": [
+      "Caverns",
+      "Farmland",
+      "Rolling hills"
+    ],
+    "species": "Borecrawler",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "population": "500 million to 1 billion (Virujansi system) (c. 25 ABY)",
+    "cities": "Unparala (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Virujansi",
+    "x": 5541.2,
+    "y": -787.5,
+    "z": -118.3,
+    "region": "Inner Rim",
+    "grid": "O-10"
+  },
+  "scraped": "2026-07-03"
+}

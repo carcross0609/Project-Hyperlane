@@ -1,0 +1,40 @@
+{
+  "name": "Wrea",
+  "wookieepedia_title": "Wrea/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wrea/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Wrea was an inhabited planet located within the Wrea system of the Outer Rim Territories near the Smuggler's Run. When Kueller's explosive droids decimated the inhabitants of the Run, the Wreans offered medical assistance. Wrea also contained a Republic outpost during the Clone Wars.",
+  "lead_paragraphs": [
+    "Wrea was an inhabited planet located within the Wrea system of the Outer Rim Territories near the Smuggler's Run. When Kueller's explosive droids decimated the inhabitants of the Run, the Wreans offered medical assistance. Wrea also contained a Republic outpost during the Clone Wars."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Wrea",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Gaulus sector",
+    "system": "Wrea system",
+    "coordinates": "S-17",
+    "routes": "Corellian Run",
+    "species": "Wrean"
+  },
+  "homeworld_of": [
+    {
+      "name": "Wrean",
+      "directory": "Wrean",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Wrea",
+    "x": 10652.3,
+    "y": -11898.2,
+    "z": -415.3,
+    "region": "Outer Rim",
+    "grid": "S-17"
+  },
+  "scraped": "2026-07-03"
+}

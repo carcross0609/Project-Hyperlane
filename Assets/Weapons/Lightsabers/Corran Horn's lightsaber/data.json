@@ -1,0 +1,36 @@
+{
+  "name": "Corran Horn's lightsaber",
+  "wookieepedia_title": "Corran Horn's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corran_Horn%27s_lightsaber",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Corran Horn constructed his silver-bladed lightsaber on Courkrus, using scrap parts from The Crash. Created using a Durindfire, along with an emerald and diamond (initially a Kubaz xirkonia, which rapidly failed and was soon replaced) for the focusing crystals, from jeweled furniture in Corran's room, it was based on designs hidden in Rostek Horn's columns for the Corellian Horticultural Digest, using a method for emergencies that took an average of two days to finish.",
+  "data": {
+    "name": "Corran Horn's lightsaber",
+    "model": "Lightsaber",
+    "type": "Dual-phase lightsaber",
+    "culture": "Jedi",
+    "creator": "Corran Horn",
+    "created": "11 ABY",
+    "owners": "Corran Horn",
+    "hilt_shape": "Cylindrical, straight",
+    "hilt_material": [
+      "Alloy metal",
+      "Salvaged materials"
+    ],
+    "crystal": [
+      "Durindfire",
+      "Emerald",
+      "Diamond",
+      "Kubaz xirkonia"
+    ],
+    "color": [
+      "Silver",
+      "Purple"
+    ],
+    "purpose": "Lightsaber combat",
+    "affiliation": "New Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,143 @@
+{
+  "name": "Bespin",
+  "wookieepedia_title": "Bespin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bespin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bespin was a gas giant in the Bespin system of the Anoat sector on the Ison Corridor in the Greater Javin region of the Outer Rim Territories. It was also a major source of tibanna gas, which was refined for production and transport in numerous mining operations including Cloud City and Tibannopolis. It was home to several million individuals, including Humans, Ugnaughts, and Lutrillians.",
+  "lead_paragraphs": [
+    "Bespin was a gas giant in the Bespin system of the Anoat sector on the Ison Corridor in the Greater Javin region of the Outer Rim Territories. It was also a major source of tibanna gas, which was refined for production and transport in numerous mining operations including Cloud City and Tibannopolis. It was home to several million individuals, including Humans, Ugnaughts, and Lutrillians."
+  ],
+  "article_sections": [
+    "Overview",
+    "History",
+    "  Old Republic era",
+    "  Rise of the Empire era",
+    "  Galactic Civil War",
+    "  Yuuzhan Vong War",
+    "  Dark Nest Crisis",
+    "  Second Galactic Civil War",
+    "  Darth Krayt's empire",
+    "Economy",
+    "Flora and fauna",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Bespin",
+    "region": [
+      "Outer Rim Territories; Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector; Ivax Nebula; Ison Corridor",
+    "system": "Bespin system",
+    "coordinates": "K-18",
+    "distance": "49,100 light-years",
+    "suns": "1: Bespin",
+    "position": "3",
+    "moons": "More than two, including H'gaard and Drudonna",
+    "routes": "Ison Corridor",
+    "lengthday": "12 standard hours",
+    "lengthyear": "5,110 standard days",
+    "class": "Gas giant",
+    "diameter": "118,000 kilometers",
+    "atmosphere": "Breathable (in the Life Zone)",
+    "climate": "Temperate (in the life zone)",
+    "gravity": [
+      "Standard (in the life zone)",
+      "1.5 x standard (surface only)"
+    ],
+    "terrain": [
+      "Gas giant",
+      "Swamp (surface only)",
+      "Clouds"
+    ],
+    "water": "None",
+    "interest": [
+      "BesGas Three",
+      "Bespin construction platforms",
+      "Cloud City",
+      "Floating health spas",
+      "Rethin Sea",
+      "Tibanna gas platforms",
+      "Ugnaught Surface"
+    ],
+    "flora": [
+      "Airborne algae sack",
+      "Glowers",
+      "Pinks"
+    ],
+    "fauna": [
+      "Beldon",
+      "Floaters",
+      "Heliost",
+      "Rawwk",
+      "Thranta",
+      "Tibanna mynock",
+      "Tibannuck",
+      "Velker"
+    ],
+    "species": [
+      "Neo-Bespinian",
+      "Tibannuck"
+    ],
+    "otherspecies": [
+      "Human",
+      "Lutrillian",
+      "Sullustan",
+      "Ugnaught"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Guild",
+    "population": [
+      "6 million:",
+      "  68% Human",
+      "  8% Ugnaught",
+      "  6% Lutrillian",
+      "  18% other"
+    ],
+    "demonym": "Bespinite",
+    "cities": [
+      "Cloud City (capital)",
+      "Tibannopolis",
+      "Ugnorgrad"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": [
+      "Cloud cars",
+      "Tibanna",
+      "Tourism"
+    ],
+    "affiliation": [
+      "Neo-Bespinians",
+      "Galactic Republic",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Empire Reborn/Reborn",
+      "Imperial Remnant",
+      "Galactic Federation of Free Alliances",
+      "Five Worlds",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Neo-Bespinian",
+      "directory": "Neo-Bespinian",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": {
+    "system": "Bespin",
+    "x": -1430.0,
+    "y": -12747.8,
+    "z": -177.8,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

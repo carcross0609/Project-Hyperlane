@@ -1,0 +1,52 @@
+{
+  "name": "Tozeer",
+  "wookieepedia_title": "Tozeer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tozeer",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Tozeer was a planet located within the Tozeer system of the Outer Rim Territories. Tozeer was a desert world with Jawas and Tusken Raiders living on it.",
+  "lead_paragraphs": [
+    "Tozeer was a planet located within the Tozeer system of the Outer Rim Territories. Tozeer was a desert world with Jawas and Tusken Raiders living on it.",
+    "While on an undercover mission on Tozeer after the Battle of Hoth, C-3PO was captured and dismantled by Tuskens. Luke Skywalker found his head and recovered the other pieces from Jawas known as \"the Brothers.\" In exchange, Luke protected the Brothers' sandcrawler from the Tuskens."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tozeer",
+    "region": "Outer Rim Territories",
+    "sector": "Hunnoverrs sector",
+    "system": "Tozeer system",
+    "coordinates": "R-16",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Deserts",
+      "Oases"
+    ],
+    "water": "Present (Oases)",
+    "fauna": [
+      "Bantha",
+      "Pincerless scorpion"
+    ],
+    "otherspecies": [
+      "Jawas",
+      "Tusken Raiders",
+      "Advosec"
+    ],
+    "language": [
+      "Basic",
+      "Jawaese"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tozeer",
+    "x": 9645.4,
+    "y": -9194.4,
+    "z": -510.7,
+    "region": "Outer Rim",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

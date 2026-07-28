@@ -1,0 +1,47 @@
+{
+  "name": "Vondarc",
+  "wookieepedia_title": "Vondarc/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vondarc/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vondarc was a planet located within the Vondarc system of the Mid Rim, that served as one of the endpoints of the Enarc Run hyperroute.",
+  "lead_paragraphs": [
+    "Vondarc was a planet located within the Vondarc system of the Mid Rim, that served as one of the endpoints of the Enarc Run hyperroute."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vondarc",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Var Hagen sector",
+    "system": "Vondarc system",
+    "coordinates": "M-16",
+    "routes": [
+      "Rimma Trade Route",
+      "Enarc Run"
+    ],
+    "class": "Terrestrial",
+    "population": "10 million to 100 million",
+    "cities": "Vonport",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Eriadu Authority"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vondarc",
+    "x": 2200.5,
+    "y": -10394.0,
+    "z": 134.3,
+    "region": "Mid Rim",
+    "grid": "M-16"
+  },
+  "scraped": "2026-07-03"
+}

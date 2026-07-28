@@ -1,0 +1,72 @@
+{
+  "name": "Bogano",
+  "wookieepedia_title": "Bogano",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bogano",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bogano was a grassy planet in the Outer Rim Territories. It was largely unexplored during the time of the Imperial Era and could not be found on any maps. Its surface was covered in mesas and wetlands. The planet was home to a great Vault built by the ancient Zeffonian civilization. Bogano was important to the Zeffo due the presence of the Binog, a large creature important to Zeffo art and culture. Another reason for the Vault's location was theorized by Jedi Master Eno Cordova to be because of the light electromagnetic winds, although in much smaller conditions than Zeffo. At least one Zeffo Colony was located on Bogano likely as a pilgrimage site. The Vault hid away a holocron containing a list of Force-sensitive children in the galaxy, which was placed there by Cordova.",
+  "lead_paragraphs": [
+    "Bogano was a grassy planet in the Outer Rim Territories. It was largely unexplored during the time of the Imperial Era and could not be found on any maps. Its surface was covered in mesas and wetlands. The planet was home to a great Vault built by the ancient Zeffonian civilization. Bogano was important to the Zeffo due the presence of the Binog, a large creature important to Zeffo art and culture. Another reason for the Vault's location was theorized by Jedi Master Eno Cordova to be because of the light electromagnetic winds, although in much smaller conditions than Zeffo. At least one Zeffo Colony was located on Bogano likely as a pilgrimage site. The Vault hid away a holocron containing a list of Force-sensitive children in the galaxy, which was placed there by Cordova."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Ancient history",
+    "  Imperial Era",
+    "  Galactic Civil War",
+    "  New Republic Era"
+  ],
+  "data": {
+    "name": "Bogano",
+    "region": "Outer Rim Territories",
+    "sector": "Mieru'kar sector",
+    "system": "Bogano system",
+    "coordinates": "N-3",
+    "suns": "3",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Mesas",
+      "Wetlands"
+    ],
+    "interest": [
+      "Abandoned Workshop",
+      "Binog Mesa",
+      "Bogano Vault",
+      "Bogdo Sinkholes",
+      "Fractured Plain",
+      "Great Divide",
+      "Hermit's Abode",
+      "Subterranean Refuge"
+    ],
+    "flora": [
+      "Featherfern",
+      "Grass",
+      "Kalpi"
+    ],
+    "fauna": [
+      "Binog",
+      "Bog rat",
+      "Bogling",
+      "Oggdo",
+      "Oggdo Bogdo",
+      "Para fish",
+      "Splox",
+      "Zaur"
+    ],
+    "otherspecies": [
+      "Human",
+      "Zeffonian"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Bogano",
+    "x": -1652.9,
+    "y": -12807.6,
+    "z": 130.3,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

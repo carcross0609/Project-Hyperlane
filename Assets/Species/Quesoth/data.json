@@ -1,0 +1,31 @@
+{
+  "name": "Quesoth",
+  "wookieepedia_title": "Quesoth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quesoth",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Quesoth were a sentient insectoid species native to the Unknown Regions planet Quethold and spoke the Quesoth Common Speak language. Divided by castes, several races followed the reigning Quesoth Queen, the Queen of the Red, White, or Black, which changed periodically, blindly. The Quesoth Soldiers, who understood the Quesoth Soldier Speak tongue spoken by their monarch, the Midli caste—who oversaw the Workers—and the Circling, a caste composed by several subgroups formed by the Queen's advisers and breeders, carried their Queens across their respective cities: the Red City, the White City, or the Black City.",
+  "data": {
+    "name": "Quesoth",
+    "designation": "Sentient",
+    "class": "Insectoid",
+    "races": [
+      "Soldiers",
+      "Workers"
+    ],
+    "eyecolor": "Pale blue",
+    "distinctions": [
+      "Two abdomens",
+      "Four legs"
+    ],
+    "lifespan": "Queens: As long as their reign",
+    "origin": "Quethold",
+    "diet": "Nectar",
+    "language": [
+      "Quesoth Common Speak",
+      "Quesoth Soldier Speak"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Quethold"
+}

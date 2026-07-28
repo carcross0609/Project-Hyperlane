@@ -1,0 +1,22 @@
+{
+  "name": "Gorph",
+  "wookieepedia_title": "Gorph",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gorph",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Gorphs were an amphibious sentient species who were native to the Forest Moon of Endor. They possessed green skin, and bluish-gray eyes with yellow sclera. Additionally, each of their hands possessed three webbed finger, and a singular protrusion was present atop their heads. One winter, the Ewok shaman Logray of Endor's Bright Tree Village claimed to Princess Kneesaa that the legendary Krooloks could eat Gorphs in a single bite. In 4 ABY, after thwarting the Imperial officer Tern Koyatta's attempted retrieval of an Imperial weapons cache, the Ewoks of Bright Tree Village invited several of their neighbors to an event, with the intent of promoting unity on the moon. At least one Gorph was present at the event, wearing a red and purple garment and handing an animal skull to Logray.",
+  "data": {
+    "name": "Gorph",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "skincolor": "Green",
+    "eyecolor": "Bluish-gray (with yellow sclera)",
+    "distinctions": [
+      "Three webbed fingers",
+      "Protrusion on the top of the head"
+    ],
+    "origin": "Endor"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Endor (planet)"
+}

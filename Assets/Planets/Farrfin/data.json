@@ -1,0 +1,71 @@
+{
+  "name": "Farrfin",
+  "wookieepedia_title": "Farrfin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Farrfin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Farrfin was the capital of Farrfin sector and the Farghul homeworld. It was a haven for criminals. A shakedown by the Jedi left the Farghul distrustful of Jedi.",
+  "lead_paragraphs": [
+    "Farrfin was the capital of Farrfin sector and the Farghul homeworld. It was a haven for criminals. A shakedown by the Jedi left the Farghul distrustful of Jedi.",
+    "Farrfin was also a haven for the Rebel Alliance during the Galactic Civil War, and eventually broke from the Empire with New Republic support. The New Republic engaged Grand Admiral Thrawn in battle at Farrfin in 9 ABY. Its population in that era was approximately six billion.",
+    "Farrfin had three major cities: Farlhu, Jahhnu, and Geltyu. A strong criminal element thrived in these cities, with con artists running sabacc scams on every street corner, and pockets being picked often. The famed Jahhnu betting houses took in incredible sums of currency, as gullible off-worlders and bored smugglers gambled away their earnings."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Farrfin",
+    "region": [
+      "Core Worlds",
+      "Northern Dependencies"
+    ],
+    "sector": "Farrfin sector",
+    "system": "Farrfin system",
+    "coordinates": "K-9",
+    "lengthday": "29 standard hours",
+    "lengthyear": "388 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Light (0.9 standard)",
+    "terrain": "Mountains",
+    "water": "Oceans",
+    "species": "Farghuls",
+    "language": "Farghul",
+    "government": "Criminal hierarchy",
+    "population": "6 billion",
+    "cities": [
+      "Farlhu (capital)",
+      "Jahhnu",
+      "Geltyu"
+    ],
+    "imports": [
+      "Liquor",
+      "Holos",
+      "Spice",
+      "Other contraband items"
+    ],
+    "exports": [
+      "Information",
+      "Smuggled goods"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Farghul",
+      "directory": "Farghul",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Farrfin",
+    "x": -377.5,
+    "y": 780.5,
+    "z": 72.4,
+    "region": "Core Worlds",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

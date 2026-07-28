@@ -1,0 +1,37 @@
+{
+  "name": "Concussion rifle",
+  "wookieepedia_title": "Concussion rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Concussion_rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The concussion rifle was an uncommon rifle that fired a concussive energy charge, creating a powerful shock wave that was able to knock down a full-grown person.",
+  "data": {
+    "name": "Concussion rifle",
+    "manufacturer": [
+      "Arakyd Industries",
+      "BlasTech Industries"
+    ],
+    "type": "Concussion rifle",
+    "culture": [
+      "Trandoshan mercenaries",
+      "Slavers",
+      "Bounty hunters"
+    ],
+    "cost": "1,800 credits",
+    "shape": "Rifle-shaped",
+    "size": "Two-handed weapon",
+    "weight": "2.1 kg",
+    "capacity": [
+      "25 shots",
+      "Cannot be deflected by a lightsaber",
+      "Collateral damage to adjacent targets",
+      "Blast diameter of 4 meters"
+    ],
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 450 meters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

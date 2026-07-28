@@ -1,0 +1,112 @@
+{
+  "name": "Kintan",
+  "wookieepedia_title": "Kintan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kintan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kintan was the homeworld of the Nikto. After a supernova explosion near the system, evolution of the Nikto divided into five subspecies. Kintan was located within the Si'Klaata Cluster, on the Ac'fren Spur.",
+  "lead_paragraphs": [
+    "Kintan was the homeworld of the Nikto. After a supernova explosion near the system, evolution of the Nikto divided into five subspecies. Kintan was located within the Si'Klaata Cluster, on the Ac'fren Spur.",
+    "Kintan striders, also found around the galaxy as pets of Hutts, were originally from Kintan. However, they were driven to extinction on the planet itself."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kintan",
+    "region": [
+      "Outer Rim Territories",
+      "Hutt Space"
+    ],
+    "sector": "Si'Klaata Cluster",
+    "system": "Kintan system",
+    "coordinates": "S-9",
+    "suns": "1: Kintan",
+    "moons": "3",
+    "lengthday": "32 standard hours",
+    "lengthyear": "412 standard days",
+    "class": "Terrestrial",
+    "diameter": "12,054 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Rocky wastelands",
+      "Archipelagos",
+      "Forests",
+      "Swamps",
+      "Magma fields"
+    ],
+    "interest": [
+      "Basin of Torturous Flame",
+      "Canyon of Despair",
+      "Burning Moon Range",
+      "River of Fire",
+      "Gluss'elta Archipelago",
+      "    Glussa Island",
+      "Gluss'elta Sea",
+      "Fortress Kh'aris",
+      "Wannschok Desert"
+    ],
+    "fauna": [
+      "Spine dragon",
+      "Tuskbeast (extinct)"
+    ],
+    "species": [
+      "Nikto",
+      "Kintan crusher",
+      "Historic: Kintan strider"
+    ],
+    "language": [
+      "Huttese",
+      "Nikto"
+    ],
+    "government": "Hutt Clan of the Ancients",
+    "population": "12 million (100% Nikto)",
+    "imports": "High tech",
+    "exports": "None",
+    "affiliation": [
+      "Hutt Empire",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Yuuzhan Vong empire",
+      "Confederation"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kintan crusher",
+      "directory": "Kintan crusher",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kintan strider",
+      "directory": "Kintan strider",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kintan strider",
+      "directory": "Kintan strider (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Nikto",
+      "directory": "Nikto",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Nikto",
+      "directory": "Nikto (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kintan",
+    "x": 535.6,
+    "y": 8608.2,
+    "z": 162.5,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

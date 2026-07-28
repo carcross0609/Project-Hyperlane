@@ -1,0 +1,51 @@
+{
+  "name": "Wobani",
+  "wookieepedia_title": "Wobani",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wobani",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Wobani was a temperate planet partially hidden by a swirling dust cloud, located in the Wobani system, in the Bryx sector of the galaxy's Mid Rim. During the Imperial Era, the planet was used by the Galactic Empire as a site for labor and prison camps.",
+  "lead_paragraphs": [
+    "Wobani was a temperate planet partially hidden by a swirling dust cloud, located in the Wobani system, in the Bryx sector of the galaxy's Mid Rim. During the Imperial Era, the planet was used by the Galactic Empire as a site for labor and prison camps."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Wobani",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Bryx sector",
+    "system": "Wobani system",
+    "coordinates": "R-8",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Hills",
+      "Mud plains",
+      "Rock formations"
+    ],
+    "interest": [
+      "Imperial Detention Center & Labor Camp LEG-817",
+      "Imperial headquarters",
+      "Wobani Penitentiary"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Wobani",
+    "x": 10039.1,
+    "y": 2863.0,
+    "z": -263.9,
+    "region": "Mid Rim",
+    "grid": "R-8"
+  },
+  "scraped": "2026-07-03"
+}

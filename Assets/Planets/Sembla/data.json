@@ -1,0 +1,53 @@
+{
+  "name": "Sembla",
+  "wookieepedia_title": "Sembla",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sembla",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sembla, formerly known as Utavurk, was a planet located in Mahrusha sector within the Outer Rim Territories. It was the homeworld of the Vurk, including Jedi Master Coleman Trebor. Sembla had four moons, which kept it tidally and tectonically active, and its terrain was made up of shallow seas and volcanic islands. The planet was located far from any major trade routes and, as such, was rarely traveled to. However, the Galactic Empire established a research base on the world and pressed native Vurk into cheap labor in strip-mining operations.",
+  "lead_paragraphs": [
+    "Sembla, formerly known as Utavurk, was a planet located in Mahrusha sector within the Outer Rim Territories. It was the homeworld of the Vurk, including Jedi Master Coleman Trebor. Sembla had four moons, which kept it tidally and tectonically active, and its terrain was made up of shallow seas and volcanic islands. The planet was located far from any major trade routes and, as such, was rarely traveled to. However, the Galactic Empire established a research base on the world and pressed native Vurk into cheap labor in strip-mining operations."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sembla",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Sertar sector",
+      "  Mahrusha sector"
+    ],
+    "system": "Sembla system",
+    "coordinates": "S-5",
+    "moons": "4",
+    "routes": "None",
+    "terrain": [
+      "Shallow seas",
+      "Volcanic islands"
+    ],
+    "interest": "Sembla Imperial research base",
+    "species": "Vurk",
+    "language": "Semblan",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vurk",
+      "directory": "Vurk",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Vurk",
+      "directory": "Vurk (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sembla",
+    "x": 10750.7,
+    "y": 6528.5,
+    "z": -163.4,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

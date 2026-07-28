@@ -1,0 +1,22 @@
+{
+  "name": "Toma",
+  "wookieepedia_title": "Toma",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Toma",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Toma were the sentient natives of the planet Oznek. They were distinguished by their green fur, yellow eyes, and brown skin.",
+  "data": {
+    "name": "Toma",
+    "designation": "Sentient",
+    "skincolor": "Brown",
+    "haircolor": "Green",
+    "eyecolor": "Yellow",
+    "distinctions": [
+      "Fangs",
+      "Green fur"
+    ],
+    "origin": "Oznek"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Oznek"
+}

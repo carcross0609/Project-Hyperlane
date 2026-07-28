@@ -1,0 +1,48 @@
+{
+  "name": "Dooku's lightsaber",
+  "wookieepedia_title": "Dooku's lightsaber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dooku%27s_lightsaber/Legends",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "A curved-hilt dual-phase lightsaber was constructed by and served Dooku during his career as both a Jedi Master and as the Sith Lord Darth Tyranus. During the Battle of Coruscant, his lightsaber would fall into the hands of Anakin Skywalker, and he used it to kill Dooku with by slicing his head off.",
+  "data": {
+    "name": "Dooku's lightsaber",
+    "model": "Curved-hilt dual-phase lightsaber",
+    "type": "Single-blade",
+    "culture": [
+      "Jedi",
+      "Sith"
+    ],
+    "creator": "Dooku/Darth Tyranus",
+    "created": "Pre 80 BBY",
+    "destroyed": "19 BBY",
+    "owners": [
+      "Dooku",
+      "Hondo Ohnaka",
+      "Anakin Skywalker (briefly)"
+    ],
+    "hilt_shape": "Curved",
+    "hilt_length": "35.50 centimeters",
+    "hilt_material": "Alloy metal",
+    "crystal": [
+      "Adegan crystal (as a Jedi Master)",
+      "Synthetic lightsaber crystal (as a Sith Lord)"
+    ],
+    "color": [
+      "Green",
+      "Blue",
+      "Red"
+    ],
+    "blade_length": "Adjustable",
+    "protection": "Blade emitter guard",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order (formerly)",
+      "Confederacy of Independent Systems",
+      "Order of the Sith Lords",
+      "Ohnaka Gang (briefly)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

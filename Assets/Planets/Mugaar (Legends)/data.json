@@ -1,0 +1,49 @@
+{
+  "name": "Mugaar",
+  "wookieepedia_title": "Mugaar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mugaar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mugaar was the Mugaari homeworld, located on the Corellian Trade Spine.",
+  "lead_paragraphs": [
+    "Mugaar was the Mugaari homeworld, located on the Corellian Trade Spine."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Mugaar",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Bruanii sector",
+      "Mugaari Space"
+    ],
+    "system": "Mugaar system",
+    "coordinates": "K-18",
+    "routes": "Corellian Trade Spine",
+    "species": "Mugaari",
+    "language": "Mugaar language",
+    "affiliation": [
+      "Mugaari Space",
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mugaari",
+      "directory": "Mugaari",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mugaar",
+    "x": -1222.7,
+    "y": -12148.3,
+    "z": -601.2,
+    "region": "Mid Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "EWHB-10",
+  "wookieepedia_title": "EWHB-10",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/EWHB-10",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The EWHB-10 was an E-Web heavy repeating blaster produced by Merr-Sonn Munitions, Inc. It was designed to be carried and operated by two soldiers, and had a set-up time of fifteen minutes. It was possible to carry the weapon with the tripod attached, but it was not a recommended maneuver. Power for the weapon came from an Eksoan Class-4T3 power generator with a Gk3 Cryocooler, while targeting fire control was provided by Starvision and IR for operation at night and in adverse environmental conditions. Built in communications allowed the crew of the E-Web to communicate with other E-Web units in case central communications was disrupted.",
+  "data": {
+    "name": "EWHB-10",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "type": "Two man heavy repeating blaster",
+    "cost": "5,000 credits",
+    "crew": "2",
+    "capacity": "Power generator",
+    "range": [
+      "3–75 meters (short range)",
+      "76–200 meters (medium range)",
+      "201–500 meters (long range)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Frong",
+  "wookieepedia_title": "Frong",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Frong",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Frong was a planet located in the Outer Rim that was the homeworld of the Frong species. It was situated in the Frong system in the Ojoster sector, in grid square N-7 of the Standard Galactic Grid.",
+  "lead_paragraphs": [
+    "Frong was a planet located in the Outer Rim that was the homeworld of the Frong species. It was situated in the Frong system in the Ojoster sector, in grid square N-7 of the Standard Galactic Grid."
+  ],
+  "article_sections": [
+    "History",
+    "  Republic Era",
+    "  New Republic Era"
+  ],
+  "data": {
+    "name": "Frong",
+    "region": "Outer Rim Territories",
+    "sector": "Ojoster sector",
+    "system": "Frong system",
+    "coordinates": "N-7",
+    "species": "Frong",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Frong",
+      "directory": "Frong (species)",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Frong",
+    "x": 8187.4,
+    "y": 6597.4,
+    "z": 535.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Jazbina",
+  "wookieepedia_title": "Jazbina/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jazbina/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jazbina was a planet with luxurious aromatic baths and sun crystals.",
+  "lead_paragraphs": [
+    "Jazbina was a planet with luxurious aromatic baths and sun crystals."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Jazbina",
+    "region": [
+      "Expansion Region",
+      "Northern Dependencies"
+    ],
+    "sector": "Lostar sector",
+    "system": "Jazbina system",
+    "coordinates": "M-8",
+    "position": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Desert",
+      "Cities",
+      "Mines"
+    ],
+    "interest": [
+      "Aromatic baths",
+      "Sun crystal mines"
+    ],
+    "fauna": "Tikulini",
+    "species": "Jazbinans",
+    "otherspecies": "Humans",
+    "government": "Monarchy",
+    "population": "100 million to 500 million (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Jazbinan",
+      "directory": "Jazbinan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Jazbina",
+    "x": 2293.2,
+    "y": 2948.2,
+    "z": 64.6,
+    "region": "Expansion Region",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

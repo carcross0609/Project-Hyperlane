@@ -1,0 +1,61 @@
+{
+  "name": "Unidentified planet",
+  "wookieepedia_title": "Unidentified planet (Quingarus Deluxe Droid Systems Factory)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_planet_%28Quingarus_Deluxe_Droid_Systems_Factory%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "A terrestrial planet of the Core Worlds, located near the Coruscant system, was the site of the Quingarus Deluxe Droid Systems Factory.",
+  "lead_paragraphs": [
+    "A terrestrial planet of the Core Worlds, located near the Coruscant system, was the site of the Quingarus Deluxe Droid Systems Factory."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Unidentified planet",
+    "region": "Core Worlds",
+    "position": "3",
+    "class": "Terrestrial",
+    "interest": "Quingarus Deluxe Droid Systems Factory",
+    "species": "Toong",
+    "exports": "Droids",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bartokk",
+      "directory": "Bartokk",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lupr'or",
+      "directory": "Lupr'or",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Unidentified blue humanoid species",
+      "directory": "Unidentified blue humanoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-faced species",
+      "directory": "Unidentified purple-faced species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-skinned humanoid species",
+      "directory": "Unidentified purple-skinned humanoid species",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Unidentified red pachydermoid species",
+      "directory": "Unidentified red pachydermoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified species",
+      "directory": "Unidentified species (seven-ringed homeworld)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

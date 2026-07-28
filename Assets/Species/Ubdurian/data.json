@@ -1,0 +1,22 @@
+{
+  "name": "Ubdurian",
+  "wookieepedia_title": "Ubdurian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ubdurian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Ubdurians were a species of sentient humanoids native to Nag Ubdur and Ubduria. Their bald heads featured dark eyes seated deep in their sockets, but no visible nose.",
+  "data": {
+    "name": "Ubdurian",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "skincolor": "Yellow",
+    "distinctions": "Bald head, no visible nose",
+    "origin": [
+      "Nag Ubdur",
+      "Ubduria"
+    ],
+    "language": "Ubdurian"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Nag Ubdur"
+}

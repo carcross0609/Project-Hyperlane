@@ -1,0 +1,23 @@
+{
+  "name": "Cyclorrian",
+  "wookieepedia_title": "Cyclorrian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cyclorrian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Cyclorrians were an insectoid sentient species famed for their dedicated engineering skills. They were proud of producing advanced starships at the Cyclor Shipyards in the Mid Rim, which were second only to the Corellian shipyards during the High Republic Era.",
+  "data": {
+    "name": "Cyclorrian",
+    "designation": "Sentient",
+    "class": "Insectoid",
+    "height": "Around a meter",
+    "skincolor": "Beige and bluish gray",
+    "eyecolor": "Pearlescent",
+    "distinctions": [
+      "Antennae",
+      "Compound eyes"
+    ],
+    "origin": "Cyclor"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Cyclor"
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Lehon",
+  "wookieepedia_title": "Lehon/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lehon/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lehon, also referred to as Rakata, Rakata Prime, and the Unknown World, was the homeworld of the Rakata species and the capital of their Infinite Empire.",
+  "lead_paragraphs": [
+    "Lehon, also referred to as Rakata, Rakata Prime, and the Unknown World, was the homeworld of the Rakata species and the capital of their Infinite Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Infinite Empire",
+    "  Jedi Civil War",
+    "  Post–Civil War"
+  ],
+  "data": {
+    "name": "Lehon",
+    "region": "Unknown Regions; Tempered Wastes",
+    "system": "Lehon system",
+    "coordinates": "G-11",
+    "suns": "1: Abo",
+    "position": "4",
+    "moons": "2",
+    "lengthday": "18 standard hours",
+    "lengthyear": "278 local days",
+    "class": "Terrestrial",
+    "diameter": "9,120 km",
+    "climate": "Tropical",
+    "gravity": "Standard",
+    "terrain": [
+      "Oceans",
+      "Tropical islands",
+      "Rocky outcroppings"
+    ],
+    "interest": [
+      "Temple of the Ancients",
+      "Black Rakatan Settlement",
+      "Elder Rakatan Settlement"
+    ],
+    "fauna": [
+      "Rancor",
+      "Acklay",
+      "Gizka"
+    ],
+    "species": "Rakata (historically)",
+    "language": "Rakata (historically)",
+    "government": "Tribal (historically)",
+    "population": [
+      "Modern: None",
+      "Historic: 11 billion",
+      "90% Rakata",
+      "10% other slave species"
+    ],
+    "imports": [
+      "Historic:",
+      "Slaves",
+      "Treasure offered in tribute"
+    ],
+    "exports": [
+      "Historic:",
+      "Warships",
+      "Technology",
+      "Manufactured goods"
+    ],
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Republic (historical preserve only)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Rakata",
+      "directory": "Rakata (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Rakatan",
+      "directory": "Rakatan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Lehon",
+    "x": -8507.8,
+    "y": 1811.6,
+    "z": -173.1,
+    "region": "Unknown Regions",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

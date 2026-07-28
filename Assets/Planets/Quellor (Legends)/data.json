@@ -1,0 +1,55 @@
+{
+  "name": "Quellor",
+  "wookieepedia_title": "Quellor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quellor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Quellor was a planet in the Colonies region of the galaxy.",
+  "lead_paragraphs": [
+    "Quellor was a planet in the Colonies region of the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Old Republic era",
+    "  Galactic Civil War",
+    "  Yuuzhan Vong War"
+  ],
+  "data": {
+    "name": "Quellor",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Quellor system",
+    "coordinates": "N-12",
+    "routes": [
+      "Nanth'ri Route",
+      "Quellor Run"
+    ],
+    "class": "Terrestrial",
+    "interest": "Terrina Square",
+    "flora": "Katella flower",
+    "otherspecies": "Many species",
+    "language": "Galactic Basic Standard",
+    "population": "10 to 100 billion (by 25 ABY)",
+    "cities": "Quellor City",
+    "affiliation": [
+      "Galactic Republic",
+      "Mandalorian Neo-Crusaders",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Quellor",
+    "x": 3522.0,
+    "y": -3140.7,
+    "z": -72.8,
+    "region": "Colonies",
+    "grid": "N-12"
+  },
+  "scraped": "2026-07-03"
+}

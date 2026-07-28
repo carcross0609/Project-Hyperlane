@@ -1,0 +1,54 @@
+{
+  "name": "Fang-class Protectorate fighter",
+  "wookieepedia_title": "Fang-class Protectorate fighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fang-class_Protectorate_fighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Fang-class Protectorate fighter, also known as Fang fighter, Protectorate fighter, or as the Protector Fang Fighter, was a starfighter manufactured by SoroSuub Corporation and MandalMotors and used by the Mandalorian Protectors.",
+  "data": {
+    "name": "Fang-class Protectorate fighter",
+    "manufacturer": [
+      "SoroSuub Corporation",
+      "MandalMotors"
+    ],
+    "model": "Fang-class",
+    "type": "Starfighter",
+    "cost": [
+      "185,000 credits",
+      "180,000 credits",
+      "120,000 credits"
+    ],
+    "length": "10.56 meters (34.54 feet)",
+    "max_speed": "900 kph",
+    "engine": "3",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "shield_gen": "None",
+    "sensor": "Medium range",
+    "navigation": "Navigation computer",
+    "armament": [
+      "2 forward wing-mounted laser cannons",
+      "1 hidden ventral proton torpedo port",
+      "  Electro-chaff missiles"
+    ],
+    "crew": "1 pilot",
+    "passengers": "None",
+    "consumables": "1-3 days",
+    "availability": "Limited",
+    "role": "Starfighter combat",
+    "affiliation": [
+      "Mandalorian Protectors",
+      "Galactic Republic",
+      "  Skull Squadron",
+      "Concord Dawn Protectorate",
+      "Clan Wren",
+      "Black Sun",
+      "Crimson Dawn",
+      "Alliance to Restore the Republic",
+      "Mandalorian resistance",
+      "  Mandalorian fleet",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

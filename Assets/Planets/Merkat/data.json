@@ -1,0 +1,36 @@
+{
+  "name": "Merkat",
+  "wookieepedia_title": "Merkat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Merkat",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Merkat was a trade world located in the Merren system, in the Chaykin sector of the Expansion Region. It was an endpoint of the Harrin Trade Corridor.",
+  "lead_paragraphs": [
+    "Merkat was a trade world located in the Merren system, in the Chaykin sector of the Expansion Region. It was an endpoint of the Harrin Trade Corridor."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Merkat",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Chaykin sector",
+    "system": "Merren system",
+    "coordinates": "O-14",
+    "routes": [
+      "Gamor Run",
+      "Harrin Trade Corridor"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Merkat",
+    "x": 8019.7,
+    "y": -9144.7,
+    "z": 277.7,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

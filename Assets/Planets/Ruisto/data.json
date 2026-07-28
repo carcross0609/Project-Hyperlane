@@ -1,0 +1,47 @@
+{
+  "name": "Ruisto",
+  "wookieepedia_title": "Ruisto",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ruisto",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ruisto was a planet located in the Calamari sector of the Outer Rim Territories. Ruisto was the first world settled by the Mon Calamari and the site of their initial meeting with the Republic scouts. During the early years of the Galactic Civil War, the Empire bombarded Ruisto as a training exercise for its planned attack on the Mon Calamari homeworld.",
+  "lead_paragraphs": [
+    "Ruisto was a planet located in the Calamari sector of the Outer Rim Territories. Ruisto was the first world settled by the Mon Calamari and the site of their initial meeting with the Republic scouts. During the early years of the Galactic Civil War, the Empire bombarded Ruisto as a training exercise for its planned attack on the Mon Calamari homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The first colony",
+    "  Prey of the Empire's wrath"
+  ],
+  "data": {
+    "name": "Ruisto",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Calamari sector",
+    "system": "Ruisto system",
+    "coordinates": "U-6",
+    "routes": "Overic Griplink",
+    "class": "Terrestrial",
+    "terrain": "Small, high-saline oceans",
+    "interest": "Small shipyards (around the planet)",
+    "otherspecies": "Mon Calamari",
+    "population": "None (after bombardment)",
+    "affiliation": [
+      "Mon Calamari",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ruisto",
+    "x": 13504.3,
+    "y": 5041.3,
+    "z": -286.8,
+    "region": "Outer Rim",
+    "grid": "U-6"
+  },
+  "scraped": "2026-07-03"
+}

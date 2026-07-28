@@ -1,0 +1,47 @@
+{
+  "name": "Lasan",
+  "wookieepedia_title": "Lasan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lasan",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Lasan was a planet located in the Lasan system of Wild Space that was long ago colonized by a group of Lasat that left their original homeworld of Lira San. The planet was protected by the Lasan High Honor Guard. During the reign of the Galactic Empire, Imperial forces led by Alexsandr Kallus devastated Lasan and killed most of its population as a show of Imperial might, though many Lasat still remained on Lira San. Stormtrooper TK-421 was stationed on Lasan at one point.",
+  "lead_paragraphs": [
+    "Lasan was a planet located in the Lasan system of Wild Space that was long ago colonized by a group of Lasat that left their original homeworld of Lira San. The planet was protected by the Lasan High Honor Guard. During the reign of the Galactic Empire, Imperial forces led by Alexsandr Kallus devastated Lasan and killed most of its population as a show of Imperial might, though many Lasat still remained on Lira San. Stormtrooper TK-421 was stationed on Lasan at one point."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lasan",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Lasan system",
+    "coordinates": "P-20",
+    "suns": "Lasan",
+    "terrain": "Caves",
+    "interest": "Lasan royal palace",
+    "otherspecies": "Lasat",
+    "language": "Lasat",
+    "government": "Monarchy",
+    "affiliation": "Royal family"
+  },
+  "homeworld_of": [
+    {
+      "name": "Lasat",
+      "directory": "Lasat",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Lasat",
+      "directory": "Lasat (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lasan",
+    "x": 6654.2,
+    "y": -15428.6,
+    "z": -813.2,
+    "region": "Wild Space",
+    "grid": "P-20"
+  },
+  "scraped": "2026-07-03"
+}

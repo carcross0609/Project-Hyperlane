@@ -1,0 +1,32 @@
+{
+  "name": "LB-K2",
+  "wookieepedia_title": "LB-K2",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/LB-K2",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "LB-K2, or Elbie, was part of the initial test run of a few hundred LB-series courier droids developed by Industrial Automaton. She was shipped to Premier Provisions on the planet of Tyed Kant, but when she arrived on Sprawl 34 it was already devastated by the Mynock virus. She was discovered by a group of rebel agents, and discovered that her protected programming made her mostly immune to the Mynock virus. She proved invaluable during the resolution of the crisis.",
+  "data": {
+    "name": "LB-K2",
+    "manufacturer": "Industrial Automaton",
+    "model": "LB-series courier droid",
+    "class": "Courier droid",
+    "cost": "8,500 credits",
+    "height": ".75 meters",
+    "gender": "Feminine programming",
+    "pronouns": "new",
+    "equipment": [
+      "Fine work grasping arm",
+      "Extendable video sensor",
+      "Full range audio sensor",
+      "Broad-band Transceiver",
+      "Holorecorder/projector",
+      "Vocabulator",
+      "Translang 2A comm module",
+      "Universal I/O coupling",
+      "Ion surge shielding",
+      "Repulsor unit (4 meter ceiling)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

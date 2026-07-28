@@ -1,0 +1,47 @@
+{
+  "name": "Batorine",
+  "wookieepedia_title": "Batorine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Batorine",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Batorine was the forested homeworld of the Blood Carver species. It joined the Galactic Republic in 110 BBY.",
+  "lead_paragraphs": [
+    "Batorine was the forested homeworld of the Blood Carver species. It joined the Galactic Republic in 110 BBY."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Batorine",
+    "region": [
+      "Colonies;",
+      "The Negs"
+    ],
+    "system": "Batorine system",
+    "coordinates": "J-9",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "terrain": "Forests",
+    "flora": "Blood tree",
+    "fauna": "Feragriff",
+    "species": "Blood Carver",
+    "language": "Batorese",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Blood Carver",
+      "directory": "Blood Carver",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Batorine",
+    "x": -1955.4,
+    "y": 1341.5,
+    "z": -106.6,
+    "region": "Colonies",
+    "grid": "J-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Argavat",
+  "wookieepedia_title": "Argavat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Argavat",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Argavat was a planet within the Argavat system, in the Colonies region of the galaxy.",
+  "lead_paragraphs": [
+    "Argavat was a planet within the Argavat system, in the Colonies region of the galaxy.",
+    "A desert planet, Argavat was the location of an Imperial base, from which the Rebel Alliance spy Ensign Waldron managed to steal the Imperial Battle Code and hide the code in the astromech droid IP-8. Waldron sent a scrambled message to the Alliance. In response, Luke Skywalker rescued Waldron and the droid."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Argavat",
+    "region": "Colonies",
+    "system": "Argavat system",
+    "coordinates": "J-13",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Deserts",
+      "Plateaus"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Argavat",
+    "x": -1751.8,
+    "y": -5029.0,
+    "z": 8.7,
+    "region": "Other",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

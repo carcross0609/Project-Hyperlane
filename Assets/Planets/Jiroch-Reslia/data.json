@@ -1,0 +1,43 @@
+{
+  "name": "Jiroch-Reslia",
+  "wookieepedia_title": "Jiroch-Reslia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jiroch-Reslia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jiroch-Reslia was a planet in the Yushan sector of the Mid Rim. It was the homeworld of the Tunroth, a relatively primitive species of hunters.",
+  "lead_paragraphs": [
+    "Jiroch-Reslia was a planet in the Yushan sector of the Mid Rim. It was the homeworld of the Tunroth, a relatively primitive species of hunters."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Jiroch-Reslia",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Yushan sector",
+    "system": "Jiroch system",
+    "coordinates": "K-17",
+    "position": "3",
+    "routes": "Corellian Trade Spine",
+    "species": "Tunroth",
+    "language": "Tunrothese",
+    "affiliation": [
+      "Triumvirate",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tunroth",
+      "directory": "Tunroth",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

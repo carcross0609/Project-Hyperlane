@@ -1,0 +1,64 @@
+{
+  "name": "Colla IV",
+  "wookieepedia_title": "Colla IV/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Colla_IV/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Colla IV, or simply Colla, was the home planet of the insectoid Colicoid species, makers of the droideka, Annihilator droid, buzz droid, and the droid tri-fighter. Its starship engineers were known for ingenuity rather than style.",
+  "lead_paragraphs": [
+    "Colla IV, or simply Colla, was the home planet of the insectoid Colicoid species, makers of the droideka, Annihilator droid, buzz droid, and the droid tri-fighter. Its starship engineers were known for ingenuity rather than style."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Colla IV",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Colla system",
+    "coordinates": "N-9",
+    "suns": "1: Colla",
+    "position": "4",
+    "terrain": "Tropics",
+    "interest": "A factory",
+    "fauna": [
+      "Hueche",
+      "Pisto",
+      "Toothspike raptor"
+    ],
+    "species": "Colicoids",
+    "language": "Colicoid",
+    "population": "100 million to 500 million (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Colicoid",
+      "directory": "Colicoid",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Colicoid",
+      "directory": "Colicoid (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Colla IV",
+    "x": 3635.9,
+    "y": 1395.8,
+    "z": 69.2,
+    "region": "Inner Rim",
+    "grid": "N-9"
+  },
+  "scraped": "2026-07-03"
+}

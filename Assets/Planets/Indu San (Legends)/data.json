@@ -1,0 +1,63 @@
+{
+  "name": "Indu San",
+  "wookieepedia_title": "Indu San/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Indu_San/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Indu San was an Outer Rim Territories planet in the Indu San system inhabited by Humans. It was part of the Galactic Republic.",
+  "lead_paragraphs": [
+    "Indu San was an Outer Rim Territories planet in the Indu San system inhabited by Humans. It was part of the Galactic Republic."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Indu San",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Rolion sector",
+    "system": "Indu San system",
+    "coordinates": "Q-7",
+    "lengthday": "25 standard hours",
+    "lengthyear": "382 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Plains"
+    ],
+    "water": "Ocean",
+    "otherspecies": "Human",
+    "government": "Congressional Council",
+    "population": "1.4 billion",
+    "demonym": "Indu",
+    "imports": "High technology",
+    "exports": "Luxury stone items",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Indu",
+      "directory": "Indu",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Indu San",
+    "x": 8117.1,
+    "y": 4177.8,
+    "z": -185.8,
+    "region": "Outer Rim",
+    "grid": "Q-7"
+  },
+  "scraped": "2026-07-03"
+}

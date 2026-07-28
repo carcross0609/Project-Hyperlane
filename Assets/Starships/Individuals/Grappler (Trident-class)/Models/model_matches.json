@@ -1,0 +1,48 @@
+{
+  "asset": "Grappler",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Republic Assault Ship",
+      "url": "https://sketchfab.com/3d-models/none-e56b33bb58cc448ab134675e69dbc224",
+      "uid": "e56b33bb58cc448ab134675e69dbc224",
+      "author": "StarWars-Universe",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 105,
+      "thumbnail": "https://media.sketchfab.com/models/e56b33bb58cc448ab134675e69dbc224/thumbnails/8a0ca5bff3ca46ce86edbc2c14a5b455/64x36.jpeg"
+    },
+    {
+      "name": "Assault_Frigate_Model",
+      "url": "https://sketchfab.com/3d-models/none-3602f36759714da29d3a21d760aeaabc",
+      "uid": "3602f36759714da29d3a21d760aeaabc",
+      "author": "flannelandfilm",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 101,
+      "thumbnail": "https://media.sketchfab.com/models/3602f36759714da29d3a21d760aeaabc/thumbnails/fa8193115f714c6fa28789e0ffd9c5f3/762ec063242c47f49f1a953ba32d113d.jpeg"
+    },
+    {
+      "name": "Acclamator-Class Assault Ship",
+      "url": "https://sketchfab.com/3d-models/none-e6a2171be5c34bb68a05aba657fd8fa8",
+      "uid": "e6a2171be5c34bb68a05aba657fd8fa8",
+      "author": "Kuat-Entralla 3D Engineering",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 43,
+      "thumbnail": "https://media.sketchfab.com/models/e6a2171be5c34bb68a05aba657fd8fa8/thumbnails/47a82505ffd642599521858a1a530273/9c2d3567e4f14e9da3bf219b35cd1e26.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Assault ship"
+}

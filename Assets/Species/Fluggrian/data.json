@@ -1,0 +1,22 @@
+{
+  "name": "Fluggrian",
+  "wookieepedia_title": "Fluggrian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fluggrian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Fluggrians were a sentient species with yellow eyes and green, purple, white and pink skin that was native to Ploo IV. Elan Mak was a Fluggrian podracer who was active on Tatooine.",
+  "data": {
+    "name": "Fluggrian",
+    "designation": "Sentient",
+    "skincolor": [
+      "Green",
+      "Purple",
+      "White",
+      "Pink"
+    ],
+    "eyecolor": "Yellow",
+    "origin": "Ploo IV"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Ploo IV (Legends)"
+}

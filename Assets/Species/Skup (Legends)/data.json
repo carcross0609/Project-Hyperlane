@@ -1,0 +1,21 @@
+{
+  "name": "Skup",
+  "wookieepedia_title": "Skup/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skup/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Skups, or Sionian Skups, were a near-Human species who differed from standard Humans due to their small, closely spaced eyes, delicate hair, and skin the color of dianoga cheese.",
+  "data": {
+    "name": "Skup",
+    "designation": "Sentient",
+    "class": "Near-Human",
+    "skincolor": "Color of dianoga cheese",
+    "distinctions": [
+      "Small, closely spaced eyes",
+      "Brittle hair"
+    ],
+    "origin": "Sionia"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Sionia"
+}

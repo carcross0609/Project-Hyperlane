@@ -1,0 +1,35 @@
+{
+  "name": "Longwind",
+  "wookieepedia_title": "Longwind",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Longwind",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Longwind was a planet located in the Trax sector of the Mid Rim.",
+  "lead_paragraphs": [
+    "Longwind was a planet located in the Trax sector of the Mid Rim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Longwind",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region",
+      "The Slice"
+    ],
+    "sector": "Trax sector",
+    "system": "Longwind system",
+    "coordinates": "Q-10"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Longwind",
+    "x": 11462.7,
+    "y": 8805.7,
+    "z": -559.3,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

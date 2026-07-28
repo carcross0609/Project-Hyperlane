@@ -1,0 +1,53 @@
+{
+  "name": "Ootoola",
+  "wookieepedia_title": "Ootoola",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ootoola",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ootoola was the vastly oceanic homeworld of the Ootoolan race. The world was located in the Morshdine sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Ootoola was the vastly oceanic homeworld of the Ootoolan race. The world was located in the Morshdine sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Ootoola",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Morshdine sector",
+    "system": "Ootoola system",
+    "coordinates": "O-5",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "terrain": "Oceans and rocks",
+    "interest": "Central Palace",
+    "fauna": "Various fishes",
+    "species": "Ootoolans",
+    "language": "Basic",
+    "government": "Theocratic monarchy",
+    "affiliation": [
+      "Galactic Republic",
+      "Revolutionary Purist Council"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ootoolan",
+      "directory": "Ootoolan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ootoola",
+    "x": -392.3,
+    "y": 5703.5,
+    "z": -165.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

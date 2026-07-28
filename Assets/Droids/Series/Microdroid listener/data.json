@@ -1,0 +1,17 @@
+{
+  "name": "Microdroid listener",
+  "wookieepedia_title": "Microdroid listener",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Microdroid_listener",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "Microdroid listeners were small spider-like droids used as audio bugs. The droids followed preprogrammed instructions and were difficult to detect because they didn't broadcast their surveillance data. They were equipped with self-destruct mechanisms.",
+  "data": {
+    "name": "Microdroid listener",
+    "model": "Spy droid",
+    "class": "Listening device",
+    "cost": "1,500 credits",
+    "length": "<10 centimeters"
+  },
+  "scraped": "2026-07-03"
+}

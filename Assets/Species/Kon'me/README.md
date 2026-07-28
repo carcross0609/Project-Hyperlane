@@ -1,0 +1,19 @@
+# Kon'me
+
+**Continuity:** Legends  
+**Source:** [Kon'me](https://starwars.fandom.com/wiki/Kon%27me)
+
+The Kon'me were a sentient reptilian species native to the ocean planet Bal'demnic in the Outer Rim's Auril sector. Living on the small islands that littered the surface of Bal'demnic, the Kon'me divided themselves into two prominent social classes, an upper-class that resided in luxurious bubble-like structures on oceanside cliffs, and a lower-class that lived in simple, thatch, beachside dwellings. Known to be extremely distrustful of off-worlders, the Kon'me tried to keep from involving themselves in larger galactic affairs unless absolutely necessary, but they were unable to avoid being forced into the Clone Wars when it was discovered that Bal'demnic's cliffs contained the rare mineral cortosis.
+
+## Biology & Culture
+
+- **Name:** Kon'me
+- **Designation:** Sentient
+- **Class:** Reptilian
+- **Skincolor:** Pink with dark spots on their backs
+- **Distinctions:** Reptilian
+- **Origin:** Bal'demnic
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

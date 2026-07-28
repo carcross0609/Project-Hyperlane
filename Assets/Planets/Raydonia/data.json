@@ -1,0 +1,42 @@
+{
+  "name": "Raydonia",
+  "wookieepedia_title": "Raydonia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raydonia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Raydonia was a temperate, forested planet located in the galaxy's Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Raydonia was a temperate, forested planet located in the galaxy's Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Raydonia",
+    "region": "Outer Rim Territories",
+    "sector": "Belsmuth sector",
+    "system": "Raydonia system",
+    "coordinates": "O-6",
+    "moons": "2",
+    "routes": "Salin Corridor",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": "Forests",
+    "otherspecies": "Human",
+    "demonym": "Raydonian",
+    "cities": "Raydonian settlement",
+    "imports": "Supplies",
+    "affiliation": "Unallied"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Raydonia",
+    "x": 5688.0,
+    "y": 5045.5,
+    "z": 122.8,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

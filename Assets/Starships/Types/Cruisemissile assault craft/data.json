@@ -1,0 +1,23 @@
+{
+  "name": "Cruisemissile assault craft",
+  "wookieepedia_title": "Cruisemissile assault craft",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cruisemissile_assault_craft",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Cruisemissile assault craft, also known as cruisemissiles, were Imperial fighters used during the Galactic Civil War.",
+  "data": {
+    "name": "Cruisemissile assault craft",
+    "model": "Cruisemissile assault craft",
+    "length": "6.2 meters",
+    "max_speed": "750 km/h",
+    "engine": "Two thrusters",
+    "armament": [
+      "Dual laser cannons",
+      "Twin Proton torpedo launchers"
+    ],
+    "crew": "1",
+    "role": "Ground assault",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

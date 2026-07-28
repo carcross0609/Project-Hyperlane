@@ -1,0 +1,63 @@
+{
+  "name": "Antiquity",
+  "wookieepedia_title": "Antiquity",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Antiquity",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Antiquity was a Mid Rim planet located in the Senex sector.",
+  "lead_paragraphs": [
+    "Antiquity was a Mid Rim planet located in the Senex sector."
+  ],
+  "article_sections": [
+    "Geography",
+    "History"
+  ],
+  "data": {
+    "name": "Antiquity",
+    "region": "Mid Rim",
+    "sector": "Senex sector",
+    "system": "Antiquity system",
+    "coordinates": "L-18",
+    "lengthday": "23 standard hours",
+    "lengthyear": "372 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Mud plains"
+    ],
+    "water": "Low seas",
+    "interest": [
+      "Karren spaceport",
+      "South Mudflats",
+      "Twin Scales"
+    ],
+    "otherlife": "Teggi fungus",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Loose confederation of town-ships",
+    "population": "92,000",
+    "cities": [
+      "Karren (capital)",
+      "Lis'an"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": "Teggi fungus roots",
+    "affiliation": "House Hax"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Antiquity",
+    "x": 494.3,
+    "y": -12161.8,
+    "z": 37.2,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

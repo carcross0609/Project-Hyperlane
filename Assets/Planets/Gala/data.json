@@ -1,0 +1,60 @@
+{
+  "name": "Gala",
+  "wookieepedia_title": "Gala",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gala",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gala was a beautiful and wealthy world at one point ruled by the Beju-Tallah dynasty. It was fairly close to Phindar.",
+  "lead_paragraphs": [
+    "Gala was a beautiful and wealthy world at one point ruled by the Beju-Tallah dynasty. It was fairly close to Phindar."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Gala",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Nuiri sector",
+    "system": "Gala system",
+    "coordinates": "Q-7",
+    "moons": "3",
+    "routes": "Salin Corridor",
+    "terrain": [
+      "Seas",
+      "Hills",
+      "Urban"
+    ],
+    "flora": "Lindemor tree",
+    "species": "Galacian (Near-Human)",
+    "government": "Beju-Tallah dynasty",
+    "cities": "Galu (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Galacian",
+      "directory": "Galacian",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Hill people",
+      "directory": "Hill people",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gala",
+    "x": 8143.7,
+    "y": 4498.6,
+    "z": 482.2,
+    "region": "Outer Rim",
+    "grid": "Q-7"
+  },
+  "scraped": "2026-07-03"
+}

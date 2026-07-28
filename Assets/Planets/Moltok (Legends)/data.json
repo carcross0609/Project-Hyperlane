@@ -1,0 +1,76 @@
+{
+  "name": "Moltok",
+  "wookieepedia_title": "Moltok/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moltok/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Moltok was a planet located in the Atrivis sector of the Outer Rim Territories. Orbiting close to its sun, the planet was quite warm, kept habitable only by the shielding action of active volcanoes. Beneath the ash they spewed forth, moist rain-forests covered the planet, home to a countless array of plant species. The planet was home to two sentient species, the Ho'Din and the Makurth. The former were known throughout the galaxy for their botanical skills, while the latter often found employment as bodyguards in the criminal underworld.",
+  "lead_paragraphs": [
+    "Moltok was a planet located in the Atrivis sector of the Outer Rim Territories. Orbiting close to its sun, the planet was quite warm, kept habitable only by the shielding action of active volcanoes. Beneath the ash they spewed forth, moist rain-forests covered the planet, home to a countless array of plant species. The planet was home to two sentient species, the Ho'Din and the Makurth. The former were known throughout the galaxy for their botanical skills, while the latter often found employment as bodyguards in the criminal underworld.",
+    "The planet was part of galactic society from at least 5000 BBY, with its natives participating in the Great Hyperspace War, Mandalorian Wars and the New Sith Wars. Moltok almost faced ecological disaster in 300 BBY when the Ho'Din began clearing large swaths of land for new industry. That led to a plague that could have spelled the extinction of the Ho'Din, had they not created a herbal remedy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "  Ho'Din",
+    "  Makurth"
+  ],
+  "data": {
+    "name": "Moltok",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Atrivis sector",
+    "system": "Dartibek system",
+    "coordinates": "L-5",
+    "routes": "Coruscant–Dantooine hyperlane",
+    "climate": "Warm",
+    "terrain": [
+      "Rainforests",
+      "Volcanoes"
+    ],
+    "interest": "Factory and city ruins",
+    "flora": [
+      "Camba-Fruit",
+      "Wuppa"
+    ],
+    "species": [
+      "Ho'Din",
+      "Makurth"
+    ],
+    "language": "Ho'Din",
+    "government": "&#91;Dinante Fli'R&#93;",
+    "population": "1–10 million (c. 25 ABY)",
+    "demonym": "Moltokian",
+    "exports": "Medicinal plants",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Yuuzhan Vong Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ho'Din",
+      "directory": "Ho'Din (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Makurth",
+      "directory": "Makurth (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Moltok",
+    "x": 108.6,
+    "y": 6876.0,
+    "z": -182.3,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

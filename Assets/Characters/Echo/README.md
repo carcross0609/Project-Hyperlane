@@ -1,0 +1,48 @@
+# Echo
+
+**Kind:** Individual  
+**Continuity:** Canon  
+**Source:** [Echo](https://starwars.fandom.com/wiki/Echo)
+
+Echo, formerly designated CT-1409 and known as the Hero of Anaxes, was a genetically defective human male clone trooper, veteran Clone Corporal, and former Advanced Recon Commando of the elite 501st Legion. He would also serve as a CT-99 clone commando of the elite Clone Force 99 in the Grand Army of the Republic during the Clone Wars. Originally identified as CT-21-0408, Echo was born on Kamino, a cadet of the Domino Squad, along with his friends Fives, Hevy, Cutup, and Droidbait, before he graduated from the clone training center. On his first assignment after graduating, Echo was tasked with guarding the Rishi Station moon base, where he, along with Clone Captain Rex, Clone Commander Cody, Fives, and Hevy, who sacrificed himself during the fight, aided in warning the Republic of an impending Separatist attack on Kamino. Echo was commended for his bravery and absorbed into the 501st Legion.
+
+## Profile
+
+- **Homeworld:** Kamino
+- **Born:** Kamino
+- **Species:** Human (clone)
+- **Gender:** Male
+- **Pronouns:** He/him
+- **Genetic Donor:** Jango Fett
+- **Height:**
+  - 1.83 meters (6 ft)
+  - 1.85 meters (6 ft, 1 in), later 1.81 meters
+- **Mass:** 80 kilograms
+- **Hair Color:**
+  - Black
+  - Brown (eyebrows)
+- **Eye Color:**
+  - Brown
+  - Gold (genetically)
+- **Skin Color:** Tan, later pale
+- **Cybernetics:**
+  - Neural brace AJ^6 cyborg construct
+  - Percentage-wise, more machine than man
+  - Scomp link in the right socket-arm above the elbow
+  - Cybernetic legs above the knee, neural and respiratory systems
+- **Affiliation:**
+  - Galactic Republic
+  -   Domino Squad
+  -   Rishi Station unit
+  -   501st Legion
+  -   Clone Force 99
+  - Confederacy of Independent Systems (unwillingly)
+  -   Techno Union (unwillingly)
+  - Galactic Empire (briefly)
+  -   Imperial Army (briefly)
+  - Clone Underground
+- **Apprentices:** Omega (mentor)
+
+## Models
+
+Place 3D model assets for this character in `Models/`.

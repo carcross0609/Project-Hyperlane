@@ -1,0 +1,31 @@
+{
+  "name": "T-21 light repeating blaster",
+  "wookieepedia_title": "T-21 light repeating blaster/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-21_light_repeating_blaster/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The T-21 light repeating blaster was a standard-issue repeating blaster rifle produced by BlasTech Industries, and saw use in the Clone Wars, the Galactic Civil War and beyond.",
+  "data": {
+    "name": "T-21 light repeating blaster",
+    "manufacturer": "BlasTech Industries",
+    "model": "T-21",
+    "type": "Light repeating blaster",
+    "cost": "2,000 credits",
+    "size": "Large",
+    "weight": "4.5 kg",
+    "capacity": "25 shots",
+    "range": [
+      "150 meters (optimum)",
+      "300 meters (maximum)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

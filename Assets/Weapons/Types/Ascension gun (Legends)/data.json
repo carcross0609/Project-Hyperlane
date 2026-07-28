@@ -1,0 +1,30 @@
+{
+  "name": "Ascension gun",
+  "wookieepedia_title": "Ascension gun/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ascension_gun/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "An ascension gun was any weapon that carried a grappling hook launcher, commonly in conjunction with a liquid-cable launcher or a syntherope tether.",
+  "data": {
+    "name": "Ascension gun",
+    "type": "Heavy blaster pistol",
+    "cost": "1,200 credits (Available for military use only)",
+    "size": "One-handed weapon",
+    "weight": "2 kg",
+    "capacity": [
+      "50 shots",
+      "Close-range stun setting available",
+      "2 uses of syntherope"
+    ],
+    "range": [
+      "Blaster:",
+      "  Optimum: up to 30 m",
+      "  Maximum: up to 90 m",
+      "Ascension cable:",
+      "  Maximum: up to 45 m"
+    ],
+    "purpose": "Also functions as vertical tether or zipline"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Whiphid",
+  "wookieepedia_title": "Whiphid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Whiphid",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Whiphids, or simply a Whiph, were a sentient species of large, furry bipeds that had two large ivory tusks protruding from their lower jaws native to the frozen planet Toola. J'Quille and Valarian were both Whiphids.",
+  "data": {
+    "name": "Whiphid",
+    "designation": "Sentient",
+    "skincolor": [
+      "Pink",
+      "Gray",
+      "Green"
+    ],
+    "haircolor": "Gray",
+    "eyecolor": [
+      "Black",
+      "Blue"
+    ],
+    "distinctions": "Two large ivory tusks",
+    "origin": "Toola",
+    "habitat": "Ice and snow"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Toola"
+}

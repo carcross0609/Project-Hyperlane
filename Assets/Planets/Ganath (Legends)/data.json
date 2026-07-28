@@ -1,0 +1,51 @@
+{
+  "name": "Ganath",
+  "wookieepedia_title": "Ganath/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ganath/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ganath was a planet hidden within the unchartered depths of the Oktos Nebula, a cloud of intensely radioactive interstellar gas near Nal Hutta.",
+  "lead_paragraphs": [
+    "Ganath was a planet hidden within the unchartered depths of the Oktos Nebula, a cloud of intensely radioactive interstellar gas near Nal Hutta."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ganath",
+    "region": "Mid Rim",
+    "sector": [
+      "Hutt Space",
+      "  Oktos Nebula",
+      "    Ganathan Space"
+    ],
+    "system": "Ganath system",
+    "coordinates": "R-12",
+    "species": "Ganathan",
+    "language": "Galactic Basic Standard",
+    "government": "Elective monarchy",
+    "population": "1 to 10 million",
+    "demonym": "Ganathan",
+    "cities": "Ganath's capital city",
+    "affiliation": [
+      "Ganathan Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ganathan",
+      "directory": "Ganathan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ganath",
+    "x": 10297.9,
+    "y": -3294.9,
+    "z": -294.7,
+    "region": "Hutt Space",
+    "grid": "R-12"
+  },
+  "scraped": "2026-07-03"
+}

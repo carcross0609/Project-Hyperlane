@@ -1,0 +1,71 @@
+{
+  "name": "Ruuria",
+  "wookieepedia_title": "Ruuria/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ruuria/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ruuria, on the Hydian Way, was the homeworld of the insectoid Ruurians. The planet was located near the Corporate Sector. It featured tropical jungles, manufacturing centers, and universities. Ruuria was a member of the Unified Ruurian Colonies.",
+  "lead_paragraphs": [
+    "Ruuria, on the Hydian Way, was the homeworld of the insectoid Ruurians. The planet was located near the Corporate Sector. It featured tropical jungles, manufacturing centers, and universities. Ruuria was a member of the Unified Ruurian Colonies.",
+    "The Ruurians' society was made up of 143 colonies, and every Ruurian belonged to a single colony for life."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ruuria",
+    "region": [
+      "Outer Rim Territories, Tingel Arm",
+      "New Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Xappyh sector",
+    "system": "Ruuria system",
+    "coordinates": "Q-3",
+    "routes": [
+      "Hydian Way",
+      "  Morellian Trail"
+    ],
+    "class": "Terrestrial",
+    "climate": "Warm and humid",
+    "terrain": "Jungles",
+    "interest": "University of Ruuria",
+    "species": "Ruurians",
+    "language": [
+      "Ruurese",
+      "Galactic Basic Standard"
+    ],
+    "population": "500 million to 1 billion (c. 25 ABY)",
+    "affiliation": [
+      "Galactic Republic",
+      "Darth Revan's Sith Empire",
+      "Resurgent Sith Empire",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "New Republic",
+      "Unified Ruurian Colonies",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ruurian",
+      "directory": "Ruurian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ruurian",
+      "directory": "Ruurian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ruuria",
+    "x": 8698.7,
+    "y": 9115.5,
+    "z": -528.0,
+    "region": "Outer Rim",
+    "grid": "Q-3"
+  },
+  "scraped": "2026-07-03"
+}

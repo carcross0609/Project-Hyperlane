@@ -1,0 +1,47 @@
+{
+  "name": "Vontor",
+  "wookieepedia_title": "Vontor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vontor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vontor was a planet located in the Si'Klaata Cluster within the boundaries of Hutt Space. Vontor was a huge source of kiirium.",
+  "lead_paragraphs": [
+    "Vontor was a planet located in the Si'Klaata Cluster within the boundaries of Hutt Space. Vontor was a huge source of kiirium."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vontor",
+    "region": "Hutt Space",
+    "sector": "Si'Klaata Cluster",
+    "system": "Vontor system",
+    "coordinates": "S-9",
+    "moons": "3",
+    "class": "Terrestrial",
+    "terrain": [
+      "Barren",
+      "Rocky"
+    ],
+    "language": "Huttese",
+    "demonym": "Vontorian",
+    "exports": "Kiirium",
+    "affiliation": [
+      "Hutt Empire",
+      "Xim's empire",
+      "Galactic Republic",
+      "Yuuzhan Vong empire",
+      "Confederation"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vontor",
+    "x": 11633.1,
+    "y": 1442.4,
+    "z": -93.8,
+    "region": "Hutt Space",
+    "grid": "S-9"
+  },
+  "scraped": "2026-07-03"
+}

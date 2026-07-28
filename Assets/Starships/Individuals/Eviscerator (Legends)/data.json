@@ -1,0 +1,29 @@
+{
+  "name": "Eviscerator",
+  "wookieepedia_title": "Eviscerator/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eviscerator/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Eviscerator was an Imperial II-class Star Destroyer that served in the Imperial Navy during the Galactic Civil War.",
+  "data": {
+    "name": "Eviscerator",
+    "manufacturer": "Kuat Drive Yards",
+    "line": "Star Destroyers",
+    "model": "Imperial II-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "complement": [
+      "TIE/LN starfighters",
+      "TIE/IN interceptors",
+      "  181st Imperial Fighter Wing"
+    ],
+    "role": [
+      "Destroyer",
+      "Patrol ship"
+    ],
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

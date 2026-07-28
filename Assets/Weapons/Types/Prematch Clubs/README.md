@@ -1,0 +1,20 @@
+# Prematch Clubs
+
+**Kind:** Model  
+**Continuity:** Canon  
+**Source:** [Prematch Clubs](https://starwars.fandom.com/wiki/Prematch_Clubs)
+
+The Prematch Clubs were a pair of clubs owned and utilized by the Wookiee Hunter Grozz that he could wield for the Hunters of the Outer Rim competition on Vespaara as an alternative to his standard KX Clubs. This pair of clubs resembled various cultural Wookiee tools such as the Klorri-clan battle shields used on the planet Kashyyyk.
+
+## Specifications
+
+- **Name:** Prematch Clubs
+- **Model:** Grozz's Clubs
+- **Type:** Club
+- **Owners:** Grozz
+- **Purpose:** Combat
+- **Affiliation:** Hunters of the Outer Rim
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

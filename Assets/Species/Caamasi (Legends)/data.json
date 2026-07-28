@@ -1,0 +1,41 @@
+{
+  "name": "Caamasi",
+  "wookieepedia_title": "Caamasi/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Caamasi/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Caamasi were a sentient mammalian species of furred humanoids known for their compassionate and peace-loving nature; indeed, the name Caamasi came to mean \"friend from afar\" and \"stranger to be trusted\" in some languages across the galaxy.",
+  "data": {
+    "name": "Caamasi",
+    "designation": "Sentient",
+    "class": "Mammalian",
+    "height": "1.8 meters",
+    "mass": "80 kilograms",
+    "haircolor": [
+      "Brown",
+      "Grey",
+      "Golden"
+    ],
+    "eyecolor": "Yellow red",
+    "distinctions": [
+      "Snouts",
+      "Memnii",
+      "Three fingers"
+    ],
+    "lifespan": [
+      "Child: 1-11 years",
+      "Young adult: 12-15 years",
+      "Adult: 16-49 years",
+      "Middle age: 50-76 years",
+      "Old: 77-89 years",
+      "Venerable: 90+ years"
+    ],
+    "origin": "Caamas",
+    "language": [
+      "Caamasi",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Caamas (Legends)"
+}

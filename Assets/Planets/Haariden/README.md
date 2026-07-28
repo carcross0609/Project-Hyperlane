@@ -1,0 +1,39 @@
+# Haariden
+
+**Continuity:** Legends  
+**Source:** [Haariden](https://starwars.fandom.com/wiki/Haariden)
+**Galaxy atlas:** system `Haariden`, Inner Rim — map position (-2008.0, -5533.0, -38.5)
+
+Haariden was a volcanic world and the lava crab homeworld. It was orbited by a sole moon, which appeared pink from the planet's surface.
+
+Beginning in 37 BBY, when the potential for titanite mines was discovered, the planet was caught up in a civil war over land disputes and future mining rights. It was later discovered that the mineral could, in its synthesized form, produce a key component in bacta—but titanite was extremely rare and hard to mine, usually buried so deep near a planet's core that it almost always cost more to extract than it was ever worth.
+
+The civil war ended in 26 BBY when a team of Jedi Knights arrived on a rescue mission to retrieve five Republic scientists who had traveled there on an environmental research mission sponsored by the Galactic Senate. The scientists were Fort Turan (mission leader), Tic Verdun (scout, Force Blank Granta Omega in disguise), Joveh D'a Alin, Talie Heathe, and Reug Yucon.
+
+Anakin Skywalker and Obi-Wan Kenobi were assigned to the Jedi mission, along with Master Soara Antana and her Padawan Darra Thel-Tanis, who was wounded there. By mission's end, peace was restored to the planet when Omega's machinations against that peace were put asunder through the actions of Kenobi and Skywalker.
+
+## Planetary data
+
+- **Name:** Haariden
+- **Region:**
+  - Inner Rim
+  - The Slice
+- **System:** Haariden system
+- **Coordinates:** O-9
+- **Moons:** 1
+- **Terrain:**
+  - Rocky
+  - Volcanoes
+  - Small scattered forests
+- **Interest:** Kaachtari
+- **Fauna:** Lava crab
+- **Otherspecies:** Humans
+- **Language:** Galactic Basic Standard
+- **Cities:** Tenuuri
+- **Affiliation:**
+  - Galactic Republic
+  - Galactic Empire
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

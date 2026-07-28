@@ -1,0 +1,34 @@
+{
+  "name": "Lutrillian",
+  "wookieepedia_title": "Lutrillian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lutrillian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Lutrillians were a sentient species of humanoids that were native to the planet Lutrillia. They were distinguished by their broad faces, fuzzy jowls, and wide-set eyes. Lutrillians lived a nomadic lifestyle and traveled around their homeworld. They loved adventure and discovery, often going off-world to explore other cultures. They were considered, by other species, to be very agreeable, but had a small problem with greed.",
+  "data": {
+    "name": "Lutrillian",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "skincolor": [
+      "White",
+      "Ruddy",
+      "Brown"
+    ],
+    "haircolor": "Gray",
+    "eyecolor": [
+      "Black",
+      "Blue",
+      "Gray",
+      "Pink"
+    ],
+    "distinctions": [
+      "Broad face",
+      "Fuzzy jowls",
+      "Wide-set eyes",
+      "Line cutting vertically through the center of the nose and the upper lip"
+    ],
+    "origin": "Lutrillia"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Lutrillia"
+}

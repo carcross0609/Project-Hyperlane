@@ -1,0 +1,116 @@
+{
+  "name": "Dagobah",
+  "wookieepedia_title": "Dagobah/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dagobah/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dagobah (/'deɪgəbə/; ) was an Outer Rim planet in the Dagobah system. A remote world of swamps and forests, it served as a refuge for Jedi Grand Master Yoda during his exile after the events of Order 66 had taken place.",
+  "lead_paragraphs": [
+    "Dagobah (/'deɪgəbə/; ) was an Outer Rim planet in the Dagobah system. A remote world of swamps and forests, it served as a refuge for Jedi Grand Master Yoda during his exile after the events of Order 66 had taken place."
+  ],
+  "article_sections": [
+    "Geography",
+    "History",
+    "  Surveys",
+    "  Clone Wars",
+    "  Yoda's exile",
+    "    The next Skywalker",
+    "  Jedi involvement",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Dagobah",
+    "region": "Outer Rim Territories",
+    "sector": "Sluis sector",
+    "system": "Dagobah system",
+    "coordinates": "M-19",
+    "distance": "50,250 light-years",
+    "suns": "1: Darlo",
+    "position": "2",
+    "moons": "1",
+    "lengthday": "23 standard hours",
+    "lengthyear": "341 local days",
+    "class": "Terrestrial",
+    "diameter": "8,900 kilometers",
+    "atmosphere": "Type I (breathable Oxygen mix)",
+    "climate": "Murky",
+    "terrain": [
+      "Swamp",
+      "Bogs",
+      "Jungles",
+      "Bayous"
+    ],
+    "water": "c. 8% in lakes and inland seas (more in extensive muddy regions)",
+    "interest": [
+      "Yoda's hut",
+      "Dark Side Cave",
+      "The Shelter",
+      "Mount Dagger",
+      "Dragonsnake Bog"
+    ],
+    "flora": [
+      "Bog tree",
+      "Carnivorous Fungi",
+      "Cyanoberry",
+      "Exploding mushroom",
+      "Gnarltree",
+      "Lahdia plant",
+      "Stickle tree"
+    ],
+    "fauna": [
+      "Accipiptero",
+      "Bogwing",
+      "Butcherbug",
+      "Dagobah python",
+      "Dragonsnake",
+      "Jubba bird",
+      "Knobby white spider",
+      "Leaf-tail",
+      "Morp",
+      "Nharpira",
+      "Pikobi",
+      "Scrange",
+      "Spotlight sloth",
+      "Sleen",
+      "Smooka",
+      "Swamp slug"
+    ],
+    "species": "Hepsalum Tash",
+    "otherspecies": [
+      "Human",
+      "Yoda's species"
+    ],
+    "government": "None",
+    "population": "None",
+    "cities": "None",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Alliance to Restore the Republic",
+      "New Republic",
+      "Jedi Order"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Hepsalum Tash",
+      "directory": "Hepsalum Tash",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Tash",
+      "directory": "Tash",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Dagobah",
+    "x": 2460.9,
+    "y": -14267.5,
+    "z": 134.2,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

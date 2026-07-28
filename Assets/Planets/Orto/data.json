@@ -1,0 +1,51 @@
+{
+  "name": "Orto",
+  "wookieepedia_title": "Orto",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orto",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Orto was a cold planet located in the Outer Rim Territories that was the homeworld of the Ortolan species. Orto was so cold, the natives had to consume large amounts of food in order to develop a warm layer of blubber.",
+  "lead_paragraphs": [
+    "Orto was a cold planet located in the Outer Rim Territories that was the homeworld of the Ortolan species. Orto was so cold, the natives had to consume large amounts of food in order to develop a warm layer of blubber.",
+    "During the Imperial Era, Orto maintained a modest Imperial presence, which escalated following an incident. Orto had some tourist appeal, specifically the city of Cheddatown."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Orto",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Sluis sector",
+    "system": "Orto system",
+    "coordinates": "M-19",
+    "climate": "Cold",
+    "interest": "Orto Culinary Academy",
+    "flora": "Grass",
+    "species": "Ortolan",
+    "otherspecies": "Gungan",
+    "cities": "Cheddatown",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ortolan",
+      "directory": "Ortolan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ortolan",
+      "directory": "Ortolan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Orto",
+    "x": 2195.1,
+    "y": -13657.0,
+    "z": 42.9,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

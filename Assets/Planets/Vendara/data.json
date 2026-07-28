@@ -1,0 +1,41 @@
+{
+  "name": "Vendara",
+  "wookieepedia_title": "Vendara",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vendara",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vendara was a planet located within the Vendara system in the Kwymar sector of the Outer Rim region of the galaxy. It was home to the Vendaran species and the predatory mollusks called skeeg.",
+  "lead_paragraphs": [
+    "Vendara was a planet located within the Vendara system in the Kwymar sector of the Outer Rim region of the galaxy. It was home to the Vendaran species and the predatory mollusks called skeeg."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vendara",
+    "region": "Outer Rim Territories",
+    "sector": "Kwymar sector",
+    "system": "Vendara system",
+    "coordinates": "Q-4",
+    "terrain": "Tropical swamps",
+    "flora": "Vendaran flowers",
+    "fauna": "Skeeg",
+    "species": "Vendaran",
+    "exports": "Perfumes",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vendaran",
+      "directory": "Vendaran",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vendara",
+    "x": 7810.5,
+    "y": 8374.7,
+    "z": 574.0,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Dioll",
+  "wookieepedia_title": "Dioll",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dioll",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dioll was a rocky planet located in the Dioll system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Kassido Bypass hyperlane linked it to the Kardura and Thermon systems.",
+  "lead_paragraphs": [
+    "Dioll was a rocky planet located in the Dioll system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Kassido Bypass hyperlane linked it to the Kardura and Thermon systems.",
+    "Dioll's climate contradictorily featured both strong winds and deep fogs, and in that way it resembled a miniature version of a gas giant–type planet. Dioll was the homeworld of the sentient Diollan species and, like the rest of the Senex-Juvex worlds, was under the control of the region's aristocratic Ancient Houses."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dioll",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Juvex sector"
+    ],
+    "system": "Dioll system",
+    "coordinates": "L-17",
+    "routes": "Kassido Bypass",
+    "class": "Terrestrial",
+    "climate": [
+      "Foggy",
+      "Windy"
+    ],
+    "terrain": "Rocky",
+    "species": "Diollans",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [
+    {
+      "name": "Diollan",
+      "directory": "Diollan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dioll",
+    "x": 60.8,
+    "y": -11887.4,
+    "z": -178.9,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

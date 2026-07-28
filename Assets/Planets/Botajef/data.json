@@ -1,0 +1,53 @@
+{
+  "name": "Botajef",
+  "wookieepedia_title": "Botajef",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Botajef",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Botajef was an ecumenopolis planet located in the Belsmuth sector of the Outer Rim Territories, at the confluence of the Salin Corridor and Hydian Way hyperspace routes. It was the homeworld of the Jefi species and the headquarters of Botajef Shipyards.",
+  "lead_paragraphs": [
+    "Botajef was an ecumenopolis planet located in the Belsmuth sector of the Outer Rim Territories, at the confluence of the Salin Corridor and Hydian Way hyperspace routes. It was the homeworld of the Jefi species and the headquarters of Botajef Shipyards."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Botajef",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Belsmuth sector",
+    "system": "Botajef system",
+    "coordinates": "O-6",
+    "routes": [
+      "Hydian Way",
+      "Salin Corridor"
+    ],
+    "interest": [
+      "Governor's palace",
+      "North-polar base",
+      "South-polar base"
+    ],
+    "species": "Jefi",
+    "otherspecies": "Human",
+    "government": "Imperial governorship",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Jefi",
+      "directory": "Jefi",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Botajef",
+    "x": 5171.7,
+    "y": 5272.2,
+    "z": -140.8,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

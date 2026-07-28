@@ -1,0 +1,25 @@
+{
+  "name": "Nephran",
+  "wookieepedia_title": "Nephran",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nephran",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Nephrans were a sentient crustacean species that were native to the water-rich planet Nepotis. Therm Scissorpunch was a member of this species.",
+  "data": {
+    "name": "Nephran",
+    "designation": "Sentient",
+    "class": "Crustacean",
+    "skincolor": [
+      "Olive green",
+      "Purple",
+      "Red"
+    ],
+    "eyecolor": "Black",
+    "distinctions": "Long lifespan",
+    "origin": "Nepotis",
+    "habitat": "Water",
+    "language": "Nepotisian"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Nepotis"
+}

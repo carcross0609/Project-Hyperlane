@@ -1,0 +1,29 @@
+{
+  "name": "Urubai",
+  "wookieepedia_title": "Urubai",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Urubai",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Urubai was a planet that was home to Quarrant City. No earlier than 22 BBY, Senator Jar Jar Binks traveled to Urubai to meet with Ambassador Upsina.",
+  "lead_paragraphs": [
+    "Urubai was a planet that was home to Quarrant City. No earlier than 22 BBY, Senator Jar Jar Binks traveled to Urubai to meet with Ambassador Upsina."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Urubai",
+    "class": "Terrestrial",
+    "species": "Urubaian",
+    "cities": "Quarrant City",
+    "exports": "Coaxium",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Urubaian",
+      "directory": "Urubaian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

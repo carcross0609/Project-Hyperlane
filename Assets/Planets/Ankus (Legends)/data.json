@@ -1,0 +1,48 @@
+{
+  "name": "Ankus",
+  "wookieepedia_title": "Ankus/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ankus/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ankus was a planet on the borders of the Mid Rim near the Unknown Regions.",
+  "lead_paragraphs": [
+    "Ankus was a planet on the borders of the Mid Rim near the Unknown Regions."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ankus",
+    "region": "Mid Rim",
+    "sector": "Freestanding subsectors",
+    "system": "Ankus system",
+    "coordinates": "I-7",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "terrain": "Rocky plains",
+    "species": "Cragmoloid",
+    "language": "Cragii",
+    "population": "1 million to 10 million",
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Cragmoloid",
+      "directory": "Cragmoloid (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ankus",
+    "x": -3924.1,
+    "y": 4209.3,
+    "z": 286.4,
+    "region": "Mid Rim",
+    "grid": "I-7"
+  },
+  "scraped": "2026-07-03"
+}

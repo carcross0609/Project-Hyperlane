@@ -1,0 +1,27 @@
+{
+  "name": "Celegian",
+  "wookieepedia_title": "Celegian/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Celegian/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Celegians were a nonhumanoid species from Celegia, a planet with raging seas located in the Expansion Region. Celegians were relatively isolationist as a species, but had good relations with the Galactic Republic.",
+  "data": {
+    "name": "Celegian",
+    "designation": "Sentient",
+    "class": "Invertebrates",
+    "height": "1.7 - 2.2 meters",
+    "skincolor": "Reds and pinks",
+    "lifespan": [
+      "Child: 1-10 years",
+      "Young adult: 11-20 years",
+      "Adult: 21-142 years",
+      "Middle age: 143-210 years",
+      "Old: 211-250 years",
+      "Venerable: 251+ years"
+    ],
+    "origin": "Celegia",
+    "language": "Telepathy"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Celegia"
+}

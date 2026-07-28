@@ -1,0 +1,31 @@
+{
+  "name": "Killik",
+  "wookieepedia_title": "Killik/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Killik/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Killiks, who referred to themselves as the Kind, were an ancient sentient insectoid species native to Yoggoy in the Unknown Regions. Originally inhabiting planets such as Alderaan, Alsakan, and Utapau, they built large mound-like structures. Long before most other species arrived, the Killiks of Alderaan vanished into the galaxy, while some remained in hibernation deep under its surface. Their disappearance from Alderaan was depicted in Ob Khaddor's moss painting Killik Twilight.",
+  "data": {
+    "name": "Killik",
+    "designation": "Sentient",
+    "class": "Insect",
+    "height": "Varies from 3 centimeters to 50 meters",
+    "skincolor": [
+      "Brown",
+      "Chestnut",
+      "Green",
+      "Red",
+      "Scarlet",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Chitinous armor",
+      "Mandibles projected from face",
+      "Four arms ending in long three toed claws protrude from their torsos"
+    ],
+    "origin": "Yoggoy",
+    "language": "Killik"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Yoggoy"
+}

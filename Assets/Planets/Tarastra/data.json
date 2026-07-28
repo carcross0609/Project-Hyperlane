@@ -1,0 +1,44 @@
+{
+  "name": "Tarastra",
+  "wookieepedia_title": "Tarastra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tarastra",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tarastra was a gas giant in the Eriadu system, located in the Seswenna sector of the Trailing Sectors portion of the Outer Rim Territories. Tarastra was the fifth planet that orbited the star Eriadu, and it was circled by seven moons. Along with the rest of its star system, the planet was located on the hyperspace routes known as the Hydian Way, the Lipsec Run, the Nothoiin Corridor, the Rimma Trade Route, the Senex Trace, and the Yankirk Route.",
+  "lead_paragraphs": [
+    "Tarastra was a gas giant in the Eriadu system, located in the Seswenna sector of the Trailing Sectors portion of the Outer Rim Territories. Tarastra was the fifth planet that orbited the star Eriadu, and it was circled by seven moons. Along with the rest of its star system, the planet was located on the hyperspace routes known as the Hydian Way, the Lipsec Run, the Nothoiin Corridor, the Rimma Trade Route, the Senex Trace, and the Yankirk Route."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tarastra",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Seswenna sector",
+    "system": "Eriadu system",
+    "coordinates": "M-18",
+    "suns": "1: Eriadu",
+    "position": "5",
+    "moons": "7",
+    "routes": [
+      "Hydian Way",
+      "Lipsec Run",
+      "Nothoiin Corridor",
+      "Rimma Trade Route",
+      "Senex Trace",
+      "Yankirk Route"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tarastra",
+    "x": 1657.3,
+    "y": -13237.5,
+    "z": 80.9,
+    "region": "Outer Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Tinallis",
+  "wookieepedia_title": "Tinallis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tinallis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tinallis was a planet located within the Tinallis system of the Mid Rim. Though it was an industrialized planet, it was noted for the wildlife in its oceans, seashores, and rainforests. One of its native creatures, the tresher, was a lucrative but illegal trade item.",
+  "lead_paragraphs": [
+    "Tinallis was a planet located within the Tinallis system of the Mid Rim. Though it was an industrialized planet, it was noted for the wildlife in its oceans, seashores, and rainforests. One of its native creatures, the tresher, was a lucrative but illegal trade item."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Tinallis",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Juvex sector",
+    "system": "Tinallis system",
+    "coordinates": "L-18",
+    "terrain": [
+      "Rainforests",
+      "Cliffs",
+      "Oceans",
+      "Polluted industrial areas"
+    ],
+    "fauna": [
+      "Blue-ringed sea crab",
+      "Tinallian razorcat",
+      "Tresher"
+    ],
+    "demonym": "Tinallian",
+    "exports": "Tresher eggs, meat, feathers, and live specimens (illegal)"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tinallis",
+    "x": 269.1,
+    "y": -12100.1,
+    "z": 241.6,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

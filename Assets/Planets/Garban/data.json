@@ -1,0 +1,47 @@
+{
+  "name": "Garban",
+  "wookieepedia_title": "Garban",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Garban",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Garban was the homeworld of the Jenet species and the fourth planet in the Tau Sakar system. It was located in the Abrion sector of the Outer Rim Territories, in the region between the Perlemian Trade Route and Corellian Run known as the Slice.",
+  "lead_paragraphs": [
+    "Garban was the homeworld of the Jenet species and the fourth planet in the Tau Sakar system. It was located in the Abrion sector of the Outer Rim Territories, in the region between the Perlemian Trade Route and Corellian Run known as the Slice.",
+    "During the Clone Wars, this planet was located within Separatist space.",
+    "Many Jenet Community Heaps were spread around the temperate world, that collected scavenged materials such as discarded food, tools, and household items. They were administered by the Jenets' government. The planet was riddled with profitable mines. The planet was not part of the Galactic Republic, but was part of the Galactic Empire, under which the Jenet were forced into the ore mines as slaves."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Garban",
+    "region": "Outer Rim Territories",
+    "sector": "Abrion sector",
+    "system": "Tau Sakar system",
+    "coordinates": "S-15",
+    "suns": "1: Tau Sakar",
+    "interest": "Community Heaps",
+    "fauna": "Danchaf",
+    "species": "Jenet",
+    "language": "Jenet",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Jenet",
+      "directory": "Jenet (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Garban",
+    "x": 11075.4,
+    "y": -7735.8,
+    "z": -222.6,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

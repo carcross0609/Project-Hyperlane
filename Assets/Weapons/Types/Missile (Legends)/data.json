@@ -1,0 +1,31 @@
+{
+  "name": "Missile",
+  "wookieepedia_title": "Missile/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Missile/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A missile, also called an ordnance or a rocket, was a catch-all term for a type of self-propelled explosive projectile. Different types of missiles were loaded on and fired from various starships, such as capital ships and starfighters. Other types of missiles were utilized by ground vehicles. The most common type of missile employed by ground forces were ones capable of being launched by shoulder-fired missile launchers.",
+  "data": {
+    "name": "Missile",
+    "manufacturer": "Various",
+    "type": "Projectile Explosive",
+    "creators": "Various",
+    "locations": "The galaxy",
+    "cost": "Various",
+    "value": "Various",
+    "protection": [
+      "Durasteel",
+      "Armor",
+      "Deflector shield"
+    ],
+    "purpose": [
+      "Destruction",
+      "Reconnaissance",
+      "Spying",
+      "Traveling (Probe droids)"
+    ],
+    "affiliation": "Various"
+  },
+  "scraped": "2026-07-03"
+}

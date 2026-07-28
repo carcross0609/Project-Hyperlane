@@ -1,0 +1,117 @@
+{
+  "name": "Cerea",
+  "wookieepedia_title": "Cerea/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cerea/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Cerea was a planet located in the Mid Rim region of the galaxy. The homeworld of the Cerean species, Cerea was notable for its inhabitants' harmonious relationship with nature. Technology and pollution were frowned upon by the conservative government, a major point in the planet's decision not to join the Galactic Republic. The Cerean population mainly lived in giant buildings that took up a minimum of space, allowing the remainder of the planet's area to be employed as farmland. Foreign immigrants and visitors were, with a few exceptions, only allowed in Cerea's Outsider Citadels, enormous buildings erected to let non-Cereans practice their technological ways. This ensured that the foreigners' technology did not contaminate Cerea's nature, but also led to a concentration of criminal elements within the Citadels.",
+  "lead_paragraphs": [
+    "Cerea was a planet located in the Mid Rim region of the galaxy. The homeworld of the Cerean species, Cerea was notable for its inhabitants' harmonious relationship with nature. Technology and pollution were frowned upon by the conservative government, a major point in the planet's decision not to join the Galactic Republic. The Cerean population mainly lived in giant buildings that took up a minimum of space, allowing the remainder of the planet's area to be employed as farmland. Foreign immigrants and visitors were, with a few exceptions, only allowed in Cerea's Outsider Citadels, enormous buildings erected to let non-Cereans practice their technological ways. This ensured that the foreigners' technology did not contaminate Cerea's nature, but also led to a concentration of criminal elements within the Citadels.",
+    "Cerea was ruled by the Council of Elders, which in turn was led by a president. The planet was for the most part ignored by the Republic until a few years prior to the Clone Wars. Cerea's seclusion caused a unique culture to develop, one that focused on other values than the mainstream galactic civilization. In 21 BBY, Cerea was the site of a battle between the Republic and Confederacy of Independent Systems, which had an adverse effect on the planet's relatively untouched nature."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Pro-technology movement",
+    "  Clone Wars",
+    "  Isolationism",
+    "Inhabitants",
+    "Locations",
+    "  Tecave City",
+    "  Outsider Citadels"
+  ],
+  "data": {
+    "name": "Cerea",
+    "region": "Mid Rim",
+    "sector": [
+      "Semagi sector",
+      "Cerean Quadrant"
+    ],
+    "system": "Cerean system",
+    "coordinates": "I-16",
+    "suns": "3",
+    "moons": "1",
+    "routes": [
+      "Cerean Reach",
+      "Great Gran Run",
+      "Spar Trade Route"
+    ],
+    "lengthday": "27 standard hours",
+    "lengthyear": "386 standard days",
+    "atmosphere": "Oxygen mix",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Farmland",
+      "Forests",
+      "Rolling hills",
+      "Rural villages"
+    ],
+    "interest": "Shyarn-Ado Training Schools",
+    "flora": [
+      "Roali",
+      "Inisa"
+    ],
+    "fauna": [
+      "Aryx",
+      "Cerean hopper",
+      "Cerean pack animal",
+      "Crown of silk",
+      "Isnr",
+      "Moof",
+      "Oorg"
+    ],
+    "species": "Cerean",
+    "otherspecies": [
+      "Human",
+      "Ithorian"
+    ],
+    "language": [
+      "Basic",
+      "Cerean"
+    ],
+    "government": "Council of Elders",
+    "population": [
+      "450 million:",
+      "  85% Cerean",
+      "  7% Human",
+      "  4% Ithorian",
+      "  4% other"
+    ],
+    "cities": [
+      "Tecave City (capital)",
+      "Outsider Citadels"
+    ],
+    "imports": "Technology",
+    "exports": "Foodstuffs",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Darth Krayt's Galactic Empire",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Cerean",
+      "directory": "Cerean",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Cerean",
+      "directory": "Cerean (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cerea",
+    "x": -3636.4,
+    "y": -9964.5,
+    "z": -193.2,
+    "region": "Mid Rim",
+    "grid": "I-16"
+  },
+  "scraped": "2026-07-03"
+}

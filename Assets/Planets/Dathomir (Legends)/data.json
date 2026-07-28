@@ -1,0 +1,192 @@
+{
+  "name": "Dathomir",
+  "wookieepedia_title": "Dathomir/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dathomir/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dathomir was a remote, obscure and dangerous planet in the Outer Rim Territories. It was inhabited by Force-sensitive Humans known as the Witches of Dathomir, along with their evil counterparts, the Nightsisters. It was also the homeworld of the dreaded rancors. Dathomir was the site of numerous battles throughout galactic history.",
+  "lead_paragraphs": [
+    "Dathomir was a remote, obscure and dangerous planet in the Outer Rim Territories. It was inhabited by Force-sensitive Humans known as the Witches of Dathomir, along with their evil counterparts, the Nightsisters. It was also the homeworld of the dreaded rancors. Dathomir was the site of numerous battles throughout galactic history."
+  ],
+  "article_sections": [
+    "Description",
+    "  Geography",
+    "  Native lifeforms",
+    "History",
+    "  Pre-Republic History",
+    "  Old Republic era",
+    "  The Daughters of Allya",
+    "  Later History",
+    "  Galactic Civil War",
+    "  New Republic",
+    "  Galactic Alliance",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Dathomir",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Dathomir system",
+    "coordinates": "O-6",
+    "suns": "1: Domir",
+    "position": "4",
+    "moons": [
+      "4",
+      "Koratas"
+    ],
+    "lengthday": "24 standard hours",
+    "lengthyear": "491 local days",
+    "class": [
+      "\"M\"",
+      "Terrestrial"
+    ],
+    "diameter": "10,460 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "90% standard",
+    "terrain": [
+      "Deserts",
+      "Forests",
+      "Jungle",
+      "Mountains"
+    ],
+    "interest": [
+      "Asou Dankal",
+      "Bright Sun Hill",
+      "Crucible",
+      "Dathomir Spaceport",
+      "Dreaming River valley",
+      "Great Canyon",
+      "Great Desert of Dathomir",
+      "Hidden Cave",
+      "Imperial Prison",
+      "Infinity Plain",
+      "Jedi Praxeum",
+      "Landing meadow",
+      "Nightsister fortress",
+      "Northern Lakes",
+      "Prime Gate",
+      "Quarantine Zone",
+      "Rebel hangar",
+      "Red Hills",
+      "Redgill Lake",
+      "Redgill Pass",
+      "Singing Mountain",
+      "Sith Academy"
+    ],
+    "flora": [
+      "Greybush",
+      "Lesset",
+      "Ongmuel",
+      "Redweed",
+      "Rinor",
+      "Snowbark tree"
+    ],
+    "fauna": [
+      "Archix",
+      "Burra fish",
+      "Dathomir lizard",
+      "Dathomiri boar",
+      "Gibbit bird",
+      "Kodashi viper",
+      "Kolef lizard",
+      "Kwi",
+      "Moog",
+      "Pig rodent",
+      "Purbole",
+      "Reptilian flier",
+      "Rock dragon",
+      "Scissorfist",
+      "Sparkfly",
+      "Veshet",
+      "Whuffa worm"
+    ],
+    "species": [
+      "Dathomirian",
+      "Kwa (historically)",
+      "Kwi (Subspecies of the Kwa)"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Zabraks"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Paecian"
+    ],
+    "government": "Tribal",
+    "population": [
+      "5,200:",
+      "  97% Human",
+      "  3% other"
+    ],
+    "demonym": "Dathomiri",
+    "cities": [
+      "Aurilia",
+      "Blue Desert City",
+      "Howling Crag Clan Village",
+      "Nightsister Stronghold",
+      "Singing Mountain Clan Fortress"
+    ],
+    "imports": "None",
+    "exports": "Labor",
+    "affiliation": [
+      "Kwa holdings",
+      "Infinite Empire",
+      "Paecian Empire",
+      "Drackmarians",
+      "Brotherhood of Darkness",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "United Witch clans",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Dathomirian",
+      "directory": "Dathomirian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Dathomirian",
+      "directory": "Dathomirian (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Fromprath",
+      "directory": "Fromprath",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kwa",
+      "directory": "Kwa (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kwi",
+      "directory": "Kwi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Zabrak",
+      "directory": "Zabrak",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Dathomir",
+    "x": 4716.6,
+    "y": 5436.6,
+    "z": 97.2,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

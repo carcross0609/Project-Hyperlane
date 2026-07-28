@@ -1,0 +1,48 @@
+{
+  "name": "Rekkana",
+  "wookieepedia_title": "Rekkana",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rekkana",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rekkana was a shipyard planet home to the Rekk, who were known for their skills in creating automatic systems. Shortly after the Battle of Endor, Lando Calrissian picked up a distress call from Rekkana while on his way to return the Millennium Falcon to Han Solo, making a detour to investigate the mention of Imperial forces. Upon arriving above Rekkana, he was attacked by TIE fighters that showed signs of being computer-controlled.",
+  "lead_paragraphs": [
+    "Rekkana was a shipyard planet home to the Rekk, who were known for their skills in creating automatic systems. Shortly after the Battle of Endor, Lando Calrissian picked up a distress call from Rekkana while on his way to return the Millennium Falcon to Han Solo, making a detour to investigate the mention of Imperial forces. Upon arriving above Rekkana, he was attacked by TIE fighters that showed signs of being computer-controlled."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rekkana",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Rekkana system",
+    "coordinates": "L-9",
+    "suns": "2",
+    "moons": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": "Rocky",
+    "interest": "Rekkana work camp",
+    "species": "Rekk",
+    "otherspecies": "Human",
+    "affiliation": [
+      "Galactic Empire",
+      "Visler Korda's faction",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Rekk",
+      "directory": "Rekk",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Rekkana",
+    "x": 8267.3,
+    "y": -8582.4,
+    "z": -130.0,
+    "region": "Other",
+    "grid": "Q-15"
+  },
+  "scraped": "2026-07-03"
+}

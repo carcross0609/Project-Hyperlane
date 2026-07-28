@@ -1,0 +1,51 @@
+{
+  "name": "Iskalon",
+  "wookieepedia_title": "Iskalon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iskalon",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Iskalon was a planet located in the Iskalon system in the Trans-Nebular sector of the Mid Rim. The pirate Queen Maz Kanata hid a portion of the spoils from her reign there in a buried vault equipped with a antitamper sub-space alarm. As of when she began writing the book that would become known as the Smuggler's Guide, the alarm protecting the cache of treasure on Iskalon had not sounded. The Iskalon uprising occurred during the Imperial Era.",
+  "lead_paragraphs": [
+    "Iskalon was a planet located in the Iskalon system in the Trans-Nebular sector of the Mid Rim. The pirate Queen Maz Kanata hid a portion of the spoils from her reign there in a buried vault equipped with a antitamper sub-space alarm. As of when she began writing the book that would become known as the Smuggler's Guide, the alarm protecting the cache of treasure on Iskalon had not sounded. The Iskalon uprising occurred during the Imperial Era."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Iskalon",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Trans-Nebular sector",
+    "system": "Iskalon system",
+    "coordinates": "R-16",
+    "routes": "Mumble's Turnaround",
+    "class": "Terrestrial",
+    "terrain": "Aquatic",
+    "interest": "Iskalon's pump station #2335DA",
+    "fauna": [
+      "Serpents",
+      "Mega eels"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Dania Francis's species",
+      "directory": "Dania Francis's species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Frid",
+      "directory": "Frid",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Iskalon",
+    "x": 9533.8,
+    "y": -9417.2,
+    "z": -315.8,
+    "region": "Mid Rim",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

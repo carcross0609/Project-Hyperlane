@@ -1,0 +1,37 @@
+{
+  "name": "Ranroon",
+  "wookieepedia_title": "Ranroon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ranroon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ranroon was a planet located within the Mortex sector of the Outer Rim Territories. It was particularly known for its legendary Queen Indrexu.",
+  "lead_paragraphs": [
+    "Ranroon was a planet located within the Mortex sector of the Outer Rim Territories. It was particularly known for its legendary Queen Indrexu."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Ranroon",
+    "region": "Outer Rim Territories",
+    "sector": "Mortex sector",
+    "system": "Ranroon system",
+    "coordinates": "R-5",
+    "terrain": [
+      "Dizzying peaks",
+      "Clifftop aeries"
+    ],
+    "affiliation": "Xim's Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ranroon",
+    "x": 10276.7,
+    "y": 7266.7,
+    "z": 477.8,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

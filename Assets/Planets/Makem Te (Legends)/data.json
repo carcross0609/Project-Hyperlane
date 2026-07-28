@@ -1,0 +1,98 @@
+{
+  "name": "Makem Te",
+  "wookieepedia_title": "Makem Te/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Makem_Te/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Makem Te was the dry homeworld of the Swokes Swokes species, on the Perlemian Trade Route.",
+  "lead_paragraphs": [
+    "Makem Te was the dry homeworld of the Swokes Swokes species, on the Perlemian Trade Route."
+  ],
+  "article_sections": [
+    "History",
+    "Society"
+  ],
+  "data": {
+    "name": "Makem Te",
+    "region": "Outer Rim Territories",
+    "sector": "Nilgaard sector",
+    "system": "Makem system",
+    "coordinates": "S-5",
+    "suns": "1: Makem",
+    "moons": "0",
+    "routes": "Perlemian Trade Route",
+    "lengthday": "45 standard hours",
+    "lengthyear": "188 standard days",
+    "class": "Terrestrial",
+    "diameter": "12,700 km",
+    "atmosphere": "Breathable",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert",
+      "Graveyards"
+    ],
+    "interest": [
+      "The Tract",
+      "Obsta Desert"
+    ],
+    "fauna": [
+      "Schinga",
+      "  Schinga equa",
+      "  Schinga ikkow",
+      "  Schinga klaug",
+      "  Schinga picai",
+      "  Schinga shikou"
+    ],
+    "species": "Swokes Swokes",
+    "language": [
+      "Swoken",
+      "Galactic Basic Standard"
+    ],
+    "government": "Congress of Caliphs",
+    "population": [
+      "2 billion:",
+      "  94% Swokes Swokes",
+      "  6% other"
+    ],
+    "cities": "Thousand Thousand (capital)",
+    "imports": [
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": [
+      "Spice",
+      "Ore"
+    ],
+    "affiliation": [
+      "Congress of Caliphs",
+      "Xim's Empire",
+      "Galactic Republic",
+      "Sith Empire (Great Sith War)",
+      "Sith Empire",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Swokes Swokes",
+      "directory": "Swokes Swokes",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Swokes Swokes",
+      "directory": "Swokes Swokes (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Makem Te",
+    "x": 11242.0,
+    "y": 6717.6,
+    "z": -461.3,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

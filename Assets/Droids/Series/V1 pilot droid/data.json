@@ -1,0 +1,28 @@
+{
+  "name": "V1 pilot droid",
+  "wookieepedia_title": "V1 pilot droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V1_pilot_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "Industrial Automaton's V1 pilot droids were the first model in their V-series pilot droid line. Like other pilot droids, they were designed to supplement or replace biological pilots for starships. As the most common pilot droid model in use during the Galactic Civil War, they were used by both the Galactic Empire and the Alliance to Restore the Republic.",
+  "data": {
+    "name": "V1 pilot droid",
+    "manufacturer": "Industrial Automaton",
+    "line": "V-series pilot droid",
+    "cost": [
+      "11,800 credits (new)",
+      "9,600 credits (used)"
+    ],
+    "height": "1 meter",
+    "equipment": [
+      "1 retractable arm",
+      "3 wheeled legs",
+      "Memory for three pre-programmed hyperspace jumps",
+      "Photoreceptor (Human range)",
+      "Starship interface jack",
+      "Video display screen"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

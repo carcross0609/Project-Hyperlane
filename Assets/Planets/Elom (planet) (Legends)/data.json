@@ -1,0 +1,108 @@
+{
+  "name": "Elom",
+  "wookieepedia_title": "Elom (planet)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Elom_%28planet%29/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Elom was a cold and barren desert-like planet that was home to the Elom and Elomin species. The Elom lived in the caves of the A'driannamieq Mountains while the Elomin lived on the surface.",
+  "lead_paragraphs": [
+    "Elom was a cold and barren desert-like planet that was home to the Elom and Elomin species. The Elom lived in the caves of the A'driannamieq Mountains while the Elomin lived on the surface."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Conquest by the Empire",
+    "  Under the New Republic",
+    "  Yuuzhan Vong Invasion"
+  ],
+  "data": {
+    "name": "Elom",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Sertar sector",
+    "system": "Elom system",
+    "coordinates": "R-5",
+    "suns": "1",
+    "lengthday": "26 standard hours",
+    "lengthyear": "406 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cool",
+    "gravity": "Standard",
+    "terrain": [
+      "Frozen desert plains",
+      "Mountains"
+    ],
+    "water": "Dry",
+    "interest": [
+      "A'driannamieq Mountains",
+      "Charred Divide"
+    ],
+    "fauna": [
+      "Cherfer",
+      "Ranphyx"
+    ],
+    "species": [
+      "Elomin",
+      "Elom"
+    ],
+    "otherspecies": "Human",
+    "language": [
+      "Elomin",
+      "Elom"
+    ],
+    "government": "Family-controlled professional guilds (New Republic allied)",
+    "population": "150 million",
+    "cities": [
+      "Elos (capital)",
+      "Oront"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Weapons",
+      "Starships"
+    ],
+    "exports": "Lommite",
+    "affiliation": [
+      "Elomin Council",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Alliance of Free Planets",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Elom",
+      "directory": "Elom",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Elom",
+      "directory": "Elom (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Elomin",
+      "directory": "Elomin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Elomin",
+      "directory": "Elomin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Elom",
+    "x": 9473.4,
+    "y": 6330.0,
+    "z": 307.1,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

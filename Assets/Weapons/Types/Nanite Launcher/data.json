@@ -1,0 +1,27 @@
+{
+  "name": "Nanite Launcher",
+  "wookieepedia_title": "Nanite Launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nanite_Launcher",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Nanite Launcher was a type of projectile launcher which fired nanite payloads, projectiles that could use nanotechnology to either heal or harm targets. The Twi'lek bioengineer Tuya developed a prototype while working at Medtech Industries, which she later stole after she learned they had nefarious plans for the weapon, taking it with her when she became a participant in the Hunters of the Outer Rim competition on the planet Vespaara. It could be temporarily modified for long-range usage.",
+  "data": {
+    "name": "Nanite Launcher",
+    "manufacturer": "Medtech Industries",
+    "type": [
+      "Projectile launcher",
+      "  Grenade launcher"
+    ],
+    "creators": "Tuya",
+    "owners": "Tuya",
+    "locations": "Grand Arena, Vespaara",
+    "crew": "1 wielder",
+    "purpose": "Launching nanite payloads",
+    "affiliation": [
+      "Medtech Industries",
+      "Hunters of the Outer Rim"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

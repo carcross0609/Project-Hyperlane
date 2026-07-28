@@ -1,0 +1,68 @@
+{
+  "name": "Nilash III",
+  "wookieepedia_title": "Nilash III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nilash_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nilash III, also called simply Nilash, was the third planet in the Nilash system, located close to the baradium-rich planet Chelloa. It was home to a tree-dwelling, telepathic native species and a known source of anthracite. During the New Sith Wars the jungle-covered planet housed a Daimanite munitions plant while, under the rule of the Galactic Empire, the Nilash Imperial Impound Facility was established in an orbit around the world. It was on this world that the later-famous smuggling freighter the Millennium Falcon, at the time known as the Second Chance, first came into Rebel possession. During the following years, the control over Nilash was repeatedly transferred between the Empire and Rebellion's respective incarnations.",
+  "lead_paragraphs": [
+    "Nilash III, also called simply Nilash, was the third planet in the Nilash system, located close to the baradium-rich planet Chelloa. It was home to a tree-dwelling, telepathic native species and a known source of anthracite. During the New Sith Wars the jungle-covered planet housed a Daimanite munitions plant while, under the rule of the Galactic Empire, the Nilash Imperial Impound Facility was established in an orbit around the world. It was on this world that the later-famous smuggling freighter the Millennium Falcon, at the time known as the Second Chance, first came into Rebel possession. During the following years, the control over Nilash was repeatedly transferred between the Empire and Rebellion's respective incarnations."
+  ],
+  "article_sections": [
+    "History",
+    "  New Sith Wars",
+    "  Clone Wars and early Imperial Period",
+    "  Galactic Civil War",
+    "  Yuuzhan Vong War"
+  ],
+  "data": {
+    "name": "Nilash III",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Grumani sector",
+    "system": "Nilash system",
+    "coordinates": "M-17",
+    "position": "3",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Forests",
+      "Jungle",
+      "Snow-capped mountains"
+    ],
+    "interest": [
+      "Daimanite munitions factory",
+      "Nilash Imperial Impound Facility"
+    ],
+    "species": "Nilash natives",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "exports": [
+      "Anthracite",
+      "Munitions"
+    ],
+    "affiliation": [
+      "Daimanate",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Nilash species",
+      "directory": "Unidentified Nilash species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nilash III",
+    "x": -445.0,
+    "y": 5735.6,
+    "z": 208.3,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

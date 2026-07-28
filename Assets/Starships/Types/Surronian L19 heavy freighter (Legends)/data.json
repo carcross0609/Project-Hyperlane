@@ -1,0 +1,33 @@
+{
+  "name": "Surronian L19 heavy freighter",
+  "wookieepedia_title": "Surronian L19 heavy freighter/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Surronian_L19_heavy_freighter/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Surronian L19 heavy freighter was a freighter produced by Surron StarTech. It included A1.50 ion engines.",
+  "data": {
+    "name": "Surronian L19 heavy freighter",
+    "manufacturer": "Surron StarTech",
+    "type": "Heavy freighter",
+    "cost": [
+      "75,000 credits (new)",
+      "28,500 credits (used)"
+    ],
+    "length": "50 meters",
+    "max_speed": "950 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Class 16 (Backup)"
+    ],
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "navigation": "Equipped",
+    "armament": "Twin blaster cannon",
+    "crew": "1",
+    "passengers": "10",
+    "capacity": "150 metric tons",
+    "consumables": "8 weeks",
+    "role": "Short-range cargo transport"
+  },
+  "scraped": "2026-07-03"
+}

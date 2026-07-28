@@ -1,0 +1,24 @@
+{
+  "name": "Energy slingshot",
+  "wookieepedia_title": "Energy slingshot",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Energy_slingshot",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "An energy slingshot was a small wrist-mounted weapon that fired non-lethal energy pellets projectiles. They were legal on most planets throughout the galaxy. Ezra Bridger, a teenage orphan from Lothal, used an energy slingshot.",
+  "data": {
+    "name": "Energy slingshot",
+    "model": "Handcrafted",
+    "type": "Wrist-mounted energy slingshot",
+    "culture": "Xexto",
+    "creators": [
+      "Ezra Bridger",
+      "Xexto tinkerer"
+    ],
+    "cost": "40 credits",
+    "capacity": "Unlimited",
+    "range": "150 meters",
+    "affiliation": "Spectres"
+  },
+  "scraped": "2026-07-03"
+}

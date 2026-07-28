@@ -1,0 +1,31 @@
+{
+  "name": "R4-X2",
+  "wookieepedia_title": "R4-X2",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R4-X2",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "R4-X2 was a green R4 astromech droid operating during the First Order-Resistance War. It served on board the main cruiser of the Resistance.",
+  "data": {
+    "type": "Resistance",
+    "name": "R4-X2",
+    "model": "R4 astromech",
+    "class": "Astromech droid",
+    "sensor": "Black",
+    "plating": "Green and white",
+    "equipment": [
+      "Burtt acoustic signaler",
+      "Durasteel shell legs & chest frames",
+      "Hi-power recharge coupling",
+      "Holographic computer",
+      "Interference Pulse Stabilizers",
+      "Motorized treads",
+      "Primary photo-receptor and radar eye",
+      "Repair arms",
+      "Retractable leg",
+      "System ventilation"
+    ],
+    "affiliation": "Resistance"
+  },
+  "scraped": "2026-07-03"
+}

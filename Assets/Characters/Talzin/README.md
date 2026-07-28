@@ -1,0 +1,34 @@
+# Talzin
+
+**Kind:** Individual  
+**Continuity:** Canon  
+**Source:** [Talzin](https://starwars.fandom.com/wiki/Talzin)
+
+Talzin was a Dathomirian female who lived during the final decades of the Galactic Republic's reign and became a formidable figure of power during the Clone Wars. On her homeworld of Dathomir, Talzin lived as a shaman and the Clan Mother of the Nightsisters—a coven of Force-sensitive witches, who used magicks to manipulate the wilderness around them and rule their male counterparts, the Nightbrothers. It was Talzin who unified the Nightsisters into a single clan. Talzin's expertise in magicks was significant enough to attract the attention of the Dark Lord of the Sith, Darth Sidious, who came to Dathomir ostensibly to trade dark side Force teachings with Talzin and take her as his own Sith apprentice. Instead, the Sith Lord abducted Talzin's son Maul and took him as an apprentice in her place. Years later, he was presumed dead at the Battle of Naboo after sustaining mortal injuries, but his strength in the dark side allowed him to remain just barely alive. Although Talzin was aware of Maul's incredible survival, she was unable to rescue him and thus remained on Dathomir to plot her revenge against Sidious and his Sith, with her ultimate goal being galactic domination.
+
+## Profile
+
+- **Homeworld:** Dathomir
+- **Died:** 19 BBY, Dathomir
+- **Species:** Zabrak (Dathomirian)
+- **Gender:** Female
+- **Pronouns:** She/her
+- **Height:** 1.98 meters (6 ft, 6 in)
+- **Mass:** 70 kilograms
+- **Eye Color:** Silver (with black sclera)
+- **Skin Color:** White (with black markings)
+- **Family:** Maul's family
+- **Children:**
+  - Maul
+  - Savage Opress
+  - Feral
+- **Affiliation:**
+  - Nightsisters
+  -   Mother Talzin's clan
+  - Sith
+  - Frangawl Cult
+  - Shadow Collective
+
+## Models
+
+Place 3D model assets for this character in `Models/`.

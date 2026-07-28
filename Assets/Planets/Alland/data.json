@@ -1,0 +1,39 @@
+{
+  "name": "Alland",
+  "wookieepedia_title": "Alland",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alland",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alland was a planet located in the Core Worlds. It was situated on Metellos Trade Route.",
+  "lead_paragraphs": [
+    "Alland was a planet located in the Core Worlds. It was situated on Metellos Trade Route."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Alland",
+    "region": [
+      "Core Worlds",
+      "The Negs"
+    ],
+    "system": "Alland system",
+    "coordinates": "K-10",
+    "routes": "Metellos Trade Route",
+    "interest": "Alland Yards",
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Alland",
+    "x": -689.5,
+    "y": -216.0,
+    "z": 16.1,
+    "region": "Core Worlds",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

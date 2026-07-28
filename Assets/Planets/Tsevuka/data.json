@@ -1,0 +1,39 @@
+{
+  "name": "Tsevuka",
+  "wookieepedia_title": "Tsevuka",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tsevuka",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tsevuka was a planet in the Outer Rim of the galaxy, and the homeworld of the Tsevukan species. At some point the planet came under the control of the Galactic Empire, causing an uproar among the planet's natives.",
+  "lead_paragraphs": [
+    "Tsevuka was a planet in the Outer Rim of the galaxy, and the homeworld of the Tsevukan species. At some point the planet came under the control of the Galactic Empire, causing an uproar among the planet's natives."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tsevuka",
+    "region": "Outer Rim Territories",
+    "sector": "Cademimu sector",
+    "system": "Tsevuka system",
+    "coordinates": "M-6",
+    "routes": "Celanon Spur",
+    "fauna": "Kivaroa",
+    "species": "Tsevukan",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tsevukan",
+      "directory": "Tsevukan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Tsevuka",
+    "x": 240.3,
+    "y": -809.9,
+    "z": -36.7,
+    "region": "Outer Rim",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

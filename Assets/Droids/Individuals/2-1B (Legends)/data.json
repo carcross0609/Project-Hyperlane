@@ -1,0 +1,38 @@
+{
+  "name": "2-1B",
+  "wookieepedia_title": "2-1B/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/2-1B/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "2-1B (or Too-Onebee) was a 2-1B surgical droid that joined the Alliance to Restore the Republic as a medic.",
+  "data": {
+    "type": "New Republic",
+    "name": "2-1B",
+    "manufacturer": [
+      "Geentech (development)",
+      "Industrial Automaton (production)"
+    ],
+    "model": "2-1B surgical droid",
+    "class": "Medical droid",
+    "height": "1.5 meters (4 ft, 11 in)",
+    "mass": "40 kilograms",
+    "gender": "Masculine programming",
+    "sensor": "Yellow",
+    "equipment": [
+      "Computer interface tether (range of 5 meters)",
+      "Medical diagnostic computer",
+      "Analytical computer",
+      "Modular arm attachments",
+      "Surgical attachments",
+      "Hypodermic injectors",
+      "Medicine dispensers"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

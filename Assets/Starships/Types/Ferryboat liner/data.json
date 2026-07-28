@@ -1,0 +1,26 @@
+{
+  "name": "Ferryboat liner",
+  "wookieepedia_title": "Ferryboat liner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ferryboat_liner",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Ferryboat Liner was a civilian light vessel in use during the Galactic Civil War, manufactured by the SoroSuub Corporation.",
+  "data": {
+    "name": "Ferryboat liner",
+    "manufacturer": "SoroSuub Corporation",
+    "model": "Ferryboat liner",
+    "type": "Transport",
+    "length": "363 meters",
+    "shield_gen": "Rated 200 SBD",
+    "hull": "Rated 152 RU",
+    "armament": "None",
+    "crew": "98",
+    "passengers": "500",
+    "role": "Passenger liner",
+    "affiliation": [
+      "Civilian",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

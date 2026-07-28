@@ -1,0 +1,43 @@
+{
+  "name": "Taul",
+  "wookieepedia_title": "Taul",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Taul",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Taul was an acidic planet in the galaxy's Outer Rim Territories, in grid square J-18 on the Standard Galactic Grid, inhabited by several dangerous creatures, such as the steel-eating spice spiders.",
+  "lead_paragraphs": [
+    "Taul was an acidic planet in the galaxy's Outer Rim Territories, in grid square J-18 on the Standard Galactic Grid, inhabited by several dangerous creatures, such as the steel-eating spice spiders.",
+    "During the Cold War, the Sterdic Star, a Resistance Sphyrna-class Hammerhead corvette commanded by Resistance Captain Hoff and carrying droids C-3PO, O-MR1, medical droid 2MED2, construction droid CO-34, VL-44, and security droid PZ-99 crashed on Taul, and the droids had to fend off native creatures such as spice spiders. Only C-3PO survived."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Taul",
+    "region": "Outer Rim Territories",
+    "sector": "Kriz sector",
+    "system": "Gunthar system",
+    "coordinates": "J-18",
+    "moons": "At least 3",
+    "routes": "Lipsec Run",
+    "atmosphere": "Toxic",
+    "terrain": [
+      "Acidic",
+      "Deserts",
+      "Rocky"
+    ],
+    "fauna": [
+      "Can-cell",
+      "Spice spider",
+      "Thidaxx"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Taul",
+    "x": -1664.2,
+    "y": -13178.7,
+    "z": -158.3,
+    "region": "Outer Rim",
+    "grid": "J-18"
+  },
+  "scraped": "2026-07-03"
+}

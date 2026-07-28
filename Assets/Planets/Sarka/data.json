@@ -1,0 +1,65 @@
+{
+  "name": "Sarka",
+  "wookieepedia_title": "Sarka",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sarka",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sarka was a planet located in the galaxy's Mid Rim, in grid square Q-8 on the Standard Galactic Grid. It was the homeworld of the reptilian Sarkan species. By the time of the Galactic Civil War, Sarka was ruled by Queen Zil.",
+  "lead_paragraphs": [
+    "Sarka was a planet located in the galaxy's Mid Rim, in grid square Q-8 on the Standard Galactic Grid. It was the homeworld of the reptilian Sarkan species. By the time of the Galactic Civil War, Sarka was ruled by Queen Zil."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Sarka",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Sarka sector",
+    "system": "Sarka system",
+    "coordinates": "Q-8",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Caves",
+      "Jungles",
+      "Mountains",
+      "Rivers",
+      "Waterfalls"
+    ],
+    "interest": [
+      "Sarkan gem mine",
+      "Palace of the Queen of the Sarkans"
+    ],
+    "species": "Sarkan",
+    "exports": [
+      "Aqua jewel",
+      "Corusca gem"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sarkan",
+      "directory": "Sarkan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Sarkan",
+      "directory": "Sarkan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sarka",
+    "x": 8824.5,
+    "y": 2265.1,
+    "z": 194.8,
+    "region": "Mid Rim",
+    "grid": "Q-8"
+  },
+  "scraped": "2026-07-03"
+}

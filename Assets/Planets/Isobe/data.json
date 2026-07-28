@@ -1,0 +1,39 @@
+{
+  "name": "Isobe",
+  "wookieepedia_title": "Isobe",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Isobe",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Isobe was a planet located in the Thustra system in the Sumitra sector of the Expansion Region. It was ruled by a royal family and produced unique Tynzo crystals.",
+  "lead_paragraphs": [
+    "Isobe was a planet located in the Thustra system in the Sumitra sector of the Expansion Region. It was ruled by a royal family and produced unique Tynzo crystals."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Isobe",
+    "region": "Expansion Region",
+    "sector": "Sumitra sector",
+    "system": "Thustra system",
+    "coordinates": "O-7",
+    "suns": "2",
+    "terrain": [
+      "Jungle",
+      "Lakes",
+      "Mountains"
+    ],
+    "fauna": "Birds",
+    "species": "Sephi",
+    "government": "Isobe royal family",
+    "exports": "Tynzo crystal"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Isobe",
+    "x": 9985.6,
+    "y": -10207.5,
+    "z": -171.5,
+    "region": "Expansion Region",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

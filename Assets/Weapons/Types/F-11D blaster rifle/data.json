@@ -1,0 +1,24 @@
+{
+  "name": "F-11D blaster rifle",
+  "wookieepedia_title": "F-11D blaster rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/F-11D_blaster_rifle",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The F-11D blaster rifle was a blaster rifle manufactured by Sonn-Blas Corporation. This ranged weapon was the successor of the older E-11 medium blaster rifle used by the Galactic Empire. It served as the standard issue weapon of First Order stormtroopers.",
+  "data": {
+    "name": "F-11D blaster rifle",
+    "manufacturer": "Sonn-Blas Corporation",
+    "model": "F-11D",
+    "type": "Blaster rifle",
+    "heritage": [
+      "E-11 medium blaster rifle",
+      "EF-11D blaster rifle"
+    ],
+    "affiliation": [
+      "First Order",
+      "  Stormtrooper Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

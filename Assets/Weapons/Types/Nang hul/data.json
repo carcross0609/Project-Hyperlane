@@ -1,0 +1,37 @@
+{
+  "name": "Nang hul",
+  "wookieepedia_title": "Nang hul",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nang_hul",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Nang hul, known in Basic as thud bugs, were a type of projectile biot engineered by the Yuuzhan Vong. They were used by Yuuzhan Vong warriors, who would throw them at victims. If the thud bug missed its target, it would fly in a loop back to its warrior.",
+  "data": {
+    "name": "Nang hul",
+    "type": "Biologically engineered throwing weapon",
+    "culture": "Yuuzhan Vong",
+    "creators": "Yuuzhan Vong",
+    "locations": [
+      "Belkadan",
+      "  ExGal-4 listening post",
+      "Lok",
+      "  Brogar's"
+    ],
+    "cost": "800 credits (Illegal)",
+    "shape": "Disc-shaped",
+    "size": "Fist-sized",
+    "weight": "0.5 kg",
+    "capacity": "Single-use but can be returned to wielder's hand",
+    "range": [
+      "Optimum: thrown up to 60 meters",
+      "Maximum: thrown up to 120 meters"
+    ],
+    "purpose": [
+      "To deal bludgeoning damage",
+      "To cause non-lethal incapacitation",
+      "To knock a target off-balance"
+    ],
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

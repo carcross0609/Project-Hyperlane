@@ -1,0 +1,56 @@
+{
+  "name": "Exar Kun's lightsaber",
+  "wookieepedia_title": "Exar Kun's lightsaber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Exar_Kun%27s_lightsaber/Legends",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "The lightsaber of Jedi Knight Exar Kun was a device that was initially created to produce a single beam of blue-white energy. However, upon his ascension to Dark Lord of the Sith, Kun redesigned his lightsaber based on instructions hidden within an antiquated Sith holocron. The finished product was a double-bladed weapon imbued with dark side energy, from which sapphire blades materialized up to 1.5 meters from either end of the hilt.",
+  "data": {
+    "name": "Exar Kun's lightsaber",
+    "model": "Sith lightsaber",
+    "type": [
+      "Single-bladed lightsaber (initially)",
+      "Double-bladed lightsaber (later modified)"
+    ],
+    "culture": [
+      "Jedi (initially)",
+      "Sith (ultimately)"
+    ],
+    "creator": "Exar Kun",
+    "created": [
+      "3997 BBY (single blade)",
+      "3996 BBY (double blade)"
+    ],
+    "discovered": [
+      "Double-blade revealed in 3996 BBY",
+      "Rediscovered by Celeste Morne in 3963 BBY"
+    ],
+    "owners": [
+      "Exar Kun",
+      "Jedi Covenant",
+      "Demagol",
+      "Jarael",
+      "Jedi Order"
+    ],
+    "hilt_shape": "Cylindrical, straight",
+    "blade_type": "Dual-phase",
+    "color": "Blue",
+    "blade_length": "0.5–1.5 meters",
+    "mods": [
+      "Second emitter matrix installed at base of hilt",
+      "Blade intensity and length adjustment controls"
+    ],
+    "protection": "Nullification resin",
+    "capacity": [
+      "Light-emitting diode at lowest setting",
+      "Full-powered lightsaber at highest setting"
+    ],
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Brotherhood of the Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

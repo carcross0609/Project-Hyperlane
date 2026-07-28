@@ -1,0 +1,133 @@
+{
+  "name": "Thyferra",
+  "wookieepedia_title": "Thyferra/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thyferra/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thyferra was a hot, humid planet located in the Polith system on the Rimma Trade Route, on which most of the galaxy's bacta was produced. It was also a major political power as bacta production was an essential commodity.",
+  "lead_paragraphs": [
+    "Thyferra was a hot, humid planet located in the Polith system on the Rimma Trade Route, on which most of the galaxy's bacta was produced. It was also a major political power as bacta production was an essential commodity."
+  ],
+  "article_sections": [
+    "Characteristics",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Thyferra",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Jaso sector",
+    "system": "Polith system",
+    "coordinates": "L-14",
+    "suns": "1: Polith",
+    "position": "4",
+    "moons": [
+      "2",
+      "  The largest"
+    ],
+    "routes": [
+      "Rimma Trade Route",
+      "Shapani Bypass"
+    ],
+    "lengthday": "21.3 standard hours",
+    "lengthyear": "479 local days",
+    "class": "Terrestrial",
+    "diameter": "10,221 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Tropical",
+    "gravity": "Standard",
+    "terrain": [
+      "Cave networks",
+      "Forests",
+      "Grassy canyons",
+      "Mountains",
+      "Tropical jungles"
+    ],
+    "water": "Moist, 7%",
+    "interest": [
+      "Dlarit estate",
+      "Docking Bay 72",
+      "Morbo's Place",
+      "Plastoid Pitt",
+      "Seeqov Thranx's apartment",
+      "Xucphra Corporate Headquarters",
+      "Vrelnid"
+    ],
+    "flora": [
+      "Akonije tree",
+      "Gloan tree"
+    ],
+    "fauna": [
+      "Knytix",
+      "Vratixan blood eagle"
+    ],
+    "otherlife": [
+      "Alazhi",
+      "Xoorzi"
+    ],
+    "species": "Vratix",
+    "otherspecies": "Human",
+    "language": [
+      "Galactic Basic Standard",
+      "Vratix"
+    ],
+    "government": [
+      "Thriving Season: Planetary representative democracy",
+      "Imperial: Corporate plutocracy"
+    ],
+    "population": [
+      "117 million:",
+      "  Thriving Season:",
+      "    84% Vratix",
+      "    12% Human",
+      "    4% other",
+      "  Imperial:",
+      "    72% Vratix",
+      "    28% Human"
+    ],
+    "cities": [
+      "Xozhixi (capital)",
+      "Xucphra City"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": "Bacta",
+    "affiliation": [
+      "Galactic Republic",
+      "Darth Revan's Sith Empire",
+      "Stark Commercial Combine",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances",
+      "The Colony"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Vratix",
+      "directory": "Vratix",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Vratix",
+      "directory": "Vratix (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Thyferra",
+    "x": 989.3,
+    "y": -6633.6,
+    "z": -41.5,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

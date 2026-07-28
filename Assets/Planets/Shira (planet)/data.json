@@ -1,0 +1,37 @@
+{
+  "name": "Shira",
+  "wookieepedia_title": "Shira (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shira_%28planet%29",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Shira was a planet in the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Shira was a planet in the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Shira",
+    "region": "Outer Rim Territories",
+    "system": "Shira system",
+    "suns": "1: Shira",
+    "lengthday": "35 standard hours",
+    "lengthyear": "400 local days",
+    "atmosphere": "Type I (breathable)",
+    "terrain": "Lush jungle",
+    "species": "K'aargs",
+    "government": "Clanic structures",
+    "imports": "None",
+    "exports": "None"
+  },
+  "homeworld_of": [
+    {
+      "name": "K'aarg",
+      "directory": "K'aarg",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

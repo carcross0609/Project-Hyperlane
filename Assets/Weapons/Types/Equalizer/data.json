@@ -1,0 +1,24 @@
+{
+  "name": "Equalizer",
+  "wookieepedia_title": "Equalizer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Equalizer",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Equalizer was a shoulder-mounted ion cannon produced by SoroSuub Corporation. The weapon was designed to immobilize shielded armored fighting vehicles. The Equalizer was a disposable weapon, comprised of four two-meter tubes that each held a single ion bolt. Weighing twelve kilograms, the weapon was fired from the shoulder using the side mounted targeting gear to align the ion cannon with the target vehicle. The inbuilt sensors analyze various factors from the target, including range, speed and angle of deflection. The onboard microcomputer then used this information and adjusted each individual ion bolts' flight angle. Each ion bolt was discharged individually, and once all four shots had been fired, the weapon was discarded.",
+  "data": {
+    "name": "Equalizer",
+    "manufacturer": "SoroSuub Corporation",
+    "type": "Shoulder-launched ion cannon",
+    "cost": "5,000 credits",
+    "length": "2 meters",
+    "weight": "12 kilograms",
+    "capacity": "4",
+    "range": [
+      "3–50 meters (short range)",
+      "51–120 meters (medium range)",
+      "121–300 meters (long range)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

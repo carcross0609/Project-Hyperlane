@@ -1,0 +1,115 @@
+{
+  "name": "Kessel",
+  "wookieepedia_title": "Kessel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kessel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kessel, originally known as Xo's Eye while under Xim's empire, was a planet located in the Kessel sector, in the Outer Rim Territories, and was near the dangerous celestial bodies of the Maw. It was a prison world, and was home to the galaxy's largest glitterstim spice mining operation. Under Imperial rule, slave labor was in extensive use.",
+  "lead_paragraphs": [
+    "Kessel, originally known as Xo's Eye while under Xim's empire, was a planet located in the Kessel sector, in the Outer Rim Territories, and was near the dangerous celestial bodies of the Maw. It was a prison world, and was home to the galaxy's largest glitterstim spice mining operation. Under Imperial rule, slave labor was in extensive use.",
+    "The planet was close to Little Kessel and had a single moon, which was destroyed by Tol Sivron using the Death Star prototype."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Imperial period",
+    "  Galactic Civil War",
+    "  New Republic era",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Kessel",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Kessel system",
+    "coordinates": "T-10",
+    "suns": "1: Kessa",
+    "moons": [
+      "Modern: 0",
+      "Historic: 1",
+      "Garrison Moon"
+    ],
+    "routes": [
+      "Kessel Run",
+      "Kessel Trade Corridor",
+      "Rycar's Run"
+    ],
+    "lengthday": "26 standard hours",
+    "lengthyear": "322 local days",
+    "class": "Terrestrial",
+    "diameter": "6,632-7,980 Kilometers",
+    "atmosphere": "Type III (breath mask required); artificially generated",
+    "climate": "Cold and dry with thin atmosphere; occasionally smoggy",
+    "gravity": "0.82 Standard",
+    "terrain": [
+      "Alkali flats",
+      "Barren rocky mountains"
+    ],
+    "interest": [
+      "Abandoned mine",
+      "Ancient machinery",
+      "Detention Center A",
+      "Detention Center B",
+      "Detention Center C",
+      "Calrissian-Nunb Mines",
+      "Spice Mines of Kessel"
+    ],
+    "flora": [
+      "Kesselian tree"
+    ],
+    "fauna": [
+      "Bogey",
+      "Energy spider",
+      "Taras-chi"
+    ],
+    "otherspecies": [
+      "Human",
+      "Many alien species"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Military administration",
+    "population": [
+      "11,000:",
+      "  700 (military and administrative)",
+      "10,400 (prisoners)",
+      "  22% Humans",
+      "  78% Other"
+    ],
+    "demonym": "Kesselian",
+    "cities": "Kessendra (capital)",
+    "imports": [
+      "Foodstuffs",
+      "Machinery"
+    ],
+    "exports": "Glitterstim spice",
+    "affiliation": [
+      "Hutt Cartel",
+      "Brotherhood of Darkness",
+      "Pyke Syndicate",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances",
+      "Xim's empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kesselian",
+      "directory": "Kesselian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kessel",
+    "x": 12545.1,
+    "y": -170.5,
+    "z": 158.6,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

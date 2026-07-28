@@ -1,0 +1,38 @@
+{
+  "name": "TIE/ba Baron Space Superiority Interceptor",
+  "wookieepedia_title": "TIE/ba Baron Space Superiority Interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE/ba_Baron_Space_Superiority_Interceptor",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The TIE/ba Baron Space Superiority Interceptor, also referred to as the TIE/ba interceptor, TIE Baron, or TIE Interceptor and TIE/in was a model of TIE interceptor deployed by the First Order. One ship was used by Major Elrik Vonreg during the Cold War in his encounters with the New Republic and the Resistance.",
+  "data": {
+    "name": "TIE/ba Baron Space Superiority Interceptor",
+    "manufacturer": "Sienar-Jaemus Fleet Systems",
+    "line": "TIE series",
+    "model": "TIE/ba Baron Space Superiority Interceptor",
+    "type": "Starfighter",
+    "length": "10.3 meters (34 feet)",
+    "mglt": "145 MGLT (Vonreg's TIE Baron)",
+    "max_speed": "1,250 kph",
+    "engine": "Twin ion engines",
+    "hyperdrive": "Class 2",
+    "hdsystem": "Equipped",
+    "poweroutput": "Pre-charged deuterium power cells",
+    "shield_gen": "Equipped",
+    "maincomp": "Torplex experimental flight computer (Vonreg's TIE)",
+    "armament": [
+      "L-s9.7 laser cannons",
+      "Projectile launchers",
+      "  Mag-pulse warheads",
+      "  ST7 concussion missiles"
+    ],
+    "escapepods": "Ejector seat",
+    "crew": "Pilot (1)",
+    "role": "Combat",
+    "affiliation": [
+      "First Order",
+      "  First Order starfighter corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

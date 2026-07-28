@@ -1,0 +1,41 @@
+{
+  "name": "Vindalia",
+  "wookieepedia_title": "Vindalia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vindalia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vindalia was a planet located within the Vindalia system of the Colonies and the homeworld of the Vindalian species.",
+  "lead_paragraphs": [
+    "Vindalia was a planet located within the Vindalia system of the Colonies and the homeworld of the Vindalian species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vindalia",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "system": "Vindalia system",
+    "coordinates": "L-13",
+    "routes": "Shapani Bypass",
+    "species": "Vindalian",
+    "population": "500 million to 1 billion (c. 25 ABY)",
+    "demonym": "Vindalian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vindalian",
+      "directory": "Vindalian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vindalia",
+    "x": 213.7,
+    "y": -5228.6,
+    "z": -95.1,
+    "region": "Colonies",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

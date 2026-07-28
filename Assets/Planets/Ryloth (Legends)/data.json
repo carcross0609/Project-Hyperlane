@@ -1,0 +1,179 @@
+{
+  "name": "Ryloth",
+  "wookieepedia_title": "Ryloth/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ryloth/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ryloth, also known as Twi'lek, and Twi'lek Prime, was the harsh, rocky homeworld of the Twi'leks, an Outer Rim Territories world located on the Corellian Run and forming one endpoint of the Death Wind Corridor. One side of the planet perpetually faced its sun and the other remained in darkness, a phenomenon known as tidal locking. The dayside was referred to as the Bright Lands and the night-side was known as the Nightlands.",
+  "lead_paragraphs": [
+    "Ryloth, also known as Twi'lek, and Twi'lek Prime, was the harsh, rocky homeworld of the Twi'leks, an Outer Rim Territories world located on the Corellian Run and forming one endpoint of the Death Wind Corridor. One side of the planet perpetually faced its sun and the other remained in darkness, a phenomenon known as tidal locking. The dayside was referred to as the Bright Lands and the night-side was known as the Nightlands."
+  ],
+  "article_sections": [
+    "Description",
+    "  Fauna",
+    "History",
+    "  Life of enslavement",
+    "  Ryll",
+    "  Jedi Knights on Ryloth",
+    "  Ryloth in the Republic",
+    "  Clone Wars",
+    "  Galactic Empire",
+    "  After the Empire"
+  ],
+  "data": {
+    "name": "Ryloth",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice",
+      "Trailing Sectors"
+    ],
+    "sector": "Gaulus sector",
+    "system": "Ryloth system",
+    "coordinates": "R-17",
+    "suns": "1: Ryloth",
+    "position": "2",
+    "moons": [
+      "Unidentified moon",
+      "4 other moons"
+    ],
+    "routes": [
+      "Corellian Run",
+      "Corellian Skip Run",
+      "Death Wind Corridor",
+      "Old Corellian Run",
+      "Ryloth Road"
+    ],
+    "lengthday": "30 standard hours",
+    "lengthyear": "305 standard days",
+    "class": "Terrestrial",
+    "diameter": "10,600 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Varied:",
+      "  Subarctic",
+      "  Temperate",
+      "  Arid"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Valleys",
+      "Deserts",
+      "Tundra",
+      "Ice cap on night side",
+      "Forests",
+      "Plains"
+    ],
+    "water": [
+      "Underground rivers",
+      "Springs"
+    ],
+    "interest": [
+      "Bright Lands",
+      "Crater Sea",
+      "Floating Rock Gardens",
+      "Fungus Pit",
+      "Great Tusks",
+      "Leb'Reen",
+      "Hunvar's Spire",
+      "Joreikna",
+      "Junkard",
+      "Lohema",
+      "Lonely Five Range",
+      "Nightlands",
+      "Ryloth's northern continent",
+      "Sith Academy",
+      "The Enclave",
+      "The Brightlands Podracing Track"
+    ],
+    "fauna": [
+      "Bibfort",
+      "Blurrg",
+      "Can-cell",
+      "Doashim",
+      "Gutkurr",
+      "Lylek",
+      "Mazer",
+      "Rycrit"
+    ],
+    "otherlife": [
+      "Gugal bloom",
+      "Glow-fungus",
+      "Munch-fungus"
+    ],
+    "species": "Twi'lek",
+    "otherspecies": [
+      "Devaronian",
+      "Human",
+      "Jawa",
+      "Rodian",
+      "Others"
+    ],
+    "language": [
+      "Basic",
+      "Twi'leki"
+    ],
+    "government": "Feudal meritocracy",
+    "population": [
+      "1.5 billion:",
+      "  76% Twi'lek",
+      "  24% other"
+    ],
+    "demonym": [
+      "Rylothan",
+      "Rylothian"
+    ],
+    "cities": [
+      "Kala'uun and Lessu (capitals)",
+      "Sal'kaasa",
+      "Kala'din",
+      "Leb'Reen",
+      "Nabat",
+      "Resdin"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Medicine",
+      "Technology"
+    ],
+    "exports": [
+      "Ryll",
+      "Slaves"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zann Consortium",
+      "Alliance of Free Planets",
+      "New Republic",
+      "Diversity Alliance",
+      "Cooperative Council of Independent Planetary Governments",
+      "Galactic Federation of Free Alliances",
+      "Darth Krayt's Galactic Empire",
+      "Galactic Alliance Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Twi'lek",
+      "directory": "Twi'lek",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Twi'lek",
+      "directory": "Twi'lek (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ryloth",
+    "x": 10069.2,
+    "y": -11430.3,
+    "z": 199.6,
+    "region": "Outer Rim",
+    "grid": "R-17"
+  },
+  "scraped": "2026-07-03"
+}

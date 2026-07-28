@@ -1,0 +1,26 @@
+{
+  "name": "Flak gun",
+  "wookieepedia_title": "Flak gun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Flak_gun",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Flak guns, also known as flak cannons, were starship and vehicle-mounted weapons that could fire thousands of dangerous tiny objects such as shrapnel, microexplosive pellets, or inert durasteel flechettes. Flak shells could burst at a set distance after being fired and would spread their contents in a dense cloud that could tear small, lightly armored airspeeders or even starfighters to shreds in an instant.",
+  "data": {
+    "name": "Flak gun",
+    "type": "Mass-driver cannon",
+    "cost": [
+      "6,000 credits (Light Flak Cannon)",
+      "8,000 credits (Medium Flak Cannon)",
+      "10,000 credits (Heavy Flak Cannon)"
+    ],
+    "range": "Long-range (Heavy Flak Cannons)",
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "  Confederacy of Independent Systems Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

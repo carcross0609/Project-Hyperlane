@@ -1,0 +1,45 @@
+{
+  "name": "Kassido",
+  "wookieepedia_title": "Kassido",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kassido",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kassido was a terrestrial world located in the Kassido system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Senex-Juvex Loop hyperlane linked it to the Manforgon and Ossiathora systems, while the Kassido Bypass and the D'Aelgoth Trade Route connected it to the Yhifar system and the D'Aelgoth sector's Selenius system, respectively.",
+  "lead_paragraphs": [
+    "Kassido was a terrestrial world located in the Kassido system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Senex-Juvex Loop hyperlane linked it to the Manforgon and Ossiathora systems, while the Kassido Bypass and the D'Aelgoth Trade Route connected it to the Yhifar system and the D'Aelgoth sector's Selenius system, respectively.",
+    "Kassido was a sprawling urban world and had one of largest planetary populations in the Senex-Juvex region. It was the homeworld of the aristocratic House Kassido and engaged in extensive trade with star systems in the D'Aelgoth sector.",
+    "By the date 13:4:18, Jonava Billane and Thrynka Padaunete, the leader of the People's Inquest watchgroup, were on Kassido, where the pair reviewed casting auditions for a holofilm being made on the subject of Billane's daughter Ludi and her adoption by the Jedi Order. That fact was later noted by an issue of the CoCo District Edition of the HoloNet News."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kassido",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Juvex sector"
+    ],
+    "system": "Kassido system",
+    "coordinates": "L-17",
+    "routes": [
+      "D'Aelgoth Trade Route",
+      "Kassido Bypass",
+      "Senex-Juvex Loop"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Urban",
+    "affiliation": "House Kassido"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kassido",
+    "x": 176.0,
+    "y": -11817.0,
+    "z": -329.6,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

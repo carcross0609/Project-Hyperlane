@@ -1,0 +1,37 @@
+{
+  "name": "World",
+  "wookieepedia_title": "World (tripod home world)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/World_%28tripod_home_world%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "World was the indigenous name for the home world of the Tripod species. Its exact location was unknown, but it was believed to be situated on the Outer Rim, somewhere between Pzob and Belsavis.",
+  "lead_paragraphs": [
+    "World was the indigenous name for the home world of the Tripod species. Its exact location was unknown, but it was believed to be situated on the Outer Rim, somewhere between Pzob and Belsavis.",
+    "A number of stormtroopers were stationed on the planet in preparation for the Eye of Palpatine mission to eliminate the Jedi enclave located in Plawal, a city on Belsavis. When the ship was disabled by Callista Ming, the stormtroopers remained on the planet where they eventually died. When finally reactivated, the Eye of Palpatine stopped at World, where it sent a shuttle to pick up a number of the native Tripods to replace the expected stormtroopers."
+  ],
+  "article_sections": [],
+  "data": {
+    "no_grid_check": "1",
+    "name": "World",
+    "region": "Outer Rim Territories",
+    "species": "Tripods",
+    "otherspecies": "Humans",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tripod",
+      "directory": "Tripod",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "World",
+    "x": -2155.3,
+    "y": 9991.3,
+    "z": 183.0,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

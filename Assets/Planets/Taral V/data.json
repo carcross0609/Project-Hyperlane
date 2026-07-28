@@ -1,0 +1,45 @@
+{
+  "name": "Taral V",
+  "wookieepedia_title": "Taral V",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Taral_V",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Taral V was a planet controlled by the Sith Empire during the Cold War. During the Cold War, a Galactic Republic strike team was sent to Taral V to retrieve information on a missing Jedi. The planet was home to many dangerous species.",
+  "lead_paragraphs": [
+    "Taral V was a planet controlled by the Sith Empire during the Cold War. During the Cold War, a Galactic Republic strike team was sent to Taral V to retrieve information on a missing Jedi. The planet was home to many dangerous species."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Taral V",
+    "region": "Outer Rim Territories",
+    "sector": "Calamari sector",
+    "system": "Taral system",
+    "coordinates": "U-7",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Tropical",
+    "terrain": "Hills, mountains, and grassy plains",
+    "interest": "Taral V Imperial fortress",
+    "fauna": [
+      "Gundark",
+      "Jurgoran",
+      "Lurker",
+      "Vine cat"
+    ],
+    "otherspecies": "Humans",
+    "affiliation": "Sith Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Taral V",
+    "x": 13679.7,
+    "y": 4359.7,
+    "z": -20.6,
+    "region": "Outer Rim",
+    "grid": "U-7"
+  },
+  "scraped": "2026-07-03"
+}

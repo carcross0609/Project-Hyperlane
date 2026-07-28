@@ -1,0 +1,43 @@
+{
+  "name": "Council",
+  "wookieepedia_title": "Council (planet)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Council_%28planet%29/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The planet Council served as a governmental meeting place for Nothoiin Colony representatives, who made decisions affecting the Near-Human Nothoiin civilization. Council was located in the Anoat sector of the Outer Rim Territories and neighbored the Nothoiin homeworld along the Nothoiin Corridor hyperlane.",
+  "lead_paragraphs": [
+    "The planet Council served as a governmental meeting place for Nothoiin Colony representatives, who made decisions affecting the Near-Human Nothoiin civilization. Council was located in the Anoat sector of the Outer Rim Territories and neighbored the Nothoiin homeworld along the Nothoiin Corridor hyperlane."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Council",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Greater Javin",
+      "  Anoat sector"
+    ],
+    "system": "Council system",
+    "coordinates": "K-18",
+    "routes": "Nothoiin Corridor",
+    "class": "Terrestrial",
+    "otherspecies": "Nothoiin",
+    "government": "Representative",
+    "affiliation": "Nothoiin Colony"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Council",
+    "x": -1235.8,
+    "y": -12611.6,
+    "z": 186.9,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

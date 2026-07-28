@@ -1,0 +1,36 @@
+{
+  "name": "T-21 light repeating blaster",
+  "wookieepedia_title": "T-21 light repeating blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T-21_light_repeating_blaster",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The T-21 light repeating blaster, also known as the T-21A, T-21 heavy blaster, or simply the T-21 blaster rifle, was a model of light repeating blaster manufactured by BlasTech Industries. After being used by the Grand Army of the Republic during the Clone Wars, with at least two clone troopers wielding T-21s during the First Battle of Geonosis in 22 BBY, it was used by some of the Galactic Empire's Stormtrooper Corps. It was a rapid fire weapon, that was accurate out to long ranges, although its suppressive fire capabilities were limited by its low capacity, as it only had enough power to fire 30 shots; to bypass this flaw, it could be hooked up to a generator for sustained fire capabilities.",
+  "data": {
+    "name": "T-21 light repeating blaster",
+    "manufacturer": "BlasTech Industries",
+    "model": "T-21",
+    "type": "Light repeating blaster",
+    "cost": "2000 credits",
+    "shape": "Rifle-shaped",
+    "weight": "4.5 kilograms",
+    "capacity": [
+      "30 shots (Without external generator)",
+      "Almost unlimited (With external generator)"
+    ],
+    "range": [
+      "150 meters (optimal)",
+      "300 meters (maximum)"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "Galactic Empire",
+      "  Stormtrooper Corps",
+      "Neo-Imperial forces",
+      "  Gideon's Imperial remnant",
+      "  Janu Coin's Imperial remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Raydonia",
+  "wookieepedia_title": "Raydonia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Raydonia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Raydonia was a planet in the Outer Rim Territories. The Human colonists who lived there were known as Raydonians.",
+  "lead_paragraphs": [
+    "Raydonia was a planet in the Outer Rim Territories. The Human colonists who lived there were known as Raydonians."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Raydonia",
+    "region": "Outer Rim Territories",
+    "sector": "Belsmuth sector",
+    "system": "Raydonia system",
+    "coordinates": "O-6",
+    "moons": "2",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Jungles"
+    ],
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Colonial",
+    "demonym": "Raydonian",
+    "cities": "Raydonian settlement",
+    "imports": [
+      "Food",
+      "Supplies"
+    ],
+    "exports": "None",
+    "affiliation": "Neutral"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Raydonia",
+    "x": 5688.0,
+    "y": 5045.5,
+    "z": 122.8,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

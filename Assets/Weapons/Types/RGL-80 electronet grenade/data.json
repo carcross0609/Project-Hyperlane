@@ -1,0 +1,30 @@
+{
+  "name": "RGL-80 electronet grenade",
+  "wookieepedia_title": "RGL-80 electronet grenade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RGL-80_electronet_grenade",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The RGL-80 electronet grenade, also known as an electronet grenade was a type of grenade designed by Golan Arms to stun and capture targets.",
+  "data": {
+    "name": "RGL-80 electronet grenade",
+    "manufacturer": "Golan Arms",
+    "type": "Stun net deploying antipersonnel wire-guided grenade",
+    "culture": "Bounty hunters",
+    "cost": "2,000 credits (magazine)",
+    "shape": "Grenade-style canister",
+    "size": "Small to medium",
+    "material": [
+      "Inside made up of a webbing of sticky, current-conducting",
+      "fibers"
+    ],
+    "weight": "5 kg",
+    "capacity": "Five grenades in force-fed magazine",
+    "range": [
+      "2 meter diameter (net size)",
+      "500 meters (maximum)"
+    ],
+    "purpose": "To stun and capture targets"
+  },
+  "scraped": "2026-07-03"
+}

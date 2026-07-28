@@ -1,0 +1,66 @@
+{
+  "name": "Artorias",
+  "wookieepedia_title": "Artorias",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Artorias",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Artorias was a peace-loving Outer Rim planet with few defenses. In 25 ABY, during the onset of the Yuuzhan Vong War, the world was invaded and conquered by the titular race.",
+  "lead_paragraphs": [
+    "Artorias was a peace-loving Outer Rim planet with few defenses. In 25 ABY, during the onset of the Yuuzhan Vong War, the world was invaded and conquered by the titular race."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Artorias",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Myto sector",
+    "system": "Artorias system",
+    "coordinates": "K-3",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Oceans"
+    ],
+    "interest": [
+      "Artorian safe haven",
+      "Great Sea of Artorias",
+      "Artorias communications center"
+    ],
+    "language": "Basic",
+    "government": "Monarchy",
+    "population": [
+      "Humans",
+      "Gungans",
+      "Twi'leks"
+    ],
+    "demonym": "Artorian",
+    "affiliation": [
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Artorian",
+      "directory": "Artorian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Artorias",
+    "x": -194.3,
+    "y": 9171.7,
+    "z": -302.2,
+    "region": "Outer Rim",
+    "grid": "K-3"
+  },
+  "scraped": "2026-07-03"
+}

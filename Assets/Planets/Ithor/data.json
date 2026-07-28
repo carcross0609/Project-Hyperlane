@@ -1,0 +1,69 @@
+{
+  "name": "Ithor",
+  "wookieepedia_title": "Ithor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ithor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ithor was a planet located in the galaxy's Mid Rim that was the homeworld of the Ithorian species, who spoke Ithorese. The expansive jungles of Ithor were considered to be sacred, and hunting there was highly illegal.",
+  "lead_paragraphs": [
+    "Ithor was a planet located in the galaxy's Mid Rim that was the homeworld of the Ithorian species, who spoke Ithorese. The expansive jungles of Ithor were considered to be sacred, and hunting there was highly illegal."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Ithor",
+    "region": [
+      "Mid Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Ottega sector",
+    "system": "Ottega system",
+    "coordinates": "M-6",
+    "suns": "1: Ithorian sun",
+    "routes": "Celanon Spur",
+    "terrain": "Jungles",
+    "interest": "Mother Jungle",
+    "flora": [
+      "Johinuu tree",
+      "N'lor tree",
+      "Toscwon's tongue alocasia"
+    ],
+    "fauna": [
+      "Molsume",
+      "Toscwon"
+    ],
+    "species": "Ithorian",
+    "language": "Ithorese",
+    "demonym": "Ithorian",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bafforr tree",
+      "directory": "Bafforr tree",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Ithorian",
+      "directory": "Ithorian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ithorian",
+      "directory": "Ithorian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ithor",
+    "x": 1663.2,
+    "y": 4825.1,
+    "z": -76.5,
+    "region": "Mid Rim",
+    "grid": "M-6"
+  },
+  "scraped": "2026-07-03"
+}

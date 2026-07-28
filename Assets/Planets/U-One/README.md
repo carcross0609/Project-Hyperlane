@@ -1,0 +1,14 @@
+# U-One
+
+**Continuity:** Legends  
+**Source:** [U-One](https://starwars.fandom.com/wiki/U-One)
+
+U-One was a legendary planet, populated solely by droids.
+
+It could not be found on any Hyperspace map, and was entirely self-sufficient, with no need for contact with the larger galaxy. Any being who came upon the planet, or attempted to contact those on the surface, was forbidden to land.
+
+Legends differed over the geography of the planet; some said that it was a pleasant place, with plains, gentle hills, and whispering brooks, while others claimed it was an inhospitable rock, wracked with earthquakes and volcanic eruptions.
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

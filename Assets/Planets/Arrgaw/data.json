@@ -1,0 +1,49 @@
+{
+  "name": "Arrgaw",
+  "wookieepedia_title": "Arrgaw",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arrgaw",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arrgaw was a major trade planet located in the Expansion Region's Kira sector. A world orbited by impressive trade rings and featuring vast expanses on its surface taken up by warehouses and other corporate structures, Arrgaw lay at the intersection of two important hyperlanes, the Hydian Way and the Harrin Trade Corridor.",
+  "lead_paragraphs": [
+    "Arrgaw was a major trade planet located in the Expansion Region's Kira sector. A world orbited by impressive trade rings and featuring vast expanses on its surface taken up by warehouses and other corporate structures, Arrgaw lay at the intersection of two important hyperlanes, the Hydian Way and the Harrin Trade Corridor.",
+    "During the era of the Alsakan Conflicts, Arrgaw's strategic position allowed it to become an important trade center supporting the wide-spread settlement of the Trailing Sectors. The planet was known as one of the wealthiest worlds of the Expansion Region millennia later, and refineries at Arrgaw were used to process the highly unstable nova crystals—basis for much of the hard currency used by the New Republic."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Arrgaw",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Arrgaw system",
+    "coordinates": "N-16",
+    "routes": [
+      "Harrin Trade Corridor",
+      "Hydian Way"
+    ],
+    "class": "Terrestrial",
+    "interest": [
+      "Warehouses",
+      "Corporate administrative spires",
+      "Refineries",
+      "Orbital trade rings"
+    ],
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Arrgaw",
+    "x": 3330.0,
+    "y": -9085.8,
+    "z": 25.4,
+    "region": "Expansion Region",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Derra IV",
+  "wookieepedia_title": "Derra IV/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Derra_IV/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Derra IV, or Derra Four, also known simply as Derra, was a planet in the Derra system of the Mikaster sector, located in the Expansion Region. It was a minor world of little value and had been relatively overlooked by the Empire early in the Galactic Civil War. This made it an ideal site for Rebel Alliance operations.",
+  "lead_paragraphs": [
+    "Derra IV, or Derra Four, also known simply as Derra, was a planet in the Derra system of the Mikaster sector, located in the Expansion Region. It was a minor world of little value and had been relatively overlooked by the Empire early in the Galactic Civil War. This made it an ideal site for Rebel Alliance operations."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Derra IV",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Mikaster sector",
+    "system": "Derra system",
+    "coordinates": "N-15",
+    "position": "4th",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "interest": "Unidentified Rebel base",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Governorship",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Derra IV",
+    "x": 3075.0,
+    "y": -7789.7,
+    "z": 376.1,
+    "region": "Expansion Region",
+    "grid": "N-15"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Gand",
+  "wookieepedia_title": "Gand",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gand",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Gand were an insectoid sentient species native to the planet Gand. One subspecies breathed ammonia, forcing them to wear respirators to survive in oxygen-rich atmospheres. A notable member of this species was Zuckuss, a bounty hunter who was one of the first traditional findsmen to leave his homeworld.",
+  "data": {
+    "name": "Gand",
+    "designation": "Sentient",
+    "class": "Insectoid",
+    "subspecies": [
+      "Breathing Gand",
+      "Non-breathing Gand"
+    ],
+    "skincolor": "Brown",
+    "eyecolor": "Silver",
+    "origin": "Gand",
+    "language": "Gand"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Gand (planet)"
+}

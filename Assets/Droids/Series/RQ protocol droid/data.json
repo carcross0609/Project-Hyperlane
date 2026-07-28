@@ -1,0 +1,44 @@
+{
+  "name": "RQ protocol droid",
+  "wookieepedia_title": "RQ protocol droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RQ_protocol_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The RQ protocol droid, also known as an RQ unit or Lothal protocol droid, was a model of protocol droid manufactured by Lothal Logistics Limited.",
+  "data": {
+    "name": "RQ protocol droid",
+    "manufacturer": "Lothal Logistics Limited",
+    "homeworld": "Lothal",
+    "class": "Protocol droid",
+    "degree": "Class three",
+    "height": "1.85 meters",
+    "mass": "75 kilograms",
+    "sensor": [
+      "Blue",
+      "Orange",
+      "White",
+      "Yellow"
+    ],
+    "plating": [
+      "Black",
+      "Blue",
+      "Brown",
+      "Gold",
+      "Gray",
+      "Green",
+      "Orange",
+      "Silver"
+    ],
+    "equipment": [
+      "TranLang II communications module",
+      "Force pikes"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Senate",
+      "Lothal Port Authority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

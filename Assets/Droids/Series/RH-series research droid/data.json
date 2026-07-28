@@ -1,0 +1,25 @@
+{
+  "name": "RH-series research droid",
+  "wookieepedia_title": "RH-series research droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RH-series_research_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The RH-series research droid was a model of science droid. Manufactured by Cybot Galactica, the droid was designed as a research assistant and mobile database. The RH-series proved to be unpopular, thus resulting in only a few thousand such droids being produced. The Alliance R&D division of the Rebel Alliance used many RH-series research droids during the Galactic Civil War.",
+  "data": {
+    "name": "RH-series research droid",
+    "manufacturer": "Cybot Galactica",
+    "class": "Science droid",
+    "cost": "11,000 credits",
+    "height": "Under 2 meters",
+    "equipment": [
+      "Built-in science database",
+      "Scientific tools"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "  Alliance Military Research and Development"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

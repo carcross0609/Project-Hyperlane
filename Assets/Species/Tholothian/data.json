@@ -1,0 +1,32 @@
+{
+  "name": "Tholothian",
+  "wookieepedia_title": "Tholothian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tholothian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Tholothians were a species of sentient near-humans native to the planet Tholoth. They could be distinguished from typical humans by their partial colorful skin pigmentation, their scaled craniums and fleshy white, blue, or red tendrils that sprouted from their skullcaps. Jedi Masters Adi Gallia, Stass Allie, Jedi Knight Indeera Stokes, former Padawan Ty Yorrick, and the youngling Katooni were members of the species.",
+  "data": {
+    "name": "Tholothian",
+    "designation": "Sentient",
+    "class": "Near-human",
+    "skincolor": [
+      "Dark",
+      "Light"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Indigo"
+    ],
+    "distinctions": [
+      "Scaled cranium",
+      "Fleshy tendrils"
+    ],
+    "origin": "Tholoth",
+    "language": [
+      "Tholothian",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Tholoth"
+}

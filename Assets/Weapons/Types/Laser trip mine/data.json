@@ -1,0 +1,20 @@
+{
+  "name": "Laser trip mine",
+  "wookieepedia_title": "Laser trip mine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Laser_trip_mine",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Laser trip mines, also known as personnel mines, were powerful explosive devices used for infantry combat during the Galactic Civil War between the Galactic Empire and the Rebel Alliance. Projecting a laser trigger upon activation, the mine would detonate when enemy soldier crossed the tripwire. The laser trip mine also featured a built-in scrambler, jamming nearby enemy scanners.",
+  "data": {
+    "name": "Laser trip mine",
+    "type": "Mine",
+    "shape": "Triangular, with circular back",
+    "size": "Handheld",
+    "purpose": [
+      "Infantry combat",
+      "Signal jammer"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+# Anselmi
+
+**Continuity:** Canon  
+**Source:** [Anselmi](https://starwars.fandom.com/wiki/Anselmi)
+
+The Anselmi were a species of blue-skinned humanoids. They were one of the two sentient species that called the ocean planet Glee Anselm their home. Long before the Clone Wars, the Anselmi were the dominant species on Glee Anselm. They had a vast empire above the ocean, and dams surrounding their land pushed back the ocean. However, their empire eventually fell, and the Anselmi populace became scarce. At some point afterward, the Anselmi lost their capability to breathe underwater. Particularly among extremists of their species, Anselmi resented their aquatic cousins, the Nautolans, whom they referred to as "gill heads." Given the scarcity of land on Glee Anselm, the Anselmi strove to survive.
+
+## Biology & Culture
+
+- **Name:** Anselmi
+- **Designation:** Sentient
+- **Skincolor:** Blue
+- **Distinctions:**
+  - Four-fingered hands
+  - Three-toed feet
+  - Thin tail
+  - Twin antenna-like growths
+- **Origin:** Glee Anselm
+- **Habitat:** Land
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

@@ -1,0 +1,45 @@
+{
+  "name": "Zeffliffl",
+  "wookieepedia_title": "Zeffliffl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zeffliffl",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zeffliffl was a planet in the Atrivis sector of the Outer Rim Territories, located on the Relgim Run. It was home to the Zeffliffl species, which evolved in salt water seas in the planet's southern hemisphere. The Zeffliffl had established contact with the wider galaxy prior to 14 ABY.",
+  "lead_paragraphs": [
+    "Zeffliffl was a planet in the Atrivis sector of the Outer Rim Territories, located on the Relgim Run. It was home to the Zeffliffl species, which evolved in salt water seas in the planet's southern hemisphere. The Zeffliffl had established contact with the wider galaxy prior to 14 ABY."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Zeffliffl",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Atrivis sector",
+    "system": "Markbee's Star system",
+    "coordinates": "L-5",
+    "suns": "1: Markbee's Star",
+    "position": "4",
+    "terrain": "Oceans",
+    "species": "Zeffliffl"
+  },
+  "homeworld_of": [
+    {
+      "name": "Zeffliffl",
+      "directory": "Zeffliffl (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zeffliffl",
+    "x": 1110.1,
+    "y": 7156.2,
+    "z": 74.9,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

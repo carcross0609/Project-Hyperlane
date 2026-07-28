@@ -1,0 +1,29 @@
+{
+  "name": "Static pike",
+  "wookieepedia_title": "Static pike/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Static_pike/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Geonosian static pike, also known as the picador's spear or simply static pike, was a melee weapon used by Geonosian Picadors and produced by Gordarl Weaponsmiths on Geonosis.",
+  "data": {
+    "name": "Static pike",
+    "manufacturer": "Gordarl Weaponsmiths",
+    "model": "Picador's spear",
+    "type": "Electrical melee weapon",
+    "culture": "Geonosian Picadors",
+    "locations": "Petranaki arena",
+    "cost": "300 to 650 credits",
+    "shape": "Long-handled spear",
+    "weight": "1.5kg to 1.8kg",
+    "range": [
+      "4 meters melee range",
+      "Thrown weapon range"
+    ],
+    "purpose": [
+      "Combat",
+      "Herding animals"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

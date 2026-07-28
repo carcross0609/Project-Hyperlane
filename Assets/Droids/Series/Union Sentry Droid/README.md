@@ -1,0 +1,20 @@
+# Union Sentry Droid
+
+**Kind:** Series  
+**Continuity:** Legends  
+**Source:** [Union Sentry Droid](https://starwars.fandom.com/wiki/Union_Sentry_Droid)
+
+The Union Sentry Droid, abbreviated USD, was a model of battle droid developed by the Confederacy of Independent Systems during the Clone Wars. This six-legged droid was primarily designed for use on worlds with rugged terrains where other droids would have difficulties in moving efficiently. The USD proved to be a worthy war machine but was only used for a short time since it was developed towards the end of the war. Two decades later, during the Galactic Civil War, the assassin droid HK-47 reactivated the production of Union Sentry Droids in the Neimoidian droid factory on Mustafar as part of his plan to create a droid army.
+
+## Specifications
+
+- **Name:** Union Sentry Droid
+- **Manufacturer:** Neimoidian droid factory
+- **Class:** Battle droid
+- **Affiliation:**
+  - Confederacy of Independent Systems
+  - HK-47's Droid Army
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

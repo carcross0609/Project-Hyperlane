@@ -1,0 +1,43 @@
+{
+  "name": "Ques",
+  "wookieepedia_title": "Ques",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ques",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ques was a swampy planet in the Ques system near the inner border of Hutt Space, and its population primarily consisted of scavengers, such as Dec Hansen. The axton-tarsier, the ferin, the slime crab, and the Snarlap were creatures native to Ques. A school named teacher's cabin was located on Ques.",
+  "lead_paragraphs": [
+    "Ques was a swampy planet in the Ques system near the inner border of Hutt Space, and its population primarily consisted of scavengers, such as Dec Hansen. The axton-tarsier, the ferin, the slime crab, and the Snarlap were creatures native to Ques. A school named teacher's cabin was located on Ques."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ques",
+    "region": "Hutt Space",
+    "sector": "None",
+    "system": "Ques system",
+    "coordinates": "S-8",
+    "climate": "Humid",
+    "terrain": [
+      "Forests",
+      "Glades",
+      "Swamps"
+    ],
+    "interest": "Teacher's cabin",
+    "fauna": [
+      "Axton-tarsier",
+      "Ferin",
+      "Slime crab",
+      "Snarlap"
+    ],
+    "otherspecies": "Human"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ques",
+    "x": 11637.0,
+    "y": 1545.9,
+    "z": 48.2,
+    "region": "Hutt Space",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

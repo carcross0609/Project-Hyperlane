@@ -1,0 +1,93 @@
+{
+  "name": "Zelos II",
+  "wookieepedia_title": "Zelos II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zelos_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zelos II was the second planet of the Zelos system. It was aligned with the Galactic Empire and was an important source of ores for the Imperial war machine. It was also the homeworld of the Zelosians. The Bare Forest, otherwise known as the Forest of the Walking Dead, was located in the mountains at the far north of the northern continent. The planet was orbited by four moons.",
+  "lead_paragraphs": [
+    "Zelos II was the second planet of the Zelos system. It was aligned with the Galactic Empire and was an important source of ores for the Imperial war machine. It was also the homeworld of the Zelosians. The Bare Forest, otherwise known as the Forest of the Walking Dead, was located in the mountains at the far north of the northern continent. The planet was orbited by four moons."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Zelos II",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Tyus sector",
+    "system": "Zelos system",
+    "coordinates": "N-16",
+    "suns": "1: Zelos",
+    "position": "2",
+    "moons": [
+      "Moons: 4",
+      "Bellatrig",
+      "Tanatrig",
+      "Moratrig",
+      "Nekotrig"
+    ],
+    "lengthday": "20 standard hours",
+    "lengthyear": "300 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Hills",
+      "Mountains",
+      "Seas"
+    ],
+    "interest": [
+      "Great Zelosi Sea",
+      "Bare Forest",
+      "Valley of Umbra"
+    ],
+    "fauna": [
+      "Aga",
+      "Jumper",
+      "Kemlish",
+      "Kilit",
+      "Kro"
+    ],
+    "species": "Zelosian",
+    "government": "Military dictatorship",
+    "population": "10 million",
+    "cities": [
+      "Kryndyn (capital)",
+      "Lyn",
+      "Lyrd",
+      "Drev",
+      "Tolk",
+      "Nul"
+    ],
+    "imports": [
+      "Food",
+      "Weaponry"
+    ],
+    "exports": "Raw ores",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Zelosian",
+      "directory": "Zelosian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zelos II",
+    "x": 3696.7,
+    "y": -9623.7,
+    "z": -316.7,
+    "region": "Mid Rim",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

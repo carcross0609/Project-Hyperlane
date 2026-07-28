@@ -1,0 +1,64 @@
+{
+  "name": "Koda's World",
+  "wookieepedia_title": "Koda's World",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Koda%27s_World",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Koda's World, sometimes referred to as Krin Koda after the scout of the same name, was a planet located in the Unknown Regions, in the Tarin system. It is devoid of any advanced installations, as it is home to the primitive Tempestro. This temperate planet had warm, moist, breathable air.",
+  "lead_paragraphs": [
+    "Koda's World, sometimes referred to as Krin Koda after the scout of the same name, was a planet located in the Unknown Regions, in the Tarin system. It is devoid of any advanced installations, as it is home to the primitive Tempestro. This temperate planet had warm, moist, breathable air."
+  ],
+  "article_sections": [
+    "History",
+    "Flora and fauna",
+    "Installations and civilization"
+  ],
+  "data": {
+    "name": "Koda's World",
+    "region": "Unknown Regions",
+    "system": "Tarin system",
+    "suns": "1: Tarin",
+    "position": "4/5",
+    "lengthday": "14 standard hours",
+    "lengthyear": "502 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forest",
+      "Jungle",
+      "Mountain"
+    ],
+    "water": [
+      "Moist hydrosphere",
+      "Ocean"
+    ],
+    "interest": [
+      "Tempestro temple",
+      "Tempestro village"
+    ],
+    "flora": "Trees",
+    "fauna": [
+      "Garagon",
+      "Insects",
+      "Large mammals",
+      "Reptiles"
+    ],
+    "species": "Tempestro",
+    "language": "Galactic Basic Standard",
+    "government": "Tribal leaders",
+    "population": "100,000",
+    "imports": "None",
+    "exports": "None"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tempestro",
+      "directory": "Tempestro",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

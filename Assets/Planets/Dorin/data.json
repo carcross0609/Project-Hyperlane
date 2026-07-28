@@ -1,0 +1,50 @@
+{
+  "name": "Dorin",
+  "wookieepedia_title": "Dorin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dorin",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Dorin was a planet located in the Dorin system in the Deadalis sector of the Expansion Region that was the homeworld of the Kel Dor species. Its Dorin gas and helium-rich environment meant that they were forced to rely on rebreathers, such as antiox breath masks, to survive off-world, as oxygen was deadly to them. During the Clone Wars, Jedi General Anakin Skywalker and Commander Ahsoka Tano routed Separatist forces near Dorin.",
+  "lead_paragraphs": [
+    "Dorin was a planet located in the Dorin system in the Deadalis sector of the Expansion Region that was the homeworld of the Kel Dor species. Its Dorin gas and helium-rich environment meant that they were forced to rely on rebreathers, such as antiox breath masks, to survive off-world, as oxygen was deadly to them. During the Clone Wars, Jedi General Anakin Skywalker and Commander Ahsoka Tano routed Separatist forces near Dorin.",
+    "While the atmosphere was not breathable for most off-world species, the native plants were edible. Zand nuts and the fruit of kand trees were two such foods."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dorin",
+    "region": "Expansion Region",
+    "sector": "Deadalis sector",
+    "system": "Dorin system",
+    "coordinates": "J-8",
+    "routes": [
+      "Namadii Corridor",
+      "Celanon Spur"
+    ],
+    "atmosphere": "Dorin gas and helium",
+    "flora": "Kand tree",
+    "fauna": "Bulbous",
+    "species": "Kel Dor",
+    "cities": "Dor'shan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kel Dor",
+      "directory": "Kel Dor",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kel Dor",
+      "directory": "Kel Dor (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dorin",
+    "x": -2125.4,
+    "y": 2890.8,
+    "z": 162.5,
+    "region": "Expansion Region",
+    "grid": "J-8"
+  },
+  "scraped": "2026-07-03"
+}

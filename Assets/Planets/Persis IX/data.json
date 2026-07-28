@@ -1,0 +1,37 @@
+{
+  "name": "Persis IX",
+  "wookieepedia_title": "Persis IX",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Persis_IX",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Persis IX was an Expansion Region world that was home to the sentient, worm-like Grindalid species. Its dense atmosphere blocked most of the light, to which the Grindalids' eyes and skin were highly sensitive.",
+  "lead_paragraphs": [
+    "Persis IX was an Expansion Region world that was home to the sentient, worm-like Grindalid species. Its dense atmosphere blocked most of the light, to which the Grindalids' eyes and skin were highly sensitive."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Persis IX",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Bes Ber Bikade sector",
+    "system": "Persis system",
+    "coordinates": "L-15",
+    "position": "9",
+    "species": "Grindalid"
+  },
+  "homeworld_of": [
+    {
+      "name": "Grindalid",
+      "directory": "Grindalid",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Yar Togna",
+  "wookieepedia_title": "Yar Togna",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yar_Togna",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Yar Togna was an Outer Rim Territories planet that was home to the sentient Tognath species. A high-gravity world with a dense, oxygen-poor atmosphere, it featured a massive volcanic mountain range that ejected large quantities of sulfur and ash into the planet's air. The airborne particles were consumed by the large, floating creatures known as float-jellies, which thereby prevented Yar Togna's climate from becoming frigid.",
+  "lead_paragraphs": [
+    "Yar Togna was an Outer Rim Territories planet that was home to the sentient Tognath species. A high-gravity world with a dense, oxygen-poor atmosphere, it featured a massive volcanic mountain range that ejected large quantities of sulfur and ash into the planet's air. The airborne particles were consumed by the large, floating creatures known as float-jellies, which thereby prevented Yar Togna's climate from becoming frigid.",
+    "The Tognath were an evolutionary ancient insecto-mammalian species that had subpar hearing and sense of balance, which the Tognath frequently augmented by cybernetic technology, especially when traveling off-world. On Yar Togna, most Tognath worked as miners, procuring and selling crystals that were important to the manufacture of sensor arrays. On the backs of the float-jellies, Tognath farmed mosses, molds, and mushrooms that served as valuable export goods to the wider galaxy.",
+    "In 18 BBY, the Galactic Empire subjected Yar Togna to a brutal conquest and occupation due to its strategic crystal deposits. The Empire enslaved the portion of the planet's populace that did not flee the world in a mass exodus that included the eggmates Benthic and Edrio. As a result, most Tognath subsequently became part of anti-Imperial resistance groups."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "  Sentients of Yar Togna",
+    "  Tognath way of life"
+  ],
+  "data": {
+    "name": "Yar Togna",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Sarin sector",
+    "system": "Yar Togna system",
+    "coordinates": "P-18",
+    "routes": "Five Veils Route",
+    "class": "Terrestrial",
+    "atmosphere": [
+      "Sulfur-rich",
+      "Oxygen-poor"
+    ],
+    "gravity": "High",
+    "terrain": [
+      "Flatlands",
+      "Volcanic mountains"
+    ],
+    "water": "Mountain springs",
+    "flora": [
+      "Moss",
+      "Nursery tree"
+    ],
+    "fauna": "Float-jelly",
+    "otherlife": [
+      "Molds",
+      "Mushrooms"
+    ],
+    "species": "Tognath",
+    "language": "Tognath",
+    "exports": [
+      "Mushrooms",
+      "Molds",
+      "Mosses"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tognath",
+      "directory": "Tognath",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Yar Togna",
+    "x": 10315.5,
+    "y": -14048.2,
+    "z": -514.4,
+    "region": "Other",
+    "grid": "R-19"
+  },
+  "scraped": "2026-07-03"
+}

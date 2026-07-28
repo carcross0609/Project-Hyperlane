@@ -1,0 +1,30 @@
+{
+  "name": "Alamite",
+  "wookieepedia_title": "Alamite",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alamite",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Alamites were a sentient humanoid species native to the planet Mandalore, where they once resided in the deserted wastelands beyond the cities. After the Galactic Empire's purge of Mandalore, some Alamites relocated to the ruins of Sundari. At some point, numerous Alamites attacked Bo-Katan Kryze and Din Djarin in the outskirts of Sundari.",
+  "data": {
+    "name": "Alamite",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "height": "1.8 meters (5 ft 11 in)",
+    "skincolor": "Gray",
+    "haircolor": "Gray",
+    "eyecolor": "Green",
+    "distinctions": [
+      "Four bioluminescent eyes",
+      "Four nostrils",
+      "Tusks",
+      "Back spikes"
+    ],
+    "origin": "Mandalore",
+    "habitat": [
+      "Wastelands",
+      "Caverns"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Mandalore"
+}

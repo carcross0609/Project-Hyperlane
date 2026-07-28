@@ -1,0 +1,49 @@
+{
+  "name": "Xochtl",
+  "wookieepedia_title": "Xochtl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xochtl",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Xochtl was a world located in the Xochtl system. It was situated in the Loop Worlds area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. A hyperlane connected it to the Bronsoon system.",
+  "lead_paragraphs": [
+    "Xochtl was a world located in the Xochtl system. It was situated in the Loop Worlds area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. A hyperlane connected it to the Bronsoon system.",
+    "A volatile and rocky world, Xochtl featured crags and spires on its surface as well as gravitational pull that was slightly lower than standard. It was the homeworld of the Bagmim species, members of which had already traveled offworld centuries prior to 43 ABY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Xochtl",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Gordian Reach",
+      "  Loop Worlds"
+    ],
+    "system": "Xochtl system",
+    "coordinates": "P-6",
+    "class": "Terrestrial",
+    "gravity": "Lower than standard",
+    "terrain": [
+      "Crags",
+      "Spires"
+    ],
+    "species": "Bagmim"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bagmim",
+      "directory": "Bagmim",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Xochtl",
+    "x": 7309.7,
+    "y": 5438.9,
+    "z": 10.1,
+    "region": "Outer Rim",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

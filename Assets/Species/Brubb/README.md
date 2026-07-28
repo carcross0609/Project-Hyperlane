@@ -1,0 +1,19 @@
+# Brubb
+
+**Continuity:** Legends  
+**Source:** [Brubb](https://starwars.fandom.com/wiki/Brubb)
+
+Brubbs were reptilian bipeds from the planet of Baros in the Baros system. To adapt to life on an arid world with frequent sandstorms, the ancestors of the Brubbs evolved thick skins and tough, transparent membranes over their eyes for protection. Since there was little to hear on Baros other than howling winds, Brubbs were nearly deaf. Brubbs were strong for their size (1.5 to 1.7 meters tall), due to their origins on a high-gravity world. Brubbs also had the limited ability to camouflage themselves by changing skin color, though the color range was only from yellow to a greenish-gray.
+
+## Biology & Culture
+
+- **Name:** Brubb
+- **Designation:** Sentient
+- **Height:** 1.5 - 1.75 meters
+- **Skincolor:** Yellow to greenish-gray
+- **Distinctions:** Limited camouflage ability, thick skins, poor hearing, lived in communal habas.
+- **Origin:** Baros
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

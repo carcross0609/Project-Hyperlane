@@ -1,0 +1,47 @@
+{
+  "name": "Metagos",
+  "wookieepedia_title": "Metagos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Metagos",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Metagos was a planet in the Outer Rim Territories. Its capital city, New Xaxxis, was situated in underground caverns derisively known as the Glass Abyss. Jedi Master Mace Windu went on a mission to the planet after the death of Qui-Gon Jinn to free the Sa'ad clan from crime lords.",
+  "lead_paragraphs": [
+    "Metagos was a planet in the Outer Rim Territories. Its capital city, New Xaxxis, was situated in underground caverns derisively known as the Glass Abyss. Jedi Master Mace Windu went on a mission to the planet after the death of Qui-Gon Jinn to free the Sa'ad clan from crime lords."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Metagos",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Cadma sector",
+    "system": "Metagos system",
+    "coordinates": "T-8",
+    "suns": "Metagos's sun",
+    "moons": "3",
+    "routes": "Oseon–Junkfort Station hyperlane",
+    "class": "Terrestrial",
+    "terrain": [
+      "Desert",
+      "Glass"
+    ],
+    "interest": "Glass Abyss",
+    "species": "Metagosan",
+    "cities": "New Xaxxis (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Metagosan",
+      "directory": "Metagosan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Syblin",
+      "directory": "Syblin",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Tammar",
+  "wookieepedia_title": "Tammar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tammar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tammar, originally known as Lelrais, was the Tammarian homeworld. This planet had an unusually thin atmosphere, which caused native Tammarians to evolve a chemical pouch called a chaghizs torm to store oxygen. This allowed them to survive in the vacuum of space for short periods. Tammar also had no standing water.",
+  "lead_paragraphs": [
+    "Tammar, originally known as Lelrais, was the Tammarian homeworld. This planet had an unusually thin atmosphere, which caused native Tammarians to evolve a chemical pouch called a chaghizs torm to store oxygen. This allowed them to survive in the vacuum of space for short periods. Tammar also had no standing water.",
+    "Circa 25,130 BBY, Lelrais was absorbed into Xim's Empire as he expanded his borders from the Kingdom of Cron.",
+    "Ayddar Nylykerka, chief researcher of the New Republic's Asset Tracking Office, was a native of Tammar."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tammar",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Tharin sector",
+    "system": "Tammar system",
+    "coordinates": "T-8",
+    "routes": "Triellus Trade Route",
+    "class": "Desert world",
+    "atmosphere": "Thin",
+    "terrain": "Deserts",
+    "water": "None",
+    "species": "Tammarians",
+    "affiliation": [
+      "Xim's Empire",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tammarian",
+      "directory": "Tammarian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tammar",
+    "x": 12081.4,
+    "y": 1785.3,
+    "z": 62.3,
+    "region": "Outer Rim",
+    "grid": "T-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,21 @@
+# Infiltration A-180
+
+**Kind:** Model  
+**Continuity:** Canon  
+**Source:** [Infiltration A-180](https://starwars.fandom.com/wiki/Infiltration_A-180)
+
+The Infiltration A-180 was a modified A-180 heavy blaster pistol utilized by the human Hunter Zaina that she could wield for the Hunters of the Outer Rim competition in the Grand Arena on the planet Vespaara as an alternative to her standard blaster. This blaster pistol featured a metallic black and silver frame, with a vented barrel, a striped brown grip, and a few patches of worn yellow paint.
+
+## Specifications
+
+- **Name:** Infiltration A-180
+- **Model:** Modified A-180 blaster
+- **Type:**
+  - Heavy blaster pistol
+  -   Veteran Blaster
+- **Owners:** Zaina
+- **Affiliation:** Hunters of the Outer Rim
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

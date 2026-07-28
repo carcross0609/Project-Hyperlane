@@ -1,0 +1,51 @@
+{
+  "name": "Alzoc III",
+  "wookieepedia_title": "Alzoc III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alzoc_III",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Alzoc III, also known as Alzoc, was a frozen planet located in the Sujimis sector of the galaxy's Outer Rim Territories that was the homeworld of the Talz species. The world was taken over by the Galactic Empire due to its exploitable mineral wealth. The pilot Praz Fateer was described as being the fastest on Alzoc III by a barker aboard the Frander's Bay space station. The Mandalorian bounty hunter Din Djarin was involved in a job on Alzoc III at some point before 9 ABY.",
+  "lead_paragraphs": [
+    "Alzoc III, also known as Alzoc, was a frozen planet located in the Sujimis sector of the galaxy's Outer Rim Territories that was the homeworld of the Talz species. The world was taken over by the Galactic Empire due to its exploitable mineral wealth. The pilot Praz Fateer was described as being the fastest on Alzoc III by a barker aboard the Frander's Bay space station. The Mandalorian bounty hunter Din Djarin was involved in a job on Alzoc III at some point before 9 ABY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Alzoc III",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Sujimis sector",
+    "system": "Alzoc system",
+    "coordinates": "P-19",
+    "class": "Terrestrial",
+    "climate": "Frozen",
+    "species": "Talz",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Talz",
+      "directory": "Talz",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Talz",
+      "directory": "Talz (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alzoc III",
+    "x": 6656.2,
+    "y": -14150.4,
+    "z": 170.4,
+    "region": "Outer Rim",
+    "grid": "P-19"
+  },
+  "scraped": "2026-07-03"
+}

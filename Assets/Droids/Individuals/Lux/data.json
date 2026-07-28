@@ -1,0 +1,30 @@
+{
+  "name": "Lux",
+  "wookieepedia_title": "Lux",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lux",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Lux was a modified Seeker droid who was used for security in the Glow Dome a nightclub located on the planet Adarlon. He was heavily armed and modified by Dr. Lytos Urtell.",
+  "data": {
+    "name": "Lux",
+    "class": "Seeker",
+    "cost": "Not available for sale",
+    "length": "0.35 meters",
+    "width": "0.35 meters",
+    "height": "0.35 meters",
+    "gender": "Masculine programming",
+    "pronouns": "new",
+    "armament": [
+      "Merr-Sonn Model MSD-32 Disruptor Pistol",
+      "BlasTech Persuader heavy stun gun"
+    ],
+    "equipment": [
+      "AA-1 VerboBrain",
+      "TranLang I-A Communications module",
+      "SunnGunn B-3 SpotLuma"
+    ],
+    "affiliation": "Glow Dome"
+  },
+  "scraped": "2026-07-03"
+}

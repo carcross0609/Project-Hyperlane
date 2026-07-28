@@ -1,0 +1,29 @@
+{
+  "name": "Sonic pistol",
+  "wookieepedia_title": "Sonic pistol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sonic_pistol",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A sonic pistol was a type of sonic weapon similar to a blaster pistol. It created a high-intensity sonic blast powerful enough to shatter solid objects and cause devastating injuries.",
+  "data": {
+    "name": "Sonic pistol",
+    "type": "Sonic weapon",
+    "cost": "900 credits",
+    "size": "Small",
+    "weight": "1 kg",
+    "capacity": [
+      "100 shots",
+      "Cannot be deflected by a lightsaber"
+    ],
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 120 meters"
+    ],
+    "purpose": [
+      "To counter lightsaber-wielding Jedi and Sith",
+      "To disorient an opponent"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Oosalon",
+  "wookieepedia_title": "Oosalon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oosalon",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Oosalon was a barren, mountainous planet located in the galaxy's Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Oosalon was a barren, mountainous planet located in the galaxy's Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Oosalon",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Baxel sector",
+    "system": "Oosalon system",
+    "coordinates": "U-12",
+    "atmosphere": "Breathable",
+    "terrain": "Mountains",
+    "interest": [
+      "Oosalon Mesa",
+      "Secret gambling den"
+    ],
+    "fauna": "Tibidee"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Oosalon",
+    "x": 11533.9,
+    "y": 8506.9,
+    "z": 488.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

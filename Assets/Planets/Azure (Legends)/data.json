@@ -1,0 +1,46 @@
+{
+  "name": "Azure",
+  "wookieepedia_title": "Azure/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Azure/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Azure was a diminutive blue Mid Rim world at a non-strategic location where most of the landmass was taken up by a clandestine Galactic Republic spaceport. The planet was part of a Azure system and had no moons nor any useful resources. It was commanded by General Solomahal until conquered by the Confederacy of Independent Systems during the Clone Wars.",
+  "lead_paragraphs": [
+    "Azure was a diminutive blue Mid Rim world at a non-strategic location where most of the landmass was taken up by a clandestine Galactic Republic spaceport. The planet was part of a Azure system and had no moons nor any useful resources. It was commanded by General Solomahal until conquered by the Confederacy of Independent Systems during the Clone Wars.",
+    "It was also the location of Jedi Siri Tachi's death."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Azure",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Truum sector",
+    "system": "Azure system",
+    "coordinates": "P-8",
+    "suns": "0",
+    "moons": "0",
+    "terrain": "Oceans",
+    "interest": "Azure Spaceport",
+    "otherspecies": [
+      "Humans",
+      "Lutrillians"
+    ],
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Azure",
+    "x": 6732.6,
+    "y": 2591.5,
+    "z": -15.5,
+    "region": "Mid Rim",
+    "grid": "P-8"
+  },
+  "scraped": "2026-07-03"
+}

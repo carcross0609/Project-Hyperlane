@@ -1,0 +1,59 @@
+{
+  "name": "Korbin",
+  "wookieepedia_title": "Korbin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Korbin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Korbin was a planet in the Inner Rim.",
+  "lead_paragraphs": [
+    "Korbin was a planet in the Inner Rim."
+  ],
+  "article_sections": [
+    "Government",
+    "History"
+  ],
+  "data": {
+    "name": "Korbin",
+    "region": "Inner Rim",
+    "system": "Atrig system",
+    "coordinates": "J-14",
+    "suns": "1: Atrig",
+    "moons": "1: Redilos",
+    "class": "Terrestrial",
+    "terrain": [
+      "Mountains",
+      "Scrub plains",
+      "Urban",
+      "Valleys"
+    ],
+    "interest": [
+      "Korbin Equatorial Range",
+      "  Gornt Seron's castle",
+      "  Refin",
+      "  Selenfer",
+      "Korbin Starport",
+      "Kyrf plantation",
+      "Last Call"
+    ],
+    "otherspecies": "Humans",
+    "population": "1 million",
+    "demonym": "Korbinite",
+    "cities": [
+      "Pleasant City (capital)",
+      "Small-Timers",
+      "  Happy",
+      "  Joy",
+      "  Peace"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Korbin",
+    "x": -1630.9,
+    "y": -6122.7,
+    "z": 79.7,
+    "region": "Inner Rim",
+    "grid": "J-14"
+  },
+  "scraped": "2026-07-03"
+}

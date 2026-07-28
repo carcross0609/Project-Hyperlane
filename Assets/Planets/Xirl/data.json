@@ -1,0 +1,42 @@
+{
+  "name": "Xirl",
+  "wookieepedia_title": "Xirl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xirl",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Xirl was a jungle planet located in the Xirl system in Wild Space, near the Kalidorn system. The Stinker was a creature that was native to Xirl. The female human Gozetta built a hunting lodge on Xirl. The planet was a source of messages piggy-backing on official channels, calling on people to resist the Galactic Empire.",
+  "lead_paragraphs": [
+    "Xirl was a jungle planet located in the Xirl system in Wild Space, near the Kalidorn system. The Stinker was a creature that was native to Xirl. The female human Gozetta built a hunting lodge on Xirl. The planet was a source of messages piggy-backing on official channels, calling on people to resist the Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Xirl",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Xirl system",
+    "coordinates": "O-20",
+    "moons": "1",
+    "terrain": [
+      "Jungle",
+      "Rocky"
+    ],
+    "interest": "Xirl hunting lodge",
+    "flora": "Mushrooms",
+    "fauna": [
+      "Spider",
+      "Stinker",
+      "Veermok"
+    ],
+    "otherspecies": "Human"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Xirl",
+    "x": 2268.9,
+    "y": -2380.9,
+    "z": -201.2,
+    "region": "Wild Space",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

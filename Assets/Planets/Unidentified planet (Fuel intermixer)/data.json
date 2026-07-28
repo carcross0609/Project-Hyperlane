@@ -1,0 +1,63 @@
+{
+  "name": "Unidentified planet",
+  "wookieepedia_title": "Unidentified planet (Fuel intermixer)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_planet_%28Fuel_intermixer%29",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "A planet was located in the galaxy. Its surface was covered in gray rock spires and plains.",
+  "lead_paragraphs": [
+    "A planet was located in the galaxy. Its surface was covered in gray rock spires and plains."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "no_grid_check": "1",
+    "name": "Unidentified planet",
+    "moons": "At least 2",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Gray rock spires",
+      "Plains"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Bartokk",
+      "directory": "Bartokk",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lupr'or",
+      "directory": "Lupr'or",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Unidentified blue humanoid species",
+      "directory": "Unidentified blue humanoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-faced species",
+      "directory": "Unidentified purple-faced species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-skinned humanoid species",
+      "directory": "Unidentified purple-skinned humanoid species",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Unidentified red pachydermoid species",
+      "directory": "Unidentified red pachydermoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified species",
+      "directory": "Unidentified species (seven-ringed homeworld)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

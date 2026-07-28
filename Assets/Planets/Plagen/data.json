@@ -1,0 +1,57 @@
+{
+  "name": "Plagen",
+  "wookieepedia_title": "Plagen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Plagen",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Plagen was a planet in the Expansion Region, on the Enarc Run, with high plateaus covered in lakes and grasslands of lush yellow flora; its lowlands were dry plains.",
+  "lead_paragraphs": [
+    "Plagen was a planet in the Expansion Region, on the Enarc Run, with high plateaus covered in lakes and grasslands of lush yellow flora; its lowlands were dry plains.",
+    "At the junction of the Hydian Way and the Enarc Run the spaceport of TreeLeaf on the Celdas plateau is a modern city bustling with activity. The native short and furry Chikarri live in trees with spherical buildings connected by walkways."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Plagen",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Pax system",
+    "coordinates": "N-16",
+    "suns": "1",
+    "routes": [
+      "Hydian Way",
+      "Enarc Run"
+    ],
+    "class": "Terrestrial",
+    "terrain": [
+      "Grasslands",
+      "Lakes",
+      "Plateaus",
+      "Plains"
+    ],
+    "flora": "Goldleaf tree",
+    "species": "Chikarri",
+    "cities": "TreeLeaf",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chikarri",
+      "directory": "Chikarri",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Plagen",
+    "x": 3915.4,
+    "y": -10287.0,
+    "z": -359.5,
+    "region": "Expansion Region",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Beheboth",
+  "wookieepedia_title": "Beheboth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Beheboth",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Beheboth was a desert planet located in the Sanbra sector of the Outer Rim Territories. Beheboth was home to the Tirrith, a unique empathic gaseous culture of hive-minded sentient particles, which thrived even among the planet's inhospitably arid and dry climate. Bothans, and later Humans, settled Beheboth during the Republic era, dotting the world with moisture farms and small towns. During the Imperial Period, Beheboth's fledgling economy came under heavy threat from brigands who manipulated the Tirrith into aiding them in raids on local moisture farms, a threat ended by Rebel hero Luke Skywalker and local leader Darial Anglethorn, who later became Beheboth's first representative to the New Republic Senate.",
+  "lead_paragraphs": [
+    "Beheboth was a desert planet located in the Sanbra sector of the Outer Rim Territories. Beheboth was home to the Tirrith, a unique empathic gaseous culture of hive-minded sentient particles, which thrived even among the planet's inhospitably arid and dry climate. Bothans, and later Humans, settled Beheboth during the Republic era, dotting the world with moisture farms and small towns. During the Imperial Period, Beheboth's fledgling economy came under heavy threat from brigands who manipulated the Tirrith into aiding them in raids on local moisture farms, a threat ended by Rebel hero Luke Skywalker and local leader Darial Anglethorn, who later became Beheboth's first representative to the New Republic Senate."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Beheboth",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Sanbra sector",
+    "system": "Beheboth system",
+    "coordinates": "O-17",
+    "suns": "1: Beheboth",
+    "position": "5",
+    "moons": "3",
+    "lengthday": "28 standard hours",
+    "lengthyear": "411 local days",
+    "class": "Terrestrial",
+    "diameter": "11,496 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Dry",
+    "gravity": "Standard",
+    "terrain": [
+      "Deserts",
+      "Mountainous",
+      "Outpost towns",
+      "Shallow salt lakes"
+    ],
+    "interest": [
+      "Bothehl Desert",
+      "Anglethorn moisture farm",
+      "Outpost B-2"
+    ],
+    "fauna": "Sand lice",
+    "species": "Tirrith",
+    "otherspecies": [
+      "Human",
+      "Other species"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Loose network of democratic town councils",
+    "population": [
+      "17 million:",
+      "  99% Tirrith",
+      "  0.9% Humans",
+      "  0.1% other"
+    ],
+    "demonym": "Behebothan",
+    "cities": [
+      "Prosperity (capital)",
+      "Hebofyrd"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Technology",
+      "Water"
+    ],
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tirrith",
+      "directory": "Tirrith",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Beheboth",
+    "x": 4993.4,
+    "y": -11106.1,
+    "z": -514.1,
+    "region": "Outer Rim",
+    "grid": "O-17"
+  },
+  "scraped": "2026-07-03"
+}

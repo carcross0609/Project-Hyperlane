@@ -1,0 +1,51 @@
+{
+  "name": "Ota",
+  "wookieepedia_title": "Ota",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ota",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ota was a frozen world in the Kashyyyk Region of the Mid Rim which was the home of the furry sentient species known as the Snogars. The Snogars lived in cities built within the planet's ice canyons by their ancestors, a highly intelligent race referred to as the \"Old Ones.\" By 1 ABY the heating machines that kept the Snogar cities warm began to fail, leading Ota's natives to seek out offworlders who could repair the devices and help them survive the planet's biting cold.",
+  "lead_paragraphs": [
+    "Ota was a frozen world in the Kashyyyk Region of the Mid Rim which was the home of the furry sentient species known as the Snogars. The Snogars lived in cities built within the planet's ice canyons by their ancestors, a highly intelligent race referred to as the \"Old Ones.\" By 1 ABY the heating machines that kept the Snogar cities warm began to fail, leading Ota's natives to seek out offworlders who could repair the devices and help them survive the planet's biting cold."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Ota",
+    "region": [
+      "Mid Rim",
+      "  Kashyyyk Region"
+    ],
+    "sector": "Mytaranor sector",
+    "system": "Ota system",
+    "coordinates": "Q-10",
+    "routes": [
+      "Dauntless Run",
+      "Ootmian Pabol"
+    ],
+    "terrain": [
+      "Ice",
+      "Snow"
+    ],
+    "species": "Snogar"
+  },
+  "homeworld_of": [
+    {
+      "name": "Snogar",
+      "directory": "Snogar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ota",
+    "x": 7697.7,
+    "y": -538.5,
+    "z": -64.7,
+    "region": "Mid Rim",
+    "grid": "Q-10"
+  },
+  "scraped": "2026-07-03"
+}

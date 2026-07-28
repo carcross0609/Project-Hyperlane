@@ -1,0 +1,24 @@
+{
+  "name": "Amelie",
+  "wookieepedia_title": "Amelie",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amelie",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Amelie was a Millicreep droid that served the Umbaran militia during the Clone Wars. It was captured during the Battle of Umbara and re-programmed to be the companion of a Jedi Knight.",
+  "data": {
+    "type": "Jedi",
+    "name": "Amelie",
+    "homeworld": "Umbara",
+    "model": "Millicreep",
+    "class": "Assassin droid",
+    "pronouns": "new",
+    "armament": "Electrified tail",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Umbaran militia",
+      "Jedi Order"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

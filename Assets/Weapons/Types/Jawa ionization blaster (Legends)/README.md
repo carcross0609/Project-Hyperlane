@@ -1,0 +1,19 @@
+# Jawa ionization blaster
+
+**Kind:** Model  
+**Continuity:** Legends  
+**Source:** [Jawa ionization blaster/Legends](https://starwars.fandom.com/wiki/Jawa_ionization_blaster/Legends)
+
+Jawa ionization blasters, also known as Jawa ion rifle, were built by the Jawas who lived on Tatooine to capture droids. The guns themselves were cobbled together from whatever scrap the Jawas could scavenge. The gun was made of a blaster rifle stripped down to its power pack, and then had its components replaced with an ion accelerator which was created using a droid restraining bolt and an accu-accelerator from a capital ship ignition system.
+
+## Specifications
+
+- **Name:** Jawa ionization blaster
+- **Manufacturer:** Jawas
+- **Type:** Ion blaster
+- **Range:** 12 meters
+- **Affiliation:** Jawas
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

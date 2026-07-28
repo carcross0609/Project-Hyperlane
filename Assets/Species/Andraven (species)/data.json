@@ -1,0 +1,23 @@
+{
+  "name": "Andraven",
+  "wookieepedia_title": "Andraven (species)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Andraven_%28species%29",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Andravens were a sentient elephantine species who lived on the frigid planet Andraven. They had gray or light blue colored skin. Gumar, Jam, Varna, and Onderrs were members of this species.",
+  "data": {
+    "name": "Andraven",
+    "designation": "Sentient",
+    "class": "Elephantine",
+    "skincolor": [
+      "Gray",
+      "Light blue"
+    ],
+    "haircolor": "Gray",
+    "eyecolor": "Yellow",
+    "distinctions": "Short trunk",
+    "origin": "Andraven"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Andraven"
+}

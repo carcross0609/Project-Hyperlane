@@ -1,0 +1,59 @@
+{
+  "name": "Delrakkin",
+  "wookieepedia_title": "Delrakkin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Delrakkin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Delrakkin was the only planet in the Delrakkin system capable of sustaining life. Home to the reptilian Delrakkin, the world was covered with mountain ranges and jungles, as well as a perpetual cloud cover that provided it with incessant storms and rain. Delrakkin City was the only civilized location on the planet and was home to the Delrakkin, until the Galactic Empire invaded.",
+  "lead_paragraphs": [
+    "Delrakkin was the only planet in the Delrakkin system capable of sustaining life. Home to the reptilian Delrakkin, the world was covered with mountain ranges and jungles, as well as a perpetual cloud cover that provided it with incessant storms and rain. Delrakkin City was the only civilized location on the planet and was home to the Delrakkin, until the Galactic Empire invaded.",
+    "The Imperials expelled the Delrakkin from their city and populated it with their own citizens. In 0 ABY, the planet nearly became the subject of an Imperial experiment devised by Grand Moff Wilhuff Tarkin. Tarkin planned to use the planet as a test bed for new interdictor technology, which was to be developed in the utmost secrecy. To that end, he ordered Admiral Termo to eradicate the planet's populace, providing at least two plots, one of which would have the Rebel Alliance framed for the act. This was not to be, however, as the scheme was foiled by the evacuation of the intended targets organized by the Rebellion."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Delrakkin",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Kallea sector",
+    "system": "Delrakkin system",
+    "coordinates": "K-21",
+    "climate": "Temperate",
+    "terrain": [
+      "Jungle",
+      "Mountains"
+    ],
+    "interest": "Stiegan Jungle",
+    "species": "Delrakkin",
+    "otherspecies": [
+      "Human",
+      "Stenax"
+    ],
+    "language": "Basic",
+    "population": "1 million to 10 million (c. 25 ABY)",
+    "cities": "Delrakkin City (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Delrakkin",
+      "directory": "Delrakkin (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Delrakkin",
+    "x": -769.2,
+    "y": -16879.6,
+    "z": -28.9,
+    "region": "Outer Rim",
+    "grid": "K-21"
+  },
+  "scraped": "2026-07-03"
+}

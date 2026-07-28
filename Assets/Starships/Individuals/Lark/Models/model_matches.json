@@ -1,0 +1,48 @@
+{
+  "asset": "Lark",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Kei Truck Scout Transport",
+      "url": "https://sketchfab.com/3d-models/none-0cb4b243a9dd4d1ca1ab30a17f23ac81",
+      "uid": "0cb4b243a9dd4d1ca1ab30a17f23ac81",
+      "author": "JohnMesplay",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 738,
+      "thumbnail": "https://media.sketchfab.com/models/0cb4b243a9dd4d1ca1ab30a17f23ac81/thumbnails/09548bd7020c490592adba65f98843e2/c4be3b72510742c08d8c61cbcecb5cbb.jpeg"
+    },
+    {
+      "name": "Star Wars: GR-75 Medium Transport",
+      "url": "https://sketchfab.com/3d-models/none-071b158d02c044ee9b431aeb28b85b6a",
+      "uid": "071b158d02c044ee9b431aeb28b85b6a",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 409,
+      "thumbnail": "https://media.sketchfab.com/models/071b158d02c044ee9b431aeb28b85b6a/thumbnails/f6458bad269c4c158b0f85c9d6d0f64d/2496643443e94a1698dbd4a0ca5b749e.jpeg"
+    },
+    {
+      "name": "LAAT - Low Altitude Assault Transport",
+      "url": "https://sketchfab.com/3d-models/none-cf7f6043210a418abdd818d5e8dd0fd8",
+      "uid": "cf7f6043210a418abdd818d5e8dd0fd8",
+      "author": "Mind Mulch for The Masses",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 384,
+      "thumbnail": "https://media.sketchfab.com/models/cf7f6043210a418abdd818d5e8dd0fd8/thumbnails/4857476cd32c4ea588443d087d976861/e73a5154ed184d94a70b641d53c4bc9d.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Transport"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Orto Plutonia",
+  "wookieepedia_title": "Orto Plutonia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orto_Plutonia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Orto Plutonia was a desolate icy planet in the Pantora system, home to the native Talz and a number of narglatches. It was considered a protectorate of the orbiting moon Pantora until the Clone Wars, when the Talz inhabitants were granted political supremacy by the Pantoran Assembly following a brief conflict with Galactic Republic forces.",
+  "lead_paragraphs": [
+    "Orto Plutonia was a desolate icy planet in the Pantora system, home to the native Talz and a number of narglatches. It was considered a protectorate of the orbiting moon Pantora until the Clone Wars, when the Talz inhabitants were granted political supremacy by the Pantoran Assembly following a brief conflict with Galactic Republic forces."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Orto Plutonia",
+    "region": "Outer Rim Territories",
+    "sector": "Sujimis sector",
+    "system": "Pantora system",
+    "coordinates": "P-19",
+    "moons": "Pantora",
+    "class": "Terrestrial",
+    "climate": "Frigid",
+    "terrain": [
+      "Ice wastelands",
+      "Tors",
+      "Canyons"
+    ],
+    "interest": [
+      "Glid Station",
+      "Separatist outpost",
+      "Talz village"
+    ],
+    "fauna": "Narglatch",
+    "species": "Talz",
+    "language": "Talzzi",
+    "government": "Protectorate (formerly)",
+    "affiliation": "Unaffiliated"
+  },
+  "homeworld_of": [
+    {
+      "name": "Talz",
+      "directory": "Talz",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Orto Plutonia",
+    "x": 6473.7,
+    "y": -14529.9,
+    "z": 357.1,
+    "region": "Outer Rim",
+    "grid": "P-19"
+  },
+  "scraped": "2026-07-03"
+}

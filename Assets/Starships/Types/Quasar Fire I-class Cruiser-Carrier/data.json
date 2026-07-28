@@ -1,0 +1,27 @@
+{
+  "name": "Quasar Fire I-class Cruiser-Carrier",
+  "wookieepedia_title": "Quasar Fire I-class Cruiser-Carrier",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quasar_Fire_I-class_Cruiser-Carrier",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Quasar Fire I-class Cruiser-Carrier was a model of Quasar Fire-class cruiser-carrier used by the Imperial Navy during the Imperial Era. At one point, one such cruiser-carrier fired its offensive weapons in space, while carrying various TIE series starships, including TIE/ln space superiority starfighters.",
+  "data": {
+    "name": "Quasar Fire I-class Cruiser-Carrier",
+    "line": "Quasar Fire-class cruiser-carrier",
+    "model": "Quasar Fire I-class Cruiser-Carrier",
+    "type": "Cruiser-carrier",
+    "length": "340 meters (1,116 feet)",
+    "engine": "Sublight engines",
+    "armament": "Turbolasers (2)",
+    "complement": [
+      "TIE series starships",
+      "  TIE/ln space superiority starfighters"
+    ],
+    "bays": "Hangars (4)",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

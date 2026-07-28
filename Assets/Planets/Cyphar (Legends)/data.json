@@ -1,0 +1,42 @@
+{
+  "name": "Cyphar",
+  "wookieepedia_title": "Cyphar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cyphar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Cyphar was a planet in the Mid Rim between Nkllon and Belsavis, defended by the Galactic Republic from the Confederacy of Independent Systems in 22 BBY during the Clone Wars.",
+  "lead_paragraphs": [
+    "Cyphar was a planet in the Mid Rim between Nkllon and Belsavis, defended by the Galactic Republic from the Confederacy of Independent Systems in 22 BBY during the Clone Wars."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Cyphar",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Spirva sector",
+    "system": "Cyphar system",
+    "coordinates": "L-17",
+    "suns": "1",
+    "routes": "D'Aelgoth Trade Route",
+    "population": "1 billion to 10 billion (c. 25 ABY)",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Cyphari",
+      "directory": "Cyphari",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Cyphar",
+    "x": 135.9,
+    "y": -11170.7,
+    "z": -202.4,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Subsystems/GameInstanceSubsystem.h"
 #include "Tickable.h"
-#include "Simulation/GalaxyClock.h"
+#include "Hyperlane/Simulation/GalaxyClock.h"
 #include "GalaxySubsystem.generated.h"
 
 /**

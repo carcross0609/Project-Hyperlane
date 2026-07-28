@@ -1,0 +1,19 @@
+# Leoxo
+
+**Continuity:** Canon  
+**Source:** [Leoxo](https://starwars.fandom.com/wiki/Leoxo)
+
+Leoxo was, for a period of time during the High Republic Era, the name of an inhabited terrestrial planet in the system of the same name in the Rayter sector of the Outer Rim Territories. A Rodian hired the starship Vessel, piloted by Leox Gyasi and Geode, in order to transport the planet's sacred idols back to its inhabitants. Gyasi presumed that the Rodian intended to be worshiped as a god by its fearful populace, but his plan was unsuccessful. The Rodian fled the planet in another ship while the populace instead worshiped Gyasi and Geode for returning their sacred idols, naming the planet in their honor. The two remained on the planet only as long as was decent, leaving its people with a moral code of kindness. Gyasi later hoped that the inhabitants of the planet had eventually gotten over the return of their sacred idols and gone back to using the planet's original name.
+
+## Planetary data
+
+- **Name:** Leoxo
+- **Region:** Outer Rim Territories
+- **Sector:** Rayter sector
+- **System:** Leoxo system
+- **Coordinates:** J-19
+- **Class:** Terrestrial
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

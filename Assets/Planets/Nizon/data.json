@@ -1,0 +1,56 @@
+{
+  "name": "Nizon",
+  "wookieepedia_title": "Nizon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nizon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nizon was the fifth planet in the Centares system. It was the homeworld of the Nazren species. Agents of Bail Organa provoked the local resistance to oust Imperial occupation and Trandoshan slavers some months after the end of the Clone Wars.",
+  "lead_paragraphs": [
+    "Nizon was the fifth planet in the Centares system. It was the homeworld of the Nazren species. Agents of Bail Organa provoked the local resistance to oust Imperial occupation and Trandoshan slavers some months after the end of the Clone Wars."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nizon",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Maldrood sector",
+    "system": "Centares system",
+    "coordinates": "R-7",
+    "suns": "1: Centares",
+    "position": "5th",
+    "moons": "2",
+    "routes": [
+      "Perlemian Trade Route",
+      "Triellus Trade Route"
+    ],
+    "terrain": "Barren",
+    "interest": [
+      "Checkpoint Gamma",
+      "Martyr's Plaza",
+      "Mount Antas",
+      "Point Gold"
+    ],
+    "species": "Nazren",
+    "language": "Nazren",
+    "cities": "Ahdjok (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nazren",
+      "directory": "Nazren",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nizon",
+    "x": 5033.0,
+    "y": 3448.2,
+    "z": -57.2,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

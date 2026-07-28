@@ -1,0 +1,46 @@
+{
+  "name": "Irmenu",
+  "wookieepedia_title": "Irmenu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Irmenu",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Irmenu was an oceanic planet located in the fringes of the Crombach Nebula, in the Belsmuth sector of the Outer Rim Territories. Isolated from the rest of the galaxy for millennia, it was a feudal world known for its seafaring and stern religious traditions.",
+  "lead_paragraphs": [
+    "Irmenu was an oceanic planet located in the fringes of the Crombach Nebula, in the Belsmuth sector of the Outer Rim Territories. Isolated from the rest of the galaxy for millennia, it was a feudal world known for its seafaring and stern religious traditions."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Irmenu",
+    "region": "Outer Rim Territories",
+    "sector": "Belsmuth sector",
+    "system": "Irmenu system",
+    "coordinates": "O-6",
+    "moons": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Shallow seas",
+      "Island archipelagos covered with sand, forests, and meadowlands",
+      "Rough oceans"
+    ],
+    "interest": "Irmenu imperial palace",
+    "otherspecies": "Human",
+    "government": "Feudal aristocracy",
+    "population": "Approximately 5 million",
+    "demonym": "Irmenu"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Irmenu",
+    "x": 5784.7,
+    "y": 5397.2,
+    "z": -392.1,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

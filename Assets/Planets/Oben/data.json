@@ -1,0 +1,35 @@
+{
+  "name": "Oben",
+  "wookieepedia_title": "Oben",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oben",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Oben was a resource-rich planet in Wild Space, and was a colony of the Kaleesh species.",
+  "lead_paragraphs": [
+    "Oben was a resource-rich planet in Wild Space, and was a colony of the Kaleesh species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Oben",
+    "region": "Wild Space",
+    "system": "Oben system",
+    "coordinates": "J-4",
+    "class": "Terrestrial",
+    "otherspecies": [
+      "Yam'rii",
+      "Kaleesh"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Oben",
+    "x": -2664.7,
+    "y": 8120.0,
+    "z": -15.6,
+    "region": "Wild Space",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Nar Hekka",
+  "wookieepedia_title": "Nar Hekka",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nar_Hekka",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nar Hekka was a cold planet located barely beyond the edge of the Y'Toub system, where it also orbited a dim red star. It was situated on the Ootmian Pabol hyperlane between the worlds of Nal Hutta and Du Hutta. Nar Hekka also sat on the Sheela Run.",
+  "lead_paragraphs": [
+    "Nar Hekka was a cold planet located barely beyond the edge of the Y'Toub system, where it also orbited a dim red star. It was situated on the Ootmian Pabol hyperlane between the worlds of Nal Hutta and Du Hutta. Nar Hekka also sat on the Sheela Run."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Nar Hekka",
+    "region": "Hutt Space",
+    "system": "Y'Toub system",
+    "coordinates": "S-11",
+    "suns": [
+      "2:",
+      "Y'Toub",
+      "Unidentified star"
+    ],
+    "position": "6",
+    "moons": "0",
+    "routes": [
+      "Ootmian Pabol",
+      "Sheela Run"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cold",
+    "terrain": [
+      "Frozen ice",
+      "Enormous hothouse domes"
+    ],
+    "interest": "Tagta the Hutt's palace",
+    "otherspecies": [
+      "Human",
+      "Hutt",
+      "Nikto",
+      "Trandoshan",
+      "Many other species",
+      "Yuuzhan Vong"
+    ],
+    "language": [
+      "Huttese",
+      "Galactic Basic Standard"
+    ],
+    "imports": "Plants",
+    "affiliation": [
+      "Hutt Cartel",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Nar Hekka",
+    "x": -4700.4,
+    "y": -7922.6,
+    "z": -20.6,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

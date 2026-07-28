@@ -1,0 +1,23 @@
+{
+  "name": "DL-18 Blaster Pistol",
+  "wookieepedia_title": "DL-18 Blaster Pistol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DL-18_Blaster_Pistol",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "BlasTech Industries' DL-18 Blaster Pistol was an inexpensive blaster commonly used during the time of the Galactic Civil War.",
+  "data": {
+    "name": "DL-18 Blaster Pistol",
+    "manufacturer": "BlasTech Industries",
+    "type": "Blaster pistol",
+    "cost": "500 credits; 25 credits per power pack",
+    "weight": "1 kilogram",
+    "capacity": "100 shots",
+    "range": [
+      "3—10 meters (short range)",
+      "11—30 meters (medium range)",
+      "31—120 meters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

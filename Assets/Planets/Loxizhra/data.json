@@ -1,0 +1,40 @@
+{
+  "name": "Loxizhra",
+  "wookieepedia_title": "Loxizhra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Loxizhra",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Loxizhra was the second planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim Territories, it was a desert world.",
+  "lead_paragraphs": [
+    "Loxizhra was the second planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim Territories, it was a desert world."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Loxizhra",
+    "region": [
+      "Inner Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Jaso sector",
+    "system": "Polith system",
+    "coordinates": "L-14",
+    "suns": "1: Polith",
+    "position": "2",
+    "moons": "5",
+    "routes": [
+      "Rimma Trade Route",
+      "Shapani Bypass"
+    ],
+    "class": "Desert"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Loxizhra",
+    "x": 2208.9,
+    "y": 1599.7,
+    "z": 3.8,
+    "region": "Inner Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

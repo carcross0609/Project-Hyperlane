@@ -1,0 +1,39 @@
+{
+  "name": "Corann",
+  "wookieepedia_title": "Corann",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corann",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Corann was a planet in the Core Worlds.",
+  "lead_paragraphs": [
+    "Corann was a planet in the Core Worlds.",
+    "This industrialized world was located along the edge of the Core Worlds, and was a target of Separatist activities during the early stages of the Clone Wars."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Corann",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "system": "Corann system",
+    "coordinates": "M-9",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Corann",
+    "x": 1496.3,
+    "y": 501.7,
+    "z": 76.7,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

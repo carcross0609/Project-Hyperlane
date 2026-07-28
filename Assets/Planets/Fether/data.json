@@ -1,0 +1,40 @@
+{
+  "name": "Fether",
+  "wookieepedia_title": "Fether",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fether",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fether was a farming world located on the Solenbaran Merchant Route hyperlane, in the Outer Rim Territories' Corporate Sector. The planet hosted a population of sentient Ocsin and was the site of a small spaceport town.",
+  "lead_paragraphs": [
+    "Fether was a farming world located on the Solenbaran Merchant Route hyperlane, in the Outer Rim Territories' Corporate Sector. The planet hosted a population of sentient Ocsin and was the site of a small spaceport town.",
+    "During the Galactic Civil War, a group of bounty hunters ambushed the crew of a freighter in the streets of the town due to the starship's captain owing money to the bounty hunters' employer. The crew was subsequently chased to its ship and then left Fether."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Fether",
+    "region": "Outer Rim Territories",
+    "sector": "Corporate Sector",
+    "system": "Fether system",
+    "coordinates": "S-3",
+    "routes": "Solenbaran Merchant Route",
+    "class": "Terrestrial",
+    "otherspecies": "Ocsin",
+    "cities": "Town",
+    "imports": "Gervi fruits"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Fether",
+    "x": 11341.7,
+    "y": 9040.8,
+    "z": -492.4,
+    "region": "Outer Rim",
+    "grid": "S-3"
+  },
+  "scraped": "2026-07-03"
+}

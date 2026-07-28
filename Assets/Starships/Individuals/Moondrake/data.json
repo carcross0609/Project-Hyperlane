@@ -1,0 +1,27 @@
+{
+  "name": "Moondrake",
+  "wookieepedia_title": "Moondrake",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moondrake",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Moondrake was a salvaged YT-1300 light freighter owned and operated by the Sareetan smuggler Sassan Sareeta. The Moondrake was a heavily armored craft that Sassan constructed from the hulks of three different YT-1300s that he had acquired. The ship also had a reputation as a blockade runner.",
+  "data": {
+    "name": "Moondrake",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "YT-1300 light freighter",
+    "length": "26.7 meters",
+    "hyperdrive": [
+      "Class 2 (Primary)",
+      "Class 8 (Backup)"
+    ],
+    "armament": "1 double laser cannon",
+    "crew": "2",
+    "passengers": "4",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "owners": "Sassan Sareeta",
+    "captains": "Sassan Sareeta"
+  },
+  "scraped": "2026-07-03"
+}

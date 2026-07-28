@@ -1,0 +1,49 @@
+{
+  "name": "Wol Cabassh",
+  "wookieepedia_title": "Wol Cabassh/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wol_Cabassh/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Wol Cabassh was an Outer Rim Territories planet situated in the Quelii sector. It was the homeworld of both the plasma leech spacecraft parasite and the related sentient Wol Cabasshites. The latter species fed on plasma and metals and communicated via the use of natural magnetic fields. Over millennia, starship travel spread both the plasma leech and the Wol Cabasshites far from Wol Cabassh.",
+  "lead_paragraphs": [
+    "Wol Cabassh was an Outer Rim Territories planet situated in the Quelii sector. It was the homeworld of both the plasma leech spacecraft parasite and the related sentient Wol Cabasshites. The latter species fed on plasma and metals and communicated via the use of natural magnetic fields. Over millennia, starship travel spread both the plasma leech and the Wol Cabasshites far from Wol Cabassh."
+  ],
+  "article_sections": [
+    "Description",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Wol Cabassh",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Wol Cabassh system",
+    "coordinates": "O-6",
+    "fauna": "Plasma leech",
+    "species": "Wol Cabasshite",
+    "language": "Wol Cabasshite language"
+  },
+  "homeworld_of": [
+    {
+      "name": "Wol Cabasshite",
+      "directory": "Wol Cabasshite",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Wol Cabasshite",
+      "directory": "Wol Cabasshite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Wol Cabassh",
+    "x": 5102.6,
+    "y": 5726.8,
+    "z": 68.3,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

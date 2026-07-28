@@ -1,0 +1,24 @@
+{
+  "name": "Aut-O",
+  "wookieepedia_title": "Aut-O",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aut-O",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Aut-O was an ST-series military strategic analysis and tactics droid who served in the naval forces of the Confederacy of Independent Systems during the Clone Wars with the military rank of commander. In 20 BBY, he commanded a Separatist fleet from a Providence-class Dreadnought that was used to protect an encryption module that was key to a major Separatist operation. As a result, Aut-O's fleet and flagship were infiltrated by a squad of Galactic Republic droids who retrieved the module. Aut-O personally led some of his forces to intercept them, but he and his droids were all destroyed.",
+  "data": {
+    "type": "CIS",
+    "name": "Aut-O",
+    "death": "20 BBY, Aut-O's flagship",
+    "model": "ST-series military strategic analysis and tactics droid",
+    "class": "Tactical droid",
+    "height": "1.94 meters",
+    "pronouns": "He/him",
+    "sensor": "Yellow",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Aut-O's fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

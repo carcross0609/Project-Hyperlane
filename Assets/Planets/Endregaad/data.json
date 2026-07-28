@@ -1,0 +1,68 @@
+{
+  "name": "Endregaad",
+  "wookieepedia_title": "Endregaad",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Endregaad",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Endregaad, a world near the Indrexu Spiral, was the oasis mother homeworld.",
+  "lead_paragraphs": [
+    "Endregaad, a world near the Indrexu Spiral, was the oasis mother homeworld."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Endregaad",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Indrexu sector",
+    "system": "Joxin system",
+    "coordinates": "S-5",
+    "suns": "1: Joxin",
+    "routes": "Tion Trade Route",
+    "terrain": [
+      "Modern:",
+      "Rocky desert",
+      "Valleys",
+      "Plateaus",
+      "Mesas",
+      "Oases",
+      "Historic:",
+      "Shallow seas",
+      "Swamps"
+    ],
+    "interest": "Temple Valley",
+    "species": "Oasis mother",
+    "otherspecies": [
+      "Human",
+      "Hutt",
+      "Nikto"
+    ],
+    "language": "Galactic Basic Standard",
+    "cities": "Tel Bollin (capital)",
+    "affiliation": [
+      "Xim's Empire",
+      "Indrexu Confederation",
+      "Corporate Sector Authority",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Oasis mother",
+      "directory": "Oasis mother",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Endregaad",
+    "x": 11362.8,
+    "y": 6207.0,
+    "z": -261.2,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

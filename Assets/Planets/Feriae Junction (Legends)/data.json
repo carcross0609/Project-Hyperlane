@@ -1,0 +1,79 @@
+{
+  "name": "Feriae Junction",
+  "wookieepedia_title": "Feriae Junction/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Feriae_Junction/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Feriae Junction (often simply called \"Junction\") was a tradeworld at the nexus of the Hydian Way, the Thesme Trace, and the Gordian Reach.",
+  "lead_paragraphs": [
+    "Feriae Junction (often simply called \"Junction\") was a tradeworld at the nexus of the Hydian Way, the Thesme Trace, and the Gordian Reach."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Feriae Junction",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Thesme sector",
+    "system": "Feriae system",
+    "coordinates": "O-5",
+    "suns": "1: Feriae",
+    "position": "2",
+    "moons": "0",
+    "routes": [
+      "Gordian Reach (historically)",
+      "Hydian Way",
+      "Junction-Tierell Loop",
+      "Thesme Trace"
+    ],
+    "lengthday": "21 standard hours",
+    "lengthyear": "292 standard days",
+    "class": "Terrestrial",
+    "diameter": "8,400 km",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forest",
+      "Plains",
+      "Hills"
+    ],
+    "interest": [
+      "Skinker's salvage yard",
+      "Junction City cantina"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Twi'leks",
+      "Duros"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Local councils",
+    "population": "1.5 million (62% Humans, 21% Duros, 10% Twi'lek, 7% other)",
+    "cities": "Junction City (capital)",
+    "imports": "Consumer goods",
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Greater Maldrood",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Feriae Junction",
+    "x": 4918.3,
+    "y": 6415.6,
+    "z": -134.2,
+    "region": "Outer Rim",
+    "grid": "O-5"
+  },
+  "scraped": "2026-07-03"
+}

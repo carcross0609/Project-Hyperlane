@@ -1,0 +1,48 @@
+{
+  "name": "Sesid",
+  "wookieepedia_title": "Sesid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sesid/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sesid was a planet in the Sesid system, and home to the Draedan. During the Galactic Civil War, it was run by Governor Arvel Trace.",
+  "lead_paragraphs": [
+    "Sesid was a planet in the Sesid system, and home to the Draedan. During the Galactic Civil War, it was run by Governor Arvel Trace."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sesid",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Corva sector",
+    "system": "Sesid system",
+    "coordinates": "P-4",
+    "class": "Terrestrial",
+    "terrain": "Oceans",
+    "flora": "Lataren",
+    "species": "Draedan",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Draedan",
+      "directory": "Draedan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Draedan",
+      "directory": "Draedan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sesid",
+    "x": 6479.0,
+    "y": 8350.0,
+    "z": 61.4,
+    "region": "Outer Rim",
+    "grid": "P-4"
+  },
+  "scraped": "2026-07-03"
+}

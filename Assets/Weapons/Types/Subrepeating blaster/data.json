@@ -1,0 +1,27 @@
+{
+  "name": "Subrepeating blaster",
+  "wookieepedia_title": "Subrepeating blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Subrepeating_blaster",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A subrepeating blaster was a pistol-sized repeating blaster with a built-in folding stock. They were popular with space pirates and bounty hunters who wanted a small, easy-to-wield weapon with a lot of firepower. The subrepeating blaster was restricted to operating in autofire-only mode, that is, rapid automatic fire.",
+  "data": {
+    "name": "Subrepeating blaster",
+    "type": "Blaster pistol",
+    "culture": [
+      "Pirates",
+      "Bounty hunters"
+    ],
+    "cost": "750 credits (Available for military use only)",
+    "shape": "Pistol-shaped",
+    "size": "One-handed weapon",
+    "weight": "2 kg",
+    "capacity": "50 shots",
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 120 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

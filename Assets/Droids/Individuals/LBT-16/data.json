@@ -1,0 +1,32 @@
+{
+  "name": "LBT-16",
+  "wookieepedia_title": "LBT-16",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/LBT-16",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "LBT-16 was a BT-16 perimeter droid for sale at Jawa Traders in Mos Eisley. When it arrived it was a psychological mess, requiring a complete memory wipe to overcome its trauma. It was refurbished and in excellent physical condition as of 0 ABY.",
+  "data": {
+    "name": "LBT-16",
+    "manufacturer": "Arakyd Industries",
+    "model": "BT-16 perimeter droid",
+    "class": "Security droid",
+    "cost": "3,100 credits",
+    "height": "2.3 meters",
+    "mass": "75 kilograms",
+    "pronouns": "new",
+    "armament": "Taim & Bak repeating blaster turret (1)",
+    "equipment": [
+      "Arakyd vocabulator (droid languages only)",
+      "Imperial standard comlink",
+      "Sensor package",
+      "  Carbanti motion sensor",
+      "  Fabritech seismic sensor",
+      "Six-leg locomotion",
+      "TranLang I Communication module",
+      "Video sensor"
+    ],
+    "affiliation": "Jawa Traders"
+  },
+  "scraped": "2026-07-03"
+}

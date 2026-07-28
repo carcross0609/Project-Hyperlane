@@ -1,0 +1,97 @@
+{
+  "name": "Caamas",
+  "wookieepedia_title": "Caamas/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Caamas/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Caamas was a highly populated and marsh-covered Core World in the Cirius system, the second planet orbiting the star Cirius. It was notable for the devastation it suffered during an Imperial orbital bombardment which destroyed its ecosystem and nearly wiped out the native Caamasi.",
+  "lead_paragraphs": [
+    "Caamas was a highly populated and marsh-covered Core World in the Cirius system, the second planet orbiting the star Cirius. It was notable for the devastation it suffered during an Imperial orbital bombardment which destroyed its ecosystem and nearly wiped out the native Caamasi."
+  ],
+  "article_sections": [
+    "Geographic features",
+    "History",
+    "  Pre-Republic era",
+    "  Old Republic era",
+    "  Destruction",
+    "  New Republic era",
+    "    Caamas Document Crisis",
+    "  Later history"
+  ],
+  "data": {
+    "name": "Caamas",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "system": "Cirius system",
+    "coordinates": "M-9",
+    "suns": "1: Cirius",
+    "position": "2",
+    "moons": "0",
+    "routes": "Commenor Run",
+    "lengthday": "25 standard hours",
+    "lengthyear": "375 standard days",
+    "class": "Terrestrial",
+    "diameter": "15,540 km",
+    "atmosphere": [
+      "Historic:",
+      "  Breathable",
+      "Modern:",
+      "  Toxic"
+    ],
+    "climate": "Temperate to arctic",
+    "gravity": "Standard",
+    "terrain": [
+      "Historic:",
+      "  Forests",
+      "  Steppes",
+      "  Hills",
+      "Modern:",
+      "  Barren, rocky wasteland",
+      "  Jungle"
+    ],
+    "water": "Marshy oceans (three landmasses)",
+    "interest": [
+      "Caamas Jedi Temple",
+      "Palace of Memnii"
+    ],
+    "flora": "Thornsniper plant",
+    "fauna": "Behemoth",
+    "species": "Caamasi",
+    "otherspecies": [
+      "Bothan",
+      "Ithorian"
+    ],
+    "language": "Caamasi",
+    "government": "Representative democracy",
+    "population": "250 (after devastation, 80% Caamasi, 14% Ithorian, 6% other)",
+    "cities": "Refuge City",
+    "imports": "Foodstuffs",
+    "exports": "None",
+    "affiliation": [
+      "Infinite Empire",
+      "Herglic Trade Empire",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Caamasi",
+      "directory": "Caamasi (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Caamas",
+    "x": 1705.4,
+    "y": 106.3,
+    "z": 87.7,
+    "region": "Core Worlds",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

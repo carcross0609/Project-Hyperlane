@@ -1,0 +1,44 @@
+{
+  "name": "Keres II",
+  "wookieepedia_title": "Keres II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Keres_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Keres II, alternatively known as Keres Two, was a frozen rock planet. The planet was located in the Empress Teta system of the Deep Core's Koros sector. By 3643 BBY, a mining outpost was set up to harvest carbonite deposits, though it was abruptly abandoned.",
+  "lead_paragraphs": [
+    "Keres II, alternatively known as Keres Two, was a frozen rock planet. The planet was located in the Empress Teta system of the Deep Core's Koros sector. By 3643 BBY, a mining outpost was set up to harvest carbonite deposits, though it was abruptly abandoned."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Keres II",
+    "region": "Deep Core",
+    "sector": "Koros sector",
+    "system": "Empress Teta system",
+    "coordinates": "L-10",
+    "suns": "1: Koros",
+    "position": "9",
+    "moons": "0",
+    "routes": [
+      "Byss Run",
+      "Another hyperlane (c. 17,000 BBY—c. 11,000 BBY)"
+    ],
+    "class": "Terrestrial",
+    "climate": "Cold",
+    "terrain": "Frozen rock",
+    "interest": "Mining outpost",
+    "fauna": "Terentatek"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Keres II",
+    "x": 61.3,
+    "y": -828.1,
+    "z": 74.3,
+    "region": "Deep Core",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

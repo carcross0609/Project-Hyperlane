@@ -1,0 +1,40 @@
+{
+  "name": "Anx",
+  "wookieepedia_title": "Anx/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anx/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Anx were a large, reptilian species of bipeds native to the planet Gravlex Med, a high gravity world located in Anx Space on the Outer Rim Territories.",
+  "data": {
+    "name": "Anx",
+    "designation": "Sentient",
+    "class": "Reptilian",
+    "height": "4 meters",
+    "skincolor": [
+      "Blue",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Hunched stature",
+      "Mood sensitive crests",
+      "Tails"
+    ],
+    "lifespan": [
+      "75+ years",
+      "Child: 1-10 years",
+      "Young adult: 11-15 years",
+      "Adult: 16-54 years",
+      "Middle age: 55-74 years",
+      "Old: 74-104 years",
+      "Venerable: 110+ years"
+    ],
+    "origin": "Gravlex Med",
+    "language": [
+      "Anx",
+      "Galactic Basic Standard",
+      "Shusugaunt"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Gravlex Med (Legends)"
+}

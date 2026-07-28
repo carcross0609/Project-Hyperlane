@@ -1,0 +1,44 @@
+{
+  "name": "Agaris",
+  "wookieepedia_title": "Agaris",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Agaris",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Agaris was a planet with a damp, clammy climate located on the very edge of Wild Space and was the adopted homeworld of the Agarian species. During the Clone Wars, Tualon Yaluna's company used Agaris in an attempt to hide their approach to Olgothon 3 during a mission to find Ginntho. Before the birth of their daughter Lina, the cartographers Auric and Rhyssa Graf visited the world. During the reign of Emperor Palpatine, Agaris hosted an Imperial mining compound. The mining compound was established by the Empire in an effort to mine quadanium for the construction of the Death Star, a battle station armed with a weapon powerful enough to destroy an entire planet.",
+  "lead_paragraphs": [
+    "Agaris was a planet with a damp, clammy climate located on the very edge of Wild Space and was the adopted homeworld of the Agarian species. During the Clone Wars, Tualon Yaluna's company used Agaris in an attempt to hide their approach to Olgothon 3 during a mission to find Ginntho. Before the birth of their daughter Lina, the cartographers Auric and Rhyssa Graf visited the world. During the reign of Emperor Palpatine, Agaris hosted an Imperial mining compound. The mining compound was established by the Empire in an effort to mine quadanium for the construction of the Death Star, a battle station armed with a weapon powerful enough to destroy an entire planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Agaris",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Agaris system",
+    "coordinates": "G-14",
+    "suns": "At least 1: Agaris' sun",
+    "moons": "At least 1: Agaris' moon",
+    "climate": "Damp",
+    "interest": "Imperial compound",
+    "flora": "Mushroom",
+    "species": "Agarian (adopted)",
+    "language": "Agarian language",
+    "exports": "Quadanium steel",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Agarian",
+      "directory": "Agarian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Agaris",
+    "x": -5890.2,
+    "y": -10305.7,
+    "z": 484.2,
+    "region": "Wild Space",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

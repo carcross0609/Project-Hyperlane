@@ -1,0 +1,44 @@
+{
+  "name": "Mountain",
+  "wookieepedia_title": "Mountain (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mountain_%28planet%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Mountain was a planet of the Aakaash system, which was ruled by the Land & Sky Corporation. It was noted to be a polluted world with many areas being particularly high in deadly toxins or Radiation. The environment was unstable with weather-based natural disasters being relatively common, and the planet was inhabited by ferocious fauna.",
+  "lead_paragraphs": [
+    "Mountain was a planet of the Aakaash system, which was ruled by the Land & Sky Corporation. It was noted to be a polluted world with many areas being particularly high in deadly toxins or Radiation. The environment was unstable with weather-based natural disasters being relatively common, and the planet was inhabited by ferocious fauna."
+  ],
+  "article_sections": [
+    "Behind the Scenes"
+  ],
+  "data": {
+    "name": "Mountain",
+    "region": "Outer Rim Territories",
+    "sector": "Oplovis sector",
+    "system": "Aakaash system",
+    "coordinates": "M-5",
+    "suns": "1 (Aakaash)",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (heavily polluted)",
+    "terrain": [
+      "Barren mountains",
+      "Turbulent rivers"
+    ],
+    "water": "Present",
+    "interest": "Black lake",
+    "fauna": "Ripper otter",
+    "species": "Loongren",
+    "otherspecies": "Human",
+    "language": "Land & Sky language",
+    "affiliation": "Land & Sky Corporation"
+  },
+  "homeworld_of": [
+    {
+      "name": "Loongren",
+      "directory": "Loongren",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

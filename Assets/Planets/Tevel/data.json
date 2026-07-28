@@ -1,0 +1,46 @@
+{
+  "name": "Tevel",
+  "wookieepedia_title": "Tevel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tevel",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tevel was a grassland planet in the Outer Rim Territories that was home to the Tevellan species. It was the location of a New Republic bacta production plant. The First Order annexed the planet, and the Tevellans requested assistance from the Resistance. Finn and Poe Dameron were sent to Tevel, and managed to liberate the bacta production plant from the First Order. The Resistance acquired a supply of bacta from Tevel, which was delivered elsewhere by Finn and Chewbacca.",
+  "lead_paragraphs": [
+    "Tevel was a grassland planet in the Outer Rim Territories that was home to the Tevellan species. It was the location of a New Republic bacta production plant. The First Order annexed the planet, and the Tevellans requested assistance from the Resistance. Finn and Poe Dameron were sent to Tevel, and managed to liberate the bacta production plant from the First Order. The Resistance acquired a supply of bacta from Tevel, which was delivered elsewhere by Finn and Chewbacca."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tevel",
+    "region": "Outer Rim Territories",
+    "sector": "Prefsbelt sector",
+    "system": "Tevel system",
+    "coordinates": "J-5",
+    "moons": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": "Grasslands",
+    "interest": "Tevel bacta production plant",
+    "species": "Tevellan",
+    "exports": "Bacta",
+    "affiliation": [
+      "New Republic",
+      "First Order (occupation)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tevellan",
+      "directory": "Tevellan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Tevel",
+    "x": -717.8,
+    "y": -760.0,
+    "z": 22.4,
+    "region": "Other",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

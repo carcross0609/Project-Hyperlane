@@ -1,0 +1,24 @@
+{
+  "name": "Unidentified Banas species",
+  "wookieepedia_title": "Unidentified Banas species",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Banas_species",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "A sentient species was native to the planet Banas. They had blue, gray, or white colored skin. Halorum and Moular were members of this species.",
+  "data": {
+    "name": "Unidentified Banas species",
+    "designation": "Sentient",
+    "skincolor": [
+      "Blue",
+      "Gray",
+      "White"
+    ],
+    "distinctions": [
+      "Horns",
+      "Hooves"
+    ],
+    "origin": "Banas"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Banas"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Vendetta",
+  "wookieepedia_title": "Vendetta (Dreadnaught-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vendetta_%28Dreadnaught-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Vendetta was a Dreadnaught-class heavy cruiser serving in the forces of the Galactic Empire.",
+  "data": {
+    "name": "Vendetta",
+    "manufacturer": "Rendili StarDrive",
+    "line": "Heavy cruiser",
+    "model": "Dreadnaught-class heavy cruiser",
+    "type": "Capital ship",
+    "cost": "Not available for sale",
+    "length": "600 meters",
+    "hyperdrive": [
+      "Class 2",
+      "Backup: Class 18"
+    ],
+    "navigation": "Equipped",
+    "armament": [
+      "Turbolaser cannons (10)",
+      "Quad turbolaser cannons (20)",
+      "Turbolaser batteries (10)"
+    ],
+    "passengers": "Troops (3,000)",
+    "capacity": "9,000 metric tons",
+    "consumables": "2 years",
+    "destroyed": "11 ABY, Battle of Anoth",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

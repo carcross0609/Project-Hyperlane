@@ -1,0 +1,22 @@
+# Y-99
+
+**Kind:** Individual  
+**Continuity:** Canon  
+**Source:** [Y-99](https://starwars.fandom.com/wiki/Y-99)
+
+Y-99 was a droid who served the crime lord Jabba the Hutt. The droid was one of several enforcers who Jabba sent to the Hutt homeworld of Nal Hutta to disrupt negotiations between the Hutts and the Jedi Order. Y-99 and its accomplices boarded the Vessel, the transport starship that the Jedi had used to travel to the planet. The enforcers took the Vessel owner, Affie Hollow, and the Jedi Padawan Qort prisoner and turned the ship's weapons against the Hutt forces on the ground. At the time, Y-99 was malfunctioning, causing Torvor to question if the droid would ever be fixed. A Hutt attack squad began to fire upon the Vessel, but the ship's navigator, Geode, regained control and outmaneuvered them. Following the escape, Y-99 began to speak clearly, astonished by the events. However, in the chaos, Hollow and Qort had managed to slip free from the enforcers and hide elsewhere in the ship, and the leader of Jabba's group declared that they needed to be found. The droid was destroyed by the Parwan Jedi Obratuk Glii and was dismantled into numerous pieces with his lightsabers.
+
+## Specifications
+
+- **Type:** Hutt Cartel
+- **Name:** Y-99
+- **Death:** 231 BBY, Vessel, above Nal Hutta
+- **Sensor:** White
+- **Plating:** Gray
+- **Affiliation:**
+  - Hutt Clan
+  -   Jabba's criminal empire
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

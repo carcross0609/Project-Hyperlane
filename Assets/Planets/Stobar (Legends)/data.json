@@ -1,0 +1,47 @@
+{
+  "name": "Stobar",
+  "wookieepedia_title": "Stobar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stobar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Stobar was a dark and shadowy planet in the Boeus sector of the Expansion Region, and was known for being a very violent planet, for its many criminals.",
+  "lead_paragraphs": [
+    "Stobar was a dark and shadowy planet in the Boeus sector of the Expansion Region, and was known for being a very violent planet, for its many criminals."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Stobar",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Boeus sector",
+    "system": "Stobar system",
+    "coordinates": "M-15",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "interest": [
+      "Stobar Spaceport",
+      "  Plop Dribble's"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Balnab",
+      "Rodians",
+      "Twi'leks"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Stobar",
+    "x": 2104.5,
+    "y": -7951.4,
+    "z": 88.3,
+    "region": "Expansion Region",
+    "grid": "M-15"
+  },
+  "scraped": "2026-07-03"
+}

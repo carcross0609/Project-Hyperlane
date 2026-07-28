@@ -1,0 +1,29 @@
+# Lankor VI
+
+**Continuity:** Unknown  
+**Source:** [Lankor VI](https://starwars.fandom.com/wiki/Lankor_VI)
+
+Lankor VI was the sixth planet in its system, and was orbited by three moons. It had a temperate climate and was home to the Lankorians, an intelligent species of skinny bipeds, with long arms and a sugar-loaf shaped head. The Lankorian civilization was feudal and not significantly industrialized by the time of the Galactic Civil War. An important town on the planet was Rham'Dhaam.
+
+During the Galactic Civil War, the planet was controlled by the Flight Unlimited Group (FUG), an Imperial-aligned corporation that specialized in designing high-speed spacecraft. They stationed a number of capital ships in orbit around the planet, including an Interdictor cruiser, a frigate and a dreadnaught. The Lankorians were largely ambivalent about FUG control, although its presence did allow for embryonic star trade. The Rebel Alliance managed to establish a sleeper cell of local on the planet, in preparation for eventual liberation.
+
+The FUG established a research base 75 kilometers from Rham'Dhaam, within a large mountain. There, they developed a prototype starship called the Trait Luminique. It possessed incredible energy boosters and a powerful hyperdrive. Word of this prototype reached the Rebel Alliance through Professor Adazian Loh'Khar. A dissident scientist working for the FUG, Loh'Khar worked for the FUG under duress; the FUG threatened his family living on his homeworld of Arthézia. However, when the Alliance freed his family, Loh'Khar fed them information on the ship. While most of the Alliance was preparing to attack the gathered Imperial forces at Endor, a small strike force was sent to rescue Loh'Khar and steal the prototype.
+
+## Planetary data
+
+- **Name:** Lankor VI
+- **Sector:** Lankor sector
+- **Position:** 6
+- **Moons:** 3
+- **Terrain:** Mountains
+- **Interest:** Flight Unlimited Group base
+- **Species:** Lankorian
+- **Otherspecies:** Humans
+- **Cities:** Rham'Dhaam
+- **Affiliation:**
+  - Flight Unlimited Group
+  - Galactic Empire
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

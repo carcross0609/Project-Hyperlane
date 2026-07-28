@@ -1,0 +1,24 @@
+{
+  "name": "Hold-out blaster",
+  "wookieepedia_title": "Hold-out blaster/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hold-out_blaster/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Hold-out blasters (also holdout blaster or hold-out blaster pistol) were small, palm-sized blasters that could be easily concealed. Underpowered and short-ranged, hold-out blasters were the weapon of choice for undercover agents and criminals since they were illegal in many systems.",
+  "data": {
+    "name": "Hold-out blaster",
+    "type": "Blaster pistol",
+    "cost": "200 to 300 credits (Illegal)",
+    "size": "Handheld",
+    "weight": "0.5 kg",
+    "capacity": "6 shots",
+    "range": "Optimum: up to 3 m",
+    "purpose": [
+      "Concealed weapon",
+      "Backup weapon",
+      "Self-defense"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

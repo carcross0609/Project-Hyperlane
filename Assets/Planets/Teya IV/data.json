@@ -1,0 +1,47 @@
+{
+  "name": "Teya IV",
+  "wookieepedia_title": "Teya IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Teya_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Teya IV was a planet located within the Teya system of the Expansion Region and was the homeworld of the Strak. It was where Willm Lywin founded the Teyan Praxeum in 4600 BBY. In 4000 BBY, Mistress Tannis taught Vici Ramunee and Veni Ramunee at the Praxeum. This is where the Teyan Apologia was written. The planet was made up of many villages and hamlets, with no real colonization.",
+  "lead_paragraphs": [
+    "Teya IV was a planet located within the Teya system of the Expansion Region and was the homeworld of the Strak. It was where Willm Lywin founded the Teyan Praxeum in 4600 BBY. In 4000 BBY, Mistress Tannis taught Vici Ramunee and Veni Ramunee at the Praxeum. This is where the Teyan Apologia was written. The planet was made up of many villages and hamlets, with no real colonization."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Teya IV",
+    "region": [
+      "Expansion Region",
+      "Northern Dependencies"
+    ],
+    "sector": "Lostar sector",
+    "system": "Teya system",
+    "coordinates": "M-7",
+    "suns": "Teya",
+    "position": "4",
+    "interest": [
+      "Cave of Truth",
+      "Teyan Praxeum"
+    ],
+    "flora": "Vende",
+    "species": "Strak",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Strak",
+      "directory": "Strak",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Teya IV",
+    "x": 2080.0,
+    "y": 3251.9,
+    "z": -192.7,
+    "region": "Expansion Region",
+    "grid": "M-7"
+  },
+  "scraped": "2026-07-03"
+}

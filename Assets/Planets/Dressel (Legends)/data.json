@@ -1,0 +1,78 @@
+{
+  "name": "Dressel",
+  "wookieepedia_title": "Dressel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dressel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dressel was the homeworld of the Dressellians and primary world of the Dressel system.",
+  "lead_paragraphs": [
+    "Dressel was the homeworld of the Dressellians and primary world of the Dressel system."
+  ],
+  "article_sections": [
+    "Geography",
+    "History"
+  ],
+  "data": {
+    "name": "Dressel",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Noolian sector",
+    "system": "Dressel system",
+    "coordinates": "Q-13",
+    "suns": "1",
+    "moons": "0",
+    "routes": "Askar Trace",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen mix, Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Grassy plains",
+      "Hills",
+      "Forests"
+    ],
+    "interest": "Breehara",
+    "flora": "Steepara tree",
+    "fauna": [
+      "Astrigia",
+      "Cuirreal climber",
+      "Erselu",
+      "Panagra"
+    ],
+    "species": "Dressellian",
+    "language": "Dressellese",
+    "population": "1 billion to 10 billion",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "Alliance of Free Planets",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Dressellian",
+      "directory": "Dressellian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Dressellian",
+      "directory": "Dressellian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dressel",
+    "x": 8692.8,
+    "y": -5653.3,
+    "z": -189.3,
+    "region": "Mid Rim",
+    "grid": "Q-13"
+  },
+  "scraped": "2026-07-03"
+}

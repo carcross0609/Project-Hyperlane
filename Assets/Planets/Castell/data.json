@@ -1,0 +1,59 @@
+{
+  "name": "Castell",
+  "wookieepedia_title": "Castell",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Castell",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Castell, also known as Gossam, was a planet located in the Castell system of the Colonies, situated along the Perlemian Trade Route. The Commerce Guild had interests on Castell and their Presidente Shu Mai hailed from the planet. Castell sided with the Confederacy of Independent Systems during the Clone Wars during which it was defended by Diamond-class cruisers, Recusant-class Commerce Guild destroyers, as well as Commerce Guild Bombers and Commerce Guild corvettes. By the time of the Battle of Felucia during the Clone Wars final year, Castell had been captured by Republic forces. During the Clone Wars, the Commerce Guild operated ore facilities on the planet, which were protected by Gossam Commandos. In 3 BBY, the Alderaanian Princess Leia Organa worked with several of her peers in the Imperial Apprentice Legislature to levy sanctions against the planet Lolet. Organa then considered the fates of other planets already suffering from Imperial subjugation, including Gossam, and felt guilty that Lolet's fate would likely be the same. During the Galactic Civil War, it was a colony world of the Galactic Empire under Imperial occupation. It was ruled by its sector's Imperial governor, Moff Ssaria.",
+  "lead_paragraphs": [
+    "Castell, also known as Gossam, was a planet located in the Castell system of the Colonies, situated along the Perlemian Trade Route. The Commerce Guild had interests on Castell and their Presidente Shu Mai hailed from the planet. Castell sided with the Confederacy of Independent Systems during the Clone Wars during which it was defended by Diamond-class cruisers, Recusant-class Commerce Guild destroyers, as well as Commerce Guild Bombers and Commerce Guild corvettes. By the time of the Battle of Felucia during the Clone Wars final year, Castell had been captured by Republic forces. During the Clone Wars, the Commerce Guild operated ore facilities on the planet, which were protected by Gossam Commandos. In 3 BBY, the Alderaanian Princess Leia Organa worked with several of her peers in the Imperial Apprentice Legislature to levy sanctions against the planet Lolet. Organa then considered the fates of other planets already suffering from Imperial subjugation, including Gossam, and felt guilty that Lolet's fate would likely be the same. During the Galactic Civil War, it was a colony world of the Galactic Empire under Imperial occupation. It was ruled by its sector's Imperial governor, Moff Ssaria."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Castell",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "A sector",
+    "system": "Castell system",
+    "coordinates": "M-9",
+    "routes": "Perlemian Trade Route",
+    "interest": [
+      "Lair of Papa Toren",
+      "Orbital Shipyard CC-24"
+    ],
+    "species": "Gossam",
+    "otherspecies": "Human",
+    "government": "Imperial Governor",
+    "cities": "A city",
+    "exports": "Ores",
+    "affiliation": [
+      "Commerce Guild",
+      "Confederacy of Independent Systems",
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Gossam",
+      "directory": "Gossam",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gossam",
+      "directory": "Gossam (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Castell",
+    "x": 2092.9,
+    "y": 1203.8,
+    "z": -18.1,
+    "region": "Colonies",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

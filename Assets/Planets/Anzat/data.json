@@ -1,0 +1,44 @@
+{
+  "name": "Anzat",
+  "wookieepedia_title": "Anzat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anzat",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Anzat was a planet located in the Anzat system in the Bryx sector of the Mid Rim Territories. It was the homeworld of the Anzati species.",
+  "lead_paragraphs": [
+    "Anzat was a planet located in the Anzat system in the Bryx sector of the Mid Rim Territories. It was the homeworld of the Anzati species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Anzat",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Bryx sector",
+    "system": "Anzat system",
+    "coordinates": "R-7",
+    "species": "Anzati"
+  },
+  "homeworld_of": [
+    {
+      "name": "Anzat",
+      "directory": "Anzat (species)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Anzati",
+      "directory": "Anzati",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Anzat",
+    "x": 10202.1,
+    "y": 3123.8,
+    "z": 446.3,
+    "region": "Mid Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

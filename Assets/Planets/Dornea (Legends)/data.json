@@ -1,0 +1,51 @@
+{
+  "name": "Dornea",
+  "wookieepedia_title": "Dornea/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dornea/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dornea was the homeworld of the Dornean species. The planet was located in the Dornean system of the Dominus sector, which bordered the Calamari sector out on the Slice.",
+  "lead_paragraphs": [
+    "Dornea was the homeworld of the Dornean species. The planet was located in the Dornean system of the Dominus sector, which bordered the Calamari sector out on the Slice."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Dornea",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Dominus sector",
+    "system": "Dornean system",
+    "coordinates": "U-7",
+    "routes": "Prously's Rim Run",
+    "interest": "Braha'tok",
+    "species": "Dorneans",
+    "government": "Dornean government",
+    "demonym": "Dornean",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Dornean",
+      "directory": "Dornean",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Dornean",
+      "directory": "Dornean (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dornea",
+    "x": 14098.0,
+    "y": 4242.3,
+    "z": -0.0,
+    "region": "Outer Rim",
+    "grid": "U-7"
+  },
+  "scraped": "2026-07-03"
+}

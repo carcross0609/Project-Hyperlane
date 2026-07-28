@@ -1,0 +1,164 @@
+{
+  "name": "Batuu",
+  "wookieepedia_title": "Batuu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Batuu",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Batuu was a remote terrestrial planet on the edge of the galaxy's Outer Rim Territories, in the Batuu system of the Trilon sector. Batuu's surface was covered in jungles, oceans, and the petrified remains of ancient trees, referred to by the local Batuuans as \"spires,\" which towered over the planet's landscapes. Millennia before the rise of the Galactic Empire and prior to the invention of hyperspace travel, Batuu was a popular stopping point for those traveling to Wild Space and the Unknown Regions. However, the opening of hyperspace routes caused the planet to be bypassed, resulting in the deterioration of the planet's reputation into that of a forgotten backwater world.",
+  "lead_paragraphs": [
+    "Batuu was a remote terrestrial planet on the edge of the galaxy's Outer Rim Territories, in the Batuu system of the Trilon sector. Batuu's surface was covered in jungles, oceans, and the petrified remains of ancient trees, referred to by the local Batuuans as \"spires,\" which towered over the planet's landscapes. Millennia before the rise of the Galactic Empire and prior to the invention of hyperspace travel, Batuu was a popular stopping point for those traveling to Wild Space and the Unknown Regions. However, the opening of hyperspace routes caused the planet to be bypassed, resulting in the deterioration of the planet's reputation into that of a forgotten backwater world.",
+    "The largest settlement on the planet was the ancient trading post Black Spire Outpost. By the time of the war between the Resistance and the First Order, the outpost had devolved into a seedy smuggler's haven run by the intimidating Blutopian Oga Garra. The world was also home to farming communities, such as Peka and Surabat, and the town of Galma, known for its mechanics."
+  ],
+  "article_sections": [
+    "Description",
+    "  Flora",
+    "  Fauna",
+    "History",
+    "  Early history",
+    "  High Republic Era",
+    "  Clone Wars",
+    "    Separatist entanglements",
+    "    A senator's investigations",
+    "    More unwanted visitors",
+    "    Uncovered operations",
+    "  Imperial era",
+    "    Grysk operations",
+    "    Imperial intervention",
+    "    Valance versus the Devaronians",
+    "    Guavian Death Gang raid",
+    "  The First Order and the Resistance",
+    "Inhabitants",
+    "Locations",
+    "  Black Spire Outpost",
+    "  Other settlements"
+  ],
+  "data": {
+    "name": "Batuu",
+    "region": [
+      "Outer Rim Territories",
+      "  Galactic Frontier",
+      "Western Reaches"
+    ],
+    "sector": "Trilon sector",
+    "system": "Batuu system",
+    "coordinates": "G-15",
+    "xyz": "-401.72, -561.84, 004.32",
+    "suns": [
+      "3:",
+      "Ubaat I",
+      "Ubaat II",
+      "Ubaat III"
+    ],
+    "moons": [
+      "2:",
+      "Destra",
+      "Valara"
+    ],
+    "routes": [
+      "Batuu–Ponemah hyperlane",
+      "Xala–Cermau hyperlane"
+    ],
+    "lengthday": "24 hours",
+    "lengthyear": "365 days",
+    "class": "Terrestrial",
+    "diameter": "12,750 kilometers",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Cenotes",
+      "Forests",
+      "Mountains"
+    ],
+    "water": "Rivers",
+    "interest": [
+      "Batuu Wilds",
+      "Black Spire Ruins",
+      "Surabat River Valley",
+      "Batuu Jedi temple"
+    ],
+    "flora": [
+      "Batuu tree",
+      "Surabat grain"
+    ],
+    "fauna": [
+      "Numerous, including:",
+      "Batlizard",
+      "Batuuan braga bear",
+      "Batuuan Rat",
+      "Can-cell",
+      "Flintwing",
+      "Gant spider",
+      "Gruffin",
+      "Kroa bird",
+      "Ollopom",
+      "Pipa bird",
+      "Puffer pig",
+      "Salmaca",
+      "Scalemonk",
+      "Skindle",
+      "Skylar-bird",
+      "Snarlok",
+      "Spiran Firefly",
+      "Therii",
+      "Tooke"
+    ],
+    "otherlife": "Golden Lichen",
+    "species": "Ancients",
+    "otherspecies": [
+      "Numerous, including:",
+      "Amani",
+      "Artiodac",
+      "Bith",
+      "Blutopian",
+      "Devaronian",
+      "Grysk",
+      "Human",
+      "Ithorian",
+      "Lurmen",
+      "Toydarian",
+      "Twi'lek",
+      "Weequay",
+      "Wookiee"
+    ],
+    "language": [
+      "Galactic Basic Standard",
+      "Huttese",
+      "Rhodese",
+      "Twi'leki"
+    ],
+    "population": "200,000",
+    "demonym": "Batuuan",
+    "cities": [
+      "Black Spire Outpost",
+      "Galma",
+      "Peka",
+      "Skirl",
+      "Surabat"
+    ],
+    "imports": [
+      "Green milk",
+      "Blue milk",
+      "Soda"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ancients",
+      "directory": "Ancients (Batuu)",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Batuu",
+    "x": -5817.4,
+    "y": -8333.9,
+    "z": -94.9,
+    "region": "Outer Rim",
+    "grid": "H-15"
+  },
+  "scraped": "2026-07-03"
+}

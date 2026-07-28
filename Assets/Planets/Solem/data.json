@@ -1,0 +1,41 @@
+{
+  "name": "Solem",
+  "wookieepedia_title": "Solem",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Solem",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Solem was a planet in the Outer Rim Territories and the homeworld of a species.",
+  "lead_paragraphs": [
+    "Solem was a planet in the Outer Rim Territories and the homeworld of a species."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Solem",
+    "region": "Outer Rim Territories",
+    "sector": "Rayter sector",
+    "system": "Solem system",
+    "coordinates": "J-19",
+    "moons": "1",
+    "class": "Terrestrial",
+    "terrain": [
+      "Rocks",
+      "Mountains"
+    ],
+    "interest": "Kandaas",
+    "species": "A species",
+    "government": "Solem government",
+    "cities": "G'ai Solem",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Solem species",
+      "directory": "Unidentified Solem species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

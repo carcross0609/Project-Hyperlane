@@ -1,0 +1,40 @@
+{
+  "name": "Duros",
+  "wookieepedia_title": "Duros/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Duros/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Duros (occasionally Durosians) were a humanoid reptilian species native to the planet Duro who were among the galaxy's first space faring civilizations.",
+  "data": {
+    "name": "Duros",
+    "designation": "Sentient",
+    "class": "Reptile",
+    "races": [
+      "Neimoidian",
+      "Near-Duros"
+    ],
+    "height": "1.7 – 2.2 meters",
+    "skincolor": [
+      "Blue",
+      "Green"
+    ],
+    "distinctions": [
+      "Noseless",
+      "Large red eyes",
+      "Affinity for space travel",
+      "Green blood"
+    ],
+    "lifespan": [
+      "Child: 1-9 years",
+      "Young adult: 10-14 years",
+      "Adult: 15-35 years",
+      "Middle age: 36-49 years",
+      "Old: 50-69 years",
+      "Venerable: 70+ years"
+    ],
+    "origin": "Duro",
+    "language": "Durese"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Duro (Legends)"
+}

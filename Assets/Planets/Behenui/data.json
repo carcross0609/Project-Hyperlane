@@ -1,0 +1,36 @@
+{
+  "name": "Behenui",
+  "wookieepedia_title": "Behenui",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Behenui",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Behenui was a planet in the fifth orbit around the star Beheboth. It was the only gas giant in the Beheboth system, which was located in the Sanbra sector, a part of the Trailing Sectors portion of the Outer Rim Territories. Behenui itself was circled by nine moons.",
+  "lead_paragraphs": [
+    "Behenui was a planet in the fifth orbit around the star Beheboth. It was the only gas giant in the Beheboth system, which was located in the Sanbra sector, a part of the Trailing Sectors portion of the Outer Rim Territories. Behenui itself was circled by nine moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Behenui",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Sanbra sector",
+    "system": "Beheboth system",
+    "coordinates": "O-17",
+    "suns": "1: Beheboth",
+    "position": "5",
+    "moons": "9",
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Behenui",
+    "x": 5130.8,
+    "y": -11725.2,
+    "z": -23.7,
+    "region": "Outer Rim",
+    "grid": "O-17"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Nahsu Minor",
+  "wookieepedia_title": "Nahsu Minor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nahsu_Minor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nahsu Minor was a temperate, grassy planet located in the Ktilac Regions, an Allied Region in the Inner Rim. It was the homeworld of the Murachaun species, who, along with the Ktilacs and Tocoyans, two other species native to the region, developed a quasi-religion in which each species was seen as complementary to the other two and constructed a network of cities, towns, and farms. At some time during the Galactic Civil War, the Galactic Empire took thousands of Murachaun off world to work as slaves due to their industrious nature. The planet remained peaceful, although thousands of off-world Murachauns secretly joined the Rebel Alliance. The Ktilac Regions retained Allied Region status under the New Republic and the Galactic Federation of Free Alliances.",
+  "lead_paragraphs": [
+    "Nahsu Minor was a temperate, grassy planet located in the Ktilac Regions, an Allied Region in the Inner Rim. It was the homeworld of the Murachaun species, who, along with the Ktilacs and Tocoyans, two other species native to the region, developed a quasi-religion in which each species was seen as complementary to the other two and constructed a network of cities, towns, and farms. At some time during the Galactic Civil War, the Galactic Empire took thousands of Murachaun off world to work as slaves due to their industrious nature. The planet remained peaceful, although thousands of off-world Murachauns secretly joined the Rebel Alliance. The Ktilac Regions retained Allied Region status under the New Republic and the Galactic Federation of Free Alliances."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nahsu Minor",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Ktilac Regions",
+    "system": "Nahsu Minor system",
+    "coordinates": "N-9",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "terrain": [
+      "Grasslands",
+      "Farming belts"
+    ],
+    "species": "Murachaun",
+    "language": [
+      "Murachau",
+      "Galactic Basic Standard"
+    ],
+    "affiliation": [
+      "Ktilac Regions Confederacy",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Murachaun",
+      "directory": "Murachaun",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nahsu Minor",
+    "x": 157.5,
+    "y": -8173.5,
+    "z": 226.5,
+    "region": "Inner Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

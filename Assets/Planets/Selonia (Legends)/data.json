@@ -1,0 +1,111 @@
+{
+  "name": "Selonia",
+  "wookieepedia_title": "Selonia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Selonia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Selonia was an oceanic planet in the Corellian system. It was one of the Five Brothers, and the homeworld of the Selonian race.",
+  "lead_paragraphs": [
+    "Selonia was an oceanic planet in the Corellian system. It was one of the Five Brothers, and the homeworld of the Selonian race."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Selonia",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "sector": "Corellian sector",
+    "system": "Corellian system",
+    "coordinates": "M-11",
+    "distance": "within 5,000 light-years",
+    "suns": "1: Corell",
+    "position": "4",
+    "moons": "0",
+    "routes": [
+      "Corellian Trade Spine",
+      "Corellian Run",
+      "Secure Route ID-5N",
+      "Trade Route X143"
+    ],
+    "lengthday": "26 standard hours",
+    "lengthyear": "355 standard days",
+    "class": "Terrestrial",
+    "diameter": "14,033 kilometers",
+    "gravity": "Standard",
+    "terrain": [
+      "Oceans",
+      "Islands"
+    ],
+    "interest": [
+      "Chanzari Den",
+      "Cloudland Peaks",
+      "Deepwater Docks",
+      "Kas'as Chen'ru Den",
+      "Kimotte Den",
+      "L'pwacc Den",
+      "Scasmirs Den",
+      "Selonian Shipyards",
+      "Tir'mal Den"
+    ],
+    "fauna": [
+      "Heart-tailed tube larva",
+      "Salerodrex",
+      "Sea monster",
+      "Teryx",
+      "Tunnel worm"
+    ],
+    "species": "Selonian",
+    "otherspecies": [
+      "Chalactan",
+      "Duros",
+      "Ithorian",
+      "Mandalorian",
+      "Selkath",
+      "Rodian",
+      "Sullustan"
+    ],
+    "language": "Mandaba",
+    "population": [
+      "16 million",
+      "99% Selonian",
+      "1% other"
+    ],
+    "exports": "Selonian marble",
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances",
+      "Five Worlds",
+      "Confederation"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Selonian",
+      "directory": "Selonian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Selonian",
+      "directory": "Selonian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Selonia",
+    "x": 2754.4,
+    "y": -1787.3,
+    "z": -140.3,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

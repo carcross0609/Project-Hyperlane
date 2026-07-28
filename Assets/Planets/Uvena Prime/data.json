@@ -1,0 +1,57 @@
+{
+  "name": "Uvena Prime",
+  "wookieepedia_title": "Uvena Prime",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Uvena_Prime",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Uvena Prime, also known as Uvena, was a planet that was the homeworld of the Shistavanen species. Located in the Uvena system in the Seswenna sector of the Outer Rim Territories, it was a world of forested continents and vast oceans. Shistavanens most often remained on their homeworld, distrusting outsiders, though some natives left for the wider galaxy.",
+  "lead_paragraphs": [
+    "Uvena Prime, also known as Uvena, was a planet that was the homeworld of the Shistavanen species. Located in the Uvena system in the Seswenna sector of the Outer Rim Territories, it was a world of forested continents and vast oceans. Shistavanens most often remained on their homeworld, distrusting outsiders, though some natives left for the wider galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Uvena Prime",
+    "region": "Outer Rim Territories",
+    "sector": "Seswenna sector",
+    "system": "Uvena system",
+    "coordinates": "M-18",
+    "suns": "At least 1",
+    "class": "Terrestrial",
+    "climate": "Warm",
+    "terrain": "Forested continents",
+    "water": "Oceans",
+    "species": "Shistavanen",
+    "language": [
+      "Galactic Basic Standard",
+      "Shistavanen language"
+    ],
+    "imports": "Goods and technology",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shistavanen",
+      "directory": "Shistavanen",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Shistavanen",
+      "directory": "Shistavanen (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Uvena Prime",
+    "x": 2612.2,
+    "y": -12160.9,
+    "z": -155.1,
+    "region": "Outer Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

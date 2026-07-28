@@ -1,0 +1,44 @@
+{
+  "name": "Sevetta",
+  "wookieepedia_title": "Sevetta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sevetta",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sevetta was a mercury-rich planet located in the Sevetta system within the Sevetta sector of the Outer Rim. It had toxic air and was home to a mercury-based species that could shape-shift.",
+  "lead_paragraphs": [
+    "Sevetta was a mercury-rich planet located in the Sevetta system within the Sevetta sector of the Outer Rim. It had toxic air and was home to a mercury-based species that could shape-shift."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sevetta",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Sevetta sector",
+    "system": "Sevetta system",
+    "coordinates": "T-16",
+    "species": "A mercury-based species"
+  },
+  "homeworld_of": [
+    {
+      "name": "Polydroxol",
+      "directory": "Polydroxol",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified mercury-based species",
+      "directory": "Unidentified mercury-based species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Sevetta",
+    "x": 13123.9,
+    "y": -10070.9,
+    "z": 387.8,
+    "region": "Outer Rim",
+    "grid": "T-16"
+  },
+  "scraped": "2026-07-03"
+}

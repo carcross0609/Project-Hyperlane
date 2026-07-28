@@ -1,0 +1,24 @@
+{
+  "name": "Crolute",
+  "wookieepedia_title": "Crolute",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crolute",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Crolutes were a hulking aquatic humanoid sentient species from the planet Crul. Crolutes were exclusively male, while their mates, the Gilliands, were exclusively female. When removed from their native saltwater surroundings, Crolutes' buoyant, gelatinous body tissue sagged unsettlingly from their bodies. Like the Mon Calamari, they had flipper-like feet that could fit into standard humanoid boots.",
+  "data": {
+    "name": "Crolute",
+    "designation": "Sentient",
+    "class": "Aquatic humanoid",
+    "height": "1.8 meters",
+    "skincolor": "Light",
+    "distinctions": [
+      "Buoyant body tissue, skin sagged when outside of saltwater",
+      "Exclusively male"
+    ],
+    "origin": "Crul",
+    "habitat": "Saltwater oceans",
+    "language": "Galactic Basic Standard"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Crul"
+}

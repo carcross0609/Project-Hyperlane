@@ -1,0 +1,38 @@
+{
+  "name": "Spirana",
+  "wookieepedia_title": "Spirana/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spirana/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Spirana was an location in the Inner Rim Territories. It was situated along the Corellian Run.",
+  "lead_paragraphs": [
+    "Spirana was an location in the Inner Rim Territories. It was situated along the Corellian Run."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Spirana",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Spirana system",
+    "coordinates": "N-13",
+    "routes": "Corellian Run",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Spirana",
+    "x": 3856.9,
+    "y": -5153.4,
+    "z": -346.4,
+    "region": "Inner Rim",
+    "grid": "N-13"
+  },
+  "scraped": "2026-07-03"
+}

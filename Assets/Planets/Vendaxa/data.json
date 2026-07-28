@@ -1,0 +1,47 @@
+{
+  "name": "Vendaxa",
+  "wookieepedia_title": "Vendaxa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vendaxa",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vendaxa was a fertile planet located in the Expansion Region of the galaxy. It was the homeworld of the acklay, a non-sentient species of crustaceans that inhabited the planet's lush plains.",
+  "lead_paragraphs": [
+    "Vendaxa was a fertile planet located in the Expansion Region of the galaxy. It was the homeworld of the acklay, a non-sentient species of crustaceans that inhabited the planet's lush plains."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Vendaxa",
+    "region": "Expansion Region",
+    "sector": "Chaykin sector",
+    "system": "Vendaxa system",
+    "coordinates": "O-14",
+    "suns": "At least 1",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Forests",
+      "Plains",
+      "Water"
+    ],
+    "fauna": [
+      "Acklay",
+      "Lemnai",
+      "Roggwart",
+      "Vendaxan land squid"
+    ],
+    "demonym": "Vendaxan"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vendaxa",
+    "x": 4802.6,
+    "y": -6849.4,
+    "z": 57.8,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

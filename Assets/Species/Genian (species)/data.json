@@ -1,0 +1,20 @@
+{
+  "name": "Genian",
+  "wookieepedia_title": "Genian (species)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Genian_%28species%29",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Genians were a species native to the planet also known as Genian. They had violet or lavender skin and were known as skilled diplomats.",
+  "data": {
+    "name": "Genian",
+    "designation": "Sentient",
+    "skincolor": [
+      "Violet",
+      "Lavender"
+    ],
+    "haircolor": "White",
+    "origin": "Genian"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Genian"
+}

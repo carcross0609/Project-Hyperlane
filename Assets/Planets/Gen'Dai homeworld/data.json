@@ -1,0 +1,30 @@
+{
+  "name": "Gen'Dai homeworld",
+  "wookieepedia_title": "Gen'Dai homeworld",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gen%27Dai_homeworld",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "A planet was the homeworld of the Gen'Dai species. However, it was reduced to ruin hundreds of years before the Imperial Era.",
+  "lead_paragraphs": [
+    "A planet was the homeworld of the Gen'Dai species. However, it was reduced to ruin hundreds of years before the Imperial Era."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gen'Dai homeworld",
+    "species": "Gen'Dai"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gen'Dai",
+      "directory": "Gen'Dai",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gen'Dai",
+      "directory": "Gen'Dai (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "NaJedha",
+  "wookieepedia_title": "NaJedha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/NaJedha",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "NaJedha was an oceanic crystalline planet in the galaxy's Mid Rim, orbited by the moon Jedha. The Rebel Alliance were briefly stationed on NaJedha during a mission to contact the Partisans.",
+  "lead_paragraphs": [
+    "NaJedha was an oceanic crystalline planet in the galaxy's Mid Rim, orbited by the moon Jedha. The Rebel Alliance were briefly stationed on NaJedha during a mission to contact the Partisans."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "NaJedha",
+    "region": "Freestanding subsectors, Mid Rim Territories",
+    "sector": "Terrabe sector",
+    "system": "Jedha system",
+    "coordinates": "H-10",
+    "suns": "1",
+    "moons": "Jedha",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Crystalline formations",
+      "Oceans"
+    ],
+    "interest": "NaJedha base"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "NaJedha",
+    "x": -1726.7,
+    "y": 4281.4,
+    "z": 82.7,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

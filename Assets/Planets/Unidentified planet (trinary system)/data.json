@@ -1,0 +1,62 @@
+{
+  "name": "Unidentified planet",
+  "wookieepedia_title": "Unidentified planet (trinary system)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_planet_%28trinary_system%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The smuggler Roark Garnet once visited a planet located in a trinary system.",
+  "lead_paragraphs": [
+    "The smuggler Roark Garnet once visited a planet located in a trinary system."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Unidentified planet",
+    "system": "Unidentified trinary system",
+    "suns": "3",
+    "atmosphere": "Breathable for Humans",
+    "climate": "Hot",
+    "terrain": "Canyons"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bartokk",
+      "directory": "Bartokk",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lupr'or",
+      "directory": "Lupr'or",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Unidentified blue humanoid species",
+      "directory": "Unidentified blue humanoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-faced species",
+      "directory": "Unidentified purple-faced species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-skinned humanoid species",
+      "directory": "Unidentified purple-skinned humanoid species",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Unidentified red pachydermoid species",
+      "directory": "Unidentified red pachydermoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified species",
+      "directory": "Unidentified species (seven-ringed homeworld)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

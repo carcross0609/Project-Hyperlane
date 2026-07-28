@@ -1,0 +1,42 @@
+{
+  "name": "Worxer",
+  "wookieepedia_title": "Worxer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Worxer",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Worxer, also called Yablon, was a planet in the stellar drift clouds of Elrood sector. It was destroyed when its sun went supernova around 198 BBY. The Galactic Republic only managed to evacuate a few of the native Spiners, and by the time of the Galactic Civil War, most people believed the species extinct, a mistake not far from the truth. One remaining Spiner, by the name of Hedji, ws part of Han Solo's freelance group the 'Star-hoppers of Aduba 5', he spoke little of his past due to its suggested horror and distress.",
+  "lead_paragraphs": [
+    "Worxer, also called Yablon, was a planet in the stellar drift clouds of Elrood sector. It was destroyed when its sun went supernova around 198 BBY. The Galactic Republic only managed to evacuate a few of the native Spiners, and by the time of the Galactic Civil War, most people believed the species extinct, a mistake not far from the truth. One remaining Spiner, by the name of Hedji, ws part of Han Solo's freelance group the 'Star-hoppers of Aduba 5', he spoke little of his past due to its suggested horror and distress."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Worxer",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Worxer system",
+    "coordinates": "M-20",
+    "moons": "4",
+    "species": "Spiner",
+    "language": "Worxi",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Spiner",
+      "directory": "Spiner",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Worxer",
+    "x": 2444.1,
+    "y": -15623.2,
+    "z": 233.0,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

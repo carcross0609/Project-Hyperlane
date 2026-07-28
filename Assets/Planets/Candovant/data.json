@@ -1,0 +1,41 @@
+{
+  "name": "Candovant",
+  "wookieepedia_title": "Candovant",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Candovant",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Candovant was a planet in the Candovant system of the Colonies region of the galaxy, situated along the Hydian Way and home to the Candovantan species. In the aftermath of the Battle of Endor in 4 ABY, the Galactic Empire targeted Candovant as part of Operation: Cinder, attempting to destroy the world after the death of Emperor Palpatine. The world ultimately saw the devastation of civilizations at the hands of Imperial fleets. Thirty years after the Battle of Endor, Candovant was a member world in the New Republic, where it was represented by Zygli Bruss in the Galactic Senate.",
+  "lead_paragraphs": [
+    "Candovant was a planet in the Candovant system of the Colonies region of the galaxy, situated along the Hydian Way and home to the Candovantan species. In the aftermath of the Battle of Endor in 4 ABY, the Galactic Empire targeted Candovant as part of Operation: Cinder, attempting to destroy the world after the death of Emperor Palpatine. The world ultimately saw the devastation of civilizations at the hands of Imperial fleets. Thirty years after the Battle of Endor, Candovant was a member world in the New Republic, where it was represented by Zygli Bruss in the Galactic Senate."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Candovant",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Candovant system",
+    "coordinates": "N-12",
+    "routes": "Hydian Way",
+    "species": "Candovantan",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Candovantan",
+      "directory": "Candovantan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Candovant",
+    "x": -2253.2,
+    "y": -4958.4,
+    "z": -165.3,
+    "region": "Other",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

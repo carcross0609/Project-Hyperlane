@@ -1,0 +1,28 @@
+{
+  "name": "Trillia",
+  "wookieepedia_title": "Trillia (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trillia_%28planet%29",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Trillia was a desert planet and home of the Kuan'Mar species. During the daytime, temperatures reached above 50°.",
+  "lead_paragraphs": [
+    "Trillia was a desert planet and home of the Kuan'Mar species. During the daytime, temperatures reached above 50°."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Trillia",
+    "class": "Terrestrial",
+    "climate": "Hot",
+    "terrain": "Desert",
+    "species": "Kuan'Mar"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kuan'Mar",
+      "directory": "Kuan'Mar",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

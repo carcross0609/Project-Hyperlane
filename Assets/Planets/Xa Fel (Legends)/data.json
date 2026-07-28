@@ -1,0 +1,55 @@
+{
+  "name": "Xa Fel",
+  "wookieepedia_title": "Xa Fel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xa_Fel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Xa Fel was a populated planet in the Kanchen sector of the Core Worlds. It was the homeworld of the Xa Fel. The planet readily supported all forms of life.",
+  "lead_paragraphs": [
+    "Xa Fel was a populated planet in the Kanchen sector of the Core Worlds. It was the homeworld of the Xa Fel. The planet readily supported all forms of life."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Xa Fel",
+    "region": [
+      "Core Worlds",
+      "The Negs"
+    ],
+    "sector": "Kanchen sector",
+    "system": "Xa Fel system",
+    "coordinates": "K-9",
+    "lengthday": "31 standard hours",
+    "lengthyear": "379 local days",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": "Urban",
+    "species": "Xa Fel",
+    "government": "KDY Executive Board",
+    "population": "16 billion (9 ABY)",
+    "imports": "Water, foodstuffs, mid tech, high tech, computer components",
+    "exports": "Hyperdrive engines",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Xa Fel",
+      "directory": "Xa Fel (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Xa Fel",
+    "x": -1390.5,
+    "y": 495.7,
+    "z": 23.5,
+    "region": "Core Worlds",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

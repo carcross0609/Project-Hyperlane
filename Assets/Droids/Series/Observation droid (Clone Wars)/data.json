@@ -1,0 +1,23 @@
+{
+  "name": "Observation droid (Clone Wars)",
+  "wookieepedia_title": "Observation droid (Clone Wars)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Observation_droid_%28Clone_Wars%29",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The observation droid was a model of probe droid manufactured by Arakyd Industries. It was utilized by a multitude of factions during the Clone Wars, including the Galactic Republic, the Pyke Syndicate, and the Zygerrian Slave Empire. A sentry droid model used by the Galactic Empire was visually similar to the observation droid.",
+  "data": {
+    "name": "Observation droid",
+    "manufacturer": "Arakyd Industries",
+    "class": "Probe droid",
+    "sensor": "Red",
+    "plating": "Black",
+    "affiliation": [
+      "Galactic Republic",
+      "  Kamino security",
+      "Pyke Syndicate",
+      "Zygerrian Slave Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

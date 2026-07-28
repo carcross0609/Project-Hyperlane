@@ -1,0 +1,40 @@
+{
+  "name": "Koorivar",
+  "wookieepedia_title": "Koorivar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Koorivar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Koorivar were a sentient species of humanoids distinguished by their banded noses and a slender cranial horn that spiraled upwards from the center of their skull. A shrewd people, the Koorivar strove to make their society one where corporate-mindedness was essential to each citizen. Through the combined efforts of the Koorivar people, these sentients were able to purchase a new homeworld called Kooriva from the Galactic Republic, following the loss of their native planet.",
+  "data": {
+    "name": "Koorivar",
+    "designation": "Sentient",
+    "height": "1.9 meters (Without horn)",
+    "skincolor": [
+      "Male:",
+      "Black",
+      "Blue",
+      "Green",
+      "Female:",
+      "Magenta",
+      "Mauve"
+    ],
+    "eyecolor": [
+      "Green",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Cranial horns",
+      "Scaly reptilian skin"
+    ],
+    "origin": [
+      "Kooriva (Adopted)",
+      "Koorivar homeworld (Abandoned)"
+    ],
+    "language": [
+      "Koorivar",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Kooriva (Legends)"
+}

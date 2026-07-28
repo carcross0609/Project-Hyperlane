@@ -1,0 +1,59 @@
+{
+  "name": "Little Kessel",
+  "wookieepedia_title": "Little Kessel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Little_Kessel",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Little Kessel was a planet located in the Kessel sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Little Kessel was a planet located in the Kessel sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Cold War",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Little Kessel",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Little Kessel system",
+    "coordinates": "T-10",
+    "routes": "Pabol Sleheyron",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Fungi forests",
+      "Titanic mushrooms",
+      "Volcanoes"
+    ],
+    "interest": [
+      "Giant Fungi Forest",
+      "  Volz Complex"
+    ],
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "demonym": "Kesselian",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kesselian",
+      "directory": "Kesselian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Little Kessel",
+    "x": 12951.9,
+    "y": -316.0,
+    "z": -348.4,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

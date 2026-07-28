@@ -1,0 +1,43 @@
+{
+  "name": "Greyman's Planet",
+  "wookieepedia_title": "Greyman's Planet",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Greyman%27s_Planet",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Greyman's Planet was an industrialized Outer Rim Territories planet located in the Wazta sector. It was controlled by the Galactic Empire during the Galactic Civil War, and at one point the Rebel Alliance executed a mission to transport supplies from it to the Alliance's outpost on the planet Karinda. As part of the mission, a team of Rebel agents, posing as employees of a front company, were able to retrieve the impounded supplies from Da'Harrin Spaceport on Greyman's Planet and, after a shootout with an Imperial patrol, their light freighter departed the planet's star system.",
+  "lead_paragraphs": [
+    "Greyman's Planet was an industrialized Outer Rim Territories planet located in the Wazta sector. It was controlled by the Galactic Empire during the Galactic Civil War, and at one point the Rebel Alliance executed a mission to transport supplies from it to the Alliance's outpost on the planet Karinda. As part of the mission, a team of Rebel agents, posing as employees of a front company, were able to retrieve the impounded supplies from Da'Harrin Spaceport on Greyman's Planet and, after a shootout with an Imperial patrol, their light freighter departed the planet's star system."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Greyman's Planet",
+    "region": "Outer Rim Territories",
+    "sector": "Wazta sector",
+    "system": "Soarin system",
+    "coordinates": "J-18",
+    "class": "Terrestrial",
+    "interest": [
+      "Da'Harrin Spaceport",
+      "Galactic Empire garrison",
+      "A tavern"
+    ],
+    "government": "A planetary government",
+    "cities": "A city",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Greyman's Planet",
+    "x": 491.5,
+    "y": 8477.5,
+    "z": 135.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

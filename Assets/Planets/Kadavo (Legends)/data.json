@@ -1,0 +1,39 @@
+{
+  "name": "Kadavo",
+  "wookieepedia_title": "Kadavo/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kadavo/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kadavo was a planet in the Kadavo system of Wild Space. During the Clone Wars, it was under the control of the Zygerrian Slave Empire.",
+  "lead_paragraphs": [
+    "Kadavo was a planet in the Kadavo system of Wild Space. During the Clone Wars, it was under the control of the Zygerrian Slave Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kadavo",
+    "region": "Wild Space",
+    "system": "Kadavo system",
+    "coordinates": "S-4",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Frigid",
+    "terrain": "Volcanic",
+    "interest": "Kadavo slave processing facility",
+    "otherspecies": "Zygerrians",
+    "language": "Galactic Basic Standard",
+    "affiliation": "Zygerrian Slave Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kadavo",
+    "x": 11840.0,
+    "y": 8354.1,
+    "z": -494.1,
+    "region": "Wild Space",
+    "grid": "S-4"
+  },
+  "scraped": "2026-07-03"
+}

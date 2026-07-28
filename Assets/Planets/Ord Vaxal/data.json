@@ -1,0 +1,58 @@
+{
+  "name": "Ord Vaxal",
+  "wookieepedia_title": "Ord Vaxal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ord_Vaxal",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ord Vaxal was a planet in the Inner Rim of the galaxy.",
+  "lead_paragraphs": [
+    "Ord Vaxal was a planet in the Inner Rim of the galaxy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ord Vaxal",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Callia sector",
+    "system": "Vaxal system",
+    "coordinates": "N-13",
+    "suns": "1: Vaxal",
+    "position": "4",
+    "moons": "1",
+    "lengthday": "25 standard hours",
+    "lengthyear": "288 standard days",
+    "class": "Terrestrial",
+    "diameter": "11,254 kilometers",
+    "terrain": [
+      "Rainforests",
+      "Oceans",
+      "Aquamarine grassy plains",
+      "Polar tundra"
+    ],
+    "otherspecies": [
+      "Hutts",
+      "Humans",
+      "Rodians",
+      "Aqualish",
+      "Quarren"
+    ],
+    "language": "Huttese",
+    "population": "180,000",
+    "cities": "Tof Soren (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ord Vaxal",
+    "x": 3863.8,
+    "y": -5654.1,
+    "z": 94.1,
+    "region": "Inner Rim",
+    "grid": "N-13"
+  },
+  "scraped": "2026-07-03"
+}

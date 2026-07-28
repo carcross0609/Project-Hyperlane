@@ -1,0 +1,45 @@
+{
+  "name": "Graf-World",
+  "wookieepedia_title": "Graf-World",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Graf-World",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "\"Graf-World\" was the nickname of an uncharted swamp planet located in the galaxy's Wild Space region. It was discovered by Auric and Rhyssa Graf, who were arrested by Captain Visler Aqorian Korda III of the Imperial Navy, who claimed it for the Galactic Empire.",
+  "lead_paragraphs": [
+    "\"Graf-World\" was the nickname of an uncharted swamp planet located in the galaxy's Wild Space region. It was discovered by Auric and Rhyssa Graf, who were arrested by Captain Visler Aqorian Korda III of the Imperial Navy, who claimed it for the Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Graf-World",
+    "region": "Wild Space",
+    "terrain": [
+      "Caves",
+      "Mountains",
+      "Swamps"
+    ],
+    "flora": [
+      "Creepervines",
+      "Marshweeds",
+      "Trees"
+    ],
+    "fauna": [
+      "Ash-rabbits",
+      "Horned billipedes",
+      "Kinor bats",
+      "Razor-boars",
+      "Skim-snakes",
+      "Sludge salamanders"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Graf-World",
+    "x": 5242.0,
+    "y": 10419.6,
+    "z": -152.7,
+    "region": "Wild Space",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Kudo",
+  "wookieepedia_title": "Kudo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kudo",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kudo was a desert planet located in the Kudo system of the Corvair sector of the Inner Rim Territories, orbited by at least three moons. Kudo III, one of Kudo's moons, was inhabited by the Kudon species. During the Galactic Civil War, the Galactic Empire ran a mining operation on Kudo, which was taken over by Admiral Gratloe when he defected, forming his own splinter faction.",
+  "lead_paragraphs": [
+    "Kudo was a desert planet located in the Kudo system of the Corvair sector of the Inner Rim Territories, orbited by at least three moons. Kudo III, one of Kudo's moons, was inhabited by the Kudon species. During the Galactic Civil War, the Galactic Empire ran a mining operation on Kudo, which was taken over by Admiral Gratloe when he defected, forming his own splinter faction."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Kudo",
+    "region": "Inner Rim Territories",
+    "sector": "Corvair sector",
+    "system": "Kudo system",
+    "coordinates": "K-14",
+    "moons": [
+      "At least 3",
+      "  Kudo III"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": "Desert",
+    "interest": "Kudo mining facility",
+    "species": "Kudon",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kudon",
+      "directory": "Kudon",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

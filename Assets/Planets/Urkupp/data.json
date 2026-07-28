@@ -1,0 +1,42 @@
+{
+  "name": "Urkupp",
+  "wookieepedia_title": "Urkupp",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Urkupp",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Urkupp was a planet located within the Urkupp system of the Outer Rim Territories. The homeworld of the Dashade race, Urkupp was destroyed in 3996 BBY by the creation of the Cron Drift during the Great Sith War. However the Dashade survived by having offworld colonies.",
+  "lead_paragraphs": [
+    "Urkupp was a planet located within the Urkupp system of the Outer Rim Territories. The homeworld of the Dashade race, Urkupp was destroyed in 3996 BBY by the creation of the Cron Drift during the Great Sith War. However the Dashade survived by having offworld colonies.",
+    "Khem Val commented that the green, toxic air in Taris' ChemWorks Factory reminded him of Urkupp."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Urkupp",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Auril sector",
+    "system": "Urkupp system",
+    "coordinates": "R-6",
+    "species": "Dashade",
+    "language": "Dashadi",
+    "affiliation": "Sith Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Dashade",
+      "directory": "Dashade (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Urkupp",
+    "x": 9878.4,
+    "y": 3759.6,
+    "z": 155.6,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

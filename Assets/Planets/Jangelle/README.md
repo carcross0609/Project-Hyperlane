@@ -1,0 +1,30 @@
+# Jangelle
+
+**Continuity:** Legends  
+**Source:** [Jangelle](https://starwars.fandom.com/wiki/Jangelle)
+**Galaxy atlas:** system `Jangelle`, Outer Rim — map position (-6095.5, -8109.1, 55.0)
+
+Jangelle was a planet in the Kathol sector. A temperate world of sandy lowlands, it was crossed with many interlinking rivers, streams and deltas, although it had few large bodies of water.
+
+The planet was settled by refugees fleeing the presence of the Galactic Empire in the Kathol sector. It was a low-tech, but largely self-sufficient colony, requiring only a few supply runs a year to Gandle Ott or Pembric II. These mostly included replacement parts for the three orbital weather satellites, power generators and the few dozen droids on the planet.
+
+Jangelle had a mutual defense pact with the Kathol Republic, with the Republic's corvettes supplementing the colony's two capital ships. The colony was also defended by two ion cannons positioned close to the settlement for orbital defense. Jangelle's isolation meant it was behind on important news and knew little about the New Republic. Word of the Emperor's death had reached them, but was presumed to be due to internal power struggles within the Empire, rather than the revolutionary movement. The colonists were also slow in receiving word of Moff Kentor Sarne's retreat.
+
+## Planetary data
+
+- **Name:** Jangelle
+- **Region:** Outer Rim Territories
+- **Sector:**
+  - Kathol sector
+  -   Kathol Outback
+- **System:** Jangelle system
+- **Coordinates:** M-21
+- **Climate:** Temperate
+- **Terrain:** Sandy lowlands
+- **Water:** Many streams, rivers, and deltas
+- **Otherspecies:** Humans
+- **Affiliation:** Kathol Republic
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

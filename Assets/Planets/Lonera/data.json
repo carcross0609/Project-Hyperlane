@@ -1,0 +1,38 @@
+{
+  "name": "Lonera",
+  "wookieepedia_title": "Lonera",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lonera",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Lonera was the homeworld of the Loneran species. It was located in the Inner Rim Territories along the Nanth'ri Trade Route between Antar and Gyndine. The fact Lonera was near the galaxy's Expansion Region was met with derision by some.",
+  "lead_paragraphs": [
+    "Lonera was the homeworld of the Loneran species. It was located in the Inner Rim Territories along the Nanth'ri Trade Route between Antar and Gyndine. The fact Lonera was near the galaxy's Expansion Region was met with derision by some.",
+    "In 3 BBY, Lonera was considered as a candidate world for an Imperial aeronautical engineering and design academy. During the New Republic era, Lonera was represented in the Galactic Senate by Senator Varish Vicly."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Lonera",
+    "region": [
+      "Inner Rim Territories",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Lonera system",
+    "coordinates": "O-12",
+    "routes": "Nanth'ri Trade Route",
+    "species": "Loneran",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Loneran",
+      "directory": "Loneran",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "LC-24 fire droid",
+  "wookieepedia_title": "LC-24 fire droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/LC-24_fire_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The LC-24 fire droid was a model of droid used for fighting fires. Equipped with dousing gear and heat-resistant shielding, the LC-24 fire droid used life-form indicators to detect survivors from a distance, transmitting such information to rescuers and medical droids. The Resistance used a number of LC-24 fire droids at their base on Ajan Kloss, particularly when landing starships without any proper landing facilities.",
+  "data": {
+    "name": "LC-24 fire droid",
+    "model": "LC-24",
+    "class": "Fire droid",
+    "plating": "Yellow",
+    "equipment": [
+      "Dousing gear",
+      "Life-form indicators"
+    ],
+    "affiliation": "Resistance"
+  },
+  "scraped": "2026-07-03"
+}

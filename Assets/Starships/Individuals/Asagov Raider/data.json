@@ -1,0 +1,34 @@
+{
+  "name": "Asagov Raider",
+  "wookieepedia_title": "Asagov Raider",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Asagov_Raider",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Asagov Raider, formerly known as the Cekbar Servant, was a Corellian Engineering Corporation Action IV transport operating during the early years of the New Republic. Originally a merchant vessel registered to Nalroni businessmen on the trading world of Celanon, the ship was captured by the Saurton pirate Miktiss around 7 ABY. Miktiss had the vessel heavily modified and renamed as the Asagov Raider, using the medium bulk freighter as his flagship and as the command base of the Des'maric Pirates. The Asagov Raider was a mobile headquarters for the organization while they operated in the Kathol sector in 8 ABY.",
+  "data": {
+    "name": "Asagov Raider",
+    "manufacturer": "Corellian Engineering Corporation",
+    "model": "Action IV transport",
+    "type": "Medium bulk freighter",
+    "modifier": "Former Sienar Fleet Systems ship engineer",
+    "length": "100 meters",
+    "hyperdrive": "Class 3 (Class 15 backup)",
+    "navigation": "Equipped",
+    "armament": [
+      "8 ion cannons",
+      "12 double laser cannons"
+    ],
+    "crew": "15; 40 gunners",
+    "skeleton": "8; 10 gunners",
+    "capacity": "60,000 metric tons",
+    "consumables": "3 months",
+    "role": "Command base/flagship",
+    "affiliation": "Des'maric Pirates",
+    "owners": [
+      "Consortium of Nalroni merchants",
+      "Miktiss"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

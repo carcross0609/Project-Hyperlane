@@ -1,0 +1,33 @@
+{
+  "name": "Shield Generator Droid",
+  "wookieepedia_title": "Shield Generator Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shield_Generator_Droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Shield Generator Droid was a droid model used by the Confederacy of Independent Systems during the Clone Wars as support in combat situations. It was floating above the ground and was able to generate a deflector shield for it's allies and was also armed with a chin-mounted blaster. The droid came in five different colored variants—red, yellow, green, blue and purple—designated MK1-MK5.",
+  "data": {
+    "name": "Shield Generator Droid",
+    "model": [
+      "MK1",
+      "MK2",
+      "MK3",
+      "MK4",
+      "MK5"
+    ],
+    "sensor": "Black",
+    "plating": [
+      "White",
+      "Various:",
+      "  Red",
+      "  Yellow",
+      "  Green",
+      "  Blue",
+      "  Purple"
+    ],
+    "armament": "Blaster",
+    "equipment": "Deflector shield generator",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "scraped": "2026-07-03"
+}

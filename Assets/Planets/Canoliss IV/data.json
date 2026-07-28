@@ -1,0 +1,37 @@
+{
+  "name": "Canoliss IV",
+  "wookieepedia_title": "Canoliss IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Canoliss_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Canoliss IV was a planet located within the Canoliss system of the Outer Rim Territories. It was the homeworld of the Cannolite species.",
+  "lead_paragraphs": [
+    "Canoliss IV was a planet located within the Canoliss system of the Outer Rim Territories. It was the homeworld of the Cannolite species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Canoliss IV",
+    "region": "Outer Rim Territories",
+    "sector": "Sluis sector",
+    "system": "Canoliss system",
+    "coordinates": "M-19",
+    "position": "4",
+    "species": "Cannolite"
+  },
+  "homeworld_of": [
+    {
+      "name": "Cannolite",
+      "directory": "Cannolite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Canoliss IV",
+    "x": 2237.5,
+    "y": -14004.4,
+    "z": 743.2,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

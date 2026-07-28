@@ -1,0 +1,28 @@
+{
+  "name": "Lightsaber parasol",
+  "wookieepedia_title": "Lightsaber parasol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lightsaber_parasol",
+  "continuity": null,
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "The lightsaber parasol was a Sith lightsaber created by Kouru, a female Sith who led a bandit group. It functioned as a singled-bladed lightsaber when she used only the lightsaber hilt. With its attached parasol auxiliary, it produced multiple red plasma blades in a manner that resembled a parasol, particularly when she spun it to create a shield.",
+  "data": {
+    "name": "Lightsaber parasol",
+    "model": "Sith lightsaber",
+    "type": [
+      "Single-bladed (lightsaber hilt only)",
+      "Multi-bladed (with lightsaber auxiliary)"
+    ],
+    "culture": "Sith",
+    "creator": "Kouru",
+    "owners": "Kouru",
+    "hilt_shape": "Cylindrical, straight",
+    "crystal": "Kyber crystal",
+    "color": "Red",
+    "mods": "Parasol auxiliary",
+    "design": "Constructed according to a blueprint created by the Ronin",
+    "purpose": "Lightsaber combat",
+    "affiliation": "A bandit group"
+  },
+  "scraped": "2026-07-03"
+}

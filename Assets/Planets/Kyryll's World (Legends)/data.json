@@ -1,0 +1,41 @@
+{
+  "name": "Kyryll's World",
+  "wookieepedia_title": "Kyryll's World/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kyryll%27s_World/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kyryll's World was a terrestrial planet located in the Kyryll's World system, a part of the Phelleem sector in the Slice portion of the Outer Rim Territories. It was the homeworld of the sentient Pui-ui species, members of which communicated in the Pui-ui language and which was known to the wider galaxy by 671 BBY.",
+  "lead_paragraphs": [
+    "Kyryll's World was a terrestrial planet located in the Kyryll's World system, a part of the Phelleem sector in the Slice portion of the Outer Rim Territories. It was the homeworld of the sentient Pui-ui species, members of which communicated in the Pui-ui language and which was known to the wider galaxy by 671 BBY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kyryll's World",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Phelleem sector",
+    "system": "Kyryll's World system",
+    "coordinates": "S-7",
+    "class": "Terrestrial",
+    "species": "Pui-ui",
+    "language": "Pui-ui language"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pui-ui",
+      "directory": "Pui-ui",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kyryll's World",
+    "x": 2095.1,
+    "y": -14938.0,
+    "z": 80.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

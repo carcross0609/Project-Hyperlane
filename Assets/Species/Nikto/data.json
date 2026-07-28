@@ -1,0 +1,36 @@
+{
+  "name": "Nikto",
+  "wookieepedia_title": "Nikto",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nikto",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Nikto or Niktos were a humanoid sentient species native to the planet Kintan in the Outer Rim Territories. There existed at least four Nikto subspecies, the Kajain'sa'Nikto (red Nikto), the Kadas'sa'Nikto (green Nikto), the Esral'sa'Nikto (mountain Nikto), and the Nikto Ijosap'sai. Many Kajain'sa'Nikto were employed by the Hutt Clan as enforcers during the Clone Wars, and centuries prior, while several green and red Nikto served the crime lord Jabba the Hutt shortly before the Battle of Endor. Some Nikto were members of the Jedi Order, such as the male Kajain'sa'Nikto Jedi Master Ima-Gun Di.",
+  "data": {
+    "name": "Nikto",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "subspecies": [
+      "Esral'sa'Nikto (mountain Nikto)",
+      "Kadas'sa'Nikto (green Nikto)",
+      "Kajain'sa'Nikto (red Nikto)",
+      "Nikto Ijosap'sai"
+    ],
+    "skincolor": [
+      "Gray",
+      "Green",
+      "Red",
+      "Blue"
+    ],
+    "eyecolor": "Black, Blue , Yellow",
+    "distinctions": [
+      "Scaled skin",
+      "Symmetrical horns",
+      "Head spikes",
+      "Movable facial features"
+    ],
+    "origin": "Kintan",
+    "habitat": "Acclimated to desert climates"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Kintan"
+}

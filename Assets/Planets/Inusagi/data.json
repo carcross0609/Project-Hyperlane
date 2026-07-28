@@ -1,0 +1,61 @@
+{
+  "name": "Inusagi",
+  "wookieepedia_title": "Inusagi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Inusagi",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Inusagi was a planet in the Vilonis sector of the Mid Rim region of the galaxy. It was famous for its sakoola blossom festival.",
+  "lead_paragraphs": [
+    "Inusagi was a planet in the Vilonis sector of the Mid Rim region of the galaxy. It was famous for its sakoola blossom festival."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Society and culture"
+  ],
+  "data": {
+    "name": "Inusagi",
+    "region": "Mid Rim Territories",
+    "sector": "Vilonis sector",
+    "system": "Inusagi system",
+    "coordinates": "O-16",
+    "routes": "Enarc Run",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Hills",
+      "Oceans"
+    ],
+    "interest": [
+      "Chieftess's palace",
+      "Unidentified spaceport"
+    ],
+    "flora": "Sakoola tree",
+    "otherspecies": [
+      "Human",
+      "Rayeth"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Inusagian court",
+    "demonym": "Inusagian",
+    "cities": "Inusagi's capital city",
+    "exports": "None",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rayeth",
+      "directory": "Rayeth",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Inusagi",
+    "x": 11591.4,
+    "y": -8380.6,
+    "z": 267.5,
+    "region": "Mid Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

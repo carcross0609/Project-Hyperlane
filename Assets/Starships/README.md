@@ -19,11 +19,18 @@ Reference database of Star Wars starships, scraped from Wookieepedia on
 ```
 Assets/Starships/
   _Index.json                 # master index: name, type, manufacturer, length, continuity, dir
-  <Ship Name>/
-    data.json                 # full structured data (see schema below)
-    README.md                 # human-readable spec sheet
-    Models/                   # drop 3D model assets here (empty for now)
+  Types/                      # ship classes (kind: "type") — 3D models anchor here
+    <Ship Class Name>/
+      data.json               # full structured data (see schema below)
+      README.md               # human-readable spec sheet
+      Models/                 # drop 3D model assets here
+  Individuals/                # named individual ships (kind: "individual")
+    <Ship Name>/
+      data.json / README.md / Models/
 ```
+
+The `directory` field in `_Index.json` is the path relative to
+`Assets/Starships/` (e.g. `Types/T-65B X-wing starfighter`).
 
 Ships that exist in both continuities have two directories: `<Name>` (Canon)
 and `<Name> (Legends)`. An individual ship whose name collides with an

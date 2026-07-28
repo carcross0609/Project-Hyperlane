@@ -1,0 +1,30 @@
+{
+  "name": "Bowcaster",
+  "wookieepedia_title": "Bowcaster/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bowcaster/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The bowcaster (sometimes called the Wookiee Crossbow) was a Wookiee projectile weapon that fired a metal quarrel enveloped in energy. Some bowcasters were modified to fire pure energy. Some variants had a capacity of twenty-four shots.",
+  "data": {
+    "name": "Bowcaster",
+    "manufacturer": "Wookiees",
+    "type": "Exotic weapon",
+    "culture": "Wookiees",
+    "cost": [
+      "900 to 1500 credits for an off-worlder",
+      "Wookiees received theirs as free gifts"
+    ],
+    "shape": "Crossbow",
+    "size": "Two-handed weapon",
+    "weight": "8 kg",
+    "capacity": "From 6 shots per magazine to 35 shots",
+    "range": [
+      "Optimum: up to 30 m",
+      "Maximum: up to 50 m",
+      "Maximum with kthysh replacement bowstring: up to 30 m"
+    ],
+    "markings": "Often decorated with clan markings"
+  },
+  "scraped": "2026-07-03"
+}

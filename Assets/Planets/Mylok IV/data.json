@@ -1,0 +1,49 @@
+{
+  "name": "Mylok IV",
+  "wookieepedia_title": "Mylok IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mylok_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mylok IV, or simply Mylok, was the fourth world in the Mylok system, located within the Outer Rim of the galaxy",
+  "lead_paragraphs": [
+    "Mylok IV, or simply Mylok, was the fourth world in the Mylok system, located within the Outer Rim of the galaxy"
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Mylok IV",
+    "region": "Outer Rim Territories",
+    "sector": "Airam sector",
+    "system": "Mylok system",
+    "coordinates": "L-20",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "species": [
+      "Habeen",
+      "Nharwaak"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Habeen",
+      "directory": "Habeen",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Nharwaak",
+      "directory": "Nharwaak",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mylok IV",
+    "x": 11212.5,
+    "y": 9442.3,
+    "z": 84.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

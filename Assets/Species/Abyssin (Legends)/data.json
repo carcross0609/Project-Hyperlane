@@ -1,0 +1,36 @@
+{
+  "name": "Abyssin",
+  "wookieepedia_title": "Abyssin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Abyssin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Abyssins were a species of mammalian, cycloptic humanoids native to the Outer Rim world Byss in the Abyss system. As a people the Abyssin were often described as \"primitive and violent\", and were often hired as petty thugs.",
+  "data": {
+    "name": "Abyssin",
+    "designation": "Sentient",
+    "class": "Mammalian",
+    "height": "1.7 - 2.1 meters",
+    "skincolor": "Greenish-tan",
+    "haircolor": [
+      "Brown",
+      "White"
+    ],
+    "distinctions": [
+      "Cycloptic",
+      "Regenerative abilities"
+    ],
+    "lifespan": [
+      "300 standard years:",
+      "Child: 1-30 years",
+      "Young adult: 31-65 years",
+      "Adult: 66-150 years",
+      "Middle age: 151-220 years",
+      "Old: 221-300 years",
+      "Venerable: 301+ years"
+    ],
+    "origin": "Byss",
+    "language": "Abyssin"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Byss (Abyssin) (Legends)"
+}

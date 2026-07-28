@@ -1,0 +1,19 @@
+{
+  "name": "Drink dispenser droid",
+  "wookieepedia_title": "Drink dispenser droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drink_dispenser_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "Drink dispenser droids were a repurposed bacta-administering nurse droid designed to dispense drinks. The service droid consisted of a silver sphere with a lit container of beverage attached beneath and two arms with the dispenser built in. It had at least four sensors, which could glow blue or green. One such droid worked at the establishment known as the Lodge on the planet Vandor. In 10 BBY, the droid served a blue drink to the gambler Lando Calrissian as he sat at a table in the Lodge's back room playing sabacc. Calrissian looked back at the droid and thanked it, which was unusual behavior.",
+  "data": {
+    "name": "Drink dispenser droid",
+    "class": [
+      "Nurse droid",
+      "Service droid"
+    ],
+    "sensor": "Red and blue",
+    "plating": "Silver"
+  },
+  "scraped": "2026-07-03"
+}

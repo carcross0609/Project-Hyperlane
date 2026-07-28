@@ -1,0 +1,46 @@
+{
+  "name": "Belderone",
+  "wookieepedia_title": "Belderone",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Belderone",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Belderone was a planet located in the Outer Rim's Belderone system, situated along the Salin Corridor. The Galactic Empire had a naval base and an R/M Facility Four deepdock on the world, but from early into the Empire's reign, Belderone had a bad reputation as an assignment for Imperial Army members, influenced by how far it was from the capital of Coruscant. It also had a cottaging industry that supported treasure hunters searching for the legendary planet Ossus.",
+  "lead_paragraphs": [
+    "Belderone was a planet located in the Outer Rim's Belderone system, situated along the Salin Corridor. The Galactic Empire had a naval base and an R/M Facility Four deepdock on the world, but from early into the Empire's reign, Belderone had a bad reputation as an assignment for Imperial Army members, influenced by how far it was from the capital of Coruscant. It also had a cottaging industry that supported treasure hunters searching for the legendary planet Ossus.",
+    "After Moff Wilhuff Tarkin's corvette, the Carrion Spike, was captured by rebels in 14 BBY, the Imperial Venator-class Star Destroyer Liberator was reassigned from Belderone's deepdock to the planet Nam Chorios. In 3 ABY, Belderone was marked as a possible target for the Rebel Alliance by General Crix Madine, who was inspired by the campaign Operation Ringbreaker being carried out by the Alliance's 61st Mobile Infantry."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Reputations",
+    "  Resource management",
+    "  Rebel targets"
+  ],
+  "data": {
+    "name": "Belderone",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Belderone sector",
+    "system": "Belderone system",
+    "coordinates": "R-6",
+    "routes": "Salin Corridor",
+    "class": "Terrestrial",
+    "interest": [
+      "Imperial naval base",
+      "R/M Facility Four deepdock"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Belderone",
+    "x": 10167.0,
+    "y": 4688.2,
+    "z": -5.0,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

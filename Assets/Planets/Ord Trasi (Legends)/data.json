@@ -1,0 +1,73 @@
+{
+  "name": "Ord Trasi",
+  "wookieepedia_title": "Ord Trasi/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ord_Trasi/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ord Trasi was a planet in the Relgim sector of the Outer Rim and a major shipbuilding world.",
+  "lead_paragraphs": [
+    "Ord Trasi was a planet in the Relgim sector of the Outer Rim and a major shipbuilding world."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Ord Trasi",
+    "region": "Outer Rim Territories",
+    "sector": "Relgim sector",
+    "system": "Ord Trasi system",
+    "coordinates": "L-4",
+    "moons": "2",
+    "routes": [
+      "Braxant Run",
+      "  Coruscant–Dantooine hyperlane",
+      "Veragi Trade Route"
+    ],
+    "lengthday": "28 standard hours",
+    "lengthyear": "412 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": [
+      "Cool",
+      "Arid"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Plains"
+    ],
+    "interest": "Ord Trasi salvage yards",
+    "otherspecies": [
+      "Human",
+      "Wookiee (slaves)"
+    ],
+    "language": "Galactic Basic Standard",
+    "population": "2 million",
+    "imports": [
+      "High technology",
+      "Refined metals"
+    ],
+    "exports": "Starships",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Pentastar Alignment",
+      "Thrawn's Confederation",
+      "Imperial Remnant",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ord Trasi",
+    "x": 224.4,
+    "y": 7669.9,
+    "z": 62.1,
+    "region": "Outer Rim",
+    "grid": "L-4"
+  },
+  "scraped": "2026-07-03"
+}

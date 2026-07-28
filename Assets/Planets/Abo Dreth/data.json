@@ -1,0 +1,45 @@
+{
+  "name": "Abo Dreth",
+  "wookieepedia_title": "Abo Dreth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Abo_Dreth",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Abo Dreth was a planet in the Corporate Sector, thriving with lakes and rivers but with a nitrogen-based atmosphere.",
+  "lead_paragraphs": [
+    "Abo Dreth was a planet in the Corporate Sector, thriving with lakes and rivers but with a nitrogen-based atmosphere."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Abo Dreth",
+    "region": [
+      "Outer Rim Territories",
+      "Tingel Arm"
+    ],
+    "sector": "Corporate Sector",
+    "system": "Abo Dreth system",
+    "coordinates": "S-3",
+    "atmosphere": [
+      "Type III (breath mask required)",
+      "Nitrogen"
+    ],
+    "terrain": [
+      "Lakes",
+      "Rivers"
+    ],
+    "fauna": "Avians",
+    "affiliation": "Corporate Sector Authority"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Abo Dreth",
+    "x": 11096.9,
+    "y": 9332.2,
+    "z": -271.4,
+    "region": "Outer Rim",
+    "grid": "S-3"
+  },
+  "scraped": "2026-07-03"
+}

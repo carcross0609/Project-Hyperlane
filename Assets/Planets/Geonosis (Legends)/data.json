@@ -1,0 +1,159 @@
+{
+  "name": "Geonosis",
+  "wookieepedia_title": "Geonosis/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Geonosis/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Geonosis, called Geonosia by some natives, was a ringed, rocky desert planet in the Arkanis sector of the Outer Rim Territories. The home planet of the insectoid Geonosians, it was known for its droid factories and violent gladiatorial games. Geonosis was a major stronghold of the Confederacy of Independent Systems, due to it hosting major droid foundries. It was the site of the Battle of Geonosis, the opening conflict of the Clone Wars, in 22 BBY.",
+  "lead_paragraphs": [
+    "Geonosis, called Geonosia by some natives, was a ringed, rocky desert planet in the Arkanis sector of the Outer Rim Territories. The home planet of the insectoid Geonosians, it was known for its droid factories and violent gladiatorial games. Geonosis was a major stronghold of the Confederacy of Independent Systems, due to it hosting major droid foundries. It was the site of the Battle of Geonosis, the opening conflict of the Clone Wars, in 22 BBY."
+  ],
+  "article_sections": [
+    "Geology and geography",
+    "History",
+    "  Early history",
+    "  Great Galactic War",
+    "  Recessional",
+    "  Clone Wars",
+    "    Prelude to war",
+    "    First battle of the Clone Wars",
+    "    Second Republic assault",
+    "  Post-Clone Wars"
+  ],
+  "data": {
+    "name": "Geonosis",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Arkanis sector",
+    "system": "Geonosis system",
+    "coordinates": "R-16",
+    "distance": [
+      "43,000 light-years",
+      "13,183 parsecs"
+    ],
+    "suns": "1: Ea",
+    "position": "2",
+    "moons": [
+      "4 major",
+      "11 minor"
+    ],
+    "routes": "The Crystal Passage",
+    "lengthday": "30 standard hours",
+    "lengthyear": "256 standard days",
+    "class": "Terrestrial",
+    "diameter": "11,370 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Temperate",
+      "Arid"
+    ],
+    "gravity": "90% standard",
+    "terrain": [
+      "Rocks",
+      "Deserts",
+      "Mountains",
+      "Mesas",
+      "Barren"
+    ],
+    "water": "5%",
+    "interest": [
+      "Badlands of N'g'zi",
+      "Ebon Sea",
+      "Golbah's Pit",
+      "Caltrop field",
+      "E'Y-Akh Desert",
+      "Droid foundries",
+      "Spires",
+      "War Room",
+      "Im'g'twe Hills",
+      "Progate Temple",
+      "N'ge'u Valley",
+      "Petranaki arena",
+      "Dooku's hangar",
+      "N'rakti Lava Fields",
+      "Geonosian eastern barrier fortress",
+      "Geonosian caves"
+    ],
+    "fauna": [
+      "Acklay",
+      "  Mutant acklay",
+      "Arch grub",
+      "Brain worm",
+      "Geonosian hydra",
+      "Kreetle",
+      "Merdeth",
+      "Mip",
+      "Mongworst",
+      "Orray",
+      "Phidna",
+      "Sand snake",
+      "Ur-greedle"
+    ],
+    "species": "Geonosians",
+    "otherspecies": [
+      "Acklay",
+      "Massiff",
+      "Nexu",
+      "Reek"
+    ],
+    "language": "Geonosian",
+    "government": [
+      "Hives",
+      "  Ruling archduke",
+      "  Monarchy",
+      "Hive councils"
+    ],
+    "population": [
+      "100 billion:",
+      "  99% Geonosian",
+      "  1% other"
+    ],
+    "demonym": "Geonosian",
+    "cities": [
+      "Gehenbar hive",
+      "Golbah hive",
+      "Stalgasin hive (capital)"
+    ],
+    "imports": "Raw materials",
+    "exports": [
+      "Droids",
+      "High technology"
+    ],
+    "affiliation": [
+      "Geonosians",
+      "Mandalorians",
+      "Galactic Republic",
+      "Trade Federation",
+      "Geonosian Industries",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Separatist holdouts",
+      "New Republic",
+      "Killiks",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Geonosian",
+      "directory": "Geonosian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Geonosian",
+      "directory": "Geonosian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Geonosis",
+    "x": 9674.4,
+    "y": -10099.5,
+    "z": -311.7,
+    "region": "Outer Rim",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

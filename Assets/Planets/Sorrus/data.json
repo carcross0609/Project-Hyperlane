@@ -1,0 +1,54 @@
+{
+  "name": "Sorrus",
+  "wookieepedia_title": "Sorrus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sorrus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sorrus was a planet in the Sorrus system located in the Outer Rim Territories. Its terrain consisted of mountain ranges and large deserts. The planet also had many sprawling cities. It had three capitals, one of which was Yinn La Hi. The Sorrusian people were xenophobic, and known for being unfriendly to outsiders. Jenna Zan Arbor once had her scientific lab located on Sorrus.",
+  "lead_paragraphs": [
+    "Sorrus was a planet in the Sorrus system located in the Outer Rim Territories. Its terrain consisted of mountain ranges and large deserts. The planet also had many sprawling cities. It had three capitals, one of which was Yinn La Hi. The Sorrusian people were xenophobic, and known for being unfriendly to outsiders. Jenna Zan Arbor once had her scientific lab located on Sorrus."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sorrus",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Kalamith sector",
+    "system": "Sorrus system",
+    "coordinates": "O-5",
+    "routes": "Hydian Way",
+    "class": "Terrestrial",
+    "terrain": [
+      "Deserts",
+      "Mountains"
+    ],
+    "interest": [
+      "Arra Desert",
+      "Sorrus Medical Center",
+      "Tira Desert"
+    ],
+    "species": "Sorrusians (Near-Human)",
+    "language": "Sorrusian",
+    "cities": "Yinn La Hi (capital)",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sorrusian",
+      "directory": "Sorrusian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sorrus",
+    "x": 5873.9,
+    "y": 6281.6,
+    "z": -107.3,
+    "region": "Outer Rim",
+    "grid": "O-5"
+  },
+  "scraped": "2026-07-03"
+}

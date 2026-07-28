@@ -1,0 +1,45 @@
+{
+  "name": "Vorusku",
+  "wookieepedia_title": "Vorusku",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vorusku",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vorusku was a waterworld located within the Outer Rim Territories' Juris sector. It was the site of a volcano city as well as a floating bar named the Hyperdrive Cantina. The Kaminoan Jedi Kina Ha once lived on Vorusku. While there, she had a vision of the future in which the cloners of the planet Kamino would create an army for the dark side of the Force.",
+  "lead_paragraphs": [
+    "Vorusku was a waterworld located within the Outer Rim Territories' Juris sector. It was the site of a volcano city as well as a floating bar named the Hyperdrive Cantina. The Kaminoan Jedi Kina Ha once lived on Vorusku. While there, she had a vision of the future in which the cloners of the planet Kamino would create an army for the dark side of the Force.",
+    "Following the Invasion of Naboo, the Vorusku crimelord Jalla Spree supplied the Blue Star Pirates gang with advanced weapons. The office of the Galactic Republic's Supreme Chancellor sent a group of individuals to discover the identity of the pirates' supplier. Following a trail of leads to Vorusku, the group eventually uncovered Spree's role in supplying the pirates."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Vorusku",
+    "region": "Outer Rim Territories",
+    "sector": "Juris sector",
+    "system": "Vorusku system",
+    "coordinates": "P-17",
+    "class": "Terrestrial water planet",
+    "terrain": [
+      "Cliffs",
+      "Water"
+    ],
+    "interest": [
+      "Hyperdrive Cantina",
+      "Jalla Spree's headquarters",
+      "Slaver camp"
+    ],
+    "cities": "Volcano city"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vorusku",
+    "x": 7028.3,
+    "y": -11530.9,
+    "z": -198.2,
+    "region": "Outer Rim",
+    "grid": "P-17"
+  },
+  "scraped": "2026-07-03"
+}

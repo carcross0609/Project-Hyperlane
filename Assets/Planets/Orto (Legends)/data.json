@@ -1,0 +1,63 @@
+{
+  "name": "Orto",
+  "wookieepedia_title": "Orto/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orto/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Orto was a small planet in the Orto system of the Sluis sector, located in the Outer Rim Territories. It was the homeworld of the Ortolan race.",
+  "lead_paragraphs": [
+    "Orto was a small planet in the Orto system of the Sluis sector, located in the Outer Rim Territories. It was the homeworld of the Ortolan race."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Orto",
+    "region": "Outer Rim Territories",
+    "sector": "Sluis sector",
+    "system": "Orto system",
+    "coordinates": "M-19",
+    "suns": "1",
+    "lengthday": "24 standard hours",
+    "lengthyear": "589 standard days",
+    "climate": "Frigid",
+    "terrain": "Frozen wasteland",
+    "interest": "Belo Tusus's palace",
+    "species": "Ortolan",
+    "language": "Ortolan",
+    "imports": "Foodstuffs",
+    "exports": [
+      "Heavy metals",
+      "Radioactive fuels"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ortolan",
+      "directory": "Ortolan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ortolan",
+      "directory": "Ortolan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Orto",
+    "x": 2195.1,
+    "y": -13657.0,
+    "z": 42.9,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

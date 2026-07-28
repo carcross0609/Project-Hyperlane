@@ -1,0 +1,18 @@
+# B8G labor droid
+
+**Kind:** Series  
+**Continuity:** Canon  
+**Source:** [B8G labor droid](https://starwars.fandom.com/wiki/B8G_labor_droid)
+
+The B8G labor droid was a model of bipedal labor droid with a large gas-burning exhaust vent in its torso. The model had a head with two black sensors, one larger than the other, and an antenna that protruded from its back. The droids could have tan plating. B8G-H0R was a B8G labor droid who worked as a slave in the criminal Pyke Syndicate's spice mines of the planet Kessel. In 10 BBY, it took part in a slave uprising in the mines led by the droid L3-37.
+
+## Specifications
+
+- **Name:** B8G labor droid
+- **Class:** Labor droid
+- **Sensor:** Black
+- **Plating:** Tan
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

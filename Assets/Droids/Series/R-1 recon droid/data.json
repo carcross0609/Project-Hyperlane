@@ -1,0 +1,28 @@
+{
+  "name": "R-1 recon droid",
+  "wookieepedia_title": "R-1 recon droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R-1_recon_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The R-1 recon droid was a standard-issue reconnaissance droid used by Galactic Empire during the Galactic Civil War. It was built by Arakyd Industries and was based on design of the DRK-1 Dark Eye probe droid, originally created by the Sith. The R-1 was popular with snipers, planetary garrisons and shock troops. Some of them had also found a way into the hands of smugglers, bounty hunters, and other independent operations.",
+  "data": {
+    "name": "R-1 recon droid",
+    "manufacturer": "Arakyd Industries",
+    "class": "Probe droid",
+    "sensor": "Red",
+    "plating": "Black",
+    "armament": "1 Blaster",
+    "equipment": [
+      "Repulsorlift",
+      "Orbital strike beacon"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Planetary garrisons",
+      "Independent operators"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Moorjhone",
+  "wookieepedia_title": "Moorjhone",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Moorjhone",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Moorjhone was a planet located in the galaxy's Outer Rim Territories, within the Jospro sector and was the homeworld of felinoid Moorjhoni. It was in a trinary star system. It was normally lit and heated by two of the three suns at a given time. Once every ten years, however, all three suns would rise on the same side of the planet, resulting in the Day of Three Suns.",
+  "lead_paragraphs": [
+    "Moorjhone was a planet located in the galaxy's Outer Rim Territories, within the Jospro sector and was the homeworld of felinoid Moorjhoni. It was in a trinary star system. It was normally lit and heated by two of the three suns at a given time. Once every ten years, however, all three suns would rise on the same side of the planet, resulting in the Day of Three Suns."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Moorjhone",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Jospro sector",
+    "system": "Moorjhone system",
+    "coordinates": "R-7",
+    "suns": "3",
+    "moons": "1",
+    "class": "Terrestrial",
+    "terrain": "Desert",
+    "species": "Moorjhoni",
+    "affiliation": "Rim Commercial Mining"
+  },
+  "homeworld_of": [
+    {
+      "name": "Moorjhoni",
+      "directory": "Moorjhoni",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

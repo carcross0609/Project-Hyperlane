@@ -1,0 +1,46 @@
+{
+  "name": "Kiffex",
+  "wookieepedia_title": "Kiffex",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kiffex",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kiffex, alongside Kiffu, was one of the home planets of the Kiffar species. It was located in the Kiffex system in the Kiffu sector of the Inner Rim. Kiffex was the homeworld of Jedi Vildar Mac.",
+  "lead_paragraphs": [
+    "Kiffex, alongside Kiffu, was one of the home planets of the Kiffar species. It was located in the Kiffex system in the Kiffu sector of the Inner Rim. Kiffex was the homeworld of Jedi Vildar Mac."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kiffex",
+    "region": "Inner Rim Territories",
+    "sector": "Kiffu sector",
+    "system": "Kiffex system",
+    "coordinates": "L-14",
+    "class": "Terrestrial",
+    "interest": [
+      "Detention center",
+      "Vildar Mac's village"
+    ],
+    "species": "Kiffar"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kiffar",
+      "directory": "Kiffar",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kiffar",
+      "directory": "Kiffar (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kiffex",
+    "x": 4741.4,
+    "y": -738.2,
+    "z": 80.0,
+    "region": "Inner Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

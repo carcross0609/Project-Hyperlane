@@ -1,0 +1,81 @@
+{
+  "name": "Christophsis",
+  "wookieepedia_title": "Christophsis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Christophsis",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Christophsis was a planet located in the Christoph system of the galaxy's Outer Rim Territories where the Battle of Christophsis was fought during the Clone Wars. The crystalline planet was invaded by the battle droid armies of the Confederacy of Independent Systems but were repelled by the Jedi and clone troopers dispatched by the Galactic Republic. Later, the planet was the site of a second battle between the Republic and the Separatists. After the transformation of the Galactic Republic into the Galactic Empire, the planet was placed under Imperial control, but nevertheless hosted rebellious elements.",
+  "lead_paragraphs": [
+    "Christophsis was a planet located in the Christoph system of the galaxy's Outer Rim Territories where the Battle of Christophsis was fought during the Clone Wars. The crystalline planet was invaded by the battle droid armies of the Confederacy of Independent Systems but were repelled by the Jedi and clone troopers dispatched by the Galactic Republic. Later, the planet was the site of a second battle between the Republic and the Separatists. After the transformation of the Galactic Republic into the Galactic Empire, the planet was placed under Imperial control, but nevertheless hosted rebellious elements."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  High Republic Era",
+    "  The Clone Wars",
+    "  Imperial era"
+  ],
+  "data": {
+    "name": "Christophsis",
+    "region": [
+      "Outer Rim Territories",
+      "  Occlusion Zone",
+      "The Slice"
+    ],
+    "sector": "Savareen sector",
+    "system": "Christoph system",
+    "coordinates": "Q-16",
+    "xyz": "575.09, -676.71, 6.83",
+    "suns": "1: Christophsis' sun",
+    "moons": "1: Leesis",
+    "routes": "Corellian Run",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": "Crystalline formations",
+    "interest": [
+      "Christophsis double-towered building",
+      "Christophsis Republic base",
+      "Christophsis Separatist headquarters",
+      "Christophsis Separatist tower",
+      "Crystal forest",
+      "Eastern exurbs"
+    ],
+    "fauna": "Kyaddak",
+    "otherspecies": [
+      "Human",
+      "  Christophsian"
+    ],
+    "demonym": "Christophsian",
+    "cities": [
+      "Chaleydonia (capital)",
+      "Tophen"
+    ],
+    "exports": "Kyber crystals",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Christophsian",
+      "directory": "Christophsian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Christophsian",
+      "directory": "Christophsian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Christophsis",
+    "x": 8652.5,
+    "y": -10140.5,
+    "z": -38.0,
+    "region": "Outer Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

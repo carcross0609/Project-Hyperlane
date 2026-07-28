@@ -1,0 +1,42 @@
+{
+  "name": "Sebaddon",
+  "wookieepedia_title": "Sebaddon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sebaddon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sebaddon was a small world in the Mid Rim of the the galaxy.",
+  "lead_paragraphs": [
+    "Sebaddon was a small world in the Mid Rim of the the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Sebaddon",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Freestanding subsectors",
+    "system": "Sebaddon system",
+    "coordinates": "Q-11",
+    "moons": "1",
+    "gravity": "Less than standard",
+    "terrain": [
+      "Volcanoes",
+      "Lava"
+    ],
+    "demonym": "Sebaddonite"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Sebaddon",
+    "x": 8052.6,
+    "y": -2297.3,
+    "z": 229.4,
+    "region": "Mid Rim",
+    "grid": "Q-11"
+  },
+  "scraped": "2026-07-03"
+}

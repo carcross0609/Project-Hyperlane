@@ -1,0 +1,39 @@
+{
+  "name": "Ardennia",
+  "wookieepedia_title": "Ardennia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ardennia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ardennia was an Outer Rim Territories planet that was the homeworld of the sentient Ardennian species. The human Juronus Opto and the Wayuning Topi Topi were also native to that world, and the inhabitants of Ardennia held repeated events known as Mynock roasts. The latter fact was known to the Ardennian pilot and thief Rio Durant, who hailed from Ardennia as well.",
+  "lead_paragraphs": [
+    "Ardennia was an Outer Rim Territories planet that was the homeworld of the sentient Ardennian species. The human Juronus Opto and the Wayuning Topi Topi were also native to that world, and the inhabitants of Ardennia held repeated events known as Mynock roasts. The latter fact was known to the Ardennian pilot and thief Rio Durant, who hailed from Ardennia as well."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Ardennia",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Fath sector",
+    "system": "Ardennia system",
+    "coordinates": "K-6",
+    "routes": "Entralla Route",
+    "class": "Terrestrial",
+    "species": "Ardennian",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ardennian",
+      "directory": "Ardennian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

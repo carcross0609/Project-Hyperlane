@@ -1,0 +1,106 @@
+{
+  "name": "Devaron",
+  "wookieepedia_title": "Devaron",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Devaron",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Devaron was a terrestrial jungle planet located in the Devaron system of the galaxy's Colonies that was the homeworld of the Devaronian species. The world was home to a Jedi Temple and was the site of a battle during the Clone Wars as well as skirmish during the Galactic Civil War.",
+  "lead_paragraphs": [
+    "Devaron was a terrestrial jungle planet located in the Devaron system of the galaxy's Colonies that was the homeworld of the Devaronian species. The world was home to a Jedi Temple and was the site of a battle during the Clone Wars as well as skirmish during the Galactic Civil War."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  The Jedi and the Clone Wars",
+    "  Age of the Empire",
+    "  New Republic era"
+  ],
+  "data": {
+    "name": "Devaron",
+    "region": "Colonies",
+    "sector": "Duluur sector",
+    "system": "Devaron system",
+    "coordinates": "M-13",
+    "moons": "2",
+    "routes": "Corellian Trade Spine",
+    "lengthday": "19 hours",
+    "lengthyear": "298 days",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Temperate, tropical",
+    "gravity": "Standard",
+    "terrain": [
+      "Deep valleys",
+      "Low mountains",
+      "Jungles"
+    ],
+    "water": "River systems",
+    "interest": [
+      "Karatokai Mountains",
+      "Wanderer's Path",
+      "Point of Parting",
+      "Devaron New Republic outpost",
+      "Temple of Eedit"
+    ],
+    "fauna": [
+      "Birds",
+      "  Taka-tey",
+      "Happabore",
+      "Insects",
+      "Pikhron"
+    ],
+    "species": "Devaronian",
+    "language": [
+      "Devaronese",
+      "Basic"
+    ],
+    "government": "Representative democracy",
+    "population": [
+      "98,800,000:",
+      "  95% Devaronians",
+      "  5% other"
+    ],
+    "demonym": "Devaronian",
+    "cities": [
+      "Montellian Serat (capital)",
+      "Assarda",
+      "Plaeree",
+      "Tikaroo",
+      "Ton-biri"
+    ],
+    "imports": [
+      "Technology",
+      "Consumer goods",
+      "Entertainment"
+    ],
+    "exports": "Wanderers",
+    "affiliation": [
+      "Galactic Republic",
+      "Jedi Order",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Devaronian",
+      "directory": "Devaronian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Devaronian",
+      "directory": "Devaronian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Devaron",
+    "x": 1805.7,
+    "y": -5596.8,
+    "z": 195.9,
+    "region": "Colonies",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

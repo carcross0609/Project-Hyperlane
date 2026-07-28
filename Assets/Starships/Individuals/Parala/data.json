@@ -1,0 +1,30 @@
+{
+  "name": "Parala",
+  "wookieepedia_title": "Parala",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Parala",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Parala was a patrol ship commanded by Senior Captain Irizi'ar'alani \"Ziara\" of the Chiss Ascendancy. While commanding the Parala, Ziara helped Senior Commander Mitth'raw'nuru \"Thrawn\" of the Boco rescue the passengers and crew of an excursion liner from falling into a gas giant planet.",
+  "data": {
+    "name": "Parala",
+    "type": "Patrol cruiser",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "hull": "Nyix-alloy",
+    "countermeasures": "Electrostatic barrier",
+    "armament": [
+      "Spectrum lasers",
+      "Plasma spheres",
+      "Breachers"
+    ],
+    "affiliation": "Chiss Ascendancy",
+    "navy": "Chiss Expansionary Defense Fleet",
+    "captains": [
+      "Irizi'ar'alani",
+      "A commander",
+      "Csap'ro'strob"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

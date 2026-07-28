@@ -1,0 +1,17 @@
+# Unidentified thin-pointy-eared species
+
+**Continuity:** Canon  
+**Source:** [Unidentified thin-pointy-eared species](https://starwars.fandom.com/wiki/Unidentified_thin-pointy-eared_species)
+
+This species was a sentient species that existed in the galaxy.
+
+## Biology & Culture
+
+- **Name:** Unidentified thin-pointy-eared species
+- **Designation:** Sentient
+- **Skincolor:** Tan
+- **Distinctions:** Pointed ears
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

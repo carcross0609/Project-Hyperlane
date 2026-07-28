@@ -1,0 +1,43 @@
+{
+  "name": "Huk",
+  "wookieepedia_title": "Huk/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Huk/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Huk was the home planet of the Yam'rii species, also known as the Huk (a Kaleesh slur translating as \"soulless bug\"). The planet was mostly covered with dense forests.",
+  "lead_paragraphs": [
+    "Huk was the home planet of the Yam'rii species, also known as the Huk (a Kaleesh slur translating as \"soulless bug\"). The planet was mostly covered with dense forests."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Huk",
+    "region": "Wild Space",
+    "system": "Huk system",
+    "coordinates": "J-4",
+    "terrain": "Forests",
+    "species": "Yam'rii"
+  },
+  "homeworld_of": [
+    {
+      "name": "Yam'rii",
+      "directory": "Yam'rii",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Yam'rii",
+      "directory": "Yam'rii (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Huk",
+    "x": -2784.2,
+    "y": 8406.1,
+    "z": 110.2,
+    "region": "Wild Space",
+    "grid": "J-4"
+  },
+  "scraped": "2026-07-03"
+}

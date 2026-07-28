@@ -1,0 +1,63 @@
+{
+  "name": "Coyerti",
+  "wookieepedia_title": "Coyerti",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Coyerti",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Coyerti was a planet in the Mid Rim, and was the home of the Coyerti species. Due to its rich plant and animal life, it served as a military research outpost for biological weapons. It was the location of a conflict between the Rebel Alliance and the Galactic Empire during the Galactic Civil War.",
+  "lead_paragraphs": [
+    "Coyerti was a planet in the Mid Rim, and was the home of the Coyerti species. Due to its rich plant and animal life, it served as a military research outpost for biological weapons. It was the location of a conflict between the Rebel Alliance and the Galactic Empire during the Galactic Civil War."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic and Imperial era",
+    "  Galactic Civil War",
+    "    Twilight attacks",
+    "    Imperial losses",
+    "    Kenobi's plea"
+  ],
+  "data": {
+    "name": "Coyerti",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Bortele sector",
+    "system": "Coyerti system",
+    "coordinates": "S-8",
+    "moons": "1",
+    "class": "Terrestrial",
+    "terrain": [
+      "Hills",
+      "Jungle"
+    ],
+    "interest": [
+      "Distillery",
+      "Imperial scout post",
+      "Imperial fort"
+    ],
+    "flora": [
+      "Ferns",
+      "Trees"
+    ],
+    "species": "Coyerti",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Coyerti",
+      "directory": "Coyerti (species)",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Coyerti",
+    "x": -1213.7,
+    "y": 3235.0,
+    "z": -82.8,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

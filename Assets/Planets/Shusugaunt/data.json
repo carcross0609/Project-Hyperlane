@@ -1,0 +1,55 @@
+{
+  "name": "Shusugaunt",
+  "wookieepedia_title": "Shusugaunt",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shusugaunt",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shusugaunt was a high-gravity planet located in the Outer Rim Territories' Raioballo sector. It was the homeworld of the warlike Shusugaunt species. Millennia before the Battle of Yavin, the spacefaring Shusugaunt encountered the sentient Anx of the nearby planet Gravlex Med. The former conquered and enslaved the latter, relocating many Anx to Shusugaunt. The Anx could not survive the planet's high gravity, however, and eventually perished.",
+  "lead_paragraphs": [
+    "Shusugaunt was a high-gravity planet located in the Outer Rim Territories' Raioballo sector. It was the homeworld of the warlike Shusugaunt species. Millennia before the Battle of Yavin, the spacefaring Shusugaunt encountered the sentient Anx of the nearby planet Gravlex Med. The former conquered and enslaved the latter, relocating many Anx to Shusugaunt. The Anx could not survive the planet's high gravity, however, and eventually perished.",
+    "Centuries later, archaeologists of the Galactic Republic discovered the bones of the previously-unknown Anx on Shusugaunt, initially believing them to be the remains of a native species of aquatic creature. Eventually, Shusugaunt became a part of the Republic's Raioballo sector and had sanctions placed against its native Shusugaunt by the Galactic Senate. The Anx Senator Horox Ryyder of the sector subsequently attempted to have the sanctions eased. Between 4 ABY and 12 ABY, Shusugaunt was situated in the territory of the Pentastar Alignment."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Encountering the Anx",
+    "  Under the Republic",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Shusugaunt",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Raioballo sector",
+    "system": "Shusugaunt system",
+    "coordinates": "L-4",
+    "class": "Terrestrial",
+    "gravity": "High",
+    "water": "Seas",
+    "species": "Shusugaunt",
+    "otherspecies": "Anx (historic)",
+    "language": "Shusugaunt",
+    "affiliation": [
+      "Galactic Republic",
+      "Pentastar Alignment"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Shusugaunt",
+      "directory": "Shusugaunt (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Shusugaunt",
+    "x": 656.8,
+    "y": 8741.9,
+    "z": -144.1,
+    "region": "Outer Rim",
+    "grid": "L-4"
+  },
+  "scraped": "2026-07-03"
+}

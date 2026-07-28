@@ -1,0 +1,44 @@
+{
+  "name": "Kallidah",
+  "wookieepedia_title": "Kallidah/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kallidah/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kallidah was a planet that was the homeworld of the Kallidahin species located in the Subterrel sector of the Outer Rim Territories. The planet's Archaeological Research Council established a Research Base on the nearby Polis Massa asteroid colony to try and uncover evidence of an evolutionary link between the Kallidahin and the extinct Eellayin natives. Later, the entire population of Kallidah abandoned their homeworld and moved to Polis Massa to work on the project.",
+  "lead_paragraphs": [
+    "Kallidah was a planet that was the homeworld of the Kallidahin species located in the Subterrel sector of the Outer Rim Territories. The planet's Archaeological Research Council established a Research Base on the nearby Polis Massa asteroid colony to try and uncover evidence of an evolutionary link between the Kallidahin and the extinct Eellayin natives. Later, the entire population of Kallidah abandoned their homeworld and moved to Polis Massa to work on the project."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kallidah",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Subterrel sector",
+    "system": "Kallidah system",
+    "coordinates": "L-20",
+    "species": "Kallidahin"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kallidahin",
+      "directory": "Kallidahin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kallidahin; Polis Massan",
+      "directory": "Kallidahin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kallidah",
+    "x": 359.8,
+    "y": -16172.6,
+    "z": -181.5,
+    "region": "Outer Rim",
+    "grid": "L-20"
+  },
+  "scraped": "2026-07-03"
+}

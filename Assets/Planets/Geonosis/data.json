@@ -1,0 +1,146 @@
+{
+  "name": "Geonosis",
+  "wookieepedia_title": "Geonosis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Geonosis",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Geonosis, referred to as Geonosia by some natives, was the desert home planet of the Geonosians. It hosted the Confederacy of Independent Systems major battle droid foundries and was the site of the First Battle of Geonosis, the opening conflict of the Clone Wars, as well as the subsequent invasion by the Galactic Republic. During and after the war, the Death Star was constructed above the planet. Five years after the conflict's conclusion and transformation of the Galactic Republic, the Galactic Empire would garrison the planet heavily and attempt to mine the planet's asteroids for minerals. At least five years after the Clone Wars, the Empire moved the Death Star to another construction site and the planet was sterilized by the Empire as a security measure, an act which resulted in the virtual elimination of the planet's native population.",
+  "lead_paragraphs": [
+    "Geonosis, referred to as Geonosia by some natives, was the desert home planet of the Geonosians. It hosted the Confederacy of Independent Systems major battle droid foundries and was the site of the First Battle of Geonosis, the opening conflict of the Clone Wars, as well as the subsequent invasion by the Galactic Republic. During and after the war, the Death Star was constructed above the planet. Five years after the conflict's conclusion and transformation of the Galactic Republic, the Galactic Empire would garrison the planet heavily and attempt to mine the planet's asteroids for minerals. At least five years after the Clone Wars, the Empire moved the Death Star to another construction site and the planet was sterilized by the Empire as a security measure, an act which resulted in the virtual elimination of the planet's native population."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Ancient history",
+    "  Under the Republic",
+    "  The Clone Wars",
+    "    Meeting of the Separatists",
+    "    Second invasion by the Republic",
+    "    Destroying the factory",
+    "    Searching for Poggle",
+    "    Constructing a battle station",
+    "  The Age of the Empire",
+    "    Building the Empire's future",
+    "    Sterilization",
+    "    Skirmish over Geonosis",
+    "    Rescue of Saw Gerrera",
+    "    Capturing the droid factory",
+    "  New Republic Era",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Geonosis",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Arkanis sector",
+    "system": "Geonosis system",
+    "coordinates": "R-16",
+    "distance": "43,000 light years from the Galactic Core",
+    "suns": "Ea",
+    "position": "2",
+    "moons": [
+      "15; including:",
+      "  Bahryn",
+      "  Geonosis' largest moon",
+      "Later 4"
+    ],
+    "routes": [
+      "The Crystal Passage",
+      "Triellus Trade Route"
+    ],
+    "lengthday": "30 hours",
+    "lengthyear": "256 standard days",
+    "diameter": "11,370 kilometers",
+    "atmosphere": "Type I",
+    "climate": "Hot and arid",
+    "gravity": "Light",
+    "terrain": [
+      "Deserts",
+      "Mesas",
+      "Mountains"
+    ],
+    "water": "5%",
+    "interest": [
+      "Badlands of N'g'zi",
+      "Caltrop field",
+      "E'Y-Akh Desert",
+      "Geonosis droid factories",
+      "Geonosian catacombs",
+      "Im'g'twe Hills",
+      "Karina's lair",
+      "Korakanni Mound",
+      "Orbital Foundry 7",
+      "Petranaki Arena",
+      "Point Rain",
+      "Progate Temple",
+      "Rings of Geonosis"
+    ],
+    "flora": "Spider-sponge",
+    "fauna": [
+      "Brain worm",
+      "Merdeth",
+      "Mongworst",
+      "Orray",
+      "Phidna",
+      "Pygmy porlceetin"
+    ],
+    "species": "Geonosian",
+    "otherspecies": [
+      "Acklay",
+      "Massiff",
+      "Nexu",
+      "Reek"
+    ],
+    "language": "Geonosian hive-mind",
+    "government": [
+      "Monarchy",
+      "Geonosian hives"
+    ],
+    "population": [
+      "100 billion (99% Geonosians, 1% other)",
+      "0 (Imperial Era) (believed)"
+    ],
+    "demonym": "Geonosian",
+    "cities": [
+      "Gehenbar hive",
+      "Golbah hive",
+      "Stalgasin hive spires (capital)",
+      "Trippa hive"
+    ],
+    "imports": "Raw materials",
+    "exports": [
+      "Battle droids",
+      "Technology"
+    ],
+    "affiliation": [
+      "Stalgasin hive",
+      "Techno Union",
+      "Confederacy of Independent Systems",
+      "Galactic Republic (during occuption)",
+      "Galactic Empire (during occupation)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Geonosian",
+      "directory": "Geonosian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Geonosian",
+      "directory": "Geonosian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Geonosis",
+    "x": 9674.4,
+    "y": -10099.5,
+    "z": -311.7,
+    "region": "Outer Rim",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Zabrak",
+  "wookieepedia_title": "Zabrak/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zabrak/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Zabraks (plural) were a carnivorous, near-human species native to Iridonia (also referred to as Iridonians or Iridonian Zabraks), a planet located in the Mid Rim known for its inhospitable terrain and fierce predatory fauna. In addition, Zabraks inhabited several other colony worlds, including Feldrona, Frithia, Iridia, and Lorista. They were a species known for having a fierce sense of self-determination paired with an equally strong independent streak.",
+  "data": {
+    "name": "Zabrak",
+    "designation": "Sentient",
+    "class": "Near-Human",
+    "subspecies": "Several (distinguished by the number and pattern of horns)",
+    "height": "1.8 meters",
+    "skincolor": [
+      "Black",
+      "Brown",
+      "Orange",
+      "Pale",
+      "Peachy white",
+      "Red",
+      "Tan",
+      "Yellow"
+    ],
+    "haircolor": [
+      "Black",
+      "Brown",
+      "Blonde",
+      "Red"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Brown",
+      "Green",
+      "Orange",
+      "Purple",
+      "Yellow"
+    ],
+    "distinctions": "Horns, facial tattoos, two hearts",
+    "lifespan": "80 Years",
+    "origin": "Iridonia",
+    "diet": "Carnivorous",
+    "language": [
+      "Zabraki",
+      "Basic"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Iridonia (Legends)"
+}

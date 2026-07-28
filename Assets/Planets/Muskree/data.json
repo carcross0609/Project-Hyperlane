@@ -1,0 +1,53 @@
+{
+  "name": "Muskree",
+  "wookieepedia_title": "Muskree",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Muskree",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Muskree was a backwater planet in the Outer Rim Territories. Its lone settlement was the failed mining colony Hardscrabble.",
+  "lead_paragraphs": [
+    "Muskree was a backwater planet in the Outer Rim Territories. Its lone settlement was the failed mining colony Hardscrabble."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Muskree",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Colundra sector",
+    "system": "Simus Minor system",
+    "coordinates": "S-5",
+    "suns": "1: Simus Minor",
+    "position": "3",
+    "moons": "None",
+    "lengthday": "24 standard hours",
+    "lengthyear": "382 standard days",
+    "class": "Terrestrial",
+    "diameter": "6,200 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": "Dry plains",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Town council",
+    "population": [
+      "400:",
+      "  100% Humans"
+    ],
+    "cities": "Hardscrabble",
+    "imports": "None",
+    "exports": "None"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Muskree",
+    "x": 5710.7,
+    "y": -12934.9,
+    "z": 424.0,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Harrandarr",
+  "wookieepedia_title": "Harrandarr",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Harrandarr",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Harrandarr was a planet located in the Harrandarr system, a part of the Outer Rim Territories' Bosph sector. It was the homeworld of the sentient Buzchub species. Und'l, a Buzchub who worked for Galactic Empire sympathizers on the Expansion Region astronomical object Roldalna shortly after the establishment of the New Republic in 4 ABY, hailed from Harrandarr.",
+  "lead_paragraphs": [
+    "Harrandarr was a planet located in the Harrandarr system, a part of the Outer Rim Territories' Bosph sector. It was the homeworld of the sentient Buzchub species. Und'l, a Buzchub who worked for Galactic Empire sympathizers on the Expansion Region astronomical object Roldalna shortly after the establishment of the New Republic in 4 ABY, hailed from Harrandarr."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Harrandarr",
+    "region": "Outer Rim Territories",
+    "sector": "Bosph sector",
+    "system": "Harrandarr system",
+    "coordinates": "Q-3",
+    "species": "Buzchub"
+  },
+  "homeworld_of": [
+    {
+      "name": "Buzchub",
+      "directory": "Buzchub",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Harrandarr",
+    "x": 4349.6,
+    "y": 6189.0,
+    "z": -113.9,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

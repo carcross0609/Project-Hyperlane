@@ -1,0 +1,39 @@
+{
+  "name": "Reltooine",
+  "wookieepedia_title": "Reltooine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reltooine",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Reltooine was a gas giant in the Tingel Arm. It was a part of the Corporate Sector and a member world of the Corporate Sector Authority.",
+  "lead_paragraphs": [
+    "Reltooine was a gas giant in the Tingel Arm. It was a part of the Corporate Sector and a member world of the Corporate Sector Authority.",
+    "Reltooine's many moons were popular tourist destinations, replete with breathtaking sights such as rings, erupting cryovolcanoes, and fiery aurorae. The luxury liner Lady of Mindor stopped here during its voyage between Roonadan and Ammuud."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Reltooine",
+    "region": "Outer Rim Territories",
+    "sector": "Corporate Sector",
+    "system": "Reltooine system",
+    "coordinates": "R-3",
+    "suns": "1",
+    "moons": "More than 3",
+    "routes": [
+      "Hydian Way",
+      "Intra-Sector Spur"
+    ],
+    "class": "Gas giant",
+    "interest": "Eclipse station",
+    "affiliation": "Corporate Sector Authority"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Reltooine",
+    "x": 10212.6,
+    "y": 9185.9,
+    "z": 446.7,
+    "region": "Outer Rim",
+    "grid": "R-3"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Lur",
+  "wookieepedia_title": "Lur",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lur",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lur was an icy planet on the Outer Rim, known for the native Lurrian species, who were masters of genetic engineering. Located near the Corporate Sector, Lur was racked by severe storms and high winds, and the planet's dangerous wildlife forced the Lurrians to band into tight family groups as they evolved. As the planet's harsh environment limited their technological development, Lurrians advanced their society by mastering the flora and fauna around them, breeding and cloning purposely designed creatures that helped them build cities within Lur's glaciers. The Lurrians' genetic mastery attracted much attention to their beloved homeworld, especially in the aftermath of the Clone Wars, when the Galactic Empire quarantined the world due to fears their knowledge could be used for ill. That notoriety made Lur a popular target for slavers, as Lurrian genetic experts became valuable properties on the Invisible Market due to galaxy-wide restrictions on genetic experimentation.",
+  "lead_paragraphs": [
+    "Lur was an icy planet on the Outer Rim, known for the native Lurrian species, who were masters of genetic engineering. Located near the Corporate Sector, Lur was racked by severe storms and high winds, and the planet's dangerous wildlife forced the Lurrians to band into tight family groups as they evolved. As the planet's harsh environment limited their technological development, Lurrians advanced their society by mastering the flora and fauna around them, breeding and cloning purposely designed creatures that helped them build cities within Lur's glaciers. The Lurrians' genetic mastery attracted much attention to their beloved homeworld, especially in the aftermath of the Clone Wars, when the Galactic Empire quarantined the world due to fears their knowledge could be used for ill. That notoriety made Lur a popular target for slavers, as Lurrian genetic experts became valuable properties on the Invisible Market due to galaxy-wide restrictions on genetic experimentation."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Lur",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Aparo sector",
+    "system": "Lur system",
+    "coordinates": "R-4",
+    "terrain": [
+      "Ice",
+      "Snow"
+    ],
+    "fauna": [
+      "Asgnat",
+      "Grebnar",
+      "Lurrian rimebat",
+      "Noahound"
+    ],
+    "species": "Lurrians",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lurrian",
+      "directory": "Lurrian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lur",
+    "x": 10076.6,
+    "y": 8937.7,
+    "z": 365.0,
+    "region": "Outer Rim",
+    "grid": "R-4"
+  },
+  "scraped": "2026-07-03"
+}

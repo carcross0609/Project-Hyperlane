@@ -1,0 +1,75 @@
+{
+  "name": "Nirauan",
+  "wookieepedia_title": "Nirauan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nirauan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nirauan was a planet located in second of three inner planets in the Nirauan system in Wild Space. It was inhabited by the indigenous avian Qom Jha and Qom Qae species, and was the capital of the Empire of the Hand, where it housed a large garrison of Chiss and human personnel.",
+  "lead_paragraphs": [
+    "Nirauan was a planet located in second of three inner planets in the Nirauan system in Wild Space. It was inhabited by the indigenous avian Qom Jha and Qom Qae species, and was the capital of the Empire of the Hand, where it housed a large garrison of Chiss and human personnel."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Nirauan",
+    "region": "Wild Space",
+    "sector": "Gradilis sector",
+    "system": "Nirauan system",
+    "coordinates": "I-5",
+    "suns": "1: Nirauan's sun",
+    "position": "2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "terrain": [
+      "Canyons",
+      "Caves",
+      "Hills",
+      "Lakes",
+      "Forests"
+    ],
+    "interest": [
+      "Hand of Thrawn",
+      "Lake of Small Fish",
+      "Nirauan cliffs"
+    ],
+    "fauna": [
+      "Fire creeper",
+      "Vinecrawler",
+      "Avians"
+    ],
+    "species": "Qom Jha and Qom Qae",
+    "otherspecies": [
+      "Chiss",
+      "Human",
+      "Rakata (historically)"
+    ],
+    "language": [
+      "Basic",
+      "Cheunh"
+    ],
+    "cities": "None",
+    "affiliation": [
+      "Infinite Empire",
+      "Empire of the Hand"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Qom Jha and Qom Qae",
+      "directory": "Qom Jha and Qom Qae",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nirauan",
+    "x": -3295.6,
+    "y": 6058.5,
+    "z": -116.4,
+    "region": "Wild Space",
+    "grid": "I-5"
+  },
+  "scraped": "2026-07-03"
+}

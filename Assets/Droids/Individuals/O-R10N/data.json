@@ -1,0 +1,33 @@
+{
+  "name": "O-R10N",
+  "wookieepedia_title": "O-R10N",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/O-R10N",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "O-R10N was a blue astromech droid who served as Jessika Pava's astromech in the Resistance. During Black Squadron's mission to Megalox, O-R10N assisted in Operation Upside alongside BB-8, R2-HA, and R4 in an attempt to free Grakkus the Hutt until it was destroyed by an unidentified droid.",
+  "data": {
+    "type": "Resistance",
+    "name": "O-R10N",
+    "death": "32 ABY, above Megalox Beta",
+    "line": "R-series",
+    "model": "R5 series astromech droid",
+    "class": "Astromech droid",
+    "pronouns": "It/its",
+    "sensor": "Black",
+    "plating": "Blue",
+    "armament": [
+      "Arc welder",
+      "Spark projector"
+    ],
+    "equipment": [
+      "Rocket booster",
+      "Scomp link"
+    ],
+    "affiliation": [
+      "Resistance",
+      "  Black Squadron"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

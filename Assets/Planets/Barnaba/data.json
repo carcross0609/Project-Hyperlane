@@ -1,0 +1,55 @@
+{
+  "name": "Barnaba",
+  "wookieepedia_title": "Barnaba",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barnaba",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Barnaba was a warm, mountainous planet in Barnaba Province. It was an important exporter of agricultural produce in the Tapani sector.",
+  "lead_paragraphs": [
+    "Barnaba was a warm, mountainous planet in Barnaba Province. It was an important exporter of agricultural produce in the Tapani sector."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Barnaba",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "sector": "Barnaba Province; Tapani sector",
+    "system": "Barnaba system",
+    "coordinates": "L-13",
+    "lengthday": "25 standard hours",
+    "lengthyear": "352 standard days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Plains",
+      "Valleys"
+    ],
+    "otherspecies": "Humans",
+    "government": "House Barnaba",
+    "population": "650 million",
+    "imports": "High technology",
+    "exports": [
+      "Foodstuffs",
+      "Low technology",
+      "Mistwater"
+    ],
+    "affiliation": "House Barnaba"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Barnaba",
+    "x": 554.3,
+    "y": -5715.2,
+    "z": 94.3,
+    "region": "Colonies",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "CB-23",
+  "wookieepedia_title": "CB-23",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CB-23",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "CB-23 was a BB-series astromech droid with feminine programming who was a member of the Resistance in 34 ABY. She was assigned to Commander Poe Dameron while BB-8 was stationed on the Colossus with Kazuda Xiono. After Dameron took back BB-8 before going on a mission to Jakku, CB-23 replaced him in the mission on the Colossus platform.",
+  "data": {
+    "type": "Resistance",
+    "name": "CB-23",
+    "manufacturer": "Industrial Automaton",
+    "model": "BB-series astromech droid",
+    "class": "Astromech droid",
+    "height": "0.67 meters",
+    "gender": "Feminine programming",
+    "pronouns": "She/her",
+    "sensor": "Black",
+    "plating": "Red and blue",
+    "affiliation": [
+      "Resistance",
+      "  Team Colossus",
+      "Team Fireball"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bith",
+  "wookieepedia_title": "Bith/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bith/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Bith were a peaceful, highly evolved craniopod species native to the planet Clak'dor VII. Fully adapted to a civilized, high-technology lifestyle, Bith were found galaxy-wide at all levels of society, most notably as engineers, scientists, intellectuals, consultants, and musicians.",
+  "data": {
+    "name": "Bith",
+    "designation": "Sentient",
+    "class": "Craniopod",
+    "subspecies": [
+      "Mainstream Bith",
+      "Aalagar",
+      "Y'bith"
+    ],
+    "height": "1.5 - 1.75 meters",
+    "skincolor": [
+      "Green",
+      "Pale pink",
+      "Red",
+      "Yellow"
+    ],
+    "eyecolor": "Black",
+    "distinctions": [
+      "Large cranium",
+      "Acute senses of smell and hearing"
+    ],
+    "lifespan": [
+      "Child: 1-11",
+      "Young adult: 12-15",
+      "Adult: 16-50",
+      "Middle age: 51-70",
+      "Old: 71-84",
+      "Venerable: 85+"
+    ],
+    "origin": "Clak'dor VII",
+    "language": "Bith"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Clak'dor VII (Legends)"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Vanqor",
+  "wookieepedia_title": "Vanqor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vanqor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vanqor was the largest planet in the Uziel system. It was located about 6 parsecs away from Florrum.",
+  "lead_paragraphs": [
+    "Vanqor was the largest planet in the Uziel system. It was located about 6 parsecs away from Florrum."
+  ],
+  "article_sections": [
+    "History",
+    "  Separatist era",
+    "  Clone Wars"
+  ],
+  "data": {
+    "name": "Vanqor",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Sertar sector",
+    "system": "Uziel system",
+    "coordinates": "R-5",
+    "suns": "1",
+    "moons": "2",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Deserts",
+      "Canyons",
+      "Highlands"
+    ],
+    "fauna": "Gundark",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vanqor",
+    "x": 9891.5,
+    "y": 6632.6,
+    "z": 89.1,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

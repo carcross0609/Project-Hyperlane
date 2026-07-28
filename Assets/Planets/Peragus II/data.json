@@ -1,0 +1,51 @@
+{
+  "name": "Peragus II",
+  "wookieepedia_title": "Peragus II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Peragus_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Peragus II was a planet in the Peragus system of the Outer Rim Territories' Xappyh sector. A major source of low-grade engine fuel, Peragus II was originally a terrestrial world, but it was nearly destroyed hundreds of years before 3959 BBY by the early attempts of miners to siphon off fuel from the planet. A mining accident caused an explosion beneath the crust, blowing a massive hole in the planet and forming an asteroid field around the world. By 3951 BBY, mercenaries and tradesmen constructed the Peragus Mining Facility in the Peragus asteroid field, but both the asteroid field and the station were destroyed when a stray blast during a firefight between the light freighter Ebon Hawk and the Hammerhead-class cruiser Harbinger ignited the fuel in the asteroid field. After the destruction of the asteroid field, no further mining projects were attempted in the ruins of Peragus II.",
+  "lead_paragraphs": [
+    "Peragus II was a planet in the Peragus system of the Outer Rim Territories' Xappyh sector. A major source of low-grade engine fuel, Peragus II was originally a terrestrial world, but it was nearly destroyed hundreds of years before 3959 BBY by the early attempts of miners to siphon off fuel from the planet. A mining accident caused an explosion beneath the crust, blowing a massive hole in the planet and forming an asteroid field around the world. By 3951 BBY, mercenaries and tradesmen constructed the Peragus Mining Facility in the Peragus asteroid field, but both the asteroid field and the station were destroyed when a stray blast during a firefight between the light freighter Ebon Hawk and the Hammerhead-class cruiser Harbinger ignited the fuel in the asteroid field. After the destruction of the asteroid field, no further mining projects were attempted in the ruins of Peragus II."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Peragus II",
+    "region": "Outer Rim Territories",
+    "sector": "Xappyh sector",
+    "system": "Peragus system",
+    "coordinates": "Q-4",
+    "suns": "1",
+    "moons": "None",
+    "lengthday": "14 standard hours",
+    "lengthyear": "417 local days",
+    "class": "Terrestrial",
+    "climate": "Uninhabitable",
+    "gravity": "Standard",
+    "terrain": "Barren",
+    "interest": "Peragus asteroid field",
+    "species": "None",
+    "government": "None",
+    "population": "None",
+    "demonym": "Peragian",
+    "imports": [
+      "Foodstuffs",
+      "Technology"
+    ],
+    "exports": "Fuel"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Peragus II",
+    "x": 8717.4,
+    "y": 8899.7,
+    "z": -0.9,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

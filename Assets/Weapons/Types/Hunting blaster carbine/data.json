@@ -1,0 +1,25 @@
+{
+  "name": "Hunting blaster carbine",
+  "wookieepedia_title": "Hunting blaster carbine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hunting_blaster_carbine",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The hunting blaster carbine was a light but powerful blaster carbine.",
+  "data": {
+    "name": "Hunting blaster carbine",
+    "type": "Blaster carbine",
+    "cost": "1,000 credits",
+    "size": "Medium",
+    "weight": "2.1 kg",
+    "capacity": [
+      "50 shots",
+      "Close-range stun setting available"
+    ],
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 225 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

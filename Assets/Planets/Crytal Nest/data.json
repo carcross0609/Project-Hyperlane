@@ -1,0 +1,46 @@
+{
+  "name": "Crytal Nest",
+  "wookieepedia_title": "Crytal Nest",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crytal_Nest",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Crytal Nest was a Wild Space planet that was the homeworld of the sentient Shashay species. During the existence of the Galactic Republic and the Galactic Empire, the Shashay explored and traded with other star systems, but later into the Empire's reign, the species became more reclusive. They kept the location of Crytal Nest a closely guarded secret, and the Rebel Alliance eventually attempted to negotiate a treaty with the Shashay that would allow for the establishment of a base there.",
+  "lead_paragraphs": [
+    "Crytal Nest was a Wild Space planet that was the homeworld of the sentient Shashay species. During the existence of the Galactic Republic and the Galactic Empire, the Shashay explored and traded with other star systems, but later into the Empire's reign, the species became more reclusive. They kept the location of Crytal Nest a closely guarded secret, and the Rebel Alliance eventually attempted to negotiate a treaty with the Shashay that would allow for the establishment of a base there.",
+    "Matters were complicated when Chief Administrator Braig Farool of TransGalMeg Industries, Incorporated and his brother Nak, Special Assistant to the Rayter sector's Imperial Moff Nile Owen, had the famous Shashay performer Crying Dawn Singer kidnapped in order to discredit the Alliance and ensure the alignment of the Shashay to the Empire instead. Eventually, however, a team of Rebel agents rescued Crying Dawn Singer, and the Shashay and the Alliance ratified their treaty on Crytal Nest."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  A secret world",
+    "  The abduction of Crying Dawn Singer",
+    "  Alliance prevails",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Crytal Nest",
+    "region": "Wild Space",
+    "system": "Crytal Nest system",
+    "coordinates": "H-20",
+    "class": "Terrestrial",
+    "species": "Shashay",
+    "language": "A language",
+    "government": "Nestmothers of the Shashay"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shashay",
+      "directory": "Shashay",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Crytal Nest",
+    "x": -4644.4,
+    "y": -16266.9,
+    "z": 64.3,
+    "region": "Wild Space",
+    "grid": "H-20"
+  },
+  "scraped": "2026-07-03"
+}

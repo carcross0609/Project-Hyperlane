@@ -1,0 +1,65 @@
+{
+  "name": "Sesid",
+  "wookieepedia_title": "Sesid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sesid",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sesid, the homeworld of the Draedan species, was an aquatic planet located in the Outer Rim Territories. It was a popular tourist destination, and many vacationers traveled across the galaxy to visit its tropical islands. The Galactic Empire conducted pharmaceutical research on Sesid, and deployed a military garrison on the scenic world to protect their assets.",
+  "lead_paragraphs": [
+    "Sesid, the homeworld of the Draedan species, was an aquatic planet located in the Outer Rim Territories. It was a popular tourist destination, and many vacationers traveled across the galaxy to visit its tropical islands. The Galactic Empire conducted pharmaceutical research on Sesid, and deployed a military garrison on the scenic world to protect their assets."
+  ],
+  "article_sections": [
+    "Description",
+    "  Astronomy",
+    "  Geology",
+    "  Flora and fauna",
+    "History"
+  ],
+  "data": {
+    "name": "Sesid",
+    "region": "Outer Rim Territories",
+    "sector": "Corva sector",
+    "system": "Sesid system",
+    "coordinates": "P-4",
+    "atmosphere": "Breathable",
+    "climate": "Tropical",
+    "terrain": [
+      "Islands",
+      "Jungles",
+      "Oceans",
+      "Volcanoes"
+    ],
+    "interest": "A volcanic island",
+    "flora": [
+      "Lily pad"
+    ],
+    "fauna": [
+      "Bird",
+      "Fish"
+    ],
+    "species": "Draedan",
+    "cities": "Thrinaka",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Draedan",
+      "directory": "Draedan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Draedan",
+      "directory": "Draedan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sesid",
+    "x": 6479.0,
+    "y": 8350.0,
+    "z": 61.4,
+    "region": "Outer Rim",
+    "grid": "P-4"
+  },
+  "scraped": "2026-07-03"
+}

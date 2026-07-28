@@ -1,0 +1,47 @@
+{
+  "name": "C-3PX",
+  "wookieepedia_title": "C-3PX",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/C-3PX",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "C-3PX was a Cybot Galactica 3PX-series protocol droid reprogrammed to be an assassin droid.",
+  "data": {
+    "type": "Criminal",
+    "name": "C-3PX",
+    "birth": "50 BBY",
+    "death": "5.5 BBY",
+    "manufacturer": "Cybot Galactica",
+    "model": "3PX-series protocol droid",
+    "class": [
+      "Protocol droid",
+      "assassin droid"
+    ],
+    "height": "1.67 meters",
+    "gender": "Masculine programming",
+    "pronouns": "He/him",
+    "sensor": "Red",
+    "armament": [
+      "Retractable lasers",
+      "Retractable dart shooters",
+      "Retractable fusioncutters",
+      "Retractable gas canister",
+      "Retractable missile launcher",
+      "Retractable repeating blaster",
+      "Rear-firing laser cannon"
+    ],
+    "equipment": [
+      "Smuggling compartments",
+      "Infrared photoreceptors",
+      "Broadband antenna receiver"
+    ],
+    "affiliation": [
+      "Bounty hunter",
+      "Order of the Sith Lords",
+      "Galactic Republic",
+      "Santhe/Sienar Technologies",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

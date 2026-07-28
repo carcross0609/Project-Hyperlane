@@ -1,0 +1,18 @@
+# M-HYD 6804
+
+**Kind:** Individual  
+**Continuity:** Legends  
+**Source:** [M-HYD 6804](https://starwars.fandom.com/wiki/M-HYD_6804)
+
+M-HYD 6804, nicknamed Dowser, was a Mini-Huvicko/Yuzabi Dowser binary hydromech droid brought to Tatooine in the Lucky Despot. The Despot's captain marketed the droids to moisture prospectors of the Jundland Wastes, but the droids proved ill-suited to the terrain and were frequently caught and broken open by Tusken Raiders. Extensive buyer remorse led to the Mos Eisley Prospector's Riot. Dowser was abandoned by its owner and scavenged by Nebit the Jawa and his sandcrawler. When sandtroopers raided the sandcrawler, M-HYD was presumed either destroyed or taken for use by the Galactic Empire.
+
+## Specifications
+
+- **Name:** M-HYD 6804
+- **Model:** Mini-Huvicko/Yuzabi Dowser binary hydromech droid
+- **Class:** Hydromech droid
+- **Pronouns:** new
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

@@ -1,0 +1,42 @@
+{
+  "name": "Surron",
+  "wookieepedia_title": "Surron",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Surron",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Surron was a world located in the Surron sector of the Expansion Region. It was the homeworld of the Surronians, an insectoid species with a guild-based society. The Surronian were long-respected shipbuilders, renowned for their innovative starship designs. The Surron system hosted shipyards and Surron was the headquarters of the shipwright Surron StarTech.",
+  "lead_paragraphs": [
+    "Surron was a world located in the Surron sector of the Expansion Region. It was the homeworld of the Surronians, an insectoid species with a guild-based society. The Surronian were long-respected shipbuilders, renowned for their innovative starship designs. The Surron system hosted shipyards and Surron was the headquarters of the shipwright Surron StarTech."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Surron",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Surron sector",
+    "system": "Surron system",
+    "coordinates": "O-13",
+    "interest": "Shipyards",
+    "species": "Surronians",
+    "population": "10 million to 100 million (c. 25 ABY)",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Surronian",
+      "directory": "Surronian (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Surron",
+    "x": 5385.4,
+    "y": -4944.7,
+    "z": -82.2,
+    "region": "Expansion Region",
+    "grid": "O-13"
+  },
+  "scraped": "2026-07-03"
+}

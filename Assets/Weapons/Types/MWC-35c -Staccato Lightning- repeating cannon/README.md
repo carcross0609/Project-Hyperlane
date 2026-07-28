@@ -1,0 +1,27 @@
+# MWC-35c "Staccato Lightning" repeating cannon
+
+**Kind:** Model  
+**Continuity:** Canon  
+**Source:** [MWC-35c "Staccato Lightning" repeating cannon](https://starwars.fandom.com/wiki/MWC-35c_%22Staccato_Lightning%22_repeating_cannon)
+
+The MWC-35c "Staccato Lightning" repeating cannon, or the MWC-35c repeating cannon for short, was a heavy repeating blaster manufactured by Morellian Weapons Conglomerate. Powered by condensed K-grade conductor cells and cooled by a tankage of R717 refrigerant, the MWC-35c-a had a capacity of 35,000 rounds when fully charged by the Galven-circuitry charge belt and had two fire modes: a standard mode which fired at a rapid rate and a secondary mode which was a single-fire power shot. In the standard mode, the MWC-35c's electroscope's smart targeting array took into account the user's position and facing, grouping shots into bursts to maximize hits on specified targets. In the secondary mode, the blaster's lower barrel collected energy into single shots primed by a pump-action foreguard. Both modes drew from the same power source, but yielded different levels of destructive output. The freelance assassin and Rebel soldier Baze Malbus wielded one, which he used for both long-range sniping and close-quarters combat.
+
+## Specifications
+
+- **Name:** MWC-35c "Staccato Lightning" repeating cannon
+- **Manufacturer:** Morellian Weapons Conglomerate
+- **Model:** MWC-35c
+- **Type:** Heavy repeating blaster
+- **Cost:** 3,000 credits
+- **Weight:** 30 kilograms
+- **Capacity:** 35,000 rounds
+- **Affiliation:**
+  - Galactic Empire
+  -   Imperial Army
+  - Partisans
+  - Alliance to Restore the Republic
+  -   Rogue One
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

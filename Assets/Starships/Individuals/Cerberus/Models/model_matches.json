@@ -1,0 +1,48 @@
+{
+  "asset": "Cerberus",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Star Wars: TIE Landing Craft",
+      "url": "https://sketchfab.com/3d-models/none-fb50f433e9004907b782d272b488aada",
+      "uid": "fb50f433e9004907b782d272b488aada",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 74,
+      "thumbnail": "https://media.sketchfab.com/models/fb50f433e9004907b782d272b488aada/thumbnails/4f00164e72d84883a60e742757a3c6bd/37d756e2414641e7aaf4dc2e9347e421.jpeg"
+    },
+    {
+      "name": "Trade Federation Landing Craft",
+      "url": "https://sketchfab.com/3d-models/none-5ca9a2c89480421592cd65b82d2a028b",
+      "uid": "5ca9a2c89480421592cd65b82d2a028b",
+      "author": "Kuat-Entralla 3D Engineering",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 25,
+      "thumbnail": "https://media.sketchfab.com/models/5ca9a2c89480421592cd65b82d2a028b/thumbnails/b1d8c05ea0174ba9a725e52d88016ed0/633067312a8b420bb972c7204389d41e.jpeg"
+    },
+    {
+      "name": "C-9979 landing craft",
+      "url": "https://sketchfab.com/3d-models/none-65850006f9d14e36b2a416c026c3b74b",
+      "uid": "65850006f9d14e36b2a416c026c3b74b",
+      "author": "bruhepic925",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 12,
+      "thumbnail": "https://media.sketchfab.com/models/65850006f9d14e36b2a416c026c3b74b/thumbnails/9949886fc3d44136b121f377813c22ce/c5a608652a1d4c6893eaad881c79694a.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Landing craft"
+}

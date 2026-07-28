@@ -1,0 +1,26 @@
+{
+  "name": "3PO-series protocol droid",
+  "wookieepedia_title": "3PO-series protocol droid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/3PO-series_protocol_droid/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The 3PO-series protocol droid was a Human-cyborg relations protocol droid produced by Cybot Galactica. The model series had very similar aesthetic design in its casing to other Cybot Galactica droid model series such as the TC-series, 3PX-series, and 5YQ-series protocol droids.",
+  "data": {
+    "name": "3PO-series protocol droid",
+    "manufacturer": "Cybot Galactica",
+    "class": "Protocol droid",
+    "degree": "Class three droid",
+    "cost": "3,000 credits",
+    "height": "1.7 meters",
+    "equipment": [
+      "2 photoreceptors (Human range)",
+      "2 auditory receptors (Human range)",
+      "1 Olfactory sensor",
+      "Vocabulator",
+      "AA-1 VerboBrain",
+      "TranLang III communications module"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

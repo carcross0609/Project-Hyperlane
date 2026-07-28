@@ -1,0 +1,31 @@
+{
+  "name": "Soika",
+  "wookieepedia_title": "Soika",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Soika",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Soika was a terrestrial planet which was the homeworld of the Soikan species. It was located in the Soika system in the Inner Rim Territories, in grid square M-8 of the Standard Galactic Grid. By the High Republic Era, Soika had been ravaged by the Soikan conflict, a war between several factions of Soikans.",
+  "lead_paragraphs": [
+    "Soika was a terrestrial planet which was the homeworld of the Soikan species. It was located in the Soika system in the Inner Rim Territories, in grid square M-8 of the Standard Galactic Grid. By the High Republic Era, Soika had been ravaged by the Soikan conflict, a war between several factions of Soikans."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Soika",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Soika system",
+    "coordinates": "M-8",
+    "class": "Terrestrial",
+    "interest": "Qunatos",
+    "species": "Soikan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Soikan",
+      "directory": "Soikan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

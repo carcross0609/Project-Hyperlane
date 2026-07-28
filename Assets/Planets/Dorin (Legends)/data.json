@@ -1,0 +1,100 @@
+{
+  "name": "Dorin",
+  "wookieepedia_title": "Dorin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dorin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dorin was a dark and dusty planet in the Expansion Region. It was the homeworld of the Kel Dors, with an atmosphere of a unique gas and helium.",
+  "lead_paragraphs": [
+    "Dorin was a dark and dusty planet in the Expansion Region. It was the homeworld of the Kel Dors, with an atmosphere of a unique gas and helium."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Dorin",
+    "region": [
+      "Expansion Region",
+      "Northern Dependencies"
+    ],
+    "sector": "Deadalis sector",
+    "system": "Dorin system",
+    "coordinates": "J-8",
+    "suns": "1",
+    "moons": "1",
+    "routes": [
+      "Celanon Spur",
+      "Dorin Run",
+      "Namadii Corridor"
+    ],
+    "lengthday": "22 standard hours",
+    "lengthyear": "409 standard days",
+    "diameter": "13,400 kilometers",
+    "atmosphere": "Type III (breath mask required)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Valleys",
+      "Plateaus"
+    ],
+    "interest": [
+      "Baran Do temple",
+      "Caverns of the Hidden One",
+      "Jedi Enclave",
+      "Throne chamber"
+    ],
+    "flora": [
+      "Kand",
+      "Zand"
+    ],
+    "fauna": "Eerm",
+    "species": "Kel Dor",
+    "otherspecies": "None",
+    "language": "Kel Dor",
+    "government": "Representative republic",
+    "population": [
+      "671 million:",
+      "  98% Kel Dor",
+      "  1% Human",
+      "  1% other"
+    ],
+    "cities": [
+      "Dor'shan (capital)",
+      "Dor'galk"
+    ],
+    "imports": "Technology",
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Brotherhood of Darkness",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Imperial Remnant",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kel Dor",
+      "directory": "Kel Dor",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kel Dor",
+      "directory": "Kel Dor (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dorin",
+    "x": -2125.4,
+    "y": 2890.8,
+    "z": 162.5,
+    "region": "Expansion Region",
+    "grid": "J-8"
+  },
+  "scraped": "2026-07-03"
+}

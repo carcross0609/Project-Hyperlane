@@ -1,0 +1,20 @@
+{
+  "name": "LE-series droid",
+  "wookieepedia_title": "LE-series droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/LE-series_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "LE-series droids were a line of astromech droids used in the galaxy. Clink, was a LE-series droid who was owned by a Gran trader on Pantora. Along with the astromech droids 225 and DK-3, Clink was supervised by the protocol droid CG-67. LE-12, a LE-series droid who resided on the Colossus, was an older model in the line. LE-series droids had two clamps, two springy legs, and a head capable of rotating 360 degrees.",
+  "data": {
+    "name": "LE-series droid",
+    "model": "LE-series",
+    "class": "Astromech droid",
+    "equipment": [
+      "2 clamps",
+      "Springy legs",
+      "Rotating head"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

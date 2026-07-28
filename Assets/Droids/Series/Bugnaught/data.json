@@ -1,0 +1,21 @@
+{
+  "name": "Bugnaught",
+  "wookieepedia_title": "Bugnaught",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bugnaught",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "Bugnaught was a type of droid gladiator used by the Rattataki as training adversaries. One in particular fought in the Cauldron on Rattatak. This Bugnaught burned Carl to death with a flamethrower installed in his arm, but was ripped to pieces by Blorga.",
+  "data": {
+    "name": "Bugnaught",
+    "class": "Battle droid",
+    "gender": "Masculine programming",
+    "sensor": "Red",
+    "armament": [
+      "Retractable spikes",
+      "Arm flamethrower"
+    ],
+    "affiliation": "The Cauldron"
+  },
+  "scraped": "2026-07-03"
+}

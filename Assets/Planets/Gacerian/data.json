@@ -1,0 +1,66 @@
+{
+  "name": "Gacerian",
+  "wookieepedia_title": "Gacerian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gacerian",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gacerian was the fourth planet in the Gacerian system. It was home to many Gacerite mines and was the homeworld of the Gacerite species. During Imperial reign, the Imperial governor of the planet, Ulbrek Gostech, was compassionate and kind, allowing the general populace to run the planet. Thus, the Gacerites were happy to abide by Imperial values and obey the laws dictated to them through their governor.",
+  "lead_paragraphs": [
+    "Gacerian was the fourth planet in the Gacerian system. It was home to many Gacerite mines and was the homeworld of the Gacerite species. During Imperial reign, the Imperial governor of the planet, Ulbrek Gostech, was compassionate and kind, allowing the general populace to run the planet. Thus, the Gacerites were happy to abide by Imperial values and obey the laws dictated to them through their governor."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gacerian",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Baroli sector",
+    "system": "Gacerian system",
+    "coordinates": "N-15",
+    "suns": "1: Klozar",
+    "position": "4",
+    "moons": "2: Tempay and Fortay",
+    "routes": "Hydian Way",
+    "lengthday": "36 standard hours",
+    "lengthyear": "375 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Hot",
+    "gravity": "Light",
+    "terrain": "Desert, mountains",
+    "water": "Dry",
+    "interest": [
+      "Musical Rocks",
+      "Singing Forest",
+      "Harmonia"
+    ],
+    "flora": "S'ae tree",
+    "fauna": [
+      "Mear",
+      "Revir"
+    ],
+    "species": "Gacerite",
+    "population": "27 million",
+    "cities": "Harmonia (capital)",
+    "imports": "Foodstuffs and luxury goods",
+    "exports": "Musical entertainment and gemstones",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gacerite",
+      "directory": "Gacerite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gacerian",
+    "x": 3489.6,
+    "y": -7692.0,
+    "z": -123.1,
+    "region": "Expansion Region",
+    "grid": "N-15"
+  },
+  "scraped": "2026-07-03"
+}

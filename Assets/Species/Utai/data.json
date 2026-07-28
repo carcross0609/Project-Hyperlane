@@ -1,0 +1,33 @@
+{
+  "name": "Utai",
+  "wookieepedia_title": "Utai",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Utai",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Utai were a species of short, stubby humanoids with distended eyes that hailed from Utapau. They shared their homeworld with the Pau'ans as well as with immigrated species, including groups of Amani and Sugi. Being the smallest of the two native species, they were nicknamed \"Shorts.\"",
+  "data": {
+    "name": "Utai",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "height": "1.37 meters",
+    "skincolor": [
+      "Brown",
+      "Pale pink",
+      "Tan"
+    ],
+    "eyecolor": [
+      "Black",
+      "Gold"
+    ],
+    "lifespan": "50-60 years",
+    "origin": "Utapau",
+    "habitat": "Sinkhole caves",
+    "diet": "Omnivore",
+    "language": [
+      "Utai",
+      "Utapese"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Utapau"
+}

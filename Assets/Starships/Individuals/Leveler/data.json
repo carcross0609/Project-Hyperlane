@@ -1,0 +1,26 @@
+{
+  "name": "Leveler",
+  "wookieepedia_title": "Leveler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Leveler",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Leveler was a modified Acclamator-class assault ship that served in the Republic Navy during the Clone Wars, captained by Gilad Pellaeon.",
+  "data": {
+    "name": "Leveler",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Modified Acclamator-class assault ship",
+    "type": "Assault ship",
+    "length": "752 meters",
+    "width": "460 meters",
+    "armament": "Concussion Missiles",
+    "othersystems": "Modified to carry a ventral hangar bay.",
+    "role": [
+      "Assault ship",
+      "Command ship"
+    ],
+    "affiliation": "Galactic Republic",
+    "captains": "Gilad Pellaeon"
+  },
+  "scraped": "2026-07-03"
+}

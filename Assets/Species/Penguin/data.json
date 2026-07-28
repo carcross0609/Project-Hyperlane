@@ -1,0 +1,37 @@
+{
+  "name": "Penguin",
+  "wookieepedia_title": "Penguin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Penguin",
+  "continuity": "Unknown",
+  "infobox_template": "Species",
+  "description": "Penguins were a sentient species flightless bird.",
+  "data": {
+    "name": "Penguin",
+    "designation": "Sentient",
+    "class": "Bird",
+    "skincolor": [
+      "Black",
+      "Light blue",
+      "Lime green",
+      "Orange",
+      "Purple",
+      "White",
+      "Yellow"
+    ],
+    "haircolor": [
+      "Blond",
+      "Dark blue",
+      "Dark brown"
+    ],
+    "eyecolor": [
+      "Black",
+      "Green"
+    ],
+    "distinctions": [
+      "Bird-like bill",
+      "Flat orange feet"
+    ],
+    "language": "Galactic Basic Standard"
+  },
+  "scraped": "2026-07-03"
+}

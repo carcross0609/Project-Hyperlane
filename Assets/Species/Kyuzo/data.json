@@ -1,0 +1,33 @@
+{
+  "name": "Kyuzo",
+  "wookieepedia_title": "Kyuzo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kyuzo",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Kyuzo were a sentient humanoid species native to the gravity-heavy Outer Rim world of Phatrong, where they evolved dense muscle fibers and fast reflexes. A species known for its strong sense of honor and proud martial history, the Kyuzo's clovocs, a subculture of fighting orders that maintained law and order in specific regions of their homeworld, were one the most recognized elements of the species' culture in the galaxy at large. Notable Kyuzo included the bounty hunter Embo, Jedi Master Sav Malagán, and Constable Zuvio of Niima Outpost, a frontier trading post located on the planet Jakku.",
+  "data": {
+    "name": "Kyuzo",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "skincolor": [
+      "Green",
+      "Olive",
+      "Pinkish",
+      "Tan"
+    ],
+    "eyecolor": [
+      "Orange",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Compound or slit-pupiled eyes",
+      "Dense musculature",
+      "Suffer from respiratory and vision problems in standard gravity environment",
+      "Long lifespan"
+    ],
+    "origin": "Phatrong",
+    "language": "Kyuzo"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Phatrong"
+}

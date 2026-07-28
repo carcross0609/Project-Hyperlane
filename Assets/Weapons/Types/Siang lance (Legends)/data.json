@@ -1,0 +1,27 @@
+{
+  "name": "Siang lance",
+  "wookieepedia_title": "Siang lance/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Siang_lance/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The siang lance was a weapon used by the Kilian Rangers. It was a modified sporting blaster rifle equipped with a bayonet. It was often enhanced by the Force.",
+  "data": {
+    "name": "Siang lance",
+    "type": "Exotic sporting blaster rifle",
+    "cost": "2,000 credits",
+    "size": "Medium",
+    "weight": "4 kg",
+    "capacity": "100 shots",
+    "range": [
+      "Optimum: up to 90 meters",
+      "Maximum: up to 450 meters"
+    ],
+    "purpose": "Combined melee and ranged weapon",
+    "affiliation": [
+      "Kilian Rangers",
+      "Nobles of Kilia IV"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

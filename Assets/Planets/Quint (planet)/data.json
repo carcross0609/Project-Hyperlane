@@ -1,0 +1,32 @@
+{
+  "name": "Quint",
+  "wookieepedia_title": "Quint (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quint_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Quint was a planet located in the Inner Rim that was the homeworld of the Quint species.",
+  "lead_paragraphs": [
+    "Quint was a planet located in the Inner Rim that was the homeworld of the Quint species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Quint",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "system": "Quint system",
+    "coordinates": "M-8",
+    "species": "Quints"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Quint",
+    "x": 2047.9,
+    "y": 2430.7,
+    "z": -88.0,
+    "region": "Inner Rim",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

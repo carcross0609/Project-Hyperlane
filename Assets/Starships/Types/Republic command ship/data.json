@@ -1,0 +1,24 @@
+{
+  "name": "Republic command ship",
+  "wookieepedia_title": "Republic command ship",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Republic_command_ship",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "This type of Republic command ship was used by the Republic Navy in 3997 BBY.",
+  "data": {
+    "name": "Republic command ship",
+    "type": "Command ship",
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "armament": "Equipped with unknown ordnance",
+    "complement": "Several snubfighters",
+    "othersystems": "Medical bay with Bacta tanks",
+    "role": [
+      "Battleship",
+      "Command ship (flagship)"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "scraped": "2026-07-03"
+}

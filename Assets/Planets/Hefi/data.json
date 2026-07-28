@@ -1,0 +1,38 @@
+{
+  "name": "Hefi",
+  "wookieepedia_title": "Hefi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hefi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hefi was a planet located in the Hefi system of the Abrion sector, within the Slice portion of the Outer Rim Territories. Covered by landmasses and oceans, Hefi's surface featured varied climates and was capable of supporting various forms of humanoid life.",
+  "lead_paragraphs": [
+    "Hefi was a planet located in the Hefi system of the Abrion sector, within the Slice portion of the Outer Rim Territories. Covered by landmasses and oceans, Hefi's surface featured varied climates and was capable of supporting various forms of humanoid life.",
+    "Hefi once served as a private sanctuary for Bevel Lemelisk, the designer of the Galactic Empire's first Death Star battle station. Following the Death Star's destruction at the hands of the Rebel Alliance during the Battle of Yavin, Lemelisk fled into hiding on Hefi, fearing for his life for having failed Emperor Palpatine. Imperial Intelligence agents tracked Lemelisk to his remote retreat, and the Emperor later executed him for his incompetence. However, later findings suggested that this story was likely apocryphal."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Hefi",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Abrion sector",
+    "system": "Hefi system",
+    "coordinates": "S-15",
+    "class": "Terrestrial",
+    "climate": "Varied",
+    "terrain": "Landmasses",
+    "water": "Oceans",
+    "interest": "Bevel Lemelisk's retreat"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Hefi",
+    "x": 10817.4,
+    "y": -8636.7,
+    "z": 88.4,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

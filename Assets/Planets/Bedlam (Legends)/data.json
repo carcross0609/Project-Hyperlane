@@ -1,0 +1,39 @@
+{
+  "name": "Bedlam",
+  "wookieepedia_title": "Bedlam/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bedlam/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bedlam was a rocky Mid Rim planet located near the Bedlam Pulsar. The Bedlam Institution for the Criminally Demented was located on the planet. As of 67 BBY, its only direct transport connections were to Felucia, Caluula, and Abraxin.",
+  "lead_paragraphs": [
+    "Bedlam was a rocky Mid Rim planet located near the Bedlam Pulsar. The Bedlam Institution for the Criminally Demented was located on the planet. As of 67 BBY, its only direct transport connections were to Felucia, Caluula, and Abraxin.",
+    "The Force-sensitive Nautolan Naat Lare resided on Bedlam as a patient of the institution from approximately 62-67 BBY before escaping two months prior to Darth Plagueis arriving to investigate him. During the Galactic Civil War, Leia Organa was forced to land on the planet while pursued by Imperial forces. While there, she and three Imperial stormtroopers encountered the powerful beings known as the Bedlam Spirits."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Bedlam",
+    "region": "Mid Rim",
+    "sector": "Thusa sector",
+    "system": "Bedlam system",
+    "coordinates": "O-7",
+    "terrain": "Rocky",
+    "interest": "Bedlam Institution for the Criminally Demented",
+    "species": "Bedlam Spirits"
+  },
+  "homeworld_of": [
+    {
+      "name": "\"Bedlam Spirits\"",
+      "directory": "Bedlam Spirits",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bedlam",
+    "x": 5349.3,
+    "y": 3371.2,
+    "z": -301.9,
+    "region": "Mid Rim",
+    "grid": "O-7"
+  },
+  "scraped": "2026-07-03"
+}

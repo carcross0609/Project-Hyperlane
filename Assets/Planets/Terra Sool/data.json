@@ -1,0 +1,45 @@
+{
+  "name": "Terra Sool",
+  "wookieepedia_title": "Terra Sool",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Terra_Sool",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Terra Sool was a planet located within the Terra Sool system of the Expansion Region. It was liberated from the Confederacy of Independent Systems by Anakin Skywalker and Obi-Wan Kenobi in 22 BBY, during the Clone Wars.",
+  "lead_paragraphs": [
+    "Terra Sool was a planet located within the Terra Sool system of the Expansion Region. It was liberated from the Confederacy of Independent Systems by Anakin Skywalker and Obi-Wan Kenobi in 22 BBY, during the Clone Wars."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Terra Sool",
+    "region": "Expansion Region",
+    "sector": "Immeria sector",
+    "system": "Terra Sool system",
+    "coordinates": "O-14",
+    "moons": "At least 20",
+    "class": "Terrestrial",
+    "terrain": [
+      "Farmlands",
+      "Fields",
+      "Mountains",
+      "Rivers"
+    ],
+    "otherspecies": "Humans",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Terra Sool militia"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Terra Sool",
+    "x": 5795.4,
+    "y": -6569.7,
+    "z": 186.2,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

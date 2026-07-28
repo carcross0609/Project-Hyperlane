@@ -1,0 +1,47 @@
+{
+  "name": "Pammant",
+  "wookieepedia_title": "Pammant/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pammant/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pammant was a tunneled planet located in the Calamari sector of the Outer Rim Territories. The Quarren of nearby Dac staked claims to Pammant and other worlds located in the sector, using them as bases for starship construction. During the Clone Wars between the Galactic Republic and the Confederacy of Independent Systems, the Pammant shipyards were used by the Quarren-dominated Free Dac Volunteers Engineering Corps to produce Separatist warships such as the Malevolence and the Invisible Hand, both used as flagships by the Separatist General Grievous. However, before the Battle of Coruscant in 19 BBY, Pammant was devastated when the Republic Praetor-class Star Battlecruiser Quaestor suffered a hyperspace accident and collided with the planet, fracturing Pammant and dousing it with radiation.",
+  "lead_paragraphs": [
+    "Pammant was a tunneled planet located in the Calamari sector of the Outer Rim Territories. The Quarren of nearby Dac staked claims to Pammant and other worlds located in the sector, using them as bases for starship construction. During the Clone Wars between the Galactic Republic and the Confederacy of Independent Systems, the Pammant shipyards were used by the Quarren-dominated Free Dac Volunteers Engineering Corps to produce Separatist warships such as the Malevolence and the Invisible Hand, both used as flagships by the Separatist General Grievous. However, before the Battle of Coruscant in 19 BBY, Pammant was devastated when the Republic Praetor-class Star Battlecruiser Quaestor suffered a hyperspace accident and collided with the planet, fracturing Pammant and dousing it with radiation."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Pammant",
+    "region": "Outer Rim Territories",
+    "sector": "Calamari sector",
+    "system": "Pammant system",
+    "coordinates": "U-6",
+    "routes": "Prously's Rim Run",
+    "terrain": "Tunneled",
+    "interest": "Pammant Docks",
+    "otherspecies": "Quarren",
+    "population": [
+      "At least two billion (before the Clone Wars)",
+      "None (around 19 BBY)"
+    ],
+    "exports": "Separatist warships",
+    "affiliation": [
+      "Free Dac Volunteers Engineering Corps",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pammant",
+    "x": 13654.8,
+    "y": 4881.8,
+    "z": 565.5,
+    "region": "Outer Rim",
+    "grid": "U-6"
+  },
+  "scraped": "2026-07-03"
+}

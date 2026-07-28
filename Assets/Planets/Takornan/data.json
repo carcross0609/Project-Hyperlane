@@ -1,0 +1,44 @@
+{
+  "name": "Takornan",
+  "wookieepedia_title": "Takornan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Takornan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Takornan was the fourth planet in the Derilyn system. The planet had two moons and a diversity of fauna and minerals.",
+  "lead_paragraphs": [
+    "Takornan was the fourth planet in the Derilyn system. The planet had two moons and a diversity of fauna and minerals."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Takornan",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": [
+      "Elrood sector",
+      "  Imperial Interdicted Space"
+    ],
+    "system": "Derilyn system",
+    "coordinates": "M-19",
+    "suns": "1: Deril",
+    "position": "4",
+    "moons": "2",
+    "routes": [
+      "Elrood-Derilyn Trade Route",
+      "  The Extreme"
+    ],
+    "class": "Jungle",
+    "atmosphere": "Type III (breath mask required)"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Takornan",
+    "x": 2388.9,
+    "y": -14290.3,
+    "z": -107.1,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

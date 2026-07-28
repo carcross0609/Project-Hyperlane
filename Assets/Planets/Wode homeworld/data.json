@@ -1,0 +1,28 @@
+{
+  "name": "Wode homeworld",
+  "wookieepedia_title": "Wode homeworld",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wode_homeworld",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "A planet was the homeworld of the sentient Wode species. It had a gravitational pull twice that of galactic standard.",
+  "lead_paragraphs": [
+    "A planet was the homeworld of the sentient Wode species. It had a gravitational pull twice that of galactic standard."
+  ],
+  "article_sections": [
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Wode homeworld",
+    "gravity": "2x Galactic Standard",
+    "species": "Wode"
+  },
+  "homeworld_of": [
+    {
+      "name": "Wode",
+      "directory": "Wode",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

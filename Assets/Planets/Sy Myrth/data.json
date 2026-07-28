@@ -1,0 +1,49 @@
+{
+  "name": "Sy Myrth",
+  "wookieepedia_title": "Sy Myrth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sy_Myrth",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sy Myrth was a planet located in the Sy Myrth system in the Jospro sector of the Outer Rim Territories, in grid square S-7 of the Standard Galactic Grid. It was linked via hyperspace routes to Belderone, Boonta, Centares, and Jabiim. Sy Myrth was the homeworld of the Sy Myrthian Brookish Boon and the Sy Myrthian Senator Toonbuck Toora, who represented the world in the Galactic Senate of the Galactic Republic.",
+  "lead_paragraphs": [
+    "Sy Myrth was a planet located in the Sy Myrth system in the Jospro sector of the Outer Rim Territories, in grid square S-7 of the Standard Galactic Grid. It was linked via hyperspace routes to Belderone, Boonta, Centares, and Jabiim. Sy Myrth was the homeworld of the Sy Myrthian Brookish Boon and the Sy Myrthian Senator Toonbuck Toora, who represented the world in the Galactic Senate of the Galactic Republic."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Sy Myrth",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Jospro sector",
+    "system": "Sy Myrth system",
+    "coordinates": "S-7",
+    "routes": [
+      "Salin Corridor",
+      "Triellus Trade Route"
+    ],
+    "species": "Sy Myrthian",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sy Myrthian",
+      "directory": "Sy Myrthian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Sy Myrthian",
+      "directory": "Sy Myrthian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sy Myrth",
+    "x": 10501.6,
+    "y": 3763.5,
+    "z": -84.7,
+    "region": "Outer Rim",
+    "grid": "S-7"
+  },
+  "scraped": "2026-07-03"
+}

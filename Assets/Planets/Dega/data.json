@@ -1,0 +1,47 @@
+{
+  "name": "Dega",
+  "wookieepedia_title": "Dega",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dega",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dega was a planet in the Dega system of the Elrood sector. Its local day was 19 standard hours long; its year was 295 local days long. The planet was covered in rocky wastelands. It hosted a Radell Mining Corporation mining colony. During the early years of the Galactic Empire, the world's minerals and ores ran dry. The colony was abandoned, leaving behind a polluted planet. The old mines became smugglers' refuges.",
+  "lead_paragraphs": [
+    "Dega was a planet in the Dega system of the Elrood sector. Its local day was 19 standard hours long; its year was 295 local days long. The planet was covered in rocky wastelands. It hosted a Radell Mining Corporation mining colony. During the early years of the Galactic Empire, the world's minerals and ores ran dry. The colony was abandoned, leaving behind a polluted planet. The old mines became smugglers' refuges."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Dega",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Dega system",
+    "coordinates": "M-20",
+    "suns": "2 yellow stars",
+    "lengthday": "19 standard hours",
+    "lengthyear": "295 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Barren",
+      "Hills"
+    ],
+    "government": "Anarchy",
+    "population": "10,000"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dega",
+    "x": 13804.1,
+    "y": -3633.0,
+    "z": -240.9,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

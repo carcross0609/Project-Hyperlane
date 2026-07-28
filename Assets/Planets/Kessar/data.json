@@ -1,0 +1,32 @@
+{
+  "name": "Kessar",
+  "wookieepedia_title": "Kessar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kessar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kessar was a swampy planet in the Outer Rim Territories that was the homeworld of the Kessarine species.",
+  "lead_paragraphs": [
+    "Kessar was a swampy planet in the Outer Rim Territories that was the homeworld of the Kessarine species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kessar",
+    "region": "Outer Rim Territories",
+    "sector": "Grumani sector",
+    "system": "Kessar system",
+    "coordinates": "N-17",
+    "routes": "Darkknell–New Cov hyperlane",
+    "terrain": "Swamps",
+    "species": "Kessarine",
+    "language": "Kessarine"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kessarine",
+      "directory": "Kessarine",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

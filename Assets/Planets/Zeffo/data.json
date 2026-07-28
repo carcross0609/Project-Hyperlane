@@ -1,0 +1,90 @@
+{
+  "name": "Zeffo",
+  "wookieepedia_title": "Zeffo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zeffo",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Zeffo was an electromagnetic wind-swept planet located in the Outer Rim Territories. A water-rich world, its terrain consisted of rocky mountains and cliffs, and its surface was covered in grass. The planet featured a number of ruins and crypts that were protected by the Tomb Guardians. Zeffo was home to a number of creatures, including the Phillak and the Scazz.",
+  "lead_paragraphs": [
+    "Zeffo was an electromagnetic wind-swept planet located in the Outer Rim Territories. A water-rich world, its terrain consisted of rocky mountains and cliffs, and its surface was covered in grass. The planet featured a number of ruins and crypts that were protected by the Tomb Guardians. Zeffo was home to a number of creatures, including the Phillak and the Scazz.",
+    "Zeffo was once home to a community of archaeologists and pioneers who visited the planet during the time of the Galactic Republic but when the Galactic Empire rose to power, the peaceful community was destroyed by the pillaging of historical sites and sacred tombs as Emperor Palpatine sought valuable information on Zeffo."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The Zeffo",
+    "  Republic Era",
+    "  Age of the Empire",
+    "Society and culture"
+  ],
+  "data": {
+    "name": "Zeffo",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Kanz sector",
+    "system": "Zeffo system",
+    "coordinates": "M-3",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Cliffs",
+      "Ice Caves",
+      "Mountains"
+    ],
+    "water": "Oceans",
+    "interest": [
+      "Derelict Hangar",
+      "Abandoned Village",
+      "Turbine Facility",
+      "Gusty Bluffs",
+      "Weathered Monument",
+      "Auger Pulverizers",
+      "Ancient Catacombs",
+      "Windswept Ruins",
+      "Tomb of Eilram",
+      "Ice Caves",
+      "Imperial Headquarters",
+      "A Venator-class Star Destroyer",
+      "  Crash Site",
+      "  Broken Wing (location)",
+      "Imperial Dig Site",
+      "Tomb of Miktrull"
+    ],
+    "flora": [
+      "Dreamwort",
+      "Gillypod",
+      "Grass",
+      "Royal Fluzz",
+      "Skungus"
+    ],
+    "fauna": [
+      "Jotaz",
+      "Phillaks",
+      "Rabid Jotaz",
+      "Scazz",
+      "Zeffonian bird"
+    ],
+    "species": "Zeffonian",
+    "otherspecies": "Human",
+    "demonym": "Zeffonian",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Zeffonian",
+      "directory": "Zeffonian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Zeffo",
+    "x": 299.4,
+    "y": 6464.8,
+    "z": -165.7,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

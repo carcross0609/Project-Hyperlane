@@ -1,0 +1,80 @@
+{
+  "name": "Skako",
+  "wookieepedia_title": "Skako/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skako/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Skako was an ecumenopolis on the Hydian Way in the galactic core and homeworld to the Skakoan species. Though most of Skako was covered by urban sprawl, some examples of the planet's original ecosystem had been preserved in the form of vast fields of sprawling vines.",
+  "lead_paragraphs": [
+    "Skako was an ecumenopolis on the Hydian Way in the galactic core and homeworld to the Skakoan species. Though most of Skako was covered by urban sprawl, some examples of the planet's original ecosystem had been preserved in the form of vast fields of sprawling vines."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Skako",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "system": "Skako system",
+    "coordinates": "L-9",
+    "moons": "2",
+    "routes": [
+      "Hydian Way",
+      "  Brentaal–Denon Route"
+    ],
+    "lengthday": "27 standard hours",
+    "lengthyear": "384 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type IV (environment suit required)",
+    "climate": "Temperate (high-pressure)",
+    "gravity": "Standard",
+    "terrain": [
+      "Urban",
+      "Vines"
+    ],
+    "interest": [
+      "Clouds of Cormelish",
+      "Power Mounds of the Elders"
+    ],
+    "fauna": "Octuptarra",
+    "species": "Skakoan",
+    "language": "Skakoverbal",
+    "government": "Collectivized Techno Guild",
+    "population": [
+      "100 billion to 500 billion (c.25 ABY)",
+      "100% Skakoan"
+    ],
+    "cities": "World-spanning metropolis",
+    "imports": [
+      "Foodstuff",
+      "Raw materials",
+      "Water"
+    ],
+    "exports": "Technology",
+    "affiliation": [
+      "Galactic Republic",
+      "Techno Union",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Skakoan",
+      "directory": "Skakoan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Skakoan",
+      "directory": "Skakoan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

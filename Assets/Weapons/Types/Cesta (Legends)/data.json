@@ -1,0 +1,25 @@
+{
+  "name": "Cesta",
+  "wookieepedia_title": "Cesta/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cesta/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The cesta was a wooden military staff produced by the Otoh Gunga Defense League and employed by the Gungan Grand Army on Naboo.",
+  "data": {
+    "name": "Cesta",
+    "manufacturer": "Otoh Gunga Defense League",
+    "culture": "Gungans",
+    "cost": "100 credits",
+    "size": "two-handed weapon",
+    "weight": "1.8 kg",
+    "capacity": "1 booma",
+    "range": "hurling boomas up to 120 meters",
+    "purpose": [
+      "hurling boomas or",
+      "staff-like melee weapon"
+    ],
+    "affiliation": "Gungan Grand Army"
+  },
+  "scraped": "2026-07-03"
+}

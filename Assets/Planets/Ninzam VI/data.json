@@ -1,0 +1,40 @@
+{
+  "name": "Ninzam VI",
+  "wookieepedia_title": "Ninzam VI",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ninzam_VI",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ninzam VI was a planet in the Ninzam system. The Draag species was native to the planet.",
+  "lead_paragraphs": [
+    "Ninzam VI was a planet in the Ninzam system. The Draag species was native to the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ninzam VI",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Ryndellian sector",
+    "system": "Ninzam system",
+    "coordinates": "P-17",
+    "routes": "Five Veils Route",
+    "species": "Draag"
+  },
+  "homeworld_of": [
+    {
+      "name": "Draag",
+      "directory": "Draag",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ninzam VI",
+    "x": 6188.8,
+    "y": -10846.7,
+    "z": -96.2,
+    "region": "Mid Rim",
+    "grid": "P-17"
+  },
+  "scraped": "2026-07-03"
+}

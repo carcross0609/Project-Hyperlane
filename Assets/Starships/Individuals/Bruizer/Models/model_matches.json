@@ -1,0 +1,48 @@
+{
+  "asset": "Bruizer",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Star Wars LAAT/i Gunship",
+      "url": "https://sketchfab.com/3d-models/none-77e5a30af490488c8019dcb3780ec847",
+      "uid": "77e5a30af490488c8019dcb3780ec847",
+      "author": "smithson17",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 239,
+      "thumbnail": "https://media.sketchfab.com/models/77e5a30af490488c8019dcb3780ec847/thumbnails/31f4b168c4684156bec008f0fa5db18b/3b1e9915fa9f45abb66d2a35ba23eecd.jpeg"
+    },
+    {
+      "name": "LAAT Gunship Devil's Chariot [Star Wars] ZEO",
+      "url": "https://sketchfab.com/3d-models/none-74e86b3a3f5340d5a9154197866df6af",
+      "uid": "74e86b3a3f5340d5a9154197866df6af",
+      "author": "ZEO CMF",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 130,
+      "thumbnail": "https://media.sketchfab.com/models/74e86b3a3f5340d5a9154197866df6af/thumbnails/758216c890b441e4b059a1d5c5e9739a/30f9f854dfa745d3baa51bf44b8912e1.jpeg"
+    },
+    {
+      "name": "Star Wars: Corellian Gunship",
+      "url": "https://sketchfab.com/3d-models/none-b3a5c7c7d60c4bcfb74f54794c803645",
+      "uid": "b3a5c7c7d60c4bcfb74f54794c803645",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 85,
+      "thumbnail": "https://media.sketchfab.com/models/b3a5c7c7d60c4bcfb74f54794c803645/thumbnails/ea7300b347744fc1bc068d7a83b0444f/71163ff62afc4baf9458c2d95f30c164.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Gunship"
+}

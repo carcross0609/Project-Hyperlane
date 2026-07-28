@@ -1,0 +1,46 @@
+{
+  "name": "Vyndal",
+  "wookieepedia_title": "Vyndal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vyndal",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vyndal was a planet located in the galaxy that was covered with colorful forests, and rocky plains. Vyndal was also the homeworld to a unknown race.",
+  "lead_paragraphs": [
+    "Vyndal was a planet located in the galaxy that was covered with colorful forests, and rocky plains. Vyndal was also the homeworld to a unknown race."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Vyndal",
+    "region": "Outer Rim Territories",
+    "sector": "Chorlian sector",
+    "system": "Vyndal system",
+    "coordinates": "S-4",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Forest",
+      "Rocky"
+    ],
+    "interest": "Unidentified village",
+    "fauna": "Unidentified creature",
+    "species": "Unidentified species",
+    "otherspecies": "Human"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Vyndal species",
+      "directory": "Unidentified Vyndal species",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Vyndal",
+    "x": 865.6,
+    "y": 7080.0,
+    "z": -29.4,
+    "region": "Other",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

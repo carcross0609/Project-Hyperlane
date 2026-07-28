@@ -1,0 +1,68 @@
+{
+  "name": "Yvara",
+  "wookieepedia_title": "Yvara",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yvara",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yvara was the homeworld of the Yvarema species. It was located just inside the Kathol Rift. The planet had a varied topography, with ice and snow capped poles, vast desert plains, and fungal-covered fields. Three oceans covered the planet, and each of the continents were ringed by mountain ranges to create a natural barrier. The planet's indigenous species, the Yvarema, lived in underground warrens just north of the planet's equator.",
+  "lead_paragraphs": [
+    "Yvara was the homeworld of the Yvarema species. It was located just inside the Kathol Rift. The planet had a varied topography, with ice and snow capped poles, vast desert plains, and fungal-covered fields. Three oceans covered the planet, and each of the continents were ringed by mountain ranges to create a natural barrier. The planet's indigenous species, the Yvarema, lived in underground warrens just north of the planet's equator."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Yvara",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Kathol sector",
+      "  Kathol Rift",
+      "    Blue Swirl"
+    ],
+    "system": "Yvara system",
+    "coordinates": "M-21",
+    "suns": "Blue-white star",
+    "moons": "1",
+    "lengthday": "36 standard hours",
+    "lengthyear": "453 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cool",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert plains",
+      "Red mountain ranges",
+      "White ice-caps",
+      "Yellow-green fungal plains"
+    ],
+    "water": [
+      "Deep blue oceans",
+      "Lakes",
+      "River networks"
+    ],
+    "fauna": [
+      "Owr'apa",
+      "Zeebuck"
+    ],
+    "species": "Yvarema",
+    "government": "Yvarema hive-mind",
+    "population": "200,000",
+    "cities": "Yvarema Hive",
+    "imports": "None",
+    "exports": "None"
+  },
+  "homeworld_of": [
+    {
+      "name": "Yvarema",
+      "directory": "Yvarema",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yvara",
+    "x": 1763.3,
+    "y": -17826.0,
+    "z": 13.8,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

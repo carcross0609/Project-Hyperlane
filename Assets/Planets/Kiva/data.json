@@ -1,0 +1,46 @@
+{
+  "name": "Kiva",
+  "wookieepedia_title": "Kiva",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kiva",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kiva was a planet that was located within the Mid Rim. Its indigenous Kivan people were wiped out by Project Starscream, to the utter horror of Shi'ido anthropologist Mammon Hoole. The only remnants of the people were shadowy wraiths.",
+  "lead_paragraphs": [
+    "Kiva was a planet that was located within the Mid Rim. Its indigenous Kivan people were wiped out by Project Starscream, to the utter horror of Shi'ido anthropologist Mammon Hoole. The only remnants of the people were shadowy wraiths."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kiva",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Venaarian sector",
+    "system": "Kiva system",
+    "coordinates": "O-7",
+    "terrain": "Rocky (after it was destroyed by Project Starscream)",
+    "interest": "Ion Turrent, and Borborygmus Gog's secret Lab",
+    "species": [
+      "Kivans (exterminated)",
+      "Kivan wraiths (after Kivan genocide)"
+    ],
+    "language": "Basic",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kivan",
+      "directory": "Kivan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kiva",
+    "x": 5862.4,
+    "y": 3115.1,
+    "z": -207.0,
+    "region": "Mid Rim",
+    "grid": "O-7"
+  },
+  "scraped": "2026-07-03"
+}

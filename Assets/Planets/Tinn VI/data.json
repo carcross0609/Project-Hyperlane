@@ -1,0 +1,35 @@
+{
+  "name": "Tinn VI",
+  "wookieepedia_title": "Tinn VI",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tinn_VI",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tinn VI was a gas giant in the Tinn system. It had six moons, including Tinn VI-B and the inhabited Echnos. Located at the limit of the Mid Rim, it was a common stopover point for spacers en route to the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Tinn VI was a gas giant in the Tinn system. It had six moons, including Tinn VI-B and the inhabited Echnos. Located at the limit of the Mid Rim, it was a common stopover point for spacers en route to the Outer Rim Territories."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tinn VI",
+    "region": "Mid Rim",
+    "sector": "Hadar sector",
+    "system": "Tinn system",
+    "coordinates": "L-17",
+    "moons": [
+      "6",
+      "Tinn VI-B",
+      "Echnos"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tinn VI",
+    "x": 934.5,
+    "y": -10789.5,
+    "z": -7.6,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

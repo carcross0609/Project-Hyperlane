@@ -1,0 +1,16 @@
+# Unidentified Ventooine species
+
+**Continuity:** Legends  
+**Source:** [Unidentified Ventooine species](https://starwars.fandom.com/wiki/Unidentified_Ventooine_species)
+
+A species were the near-Human inhabitants of the planet Ventooine. By the time of the Galactic Civil War, their civilization was considered primitive by the galaxy's more progressive inhabitants, and they did not use blasters and other complicated technology despite the fact that they did commerce with other planets—the Satab called a DL-44 heavy blaster pistol an "odd weapon that spits fire." Also, their mineral-based culture was quite distinct from the galactic norm, with much of their commerce, and even their religion (a title in whose church was a Rov), was based on what they extracted from various excavations. The ruling Satab also controlled the trafficking of sansanna spice, which was added to food in the palace. Perhaps the most important feature of Ventooinan society, at least until some time prior to 0 BBY, was the shadeshine, a stone with unique properties that served as the Satab regalia. Ventooinans utilized beasts of burden as mounts and harness animals.
+
+## Biology & Culture
+
+- **Name:** Unidentified Ventooine species
+- **Class:** Near-Human
+- **Origin:** Ventooine
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

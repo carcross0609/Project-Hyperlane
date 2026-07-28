@@ -1,0 +1,51 @@
+{
+  "name": "Kumru",
+  "wookieepedia_title": "Kumru",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kumru",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kumru was a thriving industrial world positioned along the Corellian Trade Spine in the Javin sector of the Outer Rim Territories. The planet was originally governed by the Mugaari species, who surrendered their territorial holdings to the Galactic Republic following hostilities. To the aversion of many of their kin, Kumru's substantial Mugaari population coexisted well with Humans, Lutrillians, and Nothoiins.",
+  "lead_paragraphs": [
+    "Kumru was a thriving industrial world positioned along the Corellian Trade Spine in the Javin sector of the Outer Rim Territories. The planet was originally governed by the Mugaari species, who surrendered their territorial holdings to the Galactic Republic following hostilities. To the aversion of many of their kin, Kumru's substantial Mugaari population coexisted well with Humans, Lutrillians, and Nothoiins."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Kumru",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Greater Javin",
+      "  Javin sector",
+      "  Mugaari Space"
+    ],
+    "system": "Kumru system",
+    "coordinates": "K-18",
+    "routes": "Corellian Trade Spine",
+    "otherspecies": [
+      "Mugaari",
+      "Humans",
+      "Lutrillians",
+      "Nothoiins"
+    ],
+    "affiliation": [
+      "Mugaari",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kumru",
+    "x": -1255.7,
+    "y": -12306.5,
+    "z": -115.5,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

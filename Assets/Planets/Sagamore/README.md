@@ -1,0 +1,17 @@
+# Sagamore
+
+**Continuity:** Canon  
+**Source:** [Sagamore](https://starwars.fandom.com/wiki/Sagamore)
+
+Sagamore was a planet that the Kotabi bond-twins Ceret and Terec, who served as Jedi Knights of the Jedi Order during the High Republic Era, originated from. Alongside the planet Kotab, Sagamore was considered the twin's homeworld. In 231 BBY, while fighting the Nihil pirates on the Outer Rim planet Valo, the Tholothian Jedi Knight Indeera Stokes mentally recalled having heard of Kotabi twins from Sagamore who were stationed on the Galactic Republic space station Starlight Beacon.
+
+In 228 BBY, GoNet journalist Rhil Dairo interviewed the former Nihil Tempest Runner-turned bounty hunter Lourna Dee at the request of Republic Supreme Chancellor Lina Soh. During the interview, Dairo asked Dee about the crew of Jedi Master Keeve Trennis who Dee had worked with to find Trennis' former Master Sskeer. When Dee stated Ceret and Terec were part of the crew, the journalist noted the twins originally hailed from Sagamore.
+
+## Planetary data
+
+- **Name:** Sagamore
+- **Otherspecies:** Kotabi
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

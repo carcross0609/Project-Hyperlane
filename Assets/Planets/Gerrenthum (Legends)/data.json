@@ -1,0 +1,69 @@
+{
+  "name": "Gerrenthum",
+  "wookieepedia_title": "Gerrenthum/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gerrenthum/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gerrenthum was a planet along the Corellian Trade Spine and the capital of the Anoat sector.",
+  "lead_paragraphs": [
+    "Gerrenthum was a planet along the Corellian Trade Spine and the capital of the Anoat sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Gerrenthum",
+    "region": [
+      "Outer Rim Territories; Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector",
+    "system": "Gerrenthum system",
+    "coordinates": "K-18",
+    "suns": "1",
+    "routes": [
+      "Corellian Trade Spine",
+      "Lutrillian Cross",
+      "Nothoiin Corridor"
+    ],
+    "lengthday": "24 standard hours",
+    "lengthyear": "370 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable for Humans)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Urban",
+    "species": "None",
+    "otherspecies": [
+      "Humans",
+      "Nothoiins",
+      "Lutrillians",
+      "Mugaari"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Corporate",
+    "population": "5 billion",
+    "imports": [
+      "Tech",
+      "Foodstuffs"
+    ],
+    "exports": [
+      "Tech",
+      "Labor"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Gerrenthum",
+    "x": -1353.6,
+    "y": -12610.6,
+    "z": 262.6,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

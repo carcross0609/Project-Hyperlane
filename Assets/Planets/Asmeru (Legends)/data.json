@@ -1,0 +1,60 @@
+{
+  "name": "Asmeru",
+  "wookieepedia_title": "Asmeru/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Asmeru/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Asmeru was a planet in the Senex sector of the Mid Rim, on the border with the Hadar sector.",
+  "lead_paragraphs": [
+    "Asmeru was a planet in the Senex sector of the Mid Rim, on the border with the Hadar sector."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Asmeru",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Asmeru system",
+    "coordinates": "L-17",
+    "suns": "1",
+    "class": "Terrestrial",
+    "terrain": [
+      "Ice-capped mountain ranges",
+      "Arid plateaus",
+      "Cultured terraced hillsides"
+    ],
+    "interest": "Ancient ruins",
+    "species": "Unidentified Asmeru species (extinct)",
+    "otherspecies": "Ossan",
+    "affiliation": [
+      "Ancient Houses",
+      "  House Vandron",
+      "  House Elegin",
+      "Nebula Front"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Asmeru species",
+      "directory": "Unidentified Asmeru species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Asmeru",
+    "x": 732.8,
+    "y": -11965.6,
+    "z": 545.5,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

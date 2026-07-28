@@ -1,0 +1,40 @@
+{
+  "name": "Iqobal",
+  "wookieepedia_title": "Iqobal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iqobal",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Iqobal was the fourth planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim, it was a gas giant.",
+  "lead_paragraphs": [
+    "Iqobal was the fourth planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim, it was a gas giant."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Iqobal",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Jaso sector",
+    "system": "Polith system",
+    "coordinates": "L-14",
+    "suns": "1: Polith",
+    "position": "5",
+    "moons": "54",
+    "routes": [
+      "Rimma Trade Route",
+      "Shapani Bypass"
+    ],
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Iqobal",
+    "x": 912.7,
+    "y": -6618.6,
+    "z": -331.4,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Kli'aar",
+  "wookieepedia_title": "Kli'aar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kli%27aar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kli'aar was a planet located on the Pinooran Spur in the Gordian Reach. It was inhabited by the Kli'aari, a four-armed species that were largely known for their mechanical skills. Many Kli'aari enclaves could be found on planets around the Reach.",
+  "lead_paragraphs": [
+    "Kli'aar was a planet located on the Pinooran Spur in the Gordian Reach. It was inhabited by the Kli'aari, a four-armed species that were largely known for their mechanical skills. Many Kli'aari enclaves could be found on planets around the Reach."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kli'aar",
+    "region": "Outer Rim Territories",
+    "sector": "Gordian Reach",
+    "system": "Kli'aar system",
+    "coordinates": "P-5",
+    "routes": "Pinooran Spur",
+    "species": "Kli'aari",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kli'aari",
+      "directory": "Kli'aari",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kli'aar",
+    "x": 7139.5,
+    "y": 6463.4,
+    "z": 216.7,
+    "region": "Outer Rim",
+    "grid": "P-5"
+  },
+  "scraped": "2026-07-03"
+}

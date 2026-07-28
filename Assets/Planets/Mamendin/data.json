@@ -1,0 +1,43 @@
+{
+  "name": "Mamendin",
+  "wookieepedia_title": "Mamendin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mamendin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mamendin was a world situated in the Core Worlds. It colonized the Mid Rim's Malari system, and, by the time of the Separatist Crisis, the Malarian Alliance bound it to that system as well as, ultimately, around forty others. By 24 BBY, Mamendin was where the Slams gang of criminals hailed from. Two years later, members of the Malarian Alliance were considering withdrawing from the Galactic Republic. A Separatist plot to ensure that outcome did not succeed, and the Galactic Empire later declared the Malarian Alliance to be null and void.",
+  "lead_paragraphs": [
+    "Mamendin was a world situated in the Core Worlds. It colonized the Mid Rim's Malari system, and, by the time of the Separatist Crisis, the Malarian Alliance bound it to that system as well as, ultimately, around forty others. By 24 BBY, Mamendin was where the Slams gang of criminals hailed from. Two years later, members of the Malarian Alliance were considering withdrawing from the Galactic Republic. A Separatist plot to ensure that outcome did not succeed, and the Galactic Empire later declared the Malarian Alliance to be null and void."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Mamendin",
+    "region": [
+      "Core Worlds",
+      "Northern Dependencies"
+    ],
+    "sector": "Farrfin sector",
+    "system": "Mamendin system",
+    "coordinates": "K-9",
+    "class": "Terrestrial",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Mamendin species",
+      "directory": "Unidentified Mamendin species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mamendin",
+    "x": -139.2,
+    "y": 880.6,
+    "z": 40.8,
+    "region": "Core Worlds",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Utapau (Kessil system)",
+  "wookieepedia_title": "Utapau (Kessil system)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Utapau_%28Kessil_system%29",
+  "continuity": "Unknown",
+  "infobox_template": null,
+  "description": "Utapau was a planet in the Kessil system.",
+  "lead_paragraphs": [
+    "Utapau was a planet in the Kessil system."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {},
+  "homeworld_of": [
+    {
+      "name": "Amani",
+      "directory": "Amani",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Pau'an",
+      "directory": "Pau'an",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Pau'an and Utai precursor species",
+      "directory": "Pau'an and Utai precursor species",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Pau'an",
+      "directory": "Pau'an (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Utai",
+      "directory": "Utai",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Utai",
+      "directory": "Utai (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Utapau",
+    "x": 3085.9,
+    "y": -14765.7,
+    "z": 580.5,
+    "region": "Outer Rim",
+    "grid": "N-19"
+  },
+  "scraped": "2026-07-03"
+}

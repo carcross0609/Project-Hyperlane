@@ -1,0 +1,45 @@
+{
+  "name": "Tyegin",
+  "wookieepedia_title": "Tyegin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tyegin",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tyegin was a forested planet located in the Tyegin system in the Inner Rim Territories with many railroads on its surface.",
+  "lead_paragraphs": [
+    "Tyegin was a forested planet located in the Tyegin system in the Inner Rim Territories with many railroads on its surface."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Tyegin",
+    "region": [
+      "Inner Rim Territories",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Tyegin system",
+    "coordinates": "O-10",
+    "atmosphere": "Breathable",
+    "terrain": "Forests",
+    "otherspecies": [
+      "Feeorin",
+      "Fosh",
+      "Human",
+      "Tarsunt"
+    ],
+    "language": "Galactic Basic Standard",
+    "affiliation": "Tyegin's law enforcement"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tyegin",
+    "x": 1928.7,
+    "y": -582.5,
+    "z": -133.5,
+    "region": "Other",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

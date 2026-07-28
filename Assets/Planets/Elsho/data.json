@@ -1,0 +1,37 @@
+{
+  "name": "Elsho",
+  "wookieepedia_title": "Elsho",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Elsho",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Elsho was a planet in the Garqi system. It was a gas giant orbited by seven moons.",
+  "lead_paragraphs": [
+    "Elsho was a planet in the Garqi system. It was a gas giant orbited by seven moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Elsho",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": [
+      "Cassander sector",
+      "Tadrin subsector"
+    ],
+    "system": "Garqi system",
+    "coordinates": "K-5",
+    "moons": "7",
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Elsho",
+    "x": 12868.9,
+    "y": 2495.7,
+    "z": 94.3,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

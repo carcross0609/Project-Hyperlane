@@ -1,0 +1,24 @@
+{
+  "name": "Vibrosword",
+  "wookieepedia_title": "Vibrosword/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vibrosword/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The vibrosword was a longer, heavier version of the vibroblade.",
+  "data": {
+    "name": "Vibrosword",
+    "type": "Vibroweapon",
+    "cost": "450 credits",
+    "material": "Cortosis-weave (Old Republic models)",
+    "weight": "3 kg",
+    "protection": "Lightsabers (old republic models)",
+    "heritage": "Legacy era",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Alliance Remnant",
+      "  Venom assault squads"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

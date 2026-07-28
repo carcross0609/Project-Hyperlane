@@ -1,0 +1,22 @@
+# RX5-TLN
+
+**Kind:** Individual  
+**Continuity:** Legends  
+**Source:** [RX5-TLN](https://starwars.fandom.com/wiki/RX5-TLN)
+
+RX5-TLN was an assassin droid stationed on the planet Gandle Ott in the Kathol sector of the Outer Rim Territories by Moff Kentor Sarne, the Imperial warlord of the region. In 8 ABY, RX5-TLN was activated by CUTH-BRT-92-X3, the planetary BRT supercomputer, under orders from Sarne to delay any New Republic forces on Gandle Ott. Moff Sarne had recently been chased from his capital, Kal'Shebbol, by New Republic forces, and had retreated to Gandle Ott. Aware of New Republic pursuit, the Moff took steps to delay and inconvenience the crew of the CR90 corvette FarStar. RX5-TLN attacked the command crew of the FarStar—who had arrived at Gandle Ott days after Sarne's departure and had stayed to open diplomatic relations—during a performance of the opera Madra Teene at the Theatre Danske in Montrol City. The resulting battle ended in the destruction of RX5-TLN.
+
+## Specifications
+
+- **Name:** RX5-TLN
+- **Death:** 8 ABY
+- **Class:** Assassin droid
+- **Height:** 2.3 meters
+- **Armament:**
+  - Blaster cannon
+  - Portable proton torpedo launcher
+- **Affiliation:** Moff Sarne's forces
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

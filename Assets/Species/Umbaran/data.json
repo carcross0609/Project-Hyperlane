@@ -1,0 +1,29 @@
+{
+  "name": "Umbaran",
+  "wookieepedia_title": "Umbaran",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Umbaran",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Umbarans, also known as the Shadow People, were a near-human species native to the planet of Umbara. They were characterized by their pale, bluish skin and colorless eyes. In the waning decades of the Galactic Republic, the Umbarans were represented in the pan-galactic Senate by Mee Deechi. However, after Deechi's murder by senatorial aide Lolo Purs during the Clone Wars, they joined the Confederacy of Independent Systems, bringing their extremely advanced technology to the enemies of the Republic.",
+  "data": {
+    "name": "Umbaran",
+    "designation": "Sentient",
+    "class": "Near-human",
+    "skincolor": "Pale and bluish",
+    "haircolor": [
+      "Black",
+      "Silver",
+      "White"
+    ],
+    "eyecolor": [
+      "Gray",
+      "Pale blue",
+      "White"
+    ],
+    "distinctions": "Ability to see in the ultraviolet spectrum",
+    "origin": "Umbara",
+    "language": "Umbarese"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Umbara"
+}

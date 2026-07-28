@@ -1,0 +1,21 @@
+{
+  "name": "Mephitisian",
+  "wookieepedia_title": "Mephitisian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mephitisian",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Mephitisians were a four-armed sentient species from the planet Mephitis. Their homeworld had a noxious atmosphere, and as a consequence, the species had evolved adaptations to limit exposure to these gases, such as lids over their eyes and the lack of a nose.",
+  "data": {
+    "name": "Mephitisian",
+    "designation": "Sentient",
+    "skincolor": "Purple-tinged",
+    "eyecolor": "Black",
+    "distinctions": [
+      "Four arms",
+      "Lack of a nose"
+    ],
+    "origin": "Mephitis"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Mephitis"
+}

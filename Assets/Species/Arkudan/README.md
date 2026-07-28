@@ -1,0 +1,19 @@
+# Arkudan
+
+**Continuity:** Legends  
+**Source:** [Arkudan](https://starwars.fandom.com/wiki/Arkudan)
+
+The Arkudans were a sentient species, native to the planet Arkuda. They were a squat species, with vaguely ursine characteristics. Their planet was located in the Gordian Reach sector, at the junction of the Junction-Tierell Loop and the Korphir Trace. For hundreds of years prior to the Battle of Yavin, the Arkudans produced gaming cubes that were jewelled and highly ornamental. These cubes were believed by some to bring good luck, and it was primarily for these cubes that the Arkudans were known. Tionne Solusar, a member of the New Jedi Order, owned a pair fluffy Arkudan gaming cubes, which she hung from the ceiling of her starship, the Lore Seeker.
+
+## Biology & Culture
+
+- **Name:** Arkudan
+- **Designation:** Sentient
+- **Distinctions:**
+  - Squat
+  - Vaguely ursine
+- **Origin:** Arkuda
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

@@ -1,0 +1,23 @@
+{
+  "name": "Phindian",
+  "wookieepedia_title": "Phindian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Phindian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Phindians were a humanoid reptilian sentient species native to the planet Phindar that featured green skin, yellow eyes, elongated skulls, and long arms that extended past their knees. They were cautious by nature and generally preferred to avoid trouble. Osi Sobeck of the Confederacy of Independent Systems was a member of this species, as well as the criminal Moralo Eval. Other members included Hem and his wife, Teeyr Hem, and the administrator of the Phindar tanker facility.",
+  "data": {
+    "name": "Phindian",
+    "designation": "Sentient",
+    "class": "Reptilian",
+    "skincolor": "Green",
+    "eyecolor": "Yellow",
+    "distinctions": [
+      "Long arms",
+      "Elongated skulls"
+    ],
+    "origin": "Phindar",
+    "habitat": "Forest or jungle"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Phindar"
+}

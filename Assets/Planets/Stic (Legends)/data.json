@@ -1,0 +1,43 @@
+{
+  "name": "Stic",
+  "wookieepedia_title": "Stic/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stic/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Stic was an Outer Rim Territories planet located in the Xappyh sector. It constantly underwent rapid climatic, geological, and biological changes, and is native fauna was forced to be adaptive in order to survive. Stic was home to the sentient Xi'Dec species. The Xi'Dec evolved more than 180 different sexes, a phenomenon that, after the planet was discovered by the Galactic Republic, attracted curious tourists from throughout the galaxy.",
+  "lead_paragraphs": [
+    "Stic was an Outer Rim Territories planet located in the Xappyh sector. It constantly underwent rapid climatic, geological, and biological changes, and is native fauna was forced to be adaptive in order to survive. Stic was home to the sentient Xi'Dec species. The Xi'Dec evolved more than 180 different sexes, a phenomenon that, after the planet was discovered by the Galactic Republic, attracted curious tourists from throughout the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Stic",
+    "region": "Outer Rim Territories",
+    "sector": "Xappyh sector",
+    "system": "Stic system",
+    "coordinates": "Q-3",
+    "class": "Terrestrial",
+    "climate": "Hot",
+    "terrain": "Craters",
+    "species": "Xi'Dec",
+    "exports": "Scientists"
+  },
+  "homeworld_of": [
+    {
+      "name": "Xi'Dec",
+      "directory": "Xi'Dec",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Xi'Dec",
+      "directory": "Xi'Dec (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

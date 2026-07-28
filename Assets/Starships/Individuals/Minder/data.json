@@ -1,0 +1,21 @@
+{
+  "name": "Minder",
+  "wookieepedia_title": "Minder",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Minder",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Minder was a surveillance vessel of the Galactic Empire. The starship served as an escort of the bulk freighter Yadeez, the flagship of the Empire's 204th Imperial Fighter Wing. In 5 ABY, the Minder assisted in the 204th's genocidal crusade over worlds which had gone rogue from the Empire's loyalist forces.",
+  "data": {
+    "name": "Minder",
+    "type": "Surveillance vessel",
+    "engine": "Equipped",
+    "hyperdrive": "Equipped",
+    "affiliation": [
+      "Galactic Empire",
+      "  204th Imperial Fighter Wing"
+    ],
+    "navy": "Imperial Navy"
+  },
+  "scraped": "2026-07-03"
+}

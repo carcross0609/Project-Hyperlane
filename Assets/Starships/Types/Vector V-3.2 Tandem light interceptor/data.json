@@ -1,0 +1,32 @@
+{
+  "name": "Vector V-3.2 Tandem light interceptor",
+  "wookieepedia_title": "Vector V-3.2 Tandem light interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vector_V-3.2_Tandem_light_interceptor",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Vector V-3.2 Tandem light interceptor, or simply referred to as Vector V-3.2 Tandem, and Jedi Vector V-3, was a model of the Jedi Vector starfighter used by the Jedi Order by 132 BBY.",
+  "data": {
+    "name": "Vector V-3.2 Tandem light interceptor",
+    "manufacturer": "Valkeri-Kuat Consolidated Enterprises",
+    "model": "Jedi Vector",
+    "type": "Starfighter",
+    "length": [
+      "14.62 meters (48 feet) (precise length)",
+      "14.6 meters (48 feet)"
+    ],
+    "width": "19.76 meters (64 ft 10 in)",
+    "height": "3.45 meters (11 ft 4 in)",
+    "mglt": "100 MGLT",
+    "max_speed": "1,100 kph (683 mph)",
+    "engine": "Ion engines",
+    "hyperdrive": "Class 1",
+    "armament": [
+      "Heavy laser cannons (2)",
+      "Proton torpedo launcher",
+      "Tractor beam"
+    ],
+    "passengers": "1-2",
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

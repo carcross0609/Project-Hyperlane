@@ -1,0 +1,41 @@
+{
+  "name": "Pitrillistia",
+  "wookieepedia_title": "Pitrillistia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pitrillistia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pitrillistia was a remote terrestrial planet situated on the galactic periphery. It was a part of the Pitrillistia system, located in the Mieru'kar sector within the New Territories portion of the Outer Rim Territories. Pitrillistia was the homeworld of the sentient, bipedal Pitrillistian species, members of which spoke a mostly musical language produced by their small wings.",
+  "lead_paragraphs": [
+    "Pitrillistia was a remote terrestrial planet situated on the galactic periphery. It was a part of the Pitrillistia system, located in the Mieru'kar sector within the New Territories portion of the Outer Rim Territories. Pitrillistia was the homeworld of the sentient, bipedal Pitrillistian species, members of which spoke a mostly musical language produced by their small wings."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pitrillistia",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Mieru'kar sector",
+    "system": "Pitrillistia system",
+    "coordinates": "O-3",
+    "class": "Terrestrial",
+    "species": "Pitrillistian",
+    "language": "Pitrillistian language"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pitrillistian",
+      "directory": "Pitrillistian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Pitrillistia",
+    "x": 5075.9,
+    "y": 9823.3,
+    "z": -316.9,
+    "region": "Outer Rim",
+    "grid": "O-3"
+  },
+  "scraped": "2026-07-03"
+}

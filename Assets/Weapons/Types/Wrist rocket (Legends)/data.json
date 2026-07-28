@@ -1,0 +1,32 @@
+{
+  "name": "Wrist rocket",
+  "wookieepedia_title": "Wrist rocket/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wrist_rocket/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Wrist rockets were rockets or projectiles that were fired from a wrist rocket launcher.",
+  "data": {
+    "name": "Wrist rocket",
+    "type": "Missile",
+    "cost": [
+      "Antipersonnel rocket 400 credits",
+      "Antivehicle rocket 500 credits",
+      "Flash rocket 400 credits",
+      "Hollow-tip rocket (empty) 200 credits",
+      "Hollow-tip rocket (nerve toxin) 600 credits",
+      "Hollow-tip rocket (stun gas) 400 credits",
+      "Ion blast rocket 400 credits"
+    ],
+    "shape": "Fits into a wrist rocket launcher",
+    "weight": "0.25 kg",
+    "range": "Up to 60 meters",
+    "purpose": [
+      "Anti-personnel weaponry",
+      "Anti-vehicle weaponry",
+      "Incapacitation"
+    ],
+    "affiliation": "Bounty hunters"
+  },
+  "scraped": "2026-07-03"
+}

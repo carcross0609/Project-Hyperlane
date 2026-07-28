@@ -1,0 +1,71 @@
+{
+  "name": "Umbara",
+  "wookieepedia_title": "Umbara/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Umbara/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Umbara, informally known as the Shadow World due to the rays of its sun never completely reaching its surface, was a perpetually dark planet within the reaches of the Ghost Nebula. It was home to the Umbarans, a species of pale Near-Humans. It was also the site of a large battle during the Clone Wars.",
+  "lead_paragraphs": [
+    "Umbara, informally known as the Shadow World due to the rays of its sun never completely reaching its surface, was a perpetually dark planet within the reaches of the Ghost Nebula. It was home to the Umbarans, a species of pale Near-Humans. It was also the site of a large battle during the Clone Wars."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Umbara",
+    "region": "Expansion Region",
+    "sector": "Ghost Nebula",
+    "system": "Umbara system",
+    "coordinates": "P-10",
+    "routes": "Great Kashyyyk Branch",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "interest": [
+      "Sith Academy",
+      "Bunker Grek",
+      "Bunker Usk",
+      "Bunker Krill"
+    ],
+    "fauna": [
+      "Banshee",
+      "Cheldu",
+      "Gladiopod",
+      "Mantorr",
+      "Skeeris",
+      "Slybex",
+      "Vixian Mauler",
+      "Vixus"
+    ],
+    "species": "Umbaran",
+    "language": "Umbarese",
+    "government": "Rootai",
+    "cities": "Umbara capital city",
+    "affiliation": [
+      "Galactic Republic",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Umbaran",
+      "directory": "Umbaran",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Umbaran",
+      "directory": "Umbaran (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Umbara",
+    "x": 6113.1,
+    "y": -277.4,
+    "z": 13.4,
+    "region": "Expansion Region",
+    "grid": "P-10"
+  },
+  "scraped": "2026-07-03"
+}

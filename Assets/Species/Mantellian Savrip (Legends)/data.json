@@ -1,0 +1,35 @@
+{
+  "name": "Mantellian Savrip",
+  "wookieepedia_title": "Mantellian Savrip/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mantellian_Savrip/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Mantellian Savrips were a species of large, sentient reptiles native to Ord Mantell.",
+  "data": {
+    "name": "Mantellian Savrip",
+    "designation": "Sentient",
+    "class": "Reptile",
+    "height": "4 meters",
+    "skincolor": [
+      "Grey",
+      "Blue",
+      "Green",
+      "Brown"
+    ],
+    "haircolor": "None",
+    "eyecolor": "Blue",
+    "distinctions": [
+      "Poisonous bite",
+      "Poisonous claws"
+    ],
+    "lifespan": "500 standard years",
+    "origin": [
+      "Ord Mantell",
+      "Alderaan"
+    ],
+    "diet": "Carnivorous",
+    "language": "Savrip"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Ord Mantell (Legends)"
+}

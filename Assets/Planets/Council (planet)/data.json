@@ -1,0 +1,40 @@
+{
+  "name": "Council",
+  "wookieepedia_title": "Council (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Council_%28planet%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Council was a planet in the Anoat sector of the Outer Rim Territories. A world of rocky mountains, it was the heart of the Noble Court, the original rulers of the Nothoiin species that once controlled the whole sector. After the Galactic Empire's attempt to wipe out the Anoat nobility, the surface of Council was dotted with ruins of ancient Nothoiin noble estates.",
+  "lead_paragraphs": [
+    "Council was a planet in the Anoat sector of the Outer Rim Territories. A world of rocky mountains, it was the heart of the Noble Court, the original rulers of the Nothoiin species that once controlled the whole sector. After the Galactic Empire's attempt to wipe out the Anoat nobility, the surface of Council was dotted with ruins of ancient Nothoiin noble estates.",
+    "Council was one of the many planets cut off from the rest of the galaxy by the Iron Blockade, created by Imperial Governor Ubrik Adelhard. When Rebel Alliance operative Tam Bastion and a young smuggler sent out a sector-wide broadcast revealing that Emperor Palpatine was dead, riots broke out on planets such as Council and Delphon."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Council",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Javin sector",
+      "  Anoat sector"
+    ],
+    "system": "Council system",
+    "coordinates": "K-18",
+    "routes": "Gerrenthum–Eriadu hyperlane",
+    "terrain": "Rocky mountains",
+    "affiliation": "Noble Court"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Council",
+    "x": -1235.8,
+    "y": -12611.6,
+    "z": 186.9,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

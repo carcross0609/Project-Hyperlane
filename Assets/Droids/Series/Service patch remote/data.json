@@ -1,0 +1,16 @@
+{
+  "name": "Service patch remote",
+  "wookieepedia_title": "Service patch remote",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Service_patch_remote",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "A service patch remote was a type of remote that repaired broken circuits and analyzed damage to a starship's systems. Slicers used service patch remotes to compromise a computer's physical security measures. Service patch remotes came with a built-in toolkit and cost 900 credits around the Galactic Civil War.",
+  "data": {
+    "name": "Service patch remote",
+    "class": "Remote",
+    "cost": "900 credits",
+    "equipment": "Built-in toolkit"
+  },
+  "scraped": "2026-07-03"
+}

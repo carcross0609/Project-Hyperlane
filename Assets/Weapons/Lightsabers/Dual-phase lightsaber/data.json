@@ -1,0 +1,24 @@
+{
+  "name": "Dual-phase lightsaber",
+  "wookieepedia_title": "Dual-phase lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dual-phase_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "A dual-phase lightsaber was a lightsaber that contained two or more kyber crystals, allowing its blade length to be extended or shortened in the middle of combat. Darth Vader's lightsaber was an example of one, with the weapon achieving the feature with two kyber crystals.",
+  "data": {
+    "name": "Dual-phase lightsaber",
+    "model": "Lightsaber",
+    "type": "Dual-phase lightsaber",
+    "owners": "Darth Vader (Darth Vader's lightsaber)",
+    "hilt_shape": "Cylindrical, straight",
+    "crystal": "Two or more kyber crystals",
+    "blade_length": "Adjustable",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

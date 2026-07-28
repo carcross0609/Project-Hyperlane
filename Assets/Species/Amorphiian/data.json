@@ -1,0 +1,23 @@
+{
+  "name": "Amorphiian",
+  "wookieepedia_title": "Amorphiian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amorphiian",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Amorphiians, or Amorphiian beings, were a sentient species indigenous to the planet Amorphiia in the Mid Rim. Although they appeared identical to baseline Humans, the Amorphiians' motor abilities suffered frequent power fluctuations, causing them to speed up, slow down, or gyrate wildly, depending on the nature of a particular malfunction. Amorphiians had the ability to restore normal functionality to a limp or uncooperative body structure by rubbing, pushing, moving, or otherwise stimulating the body part.",
+  "data": {
+    "name": "Amorphiian",
+    "designation": "Sentient",
+    "class": "Android",
+    "skincolor": "Pale",
+    "haircolor": "Gray",
+    "eyecolor": "Blue",
+    "distinctions": [
+      "Frequent impairments of motor abilities",
+      "Pluri-interface"
+    ],
+    "origin": "Amorphiia"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Amorphiia"
+}

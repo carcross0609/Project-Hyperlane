@@ -1,0 +1,57 @@
+{
+  "name": "Baroli",
+  "wookieepedia_title": "Baroli/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Baroli/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Baroli was a planet inhabited by blue-haired Humans, and known for its many interesting moons.",
+  "lead_paragraphs": [
+    "Baroli was a planet inhabited by blue-haired Humans, and known for its many interesting moons.",
+    "The New Republic slicer Zakarisz Ghent hailed from Baroli, as did Jedi Padawan Ekria."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Baroli",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Baroli sector",
+    "system": "Baroli system",
+    "coordinates": "N-14",
+    "moons": "At least 2",
+    "routes": "Hydian Way",
+    "class": "Terrestrial",
+    "atmosphere": "Type I oxygen",
+    "climate": "Temperate",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "demonym": "Barolian",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Barolian",
+      "directory": "Barolian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Barolian",
+      "directory": "Barolian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Baroli",
+    "x": 3501.5,
+    "y": -7179.8,
+    "z": 357.1,
+    "region": "Expansion Region",
+    "grid": "N-14"
+  },
+  "scraped": "2026-07-03"
+}

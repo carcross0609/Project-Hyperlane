@@ -1,0 +1,39 @@
+{
+  "name": "Deko Neimoidia",
+  "wookieepedia_title": "Deko Neimoidia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deko_Neimoidia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Deko Neimoidia was a Purse World located in the Deko Neimoidia system in the Quellor sector of the Colonies region of the galaxy, and was in close proximity to the Neimoidian homeworld of Neimoidia. The planet was a major industrial factory for many Battle droid and Heavy Infantry for the Trade Federation.",
+  "lead_paragraphs": [
+    "Deko Neimoidia was a Purse World located in the Deko Neimoidia system in the Quellor sector of the Colonies region of the galaxy, and was in close proximity to the Neimoidian homeworld of Neimoidia. The planet was a major industrial factory for many Battle droid and Heavy Infantry for the Trade Federation."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Deko Neimoidia",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "Quellor sector",
+    "system": "Deko Neimoidia system",
+    "coordinates": "N-11",
+    "government": "Trade Monarch"
+  },
+  "homeworld_of": [
+    {
+      "name": "Neimoidian",
+      "directory": "Neimoidian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Deko Neimoidia",
+    "x": 1197.0,
+    "y": 241.0,
+    "z": -34.1,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

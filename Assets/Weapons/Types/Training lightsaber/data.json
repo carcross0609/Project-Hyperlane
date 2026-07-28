@@ -1,0 +1,25 @@
+{
+  "name": "Training lightsaber",
+  "wookieepedia_title": "Training lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Training_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Training lightsabers, also known as youngling lightsabers, practice sabers, or training blades, were non-lethal training implements used to practice lightsaber combat. Training lightsabers of various kinds were most often used by Jedi younglings in the Jedi Temple on Coruscant before they underwent the Gathering and built a weapon of their own. These range from very simple wooden swords to small lightsabers of limited power and thus limited danger. It was also possible for normal lightsabers to be tuned down so they could be used in this fashion. The Jedi training droids had training lightsabers for lightsaber combat. Arex's weapon was a training lightsaber with a large handguard that Darth Vader claim to fight Jedi Master Kirak Infil'a on Al'doleem.",
+  "data": {
+    "name": "Training lightsaber",
+    "type": "Lightsaber",
+    "culture": "Jedi",
+    "locations": [
+      "Jedi Temple, Coruscant",
+      "Jedi Temple of Luke Skywalker, Ossus"
+    ],
+    "cost": "400 credits",
+    "material": "Wood, Durasteel, copper, tempered plastic",
+    "length": "Varies, but typically 16.50 centimeters",
+    "width": "Varies, but typically 2.50 centimeters",
+    "purpose": "Lightsaber combat training",
+    "affiliation": "Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

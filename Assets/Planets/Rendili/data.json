@@ -1,0 +1,34 @@
+{
+  "name": "Rendili",
+  "wookieepedia_title": "Rendili",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rendili",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rendili was an ancient, conservative planet located in the galaxy's Core Worlds. Arch-Provost was a governing position on the planet.",
+  "lead_paragraphs": [
+    "Rendili was an ancient, conservative planet located in the galaxy's Core Worlds. Arch-Provost was a governing position on the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Rendili",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Rendili system",
+    "coordinates": "M-11",
+    "affiliation": "Inner systems' Imperial remnant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Rendili",
+    "x": 2455.7,
+    "y": -2112.0,
+    "z": -21.3,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

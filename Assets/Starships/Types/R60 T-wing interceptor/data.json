@@ -1,0 +1,53 @@
+{
+  "name": "R60 T-wing interceptor",
+  "wookieepedia_title": "R60 T-wing interceptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R60_T-wing_interceptor",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The R-60 T-wing interceptor was an interceptor originally designed to replace the A-wing. Unfortunately for the Rebellion, the end result turned out to be a poor replacement for the craft.",
+  "data": {
+    "name": "R60 T-wing interceptor",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "R-60 T-wing interceptor",
+    "type": "Starfighter",
+    "cost": [
+      "150,000 credits (new)",
+      "60,000 credits (used)"
+    ],
+    "length": "12.2 meters",
+    "width": "9.1 meters",
+    "height": "5.1 meters",
+    "max_accel": "21 MGLT/s",
+    "mglt": "111 MGLT",
+    "max_speed": "1,300 km/h",
+    "maneuverability": "78 DPF",
+    "engine": "H-K 5J Mk.II afterburning ion engines (3)",
+    "hyperdrive": "Class 1 or 3",
+    "hdsystem": "Equipped",
+    "shield_gen": "Rated 20 SBD",
+    "hull": "Rated 14 RU",
+    "navigation": "Limited navicomputer (2-jump memory)",
+    "armament": [
+      "Light laser cannons (2)",
+      "Proton torpedo launchers (2)",
+      "  4 Proton torpedoes total"
+    ],
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "50 kg",
+    "consumables": "1 week",
+    "availability": "Military",
+    "role": [
+      "Interceptor",
+      "Multi-role craft"
+    ],
+    "affiliation": [
+      "Rebel Alliance",
+      "Planetary Defense Forces",
+      "Airam Clans",
+      "Corporate security",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

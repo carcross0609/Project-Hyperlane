@@ -1,0 +1,134 @@
+{
+  "name": "Arkania",
+  "wookieepedia_title": "Arkania/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arkania/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arkania was the adopted homeworld of the Arkanian species. It was covered with tundra and rich in diamonds and other precious minerals, which the Arkanians mined to further their offworld connections and master their technology. Arkanian cities were designed to keep the cold out and were mostly completely enclosed. Off-world visitors rarely had to deal with the frigid conditions of the planet. Many citizens were miners.",
+  "lead_paragraphs": [
+    "Arkania was the adopted homeworld of the Arkanian species. It was covered with tundra and rich in diamonds and other precious minerals, which the Arkanians mined to further their offworld connections and master their technology. Arkanian cities were designed to keep the cold out and were mostly completely enclosed. Off-world visitors rarely had to deal with the frigid conditions of the planet. Many citizens were miners."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early mining operations and the Sith Empire",
+    "  Old Sith Wars",
+    "  The Arkanian Revolution",
+    "  Rise of the Empire"
+  ],
+  "data": {
+    "name": "Arkania",
+    "region": [
+      "Colonies",
+      "Northern Dependencies"
+    ],
+    "system": "Perave system",
+    "coordinates": "M-8",
+    "suns": "1: Olim",
+    "moons": "0",
+    "lengthday": "18 standard hours",
+    "lengthyear": "277 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Frigid",
+    "gravity": "Standard",
+    "terrain": [
+      "Canyons",
+      "Icy mountains and cliffs",
+      "Tundra"
+    ],
+    "interest": [
+      "Adascopolis Financial Exchange",
+      "Arca Jeth's praxeum",
+      "Arkania Command",
+      "Arkania Hyperspace",
+      "Diamond mines",
+      "Kaezeb Mining Operations Center",
+      "Perave System Starport",
+      "Veeshas Tuwan"
+    ],
+    "fauna": [
+      "Arkanian dragon",
+      "Arkanian jellyfish"
+    ],
+    "otherspecies": [
+      "Modern:",
+      "Arkanians",
+      "  Arkanian Offshoots",
+      "Yaka",
+      "Historic:",
+      "Sith"
+    ],
+    "language": [
+      "Arkanian",
+      "Galactic Basic Standard"
+    ],
+    "government": [
+      "Corporate meritocracy",
+      "Arkanian Dominion"
+    ],
+    "cities": [
+      "Adascopolis (capital)",
+      "Novania",
+      "Trade City",
+      "Kanti"
+    ],
+    "imports": [
+      "Finacial Assets",
+      "Information",
+      "Luxury items"
+    ],
+    "exports": [
+      "Diamonds",
+      "Raw materials",
+      "Medical supplies",
+      "High technology",
+      "Biological Weapons",
+      "Sith Artifacts",
+      "Precious Metals"
+    ],
+    "affiliation": [
+      "Old Sith Empire",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Yuuzhan Vong empire",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Arkanian",
+      "directory": "Arkanian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Arkanian Offshoot",
+      "directory": "Arkanian Offshoot",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Arkanian Offshoot",
+      "directory": "Arkanian Offshoot (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Arkanian",
+      "directory": "Arkanian (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Assimilator",
+      "directory": "Assimilator",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Arkania",
+    "x": 1644.5,
+    "y": 1519.0,
+    "z": 160.8,
+    "region": "Colonies",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Toydaria",
+  "wookieepedia_title": "Toydaria/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Toydaria/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Toydaria was a large, muddy planet located in the Toydaria system of Hutt Space, and home to the mind trick-resistant Toydarians.",
+  "lead_paragraphs": [
+    "Toydaria was a large, muddy planet located in the Toydaria system of Hutt Space, and home to the mind trick-resistant Toydarians."
+  ],
+  "article_sections": [
+    "Characteristics",
+    "History"
+  ],
+  "data": {
+    "name": "Toydaria",
+    "region": [
+      "Mid Rim",
+      "  Hutt Space",
+      "The Slice"
+    ],
+    "system": "Toydaria system",
+    "coordinates": "R-11",
+    "suns": [
+      "2:",
+      "Toydar",
+      "Little Toydar"
+    ],
+    "position": "4",
+    "moons": "3",
+    "routes": "Oktos Route",
+    "lengthday": "21 standard hours",
+    "lengthyear": "184 local days",
+    "class": "Terrestrial",
+    "diameter": "7,900 kilometers",
+    "climate": "Temperate swamps",
+    "gravity": "Standard",
+    "terrain": [
+      "Lakes",
+      "Swamps"
+    ],
+    "interest": [
+      "Hutt's cave",
+      "Oktos Zone Imperial Outpost",
+      "Swamp Mountain",
+      "Toydarian palace"
+    ],
+    "flora": [
+      "Trees",
+      "Vines"
+    ],
+    "fauna": [
+      "Shaoryn",
+      "Grabworm"
+    ],
+    "otherlife": "Black Gabaki",
+    "species": "Toydarian",
+    "otherspecies": "Hutt",
+    "language": "Toydarian",
+    "government": "Feudal monarchy",
+    "population": [
+      "11 million:",
+      "  79% Toydarian",
+      "  18% Hutt",
+      "  3% other species"
+    ],
+    "demonym": "Toydarian",
+    "cities": [
+      "Toydor (capital)"
+    ],
+    "imports": "Foodstuffs",
+    "exports": [
+      "Foodstuffs",
+      "Labor"
+    ],
+    "affiliation": [
+      "Hutt Cartel (vassal)",
+      "Galactic Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Shaoryn",
+      "directory": "Shaoryn",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Toydarian",
+      "directory": "Toydarian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Toydarian",
+      "directory": "Toydarian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Toydaria",
+    "x": 10070.4,
+    "y": -2562.2,
+    "z": -123.8,
+    "region": "Hutt Space",
+    "grid": "R-11"
+  },
+  "scraped": "2026-07-03"
+}

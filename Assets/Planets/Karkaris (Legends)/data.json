@@ -1,0 +1,50 @@
+{
+  "name": "Karkaris",
+  "wookieepedia_title": "Karkaris/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Karkaris/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Karkaris was a waterworld in the Nilgaard sector of the Outer Rim Territories. It was the homeworld of the Karkarodons, a species of fearless sentient aquatics.",
+  "lead_paragraphs": [
+    "Karkaris was a waterworld in the Nilgaard sector of the Outer Rim Territories. It was the homeworld of the Karkarodons, a species of fearless sentient aquatics."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Karkaris",
+    "region": [
+      "Outer Rim Territories",
+      "On the border between the Trans-Hydian and the Slice"
+    ],
+    "sector": "Nilgaard sector",
+    "system": "Karkaris system",
+    "coordinates": "S-5",
+    "class": "Terrestrial",
+    "terrain": "Oceans",
+    "fauna": "Hydroid Medusas",
+    "species": "Karkarodon",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Karkarodon",
+      "directory": "Karkarodon",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Karkarodon",
+      "directory": "Karkarodon (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Karkaris",
+    "x": 10773.1,
+    "y": 6637.5,
+    "z": -297.6,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

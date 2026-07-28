@@ -1,0 +1,121 @@
+{
+  "name": "Kamino",
+  "wookieepedia_title": "Kamino/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kamino/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kamino was an aquatic planet located in a remote star system in Wild Space. It was sometimes considered extra-galactic due to being in close proximity to the Rishi Maze dwarf satellite galaxy. It was inhabited by a race of tall, elegant beings called the Kaminoans and the capital world of the Ruling Council, headed by the Prime Minister. Kaminoans kept to themselves and were known for their cloning technology, and for the creation of a clone army for the Galactic Republic.",
+  "lead_paragraphs": [
+    "Kamino was an aquatic planet located in a remote star system in Wild Space. It was sometimes considered extra-galactic due to being in close proximity to the Rishi Maze dwarf satellite galaxy. It was inhabited by a race of tall, elegant beings called the Kaminoans and the capital world of the Ruling Council, headed by the Prime Minister. Kaminoans kept to themselves and were known for their cloning technology, and for the creation of a clone army for the Galactic Republic."
+  ],
+  "article_sections": [
+    "Astronomy and geography",
+    "Sentient life",
+    "History",
+    "  Ancient history",
+    "  Early history",
+    "  Jedi Order",
+    "  New technology",
+    "  Clone Wars",
+    "    The battles begins",
+    "  Fighting the Empire",
+    "  Galactic Civil War",
+    "    Secret cloning project",
+    "    Stolen Sith artifact",
+    "  The era of the New Republic"
+  ],
+  "data": {
+    "name": "Kamino",
+    "region": [
+      "Wild Space",
+      "Extra-galactic"
+    ],
+    "system": "Kamino system",
+    "coordinates": "S-15",
+    "distance": "70,000 light-years",
+    "suns": "1: Kamino",
+    "position": "5",
+    "moons": [
+      "3",
+      "Korasa",
+      "Two others"
+    ],
+    "routes": "Quiberon Line",
+    "lengthday": "27 standard hours",
+    "lengthyear": "463 standard days",
+    "class": "Terrestrial",
+    "diameter": "19,270 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Aquatic (saturated hydrosphere)",
+    "water": "100%",
+    "interest": [
+      "Baran Wu",
+      "Su Des",
+      "Slici Canyon",
+      "Derem City Ruins"
+    ],
+    "fauna": [
+      "Aiwha",
+      "Kamino spongeworm"
+    ],
+    "species": "Kaminoan",
+    "otherspecies": [
+      "Human",
+      "Sullustan"
+    ],
+    "language": "Kaminoan",
+    "government": "Ruling council",
+    "population": [
+      "1 billion",
+      "  100% Kaminoan"
+    ],
+    "cities": [
+      "Tipoca City (capital)",
+      "Timira City",
+      "Derem City (destroyed)"
+    ],
+    "imports": [
+      "Droids",
+      "Foodstuffs"
+    ],
+    "exports": [
+      "Clones",
+      "Covert technology",
+      "Fish",
+      "Military weapons and hardware"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Zann Consortium"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kaminoan",
+      "directory": "Kaminoan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kaminoan",
+      "directory": "Kaminoan (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kikla",
+      "directory": "Kikla",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kamino",
+    "x": 10657.3,
+    "y": -7961.7,
+    "z": 439.2,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

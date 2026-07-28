@@ -1,0 +1,58 @@
+{
+  "name": "Kegan",
+  "wookieepedia_title": "Kegan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kegan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kegan was a planet located in the Outer Rim Territories. The planet was run by the Benevolent Guides, who isolated the planet from the rest of the galaxy after having visions of the destruction of Kegan. During the Yuuzhan Vong War, Kegan was conquered by the extragalactic Yuuzhan Vong.",
+  "lead_paragraphs": [
+    "Kegan was a planet located in the Outer Rim Territories. The planet was run by the Benevolent Guides, who isolated the planet from the rest of the galaxy after having visions of the destruction of Kegan. During the Yuuzhan Vong War, Kegan was conquered by the extragalactic Yuuzhan Vong."
+  ],
+  "article_sections": [
+    "Description",
+    "Circles",
+    "  City Circles",
+    "  Other Circles",
+    "History"
+  ],
+  "data": {
+    "name": "Kegan",
+    "region": "Outer Rim Territories",
+    "sector": "Calaron sector",
+    "system": "Kegan system",
+    "coordinates": "T-9",
+    "suns": "1",
+    "routes": "Triellus Trade Route",
+    "terrain": [
+      "Countryside",
+      "Plateaus"
+    ],
+    "interest": [
+      "Learning Circle",
+      "Re-Learning Circle"
+    ],
+    "flora": "Calla tree",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Ruled by the Benevolent Guides",
+    "demonym": "Keganite",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Xim's Empire",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kegan",
+    "x": 12926.1,
+    "y": 1343.6,
+    "z": -378.1,
+    "region": "Outer Rim",
+    "grid": "T-9"
+  },
+  "scraped": "2026-07-03"
+}

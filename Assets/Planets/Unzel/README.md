@@ -1,0 +1,23 @@
+# Unzel
+
+**Continuity:** Canon  
+**Source:** [Unzel](https://starwars.fandom.com/wiki/Unzel)
+
+Unzel was a world in the Lantillian sector's Unzel system, which was located in the Mid Rim Territories and the Slice. It was situated in grid square P-9 of the Standard Galactic Grid. The world was represented in the Imperial Senate during the reign of the Galactic Empire. Unzel's senator worked with Bail and Breha Organa—two members of the Core Worlds planet Alderaan's royal family—to fund a resistance movement against the Empire.
+
+In 3 BBY, the Alderaanian Princess Leia Organa looked into Alderaan's royal ledgers, discovering Unzel's involvement in funneling money in and out of her homeworld's accounts under the label "Spaceport Development." Knowing that Alderaan was not preparing to build another spaceport anytime soon, Organa concluded that Unzel's senator was assisting her parents' anti-Imperial activities.
+
+## Planetary data
+
+- **Name:** Unzel
+- **Region:**
+  - Mid Rim Territories
+  - The Slice
+- **Sector:** Lantillian sector
+- **System:** Unzel system
+- **Coordinates:** P-9
+- **Affiliation:** Galactic Empire
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

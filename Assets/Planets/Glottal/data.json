@@ -1,0 +1,39 @@
+{
+  "name": "Glottal",
+  "wookieepedia_title": "Glottal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Glottal",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Glottal was a planet located within the Glottal system in the Baxel sector of the Outer Rim region of the galaxy. It was the Glottalphib homeworld. It was a hot and humid planet, making it a perfect habitat for the Glottalphibs.",
+  "lead_paragraphs": [
+    "Glottal was a planet located within the Glottal system in the Baxel sector of the Outer Rim region of the galaxy. It was the Glottalphib homeworld. It was a hot and humid planet, making it a perfect habitat for the Glottalphibs."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Glottal",
+    "region": "Outer Rim Territories",
+    "sector": "Baxel sector",
+    "system": "Glottal system",
+    "coordinates": "U-11",
+    "routes": "Triellus Trade Route",
+    "terrain": "Swamps",
+    "species": "Glottalphib",
+    "demonym": "Glottalphib"
+  },
+  "homeworld_of": [
+    {
+      "name": "Glottalphib",
+      "directory": "Glottalphib",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Glottal",
+    "x": 13903.9,
+    "y": -2279.9,
+    "z": -421.9,
+    "region": "Outer Rim",
+    "grid": "U-11"
+  },
+  "scraped": "2026-07-03"
+}

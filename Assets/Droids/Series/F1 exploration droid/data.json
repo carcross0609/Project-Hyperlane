@@ -1,0 +1,25 @@
+{
+  "name": "F1 exploration droid",
+  "wookieepedia_title": "F1 exploration droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/F1_exploration_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The F1 exploration droid was designed to be used by scouts on the frontier, acting as a companion and protector.",
+  "data": {
+    "name": "F1 exploration droid",
+    "manufacturer": "Cybot Galactica",
+    "class": "Exploration droid",
+    "degree": "Class 5",
+    "cost": "2,750 credits",
+    "height": "1 meter",
+    "equipment": [
+      "Audio sensors",
+      "Heavy grasper jaw",
+      "Motion sensor array",
+      "Olfactory sensors",
+      "Photoreceptors"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

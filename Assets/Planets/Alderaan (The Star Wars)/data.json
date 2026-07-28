@@ -1,0 +1,44 @@
+{
+  "name": "Alderaan",
+  "wookieepedia_title": "Alderaan (The Star Wars)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alderaan_%28The_Star_Wars%29",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "The planet Alderaan was the capital of the New Galactic Empire.",
+  "lead_paragraphs": [
+    "The planet Alderaan was the capital of the New Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Alderaan",
+    "climate": "Gas giant",
+    "government": "New Galactic Empire",
+    "affiliation": "New Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Alderaanian",
+      "directory": "Alderaanian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Alderaanian",
+      "directory": "Alderaanian (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Mantellian Savrip",
+      "directory": "Mantellian Savrip (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alderaan",
+    "x": 1942.4,
+    "y": -89.5,
+    "z": 86.5,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

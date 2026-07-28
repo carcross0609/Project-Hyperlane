@@ -1,8 +1,8 @@
 // Copyright (c) 2026 Carson Crossno. Personal, non-commercial project.
 
-#include "Simulation/GalaxySubsystem.h"
+#include "Hyperlane/Simulation/GalaxySubsystem.h"
 
-#include "Core/HyperlaneLogging.h"
+#include "Hyperlane/Core/HyperlaneLogging.h"
 
 void UGalaxySubsystem::Initialize(FSubsystemCollectionBase& Collection)
 {

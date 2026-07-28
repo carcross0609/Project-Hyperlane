@@ -1,0 +1,27 @@
+{
+  "name": "MK 8001 Attendant Droid",
+  "wookieepedia_title": "MK 8001 Attendant Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MK_8001_Attendant_Droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The MK 8001 Attendant Droid was a combination nanny droid/medical droid model manufactured by AccuTronics. It was 1.6 meters tall and vaguely resembled a Human female. It came equipped with a medical database of 50,000 illnesses and a medical support link, maintaining direct communication links with whatever medical facility was nearest, using planetary communication grids to carry out two-way data transmissions. The droid monitored health remotely using video, audio, and vital statistic relays. During emergencies, the droids could independently diagnose and stabilize patients until summoned help arrived. The droids were programmed to operate numerous types of vehicles. A single droid cost 3,600 credits new.",
+  "data": {
+    "name": "MK 8001 Attendant Droid",
+    "manufacturer": "AccuTronics",
+    "class": "Nanny droid",
+    "degree": "Class one droid",
+    "cost": "3,600 credits",
+    "height": "1.6 meters",
+    "gender": "Feminine programming",
+    "equipment": [
+      "AA-1 VerboBrain",
+      "Auditory sensors",
+      "Medical database",
+      "Medical Support Link",
+      "Visual sensors",
+      "Vocabulator"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

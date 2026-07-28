@@ -1,0 +1,26 @@
+{
+  "name": "Hoth sentry droid",
+  "wookieepedia_title": "Hoth sentry droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hoth_sentry_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Hoth sentry droid was a small, treaded tank droid used by the Rebel Alliance on Hoth. The droid included a turret that fired missiles. It was operated via remote control by rebel soldiers, and came in green and tan colors.",
+  "data": {
+    "name": "Hoth sentry droid",
+    "plating": [
+      "Tan",
+      "Green"
+    ],
+    "affiliation": "Alliance to Restore the Republic",
+    "class": "Droid tank",
+    "armament": "One cannon",
+    "equipment": [
+      "Missiles",
+      "Integrated droid brain"
+    ],
+    "sensor": "None",
+    "degree": "Fourth-degree droid"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cybot",
+  "wookieepedia_title": "Cybot",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cybot",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Cybot was a third-degree protocol droid bounty hunter that was active during the years 5 and 10 ABY. Cybot had gold-colored plating as well as yellow and orange photoreceptors. The droid stood 1.7 meters tall and wielded weapons such as a Bryar pistol, an E-11 blaster rifle, a carbonite gun, and thermal detonators.",
+  "data": {
+    "name": "Cybot",
+    "class": "Protocol droid",
+    "height": "1.7 meters",
+    "sensor": "Yellow and orange",
+    "plating": "Gold",
+    "armament": [
+      "Bryar pistol",
+      "E-11 blaster rifle",
+      "Carbonite gun",
+      "Thermal detonators"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

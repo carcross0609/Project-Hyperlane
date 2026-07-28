@@ -1,0 +1,43 @@
+{
+  "name": "Yuvern",
+  "wookieepedia_title": "Yuvern/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yuvern/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yuvern was an Outer Rim Territories planet located in the Oplovis sector. It was the homeworld of the two-headed, snakelike Yuvernians. One young Yuvernian, Cane Adiss, dreamed of leaving his homeworld and becoming an explorer, and he was eventually taken offworld by the trader Kal'Falnl C'ndros. By 2 ABY, the Yuvernian had become a spice smuggler for the crime lord Jabba the Hutt, whose first assignment took Adiss back to Yuvern. Arriving in-system, the Yuvernian encountered the Imperial Oplovis Sector Fleet. Subsequently, an unexpected Rebel Alliance attack on the fleet prevented Imperial inspectors from discovering Adiss's illegal cargo, and the smuggler was later able to finish his mission to Yuvern.",
+  "lead_paragraphs": [
+    "Yuvern was an Outer Rim Territories planet located in the Oplovis sector. It was the homeworld of the two-headed, snakelike Yuvernians. One young Yuvernian, Cane Adiss, dreamed of leaving his homeworld and becoming an explorer, and he was eventually taken offworld by the trader Kal'Falnl C'ndros. By 2 ABY, the Yuvernian had become a spice smuggler for the crime lord Jabba the Hutt, whose first assignment took Adiss back to Yuvern. Arriving in-system, the Yuvernian encountered the Imperial Oplovis Sector Fleet. Subsequently, an unexpected Rebel Alliance attack on the fleet prevented Imperial inspectors from discovering Adiss's illegal cargo, and the smuggler was later able to finish his mission to Yuvern."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Yuvern",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Oplovis sector",
+    "system": "Yuvern system",
+    "coordinates": "M-5",
+    "species": "Yuvernian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Yuvernian",
+      "directory": "Yuvernian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yuvern",
+    "x": 2766.4,
+    "y": 6913.7,
+    "z": 36.1,
+    "region": "Outer Rim",
+    "grid": "M-5"
+  },
+  "scraped": "2026-07-03"
+}

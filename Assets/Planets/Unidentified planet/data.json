@@ -1,0 +1,63 @@
+{
+  "name": "Unidentified planet",
+  "wookieepedia_title": "Unidentified planet",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_planet",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "An unidentified planet covered in electrical storms was located in the Monsua Nebula. The smuggler Han Solo occasionally used a hiding place located on the planet.",
+  "lead_paragraphs": [
+    "An unidentified planet covered in electrical storms was located in the Monsua Nebula. The smuggler Han Solo occasionally used a hiding place located on the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Unidentified planet",
+    "region": "Outer Rim Territories",
+    "sector": "Moddell sector",
+    "system": "Monsua Nebula",
+    "coordinates": "H-16",
+    "atmosphere": "Breathable",
+    "interest": "Han Solo's hiding place"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bartokk",
+      "directory": "Bartokk",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lupr'or",
+      "directory": "Lupr'or",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Unidentified blue humanoid species",
+      "directory": "Unidentified blue humanoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-faced species",
+      "directory": "Unidentified purple-faced species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-skinned humanoid species",
+      "directory": "Unidentified purple-skinned humanoid species",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Unidentified red pachydermoid species",
+      "directory": "Unidentified red pachydermoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified species",
+      "directory": "Unidentified species (seven-ringed homeworld)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,33 @@
+# Ought-Six
+
+**Kind:** Individual  
+**Continuity:** Canon  
+**Source:** [Ought-Six](https://starwars.fandom.com/wiki/Ought-Six)
+
+Ought-Six was a droid who was the captain of the Droid Crush Pirates of Bestoon, a droid pirate group associated with Bestoon. The Droid Crush Pirates were recruited by the Sith assassin Ochi of Bestoon to hunt the Sith Lord Darth Vader on the planet Mustafar as part of a punishment from Vader's master, Emperor Palpatine. Ought-Six intended to hunt Vader for the parts of his cybernetic suit of armor, but realized that his suit was composed of standard parts. He confronted Ochi and tried to kill him. However Ochi was pulled through a doorway by Vader. While the Droid Crush Pirates forced their way through the door, Vader retrieved his lightsaber from Ochi. The droid pirates were sliced apart by Vader, with Ought-Six being the last to be destroyed. As the droids lay broken on the ground, one remarked that Vader's parts had to be special, but the captain denied it.
+
+## Specifications
+
+- **Type:** Criminal
+- **Name:** Ought-Six
+- **Death:**
+  - 3 ABY, Mustafar (rebuilt)
+  - Between 3 ABY and 4 ABY, Ringo Vinda (rebuilt)
+  - Between 3 ABY and 4 ABY, Mustafar (multiple times, and multiple rebuilds)
+  - Between 3 ABY and 4 ABY, Executor (rebuilt)
+  - 21 ABY, Bestoon Legacy, Nightside, over Therezar
+- **Gender:** Masculine programming
+- **Pronouns:**
+  - It/its
+  - He/him
+- **Sensor:** Yellow
+- **Plating:** Red
+- **Affiliation:**
+  - Droid Crush Pirates of Bestoon
+  - Droid uprising
+  - Darth Vader (Reluctantly, after reprogramming)
+  -   Droid uprising
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

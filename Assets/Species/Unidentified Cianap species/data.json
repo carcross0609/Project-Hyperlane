@@ -1,0 +1,31 @@
+{
+  "name": "Unidentified Cianap species",
+  "wookieepedia_title": "Unidentified Cianap species",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Cianap_species",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "A sentient species lived on Cianap. They had blue skin and hair of various colors. Mira was a member of this species. They were a much more advanced society, but the Ender, destroyed their society, forcing them to live underground.",
+  "data": {
+    "name": "Unidentified Cianap species",
+    "designation": "Sentient",
+    "class": "Near-human",
+    "skincolor": "Blue",
+    "haircolor": [
+      "Blond",
+      "Black",
+      "Brown",
+      "Grey",
+      "Green",
+      "Red"
+    ],
+    "eyecolor": "Black",
+    "origin": "Cianap",
+    "habitat": [
+      "Plains",
+      "Mountains"
+    ],
+    "diet": "Omnivorous"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Cianap"
+}

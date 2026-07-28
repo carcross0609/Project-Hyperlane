@@ -1,0 +1,36 @@
+{
+  "name": "Kidron",
+  "wookieepedia_title": "Kidron",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kidron",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kidron was a planet located in the Kidron system in the Elrood sector of the Outer Rim Territories. During the Galactic Civil War, many Y-wing pilots trained on Kidron, soaring through its spectacular orange skies.",
+  "lead_paragraphs": [
+    "Kidron was a planet located in the Kidron system in the Elrood sector of the Outer Rim Territories. During the Galactic Civil War, many Y-wing pilots trained on Kidron, soaring through its spectacular orange skies."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kidron",
+    "region": "Outer Rim Territories",
+    "sector": "Elrood sector",
+    "system": "Kidron system",
+    "coordinates": "M-20",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Orfite",
+      "directory": "Orfite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kidron",
+    "x": 12461.4,
+    "y": 1914.5,
+    "z": 659.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

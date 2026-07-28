@@ -1,0 +1,39 @@
+{
+  "name": "Shikitari",
+  "wookieepedia_title": "Shikitari",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shikitari",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shikitari was a planet located somewhere within the Unknown Regions. In the world's lush jungle lived a rare subsentient species of insectoids that shared their name with their homeworld. Shikitari were born in clusters of eggs suspended in a poisonous protective gel that warded off predators. As the eggs hatched, the developing pupae fused together, growing into a single combined lifeform. The pupae developed a body structure that mimicked their guardian. However, this stage of their life cycle was extremely short, and the unified organism later became encased in a hardened chrysalis, from which emerged a dozen harmless creatures.",
+  "lead_paragraphs": [
+    "Shikitari was a planet located somewhere within the Unknown Regions. In the world's lush jungle lived a rare subsentient species of insectoids that shared their name with their homeworld. Shikitari were born in clusters of eggs suspended in a poisonous protective gel that warded off predators. As the eggs hatched, the developing pupae fused together, growing into a single combined lifeform. The pupae developed a body structure that mimicked their guardian. However, this stage of their life cycle was extremely short, and the unified organism later became encased in a hardened chrysalis, from which emerged a dozen harmless creatures."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Shikitari",
+    "region": "Unknown Regions",
+    "system": "Shikitari system",
+    "coordinates": "N/A",
+    "terrain": "Lush jungle",
+    "fauna": [
+      "Shikitari",
+      "Various predators"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Shikitari",
+      "directory": "Shikitari (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Shikitari",
+    "x": -8932.0,
+    "y": 2517.6,
+    "z": 272.7,
+    "region": "Unknown Regions",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

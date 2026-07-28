@@ -1,0 +1,33 @@
+{
+  "name": "Warspite",
+  "wookieepedia_title": "Warspite (EF76 Nebulon-B escort frigate)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Warspite_%28EF76_Nebulon-B_escort_frigate%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Warspite was an EF76 Nebulon-B escort frigate that served in the Imperial Navy during the Galactic Civil War.",
+  "data": {
+    "name": "Warspite",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "EF76 Nebulon-B escort frigate",
+    "type": "Escort starship",
+    "cost": "Not available for sale",
+    "length": "300 meters",
+    "width": "72 meters",
+    "height": "166 meters",
+    "hyperdrive": [
+      "Class 2.0",
+      "Backup: Class 12"
+    ],
+    "shield_gen": "Enhanced Delphus JC-671 projectors",
+    "armament": [
+      "Taim & Bak XI7 turbolasers (12)"
+    ],
+    "bays": "At least 1",
+    "role": "Frigate",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Operation Strike Fear"
+  },
+  "scraped": "2026-07-03"
+}

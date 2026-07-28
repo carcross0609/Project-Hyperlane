@@ -1,0 +1,26 @@
+{
+  "name": "Sonic disruptor",
+  "wookieepedia_title": "Sonic disruptor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sonic_disruptor",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A sonic disruptor was a disruptor weapon used in the years following the Great Sith War.",
+  "data": {
+    "name": "Sonic disruptor",
+    "type": "Disruptor pistol",
+    "cost": "1,000 credits (Illegal)",
+    "size": "Small",
+    "weight": "1 kg",
+    "capacity": [
+      "10 shots",
+      "Cannot be deflected by a lightsaber"
+    ],
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 120 meters"
+    ],
+    "purpose": "To disintegrate a target"
+  },
+  "scraped": "2026-07-03"
+}

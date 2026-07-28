@@ -1,0 +1,47 @@
+{
+  "name": "Rakaa IV",
+  "wookieepedia_title": "Rakaa IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rakaa_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rakaa IV was a planet occupying the fourth orbital position in the Rakaa system, on the edge of the Core Worlds. It was a warm world of jungle and forests, with surface water also being present. The planet's flora included the nargk root.",
+  "lead_paragraphs": [
+    "Rakaa IV was a planet occupying the fourth orbital position in the Rakaa system, on the edge of the Core Worlds. It was a warm world of jungle and forests, with surface water also being present. The planet's flora included the nargk root.",
+    "Rakaa IV was the homeworld of the Rakaans, a sentient species of large, predatory, hive-based insectoids. The Rakaans had a complex life-cycle which involved transitioning through five different sexes, with one of the phases involving taking care of their eggs in nesting chambers.",
+    "The natives of Rakaa IV rarely traveled beyond their homeworld. One exception was the Rakaan Lud Chud, who established a criminal empire in the Elrood sector of the Outer Rim Territories."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rakaa IV",
+    "region": "Core Worlds",
+    "system": "Rakaa system",
+    "coordinates": "J-12",
+    "position": "4",
+    "class": "Terrestrial",
+    "climate": "Warm",
+    "terrain": [
+      "Forests",
+      "Jungle"
+    ],
+    "water": "Present",
+    "interest": "Rakaan nesting chambers",
+    "flora": "Nargk root",
+    "species": "Rakaans"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rakaan",
+      "directory": "Rakaan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rakaa IV",
+    "x": -2304.9,
+    "y": -3183.3,
+    "z": -183.5,
+    "region": "Core Worlds",
+    "grid": "J-12"
+  },
+  "scraped": "2026-07-03"
+}

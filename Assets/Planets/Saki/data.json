@@ -1,0 +1,46 @@
+{
+  "name": "Saki",
+  "wookieepedia_title": "Saki",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Saki",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Saki was a planet located in the Saki system in Hutt Space that was conquered by the Hutt Cartel, which was controlled by the Hutts from the neighboring world of Nal Hutta, who turned the native Sakiyans into slaves or vassals.",
+  "lead_paragraphs": [
+    "Saki was a planet located in the Saki system in Hutt Space that was conquered by the Hutt Cartel, which was controlled by the Hutts from the neighboring world of Nal Hutta, who turned the native Sakiyans into slaves or vassals.",
+    "The Assassin's Guild member Ochi went to Saki where he met with three Master Assassins who captured Qi'ra, the leader of Crimson Dawn. Although Ochi killed the three assassins and pledged his loyalty to Crimson Dawn."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Saki",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "sector": "None",
+    "system": "Saki system",
+    "coordinates": "S-11",
+    "species": "Sakiyan",
+    "affiliation": "Hutt Cartel"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sakiyan",
+      "directory": "Sakiyan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Sakiyan",
+      "directory": "Sakiyan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Saki",
+    "x": 11588.3,
+    "y": -1932.3,
+    "z": 164.5,
+    "region": "Hutt Space",
+    "grid": "S-11"
+  },
+  "scraped": "2026-07-03"
+}

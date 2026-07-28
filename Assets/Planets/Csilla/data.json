@@ -1,0 +1,68 @@
+{
+  "name": "Csilla",
+  "wookieepedia_title": "Csilla",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Csilla",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Csilla was a frigid, ice-locked planet in the Unknown Regions. It was the homeworld of the sentient, near-human Chiss species and the capital world of the Chiss Ascendancy. Though largely unknown to the wider galaxy during the age of the Galactic Empire, exploratory missions to the Unknown Regions conducted years later revealed Csilla and other worlds that could be reached through cautious hyperspace jumps.",
+  "lead_paragraphs": [
+    "Csilla was a frigid, ice-locked planet in the Unknown Regions. It was the homeworld of the sentient, near-human Chiss species and the capital world of the Chiss Ascendancy. Though largely unknown to the wider galaxy during the age of the Galactic Empire, exploratory missions to the Unknown Regions conducted years later revealed Csilla and other worlds that could be reached through cautious hyperspace jumps."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  A great war",
+    "  Climate change",
+    "  Imperial Era",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Csilla",
+    "region": "Unknown Regions",
+    "sector": "Chiss Space",
+    "system": "Csilla system",
+    "coordinates": "F-8",
+    "suns": "1",
+    "class": "Terrestrial",
+    "climate": "Cold",
+    "terrain": "Ice-locked",
+    "interest": [
+      "Convocate Hall",
+      "Assembly Cupola",
+      "Fleet headquarters",
+      "Defense Force headquarters",
+      "Defense Force command"
+    ],
+    "fauna": "Trees in caves underground",
+    "species": "Chiss",
+    "language": "Cheunh",
+    "population": [
+      "8 billion (officially)",
+      "60–70 million (actually)",
+      "4 billion (formerly)"
+    ],
+    "cities": "Csaplar (capital)",
+    "affiliation": "Chiss Ascendancy"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chiss",
+      "directory": "Chiss",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Chiss",
+      "directory": "Chiss (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Csilla",
+    "x": -8893.8,
+    "y": 1832.0,
+    "z": 97.4,
+    "region": "Unknown Regions",
+    "grid": "F-8"
+  },
+  "scraped": "2026-07-03"
+}

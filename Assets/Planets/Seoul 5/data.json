@@ -1,0 +1,41 @@
+{
+  "name": "Seoul 5",
+  "wookieepedia_title": "Seoul 5",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Seoul_5",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Seoul 5 was a planet in Wild Space which was home to an ancient Human civilization in the Pre-Republic era. The Seoularians, as they were called, powered their cities with enormously powerful crystals that were kept in large supplies underground. Seoul 5 was long uninhabited by the Galactic Civil War, and its location lost—however, the legendary lost world was finally rediscovered in 4 ABY.",
+  "lead_paragraphs": [
+    "Seoul 5 was a planet in Wild Space which was home to an ancient Human civilization in the Pre-Republic era. The Seoularians, as they were called, powered their cities with enormously powerful crystals that were kept in large supplies underground. Seoul 5 was long uninhabited by the Galactic Civil War, and its location lost—however, the legendary lost world was finally rediscovered in 4 ABY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Seoul 5",
+    "region": "Wild Space",
+    "system": "Seoul system",
+    "coordinates": "H-20",
+    "terrain": [
+      "Forests",
+      "Mountains"
+    ],
+    "interest": "Onrai square",
+    "otherspecies": "Human (Seoularian)",
+    "language": "Seoulian",
+    "affiliation": "Infinite Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Seoul 5",
+    "x": -5868.5,
+    "y": -16145.2,
+    "z": -205.4,
+    "region": "Wild Space",
+    "grid": "H-20"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Yaga Minor",
+  "wookieepedia_title": "Yaga Minor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yaga_Minor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Yaga Minor was an industrialized planet located in the galaxy's Outer Rim Territories. Yaga Minor primary native species were the Yagai, insectoids with a hive-caste society and was known throughout the galaxy for its major starshipbuilding facilities. It was famous for where the Outbound Flight departed towards the Unknown Regions in 27 BBY.",
+  "lead_paragraphs": [
+    "Yaga Minor was an industrialized planet located in the galaxy's Outer Rim Territories. Yaga Minor primary native species were the Yagai, insectoids with a hive-caste society and was known throughout the galaxy for its major starshipbuilding facilities. It was famous for where the Outbound Flight departed towards the Unknown Regions in 27 BBY."
+  ],
+  "article_sections": [
+    "History",
+    "  Inter-Sith Wars Period",
+    "  Separatist Crisis",
+    "  Imperial Period",
+    "  Imperial Remnant",
+    "  Yuuzhan Vong War"
+  ],
+  "data": {
+    "name": "Yaga Minor",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Prefsbelt sector",
+    "system": "Yaga Minor system",
+    "coordinates": "K-5",
+    "moons": "1",
+    "routes": "Entralla Route",
+    "lengthday": "23 standard hours",
+    "lengthyear": "451 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Heavy (1.2 of standard)",
+    "terrain": [
+      "Caves",
+      "Forests",
+      "Mountains"
+    ],
+    "interest": [
+      "Preparation Center",
+      "Yavvitiri Spaceport",
+      "Yaga Minor shipyards",
+      "Ubiqtorate base"
+    ],
+    "species": "Yagai",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard, Imperial Basic",
+    "population": "4 billion",
+    "imports": "Refined metals",
+    "exports": "Starship drive units",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Thrawn's Confederation",
+      "Pentastar Alignment",
+      "Imperial Remnant",
+      "Fel Empire",
+      "Empire-in-exile"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Yaga",
+      "directory": "Yaga (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yaga Minor",
+    "x": -1441.0,
+    "y": 7194.2,
+    "z": 39.8,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Unidentified planet",
+  "wookieepedia_title": "Unidentified planet (Live islands)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_planet_%28Live_islands%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "A planet existed in the galaxy that was home to a scrap eating worm species. In 4 ABY, Nien Nunb and Shriv Suurgav landed on the planet to look for two TIE fighters.",
+  "lead_paragraphs": [
+    "A planet existed in the galaxy that was home to a scrap eating worm species. In 4 ABY, Nien Nunb and Shriv Suurgav landed on the planet to look for two TIE fighters."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Unidentified planet",
+    "class": "Terrestrial",
+    "climate": "Hot",
+    "terrain": [
+      "Caves",
+      "Living islands",
+      "Mountains"
+    ],
+    "water": [
+      "Rivers",
+      "Oceans"
+    ],
+    "fauna": "Unidentified worm"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bartokk",
+      "directory": "Bartokk",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lupr'or",
+      "directory": "Lupr'or",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Unidentified blue humanoid species",
+      "directory": "Unidentified blue humanoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-faced species",
+      "directory": "Unidentified purple-faced species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-skinned humanoid species",
+      "directory": "Unidentified purple-skinned humanoid species",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Unidentified red pachydermoid species",
+      "directory": "Unidentified red pachydermoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified species",
+      "directory": "Unidentified species (seven-ringed homeworld)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

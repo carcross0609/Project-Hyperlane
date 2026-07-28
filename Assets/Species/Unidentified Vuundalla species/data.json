@@ -1,0 +1,23 @@
+{
+  "name": "Unidentified Vuundalla species",
+  "wookieepedia_title": "Unidentified Vuundalla species",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_Vuundalla_species",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "A sentient species of humanoids was native to the planet Vuundalla. They had pink skin, magenta eyes, and hair of blue, black, and white shades. During the High Republic Era, the population of Vuundalla was ruled over by a queen and king, who disregarded the local population in favor of wider galactic politics, such as the Starlight Beacon. Their son, Cyrus Vuundir, operated as the pirate Taborr Val Dorn within the vicinity of the planet Tenoo.",
+  "data": {
+    "name": "Unidentified Vuundalla species",
+    "designation": "Sentient",
+    "skincolor": "Pink",
+    "haircolor": [
+      "White",
+      "Black",
+      "Blue"
+    ],
+    "eyecolor": "Magenta",
+    "origin": "Vuundalla",
+    "language": "Galactic Basic Standard"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Vuundalla"
+}

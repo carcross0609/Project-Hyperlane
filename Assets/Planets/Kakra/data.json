@@ -1,0 +1,41 @@
+{
+  "name": "Kakra",
+  "wookieepedia_title": "Kakra",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kakra",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "K43, referred to as Kakra by the indigeonous population's elders in their native tongue, was a tectonically unstable volcanic planet located in the Kakra system in Wild Space, within the Expansion Region. Thought to be uninhabited, K43 was home to the Kakrans, a species of sentient rock-based lifeforms. The Alliance to Restore the Republic sent Chewbacca and C-3PO to the planet with proton detonators, planning to lure Imperial Star Destroyers to K43 and exploit the planet's instability in order to destroy it. However, upon their arrival, the rebels discovered that K43 was not uninhabited.",
+  "lead_paragraphs": [
+    "K43, referred to as Kakra by the indigeonous population's elders in their native tongue, was a tectonically unstable volcanic planet located in the Kakra system in Wild Space, within the Expansion Region. Thought to be uninhabited, K43 was home to the Kakrans, a species of sentient rock-based lifeforms. The Alliance to Restore the Republic sent Chewbacca and C-3PO to the planet with proton detonators, planning to lure Imperial Star Destroyers to K43 and exploit the planet's instability in order to destroy it. However, upon their arrival, the rebels discovered that K43 was not uninhabited.",
+    "During a battle between Rebel forces and the Imperial Star Destroyers the planet began to break apart before revealing it was actually a shell around a giant version of the Kakran species. The large Kakran proceeded to destroy the orbiting Star Destroyers allowing the Rebels to escape."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kakra",
+    "region": [
+      "Wild Space",
+      "Expansion Region"
+    ],
+    "sector": "N/A",
+    "system": "Kakra system",
+    "coordinates": "I-14",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Rocky",
+      "Volcanic"
+    ],
+    "species": "Kakran",
+    "language": "Kakran",
+    "government": "Elders of Kakra"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kakran",
+      "directory": "Kakran",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

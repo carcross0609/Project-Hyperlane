@@ -1,0 +1,46 @@
+{
+  "name": "Kanaver",
+  "wookieepedia_title": "Kanaver",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kanaver",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kanaver was an Outer Rim Territories world located in the Tion Cluster's Tion Hegemony sector. By around 25,130 BBY, it was one of the leading worlds of the Livien League confederation, which later became a part of the empire of the Tionese conqueror Xim. Millennia later, Kanaver emerged from a long period of isolation and economic stagnation to become an active regional port.",
+  "lead_paragraphs": [
+    "Kanaver was an Outer Rim Territories world located in the Tion Cluster's Tion Hegemony sector. By around 25,130 BBY, it was one of the leading worlds of the Livien League confederation, which later became a part of the empire of the Tionese conqueror Xim. Millennia later, Kanaver emerged from a long period of isolation and economic stagnation to become an active regional port."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kanaver",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Tion Cluster",
+      "  Tion Hegemony"
+    ],
+    "system": "Kanaver system",
+    "coordinates": "S-5",
+    "routes": [
+      "Desevran Trace (c. 25,150 BBY–c. 25,130 BBY)",
+      "Perlemian Trade Route"
+    ],
+    "affiliation": [
+      "Livien League",
+      "Xim's empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kanaver",
+    "x": 10860.1,
+    "y": 6090.6,
+    "z": -450.0,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Polis Massa",
+  "wookieepedia_title": "Polis Massa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Polis_Massa/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Polis Massa was once an arid but habitable planet in the Subterrel sector of the Outer Rim Territories; and the homeworld of the little-known Eellayin species. Polis Massa was later struck by a mysterious cataclysm. This natural disaster destroyed the planet and formed a field of asteroids. The largest fragment of the planet remained known as Polis Massa and was colonized by the Kallidahin who dedicated their entire species to excavate the remains of the now-vanished Eellayin civilization.",
+  "lead_paragraphs": [
+    "Polis Massa was once an arid but habitable planet in the Subterrel sector of the Outer Rim Territories; and the homeworld of the little-known Eellayin species. Polis Massa was later struck by a mysterious cataclysm. This natural disaster destroyed the planet and formed a field of asteroids. The largest fragment of the planet remained known as Polis Massa and was colonized by the Kallidahin who dedicated their entire species to excavate the remains of the now-vanished Eellayin civilization."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Old Republic era",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Polis Massa",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Subterrel sector",
+    "system": "Polis Massa system",
+    "coordinates": "K-20",
+    "moons": "None",
+    "lengthday": "24 standard hours (modern)",
+    "lengthyear": "590 local days (modern)",
+    "class": [
+      "Terrestrial planet (historic)",
+      "Asteroid (modern)"
+    ],
+    "atmosphere": "Type IV (environment suit required) (modern)",
+    "climate": [
+      "Arid (historic)",
+      "None (modern)"
+    ],
+    "gravity": "0.56 standard (modern)",
+    "terrain": [
+      "Desert (historic)",
+      "Barren (modern)"
+    ],
+    "interest": [
+      "Polis Massa Rebel base",
+      "Wiyentaah crater"
+    ],
+    "species": "Eellayin (historic)",
+    "otherspecies": "Kallidahin (modern)",
+    "government": "Ruling council (modern)",
+    "population": [
+      "Less than 1 million: (25 ABY)",
+      "  99% Kallidahin",
+      "  1% other"
+    ],
+    "cities": [
+      "Wiyentaah",
+      "Polis Massa Research Base (capital)"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Water",
+      "Heavy machinery"
+    ],
+    "exports": "None",
+    "affiliation": "Archaeological Research Council"
+  },
+  "homeworld_of": [
+    {
+      "name": "Eellayin",
+      "directory": "Eellayin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Eellayin",
+      "directory": "Eellayin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Polis Massa",
+    "x": -465.4,
+    "y": -16097.4,
+    "z": 85.6,
+    "region": "Outer Rim",
+    "grid": "K-20"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Trandosha",
+  "wookieepedia_title": "Trandosha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trandosha",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Trandosha, also known simply as Dosh, was an arboreal planet located in the galaxy's Mid Rim and the homeworld of the Trandoshan species. It was orbited by Wasskah, a verdant moon, and was positioned in the same star system as Kashyyyk, the homeworld of the Trandoshans' fierce rivals, the Wookiees. The feared Trandoshan bounty hunter Bossk hailed from Trandosha.",
+  "lead_paragraphs": [
+    "Trandosha, also known simply as Dosh, was an arboreal planet located in the galaxy's Mid Rim and the homeworld of the Trandoshan species. It was orbited by Wasskah, a verdant moon, and was positioned in the same star system as Kashyyyk, the homeworld of the Trandoshans' fierce rivals, the Wookiees. The feared Trandoshan bounty hunter Bossk hailed from Trandosha."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Trandosha",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Mytaranor sector",
+    "system": "Kashyyyk system",
+    "coordinates": "P-9",
+    "suns": "1",
+    "moons": "Wasskah",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Jungles",
+      "Plains"
+    ],
+    "interest": "The Scorch",
+    "fauna": [
+      "Doshian jellyfish",
+      "Frist wolves",
+      "Trandoshan hunting hound"
+    ],
+    "species": "Trandoshans",
+    "demonym": [
+      "Doshian",
+      "Trandoshan"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Trandoshan",
+      "directory": "Trandoshan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Trandoshan",
+      "directory": "Trandoshan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Trandosha",
+    "x": 7105.4,
+    "y": 196.9,
+    "z": -81.1,
+    "region": "Mid Rim",
+    "grid": "P-9"
+  },
+  "scraped": "2026-07-03"
+}

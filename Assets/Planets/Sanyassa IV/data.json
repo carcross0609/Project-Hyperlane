@@ -1,0 +1,69 @@
+{
+  "name": "Sanyassa IV",
+  "wookieepedia_title": "Sanyassa IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sanyassa_IV",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sanyassa IV was a terrestrial planet located in the Outer Rim Territories' Moddell sector. A forested world, Sanyassa was home to the barbaric Sanyassan species, who were governed by a kleptocracy. The Sanyassans' technology was mostly on a feudal level until they discovered others with spaceflight technology, which they stole and used for themselves, attacking starships all over the Moddell sector.",
+  "lead_paragraphs": [
+    "Sanyassa IV was a terrestrial planet located in the Outer Rim Territories' Moddell sector. A forested world, Sanyassa was home to the barbaric Sanyassan species, who were governed by a kleptocracy. The Sanyassans' technology was mostly on a feudal level until they discovered others with spaceflight technology, which they stole and used for themselves, attacking starships all over the Moddell sector."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Sanyassa IV",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Zuma sector",
+      "  Inner Zuma Region",
+      "    Moddell sector"
+    ],
+    "system": [
+      "Outer Moddell systems",
+      "  Sanyassa system"
+    ],
+    "coordinates": "H-16",
+    "position": "4",
+    "routes": "Bakura Trace",
+    "lengthday": "24 standard hours",
+    "lengthyear": "389 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Rocky plains",
+      "Savanna"
+    ],
+    "species": "Sanyassan",
+    "language": "Sanyassan",
+    "government": [
+      "Clans",
+      "Kleptocracy"
+    ],
+    "population": "1 billion Sanyassans",
+    "imports": "None",
+    "exports": "None"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sanyassan",
+      "directory": "Sanyassan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sanyassa IV",
+    "x": -5193.2,
+    "y": -10285.7,
+    "z": -33.9,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

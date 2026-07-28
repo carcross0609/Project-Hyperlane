@@ -1,0 +1,90 @@
+{
+  "name": "Vaathkree",
+  "wookieepedia_title": "Vaathkree/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vaathkree/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vaathkree, also known as Vaath'kror, was a volcanic Outer Rim Territories planet located in the Tharin sector's Periphery region. It was the homeworld of the sentient Vaathkree species, members of which had skin covered in a layer of stone or metal and were avid, religious traders. The Vaathkree constructed vnals, sentient, partly organic domed cities, for housing off-world visitors to their homeworld.",
+  "lead_paragraphs": [
+    "Vaathkree, also known as Vaath'kror, was a volcanic Outer Rim Territories planet located in the Tharin sector's Periphery region. It was the homeworld of the sentient Vaathkree species, members of which had skin covered in a layer of stone or metal and were avid, religious traders. The Vaathkree constructed vnals, sentient, partly organic domed cities, for housing off-world visitors to their homeworld.",
+    "Although Vaathkree was historically situated in territory influenced by members of the Hutt species, by 17 BBY the Galactic Empire annexed Vaathkree and its surrounding Hutt Space area, although the Empire mostly ignored the planet. During their invasion of the galaxy, the Yuuzhan Vong conquered the Vaath'kror system."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Vaathkree",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice",
+      "Hutt Space (22 BBY)"
+    ],
+    "sector": [
+      "Tharin sector",
+      "  Periphery"
+    ],
+    "system": "Vaath'kror system",
+    "coordinates": "S-8",
+    "position": "3",
+    "lengthday": "54 standard hours",
+    "lengthyear": "197 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type IV (environment suit required)",
+    "climate": "Searing hot",
+    "gravity": "1.8 standard",
+    "terrain": [
+      "Crevasses",
+      "Lava flats",
+      "Volcanic mountain chains"
+    ],
+    "water": "Arid hydrosphere",
+    "interest": [
+      "Imperial-class spaceport",
+      "Vnals"
+    ],
+    "species": [
+      "Vaathkree",
+      "Vnal"
+    ],
+    "language": "Vaathkree trade language",
+    "government": "Vaathkree Council",
+    "population": "6 billion",
+    "imports": [
+      "Computers",
+      "Droids",
+      "Other high-level technology"
+    ],
+    "exports": [
+      "Mid-level technology",
+      "Raw materials"
+    ],
+    "affiliation": [
+      "Hutts",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Vaathkree",
+      "directory": "Vaathkree (species)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Vnal",
+      "directory": "Vnal",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vaathkree",
+    "x": 11560.5,
+    "y": 1717.0,
+    "z": -76.3,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

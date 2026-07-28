@@ -1,0 +1,42 @@
+{
+  "name": "Advozse",
+  "wookieepedia_title": "Advozse/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Advozse/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Advozsec (singular: Advozse) were a humanoid species, easily distinguished by the single horn on top of their hairless heads. Their home planet of Riflor was geologically unstable, with frequent volcanic eruptions: a condition which shaped their culture and their place in the galaxy.",
+  "data": {
+    "name": "Advozse",
+    "designation": "Sentient",
+    "class": "Reptomammal",
+    "height": "1.5 to 1.8 meters",
+    "skincolor": [
+      "Green",
+      "Muddy yellow",
+      "Ruddy brown"
+    ],
+    "haircolor": "None",
+    "eyecolor": [
+      "Black",
+      "Red"
+    ],
+    "distinctions": [
+      "Large black eyes",
+      "Single black horn",
+      "Pointed ears"
+    ],
+    "lifespan": [
+      "Child: 1-9 years",
+      "Young adult: 10-14 years",
+      "Adult: 15-33 years",
+      "Middle age: 34-42 years",
+      "Old: 43-54 years",
+      "Venerable: 55+ years"
+    ],
+    "origin": "Riflor",
+    "diet": "Vegetarian",
+    "language": "Advb"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Riflor (Legends)"
+}

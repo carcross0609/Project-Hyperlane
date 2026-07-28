@@ -1,0 +1,74 @@
+{
+  "name": "Durkteel",
+  "wookieepedia_title": "Durkteel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Durkteel",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Durkteel was an agricultural planet located in the galaxy's Mid Rim that was the homeworld of the reptilian Saurin species. Durkteel was also the homeworld of Mattis Banz, a Force-sensitive human who joined the Resistance. Lund Gourley and Lund Berlo were cities located on Durkteel.",
+  "lead_paragraphs": [
+    "Durkteel was an agricultural planet located in the galaxy's Mid Rim that was the homeworld of the reptilian Saurin species. Durkteel was also the homeworld of Mattis Banz, a Force-sensitive human who joined the Resistance. Lund Gourley and Lund Berlo were cities located on Durkteel."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Durkteel",
+    "region": [
+      "Mid Rim Territories",
+      "  Near Perlemian",
+      "The Slice"
+    ],
+    "sector": "Kastolar sector",
+    "system": "Durkteel system",
+    "coordinates": "Q-10",
+    "suns": "1",
+    "moons": "At least 2",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "interest": [
+      "Orphan farm",
+      "Phirmist temple",
+      "Tak-Beam complex"
+    ],
+    "flora": "Hemmel",
+    "fauna": "Tawd",
+    "species": "Saurin",
+    "otherspecies": [
+      "Cerean",
+      "Human",
+      "Skup",
+      "Snivvian"
+    ],
+    "government": "Planetary Governor",
+    "cities": [
+      "Lund Berlo",
+      "Lund Gourley"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "  Saurin resistance"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Saurin",
+      "directory": "Saurin",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Saurin",
+      "directory": "Saurin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Durkteel",
+    "x": 8689.8,
+    "y": -332.9,
+    "z": -150.4,
+    "region": "Mid Rim",
+    "grid": "Q-10"
+  },
+  "scraped": "2026-07-03"
+}

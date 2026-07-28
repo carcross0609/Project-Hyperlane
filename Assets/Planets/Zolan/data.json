@@ -1,0 +1,60 @@
+{
+  "name": "Zolan",
+  "wookieepedia_title": "Zolan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zolan",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Zolan was a planet located in the Zolan system in the Lambda sector of the Mid Rim Territories. It was the homeworld of the sentient reptilian Clawdite species, recognized throughout the galaxy for their innate shape-changing abilities.",
+  "lead_paragraphs": [
+    "Zolan was a planet located in the Zolan system in the Lambda sector of the Mid Rim Territories. It was the homeworld of the sentient reptilian Clawdite species, recognized throughout the galaxy for their innate shape-changing abilities."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Solar activity spike",
+    "  Later history"
+  ],
+  "data": {
+    "name": "Zolan",
+    "region": "Mid Rim Territories",
+    "sector": "Lambda sector",
+    "system": "Zolan system",
+    "coordinates": "P-16",
+    "suns": "1",
+    "climate": "Warm",
+    "terrain": [
+      "Wastelands",
+      "Mountains"
+    ],
+    "flora": "Trees",
+    "fauna": "Monzu",
+    "species": "Clawdite",
+    "language": "Galactic Basic Standard\nZolanese"
+  },
+  "homeworld_of": [
+    {
+      "name": "Clawdite",
+      "directory": "Clawdite",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Clawdite",
+      "directory": "Clawdite (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Zolander",
+      "directory": "Zolander",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zolan",
+    "x": 7065.6,
+    "y": -9417.2,
+    "z": -272.0,
+    "region": "Mid Rim",
+    "grid": "P-16"
+  },
+  "scraped": "2026-07-03"
+}

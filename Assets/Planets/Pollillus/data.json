@@ -1,0 +1,41 @@
+{
+  "name": "Pollillus",
+  "wookieepedia_title": "Pollillus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pollillus",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Pollillus was a planet in the galaxy that was the homeworld of the Troig species. The Troig podrace announcer Fodesinbeed Annodue hailed from Pollillus.",
+  "lead_paragraphs": [
+    "Pollillus was a planet in the galaxy that was the homeworld of the Troig species. The Troig podrace announcer Fodesinbeed Annodue hailed from Pollillus."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Pollillus",
+    "region": "Core Worlds",
+    "sector": "Vannell sector",
+    "system": "Pollillus system",
+    "coordinates": "J-10",
+    "species": "Troig"
+  },
+  "homeworld_of": [
+    {
+      "name": "Troig",
+      "directory": "Troig",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Troig",
+      "directory": "Troig (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Pollillus",
+    "x": -1520.0,
+    "y": -958.4,
+    "z": -100.3,
+    "region": "Core Worlds",
+    "grid": "J-10"
+  },
+  "scraped": "2026-07-03"
+}

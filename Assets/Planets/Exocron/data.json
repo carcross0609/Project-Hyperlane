@@ -1,0 +1,68 @@
+{
+  "name": "Exocron",
+  "wookieepedia_title": "Exocron",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Exocron",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Exocron was a planet in the Kathol Outback, hidden in a protostar gas cloud near the Kathol Rift in the Outer Rim Territories. It was settled by colonists who were opposed to the \"plastic societies\" of the Galactic Republic, and who were searching for a legendary planet called Exo. The colony grew in isolation from the rest of the galaxy, controlled by a technocracy known as the Devisors who forbade space travel. Their rule lasted until 8 ABY when the New Republic corvette FarStar assisted the local population in freeing themselves from the oppressive regime. At some point, the smuggler Jorj Car'das retired on the planet.",
+  "lead_paragraphs": [
+    "Exocron was a planet in the Kathol Outback, hidden in a protostar gas cloud near the Kathol Rift in the Outer Rim Territories. It was settled by colonists who were opposed to the \"plastic societies\" of the Galactic Republic, and who were searching for a legendary planet called Exo. The colony grew in isolation from the rest of the galaxy, controlled by a technocracy known as the Devisors who forbade space travel. Their rule lasted until 8 ABY when the New Republic corvette FarStar assisted the local population in freeing themselves from the oppressive regime. At some point, the smuggler Jorj Car'das retired on the planet.",
+    "Exocron again came to the attention of outside forces in 19 ABY during the Caamas Document Crisis. The smuggler Talon Karrde traveled to the planet in search of Jorj Car'das, and was followed by the pirate Rei'Kas. A battle was fought, and the planet was assisted by the mysterious Aing-Tii monks. The victory allowed Karrde to retrieve vital information that would eventually lead to peace between the New Republic and Imperial Remnant."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Colonization",
+    "  Early years",
+    "  Under the Devisors",
+    "  Arrival of the FarStar",
+    "  Later threats",
+    "  The Battle of Exocron",
+    "Government",
+    "Military forces"
+  ],
+  "data": {
+    "name": "Exocron",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Kathol sector",
+      "  Kathol Outback"
+    ],
+    "system": "Exocron system",
+    "coordinates": "M-21",
+    "lengthday": "26 standard hours",
+    "lengthyear": "388 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Oceans",
+      "Plains"
+    ],
+    "water": "Moist",
+    "interest": "Jorj Car'das's fortress",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": [
+      "Devisors",
+      "  Ruling council"
+    ],
+    "population": "20 million",
+    "cities": [
+      "Caballa City (capital)",
+      "Rintatta City"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Exocron",
+    "x": 7289.0,
+    "y": 4948.1,
+    "z": -80.5,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

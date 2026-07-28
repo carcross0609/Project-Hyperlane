@@ -1,0 +1,81 @@
+{
+  "name": "Myrkr",
+  "wookieepedia_title": "Myrkr",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Myrkr",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Myrkr was a forested world, located fairly close to the galaxy's major population centers in the outskirts of the Inner Rim Territories. It was close to the borders with the Expansion Region and relatively near to the planet of Wayland. It was believed to be the homeworld of the Neti species, although the Neti established a colony on Ryyk some time prior to 4000 BBY, apparently abandoning Myrkr.",
+  "lead_paragraphs": [
+    "Myrkr was a forested world, located fairly close to the galaxy's major population centers in the outskirts of the Inner Rim Territories. It was close to the borders with the Expansion Region and relatively near to the planet of Wayland. It was believed to be the homeworld of the Neti species, although the Neti established a colony on Ryyk some time prior to 4000 BBY, apparently abandoning Myrkr.",
+    "Since the planet attracted little attention, it was frequently visited by smugglers, fugitives and all kinds of other outlaws, which were known to build secret bases in the depths of Myrkr's forests."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Myrkr",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "system": "Myrkr system",
+    "coordinates": "N-7",
+    "suns": "Myrkr",
+    "lengthday": "24 hours",
+    "lengthyear": "324 local days",
+    "class": "Terrestrial",
+    "diameter": "9,560 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Plains",
+      "Low mountains"
+    ],
+    "interest": [
+      "Great Northern Forest",
+      "Hyllyard Hotel",
+      "Myrkr Base"
+    ],
+    "flora": [
+      "A tree",
+      "A plant",
+      "Olbio tree (transplanted)"
+    ],
+    "fauna": [
+      "Dwarf vornskr",
+      "Vornskr",
+      "Ysalamir"
+    ],
+    "species": "Neti (formerly)",
+    "otherspecies": "Human",
+    "language": [
+      "Galactic Basic Standard",
+      "Formerly: Neti"
+    ],
+    "government": "Independent communities",
+    "population": "100,000",
+    "cities": "Hyllyard City",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Pirates",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Myrkr",
+    "x": 4027.7,
+    "y": 3439.6,
+    "z": 65.0,
+    "region": "Inner Rim",
+    "grid": "N-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Kerkoidia",
+  "wookieepedia_title": "Kerkoidia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kerkoidia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kerkoidia was a blue-gray planet located in the Kerkoidia system in the Kira sector the Expansion Region, in grid square N-15 of the Standard Galactic Grid The Kerkoiden species was native to the world, and the Kerkoiden male Whorm Loathsom served for a long time in its planetary defense forces. Loathsom eventually earned the rank of general with the Confederacy of Independent Systems. In addition to Loathsom joining the Confederacy of Independent Systems, the Retail Caucus was headquarted on Kerkoida, which also operated a security force of Kerkoiden warriors. After the Battle of Endor, the New Republic managed to liberate Kerkoidia from the Galactic Empire.",
+  "lead_paragraphs": [
+    "Kerkoidia was a blue-gray planet located in the Kerkoidia system in the Kira sector the Expansion Region, in grid square N-15 of the Standard Galactic Grid The Kerkoiden species was native to the world, and the Kerkoiden male Whorm Loathsom served for a long time in its planetary defense forces. Loathsom eventually earned the rank of general with the Confederacy of Independent Systems. In addition to Loathsom joining the Confederacy of Independent Systems, the Retail Caucus was headquarted on Kerkoida, which also operated a security force of Kerkoiden warriors. After the Battle of Endor, the New Republic managed to liberate Kerkoidia from the Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kerkoidia",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Kerkoidia system",
+    "coordinates": "N-15",
+    "class": "Terrestrial",
+    "terrain": "Savannah",
+    "fauna": "Blue grass",
+    "species": "Kerkoiden",
+    "demonym": "Kerkoidian",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kerkoiden",
+      "directory": "Kerkoiden",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kerkoiden",
+      "directory": "Kerkoiden (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kerkoidia",
+    "x": 4264.6,
+    "y": -8911.3,
+    "z": 114.8,
+    "region": "Expansion Region",
+    "grid": "N-15"
+  },
+  "scraped": "2026-07-03"
+}

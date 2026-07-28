@@ -1,0 +1,24 @@
+{
+  "name": "Bovorian",
+  "wookieepedia_title": "Bovorian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bovorian",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Bovorians were a species of sapient mammals indigenous to Bovo Yagen.",
+  "data": {
+    "name": "Bovorian",
+    "designation": "Sentient",
+    "class": "Mammals",
+    "height": "1.8–2.3 meters",
+    "haircolor": "White",
+    "distinctions": [
+      "Able to see into the infrared spectrum",
+      "Increased sensitivity to respiratory ailments",
+      "Vestigial wings"
+    ],
+    "origin": "Bovo Yagen",
+    "language": "Bovorian language"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Bovo Yagen (planet)"
+}

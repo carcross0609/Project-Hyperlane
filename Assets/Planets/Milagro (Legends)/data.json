@@ -1,0 +1,50 @@
+{
+  "name": "Milagro",
+  "wookieepedia_title": "Milagro/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Milagro/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The planet Milagro lay at the confluence of two important hyperroutes, the Corellian Run and the Harrin Trade Corridor.",
+  "lead_paragraphs": [
+    "The planet Milagro lay at the confluence of two important hyperroutes, the Corellian Run and the Harrin Trade Corridor."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Milagro",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Chaykin sector",
+    "system": "Milagro system",
+    "coordinates": "O-14",
+    "routes": [
+      "Corellian Run",
+      "Harrin Trade Corridor"
+    ],
+    "atmosphere": "Thin",
+    "terrain": "Modern: Slag",
+    "interest": "Military Correction Facility 63",
+    "otherspecies": "Humans",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Milagro",
+    "x": 5403.0,
+    "y": -6763.7,
+    "z": -435.1,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

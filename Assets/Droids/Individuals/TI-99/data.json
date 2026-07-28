@@ -1,0 +1,25 @@
+{
+  "name": "TI-99",
+  "wookieepedia_title": "TI-99",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TI-99",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "TI-99 was a T-series military strategic analysis and tactics droid who served in the Confederacy of Independent Systems under Admiral Trench aboard the Providence-class Dreadnought Invincible during the Clone Wars. In 22 BBY, TI-99 assisted Trench in commanding the Separatist blockade over the planet Christophsis, but was later destroyed during the Galactic Republic's assault on the blockade.",
+  "data": {
+    "type": "CIS",
+    "name": "TI-99",
+    "death": "22 BBY, Invincible, above Christophsis",
+    "manufacturer": "Baktoid Combat Automata",
+    "model": "T-series military strategic analysis and tactics droid",
+    "class": "Tactical droid",
+    "height": "1.93 meters",
+    "sensor": "White",
+    "plating": "Tan, red and dark grey",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "  Christophsis blockade"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

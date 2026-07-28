@@ -1,0 +1,31 @@
+{
+  "name": "Chagrian",
+  "wookieepedia_title": "Chagrian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chagrian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Chagrians were an amphibious sentient species of tall and horned humanoids with blue skin that were native to the planet Champala. Chagrians were most notable for their blueish skin and thick, sensory tentacles that grew down on either side of their head, coming forward to rest at the top of the chest and inner shoulders, with a horn or spine-like appendage growing from each. The male Chagrians possessed two additional horn-like extremities above their heads.",
+  "data": {
+    "name": "Chagrian",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "skincolor": [
+      "Blue",
+      "Orange"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Orange"
+    ],
+    "distinctions": [
+      "Primary horns",
+      "Head tentacles with secondary horns",
+      "Black forked tongue"
+    ],
+    "origin": "Champala",
+    "habitat": "Ocean",
+    "language": "Chagri"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Champala"
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Malastare",
+  "wookieepedia_title": "Malastare/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Malastare/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Malastare was the high-gravity homeworld of the quadrupedal Dug race, on the Hydian Way.",
+  "lead_paragraphs": [
+    "Malastare was the high-gravity homeworld of the quadrupedal Dug race, on the Hydian Way."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Gran settlement",
+    "  The fall of the Republic",
+    "  The Clone Wars",
+    "  Under the Empire",
+    "  The Galactic Civil War and after",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Malastare",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Dustig sector",
+    "system": "Malastare system",
+    "coordinates": "N-16",
+    "suns": "1: Striar",
+    "position": "3",
+    "moons": "2",
+    "routes": [
+      "Dustig Trace",
+      "Hydian Way",
+      "  Seswenna Expansion"
+    ],
+    "lengthday": "26 standard hours",
+    "lengthyear": "201 local days",
+    "class": "Terrestrial",
+    "diameter": "18,880 km",
+    "atmosphere": "Oxygen mix, Type I (breathable)",
+    "climate": [
+      "Arid",
+      "Temperate",
+      "Tropical"
+    ],
+    "gravity": "1.56 standard",
+    "terrain": [
+      "Deserts",
+      "Jungles",
+      "Methane lakes"
+    ],
+    "interest": [
+      "Doge's Palace",
+      "Malastare Narrows",
+      "Port Pixelito"
+    ],
+    "fauna": [
+      "Insectomorph",
+      "Mantabog",
+      "Zillo Beast"
+    ],
+    "species": "Dug",
+    "otherspecies": [
+      "Gran",
+      "Human"
+    ],
+    "language": [
+      "Dug",
+      "Gran",
+      "Galactic Basic Standard"
+    ],
+    "government": [
+      "Gran Protectorate",
+      "Malastarian council"
+    ],
+    "population": [
+      "2 billion:",
+      "  51% Gran",
+      "  44% Dug",
+      "  4% Human",
+      "  1% other species"
+    ],
+    "demonym": "Malastarian",
+    "cities": "Pixelito (capital)",
+    "imports": "Technology",
+    "exports": [
+      "Malastarian fuel",
+      "Repulsorlift vehicles",
+      "Shipping licenses"
+    ],
+    "affiliation": [
+      "Infinite Empire",
+      "Malastarian council",
+      "Gran Protectorate",
+      "Galactic Republic",
+      "Trade Federation",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Dug",
+      "directory": "Dug",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Dug",
+      "directory": "Dug (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Gran",
+      "directory": "Gran",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Malastare",
+    "x": 3124.9,
+    "y": -10253.5,
+    "z": -18.2,
+    "region": "Mid Rim",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "IG-86 sentinel droid",
+  "wookieepedia_title": "IG-86 sentinel droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/IG-86_sentinel_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The IG-86 sentinel droid, also known as the IG-86 assassin droid or IG-86 sentry droid, was a model of assassin droid manufactured by Holowan Mechanicals.",
+  "data": {
+    "name": "IG-86 sentinel droid",
+    "manufacturer": "Holowan Mechanicals",
+    "line": "IG-series",
+    "class": [
+      "Assassin droid",
+      "Sentry droid"
+    ],
+    "height": "1.96 meters",
+    "sensor": "Red",
+    "plating": "Gray, red",
+    "armament": [
+      "Flashlight",
+      "Laser reflex sight"
+    ],
+    "equipment": [
+      "E-5 blaster rifle",
+      "Long-barreled blaster rifle"
+    ],
+    "affiliation": [
+      "InterGalactic Banking Clan",
+      "  IG-series battle droid army",
+      "Hutt Clan",
+      "  Ziro the Hutt's criminal organization",
+      "Confederacy of Independent Systems",
+      "  Separatist Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

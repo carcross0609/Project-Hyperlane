@@ -1,0 +1,89 @@
+{
+  "name": "Kathol",
+  "wookieepedia_title": "Kathol (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kathol_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kathol was a planet in the Kathol system, which gave its name to Kathol sector.",
+  "lead_paragraphs": [
+    "Kathol was a planet in the Kathol system, which gave its name to Kathol sector."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kathol",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Kathol sector",
+      "  Kathol Rift"
+    ],
+    "system": "Kathol system",
+    "coordinates": "M-21",
+    "species": [
+      "Kathol",
+      "Fiery Ones"
+    ],
+    "otherspecies": [
+      "Charr Ontee",
+      "Krakai",
+      "Maoi",
+      "Segmi",
+      "Ssamb",
+      "Yapi",
+      "Yimi",
+      "Zizimaak",
+      "DarkStryder"
+    ],
+    "affiliation": [
+      "Kathol Republic",
+      "Dark Jedi"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Charr Ontee",
+      "directory": "Charr Ontee",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Fiery One",
+      "directory": "Fiery One",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kathol",
+      "directory": "Kathol (species)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Krakai",
+      "directory": "Krakai",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Maoi",
+      "directory": "Maoi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Yimi",
+      "directory": "Yimi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Zizimaak",
+      "directory": "Zizimaak",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kathol",
+    "x": 2081.9,
+    "y": -17496.9,
+    "z": 292.9,
+    "region": "Outer Rim",
+    "grid": "M-21"
+  },
+  "scraped": "2026-07-03"
+}

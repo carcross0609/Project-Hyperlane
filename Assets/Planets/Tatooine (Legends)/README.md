@@ -1,0 +1,210 @@
+# Tatooine
+
+**Continuity:** Legends  
+**Source:** [Tatooine/Legends](https://starwars.fandom.com/wiki/Tatooine/Legends)
+**Galaxy atlas:** system `Tatooine`, Outer Rim, grid R-16 — map position (9665.8, -10099.1, 238.6)
+
+Tatooine (pronounced /tætu'in/; Jawaese: Tah doo Een e) was a desert world and the first planet in the binary Tatoo star system. It was part of the Arkanis sector in the Outer Rim Territories. It was inhabited by poor locals who mostly farmed moisture for a living. Other activities included used equipment retailing and scrap dealing. The planet was on the 5709-DC Shipping Lane, a spur of the Triellus Trade Route, which itself connected to the Sisar Run. The planet was not far from the Corellian Run. It had its own navigation system. The planet acquired a bad reputation, often being viewed as the cesspool of the galaxy due to the large number of criminals who could be found there. However, it would nevertheless play a role in major galactic events throughout the millennia, most notably being the homeworld of Anakin Skywalker. It was here that Jedi Master Qui-Gon Jinn recognized Anakin's potential to become a Jedi and where he introduced him to Obi-Wan Kenobi, his future master and mentor. Tatooine was also the home of Anakin's son, Luke, where he lived until his early adulthood.
+
+## Planetary data
+
+- **Name:** Tatooine
+- **Region:**
+  - Outer Rim Territories
+  - The Slice
+- **Sector:** Arkanis sector
+- **System:** Tatoo system
+- **Coordinates:** R-16
+- **Distance:** 43,000 light-years
+- **Suns:**
+  - 2:
+  - Tatoo I
+  - Tatoo II
+- **Position:** 1
+- **Moons:**
+  - 3:
+  - Ghomrassen
+  - Guermessa
+  - Chenini
+- **Routes:**
+  - 5709-DC Shipping Lane
+  - Corellian Skip Run
+  - The Crystal Passage
+  - Old Corellian Run
+  - Rycar's Run
+  - Tatooine Dash
+  - Triellus Trade Route
+- **Lengthday:** 23 standard hours
+- **Lengthyear:** 304 local days
+- **Class:** Terrestrial
+- **Diameter:** 10,465 kilometers
+- **Atmosphere:** Type I (breathable)
+- **Climate:** Hot and arid
+- **Gravity:** Standard
+- **Terrain:**
+  - Desert
+  - Mesas
+  - Canyons
+- **Water:** 1%
+- **Interest:**
+  - Mos Espa Grand Arena
+  - Beggar's Canyon
+  - Imperial Station Bravo
+  - Jabba's Palace
+  - Teemo the Hutt's palace
+  - Mos Eisley Cantina
+  - Dune Sea
+  - Lars homestead
+  - Great Pit of Carkoon
+  - Jundland Wastes
+  - Sunfire Outpost
+  - Hubba Heights
+  - Palace of Gorga the Hutt
+  - Mochot Steep
+- **Flora:**
+  - Cacta bush
+  - Desert plum
+  - Desert sage
+  - Funnel flower
+  - Hubba gourd
+  - Japor tree
+  - Manak
+  - Molo seed
+  - Molo shrub
+  - Pocky Grub
+  - Poonten grass
+  - Razor moss
+  - Tatooine tree
+  - Vaporator mushroom
+- **Fauna:**
+  - Anooba
+  - Bantha
+  - Dewback
+  - Eopie
+  - Gorg
+  - Jakrab
+  - Jerba
+  - Krayt dragon
+  - Kreetle
+  - Massiff
+  - Profogg
+  - Reek
+  - Rock wart
+  - Ronto
+  - Sand skitter
+  - Sarlacc
+  - Scurrier
+  - Sketto
+  - Womp rat
+  - Woodoo
+  - Worrt
+  - Wraid
+- **Species:**
+  - Tusken Raider
+  - Kumumgah
+  - Jawas
+  - Mongo Beefhead
+  - Cliffborer worm (intelligent descendants)
+- **Language:**
+  - Bocce
+  - Galactic Basic Standard
+  - Huttese
+  - Jawaese
+  - Tusken
+  - Historic:
+  -   Kumumgah language
+  -   Rakata
+- **Government:** Local councils
+- **Population:**
+  - 80,000–200,000:
+  -   70% Humans
+  -   5% Tusken Raiders
+  -   5% Jawas
+  -   20% other
+  - 5,000–10,000 settlers (Historic)
+  -   Unknown indigenous population
+- **Cities:**
+  - Bestine (capital)
+  - Anchorhead
+  - Arnthout
+  - Fort Tusken
+  - Mos Eisley
+  - Mos Entha
+  - Mos Espa
+  - Mos Gamos
+  - Mos Ila
+  - Mos Shuuta
+  - Mos Nytram
+  - Mos Osnoe
+  - Mos Taike
+  - Mos Zabu
+  - Motesta
+  - Wayfar
+- **Imports:**
+  - Metals
+  - Foodstuffs
+  - Ice
+  - Chemicals
+  - Medicine
+  - Technology
+  - Historic:
+  - Bando Gora slaves
+  - Death sticks
+  - Mining and light industrial equipment
+- **Exports:**
+  - Minerals
+  -   Processed sand
+  - Sand art
+  - Illegal goods
+  -   Death sticks (formerly)
+  -   Bando Gora neurotoxins
+  - Historic:
+  - Bando Gora slaves
+- **Affiliation:**
+  - Infinite Empire
+  - Czerka Corporation
+  - Hutt Cartel
+  -   Besadii kajidic
+  -     Gardulla the Elder's criminal empire
+  -   Desilijic kajidic
+  -     Jabba Desilijic Tiure's criminal empire
+  -   Faljozic kajidic
+  -   Jahibakti kajidic
+  -   Nasirii kajidic
+  - Galactic Empire
+  - Hutt Empire
+  - Darth Krayt's Galactic Empire
+
+## Homeworld of
+
+- [Cliffborer worm (Legends)](../../Species/Cliffborer%20worm/README.md)
+- [Garbage rat (Legends)](../../Species/Garbage%20rat/README.md)
+- [Geonosian (Legends)](../../Species/Geonosian%20%28Legends%29/README.md)
+- [Jawa (Canon)](../../Species/Jawa/README.md)
+- [Jawa (Legends)](../../Species/Jawa%20%28Legends%29/README.md)
+- [Kumumgah (Legends)](../../Species/Kumumgah%20%28Legends%29/README.md)
+- [Mole creature (Legends)](../../Species/Mole%20creature/README.md)
+- [Mongo Beefhead (Legends)](../../Species/Mongo%20Beefhead/README.md)
+- [Tusken Raider (Canon)](../../Species/Tusken%20Raider/README.md)
+- [Tusken Raider (Legends)](../../Species/Tusken%20Raider%20%28Legends%29/README.md)
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+-   Geology
+-   Climate
+- History
+-   Infinite Empire
+-   Old Republic
+-     Early years
+-     Lost and found again
+-     Rise of the Empire
+-   Galactic Empire
+-   New Republic
+-   New Galactic Empire
+- Inhabitants
+-   Non-canon sources
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

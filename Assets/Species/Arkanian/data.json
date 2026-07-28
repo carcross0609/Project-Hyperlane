@@ -1,0 +1,27 @@
+{
+  "name": "Arkanian",
+  "wookieepedia_title": "Arkanian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arkanian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Arkanians were a near-human sentient species native to the planet Arkania, characterized by the skin tone ranging from tan to pale, typically white hair and pale white eyes. Urma Athantras, Reeshee Irway, Jedi Master Theca and Jedi Initiate Cippa Tarko were members of the species.",
+  "data": {
+    "name": "Arkanian",
+    "designation": "Sentient",
+    "class": "Mammal",
+    "subspecies": "Arkanian Offshoot",
+    "skincolor": "From tan to pale",
+    "haircolor": "White",
+    "eyecolor": "White",
+    "distinctions": [
+      "Pupiless eyes, 3 fingers and a thumb",
+      "Claw-like nails",
+      "Able to see into the infrared spectrum"
+    ],
+    "lifespan": "At least a century",
+    "origin": "Arkania",
+    "language": "Arkanian"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Arkania"
+}

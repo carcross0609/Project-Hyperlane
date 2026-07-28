@@ -1,0 +1,51 @@
+{
+  "name": "Batonn",
+  "wookieepedia_title": "Batonn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Batonn",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Batonn was a planet located in the Batonn sector of the galaxy's Outer Rim Territories. During the reign of the Galactic Empire, Admiral Thrawn was victorious in the Batonn insurgency, which led to the Emperor promoting him to Grand Admiral.",
+  "lead_paragraphs": [
+    "Batonn was a planet located in the Batonn sector of the galaxy's Outer Rim Territories. During the reign of the Galactic Empire, Admiral Thrawn was victorious in the Batonn insurgency, which led to the Emperor promoting him to Grand Admiral."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Batonn",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Ash Worlds",
+      "  Batonn sector"
+    ],
+    "system": "Batonn system",
+    "coordinates": "T-7",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": "Deserts",
+    "interest": [
+      "Creekpath Mining and Refining complex",
+      "Scrim Island",
+      "  Scrim Island Imperial garrison"
+    ],
+    "government": "Imperial governorship",
+    "demonym": "Batonnese",
+    "cities": "Paeragosto City",
+    "exports": "Doonium",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Batonn",
+    "x": 7175.6,
+    "y": -12443.7,
+    "z": -131.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

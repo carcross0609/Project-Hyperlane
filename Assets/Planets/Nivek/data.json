@@ -1,0 +1,44 @@
+{
+  "name": "Nivek",
+  "wookieepedia_title": "Nivek",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nivek",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nivek, also know as Night Planet, was a planet in the Expansion Region, known as a \"night planet\" due to the perpetual darkness which shrouded its surface.",
+  "lead_paragraphs": [
+    "Nivek, also know as Night Planet, was a planet in the Expansion Region, known as a \"night planet\" due to the perpetual darkness which shrouded its surface.",
+    "Nivek was inhabited by the nefarious Shadowmen, who were sympathetic towards the Separatist cause during the Clone Wars. Approximately five months after the First Battle of Geonosis, Jedi Knight Obi-Wan Kenobi and his Padawan Anakin Skywalker were sent on a mission to Nivek, and were nearly defeated by the fierce, well-equipped natives. However, they were able to locate and destroy a Separatist factory on the planet, and escaped with their lives."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nivek",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Citlik sector",
+    "system": "Nivek system",
+    "coordinates": "O-14",
+    "class": "Terrestrial",
+    "terrain": "Rocky",
+    "interest": "Tar lake",
+    "species": "Shadowmen",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shadowman",
+      "directory": "Shadowman",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nivek",
+    "x": 5237.8,
+    "y": -7294.2,
+    "z": 8.3,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Shili",
+  "wookieepedia_title": "Shili",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shili",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Shili was a planet located in the Shili system within the Expansion Region, that was the homeworld of the sentient Togruta species.",
+  "lead_paragraphs": [
+    "Shili was a planet located in the Shili system within the Expansion Region, that was the homeworld of the sentient Togruta species."
+  ],
+  "article_sections": [
+    "Description",
+    "Culture",
+    "History"
+  ],
+  "data": {
+    "name": "Shili",
+    "region": [
+      "Expansion Region",
+      "Togruta space"
+    ],
+    "sector": "Ehosiq sector",
+    "system": "Shili system",
+    "coordinates": "L-8",
+    "suns": "Shili's sun",
+    "moons": "Several",
+    "terrain": "Colorful grasslands",
+    "interest": "Ahsoka Tano's village",
+    "flora": [
+      "Grass",
+      "Pine trees"
+    ],
+    "fauna": [
+      "Kybuck",
+      "Raxshir"
+    ],
+    "species": "Togruta",
+    "language": "Togruti",
+    "government": "Monarchy"
+  },
+  "homeworld_of": [
+    {
+      "name": "Togruta",
+      "directory": "Togruta",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Togruta",
+      "directory": "Togruta (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Shili",
+    "x": 1054.1,
+    "y": 2844.7,
+    "z": -19.8,
+    "region": "Expansion Region",
+    "grid": "L-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "KP-1",
+  "wookieepedia_title": "KP-1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/KP-1",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "KP-1 was a masculine K-series astromech droid associated with the Hidden Path. In 9 BBY, the droid was found on the planet Jabiim.",
+  "data": {
+    "type": "Rebel",
+    "name": "KP-1",
+    "line": "K-series",
+    "class": "Astromech droid",
+    "length": "50 centimeters (19.685 in)",
+    "width": "50 centimeters (19.685 in)",
+    "height": "80 centimeters (31.496 in)",
+    "pronouns": "He/him",
+    "sensor": "Black",
+    "plating": "White and green",
+    "equipment": [
+      "Retractable tool arms on the spokes of the wheel (Customizable)",
+      "Holographic projector",
+      "Hyperscan",
+      "Lighting device",
+      "Motion ball"
+    ],
+    "affiliation": "Hidden Path"
+  },
+  "scraped": "2026-07-03"
+}

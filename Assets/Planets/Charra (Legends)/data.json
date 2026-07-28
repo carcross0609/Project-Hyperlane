@@ -1,0 +1,35 @@
+{
+  "name": "Charra",
+  "wookieepedia_title": "Charra/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Charra/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Charra was a planet in the Expansion Region that produced caf.",
+  "lead_paragraphs": [
+    "Charra was a planet in the Expansion Region that produced caf."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Charra",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Charra sector",
+    "system": "Charra system",
+    "coordinates": "P-14",
+    "routes": "Gamor Run",
+    "exports": "Caf",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Charra",
+    "x": 6111.4,
+    "y": -6134.7,
+    "z": 132.0,
+    "region": "Expansion Region",
+    "grid": "P-14"
+  },
+  "scraped": "2026-07-03"
+}

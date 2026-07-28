@@ -1,0 +1,32 @@
+{
+  "name": "Yoda's lightsaber",
+  "wookieepedia_title": "Yoda's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yoda%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Yoda's lightsaber was one of the personal lightsabers of Yoda, the last Grand Master of the Jedi High Council. In keeping with its owner's small stature, the green-bladed weapon had a shorter hilt and shorter blade, making it a shoto.",
+  "data": {
+    "name": "Yoda's lightsaber",
+    "model": "Shoto lightsaber",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "creator": "Yoda",
+    "destroyed": "19 BBY, Coruscant",
+    "owners": "Yoda",
+    "hilt_shape": "Straight, cylindrical",
+    "hilt_length": "15 centimeters (5.90\")",
+    "hilt_material": "Alloy metal",
+    "crystal": "Kyber crystal",
+    "color": "Green",
+    "blade_length": "Short",
+    "weight": "0.6 kilograms (1.3 lbs)",
+    "protection": "Emitter shroud",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

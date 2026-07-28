@@ -1,0 +1,22 @@
+{
+  "name": "Cudgel (weapon)",
+  "wookieepedia_title": "Cudgel (weapon)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cudgel_%28weapon%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A cudgel was a blunt weapon. The Anointed People of Abonshee wielded cudgels, as did the Talz of Orto Plutonia.",
+  "data": {
+    "name": "Cudgel",
+    "type": "Melee weapon",
+    "culture": [
+      "Anointed People",
+      "Talz"
+    ],
+    "locations": [
+      "Abonshee",
+      "Orto Plutonia"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

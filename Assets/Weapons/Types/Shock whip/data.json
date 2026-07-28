@@ -1,0 +1,35 @@
+{
+  "name": "Shock whip",
+  "wookieepedia_title": "Shock whip",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shock_whip",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A shock whip, also known as an electrowhip, stun whip, or laser whip, was an electrical melee weapon used for its speed and cruelty. It was similar in appearance and purpose to a neuronic whip, or the lightwhip favored by Force-sensitives.",
+  "data": {
+    "name": "Shock whip",
+    "type": "Melee weapon",
+    "locations": [
+      "Battle of Borosk",
+      "Zygerria"
+    ],
+    "cost": "1,200 credits",
+    "shape": "Whip-like",
+    "size": "Hand-held",
+    "material": "Metal",
+    "weight": "2.3 kg",
+    "range": "4 meters",
+    "purpose": [
+      "Combat",
+      "Torture"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Mistryl Shadow Guard",
+      "Zygerrian Slave Empire",
+      "One Sith",
+      "Koong Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

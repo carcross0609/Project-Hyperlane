@@ -1,0 +1,36 @@
+{
+  "name": "Uru",
+  "wookieepedia_title": "Uru",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Uru",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Uru was a planet located within the Uru system of the Outer Rim Territories, and was the homeworld of the sentient Oni species.",
+  "lead_paragraphs": [
+    "Uru was a planet located within the Uru system of the Outer Rim Territories, and was the homeworld of the sentient Oni species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Uru",
+    "region": "Outer Rim Territories",
+    "sector": "Atravis sector",
+    "system": "Uru system",
+    "coordinates": "L-19",
+    "species": "Oni"
+  },
+  "homeworld_of": [
+    {
+      "name": "Oni",
+      "directory": "Oni",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Uru",
+    "x": 1248.0,
+    "y": -13731.3,
+    "z": -26.6,
+    "region": "Outer Rim",
+    "grid": "L-19"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Projectile launcher",
+  "wookieepedia_title": "Projectile launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Projectile_launcher",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A projectile launcher was a device equipped by starships to fire solid projectiles or other small devices like homing beacons. Slave I employed concealed projectile launchers, as did the TIE Advanced v1. Luthen Rael's Fondor Haulcraft mounted concealed twin 44-tube racks of ballistic chaff launchers which could fire explosive darts.",
+  "data": {
+    "name": "Projectile launcher",
+    "type": "Launcher",
+    "owners": [
+      "Axis network",
+      "  Luthen Rael",
+      "Galactic Empire",
+      "  Darth Vader",
+      "  Inquisitorius",
+      "  Imperial Starfighter Corps",
+      "Boba Fett"
+    ],
+    "range": "Close",
+    "purpose": "Launching projectiles against enemies",
+    "affiliation": [
+      "Axis network",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

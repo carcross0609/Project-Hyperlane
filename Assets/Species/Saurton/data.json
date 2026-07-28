@@ -1,0 +1,22 @@
+{
+  "name": "Saurton",
+  "wookieepedia_title": "Saurton",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Saurton",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Saurtons were a sentient species of reptiles indigenous to the planet Essowyn.",
+  "data": {
+    "name": "Saurton",
+    "class": "Reptile",
+    "height": "1.75–1.9 meters",
+    "skincolor": "Golden",
+    "distinctions": [
+      "Three clawed digits",
+      "Large snouts",
+      "Sharp teeth"
+    ],
+    "origin": "Essowyn"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Essowyn"
+}

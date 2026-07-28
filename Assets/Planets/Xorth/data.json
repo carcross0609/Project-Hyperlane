@@ -1,0 +1,44 @@
+{
+  "name": "Xorth",
+  "wookieepedia_title": "Xorth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xorth",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Xorth was a agriworld located within the Xorth system of the Core Worlds.",
+  "lead_paragraphs": [
+    "Xorth was a agriworld located within the Xorth system of the Core Worlds."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Xorth",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "system": "Xorth system",
+    "coordinates": "L-10",
+    "routes": [
+      "Corellian Run",
+      "Agricultural Circuit"
+    ],
+    "class": "Terrestrial",
+    "exports": "Foodstuffs",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Xorth",
+    "x": 1237.6,
+    "y": -425.4,
+    "z": -121.7,
+    "region": "Core Worlds",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

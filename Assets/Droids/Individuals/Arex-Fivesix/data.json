@@ -1,0 +1,24 @@
+{
+  "name": "Arex-Fivesix",
+  "wookieepedia_title": "Arex-Fivesix",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arex-Fivesix",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Arex-Fivesix was an RX-series pilot droid that served as a camera droid for HoloNet News during the Republic Era, working at a HoloNet News relay substation on Ord Mantell. Around 33 BBY, when the bounty hunters Jango Fett and Aurra Sing visited the substation while investigating the truth behind the theft of the Hope of Glee Anselm relic, Fett requested a camera droid, and Arex-Fivesix was dispatched to accompany the bounty hunters to the Regional Republic Headquarters on Jaloria. Once the pair fought a number of other hunters led by Vigor Struk, Fett took Arex-Fivesix to Governor Tok, where the droid played a hologram of one of the statue's thieves, Nakano Lash, revealing she was recruited by Ambassador Fiarok. After Fiarok's arrest, Arex-Fivesix reported on the incident's aftermath for HoloNet News.",
+  "data": {
+    "name": "Arex-Fivesix",
+    "model": "RX-series pilot droid",
+    "class": [
+      "Camera droid",
+      "Pilot droid"
+    ],
+    "sensor": "Yellow",
+    "plating": [
+      "Gray",
+      "Red"
+    ],
+    "affiliation": "HoloNet News"
+  },
+  "scraped": "2026-07-03"
+}

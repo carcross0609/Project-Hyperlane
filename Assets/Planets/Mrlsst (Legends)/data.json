@@ -1,0 +1,93 @@
+{
+  "name": "Mrlsst",
+  "wookieepedia_title": "Mrlsst/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mrlsst/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mrlsst was a planet located in the Tapani sector's Freeworlds Territory on the Shapani Bypass. It was the homeworld of the Mrlssi and a voting member of the League of Tapani Freeworlds.",
+  "lead_paragraphs": [
+    "Mrlsst was a planet located in the Tapani sector's Freeworlds Territory on the Shapani Bypass. It was the homeworld of the Mrlssi and a voting member of the League of Tapani Freeworlds."
+  ],
+  "article_sections": [
+    "Characteristics",
+    "History"
+  ],
+  "data": {
+    "name": "Mrlsst",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "sector": "Freeworlds Territory; Tapani sector;",
+    "system": "Mennaalii system",
+    "coordinates": "L-13",
+    "routes": "Shapani Bypass",
+    "lengthday": "22 standard days",
+    "lengthyear": "356 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Temperate",
+      "Moist"
+    ],
+    "gravity": "Light (0.9 of standard)",
+    "terrain": [
+      "Greenstalk forests",
+      "Mountains"
+    ],
+    "interest": [
+      "Mrlsst Spaceport",
+      "Artists' High Commune",
+      "Mrlsst Trade and Science Academy",
+      "The Soundmound",
+      "Central Academic Hospital",
+      "Falken's Lab",
+      "JAN Camp",
+      "Mrlsst Center for Linguistic Studies"
+    ],
+    "fauna": [
+      "Mynkin",
+      "Wuorl"
+    ],
+    "species": "Mrlssi",
+    "otherspecies": "Humans; various other species",
+    "language": "Tsi",
+    "government": "Representative democracy",
+    "population": [
+      "5.3 billion Mrlssi",
+      "3 billion Humans",
+      "2 billion students of other species"
+    ],
+    "cities": [
+      "Mennaa",
+      "Mrkeesh"
+    ],
+    "imports": "None",
+    "exports": [
+      "High tech research and development",
+      "MVD-1 Areoflitters",
+      "Foodstuffs"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "League of Tapani Freeworlds",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mrlssi",
+      "directory": "Mrlssi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mrlsst",
+    "x": 435.6,
+    "y": -5652.8,
+    "z": -144.1,
+    "region": "Colonies",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

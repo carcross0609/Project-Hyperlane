@@ -1,0 +1,47 @@
+{
+  "name": "Rentalles",
+  "wookieepedia_title": "Rentalles/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rentalles/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rentalles was a planet located in the D'Astan sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Rentalles was a planet located in the D'Astan sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Rentalles",
+    "region": "Outer Rim Territories",
+    "sector": "D'Astan sector",
+    "system": "Rentalles system",
+    "coordinates": "O-4",
+    "class": "Terrestrial",
+    "terrain": [
+      "Caves",
+      "Forest",
+      "Hillocks",
+      "Rocky foothills",
+      "Woods"
+    ],
+    "interest": [
+      "Alliance listening post",
+      "Imperial supply depot and garrison"
+    ],
+    "fauna": "Rentallian cairnhound",
+    "demonym": "Rentallian",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Rentalles",
+    "x": 5557.4,
+    "y": 8699.0,
+    "z": -6.7,
+    "region": "Outer Rim",
+    "grid": "O-4"
+  },
+  "scraped": "2026-07-03"
+}

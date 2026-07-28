@@ -1,0 +1,41 @@
+{
+  "name": "Archae Teuthis",
+  "wookieepedia_title": "Archae Teuthis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Archae_Teuthis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Archae Teuthis was the Sulituan homeworld. It was covered in deep oceans and the Sulituans lived in large float-cities built of phrnnoc, a type of coral.",
+  "lead_paragraphs": [
+    "Archae Teuthis was the Sulituan homeworld. It was covered in deep oceans and the Sulituans lived in large float-cities built of phrnnoc, a type of coral."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Archae Teuthis",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Brevost sector",
+    "system": "Archae Teuthis system",
+    "coordinates": "O-14",
+    "class": "Terrestrial",
+    "terrain": "Oceans",
+    "species": "Sulituans"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sulituan",
+      "directory": "Sulituan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Archae Teuthis",
+    "x": 5168.7,
+    "y": -7016.1,
+    "z": -109.9,
+    "region": "Other",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

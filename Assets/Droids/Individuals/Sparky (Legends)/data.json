@@ -1,0 +1,28 @@
+{
+  "name": "Sparky",
+  "wookieepedia_title": "Sparky/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sparky/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "\"Sparky\" was the nickname given to a BX-series droid commando captain by clone trooper Hevy who led a team of other BX-series droid commandos in the battle of the Rishi moon. Unlike his other commandos, Sparky carried a vibrosword and bore a white symbol on his forehead.",
+  "data": {
+    "type": "CIS",
+    "name": "\"Sparky\"",
+    "death": "22 BBY, Rishi moon",
+    "manufacturer": "Baktoid Combat Automata",
+    "line": "B-series battle droid",
+    "model": "BX-series droid commando",
+    "class": "Battle droid",
+    "gender": "Masculine programming",
+    "pronouns": "new",
+    "sensor": "White",
+    "armament": [
+      "E-5 blaster rifle",
+      "Thermal detonator",
+      "Vibrosword"
+    ],
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "scraped": "2026-07-03"
+}

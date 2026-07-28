@@ -1,0 +1,24 @@
+{
+  "name": "Stormtrooper lightsaber",
+  "wookieepedia_title": "Stormtrooper lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Stormtrooper_lightsaber",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Stormtrooper lightsabers were lightsabers created by the Galactic Empire and used exclusively by six prototype stormtroopers cloned from the DNA of the late Emperor's Hand Sa Cuis. They were red-bladed and, unlike other sabers, had a predominantly white hilt which matched their armor.",
+  "data": {
+    "name": "Stormtrooper lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-blade",
+    "culture": "Galactic Empire",
+    "owners": "Cuis clones",
+    "hilt_shape": "Cylinder, straight",
+    "color": "Red",
+    "design": "White, cylindrical hilt",
+    "affiliation": [
+      "Galactic Empire",
+      "  Stormtrooper Corps"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Rena",
+  "wookieepedia_title": "Rena (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rena_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rena was a planet home to the predatory Renan bloodwolves and known for its wine. Imperial Governor Wilek Nereus once visited Rena during his career collecting dental specimens.",
+  "lead_paragraphs": [
+    "Rena was a planet home to the predatory Renan bloodwolves and known for its wine. Imperial Governor Wilek Nereus once visited Rena during his career collecting dental specimens."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rena",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "system": "Rena system",
+    "coordinates": "K-13",
+    "interest": "Accursed Kings mountain range",
+    "fauna": [
+      "Renan bloodwolf",
+      "Hordzat",
+      "Bantha"
+    ],
+    "species": "Pipunt",
+    "exports": "Renan wine"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pipunt",
+      "directory": "Pipunt",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rena",
+    "x": -299.6,
+    "y": -5721.7,
+    "z": 22.2,
+    "region": "Colonies",
+    "grid": "K-13"
+  },
+  "scraped": "2026-07-03"
+}

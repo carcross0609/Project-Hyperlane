@@ -1,0 +1,83 @@
+{
+  "name": "Lan Barell",
+  "wookieepedia_title": "Lan Barell/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lan_Barell/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lan Barell was a dusty, dry neutral backwater planet located on the Outer Rim of the galaxy near Breshkall. Heavy iron content in the soil gave the planet a faint blue sheen, and when combined with the red glare of its sun, gave the planet a garish and gloomy atmosphere.",
+  "lead_paragraphs": [
+    "Lan Barell was a dusty, dry neutral backwater planet located on the Outer Rim of the galaxy near Breshkall. Heavy iron content in the soil gave the planet a faint blue sheen, and when combined with the red glare of its sun, gave the planet a garish and gloomy atmosphere."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Lan Barell",
+    "region": "Outer Rim Territories",
+    "sector": "Hook Nebula",
+    "system": "Lan system",
+    "coordinates": "O-18",
+    "suns": "Lan",
+    "position": "4",
+    "moons": "2, previously 3",
+    "lengthday": "23 standard hours",
+    "lengthyear": "255 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": [
+      "Deserts",
+      "Mountains",
+      "Plateaus"
+    ],
+    "water": "Polar ice caps",
+    "interest": [
+      "Cacti forests",
+      "Lowlands",
+      "Quilan Hive"
+    ],
+    "species": "Qieg",
+    "otherspecies": [
+      "Human",
+      "Herglic",
+      "Elomin",
+      "Wookiee"
+    ],
+    "government": "Human-Qieg Guild",
+    "population": "143 million (8 million humans)",
+    "cities": [
+      "Shulell City",
+      "Carmelle"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "High tech goods"
+    ],
+    "exports": [
+      "Minerals",
+      "Ore",
+      "Raw materials"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Qieg",
+      "directory": "Qieg (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lan Barell",
+    "x": -372.5,
+    "y": 5444.9,
+    "z": 174.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

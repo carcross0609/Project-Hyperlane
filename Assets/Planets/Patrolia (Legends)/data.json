@@ -1,0 +1,46 @@
+{
+  "name": "Patrolia",
+  "wookieepedia_title": "Patrolia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Patrolia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Patrolia was the aquatic homeworld of the Patrolian species. The planet was located in the Inner Rim.",
+  "lead_paragraphs": [
+    "Patrolia was the aquatic homeworld of the Patrolian species. The planet was located in the Inner Rim."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Patrolia",
+    "region": [
+      "Inner Rim",
+      "Western Reaches"
+    ],
+    "system": "Patrolia system",
+    "coordinates": "L-14",
+    "class": "Terrestrial",
+    "terrain": "Water",
+    "species": "Patrolians",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Patrolian",
+      "directory": "Patrolian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Patrolian",
+      "directory": "Patrolian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Patrolia",
+    "x": 1297.7,
+    "y": -6357.3,
+    "z": -129.9,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

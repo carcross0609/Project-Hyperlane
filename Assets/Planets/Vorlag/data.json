@@ -1,0 +1,49 @@
+{
+  "name": "Vorlag",
+  "wookieepedia_title": "Vorlag",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vorlag",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vorlag was a planet in the Outer Rim Territories that was the cavernous homeworld of the sentient Vorlaggn species. A palace existed on the planet that was owned by the crime lord Slussen Urla-fir Kal Kethin-wa Canker.",
+  "lead_paragraphs": [
+    "Vorlag was a planet in the Outer Rim Territories that was the cavernous homeworld of the sentient Vorlaggn species. A palace existed on the planet that was owned by the crime lord Slussen Urla-fir Kal Kethin-wa Canker."
+  ],
+  "article_sections": [
+    "History",
+    "Society and culture"
+  ],
+  "data": {
+    "name": "Vorlag",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Thuris sector",
+    "system": "Vorlag system",
+    "coordinates": "P-18",
+    "routes": "Llanic Spice Run",
+    "terrain": "Caverns",
+    "interest": "Slussen Canker's palace",
+    "fauna": [
+      "Gnat",
+      "Hroth-beast"
+    ],
+    "species": "Vorlaggn"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vorlaggn",
+      "directory": "Vorlaggn",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Vorlag",
+    "x": -154.3,
+    "y": 1887.6,
+    "z": 71.2,
+    "region": "Other",
+    "grid": "K-8"
+  },
+  "scraped": "2026-07-03"
+}

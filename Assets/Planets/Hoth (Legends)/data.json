@@ -1,0 +1,124 @@
+{
+  "name": "Hoth",
+  "wookieepedia_title": "Hoth/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hoth/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hoth was the sixth planet of the remote Hoth system. A desolate world covered with ice and snow, located in the Anoat sector, a rarely-traveled portion of the Outer Rim Territories, it became famous as the one-time location of the Alliance to Restore the Republic's Echo Base during the Galactic Civil War. The base was discovered by the Empire in 3 ABY, precipitating the Battle of Hoth, a major engagement during which the Rebels suffered heavy casualties and lost Echo Base.",
+  "lead_paragraphs": [
+    "Hoth was the sixth planet of the remote Hoth system. A desolate world covered with ice and snow, located in the Anoat sector, a rarely-traveled portion of the Outer Rim Territories, it became famous as the one-time location of the Alliance to Restore the Republic's Echo Base during the Galactic Civil War. The base was discovered by the Empire in 3 ABY, precipitating the Battle of Hoth, a major engagement during which the Rebels suffered heavy casualties and lost Echo Base."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Infinite Empire",
+    "  Old Republic",
+    "  Galactic Civil War",
+    "  Discrepancies",
+    "  Other appearances",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Hoth",
+    "region": [
+      "Outer Rim Territories; Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector",
+    "system": "Hoth system",
+    "coordinates": "K-18",
+    "distance": "50,250 light-years",
+    "suns": "1: Hoth",
+    "position": "6",
+    "moons": "3",
+    "routes": "Ison Trade Corridor",
+    "lengthday": "23 standard hours",
+    "lengthyear": "549 local days (526 standard days)",
+    "class": "Terrestrial",
+    "diameter": "7,200 kilometers",
+    "atmosphere": "Oxygen mix, Type I (breathable)",
+    "climate": "Frigid",
+    "gravity": "Standard, or also noted as Heavy (1.1 standard)",
+    "terrain": [
+      "Canyons",
+      "Frozen plains",
+      "Ice caves",
+      "Mountain ranges",
+      "Tundras"
+    ],
+    "water": "100% (ice)",
+    "interest": [
+      "Abandoned Rebel Base",
+      "Echo Base",
+      "Moorsh Moraine",
+      "Clabburn Range",
+      "Cirque Glacier",
+      "Hanging Valley",
+      "North Ridge",
+      "Mount Ison",
+      "Lanteel Glacier",
+      "Nev Ice Flow",
+      "Kerane Valley",
+      "South Ridge",
+      "Ceyan Range",
+      "Outpost Beta",
+      "Wampa Valley",
+      "Dorn Base",
+      "Drift Hills Imperial Outpost",
+      "Rakata monument",
+      "Sadow'een Temple",
+      "Hoth Star Fortress",
+      "Highmount Ridge"
+    ],
+    "flora": [
+      "Ice Plant",
+      "Lichen",
+      "Snowcap flower"
+    ],
+    "fauna": [
+      "Dragon slug",
+      "Hoth hog",
+      "Ice scrabbler",
+      "Icetromper",
+      "Pantran whitefang",
+      "Rayboo",
+      "Snow Mynock",
+      "Snowmouse",
+      "Tauntaun",
+      "  Climbing tauntaun",
+      "  Glacier tauntaun",
+      "Wampa"
+    ],
+    "species": "Skel",
+    "language": "Skel language",
+    "population": [
+      "32% ice scrabblers",
+      "23% tauntauns",
+      "11% wampas",
+      "34% other",
+      "Unknown amount of Skels"
+    ],
+    "affiliation": [
+      "Infinite Empire",
+      "Sith Empire",
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Skel",
+      "directory": "Skel",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Hoth",
+    "x": -1421.3,
+    "y": -12880.3,
+    "z": 29.4,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

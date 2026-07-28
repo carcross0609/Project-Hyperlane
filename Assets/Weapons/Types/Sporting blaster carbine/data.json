@@ -1,0 +1,25 @@
+{
+  "name": "Sporting blaster carbine",
+  "wookieepedia_title": "Sporting blaster carbine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sporting_blaster_carbine",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The sporting blaster carbine was a similar to a blaster carbine. This weapon could be wielded in one hand for medium range, but wielding the weapon with two hands enabled the wielder to fire at long range.",
+  "data": {
+    "name": "Sporting blaster carbine",
+    "type": "Blaster carbine",
+    "cost": "1,000 credits",
+    "size": "Medium",
+    "weight": "2.6 kilogram",
+    "capacity": [
+      "100 shots",
+      "Close-range stun setting available"
+    ],
+    "range": [
+      "Optimum: up to 45 m",
+      "Maximum: up to 450 m"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

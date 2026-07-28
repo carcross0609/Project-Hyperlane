@@ -1,0 +1,21 @@
+{
+  "name": "Hex Deployer",
+  "wookieepedia_title": "Hex Deployer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hex_Deployer",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Hex Deployer, also known as a Hex deployment vessel or a Chem Deployer, was an assault transport used by Sabaoth Squadron, and later placed under the command of the Confederacy of Independent Systems.",
+  "data": {
+    "name": "Hex Deployer",
+    "type": "Assault transport",
+    "armament": [
+      "Hex missile launchers",
+      "2 laser turrets"
+    ],
+    "affiliation": [
+      "Sabaoth Squadron",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

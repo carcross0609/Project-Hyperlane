@@ -1,0 +1,40 @@
+{
+  "name": "Absit",
+  "wookieepedia_title": "Absit",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Absit",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Absit was a planet located in the Absit system, a part of the Outer Rim Territories' Tunka sector. It was the homeworld of the sentient humanoid species known as the Yatir.",
+  "lead_paragraphs": [
+    "Absit was a planet located in the Absit system, a part of the Outer Rim Territories' Tunka sector. It was the homeworld of the sentient humanoid species known as the Yatir.",
+    "During the Galactic Civil War, the Yatir were sympathetic to the Rebel Alliance. At some point before the Battle of Hoth of 3 ABY, the Galactic Empire finally subjugated Absit and the Yatir, with the Imperial Army vanguard armor regiment known as the Imperial Hammers Elite Armor Unit being instrumental in the operation. The Empire subsequently used the native population of Absit for enslaved labor. Years later, Captain Zgorth'sth of the New Republic noted the Imperial subjugation of Absit in a threat assessment report focusing on various special units."
+  ],
+  "article_sections": [
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Absit",
+    "region": "Outer Rim Territories",
+    "sector": "Tunka sector",
+    "system": "Absit system",
+    "coordinates": "I-19",
+    "species": "Yatir",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Yatir",
+      "directory": "Yatir",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Absit",
+    "x": -2692.6,
+    "y": -5378.5,
+    "z": -267.0,
+    "region": "Inner Rim",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

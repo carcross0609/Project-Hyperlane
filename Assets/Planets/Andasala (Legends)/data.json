@@ -1,0 +1,64 @@
+{
+  "name": "Andasala",
+  "wookieepedia_title": "Andasala/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Andasala/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Andasala was a mining world, located on the Llanic Spice Run in the Andasala system near Svivren.",
+  "lead_paragraphs": [
+    "Andasala was a mining world, located on the Llanic Spice Run in the Andasala system near Svivren."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Andasala",
+    "region": "Outer Rim Territories",
+    "sector": "Cor'ric sector",
+    "system": "Andasala system",
+    "coordinates": "P-18",
+    "routes": "Llanic Spice Run",
+    "lengthday": "25 standard hours",
+    "lengthyear": "370 standard days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Mountains"
+    ],
+    "interest": "Ranis quarter",
+    "otherspecies": [
+      "Human",
+      "Hutt"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Organized crime",
+    "population": "1.5 million",
+    "imports": [
+      "Mid technology",
+      "Illegal goods and weapons technology"
+    ],
+    "exports": [
+      "Tungsten",
+      "Copper",
+      "Chromium"
+    ],
+    "affiliation": [
+      "Gesenix Mining",
+      "Valis Lorn's cartel"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Andasala",
+    "x": 7044.4,
+    "y": -12460.5,
+    "z": -513.4,
+    "region": "Outer Rim",
+    "grid": "P-18"
+  },
+  "scraped": "2026-07-03"
+}

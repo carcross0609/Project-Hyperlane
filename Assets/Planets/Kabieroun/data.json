@@ -1,0 +1,38 @@
+{
+  "name": "Kabieroun",
+  "wookieepedia_title": "Kabieroun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kabieroun",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kabieroun was a planet in the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Kabieroun was a planet in the Outer Rim Territories.",
+    "During the reign of the Galactic Empire, Imperial forces enslaved the planet's native species, the Kabieroun."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kabieroun",
+    "region": "Outer Rim Territories",
+    "sector": "Nijune sector",
+    "system": "Kabieroun system",
+    "coordinates": "O-4",
+    "species": "Kabieroun",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kabieroun",
+      "directory": "Kabieroun (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kabieroun",
+    "x": 5348.4,
+    "y": 7950.2,
+    "z": -58.1,
+    "region": "Outer Rim",
+    "grid": "O-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Dolis 3",
+  "wookieepedia_title": "Dolis 3",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dolis_3",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dolis 3 was a snowy Imperial Remnant planet in the Outer Rim Territories, in the influence of Yaga Minor.",
+  "lead_paragraphs": [
+    "Dolis 3 was a snowy Imperial Remnant planet in the Outer Rim Territories, in the influence of Yaga Minor."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Dolis 3",
+    "region": "Outer Rim Territories",
+    "sector": "Obtrexta sector",
+    "system": "Dolis system",
+    "coordinates": "J-3",
+    "position": "3",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Ice",
+      "Snow",
+      "Urban"
+    ],
+    "interest": "Chasa's cantina",
+    "fauna": "Rodents",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Pentastar Alignment",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dolis 3",
+    "x": -1693.4,
+    "y": 9235.1,
+    "z": -186.3,
+    "region": "Outer Rim",
+    "grid": "J-3"
+  },
+  "scraped": "2026-07-03"
+}

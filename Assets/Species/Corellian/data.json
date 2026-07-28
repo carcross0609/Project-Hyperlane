@@ -1,0 +1,20 @@
+{
+  "name": "Corellian",
+  "wookieepedia_title": "Corellian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corellian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Corellians were a cultural group of humans native to the planet Corellia. Han Solo, captain of the Millennium Falcon, was a Corellian who fought for the Rebel Alliance during the Galactic Civil War.",
+  "data": {
+    "name": "Corellian",
+    "designation": "Sentient",
+    "class": "Human",
+    "origin": "Corellia",
+    "language": [
+      "Galactic Basic Standard",
+      "Old Corellian"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Corellia"
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Sernpidal",
+  "wookieepedia_title": "Sernpidal/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sernpidal/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sernpidal, the fifth planet in the Julevian system, orbiting only 115,000 kilometers from its sun, it was the most populous world of its sector.",
+  "lead_paragraphs": [
+    "Sernpidal, the fifth planet in the Julevian system, orbiting only 115,000 kilometers from its sun, it was the most populous world of its sector."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Sernpidal",
+    "region": [
+      "Outer Rim Territories, Tingel Arm",
+      "New Territories"
+    ],
+    "sector": "Dalonbian sector",
+    "system": "Julevian system",
+    "coordinates": "L-3",
+    "suns": "1: Julevia",
+    "position": "5",
+    "moons": "2: Dobido",
+    "routes": "Veragi Trade Route",
+    "lengthday": "29 standard hours",
+    "lengthyear": "463 standard days",
+    "class": "Terrestrial",
+    "diameter": "11,440 kilometer",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Deserts",
+      "Ravines",
+      "Seas"
+    ],
+    "interest": [
+      "Business district",
+      "Darth Zhorrid's Sernpidal estate",
+      "Scherp's Estate",
+      "Sernpidal starport"
+    ],
+    "otherlife": "Sernpidalian",
+    "otherspecies": "Sernpidalian\nHuman",
+    "language": "Galactic Basic Standard",
+    "government": "Elected council",
+    "population": [
+      "8 million:",
+      "  91% Sernpidalan",
+      "  7% Human",
+      "  2% others"
+    ],
+    "cities": "Sernpidal City (capital)",
+    "imports": [
+      "Foodstuffs",
+      "Water",
+      "Technology"
+    ],
+    "exports": "Metals",
+    "affiliation": [
+      "Darth Revan's Sith Empire",
+      "Resurgent Sith Empire",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sernpidalian",
+      "directory": "Sernpidalian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sernpidal",
+    "x": 1055.3,
+    "y": 10396.5,
+    "z": -316.1,
+    "region": "Outer Rim",
+    "grid": "L-3"
+  },
+  "scraped": "2026-07-03"
+}

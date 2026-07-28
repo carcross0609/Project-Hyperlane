@@ -1,0 +1,26 @@
+{
+  "name": "R2-W3",
+  "wookieepedia_title": "R2-W3",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R2-W3",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "R2-W3 an R2-series astromech droid owned by the company Renna's Transport Service during the waning years of the Galactic Republic. Circa 21 BBY, R2-W3 was assigned to pilot the YT-1300 light freighter Second Breath on an assignment to ferry a cargo of explosives from the planet Cularin to a buyer on the world of Druckenwell in the Doldur sector.",
+  "data": {
+    "type": "Corporate",
+    "name": "R2-W3",
+    "manufacturer": "Industrial Automaton",
+    "line": "R-series",
+    "model": "R2-series astromech droid",
+    "class": "Astromech droid",
+    "pronouns": "new",
+    "plating": "Navy blue",
+    "equipment": [
+      "Arc welder",
+      "Fire extinguisher",
+      "Telescopic appendage"
+    ],
+    "affiliation": "Renna's Transport Service"
+  },
+  "scraped": "2026-07-03"
+}

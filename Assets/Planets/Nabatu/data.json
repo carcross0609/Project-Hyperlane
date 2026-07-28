@@ -1,0 +1,51 @@
+{
+  "name": "Nabatu",
+  "wookieepedia_title": "Nabatu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nabatu",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nabatu was a barren planet in the Coruscant system. It was the tenth planet from the star Coruscant Prime.",
+  "lead_paragraphs": [
+    "Nabatu was a barren planet in the Coruscant system. It was the tenth planet from the star Coruscant Prime."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nabatu",
+    "region": "Core Worlds",
+    "sector": [
+      "Corusca sector",
+      "  Coruscant sector"
+    ],
+    "system": "Coruscant system",
+    "coordinates": "L-9",
+    "xyz": "0, 0, 0",
+    "suns": "1: Coruscant Prime",
+    "position": "11",
+    "moons": "0",
+    "routes": [
+      "Corellian Run",
+      "Coruscant–Dantooine hyperlane",
+      "Koros Trunk Line",
+      "Leisure Corridor",
+      "Martial Cross",
+      "Metellos Trade Route",
+      "Namadii Corridor",
+      "Perlemian Trade Route",
+      "Shawken Spur"
+    ],
+    "class": "Terrestrial",
+    "climate": "Frozen",
+    "terrain": "Barren rock",
+    "population": "None"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Nabatu",
+    "x": -265.7,
+    "y": 141.4,
+    "z": -30.6,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

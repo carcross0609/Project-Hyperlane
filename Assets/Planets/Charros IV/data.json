@@ -1,0 +1,54 @@
+{
+  "name": "Charros IV",
+  "wookieepedia_title": "Charros IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Charros_IV",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Charros IV was a planet in the Mid Rim Territories' Numesira sector. It was the site of the Xi Char Cathedral factories, where members of the Xi Charrian species produced the Vulture-class starfighter \"vulture droid.\" During the Galactic Civil War, the Rebel Alliance was forced to retreat from Charros IV, expecting the Galactic Empire to soon retake the world.",
+  "lead_paragraphs": [
+    "Charros IV was a planet in the Mid Rim Territories' Numesira sector. It was the site of the Xi Char Cathedral factories, where members of the Xi Charrian species produced the Vulture-class starfighter \"vulture droid.\" During the Galactic Civil War, the Rebel Alliance was forced to retreat from Charros IV, expecting the Galactic Empire to soon retake the world."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Charros IV",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Numesira sector",
+    "system": "Charros system",
+    "coordinates": "R-9",
+    "routes": [
+      "Great Kashyyyk Branch",
+      "Zeltros–Junkfort Station hyperlane"
+    ],
+    "interest": "Xi Char Cathedral factories",
+    "otherspecies": "Xi Charrian",
+    "exports": "Droids",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Xi Charrian",
+      "directory": "Xi Charrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Charros IV",
+    "x": 9202.3,
+    "y": 1071.9,
+    "z": 242.4,
+    "region": "Mid Rim",
+    "grid": "R-9"
+  },
+  "scraped": "2026-07-03"
+}

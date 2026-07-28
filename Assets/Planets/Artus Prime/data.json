@@ -1,0 +1,42 @@
+{
+  "name": "Artus Prime",
+  "wookieepedia_title": "Artus Prime",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Artus_Prime",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Artus Prime was a terrestrial planet located in the Artus system of the Kwymar sector in the Outer Rim Territories. The planet primarily served as a mining colony, which was known for its Artusian crystals which could also be used in the construction of lightsabers.",
+  "lead_paragraphs": [
+    "Artus Prime was a terrestrial planet located in the Artus system of the Kwymar sector in the Outer Rim Territories. The planet primarily served as a mining colony, which was known for its Artusian crystals which could also be used in the construction of lightsabers.",
+    "Although the mining industry served as an important aspect of the planet's economy, Artus Prime was not considered a major destination hub in the Kwymar sector. Its population was relatively low, and its surface was mostly covered in canyons and toxic rivers, while the wildlife on the planet primarily included the scavenging and dangerous mine crabs."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Artus Prime",
+    "region": "Outer Rim Territories",
+    "sector": "Kwymar sector",
+    "system": "Artus system",
+    "coordinates": "Q-4",
+    "class": "Terrestrial",
+    "terrain": [
+      "Canyons",
+      "Toxic rivers"
+    ],
+    "interest": "New Republic mining facility",
+    "fauna": "Mine crab",
+    "otherspecies": "Human",
+    "demonym": "Artusian",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Artus Prime",
+    "x": 8767.8,
+    "y": 7966.9,
+    "z": -114.7,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

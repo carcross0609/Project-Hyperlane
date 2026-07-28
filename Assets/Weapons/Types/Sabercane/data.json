@@ -1,0 +1,25 @@
+{
+  "name": "Sabercane",
+  "wookieepedia_title": "Sabercane",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sabercane",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A sabercane or cane lightsaber was any lightsaber with a hilt disguised as the handle of a cane. The elderly Jedi Tera Sinube used one such weapon during the Clone Wars, and so did Maul during the reign of the Galactic Empire.",
+  "data": {
+    "name": "Sabercane",
+    "model": "Lightsaber",
+    "type": "Melee weapon",
+    "culture": "Jedi",
+    "purpose": [
+      "Lightsaber combat",
+      "Mobility aid"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Crimson Dawn"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Pirdia",
+  "wookieepedia_title": "Pirdia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pirdia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pirdia was the third planet orbiting the star Tyrius in the Tyrius system. Located in the Savareen sector of the Outer Rim Territories, it was a ringed gas giant with green-blue gases striping its surface.",
+  "lead_paragraphs": [
+    "Pirdia was the third planet orbiting the star Tyrius in the Tyrius system. Located in the Savareen sector of the Outer Rim Territories, it was a ringed gas giant with green-blue gases striping its surface."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Pirdia",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Savareen sector",
+    "system": "Tyrius system",
+    "coordinates": "R-16",
+    "suns": "1: Tyrius",
+    "position": "3",
+    "moons": "11",
+    "class": "Gas giant",
+    "interest": "Sky Fortress"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pirdia",
+    "x": 9759.7,
+    "y": -10273.8,
+    "z": 537.0,
+    "region": "Mid Rim",
+    "grid": "R-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Tensor rifle",
+  "wookieepedia_title": "Tensor rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tensor_rifle",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Amberlandrax Armaments' tensor rifle, often referred to as the Squib tensor rifle, was a weapon of Squib design that used tractor beam technology to generate damaging waves of tensor energy. The rifle fired an invisible yet noisy burst of compressed tractor beam waves; the constant barrage affected a biological target at the cellular level and eventually resulted in death. Variants of the tensor weapon used either power generators or standard power packs as an energy source. The device was small enough to fit in Squib hands, although it was difficult to aim and fire correctly without specialized skill.",
+  "data": {
+    "name": "Tensor rifle",
+    "manufacturer": "Amberlandrax Armaments",
+    "model": "Rifle",
+    "type": "Tensor weapon",
+    "culture": "Squib",
+    "locations": "Galladinium Galactic Exports showroom on Lenthalis",
+    "cost": "10,000–15,000 credits",
+    "shape": "Handle, foregrip, barrel",
+    "size": "Medium",
+    "weight": "7.2 kilograms",
+    "capacity": "15–50 shots",
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 450 meters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Tiss'shar",
+  "wookieepedia_title": "Tiss'shar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tiss%27shar",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Tiss'shar were a species of predatory sentient therapod reptiles from the planet Tiss'sharl. They were comparatively strong, dexterous, and intelligent, possessing slender frames with long necks and short tails. Their mouths were filled with sharp teeth, and their eyes were dark and glassy.",
+  "data": {
+    "name": "Tiss'shar",
+    "designation": "Sentient",
+    "class": [
+      "Reptile",
+      "  Therapod"
+    ],
+    "subspecies": [
+      "Ask-ar",
+      "Isk-ar",
+      "Kal-ar",
+      "Nil-ar",
+      "Orl-ar",
+      "Sil-ar"
+    ],
+    "height": "1.5–1.8 meters, averaging 1.65 meters",
+    "skincolor": "Varies by race",
+    "eyecolor": "Black",
+    "distinctions": "Long necks, sharp teeth, colorful scales, tails",
+    "lifespan": "65+ years",
+    "origin": "Tiss'sharl",
+    "diet": "Carnivorous",
+    "language": "Tiss'shar"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Tiss'sharl"
+}

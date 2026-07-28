@@ -1,8 +1,8 @@
 // Copyright (c) 2026 Carson Crossno. Personal, non-commercial project.
 
-#include "Simulation/GalaxyClock.h"
+#include "Hyperlane/Simulation/GalaxyClock.h"
 
-#include "Core/HyperlaneLogging.h"
+#include "Hyperlane/Core/HyperlaneLogging.h"
 
 int32 FGalaxyClock::Advance(double RealDeltaSeconds, TFunctionRef<void(const FGalacticDateTime&)> OnSimTick)
 {

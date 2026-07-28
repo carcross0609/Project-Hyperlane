@@ -1,0 +1,25 @@
+{
+  "name": "Warspear",
+  "wookieepedia_title": "Warspear",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Warspear",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The warspear was a melee weapon used by the people of Weik, and favored by the city guard of Vossport.",
+  "data": {
+    "name": "Warspear",
+    "type": [
+      "Melee weapon",
+      "Thrown weapon"
+    ],
+    "culture": "People of Weik",
+    "shape": "Spear-like",
+    "length": "2 meters",
+    "range": [
+      "Melee weapon",
+      "Thrown weapon range"
+    ],
+    "purpose": "Melee or thrown weapon"
+  },
+  "scraped": "2026-07-03"
+}

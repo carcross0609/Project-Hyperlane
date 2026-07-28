@@ -1,0 +1,30 @@
+{
+  "name": "Ardennian",
+  "wookieepedia_title": "Ardennian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ardennian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Ardennians were a sentient, simian-like species that were native to Ardennia. Due to their extra pair of arms and prehensile toes, the species was known for being extremely agile, nimble and quick-thinking under pressure. They were able to move about while operating multiple pieces of machinery simultaneously, thus being well-suited to careers involving the military or aviation, among other choices. Notable Ardennians include Rio Durant, who operated as a pilot and criminal with Beckett's gang, and Chio Fain, who worked as a slicer.",
+  "data": {
+    "name": "Ardennian",
+    "designation": "Sentient",
+    "skincolor": [
+      "Blue",
+      "Gray",
+      "Tan"
+    ],
+    "haircolor": [
+      "Gray",
+      "Purple"
+    ],
+    "eyecolor": [
+      "Brown",
+      "Green"
+    ],
+    "distinctions": "Six hands",
+    "origin": "Ardennia",
+    "language": "Galactic Basic Standard"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Ardennia"
+}

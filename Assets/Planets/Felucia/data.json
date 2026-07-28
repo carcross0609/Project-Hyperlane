@@ -1,0 +1,115 @@
+{
+  "name": "Felucia",
+  "wookieepedia_title": "Felucia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Felucia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Felucia, known as Galush prior to the formation of the Galactic Republic, was a colorful, humid jungle planet located in the Felucia system of the galaxy's Outer Rim Territories. The headquarters of the Commerce Guild, its primary agricultural export was the valuable crop nysillin, which was largely farmed by the native Felucian tribes. Its important strategic location along the Perlemian Trade Route and the planet's nysillin crops made it a major battleground throughout the Clone Wars.",
+  "lead_paragraphs": [
+    "Felucia, known as Galush prior to the formation of the Galactic Republic, was a colorful, humid jungle planet located in the Felucia system of the galaxy's Outer Rim Territories. The headquarters of the Commerce Guild, its primary agricultural export was the valuable crop nysillin, which was largely farmed by the native Felucian tribes. Its important strategic location along the Perlemian Trade Route and the planet's nysillin crops made it a major battleground throughout the Clone Wars."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Colonization and Republic Era",
+    "  Clone Wars",
+    "  Under the Empire"
+  ],
+  "data": {
+    "name": "Felucia",
+    "region": [
+      "Outer Rim Territories",
+      "  Foundry of the Confederacy (Clone Wars)",
+      "Trans-Hydian Borderlands"
+    ],
+    "sector": "Thanium sector",
+    "system": "Felucia system",
+    "coordinates": "R-6",
+    "suns": "1: Felix",
+    "position": "4",
+    "moons": "8",
+    "routes": "Perlemian Trade Route",
+    "lengthday": "34 hours",
+    "lengthyear": "231 days",
+    "class": "Terrestrial",
+    "diameter": "9,100 kilometers",
+    "atmosphere": "Type I",
+    "climate": "Hot and humid",
+    "gravity": "Light (75% standard)",
+    "terrain": "Jungles swamps",
+    "interest": [
+      "Nigkoe Detention Facility",
+      "Commerce Guild headquarters",
+      "Separatist outpost"
+    ],
+    "flora": "Nysillin",
+    "fauna": [
+      "Cerulean droch",
+      "Felucia bird",
+      "Felucian firefly",
+      "Felucian Ripper",
+      "Felucian snail",
+      "Gelagrub",
+      "Jungle rancor",
+      "Manta",
+      "Sarlacc",
+      "Slimesnipe"
+    ],
+    "species": [
+      "Felucian",
+      "Jungle Felucian"
+    ],
+    "otherspecies": [
+      "Gossam",
+      "Kyuzo",
+      "Tee-muss"
+    ],
+    "population": "425 million",
+    "demonym": "Felucian",
+    "cities": [
+      "Akira",
+      "Har Gau",
+      "Jiaozi",
+      "Kway Teow (capital)",
+      "Niango"
+    ],
+    "imports": "Fuel, foodstuffs, farming equipment",
+    "exports": "Nysillin, ores",
+    "affiliation": [
+      "Commerce Guild",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Felucian",
+      "directory": "Felucian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Felucian",
+      "directory": "Felucian (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Jungle Felucian",
+      "directory": "Jungle Felucian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Jungle Felucian",
+      "directory": "Jungle Felucian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Felucia",
+    "x": 10203.2,
+    "y": 5698.7,
+    "z": 319.1,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

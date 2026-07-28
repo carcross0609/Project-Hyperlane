@@ -1,0 +1,47 @@
+{
+  "name": "Romin",
+  "wookieepedia_title": "Romin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Romin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Romin was a small Mid Rim planet. It was the homeworld of the Romins.",
+  "lead_paragraphs": [
+    "Romin was a small Mid Rim planet. It was the homeworld of the Romins."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Romin",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Romintine sector",
+    "system": "Romin system",
+    "coordinates": "Q-8",
+    "flora": [
+      "Cloudflower",
+      "Squeeterfly"
+    ],
+    "species": "Romins",
+    "language": "Galactic Basic Standard",
+    "cities": "Eliior (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Romin",
+      "directory": "Romin (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Romin",
+    "x": 8002.6,
+    "y": 2810.6,
+    "z": 367.9,
+    "region": "Mid Rim",
+    "grid": "Q-8"
+  },
+  "scraped": "2026-07-03"
+}

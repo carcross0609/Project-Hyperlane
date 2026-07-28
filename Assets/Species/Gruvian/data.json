@@ -1,0 +1,23 @@
+{
+  "name": "Gruvian",
+  "wookieepedia_title": "Gruvian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gruvian",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Gruvians were the native sentients of the planet Gruvia in the Expansion Region.",
+  "data": {
+    "name": "Gruvian",
+    "designation": "Sentient",
+    "skincolor": "Green",
+    "haircolor": "None",
+    "distinctions": [
+      "Eight eyestalks",
+      "Four arms with three-fingered hands",
+      "Two mouths",
+      "No visible legs"
+    ],
+    "origin": "Gruvia"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Gruvia"
+}

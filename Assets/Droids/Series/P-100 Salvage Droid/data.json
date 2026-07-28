@@ -1,0 +1,19 @@
+{
+  "name": "P-100 Salvage Droid",
+  "wookieepedia_title": "P-100 Salvage Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/P-100_Salvage_Droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The P-100 Salvage Droid was a large model of repulsorlift salvage droid used for retrieving valuable parts from crashed podracers. Using an omnidirectional homing device, the P-100 Salvage Droid located a crashed podracer's distress beacon and deployed a P-100 pick-up droid from its underside to salvage up to 500 kilograms of scrap. If an owner did not claim their parts within two hours, they would either be auctioned or sold, often to Jawas.",
+  "data": {
+    "name": "P-100 Salvage Droid",
+    "class": "Salvage droid",
+    "sensor": "Omnidirectional homing mechanics",
+    "equipment": [
+      "Repulsorlifts",
+      "Deployable P-100 pick-up droid"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Cartao",
+  "wookieepedia_title": "Cartao",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cartao",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Cartao was an Expansion Region astronomical object where the Galactic Empire kept a facility that became under threat from a potential dissident attack in 14 BBY. It was also the site of fighting during the Galactic Civil War, involving the Rebel Alliance's 61st Mobile Infantry.",
+  "lead_paragraphs": [
+    "Cartao was an Expansion Region astronomical object where the Galactic Empire kept a facility that became under threat from a potential dissident attack in 14 BBY. It was also the site of fighting during the Galactic Civil War, involving the Rebel Alliance's 61st Mobile Infantry."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Cartao",
+    "region": [
+      "Expansion Region",
+      "New Territories"
+    ],
+    "sector": "Prackla sector",
+    "system": "Cartao system",
+    "coordinates": "O-8",
+    "interest": "Cartao Imperial facility",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Cranscoc",
+      "directory": "Cranscoc",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cartao",
+    "x": 5653.6,
+    "y": 2117.9,
+    "z": 150.8,
+    "region": "Expansion Region",
+    "grid": "O-8"
+  },
+  "scraped": "2026-07-03"
+}

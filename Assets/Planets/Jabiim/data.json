@@ -1,0 +1,66 @@
+{
+  "name": "Jabiim",
+  "wookieepedia_title": "Jabiim",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jabiim",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Jabiim was a terrestrial planet situated within the regions known as the Outer Rim Territories and the Slice. Connected to Sy Myrth and Taskeed by hyperspace routes, it was positioned at the coordinates S-7 on the Standard Galactic Grid. Ore was one of the main exports of Jabiim.",
+  "lead_paragraphs": [
+    "Jabiim was a terrestrial planet situated within the regions known as the Outer Rim Territories and the Slice. Connected to Sy Myrth and Taskeed by hyperspace routes, it was positioned at the coordinates S-7 on the Standard Galactic Grid. Ore was one of the main exports of Jabiim."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Jabiim",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Phelleem sector",
+    "system": "Jabiim system",
+    "coordinates": "S-7",
+    "moons": "Barren moon",
+    "routes": "Triellus Trade Route",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Plains",
+      "Rocky",
+      "Caves"
+    ],
+    "interest": "Jabiim Hidden Path safehouse",
+    "otherspecies": [
+      "Dynym Quid's species",
+      "Humans",
+      "Mohsenians",
+      "Nikto",
+      "Talpiddians",
+      "Tarsunt",
+      "Trandoshans",
+      "Wookiees (enslaved)"
+    ],
+    "imports": [
+      "Jedi and other Force-sensitive fugitives",
+      "Slaves"
+    ],
+    "exports": [
+      "Ore",
+      "Jedi and other Force-sensitive fugitives with new identities"
+    ],
+    "affiliation": [
+      "Hidden Path",
+      "First Order"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Jabiim",
+    "x": 11327.8,
+    "y": 3413.7,
+    "z": 393.4,
+    "region": "Outer Rim",
+    "grid": "S-7"
+  },
+  "scraped": "2026-07-03"
+}

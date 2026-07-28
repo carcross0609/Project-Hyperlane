@@ -1,0 +1,45 @@
+{
+  "name": "Almak",
+  "wookieepedia_title": "Almak/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Almak/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Almak was a terrestrial world located in the Almak system, a part of the Mid Rim's Almak sector. It was the homeworld of the sentient Leffingite species and shared its name with the fruit known as the Almakian apple.",
+  "lead_paragraphs": [
+    "Almak was a terrestrial world located in the Almak system, a part of the Mid Rim's Almak sector. It was the homeworld of the sentient Leffingite species and shared its name with the fruit known as the Almakian apple.",
+    "The Leffingite Magaloof hailed from Almak. He traveled to the Core Worlds planet Coruscant by 22 BBY and started a criminal career there. Eventually, Magaloof was imprisoned, and after serving a three-year sentence, he returned home to Almak to start over his life.",
+    "At some point between 19 BBY and 1 BBY, the forces of the Galactic Empire subdued the Leffingites, who were resisting that government, during the Battle of Almak. Doctor Gabrel Treon later mentioned the battle in the 104 ABY article \"Tinker, Tailor, Soldier, Praji: A Cartel of Genes,\" published in the Byblos Journal of Historical Science."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Almak",
+    "region": "Mid Rim",
+    "sector": "Almak sector",
+    "system": "Almak system",
+    "coordinates": "J-17",
+    "class": "Terrestrial",
+    "species": "Leffingite",
+    "demonym": "Almakian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Leffingite",
+      "directory": "Leffingite",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Leffingite",
+      "directory": "Leffingite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Almak",
+    "x": -1923.7,
+    "y": -11736.9,
+    "z": -47.7,
+    "region": "Mid Rim",
+    "grid": "J-17"
+  },
+  "scraped": "2026-07-03"
+}

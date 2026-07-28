@@ -1,0 +1,34 @@
+{
+  "name": "Athulla",
+  "wookieepedia_title": "Athulla",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Athulla",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Athulla was a planet located in the Jinata system in the Core Worlds.",
+  "lead_paragraphs": [
+    "Athulla was a planet located in the Jinata system in the Core Worlds."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Athulla",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Jinata system",
+    "coordinates": "L-9",
+    "demonym": "Athullan",
+    "affiliation": "Jinata Security"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Athulla",
+    "x": 9998.4,
+    "y": 7717.1,
+    "z": 210.3,
+    "region": "Other",
+    "grid": "R-4"
+  },
+  "scraped": "2026-07-03"
+}

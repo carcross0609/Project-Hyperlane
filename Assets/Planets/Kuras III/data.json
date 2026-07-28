@@ -1,0 +1,68 @@
+{
+  "name": "Kuras III",
+  "wookieepedia_title": "Kuras III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kuras_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kuras III was the third planet in the Kuras system of the Elrood sector. Kuras III was a dry, volcanic world, and thanks to a mixture of heavy metals, harmful bacteria and airborne poisons, the environment was considered lethal to Humans and many other species. Three indigenous life-forms managed to evolve in Kuras III's inhospitable atmosphere; the Aganof, the Pulra, and Hairy Savages. Because The Drift made travel to and from the planet difficult, much of Kuras III remained unexplored. The average day lasted for eighteen standard hours on Kuras III, and a year encompassed four hundred days.",
+  "lead_paragraphs": [
+    "Kuras III was the third planet in the Kuras system of the Elrood sector. Kuras III was a dry, volcanic world, and thanks to a mixture of heavy metals, harmful bacteria and airborne poisons, the environment was considered lethal to Humans and many other species. Three indigenous life-forms managed to evolve in Kuras III's inhospitable atmosphere; the Aganof, the Pulra, and Hairy Savages. Because The Drift made travel to and from the planet difficult, much of Kuras III remained unexplored. The average day lasted for eighteen standard hours on Kuras III, and a year encompassed four hundred days."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kuras III",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Kuras system",
+    "coordinates": "M-19",
+    "suns": "1: Kuras",
+    "position": "3",
+    "moons": "1",
+    "lengthday": "18 standard hours",
+    "lengthyear": "400 local days",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "flora": "Metalwood",
+    "fauna": [
+      "Hairy Savage",
+      "Quicker",
+      "Wild"
+    ],
+    "species": [
+      "Aganof",
+      "Pulra"
+    ],
+    "government": "Tribal",
+    "population": [
+      "65,000 Aganof",
+      "58,000 Pulras"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Aganof",
+      "directory": "Aganof",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Pulra",
+      "directory": "Pulra",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kuras III",
+    "x": 2488.4,
+    "y": -15433.8,
+    "z": -612.3,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

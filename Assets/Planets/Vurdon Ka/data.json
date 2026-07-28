@@ -1,0 +1,45 @@
+{
+  "name": "Vurdon Ka",
+  "wookieepedia_title": "Vurdon Ka",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vurdon_Ka",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vurdon Ka was a planet located in the Vurdon Ka system in the Darlonn sector of the galaxy's Inner Rim that was the homeworld of the Vuvrian species. It was located close to one end of the Perlemian Trade Route, which connected it to the planets Castell and Chazwa.",
+  "lead_paragraphs": [
+    "Vurdon Ka was a planet located in the Vurdon Ka system in the Darlonn sector of the galaxy's Inner Rim that was the homeworld of the Vuvrian species. It was located close to one end of the Perlemian Trade Route, which connected it to the planets Castell and Chazwa."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vurdon Ka",
+    "region": [
+      "Inner Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Darlonn sector",
+    "system": "Vurdon Ka system",
+    "coordinates": "M-9",
+    "routes": "Perlemian Trade Route",
+    "species": "Vuvrian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vuvrian",
+      "directory": "Vuvrian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Vuvrian",
+      "directory": "Vuvrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vurdon Ka",
+    "x": 2535.3,
+    "y": 1416.2,
+    "z": -84.9,
+    "region": "Inner Rim",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

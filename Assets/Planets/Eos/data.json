@@ -1,0 +1,39 @@
+{
+  "name": "Eos",
+  "wookieepedia_title": "Eos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eos",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Eos was a dark mineral-rich volcanic planet in the Outer Rim Territories that hosted a large droid foundry belonging to the Trade Federation.",
+  "lead_paragraphs": [
+    "Eos was a dark mineral-rich volcanic planet in the Outer Rim Territories that hosted a large droid foundry belonging to the Trade Federation."
+  ],
+  "article_sections": [
+    "Characteristics",
+    "History",
+    "  Pre-Clone Wars",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Eos",
+    "region": "Outer Rim Territories",
+    "sector": "Cadavine sector",
+    "system": "Eos system",
+    "coordinates": "P-17",
+    "suns": "1",
+    "terrain": "Volcanic",
+    "interest": "Droid foundries",
+    "exports": "Droids",
+    "affiliation": "Trade Federation"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Eos",
+    "x": 12658.2,
+    "y": -5409.9,
+    "z": -342.5,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

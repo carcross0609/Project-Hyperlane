@@ -1,0 +1,40 @@
+{
+  "name": "Antar",
+  "wookieepedia_title": "Antar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Antar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Antar was a gas giant located in the galaxy's Inner Rim, located in grid square N-12 on the Standard Galactic Grid, that was orbited by Antar 4, homeworld of the sentient Gotal species, and the Dead Moon of Antar.",
+  "lead_paragraphs": [
+    "Antar was a gas giant located in the galaxy's Inner Rim, located in grid square N-12 on the Standard Galactic Grid, that was orbited by Antar 4, homeworld of the sentient Gotal species, and the Dead Moon of Antar."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Antar",
+    "region": [
+      "Inner Rim Territories",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Prindaar system",
+    "coordinates": "N-12",
+    "moons": [
+      "At least 4:",
+      "  Antar 4",
+      "  Dead Moon of Antar"
+    ],
+    "routes": "Nanth'ri Trade Route",
+    "class": "Gas giant",
+    "demonym": "Antarian"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Antar",
+    "x": 4242.5,
+    "y": -3156.0,
+    "z": -206.1,
+    "region": "Inner Rim",
+    "grid": "N-12"
+  },
+  "scraped": "2026-07-03"
+}

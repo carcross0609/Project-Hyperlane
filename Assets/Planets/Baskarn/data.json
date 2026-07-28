@@ -1,0 +1,56 @@
+{
+  "name": "Baskarn",
+  "wookieepedia_title": "Baskarn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Baskarn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Baskarn was a planet in the Outer Rim. The planet was inhabited by the large, green-furred, Force-sensitive Yrashu. The planet was also home to the dangerous Razor trees. Baskarn was the site of the Battle of Baskarn in which the indigenous Yrashu instinctively fought the Galactic Empire, as they could sense its ties to the dark side of the Force. In the events leading up to the battle, a group of Rebels were adopted into a Yrashu tribe and went through a momu, in which they were taught jungle survival according to the Yrashu way. The tribe participated in the battle, and emerged victorious along with the Rebels.",
+  "lead_paragraphs": [
+    "Baskarn was a planet in the Outer Rim. The planet was inhabited by the large, green-furred, Force-sensitive Yrashu. The planet was also home to the dangerous Razor trees. Baskarn was the site of the Battle of Baskarn in which the indigenous Yrashu instinctively fought the Galactic Empire, as they could sense its ties to the dark side of the Force. In the events leading up to the battle, a group of Rebels were adopted into a Yrashu tribe and went through a momu, in which they were taught jungle survival according to the Yrashu way. The tribe participated in the battle, and emerged victorious along with the Rebels."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Baskarn",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Noonian sector",
+    "system": "Baskarn system",
+    "coordinates": "M-6",
+    "terrain": [
+      "Oceans",
+      "Rainforests"
+    ],
+    "interest": "Advance Base Baskarn",
+    "flora": [
+      "Hmumfmumf tree",
+      "Razor tree"
+    ],
+    "fauna": [
+      "Floating jellyfish",
+      "Hrosma tiger",
+      "Mmhmm butterfly"
+    ],
+    "species": "Yrashu",
+    "otherspecies": "Human",
+    "language": "Yrashu language",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Yrashu",
+      "directory": "Yrashu",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Baskarn",
+    "x": 2104.9,
+    "y": 5688.7,
+    "z": -13.7,
+    "region": "Outer Rim",
+    "grid": "M-6"
+  },
+  "scraped": "2026-07-03"
+}

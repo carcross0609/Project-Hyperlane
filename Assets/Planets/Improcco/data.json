@@ -1,0 +1,49 @@
+{
+  "name": "Improcco",
+  "wookieepedia_title": "Improcco",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Improcco",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Improcco was an icy planet in the Coruscant system. It was the ninth planet from the star Coruscant Prime. Improcco had one moon, known as the Frozen Moon of Improcco.",
+  "lead_paragraphs": [
+    "Improcco was an icy planet in the Coruscant system. It was the ninth planet from the star Coruscant Prime. Improcco had one moon, known as the Frozen Moon of Improcco."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Improcco",
+    "region": "Core Worlds",
+    "sector": [
+      "Corusca sector",
+      "  Coruscant sector"
+    ],
+    "system": "Coruscant system",
+    "coordinates": "L-9",
+    "xyz": "0, 0, 0",
+    "suns": "1: Coruscant Prime",
+    "position": "9",
+    "moons": "1: Frozen Moon of Improcco",
+    "routes": [
+      "Corellian Run",
+      "Coruscant–Dantooine hyperlane",
+      "Koros Trunk Line",
+      "Leisure Corridor",
+      "Martial Cross",
+      "Metellos Trade Route",
+      "Namadii Corridor",
+      "Perlemian Trade Route",
+      "Shawken Spur"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Ice"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Improcco",
+    "x": 1163.7,
+    "y": 1253.5,
+    "z": 133.7,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

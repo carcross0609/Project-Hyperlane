@@ -1,0 +1,45 @@
+{
+  "name": "Vohai",
+  "wookieepedia_title": "Vohai",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vohai",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vohai was a planet located within the Vohai system of the Outer Rim Territories, covered with industrial sites, that were interspersed with residential towers and parkland. The Vohai Unirail encircled the entire planet from pole to pole, two kilometers above the planet's surface. The Arkanian company Arkanian Microtechnologies's headquarters were on Vohai.",
+  "lead_paragraphs": [
+    "Vohai was a planet located within the Vohai system of the Outer Rim Territories, covered with industrial sites, that were interspersed with residential towers and parkland. The Vohai Unirail encircled the entire planet from pole to pole, two kilometers above the planet's surface. The Arkanian company Arkanian Microtechnologies's headquarters were on Vohai.",
+    "Churhee's Riflemen often trained in the mountain setting of Vohai."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vohai",
+    "region": "Outer Rim Territories",
+    "sector": "Parmel sector",
+    "system": "Vohai system",
+    "coordinates": "O-18",
+    "routes": "Five Veils Route",
+    "terrain": [
+      "Industrial",
+      "Gardens"
+    ],
+    "interest": [
+      "Sensyno Station",
+      "Vohai Unirail"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Quara",
+      "Rodians"
+    ],
+    "language": "Galactic Basic Standard"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Vohai",
+    "x": 5648.6,
+    "y": -12764.3,
+    "z": -194.0,
+    "region": "Outer Rim",
+    "grid": "O-18"
+  },
+  "scraped": "2026-07-03"
+}

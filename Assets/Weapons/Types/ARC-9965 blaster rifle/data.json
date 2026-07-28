@@ -1,0 +1,32 @@
+{
+  "name": "ARC-9965 blaster rifle",
+  "wookieepedia_title": "ARC-9965 blaster rifle",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/ARC-9965_blaster_rifle",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The ARC-9965 blaster was an Imperial blaster rifle used by the stormtroopers of Darth Krayt's Galactic Empire. They were the most common firearms for stormtroopers around the year 130 ABY, during the Massacre at Ossus, and were still in use as of 137 ABY.",
+  "data": {
+    "name": "ARC-9965 blaster rifle",
+    "manufacturer": "BlasTech Industries",
+    "model": "ARC-9965",
+    "type": "Blaster rifle",
+    "cost": "1,400 credits (available for military use only)",
+    "size": "Two-handed weapon",
+    "weight": "5 kg",
+    "capacity": [
+      "40 shots",
+      "Close-range stun setting available",
+      "Autofire mode available"
+    ],
+    "range": [
+      "Optimum: up to 60 m",
+      "Maximum: up to 120 m"
+    ],
+    "affiliation": [
+      "Darth Krayt's Galactic Empire",
+      "  Joker Squad Stormtroopers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

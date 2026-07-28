@@ -1,0 +1,36 @@
+{
+  "name": "Teevan",
+  "wookieepedia_title": "Teevan (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Teevan_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Teevan was a planet with silvery seas located within the Teevan system of the Outer Rim Territories. It was the homeworld of the Teevan species. Jedi Padawan Tru Veld came from this world.",
+  "lead_paragraphs": [
+    "Teevan was a planet with silvery seas located within the Teevan system of the Outer Rim Territories. It was the homeworld of the Teevan species. Jedi Padawan Tru Veld came from this world."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Teevan",
+    "region": "Outer Rim Territories",
+    "sector": "Kalamith sector",
+    "system": "Teevan system",
+    "coordinates": "P-5",
+    "species": "Teevan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Teevan",
+      "directory": "Teevan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Teevan",
+    "x": 6942.9,
+    "y": 6736.9,
+    "z": -244.4,
+    "region": "Outer Rim",
+    "grid": "P-5"
+  },
+  "scraped": "2026-07-03"
+}

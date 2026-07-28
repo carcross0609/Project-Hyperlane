@@ -1,0 +1,33 @@
+{
+  "name": "R2-Q5",
+  "wookieepedia_title": "R2-Q5",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R2-Q5",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "R2-Q5 was an R2-series astromech droid. Made by Industrial Automaton, he served the Galactic Empire aboard the DS-2 Death Star II Mobile Battle Station, performing maintenance and repair as needed. Like many Imperial astromechs, he was fitted with spy devices allowing human overseers to monitor personnel. He single-handedly thwarted a software infiltration of the Death Star II by the rogue assassin droid IG-88B. During the era of the Resistance, R0-GR included R2-Q5 in \"droidography.\"",
+  "data": {
+    "type": "Galactic Empire",
+    "name": "R2-Q5",
+    "manufacturer": "Industrial Automaton",
+    "line": "R-series",
+    "model": "R2-series astromech droid",
+    "class": "Astromech droid",
+    "height": "1.09m (3ft, 7in)",
+    "gender": "Masculine programming",
+    "pronouns": "He/him",
+    "sensor": "Black",
+    "plating": "Black and bronze",
+    "equipment": [
+      "Magnetic fault sensor",
+      "Motorized leg",
+      "Heat exhaust",
+      "Powerbus cable"
+    ],
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

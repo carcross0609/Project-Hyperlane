@@ -1,0 +1,32 @@
+# Yuuzhan Vong
+
+**Continuity:** Legends  
+**Source:** [Yuuzhan Vong](https://starwars.fandom.com/wiki/Yuuzhan_Vong)
+
+The Yuuzhan Vong—"Children of Yun-Yuuzhan", also called the Chosen Race, known to the Chiss and Ferroans as the Far Outsiders, and sometimes incorrectly abbreviated to Vong (which implied that one was disowned by their family and their gods)—were a nomadic extra-galactic sentient species that nearly destroyed the New Republic, and were responsible for the deaths of over 300 trillion sentient beings during their invasion of the galaxy.
+
+## Biology & Culture
+
+- **Name:** Yuuzhan Vong
+- **Designation:** Sentient
+- **Height:** 1.8–1.9 meters
+- **Skincolor:**
+  - Grayish-violet
+  - Yellowish
+- **Haircolor:** Black
+- **Eyecolor:**
+  - Black
+  - Blue
+- **Distinctions:**
+  - Eye sacks
+  - Jet black blood
+  - Sloping foreheads
+  - "Absence" in the Force
+  - Hard skin
+- **Lifespan:** 76 standard years
+- **Origin:** Yuuzhan'tar (ancestral) Zonama Sekot (adopted)
+- **Language:** Yuuzhan Vong
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

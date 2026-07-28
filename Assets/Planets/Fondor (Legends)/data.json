@@ -1,0 +1,126 @@
+{
+  "name": "Fondor",
+  "wookieepedia_title": "Fondor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fondor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fondor was a planet in the Freeworlds Territory of the Tapani sector, famous throughout the galaxy for its extensive orbital shipyards, which were outclassed only by those at Corellia and Kuat. The Shipyards were associated with the Techno Union prior to the Clone Wars, and were vast enough to construct major flagships, such as the Executor, Darth Vader's Star Dreadnought. For many years, its capital city was Fondor City, later succeeded by Oridin City.",
+  "lead_paragraphs": [
+    "Fondor was a planet in the Freeworlds Territory of the Tapani sector, famous throughout the galaxy for its extensive orbital shipyards, which were outclassed only by those at Corellia and Kuat. The Shipyards were associated with the Techno Union prior to the Clone Wars, and were vast enough to construct major flagships, such as the Executor, Darth Vader's Star Dreadnought. For many years, its capital city was Fondor City, later succeeded by Oridin City."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  The Executor project",
+    "  Regime change",
+    "  Second Galactic Civil War",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Fondor",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "sector": "Tapani sector; Freeworlds Territory",
+    "system": "Fondor system",
+    "coordinates": "L-13",
+    "xyz": "(450,-500,0)",
+    "suns": "Fondor",
+    "position": "4",
+    "moons": "6 (inc. Nallastia)",
+    "routes": [
+      "Gandeal-Fondor Hyperlane",
+      "Shipwrights' Trace"
+    ],
+    "lengthday": "31 standard hours",
+    "lengthyear": "412 local days",
+    "class": "Terrestrial",
+    "diameter": "9,100 km",
+    "atmosphere": "Oxygen mix, Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert",
+      "Wasteland",
+      "Urban sprawl"
+    ],
+    "interest": [
+      "Fondor Shipyards",
+      "  Orbital Shipyard 1321",
+      "Fondor Academy of Engineering and Design",
+      "Fondor's underground steam tubes",
+      "Fondor Spaceport"
+    ],
+    "fauna": [
+      "Mud puppy",
+      "Sleek(historically)"
+    ],
+    "species": "Fondorian",
+    "otherspecies": [
+      "Human",
+      "Herglic",
+      "Mrlssi",
+      "Sullustan",
+      "Devaronian",
+      "Twi'lek",
+      "Selkath"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Guild",
+    "population": [
+      "5 billion:",
+      "  75% Human",
+      "  11% Herglic",
+      "  7% Mrlssi",
+      "  3% Sullustan",
+      "  2% Devaronian",
+      "  2% Others"
+    ],
+    "demonym": "Fondorian",
+    "cities": [
+      "Fondor City (capital)",
+      "Oridin City"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Consumer goods",
+      "Machine parts"
+    ],
+    "exports": [
+      "Starships",
+      "Technology"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Tapani Empire",
+      "League of Tapani Freeworlds",
+      "Darth Revan's Sith Empire",
+      "Techno Union",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Alliance of Free Planets",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances",
+      "Alliance-in-exile"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Fondorian",
+      "directory": "Fondorian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Fondor",
+    "x": 378.9,
+    "y": -5544.3,
+    "z": 68.7,
+    "region": "Colonies",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

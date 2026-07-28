@@ -1,0 +1,51 @@
+{
+  "name": "Corfai",
+  "wookieepedia_title": "Corfai",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corfai",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Corfai was a planet in the Corellian sector of the Core Worlds.",
+  "lead_paragraphs": [
+    "Corfai was a planet in the Corellian sector of the Core Worlds."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Corfai",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "sector": "Corellian sector",
+    "system": "Corfai system",
+    "coordinates": "M-11",
+    "class": "Terrestrial",
+    "interest": [
+      "Hel's Outfitting",
+      "Mount Lorrist",
+      "Olvergast Glacier",
+      "Salvarrn Nature Reserve",
+      "Winterdome Museum"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "cities": [
+      "Farrendal",
+      "Knowles",
+      "Winterdome",
+      "Yorri"
+    ],
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Corfai",
+    "x": 2774.5,
+    "y": -1958.1,
+    "z": 136.4,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

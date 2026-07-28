@@ -1,0 +1,66 @@
+{
+  "name": "Kooriva; (background)",
+  "wookieepedia_title": "Kooriva/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kooriva/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kooriva was a terrestrial, tropical planet located within the Kooriva system of the Inner Rim. The adopted homeworld of the Koorivar species, the planet was purchased by the horned-humanoids after a lengthy legal battle with the Galactic Republic. While the planet suffered an economic crisis under the reign of the Humanocentric-biases of the Galactic Empire, Kooriva recovered and thrived under both New Republic and Galactic Alliance rule.",
+  "lead_paragraphs": [
+    "Kooriva was a terrestrial, tropical planet located within the Kooriva system of the Inner Rim. The adopted homeworld of the Koorivar species, the planet was purchased by the horned-humanoids after a lengthy legal battle with the Galactic Republic. While the planet suffered an economic crisis under the reign of the Humanocentric-biases of the Galactic Empire, Kooriva recovered and thrived under both New Republic and Galactic Alliance rule."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kooriva; (background)",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Kooriva system",
+    "coordinates": "M-14",
+    "position": "5",
+    "class": "Terrestrial",
+    "climate": "Tropical",
+    "terrain": [
+      "Rainforests",
+      "Oceans"
+    ],
+    "otherspecies": "Koorivar",
+    "language": "Koorivar",
+    "population": [
+      "c.25 ABY",
+      "10 million to 100 million"
+    ],
+    "affiliation": [
+      "Infinite Empire",
+      "Galactic Republic",
+      "Corporate Alliance",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Koorivar",
+      "directory": "Koorivar",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Koorivar",
+      "directory": "Koorivar (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kooriva",
+    "x": 2377.7,
+    "y": -6365.9,
+    "z": 53.9,
+    "region": "Inner Rim",
+    "grid": "M-14"
+  },
+  "scraped": "2026-07-03"
+}

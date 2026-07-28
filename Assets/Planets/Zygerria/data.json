@@ -1,0 +1,73 @@
+{
+  "name": "Zygerria",
+  "wookieepedia_title": "Zygerria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zygerria",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Zygerria was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Zygerrian species.",
+  "lead_paragraphs": [
+    "Zygerria was a planet located in the galaxy's Outer Rim Territories that was the homeworld of the Zygerrian species."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Zygerria",
+    "region": "Outer Rim Territories",
+    "sector": "Chorlian sector",
+    "system": "Zygerria system",
+    "coordinates": "S-4",
+    "suns": "1",
+    "moons": "1",
+    "routes": [
+      "Listehol Run",
+      "Shaltin Tunnels"
+    ],
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Plains",
+      "Mesas",
+      "Highlands",
+      "Rocky"
+    ],
+    "interest": "Royal Palace",
+    "flora": "Slave Shade",
+    "fauna": [
+      "Blurrg",
+      "Bogwing",
+      "Brezak"
+    ],
+    "species": "Zygerrian",
+    "language": "Galactic Basic Standard",
+    "government": "Queen of Zygerria",
+    "imports": "Sentient beings",
+    "exports": "Slaves",
+    "affiliation": [
+      "Zygerrian Slave Empire",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Zygerrian",
+      "directory": "Zygerrian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Zygerrian",
+      "directory": "Zygerrian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Zygerria",
+    "x": 10594.8,
+    "y": 8213.8,
+    "z": 326.3,
+    "region": "Outer Rim",
+    "grid": "S-4"
+  },
+  "scraped": "2026-07-03"
+}

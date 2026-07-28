@@ -1,0 +1,46 @@
+{
+  "name": "Troska",
+  "wookieepedia_title": "Troska",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Troska",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Troska was a forested planet located within the Troska system of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Troska was a forested planet located within the Troska system of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Troska",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Dantus sector",
+    "system": "Troska system",
+    "coordinates": "J-6",
+    "terrain": [
+      "Canyons",
+      "Forests",
+      "Deserts"
+    ],
+    "interest": [
+      "Refinery Six-Two-Two",
+      "Imperial outpost"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Troska",
+    "x": -2215.6,
+    "y": 5584.1,
+    "z": -29.3,
+    "region": "Outer Rim",
+    "grid": "J-6"
+  },
+  "scraped": "2026-07-03"
+}

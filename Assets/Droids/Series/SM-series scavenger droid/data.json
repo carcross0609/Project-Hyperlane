@@ -1,0 +1,20 @@
+{
+  "name": "SM-series scavenger droid",
+  "wookieepedia_title": "SM-series scavenger droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SM-series_scavenger_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The SM-series scavenger droid was a droid used by the New Republic to examine starship wrecks and scavenge what it could. They would also make sure it was safe for organics to explore. It operated best in zero-gravity conditions, and would always work with a partner, so if one was destroyed, the other could film its demise.",
+  "data": {
+    "name": "SM-series scavenger droid",
+    "manufacturer": "New Republic Department of Research and Development",
+    "class": "Scavenger droid",
+    "sensor": [
+      "Holocam",
+      "Spectrometer"
+    ],
+    "affiliation": "New Republic"
+  },
+  "scraped": "2026-07-03"
+}

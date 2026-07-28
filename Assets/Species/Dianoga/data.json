@@ -1,0 +1,27 @@
+{
+  "name": "Dianoga",
+  "wookieepedia_title": "Dianoga",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dianoga",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Dianoga were large omnivorous cephalopods that hailed from the planet Vodran in the Si'Klaata Cluster, located in Hutt Space region of the galaxy. Although primitive, they were actually sentient, and some dianoga were sensitive to the Force.",
+  "data": {
+    "name": "Dianoga",
+    "designation": "Sentient",
+    "class": "Cephalopod",
+    "subspecies": "Trash squid",
+    "length": "7 to 10 meters",
+    "skincolor": "Deep purple",
+    "distinctions": "Seven suckered tentacles, several hearts, blue blood, ability to change color, ability to regenerate limbs",
+    "origin": "Vodran",
+    "habitat": [
+      "Swamps",
+      "Sewers",
+      "Junkyards"
+    ],
+    "diet": "Omnivore",
+    "language": "Dianoga language"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Vodran"
+}

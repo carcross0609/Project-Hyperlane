@@ -1,0 +1,55 @@
+{
+  "name": "Tuulab",
+  "wookieepedia_title": "Tuulab",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tuulab",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tuulab was the second planet in the Triitus system of the Corva sector.",
+  "lead_paragraphs": [
+    "Tuulab was the second planet in the Triitus system of the Corva sector."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Tuulab",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Corva sector",
+    "system": "Triitus system",
+    "coordinates": "P-4",
+    "position": "2",
+    "lengthday": "18 standard hours",
+    "lengthyear": "452 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Hills",
+      "Mountains",
+      "Plains"
+    ],
+    "interest": "Mahk'khar's Palace",
+    "otherspecies": "Human",
+    "government": "Anarchy",
+    "population": "6,000",
+    "demonym": "Tuulabi",
+    "imports": "Medical supplies",
+    "exports": "Minerals"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tuulab",
+    "x": 6400.5,
+    "y": 8006.2,
+    "z": 230.5,
+    "region": "Outer Rim",
+    "grid": "P-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "4-LOM",
+  "wookieepedia_title": "4-LOM",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/4-LOM",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "4-LOM \"FOR-ELLOEM\" was an ambitious LOM-series protocol droid that specialized in millions of languages. He was manufactured for the employment of insectoid species. A logic glitch allowed him to overwrite his programming and become a galactic thief and later a bounty hunter. He often worked together with Gand findsman Zuckuss. Following the Battle of Hoth, both 4-LOM and Zuckuss were hired by the Sith Lord known as Darth Vader to capture Han Solo, captain of the Millennium Falcon and hero of the Alliance to Restore the Republic. However, the bounty on the smuggler's head was instead claimed by the infamous Boba Fett.",
+  "data": {
+    "type": "Bounty hunter",
+    "name": "4-LOM",
+    "death": "3 ABY, Nar Shaddaa (later rebuilt)",
+    "manufacturer": "Industrial Automaton",
+    "model": "LOM-series protocol droid",
+    "class": [
+      "Protocol droid",
+      "Assassin droid"
+    ],
+    "height": "1.67 meters (5ft 6in)",
+    "gender": "Masculine programming",
+    "pronouns": [
+      "He/him",
+      "It/its"
+    ],
+    "sensor": "Green",
+    "plating": "Black (rusted)",
+    "armament": [
+      "DLT-19 heavy blaster rifle",
+      "DLT-19x targeting blaster"
+    ],
+    "affiliation": [
+      "Hutt Clan",
+      "  Jabba's criminal empire",
+      "Bounty Hunters' Guild",
+      "T'onga's crew",
+      "D-Squad"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

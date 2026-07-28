@@ -1,0 +1,38 @@
+{
+  "name": "Rakrir",
+  "wookieepedia_title": "Rakrir",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rakrir",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rakrir was the homeworld of the Rakririan species. A highly refined and meticulous species, few left their homeworld, finding the rest of the galaxy to be too unsophisticated. The planet was sometimes known as Ballikite.",
+  "lead_paragraphs": [
+    "Rakrir was the homeworld of the Rakririan species. A highly refined and meticulous species, few left their homeworld, finding the rest of the galaxy to be too unsophisticated. The planet was sometimes known as Ballikite.",
+    "Two notable expatriates from the planet were Mogoyu, who came second in the decaped-plus category of the Mobquet Presents: Fastest Land Beings races, and Sabodor, who set up a boutique petstore on Etti IV."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rakrir",
+    "region": "Outer Rim Territories",
+    "sector": "Kwymar sector",
+    "system": "Rakrir system",
+    "coordinates": "Q-4",
+    "species": "Rakririan",
+    "exports": "Rakririan Burnout Sauce"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rakririan",
+      "directory": "Rakririan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rakrir",
+    "x": 7767.4,
+    "y": 8249.6,
+    "z": -135.9,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

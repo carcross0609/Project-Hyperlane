@@ -1,0 +1,41 @@
+{
+  "name": "Yablari",
+  "wookieepedia_title": "Yablari",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yablari",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Yablari was a world in the Outer Rim Territories that was the homeworld of the Anomid species. Silvanie Phest led a handful of Anomids from their homeworld to the moon Jedha.",
+  "lead_paragraphs": [
+    "Yablari was a world in the Outer Rim Territories that was the homeworld of the Anomid species. Silvanie Phest led a handful of Anomids from their homeworld to the moon Jedha."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Yablari",
+    "region": "Outer Rim Territories",
+    "sector": "Vorzyd sector",
+    "system": "Yablari system",
+    "coordinates": "R-6",
+    "species": "Anomid"
+  },
+  "homeworld_of": [
+    {
+      "name": "Anomid",
+      "directory": "Anomid",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Anomid",
+      "directory": "Anomid (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Yablari",
+    "x": 10206.0,
+    "y": 5842.4,
+    "z": -58.5,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

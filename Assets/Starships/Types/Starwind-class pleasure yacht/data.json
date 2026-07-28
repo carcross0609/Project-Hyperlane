@@ -1,0 +1,40 @@
+{
+  "name": "Starwind-class pleasure yacht",
+  "wookieepedia_title": "Starwind-class pleasure yacht",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Starwind-class_pleasure_yacht",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Starwind-class pleasure yacht was a luxury starship produced by Kuat Drive Yards. It was originally intended to compete with CEC's YT-series, which it bore a slight resemblance to, especially in the cockpit. Before the design was completed, it was repackaged as a yacht for wealthy customers and positioned to compete against Hyrotii's Crescent-class Transport.",
+  "data": {
+    "name": "Starwind-class pleasure yacht",
+    "manufacturer": "Kuat Drive Yards",
+    "model": "Starwind-class pleasure yacht",
+    "type": "Yacht",
+    "cost": [
+      "1,000,000 credits (new)",
+      "450,000 credits (used)"
+    ],
+    "length": "50 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 1.0",
+      "Class 15 (backup)"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "crew": "3 + 2 gunners (if armed)",
+    "passengers": "10",
+    "capacity": "20 metric tons",
+    "consumables": "2 months",
+    "othersystems": "1 hyperdrive-equipped escape pod",
+    "role": [
+      "Yacht",
+      "Freighter"
+    ],
+    "affiliation": [
+      "Civilian",
+      "Smugglers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

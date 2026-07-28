@@ -1,0 +1,58 @@
+{
+  "name": "Eliad",
+  "wookieepedia_title": "Eliad",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eliad",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Eliad was a planet in the Minos Cluster where many wealthy noble families of the galaxy were exiled after the rise of the Empire .",
+  "lead_paragraphs": [
+    "Eliad was a planet in the Minos Cluster where many wealthy noble families of the galaxy were exiled after the rise of the Empire ."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Eliad",
+    "region": "Outer Rim Territories",
+    "sector": "Minos Cluster",
+    "system": "Eliad system",
+    "coordinates": "M-20",
+    "lengthday": "21 standard hours",
+    "lengthyear": "381 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Plains",
+      "Valleys",
+      "Plateaus"
+    ],
+    "interest": [
+      "Jesart desert",
+      "Eliad spaceport"
+    ],
+    "species": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Imperial governorship",
+    "population": "6 million (c. Galactic Empire",
+    "imports": [
+      "Luxury items",
+      "Machinery"
+    ],
+    "exports": "Minerals",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Eliad",
+    "x": 2800.3,
+    "y": -16107.9,
+    "z": -115.0,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

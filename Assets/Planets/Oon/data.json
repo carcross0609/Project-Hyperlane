@@ -1,0 +1,37 @@
+{
+  "name": "Oon",
+  "wookieepedia_title": "Oon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oon",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Oon was an arid planet located in the Lothal sector of Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Oon was an arid planet located in the Lothal sector of Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Oon",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Lothal sector",
+    "system": "Oon system",
+    "coordinates": "U-7",
+    "atmosphere": "Breathable",
+    "terrain": "Desert"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Oon",
+    "x": 12560.2,
+    "y": 1009.2,
+    "z": -314.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

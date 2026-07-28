@@ -1,0 +1,115 @@
+{
+  "name": "Socorro",
+  "wookieepedia_title": "Socorro/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Socorro/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Socorro was a planet in the Outer Rim Territories with a reputation as a smuggler haven. It was the homeworld of Lando Calrissian.",
+  "lead_paragraphs": [
+    "Socorro was a planet in the Outer Rim Territories with a reputation as a smuggler haven. It was the homeworld of Lando Calrissian."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Socorro",
+    "region": "Outer Rim Territories",
+    "sector": "Kibilini sector",
+    "system": "Socorro system",
+    "coordinates": "Q-17",
+    "suns": "1: Sokor",
+    "moons": "None",
+    "routes": [
+      "Llanic Spice Run",
+      "Ryloth Road"
+    ],
+    "lengthday": "20 standard hours",
+    "lengthyear": "326 local days",
+    "class": "Desert",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": [
+      "Desert swells and flats",
+      "Mountains",
+      "Volcanic regions"
+    ],
+    "water": "Arid",
+    "interest": [
+      "Doaba Badlands",
+      "Rym Mountains",
+      "Judges of the Dead",
+      "Madra",
+      "Razoor Mountains",
+      "Jedi Academy",
+      "Imperial Mission temple",
+      "Crimson Axe",
+      "Killee Wasteland",
+      "Black Dust Tavern",
+      "Golden Gorg Cantina",
+      "Soco-Jarel Spaceport",
+      "Sarlacc's Peak",
+      "Carbon Score Wastes"
+    ],
+    "fauna": [
+      "Chiru",
+      "Druyza",
+      "M'onnok",
+      "Mutriok",
+      "Sandfly",
+      "Sarlacc",
+      "Socorran granite-hawk",
+      "Socorro rat",
+      "Tailring",
+      "Tra'cor",
+      "Water beetle"
+    ],
+    "otherspecies": "Human",
+    "language": "Socorran",
+    "government": [
+      "Tribal",
+      "Organized crime"
+    ],
+    "population": [
+      "300 million (unconfirmed)",
+      "90% Human",
+      "10% other"
+    ],
+    "demonym": "Socorran",
+    "cities": [
+      "Vakeyya (capital)",
+      "Cjaalysce'I"
+    ],
+    "imports": [
+      "Metals",
+      "High technology"
+    ],
+    "exports": [
+      "Water",
+      "Nether ice",
+      "High tech skills"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Fel Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Monnok",
+      "directory": "Monnok",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Socorro",
+    "x": 7727.8,
+    "y": -11533.5,
+    "z": 316.2,
+    "region": "Outer Rim",
+    "grid": "Q-17"
+  },
+  "scraped": "2026-07-03"
+}

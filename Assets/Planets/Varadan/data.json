@@ -1,0 +1,42 @@
+{
+  "name": "Varadan",
+  "wookieepedia_title": "Varadan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Varadan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Varadan was a Mid Rim world of the Senex sector. It orbited two stars and was very hot. Controlled by the aristocratic Ancient Houses of the Senex-Juvex region, it served as a mining world and employed enslaved labor.",
+  "lead_paragraphs": [
+    "Varadan was a Mid Rim world of the Senex sector. It orbited two stars and was very hot. Controlled by the aristocratic Ancient Houses of the Senex-Juvex region, it served as a mining world and employed enslaved labor."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Varadan",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Varadan system",
+    "coordinates": "L-18",
+    "suns": "2",
+    "climate": "Hot",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Varadan",
+    "x": 376.8,
+    "y": -12165.5,
+    "z": -327.7,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Kiffu",
+  "wookieepedia_title": "Kiffu/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kiffu/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kiffu was a planet in the outermost reaches of the Inner Rim. It was the homeworld of the Kiffar species.",
+  "lead_paragraphs": [
+    "Kiffu was a planet in the outermost reaches of the Inner Rim. It was the homeworld of the Kiffar species."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kiffu",
+    "region": [
+      "Inner Rim",
+      "Western Reaches"
+    ],
+    "sector": "Kiffu sector",
+    "system": "Kiffex system",
+    "coordinates": "L-14",
+    "suns": "1",
+    "routes": "Rycar's Run",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid-temperate",
+    "fauna": [
+      "Spark-dragon",
+      "Static tree"
+    ],
+    "species": "Kiffar",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kiffar",
+      "directory": "Kiffar",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kiffar",
+      "directory": "Kiffar (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kiffu",
+    "x": 420.6,
+    "y": -6469.9,
+    "z": -114.5,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

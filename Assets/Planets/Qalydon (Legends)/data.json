@@ -1,0 +1,44 @@
+{
+  "name": "Qalydon",
+  "wookieepedia_title": "Qalydon/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Qalydon/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Qalydon was a planet located in the Qalydon system of the Outer Rim's Sertar sector. The planet served as the headquarters of the Fellowship of Kooroo.",
+  "lead_paragraphs": [
+    "Qalydon was a planet located in the Qalydon system of the Outer Rim's Sertar sector. The planet served as the headquarters of the Fellowship of Kooroo."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Qalydon",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Sertar sector",
+    "system": "Qalydon system",
+    "coordinates": "R-5",
+    "terrain": "Mountains",
+    "interest": [
+      "Port Fyrin",
+      "A Qalydon mountain"
+    ],
+    "affiliation": [
+      "Fellowship of Kooroo",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Qalydon",
+    "x": 10075.0,
+    "y": 7163.8,
+    "z": -2.7,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

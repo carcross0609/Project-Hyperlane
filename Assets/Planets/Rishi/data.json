@@ -1,0 +1,50 @@
+{
+  "name": "Rishi",
+  "wookieepedia_title": "Rishi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rishi",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rishi was a planet located in the Abrion sector's Rishi system of the Outer Rim Territories. Orbited by the Rishi Moon, Rishi sat at S-15 on the Standard Galactic Grid. It contained deposits of exonium and was home to the Rishii species.",
+  "lead_paragraphs": [
+    "Rishi was a planet located in the Abrion sector's Rishi system of the Outer Rim Territories. Orbited by the Rishi Moon, Rishi sat at S-15 on the Standard Galactic Grid. It contained deposits of exonium and was home to the Rishii species.",
+    "During the Republic Era, Jedi Master Lene Kostana and her Padawan, Sifo-Dyas, discovered the Hand of Skrye on Rishi, and while on the planet, Kostana taught her apprentice a cleansing ritual. Later, during the time of the Clone Wars, the Rishi Moon housed a Galactic Republic listening post known as the Rishi Station, which was invaded by the Confederacy of Independent Systems led by Kaleesh General Grievous in 22 BBY. In order to get backup to assist them, the Republic clone troopers destroyed the listening post.",
+    "During the New Republic Era, racer Marcus Speedstar encountered the Guavian Death Gang in Rishi, which Speedstar manage to escape with a maneuver that destroyed one of their starships but Death Gang tracked him to the Colossus station on Castilon, and forced him to pay the 20,000 credits he owned them."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rishi",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Abrion sector",
+    "system": "Rishi system",
+    "coordinates": "S-15",
+    "moons": "1: Rishi Moon",
+    "routes": "Manda Merchant Run",
+    "species": "Rishii",
+    "exports": "Exonium",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rishii",
+      "directory": "Rishii",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Rishii",
+      "directory": "Rishii (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rishi",
+    "x": 10765.6,
+    "y": -7811.3,
+    "z": -324.4,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

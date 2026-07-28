@@ -1,0 +1,34 @@
+{
+  "name": "Movris",
+  "wookieepedia_title": "Movris",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Movris",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Movris was a planet located in the Noonian sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Movris was a planet located in the Noonian sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Movris",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Noonian sector",
+    "system": "Movris system",
+    "coordinates": "M-6"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Movris",
+    "x": 4821.2,
+    "y": 5061.7,
+    "z": -99.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

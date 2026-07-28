@@ -1,0 +1,36 @@
+{
+  "name": "Anx",
+  "wookieepedia_title": "Anx",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anx",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Anx were a tall reptilian sentient species native to Gravlex Med. They were notable for their blade-shaped head which had a crest that changed color according to the individual's mood. They had a hunched stature and a low voice that was a direct result of the atmosphere on their homeworld having a higher-than-average gravity. They also were represented in both the Galactic Senate and the Jedi Order.",
+  "data": {
+    "name": "Anx",
+    "designation": "Sentient",
+    "class": "Reptilian",
+    "height": "Tall",
+    "skincolor": [
+      "Blue",
+      "Gray",
+      "Green",
+      "Orange",
+      "Tan",
+      "Yellow"
+    ],
+    "eyecolor": [
+      "Black",
+      "Blue",
+      "Gray",
+      "Orange"
+    ],
+    "distinctions": [
+      "Crested head that changes color according to mood",
+      "Large tails",
+      "Long lifespan"
+    ],
+    "origin": "Gravlex Med"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Gravlex Med"
+}

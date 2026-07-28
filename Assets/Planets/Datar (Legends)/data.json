@@ -1,0 +1,45 @@
+{
+  "name": "Datar",
+  "wookieepedia_title": "Datar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Datar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Datar was the homeworld of the Ghostling species. Its princess was kidnapped by slavers in 32 BBY, though she and several other Ghostling children were rescued by Anakin Skywalker.",
+  "lead_paragraphs": [
+    "Datar was the homeworld of the Ghostling species. Its princess was kidnapped by slavers in 32 BBY, though she and several other Ghostling children were rescued by Anakin Skywalker.",
+    "Early in the Galactic Civil War, it was home to a Rebel Alliance base. In the Attack at Datar, the Rebels fought the Galactic Empire's forces to the last man, but were defeated by Vice Admiral Slenn's forces. Slenn himself was either killed during the battle, or executed for incompetence by Darth Vader afterward."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Datar",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "system": "Datar system",
+    "coordinates": "L-8",
+    "terrain": "Forest",
+    "interest": [
+      "A Ghostling village",
+      "A Rebel Alliance base"
+    ],
+    "flora": "Bayah",
+    "species": "Ghostling"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ghostling",
+      "directory": "Ghostling",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Datar",
+    "x": 838.4,
+    "y": 2438.5,
+    "z": -117.1,
+    "region": "Inner Rim",
+    "grid": "L-8"
+  },
+  "scraped": "2026-07-03"
+}

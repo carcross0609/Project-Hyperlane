@@ -1,0 +1,50 @@
+{
+  "name": "Atterra Bravo",
+  "wookieepedia_title": "Atterra Bravo",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Atterra_Bravo",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Atterra Bravo was a planet located in the Atterra system within the Outer Rim Territories. The Firestone Islands were located on Atterra Bravo. It had a sister planet named Atterra Alpha and both were surrounded by a thick asteroid belt.",
+  "lead_paragraphs": [
+    "Atterra Bravo was a planet located in the Atterra system within the Outer Rim Territories. The Firestone Islands were located on Atterra Bravo. It had a sister planet named Atterra Alpha and both were surrounded by a thick asteroid belt.",
+    "During the Cold War between the First Order and New Republic, the planet went on lockdown with a blockade over all the system. Very little ships were left from the First Order's sweep of the old security forces. Many people did not have their own Moisture Vaporators, so the blockade left many dead from thirst. The brutality of the First Order lead to the development of Bravo Rising, a local resistance movement. The Resistance arrived with Cobalt Squadron important medical, food, water and fuel supplies to aid their fight against the First Order."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Atterra Bravo",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Kanz sector",
+    "system": "Atterra system",
+    "coordinates": "N-4",
+    "moons": "1",
+    "routes": "Veragi Trade Route",
+    "interest": [
+      "Firestone Islands",
+      "Firestone Technical Academy",
+      "Rockland Plate"
+    ],
+    "otherspecies": "Human",
+    "demonym": "Atterran",
+    "cities": "Big Settlement",
+    "affiliation": "First Order"
+  },
+  "homeworld_of": [
+    {
+      "name": "Atterran",
+      "directory": "Atterran",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Atterra Bravo",
+    "x": 6950.7,
+    "y": -3370.9,
+    "z": -42.9,
+    "region": "Outer Rim",
+    "grid": "P-12"
+  },
+  "scraped": "2026-07-03"
+}

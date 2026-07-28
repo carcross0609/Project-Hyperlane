@@ -1,0 +1,44 @@
+{
+  "name": "Antolus I",
+  "wookieepedia_title": "Antolus I",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Antolus_I",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Antolus I was a planet located in the Sarka sector of the Mid Rim.",
+  "lead_paragraphs": [
+    "Antolus I was a planet located in the Sarka sector of the Mid Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Antolus I",
+    "region": "Mid Rim",
+    "sector": "Sarka sector",
+    "system": "Antolus system",
+    "coordinates": "Q-8",
+    "suns": "1",
+    "position": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "terrain": [
+      "Deserts",
+      "Rocks",
+      "Volcanoes"
+    ],
+    "fauna": "Insects",
+    "population": "None"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Antolus I",
+    "x": 7661.2,
+    "y": 2138.1,
+    "z": -140.2,
+    "region": "Mid Rim",
+    "grid": "Q-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Lanvarok",
+  "wookieepedia_title": "Lanvarok",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lanvarok",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The lanvarok was a combination two-handed polearm weapon and projectile launcher that released sharp, poison-coated discs guided by the power of the dark side. Initially purposed as a hunting tool, the massive lanvarok was the primary combat weapon of the Massassi warriors of the Sith species, both melee and ranged, and also the device brandished by Sith Lords during ceremonies. The original lanvarok was inspired by the natural left-handed disposition of all members of the Sith species, a distinction that was also maintained in the weapon's alternate forearm-mounted, combat-exclusive projectile dispenser design. A right-handed version was later developed by Sith Lords of Human descent.",
+  "data": {
+    "name": "Lanvarok",
+    "manufacturer": "Sith",
+    "model": [
+      "Ranged polearm",
+      "Forearm-mounted disc launcher"
+    ],
+    "type": [
+      "Advanced (polearm version)",
+      "Exotic (forearm-mounted version)"
+    ],
+    "culture": "Sith",
+    "creators": "Sith",
+    "created": [
+      "c. 6900 BBY (polearm version)",
+      "Thousands of years after 5000 BBY (forearm-mounted version)"
+    ],
+    "locations": [
+      "Restricted to worlds within Sith space prior to 5000 BBY",
+      "Yavin 4",
+      "Galaxywide after 5000 BBY (rarely)"
+    ],
+    "cost": [
+      "250 credits (polearm version)",
+      "4,000 credits (forearm-mounted version)",
+      "5 credits per disc for both"
+    ],
+    "value": "Priceless to collectors",
+    "shape": [
+      "Polearm axe",
+      "Forearm-mounted disc launcher"
+    ],
+    "size": [
+      "Large (polearm version)",
+      "Medium (forearm-mounted version)"
+    ],
+    "material": [
+      "Polearm version:",
+      "Bone",
+      "Wood",
+      "Durasteel",
+      "Forearm-mounted version:",
+      "Durasteel",
+      "Cortosis alloy (occasionally)",
+      "Discs:",
+      "Bone",
+      "Metal"
+    ],
+    "length": "At least the height of a Massassi warrior (polearm version)",
+    "diam": "Several centimeters (discs)",
+    "weight": [
+      "9.8 kg (polearm version)",
+      "5.8 kg (forearm-mounted version)",
+      "0.1 kg (discs)"
+    ],
+    "protection": "Lightsaber-impervious cortosis alloy armor plating (forearm-mounted version)",
+    "capacity": [
+      "Several sharpened discs (polearm version)",
+      "5 discs (forearm-mounted version)"
+    ],
+    "range": [
+      "Polearm version:",
+      "Optimum: up to 9 meters",
+      "Maximum: up to 15 meters",
+      "Can also be used as a melee weapon",
+      "Forearm-mounted version:",
+      "Optimum: up to 30 meters",
+      "Maximum: up to 90 meters"
+    ],
+    "inscription": "Unique to the owner",
+    "purpose": [
+      "Ceremony",
+      "Hunting",
+      "Melee combat",
+      "Ranged combat"
+    ],
+    "heritage": "Sith",
+    "affiliation": "Sith"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Dolomar",
+  "wookieepedia_title": "Dolomar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dolomar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dolomar was the sector capital of Dolomar sector. The mostly Human population lived underground to avoid the bitter cold. The largest of these underground complexes, Diflu, was located in the northernmost mountains of the planet, the L'tiri Peaks. The local day lasted 45 standard hours. The local year lasted 224 local days. Its hydrosphere was mostly solidified as glaciers and snow.",
+  "lead_paragraphs": [
+    "Dolomar was the sector capital of Dolomar sector. The mostly Human population lived underground to avoid the bitter cold. The largest of these underground complexes, Diflu, was located in the northernmost mountains of the planet, the L'tiri Peaks. The local day lasted 45 standard hours. The local year lasted 224 local days. Its hydrosphere was mostly solidified as glaciers and snow."
+  ],
+  "article_sections": [
+    "History",
+    "  Early history",
+    "  New Republic"
+  ],
+  "data": {
+    "name": "Dolomar",
+    "region": "Core Worlds",
+    "sector": "Dolomar sector",
+    "system": "Dolomar system",
+    "coordinates": "K-9",
+    "suns": "1",
+    "position": "1",
+    "lengthday": "45 standard hours",
+    "lengthyear": "224 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Frigid",
+    "gravity": "Standard",
+    "terrain": [
+      "Glaciers",
+      "Snowfields",
+      "Mountains"
+    ],
+    "interest": "L'tiri Peaks",
+    "otherspecies": "Human",
+    "government": "Participatory democracy",
+    "population": "1.5 billion",
+    "cities": "Diflu",
+    "imports": [
+      "Mid technology",
+      "High technology",
+      "Foodstuffs"
+    ],
+    "exports": [
+      "Minerals",
+      "Dolomar spice wine"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dolomar",
+    "x": 1770.4,
+    "y": -4348.6,
+    "z": 248.9,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

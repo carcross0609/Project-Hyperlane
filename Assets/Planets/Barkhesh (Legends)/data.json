@@ -1,0 +1,57 @@
+{
+  "name": "Barkhesh",
+  "wookieepedia_title": "Barkhesh/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barkhesh/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Barkhesh was a planet located in the Seitia sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Barkhesh was a planet located in the Seitia sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Barkhesh",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Seitia sector",
+    "system": "Barkhesh system",
+    "coordinates": "K-19",
+    "moons": "At least 1",
+    "class": "Terrestrial",
+    "climate": "Tropical",
+    "terrain": [
+      "Farmlands",
+      "Canyons",
+      "Valleys",
+      "Forests",
+      "Seas"
+    ],
+    "interest": [
+      "Great Temple Valley",
+      "Rebel Base"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "population": "Very small",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Barkhesh",
+    "x": -818.0,
+    "y": -14616.5,
+    "z": 437.5,
+    "region": "Outer Rim",
+    "grid": "K-19"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Altora",
+  "wookieepedia_title": "Altora",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Altora",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Altora was an Outer Rim Territories planet located in the Dalonbian sector. It had a warm climate in its southern regions, and plains and savannahs on its surface. Those grasslands were home to the reptilian predators known as altagaks. The creatures hunted herd animals kept by the planet's ranchers, causing the latter to post large bounties on altagak hides.",
+  "lead_paragraphs": [
+    "Altora was an Outer Rim Territories planet located in the Dalonbian sector. It had a warm climate in its southern regions, and plains and savannahs on its surface. Those grasslands were home to the reptilian predators known as altagaks. The creatures hunted herd animals kept by the planet's ranchers, causing the latter to post large bounties on altagak hides."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Altora",
+    "region": "Outer Rim Territories",
+    "sector": "Dalonbian sector",
+    "system": "Altora system",
+    "coordinates": "L-3",
+    "suns": "1",
+    "class": "Terrestrial",
+    "climate": "Warm (southern regions)",
+    "terrain": [
+      "Plains",
+      "Savannahs"
+    ],
+    "flora": "Grasses",
+    "fauna": [
+      "Altagak",
+      "Herd animals"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Altora",
+    "x": 1152.4,
+    "y": 9654.5,
+    "z": 31.9,
+    "region": "Other",
+    "grid": "L-3"
+  },
+  "scraped": "2026-07-03"
+}

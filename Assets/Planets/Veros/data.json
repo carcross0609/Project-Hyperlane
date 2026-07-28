@@ -1,0 +1,40 @@
+{
+  "name": "Veros",
+  "wookieepedia_title": "Veros",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Veros",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Veros was a planet located in the Veros system in the Dimean sector of the Expansion Region. It was also the homeworld of the Verosian species. It was once rich, but the Galactic Empire gained control of the planet and took the Verosians' wealth for itself.",
+  "lead_paragraphs": [
+    "Veros was a planet located in the Veros system in the Dimean sector of the Expansion Region. It was also the homeworld of the Verosian species. It was once rich, but the Galactic Empire gained control of the planet and took the Verosians' wealth for itself."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Veros",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Dimean sector",
+    "system": "Veros system",
+    "coordinates": "P-13",
+    "species": "Verosian",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Verosian",
+      "directory": "Verosian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Veros",
+    "x": 796.8,
+    "y": -11458.2,
+    "z": 260.9,
+    "region": "Other",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

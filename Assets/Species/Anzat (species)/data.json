@@ -1,0 +1,40 @@
+{
+  "name": "Anzat",
+  "wookieepedia_title": "Anzat (species)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anzat_%28species%29",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Anzati (singular: Anzat) were a dangerous and feared Force-sensitive near-Human species with two tentacle-like proboscises that curled out and extended from their cheeks, with which the Anzati were able to feed upon the brains of their prey. With the tentacles retracted into seams along each side of their nose, Anzati were indistinguishable from any other humanoid species in the galaxy.",
+  "data": {
+    "name": "Anzat",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "height": "1.5-1.7 meters",
+    "mass": "60 kilograms",
+    "skincolor": "Grayish-hued",
+    "haircolor": [
+      "Black",
+      "Brown",
+      "White"
+    ],
+    "distinctions": [
+      "Hidden proboscises",
+      "Exceptional longevity"
+    ],
+    "lifespan": [
+      "Child: 1-12 years",
+      "Young adult: 13-99 years",
+      "Adult: 100-649 years",
+      "Middle age: 650-799 years",
+      "Old: 800-950 years",
+      "Venerable: 951+ years"
+    ],
+    "origin": "Anzat",
+    "language": [
+      "Anzat language",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Anzat (Legends)"
+}

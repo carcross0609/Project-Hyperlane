@@ -1,0 +1,34 @@
+{
+  "name": "Gloon",
+  "wookieepedia_title": "Gloon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gloon",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Gloon, also known as Gloova, was a planet located in the Gloon system. The hot, humid world was the homeworld of the Gloovan species, including the pirate Muglan Tarantyne and her husband Straan Valgar.",
+  "lead_paragraphs": [
+    "Gloon, also known as Gloova, was a planet located in the Gloon system. The hot, humid world was the homeworld of the Gloovan species, including the pirate Muglan Tarantyne and her husband Straan Valgar."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gloon",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Gloon system",
+    "coordinates": "T-10",
+    "class": "Terrestrial",
+    "climate": "Warm and humid",
+    "species": "Gloovan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gloovan",
+      "directory": "Gloovan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

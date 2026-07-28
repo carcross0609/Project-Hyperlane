@@ -1,0 +1,46 @@
+{
+  "name": "Lorrad",
+  "wookieepedia_title": "Lorrad",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lorrad",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lorrad was an Outer Rim Territories urban world located in the Tion Cluster's Allied Tion sector. By around 25,130 BBY, it was ruled by the Livien League and was the site of a League victory over the forces of the Kingdom of Cron. Lorrad later spent millennia enslaved by the Kingdom of Barseg, with it only gaining its freedom around 300 BBY.",
+  "lead_paragraphs": [
+    "Lorrad was an Outer Rim Territories urban world located in the Tion Cluster's Allied Tion sector. By around 25,130 BBY, it was ruled by the Livien League and was the site of a League victory over the forces of the Kingdom of Cron. Lorrad later spent millennia enslaved by the Kingdom of Barseg, with it only gaining its freedom around 300 BBY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Lorrad",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Tion Cluster",
+      "  Allied Tion sector"
+    ],
+    "system": "Lorrad system",
+    "coordinates": "S-6",
+    "routes": "Perlemian Trade Route",
+    "class": "Terrestrial",
+    "terrain": "Urban",
+    "affiliation": [
+      "Livien League",
+      "Kingdom of Barseg"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lorrad",
+    "x": 10859.8,
+    "y": 5721.4,
+    "z": -1.5,
+    "region": "Outer Rim",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

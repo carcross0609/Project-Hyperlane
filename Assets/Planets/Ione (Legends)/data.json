@@ -1,0 +1,78 @@
+{
+  "name": "Ione",
+  "wookieepedia_title": "Ione/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ione/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ione was a thriving spaceport world lying along the Corellian Trade Spine in the Anoat sector of the Outer Rim Territories. Originally settled by the Galactic Republic centuries before the Galactic Civil War, Ione occupied a key intersection on the Trade Spine that made it the sole hyperspace link to the Greater Javin region's four Mining Worlds.",
+  "lead_paragraphs": [
+    "Ione was a thriving spaceport world lying along the Corellian Trade Spine in the Anoat sector of the Outer Rim Territories. Originally settled by the Galactic Republic centuries before the Galactic Civil War, Ione occupied a key intersection on the Trade Spine that made it the sole hyperspace link to the Greater Javin region's four Mining Worlds.",
+    "The Figg Excavations mining company used Ione as its entry point for operations throughout the surrounding area. In 3 ABY, Imperial Star Destroyers from Darth Vader's personal Death Squadron likewise used the Ione system as their staging point for launching reconnaissance probe droids to neighboring planets in search of the secret Rebel Alliance base."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic settlement and FiggEx mining",
+    "  Galactic Civil War",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Ione",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Greater Javin",
+      "  Anoat sector"
+    ],
+    "system": "Ione system",
+    "coordinates": "K-18",
+    "routes": [
+      "Corellian Trade Spine",
+      "Ione–Isis hyperroute"
+    ],
+    "lengthday": "23 standard hours",
+    "lengthyear": "390 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Urban",
+      "Seas",
+      "Plateaus"
+    ],
+    "otherspecies": [
+      "Human",
+      "Lutrillian",
+      "Nothoiin",
+      "Ugnaught"
+    ],
+    "government": "Corporate",
+    "population": "1 billion",
+    "imports": [
+      "Technology",
+      "Foodstuffs"
+    ],
+    "exports": [
+      "Ores",
+      "Gems"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Figg Excavations"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ione",
+    "x": -1312.1,
+    "y": -12871.0,
+    "z": -225.7,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

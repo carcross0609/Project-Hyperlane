@@ -1,0 +1,83 @@
+{
+  "name": "Krann",
+  "wookieepedia_title": "Krann",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Krann",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Krann was a planet in the Expansion Region, on the Enarc Run. It was taken over by the Galactic Empire for its nova crystals, and the native Kluuzot were enslaved. Following the Battle of Endor, the sector governor seceded and established a neutral terrority. The Kluuzot were freed, and various commercial investors moved to the planet.",
+  "lead_paragraphs": [
+    "Krann was a planet in the Expansion Region, on the Enarc Run. It was taken over by the Galactic Empire for its nova crystals, and the native Kluuzot were enslaved. Following the Battle of Endor, the sector governor seceded and established a neutral terrority. The Kluuzot were freed, and various commercial investors moved to the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Krann",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Var Hagen sector",
+    "system": "Opiteihr system",
+    "coordinates": "M-16",
+    "suns": [
+      "4:",
+      "Dal",
+      "Kalnus",
+      "Opiteihr",
+      "Terax"
+    ],
+    "routes": "Enarc Run",
+    "lengthday": "31 standard hours",
+    "lengthyear": "162 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Warm",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Jungle",
+      "Plains"
+    ],
+    "interest": [
+      "Black Jungle",
+      "Cathedral of Shade",
+      "Mon Tondievz Mine",
+      "Tagge camp",
+      "Wages of Phy'r"
+    ],
+    "species": "Kluuzot",
+    "otherspecies": "Humans",
+    "government": "Competing corporate states",
+    "population": [
+      "13.4 million Kluuzot",
+      "2,300 colonists"
+    ],
+    "cities": "Mon Tondievz City",
+    "imports": [
+      "Foodstuffs",
+      "Medicinal goods",
+      "High technology",
+      "Luxury goods"
+    ],
+    "exports": [
+      "Rare minerals",
+      "Nova crystals"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kluuzot",
+      "directory": "Kluuzot",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Krann",
+    "x": 5078.7,
+    "y": -8142.3,
+    "z": -499.0,
+    "region": "Expansion Region",
+    "grid": "O-15"
+  },
+  "scraped": "2026-07-03"
+}

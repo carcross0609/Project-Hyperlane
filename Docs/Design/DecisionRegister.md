@@ -80,6 +80,19 @@ and a changelog note, never silently.
 | DR-31 (2026-07-03) | Currency | **One galactic credit + per-polity acceptance modifiers drifting with war confidence** (Bible 06 §3) | Era-true credit distrust for the cost of one multiplier; no FX subsystem |
 | DR-32 (2026-07-03) | Price tempo | **Readable-fast**: local shocks reprice in 1–2 game days, regions re-equilibrate in 1–2 weeks, player arbitrage survives 3–5 runs (Bible 06 §4) | Cause→effect must be *felt* in a session; the Phase 3 exit criterion stated as tempo |
 
+### Hyperspace Navigation (2026-07-04)
+
+*Full design in `Docs/Design/HyperspaceNavigation.md`; deep spec for SimulationFramework §2.1.*
+
+| ID | Decision | Choice | Why |
+|---|---|---|---|
+| DR-33 (2026-07-04) | Nav data layering | **Three layers: authored geometry (defs) → derived graph (built at load, never saved) → live conditions (overlay, saved)** | Features become attributes on a layer, not new systems; the derived graph can't rot because it's rebuilt from source |
+| DR-34 (2026-07-04) | Course structure | **Course = ordered legs joined at realspace waypoints; a leg is lane-borne or realspace-borne; a direct jump is a one-leg course** | One structure serves single- and multi-jump; waypoints are the only legal recalc/interrupt points, in fiction and in code |
+| DR-35 (2026-07-04) | Leg breaks & junctions | **Breaks (transfer / gravity well / fuel range) are discovered by the router; junctions authored only where mechanically forced or narratively named** | Bible 01 §4.3 "discovered not declared" applied per-ship; no per-crossing authoring work list |
+| DR-36 (2026-07-04) | Routing preference | **One stateless router; preference is a weighted `FRouteCostProfile`, shipped as `URouteProfileDef` data assets** | §2.1's "one router, many cost functions"; adding a preference (Courier, Smuggler…) is an asset, never a router change |
+| DR-37 (2026-07-04) | Dynamic roads | **Blockades, contested stretches, dynamic hazards, and downed beacons are all `FNavConditions` overlay records — never bespoke systems** | Generalizes §2.1's "close edges, not systems"; removing a record relaxes the galaxy with zero bespoke cleanup |
+| DR-38 (2026-07-04) | Interdiction = gravity well | **Interdiction fields reuse `FGravityProfile` and the natural-well forced-reversion path; only runtime dynamism is new** | The hyperspace-ambush feature costs one overlay record plus an existing event — no new mechanic |
+
 ---
 
 ## Open Questions
@@ -97,6 +110,9 @@ blocks current work; anything that starts to, gets promoted to a decision.
 | ~~OQ-6~~ | **Resolved 2026-07-03 → DR-27.** Named beneficiary; registered assets transfer minus estate friction (what's on you becomes salvage); standing decays sharply, licenses void, charts survive where the ship does, social knowledge dies with you (Bible 09 §3). Save-schema fields flagged for Phase 2 | Bible 09 §3 |
 | OQ-7 | Character skills model (capability modifiers, never gates) | Phase 6 planning (logged in SimulationFramework §2.11) |
 | ~~OQ-8~~ | **Resolved 2026-07-02 → DR-25.** Hidden-actor concealment designed in Bible 02 §5: influence stakes on other factions' entities, action-through-hosts'-legal-verbs (decision bias, not commands), evidence records with exposure thresholds — discoverable in principle from tick one | Bible 02 §5 |
+| OQ-9 | Does v1 author any non-system junctions, or defer every leg break to systems? | Phase 2 topology import (HyperspaceNavigation §1.2) |
+| OQ-10 | Discovery *mechanics* — survey action, chart economy, nav-computer/skill dependence (ties OQ-7) | Phase 5+ (HyperspaceNavigation §9.3) |
+| OQ-11 | Does astrogation *calculation* consume in-game time (nav-computer quality × distance × beacon coverage), or is jump prep instant in v1? | Phase 4 travel system (HyperspaceNavigation §8.1) |
 
 ---
 
@@ -142,3 +158,10 @@ agenda governs *design* work and the current blockers.)
 - 2026-07-03 — v1.2. Bible 03–09 + shortlist complete: OQ-3/4/5/6 resolved
   as DR-26…32; OQ-2 proposal drafted, awaiting approval. Remaining open:
   OQ-1 (region re-bin), OQ-2 (approval), OQ-7 (Phase 6 skills).
+- 2026-07-04 — v1.3. Hyperspace Navigation framework designed
+  (`HyperspaceNavigation.md`, deep spec for SimulationFramework §2.1):
+  DR-33…38 (three-layer nav data model, course/leg/waypoint structure,
+  discovered leg breaks, one router + profile assets, dynamic-roads overlay,
+  interdiction-as-gravity-well); OQ-9/10/11 opened (junction authoring,
+  discovery mechanics, astrogation calc time). Remaining open: OQ-1, OQ-2,
+  OQ-7, OQ-9, OQ-10, OQ-11.

@@ -1,0 +1,61 @@
+{
+  "name": "Manpha",
+  "wookieepedia_title": "Manpha/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Manpha/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Manpha was an Outer Rim Territories planet located in the Seitia sector. A humid world with marshlands and swamps on its single continent, it was the homeworld of the amphibian Shawda Ubb species. The Shawda Ubb primarily lived in many small communities scattered across Manpha's swamplands and harvested petroleum bubbling up out of the swamps. The substance was shipped to factories in Manpha's sole spaceport community, the capital city Shanpan, where it was processed into plastics for export offworld.",
+  "lead_paragraphs": [
+    "Manpha was an Outer Rim Territories planet located in the Seitia sector. A humid world with marshlands and swamps on its single continent, it was the homeworld of the amphibian Shawda Ubb species. The Shawda Ubb primarily lived in many small communities scattered across Manpha's swamplands and harvested petroleum bubbling up out of the swamps. The substance was shipped to factories in Manpha's sole spaceport community, the capital city Shanpan, where it was processed into plastics for export offworld.",
+    "Atypically for a Shawda Ubb, the Manpha native Rapotwanalantonee Tivtotolon desired to travel beyond Manpha. In order to earn money to fulfill that goal, Tivtotolon played music and carried news to isolated communities across Manpha's continent. Eventually, the Shawda Ubb traveled to Shanpan, where he adopted the stage name \"Rappertunie,\" and when the crime lord Jabba Desilijic Tiure and the Max Rebo Band visited Manpha at some point by 4 ABY, Rappertunie joined the band and accompanied Jabba and the musicians off Manpha."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Manpha",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Seitia sector",
+    "system": "Manpha system",
+    "coordinates": "K-20",
+    "routes": "Corellian Trade Spine",
+    "class": "Terrestrial",
+    "climate": "Humid",
+    "terrain": [
+      "Marshlands",
+      "Swamps"
+    ],
+    "flora": "Swamp grasses",
+    "fauna": "Fish",
+    "species": "Shawda Ubb",
+    "population": "10–100 million (Manpha system) (c. 25 ABY)",
+    "cities": "Shanpan (capital)",
+    "exports": "High-grade plastics"
+  },
+  "homeworld_of": [
+    {
+      "name": "Shawda Ubb",
+      "directory": "Shawda Ubb",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Shawda Ubb",
+      "directory": "Shawda Ubb (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Manpha",
+    "x": -1195.1,
+    "y": -15214.1,
+    "z": 327.2,
+    "region": "Outer Rim",
+    "grid": "K-20"
+  },
+  "scraped": "2026-07-03"
+}

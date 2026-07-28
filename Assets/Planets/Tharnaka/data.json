@@ -1,0 +1,36 @@
+{
+  "name": "Tharnaka",
+  "wookieepedia_title": "Tharnaka",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tharnaka",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tharnaka was a planet that housed the artifact Tharnakan Story Stone. It was the native planet of the Tharnakan species. Long before 233 BBY, the climate on Tharnaka changed, causing a flood to descend on the entire planet. As a result, the vast plains and hilly landscapes of the planet disappeared without a trace.",
+  "lead_paragraphs": [
+    "Tharnaka was a planet that housed the artifact Tharnakan Story Stone. It was the native planet of the Tharnakan species. Long before 233 BBY, the climate on Tharnaka changed, causing a flood to descend on the entire planet. As a result, the vast plains and hilly landscapes of the planet disappeared without a trace."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tharnaka",
+    "region": "Outer Rim Territories",
+    "sector": "Seitia sector",
+    "system": "Tharnaka system",
+    "coordinates": "K-19",
+    "routes": "Corellian Trade Spine",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Cliffs",
+      "Plains and Hills (before the flood)"
+    ],
+    "species": "Tharnakan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tharnakan",
+      "directory": "Tharnakan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

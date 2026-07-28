@@ -1,0 +1,35 @@
+{
+  "name": "Ember",
+  "wookieepedia_title": "Ember (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ember_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ember was the first planet of the Belgaroth system, located in the Core Worlds of the galaxy. Illuminated by binary stars Matanya A and Matanya B, Ember was a searing world with no moons.",
+  "lead_paragraphs": [
+    "Ember was the first planet of the Belgaroth system, located in the Core Worlds of the galaxy. Illuminated by binary stars Matanya A and Matanya B, Ember was a searing world with no moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ember",
+    "region": [
+      "Core Worlds",
+      "Southern Core"
+    ],
+    "system": "Belgaroth system",
+    "coordinates": "K-13",
+    "suns": "2: Matanya A (orange) and Matanya B (yellow)",
+    "position": "1",
+    "moons": "0",
+    "class": "Searing rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ember",
+    "x": 2277.0,
+    "y": -954.5,
+    "z": 198.0,
+    "region": "Core Worlds",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

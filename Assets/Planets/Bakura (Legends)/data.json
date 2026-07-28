@@ -1,0 +1,126 @@
+{
+  "name": "Bakura",
+  "wookieepedia_title": "Bakura/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bakura/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bakura, known in Ssi-ruuvi as Xwhee, was a rich, green and blue planet in the Bakura system of the Shiritoku Spur, located in Wild Space, and was the homeworld of the indigenous Kurtzen and isolated human colonizers known as Bakurans. The native language of Kurtzen was spoken alongside Basic.",
+  "lead_paragraphs": [
+    "Bakura, known in Ssi-ruuvi as Xwhee, was a rich, green and blue planet in the Bakura system of the Shiritoku Spur, located in Wild Space, and was the homeworld of the indigenous Kurtzen and isolated human colonizers known as Bakurans. The native language of Kurtzen was spoken alongside Basic.",
+    "Bakura's capital city, Salis D'aar, was known as an important spaceport and financial center in the Bakura sector, while the planet itself served as one of the largest commercial hubs in Wild Space.",
+    "It was also the site of a historic truce between the Galactic Empire and the Alliance to Restore the Republic immediately following the Battle of Endor, shortly before the Invasion of Bakura."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Society",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Bakura",
+    "region": "Wild Space",
+    "sector": "Bakura sector",
+    "system": "Bakura system",
+    "coordinates": "G-16",
+    "suns": "1: Bakura",
+    "position": "3",
+    "moons": "2",
+    "routes": [
+      "Bakura Trace",
+      "Shiritoku Way"
+    ],
+    "lengthday": "22.9 standard hours",
+    "lengthyear": "302 local days",
+    "class": "Terrestrial",
+    "diameter": "21,400 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "1.05 standard",
+    "terrain": [
+      "Forests",
+      "Plains",
+      "Mountains",
+      "Small seas",
+      "Rivers",
+      "Valleys"
+    ],
+    "interest": [
+      "Bakur Memorial Building",
+      "Bakuran National Symphony",
+      "Bakuran power station",
+      "Braad",
+      "  Kishh district",
+      "Kishh'daar",
+      "Lesser Grace",
+      "Telaan Valley",
+      "West River",
+      "D'aarmont",
+      "East River"
+    ],
+    "flora": [
+      "Namana",
+      "Vine-tree"
+    ],
+    "fauna": [
+      "Butter Newt",
+      "Cratsch"
+    ],
+    "species": "Kurtzen",
+    "otherspecies": [
+      "Bith",
+      "Human",
+      "P'w'eck",
+      "Utai"
+    ],
+    "language": [
+      "Basic",
+      "Kurtzen"
+    ],
+    "government": "Bakuran Senate or Imperial governorship",
+    "population": [
+      "68 million:",
+      "  95% Human",
+      "  5% Kurtzen"
+    ],
+    "demonym": "Bakuran",
+    "cities": [
+      "Salis D'aar (capital)",
+      "Gesco City",
+      "Prytis"
+    ],
+    "imports": [
+      "Medicine",
+      "Technology"
+    ],
+    "exports": [
+      "Namana liquor",
+      "Namana-based products",
+      "Repulsorlift coils",
+      "Strategic metals"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Alliance of Free Planets",
+      "New Republic",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kurtzen",
+      "directory": "Kurtzen",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bakura",
+    "x": -6572.4,
+    "y": -10063.6,
+    "z": 50.3,
+    "region": "Outer Rim",
+    "grid": "G-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "NX-14 Needler",
+  "wookieepedia_title": "NX-14 Needler",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/NX-14_Needler",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The NX-14 Needler was a type of compact pistol referred to as a needler that was manufactured by Golan Arms, and was smaller than the size of a human hand and was coated in a light-absorbing fibermesh polycarbonate, which made it difficult to detect when concealed. Its operating functions could make it near silent, and its spin-stabilized ferroceramic darts could puncture even the strongest armor plating and could even ignore energy shields. The darts were often coated in any of a variety of different substances that were designed with the intent to kill, subdue, or otherwise affect a target. Standard darts were loaded with no such substances and relied on armor penetration and the razor-sharp needle to inflict harm.",
+  "data": {
+    "name": "NX-14 Needler",
+    "manufacturer": "Golan Arms",
+    "model": "NX-14",
+    "type": "Needler",
+    "cost": "650 credits",
+    "size": "Palm-sized",
+    "material": "Fibermesh polycarbonate",
+    "range": "Short range",
+    "purpose": [
+      "To penetrate personal energy shields",
+      "To poison targets"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

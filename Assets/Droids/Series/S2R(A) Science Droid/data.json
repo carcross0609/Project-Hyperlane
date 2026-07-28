@@ -1,0 +1,25 @@
+{
+  "name": "S2R(A) Science Droid",
+  "wookieepedia_title": "S2R(A) Science Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/S2R%28A%29_Science_Droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The S2R(A) Science Droid was a civilian adaptation of the Science Research Droid created by the TelBrinTel Corporation. Like that droid, it was a vaguely humanoid unit measuring 1.9 meters in height, with two fine-control manipulator arms and legs possessing a suspension system that cushioned its steps. It was built with an advanced protocol chip for communicating with organic scientists, a molecular microscope and sophisticated olfactory analysis technology, and an \"endosystem\" designed to mount accessories on six ports located in its upper torso.",
+  "data": {
+    "name": "S2R(A) Science Droid",
+    "manufacturer": "TelBrinTel Corporation",
+    "height": "1.9 meters",
+    "sensor": [
+      "Molecular microscopic eyepiece",
+      "Olfactory sensors"
+    ],
+    "equipment": [
+      "Enhanced protocol chip",
+      "Two fine-control manipulating arms",
+      "Suspension system",
+      "Endosystem"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

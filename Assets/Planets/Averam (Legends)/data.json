@@ -1,0 +1,46 @@
+{
+  "name": "Averam",
+  "wookieepedia_title": "Averam/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Averam/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Averam was a planet in the Seswenna sector in the Outer Rim Territories. It was one of the few planets to openly sympathize with small groups of Rebel Alliance supporters early in the Galactic Civil War.",
+  "lead_paragraphs": [
+    "Averam was a planet in the Seswenna sector in the Outer Rim Territories. It was one of the few planets to openly sympathize with small groups of Rebel Alliance supporters early in the Galactic Civil War.",
+    "The planet was the site of pro-Alliance activity during the height of the Galactic Civil War. It was on Averam that Winter was known as the \"Targeter\" although her time on Averam was cut short when Imperial Intelligence discovered the Rebel cell and eliminated it.",
+    "Averam natives were called \"Averists\"."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Averam",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Seswenna sector",
+    "system": "Averam system",
+    "coordinates": "M-18",
+    "suns": "1",
+    "moons": "3",
+    "routes": "Hydian Way",
+    "species": "Averist",
+    "language": "Galactic Basic Standard",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Averist",
+      "directory": "Averist",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Averam",
+    "x": 2180.7,
+    "y": -12696.3,
+    "z": -390.3,
+    "region": "Outer Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

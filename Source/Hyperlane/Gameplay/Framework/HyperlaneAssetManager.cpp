@@ -1,6 +1,6 @@
 // Copyright (c) 2026 Carson Crossno. Personal, non-commercial project.
 
-#include "Gameplay/Framework/HyperlaneAssetManager.h"
+#include "Hyperlane/Gameplay/Framework/HyperlaneAssetManager.h"
 
 #include "Engine/Engine.h"
 

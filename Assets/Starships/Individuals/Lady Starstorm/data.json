@@ -1,0 +1,35 @@
+{
+  "name": "Lady Starstorm",
+  "wookieepedia_title": "Lady Starstorm",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lady_Starstorm",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Lady Starstorm was a YV-100 light freighter owned by the New Jedi Order.",
+  "data": {
+    "name": "Lady Starstorm",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV series",
+    "model": "YV-100 light freighter",
+    "type": "Light freighter",
+    "length": "46.5 meters",
+    "max_speed": "880 km/h",
+    "hyperdrive": [
+      "Class 3",
+      "Backup Class 12"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Dual laser cannon turret (1)",
+      "Dual blaster turret (1)"
+    ],
+    "crew": "2",
+    "passengers": "10",
+    "capacity": "150 metric tons",
+    "consumables": "6 months",
+    "role": "Transport",
+    "affiliation": "New Jedi Order"
+  },
+  "scraped": "2026-07-03"
+}

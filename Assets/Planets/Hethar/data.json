@@ -1,0 +1,55 @@
+{
+  "name": "Hethar",
+  "wookieepedia_title": "Hethar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hethar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hethar was a forested planet located in the Outer Rim Territories' Atrivis sector. It was the homeworld of the omnivores known as gornts, whose meat was a staple in the diet of the local colonists. Shortly before the Battle of Yavin, the Galactic Empire annexed the planet and instituted a gornt breeding and processing program, wherein Sullustan ranchers provided gornt meat as supplies for the Imperial Navy.",
+  "lead_paragraphs": [
+    "Hethar was a forested planet located in the Outer Rim Territories' Atrivis sector. It was the homeworld of the omnivores known as gornts, whose meat was a staple in the diet of the local colonists. Shortly before the Battle of Yavin, the Galactic Empire annexed the planet and instituted a gornt breeding and processing program, wherein Sullustan ranchers provided gornt meat as supplies for the Imperial Navy.",
+    "Over the following years, gornt breeding on Hethar began to face problems related to the creatures' reproduction, drawing Imperial geneticists to visit the planet in an attempt to solve the difficulties. During the Galactic Civil War, a Rebel Alliance team on Hethar encountered a pack of local shredder bats that were eventually repelled via the use of the excluder device."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Hethar",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Atrivis sector",
+    "system": "Hethar system",
+    "coordinates": "L-5",
+    "class": "Terrestrial",
+    "terrain": "Forests",
+    "interest": "Gornt ranches",
+    "flora": [
+      "Bushes",
+      "Trees"
+    ],
+    "fauna": [
+      "Gornt",
+      "Shredder bat"
+    ],
+    "otherspecies": "Sullustans",
+    "exports": "Gornt meat",
+    "affiliation": [
+      "Galactic Empire",
+      "Pentastar Alignment",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Hethar",
+    "x": 1385.3,
+    "y": 6869.8,
+    "z": -39.0,
+    "region": "Outer Rim",
+    "grid": "L-5"
+  },
+  "scraped": "2026-07-03"
+}

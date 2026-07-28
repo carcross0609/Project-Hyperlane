@@ -1,0 +1,72 @@
+{
+  "name": "Sedesia",
+  "wookieepedia_title": "Sedesia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sedesia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sedesia was a high-gravity Mid Rim world with harsh terrain and rough weather.",
+  "lead_paragraphs": [
+    "Sedesia was a high-gravity Mid Rim world with harsh terrain and rough weather."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations",
+    "  Besia Osurne",
+    "  Imperial research center"
+  ],
+  "data": {
+    "name": "Sedesia",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Druess sector",
+    "system": "Sedesia system",
+    "coordinates": "O-16",
+    "lengthday": "20 standard hours",
+    "lengthyear": "220 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Dry",
+      "Cool"
+    ],
+    "gravity": "Heavy",
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Tundra",
+      "Steppes"
+    ],
+    "fauna": [
+      "Breedtash",
+      "Strider"
+    ],
+    "otherspecies": "Human",
+    "language": "Basic (accented)",
+    "government": "Imperial Military (during occupation)",
+    "population": "1.5 million",
+    "demonym": "Sedesian",
+    "cities": "Besia Osurne (capital)",
+    "imports": [
+      "Technology",
+      "Manufactured goods"
+    ],
+    "exports": [
+      "Food",
+      "Raw materials"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Sedesia",
+    "x": 4990.4,
+    "y": -9121.8,
+    "z": -198.2,
+    "region": "Mid Rim",
+    "grid": "O-16"
+  },
+  "scraped": "2026-07-03"
+}

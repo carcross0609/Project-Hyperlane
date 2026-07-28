@@ -1,0 +1,28 @@
+{
+  "name": "RAX-1",
+  "wookieepedia_title": "RAX-1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RAX-1",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The RAX-1 was a concussion missile launcher system designed by Alliance engineer Yunji Oryn. The original protoype was known as the Repulsor-Assisted Ground-to-Orbit Concussion Missile Launcher (RAGOC), and was designated as the RAX-1 when pushed into full production by Oryn Engineering.",
+  "data": {
+    "name": "RAX-1",
+    "manufacturer": "Oryn Engineering",
+    "type": "Concussion missile emplacement",
+    "cost": [
+      "200,000 credits (launcher, new)",
+      "75,000 credits (launcher, used)",
+      "2,000 credits (\"smart\" rocket)",
+      "5,000 credits (\"hound\" rocket)"
+    ],
+    "crew": "6",
+    "capacity": "4 concussion missile",
+    "range": "High orbit",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Pirates"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

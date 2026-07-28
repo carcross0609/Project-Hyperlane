@@ -1,0 +1,47 @@
+{
+  "name": "Amorris",
+  "wookieepedia_title": "Amorris",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amorris",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Amorris was a small terrestrial planet located in the Amorris system of the Outer Rim Territories' Quelii sector. It contained the home base of the Cavrilhu Pirates before they abandoned the site in 19 ABY. At one point, a New Republic Intelligence officer was stationed on the planet and reported the activities of the pirates to the New Republic.",
+  "lead_paragraphs": [
+    "Amorris was a small terrestrial planet located in the Amorris system of the Outer Rim Territories' Quelii sector. It contained the home base of the Cavrilhu Pirates before they abandoned the site in 19 ABY. At one point, a New Republic Intelligence officer was stationed on the planet and reported the activities of the pirates to the New Republic.",
+    "In 9 ABY, while trying to steal a starship from the New Republic-operated Sluis Van Shipyards, the thief Niles Ferrier was confronted by Jedi Knight Luke Skywalker and smuggler Lando Calrissian, who recommended that Ferrier steal from Amorris instead. Ferrier would go on to steal ships from the astronomical object Morr Three, also located in the Amorris system."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Amorris",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Amorris system",
+    "coordinates": "O-6",
+    "class": "Terrestrial",
+    "water": "Oceans",
+    "interest": "Cavrilhu Pirates Amorris base",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Cavrilhu Pirates",
+      "Galactic Empire",
+      "  Thrawn's confederation"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Amorris",
+    "x": 4961.4,
+    "y": 5314.5,
+    "z": 229.3,
+    "region": "Outer Rim",
+    "grid": "O-6"
+  },
+  "scraped": "2026-07-03"
+}

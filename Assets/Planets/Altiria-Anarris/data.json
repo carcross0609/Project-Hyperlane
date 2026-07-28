@@ -1,0 +1,89 @@
+{
+  "name": "Altiria/Anarris",
+  "wookieepedia_title": "Altiria/Anarris",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Altiria/Anarris",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Altiria/Anarris was a planet located within the Altiria/Anarris system in the Unknown Regions.",
+  "lead_paragraphs": [
+    "Altiria/Anarris was a planet located within the Altiria/Anarris system in the Unknown Regions.",
+    "It had two names, being called Altiria by the Altiri natives and Anarris by the Anarrian natives. The two species often battled over supremacy. The planet was a verdant, temperate world covered with forests and rolling plains."
+  ],
+  "article_sections": [
+    "History",
+    "Geographic features"
+  ],
+  "data": {
+    "name": "Altiria/Anarris",
+    "region": "Unknown Regions",
+    "system": "Altiria/Anarris system",
+    "coordinates": "N/A",
+    "moons": [
+      "Priva",
+      "Secava"
+    ],
+    "lengthday": "26 standard hours",
+    "lengthyear": "336 local days",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Urban",
+      "Plains",
+      "Forests"
+    ],
+    "water": "Oceans",
+    "interest": "Shanuk Island",
+    "species": [
+      "Altiri",
+      "Anarrian"
+    ],
+    "otherspecies": [
+      "Other species"
+    ],
+    "language": [
+      "Altirish",
+      "Anarrese",
+      "Basic"
+    ],
+    "government": [
+      "Representative democracy (Altiri)",
+      "Dictatorship (Anarrian)"
+    ],
+    "population": [
+      "49% Altiri",
+      "49% Anarrian",
+      "2% other species"
+    ],
+    "cities": [
+      "Cerdana (Altiri)",
+      "Rastar (Anarrian)"
+    ],
+    "imports": [
+      "Technology",
+      "Weapons"
+    ],
+    "exports": [
+      "Foodstuffs",
+      "Medicine"
+    ],
+    "affiliation": [
+      "Altirian Republic",
+      "Anarrian Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Altiri",
+      "directory": "Altiri (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Anarrian",
+      "directory": "Anarrian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

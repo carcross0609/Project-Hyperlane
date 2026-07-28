@@ -1,0 +1,25 @@
+{
+  "name": "Sentinel droid",
+  "wookieepedia_title": "Sentinel droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sentinel_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Sentinel droid-series (also known as the war-droid or military droid-series) was the only known series of android among the war machines used by the Galactic Republic and the Sith Empire in the Jedi Civil War. Variants included the Mark I, Mark II, Mark III, Mark IV, and Mark V, which were all outwardly identical. The HK-series was based on the Sentinel line in design and structure.",
+  "data": {
+    "name": "Sentinel droid",
+    "manufacturer": "Kellenech Technologies",
+    "line": "Sentinel droid-series",
+    "class": "Battle droid",
+    "cost": "2,400 credits",
+    "armament": "Blaster rifle",
+    "equipment": "Personal energy shield (optional)",
+    "affiliation": [
+      "Galactic Republic",
+      "Raff Syndicate",
+      "Sith Empire",
+      "Ahto City Civil Authority"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

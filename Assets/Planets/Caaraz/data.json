@@ -1,0 +1,42 @@
+{
+  "name": "Caaraz",
+  "wookieepedia_title": "Caaraz",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Caaraz",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Caaraz was a tide-locked, tectonically active planet in the Outer Rim. Its night-side was frozen with glaciers. Its day-side was scorching. In between was a thin, habitable region in which the Ranth race evolved. Both sides of the planet were tectonically active as well, allowing subterranean gases, lava, and steam to escape into the atmosphere. The Galactic Empire discovered the world while looking for Rebel bases, and later mined the planet. Two moons also provided illumination to the night-side of the planet.",
+  "lead_paragraphs": [
+    "Caaraz was a tide-locked, tectonically active planet in the Outer Rim. Its night-side was frozen with glaciers. Its day-side was scorching. In between was a thin, habitable region in which the Ranth race evolved. Both sides of the planet were tectonically active as well, allowing subterranean gases, lava, and steam to escape into the atmosphere. The Galactic Empire discovered the world while looking for Rebel bases, and later mined the planet. Two moons also provided illumination to the night-side of the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Caaraz",
+    "region": "Outer Rim Territories",
+    "sector": "Stensen sector",
+    "system": "Caaraz system",
+    "coordinates": "H-17",
+    "terrain": [
+      "Deserts",
+      "Glaciers"
+    ],
+    "species": "Ranth",
+    "language": "Ranth",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ranth",
+      "directory": "Ranth",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Caaraz",
+    "x": -4572.7,
+    "y": -10604.8,
+    "z": -274.7,
+    "region": "Outer Rim",
+    "grid": "H-17"
+  },
+  "scraped": "2026-07-03"
+}

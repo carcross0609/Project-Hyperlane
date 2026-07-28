@@ -1,0 +1,44 @@
+{
+  "name": "Thrakia",
+  "wookieepedia_title": "Thrakia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thrakia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thrakia was a planet with large land masses and rich in natural resources located in the Hapes Cluster. It was the homeworld of an unidentified species, described as an intelligent species of insectoids.",
+  "lead_paragraphs": [
+    "Thrakia was a planet with large land masses and rich in natural resources located in the Hapes Cluster. It was the homeworld of an unidentified species, described as an intelligent species of insectoids."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Thrakia",
+    "region": [
+      "Inner Rim; Transitory Mists",
+      "The Slice"
+    ],
+    "sector": "Hapes Cluster",
+    "system": "Thrakia system",
+    "coordinates": "O-9",
+    "species": "Unidentified Thrakia species",
+    "affiliation": [
+      "Hapes Consortium",
+      "Galactic Empire",
+      "Galactic Alliance"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Thrakia species",
+      "directory": "Unidentified Thrakia species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Thrakia",
+    "x": 5275.7,
+    "y": 761.4,
+    "z": -107.9,
+    "region": "Inner Rim",
+    "grid": "O-9"
+  },
+  "scraped": "2026-07-03"
+}

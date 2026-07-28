@@ -1,0 +1,25 @@
+{
+  "name": "CR-24 Flame Rifle",
+  "wookieepedia_title": "CR-24 Flame Rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/CR-24_Flame_Rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The CR-24 Flame Rifle was an incendiary weapon produced by Merr-Sonn Munitions, Inc.. Its Czerka counterpart was known as the CZ-24 Flamemaster flame rifle. The rifle had a fire range of 10 meters which meant the CR-24 was better utilized for close combat.",
+  "data": {
+    "name": "CR-24 Flame Rifle",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "model": "Model CR-24",
+    "type": "Flame projector",
+    "cost": "700 credits",
+    "size": "Medium",
+    "weight": "5 kg",
+    "capacity": "25 bursts",
+    "range": [
+      "5 meters (optimum)",
+      "10 meters(maximum)"
+    ],
+    "affiliation": "Corporate Sector"
+  },
+  "scraped": "2026-07-03"
+}

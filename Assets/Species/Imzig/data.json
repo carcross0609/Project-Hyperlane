@@ -1,0 +1,26 @@
+{
+  "name": "Imzig",
+  "wookieepedia_title": "Imzig",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Imzig",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Imzig species was a sentient Humanoid race native to the planet Couronne. The species differed from base Humans through bony ridges surrounding the formers' eyes, raised eyebrows, and wider nostrils. At least one was light-skinned, with blue mottles on the face, as well as light brown hair. Utris M'Toc was an Imzig who hailed from his species' homeworld.",
+  "data": {
+    "name": "Imzig",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "skincolor": [
+      "Light",
+      "Blue mottling"
+    ],
+    "haircolor": "Light brown",
+    "distinctions": [
+      "Bony ridges surrounding eyes",
+      "Raised eyebrows",
+      "Wider nostrils"
+    ],
+    "origin": "Couronne"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Couronne (Legends)"
+}

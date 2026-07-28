@@ -1,0 +1,52 @@
+{
+  "name": "Quockra-4",
+  "wookieepedia_title": "Quockra-4",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Quockra-4",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Quockra-4 was the fourth planet in the Quockra system, located in the remote Minos Cluster of the southern Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Quockra-4 was the fourth planet in the Quockra system, located in the remote Minos Cluster of the southern Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "Society"
+  ],
+  "data": {
+    "name": "Quockra-4",
+    "region": "Outer Rim Territories",
+    "sector": "Minos Cluster",
+    "system": "Quockra system",
+    "coordinates": "M-20",
+    "lengthday": "31 standard hours",
+    "lengthyear": "402 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": "Flat, featureless deserts",
+    "species": "Quockrans",
+    "population": "At least 10 million droids",
+    "imports": "Droids",
+    "exports": [
+      "High technology",
+      "Large machinery"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Quockran",
+      "directory": "Quockran",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Quockra-4",
+    "x": 1896.4,
+    "y": -16022.1,
+    "z": -735.8,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

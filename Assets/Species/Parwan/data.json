@@ -1,0 +1,34 @@
+{
+  "name": "Parwan",
+  "wookieepedia_title": "Parwan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Parwan",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Parwans were a sentient species native to Parwa. During the High Republic Era, Parwan Jedi Master Obratuk Glii was a respected diplomat within the Jedi Order. During the Clone Wars, the Parwan Derrown was considered one of the best bounty hunters in the galaxy by Count Dooku.",
+  "data": {
+    "name": "Parwan",
+    "designation": "Sentient",
+    "skincolor": [
+      "Blue",
+      "Brown",
+      "Gray",
+      "Green",
+      "Orange",
+      "Red"
+    ],
+    "eyecolor": "Gray",
+    "distinctions": [
+      "3 eyes",
+      "Four leg-like tentacles",
+      "Lighter-than-air physiology",
+      "Mushroom-shaped heads",
+      "Produce intense electrical fields",
+      "Skinny arms"
+    ],
+    "lifespan": "Several centuries",
+    "origin": "Parwa",
+    "language": "Parwan language"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Parwa"
+}

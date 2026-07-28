@@ -1,0 +1,51 @@
+{
+  "name": "Equanus",
+  "wookieepedia_title": "Equanus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Equanus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Equanus was a planet located within the Nharl system of the Veragi sector, in the New Territories portion of the Outer Rim Territories. It was the homeworld of the Equani.",
+  "lead_paragraphs": [
+    "Equanus was a planet located within the Nharl system of the Veragi sector, in the New Territories portion of the Outer Rim Territories. It was the homeworld of the Equani."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Equanus",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Veragi sector",
+    "system": "Nharl system",
+    "coordinates": "K-3",
+    "suns": "1: Nharl",
+    "moons": "1",
+    "class": "Terrestrial",
+    "atmosphere": "None (modern)",
+    "climate": "Temperate (formerly)",
+    "terrain": "Ash (modern)",
+    "water": "Oceans (formerly)",
+    "flora": "Fern-tree (formerly)",
+    "species": "Equani (extinct)",
+    "population": "Several billions (formerly)",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Equani",
+      "directory": "Equani",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Equanus",
+    "x": -159.2,
+    "y": 9557.1,
+    "z": 88.2,
+    "region": "Outer Rim",
+    "grid": "K-3"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "SP-4 ISC crime scene analysis droid",
+  "wookieepedia_title": "SP-4 ISC crime scene analysis droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SP-4_ISC_crime_scene_analysis_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The SP-4 ISC crime scene analysis droid, also known as the SP-4 ISC, the crime scene analysis droid, the crime scene analyzer droid, or simply the ISC droid, was a modified SP-4 analysis droid utilized by the Jedi Order to assist Jedi investigators and local law enforcement while they were working on a variety of cases, keeping both updated on the evidence they gathered. Towards the end of the Galactic Republic as the dark side of the Force grew stronger, the influence of the Jedi waned, forcing them to utilize increasing numbers of analysis droids to assist in solving crimes; many of which the Jedi could not solve on their own. ISC droids analyzed data from the crime scenes to construct a full timeline of events. During this process, they interviewed witnesses and suspects, comparing the data from their conversations with the crime scenes' reconstruction. They also checked local surveillance, confirming or discarding alibis.",
+  "data": {
+    "name": "SP-4 ISC crime scene analysis droid",
+    "manufacturer": "Cybot Galactica",
+    "model": "Modified SP-4 analysis droid",
+    "class": [
+      "Analysis droid",
+      "Forensics droid"
+    ],
+    "sensor": [
+      "Black",
+      "Purple (Under Scourge infection)"
+    ],
+    "equipment": [
+      "Datapad",
+      "Optics and scanning visor"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "  Coruscant Security Force",
+      "Galactic Empire",
+      "  Imperial Security Bureau",
+      "Archaeological Association",
+      "Crimson Dawn",
+      "Droid uprising",
+      "Scourge (As a vessel)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

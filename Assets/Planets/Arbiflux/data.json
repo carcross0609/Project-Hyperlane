@@ -1,0 +1,53 @@
+{
+  "name": "Arbiflux",
+  "wookieepedia_title": "Arbiflux",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arbiflux",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Arbiflux was a forest planet located in the Outer Rim Territories along the Veragi Trade Route. The future archaeologist Chelli Aphra and her mother Lona moved to the world after leaving her father. During that time, the Galactic Empire's Coalition for Progress manufactured the threat of raider attacks, pushing the inhabitants to turn to Imperial support. Lona Aphra was killed in one such attack, calling Galactic Empire forces in to rescue her daughter. With the ruse of attacks successful, the Empire occupied Arbiflux, industrializing the planet, ruining its environment. As an adult, Aphra returned to her home on Arbiflux, hiding from the Empire, but she had been tracked to the planet, and was forced to escape.",
+  "lead_paragraphs": [
+    "Arbiflux was a forest planet located in the Outer Rim Territories along the Veragi Trade Route. The future archaeologist Chelli Aphra and her mother Lona moved to the world after leaving her father. During that time, the Galactic Empire's Coalition for Progress manufactured the threat of raider attacks, pushing the inhabitants to turn to Imperial support. Lona Aphra was killed in one such attack, calling Galactic Empire forces in to rescue her daughter. With the ruse of attacks successful, the Empire occupied Arbiflux, industrializing the planet, ruining its environment. As an adult, Aphra returned to her home on Arbiflux, hiding from the Empire, but she had been tracked to the planet, and was forced to escape."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Lawless backwater",
+    "  Under the Galactic Empire",
+    "Locations",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Arbiflux",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Dalonbian sector",
+    "system": "Arbiflux system",
+    "coordinates": "L-3",
+    "moons": "At least 4",
+    "routes": "Veragi Trade Route",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Plains"
+    ],
+    "interest": "Lona Aphra's house",
+    "flora": "Chatterplants",
+    "fauna": "Nunas",
+    "otherspecies": "Humans",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Arbiflux",
+    "x": 2450.6,
+    "y": -3820.4,
+    "z": -49.8,
+    "region": "Outer Rim",
+    "grid": "M-12"
+  },
+  "scraped": "2026-07-03"
+}

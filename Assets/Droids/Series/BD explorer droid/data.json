@@ -1,0 +1,27 @@
+{
+  "name": "BD explorer droid",
+  "wookieepedia_title": "BD explorer droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/BD_explorer_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "BD explorer droids, simply known as BD units, were a model of explorer droid.",
+  "data": {
+    "name": "BD explorer droid",
+    "manufacturer": "Behold-Urwar Droid Concepts",
+    "class": "Explorer droid",
+    "sensor": "Black",
+    "plating": "Varied",
+    "equipment": [
+      "Scomp link",
+      "Holoprojector",
+      "Scanners & Sensors"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Mantis crew",
+      "Shadow University"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

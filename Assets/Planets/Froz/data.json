@@ -1,0 +1,54 @@
+{
+  "name": "Froz",
+  "wookieepedia_title": "Froz",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Froz",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Froz was the homeworld of the Frozian species. It was on the Corellian Run. It was a pristine low-gravity planet.",
+  "lead_paragraphs": [
+    "Froz was the homeworld of the Frozian species. It was on the Corellian Run. It was a pristine low-gravity planet."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Froz",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "sector": "Corellian sector; Outlier systems",
+    "system": "Froz system",
+    "coordinates": "M-11",
+    "lengthday": "30 standard hours",
+    "lengthyear": "187 local days",
+    "gravity": "Low",
+    "terrain": "Barren; formerly: plains, forests",
+    "interest": "None (formerly Fendwellifar Forest, Undescanatain Falls)",
+    "species": "Frozians",
+    "language": "Frozian",
+    "government": "N/A (formerly representative republic)",
+    "population": "N/A (formerly 1.3 billion)",
+    "demonym": "Frozian",
+    "cities": "None (formerly Astromandicar (capital), Halavortigas, Juleenasov)",
+    "imports": "None (formerly technology, manufactured goods)",
+    "exports": "None (formerly foodstuffs, leather crafts)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Frozian",
+      "directory": "Frozian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Froz",
+    "x": 2766.7,
+    "y": -2109.5,
+    "z": -53.3,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

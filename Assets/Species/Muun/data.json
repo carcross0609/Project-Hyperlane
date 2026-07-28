@@ -1,0 +1,29 @@
+{
+  "name": "Muun",
+  "wookieepedia_title": "Muun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Muun",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Muuns were a thin, tall humanoid species with elongated heads who ran the InterGalactic Banking Clan throughout the waning days of the Galactic Republic and into the New Republic Era. Dark Lord of the Sith, Darth Plagueis was a Muun.",
+  "data": {
+    "name": "Muun",
+    "designation": "Sentient",
+    "height": "Just under 2 meters",
+    "skincolor": [
+      "Pale pink",
+      "Gray",
+      "Pink",
+      "White",
+      "Green"
+    ],
+    "distinctions": [
+      "Elongated skulls",
+      "Flat nose",
+      "Three hearts"
+    ],
+    "origin": "Muunilinst",
+    "habitat": "Snowy mountains"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Muunilinst"
+}

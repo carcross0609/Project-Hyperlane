@@ -1,0 +1,133 @@
+{
+  "name": "Ossus",
+  "wookieepedia_title": "Ossus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ossus",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ossus was a terrestrial planet located in the Adega system of the Outer Rim Territories' Auril sector that was affiliated with the Jedi Order. The planet was orbited by at least one forest moon. Some Jedi scholars made the case that Ossus was the site of the Jedi Order's first temple. According to the Qel-Droma Epics, Ossus was a Jedi retreat and the largest repository of Jedi knowledge in history. At the very least, Ossus housed the Great Jedi Library and a Jedi temple.",
+  "lead_paragraphs": [
+    "Ossus was a terrestrial planet located in the Adega system of the Outer Rim Territories' Auril sector that was affiliated with the Jedi Order. The planet was orbited by at least one forest moon. Some Jedi scholars made the case that Ossus was the site of the Jedi Order's first temple. According to the Qel-Droma Epics, Ossus was a Jedi retreat and the largest repository of Jedi knowledge in history. At the very least, Ossus housed the Great Jedi Library and a Jedi temple.",
+    "In the Qel-Droma Epics, Ossus was decimated during the Cron Supernova, when the Sith Lord Naga Sadow triggered stars in the Cron Cluster to become supernovae. The Jedi managed to save a fraction of the artifacts housed on the planet, such as mosaic floors and the Chronicles of Med'eeth, which made it to the Jedi Temple on the planet Coruscant via nearby Exis Station.",
+    "According to legend, what few Jedi survived the blast banded together to survive. Over millennia, those humans became tribal Ysanna, a group of near-humans with a high percentage of Force-sensitivity among them, who regarded it as atavistic magic. The other humans on the planet were considered a minority population.",
+    "During the New Republic Era, Jedi Master Luke Skywalker constructed his Jedi temple on Ossus. There, he trained students until the temple was destroyed in 28 ABY, after which he went into a self-imposed exile."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Galactic Republic",
+    "  New Republic Era",
+    "    The new temple",
+    "    A new generation",
+    "    Temple ablaze",
+    "  First Order-Resistance War",
+    "Inhabitants",
+    "Locations",
+    "  Knossa",
+    "  Great Jedi Library"
+  ],
+  "data": {
+    "name": "Ossus",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Auril sector",
+    "system": "Adega system",
+    "coordinates": "R-6",
+    "suns": "At least 1",
+    "moons": [
+      "2",
+      "Ossus's forest moon"
+    ],
+    "routes": [
+      "None",
+      "Secret Jedi hyperspace route (rumor)"
+    ],
+    "lengthday": "31 standard hours",
+    "lengthyear": "231 standard days",
+    "class": "Terrestrial",
+    "diameter": "29,000 km (18,000 miles)",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Hills",
+      "Bamboo forests",
+      "Mountains",
+      "Caves"
+    ],
+    "water": "Freshwater lakes",
+    "interest": [
+      "Eocho Mountain Valley",
+      "Eocho Mountains",
+      "First Temple",
+      "Gardens of T'alla",
+      "Great North Imhar River",
+      "Imhar Canyon",
+      "Jedi Temple of Luke Skywalker",
+      "Knossos Plateau",
+      "Ooroo Canyon",
+      "Trawormatt Mountains"
+    ],
+    "flora": [
+      "Bamboo",
+      "Uneti tree"
+    ],
+    "fauna": [
+      "Arges frog",
+      "Kaddyr bug",
+      "Kirruk",
+      "Mud yak"
+    ],
+    "species": "Ysanna",
+    "otherspecies": [
+      "Human",
+      "Quarren",
+      "Twi'lek",
+      "Yoda's species"
+    ],
+    "language": [
+      "Ysannan",
+      "Galactic Basic Standard"
+    ],
+    "government": "Ysanna tribal government",
+    "population": [
+      "3,750,000",
+      "  99% Ysanna",
+      "  1% other",
+      "None (by 9 ABY)"
+    ],
+    "cities": [
+      "Knossa",
+      "Ossus City"
+    ],
+    "imports": "Technology",
+    "exports": "None",
+    "affiliation": "Jedi Order"
+  },
+  "homeworld_of": [
+    {
+      "name": "Geonosian",
+      "directory": "Geonosian (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Ysanna",
+      "directory": "Ysanna",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ysanna",
+      "directory": "Ysanna (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ossus",
+    "x": 10492.6,
+    "y": 4785.0,
+    "z": -14.1,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

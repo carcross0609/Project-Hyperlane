@@ -1,0 +1,42 @@
+{
+  "name": "Gastrula",
+  "wookieepedia_title": "Gastrula",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gastrula",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gastrula was a planet in the Rayter sector of the Outer Rim Territories. The homeworld of the Gastrulan species, it was the terminus of the short-lived Great Bantha Breakfast Biscuit Run during the Galactic Civil War. Captain Bungo Bung had established the trade route in an effort to make credits by selling the popular snack Bantha Breakfast Biscuits to the locals. However, when combined with certain elements in the environment of Gastrula, preservatives in the biscuits caused the snacks to mutate into the Giant Amorphous Bantha Breakfast Biscuit. The resulting lifeform was a ravenous creature that set out to consume the entire planet.",
+  "lead_paragraphs": [
+    "Gastrula was a planet in the Rayter sector of the Outer Rim Territories. The homeworld of the Gastrulan species, it was the terminus of the short-lived Great Bantha Breakfast Biscuit Run during the Galactic Civil War. Captain Bungo Bung had established the trade route in an effort to make credits by selling the popular snack Bantha Breakfast Biscuits to the locals. However, when combined with certain elements in the environment of Gastrula, preservatives in the biscuits caused the snacks to mutate into the Giant Amorphous Bantha Breakfast Biscuit. The resulting lifeform was a ravenous creature that set out to consume the entire planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Gastrula",
+    "region": "Outer Rim Territories",
+    "sector": "Rayter sector",
+    "system": "Gastrula system",
+    "coordinates": "J-19",
+    "moons": "At least two",
+    "species": "Gastrulans",
+    "imports": "Bantha Breakfast Biscuits"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gastrulan",
+      "directory": "Gastrulan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gastrula",
+    "x": -5054.1,
+    "y": -9980.1,
+    "z": 257.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Hammer",
+  "wookieepedia_title": "Hammer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hammer",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Hammer was a Z-6 rotary blaster cannon used by Clone Commander Thorn during the Clone Wars.",
+  "data": {
+    "name": "Hammer",
+    "model": "Z-6 rotary blaster cannon",
+    "type": "Blaster cannon",
+    "owners": "Thorn",
+    "affiliation": [
+      "Galactic Republic",
+      "  Coruscant Guard"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

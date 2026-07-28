@@ -1,0 +1,49 @@
+{
+  "name": "Chardaan",
+  "wookieepedia_title": "Chardaan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chardaan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Chardaan was an Inner Rim world that lay at the intersection of the Hydian Way and Shipwrights' Trace. The planet was orbited by the Chardaan Shipyards.",
+  "lead_paragraphs": [
+    "Chardaan was an Inner Rim world that lay at the intersection of the Hydian Way and Shipwrights' Trace. The planet was orbited by the Chardaan Shipyards."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Chardaan",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Chardaan system",
+    "coordinates": "N-13",
+    "routes": [
+      "Hydian Way",
+      "Itani Run",
+      "Shipwrights' Trace"
+    ],
+    "interest": "Chardaan Shipyards",
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "affiliation": [
+      "Galactic Republic",
+      "  Corellian Hegemony",
+      "Darth Revan's Sith Empire",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Chardaan",
+    "x": 3508.0,
+    "y": -5987.4,
+    "z": -157.1,
+    "region": "Inner Rim",
+    "grid": "N-13"
+  },
+  "scraped": "2026-07-03"
+}

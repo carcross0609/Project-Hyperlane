@@ -1,0 +1,38 @@
+{
+  "name": "Choi",
+  "wookieepedia_title": "Choi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Choi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Choi was a world located in the Inner Rim. It was the homeworld of the Choi species.",
+  "lead_paragraphs": [
+    "Choi was a world located in the Inner Rim. It was the homeworld of the Choi species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Choi",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "system": "Choi system",
+    "coordinates": "M-13",
+    "species": "Choi"
+  },
+  "homeworld_of": [
+    {
+      "name": "Choi",
+      "directory": "Choi (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Choi",
+    "x": 2167.8,
+    "y": -5550.4,
+    "z": -38.7,
+    "region": "Inner Rim",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

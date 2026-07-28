@@ -1,0 +1,47 @@
+{
+  "name": "Torina",
+  "wookieepedia_title": "Torina",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Torina",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Torina was a terraformed planet located in the Torina system of the Elrood sector.",
+  "lead_paragraphs": [
+    "Torina was a terraformed planet located in the Torina system of the Elrood sector."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Torina",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Torina system",
+    "coordinates": "M-19",
+    "routes": [
+      "Elrood-Derilyn Trade Route",
+      "  The Extreme"
+    ],
+    "terrain": "Rainforests",
+    "species": "Torines",
+    "otherspecies": [
+      "Humans",
+      "Gamorreans"
+    ],
+    "cities": "Brindibarr (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Torina",
+    "x": 2028.4,
+    "y": -14404.1,
+    "z": -184.3,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

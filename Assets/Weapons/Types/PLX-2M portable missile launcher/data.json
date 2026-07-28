@@ -1,0 +1,35 @@
+{
+  "name": "PLX-2M portable missile launcher",
+  "wookieepedia_title": "PLX-2M portable missile launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/PLX-2M_portable_missile_launcher",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The PLX-2M portable missile launcher, sometimes referred to as the Plex-Twoem, or Plex, was a shoulder-mounted missile launcher produced by Merr-Sonn Munitions, Inc. and based on their earlier PLX-1 model. The sheer explosive power of the PLX-2M made it dangerous to fire blindly in close quarters, but was extremely effective when used as a 'smart' tracking weapon. Once locked on to a target, the PLX-2M's missiles had a range of 50 kilometers.",
+  "data": {
+    "name": "PLX-2M portable missile launcher",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "model": "PLX-2M",
+    "type": "Portable missile launcher",
+    "cost": "2,250 credits (Available for military use only)",
+    "size": "Large",
+    "weight": "48 kg",
+    "capacity": [
+      "6 Arakyd 3t3 missiles",
+      "4.5-meter blast radius"
+    ],
+    "range": [
+      "Optimum: up to 75 meters",
+      "Maximum: up to 750 meters or 2 kilometers (tracking)"
+    ],
+    "purpose": [
+      "Anti-vehicle weapon",
+      "Antipersonnel weapon"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

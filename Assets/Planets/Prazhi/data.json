@@ -1,0 +1,52 @@
+{
+  "name": "Prazhi",
+  "wookieepedia_title": "Prazhi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Prazhi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Prazhi was an Expansion Region planet located in the Cyrillian Protectorate. It was the homeworld of the Zexx species. A member of the galactic community since at least 5000 BBY, a millennium later Prazhi was situated on an important hyperspace trade route. By the time of the Galactic Empire's reign, Prazhi had become a trade world the economy of which was revitalized by Imperial efforts to resettle the Expansion Region.",
+  "lead_paragraphs": [
+    "Prazhi was an Expansion Region planet located in the Cyrillian Protectorate. It was the homeworld of the Zexx species. A member of the galactic community since at least 5000 BBY, a millennium later Prazhi was situated on an important hyperspace trade route. By the time of the Galactic Empire's reign, Prazhi had become a trade world the economy of which was revitalized by Imperial efforts to resettle the Expansion Region."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Prazhi",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Cyrillian Protectorate",
+    "system": "Prazhi system",
+    "coordinates": "O-12",
+    "class": "Terrestrial",
+    "interest": [
+      "Cantinas",
+      "Docking areas",
+      "Refueling stations",
+      "Repair shops"
+    ],
+    "species": "Zexx",
+    "government": "Tribes (historically)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Zexx",
+      "directory": "Zexx",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Prazhi",
+    "x": 5655.4,
+    "y": -3983.0,
+    "z": 285.2,
+    "region": "Expansion Region",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

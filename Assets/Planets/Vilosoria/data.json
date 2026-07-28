@@ -1,0 +1,45 @@
+{
+  "name": "Vilosoria",
+  "wookieepedia_title": "Vilosoria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vilosoria",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Vilosoria was a Mid Rim planet situated in the Lifh sector. It was the homeworld of the Vilosorian species, which cycled between being docile beings and vicious carnivores based on the change of seasons on the planet. Vilosoria was invaded by the Galactic Empire, which established a garrison there. Not long thereafter, during the Galactic Civil War, the Rebel Alliance droid R2z-DL passed on information about Imperial activities in the sector, the patrol routes and malfunction reports of the Empire's Interdictor cruiser Fireclaw, and a description of the Vilosorians' changes to the Alliance pilot Koedi Raef. Raef used the information to redirect the Fireclaw, leaving the garrison on Vilosoria without reinforcements, and subsequently the Alliance aided the transformed, carnivorous Vilosorians in liberating their homeworld.",
+  "lead_paragraphs": [
+    "Vilosoria was a Mid Rim planet situated in the Lifh sector. It was the homeworld of the Vilosorian species, which cycled between being docile beings and vicious carnivores based on the change of seasons on the planet. Vilosoria was invaded by the Galactic Empire, which established a garrison there. Not long thereafter, during the Galactic Civil War, the Rebel Alliance droid R2z-DL passed on information about Imperial activities in the sector, the patrol routes and malfunction reports of the Empire's Interdictor cruiser Fireclaw, and a description of the Vilosorians' changes to the Alliance pilot Koedi Raef. Raef used the information to redirect the Fireclaw, leaving the garrison on Vilosoria without reinforcements, and subsequently the Alliance aided the transformed, carnivorous Vilosorians in liberating their homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Vilosoria",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Lifh sector",
+    "system": "Vilosoria system",
+    "coordinates": "R-8",
+    "class": "Terrestrial",
+    "species": "Vilosorian",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vilosorian",
+      "directory": "Vilosorian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vilosoria",
+    "x": 2382.3,
+    "y": 2815.2,
+    "z": 113.7,
+    "region": "Mid Rim",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

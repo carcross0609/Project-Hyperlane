@@ -1,0 +1,55 @@
+{
+  "name": "Selnesh",
+  "wookieepedia_title": "Selnesh/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Selnesh/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Selnesh was a notorious Imperial prison planet orbiting a pale blue star in the Mid Rim. It was a barren, gray, rocky world devoid of vegetation or color. It had a single white, domed building, the Selnesh Imperial Detention Center from which the Rebel Alliance rescued Gebnerret Vibrion.",
+  "lead_paragraphs": [
+    "Selnesh was a notorious Imperial prison planet orbiting a pale blue star in the Mid Rim. It was a barren, gray, rocky world devoid of vegetation or color. It had a single white, domed building, the Selnesh Imperial Detention Center from which the Rebel Alliance rescued Gebnerret Vibrion."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Selnesh",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Irishi sector",
+    "system": "Seltaine system",
+    "coordinates": "K-6",
+    "suns": "1: Sela",
+    "position": "6",
+    "moons": "None",
+    "lengthday": "37 standard hours",
+    "lengthyear": "489 standard days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Frigid",
+    "gravity": "Light",
+    "terrain": [
+      "Barren",
+      "Mountain"
+    ],
+    "water": "Dry",
+    "interest": "Selnesh Imperial Detention Center",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Imperial military",
+    "imports": [
+      "Prisoners",
+      "Prison supplies"
+    ],
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Selnesh",
+    "x": -329.9,
+    "y": 4707.5,
+    "z": 242.2,
+    "region": "Mid Rim",
+    "grid": "K-6"
+  },
+  "scraped": "2026-07-03"
+}

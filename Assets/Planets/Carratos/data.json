@@ -1,0 +1,52 @@
+{
+  "name": "Carratos",
+  "wookieepedia_title": "Carratos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carratos",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Carratos was a planet in the Inner Rim, roughly forty parsecs from Coruscant.",
+  "lead_paragraphs": [
+    "Carratos was a planet in the Inner Rim, roughly forty parsecs from Coruscant."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Carratos",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "system": "O'pahz system",
+    "coordinates": "K-8",
+    "moons": "At least 2",
+    "routes": "Namadii Corridor",
+    "class": "Terrestrial",
+    "terrain": "Urban",
+    "interest": [
+      "Smugglers' Bridge Tunnel",
+      "Imperial Garrison",
+      "Casinos"
+    ],
+    "fauna": "Shooks",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "demonym": "Carratosian",
+    "cities": "Chofin",
+    "affiliation": [
+      "Pirates",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Carratos",
+    "x": -1350.6,
+    "y": 1875.0,
+    "z": 83.5,
+    "region": "Inner Rim",
+    "grid": "K-8"
+  },
+  "scraped": "2026-07-03"
+}

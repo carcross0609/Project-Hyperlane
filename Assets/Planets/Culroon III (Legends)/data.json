@@ -1,0 +1,45 @@
+{
+  "name": "Culroon III",
+  "wookieepedia_title": "Culroon III/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Culroon_III/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Culroon III was a planet in the Culroon system, located in Wild Space.",
+  "lead_paragraphs": [
+    "Culroon III was a planet in the Culroon system, located in Wild Space."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Culroon III",
+    "region": "Wild Space",
+    "system": "Culroon system",
+    "coordinates": "P-20",
+    "flora": "Trees",
+    "species": "Culroon",
+    "otherspecies": "Humans",
+    "imports": "Weapons",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Culroon",
+      "directory": "Culroon",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Culroon III",
+    "x": 6568.4,
+    "y": -15918.9,
+    "z": 152.9,
+    "region": "Wild Space",
+    "grid": "P-20"
+  },
+  "scraped": "2026-07-03"
+}

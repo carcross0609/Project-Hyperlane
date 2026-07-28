@@ -1,0 +1,24 @@
+{
+  "name": "M4-series Messenger Droid",
+  "wookieepedia_title": "M4-series Messenger Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/M4-series_Messenger_Droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The M4-series Messenger Droid was a model of messenger droid manufactured by Cybot Galactica. A sturdy and intelligent droid that stood about half a meter tall, it was propelled by a repulsorlift generator and equipped with a holoprojector and holorecorder. The M4-series was designed solely to deliver its message at any cost, and developed a reputation for successfully doing just that.",
+  "data": {
+    "name": "M4-series Messenger Droid",
+    "manufacturer": "Cybot Galactica",
+    "model": "M4-series",
+    "class": "Messenger droid",
+    "height": "~0.5 meters",
+    "armament": "Light blaster pistol",
+    "equipment": [
+      "Holoprojector",
+      "Holorecorder",
+      "Long-range comlink",
+      "Repulsorlift generator"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

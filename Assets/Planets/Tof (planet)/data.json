@@ -1,0 +1,42 @@
+{
+  "name": "Tof",
+  "wookieepedia_title": "Tof (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tof_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tof was a planet located within the Tof system of the Firefist satellite galaxy on the peripheral halo of the galactic disk and was part of the Unknown Regions. It was the homeworld of the near-Human Tofs, a green-skinned race of space pirates.",
+  "lead_paragraphs": [
+    "Tof was a planet located within the Tof system of the Firefist satellite galaxy on the peripheral halo of the galactic disk and was part of the Unknown Regions. It was the homeworld of the near-Human Tofs, a green-skinned race of space pirates."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Tof",
+    "region": "Firefist, Unknown Regions",
+    "system": "Tof system",
+    "coordinates": "N/A",
+    "terrain": "Island chains",
+    "water": "Ocean",
+    "species": "Tof",
+    "language": "Tof",
+    "cities": "Tof Central",
+    "affiliation": "Tof Kingdom"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tof",
+      "directory": "Tof (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tof",
+    "x": -9084.4,
+    "y": 2024.8,
+    "z": -111.5,
+    "region": "Unknown Regions",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

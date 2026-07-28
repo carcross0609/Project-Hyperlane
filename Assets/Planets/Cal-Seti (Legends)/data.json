@@ -1,0 +1,41 @@
+{
+  "name": "Cal-Seti",
+  "wookieepedia_title": "Cal-Seti/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cal-Seti/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Cal-Seti was a planet located in the Core Worlds and was several sectors from N'zoth. It was at the intersection of the Agricultural Circuit and the Metellos Trade Route.",
+  "lead_paragraphs": [
+    "Cal-Seti was a planet located in the Core Worlds and was several sectors from N'zoth. It was at the intersection of the Agricultural Circuit and the Metellos Trade Route.",
+    "The capital, Ramsees Hed, was a Galactic Empire docking facility. It was infiltrated by Kyle Katarn in 1 ABY. In 4 ABY, Imperial Intelligence reported that the Black Fleet had been destroyed near Cal-Seti, but in 16 ABY, it was discovered that the fleet had actually been captured at N'zoth."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Cal-Seti",
+    "region": [
+      "Core Worlds",
+      "The Negs"
+    ],
+    "sector": "Torranix sector",
+    "system": "Cal-Seti system",
+    "coordinates": "K-10",
+    "routes": [
+      "Agricultural Circuit",
+      "Metellos Trade Route"
+    ],
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "cities": "Ramsees Hed (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Cal-Seti",
+    "x": -1109.0,
+    "y": -512.9,
+    "z": 117.8,
+    "region": "Core Worlds",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

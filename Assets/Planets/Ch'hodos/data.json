@@ -1,0 +1,53 @@
+{
+  "name": "Ch'hodos",
+  "wookieepedia_title": "Ch'hodos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ch%27hodos",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ch'hodos was a rocky desert planet that orbited a red sun within the Outer Rim Territories' Sith Worlds region. Ch'hodos was considered a lesser world of the Sith Empire and served as the central base of the Sith Lord Shar Dakhan by the year 5000 BBY.",
+  "lead_paragraphs": [
+    "Ch'hodos was a rocky desert planet that orbited a red sun within the Outer Rim Territories' Sith Worlds region. Ch'hodos was considered a lesser world of the Sith Empire and served as the central base of the Sith Lord Shar Dakhan by the year 5000 BBY.",
+    "During the Dark Lord of the Sith Naga Sadow's preparations to attack the Galactic Republic, Ch'hodos became a rally ground for his Sith soldiers, with Sadow himself and his apprentice, Gav Daragon, overlooking the embarking of the troops. More than a millennium later, the radiation from Ch'hodos's sun had increased, leading to mutations in the local desert wildlife."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Ch'hodos",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Esstran sector",
+      "  Sith Worlds"
+    ],
+    "system": "Ch'hodos system",
+    "coordinates": "R-4",
+    "suns": "1: Ch'hodos's red sun",
+    "routes": [
+      "Nache Bhelfia",
+      "Zorfe Trete"
+    ],
+    "class": "Terrestrial",
+    "terrain": [
+      "Deserts",
+      "Rocky"
+    ],
+    "interest": "A cave",
+    "otherspecies": "Sith",
+    "affiliation": "Sith Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ch'hodos",
+    "x": 9456.4,
+    "y": 7700.6,
+    "z": -496.6,
+    "region": "Outer Rim",
+    "grid": "R-4"
+  },
+  "scraped": "2026-07-03"
+}

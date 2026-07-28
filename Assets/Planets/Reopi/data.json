@@ -1,0 +1,48 @@
+{
+  "name": "Reopi",
+  "wookieepedia_title": "Reopi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Reopi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Reopi was a Core Worlds desert world. It featured the vast equatorial area known as the Red Reopi Deserts. There, magus creatures fed on insects and reptiles and was in turn preyed upon by the Reopi sand crushers. Under strict government regulation, private Reopi businesses hunted magus for their hides, which were prized off-world.",
+  "lead_paragraphs": [
+    "Reopi was a Core Worlds desert world. It featured the vast equatorial area known as the Red Reopi Deserts. There, magus creatures fed on insects and reptiles and was in turn preyed upon by the Reopi sand crushers. Under strict government regulation, private Reopi businesses hunted magus for their hides, which were prized off-world."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Reopi",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead",
+      "Inner Sphere"
+    ],
+    "system": "Reopi system",
+    "coordinates": "M-10",
+    "class": "Terrestrial",
+    "terrain": "Deserts",
+    "interest": "Red Reopi Deserts",
+    "flora": "Present",
+    "fauna": [
+      "Insects",
+      "Magus",
+      "Reopi sand crusher",
+      "Reptiles"
+    ],
+    "exports": "Magus hides"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Reopi",
+    "x": 2319.6,
+    "y": -662.0,
+    "z": 162.8,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

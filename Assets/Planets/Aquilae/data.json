@@ -1,0 +1,37 @@
+{
+  "name": "Aquilae",
+  "wookieepedia_title": "Aquilae",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aquilae",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aquilae was an ancient Duros colony planet located along the Hydian Way in the Colonies region.",
+  "lead_paragraphs": [
+    "Aquilae was an ancient Duros colony planet located along the Hydian Way in the Colonies region."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Aquilae",
+    "sector": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Aquilae system",
+    "coordinates": "N-12",
+    "routes": "Hydian Way",
+    "otherspecies": "Duros",
+    "population": "10 billion to 100 billion",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Aquilae",
+    "x": 3227.9,
+    "y": -3919.3,
+    "z": -216.3,
+    "region": "Colonies",
+    "grid": "N-12"
+  },
+  "scraped": "2026-07-03"
+}

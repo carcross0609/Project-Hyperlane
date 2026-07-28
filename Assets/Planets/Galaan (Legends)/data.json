@@ -1,0 +1,53 @@
+{
+  "name": "Galaan",
+  "wookieepedia_title": "Galaan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galaan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Galaan was a gas giant in Corva sector's Galaanus system. Its local day lasted 132 standard hours; its year lasted 479 local days.",
+  "lead_paragraphs": [
+    "Galaan was a gas giant in Corva sector's Galaanus system. Its local day lasted 132 standard hours; its year lasted 479 local days."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Galaan",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Corva sector",
+    "system": "Galaanus system",
+    "coordinates": "P-4",
+    "lengthday": "132 standard hours",
+    "lengthyear": "479 local days",
+    "class": "Gas giant",
+    "atmosphere": "Type IV (environment suit required)",
+    "climate": "Frigid",
+    "gravity": "Heavy",
+    "terrain": "Cloudscape",
+    "interest": "New Republic communications and intelligence base",
+    "population": "3,000",
+    "imports": [
+      "High technology",
+      "Foodstuffs",
+      "Medical supplies"
+    ],
+    "exports": [
+      "Information",
+      "Communications services"
+    ],
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Galaan",
+    "x": 6567.7,
+    "y": -13516.6,
+    "z": -220.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

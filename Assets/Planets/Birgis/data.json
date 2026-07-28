@@ -1,0 +1,42 @@
+{
+  "name": "Birgis",
+  "wookieepedia_title": "Birgis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Birgis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Birgis was a terrestrial world in the Dalonbian sector of the Outer Rim Territories. It lay in the path of the extragalactic Yuuzhan Vong species during their invasion of the galaxy.",
+  "lead_paragraphs": [
+    "Birgis was a terrestrial world in the Dalonbian sector of the Outer Rim Territories. It lay in the path of the extragalactic Yuuzhan Vong species during their invasion of the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Birgis",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Dalonbian sector",
+    "system": "Birgis system",
+    "coordinates": "M-3",
+    "routes": "Veragi Trade Route",
+    "class": "Terrestrial",
+    "affiliation": [
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Birgis",
+    "x": 2738.1,
+    "y": 9750.0,
+    "z": 147.9,
+    "region": "Outer Rim",
+    "grid": "M-3"
+  },
+  "scraped": "2026-07-03"
+}

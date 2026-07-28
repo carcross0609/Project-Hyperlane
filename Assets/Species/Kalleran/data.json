@@ -1,0 +1,33 @@
+{
+  "name": "Kalleran",
+  "wookieepedia_title": "Kalleran",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalleran",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Kallerans were a tall sentient species native to the planet of Kaller.",
+  "data": {
+    "name": "Kalleran",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "height": "+2 meter",
+    "skincolor": "Green",
+    "haircolor": "Hairless",
+    "eyecolor": [
+      "Green",
+      "  Distinct black markings"
+    ],
+    "distinctions": [
+      "Three fingers",
+      "Three toes",
+      "Noseless",
+      "Olfactory antennae"
+    ],
+    "origin": "Kaller",
+    "language": [
+      "Kall",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Kaller"
+}

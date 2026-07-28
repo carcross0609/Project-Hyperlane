@@ -1,0 +1,30 @@
+{
+  "name": "V-150 Planet Defender",
+  "wookieepedia_title": "V-150 Planet Defender/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V-150_Planet_Defender/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The v-150 Planet Defender was a surface-to-orbit ion cannon produced by Kuat Drive Yards.",
+  "data": {
+    "name": "v-150 Planet Defender",
+    "manufacturer": "Kuat Drive Yards",
+    "type": "Heavy ion surface-to-space cannon",
+    "creators": "Can Lar",
+    "cost": [
+      "500,000—1.5 million credits (new)",
+      "100,000— 1 million credits (used)"
+    ],
+    "protection": "Reinforced permacite shell",
+    "crew": "27—150",
+    "capacity": "Unlimited (power generator)",
+    "range": [
+      "Atmosphere (short)",
+      "Near space orbit (medium)",
+      "Outer space orbit (long)",
+      "  180,000 kilometers (maximum)",
+      "Target vessel blast radius"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

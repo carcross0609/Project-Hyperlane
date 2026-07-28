@@ -1,0 +1,53 @@
+{
+  "name": "Enarc",
+  "wookieepedia_title": "Enarc/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Enarc/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Enarc was a planet in the Mid Rim.",
+  "lead_paragraphs": [
+    "Enarc was a planet in the Mid Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Enarc",
+    "region": [
+      "Mid Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Alui sector",
+    "system": "Enarc system",
+    "coordinates": "O-17",
+    "routes": [
+      "Duros Space Run",
+      "Enarc Run",
+      "Triellus Trade Route"
+    ],
+    "otherspecies": [
+      "Humans",
+      "Neimoidians"
+    ],
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Republic",
+      "Brotherhood of Darkness",
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Enarc",
+    "x": 5111.9,
+    "y": -10741.9,
+    "z": -220.7,
+    "region": "Mid Rim",
+    "grid": "O-17"
+  },
+  "scraped": "2026-07-03"
+}

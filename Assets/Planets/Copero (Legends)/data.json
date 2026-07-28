@@ -1,0 +1,56 @@
+{
+  "name": "Copero",
+  "wookieepedia_title": "Copero/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Copero/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Copero was a planet of the Chiss Ascendancy in the Unknown Regions. It was the location of the Chiss' largest shipyard.",
+  "lead_paragraphs": [
+    "Copero was a planet of the Chiss Ascendancy in the Unknown Regions. It was the location of the Chiss' largest shipyard."
+  ],
+  "article_sections": [
+    "Description",
+    "  Fauna",
+    "History"
+  ],
+  "data": {
+    "name": "Copero",
+    "region": "Unknown Regions",
+    "sector": "Chiss Space",
+    "system": "Copero system",
+    "coordinates": "F-9",
+    "routes": "Path of the Houses",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": "Mountains",
+    "interest": [
+      "Ancient ruins",
+      "Shipyard"
+    ],
+    "fauna": [
+      "Ginx",
+      "Orobird",
+      "Pantran whitefang",
+      "Wampa"
+    ],
+    "otherspecies": "Chiss",
+    "language": "Basic",
+    "cities": "Copero City",
+    "affiliation": [
+      "Chiss Ascendancy",
+      "  Mitth family",
+      "  House Inrokini"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Copero",
+    "x": -8574.6,
+    "y": 1391.3,
+    "z": 169.8,
+    "region": "Unknown Regions",
+    "grid": "F-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Harbinger",
+  "wookieepedia_title": "Harbinger (Imperial I-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Harbinger_%28Imperial_I-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Harbinger was an Imperial I-class Star Destroyer of the Imperial Navy famous for being one of the only Star Destroyers to be hijacked by the Rebel Alliance.",
+  "data": {
+    "name": "Harbinger",
+    "line": "Imperial-class Star Destroyer",
+    "model": "Upgraded Imperial I-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "mass": "Around 40,000,000 tons",
+    "complement": [
+      "TIE/ln space superiority starfighters",
+      "Lambda-class T-4a shuttles",
+      "At least 2 74-Z speeder bikes",
+      "Millennium Falcon",
+      "Taylander shuttle",
+      "T-65B X-wing starfighters"
+    ],
+    "crew": [
+      "Some 1,000 (Imperial control)",
+      "  Stormtroopers",
+      "  Imperial officers",
+      "  Imperial weapons technicians",
+      "Rebels (200) (Alliance control)",
+      "  Rebel technicians"
+    ],
+    "communications": "Communications tower (post-upgrade)",
+    "destroyed": "0 ABY",
+    "affiliation": [
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ],
+    "navy": [
+      "Imperial Navy",
+      "Rebel Alliance Navy"
+    ],
+    "captains": "Unidentified Imperial admiral"
+  },
+  "scraped": "2026-07-03"
+}

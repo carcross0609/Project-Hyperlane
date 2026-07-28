@@ -1,0 +1,40 @@
+{
+  "name": "Yoda's lightsaber",
+  "wookieepedia_title": "Yoda's lightsaber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Yoda%27s_lightsaber/Legends",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Yoda's lightsaber was the weapon carried by Grand Master Yoda. Its blade was shorter than that of a normal lightsaber to match Yoda's small stature, and was green. He used this blade to perfect all styles of lightsaber combat, most notably Form IV: Ataru.",
+  "data": {
+    "name": "Yoda's lightsaber",
+    "model": "Lightsaber shoto",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "creator": "Yoda",
+    "owners": [
+      "Yoda",
+      "Picaroon C. Boodle"
+    ],
+    "hilt_shape": "Straight, cylindrical",
+    "hilt_length": "14.00 centimeters",
+    "hilt_material": "Alloy metal",
+    "crystal": "Single Adegan crystal",
+    "color": [
+      "Yellow",
+      "Green",
+      "Orange"
+    ],
+    "blade_length": "Short",
+    "protection": "Emmiter shroud",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Galactic Empire",
+      "Seven Dark Jedi",
+      "Brothers of the Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

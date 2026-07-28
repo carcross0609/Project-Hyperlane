@@ -1,0 +1,38 @@
+{
+  "name": "Camson",
+  "wookieepedia_title": "Camson",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Camson",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Camson was a desert planet in the Camson system in the Abrion sector of the Outer Rim Territories that had at least one city.",
+  "lead_paragraphs": [
+    "Camson was a desert planet in the Camson system in the Abrion sector of the Outer Rim Territories that had at least one city."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Camson",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Abrion sector",
+    "system": "Camson system",
+    "coordinates": "S-15",
+    "atmosphere": "Breathable",
+    "terrain": "Desert",
+    "cities": "Unidentified city"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Camson",
+    "x": -1264.9,
+    "y": -1280.0,
+    "z": -79.4,
+    "region": "Other",
+    "grid": "K-10"
+  },
+  "scraped": "2026-07-03"
+}

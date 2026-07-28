@@ -1,0 +1,41 @@
+{
+  "name": "Dohu VII",
+  "wookieepedia_title": "Dohu VII",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dohu_VII",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dohu VII was the seventh of eight planets in the Dohu system. It was the homeworld of the mineral-based species called the Silika. Linkaas Corporation had a warehouse near Docking Bay 71 in Skagras.",
+  "lead_paragraphs": [
+    "Dohu VII was the seventh of eight planets in the Dohu system. It was the homeworld of the mineral-based species called the Silika. Linkaas Corporation had a warehouse near Docking Bay 71 in Skagras."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dohu VII",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Dohu sector",
+    "system": "Dohu system",
+    "coordinates": "K-7",
+    "routes": "Celanon Spur",
+    "species": "Silika",
+    "cities": "Skagras (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Silika",
+      "directory": "Silika",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dohu VII",
+    "x": -368.4,
+    "y": 3658.3,
+    "z": -198.1,
+    "region": "Mid Rim",
+    "grid": "K-7"
+  },
+  "scraped": "2026-07-03"
+}

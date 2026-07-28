@@ -1,0 +1,32 @@
+{
+  "name": "EG-6 power droid",
+  "wookieepedia_title": "EG-6 power droid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/EG-6_power_droid/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The EG-6 power droid by Veril Line Systems was an ambulatory power droid.",
+  "data": {
+    "name": "EG-6 power droid",
+    "manufacturer": "Veril Line Systems",
+    "homeworld": "Coruscant",
+    "line": "EG-series power droid",
+    "class": "Power droid",
+    "degree": "Class five droid",
+    "cost": "2,500 credits",
+    "height": "1.1 meter",
+    "equipment": [
+      "Armored housing",
+      "Bipedal locomotion",
+      "Cybot Galactica acoustic signaller",
+      "Ultra-fine manipulator",
+      "System diagnosis package",
+      "  Infrared receptor",
+      "  Sonar",
+      "  Spectrometer",
+      "  X-ray equipment",
+      "Video sensor"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

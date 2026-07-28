@@ -1,0 +1,18 @@
+# Missile droid
+
+**Kind:** Series  
+**Continuity:** Legends  
+**Source:** [Missile droid](https://starwars.fandom.com/wiki/Missile_droid)
+
+Missile droids were flimsy battle droids used in large numbers by the Galactic Empire. They were used in 3 ABY during the Battle of Dubrillion, where they attempted to hinder Rebel Alliance pilot Wedge Antilles. They spewed a seemingly infinite number of concussion missiles.
+
+## Specifications
+
+- **Name:** Missile droid
+- **Class:** Battle droid
+- **Armament:** Concussion missiles
+- **Affiliation:** Galactic Empire
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

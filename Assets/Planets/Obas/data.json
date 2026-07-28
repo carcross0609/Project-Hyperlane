@@ -1,0 +1,63 @@
+{
+  "name": "Obas",
+  "wookieepedia_title": "Obas",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Obas",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Obas was a superheated volcanic planet located in the Expansion Region's Andirma sector. During the Galactic Civil War, the Alliance to Restore the Republic operated a base on the planet, the environmental control systems of which at one point malfunctioned. As a result, the base faced imminent melt-down due to the extremely high temperatures of Obas. The personnel of the base tasked a group of Rebel agents that had arrived in the Obas system to retrieve critical replacement parts from an Imperial supply depot in the nearby Rainos Cluster.",
+  "lead_paragraphs": [
+    "Obas was a superheated volcanic planet located in the Expansion Region's Andirma sector. During the Galactic Civil War, the Alliance to Restore the Republic operated a base on the planet, the environmental control systems of which at one point malfunctioned. As a result, the base faced imminent melt-down due to the extremely high temperatures of Obas. The personnel of the base tasked a group of Rebel agents that had arrived in the Obas system to retrieve critical replacement parts from an Imperial supply depot in the nearby Rainos Cluster.",
+    "At the same time, an Imperial scouting force discovered the Obas base and dispatched a heavy assault starfighter and Imperial Army assault troopers to the planet. When the Rebel agents returned to the Obas system, they fought the Imperial starfighter and subsequently entered the base on the planet. After the group had located the power conduit at which the newly-brought parts needed to be installed, the Imperial troopers, who had also entered the complex, attacked the Rebels."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Crisis at a Rebel base",
+    "  A race against time",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Obas",
+    "region": "Expansion Region",
+    "sector": "Andirma sector",
+    "system": "Obas system",
+    "coordinates": "L-15",
+    "suns": "1: Oba",
+    "position": "2",
+    "moons": "1",
+    "lengthday": "42 standard hours",
+    "lengthyear": "401 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "climate": "Searing hot",
+    "gravity": "High",
+    "terrain": [
+      "Mountains",
+      "Rocky plains",
+      "Volcanoes"
+    ],
+    "water": "Arid",
+    "interest": "Obas base",
+    "species": "None",
+    "government": "None",
+    "population": "62",
+    "imports": [
+      "Agricultural products",
+      "High technology",
+      "Medical supplies"
+    ],
+    "exports": "None",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Obas",
+    "x": -512.8,
+    "y": -10120.1,
+    "z": 154.0,
+    "region": "Expansion Region",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

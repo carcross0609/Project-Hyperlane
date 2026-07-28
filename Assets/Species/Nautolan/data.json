@@ -1,0 +1,32 @@
+{
+  "name": "Nautolan",
+  "wookieepedia_title": "Nautolan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nautolan",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Nautolans were a humanoid species from the planet Glee Anselm. They were amphibious, and adapted to survive in harsh environments. Nautolan society was largely peaceful, but they were at odds with the Anselmi, a related species also native to their home planet.",
+  "data": {
+    "name": "Nautolan",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "skincolor": [
+      "Blue",
+      "Green",
+      "Purple",
+      "Gray",
+      "Yellow",
+      "Orange"
+    ],
+    "eyecolor": [
+      "Black",
+      "Brown",
+      "Red"
+    ],
+    "distinctions": "Head tentacles capable of detecting chemicals",
+    "origin": "Glee Anselm",
+    "habitat": "Aquatic",
+    "language": "Nautila"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Glee Anselm"
+}

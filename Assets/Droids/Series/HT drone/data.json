@@ -1,0 +1,31 @@
+{
+  "name": "HT drone",
+  "wookieepedia_title": "HT drone",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/HT_drone",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The HT drone were small semi-spherical drones which complemented the larger RHTC-560 Hunter Trainers. They were used by the Master Controllers as scouts to track and eliminate prey during the Imperial Era. The RHTC-560 system was developed by Rodian D-Tec.",
+  "data": {
+    "name": "HT drone",
+    "creator": "Rodians",
+    "manufacturer": "Rodian D-Tec",
+    "homeworld": "Rodia",
+    "line": "RHTC series",
+    "class": "Training / Gladiatorial drone",
+    "height": "0.5 meters",
+    "sensor": "Red",
+    "armament": "Forearm-mounted stun blasters (2)",
+    "equipment": [
+      "Repulsorlift engine",
+      "Maneuvering jets"
+    ],
+    "affiliation": [
+      "Rodia",
+      "Bounty-hunting guilds",
+      "Planetary militias",
+      "Police academies"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

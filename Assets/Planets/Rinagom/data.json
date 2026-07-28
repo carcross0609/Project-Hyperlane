@@ -1,0 +1,47 @@
+{
+  "name": "Rinagom",
+  "wookieepedia_title": "Rinagom",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rinagom",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rinagom was a planet located in the Corporate Sector of the galaxy's Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Rinagom was a planet located in the Corporate Sector of the galaxy's Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Rinagom",
+    "region": "Outer Rim Territories",
+    "sector": "Corporate Sector",
+    "coordinates": "Canon-only",
+    "terrain": [
+      "Main continent:",
+      "  Coastal regions",
+      "  Farmland"
+    ],
+    "water": "Present",
+    "interest": "Dulan Field Harvesting Center",
+    "government": "Corporate Sector Authority",
+    "cities": "Several towns and cities",
+    "imports": [
+      "Machinery",
+      "Technical supplies",
+      "Vehicles"
+    ],
+    "exports": "Agricultural produce",
+    "affiliation": "Corporate Sector Authority"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Rinagom",
+    "x": 9160.9,
+    "y": -10851.3,
+    "z": 35.4,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

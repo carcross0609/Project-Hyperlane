@@ -1,0 +1,29 @@
+{
+  "name": "MD-1 medical droid",
+  "wookieepedia_title": "MD-1 medical droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/MD-1_medical_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The MD-1 was a model of medical droid and a part of the MD-series that was manufactured by Industrial Automaton. It was slightly humanoid in appearance, possessed the ability to project holograms, and was specialized in laboratory chemical analysis.",
+  "data": {
+    "name": "MD-1 medical droid",
+    "manufacturer": "Industrial Automaton",
+    "homeworld": "Telti",
+    "line": "MD-series medical droid",
+    "class": "Class one",
+    "cost": "2,000 credits",
+    "height": "1.5 meters",
+    "sensor": "Yellow",
+    "plating": "Gray",
+    "equipment": [
+      "Detachable hands",
+      "Medical diagnostic computer",
+      "Photoreceptors",
+      "Surgical gown",
+      "Tool mount",
+      "Vocabulator"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

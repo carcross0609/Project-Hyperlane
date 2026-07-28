@@ -1,0 +1,113 @@
+{
+  "name": "Aleen",
+  "wookieepedia_title": "Aleen/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aleen/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aleen was a planet located in the Mid Rim that contained two unique environs: the surface world inhabited by the Aleena and the Underworld, the domain of the Kindalo.",
+  "lead_paragraphs": [
+    "Aleen was a planet located in the Mid Rim that contained two unique environs: the surface world inhabited by the Aleena and the Underworld, the domain of the Kindalo."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Aleen",
+    "region": "Mid Rim",
+    "sector": "Bright Jewel sector",
+    "system": "Aleen system",
+    "coordinates": "L-7",
+    "suns": "1",
+    "moons": "1: Trohlu",
+    "routes": [
+      "Celanon Spur",
+      "Entralla Route"
+    ],
+    "lengthday": "31 hours per day",
+    "lengthyear": "399 days per years",
+    "class": "Terrestrial",
+    "atmosphere": "Surface: Type I (breathable)\nUnderworld: Type II (breath mask suggested)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Surface:",
+      "  Rocky mesas and buttes",
+      "  Desert plains",
+      "  Isolated forests",
+      "Underworld:",
+      "  Geological and arboreal root caverns",
+      "  Luminescent vegetation groves"
+    ],
+    "water": "Shallow seas",
+    "interest": [
+      "Jedi chapter house",
+      "Aleen mainframe station",
+      "Aleen Underworld",
+      "Great Seal"
+    ],
+    "flora": "Arbozoic tree",
+    "fauna": [
+      "Bogwing",
+      "Can-cell",
+      "Sagcatcher",
+      "Scatalpen"
+    ],
+    "species": [
+      "Aleena",
+      "Kindalo",
+      "Orphne's species"
+    ],
+    "language": "Surface: Aleena\nUnderworld: Kindalo",
+    "government": "Surface: Monarchy\nUnderworld: Anarchical consensus",
+    "population": [
+      "Surface: 18,000,000",
+      "99% Aleena",
+      "1% Other",
+      "Underworld: Unknown"
+    ],
+    "cities": "None",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Aleena",
+      "directory": "Aleena",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Aleena",
+      "directory": "Aleena (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Kindalo",
+      "directory": "Kindalo",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kindalo",
+      "directory": "Kindalo (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Orphne's species",
+      "directory": "Orphne's species (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aleen",
+    "x": 568.8,
+    "y": 3489.3,
+    "z": 61.1,
+    "region": "Mid Rim",
+    "grid": "L-7"
+  },
+  "scraped": "2026-07-03"
+}

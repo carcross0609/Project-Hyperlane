@@ -1,0 +1,164 @@
+# Taris
+
+**Continuity:** Legends  
+**Source:** [Taris/Legends](https://starwars.fandom.com/wiki/Taris/Legends)
+**Galaxy atlas:** system `Taris`, Outer Rim, grid N-7 — map position (4077.1, 4354.8, 152.7)
+
+Taris was an urban planet in the fifth orbit of its star, located in the Taris system, within the Ojoster sector, of the Outer Rim Territories. Taris was orbited by four moons, including an anomalous moon nicknamed "Rogue Moon." The term Tarisian was used to describe people and products from the planet, which took over a millennium to build, after being settled by Human colonists from unknown origins. Eventually, Alien species settled or visited the city, and before long the Republic took notice of the world. The planet's ecumenopolis quickly developed over a century of prosperity, and as a result the planet suffered from massive overpopulation. Once a galactic nexus that earned great wealth from its strategic position on the Mandalorian Road hyperspace route, Taris' importance declined with the discovery of the superior Hydian Way that did not include the system, and the planet rapidly fell into decay with a slow mass migration of its residents across the galaxy. The remainder of the planet's history was wrought with civil disorder and social unrest. As it turned to industry as a means of compensation for its economic troubles, its oceans became polluted, eliminating the planet's main food source. After a century of the planet's ecosystem dying off, famine spread among the lower classes while the rich hoarded what few supplies remained. The resulting strife led to the Tarisian Civil War, the start of lasting prejudices between the Humanocentric Tarisian nobles and the largely alien underclass. The city became segmented, the lower classes were banned from living in the upper levels of Taris, and the planet became the poster child of an economically dying world.
+
+During the Mandalorian Wars, Taris served as a crucial rallying point for dissident Jedi who had decided to fight against the invading Mandalorian Neo-Crusaders. As the lower classes were crushed beneath the rich, crime became rampant, and the Tarisian government did little in response. This caused Lhosan Industries, a mining company which employed half of the planet's lower class in its operation, to leave Taris. The millions left unemployed rioted against the government, even spreading up to the middle levels and kidnapping the planet's senator in the Galactic Senate as well as the local constable. This caused the local Jedi to leave Taris as well, leaving the planet in a state of chaos, as the war raged on around it.
+
+By the time of the Jedi Civil War, order had been restored, but swoop gangs and crime still held sway over the Lower City. During the war, Taris was conquered by Darth Revan's Sith Empire, which quarantined the planet in an attempt to capture Jedi Bastila Shan. As the search continued fruitlessly, the Sith leader Darth Malak ordered the bombardment of Taris, killing countless civilians. This act had huge political repercussions for the Sith and changed the tone of the rest of the war, showing Malak and the Sith's true colors, the desire to achieve victory at any cost. This was despite the planet's horrific reputation of crime and segregation and karma of many of its corrupt inhabitants.
+
+Over the next few millennia the planet rebuilt and recovered from its devastation, though never reaching its former glory. Similar to other ecumenopoleis like Coruscant and Nar Shaddaa, the upper levels were safe and secure, inhabited by the wealthy, while the lower levels were frequently plagued by gang warfare and inhabited by thugs and the poor.
+
+During the Great Galactic War, Taris had become the subject of both Jedi and Sith plans; while the Jedi wanted to rebuild the planet to prove to the people of the Republic that they were strong enough to recover from such a disaster, and with it raise morale, the Sith sought to foil their plans, to prove that the Republic couldn't recover from such a thing. Ultimately the Sith were victorious, despite the Republic and Jedi's best efforts to defend the world.
+
+By the time of the Galactic Civil War, much of the city had been rebuilt but never to the extent of it prior to the Jedi Civil War. However, by that time many of the planet's problems that had plagued the city prior to the bombardment, including the species and class oppression, had disappeared with Taris's destruction millennia prior. This was a bittersweet resolution for the planet that once rivaled Coruscant.
+
+## Planetary data
+
+- **Name:** Taris
+- **Region:**
+  - Outer Rim Territories
+  - New Territories
+- **Sector:**
+  - Ojoster sector
+  - Taris subsector
+- **System:** Taris system
+- **Coordinates:** N-7
+- **Suns:** 1: Taris
+- **Moons:**
+  - 4
+  - Rogue Moon
+- **Routes:** Mandalorian Road
+- **Lengthday:** 24 standard hours
+- **Lengthyear:** 314 local days
+- **Class:** Terrestrial
+- **Diameter:** 12,200 km
+- **Atmosphere:** Type I (breathable)
+- **Climate:** Temperate
+- **Gravity:** Standard
+- **Terrain:**
+  - Urban sprawl
+  - Oceans
+- **Water:** 30%
+- **Interest:**
+  - Pre-Jedi Civil War:
+  - Davik Kang's Estate
+  - Tarisian Military Base
+  - Taris Academy
+  - Swoop Track
+  - Taris Dueling Ring
+  - Sewers of Taris
+- **Flora:** Tarisian kelp
+- **Fauna:**
+  - Bogstalker
+  - Bogworm
+  - Coin-crab
+  - Ferrazid hound
+  - Nexu
+  - Orobird
+  - Rakghoul
+  - Tach
+- **Species:** Nekghoul
+- **Otherspecies:**
+  - Pre-Jedi Civil War:
+  - Many species
+  -   Aqualish
+  -   Bith
+  -   Cathar
+  -   Drovian
+  -   Duros
+  -   Gamorrean
+  -   Hamadryas
+  -   Human
+  -   Hutt
+  -   Ithorian
+  -   Nikto
+  -   Paaerduag
+  -   Quarren
+  -   Rodian
+  -   Snivvian
+  -   Trandoshan
+  -   Twi'lek
+  -   Wookiee
+- **Language:** Galactic Basic Standard
+- **Government:** Republic
+- **Population:**
+  - 60 billion (4156 BBY)
+  - 6 billion (3956 BBY)
+  -   30% Human, 70% other
+  - 1 billion (3 ABY)
+- **Demonym:** Tarisian
+- **Cities:**
+  - Ecumenopolis (70%)
+  - Upper City (Segment)
+  - Middle City (Segment)
+  - Lower City (Segment)
+  - Undercity (Segment)
+  - Promised Land (Segment)
+- **Imports:**
+  - pre-Jedi Civil War:
+  - Foodstuffs
+  - Raw materials
+- **Exports:**
+  - pre-Jedi Civil War:
+  - Luxury items
+  - Tarisian ale
+  - Technology
+- **Affiliation:**
+  - Taris Civil Authority
+  - Galactic Republic
+  - Exchange
+  - Mandalorian Neo-Crusaders
+  - Jedi Order
+  - Darth Revan's Sith Empire
+  - Outcasts (Dark Age)
+  - Nekghouls (Limbo Era)
+  - Resurrected Sith Empire
+  - Council of Neutral Systems
+  - Galactic Empire
+  - Zsinj's Empire
+  - New Republic
+  - Dark Empire
+  - Imperial Remnant
+  - Yuuzhan Vong Empire
+  - Galactic Alliance
+
+## Homeworld of
+
+- [Nekghoul (Legends)](../../Species/Nekghoul/README.md)
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+-   Terrain
+-   Flora and fauna
+- History
+-   Growth
+-   Decay
+-   Civil war and anti-alien prejudice
+-   Swoop racing and crime
+-   Joining the Republic
+-   Mandalorian Wars
+-   Jedi Civil War
+-     Battle over Taris
+-     Sith conquest
+-     Bombardment of Taris
+-   Dark Age
+-   Rehabitation
+-   Clone Wars
+-   Imperial Period
+-   Later events
+- Locations
+-   Upper City
+-   Middle City
+-   Lower City
+-   Undercity
+-   The Promised Land
+- Culture
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

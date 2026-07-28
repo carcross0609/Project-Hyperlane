@@ -1,0 +1,20 @@
+{
+  "name": "Ore extraction droid",
+  "wookieepedia_title": "Ore extraction droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ore_extraction_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The ore extraction droid was a model of fifth-degree mining droid employed by the Techno Union to pan for melted ore in lava rivers on the planet Mustafar and carry it to central processing facilities. They were protected from boiling lava by heat resistant carbonite-alloy armor and energy shields.",
+  "data": {
+    "name": "Ore extraction droid",
+    "class": "Mining droid",
+    "degree": "Fifth-degree droid",
+    "equipment": [
+      "Carbonite-alloy armor",
+      "Energy shields"
+    ],
+    "affiliation": "Techno Union"
+  },
+  "scraped": "2026-07-03"
+}

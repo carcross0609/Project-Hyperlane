@@ -1,0 +1,45 @@
+{
+  "name": "Kalishik",
+  "wookieepedia_title": "Kalishik",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalishik",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kalishik was a forested planet located in the Kalishik system. It was situated in the Back Reach area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. The hyperlane known as the Ardan Cross connected it to the Arda and Feena systems. Kalishik was the homeworld of the sentient T'sarki species and had a modest industrial base.",
+  "lead_paragraphs": [
+    "Kalishik was a forested planet located in the Kalishik system. It was situated in the Back Reach area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. The hyperlane known as the Ardan Cross connected it to the Arda and Feena systems. Kalishik was the homeworld of the sentient T'sarki species and had a modest industrial base."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kalishik",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Gordian Reach",
+      "  Back Reach"
+    ],
+    "system": "Kalishik system",
+    "coordinates": "Q-6",
+    "routes": "Ardan Cross",
+    "class": "Terrestrial",
+    "terrain": "Forests",
+    "species": "T'sarki"
+  },
+  "homeworld_of": [
+    {
+      "name": "T'sarki",
+      "directory": "T'sarki",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kalishik",
+    "x": 8250.6,
+    "y": 5888.1,
+    "z": 73.5,
+    "region": "Outer Rim",
+    "grid": "Q-6"
+  },
+  "scraped": "2026-07-03"
+}

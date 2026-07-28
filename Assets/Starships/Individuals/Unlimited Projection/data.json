@@ -1,0 +1,39 @@
+{
+  "name": "Unlimited Projection",
+  "wookieepedia_title": "Unlimited Projection",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unlimited_Projection",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "SpaceStation",
+  "description": "The Unlimited Projection was a heavily converted core ship.",
+  "data": {
+    "name": "Unlimited Projection",
+    "manufacturer": "Hoersch-Kessel Drive, Inc.",
+    "model": "Modified core ship",
+    "type": "Battlesphere",
+    "complement": [
+      "Rogue-class starfighters",
+      "Soulless One",
+      "Tsmeu-6 personal wheel bike",
+      "Vulture droid starfighters"
+    ],
+    "crew": [
+      "B1-Series battle droids",
+      "B2 super battle droids",
+      "IG-100 MagnaGuards"
+    ],
+    "system": "Utapau system",
+    "coordinates": "N-19",
+    "orbited": "Utapau",
+    "role": [
+      "Command post",
+      "Droid factory"
+    ],
+    "affiliation": "Confederacy of Independent Systems",
+    "battles": [
+      "Clone Wars",
+      "  Battle of Utapau"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

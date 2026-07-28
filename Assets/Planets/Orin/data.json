@@ -1,0 +1,39 @@
+{
+  "name": "Orin",
+  "wookieepedia_title": "Orin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orin",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Orin was a desolate terrestrial planet in the second orbital position of the Bespin system in the Anoat sector, which was part of the Outer Rim Territories and Western Reaches. The system was located along the Ison Trade Corridor, 49,100 light-years from the Galactic Core at square K-18 on the Standard Galactic Grid. The world's very erratic orbit of the system's star took nine months and brought Orin very close to the star. Twice per orbit, it also caused the planet to pass through Velser's Ring, a wide asteroid belt that was all that remained of a gas giant that had once occupied the Bespin system's third orbital ring.",
+  "lead_paragraphs": [
+    "Orin was a desolate terrestrial planet in the second orbital position of the Bespin system in the Anoat sector, which was part of the Outer Rim Territories and Western Reaches. The system was located along the Ison Trade Corridor, 49,100 light-years from the Galactic Core at square K-18 on the Standard Galactic Grid. The world's very erratic orbit of the system's star took nine months and brought Orin very close to the star. Twice per orbit, it also caused the planet to pass through Velser's Ring, a wide asteroid belt that was all that remained of a gas giant that had once occupied the Bespin system's third orbital ring.",
+    "Orin was discovered along with the other two remaining planets in the system by the first prospecting teams to arrive, but as its unstable surface claimed the lives of many prospecting teams, the world remained relatively unexplored long after the rest of the system had been mapped and exploited."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Orin",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector",
+    "system": "Bespin system",
+    "coordinates": "K-18",
+    "distance": "49,100 light-years",
+    "suns": "1",
+    "position": "2",
+    "routes": "Ison Trade Corridor",
+    "lengthyear": "9 months",
+    "class": "Terrestrial"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Orin",
+    "x": 3165.9,
+    "y": -16911.6,
+    "z": 500.2,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

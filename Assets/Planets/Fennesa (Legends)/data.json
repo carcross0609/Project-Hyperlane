@@ -1,0 +1,56 @@
+{
+  "name": "Fennesa",
+  "wookieepedia_title": "Fennesa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fennesa/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fennesa was a mountainous, rocky planet located in the Inner Rim. Its fauna included avian and feline predators as well as mountain nerfs, a subspecies of the ungulate nerfs introduced by colonists millennia before the Battle of Yavin.",
+  "lead_paragraphs": [
+    "Fennesa was a mountainous, rocky planet located in the Inner Rim. Its fauna included avian and feline predators as well as mountain nerfs, a subspecies of the ungulate nerfs introduced by colonists millennia before the Battle of Yavin.",
+    "The nerfs on Fennesa were kept by local herders. The latter were a tough people who, as a part of their profession, had to deal with predation, the nerfs' own rambunctious nature, and the eventual loss of the sense of smell due to the herd creatures' foul odor. At some point, an individual hid in the hills on Fennesa. A group of individuals tracking the fugitive in the mountains then had to deal with the local nerfs interfering with their search."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Fennesa",
+    "region": "Inner Rim",
+    "system": "Fennesa system",
+    "coordinates": "K-14",
+    "class": "Terrestrial",
+    "terrain": [
+      "Mountains",
+      "Hills",
+      "Rocky outcroppings",
+      "Rocky overhangs",
+      "Shallow caves"
+    ],
+    "interest": [
+      "Barns",
+      "Grand Horn Ranch Corporation"
+    ],
+    "flora": [
+      "Grass",
+      "Thistled scrub"
+    ],
+    "fauna": [
+      "Avian predator",
+      "Feline predator",
+      "Mountain nerf"
+    ],
+    "otherspecies": "Humans"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Fennesa",
+    "x": -639.9,
+    "y": -6219.7,
+    "z": 32.7,
+    "region": "Inner Rim",
+    "grid": "K-14"
+  },
+  "scraped": "2026-07-03"
+}

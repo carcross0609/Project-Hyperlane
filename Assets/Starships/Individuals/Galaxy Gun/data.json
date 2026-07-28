@@ -1,0 +1,32 @@
+{
+  "name": "Galaxy Gun",
+  "wookieepedia_title": "Galaxy Gun",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Galaxy_Gun",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "StarshipClass",
+  "description": "The Galaxy Gun, or Galaxy Weapon, was a superweapon built by the Galactic Empire in 10 ABY. It was commissioned by the \"reborn\" Emperor Palpatine and designed by Umak Leth.",
+  "data": {
+    "name": "Galaxy Gun",
+    "designer": "Umak Leth",
+    "manufacturer": "Imperial Department of Military Research",
+    "type": "Superweapon",
+    "length": "7,250 meters",
+    "hyperdrive": "Class Six",
+    "armament": [
+      "Particle disintegrator warhead-equipped projectiles",
+      "Defense turbolasers"
+    ],
+    "role": [
+      "Superweapon",
+      "Space station"
+    ],
+    "firstuse": "10 ABY",
+    "retired": "11 ABY",
+    "affiliation": [
+      "Dark Empire",
+      "Imperial Remnant"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

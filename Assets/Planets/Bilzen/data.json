@@ -1,0 +1,39 @@
+{
+  "name": "Bilzen",
+  "wookieepedia_title": "Bilzen",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bilzen",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bilzen was a planet in the Bilzen system of Wild Space that featured mountains and at least one frozen cavern, which contained giant icicles. In 3 BBY, Jedi Kanan Jarrus traveled there with his apprentice Ezra Bridger in their shuttle, the Phantom, to practice the latter's connection to the Force. However, their training was interrupted when the Seventh Sister and the Fifth Brother, two Jedi hunters serving in the Galactic Empire's Inquisitorius, confronted them.",
+  "lead_paragraphs": [
+    "Bilzen was a planet in the Bilzen system of Wild Space that featured mountains and at least one frozen cavern, which contained giant icicles. In 3 BBY, Jedi Kanan Jarrus traveled there with his apprentice Ezra Bridger in their shuttle, the Phantom, to practice the latter's connection to the Force. However, their training was interrupted when the Seventh Sister and the Fifth Brother, two Jedi hunters serving in the Galactic Empire's Inquisitorius, confronted them."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Bilzen",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Bilzen system",
+    "coordinates": "U-12",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Cavern",
+      "Mountains"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Bilzen",
+    "x": 837.5,
+    "y": -4880.8,
+    "z": -163.0,
+    "region": "Other",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

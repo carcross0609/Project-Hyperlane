@@ -1,0 +1,47 @@
+{
+  "name": "Troiken",
+  "wookieepedia_title": "Troiken",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Troiken",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Troiken was a planet located in the Outer Rim Territories region of the galaxy that was the homeworld of the Xexto species. It was also home to raw spice mining operations, controlled by the Pyke Syndicate.",
+  "lead_paragraphs": [
+    "Troiken was a planet located in the Outer Rim Territories region of the galaxy that was the homeworld of the Xexto species. It was also home to raw spice mining operations, controlled by the Pyke Syndicate.",
+    "Gasgano, a famous male Xexto podracer pilot, was from Troiken, as was the male Xexto pawnshop owner and pickpocket Ferpil Wallaway. Slingshots of various kinds were popular on the Xexto homeworld, since the aliens' extra sets of arms made those weapons especially convenient to use. Troiken was mentioned as a planet where the Pyke Syndicate had operations in \"Index of Organizations,\" a survival compendium sent out by Carson Teva during the New Republic Era."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Troiken",
+    "region": "Outer Rim Territories",
+    "sector": "Colundra sector",
+    "system": "Troiken system",
+    "coordinates": "S-5",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": "Forests",
+    "species": "Xexto",
+    "otherspecies": "Gozzo",
+    "affiliation": "Pyke Syndicate"
+  },
+  "homeworld_of": [
+    {
+      "name": "Xexto",
+      "directory": "Xexto",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Xexto",
+      "directory": "Xexto (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Troiken",
+    "x": 11423.9,
+    "y": 7473.6,
+    "z": 336.7,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

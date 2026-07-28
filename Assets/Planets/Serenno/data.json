@@ -1,0 +1,112 @@
+{
+  "name": "Serenno",
+  "wookieepedia_title": "Serenno",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Serenno",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Serenno was a planet located in the Outer Rim Territories' D'Astan sector, covered in lush forests, mountains and plains. Serenno was named after its ruling family, House Serenno. During the Clone Wars, it was aligned with the Confederacy of Independent Systems, the leader of which was the Serenno-born Count Dooku. In the Imperial Era, the planet was occupied by the Galactic Empire.",
+  "lead_paragraphs": [
+    "Serenno was a planet located in the Outer Rim Territories' D'Astan sector, covered in lush forests, mountains and plains. Serenno was named after its ruling family, House Serenno. During the Clone Wars, it was aligned with the Confederacy of Independent Systems, the leader of which was the Serenno-born Count Dooku. In the Imperial Era, the planet was occupied by the Galactic Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "  Astrography",
+    "  Geography",
+    "  Fauna",
+    "History",
+    "  Early history",
+    "  High Republic Era",
+    "  Before the Clone Wars",
+    "  The Clone Wars",
+    "  Imperial Era",
+    "  Later events",
+    "Inhabitants",
+    "  Overview",
+    "  Culture",
+    "Locations",
+    "  Castle Serenno",
+    "  Romar Adell's domicile"
+  ],
+  "data": {
+    "name": "Serenno",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "D'Astan sector",
+    "system": "Serenno system",
+    "coordinates": "P-5",
+    "suns": "1: Serenno's sun",
+    "moons": [
+      "2",
+      "  Mantero"
+    ],
+    "routes": "Spurs of Celanon",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Forests",
+      "Mountains",
+      "Plains",
+      "Savannah"
+    ],
+    "water": "Belsallian Sea",
+    "interest": [
+      "Abyssin Outpost",
+      "Aparian Wastes",
+      "Borgin Castle",
+      "Carannian hills",
+      "Carannia Spaceport",
+      "Castle Serenno",
+      "Delgaldon Plains",
+      "Great Assembly House",
+      "Serenno Camp",
+      "A forest",
+      "Upper forest region"
+    ],
+    "fauna": [
+      "Rodents",
+      "Spikebat",
+      "Spine-wolves",
+      "Tirra'Taka"
+    ],
+    "otherspecies": [
+      "Chiss",
+      "Human",
+      "Twi'lek"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Serenno government",
+    "demonym": "Serennian",
+    "cities": [
+      "Carannia (capital)",
+      "Fiyaro",
+      "Saffia",
+      "Serenno City"
+    ],
+    "affiliation": [
+      "Sith Empire",
+      "House Serenno",
+      "Galactic Republic",
+      "Sith",
+      "Confederacy of Independent Systems",
+      "Galactic Empire (during occupation)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Serennian",
+      "directory": "Serennian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Serenno",
+    "x": 6128.8,
+    "y": 6945.0,
+    "z": -175.4,
+    "region": "Outer Rim",
+    "grid": "P-5"
+  },
+  "scraped": "2026-07-03"
+}

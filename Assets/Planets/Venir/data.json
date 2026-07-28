@@ -1,0 +1,34 @@
+{
+  "name": "Venir",
+  "wookieepedia_title": "Venir",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Venir",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Venir was a planet located in the Kuat sector of the Core Worlds.",
+  "lead_paragraphs": [
+    "Venir was a planet located in the Kuat sector of the Core Worlds."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Venir",
+    "region": [
+      "Core Worlds",
+      "Arrowhead"
+    ],
+    "sector": "Kuat sector",
+    "system": "Venir system",
+    "coordinates": "M-10"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Venir",
+    "x": 1819.5,
+    "y": -1126.2,
+    "z": 63.5,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

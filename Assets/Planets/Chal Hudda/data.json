@@ -1,0 +1,37 @@
+{
+  "name": "Chal Hudda",
+  "wookieepedia_title": "Chal Hudda",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chal_Hudda",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Chal Hudda was a marsh-covered planet of the Outer Rim Territories that had a soupy green atmosphere. Because its natural resources held use for almost no life-forms except the native Chalhuddans, that world was of interest to virtually no one else. In 3 BBY, Princess Leia Organa of Alderaan traveled to Chal Hudda on a mercy mission.",
+  "lead_paragraphs": [
+    "Chal Hudda was a marsh-covered planet of the Outer Rim Territories that had a soupy green atmosphere. Because its natural resources held use for almost no life-forms except the native Chalhuddans, that world was of interest to virtually no one else. In 3 BBY, Princess Leia Organa of Alderaan traveled to Chal Hudda on a mercy mission."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Chal Hudda",
+    "region": "Outer Rim Territories",
+    "sector": "Garis sector",
+    "system": "Chal Hudda system",
+    "coordinates": "N-17",
+    "terrain": "Marshes",
+    "species": "Chalhuddan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chalhuddan",
+      "directory": "Chalhuddan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Chal Hudda",
+    "x": 6752.0,
+    "y": -11812.3,
+    "z": -366.2,
+    "region": "Outer Rim",
+    "grid": "P-17"
+  },
+  "scraped": "2026-07-03"
+}

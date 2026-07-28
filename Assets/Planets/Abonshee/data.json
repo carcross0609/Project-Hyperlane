@@ -1,0 +1,48 @@
+{
+  "name": "Abonshee; (locally, Masterhome)",
+  "wookieepedia_title": "Abonshee",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Abonshee",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Abonshee—literally, Masterhome—was a planet in the Abonshee system of Fakir sector in the Bakchou arm. It was a temperate world with hardy flora and reptilian fauna. It was home to the reptilian Anointed People, and was located in the Northern Dependencies. The name \"Masterhome\" was given by the Anointed People. Abonshee was discovered by the Galactic Republic some ninety years before the Battle of Yavin.",
+  "lead_paragraphs": [
+    "Abonshee—literally, Masterhome—was a planet in the Abonshee system of Fakir sector in the Bakchou arm. It was a temperate world with hardy flora and reptilian fauna. It was home to the reptilian Anointed People, and was located in the Northern Dependencies. The name \"Masterhome\" was given by the Anointed People. Abonshee was discovered by the Galactic Republic some ninety years before the Battle of Yavin."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Abonshee; (locally, Masterhome)",
+    "region": "Colonies",
+    "sector": "Fakir sector",
+    "system": "Abonshee system",
+    "coordinates": "K-9",
+    "class": "Terrestrial",
+    "interest": "Godking's castle",
+    "fauna": [
+      "Eater",
+      "Griff",
+      "Likka"
+    ],
+    "species": "Anointed People",
+    "government": "Godking",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Anointed People",
+      "directory": "Anointed People",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Abonshee",
+    "x": -1188.7,
+    "y": 1319.2,
+    "z": 56.9,
+    "region": "Colonies",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

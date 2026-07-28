@@ -1,0 +1,26 @@
+{
+  "name": "VX series artillery droid",
+  "wookieepedia_title": "VX series artillery droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/VX_series_artillery_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The VX series artillery droid was one of the oldest but most reliable military droid models in the galaxy. The earliest models dated back to the Jedi Civil War when the Czerka Corporation supplied the droids to both sides of the conflict. Since that time, the technology behind the VX series had always been upgraded to stay with the times, but the basic design of the droid remained the same. The VX series droid was in almost every major galactic conflict, and continued to be a favorite of militaries of all kinds.",
+  "data": {
+    "name": "VX series artillery droid",
+    "manufacturer": "Czerka Corporation",
+    "class": "Artillery droid",
+    "degree": "Class four droid",
+    "cost": "30,000",
+    "armament": [
+      "Missile launchers (2)",
+      "Light concussion missile launcher (1)"
+    ],
+    "equipment": [
+      "Basic processor",
+      "Tool appendages (2)",
+      "Internal comlink"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

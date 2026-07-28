@@ -1,0 +1,80 @@
+{
+  "name": "Lwhekk",
+  "wookieepedia_title": "Lwhekk/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lwhekk/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lwhekk was a planet located in the Ssi-ruuk Star Cluster of the Unknown Regions in the galaxy. It was the homeworld of the sentient Ssi-ruu and P'w'eck species. It was the capital of the Ssi-ruuvi Imperium.",
+  "lead_paragraphs": [
+    "Lwhekk was a planet located in the Ssi-ruuk Star Cluster of the Unknown Regions in the galaxy. It was the homeworld of the sentient Ssi-ruu and P'w'eck species. It was the capital of the Ssi-ruuvi Imperium."
+  ],
+  "article_sections": [
+    "Geography",
+    "Society",
+    "History",
+    "  Early history",
+    "  Exploration of the Galaxy",
+    "  Resurgence and Defeat"
+  ],
+  "data": {
+    "name": "Lwhekk",
+    "region": "Unknown Regions",
+    "sector": "Ssi-ruuk Star Cluster",
+    "system": "Ssi'kaat system",
+    "coordinates": "C-16",
+    "suns": "1: Ssi'kaat",
+    "position": "6",
+    "lengthday": "32 standard hours",
+    "lengthyear": "344 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": [
+      "Cities",
+      "Jungles",
+      "Oceans",
+      "Volcanoes"
+    ],
+    "interest": [
+      "Cree'n'aak Palace",
+      "Mount Skar'lak",
+      "Caves of Ss'laath"
+    ],
+    "fauna": "Fft",
+    "species": [
+      "Ssi-ruuk",
+      "P'w'eck"
+    ],
+    "language": "Ssi-ruuvi",
+    "government": "Theocratic monarchy",
+    "population": "10 billion",
+    "imports": "Energy sources",
+    "exports": [
+      "Ksaa",
+      "Fft"
+    ],
+    "affiliation": "Ssi-ruuvi Imperium"
+  },
+  "homeworld_of": [
+    {
+      "name": "P'w'eck",
+      "directory": "P'w'eck",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Ssi-ruu",
+      "directory": "Ssi-ruu",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lwhekk",
+    "x": -12229.0,
+    "y": -9521.1,
+    "z": -57.1,
+    "region": "Unknown Regions",
+    "grid": "C-16"
+  },
+  "scraped": "2026-07-03"
+}

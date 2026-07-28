@@ -1,0 +1,45 @@
+{
+  "name": "Minfar",
+  "wookieepedia_title": "Minfar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Minfar",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Minfar was a backwater jungle planet in a distant region of space in the Inner Rim Territories in grid square I-13 of the Standard Galactic Grid.",
+  "lead_paragraphs": [
+    "Minfar was a backwater jungle planet in a distant region of space in the Inner Rim Territories in grid square I-13 of the Standard Galactic Grid."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Minfar",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Minfar system",
+    "coordinates": "I-13",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Jungles",
+      "Mountains"
+    ],
+    "interest": "Forbidden Lands",
+    "flora": "Xinda flower",
+    "fauna": [
+      "Grobel",
+      "Mekle"
+    ],
+    "species": "Zixon",
+    "demonym": "Minfarian",
+    "cities": "Ghikjil"
+  },
+  "homeworld_of": [
+    {
+      "name": "Zixon",
+      "directory": "Zixon",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

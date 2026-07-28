@@ -1,0 +1,60 @@
+{
+  "name": "Alluuvia",
+  "wookieepedia_title": "Alluuvia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alluuvia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Alluuvia was a planet that was located in the Elrood sector. The mining on the planet conducted by Radell Mining Corporation was overseen by an ecologically-mindful Ithorian.",
+  "lead_paragraphs": [
+    "Alluuvia was a planet that was located in the Elrood sector. The mining on the planet conducted by Radell Mining Corporation was overseen by an ecologically-mindful Ithorian."
+  ],
+  "article_sections": [
+    "Geography",
+    "History"
+  ],
+  "data": {
+    "name": "Alluuvia",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Alluuvian system",
+    "coordinates": "M-19",
+    "position": "2",
+    "lengthday": "31 standard hours",
+    "lengthyear": "221 local days",
+    "terrain": [
+      "Oceans",
+      "Rocky"
+    ],
+    "fauna": "Piscator",
+    "species": "Anguilla",
+    "otherspecies": [
+      "Human",
+      "Ithorian"
+    ],
+    "language": "Galactic Basic Standard",
+    "exports": [
+      "Alantium",
+      "Doonium",
+      "Zersium"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Anguilla",
+      "directory": "Anguilla",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Alluuvia",
+    "x": 2272.0,
+    "y": -14405.9,
+    "z": -668.3,
+    "region": "Outer Rim",
+    "grid": "M-19"
+  },
+  "scraped": "2026-07-03"
+}

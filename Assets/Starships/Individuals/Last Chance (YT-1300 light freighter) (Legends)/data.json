@@ -1,0 +1,30 @@
+{
+  "name": "Last Chance",
+  "wookieepedia_title": "Last Chance (YT-1300 light freighter)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Last_Chance_%28YT-1300_light_freighter%29/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Last Chance was Platt Okeefe's freighter, a heavily modified YT-1300 light freighter. The ship had some features that distinguished it from the average YT-1300. It was noted for having its cockpit mounted on the port side, as opposed to the more common starboard side of most YT-1300 series ships. The engine section was flattened across the aft, in contrast to standard rounded engine section of the series. The gap between the forward mandibles of the ship was also covered over. The crew lounge area was decorated with various mementos from Platt's adventures.",
+  "data": {
+    "name": "Last Chance",
+    "manufacturer": "Corellian Engineering Corporation",
+    "type": "YT-1300 light freighter",
+    "length": "27 meters",
+    "hyperdrive": "Class 1.0",
+    "armament": [
+      "Concussion missile tube",
+      "2 quad laser cannons"
+    ],
+    "crew": "1 to 2, gunners: 2",
+    "skeleton": "1",
+    "passengers": "6",
+    "capacity": "100 metric tons",
+    "consumables": "2 months",
+    "role": "Freighter",
+    "owners": "Platt Okeefe",
+    "captains": "Platt Okeefe",
+    "registry": "LC02-I33BAY-TR02"
+  },
+  "scraped": "2026-07-03"
+}

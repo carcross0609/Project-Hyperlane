@@ -1,0 +1,26 @@
+{
+  "name": "Mimbanese",
+  "wookieepedia_title": "Mimbanese",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mimbanese",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Mimbanese were one of several sentient species native to the planet Mimban. Experts in guerrilla warfare, the Mimbanese had the unsettling ability to seemingly disappear into the mud and murk of their homeworld.",
+  "data": {
+    "name": "Mimbanese",
+    "designation": "Sentient",
+    "skincolor": [
+      "Brown",
+      "Grey",
+      "Red"
+    ],
+    "eyecolor": [
+      "Black",
+      "Blue",
+      "Turquoise"
+    ],
+    "origin": "Mimban",
+    "habitat": "Subterranean"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Mimban"
+}

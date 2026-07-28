@@ -1,0 +1,19 @@
+{
+  "name": "Provider",
+  "wookieepedia_title": "Provider",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Provider",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Provider was a slugthrower rifle produced by Barimoq Industries. With a range of one hundred and fifty meters and a capacity of four slugs, the rifle was traditionally used by the Tasari for hunting.",
+  "data": {
+    "name": "Provider",
+    "manufacturer": "Barimoq Industries",
+    "type": "Slugthrower rifle",
+    "culture": "Tasari",
+    "cost": "450 credits",
+    "capacity": "4 slugs",
+    "range": "150 meters"
+  },
+  "scraped": "2026-07-03"
+}

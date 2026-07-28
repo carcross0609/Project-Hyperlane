@@ -1,0 +1,72 @@
+{
+  "name": "Ryoone",
+  "wookieepedia_title": "Ryoone/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ryoone/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ryoone was a dismal planet in the Outer Rim characterized by a \"seemingly permanent suspension of ash in the upper atmosphere.\" It was inhabited by six sentient species, including the Lyunesi.",
+  "lead_paragraphs": [
+    "Ryoone was a dismal planet in the Outer Rim characterized by a \"seemingly permanent suspension of ash in the upper atmosphere.\" It was inhabited by six sentient species, including the Lyunesi."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ryoone",
+    "region": "Outer Rim Territories",
+    "sector": "Wazta sector",
+    "system": "Ryoone system",
+    "coordinates": "I-17",
+    "routes": "Koda Spur",
+    "class": "Terrestrial",
+    "terrain": "Volcanoes",
+    "species": [
+      "Lyunesi",
+      "A second species",
+      "A third species",
+      "A fourth species",
+      "A fifth species",
+      "A sixth species"
+    ],
+    "population": "1 million to 10 million (c. 25 ABY)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Lyunesi",
+      "directory": "Lyunesi",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified Ryoone species 1",
+      "directory": "Unidentified Ryoone species 1",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified Ryoone species 2",
+      "directory": "Unidentified Ryoone species 2",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified Ryoone species 3",
+      "directory": "Unidentified Ryoone species 3",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified Ryoone species 4",
+      "directory": "Unidentified Ryoone species 4",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified Ryoone species 5",
+      "directory": "Unidentified Ryoone species 5",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ryoone",
+    "x": -3527.8,
+    "y": -11931.1,
+    "z": 494.9,
+    "region": "Outer Rim",
+    "grid": "I-17"
+  },
+  "scraped": "2026-07-03"
+}

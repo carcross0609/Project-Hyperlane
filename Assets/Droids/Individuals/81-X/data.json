@@ -1,0 +1,29 @@
+{
+  "name": "81-X",
+  "wookieepedia_title": "81-X",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/81-X",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "81-X was a OG-9 homing spider droid of the Commerce Guild. It participated in the First Battle of Geonosis",
+  "data": {
+    "type": "CIS",
+    "name": "81-X",
+    "manufacturer": "Baktoid Armor Workshop",
+    "model": "OG-9 homing spider droid",
+    "class": "Walker",
+    "height": "7.32 meters",
+    "sensor": "Red",
+    "plating": "Gray",
+    "armament": [
+      "Mounted laser emplacement (1)",
+      "Anti-personnel laser cannon (1)",
+      "Retractable ion cannon (1)"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Commerce Guild"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

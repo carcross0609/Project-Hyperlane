@@ -1,0 +1,47 @@
+{
+  "name": "Livno III",
+  "wookieepedia_title": "Livno III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Livno_III",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Livno III, also known as Livno, was a largely undiscovered planet located in Wild Space on the edge of the galaxy that was the homeworld of the Lynna species. It was situated in the Livno system in grid square J-21 of the Standard Galactic Grid. According to Midnight, Lando Calrissian claimed he had once been awarded the title Savior of Livno III.",
+  "lead_paragraphs": [
+    "Livno III, also known as Livno, was a largely undiscovered planet located in Wild Space on the edge of the galaxy that was the homeworld of the Lynna species. It was situated in the Livno system in grid square J-21 of the Standard Galactic Grid. According to Midnight, Lando Calrissian claimed he had once been awarded the title Savior of Livno III."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Livno III",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Livno system",
+    "coordinates": "J-21",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Grasslands",
+      "Plains"
+    ],
+    "interest": "Chamber of the Sun",
+    "species": "Lynna",
+    "otherspecies": "Human",
+    "language": "Lynnesse",
+    "government": "Free Lynna"
+  },
+  "homeworld_of": [
+    {
+      "name": "Lynna",
+      "directory": "Lynna",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Livno III",
+    "x": 11238.6,
+    "y": -13066.9,
+    "z": -466.0,
+    "region": "Wild Space",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

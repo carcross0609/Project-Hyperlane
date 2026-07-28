@@ -1,0 +1,48 @@
+{
+  "name": "Lobaoc",
+  "wookieepedia_title": "Lobaoc",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lobaoc",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lobaoc was an Outer Rim Territories planet located in the Mieru'kar sector. Its surface featured lakes and marshes, which were home to the tentacled and omnivorous dianogas. Human and Near-Human farmers maintained several settlements on Lobaoc. At some point between 67 BBY and 19 BBY, the Jedi High Council of the Jedi Order learned of the existence of a young Force-sensitive girl on Lobaoc. The Jedi Council dispatched the Mon Calamari Jedi Ambaln to investigate the situation and bring the child back to the Order for Jedi training. Upon realizing that Ambaln had fallen to the dark side of the Force during a prior assignment, the Council also sent a group of individuals to Lobaoc after the fallen Jedi.",
+  "lead_paragraphs": [
+    "Lobaoc was an Outer Rim Territories planet located in the Mieru'kar sector. Its surface featured lakes and marshes, which were home to the tentacled and omnivorous dianogas. Human and Near-Human farmers maintained several settlements on Lobaoc. At some point between 67 BBY and 19 BBY, the Jedi High Council of the Jedi Order learned of the existence of a young Force-sensitive girl on Lobaoc. The Jedi Council dispatched the Mon Calamari Jedi Ambaln to investigate the situation and bring the child back to the Order for Jedi training. Upon realizing that Ambaln had fallen to the dark side of the Force during a prior assignment, the Council also sent a group of individuals to Lobaoc after the fallen Jedi.",
+    "On Lobaoc, Ambaln convinced the girl's parents to give up the child for training, and he subsequently set a trap for any agents of the Jedi Council sent after him. When the group arrived in the planet's Koab village, Ambaln's droid, Z-N0, led the individuals toward a boathouse, where Ambaln was hiding. At that point, dianogas ambushed the group, and Ambaln used the distraction to attempt to escape to his starship."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Lobaoc",
+    "region": "Outer Rim Territories",
+    "sector": "Mieru'kar sector",
+    "system": "Lobaoc system",
+    "coordinates": "N-3",
+    "class": "Terrestrial",
+    "terrain": [
+      "Lakes",
+      "Marshes"
+    ],
+    "flora": "Water-grown crops",
+    "fauna": "Dianoga",
+    "otherspecies": [
+      "Humans",
+      "Near-Humans"
+    ],
+    "population": "At least a few thousand",
+    "cities": "Koab"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lobaoc",
+    "x": 7851.9,
+    "y": -10761.5,
+    "z": -317.9,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Junker",
+  "wookieepedia_title": "Junker",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Junker",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Junkers were a sentient group made up of natives to the planet Lotho Minor. Apparently hybrids of various organic species and mechanical debris, they scavenged the caustic surface of their ruined homeworld for discarded cybernetics to augment their bodies with. The Junkers' origin was a mystery, and many brave scientists investigating the Junkers vanished before they could report back. The Junkers were effective at repairs, scavenging, survival and unarmed combat. When the Sith Lord Savage Opress journeyed to the planet, a large group of Junkers attacked him, only to be killed with ease by his lightsaber.",
+  "data": {
+    "name": "Junker",
+    "designation": "Sentient",
+    "eyecolor": [
+      "Green",
+      "Yellow"
+    ],
+    "distinctions": "Organic-cybernetic hybrids",
+    "origin": "Lotho Minor"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Lotho Minor"
+}

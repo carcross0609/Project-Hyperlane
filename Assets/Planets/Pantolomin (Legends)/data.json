@@ -1,0 +1,80 @@
+{
+  "name": "Pantolomin",
+  "wookieepedia_title": "Pantolomin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pantolomin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pantolomin was the primary planet of the Panto system, in the Dolomar sector of the Core Worlds. It was an aquatic world known as one of the greatest tourist places of the galaxy.",
+  "lead_paragraphs": [
+    "Pantolomin was the primary planet of the Panto system, in the Dolomar sector of the Core Worlds. It was an aquatic world known as one of the greatest tourist places of the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Pantolomin",
+    "region": [
+      "Core Worlds",
+      "Northern Dependencies"
+    ],
+    "sector": "Dolomar sector",
+    "system": "Panto system",
+    "coordinates": "K-9",
+    "suns": "1: Panto",
+    "position": "1",
+    "moons": "3",
+    "routes": [
+      "Coruscant–Dantooine hyperlane",
+      "Namadii Corridor"
+    ],
+    "lengthday": "24 standard hours",
+    "lengthyear": "349 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": "Tropical jungle",
+    "water": "80%",
+    "interest": [
+      "Coral Vanda",
+      "Towers of Pantolomin",
+      "Jervo's World"
+    ],
+    "fauna": [
+      "Halfback",
+      "Pantolomin coral"
+    ],
+    "species": "Lomins",
+    "otherspecies": [
+      "Humans",
+      "Others"
+    ],
+    "government": "Representative democracy",
+    "population": "1 billion",
+    "imports": "Tourism",
+    "exports": "Luxury goods",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lomin",
+      "directory": "Lomin",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Pantolomin",
+    "x": -558.4,
+    "y": 666.6,
+    "z": 28.1,
+    "region": "Core Worlds",
+    "grid": "K-9"
+  },
+  "scraped": "2026-07-03"
+}

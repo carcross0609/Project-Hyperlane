@@ -1,0 +1,57 @@
+{
+  "name": "Core ship",
+  "wookieepedia_title": "Core ship/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Core_ship/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "Core ships, also called Lucrehulk-class modular control core or LH-1740, were modified Lucrehulk-class modular control cores that were used as an autonomous transport by the Trade Federation and later the Confederacy of Independent Systems during the Clone Wars, as well as the Separatist holdouts during the Imperial Era.",
+  "data": {
+    "name": "Core ship",
+    "manufacturer": [
+      "Hoersch-Kessel Drive, Inc. (basic core ship)",
+      "Baktoid Combat Automata (Separatist Droid Army control core)"
+    ],
+    "model": "Modified Lucrehulk-class modular control core",
+    "cost": "Not for sale (Black market value 25,000,000 credits)",
+    "width": "696 meters",
+    "height": "914 meters (when landed, minus transmission mass)",
+    "max_accel": "300 G",
+    "hyperdrive": "None",
+    "poweroutput": [
+      "Peak (reactor): 3 × 1024 W",
+      "Peak (shields): 6 × 1023 W"
+    ],
+    "shield_gen": "Equipped",
+    "navigation": "Navicomputer",
+    "armament": [
+      "Pre-Clone Wars refitting:",
+      "Point-defense light laser cannons (280)",
+      "Clone Wars refitting:",
+      "Point-defense quad laser batteries (21)",
+      "Assault laser cannons (48)",
+      "Turbolasers (3)"
+    ],
+    "crew": [
+      "60 Trade Federation supervisors",
+      "3,000 droid crew",
+      "200,000 maintenance droids"
+    ],
+    "passengers": "60,000 (stateroom capacity for delegates)",
+    "capacity": "c. 66,000,000 m³",
+    "consumables": "Supplies for 3 years",
+    "role": [
+      "Freighter",
+      "Command ship",
+      "Destroyer (modified version)"
+    ],
+    "firstuse": "During or prior to 122 BBY (design)",
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "Corporate Sector Authority",
+      "Separatist holdouts",
+      "Baktoid Armor Workshop"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Ferro",
+  "wookieepedia_title": "Ferro",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ferro",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ferro was the Ferroan homeworld. In 89 BBY, the Ferroans colonized Zonama Sekot.",
+  "lead_paragraphs": [
+    "Ferro was the Ferroan homeworld. In 89 BBY, the Ferroans colonized Zonama Sekot."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ferro",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Illisurevimurasi sector",
+      "  Inner Ferro systems"
+    ],
+    "system": "Ferro system",
+    "coordinates": "Q-4",
+    "species": "Ferroans"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ferroan",
+      "directory": "Ferroan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ferro",
+    "x": 8090.9,
+    "y": 8219.4,
+    "z": -142.7,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Kage",
+  "wookieepedia_title": "Kage",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kage",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Kage were a near-human sentient species native to the planet Quarzite. Although they resembled humans, their striking eyes and pale skin set them apart. Their eyes were evolved to see in gloomy caverns lit by luminescent crystals.",
+  "data": {
+    "name": "Kage",
+    "designation": "Sentient",
+    "class": "Near-human",
+    "skincolor": "Pale colors",
+    "haircolor": [
+      "Black",
+      "Blond",
+      "White"
+    ],
+    "eyecolor": [
+      "Gold",
+      "Green",
+      "Pink"
+    ],
+    "distinctions": [
+      "Athleticism",
+      "Quick reflexes",
+      "Pale skin",
+      "Striking eyes"
+    ],
+    "origin": "Quarzite",
+    "language": "Kage language"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Quarzite"
+}

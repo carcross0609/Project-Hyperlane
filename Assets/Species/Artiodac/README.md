@@ -1,0 +1,28 @@
+# Artiodac
+
+**Continuity:** Canon  
+**Source:** [Artiodac](https://starwars.fandom.com/wiki/Artiodac)
+
+Artiodacs were a sentient, bipedal species native to the cold, swampy world of Artiod Minor, recognized for their stocky, muscular build. They exhibited slightly hunched postures. Despite a naturally solitary disposition, Artiodacs have a long history of serving in gladiatorial arenas, private armies, and as hired muscle, and they maintain cultural practices such as tending aqua-farms and raising Prengalli. Notable Artiodacs include Strono “Cookie” Tuggs, a palace chef and mobile diner operator, Sorka, a criminal syndicate member turned investigator, and Cykon, a smuggler and co-pilot. ==Biology and appearance== Artiodac were a sentient bipedal species with two bulging arms and two legs. They had tough hides and deep, rumbling voices The species had a stocky, muscular build. They had a large, dome-shaped head with a prominent snout, small narrow eyes and small flat ears. A humanoid species, they possessed two arms ending in four-fingered hands and two legs ending in plantigrade feet. They exhibited a slightly hunched posture with a wide stance. ==Society and culture== Although most Artiodacs were quiet, solitary beings by nature, centuries of enslavement forced upon them the reputation of serving as gladiators in galactic arenas, hired muscle for crime lords, and janissaries in private armies. As juveniles, they foraged in scrub forests to gather Shuimi feathers for mating crowns, while bonded pairs later devoted their long lives to raising schools of Prengalli on carefully maintained aqua-farms. Mated Artiodacs spent their long lifespans tending to aqua-farms on their homeworld, where they cared for schools of prengalli. Members of the species could live for several centuries. ==History== Artiodacs were native to the cold, swampy planet Artiod Minor, a Wild Space planet located in the Artiod system of the Morellian Commonwealth region near the Corporate Sector. Many Artiodacs were enslaved by the Zygerrian Slave Empire who overran Artiod Minor.
+
+## Biology & Culture
+
+- **Name:** Artiodac
+- **Designation:** Sentient
+- **Skincolor:**
+  - Brown
+  - Gray
+  - Pink
+- **Eyecolor:** White
+- **Distinctions:**
+  - Broad, flat noses
+  - Bulging arms
+  - Deep, rumbling voices
+  - Tough hides
+- **Lifespan:** Several centuries
+- **Origin:** Artiod Minor
+- **Habitat:** Cold swamps
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

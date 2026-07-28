@@ -1,0 +1,36 @@
+{
+  "name": "Comra",
+  "wookieepedia_title": "Comra/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Comra/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Comra was a planet located in the Prefsbelt sector, within the Dead Zone of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Comra was a planet located in the Prefsbelt sector, within the Dead Zone of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Comra",
+    "region": [
+      "Outer Rim Territories",
+      "  Dead Zone",
+      "New Territories"
+    ],
+    "sector": "Prefsbelt sector",
+    "system": "Comra system",
+    "coordinates": "J-5",
+    "interest": "Comra relay post"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Comra",
+    "x": -1945.6,
+    "y": 6129.1,
+    "z": 10.5,
+    "region": "Outer Rim",
+    "grid": "J-5"
+  },
+  "scraped": "2026-07-03"
+}

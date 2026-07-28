@@ -1,0 +1,97 @@
+{
+  "name": "Rattatak",
+  "wookieepedia_title": "Rattatak/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rattatak/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rattatak was an Outer Rim world unknown to the Galactic Republic at the time of the Clone Wars.",
+  "lead_paragraphs": [
+    "Rattatak was an Outer Rim world unknown to the Galactic Republic at the time of the Clone Wars."
+  ],
+  "article_sections": [
+    "Geography",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Rattatak",
+    "region": "Outer Rim Territories",
+    "sector": "Trilon sector",
+    "system": "Guter Wade system",
+    "coordinates": "H-16",
+    "suns": "1: Rek",
+    "position": "5",
+    "moons": "3",
+    "lengthday": "35 standard hours",
+    "lengthyear": "578 standard days",
+    "class": "Terrestrial",
+    "diameter": "15,710 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Canyons",
+      "Desert"
+    ],
+    "interest": [
+      "The Cauldron",
+      "Castle Ventress",
+      "A village"
+    ],
+    "species": [
+      "Rattataki",
+      "Vollick",
+      "Trogodile"
+    ],
+    "otherspecies": [
+      "Dathomirian",
+      "Human",
+      "Kerch Kushi's species",
+      "Muscle maggot",
+      "Siniteen",
+      "Weequay",
+      "Voe Atell's species",
+      "Zabraks",
+      "Various other species"
+    ],
+    "language": "Rattataki",
+    "government": "Warring federative tribes",
+    "population": [
+      "900 million:",
+      "  70% Rattataki",
+      "  30% other"
+    ],
+    "imports": [
+      "Mercenaries",
+      "Weapons"
+    ],
+    "exports": "None"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rattataki",
+      "directory": "Rattataki (Legends)",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Trogodile",
+      "directory": "Trogodile",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Vollick",
+      "directory": "Vollick (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rattatak",
+    "x": -5550.7,
+    "y": -9132.4,
+    "z": 385.2,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

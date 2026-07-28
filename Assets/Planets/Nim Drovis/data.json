@@ -1,0 +1,80 @@
+{
+  "name": "Nim Drovis",
+  "wookieepedia_title": "Nim Drovis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nim_Drovis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "The world of Nim Drovis was located in the Drovian system in the Meridian sector, and was a rainy planet which boasted a Sector Medical Facility and Medical Research Facility attended to by the Ho'Din physician Doctor Ism Oolos, along with a small New Republic base. The largest free port on Nim Drovis was Bagsho, which was originally settled by colonists from Alderaan turned into a link between the sector's neutral worlds and the New Republic.",
+  "lead_paragraphs": [
+    "The world of Nim Drovis was located in the Drovian system in the Meridian sector, and was a rainy planet which boasted a Sector Medical Facility and Medical Research Facility attended to by the Ho'Din physician Doctor Ism Oolos, along with a small New Republic base. The largest free port on Nim Drovis was Bagsho, which was originally settled by colonists from Alderaan turned into a link between the sector's neutral worlds and the New Republic."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Nim Drovis",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Meridian sector",
+    "system": "Drovian system",
+    "coordinates": "R-7",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "climate": "Tropical",
+    "terrain": "Swamps",
+    "water": "Significant",
+    "interest": [
+      "Sector Medical Facility",
+      "Thousand Stinking Ditches",
+      "Chug 'n' Chuck",
+      "Wookiee's Codpiece"
+    ],
+    "fauna": [
+      "Gulper",
+      "Harvap",
+      "Harvorisk",
+      "Marsh-gunny",
+      "Wadie-platt"
+    ],
+    "otherlife": "Carnivorous mold",
+    "species": "Drovian",
+    "otherspecies": [
+      "Human",
+      "Ho'Din"
+    ],
+    "language": [
+      "Basic",
+      "Drovian"
+    ],
+    "cities": [
+      "Bagsho (capital)",
+      "  Old Town",
+      "  New Town"
+    ],
+    "exports": "Drovian zwil",
+    "affiliation": [
+      "Grissmath Dynasty",
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Drovian",
+      "directory": "Drovian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nim Drovis",
+    "x": 9340.0,
+    "y": 4419.3,
+    "z": 64.5,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

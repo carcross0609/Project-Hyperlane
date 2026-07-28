@@ -1,0 +1,43 @@
+{
+  "name": "Bothan",
+  "wookieepedia_title": "Bothan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bothan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Bothans were furry mammalian anthropoids, about 1.5 meters tall. Hailing from Bothawui and several colonies, Bothans differed in facial appearance and body structure with canine, feline, and equine features. They were known for being master politicians and spies, craving intrigue and subterfuge.",
+  "data": {
+    "name": "Bothan",
+    "designation": "Sentient",
+    "class": [
+      "Mammal",
+      "Humanoid"
+    ],
+    "height": "1.4-1.5 meters",
+    "haircolor": [
+      "Brown",
+      "Cream"
+    ],
+    "eyecolor": [
+      "Brown",
+      "Green",
+      "Violet"
+    ],
+    "distinctions": "Mood-sensitive fur",
+    "lifespan": [
+      "Child: 1-11 years",
+      "Young adult: 12-16 years",
+      "Adult: 17-45 years",
+      "Middle age: 46-65 years",
+      "Old: 66-84 years",
+      "Venerable: 85+ years"
+    ],
+    "origin": "Bothawui",
+    "language": [
+      "Bothese (Spoken)",
+      "Botha (Written)",
+      "Wrendui (Body)"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Bothawui (Legends)"
+}

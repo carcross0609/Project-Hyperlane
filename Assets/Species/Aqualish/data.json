@@ -1,0 +1,43 @@
+{
+  "name": "Aqualish",
+  "wookieepedia_title": "Aqualish",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aqualish",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Aqualish were a species of sentient humanoids from the planet Ando, who were identifiable by round black eyes and fur. Some members of this race possessed four eyes, while others only one pair.",
+  "data": {
+    "name": "Aqualish",
+    "designation": "Sentient",
+    "subspecies": [
+      "Aquala",
+      "Quara",
+      "Ualaq"
+    ],
+    "skincolor": [
+      "Black",
+      "Blue",
+      "Gray",
+      "Green",
+      "Light brown",
+      "Red"
+    ],
+    "haircolor": [
+      "Black",
+      "Blond",
+      "Brown"
+    ],
+    "eyecolor": [
+      "Black",
+      "Brown",
+      "Red"
+    ],
+    "distinctions": [
+      "Two or four eyes",
+      "Arachnidlike tusks"
+    ],
+    "origin": "Ando",
+    "language": "Aqualish"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Ando"
+}

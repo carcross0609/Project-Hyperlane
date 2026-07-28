@@ -1,0 +1,22 @@
+{
+  "name": "Scatter gun",
+  "wookieepedia_title": "Scatter gun/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scatter_gun/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The scatter gun was a low-velocity slugthrower that fired a spray of solid pellets when fired. It could often hit multiple targets or eliminate one target with a single blast. However, its damage decreased as range to the target increased, since the pellets scattered if fired from too far away; this made the weapon more suited for close-quarters combat.",
+  "data": {
+    "name": "Scatter gun",
+    "type": "Slugthrower",
+    "cost": "275 credits",
+    "size": "Medium",
+    "weight": "4 kg",
+    "capacity": "10 shots",
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 90 meters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

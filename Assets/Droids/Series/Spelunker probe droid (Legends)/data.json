@@ -1,0 +1,30 @@
+{
+  "name": "Spelunker probe droid",
+  "wookieepedia_title": "Spelunker probe droid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spelunker_probe_droid/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Arakyd Industries Spelunker probe droid, also known as the chameleon droid, was a mining droid used by the Commerce Guild to explore inhospitable planets for valuable minerals during the final years of the Galactic Republic. Many Spelunker probe droids were later redesigned into chameleon droids for military service in the Confederacy of Independent Systems during the Clone Wars.",
+  "data": {
+    "name": "Spelunker probe droid",
+    "manufacturer": "Arakyd Industries",
+    "class": [
+      "Mining droid",
+      "Probe droid"
+    ],
+    "cost": "15,750 credits",
+    "height": "2 meters",
+    "sensor": "Blue",
+    "plating": "Copper/gold",
+    "equipment": [
+      "Repulsorlift",
+      "Sensor array"
+    ],
+    "affiliation": [
+      "Commerce Guild",
+      "Techno Union"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

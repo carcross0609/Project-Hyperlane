@@ -1,0 +1,42 @@
+{
+  "name": "Kiffu",
+  "wookieepedia_title": "Kiffu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kiffu",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kiffu was a planet located in the Kiffex system in the Kiffu sector of the Inner Rim region of the galaxy. It was one of two home planets of the sentient Kiffar species, along with Kiffex. It was the homeworld of the Kiffar Jedi Master Quinlan Vos, who was active in the Jedi Order from at least 32 years before the Battle of Yavin until the end of the Clone Wars, survived the Great Jedi Purge and assisted the underground network known as the Hidden Path until at least 9 BBY.",
+  "lead_paragraphs": [
+    "Kiffu was a planet located in the Kiffex system in the Kiffu sector of the Inner Rim region of the galaxy. It was one of two home planets of the sentient Kiffar species, along with Kiffex. It was the homeworld of the Kiffar Jedi Master Quinlan Vos, who was active in the Jedi Order from at least 32 years before the Battle of Yavin until the end of the Clone Wars, survived the Great Jedi Purge and assisted the underground network known as the Hidden Path until at least 9 BBY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kiffu",
+    "region": "Inner Rim Territories",
+    "sector": "Kiffu sector",
+    "system": "Kiffex system",
+    "coordinates": "L-14",
+    "class": "Terrestrial",
+    "species": "Kiffar"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kiffar",
+      "directory": "Kiffar",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kiffar",
+      "directory": "Kiffar (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kiffu",
+    "x": 420.6,
+    "y": -6469.9,
+    "z": -114.5,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

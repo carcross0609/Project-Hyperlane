@@ -1,0 +1,37 @@
+{
+  "name": "Vulpter",
+  "wookieepedia_title": "Vulpter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Vulpter",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Vulpter was a planet located in the galaxy's Deep Core that was the homeworld of the Vulptereen podracer Dud Bolt. The KX-series security droid K-2SO was constructed on Vulpter, as were many of the Galactic Empire's probe droids.",
+  "lead_paragraphs": [
+    "Vulpter was a planet located in the galaxy's Deep Core that was the homeworld of the Vulptereen podracer Dud Bolt. The KX-series security droid K-2SO was constructed on Vulpter, as were many of the Galactic Empire's probe droids."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Vulpter",
+    "region": "Deep Core",
+    "sector": "None",
+    "system": "Vulpter system",
+    "coordinates": "L-10",
+    "interest": "Arakyd Industries data storehouse",
+    "species": "Vulptereen"
+  },
+  "homeworld_of": [
+    {
+      "name": "Vulptereen",
+      "directory": "Vulptereen (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Vulpter",
+    "x": 876.1,
+    "y": -735.7,
+    "z": -96.6,
+    "region": "Deep Core",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

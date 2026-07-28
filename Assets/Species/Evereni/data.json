@@ -1,0 +1,24 @@
+{
+  "name": "Evereni",
+  "wookieepedia_title": "Evereni",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Evereni",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Evereni were a sentient humanoid nomadic species, distinguished by their slate-gray skin and pitch-black eyes. They once hailed from the planet Everon before the Great Storm ravaged their homeworld, which led to centuries of wars between the Evereni people and ultimately forced the survivors to flee into the galaxy. During the High Republic Era, an Evereni male named Marchion Ro led a group of nihilistic marauders called the Nihil and posed a significant threat to the Galactic Republic and the Jedi Order.",
+  "data": {
+    "name": "Evereni",
+    "designation": "Sentient",
+    "skincolor": "Slate-gray",
+    "eyecolor": "Black",
+    "distinctions": [
+      "Dark gray blood",
+      "Sharp black claws",
+      "Sharp teeth"
+    ],
+    "origin": "Everon",
+    "habitat": "Tempest",
+    "language": "Evereni"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Everon"
+}

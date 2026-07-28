@@ -1,0 +1,33 @@
+{
+  "name": "Dug",
+  "wookieepedia_title": "Dug/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dug/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Dugs were an aggressive mammalian species native to the planet Malastare that used their upper limbs for locomotion and their lower limbs for grappling.",
+  "data": {
+    "name": "Dug",
+    "designation": "Sentient",
+    "height": "1 meter",
+    "mass": [
+      "30 kilograms (female)",
+      "35 kilograms (male)"
+    ],
+    "skincolor": [
+      "Brown",
+      "Purple",
+      "Gray",
+      "Red"
+    ],
+    "eyecolor": [
+      "Yellow",
+      "Blue"
+    ],
+    "distinctions": "Arms used as legs and legs used as arms",
+    "lifespan": "Up to 75 standard years",
+    "origin": "Malastare",
+    "language": "Dug"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Malastare (Legends)"
+}

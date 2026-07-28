@@ -1,0 +1,46 @@
+{
+  "name": "Mooga",
+  "wookieepedia_title": "Mooga",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mooga",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Mooga was a planet located in the Mooga system in the Perkell sector of the Mid Rim Territories that was homeworld of the sentient Moogan species. Controlled by the Commerce Guild during the Clone Wars, the Moogan smuggler Tee Va hailed from this world. The Commerce Guild operated ore facilities on the planet, which were protected by Gossam Commandos.",
+  "lead_paragraphs": [
+    "Mooga was a planet located in the Mooga system in the Perkell sector of the Mid Rim Territories that was homeworld of the sentient Moogan species. Controlled by the Commerce Guild during the Clone Wars, the Moogan smuggler Tee Va hailed from this world. The Commerce Guild operated ore facilities on the planet, which were protected by Gossam Commandos."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Mooga",
+    "region": "Mid Rim Territories",
+    "sector": "Perkell sector",
+    "system": "Mooga system",
+    "coordinates": "Q-7",
+    "species": "Moogan",
+    "exports": "Ardees Beverage, ores",
+    "affiliation": [
+      "Commerce Guild",
+      "Mooga smuggling ring"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Moogan",
+      "directory": "Moogan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Moogan",
+      "directory": "Moogan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mooga",
+    "x": -3720.3,
+    "y": 4222.8,
+    "z": 160.6,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Nalrith",
+  "wookieepedia_title": "Nalrith",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nalrith",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nalrith was a terrestrial planet located in the Nalrith system, a part of the Outer Rim Territories' Rseik sector. It was the homeworld of the Nalrithians, a species of sentient insectoids.",
+  "lead_paragraphs": [
+    "Nalrith was a terrestrial planet located in the Nalrith system, a part of the Outer Rim Territories' Rseik sector. It was the homeworld of the Nalrithians, a species of sentient insectoids."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nalrith",
+    "region": "Outer Rim Territories",
+    "sector": "Rseik sector",
+    "system": "Nalrith system",
+    "coordinates": "N-20",
+    "class": "Terrestrial",
+    "species": "Nalrithian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nalrithian",
+      "directory": "Nalrithian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

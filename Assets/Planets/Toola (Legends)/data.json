@@ -1,0 +1,97 @@
+{
+  "name": "Toola",
+  "wookieepedia_title": "Toola/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Toola/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Toola was a cold planet located in the Kaelta system. It was the homeworld of the Whiphids and was located in the Slice.",
+  "lead_paragraphs": [
+    "Toola was a cold planet located in the Kaelta system. It was the homeworld of the Whiphids and was located in the Slice."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Toola",
+    "region": "Outer Rim Territories",
+    "sector": "Nilgaard sector",
+    "system": "Kaelta system",
+    "coordinates": "S-5",
+    "suns": "1: Kaelta",
+    "routes": "Overic Griplink",
+    "lengthday": "23 standard hours",
+    "lengthyear": "423 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cool",
+    "gravity": "Standard",
+    "terrain": [
+      "Glaciers",
+      "Tundra",
+      "Frozen ocean"
+    ],
+    "interest": [
+      "Great Ice Floes",
+      "Ithaqua Station",
+      "Toola Spaceport",
+      "New Republic embassy"
+    ],
+    "fauna": [
+      "Arabore",
+      "Caraboose",
+      "Ice puppy",
+      "Mastmot",
+      "Muphrida",
+      "Sea Hog",
+      "Snow demon",
+      "Tuggle"
+    ],
+    "species": "Whiphid",
+    "government": "Tribal",
+    "population": [
+      "8.4 million",
+      "100 million to 500 million (c. 25 ABY)"
+    ],
+    "imports": "Low tech",
+    "exports": [
+      "Furs",
+      "Ice",
+      "Tusks",
+      "Food"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Mandalorian Neo-Crusaders",
+      "Darth Revan's Sith Empire",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "New Republic",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Whiphid",
+      "directory": "Whiphid",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Whiphid",
+      "directory": "Whiphid (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Toola",
+    "x": 11697.1,
+    "y": 6959.0,
+    "z": 397.7,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

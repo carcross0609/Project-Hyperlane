@@ -1,0 +1,46 @@
+{
+  "name": "Langoona",
+  "wookieepedia_title": "Langoona",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Langoona",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Langoona was a remote world located in the Bootana Hutta region of Hutt Space. Centuries ago, it was the homeworld of a once-favored slave species of the Hutts. However, after a failed rebellion, their masters drove them to the brink of extinction, preserving them only as targets for sadistic safaris.",
+  "lead_paragraphs": [
+    "Langoona was a remote world located in the Bootana Hutta region of Hutt Space. Centuries ago, it was the homeworld of a once-favored slave species of the Hutts. However, after a failed rebellion, their masters drove them to the brink of extinction, preserving them only as targets for sadistic safaris."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Langoona",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "sector": "Bootana Hutta",
+    "system": "Langoona system",
+    "coordinates": "S-10",
+    "class": "Terrestrial",
+    "water": "Warm seas",
+    "interest": "Islands",
+    "species": "Langoonans",
+    "affiliation": "Hutts"
+  },
+  "homeworld_of": [
+    {
+      "name": "Langoonan",
+      "directory": "Langoonan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Langoona",
+    "x": 11704.7,
+    "y": -1451.6,
+    "z": -44.0,
+    "region": "Hutt Space",
+    "grid": "S-10"
+  },
+  "scraped": "2026-07-03"
+}

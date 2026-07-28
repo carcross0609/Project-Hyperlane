@@ -1,0 +1,56 @@
+{
+  "name": "Chrona",
+  "wookieepedia_title": "Chrona/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chrona/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Chrona was an agriworld in the Inner Rim, near the Vaathkree Trade Corridor. Banthas were raised and primacale crops were grown on the planet. During the final days of the Galactic Republic, chronamite was discovered on the planet.",
+  "lead_paragraphs": [
+    "Chrona was an agriworld in the Inner Rim, near the Vaathkree Trade Corridor. Banthas were raised and primacale crops were grown on the planet. During the final days of the Galactic Republic, chronamite was discovered on the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Chrona",
+    "region": [
+      "Inner Rim",
+      "Trans-Hydian"
+    ],
+    "system": "Chrona system",
+    "coordinates": "O-8",
+    "lengthday": "25 standard hours",
+    "lengthyear": "348 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Plains",
+      "Forested mountain ranges",
+      "Humid equatorial belt"
+    ],
+    "interest": "Corestrike",
+    "otherspecies": "Human",
+    "government": "Local town councils",
+    "population": "450,000",
+    "imports": [
+      "Space and mining technology",
+      "Construction materials"
+    ],
+    "exports": [
+      "Primacale grains",
+      "Fruits",
+      "Chronamite ore"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Chrona",
+    "x": 5699.8,
+    "y": 2027.3,
+    "z": 10.8,
+    "region": "Inner Rim",
+    "grid": "O-8"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kariek",
+  "wookieepedia_title": "Kariek",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kariek",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kariek was a planet located in Wild Space. Its sole indigenous sentient lifeform were the Eickarie people, who were divided into various tribes. The Eickaries were a humanoid reptilian race with green and orange skin, with patterns of black scales around their eyes and across the back of their heads.",
+  "lead_paragraphs": [
+    "Kariek was a planet located in Wild Space. Its sole indigenous sentient lifeform were the Eickarie people, who were divided into various tribes. The Eickaries were a humanoid reptilian race with green and orange skin, with patterns of black scales around their eyes and across the back of their heads.",
+    "Its cities were dominated by towering fortresses and watchtowers which were interconnected via a network of underground tunnels."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kariek",
+    "region": "Wild Space",
+    "system": "Kariek system",
+    "coordinates": "I-6",
+    "interest": "Eickarie Fortress",
+    "species": "Eickaries",
+    "otherspecies": "Lakran",
+    "language": "Eickarie",
+    "government": "United Tribes of Kariek",
+    "affiliation": "Empire of the Hand"
+  },
+  "homeworld_of": [
+    {
+      "name": "Eickarie",
+      "directory": "Eickarie",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kariek",
+    "x": -3545.2,
+    "y": 5431.5,
+    "z": -317.9,
+    "region": "Wild Space",
+    "grid": "I-6"
+  },
+  "scraped": "2026-07-03"
+}

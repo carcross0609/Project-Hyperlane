@@ -1,0 +1,44 @@
+{
+  "name": "Dor",
+  "wookieepedia_title": "Dor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dor was the fourth planet in the Endor system.",
+  "lead_paragraphs": [
+    "Dor was the fourth planet in the Endor system.",
+    "Imperial forces were naturally drawn to the planet since its crust and mantle were incredibly rich in pure metals, alloys, and crystals, including phobium, doonium, zersium, neutronium, iron, gold, and crystallized lommite. Many astrophysicists argued for many years about how the small planetoid could have become so rich in these natural materials.",
+    "However, independent prospectors found it nearly impossible to penetrate the thick crust, and many small mining operations failed to turn a profit while trying to mine Dor. The Galactic Empire used a massive concentration of firepower to crack Dor's crust open. Once spherical in shape, the planet was reduced to a ragged, unstable world that lacked any sort of structural integrity by the excavations of the Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dor",
+    "region": "Outer Rim Territories; Inner Zuma",
+    "sector": "Zuma sector; Moddell sector; Outer Moddell systems",
+    "system": "Endor system",
+    "coordinates": "H-16",
+    "suns": "1: Ibleam",
+    "position": "4",
+    "moons": "0",
+    "terrain": "Barren rock",
+    "exports": [
+      "Doonium",
+      "gold",
+      "Iron",
+      "Lomite",
+      "neutronium",
+      "Phobium",
+      "Zersium"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dor",
+    "x": 11603.7,
+    "y": 2183.3,
+    "z": 308.9,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

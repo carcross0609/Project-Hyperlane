@@ -1,0 +1,32 @@
+{
+  "name": "Barabel",
+  "wookieepedia_title": "Barabel/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barabel/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Barabels were a species of sentient cold-blooded reptilians native to the dark, murky world Barab I. A highly aggressive and territorial species, Barabel who traveled off their homeworld often found work as fringers or soldiers.",
+  "data": {
+    "name": "Barabel",
+    "designation": "Sentient",
+    "class": "Reptilian",
+    "height": "2 meters",
+    "mass": "130 kilograms",
+    "skincolor": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "eyecolor": [
+      "Black",
+      "Red"
+    ],
+    "distinctions": [
+      "Able to see into the infrared spectrum",
+      "Five centimeter long teeth"
+    ],
+    "origin": "Barab I",
+    "language": "Barabel"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Barab I (Legends)"
+}

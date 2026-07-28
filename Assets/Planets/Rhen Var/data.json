@@ -1,0 +1,43 @@
+{
+  "name": "Rhen Var",
+  "wookieepedia_title": "Rhen Var",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rhen_Var",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rhen Var was a planet with frigid environments in the Rhen Var system of the Thanium sector in the Outer Rim Territories. It was located near the Galidraan system in the grid R-6 of the Standard Galactic Grid.",
+  "lead_paragraphs": [
+    "Rhen Var was a planet with frigid environments in the Rhen Var system of the Thanium sector in the Outer Rim Territories. It was located near the Galidraan system in the grid R-6 of the Standard Galactic Grid."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Rhen Var",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Thanium sector",
+    "system": "Rhen Var system",
+    "coordinates": "R-6",
+    "climate": "Frigid",
+    "interest": "Rhen Var Imperial outpost",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Rhen Varite",
+      "directory": "Rhen Varite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rhen Var",
+    "x": 9983.2,
+    "y": 5316.7,
+    "z": 352.9,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

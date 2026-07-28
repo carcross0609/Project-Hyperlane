@@ -1,0 +1,61 @@
+{
+  "name": "Carida",
+  "wookieepedia_title": "Carida",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carida",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Carida was a mountainous planet located in the Carida system within the Colonies region of the galaxy. During the Clone Wars, the Valor space station orbited the planet, while the era of the Galactic Empire saw Carida as home to an Imperial academy and a naval docking facility.",
+  "lead_paragraphs": [
+    "Carida was a mountainous planet located in the Carida system within the Colonies region of the galaxy. During the Clone Wars, the Valor space station orbited the planet, while the era of the Galactic Empire saw Carida as home to an Imperial academy and a naval docking facility."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Age of the Republic",
+    "  Imperial Era"
+  ],
+  "data": {
+    "name": "Carida",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "None",
+    "system": "Carida system",
+    "coordinates": "M-9",
+    "suns": "2",
+    "atmosphere": "Breathable",
+    "terrain": "Mountains",
+    "interest": [
+      "Carida Academy",
+      "Imperial Navy Deepdock Facility Two",
+      "Ryleel Imperial Base",
+      "Valor"
+    ],
+    "fauna": "Combat arachnid",
+    "otherspecies": "Human",
+    "demonym": "Caridan",
+    "affiliation": [
+      "Galactic Republic",
+      "  Grand Army of the Republic",
+      "Galactic Empire",
+      "  Imperial Academy"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Caridan",
+      "directory": "Caridan (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Carida",
+    "x": 2275.5,
+    "y": 889.2,
+    "z": 95.8,
+    "region": "Colonies",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Kaldahan",
+  "wookieepedia_title": "Kaldahan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kaldahan",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "Kaldahan (formerly known as Kanduh) was the home planet of the ancient Kanduh civilization.",
+  "lead_paragraphs": [
+    "Kaldahan (formerly known as Kanduh) was the home planet of the ancient Kanduh civilization."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Kaldahan",
+    "region": "The galaxy",
+    "atmosphere": "Breathable",
+    "climate": "Cold",
+    "terrain": [
+      "Icy forests",
+      "Mountains"
+    ],
+    "fauna": "Many types of ferocious wild beasts",
+    "species": "Kanduh (extinct)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kanduh",
+      "directory": "Kanduh",
+      "continuity": "Unknown"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

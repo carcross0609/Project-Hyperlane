@@ -1,0 +1,145 @@
+{
+  "name": "Rodia",
+  "wookieepedia_title": "Rodia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rodia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rodia, a rainforested, industrial planet in the Tyrius system in the Outer Rim, was the homeworld of the Rodians.",
+  "lead_paragraphs": [
+    "Rodia, a rainforested, industrial planet in the Tyrius system in the Outer Rim, was the homeworld of the Rodians."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Discovery and Republic membership",
+    "  Imperial rule and Navik's coup",
+    "  Yuuzhan Vong conquest and beyond"
+  ],
+  "data": {
+    "name": "Rodia",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Savareen sector",
+    "system": "Tyrius system",
+    "coordinates": "R-16",
+    "suns": "1: Tyrius",
+    "position": "2",
+    "moons": [
+      "4:",
+      "Eiska",
+      "Enak",
+      "Soomana",
+      "Yasooska"
+    ],
+    "routes": "Corellian Run",
+    "lengthday": "29 standard hours",
+    "lengthyear": "305 local days",
+    "class": "Terrestrial",
+    "diameter": "7,548 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Hot and moist",
+    "gravity": "Standard",
+    "terrain": [
+      "Jungles",
+      "Oceans",
+      "Urban",
+      "Swamp",
+      "Rainforests"
+    ],
+    "water": [
+      "Ioliu Sea",
+      "Rodiak Ocean",
+      "Wesessa Sea"
+    ],
+    "interest": [
+      "An'yettu Islands",
+      "Betu",
+      "Encheeko",
+      "Flip of the Credit",
+      "Kay-Tap square",
+      "Next Chance",
+      "Senatorial Palace"
+    ],
+    "fauna": [
+      "Can-cell",
+      "Ghest",
+      "Karstag",
+      "Kwazel Maw",
+      "Newoongall",
+      "Nexu",
+      "Svaper"
+    ],
+    "species": "Rodian",
+    "otherspecies": [
+      "Yuuzhan Vong",
+      "Chazrach",
+      "Humans (historic)"
+    ],
+    "language": [
+      "Rodese (Rodian)",
+      "Huttese",
+      "Galactic Basic Standard",
+      "Formerly: Yuuzhan Vong"
+    ],
+    "government": "Rodian Grand Protector",
+    "population": [
+      "1.3 billion:",
+      "  91% Rodians",
+      "  9% Yuuzhan Vong",
+      "Historic (3 ABY): 1.3 billion Rodians, 100,000 others"
+    ],
+    "demonym": "Rodian",
+    "cities": [
+      "Iskaayuma (capital)",
+      "Chekkoo Enclave",
+      "Equator City",
+      "Matza",
+      "Samana",
+      "Yusk"
+    ],
+    "imports": [
+      "Foodstuffs",
+      "Luxury goods"
+    ],
+    "exports": [
+      "Bounty hunters",
+      "Weapons technology",
+      "Exotic animals"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Brotherhood of Darkness",
+      "Galactic Republic",
+      "Confederacy of Independent Systems (briefly)",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Rodian",
+      "directory": "Rodian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Rodian",
+      "directory": "Rodian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rodia",
+    "x": 8960.0,
+    "y": -9968.3,
+    "z": 146.9,
+    "region": "Outer Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

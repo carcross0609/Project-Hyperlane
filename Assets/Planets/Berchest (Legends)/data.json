@@ -1,0 +1,84 @@
+{
+  "name": "Berchest",
+  "wookieepedia_title": "Berchest/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Berchest/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Berchest was a major tourist destination, and later a trading planet, in the Anthos sector of the Inner Rim. It was an extremely beautiful world whose highly saline seas and strong tides result in immense crystal deposits on the planet's shores that the native Berchestians sculpted into entire cities. One of these cities was Calius saj Leeloo, or the City of Glowing Crystal. It was carved entirely from one massive crystal that was created over the centuries from salt deposits from the adjacent Leefari Sea and was considered one of the Twenty Wonders of the Galaxy.",
+  "lead_paragraphs": [
+    "Berchest was a major tourist destination, and later a trading planet, in the Anthos sector of the Inner Rim. It was an extremely beautiful world whose highly saline seas and strong tides result in immense crystal deposits on the planet's shores that the native Berchestians sculpted into entire cities. One of these cities was Calius saj Leeloo, or the City of Glowing Crystal. It was carved entirely from one massive crystal that was created over the centuries from salt deposits from the adjacent Leefari Sea and was considered one of the Twenty Wonders of the Galaxy."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Berchest",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "sector": "Anthos sector",
+    "system": "Berchest system",
+    "coordinates": "N-8",
+    "moons": "1: Terhaari",
+    "lengthday": "21 standard hours",
+    "lengthyear": "381 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Crystal coasts",
+      "Plains",
+      "Mountains",
+      "Forests"
+    ],
+    "water": "Leefari Sea",
+    "species": "Berchestians",
+    "otherspecies": [
+      "Humans",
+      "Bimms",
+      "Gotals",
+      "Rodians",
+      "Tunroth",
+      "Others"
+    ],
+    "population": [
+      "3 billion",
+      "500 million to 1 billion (c. 25 ABY)"
+    ],
+    "cities": "Calius saj Leeloo (capital)",
+    "imports": [
+      "Shipped cargoes",
+      "Tourism"
+    ],
+    "exports": [
+      "High technology",
+      "Mid technology",
+      "Warehoused cargoes",
+      "Native crystalline art"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Berchestian",
+      "directory": "Berchestian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Berchest",
+    "x": 3147.7,
+    "y": 1911.8,
+    "z": -121.2,
+    "region": "Inner Rim",
+    "grid": "N-8"
+  },
+  "scraped": "2026-07-03"
+}

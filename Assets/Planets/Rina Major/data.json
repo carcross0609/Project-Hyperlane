@@ -1,0 +1,36 @@
+{
+  "name": "Rina Major",
+  "wookieepedia_title": "Rina Major",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rina_Major",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rina Major was a planet located in the Rina Major system in the Stensen sector of the Outer Rim Territories. It was the homeworld of the Blarina species, whose name meant \"children of Rin\". Blarina from Rina Major included Ohn Gos and Naka Iit, the latter of whom once finished fifth in a soliloquy competition on his homeworld.",
+  "lead_paragraphs": [
+    "Rina Major was a planet located in the Rina Major system in the Stensen sector of the Outer Rim Territories. It was the homeworld of the Blarina species, whose name meant \"children of Rin\". Blarina from Rina Major included Ohn Gos and Naka Iit, the latter of whom once finished fifth in a soliloquy competition on his homeworld."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Rina Major",
+    "region": "Outer Rim Territories",
+    "sector": "Stensen sector",
+    "system": "Rina Major system",
+    "coordinates": "I-17",
+    "species": "Blarina"
+  },
+  "homeworld_of": [
+    {
+      "name": "Blarina",
+      "directory": "Blarina",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Rina Major",
+    "x": 2161.9,
+    "y": -13319.0,
+    "z": 85.9,
+    "region": "Outer Rim",
+    "grid": "M-18"
+  },
+  "scraped": "2026-07-03"
+}

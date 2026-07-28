@@ -1,0 +1,44 @@
+{
+  "name": "Salin",
+  "wookieepedia_title": "Salin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Salin",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Salin was an Outer Rim Territories world situated in the Sprizen sector. It served as the endpoint of the Salin Corridor and Veragi Trade Route hyperlanes. Salin was at one point part of territories controlled by the Kwa species before it was annexed by the Rakata species' Infinite Empire.",
+  "lead_paragraphs": [
+    "Salin was an Outer Rim Territories world situated in the Sprizen sector. It served as the endpoint of the Salin Corridor and Veragi Trade Route hyperlanes. Salin was at one point part of territories controlled by the Kwa species before it was annexed by the Rakata species' Infinite Empire."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Salin",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories",
+      "Unknown Regions (c. 17,000 BBY–c. 11,000 BBY)"
+    ],
+    "sector": "Sprizen sector",
+    "system": "Salin system",
+    "coordinates": "N-5",
+    "routes": [
+      "Salin Corridor",
+      "Veragi Trade Route"
+    ],
+    "affiliation": [
+      "Kwa holdings",
+      "Infinite Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Salin",
+    "x": 4137.7,
+    "y": 6332.4,
+    "z": 95.7,
+    "region": "Outer Rim",
+    "grid": "N-5"
+  },
+  "scraped": "2026-07-03"
+}

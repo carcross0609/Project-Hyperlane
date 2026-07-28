@@ -1,0 +1,22 @@
+{
+  "name": "Xendekian",
+  "wookieepedia_title": "Xendekian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Xendekian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Xendekians were a sentient species native to the planet Xendek. The Xendekians believed the argora, a bird species, brought rain and crops and was responsible for all good fortune on Xendek.",
+  "data": {
+    "name": "Xendekian",
+    "designation": "Sentient",
+    "skincolor": [
+      "Blue",
+      "Brown",
+      "Green",
+      "Reddish-brown"
+    ],
+    "eyecolor": "Black",
+    "origin": "Xendek"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Xendek"
+}

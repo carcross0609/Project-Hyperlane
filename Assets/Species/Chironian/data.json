@@ -1,0 +1,23 @@
+{
+  "name": "Chironian",
+  "wookieepedia_title": "Chironian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chironian",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Chironians were a sentient species distinguished by their centauriform anatomy; while their torso, arms and head resembled those of a humanoid, their lower body was that of a four-legged equine. Another distinctive Chironian feature was the two transparent, smooth horns grown each year from the forehead. These horns started as small velvet-covered knobs, which eventually broke through as fully-fledged horns. If the velvet was cut prematurely, the wound could prove fatal. At least some juvenile Chironians were red-gold in color with white spots on their flanks and back; this color darkened with age and the spots faded. Chironians could grow long manes and tails.",
+  "data": {
+    "name": "Chironian",
+    "designation": "Sentient",
+    "class": "Centauriform: equine lower body and humanoid torso",
+    "skincolor": [
+      "Red-gold with white spots for juveniles",
+      "Reddish-brown for adults"
+    ],
+    "haircolor": "Reddish-brown",
+    "eyecolor": "Red-gold",
+    "distinctions": "Two transparent horns",
+    "origin": "Chiron"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Chiron (planet)"
+}

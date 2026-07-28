@@ -1,0 +1,102 @@
+{
+  "name": "Bardotta",
+  "wookieepedia_title": "Bardotta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bardotta",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bardotta was a remote planet located in the Bardotta system of the Shasos sector of the galaxy's Colonies region. Renowned for the art and music produced by the simple locals, the planet was ruled by a monarch who was guided in their decisions by the Dagoyan Order, a group reputed for their mysticism and attention to spiritual matters.",
+  "lead_paragraphs": [
+    "Bardotta was a remote planet located in the Bardotta system of the Shasos sector of the galaxy's Colonies region. Renowned for the art and music produced by the simple locals, the planet was ruled by a monarch who was guided in their decisions by the Dagoyan Order, a group reputed for their mysticism and attention to spiritual matters."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Ancient history",
+    "  High Republic and Clone Wars",
+    "Society and culture"
+  ],
+  "data": {
+    "name": "Bardotta",
+    "region": [
+      "Colonies",
+      "The Interior"
+    ],
+    "sector": "Shasos sector",
+    "system": "Bardotta system",
+    "coordinates": "K-13",
+    "suns": "1",
+    "moons": "At least 1: Moudotta",
+    "routes": "Giju Run",
+    "lengthday": "25 hours",
+    "lengthyear": "608 days",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Cold",
+    "gravity": "Slightly lower than average",
+    "terrain": [
+      "Mountains",
+      "Highlands",
+      "Plains",
+      "Ice caps"
+    ],
+    "water": "Oceans",
+    "interest": [
+      "Bardottan Royal Palace",
+      "Frangawl Temple",
+      "Halsoun Dagoyan Monastery"
+    ],
+    "species": "Bardottan",
+    "language": "Bardottan language",
+    "government": "Bahk-tov Council",
+    "population": [
+      "900,000,000",
+      "95% Bardottans",
+      "5% Other"
+    ],
+    "demonym": "Bardottan",
+    "cities": [
+      "Bardotta Capital City",
+      "Nan-gau",
+      "Shun-go",
+      "Jour-un",
+      "Feng-gau"
+    ],
+    "imports": [
+      "Medicines",
+      "Technology"
+    ],
+    "exports": [
+      "Art",
+      "Bardottan silk",
+      "Music",
+      "Sculpture"
+    ],
+    "affiliation": [
+      "Frangawl Cult",
+      "Dagoyan Order",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Bardottan",
+      "directory": "Bardottan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Bardottan",
+      "directory": "Bardottan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bardotta",
+    "x": -1783.5,
+    "y": -5184.3,
+    "z": -30.8,
+    "region": "Colonies",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

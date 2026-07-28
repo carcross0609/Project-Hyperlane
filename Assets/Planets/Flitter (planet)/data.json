@@ -1,0 +1,68 @@
+{
+  "name": "Flitter",
+  "wookieepedia_title": "Flitter (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Flitter_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Flitter was the codename for a Rebel Alliance safe world in the Tierfon system during the Galactic Civil War. Flitter became a graphic example of why the Rebellion needed to keep its safe world locations secret after an Imperial starship captured an Alliance transport bound for the planet and discovered its existence. The Empire responded by leveling Flitter's cities and poisoning its ecosystem with air-dropped toxins. Because the Imperial attack occurred in the dead of one of Flitter's harsh winters, the Empire merely stationed a pair of corvettes in orbit and left the rest of the planet's refugees to die. By the next spring, 95 percent of Flitter's population of over 40,000 had succumbed to starvation or exposure.",
+  "lead_paragraphs": [
+    "Flitter was the codename for a Rebel Alliance safe world in the Tierfon system during the Galactic Civil War. Flitter became a graphic example of why the Rebellion needed to keep its safe world locations secret after an Imperial starship captured an Alliance transport bound for the planet and discovered its existence. The Empire responded by leveling Flitter's cities and poisoning its ecosystem with air-dropped toxins. Because the Imperial attack occurred in the dead of one of Flitter's harsh winters, the Empire merely stationed a pair of corvettes in orbit and left the rest of the planet's refugees to die. By the next spring, 95 percent of Flitter's population of over 40,000 had succumbed to starvation or exposure."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Rebel Alliance safe world",
+    "  Imperial discovery",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Flitter",
+    "region": [
+      "Expansion Region",
+      "Trans-Hydian"
+    ],
+    "sector": "Sumitra sector",
+    "system": "Tierfon system",
+    "coordinates": "O-7",
+    "lengthday": "25 standard hours",
+    "lengthyear": "378 Local days",
+    "class": "Temperate",
+    "atmosphere": "Type I (breathable for humans)",
+    "climate": [
+      "Cool temperature",
+      "Moist hydrosphere"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Plains",
+      "Glaciers",
+      "Forests"
+    ],
+    "fauna": "Grubs",
+    "otherspecies": [
+      "Human",
+      "Many species refugees"
+    ],
+    "government": "Anarchy",
+    "population": [
+      "Over 40,000 (formerly)",
+      "1,000 (following Imperial attack)"
+    ],
+    "cities": "Flitter city (destroyed)",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Flitter",
+    "x": 5065.3,
+    "y": 4043.6,
+    "z": 201.6,
+    "region": "Expansion Region",
+    "grid": "O-7"
+  },
+  "scraped": "2026-07-03"
+}

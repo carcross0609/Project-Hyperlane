@@ -1,0 +1,45 @@
+{
+  "name": "Secundus Ando",
+  "wookieepedia_title": "Secundus Ando/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Secundus_Ando/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Secundus Ando was a world located in the Secundus Ando system, a part of the Lambda sector in the Slice portion of the Mid Rim. It was the homeworld of the sentient Harch species, which was governed by ruling nests and was related to the Aqualish species of the planet Ando. The Harch military leader Trench, who was born at some point between one and two hundred years prior to the Clone Wars of 22 BBY–19 BBY, hailed from Secundus Ando.",
+  "lead_paragraphs": [
+    "Secundus Ando was a world located in the Secundus Ando system, a part of the Lambda sector in the Slice portion of the Mid Rim. It was the homeworld of the sentient Harch species, which was governed by ruling nests and was related to the Aqualish species of the planet Ando. The Harch military leader Trench, who was born at some point between one and two hundred years prior to the Clone Wars of 22 BBY–19 BBY, hailed from Secundus Ando.",
+    "In the last century of the existence of the Galactic Republic, which was reformed into the Galactic Empire in 19 BBY, the Harch ruling nests were allied with the Spiverelda, the group of worlds colonized by the Aqualish and being under Ando's influence, in its struggle against the fifteen Aqualish-settled planets known as the Andoan Free Colonies. During that time, at some point by 57 BBY, Trench led a defense of Secundus Ando against Free Colonies' raiders."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Secundus Ando",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Lambda sector",
+    "system": "Secundus Ando system",
+    "coordinates": "Q-15",
+    "species": "Harch"
+  },
+  "homeworld_of": [
+    {
+      "name": "Harch",
+      "directory": "Harch",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Harch",
+      "directory": "Harch (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Secundus Ando",
+    "x": 7983.0,
+    "y": -8882.0,
+    "z": 159.6,
+    "region": "Mid Rim",
+    "grid": "Q-15"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Paigu",
+  "wookieepedia_title": "Paigu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Paigu",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Paigu was a planet in the Vorzyd Cluster of the Commonality in the Outer Rim Territories. It was the homeworld of the Paigun species.",
+  "lead_paragraphs": [
+    "Paigu was a planet in the Vorzyd Cluster of the Commonality in the Outer Rim Territories. It was the homeworld of the Paigun species.",
+    "Paigu was a center of innovation in logic and mathematics. The storm-wracked planet's Paigun-made structures and towers were powered by electricity harnessed from Paigu's thunderstorms. This provided the natives with a ready and sustainable source of power."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Paigu",
+    "region": [
+      "Outer Rim Territories",
+      "  Commonality",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Vorzyd sector",
+      "  Vorzyd Cluster"
+    ],
+    "system": "Paigu system",
+    "coordinates": "R-6",
+    "terrain": "Urban",
+    "species": "Paiguns",
+    "language": "Paigun",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Paigun",
+      "directory": "Paigun",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Paigu",
+    "x": 9897.9,
+    "y": 4741.0,
+    "z": -6.3,
+    "region": "Outer Rim",
+    "grid": "R-6"
+  },
+  "scraped": "2026-07-03"
+}

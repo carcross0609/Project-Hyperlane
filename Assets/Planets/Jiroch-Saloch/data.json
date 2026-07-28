@@ -1,0 +1,43 @@
+{
+  "name": "Jiroch-Saloch",
+  "wookieepedia_title": "Jiroch-Saloch",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Jiroch-Saloch",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Jiroch-Saloch, also known as Saloch, was a world in the Mid Rim's Yushan sector. At some point after receiving galactic-level technology, the hunting-oriented Tunroth species colonized the planet. Spacers referred to Jiroch-Saloch, together with the Jiroch system's other worlds Jiroch-Reslia and Jiroch-Kalok, as the Triumvirate. A number of Duros also settled on the planet, leaving a strong influence on its architecture.",
+  "lead_paragraphs": [
+    "Jiroch-Saloch, also known as Saloch, was a world in the Mid Rim's Yushan sector. At some point after receiving galactic-level technology, the hunting-oriented Tunroth species colonized the planet. Spacers referred to Jiroch-Saloch, together with the Jiroch system's other worlds Jiroch-Reslia and Jiroch-Kalok, as the Triumvirate. A number of Duros also settled on the planet, leaving a strong influence on its architecture."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Jiroch-Saloch",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Yushan sector",
+    "system": "Jiroch system",
+    "coordinates": "K-17",
+    "position": "5",
+    "moons": "Saloch²",
+    "routes": "Corellian Trade Spine",
+    "class": "Terrestrial",
+    "otherspecies": [
+      "Duros",
+      "Tunroth"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tunroth",
+      "directory": "Tunroth",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

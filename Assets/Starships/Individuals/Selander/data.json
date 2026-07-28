@@ -1,0 +1,27 @@
+{
+  "name": "Selander",
+  "wookieepedia_title": "Selander",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Selander",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Selander was a Corellian Engineering Corporation Assassin-class corvette operated by the Ripoblus.",
+  "data": {
+    "name": "Selander",
+    "type": "Assassin-class corvette",
+    "length": "139.25 meters",
+    "width": "58.95 meters",
+    "height": "16.97 meters",
+    "shield_gen": "Rated 400 SBD",
+    "hull": "Rated 224 RU",
+    "armament": [
+      "Dual turbolaser turrets (6)",
+      "Warhead launcher (1)",
+      "  Concussion missiles standard load (10)"
+    ],
+    "crew": "60 to 150",
+    "role": "Rapid strike craft",
+    "affiliation": "Ripoblus government"
+  },
+  "scraped": "2026-07-03"
+}

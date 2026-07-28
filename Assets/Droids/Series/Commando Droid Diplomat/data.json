@@ -1,0 +1,25 @@
+{
+  "name": "Commando Droid Diplomat",
+  "wookieepedia_title": "Commando Droid Diplomat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Commando_Droid_Diplomat",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "Commando Droid Diplomats were specialized models of BX-series droid commandos specialized for diplomatic occasions. They differed from regular commando droids with their brown, yellow and blue colored plating and they wielded E-5 blaster rifles.",
+  "data": {
+    "name": "Commando Droid Diplomat",
+    "model": "BX-series droid commando",
+    "class": "Battle droid",
+    "degree": "Fourth-degree droid",
+    "height": "1.91 meters (6 ft, 3 in)",
+    "sensor": "White",
+    "plating": [
+      "Blue",
+      "Brown",
+      "Yellow"
+    ],
+    "armament": "E-5 blaster rifle",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "scraped": "2026-07-03"
+}

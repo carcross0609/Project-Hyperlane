@@ -1,0 +1,55 @@
+{
+  "name": "Morak",
+  "wookieepedia_title": "Morak",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Morak",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Morak was a jungle planet located in Wild Space on the edge of the Outer Rim Territories inhabited by humans as well as members of the Shydopp species. The planet served as a secret mining hub for the Galactic Empire, which processed rhydonium in a secret refinery, which was tightly guarded by shoretroopers and stormtroopers.",
+  "lead_paragraphs": [
+    "Morak was a jungle planet located in Wild Space on the edge of the Outer Rim Territories inhabited by humans as well as members of the Shydopp species. The planet served as a secret mining hub for the Galactic Empire, which processed rhydonium in a secret refinery, which was tightly guarded by shoretroopers and stormtroopers."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Morak",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Morak system",
+    "coordinates": "H-18",
+    "moons": "0",
+    "class": "Terrestrial",
+    "diameter": "11,421 km (7,097 miles)",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Mountains",
+      "Rainforests"
+    ],
+    "water": "Rivers, oceans",
+    "interest": [
+      "Morak Imperial refinery",
+      "Morak village"
+    ],
+    "otherspecies": [
+      "Human",
+      "Shydopp"
+    ],
+    "population": "Less than 5 million",
+    "demonym": "Moraki",
+    "exports": "Rhydonium",
+    "affiliation": [
+      "Galactic Empire",
+      "Morak Imperial remnants"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Shydopp",
+      "directory": "Shydopp",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

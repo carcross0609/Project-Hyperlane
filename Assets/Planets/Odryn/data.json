@@ -1,0 +1,68 @@
+{
+  "name": "Odryn",
+  "wookieepedia_title": "Odryn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Odryn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "An isolated planet in the Outer Rim Noonian sector, Odryn was the chief colony world of the warlike Feeorin species. Known as a world of climatic extremes, Odryn was covered in jungles and mountains, into the sides of which the Feeorin built their settlements. Although commonly believed to be the Feeorin homeworld, the Feeorin's original home was lost—by the time of the Mandalorian Wars, more Feeorin lived on Odryn than anywhere else in the galaxy, and developed an extremely traditionalistic and insular society. Feeorin life on Odryn was largely tribal until the legendary warrior Feln unified the warring villages under his banner, becoming the hallowed Exalted in the process. Feln later left Odryn to train with the Jedi Order, and eventually returned to his homeworld as a Jedi Master and a member of the shadowy Jedi cabal known as the Jedi Covenant. Feln ended up earning the ire of his people by volunteering Odryn's sacred Sanctum of the Exalted for Covenant use as a storehouse for Sith artifacts, and was eventually slaughtered by his people after he destroyed the Sanctum in an effort to ensure knowledge of the Covenant's work would not leave the planet.",
+  "lead_paragraphs": [
+    "An isolated planet in the Outer Rim Noonian sector, Odryn was the chief colony world of the warlike Feeorin species. Known as a world of climatic extremes, Odryn was covered in jungles and mountains, into the sides of which the Feeorin built their settlements. Although commonly believed to be the Feeorin homeworld, the Feeorin's original home was lost—by the time of the Mandalorian Wars, more Feeorin lived on Odryn than anywhere else in the galaxy, and developed an extremely traditionalistic and insular society. Feeorin life on Odryn was largely tribal until the legendary warrior Feln unified the warring villages under his banner, becoming the hallowed Exalted in the process. Feln later left Odryn to train with the Jedi Order, and eventually returned to his homeworld as a Jedi Master and a member of the shadowy Jedi cabal known as the Jedi Covenant. Feln ended up earning the ire of his people by volunteering Odryn's sacred Sanctum of the Exalted for Covenant use as a storehouse for Sith artifacts, and was eventually slaughtered by his people after he destroyed the Sanctum in an effort to ensure knowledge of the Covenant's work would not leave the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Odryn",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Noonian sector",
+    "system": "Odryn system",
+    "coordinates": "N-7",
+    "moons": "Two",
+    "lengthday": "41 standard hours",
+    "lengthyear": "303 local days",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Jungles",
+      "Mountains",
+      "Cliffs"
+    ],
+    "interest": "Sanctum of the Exalted",
+    "fauna": "Khadarok",
+    "species": "Feeorin",
+    "language": "Feeorin",
+    "government": "Tribal, led by Exalted",
+    "population": [
+      "99% Feeorin",
+      "1% other"
+    ],
+    "imports": [
+      "Luxury items",
+      "Technology"
+    ],
+    "exports": "Prefabricated goods and tools"
+  },
+  "homeworld_of": [
+    {
+      "name": "Feeorin",
+      "directory": "Feeorin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Odryn",
+    "x": 11952.8,
+    "y": 5241.0,
+    "z": -46.6,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

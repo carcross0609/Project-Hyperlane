@@ -1,0 +1,109 @@
+{
+  "name": "Joralla",
+  "wookieepedia_title": "Joralla",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Joralla",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Joralla was a jungle planet located in the Mid Rim's Mektrun sector. It orbited the red giant star Jaska and had an unstable climate that displayed considerable weather and seasonal changes. The planet's surface was divided between vast oceans and three main continents, whose terrain included high mountains, forests, and verdant jungles. The latter featured remarkably diverse plant life, including tequa bushes, sio trees, redspar fruits, and kewafi flowers. Various animal species also inhabited Joralla, such as the herbivorous oslets and the predatory wulkarsks.",
+  "lead_paragraphs": [
+    "Joralla was a jungle planet located in the Mid Rim's Mektrun sector. It orbited the red giant star Jaska and had an unstable climate that displayed considerable weather and seasonal changes. The planet's surface was divided between vast oceans and three main continents, whose terrain included high mountains, forests, and verdant jungles. The latter featured remarkably diverse plant life, including tequa bushes, sio trees, redspar fruits, and kewafi flowers. Various animal species also inhabited Joralla, such as the herbivorous oslets and the predatory wulkarsks.",
+    "The Tikiarri were a species of sentient bird that were tribal-based and highly aggressive. They frequently attempted to kill off-worlders in order to acquire advanced blaster weapons and were considered a menace in the neighboring star systems. At some point long before the Galactic Civil War, Joralla was home to another sentient species, the humanoid Wasilsi. They frequently engaged the Tikiarri in conflicts and eventually went extinct, leaving behind architectural ruins. The sentientologist Beyorth Gommdora theorized the Wasilsi originated off-planet and were eradicated by local bacteria or viruses. Joralla also occasionally received off-world visitors in the form of independent traders.",
+    "Around 3643 BBY, Joralla was placed under quarantine and blockaded due to an outbreak of a plague. Later, access to the planet was once again restricted under the authority of Moff Debin Seylas of the Galactic Empire due to the nearby systems experiencing troubles with the unruly Tikiarri. During the Galactic Civil War, the freighter captain Adriav Kavos arranged to sell a stolen Rebel Alliance data disk to a buyer on Joralla. A group of Rebel agents subsequently traveled to the planet in order to retrieve the data disk. The off-worlders were attacked by a tribe of Tikiarri before the buyer, an Imperial spy intent on double-crossing Kavos, arrived on Joralla as well."
+  ],
+  "article_sections": [
+    "Description",
+    "  Astrography and atmosphere",
+    "  Geography",
+    "  Flora and fauna",
+    "History",
+    "  A quarantined world",
+    "  A rendezvous on Joralla",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Joralla",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "Mektrun sector",
+    "system": "Joralla system",
+    "coordinates": "L-17",
+    "suns": "1: Jaska",
+    "position": "3",
+    "moons": "0",
+    "lengthday": "26 standard hours",
+    "lengthyear": "310 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Hot (tropical and equatorial zones)",
+      "Cool (polar regions)",
+      "Temperate (rest of the planet)"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Chasms",
+      "Forests",
+      "Jungles",
+      "Mountains",
+      "Plateaus",
+      "Rivers",
+      "Volcanoes",
+      "Waterfalls"
+    ],
+    "water": "Oceans",
+    "interest": "Wasilsi temple",
+    "flora": [
+      "Fern",
+      "Kewafi flower",
+      "Redspar",
+      "Sio tree",
+      "Tequa bush"
+    ],
+    "fauna": [
+      "Birds",
+      "Insects",
+      "Mammals",
+      "Oslet",
+      "Reptiles",
+      "Wulkenso family",
+      "  Wulkarsk"
+    ],
+    "species": [
+      "Tikiarri",
+      "Wasilsi (historic)"
+    ],
+    "otherspecies": "Humans",
+    "language": "Written Wasilsi language (historic)",
+    "government": "Unorganized tribes",
+    "population": [
+      "10 million Tikiarri (estimated)",
+      "20 or less Humans"
+    ],
+    "demonym": "Jorallan",
+    "exports": "Jorallan opals"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tikiarri",
+      "directory": "Tikiarri",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Wasilsi",
+      "directory": "Wasilsi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Joralla",
+    "x": 7205.3,
+    "y": -9453.4,
+    "z": -149.1,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

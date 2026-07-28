@@ -1,0 +1,49 @@
+{
+  "name": "Skuhl",
+  "wookieepedia_title": "Skuhl",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Skuhl",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Skuhl was a planet located in the Skuhl system in the Spadja sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Skuhl was a planet located in the Skuhl system in the Spadja sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Society and culture"
+  ],
+  "data": {
+    "name": "Skuhl",
+    "region": "Outer Rim Territories",
+    "sector": "Spadja sector",
+    "system": "Skuhl system",
+    "coordinates": "R-5",
+    "suns": "1",
+    "moons": "3",
+    "terrain": "Grasslands",
+    "interest": "A town",
+    "flora": "A vine species",
+    "fauna": [
+      "Bulba",
+      "Vulpor"
+    ],
+    "otherspecies": [
+      "Chagrian",
+      "Cyran",
+      "Drabatan",
+      "Human",
+      "Winroc"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Skuhl",
+    "x": 9604.8,
+    "y": -11012.9,
+    "z": 213.0,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

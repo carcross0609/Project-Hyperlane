@@ -1,0 +1,25 @@
+{
+  "name": "Grenade droid",
+  "wookieepedia_title": "Grenade droid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Grenade_droid/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "Grenade droids, also known as grenadier droids or B1 grenadier troopers, were a grenadier variant of the B1-series battle droid used by the Trade Federation and Confederacy of Independent Systems. Variants included the thermal detonator battle droid and B1 Grenadier Assault.",
+  "data": {
+    "name": "Grenade droid",
+    "line": "B-series battle droid",
+    "class": "Battle droid",
+    "armament": [
+      "Grenades",
+      "Mortar",
+      "  Thermal detonators"
+    ],
+    "affiliation": [
+      "Trade Federation",
+      "Confederacy of Independent Systems",
+      "  Separatist Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

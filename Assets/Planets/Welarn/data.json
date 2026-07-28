@@ -1,0 +1,34 @@
+{
+  "name": "Welarn",
+  "wookieepedia_title": "Welarn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Welarn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Welarn was a planet located within the Vernet system of the Expansion Region. This gas giant was orbited by 23 moons.",
+  "lead_paragraphs": [
+    "Welarn was a planet located within the Vernet system of the Expansion Region. This gas giant was orbited by 23 moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Welarn",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Baroli sector",
+    "system": "Vernet system",
+    "coordinates": "N-14",
+    "position": "4",
+    "moons": "23"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Welarn",
+    "x": 3445.0,
+    "y": -7112.1,
+    "z": -82.1,
+    "region": "Expansion Region",
+    "grid": "N-14"
+  },
+  "scraped": "2026-07-03"
+}

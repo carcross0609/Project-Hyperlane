@@ -1,0 +1,39 @@
+{
+  "name": "Korda Six",
+  "wookieepedia_title": "Korda Six",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Korda_Six",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Korda Six was a planet that ranged from barren rocky plains to small forests in which the natives lived. It was also where Montross betrayed Jaster Mereel to the Death Watch. Jaster was killed by Tor Vizsla, and Jango Fett became the Mandalore.",
+  "lead_paragraphs": [
+    "Korda Six was a planet that ranged from barren rocky plains to small forests in which the natives lived. It was also where Montross betrayed Jaster Mereel to the Death Watch. Jaster was killed by Tor Vizsla, and Jango Fett became the Mandalore."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Korda Six",
+    "region": [
+      "Inner Rim",
+      "Trans-Hydian"
+    ],
+    "system": "Korda system",
+    "coordinates": "O-8",
+    "position": "6",
+    "species": "Kordans"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kordan",
+      "directory": "Kordan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Korda Six",
+    "x": 4915.6,
+    "y": 2189.7,
+    "z": 34.2,
+    "region": "Inner Rim",
+    "grid": "O-8"
+  },
+  "scraped": "2026-07-03"
+}

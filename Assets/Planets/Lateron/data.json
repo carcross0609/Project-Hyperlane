@@ -1,0 +1,42 @@
+{
+  "name": "Lateron",
+  "wookieepedia_title": "Lateron",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lateron",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Lateron was a small planet located in the Mid Rim that was home to the Latero species. The planet fell under the control of the Galactic Empire, who viewed it as expendable, making life difficult for its inhabitants.",
+  "lead_paragraphs": [
+    "Lateron was a small planet located in the Mid Rim that was home to the Latero species. The planet fell under the control of the Galactic Empire, who viewed it as expendable, making life difficult for its inhabitants."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Lateron",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Talcene sector",
+    "system": "Lateron system",
+    "coordinates": "Q-8",
+    "moons": "Perlemian Trade Route",
+    "class": "Terrestrial",
+    "interest": "Lateron Space Academy",
+    "fauna": "Skeezump",
+    "species": "Latero",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Latero",
+      "directory": "Latero",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

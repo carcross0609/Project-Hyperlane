@@ -1,0 +1,50 @@
+{
+  "name": "Aquella",
+  "wookieepedia_title": "Aquella",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aquella",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aquella was a Mid Rim world located in the Senex sector. By 3643 BBY, an aristocrat residing on Aquella offered valuable items as dowry to anyone who would marry his cousin. Aquella was colonized by Human settlers at one point; however, the colony was lost by the time the Senex-Juvex region came under the rule of the aristocratic Ancient Houses. The Aquellans, the descendants of the original colonists, were a culture notable for their rituals involving the dyeing and tattooing of young males' bodies.",
+  "lead_paragraphs": [
+    "Aquella was a Mid Rim world located in the Senex sector. By 3643 BBY, an aristocrat residing on Aquella offered valuable items as dowry to anyone who would marry his cousin. Aquella was colonized by Human settlers at one point; however, the colony was lost by the time the Senex-Juvex region came under the rule of the aristocratic Ancient Houses. The Aquellans, the descendants of the original colonists, were a culture notable for their rituals involving the dyeing and tattooing of young males' bodies."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Aquella",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Senex sector"
+    ],
+    "system": "Aquella system",
+    "coordinates": "L-17",
+    "class": "Terrestrial",
+    "otherspecies": "Humans",
+    "socialgroup": "Aquellan",
+    "language": "Aquellan language",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [
+    {
+      "name": "Aquellan",
+      "directory": "Aquellan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aquella",
+    "x": 444.8,
+    "y": -11909.3,
+    "z": -118.0,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

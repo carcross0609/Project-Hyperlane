@@ -1,0 +1,39 @@
+{
+  "name": "Fef",
+  "wookieepedia_title": "Fef",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fef",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fef was a moderately large planet orbiting an orange-yellow star in the Fef system. It was one of the Galactic Alliance planets threatened by a possible Killik coup.",
+  "lead_paragraphs": [
+    "Fef was a moderately large planet orbiting an orange-yellow star in the Fef system. It was one of the Galactic Alliance planets threatened by a possible Killik coup.",
+    "Fef was the homeworld of the insectoid Fefze. Fef's thick atmosphere and hot temperature contributed to its teeming variety of lifeforms, all of whom had relatively short life-spans. The Fefze, who formed intelligent group-minds (called \"swarms\") of 10 to 100 individuals, were able to digest all forms of carbon-based organic matter. Due to the abundance of food available to the Fefze and their lack of dexterous manipulative appendages, they never developed technological skills and had few exports. Fef received tourists who came to view the famed Fefze dance swarms."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Fef",
+    "region": "Mid Rim",
+    "sector": "Glythe sector",
+    "system": "Fef system",
+    "coordinates": "J-7",
+    "terrain": "Forests",
+    "species": "Fefze",
+    "affiliation": "Galactic Alliance, Killiks"
+  },
+  "homeworld_of": [
+    {
+      "name": "Fefze",
+      "directory": "Fefze",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Fef",
+    "x": -1918.8,
+    "y": 4261.7,
+    "z": -151.6,
+    "region": "Mid Rim",
+    "grid": "J-7"
+  },
+  "scraped": "2026-07-03"
+}

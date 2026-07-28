@@ -1,0 +1,39 @@
+{
+  "name": "Velusia",
+  "wookieepedia_title": "Velusia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Velusia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Velusia was a planet located in the Velusia system and the homeworld of the Velusian species, which occupied most of the planet except the volcanic atoll of Kolo-ha. In 5 ABY, members of the New Republic, including Chancellor Mon Mothma and Senator Leia Organa, traveled to Velusia to negotiate the surrender of Grand Vizier Mas Amedda. Velusia was also home to the chomong, a species of sea creatures. The fossilized corpses of the chomong created a ring of shimmering sediment off the coast of Kolo-ha.",
+  "lead_paragraphs": [
+    "Velusia was a planet located in the Velusia system and the homeworld of the Velusian species, which occupied most of the planet except the volcanic atoll of Kolo-ha. In 5 ABY, members of the New Republic, including Chancellor Mon Mothma and Senator Leia Organa, traveled to Velusia to negotiate the surrender of Grand Vizier Mas Amedda. Velusia was also home to the chomong, a species of sea creatures. The fossilized corpses of the chomong created a ring of shimmering sediment off the coast of Kolo-ha."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Velusia",
+    "region": "Core Worlds",
+    "sector": "None",
+    "system": "Velusia system",
+    "coordinates": "L-9",
+    "interest": "Kolo-ha",
+    "fauna": "Chomong",
+    "species": "Velusian",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Aquar",
+      "directory": "Aquar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Velusia",
+    "x": 104.8,
+    "y": 538.3,
+    "z": -38.0,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

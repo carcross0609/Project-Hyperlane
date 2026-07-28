@@ -1,0 +1,25 @@
+{
+  "name": "Felucian Skullblade",
+  "wookieepedia_title": "Felucian Skullblade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Felucian_Skullblade",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Felucian Skullblade was a primitive weapon used by Felucian shamans in ceremonies and combat alike.",
+  "data": {
+    "name": "Felucian Skullblade",
+    "type": "Melee weapon",
+    "culture": "Felucians",
+    "creators": "Felucians",
+    "cost": "1,500 credits",
+    "shape": "Sword-like",
+    "weight": "0.5 kg",
+    "protection": "Lightsaber-resistant",
+    "purpose": [
+      "Combat",
+      "Ceremony"
+    ],
+    "affiliation": "Felucian shamans"
+  },
+  "scraped": "2026-07-03"
+}

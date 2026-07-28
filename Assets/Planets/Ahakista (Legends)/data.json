@@ -1,0 +1,59 @@
+{
+  "name": "Ahakista",
+  "wookieepedia_title": "Ahakista/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ahakista/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ahakista was a pleasure planet located in the Myto sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Ahakista was a pleasure planet located in the Myto sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History",
+    "Geography"
+  ],
+  "data": {
+    "name": "Ahakista",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Myto sector",
+    "system": "Ahakista system",
+    "coordinates": "K-3",
+    "routes": "Veragi Trade Route",
+    "class": "Terrestrial",
+    "climate": "Temperate",
+    "interest": [
+      "Pyramid One",
+      "Daystar Casino"
+    ],
+    "fauna": [
+      "Merdoc",
+      "Telcar"
+    ],
+    "otherspecies": "Human (Ahakistan)",
+    "language": "Galactic Basic Standard",
+    "government": "True Democracy",
+    "population": "1 million to 1 billion",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Imperial Remnant",
+      "Yuuzhan Vong empire",
+      "Fel Empire",
+      "Empire-in-exile"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ahakista",
+    "x": -458.2,
+    "y": 9225.6,
+    "z": -205.5,
+    "region": "Outer Rim",
+    "grid": "K-3"
+  },
+  "scraped": "2026-07-03"
+}

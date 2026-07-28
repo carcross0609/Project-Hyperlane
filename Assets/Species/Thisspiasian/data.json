@@ -1,0 +1,35 @@
+{
+  "name": "Thisspiasian",
+  "wookieepedia_title": "Thisspiasian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thisspiasian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Thisspiasians were a serpentine species, distinguished by their long snake bodies and thick beards, that were native to the planet Thisspias. Thisspiasians had four arms, but a pair of them were often hidden beneath their clothing. Thisspiasians slept for a couple of hours per day, but their main form of rest was a type of trance that could last for minutes or hours. The trance provided neurological repair. If a Thisspiasian missed the trance, they could become emotional and irritable. Thisspiasians' tails helped them slither over the rocky environment of their natural habitat and their thick beards helped deter swarms of biting cygnats.",
+  "data": {
+    "name": "Thisspiasian",
+    "designation": "Sentient",
+    "class": "Serpentine",
+    "height": "2 meters",
+    "skincolor": [
+      "Green",
+      "Orange"
+    ],
+    "haircolor": [
+      "White",
+      "Brown",
+      "Orange"
+    ],
+    "eyecolor": "Blue",
+    "distinctions": [
+      "Snakelike body",
+      "Abundant beards",
+      "Four arms"
+    ],
+    "lifespan": "Long",
+    "origin": "Thisspias",
+    "habitat": "Rocky",
+    "language": "Thisspiasian"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Thisspias"
+}

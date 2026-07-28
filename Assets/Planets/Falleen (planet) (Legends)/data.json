@@ -1,0 +1,73 @@
+{
+  "name": "Falleen",
+  "wookieepedia_title": "Falleen (planet)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Falleen_%28planet%29/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Falleen was a planet in the Mid Rim region and home to the Falleen species. It had jungles, vast plains, and icy mountains.",
+  "lead_paragraphs": [
+    "Falleen was a planet in the Mid Rim region and home to the Falleen species. It had jungles, vast plains, and icy mountains."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Falleen",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Doldur sector",
+    "system": "Falleen system",
+    "coordinates": "P-15",
+    "suns": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen mix, Type I (breathable)",
+    "climate": "Temperate",
+    "terrain": [
+      "Jungles",
+      "Mountains",
+      "Plains",
+      "Industrial"
+    ],
+    "species": "Falleen",
+    "otherspecies": [
+      "Yuuzhan Vong",
+      "Chazrach"
+    ],
+    "language": "Falleen",
+    "government": "Feudal Monarchy",
+    "population": [
+      "520 million",
+      "500 million to 1 billion"
+    ],
+    "cities": "Falleen Throne (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Falleen",
+      "directory": "Falleen",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Falleen",
+      "directory": "Falleen (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Falleen",
+    "x": 7153.7,
+    "y": -8316.5,
+    "z": 299.6,
+    "region": "Mid Rim",
+    "grid": "P-15"
+  },
+  "scraped": "2026-07-03"
+}

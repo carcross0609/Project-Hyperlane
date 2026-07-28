@@ -1,0 +1,80 @@
+{
+  "name": "Tallaan",
+  "wookieepedia_title": "Tallaan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tallaan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tallaan was a planet in Tapani sector's Freeworlds Territory at the confluence of the Giju Run, the Procopian Shipping Lane, and the Shapani Bypass. It was best known for its starship production.",
+  "lead_paragraphs": [
+    "Tallaan was a planet in Tapani sector's Freeworlds Territory at the confluence of the Giju Run, the Procopian Shipping Lane, and the Shapani Bypass. It was best known for its starship production.",
+    "Tallaan was a voting member of the League of Tapani Freeworlds."
+  ],
+  "article_sections": [
+    "Culture",
+    "Government",
+    "Military",
+    "Economy",
+    "History"
+  ],
+  "data": {
+    "name": "Tallaan",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "sector": "Freeworlds Territory; Tapani sector",
+    "system": "Tallaan system",
+    "coordinates": "L-13",
+    "routes": [
+      "Giju Run",
+      "Procopian Shipping Lane",
+      "Shapani Bypass"
+    ],
+    "lengthday": "22 standard hours",
+    "lengthyear": "355 standard days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forest",
+      "Plains",
+      "Urban"
+    ],
+    "interest": [
+      "Soun-Giju",
+      "Tallaani Shipyards",
+      "Heatherdowns Hotel and Track",
+      "CMG Guildhouse"
+    ],
+    "otherspecies": [
+      "Human",
+      "Herglic",
+      "Mrlssi"
+    ],
+    "government": "Trade Commission",
+    "population": "67 billion",
+    "imports": [
+      "Foodstuffs",
+      "Low technology",
+      "Medicinal goods"
+    ],
+    "exports": [
+      "High technology",
+      "Land vehicles",
+      "Starships",
+      "Trade goods"
+    ],
+    "affiliation": "League of Tapani Freeworlds"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tallaan",
+    "x": 512.3,
+    "y": -5197.1,
+    "z": 30.2,
+    "region": "Colonies",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

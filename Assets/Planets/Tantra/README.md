@@ -1,0 +1,38 @@
+# Tantra
+
+**Continuity:** Legends  
+**Source:** [Tantra](https://starwars.fandom.com/wiki/Tantra)
+**Galaxy atlas:** system `Tantra`, Outer Rim, grid M-19 — map position (1711.3, -14268.9, -19.4)
+
+Tantra was a planet in the eponymous Tantra sector on the Outer Rim. It lay on the major hyperlane known as the Rimma Trade Route was located at a hyperspace junction, where the Route joined the subsidiary Coyn Run.
+
+The planet had two main continents, but by the time of the Galactic Civil War, it was locked deep in an ice age. The entire landmass was covered in ice a kilometer deep, and most of the oceans were also frozen over. In addition, the atmosphere was poisonous, rendering the surface of the glaciers inhospitable.
+
+Reflecting this harsh climate, the Tantrans lived in settlements sealed off from the outside world, often buried deep inside the ice, and sometimes built on top of the frozen ocean, rather than over the continents. Surface structures were linked by enclosed tunnels and, over longer distances, elevated monorail tracks. Large spaceports atop the ice connected the planet with the rest of the galaxy, with the landing pads built on special substructures to stop the heat of starship engines melting the underlying glacier. While the planet was heavily dependent on imports, it was also a center for trade, and had one major indigenous export, Banfra resin.
+
+In 22 BBY, shortly before the Clone Wars, Tantra sector seceded from the Galactic Republic. Under the Galactic Empire, however, the planet is likely to have been controlled by Coruscant, as it lay within the Metharian Nebula Territories, and it served as the point of access for ships traveling to Elrood sector.
+
+## Planetary data
+
+- **Name:** Tantra
+- **Region:**
+  - Outer Rim Territories
+  -   Metharian Nebula Territories
+- **Sector:** Tantra sector
+- **System:** Tantra system
+- **Coordinates:** M-19
+- **Routes:**
+  - Coyn Route
+  - Rimma Trade Route
+- **Class:** Terrestrial
+- **Terrain:** Ice
+- **Species:** Tantran
+- **Language:** Galactic Basic Standard
+- **Affiliation:**
+  - Galactic Republic
+  - Confederacy of Independent Systems
+  - Galactic Empire
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

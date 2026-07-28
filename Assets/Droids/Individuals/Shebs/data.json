@@ -1,0 +1,46 @@
+{
+  "name": "Shebs",
+  "wookieepedia_title": "Shebs",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shebs",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "Shebs was an HK-24 series assassin droid and one of the few to be spared destruction prior to the Mandalorian Wars, becoming an active combatant in the conflict. Locked away on Belsavis, it was eventually recovered by the Alliance Commander, hoping to use the schematics in its memory core to repair a Basilisk droid. Together with Lane Vizla, they placed the core in an astromech droid, with the new hybrid being named Shebs by Vizla.",
+  "data": {
+    "type": "Mandalorian",
+    "option1": "Astromech body",
+    "image2": "File:HK-24Belsavis.png",
+    "option2": "HK-24 body",
+    "name": "Shebs",
+    "birth": "c. 3624 BBY (astromech body)",
+    "creator": [
+      "Czerka Corporation (original body)",
+      "Lane Vizla (astromech body)"
+    ],
+    "manufacturer": "Czerka Corporation (original body)",
+    "line": "HK-24 series assassin droid (original body)",
+    "model": "HK-24 (original body)",
+    "class": [
+      "Assassin droid (original body)",
+      "Astromech droid (astromech body)"
+    ],
+    "gender": "Masculine programming",
+    "pronouns": "new",
+    "sensor": [
+      "Orange (original body)",
+      "Red (astromech body)"
+    ],
+    "plating": "Red durasteel armor plating (original body)",
+    "armament": [
+      "Blaster rifle (original body)",
+      "Self-destruct mechanism (original body)"
+    ],
+    "equipment": [
+      "Heuristic processor",
+      "Translator unit",
+      "Vocabulator"
+    ],
+    "affiliation": "Mandalorian Trat'ade"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Velmor",
+  "wookieepedia_title": "Velmor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Velmor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Velmor was the third, terrestrial planet in the Velm system in the Mid Rim near Myrkr, Obroa-skai and Aquaris.",
+  "lead_paragraphs": [
+    "Velmor was the third, terrestrial planet in the Velm system in the Mid Rim near Myrkr, Obroa-skai and Aquaris.",
+    "Its diameter was 11,788 kilometers, and its gravity was slightly below standard, at 0.92. A Velmorian day was 26 standard hours, and its year 297 local days.",
+    "Velmor was home to two sentient species: native insectoid Velmoc and Basic-speaking Human colonists known as Velmorians, although the former were nearly extinct by 3 ABY, making up a scant third of a percent of the population."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Velmor",
+    "region": [
+      "Mid Rim",
+      "Trans-Hydian"
+    ],
+    "sector": "Halori sector",
+    "system": "Velm system",
+    "coordinates": "P-7",
+    "suns": "1: Velm",
+    "position": "3",
+    "moons": [
+      "3 moons",
+      "7 asteroid moonlets"
+    ],
+    "lengthday": "26 standard hours",
+    "lengthyear": "297 local days",
+    "class": "Terrestrial",
+    "diameter": "11,788 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "0.92 standard",
+    "terrain": [
+      "Forests",
+      "Grassland",
+      "Oceans",
+      "Arctic polar regions"
+    ],
+    "interest": [
+      "Tol Velmoc mountains",
+      "Great Forest of Lorac"
+    ],
+    "species": "Velmoc",
+    "otherspecies": "Velmorians (Humans)",
+    "language": "Galactic Basic Standard",
+    "government": "Monarchy",
+    "population": "892,000 (99.7% Human, 0.3% Velmoc)",
+    "cities": "Den Velmor (capital)",
+    "imports": "High technology",
+    "exports": [
+      "Art",
+      "Literature",
+      "Foodstuffs",
+      "Velmstone",
+      "Precious metals",
+      "Precious stones"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Alliance of Free Planets"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Velmoc",
+      "directory": "Velmoc",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Velmor",
+    "x": 6989.9,
+    "y": 3113.3,
+    "z": 102.3,
+    "region": "Mid Rim",
+    "grid": "P-7"
+  },
+  "scraped": "2026-07-03"
+}

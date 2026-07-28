@@ -1,0 +1,49 @@
+{
+  "name": "Fabrin",
+  "wookieepedia_title": "Fabrin/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fabrin/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Fabrin was an Expansion Region planet located in the Circarpous sector. It was home to the Fabritech corporation, which owned the entire world and attracted large sums of money from the Galactic Empire due to its demand for Fabritech's sensor products. The planet's surface featured both vast factory districts and luxurious beach resorts on which programmers lived and worked.",
+  "lead_paragraphs": [
+    "Fabrin was an Expansion Region planet located in the Circarpous sector. It was home to the Fabritech corporation, which owned the entire world and attracted large sums of money from the Galactic Empire due to its demand for Fabritech's sensor products. The planet's surface featured both vast factory districts and luxurious beach resorts on which programmers lived and worked."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Fabrin",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Circarpous sector",
+    "system": "Fabrin system",
+    "coordinates": "O-12",
+    "routes": "Nanth'ri Route",
+    "class": "Terrestrial",
+    "terrain": [
+      "Beaches",
+      "Plains"
+    ],
+    "interest": [
+      "Fabritech headquarters",
+      "Manufacturing districts",
+      "Resorts"
+    ],
+    "affiliation": "Fabritech"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Fabrin",
+    "x": 5568.5,
+    "y": -3537.3,
+    "z": -132.2,
+    "region": "Expansion Region",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

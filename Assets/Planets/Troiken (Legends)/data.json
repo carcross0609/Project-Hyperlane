@@ -1,0 +1,79 @@
+{
+  "name": "Troiken; (background)",
+  "wookieepedia_title": "Troiken/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Troiken/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Troiken was a planet located in the Troiken system of the Outer Rim Territories, and the homeworld of the Xexto.",
+  "lead_paragraphs": [
+    "Troiken was a planet located in the Troiken system of the Outer Rim Territories, and the homeworld of the Xexto."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Troiken; (background)",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Colundra sector",
+    "system": "Troiken system",
+    "coordinates": "S-5",
+    "moons": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Desert",
+      "Forests",
+      "Mountains",
+      "Plains",
+      "Rainforests",
+      "Tundra"
+    ],
+    "interest": [
+      "Hormick Range",
+      "Lycinder Plain",
+      "Mount Avos"
+    ],
+    "fauna": [
+      "Bantha offshoot",
+      "Challat eater",
+      "Grazer",
+      "Leaptig",
+      "Surtop",
+      "Troiken indictidile"
+    ],
+    "species": "Xexto",
+    "language": "Xextese",
+    "cities": "Veterned (capital)",
+    "exports": "Spice",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Xexto",
+      "directory": "Xexto",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Xexto",
+      "directory": "Xexto (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Troiken",
+    "x": 11423.9,
+    "y": 7473.6,
+    "z": 336.7,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

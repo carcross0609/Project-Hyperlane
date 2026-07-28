@@ -1,0 +1,70 @@
+{
+  "name": "Adner",
+  "wookieepedia_title": "Adner",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Adner",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Adner was a planet located in the Expansion Region's Yataga sector. It had two suns and was a hot world with cold, arid nights. Adner was the homeworld of the sentient Adnerem species. The base unit of the Adnerem society was the steris, a relatively small group of genetically-unbounded individuals.",
+  "lead_paragraphs": [
+    "Adner was a planet located in the Expansion Region's Yataga sector. It had two suns and was a hot world with cold, arid nights. Adner was the homeworld of the sentient Adnerem species. The base unit of the Adnerem society was the steris, a relatively small group of genetically-unbounded individuals.",
+    "Two millennia before the Galactic Civil War, the Adnerem transformed their homeworld into a famous pleasure planet, featuring popular casinos, pleasure houses, and theme parks. In the entertainment venues on Adner, the natives chiefly employed members of other species.",
+    "The Adnerem Etsero ran the largest casino on Adner. By 7 ABY, Etsero was in debt to an unnamed party, and as a result, his casino was used to launder credits for Imperial interests in the sector. The New Republic dispatched an agent to put an end to the fraud and suspected murders taking place in Etsero's casino."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Adner",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Yataga sector",
+    "system": "Adner system",
+    "coordinates": "N-16",
+    "suns": "2",
+    "class": "Terrestrial",
+    "climate": [
+      "Hot",
+      "Cold and arid (at night)"
+    ],
+    "interest": [
+      "Casinos",
+      "  The Red Lisken",
+      "Pleasure houses",
+      "Theme parks",
+      "Steris-houses"
+    ],
+    "fauna": "Adnerem precursor species (historic)",
+    "species": "Adnerem",
+    "otherspecies": "Various, including Twi'leks",
+    "imports": [
+      "Specialty items",
+      "Information products"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Adnerem",
+      "directory": "Adnerem",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Adnerem precursor species",
+      "directory": "Adnerem precursor species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Adner",
+    "x": 3098.7,
+    "y": -9182.6,
+    "z": -265.2,
+    "region": "Expansion Region",
+    "grid": "N-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Avandor-class fighter/transport",
+  "wookieepedia_title": "Avandor-class fighter/transport",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Avandor-class_fighter/transport",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Avandor-class fighter/transport, also known as the Guavian Ship, was a model of starship that was used by the Guavian Death Gang during the war between the First Order and the Resistance.",
+  "data": {
+    "name": "Avandor-class fighter/transport",
+    "manufacturer": "Incom-FreiTek",
+    "model": "Avandor-class",
+    "type": "Fighter/transport",
+    "engine": "Sublight engines (4)",
+    "armament": "At least 3 laser cannons",
+    "crew": "Pilot (1)",
+    "passengers": [
+      "Several Guavian security soldiers",
+      "Several Kanjiklub members"
+    ],
+    "role": [
+      "Scout ship",
+      "Starfighter",
+      "Transport"
+    ],
+    "affiliation": [
+      "Guavian Death Gang",
+      "First Order",
+      "Citizens' Fleet"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

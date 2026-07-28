@@ -1,0 +1,46 @@
+{
+  "name": "Dathomirian",
+  "wookieepedia_title": "Dathomirian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dathomirian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Dathomirians, also known as Dathomirian Zabraks and culturally as Dathomiri or Dathmiri, were a subspecies of Zabrak native to the planet Peridea in a distant galaxy. On Peridea, the Dathomiri established a society known as the Witch Kingdom of the Dathmiri and learned to ride the purrgil, creatures able to survive in the vacuum of space and travel through hyperspace. Although their kingdom collapsed in the end, the Dathomiri who traveled into the known galaxy across the intergalactic void were able to reestablish themselves on a new planet, Dathomir. Tales of Peridea and its galaxy would go on to become nothing more than fairytales spoken among Jedi, and the map containing the Pathway to Peridea was long hidden in a stronghold on the planet Arcana.",
+  "data": {
+    "name": "Dathomirian",
+    "designation": "Sentient",
+    "class": "Zabrak",
+    "skincolor": [
+      "Blue (females only)",
+      "Gray (females only)",
+      "Orange (males only)",
+      "Red (males only)",
+      "Tan (females only)",
+      "White (females only)",
+      "Yellow (males only)"
+    ],
+    "haircolor": [
+      "Various (females only)"
+    ],
+    "eyecolor": [
+      "Teal",
+      "Silver",
+      "Green",
+      "Brown",
+      "Yellow",
+      "Red",
+      "Violet",
+      "Gold",
+      "Black"
+    ],
+    "distinctions": [
+      "Cranial horns (males only)",
+      "Facial tattoos"
+    ],
+    "origin": [
+      "Peridea (originally)",
+      "Dathomir (later)"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Peridea"
+}

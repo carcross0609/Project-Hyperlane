@@ -1,0 +1,41 @@
+{
+  "name": "Roona",
+  "wookieepedia_title": "Roona/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Roona/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Roona was a planet located in the Roona system, a part of the Bes Ber Bikade sector in the Western Reaches portion of the Expansion Region. It was situated on the Corellian Trade Spine super-hyperroute, which linked it to the Arquata Station, Borkyne, and Epica systems. Roona shared its name with the Roonan lemon fruit.",
+  "lead_paragraphs": [
+    "Roona was a planet located in the Roona system, a part of the Bes Ber Bikade sector in the Western Reaches portion of the Expansion Region. It was situated on the Corellian Trade Spine super-hyperroute, which linked it to the Arquata Station, Borkyne, and Epica systems. Roona shared its name with the Roonan lemon fruit.",
+    "Roona was represented in the Senate of the Galactic Republic by the Roonan Senator Edcel Bar Gane, who held the position from as early as 34 BBY to as late as 22 BBY. In 32 BBY, Bar Gane was the first to formally second the motion for a Vote of No Confidence in the Republic's Supreme Chancellor Finis Valorum proposed by Queen Amidala of the planet Naboo."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Roona",
+    "region": [
+      "Expansion Region",
+      "Western Reaches"
+    ],
+    "sector": "Bes Ber Bikade sector",
+    "system": "Roona system",
+    "coordinates": "L-15",
+    "routes": "Corellian Trade Spine",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Roonan",
+      "directory": "Roonan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Roona",
+    "x": 811.7,
+    "y": -8218.6,
+    "z": 205.8,
+    "region": "Expansion Region",
+    "grid": "L-15"
+  },
+  "scraped": "2026-07-03"
+}

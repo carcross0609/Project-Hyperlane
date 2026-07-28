@@ -1,0 +1,27 @@
+{
+  "name": "Bacta bomb",
+  "wookieepedia_title": "Bacta bomb",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bacta_bomb",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A bacta bomb was a hand-thrown device consisting of a canister that contained a synthetic healing fluid called bacta. Upon impact, the bomb vaporized into a mist that healed those within range. Both the Galactic Empire and the Alliance to Restore the Republic used such devices during the Galactic Civil War.",
+  "data": {
+    "name": "Bacta bomb",
+    "type": "Grenade",
+    "size": "Hand-held",
+    "capacity": "Single use",
+    "range": "Thrown weapon",
+    "purpose": "Releasing bacta",
+    "affiliation": [
+      "Galactic Empire",
+      "  Stormtrooper Corps",
+      "Alliance to Restore the Republic",
+      "  Alliance Army",
+      "New Republic",
+      "  New Republic army",
+      "Hunters of the Outer Rim"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

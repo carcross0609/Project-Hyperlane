@@ -1,0 +1,24 @@
+{
+  "name": "Outland rifle",
+  "wookieepedia_title": "Outland rifle/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Outland_rifle/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Outland rifle was a bolt-action slugthrower produced by Czerka Arms.",
+  "data": {
+    "name": "Outland rifle",
+    "manufacturer": "Czerka Arms",
+    "model": "Outland",
+    "type": "Bolt-action slugthrower rifle",
+    "cost": "200 credits",
+    "size": "Medium",
+    "weight": "5 kilograms",
+    "capacity": "8 heavy slugs",
+    "range": [
+      "700 meters (optimal)",
+      "1,500 meters (max)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

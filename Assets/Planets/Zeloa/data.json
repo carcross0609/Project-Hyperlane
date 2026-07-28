@@ -1,0 +1,37 @@
+{
+  "name": "Zeloa",
+  "wookieepedia_title": "Zeloa",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zeloa",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zeloa was a planet located in the Zel system, in the Inner Rim.",
+  "lead_paragraphs": [
+    "Zeloa was a planet located in the Zel system, in the Inner Rim."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Zeloa",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Zel system",
+    "coordinates": "O-10",
+    "suns": "1: Zel",
+    "position": "1",
+    "moons": "14",
+    "class": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Zeloa",
+    "x": 5329.5,
+    "y": -6919.6,
+    "z": -314.8,
+    "region": "Inner Rim",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

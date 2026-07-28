@@ -1,0 +1,47 @@
+{
+  "name": "Ifmix VI",
+  "wookieepedia_title": "Ifmix VI",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ifmix_VI",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ifmix VI was a planet in the Colonies. It was known for its terrible windstorms, tornadoes, and Squalris merchants. It was located near the Perlemian Trade Route.",
+  "lead_paragraphs": [
+    "Ifmix VI was a planet in the Colonies. It was known for its terrible windstorms, tornadoes, and Squalris merchants. It was located near the Perlemian Trade Route."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ifmix VI",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "system": "Ifmix system",
+    "coordinates": "M-9",
+    "routes": "Perlemian Trade Route",
+    "terrain": [
+      "Swamps",
+      "Marshlands",
+      "Plains"
+    ],
+    "water": "80%",
+    "species": "Squalris",
+    "language": "Squalris language",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Squalris",
+      "directory": "Squalris",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ifmix VI",
+    "x": 1814.4,
+    "y": 1079.0,
+    "z": 6.7,
+    "region": "Colonies",
+    "grid": "M-9"
+  },
+  "scraped": "2026-07-03"
+}

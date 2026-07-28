@@ -1,0 +1,48 @@
+{
+  "name": "Kelrodo-Ai",
+  "wookieepedia_title": "Kelrodo-Ai/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kelrodo-Ai/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kelrodo-Ai was a planet with famous gelatin mines and known for its water-sculptures. In 12 ABY, its Baron Administrator was Drom Guldi.",
+  "lead_paragraphs": [
+    "Kelrodo-Ai was a planet with famous gelatin mines and known for its water-sculptures. In 12 ABY, its Baron Administrator was Drom Guldi."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kelrodo-Ai",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Steniplis sector",
+    "system": "Kelrodo-Ai system",
+    "coordinates": "L-18",
+    "routes": "Lipsec Run",
+    "class": "Terrestrial",
+    "terrain": "Volcanoes",
+    "interest": [
+      "Citadel of Axes",
+      "Gelatin mines"
+    ],
+    "species": "Kelrodoan",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kelrodoan",
+      "directory": "Kelrodoan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kelrodo-Ai",
+    "x": 935.2,
+    "y": -13412.5,
+    "z": -380.7,
+    "region": "Outer Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

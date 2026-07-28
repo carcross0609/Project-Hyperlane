@@ -1,0 +1,43 @@
+{
+  "name": "Acorvus",
+  "wookieepedia_title": "Acorvus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Acorvus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Acorvus, also known as Lazerian III, was the third planet in the Lazerian system, orbiting the yellow star Lazerian. It was located within the Kira sector, in the Trailing Sectors portion of the Expansion Region. Along with the rest of the Lazerian system, Acorvus lay on the Harrin Trade Corridor and Kira Run hyperlanes.",
+  "lead_paragraphs": [
+    "Acorvus, also known as Lazerian III, was the third planet in the Lazerian system, orbiting the yellow star Lazerian. It was located within the Kira sector, in the Trailing Sectors portion of the Expansion Region. Along with the rest of the Lazerian system, Acorvus lay on the Harrin Trade Corridor and Kira Run hyperlanes.",
+    "The planet's surface featured a barren desert, and the world had no moons. It had a Type II atmosphere, in which the use of breath masks was suggested. Acorvus was the closest neighbor to the planet Lazerian IV, and at one point it was surveyed by the inhabitants of that world. Eventually Acorvus came to serve as a penal colony and exile planet for political dissenters and criminals. The planet was off-limits to all non-authorized personnel."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Acorvus",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Kira sector",
+    "system": "Lazerian system",
+    "coordinates": "N-15",
+    "suns": "Lazerian",
+    "position": "3",
+    "moons": "0",
+    "routes": [
+      "Harrin Trade Corridor",
+      "Kira Run"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type II (breath mask suggested)",
+    "terrain": "Barren desert"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Acorvus",
+    "x": 4198.8,
+    "y": -8089.9,
+    "z": 419.8,
+    "region": "Expansion Region",
+    "grid": "N-15"
+  },
+  "scraped": "2026-07-03"
+}

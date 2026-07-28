@@ -1,0 +1,66 @@
+{
+  "name": "Tangrene",
+  "wookieepedia_title": "Tangrene",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tangrene",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tangrene was a planet in the Morshdine sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Tangrene was a planet in the Morshdine sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Tangrene",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Morshdine sector",
+    "system": "Tangrene system",
+    "coordinates": "O-4",
+    "routes": "Axxila–Tangrene hyperlane",
+    "lengthday": "29 standard hours",
+    "lengthyear": "356 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Canyons"
+    ],
+    "interest": "Ubiqtorate base",
+    "species": "None; formerly: Tangrene",
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "government": "Imperial sector Moff",
+    "population": "290,000 (Imperial troops)",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Zsinj's Empire",
+      "Thrawn's Confederation",
+      "Imperial Remnant",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tangrene",
+      "directory": "Tangrene (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tangrene",
+    "x": 5264.6,
+    "y": 7602.3,
+    "z": -328.9,
+    "region": "Outer Rim",
+    "grid": "O-4"
+  },
+  "scraped": "2026-07-03"
+}

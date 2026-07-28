@@ -1,0 +1,48 @@
+{
+  "name": "Argul",
+  "wookieepedia_title": "Argul",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Argul",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Argul was a planet located in the Mid Rim along the Corellian Trade Spine, near to Cerea and Belsavis.",
+  "lead_paragraphs": [
+    "Argul was a planet located in the Mid Rim along the Corellian Trade Spine, near to Cerea and Belsavis."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Argul",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": "D'Aelgoth sector",
+    "system": "Argul system",
+    "coordinates": "L-17",
+    "interest": "Republic military outpost",
+    "species": "Argullians",
+    "otherspecies": "Amarans",
+    "cities": "Lumica",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Argullian",
+      "directory": "Argullian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Argul",
+    "x": 252.8,
+    "y": -11630.0,
+    "z": 179.9,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

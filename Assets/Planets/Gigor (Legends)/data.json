@@ -1,0 +1,54 @@
+{
+  "name": "Gigor",
+  "wookieepedia_title": "Gigor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gigor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "species.]] Gigor was a cold, mountainous planet and the homeworld of the Gigoran species. The Gigorans evolved from group-oriented primates who lived in caves. As they developed intelligence, they took to living as hunter-gatherers while keeping their cavern homes. The species divided itself into home-clans made up of around 50 members who divided themselves into three to five family groups. There was no higher government than the home-clan on Gigor, each under the leadership of the most skillful hunter. The world was largely unsettled, and it had very little in the way of high-technology. The Gigorans themselves had access to few items higher than stone-age technology.",
+  "lead_paragraphs": [
+    "species.]] Gigor was a cold, mountainous planet and the homeworld of the Gigoran species. The Gigorans evolved from group-oriented primates who lived in caves. As they developed intelligence, they took to living as hunter-gatherers while keeping their cavern homes. The species divided itself into home-clans made up of around 50 members who divided themselves into three to five family groups. There was no higher government than the home-clan on Gigor, each under the leadership of the most skillful hunter. The world was largely unsettled, and it had very little in the way of high-technology. The Gigorans themselves had access to few items higher than stone-age technology.",
+    "Galactic scouts first came to Gigor long before the height of the New Order, but scouts deemed it of little value and left it alone. These explorers never even noticed the shy Gigorans. After the rise of the Galactic Empire, a group of smugglers chose Gigor as the site for a secret base. They made contact with the Gigorans and realized that they had found a strong, docile species that would make ideal slaves. The outlaws soon earned a tidy income by selling Gigoran laborers to groups such as the Empire. The smugglers' operation failed to turn a profit due to mismanagement, but the damage had been done: Gigor was now on the galactic map as a source for slave labor. In fact, the Mytaranor Slaving Council paid a hefty sum to bounty hunters who managed to capture Gigorans despite the fact that Gigor was not within the Mytaranor sector."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gigor",
+    "region": "Outer Rim Territories",
+    "sector": "Tynquay sector",
+    "system": "Gigor system",
+    "coordinates": "R-4",
+    "routes": "Listehol Run",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen mix",
+    "climate": "Cold",
+    "terrain": [
+      "Mountains",
+      "Caves"
+    ],
+    "species": "Gigorans",
+    "language": "Gigoran",
+    "government": "Home-clans",
+    "population": "10 million to 100 million (c. 25 ABY)",
+    "exports": "Gigorans (as slaves)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gigoran",
+      "directory": "Gigoran",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gigoran",
+      "directory": "Gigoran (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gigor",
+    "x": 9436.5,
+    "y": 8370.7,
+    "z": -196.3,
+    "region": "Outer Rim",
+    "grid": "R-4"
+  },
+  "scraped": "2026-07-03"
+}

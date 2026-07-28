@@ -1,0 +1,54 @@
+{
+  "name": "Coachelle Prime",
+  "wookieepedia_title": "Coachelle Prime/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Coachelle_Prime/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Coachelle Prime was a Mid Rim planet situated in the Terr'skiar sector. It was situated on the Ootmian Pabol hyperlane between the Terr'skiar and Ota systems before that route's Coachelle-Ota segment was severed by a supernova. A minor trade world, Coachelle Prime was the homeworld of the sentient, lagomorphic Lepi species, members of which lived in vast underground warrens. The Lepi smuggler Jaxxon was born on Coachelle Prime and eventually stole away from his homeworld aboard a freighter.",
+  "lead_paragraphs": [
+    "Coachelle Prime was a Mid Rim planet situated in the Terr'skiar sector. It was situated on the Ootmian Pabol hyperlane between the Terr'skiar and Ota systems before that route's Coachelle-Ota segment was severed by a supernova. A minor trade world, Coachelle Prime was the homeworld of the sentient, lagomorphic Lepi species, members of which lived in vast underground warrens. The Lepi smuggler Jaxxon was born on Coachelle Prime and eventually stole away from his homeworld aboard a freighter."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Coachelle Prime",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": [
+      "Kashyyyk Region",
+      "  Terr'skiar sector"
+    ],
+    "system": "Coachelle system",
+    "coordinates": "P-10",
+    "routes": "Ootmian Pabol",
+    "class": "Terrestrial",
+    "interest": [
+      "Juvenile remand centers",
+      "Lepi warrens"
+    ],
+    "species": "Lepi",
+    "language": "Lepese"
+  },
+  "homeworld_of": [
+    {
+      "name": "Lepi",
+      "directory": "Lepi (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Coachelle Prime",
+    "x": 7451.7,
+    "y": -518.7,
+    "z": -420.4,
+    "region": "Mid Rim",
+    "grid": "P-10"
+  },
+  "scraped": "2026-07-03"
+}

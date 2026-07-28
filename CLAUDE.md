@@ -32,6 +32,7 @@ them:
 | `Docs/Roadmap.md` | Phase goals, deliverables, exit criteria |
 | `Docs/Vision.md` | What the game is and (importantly) is not |
 | `Docs/Design/SimulationFramework.md` | The simulation GDD — factions, economy, fleets, NPCs; how the galaxy runs itself |
+| `Docs/Design/HyperspaceNavigation.md` | Hyperspace travel data model & architecture — the deep spec for SimulationFramework §2.1 (nodes, lanes, courses, router, hazards, dynamic roads) |
 | `Docs/Design/DecisionRegister.md` | Every design decision (DR-IDs) + open questions (OQ-IDs) — check before re-litigating anything |
 
 When a design or technical decision is contested, resolve it by asking "which

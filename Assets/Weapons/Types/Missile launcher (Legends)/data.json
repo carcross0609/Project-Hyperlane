@@ -1,0 +1,26 @@
+{
+  "name": "Missile launcher",
+  "wookieepedia_title": "Missile launcher/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Missile_launcher/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A missile launcher or rocket launcher was a weapon that fired an explosive projectile.",
+  "data": {
+    "name": "Missile launcher",
+    "type": "Heavy weapon",
+    "cost": "1,500 credits (Available for military use only)",
+    "size": "Large",
+    "weight": "10 kg",
+    "capacity": [
+      "4 missiles",
+      "3-meter blast radius"
+    ],
+    "range": [
+      "Optimum: up to 75 meters",
+      "Maximum: up to 750 meters"
+    ],
+    "purpose": "Artillery bombardment"
+  },
+  "scraped": "2026-07-03"
+}

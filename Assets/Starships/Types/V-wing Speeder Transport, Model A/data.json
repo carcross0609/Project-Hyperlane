@@ -1,0 +1,27 @@
+{
+  "name": "V-wing Speeder Transport, Model A",
+  "wookieepedia_title": "V-wing Speeder Transport, Model A",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/V-wing_Speeder_Transport%2C_Model_A",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The V-wing Speeder Transport, Model A was a transport used by the New Republic to deploy V-wing airspeeders from capital starships. Like the V-wing itself, the transport was manufactured by Slayn & Korpil.",
+  "data": {
+    "name": "V-wing Speeder Transport, Model A",
+    "manufacturer": "Slayn & Korpil",
+    "type": "Orbital interface transport",
+    "cost": "175,000 credits",
+    "length": "20 meters",
+    "max_speed": "1,000 kmh",
+    "shield_gen": "Equipped",
+    "crew": "2",
+    "skeleton": "1",
+    "passengers": "4 (pilots)",
+    "capacity": [
+      "2 metric tons",
+      "Docking sleeves for 4 V-wing airspeeders"
+    ],
+    "consumables": "3 days",
+    "role": "Airspeeder transport and deployment"
+  },
+  "scraped": "2026-07-03"
+}

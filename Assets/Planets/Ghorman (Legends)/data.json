@@ -1,0 +1,60 @@
+{
+  "name": "Ghorman",
+  "wookieepedia_title": "Ghorman/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ghorman/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ghorman was a planet in the Sern sector of the Colonies region. It was the site of the infamous Ghorman Massacre. Fang Zar had a residence on the planet.",
+  "lead_paragraphs": [
+    "Ghorman was a planet in the Sern sector of the Colonies region. It was the site of the infamous Ghorman Massacre. Fang Zar had a residence on the planet.",
+    "It lay on the Rimma Trade Route."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Ghorman",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "sector": "Sern sector",
+    "system": "Ghorman system",
+    "coordinates": "L-13",
+    "suns": "1",
+    "moons": "1",
+    "routes": "Rimma Trade Route",
+    "interest": [
+      "Ghorman capital square",
+      "Fang Zar's Ghorman Residence",
+      "Ghorman's primary spaceport"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "demonym": [
+      "Ghormanese",
+      "Ghormanian"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ghorman",
+      "directory": "Ghorman (people)",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Ghorman",
+    "x": 420.8,
+    "y": -5965.9,
+    "z": -285.6,
+    "region": "Colonies",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

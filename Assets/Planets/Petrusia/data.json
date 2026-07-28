@@ -1,0 +1,41 @@
+{
+  "name": "Petrusia",
+  "wookieepedia_title": "Petrusia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Petrusia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Petrusia was a planet located in the Petrusia system in the Nuon e Safyd sector of the Expansion Region and The Slice. It was situated in grid square P-12 of the Standard Galactic Grid, and was the homeworld of the Petrusian species.",
+  "lead_paragraphs": [
+    "Petrusia was a planet located in the Petrusia system in the Nuon e Safyd sector of the Expansion Region and The Slice. It was situated in grid square P-12 of the Standard Galactic Grid, and was the homeworld of the Petrusian species.",
+    "Sometime between 19 BBY and 10 BBY, during their reign of the galaxy, the Galactic Empire seized control of Petrusia and enslaved the Petrusians at the Imperial outpost on the planet Kullgroon. Shortly after the planet was seized, the smuggler Lando Calrissian traded arms with the Petrusian resistance fighter Kristiss and bypassed the Empire's defenses with ease. In 10 BBY, after being hired by Kristiss, Calrissian and his droid companion L3-37 helped free the Petrusian slaves from the Kullgroon outpost. Kristiss and her father Rythus led the liberated Petrusians back to their homeworld in order to rebuild it."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Petrusia",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Nuon e Safyd sector",
+    "system": "Petrusia system",
+    "coordinates": "P-12",
+    "species": "Petrusian",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Petrusian",
+      "directory": "Petrusian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Petrusia",
+    "x": 4794.5,
+    "y": -2632.5,
+    "z": -130.2,
+    "region": "Other",
+    "grid": "O-11"
+  },
+  "scraped": "2026-07-03"
+}

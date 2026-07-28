@@ -1,0 +1,22 @@
+{
+  "name": "Sharpshooter V",
+  "wookieepedia_title": "Sharpshooter V",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sharpshooter_V",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Sharpshooter V was a blaster carbine manufactured by BlasTech Industries.",
+  "data": {
+    "name": "Sharpshooter V",
+    "manufacturer": "BlasTech Industries",
+    "type": "Blaster carbine",
+    "cost": "1,200 credits",
+    "capacity": "100",
+    "range": [
+      "3–30 meters (short range)",
+      "31–80 meters (medium range)",
+      "81–350 meters (long range)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

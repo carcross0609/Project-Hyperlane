@@ -1,0 +1,41 @@
+{
+  "name": "Arbooine",
+  "wookieepedia_title": "Arbooine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arbooine",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Arbooine was an Outer Rim Territories celestial body located in the Arboo sector. It was home to the venomous arboreal forest predator known as the bearsloth, which posed a danger to any visitors to Arbooine. Nevertheless, the creatures and their venom led to several individuals traveling to the celestial body.",
+  "lead_paragraphs": [
+    "Arbooine was an Outer Rim Territories celestial body located in the Arboo sector. It was home to the venomous arboreal forest predator known as the bearsloth, which posed a danger to any visitors to Arbooine. Nevertheless, the creatures and their venom led to several individuals traveling to the celestial body."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Arbooine",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Freestanding subsectors",
+      "  Arboo sector"
+    ],
+    "system": "Arbooine system",
+    "coordinates": "T-17",
+    "class": "Terrestrial",
+    "terrain": "Forest",
+    "flora": "Trees",
+    "fauna": "Bearsloth"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sathari",
+      "directory": "Sathari (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

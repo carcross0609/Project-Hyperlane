@@ -1,0 +1,40 @@
+{
+  "name": "Nyny",
+  "wookieepedia_title": "Nyny",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nyny",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nyny was a homeworld of a three-headed sentient species located in the Ash Worlds. Thirteen years after the Battle of Endor, Nyny was represented in the New Republic Senate.",
+  "lead_paragraphs": [
+    "Nyny was a homeworld of a three-headed sentient species located in the Ash Worlds. Thirteen years after the Battle of Endor, Nyny was represented in the New Republic Senate."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nyny",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Ash Worlds",
+    "system": "Nyny system",
+    "coordinates": "T-7",
+    "species": "Nyny species",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Unidentified Nyny species",
+      "directory": "Unidentified Nyny species",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nyny",
+    "x": 12573.6,
+    "y": 4146.3,
+    "z": -203.4,
+    "region": "Outer Rim",
+    "grid": "T-7"
+  },
+  "scraped": "2026-07-03"
+}

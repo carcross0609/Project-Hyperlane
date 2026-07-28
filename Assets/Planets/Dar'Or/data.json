@@ -1,0 +1,68 @@
+{
+  "name": "Dar'Or",
+  "wookieepedia_title": "Dar'Or",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dar%27Or",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dar'Or, also known as OM973, was an Outer Rim Territories planet located in the Jospro sector. Its land surface was primarily covered in forests of two-hundred-meter-tall waza trees. The forests, which had multiple floor-like levels, were home to the predatory indola tree-sloths as well as the sentient flying primates Ri'Dar.",
+  "lead_paragraphs": [
+    "Dar'Or, also known as OM973, was an Outer Rim Territories planet located in the Jospro sector. Its land surface was primarily covered in forests of two-hundred-meter-tall waza trees. The forests, which had multiple floor-like levels, were home to the predatory indola tree-sloths as well as the sentient flying primates Ri'Dar.",
+    "At one point, a group of planetary ecologists transplanted the elix birds of prey from the species' doomed homeworld to Dar'Or. Due to the former world having had higher gravity, however, the powerful elix became a dangerous threat to the Ri'Dar. The Galactic Empire declared Dar'Or an Imperial Species Preservation Zone, restricting travel to and from the planet. Nevertheless, smugglers violated the restriction in order to smuggle elix meat and live indola off-world, in the process also providing an avenue for individual Ri'Dar to leave their homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Dar'Or",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Jospro sector",
+    "system": "Dar'Or system",
+    "coordinates": "R-7",
+    "suns": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen, nitrogen, and carbon dioxide",
+    "climate": [
+      "Humid",
+      "Subtropical"
+    ],
+    "gravity": "Low",
+    "terrain": "Forests",
+    "water": "60% of the surface",
+    "flora": [
+      "Baloo vine",
+      "Waza"
+    ],
+    "fauna": [
+      "Elix",
+      "Indola",
+      "Insects",
+      "Lizards",
+      "Rodents"
+    ],
+    "otherlife": "Fungi",
+    "species": "Ri'Dar"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ri'Dar",
+      "directory": "Ri'Dar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dar'Or",
+    "x": 10232.5,
+    "y": 3831.0,
+    "z": -4.7,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Pill droid",
+  "wookieepedia_title": "Pill droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pill_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "Pill droids were a model of rescue droid employed by the Galactic Republic during the High Republic Era. Small, cylindrical machines, the droids were simple yet effective operatives who used their multifaceted tools to assist in dangerous medical emergencies. In the year 232 BBY, the Hetzal system fell victim to a Great Hyperspace Disaster, in which debris from the freighter Legacy Run exited hyperspace on collision courses for the various inhabited parts of the system. During a rescue operation on Solar Array 22-X, the Republic Defense Coalition Captain Finial Bright utilized one pill droid in gathering survivors from the wrecked space station.",
+  "data": {
+    "name": "Pill droid",
+    "class": [
+      "Rescue droid",
+      "Medical droid"
+    ],
+    "sensor": "Crystal",
+    "plating": "Silver",
+    "equipment": [
+      "Stretcher attachment",
+      "Suppressor foam",
+      "Repulsorlift"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Republic Defense Coalition"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Devaron",
+  "wookieepedia_title": "Devaron/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Devaron/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Devaron was the home world of the Devaronians. It was located in the Colonies, near the Corellian Trade Spine. It was a planet of low mountains and deep valleys linked by thousands of rivers. The planet had strict capital punishment and a matriarchal government.",
+  "lead_paragraphs": [
+    "Devaron was the home world of the Devaronians. It was located in the Colonies, near the Corellian Trade Spine. It was a planet of low mountains and deep valleys linked by thousands of rivers. The planet had strict capital punishment and a matriarchal government."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Devaron",
+    "region": [
+      "Colonies",
+      "Southern Core"
+    ],
+    "sector": "Duluur sector",
+    "system": "Devaron system",
+    "coordinates": "M-13",
+    "suns": "At least 2",
+    "moons": "2",
+    "routes": "Corellian Trade Spine",
+    "lengthday": "19 hours",
+    "lengthyear": "298 day",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Low mountains",
+      "Deep valleys",
+      "Jungles"
+    ],
+    "water": [
+      "Shallow lakes",
+      "Thousands of rivers"
+    ],
+    "interest": [
+      "Blue Mountains",
+      "Wanderer's Path",
+      "Point of Parting",
+      "Temple of Eedit"
+    ],
+    "fauna": [
+      "Bandara",
+      "Devaronian fur-spider",
+      "Devaronian precursor species (historic)",
+      "Gackle bat",
+      "Pikhron",
+      "Quarra",
+      "Watchbeast"
+    ],
+    "species": "Devaronians",
+    "language": "Devaronese",
+    "government": "Participatory democracy",
+    "population": [
+      "98,800,000:",
+      "  95% Devaronians",
+      "  5% other"
+    ],
+    "demonym": "Devaronian",
+    "cities": [
+      "Montellian Serat (capital)",
+      "Plaeree",
+      "Tikaroo"
+    ],
+    "imports": [
+      "Technology",
+      "Consumer goods",
+      "Entertainment"
+    ],
+    "exports": "Wanderers",
+    "affiliation": [
+      "Galactic Republic",
+      "  Corellian Hegemony",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Devaronian",
+      "directory": "Devaronian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Devaronian",
+      "directory": "Devaronian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Devaron",
+    "x": 1805.7,
+    "y": -5596.8,
+    "z": 195.9,
+    "region": "Colonies",
+    "grid": "M-13"
+  },
+  "scraped": "2026-07-03"
+}

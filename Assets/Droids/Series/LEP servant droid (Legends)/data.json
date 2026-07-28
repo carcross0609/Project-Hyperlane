@@ -1,0 +1,28 @@
+{
+  "name": "LEP servant droid",
+  "wookieepedia_title": "LEP servant droid/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/LEP_servant_droid/Legends",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "LEP servant droids, nicknamed assistant droids and rabbit droids, were used by Confederate officials and the Galactic Republic during the Clone Wars. General Whorm Loathsom and Nuvo Vindi were each known to possess one of these droids.",
+  "data": {
+    "name": "LEP servant droid",
+    "manufacturer": "Coachelle Automata",
+    "class": "Service droid",
+    "degree": "Class three droid",
+    "cost": "6,260 credits",
+    "height": "1.26 meters",
+    "sensor": "White",
+    "armament": "None",
+    "equipment": [
+      "30 kilograms of internal storage",
+      "Vocabulator"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Bakura",
+  "wookieepedia_title": "Bakura",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bakura",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Bakura was a planet in Wild Space considered an attractive destination for a day trip from the planet Batuu by the author Eloc Throno. Its capital city, Salis D'aar, was built in a circular pattern.",
+  "lead_paragraphs": [
+    "Bakura was a planet in Wild Space considered an attractive destination for a day trip from the planet Batuu by the author Eloc Throno. Its capital city, Salis D'aar, was built in a circular pattern."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Bakura",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Bakura system",
+    "coordinates": "G-16",
+    "routes": "Bakura Trace",
+    "flora": "Bakuran fire philodendron",
+    "cities": "Salis D'aar (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kurtzen",
+      "directory": "Kurtzen",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bakura",
+    "x": -6572.4,
+    "y": -10063.6,
+    "z": 50.3,
+    "region": "Outer Rim",
+    "grid": "G-16"
+  },
+  "scraped": "2026-07-03"
+}

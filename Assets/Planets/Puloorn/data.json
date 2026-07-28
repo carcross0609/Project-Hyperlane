@@ -1,0 +1,40 @@
+{
+  "name": "Puloorn",
+  "wookieepedia_title": "Puloorn",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Puloorn",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Puloorn was a snow-covered planet located in the Outer Rim Territories's Spinward sector. It was the site of an ancient, ruined Sith temple that was inhabited both by creatures twisted by the dark side of the Force and by a group of cultists. At some point, the Galactic Republic's Supreme Chancellor Palpatine dispatched a team of agents on a mission to investigate the rumored existence of Puloorn's temple.",
+  "lead_paragraphs": [
+    "Puloorn was a snow-covered planet located in the Outer Rim Territories's Spinward sector. It was the site of an ancient, ruined Sith temple that was inhabited both by creatures twisted by the dark side of the Force and by a group of cultists. At some point, the Galactic Republic's Supreme Chancellor Palpatine dispatched a team of agents on a mission to investigate the rumored existence of Puloorn's temple.",
+    "Arriving on the planet in their starship, the agents faced the hostile conditions of Puloorn before finally locating the temple. Inside the structure, the team faced the inhabitants of the ruins as well as its system of defenses, and the group eventually returned to the Republic capital world Coruscant."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Puloorn",
+    "region": "Outer Rim Territories",
+    "sector": "Spinward sector",
+    "system": "Puloorn system",
+    "coordinates": "M-3",
+    "class": "Terrestrial",
+    "climate": "Cold",
+    "terrain": "Snow-covered",
+    "interest": "Sith temple",
+    "affiliation": "Sith"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Puloorn",
+    "x": 1893.3,
+    "y": 9176.8,
+    "z": -292.2,
+    "region": "Outer Rim",
+    "grid": "M-3"
+  },
+  "scraped": "2026-07-03"
+}

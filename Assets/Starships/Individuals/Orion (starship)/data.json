@@ -1,0 +1,40 @@
+{
+  "name": "Orion",
+  "wookieepedia_title": "Orion (starship)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Orion_%28starship%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Orion was a Braha'tok-class gunship that was in service of the Massassi Group, a Rebel cell led by General Jan Dodonna. In 2 BBY, it traveled to Atollon with a portion of the cell to meet with Phoenix Cell, which had a base on the planet, to launch an attack on Lothals TIE Defender factories. But as they were preparing to launch the assault, Grand Admiral Thrawn ambushed the two cells and as they attempted to break the blockade, the Orion was destroyed.",
+  "data": {
+    "name": "Orion",
+    "manufacturer": "Dornean Braha'ket Fleetworks Conglomerate",
+    "model": "Braha'tok-class gunship",
+    "type": "Gunship",
+    "length": "90 meters",
+    "max_speed": "800 kilometers per hour",
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "hull": "Silver plating",
+    "sensor": "Long",
+    "navigation": "Equipped",
+    "armament": [
+      "Double turbolaser cannons (8)",
+      "Concussion missile launchers (8)"
+    ],
+    "crew": "75",
+    "passengers": "15",
+    "capacity": "300",
+    "consumables": "Eight standard months",
+    "role": [
+      "Bombardment",
+      "Fast attack",
+      "Anti-starfighter"
+    ],
+    "destroyed": "2 BBY, during the battle of Atollon",
+    "affiliation": "Alliance to Restore the Republic",
+    "navy": "Rebel Alliance Navy",
+    "fleet": "Massassi Group"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Kalaan",
+  "wookieepedia_title": "Kalaan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalaan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kalaan was a planet in the Kalaan system and home to a large Rebel base as of 0 BBY. Shortly before the Battle of Yavin, the Galactic Empire launched an invasion of the planet. The Battle of Kalaan reduced Kalaan City to rubble and routed the Rebels.",
+  "lead_paragraphs": [
+    "Kalaan was a planet in the Kalaan system and home to a large Rebel base as of 0 BBY. Shortly before the Battle of Yavin, the Galactic Empire launched an invasion of the planet. The Battle of Kalaan reduced Kalaan City to rubble and routed the Rebels.",
+    "The planet was occupied by the Empire and portions, if not all, of the planet were denuded of all flora. A resistance movement among the Kalaanite population continued fighting the Empire, but was unable to drive it off the planet.",
+    "An Imperial prison was also constructed. In 3 ABY, the prison housed Luke Skywalker and Brenn Tantor. Tantor, an Imperial general who was being court-martialed, escaped and defected to the Alliance with the help of his stormtrooper squad, taking Skywalker with him."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kalaan",
+    "region": "Mid Rim",
+    "sector": "Churnis sector",
+    "system": "Kalaan system",
+    "coordinates": "J-7",
+    "moons": "Multiple",
+    "routes": "Namadii Corridor",
+    "class": "Terrestrial",
+    "atmosphere": "Type I oxygen mix",
+    "gravity": "Standard",
+    "terrain": [
+      "Barren plains",
+      "Canyons",
+      "Hills",
+      "Formerly:",
+      "  Grassy hills",
+      "  Plains",
+      "  Valleys"
+    ],
+    "interest": "Kalaan prison",
+    "species": "Kalaanites",
+    "otherspecies": "Humans",
+    "language": [
+      "Kalaanite",
+      "Galactic Basic Standard"
+    ],
+    "population": "10 million to 100 million (c. 25 ABY)",
+    "cities": "Kalaan City",
+    "affiliation": [
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kalaanite",
+      "directory": "Kalaanite",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kalaan",
+    "x": -2963.9,
+    "y": 4088.5,
+    "z": -31.9,
+    "region": "Mid Rim",
+    "grid": "J-7"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Renas",
+  "wookieepedia_title": "Renas",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Renas",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Renas was the sixth planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim Territories, it was an ice ball.",
+  "lead_paragraphs": [
+    "Renas was the sixth planet orbiting the star Polith in the Polith system. Located in the Jaso sector of the Inner Rim Territories, it was an ice ball."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Renas",
+    "region": [
+      "Inner Rim",
+      "Trailing Sectors"
+    ],
+    "sector": "Jaso sector",
+    "system": "Polith system",
+    "coordinates": "L-14",
+    "suns": "1: Polith",
+    "position": "7",
+    "moons": "3",
+    "routes": [
+      "Rimma Trade Route",
+      "Shapani Bypass"
+    ],
+    "class": "Ice ball"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Renas",
+    "x": 833.7,
+    "y": -6338.3,
+    "z": -247.4,
+    "region": "Inner Rim",
+    "grid": "L-14"
+  },
+  "scraped": "2026-07-03"
+}

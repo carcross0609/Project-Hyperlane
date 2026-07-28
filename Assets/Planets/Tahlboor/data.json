@@ -1,0 +1,52 @@
+{
+  "name": "Tahlboor",
+  "wookieepedia_title": "Tahlboor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tahlboor",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tahlboor was a planet in the Thanium sector. It was home to the Tahlbooreans, who were divided into two castes: the Troobs and the Hobors, perpetually at war. In the past, an ancient Tahlboorean civilization had constructed the Sky cannon, an awesome weapon that had resulted in the destruction of both their civilization and one of the world's twin moons.",
+  "lead_paragraphs": [
+    "Tahlboor was a planet in the Thanium sector. It was home to the Tahlbooreans, who were divided into two castes: the Troobs and the Hobors, perpetually at war. In the past, an ancient Tahlboorean civilization had constructed the Sky cannon, an awesome weapon that had resulted in the destruction of both their civilization and one of the world's twin moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tahlboor",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Thanium sector",
+    "system": "Tahlboor system",
+    "coordinates": "R-5",
+    "moons": "1, formerly 2",
+    "climate": "Temperate",
+    "terrain": "Rocky",
+    "interest": [
+      "Mount Yeroc",
+      "Sky cannon",
+      "Tahlboor space station"
+    ],
+    "species": "Tahlboorean",
+    "language": "Tahlboorean language",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Tahlboorean",
+      "directory": "Tahlboorean",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tahlboor",
+    "x": 9638.4,
+    "y": 6152.0,
+    "z": -2.7,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

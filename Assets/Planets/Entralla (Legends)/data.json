@@ -1,0 +1,56 @@
+{
+  "name": "Entralla",
+  "wookieepedia_title": "Entralla/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Entralla/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Entralla was a planet in the Velcar Free Commerce Zone.",
+  "lead_paragraphs": [
+    "Entralla was a planet in the Velcar Free Commerce Zone.",
+    "It was a glittering spaceport world within the Outer Rim."
+  ],
+  "article_sections": [
+    "History",
+    "Fauna"
+  ],
+  "data": {
+    "name": "Entralla",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Velcar sector",
+    "system": "Entralla system",
+    "coordinates": "K-4",
+    "moons": "1",
+    "routes": "Entralla Route",
+    "atmosphere": "Type I (breathable)",
+    "interest": "Overhang",
+    "otherspecies": "Humans",
+    "language": [
+      "Imperial Basic",
+      "Galactic Basic Standard"
+    ],
+    "cities": "Nexus City (capital)",
+    "affiliation": [
+      "Velcar Free Commerce Zone",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Pentastar Alignment",
+      "Imperial Remnant",
+      "Fel Empire",
+      "Empire-in-exile"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Entralla",
+    "x": -1380.1,
+    "y": 7813.6,
+    "z": 26.7,
+    "region": "Outer Rim",
+    "grid": "K-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Kynachi",
+  "wookieepedia_title": "Kynachi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kynachi",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kynachi was a remote Wild Space planet and the base of KynachTech Industries. In 32 BBY, the world was seized by the Trade Federation, and the Skakoan Overseer Umbrag took over the KynachTech factory, also imposing a frequency jammer on the world. The planet's isolation led the rest of the galaxy to believe that it had simply become isolated out of choice. The planet's captive inhabitants were liberated in 21 BBY from the KynachTech factory prison by the Galactic Republic self-proclaimed Breakout Squad unit.",
+  "lead_paragraphs": [
+    "Kynachi was a remote Wild Space planet and the base of KynachTech Industries. In 32 BBY, the world was seized by the Trade Federation, and the Skakoan Overseer Umbrag took over the KynachTech factory, also imposing a frequency jammer on the world. The planet's isolation led the rest of the galaxy to believe that it had simply become isolated out of choice. The planet's captive inhabitants were liberated in 21 BBY from the KynachTech factory prison by the Galactic Republic self-proclaimed Breakout Squad unit."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kynachi",
+    "region": "Wild Space",
+    "system": "Kynachi system",
+    "coordinates": "J-5",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Temperate; rainy",
+    "interest": "KynachTech factory",
+    "species": "Kynachi",
+    "affiliation": [
+      "KynachTech Industries",
+      "Trade Federation",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Kynachi",
+      "directory": "Kynachi (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kynachi",
+    "x": -2680.3,
+    "y": 8606.7,
+    "z": -7.0,
+    "region": "Wild Space",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

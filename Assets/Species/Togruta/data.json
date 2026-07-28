@@ -1,0 +1,41 @@
+{
+  "name": "Togruta",
+  "wookieepedia_title": "Togruta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Togruta",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Togruta were a tall near-human species, characterized by their colorful skin tones, large montrals, head tails, and white facial pigments. They hailed from the planet Shili, in the Expansion Region. Although Shili was their homeworld, they also had a colony of some 50,000 individuals on the planet Kiros, also in the Expansion Region. Some well known Togruta included the Jedi Master Shaak Ti, Jedi Master Jora Malli, Supreme Chancellor Kirames Kaj, and Padawan Ahsoka Tano.",
+  "data": {
+    "name": "Togruta",
+    "designation": "Sentient",
+    "class": "Near-human",
+    "skincolor": [
+      "Blue",
+      "Orange",
+      "Purple",
+      "Red",
+      "White",
+      "Yellow"
+    ],
+    "eyecolor": [
+      "Black",
+      "Blue",
+      "Brown",
+      "Green",
+      "Orange",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Lekku",
+      "Montrals"
+    ],
+    "origin": "Shili",
+    "habitat": "Mountains",
+    "language": [
+      "Galactic Basic Standard",
+      "Togruti"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Shili"
+}

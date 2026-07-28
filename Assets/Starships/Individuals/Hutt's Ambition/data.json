@@ -1,0 +1,25 @@
+{
+  "name": "Hutt's Ambition",
+  "wookieepedia_title": "Hutt's Ambition",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hutt%27s_Ambition",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Hutt's Ambition was a New Republic bulk cruiser during the Galactic Civil War. It served in the Bothan Combat Response Element and fought in the Battle of Kathol System, in which it assisted in the defeat of Moff Kentor Sarne.",
+  "data": {
+    "name": "Hutt's Ambition",
+    "type": "Bulk cruiser",
+    "hyperdrive": "Equipped",
+    "shield_gen": "Equipped",
+    "armament": [
+      "30 quad laser cannons",
+      "2 tractor beam projectors"
+    ],
+    "complement": "Starfighters (24)",
+    "role": "Combat vessel",
+    "affiliation": "New Republic",
+    "navy": "New Republic Defense Fleet",
+    "fleet": "Bothan Combat Response Element"
+  },
+  "scraped": "2026-07-03"
+}

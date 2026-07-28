@@ -1,0 +1,53 @@
+{
+  "name": "Korad",
+  "wookieepedia_title": "Korad",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Korad",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Korad was a planet in Elrood sector on the Elrood-Derilyn Trade Route. It was covered with starship and vehicle wrecks and was, in essence, a massive salvage yard operated during the Old Republic era by a corporation called Renew which eventually went bankrupt. During the Rebellion era many refugees and scavengers inhabited the planet. It was the homeworld of Slythor, a Squib crime lord.",
+  "lead_paragraphs": [
+    "Korad was a planet in Elrood sector on the Elrood-Derilyn Trade Route. It was covered with starship and vehicle wrecks and was, in essence, a massive salvage yard operated during the Old Republic era by a corporation called Renew which eventually went bankrupt. During the Rebellion era many refugees and scavengers inhabited the planet. It was the homeworld of Slythor, a Squib crime lord."
+  ],
+  "article_sections": [
+    "Description"
+  ],
+  "data": {
+    "name": "Korad",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Korad system",
+    "coordinates": "M-19",
+    "routes": "Elrood-Derilyn Trade Route",
+    "lengthday": "23 standard hours",
+    "lengthyear": "381 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type III (breath mask required)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Plains",
+      "Plateaus"
+    ],
+    "water": "Dry",
+    "otherspecies": [
+      "Squib",
+      "Ugor"
+    ],
+    "government": "None",
+    "population": "5,000",
+    "imports": "Wrecked starships and vehicles"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Korad",
+    "x": 7998.7,
+    "y": 5610.1,
+    "z": 225.4,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

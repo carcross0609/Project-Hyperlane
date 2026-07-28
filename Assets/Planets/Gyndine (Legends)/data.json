@@ -1,0 +1,72 @@
+{
+  "name": "Gyndine",
+  "wookieepedia_title": "Gyndine/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gyndine/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Gyndine was a planet in the Expansion Region. It was a local administrative center, and had mid-sized, advanced shipyards.",
+  "lead_paragraphs": [
+    "Gyndine was a planet in the Expansion Region. It was a local administrative center, and had mid-sized, advanced shipyards."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Old Republic era",
+    "  Rise of the Empire",
+    "  Galactic Civil War",
+    "  Yuuzhan Vong War",
+    "  Legacy era"
+  ],
+  "data": {
+    "name": "Gyndine",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Circarpous sector",
+    "system": "Gyndine system",
+    "coordinates": "O-12",
+    "suns": "1",
+    "moons": "Gyndine moon",
+    "routes": [
+      "Nanth'ri Trade Route",
+      "Ootmian Pabol"
+    ],
+    "class": "Terrestrial",
+    "atmosphere": "Type I (Breathable)",
+    "terrain": [
+      "Industrial",
+      "Forests",
+      "Lakes"
+    ],
+    "interest": [
+      "Gyndine Shipyards",
+      "Tendrando Refueling and Repair Station"
+    ],
+    "fauna": "Ethersquids",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "population": "1 to 10 billion",
+    "cities": "Yractos (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Hutt Cartel",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances",
+      "Darth Krayt's Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Gyndine",
+    "x": 4695.5,
+    "y": -3352.3,
+    "z": 18.0,
+    "region": "Expansion Region",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

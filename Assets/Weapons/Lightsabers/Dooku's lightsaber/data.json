@@ -1,0 +1,48 @@
+{
+  "name": "Dooku's lightsaber",
+  "wookieepedia_title": "Dooku's lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dooku%27s_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Dooku's lightsaber, also known as Darth Tyranus' lightsaber, or Dooku's Sith lightsaber, was the personal curved-hilt lightsaber of Dooku, the Count of Serenno. The former Jedi Master, who became Darth Tyranus and the political leader of the Separatist Alliance, constructed the weapon's unique hilt with a kyber crystal that emitted a red blade. As the apprentice of the Dark Lord of the Sith, Darth Sidious, Dooku used the Sith blade against his foes.",
+  "data": {
+    "name": "Dooku's lightsaber",
+    "model": [
+      "Curved-hilt Jedi lightsaber",
+      "Sith lightsaber"
+    ],
+    "type": "Single-blade",
+    "culture": [
+      "Jedi",
+      "Sith"
+    ],
+    "creator": "Dooku",
+    "created": "After 86 BBY-Before the Invasion of Naboo",
+    "destroyed": "19 BBY, Invisible Hand, Coruscant system",
+    "owners": [
+      "Dooku",
+      "Hondo Ohnaka (briefly)"
+    ],
+    "hilt_shape": "Cylindrical, curved",
+    "hilt_length": "35.5 centimeters",
+    "hilt_material": "Alloy metal",
+    "crystal": "Kyber crystal",
+    "color": [
+      "Blue",
+      "Red"
+    ],
+    "design": "Unusual, curved hilt",
+    "precede": "Dooku's first lightsaber",
+    "purpose": [
+      "Lightsaber combat",
+      "Eventually for training Sith apprentices and General Grievous"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Sith",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

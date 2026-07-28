@@ -27,6 +27,10 @@ project and adds our own rules. When in doubt, do what the engine source does.
   (`ShipPawn.h` for `AShipPawn`).
 - `#pragma once`; includes minimal; **forward-declare in headers, include in
   .cpp**. Header bloat is compile-time debt we refuse from day one.
+- **Local includes are module-relative, prefixed with `Hyperlane/`**
+  (`#include "Hyperlane/Core/HyperlaneLogging.h"`, not `"Core/HyperlaneLogging.h"`).
+  `DefaultBuildSettings = Latest` puts `Source/`, not `Source/Hyperlane/`, on
+  the include search path — the unprefixed form fails to compile.
 - Every file starts with `// Copyright (c) 2026 Carson Crossno. Personal,
   non-commercial project.`
 - Folder placement follows the layer map in TechnicalArchitecture.md §3.

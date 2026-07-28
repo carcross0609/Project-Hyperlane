@@ -1,0 +1,35 @@
+# Balosar
+
+**Continuity:** Canon  
+**Source:** [Balosar](https://starwars.fandom.com/wiki/Balosar)
+**Galaxy atlas:** system `Balosar`, Core Worlds, grid L-12 — map position (1013.9, -3776.2, 94.2)
+
+Balosar was a ruined planet in the Balosar system of the galaxy's Core Worlds that was the homeworld of the Balosar species. Balosar was known for its endemic balo mushrooms, which were refined by companies such as BioTech Industries and Fergriss Pharmaceuticals into ixetal cilona, a powerful narcotic used in death sticks and interrogation drugs.
+
+The planet was dominated by factories owned by the aforementioned companies, who often engaged in espionage and sabotage against one another, often with the native Balosar involved. Many Balosar on the world lived in poverty due to the companies' stranglehold on the planet, and as such many turned to the Rebel Alliance to survive and fight back against the Galactic Empire, who turned a blind eye to what was occurring on the world. The planet was polluted, blotting out stars in the night sky.
+
+## Planetary data
+
+- **Name:** Balosar
+- **Region:** Core Worlds
+- **Sector:** None
+- **System:** Balosar system
+- **Coordinates:** L-12
+- **Terrain:** Factories
+- **Otherlife:** Balo mushroom
+- **Species:** Balosar
+- **Language:** Balosar
+- **Exports:** Ixetal cilona
+- **Affiliation:**
+  - BioTech Industries
+  - Fergriss Pharmaceuticals
+  - Galactic Empire
+
+## Homeworld of
+
+- [Balosar (Canon)](../../Species/Balosar%20%28species%29/README.md)
+- [Balosar (Legends)](../../Species/Balosar%20%28species%29%20%28Legends%29/README.md)
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

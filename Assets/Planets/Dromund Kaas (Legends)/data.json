@@ -1,0 +1,110 @@
+{
+  "name": "Dromund Kaas",
+  "wookieepedia_title": "Dromund Kaas/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dromund_Kaas/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dromund Kaas was the third planet in the Dromund system, a star system in the Sith Worlds region of the Outer Rim Territories's Esstran sector. Originally a colony of the Sith Empire, its location was lost by the time of the Great Hyperspace War with the Galactic Republic, but the Sith Emperor led his people on a twenty-year odyssey that ended with the rediscovery of Dromund Kaas in 4980 BBY. The Emperor and the remnants of the shattered Sith society reconstituted the Sith Empire with Dromund Kaas as its capital, taming the planet's savage jungles and building up their Empire's strength from the skyscrapers of Kaas City. Dromund Kaas remained safe from Republic reprisal when the Empire launched the Great Galactic War in 3681 BBY, though a Republic invasion fleet assaulted the Imperial capital in 3640 BBY during the Galactic War with the Empire while a Jedi Knight fought and defeated the Emperor in personal combat.",
+  "lead_paragraphs": [
+    "Dromund Kaas was the third planet in the Dromund system, a star system in the Sith Worlds region of the Outer Rim Territories's Esstran sector. Originally a colony of the Sith Empire, its location was lost by the time of the Great Hyperspace War with the Galactic Republic, but the Sith Emperor led his people on a twenty-year odyssey that ended with the rediscovery of Dromund Kaas in 4980 BBY. The Emperor and the remnants of the shattered Sith society reconstituted the Sith Empire with Dromund Kaas as its capital, taming the planet's savage jungles and building up their Empire's strength from the skyscrapers of Kaas City. Dromund Kaas remained safe from Republic reprisal when the Empire launched the Great Galactic War in 3681 BBY, though a Republic invasion fleet assaulted the Imperial capital in 3640 BBY during the Galactic War with the Empire while a Jedi Knight fought and defeated the Emperor in personal combat.",
+    "The reconstituted Empire eventually dissolved before 2000 BBY, and Dromund Kaas' jungles gave way to murky swamps over the centuries as the planet's location once again fell into obscurity. A major battle of the New Sith Wars was fought on Dromund Kaas, and several decades later the rogue Sith Lord Darth Millennial established the Dark Force religion on Dromund Kaas after he rejected the Rule of Two and abandoned the Order of the Sith Lords. The Prophets of the Dark Side who followed Millennial's religion ruled Dromund Kaas for almost a thousand years before they incurred the wrath of Darth Sidious, causing the Prophets to abandon the planet for Bosthirda. Despite its relative obscurity, the planet became embroiled in the galactic conflict known as the Clone Wars, but the powerful influence of the dark side of the Force on Dromund Kaas continued to draw both Jedi and Sith to the planet over the next several decades."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Capital of the Sith Empire",
+    "  Fall of the Sith Empire",
+    "  Prophets of the Dark Side",
+    "  The New Republic and beyond",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Dromund Kaas",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Esstran sector",
+      "  Sith Worlds"
+    ],
+    "system": "Dromund system",
+    "coordinates": "R-5",
+    "suns": "1: Dromund",
+    "position": "3",
+    "moons": "2",
+    "routes": "Kamat Krote",
+    "lengthday": "24 standard hours",
+    "lengthyear": "312 standard days",
+    "class": "Terrestrial",
+    "diameter": "22,450 kilometers",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Variably wet, heavily electrified",
+    "gravity": "Standard",
+    "terrain": [
+      "Swamp",
+      "Jungle",
+      "Oceans"
+    ],
+    "water": "Large oceans",
+    "interest": [
+      "Dark Force Temple",
+      "Dark Temple",
+      "Imperial Citadel",
+      "Sith Academy"
+    ],
+    "flora": [
+      "Amanita Lumikurnizi",
+      "Monotropa Triflora"
+    ],
+    "fauna": [
+      "Jurgoran",
+      "Mailoc",
+      "Sleen",
+      "Swamp wampa",
+      "Vine cat",
+      "Yozusk"
+    ],
+    "species": "Sith (possible propaganda)",
+    "otherspecies": [
+      "Sith",
+      "Humans"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": [
+      "Empire",
+      "Religious order (pre-Galactic Empire)"
+    ],
+    "population": [
+      "Pre–Cold War: Millions",
+      "10 ABY: 10,000 (70% Human, 30% other)"
+    ],
+    "cities": "Kaas City (capital)",
+    "imports": "None",
+    "exports": "None",
+    "affiliation": [
+      "Old Sith Empire",
+      "Reconstituted Sith Empire",
+      "Prophets of the Dark Side",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sith",
+      "directory": "Sith (species) (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Dromund Kaas",
+    "x": 9530.6,
+    "y": 7255.2,
+    "z": -134.9,
+    "region": "Outer Rim",
+    "grid": "R-5"
+  },
+  "scraped": "2026-07-03"
+}

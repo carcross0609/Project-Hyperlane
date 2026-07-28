@@ -1,0 +1,22 @@
+{
+  "name": "SE-5",
+  "wookieepedia_title": "SE-5",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/SE-5",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "SE-5 was an SE-2 worker droid manufactured on the planet Affa by Cybot Galactica. The worker droid had white plating, black sensors, and stood 1.79 meters tall. During the First Order occupation of the planet Batuu in 34 ABY, the droid served as a pilot for the criminal Finto Gang. A 675-credit bounty posted on SE-5 listed its crimes as attempted theft, damage of property belonging to the antiques dealer Dok-Ondar, counterfeiting, spaceport property damage, and theft of ship parts and cargo.",
+  "data": {
+    "type": "Criminal",
+    "name": "SE-5",
+    "homeworld": "Affa",
+    "manufacturer": "Cybot Galactica",
+    "model": "SE-2 worker droid",
+    "class": "Worker droid",
+    "height": "1.79 meters",
+    "sensor": "Black",
+    "plating": "White",
+    "affiliation": "Finto Gang"
+  },
+  "scraped": "2026-07-03"
+}

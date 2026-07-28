@@ -1,0 +1,26 @@
+{
+  "name": "Iakaru",
+  "wookieepedia_title": "Iakaru",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Iakaru",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Iakaru were a sentient species native to the planet Iakar. Bistan was a member of this species.",
+  "data": {
+    "name": "Iakaru",
+    "designation": "Sentient",
+    "skincolor": [
+      "Light",
+      "Tan"
+    ],
+    "haircolor": [
+      "Black",
+      "Brown",
+      "White"
+    ],
+    "eyecolor": "Orange",
+    "origin": "Iakar",
+    "language": "Iakari"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Iakar"
+}

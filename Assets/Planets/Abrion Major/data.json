@@ -1,0 +1,51 @@
+{
+  "name": "Abrion Major",
+  "wookieepedia_title": "Abrion Major",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Abrion_Major",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Abrion Major was a planet covered in islands and one of the hundreds of agriworlds located in the Outer Rim Territories' Abrion sector. Shortly after the outbreak of the Clone Wars, led by Senator Esu Rotsino, Abrion Major as well as the rest of the Abrion sector seceded from the Galactic Republic to the Confederacy of Independent Systems. Rotsino then represented Abrion Major and the other worlds of the Abrion sector in the Separatist Senate.",
+  "lead_paragraphs": [
+    "Abrion Major was a planet covered in islands and one of the hundreds of agriworlds located in the Outer Rim Territories' Abrion sector. Shortly after the outbreak of the Clone Wars, led by Senator Esu Rotsino, Abrion Major as well as the rest of the Abrion sector seceded from the Galactic Republic to the Confederacy of Independent Systems. Rotsino then represented Abrion Major and the other worlds of the Abrion sector in the Separatist Senate.",
+    "Around 22 BBY, Jedi General Obi-Wan Kenobi led the 212th Attack Battalion on an assault at Abrion Bridge, in order to prevent the Separatist from producing a new Mega-ion cannon at a weapons factory. The Galactic Republic was successful in the assault but suffered heavy losses."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Seceding from the Republic",
+    "  Battle of Abrion Bridge"
+  ],
+  "data": {
+    "name": "Abrion Major",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Abrion sector",
+    "system": "Abrion Major system",
+    "coordinates": "S-15",
+    "suns": "1",
+    "class": "Terrestrial",
+    "terrain": "Islands",
+    "interest": [
+      "Abrion Bridge",
+      "A weapons factory",
+      "Western sea"
+    ],
+    "exports": "Foodstuffs",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Abrion Major",
+    "x": 10691.1,
+    "y": -8287.3,
+    "z": 144.3,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

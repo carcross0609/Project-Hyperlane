@@ -1,0 +1,48 @@
+{
+  "name": "Taspir III",
+  "wookieepedia_title": "Taspir III",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Taspir_III",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Taspir III was a mountainous planet located in the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Taspir III was a mountainous planet located in the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Taspir III",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Dynali sector",
+    "system": "Taspir system",
+    "coordinates": "J-3",
+    "class": "Terrestrial",
+    "terrain": [
+      "Volcanoes",
+      "Mountains",
+      "Lakes of molten lava"
+    ],
+    "interest": "Taspir III power plant",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Pentastar Alignment",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Taspir III",
+    "x": -2057.7,
+    "y": 8983.6,
+    "z": -25.9,
+    "region": "Outer Rim",
+    "grid": "J-4"
+  },
+  "scraped": "2026-07-03"
+}

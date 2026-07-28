@@ -1,0 +1,28 @@
+# Vurk
+
+**Continuity:** Canon  
+**Source:** [Vurk](https://starwars.fandom.com/wiki/Vurk)
+
+The Vurk were a reptilian sentient species that was native to the planet Sembla. They had green, dark green, gray, or pink skin. It was thought that the Vurk were a primitive species, but they were highly empathetic and skilled mediators. They had a bony crest sitting atop their heads. The head crest was a key feature of the species and continued to grow throughout the life of the Vurk. Jedi Master Coleman Trebor was a member of this species. Another Vurk was Sweitt Concorkill, who was present at the Galaxies Opera House with Supreme Chancellor Palpatine on Coruscant during the last days of the Clone Wars.
+
+## Biology & Culture
+
+- **Name:** Vurk
+- **Designation:** Sentient
+- **Class:** Reptilian
+- **Skincolor:**
+  - Dark green
+  - Green
+  - Gray
+  - Pink
+- **Eyecolor:**
+  - Black
+  - Light blue
+  - Red
+  - White
+- **Origin:** Sembla
+- **Language:** Semblan
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

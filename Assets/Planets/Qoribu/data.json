@@ -1,0 +1,40 @@
+{
+  "name": "Qoribu",
+  "wookieepedia_title": "Qoribu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Qoribu",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Qoribu was a ringed gas giant in the Gyuel system with 55 moons, including Jwlio, Eyyl, Zvbo, Ruu, Nrogu, and Kr.",
+  "lead_paragraphs": [
+    "Qoribu was a ringed gas giant in the Gyuel system with 55 moons, including Jwlio, Eyyl, Zvbo, Ruu, Nrogu, and Kr."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Qoribu",
+    "region": "Unknown Regions",
+    "sector": "Killik Colony Worlds",
+    "system": "Gyuel system",
+    "coordinates": "H-7",
+    "suns": "1: Gyuel",
+    "moons": [
+      "55",
+      "  Eyyl",
+      "  Jwlio",
+      "  Kr",
+      "  Nrogu",
+      "  Ruu",
+      "  Zvbo"
+    ],
+    "terrain": "Gas giant"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Qoribu",
+    "x": -5023.2,
+    "y": 4189.5,
+    "z": 304.4,
+    "region": "Unknown Regions",
+    "grid": "H-7"
+  },
+  "scraped": "2026-07-03"
+}

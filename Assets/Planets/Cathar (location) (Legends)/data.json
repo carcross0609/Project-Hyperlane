@@ -1,0 +1,72 @@
+{
+  "name": "Cathar",
+  "wookieepedia_title": "Cathar (location)/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cathar_%28location%29/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Cathar was the homeworld of the Cathar species, filled with many ecological niches and huge insect predators.",
+  "lead_paragraphs": [
+    "Cathar was the homeworld of the Cathar species, filled with many ecological niches and huge insect predators."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Cathar",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Cathar system",
+    "coordinates": "N-6",
+    "moons": "1",
+    "lengthday": "24 standard hours",
+    "lengthyear": "259 local days",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Savannahs",
+      "Rough Uplands"
+    ],
+    "interest": "Vast Veldt",
+    "flora": "City-tree",
+    "fauna": [
+      "Giant horned hopper",
+      "Kiltik"
+    ],
+    "species": "Cathar",
+    "language": "Catharese",
+    "government": "Tribal",
+    "population": [
+      "99% Cathar",
+      "1% Other species"
+    ],
+    "imports": [
+      "Luxury goods",
+      "Technology"
+    ],
+    "exports": "None",
+    "affiliation": [
+      "Mandalorian Neo-Crusaders",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Cathar",
+      "directory": "Cathar (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Cathar",
+    "x": 4268.7,
+    "y": 5622.4,
+    "z": 376.1,
+    "region": "Outer Rim",
+    "grid": "N-6"
+  },
+  "scraped": "2026-07-03"
+}

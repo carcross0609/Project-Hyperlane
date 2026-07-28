@@ -1,0 +1,37 @@
+{
+  "name": "Corona-class armed frigate",
+  "wookieepedia_title": "Corona-class armed frigate/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corona-class_armed_frigate/Legends",
+  "continuity": "Legends",
+  "infobox_template": "StarshipClass",
+  "description": "The Corona-class armed frigate was a saucer-shaped craft manufactured by Haor Chall Engineering before the Clone Wars. It was based on an ancient Surronian cruiser design.",
+  "data": {
+    "name": "Corona-class armed frigate",
+    "manufacturer": "Haor Chall Engineering",
+    "model": "Corona-class armed frigate",
+    "type": "Transport",
+    "cost": "3,700,000 credits",
+    "length": "376.29 meters",
+    "width": "376.29 meters",
+    "hyperdrive": "Class 1.0",
+    "hdsystem": "Equipped",
+    "armament": [
+      "2 medium Turbolaser batteries",
+      "4 Heavy Ion cannon batteries",
+      "4 Point-defense medium laser cannon batteries",
+      "1 Tractor beam Projector",
+      "At least 2 Missile launchers"
+    ],
+    "complement": [
+      "6 Flarestar-class Weequay ships",
+      "12 WLO-5 speeder tanks"
+    ],
+    "crew": "64",
+    "passengers": "200",
+    "capacity": "450 tons",
+    "consumables": "1 year",
+    "role": "Transport",
+    "affiliation": "Ohnaka Gang"
+  },
+  "scraped": "2026-07-03"
+}

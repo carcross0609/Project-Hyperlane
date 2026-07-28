@@ -1,0 +1,41 @@
+{
+  "name": "Bioweapon",
+  "wookieepedia_title": "Bioweapon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bioweapon",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Bioweapons, or biotoxins were deadly chemical weapons of mass destruction. Often designed to target specific species, bioweapons were heavily researched by the Galactic Empire, although the Alliance to Restore the Republic prioritized the destruction of those facilities, preventing them from using the bioweapons on a large scale.",
+  "data": {
+    "name": "Bioweapon(Blue Shadow Virus pictured)",
+    "manufacturer": [
+      "Eiram government",
+      "Path of the Open Hand",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ],
+    "locations": [
+      "Eiram-E'ronoh system",
+      "  Eiram",
+      "Dalna",
+      "Naboo",
+      "Coyerti",
+      "Nakadia",
+      "Dantooine"
+    ],
+    "material": [
+      "Neurotoxins",
+      "Defoliants"
+    ],
+    "purpose": "Biological warfare",
+    "affiliation": [
+      "Path of the Open Hand",
+      "Eiram government",
+      "  Eiram royal family",
+      "E'ronoh monarchy (Briefly)",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

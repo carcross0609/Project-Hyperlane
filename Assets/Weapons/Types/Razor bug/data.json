@@ -1,0 +1,27 @@
+{
+  "name": "Razor bug",
+  "wookieepedia_title": "Razor bug",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Razor_bug",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "Razor bugs or razorbugs were small, disc-shaped insects that were biologically engineered by the Yuuzhan Vong to serve as thrown ranged weapons that had the capability of being thrown up to 130 meters.",
+  "data": {
+    "name": "Razor bug",
+    "manufacturer": "Yuuzhan Vong",
+    "type": "Biologically engineered throwing weapon",
+    "culture": "Yuuzhan Vong",
+    "creators": "Yuuzhan Vong",
+    "cost": "800 credits (Illegal)",
+    "shape": "Disc-shaped",
+    "size": "Fist-sized",
+    "weight": "0.5 kg",
+    "capacity": "Single-use but can be returned to wielder's hand",
+    "range": [
+      "Optimum: thrown up to 20 meters",
+      "Maximum: thrown up to 130 meters"
+    ],
+    "affiliation": "Yuuzhan Vong"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Spira",
+  "wookieepedia_title": "Spira",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Spira",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Spira was a tropical planet known for its golden beaches that was located in the Galactic Core.",
+  "lead_paragraphs": [
+    "Spira was a tropical planet known for its golden beaches that was located in the Galactic Core."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Spira",
+    "region": "Core Worlds",
+    "sector": "Lytton sector",
+    "system": "Spira system",
+    "coordinates": "L-10",
+    "climate": "Tropical",
+    "terrain": "Beaches",
+    "interest": "Amilyn Holdo's friend's mansion",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Spira",
+    "x": 130.1,
+    "y": -251.7,
+    "z": 26.7,
+    "region": "Core Worlds",
+    "grid": "L-10"
+  },
+  "scraped": "2026-07-03"
+}

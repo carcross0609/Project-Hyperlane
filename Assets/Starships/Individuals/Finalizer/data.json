@@ -1,0 +1,85 @@
+{
+  "name": "Finalizer",
+  "wookieepedia_title": "Finalizer",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Finalizer",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Finalizer was a Resurgent-class Star Destroyer of the naval forces of the First Order. It served as the flagship of General Armitage Hux and Kylo Ren.",
+  "data": {
+    "name": "Finalizer",
+    "manufacturer": "Kuat-Entralla Engineering",
+    "model": "Resurgent-classStar Destroyer",
+    "type": "Star Destroyer",
+    "length": "2,915.81 meters (9,566.29 feet)",
+    "mglt": "70 MGLT",
+    "engine": [
+      "(8) Gemon-8 ion engines",
+      "(3) Destroyer Ion Engines"
+    ],
+    "hyperdrive": "Class 1",
+    "hdsystem": "Equipped",
+    "power": "III-a1a primary hypermatter-annihilation reactor",
+    "sensor": "Multi-spectrum sensor towers and sensor towers",
+    "armament": [
+      "1,500+ turbolasers and ion cannons",
+      "Point-defense turrets",
+      "Point-defense missile emplacements",
+      "Ventral cannons",
+      "Tractor beam projectors"
+    ],
+    "complement": [
+      "At least three starfighter wings",
+      "  TIE/fo space superiority fighters",
+      "  TIE/sf space superiority fighters",
+      "  TIE/se Bombers",
+      "At least 1 Upsilon-class command shuttle",
+      "  Kylo Ren's command shuttle",
+      "AAL-1971/9.1 Troop Transports",
+      "Ground vehicles",
+      "  At least 2 First Order All Terrain Armored Transports",
+      "First Order Light Cruiser (1)"
+    ],
+    "escapepods": "First Order Short-Range Evacuation Vehicles",
+    "crew": [
+      "First Order officers (19,000)",
+      "Enlisted (55,000)",
+      "First Order TIE Fighter Pilots",
+      "Stormtroopers (Over 8,000)",
+      "First Order Walker Drivers",
+      "First Order probe droids",
+      "IT-000 interrogator droids",
+      "First Order Sentry Droids",
+      "MSE-6 series repair droids"
+    ],
+    "capacity": "Cargo crates",
+    "communications": "Hyperwave comm scanner",
+    "role": [
+      "Carrier",
+      "Destroyer",
+      "Mobile Academy",
+      "Flagship",
+      "Military transport",
+      "Command ship"
+    ],
+    "commission": "Years after the Battle of Endor",
+    "retired": "Sometime after the Battle of Batuu",
+    "affiliation": [
+      "First Order",
+      "  First Order military",
+      "  First Order Academy"
+    ],
+    "navy": "First Order Navy",
+    "fleet": [
+      "Supremacy task force",
+      "Tah'Nuhna assault group"
+    ],
+    "owners": "Kylo Ren",
+    "captains": [
+      "Armitage Hux",
+      "Phasma",
+      "Edrison Peavey (acting officer)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

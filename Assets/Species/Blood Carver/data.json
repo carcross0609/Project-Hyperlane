@@ -1,0 +1,32 @@
+{
+  "name": "Blood Carver",
+  "wookieepedia_title": "Blood Carver",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Blood_Carver",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Blood Carvers were a sentient insect-like race native to the planet Batorine.",
+  "data": {
+    "name": "Blood Carver",
+    "designation": "Sentient",
+    "class": "Insectoid",
+    "height": "2 meters",
+    "skincolor": "Gold",
+    "eyecolor": "Black",
+    "distinctions": [
+      "Three joints per limb",
+      "Orange blood"
+    ],
+    "lifespan": [
+      "Child: 1-8 years",
+      "Young adult: 9-11 years",
+      "Adult: 12-38 years",
+      "Middle age: 39-65 years",
+      "Old: 66-82 years",
+      "Venerable: 83+ years"
+    ],
+    "origin": "Batorine",
+    "language": "Batorese"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Batorine"
+}

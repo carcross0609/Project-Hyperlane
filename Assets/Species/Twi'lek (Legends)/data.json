@@ -1,0 +1,48 @@
+{
+  "name": "Twi'lek",
+  "wookieepedia_title": "Twi'lek/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Twi%27lek/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Twi'leks ( or /'twaɪlɛk/), sometimes referred to disparagingly as \"Tail-heads\", were an omnivorous humanoid species originating from the planet Ryloth. They tended to eat cultivated molds, fungi, and rycrit meat. Their distinctive features included colorful skin, which varied in pigment from individual to individual, and a pair of shapely prehensile tentacles that grew from the base of their skulls. The tentacles, called \"brain-tails\", \"lekku,\" \"tchun-tchin\", or \"head-tails\", were advanced organs used for communication and cognitive functions. Twi'leks possessed a fairly standard humanoid vocal structure and were capable of learning most alien languages; however, they usually preferred their native language of Twi'leki, which incorporated subtle movement of the lekku. When they wished, they could even communicate in complete secrecy using their versatile brain-tails. Twi'lek females were often used as slaves or dancers because of their beauty.",
+  "data": {
+    "name": "Twi'lek",
+    "designation": "Sentient",
+    "class": "Mammal",
+    "races": [
+      "Lethan",
+      "Rutian"
+    ],
+    "height": "1.6–2 meters",
+    "skincolor": [
+      "Black",
+      "Blue",
+      "Green",
+      "Orange",
+      "Red",
+      "Pink",
+      "Purple",
+      "Tan",
+      "Yellow",
+      "White"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Green",
+      "Orange",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Lekku",
+      "Cone-shaped ears (feminine trait)"
+    ],
+    "origin": "Ryloth",
+    "diet": "Omnivorous",
+    "language": [
+      "Twi'leki",
+      "Basic"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Ryloth (Legends)"
+}

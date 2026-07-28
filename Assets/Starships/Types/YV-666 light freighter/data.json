@@ -1,0 +1,39 @@
+{
+  "name": "YV-666 light freighter",
+  "wookieepedia_title": "YV-666 light freighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/YV-666_light_freighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The YV-666 light freighter, also known simply as the YV-series freighter, YV-series light freighter, or YV-666, was a model of light freighter manufactured by the Corellian Engineering Corporation. A modified YV-series known as the Hound's Tooth was used by the Trandoshan bounty hunter Bossk.",
+  "data": {
+    "name": "YV-666 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "line": "YV-series",
+    "model": "YV-666",
+    "type": "Light freighter",
+    "cost": "132,000 credits",
+    "length": "47.4 meters",
+    "width": "36.9 meters",
+    "height": "15.5 meters",
+    "max_speed": "1,190 kph",
+    "engine": "CEC Evader-GT ion drives (2)",
+    "hyperdrive": [
+      "Class 3 (Primary)",
+      "Class 14 (Backup)"
+    ],
+    "power": "Quadex SuperNova II power core",
+    "sensor": "Short range sensor",
+    "armament": [
+      "Quad laser cannon",
+      "Twin light laser cannon"
+    ],
+    "crew": [
+      "1 pilot",
+      "1 co-pilot"
+    ],
+    "passengers": "6",
+    "consumables": "3 months",
+    "role": "Freighter"
+  },
+  "scraped": "2026-07-03"
+}

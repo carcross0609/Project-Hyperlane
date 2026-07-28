@@ -1,0 +1,57 @@
+{
+  "name": "Bardotta",
+  "wookieepedia_title": "Bardotta/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bardotta/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Bardotta was a planet located in the Colonies' Bardotta system that was ruled by the much beloved Queen Julia during the Clone Wars. Its inhabitants were reputed for their mysticism and attention to spiritual matters.",
+  "lead_paragraphs": [
+    "Bardotta was a planet located in the Colonies' Bardotta system that was ruled by the much beloved Queen Julia during the Clone Wars. Its inhabitants were reputed for their mysticism and attention to spiritual matters."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Bardotta",
+    "region": "Colonies",
+    "sector": "Shasos sector",
+    "system": "Bardotta system",
+    "coordinates": "J-13",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Caves"
+    ],
+    "interest": [
+      "Bardottan Royal Palace",
+      "Frangawl Temple"
+    ],
+    "species": "Bardottan",
+    "language": "Bardottan",
+    "government": "Monarchy",
+    "cities": "Bardotta Capital City"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bardottan",
+      "directory": "Bardottan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Bardottan",
+      "directory": "Bardottan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Bardotta",
+    "x": -1783.5,
+    "y": -5184.3,
+    "z": -30.8,
+    "region": "Colonies",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

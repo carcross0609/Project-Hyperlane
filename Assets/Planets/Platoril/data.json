@@ -1,0 +1,49 @@
+{
+  "name": "Platoril",
+  "wookieepedia_title": "Platoril",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Platoril",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Platoril was a barren planet in the Coruscant system, the second planet from Coruscant Prime.",
+  "lead_paragraphs": [
+    "Platoril was a barren planet in the Coruscant system, the second planet from Coruscant Prime."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Platoril",
+    "region": "Core Worlds",
+    "sector": [
+      "Corusca sector",
+      "  Coruscant sector"
+    ],
+    "system": "Coruscant system",
+    "coordinates": "L-9",
+    "xyz": "0, 0, 0",
+    "suns": "1: Coruscant Prime",
+    "position": "2",
+    "moons": "0",
+    "routes": [
+      "Corellian Run",
+      "Coruscant–Dantooine hyperlane",
+      "Koros Trunk Line",
+      "Leisure Corridor",
+      "Martial Cross",
+      "Metellos Trade Route",
+      "Namadii Corridor",
+      "Perlemian Trade Route",
+      "Shawken Spur"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Barren rock"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Platoril",
+    "x": 1157.2,
+    "y": 813.4,
+    "z": 36.8,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

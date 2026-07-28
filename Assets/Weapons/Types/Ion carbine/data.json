@@ -1,0 +1,27 @@
+{
+  "name": "Ion carbine",
+  "wookieepedia_title": "Ion carbine",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ion_carbine",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The ion carbine was a rifle-like weapon designed primarily to disable droids. As with other ion weapons, it fired ion energy which disrupted electrical systems, but was not very effective against organic targets. It was similar to an ion rifle, however it had the advantage of shooting in autofire mode, that is, rapid automatic fire, allowing the user to take down several droids at once.",
+  "data": {
+    "name": "Ion carbine",
+    "type": "Ion rifle",
+    "cost": "800 credits",
+    "shape": "Rifle-shaped",
+    "size": "Medium",
+    "weight": "3 kg",
+    "capacity": [
+      "30 shots",
+      "Autofire mode available"
+    ],
+    "range": [
+      "Optimum: up to 45 meters",
+      "Maximum: up to 225 meters"
+    ],
+    "purpose": "To disable droids"
+  },
+  "scraped": "2026-07-03"
+}

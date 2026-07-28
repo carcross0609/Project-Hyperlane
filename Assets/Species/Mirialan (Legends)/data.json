@@ -1,0 +1,40 @@
+{
+  "name": "Mirialan",
+  "wookieepedia_title": "Mirialan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mirialan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Mirialans were a species of near-Humans native to the planet Mirial. Their appearance varied from yellow-green skin to paler skin very similar to many Humans. Mirialans were very flexible and agile, making them fast and formidable foes.",
+  "data": {
+    "name": "Mirialan",
+    "designation": "Sentient",
+    "class": "Near-Human mammal",
+    "skincolor": [
+      "Yellow",
+      "Green"
+    ],
+    "haircolor": [
+      "Black",
+      "Brown",
+      "Blonde",
+      "Red"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Green",
+      "Violet",
+      "Grey",
+      "Red",
+      "Yellow",
+      "Orange"
+    ],
+    "distinctions": "Flexible and agile",
+    "origin": "Mirial",
+    "language": [
+      "Mirialan",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Mirial (Legends)"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Lutrillia",
+  "wookieepedia_title": "Lutrillia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lutrillia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lutrillia was a planet in the Yarith sector of the Outer Rim, on the Lutrillian Cross hyperlane. An important export of Lutrillia was ochroid dust.",
+  "lead_paragraphs": [
+    "Lutrillia was a planet in the Yarith sector of the Outer Rim, on the Lutrillian Cross hyperlane. An important export of Lutrillia was ochroid dust."
+  ],
+  "article_sections": [
+    "Geography",
+    "Society"
+  ],
+  "data": {
+    "name": "Lutrillia",
+    "region": [
+      "Outer Rim Territories; Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": "Yarith sector",
+    "system": "Lutrillia system",
+    "coordinates": "J-18",
+    "suns": "1",
+    "routes": [
+      "Koda Spur",
+      "Lutrillian Cross",
+      "\"The Loop\""
+    ],
+    "lengthday": "21 standard hours",
+    "lengthyear": "380 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable for humans)",
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": [
+      "Barren plains",
+      "Oases"
+    ],
+    "fauna": "Chomper",
+    "species": "Lutrillian",
+    "government": "City councils",
+    "population": "800 million",
+    "demonym": "Lutrillian",
+    "imports": "Drive equipment",
+    "exports": "Ochroid dust",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lutrillian",
+      "directory": "Lutrillian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Lutrillian",
+      "directory": "Lutrillian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Lutrillia",
+    "x": -1640.3,
+    "y": -12658.7,
+    "z": -451.1,
+    "region": "Outer Rim",
+    "grid": "J-18"
+  },
+  "scraped": "2026-07-03"
+}

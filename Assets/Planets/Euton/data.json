@@ -1,0 +1,38 @@
+{
+  "name": "Euton",
+  "wookieepedia_title": "Euton",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Euton",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Euton was a terrestrial planet in the Dathomir system, a part of the Quelii sector in the New Territories portion of the Outer Rim Territories. It occupied the second orbital position around the star Domir, and it featured a searing hot environment and a rocky surface. Euton had no moons.",
+  "lead_paragraphs": [
+    "Euton was a terrestrial planet in the Dathomir system, a part of the Quelii sector in the New Territories portion of the Outer Rim Territories. It occupied the second orbital position around the star Domir, and it featured a searing hot environment and a rocky surface. Euton had no moons."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Euton",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Quelii sector",
+    "system": "Dathomir system",
+    "coordinates": "O-6",
+    "suns": "1: Domir",
+    "position": "2",
+    "moons": "0",
+    "class": "Terrestrial",
+    "climate": "Searing hot",
+    "terrain": "Rocky"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Euton",
+    "x": 3971.3,
+    "y": 6587.8,
+    "z": 276.9,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

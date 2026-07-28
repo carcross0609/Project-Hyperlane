@@ -1,0 +1,74 @@
+{
+  "name": "Velusia",
+  "wookieepedia_title": "Velusia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Velusia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Velusia was a planet in the Velus system of the Core Worlds. Largely oceanic, it supported a wide variety of life. Rocky, volcanic islands near the equator supported a population including the Aquar, a native Near-Human species.",
+  "lead_paragraphs": [
+    "Velusia was a planet in the Velus system of the Core Worlds. Largely oceanic, it supported a wide variety of life. Rocky, volcanic islands near the equator supported a population including the Aquar, a native Near-Human species."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Velusia",
+    "region": [
+      "Core Worlds",
+      "Northern Dependencies"
+    ],
+    "system": "Velus system",
+    "coordinates": "L-9",
+    "suns": "1: Velus",
+    "position": "2",
+    "moons": "2",
+    "routes": "Shawken Spur",
+    "lengthday": "22 standard hours",
+    "lengthyear": "325 local days",
+    "diameter": "9,650 km",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Volcanic islands",
+    "water": "Oceans",
+    "fauna": "Velusian fursnake",
+    "species": "Aquar",
+    "language": "Galactic Basic Standard",
+    "government": "Corporate",
+    "population": [
+      "2.8 million:",
+      "  68% Aquar",
+      "  32% other"
+    ],
+    "demonym": "Velusian",
+    "cities": "Mount Hollow",
+    "imports": [
+      "Foodstuffs",
+      "High-tech goods"
+    ],
+    "exports": "Fish",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Aquar",
+      "directory": "Aquar",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Velusia",
+    "x": 104.8,
+    "y": 538.3,
+    "z": -38.0,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

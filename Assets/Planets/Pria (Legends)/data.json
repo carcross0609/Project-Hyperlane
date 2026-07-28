@@ -1,0 +1,72 @@
+{
+  "name": "Pria",
+  "wookieepedia_title": "Pria/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pria/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pria was a Core Worlds planet that was the homeworld of the sentient Priapulin species. A tectonically active waterworld, it featured oceans and polar ice caps, with the majority of the Priapulin population living in atolls and tidal flats. Pria had a single moon, and its tidal cycles equalled almost exactly ten standard hours, giving rise to the Priapulins using tidal hours as a unit of time.",
+  "lead_paragraphs": [
+    "Pria was a Core Worlds planet that was the homeworld of the sentient Priapulin species. A tectonically active waterworld, it featured oceans and polar ice caps, with the majority of the Priapulin population living in atolls and tidal flats. Pria had a single moon, and its tidal cycles equalled almost exactly ten standard hours, giving rise to the Priapulins using tidal hours as a unit of time.",
+    "The Priapulin society was inherently cooperative, and they maintained symbiotic relationships with several types of creatures of varying sentience—including the crasti, which served the Priapulins as food while using their digestive tracts in their reproductive cycle. The Priapulins were deeply pacifistic and also had a long history of space travel, with Priapulin starships often being modified to support their aquatic physiology. Pria fell into a state of disrepair and neglect during the reign of the Galactic Empire, but during the existence of its successor, the New Republic, the Priapulins were rebuilding their homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Pria",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "system": "Pria system",
+    "coordinates": "M-10",
+    "moons": "Pria's sole moon",
+    "lengthday": "20 standard hours and 3 seconds",
+    "class": "Terrestrial waterworld",
+    "climate": [
+      "Temperate",
+      "Stormy (over oceans)"
+    ],
+    "terrain": [
+      "Polar ice caps",
+      "Oceans",
+      "Atolls",
+      "Tidal flats"
+    ],
+    "interest": [
+      "North Flows",
+      "Seafloor outposts and research facilities"
+    ],
+    "fauna": [
+      "Crast",
+      "A worm-like creature"
+    ],
+    "species": "Priapulin",
+    "language": "Priap"
+  },
+  "homeworld_of": [
+    {
+      "name": "Crast",
+      "directory": "Crast",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Priapulin",
+      "directory": "Priapulin",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Pria",
+    "x": 2599.0,
+    "y": -1255.7,
+    "z": -52.8,
+    "region": "Core Worlds",
+    "grid": "M-10"
+  },
+  "scraped": "2026-07-03"
+}

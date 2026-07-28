@@ -1,0 +1,40 @@
+{
+  "name": "Cerean",
+  "wookieepedia_title": "Cerean/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cerean/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Cereans were a sophisticated and cultured humanoid mammalian species hailing from the planet Cerea in the Mid Rim. They were famed for their extraordinary thinking abilities, made possible by large binary brains housed in tall tapering heads, enabling them to focus on many things at the same time. Aside from this unique feature, Cereans were physically similar to Humans, although they each possessed two hearts, which supplied extra blood circulation to support their brains.",
+  "data": {
+    "name": "Cerean",
+    "designation": "Sentient",
+    "class": "Mammalian",
+    "height": "2 meters",
+    "skincolor": "Tan",
+    "haircolor": [
+      "Red",
+      "Blonde",
+      "Brown",
+      "Black"
+    ],
+    "distinctions": [
+      "Binary brains",
+      "Dual hearts"
+    ],
+    "lifespan": [
+      "Child: 0-10 years",
+      "Young adult: 11-14 years",
+      "Adult: 15-49 years",
+      "Middle age: 50-60 years",
+      "Old: 61-69 years",
+      "Venerable: 70+ years"
+    ],
+    "origin": "Cerea",
+    "language": [
+      "Cerean",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Cerea (Legends)"
+}

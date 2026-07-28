@@ -1,0 +1,28 @@
+{
+  "name": "Ongree",
+  "wookieepedia_title": "Ongree",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ongree",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Ongree were an amphibious sentient species native to the planet Skustell. The Jedi Pablo-Jill was a member of this species, as were Jedi Master Coleman Kcaj and the Anklebiter Brigade member Urk G'lar.",
+  "data": {
+    "name": "Ongree",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "skincolor": [
+      "Orange",
+      "Yellow"
+    ],
+    "eyecolor": [
+      "Orange",
+      "Yellow"
+    ],
+    "distinctions": [
+      "4 nostrils",
+      "Lipless mouth"
+    ],
+    "origin": "Skustell"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Skustell (Legends)"
+}

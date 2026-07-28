@@ -1,0 +1,52 @@
+{
+  "name": "Oba Diah",
+  "wookieepedia_title": "Oba Diah/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oba_Diah/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Oba Diah was a planet located close to Kessel, in the Kessel sector of the galaxy's Outer Rim Territories. The homeworld of the Pyke species, it was the base of operations the Pyke Syndicate, a criminal organization of spice dealers.",
+  "lead_paragraphs": [
+    "Oba Diah was a planet located close to Kessel, in the Kessel sector of the galaxy's Outer Rim Territories. The homeworld of the Pyke species, it was the base of operations the Pyke Syndicate, a criminal organization of spice dealers."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Oba Diah",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "coordinates": "T-10",
+    "moons": "Desert moon of Oba Diah",
+    "routes": "Kessel Run",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Obsidian cliffs",
+      "Mountains"
+    ],
+    "species": "Pykes",
+    "exports": "Spice",
+    "affiliation": "Pyke Syndicate"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pyke",
+      "directory": "Pyke",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Pyke",
+      "directory": "Pyke (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Oba Diah",
+    "x": 13272.4,
+    "y": -216.6,
+    "z": 463.6,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Li-Toran",
+  "wookieepedia_title": "Li-Toran",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Li-Toran",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Li-Toran was a volcanic Inner Rim planet that was the homeworld of the sentient, hive-based Melitto insectoids. The planet's atmosphere was noxious, dark, hot, and stormy, while underground, rivers of molten rock carved networks of tunnels and caverns filled with even more toxic steam.",
+  "lead_paragraphs": [
+    "Li-Toran was a volcanic Inner Rim planet that was the homeworld of the sentient, hive-based Melitto insectoids. The planet's atmosphere was noxious, dark, hot, and stormy, while underground, rivers of molten rock carved networks of tunnels and caverns filled with even more toxic steam.",
+    "The latter served as home to the Melitto hives, which were dominated by the species' females and were built around harvesting the Melitto's primary source of nutrition, the sap of the coral-like bleeding rock organism. Most Melitto males who survived the combat involved in the periodic establishment of new hives became hiveless ronin and left Li-Toran. By the time of the Galactic Civil War, the Galactic Empire maintained a garrison on the planet."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Brink of catastrophe",
+    "  Empire and later history",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Li-Toran",
+    "region": [
+      "Inner Rim Territories",
+      "The Interior"
+    ],
+    "sector": "None",
+    "system": "Li-Toran system",
+    "coordinates": "M-13",
+    "class": "Terrestrial",
+    "atmosphere": "Toxic",
+    "climate": [
+      "Hot",
+      "Stormy"
+    ],
+    "terrain": "Volcanic",
+    "interest": "Dometown",
+    "flora": "Underground flora",
+    "fauna": "Underground fauna",
+    "otherlife": "Bleeding rock",
+    "species": "Melitto",
+    "otherspecies": "Humans",
+    "language": "Melitto scent-language",
+    "government": [
+      "Melitto hives",
+      "Planetary council"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Melitto",
+      "directory": "Melitto",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Li-Toran",
+    "x": 3516.3,
+    "y": 2916.6,
+    "z": 35.5,
+    "region": "Inner Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

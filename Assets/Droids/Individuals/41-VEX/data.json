@@ -1,0 +1,31 @@
+{
+  "name": "41-VEX",
+  "wookieepedia_title": "41-VEX",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/41-VEX",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "41-VEX was a medical droid initially stationed at a clinic in Mos Eisley on Tatooine that, in an attempt to purchase its freedom, unwittingly indentured itself to Teemo the Hutt, who upgraded it to serve as a medical and maintenance droid in his palace. The droid escaped Teemo with the assistance of a group of adventurers.",
+  "data": {
+    "type": "Hutt Cartel",
+    "name": "41-VEX",
+    "class": "Medical droid",
+    "pronouns": "new",
+    "sensor": "Blue",
+    "plating": "Gold",
+    "armament": [
+      "Light blaster",
+      "Stun grenades"
+    ],
+    "equipment": [
+      "Comlink",
+      "Emergency repair kit",
+      "Medkit"
+    ],
+    "affiliation": [
+      "Mos Eisley medical clinic",
+      "Teemo the Hutt"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

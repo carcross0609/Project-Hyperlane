@@ -1,0 +1,45 @@
+{
+  "name": "Kejim",
+  "wookieepedia_title": "Kejim",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kejim",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kejim was the planet where the Kejim Outpost, an Empire Reborn base believed to be abandoned after the destruction of the first Death Star, was located.",
+  "lead_paragraphs": [
+    "Kejim was the planet where the Kejim Outpost, an Empire Reborn base believed to be abandoned after the destruction of the first Death Star, was located."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Kejim",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Sertar sector",
+    "system": "Kejim system",
+    "coordinates": "R-5",
+    "terrain": [
+      "Barren",
+      "Canyons"
+    ],
+    "interest": "Kejim Outpost",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Empire",
+      "Empire Reborn"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kejim",
+    "x": 11670.4,
+    "y": -9905.1,
+    "z": -155.7,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

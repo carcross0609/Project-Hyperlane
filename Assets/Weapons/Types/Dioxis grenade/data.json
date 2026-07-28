@@ -1,0 +1,27 @@
+{
+  "name": "Dioxis grenade",
+  "wookieepedia_title": "Dioxis grenade",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dioxis_grenade",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The dioxis grenade, dioxis mine, or dioxis charge was a grenade that upon being thrown, would release a toxic gas known as dioxis. The gas was only mild; however, it would choke to death those who were in its range for an extended period of time. It was known to be used by the BX-series droid commandos of the Separatist Alliance, and later the Rebel Alliance, Galactic Empire, and the New Republic.",
+  "data": {
+    "name": "Dioxis grenade",
+    "type": "Grenade",
+    "size": "Hand-held",
+    "capacity": "Single use",
+    "range": "Thrown weapon",
+    "purpose": "Releasing dioxis",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "  Stormtrooper Corps",
+      "Alliance to Restore the Republic",
+      "  Alliance Army",
+      "New Republic",
+      "  New Republic army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

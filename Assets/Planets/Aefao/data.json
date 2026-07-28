@@ -1,0 +1,53 @@
+{
+  "name": "Aefao",
+  "wookieepedia_title": "Aefao",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aefao",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aefao was the Aefan homeworld, located in the Aefao system. A remote planet, it was on the other side of the galaxy from Nar Shaddaa.",
+  "lead_paragraphs": [
+    "Aefao was the Aefan homeworld, located in the Aefao system. A remote planet, it was on the other side of the galaxy from Nar Shaddaa."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Aefao",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Corosi sector",
+    "system": "Aefao system",
+    "coordinates": "N-5",
+    "class": "Terrestrial",
+    "atmosphere": "Type I oxygen mix",
+    "species": "Aefan",
+    "affiliation": [
+      "Sith Empire",
+      "Brotherhood of Darkness",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Imperial Remnant",
+      "Yuuzhan Vong empire",
+      "Fel Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Aefan",
+      "directory": "Aefan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aefao",
+    "x": 3636.3,
+    "y": 6132.2,
+    "z": 285.0,
+    "region": "Outer Rim",
+    "grid": "N-5"
+  },
+  "scraped": "2026-07-03"
+}

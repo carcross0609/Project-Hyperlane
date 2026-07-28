@@ -1,0 +1,20 @@
+# Shrikarai
+
+**Continuity:** Canon  
+**Source:** [Shrikarai](https://starwars.fandom.com/wiki/Shrikarai)
+
+The Shrikarai, also known as the Nameless, as the Shrii Ka Rai or Shrii-ka-rai (Eaters of the Force or Force Eaters), were creatures that preyed on the Living Force, thus making them into natural predators for Force-sensitive individuals when they were forced off of their homeworld of Sophros. Exploited as weapons against Force-sensitives, the beings had an effect on Force users that strengthened with proximity, causing hallucinations, loss of connection to the Force, and in some cases, death, reducing the victim to a lifeless husk. During the High Republic Era, the Path of the Open Hand, which knew the creatures as "Levelers," used them as part of its crusade to rid the galaxy of Force users. Centuries later, the leader of the Nihil marauders, Eye of the Nihil Marchion Ro, who possessed the means to control the creatures, intended to use the creatures to bring down the Jedi Order and the Galactic Republic; after obtaining and testing the effects of one of the beings, Ro later acquired numerous more. Ro released a number of the Nameless aboard the Starlight Beacon space station at the same time as he dispatched Nihil marauders to orchestrate its destruction, disturbing the Jedi aboard and preventing them from saving the station.
+
+## Biology & Culture
+
+- **Name:** Shrikarai
+- **Designation:** Sentient
+- **Skincolor:** Pale white
+- **Eyecolor:** Red
+- **Distinctions:** Numerous effects on Force-sensitives
+- **Origin:** Sophros
+- **Diet:** Living Force
+
+## Models
+
+Place character/creature model assets for this species in `Models/`.

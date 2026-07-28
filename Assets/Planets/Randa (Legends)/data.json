@@ -1,0 +1,39 @@
+{
+  "name": "Randa",
+  "wookieepedia_title": "Randa/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Randa/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Randa was a planet in the Outer Rim which hosted a small Rebel base during the Galactic Civil War. That led it to be targeted by Imperial Admiral Gaen Drommel, who decimated the Rebels on Randa during the war.",
+  "lead_paragraphs": [
+    "Randa was a planet in the Outer Rim which hosted a small Rebel base during the Galactic Civil War. That led it to be targeted by Imperial Admiral Gaen Drommel, who decimated the Rebels on Randa during the war."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Randa",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Kessel sector",
+    "system": "Randa system",
+    "coordinates": "T-10",
+    "routes": "Pabol Sleheyron",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "interest": "Randa Rebel base"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Randa",
+    "x": 12220.6,
+    "y": -224.1,
+    "z": 197.2,
+    "region": "Outer Rim",
+    "grid": "T-10"
+  },
+  "scraped": "2026-07-03"
+}

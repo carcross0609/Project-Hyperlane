@@ -1,0 +1,31 @@
+{
+  "name": "X (droid)",
+  "wookieepedia_title": "X (droid)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/X_%28droid%29",
+  "continuity": null,
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "X was a battle droid active during the Galactic Civil War. He was found in his manufacturer Kyrotech Corporate Combine's warehouse by a spaceport worker. Via the black market, the latter sold the droid to the pirate leader Zhen Mirat. During a confrontation Mirat's gang had with a group of Rebel Alliance agents, the latter discovered that X had a programmed-in weakness.",
+  "data": {
+    "type": "Criminal",
+    "name": "X",
+    "manufacturer": "Kyrotech Corporate Combine",
+    "model": "Kyrotech Blademaster X-260",
+    "class": "Battle droid",
+    "height": "1.9 meters",
+    "pronouns": "He/him",
+    "sensor": "Fluorescent green",
+    "plating": "Chrome",
+    "armament": [
+      "Blaster pistol",
+      "Magnablade propellor",
+      "Vibroblade"
+    ],
+    "equipment": [
+      "Comlink",
+      "Sonar"
+    ],
+    "affiliation": "The Fatal Visionaries"
+  },
+  "scraped": "2026-07-03"
+}

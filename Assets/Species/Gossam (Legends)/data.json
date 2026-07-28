@@ -1,0 +1,25 @@
+{
+  "name": "Gossam",
+  "wookieepedia_title": "Gossam/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gossam/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Gossams were a small saurian species native to the planet Castell in the Colonies region of the galaxy, with colonies on the Outer Rim worlds of Felucia and Saleucami. Averaging slightly over one meter in height, Gossams had wrinkled skin, with narrowing, shriveled heads on elongated necks. Physical appearance was considered important in Gossam society, and females often curved their hair up from the back of their heads. They were bipeds, balancing their frail bodies on small feet, and had long three-fingered hands. The average lifespan of a Gossam was about seventy-five years.",
+  "data": {
+    "name": "Gossam",
+    "designation": "Sentient",
+    "class": "Reptile",
+    "height": "1.25 meters",
+    "skincolor": [
+      "Blue",
+      "Green"
+    ],
+    "eyecolor": "Yellow",
+    "distinctions": "Wrinkled skin, elongated necks, small shriveled heads",
+    "lifespan": "75 standard years",
+    "origin": "Castell",
+    "language": "Gossam"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Castell (Legends)"
+}

@@ -1,0 +1,133 @@
+{
+  "name": "Corellia",
+  "wookieepedia_title": "Corellia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Corellia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Corellia was a planet located in the galaxy's Core Worlds known for its ace pilots and large starships. The planet's vast shipyards produced many vessels over hundreds of years, including starfighters and Star Destroyers for the Galactic Empire as well as other famous models, such as the YT-1300 light freighter.",
+  "lead_paragraphs": [
+    "Corellia was a planet located in the galaxy's Core Worlds known for its ace pilots and large starships. The planet's vast shipyards produced many vessels over hundreds of years, including starfighters and Star Destroyers for the Galactic Empire as well as other famous models, such as the YT-1300 light freighter.",
+    "It was the homeworld of Han Solo, Qi'ra, Wedge Antilles, Crix Madine, BoShek, the Besalisk Gadren, the Executive Records Officer Winshur Bratt, the bounty hunters Dengar and Mercurial Swift, and the Jedi younglings Kalifa and Petro."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  High Republic Era",
+    "  Twilight of the Republic",
+    "  Age of the Empire",
+    "  Rise of the New Republic",
+    "  First Order",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Corellia",
+    "region": "Core Worlds",
+    "sector": "Corellian sector",
+    "system": "Corellian system",
+    "coordinates": "M-11",
+    "suns": "1: Corell",
+    "moons": [
+      "3:",
+      "Corellia's nearest moon",
+      "Gus",
+      "Gus Talon",
+      "Gus Treta"
+    ],
+    "routes": [
+      "Corellian Run",
+      "Corellian Trade Spine"
+    ],
+    "lengthday": "25 standard hours",
+    "lengthyear": "329 standard days",
+    "class": "Terrestrial",
+    "diameter": "11,000 kilometers (6,835 miles)",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Forests",
+      "Jungles",
+      "Oceans",
+      "Industrial urban"
+    ],
+    "interest": [
+      "Bottoms",
+      "Gilded Descent Casino",
+      "Imperial training center",
+      "Navigation institute",
+      "Santhe Shipyards",
+      "  Facility 301G",
+      "Unbroken Clan Palace",
+      "YT-Series Warranty and Repair Shipyard B33"
+    ],
+    "flora": "Tree",
+    "fauna": [
+      "Bay squid",
+      "Bluevev glider",
+      "Corellian gluttonbug",
+      "Corellian hound",
+      "Corellian sand panther",
+      "Garsmelt",
+      "Needlegawp",
+      "Pulsar skate",
+      "Screerat",
+      "Snomat",
+      "Spukami",
+      "Starlow"
+    ],
+    "species": [
+      "Human",
+      "  Corellian"
+    ],
+    "otherspecies": [
+      "Arcona",
+      "Besalisk",
+      "Bonbrak",
+      "Dowutin",
+      "Grindalid",
+      "Kel Dor",
+      "Kubaz",
+      "Lasat",
+      "Mantellian Savrip",
+      "Pa'lowick",
+      "Rodian",
+      "Sullustan",
+      "Twi'lek",
+      "Ugor",
+      "Weequay",
+      "Wookiee"
+    ],
+    "population": "3 billion",
+    "demonym": "Corellian",
+    "cities": [
+      "Coronet City (capital)",
+      "Kor Vella",
+      "Tyrena",
+      "Bela Vistal",
+      "Doaba Guerfel"
+    ],
+    "exports": "Starships",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic",
+      "First Order (occupation)"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Corellian",
+      "directory": "Corellian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Corellia",
+    "x": 2363.3,
+    "y": -2790.6,
+    "z": -6.7,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

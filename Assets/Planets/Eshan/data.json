@@ -1,0 +1,36 @@
+{
+  "name": "Eshan",
+  "wookieepedia_title": "Eshan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eshan",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Eshan was a planet in the Eshan system of the Inner Rim Territories where the infamous Droid Gotra caused a gang dispute, resulting in the loss of many innocents. Eshan was also the homeworld of Tayshin Maxa and Moda Maxa.",
+  "lead_paragraphs": [
+    "Eshan was a planet in the Eshan system of the Inner Rim Territories where the infamous Droid Gotra caused a gang dispute, resulting in the loss of many innocents. Eshan was also the homeworld of Tayshin Maxa and Moda Maxa."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Eshan",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Eshan system",
+    "coordinates": "N-8",
+    "otherspecies": "Human"
+  },
+  "homeworld_of": [
+    {
+      "name": "Echani",
+      "directory": "Echani (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Eshan",
+    "x": 3565.0,
+    "y": 2637.8,
+    "z": 3.7,
+    "region": "Inner Rim",
+    "grid": "N-8"
+  },
+  "scraped": "2026-07-03"
+}

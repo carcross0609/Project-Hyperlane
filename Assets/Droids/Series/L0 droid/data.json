@@ -1,0 +1,25 @@
+{
+  "name": "L0 droid",
+  "wookieepedia_title": "L0 droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/L0_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "L0 droids were a model of toy droid manufactured by LeisureMech Enterprises. They were small and disk shaped and could easily be carried by children in their hands or pockets and had small unfoldable wings and repulsor technology to fly, and small retractable legs. They were equipped with one large front facing photoreceptor and an additional smaller one, a short-range antenna and multiple accessories including a mini saw, flashlight and arc welder and could communicate in binary.",
+  "data": {
+    "name": "L0 droid",
+    "manufacturer": "LeisureMech Enterprises",
+    "model": "L0",
+    "class": "Toy droid",
+    "sensor": [
+      "Blue",
+      "Red"
+    ],
+    "plating": [
+      "White",
+      "Red",
+      "Silver"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

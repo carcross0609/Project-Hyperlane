@@ -1,0 +1,61 @@
+{
+  "name": "Secundus Ando",
+  "wookieepedia_title": "Secundus Ando",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Secundus_Ando",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Secundus Ando was a cavernous planet in the Secundus Ando system in the Lambda sector of the Mid Rim that was the homeworld of the Harch species, which included Admiral Trench, who served the Confederacy of Independent Systems during the Clone Wars. The planet was covered with large factory cities, with some preserved arboreal areas reserved for the Harch ruling nests. The primary language of Secundus Ando was Harchic, and second and third were Aqualish and Basic, respectively.",
+  "lead_paragraphs": [
+    "Secundus Ando was a cavernous planet in the Secundus Ando system in the Lambda sector of the Mid Rim that was the homeworld of the Harch species, which included Admiral Trench, who served the Confederacy of Independent Systems during the Clone Wars. The planet was covered with large factory cities, with some preserved arboreal areas reserved for the Harch ruling nests. The primary language of Secundus Ando was Harchic, and second and third were Aqualish and Basic, respectively.",
+    "Secundus Ando had a large Aqualish influence due to their proximity, and the Harch often sided with the Spiverelda, the totalitarian government of the Lambda sector. This ultimately led to their dislike of the Galactic Republic, when the Republic sided with the Andoan Free Colonies in the Andoan Wars, leading to conflict with the Harch."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Secundus Ando",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Lambda sector",
+    "system": "Secundus Ando system",
+    "coordinates": "Q-15",
+    "climate": "Temperate",
+    "terrain": [
+      "Cavernous",
+      "Cities",
+      "Preserved arboreal areas"
+    ],
+    "flora": "Massive trees",
+    "species": "Harch",
+    "language": [
+      "Aqualish",
+      "Galactic Basic Standard",
+      "Harchic"
+    ],
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Ruling nests"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Harch",
+      "directory": "Harch",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Harch",
+      "directory": "Harch (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Secundus Ando",
+    "x": 7983.0,
+    "y": -8882.0,
+    "z": 159.6,
+    "region": "Mid Rim",
+    "grid": "Q-15"
+  },
+  "scraped": "2026-07-03"
+}

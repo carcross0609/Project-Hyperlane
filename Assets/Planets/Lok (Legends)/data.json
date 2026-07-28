@@ -1,0 +1,123 @@
+{
+  "name": "Lok",
+  "wookieepedia_title": "Lok/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Lok/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Lok was a barren and dusty pirate world in the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Lok was a barren and dusty pirate world in the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Old Republic era",
+    "  Imperial era",
+    "  Post-Galactic Civil War"
+  ],
+  "data": {
+    "name": "Lok",
+    "region": [
+      "Outer Rim Territories",
+      "Trailing Sectors"
+    ],
+    "sector": "Karthakk sector",
+    "system": "Karthakk system",
+    "coordinates": "Q-17",
+    "suns": "1: Karthakk",
+    "moons": [
+      "2",
+      "Khons"
+    ],
+    "lengthday": "24 standard hours",
+    "lengthyear": "316 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Deserts",
+      "Sulfur pools",
+      "Mountains",
+      "Lava lands"
+    ],
+    "interest": [
+      "Badlands",
+      "Brogar's Safe House and Cantina",
+      "Corsair Lane",
+      "Grendin Waste",
+      "Imperial Mine",
+      "Imperial Outpost",
+      "Kedarin Highlands",
+      "Mosseru Hills",
+      "Mount Chaolt",
+      "Nym Protectorate",
+      "Nym's Factory Compound",
+      "Plains of Dust",
+      "Rancid Ridge",
+      "Secret Laboratory",
+      "Sulfur Lake",
+      "Sulphur Hills",
+      "Westerly"
+    ],
+    "flora": [
+      "Paddle cactus",
+      "Yellow pod weed",
+      "Low growing weed",
+      "Tall weed",
+      "Flowering cactus"
+    ],
+    "fauna": [
+      "Flit",
+      "Gurk",
+      "Gurnaset",
+      "Kimogila",
+      "Kusak",
+      "Langlatch",
+      "Perlek",
+      "Pharple",
+      "Salt mynock",
+      "Snorbal",
+      "Spined snake",
+      "Sulfur mynock",
+      "Sulfur slug",
+      "Vesp"
+    ],
+    "otherspecies": "Human",
+    "language": [
+      "Galactic Basic Standard",
+      "Lok Pirate's Cant"
+    ],
+    "government": "Despotism",
+    "population": [
+      "20% Human",
+      "80% other species"
+    ],
+    "demonym": "Lokkian",
+    "cities": [
+      "Nym's Stronghold (capital)",
+      "Kimogila Town (formerly)"
+    ],
+    "imports": [
+      "Foodstuff",
+      "Technology",
+      "Luxury goods"
+    ],
+    "exports": "None",
+    "affiliation": [
+      "Trade Federation",
+      "Lok Revenants",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Lok",
+    "x": 8267.5,
+    "y": -10819.3,
+    "z": -46.5,
+    "region": "Outer Rim",
+    "grid": "Q-17"
+  },
+  "scraped": "2026-07-03"
+}

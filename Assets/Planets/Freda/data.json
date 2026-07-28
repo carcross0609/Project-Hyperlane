@@ -1,0 +1,40 @@
+{
+  "name": "Freda",
+  "wookieepedia_title": "Freda",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Freda",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Freda was a terrestrial world within the Freda system, located near Jante on the Mid Rim of the galaxy, and home to the Freda. During the Galactic Civil War, it was under the control of the Galactic Empire.",
+  "lead_paragraphs": [
+    "Freda was a terrestrial world within the Freda system, located near Jante on the Mid Rim of the galaxy, and home to the Freda. During the Galactic Civil War, it was under the control of the Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Freda",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Esaga sector",
+    "system": "Freda system",
+    "coordinates": "Q-11",
+    "species": "Freda",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Freda",
+      "directory": "Freda (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Freda",
+    "x": 7829.2,
+    "y": -2440.0,
+    "z": 309.5,
+    "region": "Mid Rim",
+    "grid": "Q-11"
+  },
+  "scraped": "2026-07-03"
+}

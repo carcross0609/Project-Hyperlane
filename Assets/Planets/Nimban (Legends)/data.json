@@ -1,0 +1,84 @@
+{
+  "name": "Nimban",
+  "wookieepedia_title": "Nimban/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nimban/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nimban was a Hutt Space planet that was the homeworld of the sentient Nimbanel species. Having evolved from herbivorous reptiles that had tracked moving plants across Nimban's plains, the Nimbanese preferred an intellectual approach to problem-solving instead of violence and excelled at dealing with bureaucracies. Nimban was a part of the Hutt Empire by 25,102 BBY, and the Nimbanese played an important role in the foundation of the galactic Bureau of Ships and Services around 18,000 BBY.",
+  "lead_paragraphs": [
+    "Nimban was a Hutt Space planet that was the homeworld of the sentient Nimbanel species. Having evolved from herbivorous reptiles that had tracked moving plants across Nimban's plains, the Nimbanese preferred an intellectual approach to problem-solving instead of violence and excelled at dealing with bureaucracies. Nimban was a part of the Hutt Empire by 25,102 BBY, and the Nimbanese played an important role in the foundation of the galactic Bureau of Ships and Services around 18,000 BBY.",
+    "Nimban eventually became a member world of the Galactic Republic. Centuries before the Galactic Civil War, however, the Nimbanese Krovalis clan led the species and their homeworld into seceding from the Republic and petitioning the Hutt clans to voluntarily become a part of Hutt Space and enter servitude to the Hutt species. By the time of the Galactic Civil War, Nimban was the site of the headquarters of the companies Delban Faxicorp and Hoersch-Kessel Drive, Inc. The Yuuzhan Vong eventually conquered the Nimban system as part of their invasion of the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Early history",
+    "  Joining and leaving the Republic",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Nimban",
+    "region": [
+      "The Slice",
+      "  Hutt Space"
+    ],
+    "system": "Nimban system",
+    "coordinates": "S-10",
+    "routes": [
+      "Pabol Sleheyron",
+      "Sisar Run"
+    ],
+    "lengthyear": "Three fifths of a standard year",
+    "class": "Terrestrial",
+    "terrain": "Plains",
+    "interest": [
+      "Bureau of Ships and Services office",
+      "Delban Faxicorp headquarters",
+      "Hoersch-Kessel Drive, Inc. headquarters"
+    ],
+    "flora": [
+      "Boyy'lo",
+      "Puzzleflower"
+    ],
+    "fauna": [
+      "Jowlpreener",
+      "Nimbanel precursor species"
+    ],
+    "species": "Nimbanel",
+    "language": [
+      "Nimbanese",
+      "Huttese",
+      "Galactic Basic Standard"
+    ],
+    "government": "Clan-based states",
+    "population": "1–10 billion (Nimban system) (c. 25 ABY)",
+    "demonym": "Nimbanese",
+    "affiliation": [
+      "Hutt Empire",
+      "Galactic Republic",
+      "Hutt Cartel"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Nimbanel",
+      "directory": "Nimbanel",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Nimbanel",
+      "directory": "Nimbanel (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nimban",
+    "x": 10848.1,
+    "y": -504.5,
+    "z": 14.4,
+    "region": "Hutt Space",
+    "grid": "S-10"
+  },
+  "scraped": "2026-07-03"
+}

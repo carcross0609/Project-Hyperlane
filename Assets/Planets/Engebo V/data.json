@@ -1,0 +1,47 @@
+{
+  "name": "Engebo V",
+  "wookieepedia_title": "Engebo V",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Engebo_V",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Engebo V was a planet in the Outer Rim Territories with constant winds.",
+  "lead_paragraphs": [
+    "Engebo V was a planet in the Outer Rim Territories with constant winds."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Engebo V",
+    "region": "Outer Rim Territories",
+    "sector": "Danjar sector",
+    "system": "Engebo system",
+    "coordinates": "N-18",
+    "suns": "1: Engebo",
+    "terrain": [
+      "Grasslands",
+      "Oceans",
+      "Scrublands"
+    ],
+    "species": [
+      "None",
+      "Formerly: Humans, Gotals"
+    ],
+    "language": [
+      "None",
+      "Formerly: Galactic Basic Standard"
+    ],
+    "population": "0",
+    "cities": "Landing (capital)"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Engebo V",
+    "x": 14571.2,
+    "y": 5105.2,
+    "z": 133.4,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

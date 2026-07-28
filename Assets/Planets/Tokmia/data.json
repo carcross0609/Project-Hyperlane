@@ -1,0 +1,44 @@
+{
+  "name": "Tokmia",
+  "wookieepedia_title": "Tokmia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tokmia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Tokmia was a planet located in the Anoat sector of the galaxy's Outer Rim Territories. Figg Excavations mined the world for crystals, though they eventually abandoned it, leaving behind some crystals guarded by a still-active security system.",
+  "lead_paragraphs": [
+    "Tokmia was a planet located in the Anoat sector of the galaxy's Outer Rim Territories. Figg Excavations mined the world for crystals, though they eventually abandoned it, leaving behind some crystals guarded by a still-active security system."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tokmia",
+    "region": [
+      "Outer Rim Territories",
+      "  Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Javin sector",
+      "  Anoat sector"
+    ],
+    "system": "Tokmia system",
+    "coordinates": "K-18",
+    "exports": "Crystals",
+    "affiliation": "Figg Excavations"
+  },
+  "homeworld_of": [
+    {
+      "name": "Oku",
+      "directory": "Oku",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tokmia",
+    "x": -1175.8,
+    "y": -12929.7,
+    "z": 80.8,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

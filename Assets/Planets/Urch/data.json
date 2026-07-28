@@ -1,0 +1,39 @@
+{
+  "name": "Urch",
+  "wookieepedia_title": "Urch",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Urch",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Urch was a terrestrial world located in the Urch system of the Unknown Regions. It was the homeworld of the Urchiv-ki species and the capital of their nation, the Tower Dimension. Space traffic around Urch was controlled by Urch Planetary and Space Control.",
+  "lead_paragraphs": [
+    "Urch was a terrestrial world located in the Urch system of the Unknown Regions. It was the homeworld of the Urchiv-ki species and the capital of their nation, the Tower Dimension. Space traffic around Urch was controlled by Urch Planetary and Space Control.",
+    "In 19 BBY, the Nikardun Destiny, the hegemony of the Nikardun species, subjugated the Tower Dimension. After the Chiss Ascendancy stole one of their frigates, the Nikardun invited the Chiss ambassador Boadil'par'gasoi, core name \"Ilparg,\" to the Urchiv-ki homeworld as bait in hopes of capturing a Chiss vessel in retaliation. Ilparg was sent on a diplomatic mission aboard the Nightdragon man-of-war Vigilant, which the Nikardun and their Lioaoi and Urchiv-ki allies attempted to capture. However, the man-of-war was able to escape."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Urch",
+    "region": "Unknown Regions",
+    "sector": "N/A",
+    "system": "Urch system",
+    "coordinates": "F-7",
+    "class": "Terrestrial",
+    "interest": "Urchiv-ki art galleries",
+    "species": "Urchiv-ki",
+    "government": "Tower Dimension",
+    "affiliation": "Nikardun Destiny"
+  },
+  "homeworld_of": [
+    {
+      "name": "Urchiv-ki",
+      "directory": "Urchiv-ki",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

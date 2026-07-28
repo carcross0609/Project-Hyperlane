@@ -1,0 +1,65 @@
+{
+  "name": "Gigor",
+  "wookieepedia_title": "Gigor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gigor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Gigor was a frigid planet located in the Tynquay sector of the galaxy's Outer Rim Territories, and was the homeworld of the Gigoran species. During the age of the Galactic Empire, many Gigorans were captured by marauding Zygerrian enslavers and subsequently forced into hard labor off of their homeworld. Among these individuals was Senna, a Gigoran who was forced to work as a slave in the spice mines on Kessel.",
+  "lead_paragraphs": [
+    "Gigor was a frigid planet located in the Tynquay sector of the galaxy's Outer Rim Territories, and was the homeworld of the Gigoran species. During the age of the Galactic Empire, many Gigorans were captured by marauding Zygerrian enslavers and subsequently forced into hard labor off of their homeworld. Among these individuals was Senna, a Gigoran who was forced to work as a slave in the spice mines on Kessel."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gigor",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Tynquay sector",
+    "system": "Gigor system",
+    "coordinates": "R-4",
+    "routes": "Listehol Run",
+    "climate": "Frigid",
+    "terrain": [
+      "Snow-covered, mountainous with caves",
+      "Hot springs",
+      "Valleys"
+    ],
+    "flora": [
+      "Bushes",
+      "Trees",
+      "Mushrooms"
+    ],
+    "fauna": [
+      "Ice scrabbler",
+      "Icetromper",
+      "Jakobeast",
+      "Jexxel cat",
+      "Snow shredder bat"
+    ],
+    "species": "Gigoran",
+    "language": "Gigoran",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Gigoran",
+      "directory": "Gigoran",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gigoran",
+      "directory": "Gigoran (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gigor",
+    "x": 9436.5,
+    "y": 8370.7,
+    "z": -196.3,
+    "region": "Outer Rim",
+    "grid": "R-4"
+  },
+  "scraped": "2026-07-03"
+}

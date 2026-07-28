@@ -1,0 +1,37 @@
+{
+  "name": "Czerialus",
+  "wookieepedia_title": "Czerialus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Czerialus",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Czerialus was a planet in the Czerialus system in the Kailion sector of the Expansion Region that was the homeworld of the Czerialan species. During the Imperial Era, the planet was under Imperial control and the Xoczuko family sought to return after being disheartened on Corellia, unaware of the Empire's control on the planet.",
+  "lead_paragraphs": [
+    "Czerialus was a planet in the Czerialus system in the Kailion sector of the Expansion Region that was the homeworld of the Czerialan species. During the Imperial Era, the planet was under Imperial control and the Xoczuko family sought to return after being disheartened on Corellia, unaware of the Empire's control on the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Czerialus",
+    "region": "Expansion Region",
+    "sector": "Kailion sector",
+    "system": "Czerialus system",
+    "coordinates": "O-13",
+    "species": "Czerialan",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Czerialan",
+      "directory": "Czerialan",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Czerialus",
+    "x": 5505.5,
+    "y": -3435.0,
+    "z": -16.8,
+    "region": "Other",
+    "grid": "O-12"
+  },
+  "scraped": "2026-07-03"
+}

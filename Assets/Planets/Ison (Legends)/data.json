@@ -1,0 +1,44 @@
+{
+  "name": "Ison",
+  "wookieepedia_title": "Ison/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ison/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ison was a cold, desolate planet in the Ison system, and little more than an obscure waypoint on the dangerous Ison Corridor.",
+  "lead_paragraphs": [
+    "Ison was a cold, desolate planet in the Ison system, and little more than an obscure waypoint on the dangerous Ison Corridor.",
+    "Largely considered devoid of any real planets, Ison and the Ison system itself were little more than a dense debris field surrounding the system's white dwarf star. Large nebula wisps from the corridor encapsulated and suffused the system at differing densities, making travel in and around the system an extremely risky venture; this more than anything else contributed greatly to the system's obscurity. It was calculated by the Outer Rim HazNav (an agency that charted stellar dangers to hyperspace and sublight navigation), that the wisps would entirely close the system off in several centuries, making the system virtually impossible to enter.",
+    "Despite the danger the debris field and wisps presented, Ison, rather than Anoat, was used by the Rebellion to approach Hoth in order to minimize their chances of detection by Imperial forces."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ison",
+    "region": [
+      "Outer Rim Territories; Greater Javin",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector",
+    "system": "Ison system",
+    "coordinates": "K-18",
+    "suns": "Ison",
+    "routes": "Ison Corridor",
+    "class": "Asteroid belt",
+    "atmosphere": "None (in debris field)",
+    "gravity": "None (in debris field)",
+    "terrain": "Barren, desolate",
+    "government": "None",
+    "population": "None",
+    "imports": "None",
+    "exports": "None"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ison",
+    "x": -1367.3,
+    "y": -12918.6,
+    "z": -227.7,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

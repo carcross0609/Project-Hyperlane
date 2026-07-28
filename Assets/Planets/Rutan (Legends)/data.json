@@ -1,0 +1,56 @@
+{
+  "name": "Rutan",
+  "wookieepedia_title": "Rutan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rutan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Rutan was a planet in the Outer Rim Territories, on the Hydian Way.",
+  "lead_paragraphs": [
+    "Rutan was a planet in the Outer Rim Territories, on the Hydian Way.",
+    "A Rutanian tradition was to go hunting most days of the week, and after the hunts, the Rutanians would have a huge meat feast."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Rutan",
+    "region": "Outer Rim Territories",
+    "sector": "Atravis sector",
+    "system": "Rutan system",
+    "coordinates": "L-20",
+    "moons": "Senali",
+    "routes": "Hydian Way",
+    "class": "Terrestrial",
+    "terrain": "Plains",
+    "fauna": [
+      "Hud",
+      "Kudana"
+    ],
+    "species": "Rutanians",
+    "language": "Galactic Basic Standard",
+    "population": "100 million to 500 million (c.25 ABY)",
+    "cities": "Testa (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Nagai",
+      "Yuuzhan Vong"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Rutanian",
+      "directory": "Rutanian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rutan",
+    "x": 163.1,
+    "y": -15238.0,
+    "z": -119.8,
+    "region": "Outer Rim",
+    "grid": "L-20"
+  },
+  "scraped": "2026-07-03"
+}

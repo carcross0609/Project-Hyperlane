@@ -1,0 +1,52 @@
+{
+  "name": "Ukio",
+  "wookieepedia_title": "Ukio",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ukio",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ukio was a bountiful agrarian planet located in the Abrion sector of the galaxy's Outer Rim Territories, connected by hyperlane to Rishi and Molavar. Ukio also enjoyed a trade route with another argiworld, Noomis Riga. Its native inhabitants were the Ukians. During the last decades of the Galactic Republic, Ukio acted as a breadbasket of the Core Worlds and overall Republic. However, during the Secessionist Movement, the Ukians began to resent the Republic for not helping them enough. Eventually, Ukio joined the Confederacy of Independent Systems.",
+  "lead_paragraphs": [
+    "Ukio was a bountiful agrarian planet located in the Abrion sector of the galaxy's Outer Rim Territories, connected by hyperlane to Rishi and Molavar. Ukio also enjoyed a trade route with another argiworld, Noomis Riga. Its native inhabitants were the Ukians. During the last decades of the Galactic Republic, Ukio acted as a breadbasket of the Core Worlds and overall Republic. However, during the Secessionist Movement, the Ukians began to resent the Republic for not helping them enough. Eventually, Ukio joined the Confederacy of Independent Systems.",
+    "The tensions between the Republic and Separatists resulted in the Clone Wars. With the conflict being fought by clone troopers and battle droids, who cost their respective governments great deals of credits, economically important planets like Ukio became targets. During a battle for Noomis Riga, the farmer Fond Dachris hoped the Grand Army of the Republic would advance all the way to Ukio, thereby reopening a kernel trade route to Noomis Riga in time for their next harvest. Dachris would never live to see if he was right, however, as he was murdered by his neighbor Sim Aloo as part of Aloo's scheme to steal his farm.",
+    "Ultimately, despite it having joined the CIS before the war, Ukio again became a granary for the Republic during the conflict. In 3 BBY, Bix Caleen purchased three melons fresh from Ukio at a shop on Coruscant. After fleeing from the Battle of Scarif in 1 BBY, Princess Leia Organa ordered Rebel Alliance Captain Raymus Antilles to take her CR90 corvette, Tantive IV, to the planet Tatooine. In order to try and evade Imperial pursuit, Antilles followed no direct line and doubled back on himself during the journey, jumping first from the Scarif system to Ukio, and then on to Roon."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ukio",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Abrion sector",
+    "system": "Ukio system",
+    "coordinates": "S-15",
+    "routes": "Manda Merchant Run",
+    "species": "Ukian",
+    "exports": "Foodstuffs",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Ukian",
+      "directory": "Ukian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ukian",
+      "directory": "Ukian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ukio",
+    "x": 10993.7,
+    "y": -8002.2,
+    "z": -366.4,
+    "region": "Outer Rim",
+    "grid": "S-15"
+  },
+  "scraped": "2026-07-03"
+}

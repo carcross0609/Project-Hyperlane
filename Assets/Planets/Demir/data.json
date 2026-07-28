@@ -1,0 +1,43 @@
+{
+  "name": "Demir",
+  "wookieepedia_title": "Demir",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Demir",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Demir was an iron planet located in the Unknown Regions of the galaxy. At some point, Captain Phasma of the First Order led an attack on the world.",
+  "lead_paragraphs": [
+    "Demir was an iron planet located in the Unknown Regions of the galaxy. At some point, Captain Phasma of the First Order led an attack on the world."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Demir",
+    "region": "Unknown Regions",
+    "sector": "None",
+    "system": "Demir system",
+    "coordinates": "G-6",
+    "suns": "2",
+    "moons": "At least 1",
+    "class": "Terrestrial",
+    "terrain": "Rocky",
+    "interest": "Demirian stronghold",
+    "species": "Demirian",
+    "demonym": "Demirian",
+    "affiliation": "First Order"
+  },
+  "homeworld_of": [
+    {
+      "name": "Demirian",
+      "directory": "Demirian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Demir",
+    "x": -8312.7,
+    "y": 2878.6,
+    "z": -363.0,
+    "region": "Unknown Regions",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

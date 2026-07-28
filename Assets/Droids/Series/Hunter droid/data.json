@@ -1,0 +1,29 @@
+{
+  "name": "Hunter droid",
+  "wookieepedia_title": "Hunter droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hunter_droid",
+  "continuity": "Canon",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The hunter droid was a type of assassin droid. One known hunter droid was M-OC, who was built by Emperor Sheev Palpatine to locate a legendary weapon, even if it meant destroying the Freemaker family, as R0-GR recalled.",
+  "data": {
+    "name": "Hunter droid",
+    "class": "Assassin droid",
+    "sensor": "Red",
+    "armament": [
+      "Blasters",
+      "Lightsabers",
+      "Buzz saw",
+      "Flamethrowers",
+      "Grappling arms",
+      "Missile launcher",
+      "Sonic cannon",
+      "Rocket boosters"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

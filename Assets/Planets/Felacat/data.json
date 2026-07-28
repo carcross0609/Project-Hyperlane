@@ -1,0 +1,39 @@
+{
+  "name": "Felacat",
+  "wookieepedia_title": "Felacat",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Felacat",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Felacat was the Felacatian homeworld. It was located in the Outer Rim Territories, and its inhabitants were cat people who would transform into tiger-like creatures when in hyperspace for too long. During the Clone Wars, the Confederacy of Independent Systems laid siege to Felacat.",
+  "lead_paragraphs": [
+    "Felacat was the Felacatian homeworld. It was located in the Outer Rim Territories, and its inhabitants were cat people who would transform into tiger-like creatures when in hyperspace for too long. During the Clone Wars, the Confederacy of Independent Systems laid siege to Felacat."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Felacat",
+    "region": "Outer Rim Territories",
+    "sector": "Grohl sector",
+    "system": "Felacat system",
+    "coordinates": "R-15",
+    "moons": "At least two",
+    "terrain": "Terrestrial",
+    "interest": "Royal Felacatian Palace",
+    "species": "Felacatians"
+  },
+  "homeworld_of": [
+    {
+      "name": "Felacatian",
+      "directory": "Felacatian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Felacat",
+    "x": 9802.6,
+    "y": -8653.1,
+    "z": -373.5,
+    "region": "Outer Rim",
+    "grid": "R-15"
+  },
+  "scraped": "2026-07-03"
+}

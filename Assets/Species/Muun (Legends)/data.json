@@ -1,0 +1,37 @@
+{
+  "name": "Muun",
+  "wookieepedia_title": "Muun/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Muun/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Muuns were a thin, tall humanoid species from the mineral-rich planet of Muunilinst, though they also dwelled on the frozen world of Scipio. The founders of the InterGalactic Banking Clan, the largest banking organization in the galaxy, Muuns were known throughout the galaxy for their excellent financial and mathematical skills. Seeking economic stability, the Galactic Empire exempted Muuns from their wide-spread non-Human persecution, in order to utilize Muuns and their economic finesse.",
+  "data": {
+    "name": "Muun",
+    "designation": "Sentient",
+    "class": "Mammalian",
+    "height": "1.9 meters",
+    "skincolor": [
+      "Pale",
+      "Brown",
+      "Gray",
+      "Pink",
+      "White"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Brown"
+    ],
+    "distinctions": [
+      "Three hearts",
+      "Elongated skulls"
+    ],
+    "lifespan": "Over 100 years old",
+    "origin": "Muunilinst",
+    "language": [
+      "Muun",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Muunilinst (Legends)"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fly eye",
+  "wookieepedia_title": "Fly eye",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fly_eye",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The fly eye was a surveillance droid. It was invented by the Loronar Corporation.",
+  "data": {
+    "name": "Fly eye",
+    "manufacturer": "Loronar Corporation",
+    "class": "Surveillance droid",
+    "cost": "1400 credits",
+    "length": "6 centimeters (diameter)",
+    "height": "3 centimeters",
+    "equipment": [
+      "Miniature repulsorlift engine",
+      "Holographic recorder",
+      "4 Clawed gripper legs",
+      "Tightbeam antenna",
+      "Heat dispersal vents"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

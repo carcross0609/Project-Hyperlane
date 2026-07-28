@@ -1,0 +1,27 @@
+{
+  "name": "Mustafarian",
+  "wookieepedia_title": "Mustafarian/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mustafarian/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "Mustafarians were an insectoid sentient species native to the volcanic planet Mustafar. They were divided into two subspecies: the taller, thinner northern Mustafarians, and a smaller, stockier, and hardier southern Mustafarians.",
+  "data": {
+    "name": "Mustafarian",
+    "designation": "Sentient",
+    "class": "Insectoid",
+    "subspecies": [
+      "Northern Mustafarian",
+      "Southern Mustafarian"
+    ],
+    "height": [
+      "2.29 meters (northern)",
+      "1.5 meters (southern)"
+    ],
+    "mass": "65 kilograms (northern)",
+    "distinctions": "Extremophiles",
+    "origin": "Mustafar",
+    "language": "Mustafarian"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Mustafar (Legends)"
+}

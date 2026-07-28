@@ -1,0 +1,47 @@
+{
+  "name": "Listehol",
+  "wookieepedia_title": "Listehol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Listehol/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Listehol was a planet located in the Listehol system within the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Listehol was a planet located in the Listehol system within the Outer Rim Territories.",
+    "During the Clone Wars, the planet was located within Separatist space. Later on it fell under control of the Galactic Empire."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Listehol",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Kwymar sector",
+    "system": "Listehol system",
+    "coordinates": "Q-4",
+    "routes": [
+      "Hydian Way",
+      "  Morellian Trail",
+      "Listehol Run"
+    ],
+    "otherspecies": "Zygerrians",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Zygerrian Slave Empire",
+      "Galactic Empire",
+      "Zsinj's Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Listehol",
+    "x": 8029.0,
+    "y": 8869.8,
+    "z": 106.5,
+    "region": "Outer Rim",
+    "grid": "Q-4"
+  },
+  "scraped": "2026-07-03"
+}

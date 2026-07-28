@@ -1,0 +1,38 @@
+{
+  "name": "Thalassia",
+  "wookieepedia_title": "Thalassia/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Thalassia/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Thalassia was a planet located within the Thalassian system of the Outer Rim Territories. It was one of the slavery capitals of the outer rim and the location of the Thalassian slavers' base of operations and the home planet of the Thalassians.",
+  "lead_paragraphs": [
+    "Thalassia was a planet located within the Thalassian system of the Outer Rim Territories. It was one of the slavery capitals of the outer rim and the location of the Thalassian slavers' base of operations and the home planet of the Thalassians."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Thalassia",
+    "region": "Outer Rim Territories",
+    "sector": "Meram sector",
+    "system": "Thalassian system",
+    "coordinates": "P-4",
+    "species": "Thalassian",
+    "population": "1 million to 10 million",
+    "affiliation": "Thalassian slavers"
+  },
+  "homeworld_of": [
+    {
+      "name": "Thalassian",
+      "directory": "Thalassian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Thalassia",
+    "x": 6582.8,
+    "y": 8031.2,
+    "z": 432.8,
+    "region": "Outer Rim",
+    "grid": "P-4"
+  },
+  "scraped": "2026-07-03"
+}

@@ -124,6 +124,14 @@ code path (net-aware discipline, TechnicalArchitecture §1.5).
 **Responsibility:** the shape of space — what connects to what, how long
 travel takes, and who controls the roads. Owned by `FTravelNetwork`.
 
+> **Deep spec:** the full data model and architecture — nodes (systems,
+> junctions, beacons), lanes and restrictions, gravity wells, hazards, the
+> course/leg/waypoint model, the router and cost profiles, travel time / fuel /
+> hyperdrive-class / safety metadata, and the dynamic-roads overlay (blockades,
+> interdiction, unexplored space) — lives in `HyperspaceNavigation.md`
+> (DR-33…38). This section states the responsibilities and rules; that document
+> defines the classes that implement them.
+
 ### Data model
 
 | Definition (per lane / generated from atlas) | State (runtime) |

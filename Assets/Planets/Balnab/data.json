@@ -1,0 +1,50 @@
+{
+  "name": "Balnab",
+  "wookieepedia_title": "Balnab",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Balnab",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Balnab was a temperate planet located in the Bright Jewel sector of the Mid Rim, near Patitite Pattuna. During the Clone Wars, it served as a home to a group of alien castaways.",
+  "lead_paragraphs": [
+    "Balnab was a temperate planet located in the Bright Jewel sector of the Mid Rim, near Patitite Pattuna. During the Clone Wars, it served as a home to a group of alien castaways."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Balnab",
+    "region": "Mid Rim Territories",
+    "sector": "Bright Jewel sector",
+    "system": "Balnab system",
+    "coordinates": "L-7",
+    "atmosphere": "Breathable by most humanoids",
+    "climate": "Temperate",
+    "terrain": [
+      "Rocky canyons",
+      "Swamps"
+    ],
+    "interest": "Balnab Spaceport",
+    "flora": [
+      "Dianoga's Kiss",
+      "Umbrella tree"
+    ],
+    "fauna": [
+      "Hesten",
+      "Tee-muss (Immigrated species)"
+    ],
+    "otherspecies": "Unidentified tentacle-faced species",
+    "government": "Dictatorship",
+    "affiliation": "Neutral"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Balnab",
+    "x": 125.8,
+    "y": 3424.2,
+    "z": 29.4,
+    "region": "Mid Rim",
+    "grid": "L-7"
+  },
+  "scraped": "2026-07-03"
+}

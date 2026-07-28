@@ -1,0 +1,45 @@
+{
+  "name": "Huk",
+  "wookieepedia_title": "Huk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Huk",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Huk was a desolate planet within the Huk system, a star system in Wild Space, the homeworld of the technologically-advanced insectoid Yam'rii species.",
+  "lead_paragraphs": [
+    "Huk was a desolate planet within the Huk system, a star system in Wild Space, the homeworld of the technologically-advanced insectoid Yam'rii species."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Contradictions"
+  ],
+  "data": {
+    "name": "Huk",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Huk system",
+    "coordinates": "J-4",
+    "species": "Yam'rii"
+  },
+  "homeworld_of": [
+    {
+      "name": "Yam'rii",
+      "directory": "Yam'rii",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Yam'rii",
+      "directory": "Yam'rii (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Huk",
+    "x": -2784.2,
+    "y": 8406.1,
+    "z": 110.2,
+    "region": "Wild Space",
+    "grid": "J-4"
+  },
+  "scraped": "2026-07-03"
+}

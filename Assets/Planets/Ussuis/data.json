@@ -1,0 +1,40 @@
+{
+  "name": "Ussuis",
+  "wookieepedia_title": "Ussuis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ussuis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ussuis was the second planet in the Centares system. It was covered in toxic oceans.",
+  "lead_paragraphs": [
+    "Ussuis was the second planet in the Centares system. It was covered in toxic oceans."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ussuis",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Maldrood sector",
+    "system": "Centares system",
+    "coordinates": "R-7",
+    "suns": "1: Centares",
+    "position": "2nd",
+    "moons": "2",
+    "routes": [
+      "Perlemian Trade Route",
+      "Triellus Trade Route"
+    ],
+    "class": "Toxic oceans"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Ussuis",
+    "x": 10003.9,
+    "y": 4211.8,
+    "z": 263.5,
+    "region": "Mid Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

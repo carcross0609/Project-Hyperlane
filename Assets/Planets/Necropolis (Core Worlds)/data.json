@@ -1,0 +1,58 @@
+{
+  "name": "Necropolis; Dahrtag",
+  "wookieepedia_title": "Necropolis (Core Worlds)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Necropolis_%28Core_Worlds%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Necropolis, originally named Dahrtag, was a planet in the Core Worlds of the galaxy. Located on the Giju Run, it was a tombworld of that served as a mass burial place for beings from all over the Galactic Core. It was also the home of boneworms and cryptberries.",
+  "lead_paragraphs": [
+    "Necropolis, originally named Dahrtag, was a planet in the Core Worlds of the galaxy. Located on the Giju Run, it was a tombworld of that served as a mass burial place for beings from all over the Galactic Core. It was also the home of boneworms and cryptberries."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Necropolis; Dahrtag",
+    "region": "Core Worlds",
+    "system": "Dahrtag system",
+    "coordinates": "J-13",
+    "routes": "Giju Run",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Perpetual mist",
+    "interest": [
+      "Crypt of the Ancients",
+      "Meego's Starship Emporium"
+    ],
+    "flora": "Cryptberry",
+    "fauna": "Boneworm",
+    "otherspecies": [
+      "Humans",
+      "N'haz Mit's species"
+    ],
+    "language": "Galactic Basic Standard",
+    "demonym": "Necropolitan",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Necropolitan",
+      "directory": "Necropolitan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Necropolis",
+    "x": -1584.2,
+    "y": -4721.9,
+    "z": 51.5,
+    "region": "Core Worlds",
+    "grid": "J-13"
+  },
+  "scraped": "2026-07-03"
+}

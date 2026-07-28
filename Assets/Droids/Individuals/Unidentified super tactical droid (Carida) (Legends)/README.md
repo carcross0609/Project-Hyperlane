@@ -1,0 +1,24 @@
+# Unidentified super tactical droid (Carida)
+
+**Kind:** Individual  
+**Continuity:** Legends  
+**Source:** [Unidentified super tactical droid (Carida)/Legends](https://starwars.fandom.com/wiki/Unidentified_super_tactical_droid_%28Carida%29/Legends)
+
+This super tactical droid led a mission to destroy the Republic strategy conference. This droid hijacked a Republic cruiser. After killing everyone aboard, he loaded the ship with explosives. His mission was to ram the stolen cruiser into the conference to kill all the generals there, including many Jedi. While the super tactical droid was carrying out the mission, D-Squad, a group of droids assigned to steal an encryption code, and their leader unknowingly landed on the ship, hoping to complete their mission. They went to the bridge to return the encryption code, but were immediately confronted by the droid, who ordered them to surrender. The squad fled the bridge, and the droid sent guards after them. When the group evaded them, the super tactical droid ordered a huge number of buzz droids to find them, but D-squad launched all the buzz droids into hyperspace. By then, the cruiser had reached its destination, and the super tactical droid left the bridge to set the detonator. However, R2-D2 flew into the room and engaged the super tactical droid. After a brief fight, R2 partially broke one of the super tactical droid's arms. Despite the droid's plea to stop, R2 detonated the bomb early so the ship would not reach the Republic conference center. The super tactical droid was destroyed in the explosion.
+
+## Specifications
+
+- **Type:** CIS
+- **Name:** Unidentified super tactical droid
+- **Death:** c. 20 BBY
+- **Model:** Super tactical droid
+- **Class:** Battle droid
+- **Height:** 1.94 meters
+- **Gender:** Masculine programming
+- **Pronouns:** new
+- **Sensor:** Yellow
+- **Affiliation:** Confederacy of Independent Systems
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

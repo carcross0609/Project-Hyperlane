@@ -1,0 +1,26 @@
+{
+  "name": "Sluissi",
+  "wookieepedia_title": "Sluissi",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sluissi",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Sluissi were the indigenous sentient species of the planet Sluis Van, located in the Outer Rim Territories. While their bodies above the waist were humanoid, their lower halves were serpentine, long and heavily muscled. Sluissi were noted for their calm temperament; aversion to rushing and impatience; compliance to protocol, no matter how trivial; and technical aptitude. Like many reptiles, Sluissi could use their forked tongues to sense heat.",
+  "data": {
+    "name": "Sluissi",
+    "designation": "Sentient",
+    "class": "Reptile",
+    "height": "1.7 meters",
+    "mass": "60 kilograms",
+    "skincolor": "Ranging from light-brown to deep-green",
+    "eyecolor": [
+      "Black",
+      "Blue"
+    ],
+    "distinctions": "Serpentine lower halves, forked tongues",
+    "lifespan": "76 standard years",
+    "origin": "Sluis Van",
+    "language": "Sluissese"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Sluis Van (Legends)"
+}

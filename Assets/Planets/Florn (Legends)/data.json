@@ -1,0 +1,54 @@
+{
+  "name": "Florn",
+  "wookieepedia_title": "Florn/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Florn/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Florn, known as Tinatorn while under the control of Xim's empire, was the Lamproid homeworld. This planet was mostly dense jungles with a few large oceans. The jungles of Florn were said to be so deadly that any sentient on Florn's surface without hyperaccelerated nerve implants, or a similar level of natural reflexes, risked certain and sudden death.",
+  "lead_paragraphs": [
+    "Florn, known as Tinatorn while under the control of Xim's empire, was the Lamproid homeworld. This planet was mostly dense jungles with a few large oceans. The jungles of Florn were said to be so deadly that any sentient on Florn's surface without hyperaccelerated nerve implants, or a similar level of natural reflexes, risked certain and sudden death.",
+    "The planet was located in the Outer Rim. The galactic community became aware that the planet was the Lamproid homeworld at some point between the Battle of Endor and the Second Galactic Civil War. Prior to that, the Lamproid homeworld had been a mystery, as the Lamproids had many colony worlds, and were often wrongly viewed as nonsentient. At some point, however, the Sith had raided the planet prior to the arrival of the Exiles on Korriban."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Florn",
+    "region": "Outer Rim Territories",
+    "sector": "Pakuuni sector",
+    "system": "Florn system",
+    "coordinates": "T-5",
+    "routes": "Overic Griplink",
+    "class": "Terrestrial",
+    "terrain": [
+      "Jungles",
+      "Oceans"
+    ],
+    "species": "Lamproids",
+    "population": "500 million to 1 billion (c. 25 ABY)",
+    "affiliation": [
+      "Xim's empire",
+      "Mandalorian Neo-Crusaders",
+      "Darth Revan's Sith Empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Lamproid",
+      "directory": "Lamproid",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Lamproid",
+      "directory": "Lamproid (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Florn",
+    "x": 12172.7,
+    "y": 6602.5,
+    "z": -303.3,
+    "region": "Outer Rim",
+    "grid": "T-5"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Mydasos",
+  "wookieepedia_title": "Mydasos",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mydasos",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Mydasos was a nearly-undiscovered backwater planet located in the Dalicron sector in the Outer Rim Territories, between the Corellian Trade Spine and the Hydian Way. Mydasos was home to the symbiotic Phydolon species, as well as a variety of flora and fauna. The planet was home to marshlands, continent-spanning forests, and craggy mountains jutting out of those forests.",
+  "lead_paragraphs": [
+    "Mydasos was a nearly-undiscovered backwater planet located in the Dalicron sector in the Outer Rim Territories, between the Corellian Trade Spine and the Hydian Way. Mydasos was home to the symbiotic Phydolon species, as well as a variety of flora and fauna. The planet was home to marshlands, continent-spanning forests, and craggy mountains jutting out of those forests."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Mydasos",
+    "region": [
+      "Outer Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Dalicron sector",
+    "system": "Mydasos system",
+    "coordinates": "K-19",
+    "suns": "1",
+    "terrain": [
+      "Marshlands",
+      "Forests",
+      "Craggy mountains"
+    ],
+    "water": "Shallow seas",
+    "species": "Phydolon"
+  },
+  "homeworld_of": [
+    {
+      "name": "Phydolon",
+      "directory": "Phydolon",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Zygerrian",
+  "wookieepedia_title": "Zygerrian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zygerrian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Zygerrians were a humanoid feline species from Zygerria. Having evolved from a horned sentient canine species, they built a powerful empire by capturing and selling slaves until the Jedi of the Galactic Republic went to war with them and outlawed it. The Zygerrians openly revived their slave trade when they allied with the Confederacy of Independent Systems during the Clone Wars.",
+  "data": {
+    "name": "Zygerrian",
+    "designation": "Sentient",
+    "class": "Feline",
+    "skincolor": "Light",
+    "haircolor": [
+      "Blue",
+      "Brown",
+      "Gray",
+      "Pink",
+      "Red"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Gold",
+      "Green",
+      "Purple",
+      "Silver"
+    ],
+    "distinctions": "Humanoid",
+    "origin": "Zygerria",
+    "habitat": "Rocky",
+    "language": [
+      "Galactic Basic Standard",
+      "Zygerrian"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Zygerria"
+}

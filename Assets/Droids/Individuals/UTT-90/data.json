@@ -1,0 +1,25 @@
+{
+  "name": "UTT-90",
+  "wookieepedia_title": "UTT-90",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/UTT-90",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "UTT-90 was a B1-series battle droid in the service of the Trade Federation and its Droid Army as a commander. Like all B1 battle droids, UTT-90 had masculine programming, stood 1.91 meters tall, and was equipped with an E-5 blaster rifle. The droid had light tan plating with brown markings, and had a backpack with an antenna.",
+  "data": {
+    "type": "Corporate",
+    "name": "UTT-90",
+    "line": "B-series battle droid",
+    "model": "B1-series battle droid",
+    "class": "Battle droid",
+    "height": "1.91 meters",
+    "gender": "Masculine programming",
+    "plating": "Light tan with brown markings",
+    "armament": "E-5 blaster rifle",
+    "affiliation": [
+      "Trade Federation",
+      "  Trade Federation Droid Army"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

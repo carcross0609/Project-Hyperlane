@@ -1,0 +1,50 @@
+{
+  "name": "Drogheda",
+  "wookieepedia_title": "Drogheda/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drogheda/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Drogheda was a planet in the Mid Rim Teraab sector that was rich in ore and had a strong mining industry as of the Galactic Civil War. Drogheda was ruled by a monarchy until 4 ABY, when a popular revolutionary front overthrew the reigning Queen Sarna with the intention of installing a democratic government. Sarna was transported into exile by Rebel Alliance hero Lando Calrissian, who played a role in the revolution.",
+  "lead_paragraphs": [
+    "Drogheda was a planet in the Mid Rim Teraab sector that was rich in ore and had a strong mining industry as of the Galactic Civil War. Drogheda was ruled by a monarchy until 4 ABY, when a popular revolutionary front overthrew the reigning Queen Sarna with the intention of installing a democratic government. Sarna was transported into exile by Rebel Alliance hero Lando Calrissian, who played a role in the revolution."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Drogheda",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Teraab sector",
+    "system": "Drogheda system",
+    "coordinates": "Q-11",
+    "class": "Planet",
+    "terrain": [
+      "Forests",
+      "Mountains"
+    ],
+    "interest": [
+      "Drogheda Citadel",
+      "Mount Meru",
+      "  Mount Meru Mine"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "exports": "Ore"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Drogheda",
+    "x": 7719.6,
+    "y": -1775.0,
+    "z": 46.0,
+    "region": "Mid Rim",
+    "grid": "Q-11"
+  },
+  "scraped": "2026-07-03"
+}

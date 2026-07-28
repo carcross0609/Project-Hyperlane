@@ -1,0 +1,42 @@
+{
+  "name": "Chorax",
+  "wookieepedia_title": "Chorax",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chorax",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Chorax was a planet in the Rachuk sector, which lay between Commenor and Talasea. It was the sole planet of the Chorax system, a haven for pirates and smugglers.",
+  "lead_paragraphs": [
+    "Chorax was a planet in the Rachuk sector, which lay between Commenor and Talasea. It was the sole planet of the Chorax system, a haven for pirates and smugglers."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Chorax",
+    "region": [
+      "Colonies",
+      "The Slice"
+    ],
+    "sector": "Rachuk sector",
+    "system": "Chorax system",
+    "coordinates": "N-11",
+    "suns": "1",
+    "routes": "Quellor Run",
+    "class": "Terrestrial",
+    "terrain": [
+      "Hills",
+      "Lakes",
+      "Plains"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Chorax",
+    "x": 3226.1,
+    "y": -1748.1,
+    "z": -104.7,
+    "region": "Colonies",
+    "grid": "N-11"
+  },
+  "scraped": "2026-07-03"
+}

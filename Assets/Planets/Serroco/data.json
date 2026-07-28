@@ -1,0 +1,52 @@
+{
+  "name": "Serroco",
+  "wookieepedia_title": "Serroco",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Serroco",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Serroco, the homeworld of the Stereb species, was a planet in the Ploo sector of the Expansion Region. A muddy world, Serroco was constantly buffeted by ferocious storms and tornadoes that often forced the Stereb to retreat to underground shelters and catacombs. The world was dotted by the grand stone Stereb cities and newer settlements populated by Humans from the Galactic Republic. Serroco was a full member of the Republic, and when the galactic government went to war with the Mandalorian warrior clans in 3963 BBY, the planet became a flashpoint in the growing conflict.",
+  "lead_paragraphs": [
+    "Serroco, the homeworld of the Stereb species, was a planet in the Ploo sector of the Expansion Region. A muddy world, Serroco was constantly buffeted by ferocious storms and tornadoes that often forced the Stereb to retreat to underground shelters and catacombs. The world was dotted by the grand stone Stereb cities and newer settlements populated by Humans from the Galactic Republic. Serroco was a full member of the Republic, and when the galactic government went to war with the Mandalorian warrior clans in 3963 BBY, the planet became a flashpoint in the growing conflict.",
+    "Admiral Saul Karath, anticipating a Mandalorian advance on the planet, rounded up a sizable battle group to defend Serroco and placed camps among the Stereb cities. Disdainful of the location of the camps and seeing it as a dishonorable approach, the Mandalorians nuclear-bombed the planet directly when their force arrived at Serroco, destroying the cities entirely. One Republic Navy pilot, Carth Onasi, saved many Stereb lives by calling down false tornado warnings and sending them to their underground shelters, which shielded them from the blasts. Life on Serroco continued on despite the devastation of the planet, and a Republic military presence was reestablished there by the time of the Galactic War several centuries later. By the Imperial Period, a small population of Stereb continued to exist on Serroco."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Serroco",
+    "region": "Expansion Region",
+    "sector": "Ploo sector",
+    "system": "Serroco system",
+    "coordinates": "N-7",
+    "suns": "At least 1",
+    "atmosphere": "Type I (breathable for Humans)",
+    "climate": "Stormy",
+    "terrain": "Muddy plains",
+    "water": "Oceans",
+    "interest": "Camp Three",
+    "flora": "Trees",
+    "species": "Stereb",
+    "otherspecies": "Human",
+    "cities": "Stereb cities",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Stereb",
+      "directory": "Stereb",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Serroco",
+    "x": 3820.8,
+    "y": 3623.3,
+    "z": 103.0,
+    "region": "Expansion Region",
+    "grid": "N-7"
+  },
+  "scraped": "2026-07-03"
+}

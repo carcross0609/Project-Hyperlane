@@ -1,0 +1,40 @@
+{
+  "name": "Aris",
+  "wookieepedia_title": "Aris/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aris/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aris was a planet in the Albarrio system of the Albarrio sector of the Outer Rim Territories. It was a world of rainforests, and home to the monkey-like scavenger known as the Wok-Wok. It served as the sector capital of the Albarrio sector, and was a stop along the Relgim Run. It had no native intelligent life, but had been colonized.",
+  "lead_paragraphs": [
+    "Aris was a planet in the Albarrio system of the Albarrio sector of the Outer Rim Territories. It was a world of rainforests, and home to the monkey-like scavenger known as the Wok-Wok. It served as the sector capital of the Albarrio sector, and was a stop along the Relgim Run. It had no native intelligent life, but had been colonized."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Aris",
+    "region": "Outer Rim Territories",
+    "sector": "Albarrio sector",
+    "system": "Albarrio system",
+    "coordinates": "K-5",
+    "routes": [
+      "Braxant Run",
+      "Relgim Run"
+    ],
+    "terrain": [
+      "Forests",
+      "Rainforests"
+    ],
+    "fauna": "Wok-Woks",
+    "language": "Bocce",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Aris",
+    "x": -467.3,
+    "y": 7463.3,
+    "z": -34.3,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

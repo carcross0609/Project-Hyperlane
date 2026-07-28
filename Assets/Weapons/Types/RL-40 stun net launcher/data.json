@@ -1,0 +1,20 @@
+{
+  "name": "RL-40 stun net launcher",
+  "wookieepedia_title": "RL-40 stun net launcher",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/RL-40_stun_net_launcher",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The RL-40 stun net launcher, also known as the RL-40 pistol, was a type of launcher that deployed stun nets used to capture prisoners without harming them.",
+  "data": {
+    "name": "RL-40 stun net launcher",
+    "manufacturer": "Golan Arms",
+    "type": "Stun net launcher",
+    "cost": [
+      "500 credits (pistol)",
+      "50 credits (canister)"
+    ],
+    "range": "30 meters"
+  },
+  "scraped": "2026-07-03"
+}

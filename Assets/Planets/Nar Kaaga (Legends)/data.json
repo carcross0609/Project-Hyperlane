@@ -1,0 +1,39 @@
+{
+  "name": "Nar Kaaga",
+  "wookieepedia_title": "Nar Kaaga/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nar_Kaaga/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nar Kaaga was a planet located in Hutt Space. It was a cold, swampy world that survived on trade. It was home to the H'uun and Shell Hutt clans.",
+  "lead_paragraphs": [
+    "Nar Kaaga was a planet located in Hutt Space. It was a cold, swampy world that survived on trade. It was home to the H'uun and Shell Hutt clans."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nar Kaaga",
+    "region": "Hutt Space",
+    "system": "Nar Kaaga system",
+    "coordinates": "S-13",
+    "routes": [
+      "Kaaga Run",
+      "Tatooine Dash"
+    ],
+    "climate": "Cold",
+    "terrain": "Swamps",
+    "otherspecies": "Hutts",
+    "affiliation": [
+      "H'uun clan",
+      "Shell Hutt clan"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Nar Kaaga",
+    "x": 10567.6,
+    "y": -4965.6,
+    "z": -381.4,
+    "region": "Hutt Space",
+    "grid": "S-13"
+  },
+  "scraped": "2026-07-03"
+}

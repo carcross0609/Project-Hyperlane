@@ -1,0 +1,35 @@
+{
+  "name": "Cathar",
+  "wookieepedia_title": "Cathar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Cathar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Cathar were a species of feline, bipedal humanoids native to Cathar, a planet of savannas and rough uplands. They were known for their loyalty, passion, and temper. Quick and powerful, they were considered great warriors and dedicated, efficient predators.",
+  "data": {
+    "name": "Cathar",
+    "designation": "Sentient",
+    "class": "Feline",
+    "subspecies": [
+      "Juhani",
+      "Myr Rho"
+    ],
+    "height": [
+      "Males: 1.8 meters",
+      "Females: 1.6 meters"
+    ],
+    "skincolor": "Gold to yellow-brown with dark stripes",
+    "distinctions": "Lion-like aliens",
+    "lifespan": [
+      "Child: 1-11 years",
+      "Young adult: 12-17 years",
+      "Adult: 18-49 years",
+      "Middle age: 50-65 years",
+      "Old: 66-89 years",
+      "Venerable: 90+ years"
+    ],
+    "origin": "Cathar",
+    "language": "Catharese"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Cathar (location) (Legends)"
+}

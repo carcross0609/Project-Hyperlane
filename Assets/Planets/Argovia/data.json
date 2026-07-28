@@ -1,0 +1,55 @@
+{
+  "name": "Argovia",
+  "wookieepedia_title": "Argovia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Argovia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Argovia was a planet of stormy, misty, marshy wetlands in the Endocray sector, rich in minerals and ores. It was the location of an Imperial sensor network complex that analyzed data from thousands of sensor buoys, ships, and probe droids in the sector. To protect both the sensor complex and the valuable ore, the mining companies and the Empire mutually restricted any non-personnel from immigrating to the planet.",
+  "lead_paragraphs": [
+    "Argovia was a planet of stormy, misty, marshy wetlands in the Endocray sector, rich in minerals and ores. It was the location of an Imperial sensor network complex that analyzed data from thousands of sensor buoys, ships, and probe droids in the sector. To protect both the sensor complex and the valuable ore, the mining companies and the Empire mutually restricted any non-personnel from immigrating to the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Argovia",
+    "region": [
+      "Mid Rim",
+      "The Slice"
+    ],
+    "sector": "Endocray sector",
+    "system": "Argovia system",
+    "coordinates": "S-14",
+    "lengthday": "28 standard hours",
+    "lengthyear": "345 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Mountains",
+      "Wetlands"
+    ],
+    "water": "Moist",
+    "interest": [
+      "Imperial Sensor Net Complex",
+      "Tanza's"
+    ],
+    "otherspecies": "Human",
+    "language": "Basic",
+    "government": "Imperial Prefect",
+    "population": "600,000",
+    "cities": "Argovas City (capital)",
+    "imports": "Everything",
+    "exports": "Mineral ores",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Argovia",
+    "x": 10575.0,
+    "y": -7163.4,
+    "z": 337.6,
+    "region": "Mid Rim",
+    "grid": "S-14"
+  },
+  "scraped": "2026-07-03"
+}

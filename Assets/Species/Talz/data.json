@@ -1,0 +1,31 @@
+{
+  "name": "Talz",
+  "wookieepedia_title": "Talz",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Talz",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Talz were a sentient species native to the planets Alzoc III and Orto Plutonia, on which they remained undiscovered until the Clone Wars. Their discovery caused a brief war between a Talz village and the Pantoran Assembly due to Chairman Chi Cho of Pantora believing they were a hostile force. After the death of Cho, Pantoran Senator Riyo Chuchi talked and ended the war with the Chieftain of the village, Thi-Sen, after which the Talz were officially recognized as a free and equal people and were allowed to live peacefully on their homeworld.",
+  "data": {
+    "name": "Talz",
+    "designation": "Sentient",
+    "skincolor": [
+      "Black",
+      "Gray"
+    ],
+    "haircolor": "White",
+    "eyecolor": "Black",
+    "distinctions": [
+      "Covered in fur",
+      "Four eyes",
+      "Unable to speak Galactic Basic Standard"
+    ],
+    "origin": [
+      "Alzoc III",
+      "Orto Plutonia (By the time of the Clone Wars)"
+    ],
+    "habitat": "Ice and snow",
+    "language": "Talzzi"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Alzoc III"
+}

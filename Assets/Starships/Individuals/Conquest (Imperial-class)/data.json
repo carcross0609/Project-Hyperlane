@@ -1,0 +1,27 @@
+{
+  "name": "Conquest",
+  "wookieepedia_title": "Conquest (Imperial-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Conquest_%28Imperial-class%29",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Conquest was an Imperial-class Star Destroyer that saw service during the Galactic Civil War. It served in Dark Lord of the Sith Darth Vader's personal fleet, Death Squadron, when the unit was stationed in the Juris sector shortly prior to the Battle of Hoth. The Conquest was accompanied by the ISDs Avenger, Devastator, Stalker, Tyrant, and the flagship Executor. The Conquest was destroyed along with the Ultimatum while pursuing the Millennium Falcon.",
+  "data": {
+    "name": "Conquest",
+    "line": "Imperial-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "1,600 meters",
+    "engine": [
+      "Destroyer-I ion engines (3)",
+      "Gemon-4 ion engines (4) (emergency use)"
+    ],
+    "shield_gen": "Deflector shield generator domes (2)",
+    "communications": "Communications tower",
+    "destroyed": "3 ABY, Hoth asteroid belt",
+    "affiliation": "Galactic Empire",
+    "navy": "Imperial Navy",
+    "fleet": "Death Squadron",
+    "captains": "A captain"
+  },
+  "scraped": "2026-07-03"
+}

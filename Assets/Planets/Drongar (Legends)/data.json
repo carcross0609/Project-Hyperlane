@@ -1,0 +1,112 @@
+{
+  "name": "Drongar",
+  "wookieepedia_title": "Drongar/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drongar/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Drongar was a mostly uninhabitable tropical planet in the Outer Rim Territories, with the native airborne spores causing death to those who were not protected from them. The climate was characterized by common monsoons with devastating electrical storms, soaring temperatures, and humidity over 90%. There was also a large atmospheric oxygen content. The planet had two small moons and was located in its system with another three planets. Natural features of Drongar included the Sea of Sponges, Great Jasserak Swamp and the Qarohan Steppes.",
+  "lead_paragraphs": [
+    "Drongar was a mostly uninhabitable tropical planet in the Outer Rim Territories, with the native airborne spores causing death to those who were not protected from them. The climate was characterized by common monsoons with devastating electrical storms, soaring temperatures, and humidity over 90%. There was also a large atmospheric oxygen content. The planet had two small moons and was located in its system with another three planets. Natural features of Drongar included the Sea of Sponges, Great Jasserak Swamp and the Qarohan Steppes.",
+    "The planet was discovered by a Nikto survey team around 220 BBY. During the Clone Wars, this planet became important and was fought over by both the Galactic Republic and the Confederacy of Independent Systems because it was the only planet that could produce bota, a highly valuable miracle drug. When, in 20 BBY, the bota mutated and became worthless, both forces pulled out of Drongar."
+  ],
+  "article_sections": [
+    "Description",
+    "  Astrography and atmosphere",
+    "  Geography",
+    "  Biosphere",
+    "History",
+    "  Clone Wars",
+    "  Later history",
+    "Locations"
+  ],
+  "data": {
+    "name": "Drongar",
+    "region": "Outer Rim Territories",
+    "sector": "N/A",
+    "system": "Drongar system",
+    "coordinates": "T-5",
+    "suns": "Drongar Prime",
+    "position": "1",
+    "moons": "2",
+    "lengthday": "Over 23 hours",
+    "class": "Terrestrial",
+    "diameter": "12,518 km",
+    "atmosphere": "Oxygen-rich",
+    "climate": [
+      "Humid (90 percent)",
+      "Nearly tropical"
+    ],
+    "gravity": "Standard (1.2)",
+    "terrain": [
+      "Jungles",
+      "Rainforests",
+      "Bota fields",
+      "Swampland",
+      "Savannas"
+    ],
+    "water": [
+      "Oceans",
+      "Lakes"
+    ],
+    "interest": [
+      "Great Jasserak Swamp",
+      "Jasserak Highlands",
+      "Jasserak Lowlands",
+      "Kondrus Sea",
+      "Poptree Forest",
+      "Qarohan Steppes",
+      "Republic Mobile Surgical Units",
+      "  RMSU-1",
+      "  RMSU-3",
+      "  RMSU-5",
+      "  RMSU-6",
+      "  RMSU-7",
+      "  RMSU-9",
+      "  RMSU-12",
+      "  RMSU-14",
+      "Sea of Sponges"
+    ],
+    "flora": [
+      "Avedame fruit",
+      "Bota",
+      "Broadleaf",
+      "Croaker bush",
+      "Pink shortgrass",
+      "Poptree",
+      "Purple stingwort",
+      "Saw grass",
+      "Snarlvine"
+    ],
+    "fauna": [
+      "Fire gnat",
+      "Land shrimp",
+      "Rontu",
+      "Scavenger moth",
+      "Swamp snail",
+      "Wingstinger",
+      "Wriggler"
+    ],
+    "otherlife": [
+      "Mold",
+      "Mildew",
+      "Mushroom-like vegetation",
+      "Red-dish",
+      "A red spore strain"
+    ],
+    "exports": "Bota",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Drongar",
+    "x": 12683.6,
+    "y": 6219.0,
+    "z": 388.1,
+    "region": "Outer Rim",
+    "grid": "T-5"
+  },
+  "scraped": "2026-07-03"
+}

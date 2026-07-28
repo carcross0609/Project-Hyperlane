@@ -1,0 +1,58 @@
+{
+  "name": "Zorbia II",
+  "wookieepedia_title": "Zorbia II",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Zorbia_II",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Zorbia II was a terrestrial planet located in the Outer Rim Territories' Moddell sector. Its terrain consisted of deserts, forests, and plains. The world was home to a group of Humans known as the Zorbian space pirates, whose roots seemed to be Corellian. The Zorbians were a significant nuisance in the Outer Moddell systems due to their tendency to attack others in the sector.",
+  "lead_paragraphs": [
+    "Zorbia II was a terrestrial planet located in the Outer Rim Territories' Moddell sector. Its terrain consisted of deserts, forests, and plains. The world was home to a group of Humans known as the Zorbian space pirates, whose roots seemed to be Corellian. The Zorbians were a significant nuisance in the Outer Moddell systems due to their tendency to attack others in the sector."
+  ],
+  "article_sections": [
+    "Description",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Zorbia II",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Zuma sector",
+      "  Inner Zuma Region",
+      "    Moddell sector"
+    ],
+    "system": [
+      "Outer Moddell systems",
+      "  Zorbia system"
+    ],
+    "coordinates": "H-16",
+    "routes": "Ovise Reach",
+    "lengthday": "28 standard hours",
+    "lengthyear": "360 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "1.05 standard",
+    "terrain": [
+      "Desert",
+      "Forest",
+      "Plains"
+    ],
+    "interest": "Two spaceports",
+    "otherspecies": "Humans",
+    "government": "Clans",
+    "population": "30 million Humans",
+    "imports": "None",
+    "exports": "None"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Zorbia II",
+    "x": -5106.5,
+    "y": -10176.3,
+    "z": -254.3,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

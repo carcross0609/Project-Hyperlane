@@ -1,0 +1,49 @@
+{
+  "name": "Needan",
+  "wookieepedia_title": "Needan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Needan",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Needan was a Wild Space planet. A jungle world featuring massive oceans and numerous species of plants and animals, it was the homeworld of the sentient Geelan. Just as the Geelan civilization on Needan had entered the information age, a passing comet struck the planet, causing the climate to become permanently cold.",
+  "lead_paragraphs": [
+    "Needan was a Wild Space planet. A jungle world featuring massive oceans and numerous species of plants and animals, it was the homeworld of the sentient Geelan. Just as the Geelan civilization on Needan had entered the information age, a passing comet struck the planet, causing the climate to become permanently cold.",
+    "The Geelan survived the ensuing mass extinction of Needan's species by sheltering themselves inside dome-like habitats they constructed. Eventually, an Arcona-crewed medical starship picked up the Geelan distress signals, leading to a contact between the two species and a mass emigration of the Geelan from their doomed homeworld."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  A doomed homeworld",
+    "  Needan's legacy",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Needan",
+    "region": "Wild Space",
+    "system": "Needan system",
+    "coordinates": "I-20",
+    "suns": "1",
+    "class": "Terrestrial",
+    "climate": "Cold",
+    "terrain": "Jungle",
+    "water": "Oceans",
+    "interest": "Dome-like habitats",
+    "fauna": "Canine pack animals",
+    "species": "Geelan"
+  },
+  "homeworld_of": [
+    {
+      "name": "Geelan",
+      "directory": "Geelan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Needan",
+    "x": -3461.4,
+    "y": -16228.1,
+    "z": 72.2,
+    "region": "Wild Space",
+    "grid": "I-20"
+  },
+  "scraped": "2026-07-03"
+}

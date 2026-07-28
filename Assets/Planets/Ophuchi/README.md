@@ -1,0 +1,16 @@
+# Ophuchi
+
+**Continuity:** Unknown  
+**Source:** [Ophuchi](https://starwars.fandom.com/wiki/Ophuchi)
+
+Ophuchi or Ophichi was the name of a planet in the Ophuchi system, the homeworld of Mace Windy, a Jedi-Bendu in the Journal of the Whills, Part I.
+
+In The Star Wars story synopsis, it was the destination of the anonymous princess, niece of its ruler, after her rescue from the Imperial capital of Alderaan.
+
+In The Star Wars rough draft, the Chrome Companies were based on Ophuchi, and could be relied upon to help restore Leia to her throne on Aquilae.
+
+In Adventures of the Starkiller, Episode I: The Star Wars, Han Solo believed if he and his friends hid out on Ophichi or the Southern systems, Captain Oxus would have a hard time tracking them down.
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

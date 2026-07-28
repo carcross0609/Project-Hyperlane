@@ -1,0 +1,40 @@
+{
+  "name": "Arapia",
+  "wookieepedia_title": "Arapia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arapia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arapia was the Kadri'Ra adoptive homeworld. It was located in the Arapia system.",
+  "lead_paragraphs": [
+    "Arapia was the Kadri'Ra adoptive homeworld. It was located in the Arapia system.",
+    "During the years of the Galactic Republic, Arapia had more than one hundred million Kadri'Ra individuals. The Galactic Empire decided that Kadri'Ra were not sentients and, due to their slavery and other measures, reduced the number to 14,000 individuals as of 0 BBY.",
+    "Crime in Arapia was controlled by the Kadri'Ra crimelord Saadoon-Kauldi, originally a native of Arapia who left the system after one assassination attempt. Later, circa 10 BBY, Saadoon-Kauldi sent some minions to Arapia to met Saylor \"Marji\" Marjan, a Human inhabitant who owed him some money."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Arapia",
+    "region": "Outer Rim Territories",
+    "sector": "Dalchon sector",
+    "system": "Arapia system",
+    "coordinates": "R-18",
+    "species": "Kadri'Ra",
+    "language": "Kadri'Ra language",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kadri'Ra",
+      "directory": "Kadri'Ra",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Arapia",
+    "x": 10050.2,
+    "y": -12355.7,
+    "z": 140.7,
+    "region": "Other",
+    "grid": "R-18"
+  },
+  "scraped": "2026-07-03"
+}

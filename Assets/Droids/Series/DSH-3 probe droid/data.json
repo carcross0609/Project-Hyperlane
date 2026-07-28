@@ -1,0 +1,24 @@
+{
+  "name": "DSH-3 probe droid",
+  "wookieepedia_title": "DSH-3 probe droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/DSH-3_probe_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The DSH-3 probe droid was a spherical probe droid related to the DRK-1 Dark Eye probe droid.",
+  "data": {
+    "name": "DSH-3 probe droid",
+    "manufacturer": "Arakyd Industries",
+    "class": "4th-degree probe droid",
+    "cost": "13,000 credits (licensed)",
+    "equipment": [
+      "Heuristic processor",
+      "Improved sensor package",
+      "Audio/video recording packages",
+      "Internal comlink",
+      "Locked access",
+      "Secondary backup battery"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

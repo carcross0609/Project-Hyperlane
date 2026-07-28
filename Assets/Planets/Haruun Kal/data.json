@@ -1,0 +1,55 @@
+{
+  "name": "Haruun Kal",
+  "wookieepedia_title": "Haruun Kal",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Haruun_Kal",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Haruun Kal was a planet within the Haruun Kal system, a star system in the Dustig sector of the Mid Rim Territories, and the homeworld of Jedi Master Mace Windu.",
+  "lead_paragraphs": [
+    "Haruun Kal was a planet within the Haruun Kal system, a star system in the Dustig sector of the Mid Rim Territories, and the homeworld of Jedi Master Mace Windu."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Haruun Kal",
+    "region": "Mid Rim Territories",
+    "sector": "Dustig sector",
+    "system": "Haruun Kal system",
+    "coordinates": "M-17",
+    "suns": "1",
+    "terrain": [
+      "Gas marshes",
+      "Mountains"
+    ],
+    "water": "Lakes",
+    "interest": [
+      "Lake Haruuni",
+      "Unidentified village"
+    ],
+    "flora": "Lammas tree",
+    "fauna": "Fever wasp",
+    "species": [
+      "Human",
+      "Korun"
+    ],
+    "cities": "Pelek Baw (capital)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Korun",
+      "directory": "Korun (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Haruun Kal",
+    "x": 2693.7,
+    "y": -10608.5,
+    "z": 78.1,
+    "region": "Mid Rim",
+    "grid": "M-17"
+  },
+  "scraped": "2026-07-03"
+}

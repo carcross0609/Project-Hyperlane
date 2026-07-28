@@ -1,0 +1,23 @@
+{
+  "name": "Carosite",
+  "wookieepedia_title": "Carosite",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carosite",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Carosites were a mammalian, sentient species who hailed from the planet Carosi IV in the Outer Rim Territories. However, when the star Carosi began to rapidly expand, they were forced to evacuate their entire population to the outer planet Carosi XII and rebuild their civilization from scratch.",
+  "data": {
+    "name": "Carosite",
+    "designation": "Sentient",
+    "class": "Mammal",
+    "height": "1.3–1.7 meters",
+    "lifespan": "120 standard years",
+    "origin": [
+      "Carosi IV",
+      "Carosi XII"
+    ],
+    "diet": "Seafood",
+    "language": "Carosite language"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Carosi IV"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Arami",
+  "wookieepedia_title": "Arami",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Arami",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Arami was an Outer Rim Territories planet located in the Galov sector. A part of the area dominated by the Hutt species as well as controlled by the Galactic Empire, Arami was one of three worlds where the Hutt holiday known as Boonta's Eve was celebrated, with the festivities including the Boonta Races.",
+  "lead_paragraphs": [
+    "Arami was an Outer Rim Territories planet located in the Galov sector. A part of the area dominated by the Hutt species as well as controlled by the Galactic Empire, Arami was one of three worlds where the Hutt holiday known as Boonta's Eve was celebrated, with the festivities including the Boonta Races."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Arami",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Galov sector",
+    "system": "Arami system",
+    "coordinates": "T-13",
+    "routes": "Triellus Trade Route",
+    "class": "Terrestrial",
+    "population": "1–10 billion (Arami system) (c. 25 ABY)",
+    "affiliation": [
+      "Hutts",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Arami",
+    "x": 12550.1,
+    "y": -5750.0,
+    "z": 663.0,
+    "region": "Outer Rim",
+    "grid": "T-13"
+  },
+  "scraped": "2026-07-03"
+}

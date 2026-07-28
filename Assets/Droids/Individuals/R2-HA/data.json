@@ -1,0 +1,30 @@
+{
+  "name": "R2-HA",
+  "wookieepedia_title": "R2-HA",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R2-HA",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "R2-HA was a pink and blue R-series astromech droid that served the Resistance. It assisted Black Squadron during its mission to Megalox and teamed up with BB-8, O-R10N, and R4 in an attempt to free Grakkus the Hutt.",
+  "data": {
+    "type": "Resistance",
+    "name": "R2-HA",
+    "manufacturer": "Industrial Automaton",
+    "line": [
+      "R-series",
+      "  Unidentified tiered-dome astromech series"
+    ],
+    "class": "Astromech droid",
+    "pronouns": "He/him",
+    "plating": "Pink and blue",
+    "equipment": [
+      "Rocket booster",
+      "Scomp link"
+    ],
+    "affiliation": [
+      "Resistance",
+      "  Black Squadron"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

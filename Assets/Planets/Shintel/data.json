@@ -1,0 +1,53 @@
+{
+  "name": "Shintel",
+  "wookieepedia_title": "Shintel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shintel",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Shintel was a planet located in the Shintel system of the Kathol sector, which was part of the Outer Rim Territories. A remote, muddy, and wet world, Shintel's only distinction was that it was the location of a supply depot established by Warlord Moff Kentor Sarne as part of his military forces. Commanded by veteran Imperial Army officer Colonel Heget, the depot was intended to be used by Sarne in the event that the Galactic Empire ever decided to attempt to reabsorb the Kathol sector.",
+  "lead_paragraphs": [
+    "Shintel was a planet located in the Shintel system of the Kathol sector, which was part of the Outer Rim Territories. A remote, muddy, and wet world, Shintel's only distinction was that it was the location of a supply depot established by Warlord Moff Kentor Sarne as part of his military forces. Commanded by veteran Imperial Army officer Colonel Heget, the depot was intended to be used by Sarne in the event that the Galactic Empire ever decided to attempt to reabsorb the Kathol sector.",
+    "In 8 ABY, following Sarne's defeat by New Republic forces at his capital, Kal'Shebbol, the Moff fell back to Shintel to strip the depot of its supplies, simultaneously stranding those members of his forces that were not personally loyal to him on the planet. Shortly thereafter, the New Republic CR90 corvette FarStar arrived in orbit, tracking Sarne. The commander of the FarStar, Captain Kaiya Adrimetrum, struck a deal with Colonel Heget to assist him in contacting outside help to rescue the marooned Imperial personnel in exchange for information on Sarne's likely destinations."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Shintel",
+    "region": "Outer Rim Territories",
+    "sector": "Kathol sector",
+    "system": "Shintel system",
+    "coordinates": "M-21",
+    "position": "3",
+    "lengthday": "19 standard hours",
+    "lengthyear": "343 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": [
+      "Forests",
+      "Mudflats",
+      "Mountains"
+    ],
+    "water": "Low seas",
+    "interest": "Imperial Depot 4290-1",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Military outpost",
+    "population": "1,500–2,000 (supply depot personnel)",
+    "imports": [
+      "Foodstuffs",
+      "Low technology",
+      "Mid technology",
+      "High technology"
+    ],
+    "affiliation": "Moff Sarne's forces"
+  },
+  "homeworld_of": [],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

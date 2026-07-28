@@ -1,0 +1,28 @@
+{
+  "name": "Gabdorin",
+  "wookieepedia_title": "Gabdorin",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gabdorin",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Gabdorins were a sentient species of large, round-headed amphibians from Gabdor.",
+  "data": {
+    "name": "Gabdorin",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "skincolor": [
+      "Brown",
+      "Green",
+      "Pale",
+      "Purple"
+    ],
+    "eyecolor": [
+      "Brown",
+      "Green",
+      "Purple"
+    ],
+    "distinctions": "Ridged nostrils and massive sweat glands",
+    "origin": "Gabdor"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Gabdor"
+}

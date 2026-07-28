@@ -1,0 +1,45 @@
+{
+  "name": "Sorjus",
+  "wookieepedia_title": "Sorjus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sorjus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sorjus was an Outer Rim Territories planet located in the Meridian sector. It was the homeworld of the Paaerduag species. The spacer Ja'Gatcha and merchant Mic'tunan'jus Orgu were two Paaerduag who had left their home planet by 3956 BBY.",
+  "lead_paragraphs": [
+    "Sorjus was an Outer Rim Territories planet located in the Meridian sector. It was the homeworld of the Paaerduag species. The spacer Ja'Gatcha and merchant Mic'tunan'jus Orgu were two Paaerduag who had left their home planet by 3956 BBY."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Sorjus",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": "Meridian sector",
+    "system": "Sorjus system",
+    "coordinates": "R-7",
+    "class": "Terrestrial",
+    "species": "Paaerduag",
+    "affiliation": "Darth Revan's Sith Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Paaerduag",
+      "directory": "Paaerduag",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sorjus",
+    "x": 9148.7,
+    "y": 4421.9,
+    "z": -195.7,
+    "region": "Outer Rim",
+    "grid": "R-7"
+  },
+  "scraped": "2026-07-03"
+}

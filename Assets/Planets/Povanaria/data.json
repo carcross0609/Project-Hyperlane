@@ -1,0 +1,49 @@
+{
+  "name": "Povanaria",
+  "wookieepedia_title": "Povanaria",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Povanaria",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Povanaria was a world located in the Povanaria system. It was situated in the Loop Worlds area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. The hyperlane known as the Junction-Tierell Loop connected it to the Bronsoon and Durgen's Star systems. Povanaria was a windswept world of low grasses and moss, and it was the homeworld of the Povanarian species, members of which had already traveled offworld centuries prior to 43 ABY.",
+  "lead_paragraphs": [
+    "Povanaria was a world located in the Povanaria system. It was situated in the Loop Worlds area of the Gordian Reach sector within the Trans-Hydian portion of the Outer Rim Territories. The hyperlane known as the Junction-Tierell Loop connected it to the Bronsoon and Durgen's Star systems. Povanaria was a windswept world of low grasses and moss, and it was the homeworld of the Povanarian species, members of which had already traveled offworld centuries prior to 43 ABY."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Povanaria",
+    "region": [
+      "Outer Rim Territories",
+      "Trans-Hydian"
+    ],
+    "sector": [
+      "Gordian Reach",
+      "  Loop Worlds"
+    ],
+    "system": "Povanaria system",
+    "coordinates": "P-6",
+    "routes": "Junction-Tierell Loop",
+    "class": "Terrestrial",
+    "climate": "Windy",
+    "flora": [
+      "Low grasses",
+      "Moss"
+    ],
+    "species": "Povanarian"
+  },
+  "homeworld_of": [
+    {
+      "name": "Povanarian",
+      "directory": "Povanarian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Povanaria",
+    "x": 7389.1,
+    "y": 5318.2,
+    "z": -332.7,
+    "region": "Outer Rim",
+    "grid": "P-6"
+  },
+  "scraped": "2026-07-03"
+}

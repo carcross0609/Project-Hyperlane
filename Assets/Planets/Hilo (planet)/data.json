@@ -1,0 +1,32 @@
+{
+  "name": "Hilo",
+  "wookieepedia_title": "Hilo (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hilo_%28planet%29",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Hilo was a planet located in the Hilo sector of the Expansion Region.",
+  "lead_paragraphs": [
+    "Hilo was a planet located in the Hilo sector of the Expansion Region."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Hilo",
+    "region": [
+      "Expansion Region",
+      "The Slice"
+    ],
+    "sector": "Hilo sector",
+    "system": "Hilo system",
+    "coordinates": "O-13"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Hilo",
+    "x": 5850.9,
+    "y": -5836.1,
+    "z": 84.6,
+    "region": "Expansion Region",
+    "grid": "O-13"
+  },
+  "scraped": "2026-07-03"
+}

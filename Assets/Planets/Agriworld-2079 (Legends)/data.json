@@ -1,0 +1,68 @@
+{
+  "name": "Agriworld-2079",
+  "wookieepedia_title": "Agriworld-2079/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Agriworld-2079/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Agriworld-2079 was a planet located on the spinward edge of the Mid Rim. Originally, it was the ancestral homeworld of a species of primitive nomadic herders. The M'shinn from Genassa later colonized the planet. The newcomers fenced in the nomadic herders, claimed their land, and left the peaceful aliens to figure out how to survive. Since that time, the original names of the inhabitants and their homeworld were lost to history, and the M'shinni imposed their own names instead. The planet became one of several vital M'shinni agriworlds, producing a vast array of agricultural products that were shipped throughout the galaxy.",
+  "lead_paragraphs": [
+    "Agriworld-2079 was a planet located on the spinward edge of the Mid Rim. Originally, it was the ancestral homeworld of a species of primitive nomadic herders. The M'shinn from Genassa later colonized the planet. The newcomers fenced in the nomadic herders, claimed their land, and left the peaceful aliens to figure out how to survive. Since that time, the original names of the inhabitants and their homeworld were lost to history, and the M'shinni imposed their own names instead. The planet became one of several vital M'shinni agriworlds, producing a vast array of agricultural products that were shipped throughout the galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "  Planetology",
+    "  Inhabitants and society",
+    "    Primordial species",
+    "    M'shinni colonies",
+    "History",
+    "  Colonisation",
+    "  Into a vital agriworld"
+  ],
+  "data": {
+    "name": "Agriworld-2079",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "M'shinni sector",
+    "system": "Agriworld-2079 system",
+    "coordinates": "L-7",
+    "class": "Terrestrial",
+    "climate": "Consistent",
+    "terrain": "Flat grasslands",
+    "interest": [
+      "Large high-tech agricultural plots",
+      "Few industrial areas"
+    ],
+    "fauna": "Grazing animals",
+    "species": "Skrillings",
+    "otherspecies": "M'shinni",
+    "language": "Skrilling",
+    "government": [
+      "Nomadic (originally)",
+      "Corporate: M'shinni Rootlines monitored by the Council of the Wise"
+    ],
+    "cities": "M'shinni colonies",
+    "exports": "Agricultural products such as vegetables, fruits, and grains",
+    "affiliation": [
+      "Completely under the control of the M'shinni",
+      "Galactic Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Skrilling",
+      "directory": "Skrilling (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Agriworld-2079",
+    "x": 1459.2,
+    "y": 4272.2,
+    "z": -84.9,
+    "region": "Mid Rim",
+    "grid": "L-7"
+  },
+  "scraped": "2026-07-03"
+}

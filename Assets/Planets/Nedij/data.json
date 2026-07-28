@@ -1,0 +1,44 @@
+{
+  "name": "Nedij",
+  "wookieepedia_title": "Nedij",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Nedij",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Nedij was a planet in the Outer Rim on the eastern spiral arm of the galaxy. It had thin air in which its native species evolved. Natural terrain included snowy mountains which the Nediji preferred, and lowlands. The planet was inhabited by a species of humanoids which served as prey for the Nediji. The Black Sun operative Kaird hailed from this planet.",
+  "lead_paragraphs": [
+    "Nedij was a planet in the Outer Rim on the eastern spiral arm of the galaxy. It had thin air in which its native species evolved. Natural terrain included snowy mountains which the Nediji preferred, and lowlands. The planet was inhabited by a species of humanoids which served as prey for the Nediji. The Black Sun operative Kaird hailed from this planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Nedij",
+    "region": "Outer Rim Territories",
+    "sector": "Samix sector",
+    "system": "Nedij system",
+    "coordinates": "Q-19",
+    "terrain": "Snowy mountains",
+    "fauna": [
+      "Clumsyfoot",
+      "Rath-scurrier",
+      "Unidentified humanoid creature"
+    ],
+    "species": "Nediji",
+    "language": "Language of the Flock",
+    "demonym": "Nediji"
+  },
+  "homeworld_of": [
+    {
+      "name": "Nediji",
+      "directory": "Nediji",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Nedij",
+    "x": 7975.7,
+    "y": -14325.2,
+    "z": 503.2,
+    "region": "Outer Rim",
+    "grid": "Q-19"
+  },
+  "scraped": "2026-07-03"
+}

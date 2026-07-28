@@ -1,0 +1,68 @@
+{
+  "name": "Sleheyron",
+  "wookieepedia_title": "Sleheyron/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sleheyron/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Sleheyron was a planet in Hutt Space. Although it was based on slave trade, its powerful economy made Sleheyron one of the most important Hutt worlds.",
+  "lead_paragraphs": [
+    "Sleheyron was a planet in Hutt Space. Although it was based on slave trade, its powerful economy made Sleheyron one of the most important Hutt worlds."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Sleheyron",
+    "region": "Hutt Space",
+    "system": "Sleheyron system",
+    "coordinates": "S-10",
+    "routes": [
+      "Pabol Hutta",
+      "Pabol Sleheyron"
+    ],
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Urban",
+      "Volcanic"
+    ],
+    "interest": [
+      "Tibanna gas factories",
+      "Vosadii Techno-Palace"
+    ],
+    "otherspecies": [
+      "Hutts",
+      "Other species",
+      "Formerly: Rakata"
+    ],
+    "population": "1 billion to 10 billion (by 25 ABY)",
+    "demonym": "Sleheyroni",
+    "imports": [
+      "Tibanna gas",
+      "Slaves"
+    ],
+    "exports": [
+      "Fuel",
+      "Slaves"
+    ],
+    "affiliation": [
+      "Infinite Empire",
+      "Hutt Empire",
+      "Hutt Cartel",
+      "Brotherhood of Darkness",
+      "Yuuzhan Vong empire",
+      "Confederation",
+      "Xim's empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Sleheyron",
+    "x": 11546.7,
+    "y": -339.5,
+    "z": -598.5,
+    "region": "Hutt Space",
+    "grid": "S-10"
+  },
+  "scraped": "2026-07-03"
+}

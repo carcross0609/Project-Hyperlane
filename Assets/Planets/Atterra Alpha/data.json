@@ -1,0 +1,35 @@
+{
+  "name": "Atterra Alpha",
+  "wookieepedia_title": "Atterra Alpha",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Atterra_Alpha",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Atterra Alpha was a planet located in the Atterra system within the Outer Rim Territories that was controlled by the First Order",
+  "lead_paragraphs": [
+    "Atterra Alpha was a planet located in the Atterra system within the Outer Rim Territories that was controlled by the First Order"
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Atterra Alpha",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Kanz sector",
+    "system": "Atterra system",
+    "coordinates": "N-4",
+    "moons": "1",
+    "routes": "Veragi Trade Route",
+    "affiliation": "First Order"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Atterra Alpha",
+    "x": 6754.8,
+    "y": -3891.9,
+    "z": -239.2,
+    "region": "Outer Rim",
+    "grid": "P-12"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Mikkian",
+  "wookieepedia_title": "Mikkian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mikkian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Mikkians were a humanoid species that were native to the planet Mikkia, identifiable by their manes of head-tendrils and their bright skin pigmentation. The twin sisters Tiplar and Tiplee, who fought and died in the Clone Wars as Jedi Masters, were Mikkians. Another member of the species, a female named Sakas, fought with the Alliance to Restore the Republic in the Galactic Civil War.",
+  "data": {
+    "name": "Mikkian",
+    "designation": "Sentient",
+    "class": "Humanoid",
+    "skincolor": [
+      "Blue",
+      "Green",
+      "Pink",
+      "Red",
+      "White",
+      "Yellow"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Red"
+    ],
+    "distinctions": "Numerous head-tendrils",
+    "origin": "Mikkia",
+    "language": "Mikkian"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Mikkia"
+}

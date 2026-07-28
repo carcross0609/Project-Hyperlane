@@ -1,0 +1,70 @@
+{
+  "name": "Unidentified planet",
+  "wookieepedia_title": "Unidentified planet (West Fissure)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Unidentified_planet_%28West_Fissure%29",
+  "continuity": "Unknown",
+  "infobox_template": "CelestialBody",
+  "description": "A planet orbited a sun whose solar flares regularly affected most of the world's surface. The planet's climate was varied and included such weather phenomena as dry rain, glacial cysts, irrational echoes, spotted snow, resistance shadows, and talking fogs. The West Fissure was a large region on the planet, featuring arzen fields, low valleys, and hollows. The fauna of the planet included the mind eel, and the world's population included dust farmers and grain distributors.",
+  "lead_paragraphs": [
+    "A planet orbited a sun whose solar flares regularly affected most of the world's surface. The planet's climate was varied and included such weather phenomena as dry rain, glacial cysts, irrational echoes, spotted snow, resistance shadows, and talking fogs. The West Fissure was a large region on the planet, featuring arzen fields, low valleys, and hollows. The fauna of the planet included the mind eel, and the world's population included dust farmers and grain distributors.",
+    "At some point, an atomic blast occurred on the moon Raspar-6, which was expected to affect the planet's atmosphere and climate. The explosion was noted in a weather forecast that prognosticated the climate for the West Fissure for an entire local year."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Unidentified planet",
+    "suns": "At least 1",
+    "class": "Terrestrial",
+    "climate": "Varied",
+    "terrain": [
+      "Arzen fields",
+      "Low valleys and hollows"
+    ],
+    "interest": "West Fissure",
+    "flora": "Root-bound seedling",
+    "fauna": "Mind eel"
+  },
+  "homeworld_of": [
+    {
+      "name": "Bartokk",
+      "directory": "Bartokk",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Lupr'or",
+      "directory": "Lupr'or",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Unidentified blue humanoid species",
+      "directory": "Unidentified blue humanoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-faced species",
+      "directory": "Unidentified purple-faced species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified purple-skinned humanoid species",
+      "directory": "Unidentified purple-skinned humanoid species",
+      "continuity": "Unknown"
+    },
+    {
+      "name": "Unidentified red pachydermoid species",
+      "directory": "Unidentified red pachydermoid species",
+      "continuity": "Legends"
+    },
+    {
+      "name": "Unidentified species",
+      "directory": "Unidentified species (seven-ringed homeworld)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

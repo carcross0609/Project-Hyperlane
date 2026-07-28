@@ -1,0 +1,39 @@
+{
+  "name": "Old Barag",
+  "wookieepedia_title": "Old Barag/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Old_Barag/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Old Barag was a planet located in the Old Barag system of the Epsi Collective, within the galaxy's Expansion Region. In the year 11,591 BBY, the Baragwin homeworld was attacked by the Pius Dea Republic during the Fifteenth Pius Dea Crusade. By the publication of The University of Sanbra Guide to Intelligent Life first draft in 0 BBY, Old Barag had long since been forgotten, even by the Baragwin themselves.",
+  "lead_paragraphs": [
+    "Old Barag was a planet located in the Old Barag system of the Epsi Collective, within the galaxy's Expansion Region. In the year 11,591 BBY, the Baragwin homeworld was attacked by the Pius Dea Republic during the Fifteenth Pius Dea Crusade. By the publication of The University of Sanbra Guide to Intelligent Life first draft in 0 BBY, Old Barag had long since been forgotten, even by the Baragwin themselves."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Old Barag",
+    "region": [
+      "Expansion Region",
+      "Western Reaches"
+    ],
+    "sector": "Epsi Collective",
+    "system": "Old Barag system",
+    "coordinates": "M-15",
+    "species": "Baragwin"
+  },
+  "homeworld_of": [
+    {
+      "name": "Baragwin",
+      "directory": "Baragwin (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Old Barag",
+    "x": -2554.2,
+    "y": -7396.8,
+    "z": -136.4,
+    "region": "Expansion Region",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

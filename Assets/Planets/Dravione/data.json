@@ -1,0 +1,54 @@
+{
+  "name": "Dravione",
+  "wookieepedia_title": "Dravione",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dravione",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dravione was an Outer Rim Territories world located in the Tion Cluster's Allied Tion sector. At some point between approximately 25,150 BBY and 25,130 BBY, it was seized by the expanding Kingdom of Argai led by the pirate chieftain Xer VIII. Under the reign of Xer's son, Xim, Dravione was the site of several aeries built atop mountain peaks that were frequented by the younger ruler and his court. Millennia later, Dravione was an agricultural world on which the still-preserved aeries were at one point visited by the traveling merchant, philosopher, and historian Bleys Harand.",
+  "lead_paragraphs": [
+    "Dravione was an Outer Rim Territories world located in the Tion Cluster's Allied Tion sector. At some point between approximately 25,150 BBY and 25,130 BBY, it was seized by the expanding Kingdom of Argai led by the pirate chieftain Xer VIII. Under the reign of Xer's son, Xim, Dravione was the site of several aeries built atop mountain peaks that were frequented by the younger ruler and his court. Millennia later, Dravione was an agricultural world on which the still-preserved aeries were at one point visited by the traveling merchant, philosopher, and historian Bleys Harand."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Dravione",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": [
+      "Tion Cluster",
+      "  Allied Tion sector"
+    ],
+    "system": "Dravione system",
+    "coordinates": "S-6",
+    "routes": [
+      "Cadinth Run",
+      "Desevran Trace",
+      "Indrexu Route"
+    ],
+    "class": "Terrestrial",
+    "terrain": "Mountains",
+    "interest": [
+      "Aeries",
+      "A ruined fortress"
+    ],
+    "affiliation": [
+      "Kingdom of Argai",
+      "Xim's empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dravione",
+    "x": 11354.3,
+    "y": 5695.4,
+    "z": -131.4,
+    "region": "Outer Rim",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Tion",
+  "wookieepedia_title": "Tion",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tion",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tion was a planet located within the Tion Hegemony of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Tion was a planet located within the Tion Hegemony of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "Geography",
+    "History",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Tion",
+    "region": [
+      "Outer Rim Territories",
+      "  Tion Cluster"
+    ],
+    "sector": "Tion Hegemony",
+    "system": "Tion system",
+    "coordinates": "S-5",
+    "suns": "2",
+    "moons": "3",
+    "routes": "Tion Trade Route",
+    "class": "Terrestrial",
+    "terrain": "Oceans",
+    "otherspecies": "Humans",
+    "language": [
+      "Galactic Basic Standard",
+      "Formerly: Tionese"
+    ],
+    "affiliation": [
+      "Kingdom of Cron",
+      "Xer's Empire",
+      "Xim's Empire",
+      "Honorable Union of Desevro and Tion",
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tion",
+    "x": 11595.7,
+    "y": 6119.7,
+    "z": -4.5,
+    "region": "Outer Rim",
+    "grid": "S-5"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Trailia",
+  "wookieepedia_title": "Trailia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Trailia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Trailia was a low-tech planet, located in the Trailia system of the Outer Rim Territories, on the fringes of known space. It was the homeworld of the Trailians. It was a technologically primitive world with thick jungles.",
+  "lead_paragraphs": [
+    "Trailia was a low-tech planet, located in the Trailia system of the Outer Rim Territories, on the fringes of known space. It was the homeworld of the Trailians. It was a technologically primitive world with thick jungles."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Trailia",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Dominus sector",
+    "system": "Trailia system",
+    "coordinates": "U-7",
+    "climate": "Tropical",
+    "terrain": "Rainforests",
+    "interest": "Cronal's laboratory",
+    "species": "Trailians",
+    "population": [
+      "2 Billion"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Trailian",
+      "directory": "Trailian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Trailia",
+    "x": 13972.0,
+    "y": 3652.1,
+    "z": 103.7,
+    "region": "Outer Rim",
+    "grid": "U-7"
+  },
+  "scraped": "2026-07-03"
+}

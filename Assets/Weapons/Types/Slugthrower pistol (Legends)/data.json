@@ -1,0 +1,22 @@
+{
+  "name": "Slugthrower pistol",
+  "wookieepedia_title": "Slugthrower pistol/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Slugthrower_pistol/Legends",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A slugthrower pistol was a weapon that fired metal bullets, also called \"slugs,\" instead of the energy bolts normally fired out of a blaster. It was a smaller, handheld version of the slugthrower rifle. Slugthrowers were mostly found on backwater fringe worlds where blasters were not commonly found. Their ammunition consisted of a magazine that held 10 slugs. Each magazine cost 20 credits and weighed 0.1 kg.",
+  "data": {
+    "name": "Slugthrower pistol",
+    "type": "Slugthrower",
+    "cost": "100 credits to 250 credits",
+    "size": "Small",
+    "weight": "1.4 kg",
+    "capacity": "10 shots",
+    "range": [
+      "Optimum: up to 30 meters",
+      "Maximum: up to 120 meters"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

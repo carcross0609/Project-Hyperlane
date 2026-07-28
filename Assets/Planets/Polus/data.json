@@ -1,0 +1,55 @@
+{
+  "name": "Polus",
+  "wookieepedia_title": "Polus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Polus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Polus was an ice world orbiting the binary star Avindia of the Avindia system in the Outer Rim Territories. A frigid, mountainous planet, it had a massive frozen ocean and blizzards as well as ice storms that would frequently scour the planet's surface. Its average day temperature was 50 degrees below freezing. Polus was the homeworld of the Pyn'gani, a near-Human species.",
+  "lead_paragraphs": [
+    "Polus was an ice world orbiting the binary star Avindia of the Avindia system in the Outer Rim Territories. A frigid, mountainous planet, it had a massive frozen ocean and blizzards as well as ice storms that would frequently scour the planet's surface. Its average day temperature was 50 degrees below freezing. Polus was the homeworld of the Pyn'gani, a near-Human species."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Polus",
+    "region": "Outer Rim Territories",
+    "sector": "Oricho sector",
+    "system": "Avindia system",
+    "coordinates": "M-6",
+    "suns": "2",
+    "moons": "1",
+    "diameter": "9,562 kilometers",
+    "climate": "Arctic",
+    "terrain": [
+      "Frozen ocean",
+      "Mountains"
+    ],
+    "interest": "Frozen Ocean",
+    "species": [
+      "Pyn'gani",
+      "Dral'k ice worms"
+    ],
+    "language": "Pyn'gani language",
+    "population": "600,000",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Pyn'gani",
+      "directory": "Pyn'gani",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Polus",
+    "x": 2215.3,
+    "y": 5316.0,
+    "z": -153.9,
+    "region": "Outer Rim",
+    "grid": "M-6"
+  },
+  "scraped": "2026-07-03"
+}

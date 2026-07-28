@@ -1,0 +1,25 @@
+{
+  "name": "Sith Tremor Sword",
+  "wookieepedia_title": "Sith Tremor Sword",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sith_Tremor_Sword",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Sith Tremor Sword was a vibroblade very similar to the ones used by Sith Lords from the Golden Age of the Sith, specifically the ancient Sith Lords of Ziost. It was awarded to masterblades, members of the Bladeborn who had killed at least ten lightsaber-wielding opponents in battle. The metal blade was laced with the rare mineral cortosis to prevent it from being severed in lightsaber sparring.",
+  "data": {
+    "name": "Sith Tremor Sword",
+    "type": "Vibroblade",
+    "culture": "Sith",
+    "cost": "60 credits",
+    "shape": "Sword-like",
+    "material": "Laced with cortosis",
+    "weight": "2 kg",
+    "protection": "Lightsaber-impervious",
+    "affiliation": [
+      "Sith",
+      "Bladeborn",
+      "  Masterblade"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

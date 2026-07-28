@@ -1,0 +1,48 @@
+{
+  "asset": "EX-1-8",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "TIE bomber",
+      "url": "https://sketchfab.com/3d-models/none-dab029b751bd4cc293b66e3cc013e3a0",
+      "uid": "dab029b751bd4cc293b66e3cc013e3a0",
+      "author": "StarWars-Universe",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 309,
+      "thumbnail": "https://media.sketchfab.com/models/dab029b751bd4cc293b66e3cc013e3a0/thumbnails/677a64d758a14962b404f55a15686557/64x36.jpeg"
+    },
+    {
+      "name": "Star Wars: TIE/sa Bomber",
+      "url": "https://sketchfab.com/3d-models/none-03c30934651e4f5798b67e74049ec6bc",
+      "uid": "03c30934651e4f5798b67e74049ec6bc",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 189,
+      "thumbnail": "https://media.sketchfab.com/models/03c30934651e4f5798b67e74049ec6bc/thumbnails/8613c34803ce4106bfcfc190fabebfa2/6a311fc803734f2096a6bff03131a4ea.jpeg"
+    },
+    {
+      "name": "Star Wars: TIE/sa Bomber",
+      "url": "https://sketchfab.com/3d-models/none-f7047bcf9c464236b315a4daea9d8c31",
+      "uid": "f7047bcf9c464236b315a4daea9d8c31",
+      "author": "Daniel",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 1.0,
+      "likes": 134,
+      "thumbnail": "https://media.sketchfab.com/models/f7047bcf9c464236b315a4daea9d8c31/thumbnails/756a3fe9fd2c47cf9b0727e77303ef22/ffd6ba5ad3bf4c5f95085ad5b2a52e8e.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Bomber"
+}

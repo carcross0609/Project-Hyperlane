@@ -1,0 +1,106 @@
+{
+  "name": "Barab I",
+  "wookieepedia_title": "Barab I/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barab_I/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Barab I was a dark, murky planet in the Barab system of the Albanin sector of the Outer Rim Territories. Located along the Triellus Trade Route, the planet was largely avoided by spacers due to the fearsome natives known as the Barabel.",
+  "lead_paragraphs": [
+    "Barab I was a dark, murky planet in the Barab system of the Albanin sector of the Outer Rim Territories. Located along the Triellus Trade Route, the planet was largely avoided by spacers due to the fearsome natives known as the Barabel."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Barab I",
+    "region": [
+      "Outer Rim Territories; The Slice",
+      "The Slice"
+    ],
+    "sector": "Albanin sector",
+    "system": "Barab system",
+    "coordinates": "U-12",
+    "suns": "1: Barab",
+    "position": "1",
+    "moons": "0",
+    "lengthday": "60 standard hours",
+    "lengthyear": "146 standard days",
+    "class": "Irradiated terrestrial",
+    "diameter": "10,448 kilometers",
+    "atmosphere": [
+      "Type I (breathable)",
+      "Humid (20 hours of rain per day)"
+    ],
+    "climate": "Arid",
+    "gravity": "Standard",
+    "terrain": [
+      "Modern:",
+      "Smoldering craters",
+      "Bubbling lava plains",
+      "Steaming seas",
+      "Historic:",
+      "Rocky badlands",
+      "Caves"
+    ],
+    "interest": [
+      "Mount Ste'vshuulsz",
+      "Neutral Jedi Zone",
+      "Listian Hills"
+    ],
+    "fauna": [
+      "Durgolosk",
+      "Hka'ka",
+      "Kranbak",
+      "Rangi",
+      "Shenbit bonecrusher",
+      "Skotcarp",
+      "Vsst"
+    ],
+    "species": "Barabel",
+    "language": "Barabel",
+    "government": "Independent clans",
+    "population": [
+      "1.4 billion (100% Barabel)",
+      "1 billion to 10 billion (c. 25 ABY)"
+    ],
+    "cities": "Alater-ka (capital)",
+    "imports": [
+      "Weapons",
+      "Metal and plasteel goods"
+    ],
+    "exports": [
+      "Exotic wildlife",
+      "Mercenaries",
+      "Barabel fruit",
+      "Barab ore"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire",
+      "Galactic Federation of Free Alliances"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Barabel",
+      "directory": "Barabel",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Barabel",
+      "directory": "Barabel (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Barab I",
+    "x": 13571.6,
+    "y": -4437.8,
+    "z": 507.3,
+    "region": "Outer Rim",
+    "grid": "U-12"
+  },
+  "scraped": "2026-07-03"
+}

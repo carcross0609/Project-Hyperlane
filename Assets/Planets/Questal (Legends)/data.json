@@ -1,0 +1,45 @@
+{
+  "name": "Questal",
+  "wookieepedia_title": "Questal/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Questal/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Questal was a planet in Questal sector, infamous during the Galactic Civil War as the stronghold of the sadistic Moff Bandor.",
+  "lead_paragraphs": [
+    "Questal was a planet in Questal sector, infamous during the Galactic Civil War as the stronghold of the sadistic Moff Bandor."
+  ],
+  "article_sections": [
+    "History",
+    "Locations",
+    "  Moff Bandor's Palace",
+    "  Shilley's"
+  ],
+  "data": {
+    "name": "Questal",
+    "region": "Core Worlds",
+    "sector": "Questal sector",
+    "system": "Questal system",
+    "coordinates": "J-12",
+    "climate": "Temperate",
+    "interest": [
+      "Bandor's Palace",
+      "Shilley's",
+      "The Waste"
+    ],
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard",
+    "government": "Police state",
+    "cities": "Gralleenya (capital)",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Questal",
+    "x": -1766.1,
+    "y": -4107.2,
+    "z": -44.8,
+    "region": "Core Worlds",
+    "grid": "J-12"
+  },
+  "scraped": "2026-07-03"
+}

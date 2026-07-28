@@ -1,0 +1,59 @@
+{
+  "name": "Poderis",
+  "wookieepedia_title": "Poderis",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Poderis",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Poderis was a planet in the Orus sector of the Inner Rim.",
+  "lead_paragraphs": [
+    "Poderis was a planet in the Orus sector of the Inner Rim."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The dark times",
+    "  Thrawn Campaign",
+    "  Yuuzhan Vong War"
+  ],
+  "data": {
+    "name": "Poderis",
+    "region": [
+      "Inner Rim",
+      "Northern Dependencies"
+    ],
+    "sector": "Orus sector",
+    "system": "Poderis system",
+    "coordinates": "M-8",
+    "lengthday": "10 standard hours",
+    "lengthyear": "77 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Temperate",
+    "gravity": "Standard",
+    "terrain": "Archipelago chains of mesas",
+    "otherspecies": "Humans",
+    "language": "Basic",
+    "population": "17 million",
+    "imports": [
+      "Food",
+      "Medicine",
+      "High technology"
+    ],
+    "exports": "None",
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Poderis",
+    "x": 2694.4,
+    "y": 1763.9,
+    "z": 122.8,
+    "region": "Inner Rim",
+    "grid": "M-8"
+  },
+  "scraped": "2026-07-03"
+}

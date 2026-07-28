@@ -1,0 +1,28 @@
+{
+  "name": "Barabel",
+  "wookieepedia_title": "Barabel",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Barabel",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "The Barabels were a saurian species native to the irradiated planet Barab I. They had blaster-proof scales and were incredibly strong, earning a fearsome reputation that put them in high demand as hired muscle in the criminal underworld. The species revered the Jedi Order and its combat prowess, but shared little of their morality and found the pain of others amusing.",
+  "data": {
+    "name": "Barabel",
+    "designation": "Sentient",
+    "class": "Saurian",
+    "skincolor": [
+      "Blue",
+      "Green"
+    ],
+    "eyecolor": [
+      "Blue",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Blaster-proof scales",
+      "Prodigious strength"
+    ],
+    "origin": "Barab I"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Barab I"
+}

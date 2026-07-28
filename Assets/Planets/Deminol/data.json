@@ -1,0 +1,41 @@
+{
+  "name": "Deminol",
+  "wookieepedia_title": "Deminol",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Deminol",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Deminol was a terrestrial world located in the Deminol system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Senex-Juvex Loop hyperlane linked it to the Anstares and Ossiathora systems.",
+  "lead_paragraphs": [
+    "Deminol was a terrestrial world located in the Deminol system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. The Senex-Juvex Loop hyperlane linked it to the Anstares and Ossiathora systems.",
+    "Deminol was a bustling spaceport world, one of the busiest in the Juvex sector, and, like the rest of the Senex-Juvex worlds, was under the control of the region's aristocratic Ancient Houses. It housed several universities, which were attended by students from all of the Senex-Juvex Houses.",
+    "During the reign of the Galactic Empire, a biologist on Deminol recruited Fendel Ramison to retrieve a single egg of the tresher, a species of avians native to the planet Tinallis, and deliver it to her. Ramison's attempt was ultimately unsuccessful, and he was arrested by the authorities on Tinallis for the violation of planetary conservation laws. In his confession, Ramison mentioned the biologist on Deminol."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Deminol",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Juvex sector"
+    ],
+    "system": "Deminol system",
+    "coordinates": "L-17",
+    "routes": "Senex-Juvex Loop",
+    "class": "Terrestrial",
+    "interest": "Universities",
+    "affiliation": "Ancient Houses"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Deminol",
+    "x": 262.7,
+    "y": -11876.6,
+    "z": -320.2,
+    "region": "Mid Rim",
+    "grid": "L-17"
+  },
+  "scraped": "2026-07-03"
+}

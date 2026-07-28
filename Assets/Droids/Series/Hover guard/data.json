@@ -1,0 +1,22 @@
+{
+  "name": "Hover guard",
+  "wookieepedia_title": "Hover guard",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hover_guard",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The hover guards (also spelled hoverguard) was a series of sentry droids produced during the early years of the Galactic Empire. They resembled large flying insects, and each was equipped with a tiny repulsor engine for propulsion. A pair of sensor eyes were located on a hover guard's front panel, and a light stunning blaster hung down from either side. Tig Fromm, an Annoo-dat Blue gangster, used three such units as bodyguards.",
+  "data": {
+    "name": "Hover guard",
+    "class": "Sentry droid",
+    "sensor": "Red",
+    "plating": "Gray",
+    "armament": "Light stunning blasters (2)",
+    "equipment": [
+      "Repulsor engine",
+      "Sensor eyes (2)"
+    ],
+    "affiliation": "Fromm Gang"
+  },
+  "scraped": "2026-07-03"
+}

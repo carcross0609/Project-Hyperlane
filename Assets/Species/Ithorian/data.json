@@ -1,0 +1,36 @@
+{
+  "name": "Ithorian",
+  "wookieepedia_title": "Ithorian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ithorian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Ithorians, commonly referred to as hammerheads or as leathernecks as an insult, were a sentient species from the planet Ithor. Ithorians had two mouths on the opposite sides of their necks, giving them a deep, rumbling voice. Most Ithorians were peaceful and revered nature. The species' pacifism was so strong that they exiled violent individuals from their homeworld of Ithor. Notable Ithorians include Dok-Ondar, a collector on Batuu, and Momaw Nadon, an Ithorian gardener who was exiled from his homeworld.",
+  "data": {
+    "name": "Ithorian",
+    "designation": "Sentient",
+    "subspecies": "Ottegan",
+    "skincolor": [
+      "Brown",
+      "Green",
+      "Light Brown",
+      "Orange"
+    ],
+    "eyecolor": [
+      "Black",
+      "Blue",
+      "Brown",
+      "Orange",
+      "Yellow"
+    ],
+    "distinctions": [
+      "Curved neck",
+      "Two mouths",
+      "Long lifespan"
+    ],
+    "origin": "Ithor",
+    "habitat": "Forest or jungle",
+    "language": "Ithorese"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Ithor"
+}

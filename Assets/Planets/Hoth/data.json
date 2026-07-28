@@ -1,0 +1,94 @@
+{
+  "name": "Hoth",
+  "wookieepedia_title": "Hoth",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Hoth",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Hoth was a remote, icy planet that was the sixth planet in the star system of the same name, located in the Anoat sector of the galaxy's Outer Rim Territories. It was the homeworld to the primitive wampa species.",
+  "lead_paragraphs": [
+    "Hoth was a remote, icy planet that was the sixth planet in the star system of the same name, located in the Anoat sector of the galaxy's Outer Rim Territories. It was the homeworld to the primitive wampa species.",
+    "It notably hosted Echo Base during the Galactic Civil War, the temporary headquarters of the Alliance to Restore the Republic, until the Galactic Empire located them, initiating a major confrontation known as the Battle of Hoth. In the months following, scavengers established temporary base camps on the planet to scrap the AT-ATs destroyed.",
+    "In the months after the Battle of Endor, rumors emerged about the New Republic intending to repurpose Hoth into a prison for those who remained loyal to the Empire, however, the credibility of the rumors were dismissed as Chancellor Mon Mothma had been dedicated to a pretext of justice over punishment. Meanwhile, the war returned to Hoth, where it became the site of another battle during the Iron Blockade."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  The Rebel Alliance",
+    "  Battle of Hoth and aftermath",
+    "  New Republic Era",
+    "  Non-canon sources"
+  ],
+  "data": {
+    "name": "Hoth",
+    "region": [
+      "Outer Rim Territories",
+      "  Galactic Frontier",
+      "Western Reaches"
+    ],
+    "sector": "Anoat sector",
+    "system": "Hoth system",
+    "coordinates": "K-18",
+    "distance": "50,250 light years",
+    "suns": "1: Hoth",
+    "position": "6",
+    "moons": "3",
+    "routes": [
+      "Ison Trade Corridor (one hyperjump away)",
+      "Corellian Trade Spine (one hyperjump away)"
+    ],
+    "lengthday": "23 standard hours",
+    "lengthyear": "549 local days (526 standard days)",
+    "class": "Terrestrial",
+    "diameter": "7,200 kilometers (4,474 miles)",
+    "atmosphere": "Breathable, clean",
+    "climate": "Frigid",
+    "terrain": "Frozen ice plains, glaciers, oceans mountains",
+    "water": "33% (oceans)",
+    "interest": [
+      "Clabburn Range",
+      "  Echo Base",
+      "Echo Station 3-T-8",
+      "Icefall Plains",
+      "Moorsh Moraine",
+      "Outpost Beta",
+      "Perimeter Outpost Delta",
+      "Shyloah's Crest",
+      "Wampa Mountain"
+    ],
+    "flora": [
+      "Algae",
+      "Lichen"
+    ],
+    "fauna": [
+      "Dragon Slug",
+      "Fork-nosed ice worm",
+      "Hoth hog",
+      "Hoth spider",
+      "Ice scrabbler",
+      "Rayboo",
+      "Sapphire ice worm",
+      "Tauntaun",
+      "Wampa"
+    ],
+    "otherlife": "Ice fungus",
+    "population": "Fewer than 10",
+    "demonym": "Hothian",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Skel",
+      "directory": "Skel",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Hoth",
+    "x": -1421.3,
+    "y": -12880.3,
+    "z": 29.4,
+    "region": "Outer Rim",
+    "grid": "K-18"
+  },
+  "scraped": "2026-07-03"
+}

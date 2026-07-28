@@ -1,0 +1,25 @@
+{
+  "name": "R9-TR2",
+  "wookieepedia_title": "R9-TR2",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/R9-TR2",
+  "continuity": null,
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "R9-TR2, nicknamed Tor-Tu, was an astromech droid and lifelong companion to the human princess Crane. Tor-Tu was with the princess during the Destruction of the Kingdom of Biwaji, served alongside her in the Rebellion against the Empire, and followed her in their mission on the planet Joetz. Tor-Tu's unique ability to transform into flying mechanical armor saved that mission; he and Crane successfully destroyed a force of Imperial walkers and rescued Woopas, the lone survivor from a village attacked by the Empire.",
+  "data": {
+    "type": "Rebel",
+    "option1": "Astromech mode",
+    "image2": "R9-TR2ArmorMode-TheSongOfFourWings.png",
+    "option2": "Armor mode",
+    "name": "R9-TR2",
+    "class": "Astromech droid",
+    "height": "109 cm",
+    "pronouns": "He/him",
+    "sensor": "Black",
+    "plating": "Grey",
+    "armament": "Armor modeFour laser cannonsThermal detonator",
+    "equipment": "Record cube playerHoloprojectorLife-form scannerSensorsS-foils (in armor mode)",
+    "affiliation": "Kingdom of BiwajiAlliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

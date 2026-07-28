@@ -1,0 +1,54 @@
+{
+  "name": "Scipio",
+  "wookieepedia_title": "Scipio/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Scipio/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Scipio was an ice- and snow-covered planet in the Outer Rim Territories' Albarrio sector. An important world for the Muuns and the InterGalactic Banking Clan, the world had frozen peaks dotted with towering columns and graceful arches.",
+  "lead_paragraphs": [
+    "Scipio was an ice- and snow-covered planet in the Outer Rim Territories' Albarrio sector. An important world for the Muuns and the InterGalactic Banking Clan, the world had frozen peaks dotted with towering columns and graceful arches."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Scipio",
+    "region": "Outer Rim Territories",
+    "sector": "Albarrio sector",
+    "system": "Scipio system",
+    "coordinates": "K-5",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "gravity": "Standard",
+    "terrain": [
+      "Cliffs",
+      "Mountains"
+    ],
+    "interest": [
+      "InterGalactic Banking Clan Main Vault",
+      "Frigia Canyons"
+    ],
+    "otherspecies": [
+      "Muun",
+      "Human"
+    ],
+    "language": "Muun",
+    "government": "Core Five",
+    "cities": "Capital City",
+    "affiliation": [
+      "Galactic Republic",
+      "InterGalactic Banking Clan",
+      "Confederacy of Independent Systems (during occupation)"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Scipio",
+    "x": -968.0,
+    "y": 7229.4,
+    "z": -115.1,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

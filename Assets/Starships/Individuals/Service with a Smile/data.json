@@ -1,0 +1,39 @@
+{
+  "name": "Service with a Smile",
+  "wookieepedia_title": "Service with a Smile",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Service_with_a_Smile",
+  "continuity": "Canon",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Service with a Smile was a Low Altitude Assault Transport used during the Clone Wars. The nose art featured a bomb with Jedi Master Kit Fisto's face on it, and written in Aurebesh underneath was the name of the ship. In 20 BBY, this gunship ferried Fisto and several Clone SCUBA troopers during the Battle of Mon Cala.",
+  "data": {
+    "name": "Service with a Smile",
+    "manufacturer": "Rothana Heavy Engineering",
+    "model": "Low Altitude Assault Transport/infantry",
+    "type": "Gunship",
+    "length": "17.69 meters",
+    "height": "6.94 meters",
+    "max_speed": "620 kph",
+    "armament": [
+      "Pair of Laser cannon turrets (Chin-mounted)",
+      "Pair of laser-beam turrets (optional)",
+      "Pair of Rocket Launchers (Dorsal surface)",
+      "  Missile belts (Rear-mounted)"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot/Gunner (1)",
+      "Gunner (2-4)(optional)"
+    ],
+    "role": [
+      "Infantry transport",
+      "Air-to-ground support",
+      "Air-to-air support"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

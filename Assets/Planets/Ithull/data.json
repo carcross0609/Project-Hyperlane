@@ -1,0 +1,45 @@
+{
+  "name": "Ithull",
+  "wookieepedia_title": "Ithull",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ithull",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Ithull was the gigantic homeworld of the Ithullans and the colossus wasps. The Ithullans were almost wiped out by the Mandalorians in the year 200 BBY.",
+  "lead_paragraphs": [
+    "Ithull was the gigantic homeworld of the Ithullans and the colossus wasps. The Ithullans were almost wiped out by the Mandalorians in the year 200 BBY.",
+    "Ithull had a 25-month year."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Ithull",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Airon sector",
+    "system": "Ithull system",
+    "coordinates": "O-10",
+    "lengthyear": "25 standard months",
+    "interest": "Ithullan Depths",
+    "fauna": "Colossus wasp",
+    "species": "Formerly: Ithullans",
+    "otherspecies": "None",
+    "language": "None"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ithullan",
+      "directory": "Ithullan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Ithull",
+    "x": 5642.5,
+    "y": -365.9,
+    "z": -24.6,
+    "region": "Inner Rim",
+    "grid": "O-10"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Mawan",
+  "wookieepedia_title": "Mawan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mawan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Mawan was a planet in the Core Worlds.",
+  "lead_paragraphs": [
+    "Mawan was a planet in the Core Worlds."
+  ],
+  "article_sections": [
+    "History",
+    "Society"
+  ],
+  "data": {
+    "name": "Mawan",
+    "region": [
+      "Core Worlds",
+      "The Slice",
+      "  Arrowhead"
+    ],
+    "system": "Mawan system",
+    "coordinates": "M-11",
+    "suns": "2",
+    "moons": "1",
+    "routes": "Hydian Way",
+    "terrain": "Urban and hot humid fungus rainforest",
+    "species": "Mawans",
+    "cities": "Naatan (capital)",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Mawan",
+      "directory": "Mawan (species)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Mawan",
+    "x": 2531.7,
+    "y": -1667.4,
+    "z": -10.9,
+    "region": "Core Worlds",
+    "grid": "M-11"
+  },
+  "scraped": "2026-07-03"
+}

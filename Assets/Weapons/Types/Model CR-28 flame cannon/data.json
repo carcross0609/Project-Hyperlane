@@ -1,0 +1,35 @@
+{
+  "name": "Model CR-28 flame cannon",
+  "wookieepedia_title": "Model CR-28 flame cannon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Model_CR-28_flame_cannon",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The model CR-28 flame cannon manufactured by Merr-Sonn Munitions, Inc. was a larger version of the regular flamethrower with a longer range, hotter temperature, and greater fuel capacity.",
+  "data": {
+    "name": "Model CR-28 flame cannon",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "model": "CR-28",
+    "type": "Flamethrower",
+    "cost": "2,500 to 3,000 credits (Available for military use only)",
+    "size": [
+      "Too large to use as personal weapon",
+      "Must be mounted on vehicle or tripod"
+    ],
+    "weight": "25 kg",
+    "capacity": [
+      "20 shots or 50 shots",
+      "Shoots a large cone of fire 18 meters long and 12 meters wide at the terminus"
+    ],
+    "range": [
+      "Optimum: up to 10 m",
+      "Maximum: up to 20 m"
+    ],
+    "purpose": [
+      "Clearing out bunkers",
+      "Shock and terror"
+    ],
+    "affiliation": "Corporate Sector Authority"
+  },
+  "scraped": "2026-07-03"
+}

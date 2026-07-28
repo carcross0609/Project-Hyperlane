@@ -1,0 +1,26 @@
+{
+  "name": "Bimm",
+  "wookieepedia_title": "Bimm/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bimm/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Bimms were diminutive Near-Humans from the planet Bimmisaari. The Bimms had a reputation as a peaceful, hospitable people. Sharing their homeworld with furred humanoids also known as the Bimm, the two species were completely unrelated biologically, though they shared a language and cultural identity as Bimms. Many descriptions of Bimm culture and society ignored the biological differences between the two species. Many traveled the galaxy working as merchants and artists. Others remained on their homeworld, or lived in Bimm enclaves on a variety of planets.",
+  "data": {
+    "name": "Bimm",
+    "designation": "Sentient",
+    "class": "Mammal",
+    "height": "1.0 - 1.5 meters",
+    "lifespan": [
+      "Child: 1-12",
+      "Young adult: 13-17",
+      "Adult: 18-85",
+      "Middle age: 86-112",
+      "Old: 113-133",
+      "Venerable: 134+"
+    ],
+    "origin": "Bimmisaari",
+    "language": "Bimmini"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Bimmisaari (Legends)"
+}

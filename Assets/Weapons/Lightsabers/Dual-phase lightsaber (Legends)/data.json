@@ -1,0 +1,34 @@
+{
+  "name": "Dual-phase lightsaber",
+  "wookieepedia_title": "Dual-phase lightsaber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dual-phase_lightsaber/Legends",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "A dual-phase lightsaber was a special variant of lightsaber that used one or a combination of focusing crystals to create a blade that could extend up to triple the original length with a simple activation. Unlike typical lightsabers, which often possessed a manual adjuster for reducing the blade emission, the dual-phased blade could be triggered in an instant, adding an element of surprise to catch an opponent off guard. Additionally, some dual-phase lightsabers also had a blade-width adjust. Gantoris wielded such a lightsaber, as did Corran Horn. Dual phase lightsabers could also have the ability to carry different crystals, and alternate between them at the user's discretion.",
+  "data": {
+    "name": "Dual-phase lightsaber",
+    "model": "Lightsaber",
+    "type": "Dual-phase lightsaber",
+    "culture": [
+      "Jedi",
+      "Sith"
+    ],
+    "owners": [
+      "Dooku (Dooku's lightsaber)",
+      "Exar Kun (Exar Kun's lightsaber)",
+      "Gantoris (Gantoris's lightsaber)",
+      "Keiran Halcyon (Keiran Halcyon's lightsaber)",
+      "Corran Horn (Corran Horn's lightsaber)",
+      "Darth Vader (Darth Vader's lightsaber)"
+    ],
+    "crystal": "One or more lightsaber crystals",
+    "blade_length": "Adjustable, up to 3 meters",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Sith"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "TL-50 Heavy Repeater",
+  "wookieepedia_title": "TL-50 Heavy Repeater",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TL-50_Heavy_Repeater",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The TL-50 Heavy Repeater, also known as the TL-50 Heavy Blaster, was a model of heavy repeating blaster rifle that was manufactured for the special forces of the Galactic Empire. In addition to sending storms of blaster bolts from its multiple barrels, the rifle could gather its energy into a powerful concussion blast. It could also be modified with an extended barrel for reduced spread and with a power cell for increased cooling power. During the Galactic Civil War against the Rebel Alliance, Commander Iden Versio of the Empire's elite Inferno Squad carried a TL-50 Heavy Repeater.",
+  "data": {
+    "name": "TL-50 Heavy Repeater",
+    "model": "TL-50",
+    "type": [
+      "Heavy repeating blaster rifle",
+      "Concussion rifle (secondary fire)"
+    ],
+    "cost": "3,200 credits",
+    "size": "Two-handed weapon",
+    "purpose": "Ranged combat",
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Special Forces",
+      "Surat Nuat's gang"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

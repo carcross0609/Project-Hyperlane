@@ -1,0 +1,48 @@
+{
+  "name": "Chalacta",
+  "wookieepedia_title": "Chalacta",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Chalacta",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Chalacta was a planet located in the Metatessu sector's Chalacta system within the Mid Rim. that was the homeworld of the Chalactan people. The human Jedi Master Depa Billaba was born on Chalacta. In the C.R.C. year 7941, Chalacta was represented in the Galactic Senate of the Galactic Republic by Yudrish Sedran.",
+  "lead_paragraphs": [
+    "Chalacta was a planet located in the Metatessu sector's Chalacta system within the Mid Rim. that was the homeworld of the Chalactan people. The human Jedi Master Depa Billaba was born on Chalacta. In the C.R.C. year 7941, Chalacta was represented in the Galactic Senate of the Galactic Republic by Yudrish Sedran."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Chalacta",
+    "region": [
+      "Mid Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Metatessu sector",
+    "system": "Chalacta system",
+    "coordinates": "R-10",
+    "species": [
+      "Human",
+      "  Chalactan"
+    ],
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Chalactan",
+      "directory": "Chalactan",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Chalactan",
+      "directory": "Chalactan (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Chalacta",
+    "x": 9822.6,
+    "y": -310.7,
+    "z": 169.2,
+    "region": "Mid Rim",
+    "grid": "R-10"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Kinooine",
+  "wookieepedia_title": "Kinooine/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kinooine/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kinooine was a planet located in Wild Space. Kinooine served as the main staging point for the Nagai–Tof War in 4 ABY. A world devoid of sentient life before the Nagai's arrival, Kinooine became the site of two duels between the \"Dark Lady of the Sith\" Lumiya and Jedi Knight Luke Skywalker, who was unable to prevent the Nagai from seizing the planet. After the ultimate Nagai defeat, Kinooine became home to a population of refugee Firrerreo.",
+  "lead_paragraphs": [
+    "Kinooine was a planet located in Wild Space. Kinooine served as the main staging point for the Nagai–Tof War in 4 ABY. A world devoid of sentient life before the Nagai's arrival, Kinooine became the site of two duels between the \"Dark Lady of the Sith\" Lumiya and Jedi Knight Luke Skywalker, who was unable to prevent the Nagai from seizing the planet. After the ultimate Nagai defeat, Kinooine became home to a population of refugee Firrerreo."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants"
+  ],
+  "data": {
+    "name": "Kinooine",
+    "region": "Wild Space",
+    "system": "Kinooine system",
+    "coordinates": "J-21",
+    "class": "Terrestrial",
+    "terrain": [
+      "Caves",
+      "Rivers",
+      "Rocky mountains"
+    ],
+    "otherspecies": [
+      "Nagai",
+      "Firrerreo"
+    ],
+    "affiliation": [
+      "Nagai expeditionary force",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kinooine",
+    "x": -2889.3,
+    "y": -17165.5,
+    "z": -10.5,
+    "region": "Wild Space",
+    "grid": "J-21"
+  },
+  "scraped": "2026-07-03"
+}

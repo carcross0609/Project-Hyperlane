@@ -1,0 +1,41 @@
+{
+  "name": "Bardottan",
+  "wookieepedia_title": "Bardottan",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bardottan",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Bardottans were a sentient species of scaled reptiles native to the planet Bardotta, and were a proud and independent people who were reputed for their mysticism and attention to spiritual matters as well as for art and music throughout the galaxy.",
+  "data": {
+    "name": "Bardottan",
+    "designation": "Sentient",
+    "class": "Reptile",
+    "height": "1-2 meters",
+    "skincolor": [
+      "Blue",
+      "Gray",
+      "Green",
+      "Purple",
+      "Red",
+      "Yellow"
+    ],
+    "feathers": "Red",
+    "eyecolor": [
+      "Red",
+      "Orange",
+      "Green"
+    ],
+    "distinctions": [
+      "Long, curving neck",
+      "Pointed snouts",
+      "Crested heads"
+    ],
+    "origin": [
+      "Bardotta",
+      "Phu (colony)"
+    ],
+    "habitat": "Mountains",
+    "language": "Bardottan"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Bardotta"
+}

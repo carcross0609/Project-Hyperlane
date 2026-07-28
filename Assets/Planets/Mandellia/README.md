@@ -1,0 +1,19 @@
+# Mandellia
+
+**Continuity:** Legends  
+**Source:** [Mandellia](https://starwars.fandom.com/wiki/Mandellia)
+
+Mandellia was a planet in the Outer Rim Territories that served as a haven for pirates in the early years of the Great Galactic War between the Galactic Republic and the reconstituted Sith Empire. Thousands of criminals lived on the world until one day a freighter belonging to an obscure smuggler named Nok Drayen arrived in orbit and broadcasted a message demanding that the pirates surrender or die.
+
+When the pirates refused, Drayen fired a single rocket at the pirate settlement—a warhead loaded with an Imperial nerve toxin he had stolen from the Empire. The entire population of the world, approximately ten thousand criminals, died in less than a minute. The act, and the wealth he scavenged from the world, dead by then, turned Drayen into one of the underworld's wealthiest and most feared crime lords overnight. He later named a starship, the Mandellian Gambit, after the incident, and his daughter Risha Drayen was born there.
+
+## Planetary data
+
+- **Name:** Mandellia
+- **Region:** Outer Rim Territories
+- **Coordinates:** Canon-only
+- **Population:** Around 10,000 (formerly)
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

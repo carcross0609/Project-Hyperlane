@@ -1,0 +1,36 @@
+{
+  "name": "Crakull",
+  "wookieepedia_title": "Crakull",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Crakull",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Crakull was a planet located within the Crakull system of the Unknown Regions. It was home to the sentient Croke species. The Croke were diminutive in size, and had multiple legs as well as a natural ability to disguise themselves behind illusions.",
+  "lead_paragraphs": [
+    "Crakull was a planet located within the Crakull system of the Unknown Regions. It was home to the sentient Croke species. The Croke were diminutive in size, and had multiple legs as well as a natural ability to disguise themselves behind illusions.",
+    "Rokur Gepta was a Croke who was born on Crakull at least twenty millennia before the year 2 BBY, while the Croke poet Asenec was born there in 593 BBY. At some point, the Croke settled planets in the region known as the Croke Reach, including the world Explume Minor."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Crakull",
+    "region": "Unknown Regions",
+    "system": "Crakull system",
+    "coordinates": "G-10",
+    "species": "Croke"
+  },
+  "homeworld_of": [
+    {
+      "name": "Croke",
+      "directory": "Croke",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Crakull",
+    "x": -7176.6,
+    "y": -990.3,
+    "z": -204.3,
+    "region": "Unknown Regions",
+    "grid": "G-10"
+  },
+  "scraped": "2026-07-03"
+}

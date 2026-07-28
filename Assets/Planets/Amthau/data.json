@@ -1,0 +1,50 @@
+{
+  "name": "Amthau",
+  "wookieepedia_title": "Amthau",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Amthau",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Amthau was the third planet in the Genesia system. The surface was dominated by rocky canyons, which spoke of the water which used to run across the planet's surface. This made the terraforming project much easier. When the terraforming was complete, Amthau became a favorite vacation spot for the wealthy inhabitants of the planet Genesia.",
+  "lead_paragraphs": [
+    "Amthau was the third planet in the Genesia system. The surface was dominated by rocky canyons, which spoke of the water which used to run across the planet's surface. This made the terraforming project much easier. When the terraforming was complete, Amthau became a favorite vacation spot for the wealthy inhabitants of the planet Genesia."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Amthau",
+    "region": "Expansion Region",
+    "sector": "Brak sector",
+    "system": "Genesia system",
+    "coordinates": "O-14",
+    "position": "3",
+    "lengthday": "33 standard hours",
+    "lengthyear": "455 local days",
+    "class": "Terraformed Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Warm",
+    "gravity": "Standard",
+    "terrain": [
+      "Plains",
+      "Rough canyons"
+    ],
+    "water": "Arid",
+    "otherspecies": "Humans",
+    "government": "Genesian Colonial Governorship",
+    "population": "1 million",
+    "cities": "Amthau City",
+    "imports": [
+      "Foodstuffs",
+      "Manufactured goods",
+      "Technology"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Amthau",
+    "x": 5404.9,
+    "y": -6993.0,
+    "z": 176.5,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

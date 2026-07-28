@@ -1,0 +1,47 @@
+{
+  "name": "Alliance",
+  "wookieepedia_title": "Alliance (Imperious-class)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Alliance_%28Imperious-class%29",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Alliance, originally known as the Imperious, was a large, powerful warship built by the Galactic Empire ruled by Darth Krayt. It was the prototype of the Imperious-class Star Destroyer, a Star Destroyer design larger and more powerful than the Pellaeon-class. It was a personal flagship of Galactic Alliance Admiral Gar Stazi.",
+  "data": {
+    "name": "Alliance",
+    "manufacturer": "Mon Calamari Shipyards",
+    "model": "Imperious-class Star Destroyer",
+    "type": "Star Destroyer",
+    "length": "Greater than a standard Star Destroyer",
+    "engine": [
+      "Main engines (2)",
+      "Secondary engines (4)"
+    ],
+    "hdsystem": "Equipped",
+    "shield_gen": "Equipped",
+    "sensor": "Equipped",
+    "target": "Equipped",
+    "navigation": "Equipped",
+    "armament": [
+      "Heavy turbolaser batteries (5)",
+      "Medium turbolaser batteries (5)",
+      "Ion cannon batteries (4)",
+      "Tractor beam projectors batteries (3)",
+      "Proton torpedo launchers batteries (5)",
+      "Gravity mines"
+    ],
+    "role": "Battleship",
+    "commission": "137 ABY",
+    "affiliation": [
+      "Sith Empire",
+      "  Imperial Navy",
+      "Galactic Alliance Remnant",
+      "Galactic Federation Triumvirate"
+    ],
+    "navy": "Galactic Alliance Core Fleet",
+    "captains": [
+      "Admiral Gar Stazi",
+      "Captain Jhoram Bey"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Tocoya",
+  "wookieepedia_title": "Tocoya",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tocoya",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tocoya was a planet located within the Tocoya system of the Inner Rim and the homeworld of the Tocoyan race. Neb Dulo, a disciple of the religion Davrilat, was from the planet.",
+  "lead_paragraphs": [
+    "Tocoya was a planet located within the Tocoya system of the Inner Rim and the homeworld of the Tocoyan race. Neb Dulo, a disciple of the religion Davrilat, was from the planet."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Tocoya",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "sector": "Ktilac Regions",
+    "system": "Tocoya system",
+    "coordinates": "N-9",
+    "terrain": "Deserts",
+    "species": "Tocoyans",
+    "otherspecies": [
+      "Ktilacs",
+      "Murachaun"
+    ],
+    "affiliation": "Ktilac Regions Confederacy"
+  },
+  "homeworld_of": [
+    {
+      "name": "Tocoyan",
+      "directory": "Tocoyan",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Tocoya",
+    "x": 3889.4,
+    "y": 1260.8,
+    "z": 261.4,
+    "region": "Inner Rim",
+    "grid": "N-9"
+  },
+  "scraped": "2026-07-03"
+}

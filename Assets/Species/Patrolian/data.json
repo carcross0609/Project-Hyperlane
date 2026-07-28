@@ -1,0 +1,27 @@
+{
+  "name": "Patrolian",
+  "wookieepedia_title": "Patrolian",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Patrolian",
+  "continuity": "Canon",
+  "infobox_template": "Species",
+  "description": "Patrolians were a highly intelligent piscine amphibious sentient species that were native to the aquatic planet Patrolia. With gills and fins on their heads, they were able to live both underwater and capable of breathing air and living on land, but were most comfortable underwater, preferring to be immersed in liquid. They were extremely resourceful, and often worked as bounty hunters. When not in water, their clothes required alteration to accommodate the protruding dorsal fin on their backs. Bannamu, Kanna, and Robonino were members of this species.",
+  "data": {
+    "name": "Patrolian",
+    "designation": "Sentient",
+    "class": "Amphibian",
+    "height": "1.0 meters",
+    "skincolor": [
+      "Blue",
+      "Purple",
+      "Green",
+      "Yellow"
+    ],
+    "eyecolor": "Red",
+    "distinctions": "Fins and a tail",
+    "origin": "Patrolia",
+    "habitat": "Aquatic",
+    "language": "Galactic Basic Standard"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Patrolia"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Gand",
+  "wookieepedia_title": "Gand (planet)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Gand_%28planet%29",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Gand was a fog-shrouded planet located in the galaxy's Outer Rim Territories, in grid square T-8 on the Standard Galactic Grid, that was the homeworld of the insectoid Gand species. With an atmosphere composed of ammonia instead of oxygen, its air was thick and poisonous to most off-worlders and Gand had to wear respirators in order to breath in oxygen-based atmospheres. It was the homeworld of Zuckuss, a male Gand who was one of the first findsmen, who were known for their uncanny tracking skills, to go off-world when Gand's mystic findsman traditions, which dated back centuries, began dying out, as well as Churkk.",
+  "lead_paragraphs": [
+    "Gand was a fog-shrouded planet located in the galaxy's Outer Rim Territories, in grid square T-8 on the Standard Galactic Grid, that was the homeworld of the insectoid Gand species. With an atmosphere composed of ammonia instead of oxygen, its air was thick and poisonous to most off-worlders and Gand had to wear respirators in order to breath in oxygen-based atmospheres. It was the homeworld of Zuckuss, a male Gand who was one of the first findsmen, who were known for their uncanny tracking skills, to go off-world when Gand's mystic findsman traditions, which dated back centuries, began dying out, as well as Churkk.",
+    "In 3 ABY, flight QS-14 to Gand which was scheduled to depart from Mirogana Spaceport's Gate N1 on the moon Toshara was cancelled after the moon's Imperial Governor Thorden closed down a section of the spaceport."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Gand",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Shadola sector",
+    "system": "Gand system",
+    "coordinates": "T-8",
+    "atmosphere": "Ammonia",
+    "terrain": "Rocky",
+    "interest": "Osia'Kru Brume lowlands",
+    "species": "Gand",
+    "language": "Gand",
+    "government": [
+      "Modern:",
+      "Meritocratic democracy",
+      "Historic:",
+      "Totalitarian monarchy"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Gand",
+      "directory": "Gand",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Gand",
+      "directory": "Gand (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Gand",
+    "x": 13090.3,
+    "y": 2661.6,
+    "z": 488.4,
+    "region": "Outer Rim",
+    "grid": "T-8"
+  },
+  "scraped": "2026-07-03"
+}

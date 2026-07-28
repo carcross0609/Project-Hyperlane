@@ -1,0 +1,28 @@
+{
+  "name": "T1-N1",
+  "wookieepedia_title": "T1-N1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/T1-N1",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "T1-N1 was a T1-series utility droid that was owned by Czerka executive Jana Lorso of the Citadel Station branch of the Czerka Corporation in 3951 BBY.",
+  "data": {
+    "name": "T1-N1",
+    "homeworld": "Telos IV",
+    "manufacturer": "Duwani Mechanical Products",
+    "model": "T1-series utility droid",
+    "class": "Utility droid",
+    "height": "0.96 meters",
+    "gender": "Masculine programming",
+    "pronouns": "new",
+    "sensor": "Green, yellow and blue",
+    "equipment": [
+      "Auditory and sonar scanner",
+      "Radar eye",
+      "Multi-function arm",
+      "Hidden blaster"
+    ],
+    "affiliation": "Czerka Corporation"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Darth Maul's double-bladed lightsaber",
+  "wookieepedia_title": "Darth Maul's double-bladed lightsaber",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Maul%27s_double-bladed_lightsaber",
+  "continuity": "Canon",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "Darth Maul's double-bladed lightsaber, also known as Maul's saberstaff, was the first personal double-bladed lightsaber of Darth Maul, a Sith Lord who took part in the Invasion of Naboo and the Clone Wars. The Sith lightsaber was cut in half by Obi-Wan Kenobi during their duel on Naboo, and Maul continued to use the remaining half in battle until he temporarily lost it in his duel with his former master on Mandalore. He recovered the half after being freed from prison, and reformed it into a double-bladed hilt but lost it again after a duel with Ahsoka Tano. The saber was recovered and he modified it to be a split saber, but it was eventually replaced by another double-bladed lightsaber that he would use up until his death.",
+  "data": {
+    "option1": "19 BBY",
+    "image2": "File:Darth_Maul_Lightsaber_DB.png",
+    "option2": "32 BBY",
+    "name": "Darth Maul's double-bladed lightsaber",
+    "model": [
+      "Double-bladed Sith lightsaber",
+      "Single-bladed Sith lightsaber"
+    ],
+    "type": [
+      "Double-blade",
+      "Single-blade (when damaged)",
+      "Split saber (Imperial Era)"
+    ],
+    "culture": "Sith",
+    "destroyed": "32 BBY (one half)",
+    "owners": [
+      "Darth Maul",
+      "Bo-Katan Kryze (temporarily)",
+      "Devon Izara (original half)"
+    ],
+    "hilt_shape": "Cylindrical, straight",
+    "hilt_length": "49.5 centimeters",
+    "hilt_material": "Alloy metal",
+    "crystal": "More than one kyber crystal",
+    "color": "Red",
+    "weight": "1.45 kilograms (3.2 lbs)",
+    "design": "Based on plans found within a Sith holocron owned by Darth Sidious",
+    "succeed": "Maul's lightsaber",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Sith",
+      "Trade Federation",
+      "Shadow Collective"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

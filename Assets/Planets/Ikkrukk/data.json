@@ -1,0 +1,48 @@
+{
+  "name": "Ikkrukk",
+  "wookieepedia_title": "Ikkrukk",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Ikkrukk",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Ikkrukk was a mountainous planet in the Mid Rim. During the war between the First Order and the Resistance, the planet was attacked by the First Order. Black Squadron of the Resistance managed to defeat the First Order forces, saving Ikkrukk.",
+  "lead_paragraphs": [
+    "Ikkrukk was a mountainous planet in the Mid Rim. During the war between the First Order and the Resistance, the planet was attacked by the First Order. Black Squadron of the Resistance managed to defeat the First Order forces, saving Ikkrukk."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Imperial Era",
+    "  The First Order–Resistance war"
+  ],
+  "data": {
+    "name": "Ikkrukk",
+    "region": "Mid Rim Territories",
+    "sector": "Ryndellian sector",
+    "system": "Ikkrukk system",
+    "coordinates": "P-17",
+    "suns": "1",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "terrain": "Mountains",
+    "interest": "Burnium Ro's stronghold",
+    "species": "Ikkrukkian",
+    "government": "Ikkrukk's government",
+    "cities": "Grail City"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ikkrukkian",
+      "directory": "Ikkrukkian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Ikkrukk",
+    "x": 3842.3,
+    "y": 2297.2,
+    "z": 11.8,
+    "region": "Mid Rim",
+    "grid": "N-8"
+  },
+  "scraped": "2026-07-03"
+}

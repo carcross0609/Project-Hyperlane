@@ -1,0 +1,42 @@
+{
+  "name": "Dramassia",
+  "wookieepedia_title": "Dramassia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dramassia",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Dramassia was a densely-populated urban planet located in the Dramassia system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. It lay on the hyperlane known as the Agarix Trade Route, which connected it to the Pieldi and Umthyg systems. Dramassia was the point of origin of the material known as Dramassian shimmersilk, which was already encountered offworld around 3643 BBY.",
+  "lead_paragraphs": [
+    "Dramassia was a densely-populated urban planet located in the Dramassia system of the Juvex sector, a part of the Senex-Juvex region in the Western Reaches portion of the Mid Rim. It lay on the hyperlane known as the Agarix Trade Route, which connected it to the Pieldi and Umthyg systems. Dramassia was the point of origin of the material known as Dramassian shimmersilk, which was already encountered offworld around 3643 BBY.",
+    "After the settlement of the Senex-Juvex around 1000 BBY by a group of affluent Core Worlds inhabitants led by the enterpreneur Thull Vandron, Dramassia became the homeworld of House Halliikeenovich, one of the aristocratic Ancient Houses that eventually came to rule over the region. The planet became one of the Juvex sector's economic powerhouses, manufacturing a wide range of products that included silk and mining equipment. However, the economic power of Dramassia was seen by the other Ancient Houses, who viewed House Halliikeenovich as being greedy, as somewhat unseemly."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dramassia",
+    "region": [
+      "Mid Rim",
+      "Western Reaches"
+    ],
+    "sector": [
+      "Senex-Juvex",
+      "  Juvex sector"
+    ],
+    "system": "Dramassia system",
+    "coordinates": "L-18",
+    "routes": "Agarix Trade Route",
+    "class": "Terrestrial",
+    "terrain": "Urban",
+    "demonym": "Dramassian",
+    "exports": "Dramassian shimmersilk",
+    "affiliation": "House Halliikeenovich"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Dramassia",
+    "x": 64.9,
+    "y": -12203.6,
+    "z": 442.4,
+    "region": "Mid Rim",
+    "grid": "L-18"
+  },
+  "scraped": "2026-07-03"
+}

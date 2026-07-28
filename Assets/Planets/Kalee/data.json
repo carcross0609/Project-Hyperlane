@@ -1,0 +1,54 @@
+{
+  "name": "Kalee",
+  "wookieepedia_title": "Kalee",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kalee",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Kalee was a planet within the Kalee system, a star system in Wild Space that was the homeworld of the Kaleesh species. Grievous, a male Kaleesh warlord, was from this world.",
+  "lead_paragraphs": [
+    "Kalee was a planet within the Kalee system, a star system in Wild Space that was the homeworld of the Kaleesh species. Grievous, a male Kaleesh warlord, was from this world."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Republic Era",
+    "  Imperial Era and Age of the Resistance",
+    "Inhabitants",
+    "  Contradictions"
+  ],
+  "data": {
+    "name": "Kalee",
+    "region": "Wild Space",
+    "sector": "None",
+    "system": "Kalee system",
+    "coordinates": "J-4",
+    "interest": "Warru'zan",
+    "fauna": [
+      "Erkush",
+      "Karabbac",
+      "Mumuu"
+    ],
+    "species": "Kaleesh"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kaleesh",
+      "directory": "Kaleesh",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Kaleesh",
+      "directory": "Kaleesh (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kalee",
+    "x": -2460.2,
+    "y": 8495.6,
+    "z": 115.4,
+    "region": "Wild Space",
+    "grid": "J-4"
+  },
+  "scraped": "2026-07-03"
+}

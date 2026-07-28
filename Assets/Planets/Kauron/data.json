@@ -1,0 +1,37 @@
+{
+  "name": "Kauron",
+  "wookieepedia_title": "Kauron",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kauron",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kauron was a planet that was located in Kauron system within Meram sector in the Outer Rim Territories of the galaxy. The world was home to the Kauronian species and served as a hideout for the Cavrilhu Pirates.",
+  "lead_paragraphs": [
+    "Kauron was a planet that was located in Kauron system within Meram sector in the Outer Rim Territories of the galaxy. The world was home to the Kauronian species and served as a hideout for the Cavrilhu Pirates."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kauron",
+    "region": "Outer Rim Territories",
+    "sector": "Meram sector",
+    "system": "Kauron system",
+    "coordinates": "O-4",
+    "interest": "Kauron asteroid field",
+    "species": "Kauronians"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kauronian",
+      "directory": "Kauronian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kauron",
+    "x": 10361.3,
+    "y": -10123.9,
+    "z": 466.8,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

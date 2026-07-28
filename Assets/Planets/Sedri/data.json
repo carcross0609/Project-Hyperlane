@@ -1,0 +1,50 @@
+{
+  "name": "Sedri",
+  "wookieepedia_title": "Sedri",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sedri",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Sedri was a waterworld located in the Sedri system of the Tharin sector, falling specifically into the Periphery area of space. Part of the Galactic Frontier of the Outer Rim Territories and sitting on the border of Hutt Space, Sedri was part of a binary star system and existed alongside a neighbor planet, the agricultural world Sedri Minor. It was a habitable world with a surface covered ninety-nine percent with water. By 228 BBY, during the High Republic Era, Sedri and Sedri Minor were part of the Nihil-controlled Occlusion Zone.",
+  "lead_paragraphs": [
+    "Sedri was a waterworld located in the Sedri system of the Tharin sector, falling specifically into the Periphery area of space. Part of the Galactic Frontier of the Outer Rim Territories and sitting on the border of Hutt Space, Sedri was part of a binary star system and existed alongside a neighbor planet, the agricultural world Sedri Minor. It was a habitable world with a surface covered ninety-nine percent with water. By 228 BBY, during the High Republic Era, Sedri and Sedri Minor were part of the Nihil-controlled Occlusion Zone."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Sedri",
+    "region": [
+      "Outer Rim Territories",
+      "  Galactic Frontier",
+      "The Slice",
+      "Occlusion Zone"
+    ],
+    "sector": [
+      "Tharin sector",
+      "  Periphery"
+    ],
+    "system": "Sedri system",
+    "coordinates": "S-8",
+    "suns": "2",
+    "moons": "At least 1",
+    "class": "Terrestrial",
+    "water": "99% of surface"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sedrian",
+      "directory": "Sedrian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Sedri",
+    "x": 11404.3,
+    "y": 2180.2,
+    "z": 343.5,
+    "region": "Outer Rim",
+    "grid": "S-8"
+  },
+  "scraped": "2026-07-03"
+}

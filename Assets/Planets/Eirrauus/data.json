@@ -1,0 +1,43 @@
+{
+  "name": "Eirrauus",
+  "wookieepedia_title": "Eirrauus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Eirrauus",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Eirrauus was a desert world populated by the Eirraucs. It was located in the Quence sector of the galaxy.",
+  "lead_paragraphs": [
+    "Eirrauus was a desert world populated by the Eirraucs. It was located in the Quence sector of the galaxy."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Eirrauus",
+    "region": "Outer Rim Territories",
+    "sector": "Quence sector",
+    "system": "Eirrauus system",
+    "coordinates": "P-18",
+    "terrain": [
+      "Deserts",
+      "Plains",
+      "Lakes"
+    ],
+    "species": "Eirraucs",
+    "otherspecies": "Humans",
+    "language": "Galactic Basic Standard"
+  },
+  "homeworld_of": [
+    {
+      "name": "Eirrauc",
+      "directory": "Eirrauc",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Eirrauus",
+    "x": 3048.8,
+    "y": 10003.1,
+    "z": -79.6,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

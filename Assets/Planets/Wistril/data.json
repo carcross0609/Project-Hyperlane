@@ -1,0 +1,45 @@
+{
+  "name": "Wistril",
+  "wookieepedia_title": "Wistril",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Wistril",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Wistril was a planet in the Wistril system, located in the Outer Rim Territories. It was known for its smugglers.",
+  "lead_paragraphs": [
+    "Wistril was a planet in the Wistril system, located in the Outer Rim Territories. It was known for its smugglers."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Wistril",
+    "region": "Outer Rim Territories",
+    "sector": "Fath sector",
+    "system": "Wistril system",
+    "coordinates": "K-6",
+    "routes": "Entralla Route",
+    "terrain": [
+      "Rainforests",
+      "Savannahs",
+      "Deserts"
+    ],
+    "otherspecies": "Human",
+    "language": "Galactic Basic Standard",
+    "affiliation": [
+      "Galactic Empire",
+      "Imperial Remnant",
+      "New Republic",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Wistril",
+    "x": -724.7,
+    "y": 5736.6,
+    "z": 4.1,
+    "region": "Outer Rim",
+    "grid": "K-6"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Aridus",
+  "wookieepedia_title": "Aridus/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aridus/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Aridus was a desert planet in the Expansion Region and the homeworld of the reptilian Chubbit species.",
+  "lead_paragraphs": [
+    "Aridus was a desert planet in the Expansion Region and the homeworld of the reptilian Chubbit species."
+  ],
+  "article_sections": [
+    "Geography",
+    "History"
+  ],
+  "data": {
+    "name": "Aridus",
+    "region": [
+      "Expansion Region",
+      "Trailing Sectors"
+    ],
+    "sector": "Narvath sector",
+    "system": "Flarestar system",
+    "coordinates": "O-14",
+    "routes": "Gamor Run",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "terrain": [
+      "Deserts",
+      "Lava pits",
+      "Mines"
+    ],
+    "interest": "Iron Tower",
+    "fauna": [
+      "Aridusian lava beetle",
+      "Droffi steed"
+    ],
+    "species": "Chubbits",
+    "language": [
+      "Chubbini",
+      "Galactic Basic Standard"
+    ],
+    "demonym": "Aridusian",
+    "cities": "Aridus Trade City",
+    "affiliation": [
+      "Galactic Republic",
+      "Galactic Empire",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Chubbit",
+      "directory": "Chubbit",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Aridus",
+    "x": 5491.9,
+    "y": -6312.6,
+    "z": -187.6,
+    "region": "Expansion Region",
+    "grid": "O-14"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Mark IV recon droid",
+  "wookieepedia_title": "Mark IV recon droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Mark_IV_recon_droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The Mark IV recon droid was a reconnaissance droid manufactured by Arakyd Industries. It saw service during the Clone Wars with the Galactic Marines of the Galactic Republic and the Separatists' droid snipers and IG-100 MagnaGuards. During the Galactic Civil War, it was used by Imperial commandos and Wookiee warriors.",
+  "data": {
+    "name": "Mark IV recon droid",
+    "manufacturer": "Arakyd Industries",
+    "class": "Probe droid",
+    "height": "0.75 meters",
+    "sensor": "Red",
+    "armament": [
+      "Blaster cannon",
+      "Self-destruct mechanism",
+      "Orbital strike beacon"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Separatist holdouts",
+      "Alliance to Restore the Republic",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

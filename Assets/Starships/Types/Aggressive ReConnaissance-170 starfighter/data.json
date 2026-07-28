@@ -1,0 +1,94 @@
+{
+  "name": "Aggressive ReConnaissance-170 starfighter",
+  "wookieepedia_title": "Aggressive ReConnaissance-170 starfighter",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Aggressive_ReConnaissance-170_starfighter",
+  "continuity": "Canon",
+  "infobox_template": "StarshipClass",
+  "description": "The Aggressive ReConnaissance-170 starfighter, also known simply as the ARC-170 Starfighter, was a heavy-duty model of starfighter used by the Galactic Republic during the Clone Wars and was considered the latest in fighter technology. Jointly manufactured by Incom Corporation and Subpro, it continued to see usage into the reign of the Galactic Empire, but was eventually phased out by the newer TIE fighter series, though some found their way into the hands of the Alliance to Restore the Republic.",
+  "data": {
+    "name": "Aggressive ReConnaissance-170 starfighter",
+    "manufacturer": [
+      "Incom Corporation",
+      "Sublights Products Corporation"
+    ],
+    "line": "ARC starfighter line",
+    "model": "ARC-170 Aggressive Reconnaissance starfighter",
+    "type": "Heavy assault starfighter/bombers",
+    "cost": "180,000 credits",
+    "length": "12.71 meters",
+    "width": "19.85 meters (wingspan)",
+    "height": "3.81 meters",
+    "max_accel": "2,600 G",
+    "mglt": "100 MGLT",
+    "max_speed": [
+      "Hypersonic",
+      "1,050 kph"
+    ],
+    "maneuverability": "Repulsorlift stabilizer",
+    "engine": "2 IGP-440a ion turbine engines",
+    "hyperdrive": "Class 1.5",
+    "hdsystem": "Equipped",
+    "power": "Power generator",
+    "shield_gen": [
+      "Deflector shield",
+      "Front-mounted projectors (2)"
+    ],
+    "hull": "Tough armor",
+    "sensor": [
+      "Long-range sensors",
+      "Active scanner modules (6)",
+      "Starboard passive sensor antenna",
+      "Dedicated energy receptor",
+      "Gamma ray imaging spectro-photometer"
+    ],
+    "target": "Rangefinders (2)",
+    "navigation": "Equipped",
+    "maincomp": "Flight computer",
+    "countermeasures": "Jamming device",
+    "armament": [
+      "2 medium laser cannons",
+      "2 aft laser cannons",
+      "Proton torpedo launchers",
+      "  6 proton torpedoes"
+    ],
+    "crew": [
+      "Pilot (1)",
+      "Co-pilot (1)",
+      "Tail gunner (1)",
+      "Astromech droid"
+    ],
+    "passengers": "None",
+    "consumables": "One month",
+    "communications": [
+      "Communications processors",
+      "Long-wave antenna"
+    ],
+    "othersystems": [
+      "S-foils",
+      "Scanners",
+      "Waste heat sinks"
+    ],
+    "role": [
+      "Attack/anti-ship missions",
+      "Dogfighting",
+      "Large-scale combatant",
+      "Long-range armed reconnaissance/standoff combat (original purpose)"
+    ],
+    "firstuse": "c. 22 BBY",
+    "retired": "Imperial Era",
+    "affiliation": [
+      "Galactic Republic",
+      "  Galactic Republic Navy",
+      "Galactic Empire",
+      "  Imperial Starfighter Corps",
+      "Alliance to Restore the Republic",
+      "  Rebel Alliance Navy",
+      "Harlok Gang",
+      "Amidalans",
+      "Jinata Security",
+      "Resistance",
+      "  Resistance navy"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

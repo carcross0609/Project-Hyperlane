@@ -1,0 +1,64 @@
+{
+  "name": "Taloraan",
+  "wookieepedia_title": "Taloraan/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Taloraan/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Taloraan was the largest planet in the Kelavine system of the Expansion Region, with a diameter of 100,000 kilometers.",
+  "lead_paragraphs": [
+    "Taloraan was the largest planet in the Kelavine system of the Expansion Region, with a diameter of 100,000 kilometers."
+  ],
+  "article_sections": [
+    "Characteristics",
+    "History",
+    "  Early history",
+    "  Clone Wars",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Taloraan",
+    "region": "Expansion Region",
+    "sector": "Freestanding subsectors",
+    "system": "Kelavine system",
+    "coordinates": "I-15",
+    "moons": "7",
+    "lengthday": "12 standard hours",
+    "lengthyear": "219 local days",
+    "class": "Gas giant",
+    "diameter": "100,000 km",
+    "atmosphere": [
+      "Type I (breathable) at high altitudes",
+      "Type IV (environment suit required) at lower altitudes"
+    ],
+    "climate": "Hot",
+    "gravity": "Standard",
+    "terrain": "Cloudscape",
+    "water": "Moist",
+    "interest": "Wind Raider Island-Beast",
+    "fauna": [
+      "Fleft-wauf",
+      "Island-beast",
+      "Sleft-chuff",
+      "Thafsalnu"
+    ],
+    "otherspecies": "Humans",
+    "language": "Archaic Basic",
+    "government": "Scattered tribes",
+    "population": "1 million",
+    "cities": "Taloraan City (capital)",
+    "affiliation": [
+      "Confederacy of Independent Systems",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Taloraan",
+    "x": -3634.1,
+    "y": -7637.2,
+    "z": -210.8,
+    "region": "Expansion Region",
+    "grid": "I-15"
+  },
+  "scraped": "2026-07-03"
+}

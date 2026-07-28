@@ -1,0 +1,35 @@
+{
+  "name": "Merj",
+  "wookieepedia_title": "Merj",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Merj",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Merj was a planet in the Outer Rim Territories that was the homeworld of the methane-breathing Morseerian species. During the Clone Wars, it was a member world of the Confederacy of Independent Systems. Around this time, it clandestinely received equipment and supplies from smugglers, including Has Obitt. As part of the war effort against the Galactic Republic, Morseerian scientists on the planet worked to develop a biological warfare agent against the Grand Army of the Republic's clone troopers, prompting a mission to put an end to the research as well as abduct the scientists as bargaining chips for a planned prisoner exchange.",
+  "lead_paragraphs": [
+    "Merj was a planet in the Outer Rim Territories that was the homeworld of the methane-breathing Morseerian species. During the Clone Wars, it was a member world of the Confederacy of Independent Systems. Around this time, it clandestinely received equipment and supplies from smugglers, including Has Obitt. As part of the war effort against the Galactic Republic, Morseerian scientists on the planet worked to develop a biological warfare agent against the Grand Army of the Republic's clone troopers, prompting a mission to put an end to the research as well as abduct the scientists as bargaining chips for a planned prisoner exchange."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Merj",
+    "region": "Outer Rim Territories",
+    "sector": "Thesme sector",
+    "system": "Merj system",
+    "coordinates": "O-6",
+    "atmosphere": "Type II (breath mask suggested)",
+    "interest": [
+      "Morseerian laboratory complex",
+      "Merj spaceport"
+    ],
+    "species": "Morseerian",
+    "affiliation": "Confederacy of Independent Systems"
+  },
+  "homeworld_of": [
+    {
+      "name": "Morseerian",
+      "directory": "Morseerian",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": null,
+  "scraped": "2026-07-03"
+}

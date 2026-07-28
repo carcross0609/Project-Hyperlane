@@ -1,0 +1,22 @@
+{
+  "name": "Model G8",
+  "wookieepedia_title": "Model G8",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Model_G8",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Model G8 was a military blaster rifle produced by Merr-Sonn Munitions, Inc.",
+  "data": {
+    "name": "Model G8",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "type": "Blaster rifle",
+    "cost": "1,100—1,250 credits",
+    "weight": "4.5 kilograms",
+    "range": [
+      "4—40 meters (short range)",
+      "41—120 meters (medium range)",
+      "121—350 meters (long range)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

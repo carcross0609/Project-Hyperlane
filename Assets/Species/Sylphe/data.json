@@ -1,0 +1,27 @@
+{
+  "name": "Sylphe",
+  "wookieepedia_title": "Sylphe",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Sylphe",
+  "continuity": "Unknown",
+  "infobox_template": "Species",
+  "description": "Sylphes were a botanical, humanoid sentient species, native to Sylvia IV.",
+  "data": {
+    "name": "Sylphe",
+    "designation": "Sentient",
+    "class": "Botanical",
+    "height": "1.5–1.8 meters",
+    "skincolor": "Green",
+    "distinctions": [
+      "Vegetal species",
+      "High psychic abilities",
+      "Pacifists"
+    ],
+    "origin": [
+      "Sylvia IV",
+      "Sainte-Evanëflore"
+    ],
+    "habitat": "Jungle"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Sylvia IV"
+}

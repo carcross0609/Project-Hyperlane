@@ -1,0 +1,118 @@
+{
+  "name": "Rodia",
+  "wookieepedia_title": "Rodia",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Rodia",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Rodia was a remote and swampy jungle planet. It was the homeworld of the Rodian species. Cities on Rodia were encased with domed environmental shields that allowed entry and exit for vehicles and vessels.",
+  "lead_paragraphs": [
+    "Rodia was a remote and swampy jungle planet. It was the homeworld of the Rodian species. Cities on Rodia were encased with domed environmental shields that allowed entry and exit for vehicles and vessels."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Union with the Galactic Republic",
+    "  Republic's final days",
+    "  Imperial Era"
+  ],
+  "data": {
+    "name": "Rodia",
+    "region": [
+      "Outer Rim Territories",
+      "  Occlusion Zone",
+      "The Slice"
+    ],
+    "sector": "Savareen sector",
+    "system": "Tyrius system",
+    "coordinates": "R-16",
+    "suns": "Tyrius",
+    "position": "2",
+    "moons": [
+      "4:",
+      "Eiska",
+      "Enak",
+      "Soomana",
+      "Yasooska"
+    ],
+    "lengthday": "29 standard hours",
+    "lengthyear": "305 local days",
+    "class": "Terrestrial",
+    "diameter": "7,548 kilometers",
+    "atmosphere": "Breathable",
+    "climate": [
+      "Hot",
+      "Humid"
+    ],
+    "gravity": "Standard",
+    "terrain": [
+      "Jungles",
+      "Swamps",
+      "Oceans"
+    ],
+    "interest": [
+      "Betu",
+      "Encheeko",
+      "Kay-Tap square",
+      "Senatorial Palace",
+      "Sika Peninsula",
+      "Toopil"
+    ],
+    "flora": [
+      "Thinekk tree",
+      "Kwazel candy",
+      "Poola blossom"
+    ],
+    "fauna": [
+      "Birds",
+      "Can-cell",
+      "Frogs",
+      "Ghest",
+      "Khardax",
+      "Kwazel Maw",
+      "Snakes"
+    ],
+    "species": "Rodians",
+    "language": [
+      "Galactic Basic Standard",
+      "Huttese",
+      "Rodian"
+    ],
+    "government": "Grand Protector",
+    "population": [
+      "1.3 billion Rodians",
+      "100,000 others"
+    ],
+    "demonym": "Rodian",
+    "cities": [
+      "Equator City",
+      "Iskaayuma"
+    ],
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems (briefly)",
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Rodian",
+      "directory": "Rodian",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Rodian",
+      "directory": "Rodian (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Rodia",
+    "x": 8960.0,
+    "y": -9968.3,
+    "z": 146.9,
+    "region": "Outer Rim",
+    "grid": "Q-16"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Darksaber",
+  "wookieepedia_title": "Darksaber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Darksaber/Legends",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "The Darksaber was an ancient, black-bladed lightsaber. Unlike most other lightsabers, the Darksaber's blade was nearly flat, thin, and tapered to a point more typical of a traditional metallic sword. The black core of the blade appeared to draw in all surrounding light and color, leaving a faint white, electrical aura along its edges, it hummed with a higher-pitched whine than its more common lightsaber counterparts when the blade was active, and made a sound like a whistle when it was swung. Once held by the Jedi Order, during a period of collapse in the Galactic Republic's power, the Darksaber was stolen by members of the Mandalorian warrior clans. Over time, the black lightsaber was passed down through generations of the Vizsla clan, and when Tor Vizsla founded the radical Mandalorian splinter group known as the Death Watch, he chose the Darksaber as the symbol of his authority as the sect's Secret Mandalore.",
+  "data": {
+    "name": "Darksaber",
+    "type": "Lightsaber",
+    "culture": "Jedi",
+    "owners": [
+      "Tor Vizsla",
+      "Pre Vizsla",
+      "Darth Maul"
+    ],
+    "hilt_shape": "Straight, rectangular with guard",
+    "blade_type": "Thin, curved to a point",
+    "color": "Black",
+    "blade_length": "1 meter",
+    "range": "Close range",
+    "purpose": [
+      "Lightsaber combat",
+      "Symbol of leadership over Death Watch"
+    ],
+    "affiliation": [
+      "Jedi Order",
+      "Mandalorians",
+      "  Clan Vizsla",
+      "  Death Watch"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

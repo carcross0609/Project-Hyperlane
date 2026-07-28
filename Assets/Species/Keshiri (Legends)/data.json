@@ -1,0 +1,34 @@
+{
+  "name": "Keshiri",
+  "wookieepedia_title": "Keshiri/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Keshiri/Legends",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Keshiri were a near-Human sentient species native to the planet Kesh. Powerfully built, they had purple skin and black, red, or violet eyes. They were typically found to be very attractive by Human standard, although the two species were different enough to be biologically incapable of reproduction. The Keshiri had long traditions of crafting and the arts, with glassblowing being a particular specialty and pantomime a favorite art form. They were a very religious species, worshiping gods known as the Skyborn, whom they believed had formed all of the land on Kesh, from which the Keshiri were born. They acknowledged the Skyborn as the Protectors who kept another group, the Destructors, at bay. After a group of Jedi crash-landed on Kesh and fought a ruinous Great Battle against a band of Dark Jedi and Sith, the events took on the status of legend, remembered as the Great Cataclysm.",
+  "data": {
+    "name": "Keshiri",
+    "designation": "Sentient",
+    "skincolor": [
+      "Burgundy",
+      "Pale purple",
+      "Mauve"
+    ],
+    "haircolor": [
+      "Brown",
+      "Silver",
+      "Violet",
+      "White"
+    ],
+    "eyecolor": [
+      "Black",
+      "Red",
+      "Violet"
+    ],
+    "distinctions": "Powerfully built, slightly large eyes",
+    "lifespan": "Over 60 years",
+    "origin": "Kesh",
+    "language": "Keshiri"
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Kesh (Legends)"
+}

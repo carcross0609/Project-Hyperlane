@@ -1,0 +1,27 @@
+{
+  "name": "Bentor",
+  "wookieepedia_title": "Bentor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bentor",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "Bentor was a Muurian transport. Bentor was just about to enter the hangar of Corvalis when the incident between the Rebel Alliance and the Hurrim took place.",
+  "data": {
+    "name": "Bentor",
+    "manufacturer": "Muurian Interstellar",
+    "model": "Muurian transport",
+    "type": "Light freighter",
+    "length": "30.5 meters",
+    "width": "29.4 meters",
+    "height": "8.8 meters",
+    "hdsystem": "Equipped",
+    "shield_gen": "80 SBD",
+    "hull": "30 RU",
+    "armament": [
+      "2 double laser cannon turrets",
+      "3 laser cannons",
+      "2 proton torpedo launchers"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

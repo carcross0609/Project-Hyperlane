@@ -1,0 +1,40 @@
+{
+  "name": "Pakuuni",
+  "wookieepedia_title": "Pakuuni/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Pakuuni/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Pakuuni was a planet located in the Pakuuni sector of the Outer Rim Territories.",
+  "lead_paragraphs": [
+    "Pakuuni was a planet located in the Pakuuni sector of the Outer Rim Territories."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Pakuuni",
+    "region": "Outer Rim Territories",
+    "sector": "Pakuuni sector",
+    "system": "Pakuuni system",
+    "coordinates": "T-6",
+    "routes": [
+      "Overic Griplink",
+      "Pakuuni Drift"
+    ],
+    "interest": "NL-1",
+    "affiliation": [
+      "Xim's Empire",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Pakuuni",
+    "x": 12778.1,
+    "y": 5794.9,
+    "z": -30.1,
+    "region": "Outer Rim",
+    "grid": "T-6"
+  },
+  "scraped": "2026-07-03"
+}

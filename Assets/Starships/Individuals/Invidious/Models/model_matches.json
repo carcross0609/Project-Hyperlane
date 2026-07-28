@@ -1,0 +1,48 @@
+{
+  "asset": "Invidious",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "83359 Star Wars Imperial II-class Star Destroyer",
+      "url": "https://sketchfab.com/3d-models/none-c75cfb15ef124691b3fa33c30e017bbe",
+      "uid": "c75cfb15ef124691b3fa33c30e017bbe",
+      "author": "S🅾️Meme star wars",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 1,
+      "thumbnail": "https://media.sketchfab.com/models/c75cfb15ef124691b3fa33c30e017bbe/thumbnails/a32ee4b66e06479aa5c4406c9bbcb9f0/e55aea5280c44884b1feb3879e74afd8.jpeg"
+    },
+    {
+      "name": "Star Wars; Imperial-Class Star Destroyer",
+      "url": "https://sketchfab.com/3d-models/none-fa18d537db4d4020a443c1802ec0f88e",
+      "uid": "fa18d537db4d4020a443c1802ec0f88e",
+      "author": "Heataker",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 0.864,
+      "likes": 441,
+      "thumbnail": "https://media.sketchfab.com/models/fa18d537db4d4020a443c1802ec0f88e/thumbnails/8cbfc34b38bb49e1911d558b735f6f84/c6e961a37642425599081671fc713ba6.jpeg"
+    },
+    {
+      "name": "Vindicator-Class Heavy Cruiser",
+      "url": "https://sketchfab.com/3d-models/none-dc96265da5b743e3b5892ef4eb11f3a6",
+      "uid": "dc96265da5b743e3b5892ef4eb11f3a6",
+      "author": "Kuat-Entralla 3D Engineering",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "strong",
+      "score": 0.864,
+      "likes": 18,
+      "thumbnail": "https://media.sketchfab.com/models/dc96265da5b743e3b5892ef4eb11f3a6/thumbnails/22f24004e3564da3b50c79ee3773b73a/57ed6bef8e80429790007a402a8ee5e9.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Imperial II-class Star Destroyer"
+}

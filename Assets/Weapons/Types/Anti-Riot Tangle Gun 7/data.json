@@ -1,0 +1,33 @@
+{
+  "name": "Anti-Riot Tangle Gun 7",
+  "wookieepedia_title": "Anti-Riot Tangle Gun 7",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anti-Riot_Tangle_Gun_7",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Anti-Riot Tangle Gun 7, also known as the tangle pistol, was a crowd-control defense weapon manufactured by Merr-Sonn Munitions for the Galactic Empire, though it eventually became available on the black market in the Ringali Shell region of the Core Worlds. The tangle gun fired a pellet that, when exposed to air, explosively expanded into a multi–meter–wide webbed net that enveloped its victim and then shrank, thus immobilizing the target. The webbing sometimes contracted too tightly, causing the victim to suffocate and die. General Airen Cracken included an entry for the weapon in his field guide for the Rebel Alliance.",
+  "data": {
+    "name": "Anti-Riot Tangle Gun 7",
+    "manufacturer": "Merr-Sonn Munitions, Inc.",
+    "model": "7",
+    "type": [
+      "Pistol",
+      "Tangle gun"
+    ],
+    "cost": [
+      "300–500 credits",
+      "300–9,000 credits (black market)"
+    ],
+    "size": "Carbine-sized",
+    "weight": "Light",
+    "capacity": "15 pellets",
+    "range": [
+      "Short: 3–10 meters",
+      "Medium: 11–19 meters",
+      "Long: 20–25 meters"
+    ],
+    "purpose": "Crowd control",
+    "affiliation": "Galactic Empire"
+  },
+  "scraped": "2026-07-03"
+}

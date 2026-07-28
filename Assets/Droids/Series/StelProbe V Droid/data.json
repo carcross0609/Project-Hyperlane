@@ -1,0 +1,21 @@
+{
+  "name": "StelProbe V Droid",
+  "wookieepedia_title": "StelProbe V Droid",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/StelProbe_V_Droid",
+  "continuity": "Legends",
+  "entry_kind": "series",
+  "infobox_template": "DroidSeries",
+  "description": "The StelProbe V Droid was an exploration/contact droid. The unit had a wide range of sensors, immense capacity to store and analyze data, and advanced weapons systems. Its multiple clawed appendages made it resemble a 4-meter-tall crustacean. The StelProbe V's programming included defensive subroutines that made it respond with force against any being that came within 5 meters. Nevertheless, the droid avoided conflict whenever possible, fleeing rather than fighting if possible. StelProbe V units could move at 100 km/hour.",
+  "data": {
+    "name": "StelProbe V Droid",
+    "class": "Exploration/contact droid",
+    "height": "4 meters",
+    "sensor": "Full array",
+    "armament": "Advanced weapons systems",
+    "equipment": [
+      "Immense data storage and processing capacity",
+      "Numerous clawed appendages"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

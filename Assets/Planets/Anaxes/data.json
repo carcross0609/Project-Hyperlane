@@ -1,0 +1,67 @@
+{
+  "name": "Anaxes",
+  "wookieepedia_title": "Anaxes",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Anaxes",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Anaxes was a rocky planet located in the Azure sector in the galaxy's Outer Rim Territories. A majority of its surface was covered with tall, red plant-like life. It was a vital world of the Galactic Republic for its role in protecting the Core Worlds from attacks along the Perlemian Trade Route as well as its shipyards.",
+  "lead_paragraphs": [
+    "Anaxes was a rocky planet located in the Azure sector in the galaxy's Outer Rim Territories. A majority of its surface was covered with tall, red plant-like life. It was a vital world of the Galactic Republic for its role in protecting the Core Worlds from attacks along the Perlemian Trade Route as well as its shipyards.",
+    "In the early years of the Imperial Era, the planet was destroyed in a cataclysm, with the remains becoming an asteroid belt."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Appearances;"
+  ],
+  "data": {
+    "name": "Anaxes",
+    "region": [
+      "Outer Rim Territories",
+      "The Slice"
+    ],
+    "sector": "Azure sector",
+    "system": "Azure system",
+    "coordinates": "R-7",
+    "routes": "Perlemian Trade Route",
+    "class": "Terrestrial",
+    "atmosphere": "Breathable",
+    "climate": "Temperate",
+    "terrain": [
+      "Canyons",
+      "Caverns",
+      "Forests",
+      "Valleys",
+      "Jungles"
+    ],
+    "interest": [
+      "Anaxes canyon",
+      "Anaxes Separatist Security Outpost",
+      "Anaxes shipyards",
+      "Cyber Center",
+      "Fort Anaxes",
+      "Republic Navy War College",
+      "Sector One",
+      "Separatist stronghold"
+    ],
+    "fauna": "Fyrnock",
+    "exports": "Starships",
+    "affiliation": "Galactic Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Anaxsi",
+      "directory": "Anaxsi",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Anaxes",
+    "x": 615.7,
+    "y": 374.4,
+    "z": -16.1,
+    "region": "Core Worlds",
+    "grid": "L-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Khomm",
+  "wookieepedia_title": "Khomm/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Khomm/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Khomm was a planet in the Khomm system in the Deep Core of the galaxy with wide blue seas, great land masses, and an abundance of oxygen. It was the home planet to the Khommites and the Khommite striders.",
+  "lead_paragraphs": [
+    "Khomm was a planet in the Khomm system in the Deep Core of the galaxy with wide blue seas, great land masses, and an abundance of oxygen. It was the home planet to the Khommites and the Khommite striders."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Khomm",
+    "region": "Deep Core",
+    "system": "Khomm system",
+    "coordinates": "L-12",
+    "class": "Terrestrial",
+    "atmosphere": "Oxygen",
+    "terrain": [
+      "Plains",
+      "Hills"
+    ],
+    "interest": [
+      "Khomm Central Population Planning",
+      "Mmos Lake"
+    ],
+    "fauna": "Khommite strider",
+    "species": "Khommites",
+    "language": "Khomm",
+    "population": "100 million to 500 million (c.25 ABY)",
+    "cities": "Heh'l City",
+    "affiliation": [
+      "Galactic Republic",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Khommite",
+      "directory": "Khommite",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Khommite",
+      "directory": "Khommite (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Khomm",
+    "x": 187.6,
+    "y": -3827.1,
+    "z": -14.1,
+    "region": "Deep Core",
+    "grid": "L-12"
+  },
+  "scraped": "2026-07-03"
+}

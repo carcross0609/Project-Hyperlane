@@ -1,0 +1,66 @@
+{
+  "name": "Biitu",
+  "wookieepedia_title": "Biitu",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Biitu",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Biitu was the Biituian homeworld in the Cassandran Worlds region.",
+  "lead_paragraphs": [
+    "Biitu was the Biituian homeworld in the Cassandran Worlds region."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Biitu",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Cassander sector (Tadrin sector)",
+    "system": "Biitu system",
+    "coordinates": "K-5",
+    "terrain": [
+      "Fields",
+      "Forests",
+      "Grasslands"
+    ],
+    "interest": [
+      "Fuel-ore processing plant",
+      "Pitor Processing Plantworks"
+    ],
+    "flora": [
+      "Crop plant",
+      "Fruit tree"
+    ],
+    "fauna": [
+      "Biituian fen-hare",
+      "A bird"
+    ],
+    "species": "Biituian",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Galactic Empire",
+      "Pentastar Alignment",
+      "Imperial Remnant"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Biituian",
+      "directory": "Biituian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Biitu",
+    "x": -645.4,
+    "y": 6842.1,
+    "z": -36.2,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

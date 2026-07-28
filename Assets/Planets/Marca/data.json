@@ -1,0 +1,40 @@
+{
+  "name": "Marca",
+  "wookieepedia_title": "Marca",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Marca",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Marca was a terrestrial swamp planet in the Marca system of the Meerian sector within the Outer Rim Territories and New Territories. It fell within grid square N-6 of the Standard Galactic Grid. By 10 BBY, the Imperial Army Imperial swamp trooper Corporal Danith Nodar had been rotated out of service on Marca for insubordination and transferred to the planet Mimban to participate in the Mimban Campaign, which she saw as a punishment.",
+  "lead_paragraphs": [
+    "Marca was a terrestrial swamp planet in the Marca system of the Meerian sector within the Outer Rim Territories and New Territories. It fell within grid square N-6 of the Standard Galactic Grid. By 10 BBY, the Imperial Army Imperial swamp trooper Corporal Danith Nodar had been rotated out of service on Marca for insubordination and transferred to the planet Mimban to participate in the Mimban Campaign, which she saw as a punishment."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Marca",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Meerian sector",
+    "system": "Marca system",
+    "coordinates": "N-6",
+    "class": "Terrestrial",
+    "terrain": "Swamps"
+  },
+  "homeworld_of": [
+    {
+      "name": "Sekct",
+      "directory": "Sekct",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Marca",
+    "x": 8609.9,
+    "y": 3868.6,
+    "z": 33.1,
+    "region": "Outer Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Voss",
+  "wookieepedia_title": "Voss (species)",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Voss_%28species%29",
+  "continuity": "Legends",
+  "infobox_template": "Species",
+  "description": "The Voss were a sentient, humanoid species native to the planet of the same name, in the Voss system of the Allied Tion sector of the Outer Rim Territories. Their capital city was Voss-Ka, a fortified settlement atop a mountain. Their totalitarian society was defended by commandos and ruled by Force-wielding mystics, who served as seers and healers and whom the other members of the species considered infallible. The Voss population was small, vastly outnumbered by their homeworld's other native group, the Gormak—a species who saw the Voss as an aberration to be eliminated; however, both species eventually learned that the Voss were in fact offshoots of the Gormak. For centuries, the Voss fended off the assaults of the Gormak. Following the Treaty of Coruscant in 3653 BBY, which ended the Great Galactic War and started the Cold War, off-worlders discovered the planet by chance, the Voss becoming known to both the Sith Empire and the Galactic Republic. The Empire attempted to conquer the planet, but their plans were thwarted by the secret interference of the Star Cabal; in the aftermath, both the Republic and the Empire believed the Voss were responsible for the invasion's defeat, and established diplomatic embassies on the planet.",
+  "data": {
+    "name": "Voss",
+    "designation": "Sentient",
+    "skincolor": [
+      "Blue (Male)",
+      "Red (Female)"
+    ],
+    "eyecolor": [
+      "Orange (Male)",
+      "Blue (Female)"
+    ],
+    "distinctions": "Distinct patterns of skin markings",
+    "origin": "Voss",
+    "language": [
+      "Voss",
+      "Galactic Basic Standard"
+    ]
+  },
+  "scraped": "2026-07-03",
+  "homeworld_planet_directory": "../../Planets/Voss"
+}

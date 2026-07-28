@@ -1,0 +1,35 @@
+{
+  "name": "Great Heep",
+  "wookieepedia_title": "Great Heep",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Great_Heep",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "The Great Heep was a large, masculine-programmed droid who operated an enormous fuel ore processing plant on the planet Biitu in the early days of the Galactic Empire. The Heep was an Abominor, a member of an extra-galactic species of advanced, self-constructing droids, which enslaved organic life on thousands of worlds before they were driven from their galaxy. The Heep was powered by an internal furnace that required a near-constant supply of fuel and further recharged himself by draining power from astromech droids. In 15 BBY, the Heep formed an alliance with Admiral Terrinald Screed of the Galactic Empire to mine fuel ore on Biitu, enslaving the native population and constructing a \"moisture eater\" that drained all moisture from the atmosphere to ensure optimum conditions. When the moisture eater was destroyed by the merchant Mungo Baobab and his droids, C-3PO and R2-D2, the stored water was released in a storm that extinguished the Heep's furnace and deactivated the droid.",
+  "data": {
+    "type": "Galactic Empire",
+    "name": "Great Heep",
+    "death": "15 BBY, Biitu",
+    "manufacturer": "Civilization of the Abominor",
+    "height": "6.7 meters",
+    "gender": "Masculine programming",
+    "pronouns": "He/him",
+    "sensor": "Yellow",
+    "plating": "Gray, brown and red",
+    "equipment": [
+      "Drive engine pistons",
+      "Grinder blades (in mouth)",
+      "Heavy grasping arms",
+      "Internal furnace",
+      "Magnetic grapple",
+      "Power-drain socket (in mouth)",
+      "Smokestacks",
+      "Tank treads"
+    ],
+    "affiliation": [
+      "Abominor",
+      "Galactic Empire"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

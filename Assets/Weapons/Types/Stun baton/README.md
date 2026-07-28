@@ -1,0 +1,18 @@
+# Stun baton
+
+**Kind:** Model  
+**Continuity:** Canon  
+**Source:** [Stun baton](https://starwars.fandom.com/wiki/Stun_baton)
+
+A stun baton, also called stun rod, stun stick, stun-stick, or stunner, was a short-range melee weapon that immobilized organic targets by producing an electrical charge that shimmered on the shaft. Such weapons were useless against the armor worn by the Imperial stormtroopers, and the stormtrooper charger wielded stun batons as part of their specialization. Charging droids used by the rebel cell Spectres at Haven, a hideout of theirs, to train against these troopers were also equipped with stun batons.
+
+## Specifications
+
+- **Name:** Stun baton
+- **Type:**
+  - Baton
+  - Stun weapon
+
+## Models
+
+Place 3D model assets for this weapon in `Models/`.

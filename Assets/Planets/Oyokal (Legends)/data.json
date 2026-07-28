@@ -1,0 +1,39 @@
+{
+  "name": "Oyokal",
+  "wookieepedia_title": "Oyokal/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Oyokal/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Oyokal was a terrestrial planet located in the Oyokal system of the Unknown Regions' Chiss Space. A hyperlane linked the world to the Shihon system. A quadrupedal species was native to Oyokal.",
+  "lead_paragraphs": [
+    "Oyokal was a terrestrial planet located in the Oyokal system of the Unknown Regions' Chiss Space. A hyperlane linked the world to the Shihon system. A quadrupedal species was native to Oyokal.",
+    "The sentient Chiss of the Chiss Ascendancy maintained Oyokal as an aquaculture colony. The planet's surface featured wave-riding algal beds and pools stocked with fish."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Oyokal",
+    "region": "Unknown Regions",
+    "sector": "Chiss Space",
+    "system": "Oyokal system",
+    "coordinates": "E-8",
+    "class": "Terrestrial",
+    "water": "Pools",
+    "fauna": [
+      "Algae",
+      "Fish",
+      "A quadrupedal species"
+    ],
+    "otherspecies": "Chiss",
+    "affiliation": "Chiss Ascendancy"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Oyokal",
+    "x": -9446.3,
+    "y": 1601.5,
+    "z": -313.5,
+    "region": "Unknown Regions",
+    "grid": "E-8"
+  },
+  "scraped": "2026-07-03"
+}

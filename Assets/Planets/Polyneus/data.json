@@ -1,0 +1,69 @@
+{
+  "name": "Polyneus",
+  "wookieepedia_title": "Polyneus",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Polyneus",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Polyneus, known as Home by its inhabitants, was an isolated, pastoral world in the Inner Rim. The world, largely detached from galactic affairs, was known for its native sur-avkas, semi-tame flying creatures that were ridden by its human population. Its elders, known as the Sun-Lamas, held high authority and respect on the planet.",
+  "lead_paragraphs": [
+    "Polyneus, known as Home by its inhabitants, was an isolated, pastoral world in the Inner Rim. The world, largely detached from galactic affairs, was known for its native sur-avkas, semi-tame flying creatures that were ridden by its human population. Its elders, known as the Sun-Lamas, held high authority and respect on the planet.",
+    "During the Galactic Civil War, the group of volunteers from Polyneus sent to fight the Galactic Empire as pilots would become known as the Hundred and Twenty. One of this group, Wyl Lark, would gain fame as a member of Alphabet Squadron, and later become the representative of Polyneus in the New Republic Senate."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Polyneus",
+    "region": "Inner Rim Territories",
+    "sector": "None",
+    "system": "Polyneus system",
+    "coordinates": "J-14",
+    "class": "Terrestrial",
+    "terrain": [
+      "Jungles",
+      "Mountains"
+    ],
+    "water": "Lakes",
+    "interest": [
+      "Branch",
+      "Cliff",
+      "Peak",
+      "River"
+    ],
+    "flora": [
+      "A flower",
+      "Sunberry"
+    ],
+    "fauna": [
+      "Birds",
+      "Sur-avka"
+    ],
+    "species": "Human",
+    "demonym": "Polynean",
+    "cities": [
+      "Ridge",
+      "Tor"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "New Republic"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Polynean",
+      "directory": "Polynean",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Polyneus",
+    "x": 2815.1,
+    "y": 5170.0,
+    "z": -43.7,
+    "region": "Other",
+    "grid": "M-6"
+  },
+  "scraped": "2026-07-03"
+}

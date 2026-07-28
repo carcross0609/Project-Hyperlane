@@ -1,0 +1,50 @@
+{
+  "name": "Fondor",
+  "wookieepedia_title": "Fondor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Fondor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Fondor was a planet located in the Colonies region. During the reign of the Galactic Empire, Fondor served as a massive manufacturing hub for the Imperials, featuring dozens of orbital shipyards known as the Fondor Shipyards. Late in the Galactic Civil War, Fondor served as the site of two attacks from the Rebel Alliance against the Empire, the latter of which resulted in an Imperial defeat. During the First Order-Resistance War, the shipyards were seized by the First Order.",
+  "lead_paragraphs": [
+    "Fondor was a planet located in the Colonies region. During the reign of the Galactic Empire, Fondor served as a massive manufacturing hub for the Imperials, featuring dozens of orbital shipyards known as the Fondor Shipyards. Late in the Galactic Civil War, Fondor served as the site of two attacks from the Rebel Alliance against the Empire, the latter of which resulted in an Imperial defeat. During the First Order-Resistance War, the shipyards were seized by the First Order."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  Clone Wars",
+    "  Imperial Era",
+    "  Galactic Civil War",
+    "  First Order-Resistance war"
+  ],
+  "data": {
+    "name": "Fondor",
+    "region": "Colonies",
+    "sector": "Tapani sector",
+    "system": "Fondor system",
+    "coordinates": "L-13",
+    "moons": "At least 1",
+    "routes": "Shipwrights' Trace",
+    "interest": [
+      "Fondor Shipyards",
+      "  Fondor Station"
+    ],
+    "otherspecies": "Human",
+    "affiliation": "Galactic Empire"
+  },
+  "homeworld_of": [
+    {
+      "name": "Fondorian",
+      "directory": "Fondorian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Fondor",
+    "x": 378.9,
+    "y": -5544.3,
+    "z": 68.7,
+    "region": "Colonies",
+    "grid": "L-13"
+  },
+  "scraped": "2026-07-03"
+}

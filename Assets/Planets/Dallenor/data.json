@@ -1,0 +1,46 @@
+{
+  "name": "Dallenor",
+  "wookieepedia_title": "Dallenor",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Dallenor",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Dallenor was a desert planet located in the Aldino sector of the Mid Rim. An excavation led by the archaeologist Clatriffe discovered a Jedi holocron on the planet, notifying the Jedi Order. To inspect the holocron, Obi-Wan Kenobi and Anakin Skywalker traveled to Dallenor on behalf of the Jedi Council.",
+  "lead_paragraphs": [
+    "Dallenor was a desert planet located in the Aldino sector of the Mid Rim. An excavation led by the archaeologist Clatriffe discovered a Jedi holocron on the planet, notifying the Jedi Order. To inspect the holocron, Obi-Wan Kenobi and Anakin Skywalker traveled to Dallenor on behalf of the Jedi Council."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Dallenor",
+    "region": [
+      "Mid Rim Territories",
+      "Western Reaches"
+    ],
+    "sector": "Aldino sector",
+    "system": "Dallenor system",
+    "coordinates": "J-17",
+    "moons": "At least 2",
+    "atmosphere": "Breathable",
+    "terrain": [
+      "Deserts",
+      "Forests",
+      "Rocky"
+    ],
+    "species": "Fosh"
+  },
+  "homeworld_of": [
+    {
+      "name": "Fosh",
+      "directory": "Fosh",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Dallenor",
+    "x": -1073.1,
+    "y": 3544.4,
+    "z": -83.8,
+    "region": "Mid Rim",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

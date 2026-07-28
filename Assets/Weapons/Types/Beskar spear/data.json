@@ -1,0 +1,32 @@
+{
+  "name": "Beskar spear",
+  "wookieepedia_title": "Beskar spear",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Beskar_spear",
+  "continuity": "Canon",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "A beskar spear was wielded by the Magistrate Morgan Elsbeth on Corvus during the New Republic Era. The staff was made of pure beskar, a metal alloy tied with Mandalorian culture.",
+  "data": {
+    "name": "Beskar spear",
+    "type": "Spear",
+    "destroyed": "c. 9 ABY, Glavis Ringworld (reforged into Grogu's chainmail shirt)",
+    "owners": [
+      "Morgan Elsbeth",
+      "Din Djarin"
+    ],
+    "locations": [
+      "Corvus",
+      "Tython",
+      "Lafete",
+      "Glavis Ringworld"
+    ],
+    "material": "Beskar",
+    "purpose": "Combat",
+    "affiliation": [
+      "Galactic Empire",
+      "Morgan Elsbeth's army",
+      "Clan Mudhorn"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

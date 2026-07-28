@@ -1,0 +1,90 @@
+{
+  "name": "Qiilura",
+  "wookieepedia_title": "Qiilura/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Qiilura/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Qiilura was a temperate planet in the Mid Rim, 40 light-years away from Ord Mantell. It was the home world of the Gurlanins—a race of shapeshifting intelligent predators, but by the time of the Clone Wars, Human colonization had been well established, with a population of two hundred thousand farmers. The economy of the planet mostly revolved around agriculture, specifically the production of barq, kushayan, and other luxury foodstuffs, merlie meat was a known export and source of income and food for the farmers of this planet. Qiilura produced a large proportion of the luxury foodstuffs and beverages in the galaxy. However, the planet was controlled by the Neimoidian merchant Lik Ankkit, who passed little of the profit on to the farmers, thus most inhabitants lived in squalor and would sell information and outlaws to the warlord Ghez Hokan and his militia for a couple of credits or a bottle of urrqal.",
+  "lead_paragraphs": [
+    "Qiilura was a temperate planet in the Mid Rim, 40 light-years away from Ord Mantell. It was the home world of the Gurlanins—a race of shapeshifting intelligent predators, but by the time of the Clone Wars, Human colonization had been well established, with a population of two hundred thousand farmers. The economy of the planet mostly revolved around agriculture, specifically the production of barq, kushayan, and other luxury foodstuffs, merlie meat was a known export and source of income and food for the farmers of this planet. Qiilura produced a large proportion of the luxury foodstuffs and beverages in the galaxy. However, the planet was controlled by the Neimoidian merchant Lik Ankkit, who passed little of the profit on to the farmers, thus most inhabitants lived in squalor and would sell information and outlaws to the warlord Ghez Hokan and his militia for a couple of credits or a bottle of urrqal.",
+    "After a mission to the planet early in the Clone Wars, the Confederacy military moved into its system in an effort to annex Qiilura and its other orbital neighbors in 20 BBY, turning Qiilura into a battleground. The planet fell within the area conquered by the Yuuzhan Vong during their galactic invasion."
+  ],
+  "article_sections": [
+    "Geography",
+    "  Fauna",
+    "History",
+    "  Mission to Qiilura",
+    "  Occupation by the Republic",
+    "  Wrath of the Empire",
+    "  Yuuzhan Vong War"
+  ],
+  "data": {
+    "name": "Qiilura",
+    "region": [
+      "Mid Rim",
+      "New Territories"
+    ],
+    "sector": "Qiilura sector",
+    "system": "Qiilura system",
+    "coordinates": "L-7",
+    "routes": [
+      "Celanon Spur",
+      "Entralla Route"
+    ],
+    "climate": "Temperate",
+    "terrain": [
+      "Deciduous forests",
+      "Fields",
+      "Islands",
+      "Lakes",
+      "Plains",
+      "Rivers"
+    ],
+    "interest": "Braan River",
+    "flora": "Kuvara tree",
+    "fauna": [
+      "Gdan",
+      "Ground-eel",
+      "Gurlanin",
+      "Merlie",
+      "Vhek",
+      "Weed-eel"
+    ],
+    "otherspecies": [
+      "Formerly:",
+      "Human",
+      "Neimoidian",
+      "Trandoshan",
+      "Ubese",
+      "Weequay"
+    ],
+    "language": "Qiiluran",
+    "cities": [
+      "Imbraani (capital)",
+      "Teklet",
+      "Tilsat"
+    ],
+    "exports": "Barq",
+    "affiliation": [
+      "Galactic Republic",
+      "Confederacy of Independent Systems",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Gurlanin",
+      "directory": "Gurlanin",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Qiilura",
+    "x": 23.9,
+    "y": 3965.5,
+    "z": 42.2,
+    "region": "Mid Rim",
+    "grid": "L-7"
+  },
+  "scraped": "2026-07-03"
+}

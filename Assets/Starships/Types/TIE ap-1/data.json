@@ -1,0 +1,36 @@
+{
+  "name": "TIE ap-1",
+  "wookieepedia_title": "TIE ap-1",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/TIE_ap-1",
+  "continuity": "Legends",
+  "infobox_template": "GroundVehicle",
+  "description": "The TIE ap-1, informally known as the TIE mauler, was a light Imperial ground assault vehicle, created by Santhe/Sienar Technologies, used during the early years of the Galactic Civil War. Part of the Twin Ion Engine, or TIE, series, the TIE mauler was created to fulfill the Empire's need for a fast ground assault vehicle to use against the growing rebellion against them. The mauler was equipped with three laser cannons and an enhanced self-destruct mechanism, and, due to its need for speed, was lightly armored. Although it was designed for the Galactic Civil War, it saw limited combat, and the mauler was phased out in favor of the TIE crawler, which was based on the design of the mauler.",
+  "data": {
+    "name": "TIE ap-1",
+    "manufacturer": "Santhe/Sienar Technologies",
+    "line": "TIE Series",
+    "model": "Twin Ion Engine ap-1",
+    "type": "Tracked ground vehicle",
+    "cost": "Not available for sale",
+    "length": "6.7 meters",
+    "speed": "90 km/h",
+    "shield_gen": "None",
+    "armament": "Triple medium Blaster cannons",
+    "crew": "Pilot (1)",
+    "passengers": "None",
+    "capacity": "95 kilograms",
+    "consumables": "5 days",
+    "othersystems": "Enhanced self-destruct device",
+    "availability": "Military",
+    "role": [
+      "Compact assault vehicle"
+    ],
+    "affiliation": [
+      "Galactic Empire",
+      "  Imperial Military",
+      "  Imperial Army",
+      "Zann Consortium (stolen)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

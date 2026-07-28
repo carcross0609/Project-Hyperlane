@@ -1,0 +1,26 @@
+{
+  "name": "Bluebolt blaster",
+  "wookieepedia_title": "Bluebolt blaster",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Bluebolt_blaster",
+  "continuity": "Legends",
+  "entry_kind": "model",
+  "infobox_template": "Weapon",
+  "description": "The Bluebolt blaster was a blaster pistol that saw use among bounty hunters around 137 ABY. Named for the blue chrome that adorned the body of its original models, it was much larger than a normal blaster though well-balanced by a heavy grip and light barrel. Deliah Blue was known to carry a Bluebolt during her time with Cade Skywalker and Jariah Syn. Syn used a Bluebolt blaster during the skirmish on Vendaxa, firing a bolt into Darth Nihl's chest in an attempt to save Cade. Nihl survived, however, due to his battle armor.",
+  "data": {
+    "name": "Bluebolt blaster",
+    "model": "Bluebolt blaster",
+    "type": "Blaster pistol",
+    "cost": "850 credits (available for military use only)",
+    "size": "One-handed weapon",
+    "weight": "1.6 kg",
+    "capacity": [
+      "50 shots",
+      "Close-range stun setting available"
+    ],
+    "range": [
+      "Up to 30 m (optimum)",
+      "Up to 90 m (maximum)"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

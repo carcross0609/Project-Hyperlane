@@ -1,0 +1,44 @@
+{
+  "name": "Drunost",
+  "wookieepedia_title": "Drunost",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Drunost",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Drunost was a planet located within the Shelsha sector of the galaxy. A Consolidated Shipping hub and outlet were located near the planet's largest town, Conso City, making Drunost a good stop for fuel and supplies. Nominally under the jurisdiction of the Galactic Empire, the world consisted primarily of mines and farmland as well as company towns, and was settled by both Humans and aliens. During the time of the Galactic Civil War, the planet was also home to a Rebel Alliance supply line. The planet was also the scene of pirate activity engaged in by the BloodScar group.",
+  "lead_paragraphs": [
+    "Drunost was a planet located within the Shelsha sector of the galaxy. A Consolidated Shipping hub and outlet were located near the planet's largest town, Conso City, making Drunost a good stop for fuel and supplies. Nominally under the jurisdiction of the Galactic Empire, the world consisted primarily of mines and farmland as well as company towns, and was settled by both Humans and aliens. During the time of the Galactic Civil War, the planet was also home to a Rebel Alliance supply line. The planet was also the scene of pirate activity engaged in by the BloodScar group."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Locations"
+  ],
+  "data": {
+    "name": "Drunost",
+    "region": "Colonies",
+    "sector": "Shelsha sector",
+    "system": "Drunost system",
+    "coordinates": "M-9",
+    "terrain": [
+      "Farmland",
+      "Woods",
+      "Rivers"
+    ],
+    "interest": "Consolidated Shipping hub",
+    "cities": "Conso City",
+    "affiliation": [
+      "Consolidated Shipping",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Drunost",
+    "x": -830.8,
+    "y": -5373.5,
+    "z": -210.0,
+    "region": "Colonies",
+    "grid": null
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Uba IV",
+  "wookieepedia_title": "Uba IV",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Uba_IV",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Uba IV was a terrestrial planet occupying the fourth orbital position in the Uba system, a part of the Barsa sector of the Mid Rim Territories. Located on Standard Galactic Grid square J-6, it was the homeworld of the sentient and isolationist Ubese species, including Boushh, Ilini, Hareck, Brene, and Tans. Following the crimes those five Ubese committed, they were exiled from the planet before they became bounty hunters.",
+  "lead_paragraphs": [
+    "Uba IV was a terrestrial planet occupying the fourth orbital position in the Uba system, a part of the Barsa sector of the Mid Rim Territories. Located on Standard Galactic Grid square J-6, it was the homeworld of the sentient and isolationist Ubese species, including Boushh, Ilini, Hareck, Brene, and Tans. Following the crimes those five Ubese committed, they were exiled from the planet before they became bounty hunters."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Uba IV",
+    "region": [
+      "Mid Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Barsa sector",
+    "system": "Uba system",
+    "coordinates": "J-6",
+    "position": "4",
+    "class": "Terrestrial",
+    "terrain": "Grassland",
+    "species": "Ubese",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ubese",
+      "directory": "Ubese",
+      "continuity": "Canon"
+    }
+  ],
+  "atlas": {
+    "system": "Uba IV",
+    "x": -1631.8,
+    "y": 5066.3,
+    "z": -24.1,
+    "region": "Mid Rim",
+    "grid": "J-6"
+  },
+  "scraped": "2026-07-03"
+}

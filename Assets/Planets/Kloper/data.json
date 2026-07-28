@@ -1,0 +1,40 @@
+{
+  "name": "Kloper",
+  "wookieepedia_title": "Kloper",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kloper",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kloper was a New Republic member planet, and the homeworld of the Kloperian species.",
+  "lead_paragraphs": [
+    "Kloper was a New Republic member planet, and the homeworld of the Kloperian species."
+  ],
+  "article_sections": [],
+  "data": {
+    "name": "Kloper",
+    "region": [
+      "Inner Rim",
+      "The Slice"
+    ],
+    "system": "Kloper system",
+    "coordinates": "N-9",
+    "species": "Kloperians",
+    "demonym": "Kloperian",
+    "affiliation": "New Republic"
+  },
+  "homeworld_of": [
+    {
+      "name": "Kloperian",
+      "directory": "Kloperian",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Kloper",
+    "x": 3105.5,
+    "y": 555.4,
+    "z": 149.9,
+    "region": "Inner Rim",
+    "grid": "N-9"
+  },
+  "scraped": "2026-07-03"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Shaak Ti's lightsaber",
+  "wookieepedia_title": "Shaak Ti's lightsaber/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Shaak_Ti%27s_lightsaber/Legends",
+  "continuity": "Legends",
+  "entry_kind": "lightsaber",
+  "infobox_template": "Lightsaber",
+  "description": "A blue-bladed lightsaber was wielded by the Togruta Jedi Master Shaak Ti prior to and during the Clone Wars. She used it to battle Galen Marek during the Mission to Felucia, as well as to defend Supreme Chancellor Palpatine during the Battle of Coruscant.",
+  "data": {
+    "name": "Shaak Ti's lightsaber",
+    "model": "Lightsaber",
+    "type": "Single-blade",
+    "culture": "Jedi",
+    "creator": "Shaak Ti",
+    "created": "Prior to 22 BBY",
+    "owners": [
+      "Shaak Ti",
+      "Grievous"
+    ],
+    "hilt_shape": "Cylindrical",
+    "hilt_length": "26.60 centimeters",
+    "hilt_material": [
+      "Copper",
+      "Durasteel"
+    ],
+    "crystal": "Single Adegan crystal",
+    "color": "Blue",
+    "purpose": "Lightsaber combat",
+    "affiliation": [
+      "Jedi Order",
+      "Galactic Republic",
+      "Confederacy of Independent Systems"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

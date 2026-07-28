@@ -1,0 +1,76 @@
+{
+  "name": "Leritor",
+  "wookieepedia_title": "Leritor/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Leritor/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Leritor was a mineral-rich Mid Rim planet of rolling plains and oceans. The native Sauvax engaged in aquaculture; Human colonists mined the minerals. Amid a brewing war between the colonists and the Sauvax, Profex Rynalla attempted to excavate a Sith artifact buried within the planet's mountainous Bleaks.",
+  "lead_paragraphs": [
+    "Leritor was a mineral-rich Mid Rim planet of rolling plains and oceans. The native Sauvax engaged in aquaculture; Human colonists mined the minerals. Amid a brewing war between the colonists and the Sauvax, Profex Rynalla attempted to excavate a Sith artifact buried within the planet's mountainous Bleaks."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Leritor",
+    "region": "Mid Rim",
+    "sector": "Yucrales sector",
+    "system": "Leritor system",
+    "coordinates": "Q-15",
+    "routes": [
+      "Askar Trace",
+      "Manda–Mon Gazza hyperlane"
+    ],
+    "lengthday": "28 standard hours",
+    "lengthyear": "332 standard days",
+    "class": "Terrestrial",
+    "climate": "Temperate; rainy",
+    "terrain": [
+      "Oceans",
+      "Plains",
+      "Mountains",
+      "Rivers"
+    ],
+    "interest": "Bleaks",
+    "fauna": [
+      "Anemonae",
+      "Sea bracken"
+    ],
+    "species": "Sauvax",
+    "otherspecies": "Humans",
+    "language": [
+      "Galactic Basic Standard",
+      "Sauvax"
+    ],
+    "government": "Loose (humans); tribal (Sauvax)",
+    "population": "10 million to 100 million",
+    "exports": "Crops",
+    "affiliation": [
+      "Galactic Republic",
+      "Exar Kun's Sith Empire",
+      "Resurgent Sith Empire",
+      "Brotherhood of Darkness",
+      "Confederacy of Independent Systems",
+      "Yuuzhan Vong empire"
+    ]
+  },
+  "homeworld_of": [
+    {
+      "name": "Sauvax",
+      "directory": "Sauvax",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Leritor",
+    "x": 8673.7,
+    "y": -8009.2,
+    "z": -244.5,
+    "region": "Mid Rim",
+    "grid": "Q-15"
+  },
+  "scraped": "2026-07-03"
+}

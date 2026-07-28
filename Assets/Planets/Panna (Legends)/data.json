@@ -1,0 +1,42 @@
+{
+  "name": "Panna",
+  "wookieepedia_title": "Panna/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Panna/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Panna was a planet in the Outer Rim's Tion Cluster, orbited by Panna Prime and two other moons.",
+  "lead_paragraphs": [
+    "Panna was a planet in the Outer Rim's Tion Cluster, orbited by Panna Prime and two other moons."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Panna",
+    "region": "Outer Rim Territories; Tion Cluster",
+    "sector": "Cronese Mandate",
+    "system": "Panna system",
+    "coordinates": "S-6",
+    "moons": [
+      "2",
+      "  Panna Prime"
+    ],
+    "routes": "Indrexu Route",
+    "affiliation": [
+      "Kingdom of Argai",
+      "Kingdom of Cron",
+      "Xim's Empire",
+      "Galactic Empire"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Panna",
+    "x": 10732.3,
+    "y": 5578.1,
+    "z": -113.2,
+    "region": "Outer Rim",
+    "grid": "S-6"
+  },
+  "scraped": "2026-07-03"
+}

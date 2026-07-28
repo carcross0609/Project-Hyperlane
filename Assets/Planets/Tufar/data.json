@@ -1,0 +1,40 @@
+{
+  "name": "Tufar",
+  "wookieepedia_title": "Tufar",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Tufar",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Tufar was the sixth planet in the Elrood system. It was a frigid world of methane ice.",
+  "lead_paragraphs": [
+    "Tufar was the sixth planet in the Elrood system. It was a frigid world of methane ice."
+  ],
+  "article_sections": [
+    "History"
+  ],
+  "data": {
+    "name": "Tufar",
+    "region": [
+      "Outer Rim Territories",
+      "  Metharian Nebula Territories"
+    ],
+    "sector": "Elrood sector",
+    "system": "Elrood system",
+    "coordinates": "M-20",
+    "suns": "1: Elrad",
+    "position": "6",
+    "moons": "0",
+    "routes": "Elrood-Derilyn Trade Route",
+    "climate": "Frigid",
+    "terrain": "Ice and methane"
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Tufar",
+    "x": 2451.2,
+    "y": -15794.8,
+    "z": -294.9,
+    "region": "Outer Rim",
+    "grid": "M-20"
+  },
+  "scraped": "2026-07-03"
+}

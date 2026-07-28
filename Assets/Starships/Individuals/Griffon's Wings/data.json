@@ -1,0 +1,28 @@
+{
+  "name": "Griffon's Wings",
+  "wookieepedia_title": "Griffon's Wings",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Griffon%27s_Wings",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "IndividualShip",
+  "description": "The Griffon Wings was a modified space transport that was used as a scouting ship by the Rebel Alliance during the Galactic Civil War. A short time after the Battle of Yavin, the Griffon Wings flew to the Yorgraxx system to scout out the planet Yorgraxx, but after arriving in the system, it was attacked by three Imperial Guardian-class light cruisers orbiting the planet. Fire from the Imperial ships damaged the transport and disabled its hyperdrive, forcing the crew to crash-land on Yorgraxx. The crash knocked out the vessel's crew and caused further damage to the vessel itself, but overall, the starship remained relatively intact. The two survivors of the Predator's Beak, an Imperial YT-2400 light freighter that had crashed on the world a short time earlier, observed the descent of the Griffon's Wings and they set out to investigate the crashed transport.",
+  "data": {
+    "name": "Griffon's Wings",
+    "type": "Space Transport",
+    "length": "28 meters",
+    "max_speed": "800 km/h",
+    "hyperdrive": [
+      "Class 2",
+      "Class 12 backup hyperdrive"
+    ],
+    "armament": [
+      "2 light ion cannons",
+      "1 quad laser cannon"
+    ],
+    "passengers": "6",
+    "capacity": "100 tons",
+    "consumables": "2 months",
+    "affiliation": "Alliance to Restore the Republic"
+  },
+  "scraped": "2026-07-03"
+}

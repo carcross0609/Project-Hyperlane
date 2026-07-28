@@ -1,0 +1,35 @@
+{
+  "asset": "Blazemaker Mark II",
+  "matched": "2026-07-07",
+  "source": "inherited-from-class",
+  "note": "Free downloadable models found on Sketchfab (login required to download; respect each model's CC license terms, esp. attribution).",
+  "candidates": [
+    {
+      "name": "Star Wars Galaxies - X-Wing(Luke/Red-Five)",
+      "url": "https://sketchfab.com/3d-models/none-c9bb464489e14a83a3d018c68d6145ff",
+      "uid": "c9bb464489e14a83a3d018c68d6145ff",
+      "author": "Zorg_Sinister",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "weak",
+      "score": 0.5,
+      "likes": 17,
+      "thumbnail": "https://media.sketchfab.com/models/c9bb464489e14a83a3d018c68d6145ff/thumbnails/f9f88e00e8b34412aa6967f09b6a61f8/5c70b476f1a1431c8a2fcdb0d2318ed3.jpeg"
+    },
+    {
+      "name": "Z-95 starfighter",
+      "url": "https://sketchfab.com/3d-models/none-01301fff92354360804a1318225689a7",
+      "uid": "01301fff92354360804a1318225689a7",
+      "author": "angryewok1138",
+      "license": "",
+      "faceCount": null,
+      "animationCount": null,
+      "confidence": "exact",
+      "score": 1.0,
+      "likes": 13,
+      "thumbnail": "https://media.sketchfab.com/models/01301fff92354360804a1318225689a7/thumbnails/72ce469af62041faa0118bc9354535bb/5ad3c114d91f4b4f976e150a58c48f02.jpeg"
+    }
+  ],
+  "inherited_from_class": "Types/Z-wing"
+}

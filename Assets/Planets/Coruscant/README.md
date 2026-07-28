@@ -1,0 +1,189 @@
+# Coruscant
+
+**Continuity:** Canon  
+**Source:** [Coruscant](https://starwars.fandom.com/wiki/Coruscant)
+**Galaxy atlas:** system `Coruscant`, Core Worlds, grid K-9 — map position (0.0, -0.0, 20.4)
+
+Coruscant , also known as Jewel of the Core Worlds, or Imperial Center during the rule of the Galactic Empire, was an ecumenopolis—a city-covered planet, in the Coruscant system of the Core Worlds. Prior to being covered by over five thousand metallic levels of what would become known as Imperial City, Coruscant was the ancient homeworld of the Taung and Zhell species. Though debated by historians, the theory that Coruscant was the ancestral world of humans remained unproven. Noted for its cosmopolitan culture and towering skyscrapers, Coruscant's population consisted of trillions of citizens hailing from a vast array of both humanoid and alien species. In addition, Coruscant's strategic location at the end of several major trade routes enabled it to grow in power and influence, causing the city-planet to surpass its early rivals and become the hub of galactic culture, education, finance, fine arts, politics and technology. It was the location of several major landmarks, including the Jedi Temple, Monument Plaza, and the Senate Building.
+
+Serving as the capital of the galaxy since the ancient days of the old Galactic Republic, Coruscant was at the center of many historic events, such as the Jedi Order's conflict with the Sith. Although the planet fell under Sith control for a time, Republic forces ultimately liberated Coruscant with the aid of the Jedi Knights. Their victory was so decisive that at one point the Sith became all but extinct, replacing an age of darkness and strife with the democratic rule of the modern Galactic Republic. Retaining its status as galactic capital, it was on Coruscant where the Galactic Senate governed the galaxy for centuries, establishing an era of peace that lasted for almost a millennium under the protection of the Jedi peacekeepers. However, political intrigue wrought by corruption and secession transformed Coruscant into a dangerous environment by the time of the Clone Wars with the Confederacy of Independent Systems. On the eve of the New Order, fulfilling a grand scheme, Supreme Chancellor Sheev Palpatine, who was, in fact, the Sith Lord Darth Sidious, declared the Jedi enemies of the state, resulting in a galaxy-wide purge that all but destroyed the Jedi Order. Without the Jedi to oppose him, Palpatine dissolved the Republic and declared himself Galactic Emperor to the applause of the now Imperial Senate.
+
+Coruscant continued to serve as galactic capital under the Empire, having become the Emperor's throneworld, although Palpatine himself disappeared from public view for the most part, leaving the day-to-day governing to his advisors in the Imperial Ruling Council. The Empire maintained a firm hold on Coruscant throughout the Emperor's reign, but with his defeat at the Battle of Endor in 4 ABY by the Alliance to Restore the Republic, citizens of Coruscant celebrated by revolting. Unable to command the military's allegiance as the rebels restored the Republic, Grand Vizier Mas Amedda's rule was limited to Coruscant while Fleet Admiral Gallius Rax, the self-proclaimed Counselor to the Empire, assumed de facto control of the collapsing Imperial government. Hoping to escape prosecution for war crimes, Amedda ultimately surrendered himself to the New Republic in return for amnesty. Following Rax's death at the Battle of Jakku in 5 ABY, Amedda signed the Galactic Concordance—a peace treaty recognizing the Empire's capitulation and the end of the Galactic Civil War. Amedda himself was permitted to return to Coruscant as the head of a provisional government. Yet his authority was merely ceremonial; under the supervision of Republic overseers, he became a virtually powerless figurehead.
+
+Unlike previous galactic governments, the New Republic broke with millennia of tradition by not establishing Coruscant as their headquarters, instead preferring to designate other member worlds with the status of galactic capital through an electoral system. During the New Republic Era, Coruscant had become the capital of the New Republic as it was designed to handle and administer the galaxy's infrastructure. As part of the New Republic Senate, Coruscant enjoyed full senatorial representation and, by the time of the Cold War, was aligned with the worlds that identified as Centrists. However, by this point, Coruscant had actually fallen under the control of crime syndicates. Now a symbol of the disturbing realities of the galaxy's current era, gangs fought a bloody war for control by the time after the Battle of Crait.
+
+During the First Order-Resistance War, at least two sizeable battlegroup were deployed by the First Order to Coruscant in the apparent hope of seizing it and ruling the galaxy from the ecumenopolis as the Galactic Empire once did, however these efforts were defeated. In the aftermath of the Battle of Exegol, various worlds sought to drive the First Order military from their soil. Coruscant was one such world where an uprising took place as part of a galaxy-wide effort to overthrow the First Order.
+
+## Planetary data
+
+- **Name:** Coruscant
+- **Region:**
+  - Core Worlds
+  - The Interior
+- **Sector:**
+  - Corusca sector
+  -   Coruscant subsector
+- **System:** Coruscant system
+- **Coordinates:** L-9
+- **Xyz:** 0, 0, 0
+- **Suns:** 1: Coruscant Prime
+- **Moons:**
+  - 4
+  -   Centax-1
+  -   Centax-2
+  -   Centax-3
+  -   Hesperidium
+- **Routes:**
+  - Corellian Run
+  - Koros Trunk Line
+  - Metellos Trade Route
+  - Namadii Corridor
+  - Nexus Route
+  - Perlemian Trade Route
+  - Stassia Alley
+- **Lengthday:** 24 standard hours
+- **Lengthyear:** 365 standard days
+- **Diameter:** 12,240 kilometers (7,606 miles)
+- **Atmosphere:** Breathable
+- **Climate:** Temperate (artificial)
+- **Terrain:**
+  - Ecumenopolis
+  -   City megastructure
+  - Mountainous (Historically)
+- **Water:** Ocean (Historically)
+- **Interest:**
+  - Great Western Sea
+  - Manarai range
+  -   Umate
+- **Fauna:**
+  - Conduit worm
+  - Corridor ghoul
+  - Crown finch
+  - Duracrete slug
+  - Granite slug
+  - Nuna
+  - Pikobi
+  - Song sparrow
+  - Stone mite
+  - Tooka
+- **Species:**
+  - Human (disputed but generally accepted)
+  - Taung (historically)
+  - Zhell (historically)
+- **Otherspecies:** Hundreds of species
+- **Language:**
+  - Galactic Basic Standard
+  - Thousands of others
+- **Government:**
+  - Representative Republic
+  -   Galactic Senate
+  -   Coruscanti government
+  -   Coruscant's provisional government
+- **Population:**
+  - 2,981,780,000,000 (132 BBY; estimated)
+  -   78% humans
+  -   22% other
+  - Nearly 3 trillion, a third are permanent residents (9 ABY; estimated)
+- **Demonym:** Coruscanti
+- **Cities:**
+  - Imperial City
+  -   Abbo-Suer District
+  -   Arts District
+  -   B'ankor Refuge
+  -   Bindai district
+  -   Central District
+  -   Collective Commerce District (CoCo Town)
+  -   Federal District (capital)
+  -     Palace Court
+  -   Fobosi District
+  -   Financial District
+  -   Industrial District
+  -     The Works
+  -   Jrade District
+  -   Lower market districts
+  -   Old downtown area
+  -   Port District
+  -   Sah'c Town
+  -   Shipyard Depot
+  -   TriOpt District
+  -   Unidentified residential district
+  -   Uscru District
+  -     Uscru Entertainment District
+  -   Wellness district
+  -   Coruscant Underworld
+- **Imports:**
+  - Foodstuffs
+  - Medical goods
+- **Exports:**
+  - Culture
+  - Paperwork
+- **Affiliation:**
+  - Dai Bendu
+  - Galactic Republic
+  - Jedi Order
+  - Sith Order
+  - Galactic Empire
+  - New Republic
+  - First Order
+
+## Homeworld of
+
+- [B'ankora (Canon)](../../Species/B%27ankora/README.md)
+- [Coruscani ogre (Legends)](../../Species/Coruscani%20ogre/README.md)
+- [Cthon (Legends)](../../Species/Cthon%20%28Legends%29/README.md)
+- [Human (Canon)](../../Species/Human/README.md)
+- [Manikon (Legends)](../../Species/Manikon/README.md)
+- [Nazzar (Canon)](../../Species/Nazzar/README.md)
+- [Taung (Canon)](../../Species/Taung/README.md)
+- [Taung (Legends)](../../Species/Taung%20%28Legends%29/README.md)
+- [Zhell (Canon)](../../Species/Zhell/README.md)
+- [Zhell (Legends)](../../Species/Zhell%20%28Legends%29/README.md)
+
+## Full article coverage (on Wookieepedia)
+
+- Description
+-   Overview
+-   Imperial City
+- History
+-   Early history
+-   The Galactic Republic
+-     High Republic Era
+-     The end of peace
+-     A capital at war
+-     Showdown on Coruscant
+-   The Galactic Empire
+-     The end of the Republic
+-     Imperial capital
+-     =Like a black hole=
+-     =Tensions under the surface=
+-     Planetary civil war
+-     Galactic Concordance
+-   New Republic Era
+-     A new status
+-     Return of Thrawn
+-     A Centrist stronghold
+-     Descent into lawlessness
+-   Rise of the First Order
+- Inhabitants
+- Government
+- Locations
+-   The upper city
+-     CoCo Town
+-     COMPNOR arcology
+-     Grand Republic Medical Facility
+-     Imperial Executive Building
+-     Imperial Inspectorate HQ
+-     Imperial Palace
+-     Imperial Senate Building
+-   The lower levels
+-     Coruscant Underworld
+-     Level 2046
+-   Uscru District
+-     Upper district
+-     Lower district
+-   The Works
+-   Non-canon sources
+
+## Assets
+
+Place planet-specific assets (surface materials, skyboxes, landmarks) in `Assets/`.

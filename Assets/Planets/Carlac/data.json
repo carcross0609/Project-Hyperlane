@@ -1,0 +1,73 @@
+{
+  "name": "Carlac",
+  "wookieepedia_title": "Carlac",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Carlac",
+  "continuity": "Canon",
+  "infobox_template": "CelestialBody",
+  "description": "Carlac was a peaceful planet Carlac system in the Prefsbelt sector within the Outer Rim Territories and New Territories. It was comprised of cold blue-sand deserts in the lower latitudes and on the equator, snow-covered forests further north with inhospitable mountain ranges in the subpolar regions. During the High Republic Era, it was sparsely inhabited by a Yarkora colony in its southern latitudes and monasteries of Ming Po monks in the northern regions.",
+  "lead_paragraphs": [
+    "Carlac was a peaceful planet Carlac system in the Prefsbelt sector within the Outer Rim Territories and New Territories. It was comprised of cold blue-sand deserts in the lower latitudes and on the equator, snow-covered forests further north with inhospitable mountain ranges in the subpolar regions. During the High Republic Era, it was sparsely inhabited by a Yarkora colony in its southern latitudes and monasteries of Ming Po monks in the northern regions.",
+    "During the High Republic Era in 231 BBY, Carlac was the site of a battle of Operation: Counterstrike during the Nihil conflict. Later during the era, the Republic prison transport Palwick transporting Osha Aniseya crash landed in Carlac's northern mountains. During the Clone Wars, A town inhabited by members of the Ming Po culture existed on Carlac, but was burned to the ground by the radical Mandalorian terrorist group Death Watch."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "  High Republic Era",
+    "  The Clone Wars",
+    "  Galactic Civil War"
+  ],
+  "data": {
+    "name": "Carlac",
+    "region": [
+      "Outer Rim Territories",
+      "New Territories"
+    ],
+    "sector": "Prefsbelt sector",
+    "system": "Carlac system",
+    "coordinates": "K-5",
+    "moons": "0",
+    "routes": "Entralla Route",
+    "diameter": "9,494 km (5,899 miles)",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cold",
+    "terrain": [
+      "Blue-sand deserts",
+      "Forests",
+      "Mountain chains",
+      "Snowy plains"
+    ],
+    "interest": [
+      "Carlac Death Watch camp",
+      "Piteous Ranges",
+      "Yarkora colony"
+    ],
+    "otherspecies": [
+      "Human (Ming Po)",
+      "Yarkora"
+    ],
+    "population": "Less than 10,000",
+    "cities": "Ming Po Town",
+    "affiliation": "Death Watch (during occupation)"
+  },
+  "homeworld_of": [
+    {
+      "name": "Ming Po",
+      "directory": "Ming Po",
+      "continuity": "Canon"
+    },
+    {
+      "name": "Ming Po",
+      "directory": "Ming Po (Legends)",
+      "continuity": "Legends"
+    }
+  ],
+  "atlas": {
+    "system": "Carlac",
+    "x": -1372.6,
+    "y": 6209.6,
+    "z": -55.9,
+    "region": "Outer Rim",
+    "grid": "K-5"
+  },
+  "scraped": "2026-07-03"
+}

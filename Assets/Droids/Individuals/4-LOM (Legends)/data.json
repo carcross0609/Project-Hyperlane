@@ -1,0 +1,44 @@
+{
+  "name": "4-LOM",
+  "wookieepedia_title": "4-LOM/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/4-LOM/Legends",
+  "continuity": "Legends",
+  "entry_kind": "individual",
+  "infobox_template": "Droid",
+  "description": "4-LOM was an ambitious protocol droid who overwrote his own programming in order to embark on a life of crime. A LOM-series droid, 4-LOM's first assignment was aboard a luxury liner named the Kuari Princess, where he served as a translator between the vessel's wealthy passengers and its computer. He found this work to be mundane and undemanding, and after the Kuari Princess computer altered his programming, 4-LOM began to steal from the passengers. Eventually, he left the Kuari Princess for good, becoming an expert thief, information broker, and, after Jabba Desilijic Tiure altered his programming further, a highly-successful bounty hunter.",
+  "data": {
+    "name": "4-LOM",
+    "manufacturer": "Industrial Automaton",
+    "line": "LOM-series",
+    "model": "LOM-series protocol droid",
+    "class": "Protocol droid (modified)",
+    "height": "1.6 meters (5 ft 2 in)",
+    "mass": "75 kilograms",
+    "gender": "Masculine programming",
+    "pronouns": [
+      "He/Him",
+      "It/Its"
+    ],
+    "sensor": "Metallic",
+    "armament": [
+      "W-90 concussion rifle",
+      "Blaster pistol",
+      "Stun gas blower"
+    ],
+    "equipment": [
+      "Visual/audio sensors (2 each)",
+      "Vocabulator speech/sound system",
+      "Broad-band antenna receiver",
+      "AA-1 VerboBrain",
+      "TranLang III communications module",
+      "Photoreceptors",
+      "Microwave emitter"
+    ],
+    "affiliation": [
+      "Bounty Hunters' Guild",
+      "Hutt Cartel",
+      "Alliance to Restore the Republic"
+    ]
+  },
+  "scraped": "2026-07-03"
+}

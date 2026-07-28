@@ -1,0 +1,69 @@
+{
+  "name": "Kuna's Tooth",
+  "wookieepedia_title": "Kuna's Tooth/Legends",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Kuna%27s_Tooth/Legends",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Kuna's Tooth, also known as the Tooth, was a cool Outer Rim Territories mining planet located in the Moddell sector. The site of an orbital shipyard called Doestes High Port, the planet was governed by a bureaucracy and inhabited by members of the Ayrou, Human, and Vashan species. Years after the Battle of Endor, Kuna's Tooth hosted backalley cookhouses where smuggled-in Rokna tree fungus from the Endor system was processed into the Rokna Blue drug before being transported into the wider galaxy.",
+  "lead_paragraphs": [
+    "Kuna's Tooth, also known as the Tooth, was a cool Outer Rim Territories mining planet located in the Moddell sector. The site of an orbital shipyard called Doestes High Port, the planet was governed by a bureaucracy and inhabited by members of the Ayrou, Human, and Vashan species. Years after the Battle of Endor, Kuna's Tooth hosted backalley cookhouses where smuggled-in Rokna tree fungus from the Endor system was processed into the Rokna Blue drug before being transported into the wider galaxy."
+  ],
+  "article_sections": [
+    "Description",
+    "History",
+    "Inhabitants",
+    "Locations"
+  ],
+  "data": {
+    "name": "Kuna's Tooth",
+    "region": "Outer Rim Territories",
+    "sector": [
+      "Zuma sector",
+      "  Inner Zuma Region",
+      "    Moddell subsector"
+    ],
+    "system": [
+      "Inner Moddell systems",
+      "  Kuna's Tooth system"
+    ],
+    "coordinates": "H-16",
+    "routes": "Spar Trade Route",
+    "lengthday": "17 standard hours",
+    "lengthyear": "215 local days",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": "Cool",
+    "gravity": "90% standard",
+    "terrain": "Barren",
+    "interest": [
+      "Doestes High Port (in orbit)",
+      "Rokna Blue cookhouses"
+    ],
+    "otherspecies": [
+      "Ayrou",
+      "Humans",
+      "Vashans"
+    ],
+    "government": "Bureaucracy",
+    "population": "90,000",
+    "imports": [
+      "Foodstuffs",
+      "Mining tools",
+      "Rokna tree fungus"
+    ],
+    "exports": [
+      "Ore",
+      "Rokna Blue"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Kuna's Tooth",
+    "x": -5024.1,
+    "y": -10370.9,
+    "z": -169.2,
+    "region": "Outer Rim",
+    "grid": "H-16"
+  },
+  "scraped": "2026-07-03"
+}

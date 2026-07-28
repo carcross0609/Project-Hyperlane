@@ -1,0 +1,19 @@
+# N1-FEX
+
+**Kind:** Individual  
+**Continuity:** Legends  
+**Source:** [N1-FEX](https://starwars.fandom.com/wiki/N1-FEX)
+
+N1-FEX, also known as Fex, was a droid who worked as a mercenary with the Weequay Kasso Trelek and the Human Tera. On one occasion the group traveled to a cantina within the territory of the crime lord Gorgen, which the droid entered by kicking the door off its hinges. Once seated, Fex and his companions were served Lum ale, which he used to clean blaster marks off his torso. The droid continued to clean himself while the criminal Vols approached Tera and threatened her, and only took notice of the situation when Tera call to him, after which he produced a light repeating blaster from his heavy carrying case and open fire, destroying much of the bar and killing a number of the thugs with Vols. After Kasso threw a thermal detonator into the fight from the refresher, the thugs and other patrons of the cantina fled, followed shortly after by Fex and his companions once they realized the detonator was not a decoy. The explosion destroyed the cantina, flinging a durasteel spike through one of Fex's legs. The trio then fled for the nearest spaceport. Fex had a large head and sensors which were normally blue, but turned red when he was hostile.
+
+## Specifications
+
+- **Name:** N1-FEX
+- **Gender:** Masculine programming
+- **Pronouns:** nw
+- **Sensor:** Blue normally, Red when hostile
+- **Armament:** T-21 Light repeating blaster
+
+## Models
+
+Place 3D model assets for this droid in `Models/`.

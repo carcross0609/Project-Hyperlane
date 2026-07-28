@@ -1,0 +1,75 @@
+{
+  "name": "Duroon",
+  "wookieepedia_title": "Duroon",
+  "wookieepedia_url": "https://starwars.fandom.com/wiki/Duroon",
+  "continuity": "Legends",
+  "infobox_template": "CelestialBody",
+  "description": "Duroon was a planet in Corporate Sector visited by Han Solo in 2 BBY.",
+  "lead_paragraphs": [
+    "Duroon was a planet in Corporate Sector visited by Han Solo in 2 BBY."
+  ],
+  "article_sections": [
+    "Description",
+    "History"
+  ],
+  "data": {
+    "name": "Duroon",
+    "region": "Outer Rim Territories",
+    "sector": "Corporate Sector",
+    "system": "Duroon system",
+    "coordinates": "S-4",
+    "moons": "3",
+    "routes": "Tertiary Solenbaran",
+    "class": "Terrestrial",
+    "atmosphere": "Type I (breathable)",
+    "climate": [
+      "Humid",
+      "Hot",
+      "Warm"
+    ],
+    "terrain": [
+      "Hot springs",
+      "Jungles",
+      "Mountain",
+      "River",
+      "Thermal vents",
+      "Volcanic fissures"
+    ],
+    "interest": "Corporate Sector Authority military installation",
+    "flora": "Fern-tree",
+    "fauna": [
+      "Ball creature of Duroon",
+      "Sarlacc"
+    ],
+    "otherspecies": [
+      "Aliens",
+      "  Palarian"
+    ],
+    "language": "Galactic Basic Standard",
+    "government": "Corporate Sector Authority",
+    "imports": "Slave laborers",
+    "exports": [
+      "Natural resources",
+      "  Diamonds",
+      "  Fire nodes",
+      "  Glow-pearls",
+      "  Nova crystals"
+    ],
+    "affiliation": [
+      "Corporate Sector Authority",
+      "Confederacy of Independent Systems",
+      "Five Worlds",
+      "Confederation"
+    ]
+  },
+  "homeworld_of": [],
+  "atlas": {
+    "system": "Duroon",
+    "x": 10822.8,
+    "y": 8716.8,
+    "z": -138.0,
+    "region": "Outer Rim",
+    "grid": "S-4"
+  },
+  "scraped": "2026-07-03"
+}
