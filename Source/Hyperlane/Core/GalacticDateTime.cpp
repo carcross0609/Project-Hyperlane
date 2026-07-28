@@ -1,6 +1,6 @@
 // Copyright (c) 2026 Carson Crossno. Personal, non-commercial project.
 
-#include "Core/GalacticDateTime.h"
+#include "Hyperlane/Core/GalacticDateTime.h"
 
 void FGalacticDateTime::AdvanceSeconds(int64 DeltaSeconds)
 {

@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Core/GalacticDateTime.h"
+#include "Hyperlane/Core/GalacticDateTime.h"
 
 /**
  * Fixed-timestep driver for the galaxy simulation (TechnicalArchitecture §4.2).

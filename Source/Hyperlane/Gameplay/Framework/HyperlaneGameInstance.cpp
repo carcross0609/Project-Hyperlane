@@ -1,8 +1,8 @@
 // Copyright (c) 2026 Carson Crossno. Personal, non-commercial project.
 
-#include "Gameplay/Framework/HyperlaneGameInstance.h"
+#include "Hyperlane/Gameplay/Framework/HyperlaneGameInstance.h"
 
-#include "Core/HyperlaneLogging.h"
+#include "Hyperlane/Core/HyperlaneLogging.h"
 
 void UHyperlaneGameInstance::Init()
 {
