@@ -9,14 +9,14 @@ public class Hyperlane : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
 		// Dependencies are added when first used, not speculatively
-		// (CodingStandards: includes minimal). EnhancedInput arrives with
-		// Phase 1 input work.
+		// (CodingStandards: includes minimal).
 		PublicDependencyModuleNames.AddRange(new string[]
 		{
 			"Core",
 			"CoreUObject",
 			"Engine",
-			"InputCore"
+			"InputCore",
+			"EnhancedInput"
 		});
 	}
 }
