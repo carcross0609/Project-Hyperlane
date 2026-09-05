@@ -28,6 +28,11 @@ void UDockingComponent::BeginPlay()
 		Movement = Owner->FindComponentByClass<UShipMovementComponent>();
 	}
 
+	// Seed the timer so the first tick scans. Otherwise a ship that spawns or
+	// loads a save already beside a berth reports Free for the first interval,
+	// which reads as docking being broken rather than merely late.
+	TimeSinceScan = PortScanInterval;
+
 	if (!Movement.IsValid())
 	{
 		UE_LOG(LogShip, Warning,
