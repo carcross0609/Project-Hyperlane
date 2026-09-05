@@ -42,9 +42,10 @@ def create(name, path, cls, factory):
     in place is equivalent and cannot destroy authored work.
     """
     full = f"{path}/{name}"
-    existing = unreal.EditorAssetLibrary.load_asset(full)
-    if existing:
-        return existing
+    # does_asset_exist first: load_asset on a missing path logs an Error that
+    # looks like a failure but is just the create path.
+    if unreal.EditorAssetLibrary.does_asset_exist(full):
+        return unreal.EditorAssetLibrary.load_asset(full)
     asset = tools.create_asset(name, path, cls, factory)
     if asset is None:
         log(f"FAIL  {full}")
@@ -132,6 +133,7 @@ ACTIONS = [
     ("IA_Look",     V.AXIS2D),
     ("IA_Roll",     V.AXIS1D),
     ("IA_Boost",    V.BOOLEAN),
+    ("IA_Dock",     V.BOOLEAN),
 ]
 
 actions = {}
@@ -209,6 +211,11 @@ if imc:
     bind("IA_Boost", "LeftShift")
     bind("IA_Boost", "Gamepad_FaceButton_Bottom")
 
+    # Dock/undock, one press. Bound to a face button rather than a trigger so
+    # it can never be hit while manoeuvring onto a berth.
+    bind("IA_Dock", "F")
+    bind("IA_Dock", "Gamepad_FaceButton_Top")
+
     imc.set_editor_property("mappings", mappings)
     unreal.EditorAssetLibrary.save_loaded_asset(imc)
     log(f"OK    {INPUT_PATH}/IMC_ShipControls ({len(mappings)} mappings)")
@@ -222,7 +229,8 @@ if cfg:
                            ("strafe_action", "IA_Strafe"),
                            ("look_action", "IA_Look"),
                            ("roll_action", "IA_Roll"),
-                           ("boost_action", "IA_Boost")):
+                           ("boost_action", "IA_Boost"),
+                           ("dock_action", "IA_Dock")):
         if act_name in actions:
             cfg.set_editor_property(prop, actions[act_name])
     unreal.EditorAssetLibrary.save_loaded_asset(cfg)

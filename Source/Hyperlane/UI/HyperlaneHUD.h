@@ -32,4 +32,7 @@ private:
 
 	/** A crude filled bar; the fastest way to *feel* a tuning change. */
 	void DrawSpeedBar(double Fraction, bool bBoostActive, float& InOutY);
+
+	/** Docking state and its prompt. Silent while nothing is in reach. */
+	void DrawDocking(const class AShipPawn* Ship, float& InOutY);
 };

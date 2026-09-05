@@ -7,6 +7,7 @@
 #include "ShipPawn.generated.h"
 
 class UCameraComponent;
+class UDockingComponent;
 class UShipClassDef;
 class UShipInputConfig;
 class UShipMovementComponent;
@@ -44,6 +45,7 @@ public:
 	virtual void SetupPlayerInputComponent(UInputComponent* PlayerInputComponent) override;
 
 	UShipMovementComponent* GetShipMovement() const { return ShipMovement; }
+	UDockingComponent* GetDocking() const { return Docking; }
 	const UShipClassDef* GetShipClass() const { return ShipClass; }
 
 protected:
@@ -67,6 +69,7 @@ private:
 	void HandleLook(const FInputActionValue& Value);
 	void HandleRoll(const FInputActionValue& Value);
 	void HandleBoost(const FInputActionValue& Value);
+	void HandleDock(const FInputActionValue& Value);
 
 	/** Collision lives on a simple primitive, not the art — the hull mesh is swappable. */
 	UPROPERTY(VisibleAnywhere, Category = "Ship")
@@ -83,6 +86,9 @@ private:
 
 	UPROPERTY(VisibleAnywhere, Category = "Ship")
 	TObjectPtr<UShipMovementComponent> ShipMovement;
+
+	UPROPERTY(VisibleAnywhere, Category = "Ship")
+	TObjectPtr<UDockingComponent> Docking;
 
 	/** Look and roll arrive as separate actions but leave as one command. */
 	FVector2D LookInput = FVector2D::ZeroVector;

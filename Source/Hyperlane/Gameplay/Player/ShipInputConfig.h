@@ -56,4 +56,8 @@ public:
 	/** Digital, held rather than toggled. */
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Input|Actions")
 	TObjectPtr<UInputAction> BoostAction;
+
+	/** Digital, one press. Docks when a berth is in reach, undocks when berthed. */
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Input|Actions")
+	TObjectPtr<UInputAction> DockAction;
 };

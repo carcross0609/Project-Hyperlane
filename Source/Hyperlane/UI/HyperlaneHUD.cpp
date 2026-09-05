@@ -6,6 +6,8 @@
 #include "Engine/Engine.h"
 #include "Engine/Font.h"
 #include "Engine/GameInstance.h"
+#include "Hyperlane/Gameplay/Interaction/DockingComponent.h"
+#include "Hyperlane/Gameplay/Interaction/DockingPortComponent.h"
 #include "Hyperlane/Gameplay/Ships/ShipMovementComponent.h"
 #include "Hyperlane/Gameplay/Ships/ShipPawn.h"
 #include "Hyperlane/Simulation/Data/ShipClassDef.h"
@@ -22,6 +24,19 @@ namespace
 
 	const FLinearColor TelemetryColor(0.65f, 0.85f, 1.0f, 1.0f);
 	const FLinearColor BoostColor(1.0f, 0.72f, 0.25f, 1.0f);
+	const FLinearColor PromptColor(0.55f, 1.0f, 0.62f, 1.0f);
+
+	const TCHAR* DockStateLabel(EDockState State)
+	{
+		switch (State)
+		{
+		case EDockState::InRange:   return TEXT("CLEARANCE GRANTED");
+		case EDockState::Docking:   return TEXT("APPROACH");
+		case EDockState::Docked:    return TEXT("BERTHED");
+		case EDockState::Undocking: return TEXT("DEPARTING");
+		default:                    return TEXT("");
+		}
+	}
 }
 
 void AHyperlaneHUD::DrawHUD()
@@ -80,6 +95,46 @@ void AHyperlaneHUD::DrawHUD()
 	else
 	{
 		DrawTelemetryLine(TEXT("HULL      <no ship class assigned>"), CursorY);
+	}
+
+	DrawDocking(Ship, CursorY);
+}
+
+void AHyperlaneHUD::DrawDocking(const AShipPawn* Ship, float& InOutY)
+{
+	const UDockingComponent* Docking = Ship->GetDocking();
+	if (!Docking)
+	{
+		return;
+	}
+
+	const EDockState State = Docking->GetDockState();
+	if (State == EDockState::Free)
+	{
+		return;
+	}
+
+	InOutY += TelemetryLineHeight;
+
+	FString Berth;
+	if (const UDockingPortComponent* Port = Docking->GetTargetPort())
+	{
+		Berth = Port->PortName.IsEmpty() ? Port->GetName() : Port->PortName.ToString();
+	}
+
+	DrawTelemetryLine(FString::Printf(TEXT("DOCK      %s  %s"), DockStateLabel(State), *Berth), InOutY);
+
+	// The prompt only appears where pressing the key would actually do
+	// something, so it never invites input the state machine will ignore.
+	if (State == EDockState::InRange)
+	{
+		DrawText(TEXT("[F] DOCK"), PromptColor, TelemetryOriginX, InOutY, GEngine->GetSmallFont());
+		InOutY += TelemetryLineHeight;
+	}
+	else if (State == EDockState::Docked)
+	{
+		DrawText(TEXT("[F] UNDOCK"), PromptColor, TelemetryOriginX, InOutY, GEngine->GetSmallFont());
+		InOutY += TelemetryLineHeight;
 	}
 }
 

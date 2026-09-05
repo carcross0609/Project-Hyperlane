@@ -12,6 +12,7 @@
 #include "GameFramework/PlayerController.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Hyperlane/Core/HyperlaneLogging.h"
+#include "Hyperlane/Gameplay/Interaction/DockingComponent.h"
 #include "Hyperlane/Gameplay/Player/ShipInputConfig.h"
 #include "Hyperlane/Gameplay/Ships/ShipMovementComponent.h"
 #include "Hyperlane/Simulation/Data/ShipClassDef.h"
@@ -56,6 +57,8 @@ AShipPawn::AShipPawn()
 
 	ShipMovement = CreateDefaultSubobject<UShipMovementComponent>(TEXT("ShipMovement"));
 	ShipMovement->UpdatedComponent = CollisionRoot;
+
+	Docking = CreateDefaultSubobject<UDockingComponent>(TEXT("Docking"));
 }
 
 void AShipPawn::BeginPlay()
@@ -76,6 +79,11 @@ void AShipPawn::ApplyShipClass()
 	}
 
 	ShipMovement->SetFlightModel(ShipClass->GetResolvedFlightModel());
+
+	// Berth eligibility is a size-class question (Bible 05 §1), so the docking
+	// component is told the hull's size rather than being handed the whole
+	// ship class it would only reach through.
+	Docking->SetSizeClass(ShipClass->SizeClass);
 
 	UE_LOG(LogShip, Log, TEXT("'%s' resolved its flight model from ship class '%s'."),
 		*GetName(), *ShipClass->GetName());
@@ -153,6 +161,14 @@ void AShipPawn::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 		EnhancedInput->BindAction(InputConfig->BoostAction, ETriggerEvent::Triggered, this, &AShipPawn::HandleBoost);
 		EnhancedInput->BindAction(InputConfig->BoostAction, ETriggerEvent::Completed, this, &AShipPawn::HandleBoost);
 	}
+
+	// Started, not Triggered: docking is a single decision per press. Triggered
+	// would repeat while the key is held and toggle the ship straight back out
+	// of the berth it just entered.
+	if (InputConfig->DockAction)
+	{
+		EnhancedInput->BindAction(InputConfig->DockAction, ETriggerEvent::Started, this, &AShipPawn::HandleDock);
+	}
 }
 
 void AShipPawn::HandleThrottle(const FInputActionValue& Value)
@@ -187,4 +203,9 @@ void AShipPawn::PushRotationInput()
 void AShipPawn::HandleBoost(const FInputActionValue& Value)
 {
 	ShipMovement->SetBoostActive(Value.Get<bool>());
+}
+
+void AShipPawn::HandleDock(const FInputActionValue& /*Value*/)
+{
+	Docking->RequestDockToggle();
 }

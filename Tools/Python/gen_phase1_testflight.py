@@ -100,7 +100,27 @@ MAP_PATH = "/Game/Maps/L_TestFlight"
 level_sub = unreal.get_editor_subsystem(unreal.LevelEditorSubsystem)
 actor_sub = unreal.get_editor_subsystem(unreal.EditorActorSubsystem)
 
-level_sub.new_level(MAP_PATH)
+# Regeneration is load-and-clear, not delete-and-recreate.
+#
+# new_level refuses to overwrite an existing asset, and deleting the level
+# first does not work either -- it is the loaded level, so the delete is
+# refused. A second run therefore spawned every actor into a nameless
+# transient level and failed the save, *while still reporting success*, which
+# is how this shipped broken. Hence both the approach change and the return
+# checks: an authoring script that cannot fail loudly is worse than one that
+# fails.
+if unreal.EditorAssetLibrary.does_asset_exist(MAP_PATH):
+    if not level_sub.load_level(MAP_PATH):
+        log(f"FAIL  load_level({MAP_PATH})")
+        raise SystemExit(1)
+
+    existing = actor_sub.get_all_level_actors()
+    for actor in list(existing):
+        actor_sub.destroy_actor(actor)
+    log(f"OK    cleared {len(existing)} actors from {MAP_PATH}")
+elif not level_sub.new_level(MAP_PATH):
+    log(f"FAIL  new_level({MAP_PATH})")
+    raise SystemExit(1)
 
 
 def spawn(cls, loc, rot=None):
@@ -150,11 +170,31 @@ for i in range(DEBRIS_COUNT):
     s = 3.0 + abs(fs) * 22.0
     spawn_mesh(CUBE, loc, (s, s * 0.8, s * 0.6), f"Debris_{i:03d}")
 
-# A station-scale object, so there is one thing in the level big enough to
-# give a sense of absolute scale rather than only relative motion.
-spawn_mesh(CYLINDER, (45000.0, 12000.0, 0.0), (60.0, 60.0, 22.0), "StationPlaceholder")
+# The station: scale reference *and* the only dockable thing in the level.
+# AStationActor rather than a bare mesh, because it carries the berth its
+# docking port component registers with the world registry.
+station = spawn(unreal.StationActor, (30000.0, 8000.0, 0.0))
+station.set_actor_label("Station_TestBerth")
 
-level_sub.save_current_level()
+station_hull = station.get_editor_property("hull")
+station_hull.set_editor_property("static_mesh", CYLINDER)
+station_hull.set_editor_property("relative_scale3d", unreal.Vector(60.0, 60.0, 22.0))
+if BASIC_MAT:
+    station_hull.set_material(0, BASIC_MAT)
+
+# The berth sits above a hull scaled 22x in Z, so the C++ default offset (set
+# for an unscaled placeholder) would leave it buried. Lift it clear here,
+# where the scale that causes the problem is actually known.
+port = station.get_editor_property("primary_port")
+port.set_editor_property("relative_location", unreal.Vector(0.0, 0.0, 75.0))
+port.set_editor_property("port_name", unreal.Text("Bay 1"))
+
+log(f"OK    station with berth at {MAP_PATH}")
+
+if not level_sub.save_current_level():
+    log(f"FAIL  save_current_level({MAP_PATH})")
+    raise SystemExit(1)
+
 log(f"OK    {MAP_PATH} ({DEBRIS_COUNT} debris + station)")
 
 if OUT:
