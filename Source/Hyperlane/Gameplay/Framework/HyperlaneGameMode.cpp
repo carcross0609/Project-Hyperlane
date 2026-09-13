@@ -3,13 +3,17 @@
 #include "Hyperlane/Gameplay/Framework/HyperlaneGameMode.h"
 
 #include "Hyperlane/Gameplay/Player/HyperlanePlayerController.h"
-#include "GameFramework/SpectatorPawn.h"
+#include "Hyperlane/Gameplay/Ships/ShipPawn.h"
+#include "Hyperlane/UI/HyperlaneHUD.h"
 
 AHyperlaneGameMode::AHyperlaneGameMode()
 {
 	PlayerControllerClass = AHyperlanePlayerController::StaticClass();
 
-	// TODO(phase-1): replace with AShipPawn once flight exists. A spectator
-	// pawn proves the edit -> compile -> fly-around loop until then.
-	DefaultPawnClass = ASpectatorPawn::StaticClass();
+	// The C++ base flies but carries no art or bindings. Maps are expected to
+	// override this with a Blueprint subclass that supplies a hull mesh, a
+	// ship class, and an input config (TechnicalArchitecture §9).
+	DefaultPawnClass = AShipPawn::StaticClass();
+
+	HUDClass = AHyperlaneHUD::StaticClass();
 }

@@ -26,6 +26,12 @@ Plugins/**/Intermediate/
 .DS_Store
 Thumbs.db
 
+# --- Python tooling ---
+# Unreal's embedded interpreter writes these when a Tools/Python script
+# imports a sibling module.
+__pycache__/
+*.pyc
+
 # --- Local-only config ---
 Config/UserEngine.ini
 Config/UserGame.ini

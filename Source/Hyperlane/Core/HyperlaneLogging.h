@@ -13,3 +13,6 @@ DECLARE_LOG_CATEGORY_EXTERN(LogHyperlane, Log, All);
 
 // The galaxy simulation: clock, subsystem, and (later) economy/faction models.
 DECLARE_LOG_CATEGORY_EXTERN(LogGalaxySim, Log, All);
+
+// Ships: flight model resolution, movement, input binding, docking.
+DECLARE_LOG_CATEGORY_EXTERN(LogShip, Log, All);
