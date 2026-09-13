@@ -6,17 +6,19 @@ Run headless from the repo root:
       -run=pythonscript -script="$PWD/Tools/Python/gen_phase1_testflight.py" \\
       -unattended -nopause -nosplash
 
-Depends on gen_phase1_content.py having run first (ship classes + input).
+Run order: gen_phase1_content.py (ship classes, input), then
+gen_xwing_content.py (the hull the harness flies), then this.
 
-Companion to that script: this one binds *content* to the C++ classes, which
+Companion to those scripts: this one binds *content* to the C++ classes, which
 is exactly the split TechnicalArchitecture §9 asks for — C++ owns logic, a
 Blueprint subclass supplies the hull mesh and the data assets, and no art
 path is ever hardcoded in C++.
 
-Placeholder art is engine primitives on purpose. Phase 1's exit criterion is
-that flying *feels* good; real hulls would only make bad handling look
-prettier. The debris field exists for the same reason: velocity is invisible
-without parallax, so an empty void makes any flight model feel identical.
+The level and the Ghtroc's hull are engine primitives on purpose. Phase 1's
+exit criterion is that flying *feels* good; nicer art would only make bad
+handling look prettier. The debris field exists for the same reason: velocity
+is invisible without parallax, so an empty void makes any flight model feel
+identical.
 
 Set HYPERLANE_GEN_REPORT to capture a machine-readable run report.
 """
@@ -84,15 +86,25 @@ if ship_bp:
 # -------------------------------------------------------------- game mode BP
 GM_PATH = "/Game/Framework"
 
+# Which hull the harness flies. One constant, so switching back to the Ghtroc
+# (or on to a future hull) is a one-line change rather than a hunt.
+PLAYER_PAWN_BP = "/Game/Ships/Blueprints/BP_XWing"
+
+if not unreal.EditorAssetLibrary.does_asset_exist(PLAYER_PAWN_BP):
+    log(f"FAIL  {PLAYER_PAWN_BP} missing; run gen_xwing_content.py first")
+    raise SystemExit(1)
+
+player_bp = unreal.EditorAssetLibrary.load_asset(PLAYER_PAWN_BP)
+
 gm_bp = blueprint_of("BP_HyperlaneGameMode", GM_PATH, unreal.HyperlaneGameMode)
-if gm_bp and ship_bp:
+if gm_bp:
     gm_cdo = unreal.get_default_object(gm_bp.generated_class())
     # The C++ game mode defaults to the bare AShipPawn, which has no art and
-    # no bindings. Pointing at the Blueprint is a content decision, so it
+    # no bindings. Pointing at a Blueprint is a content decision, so it
     # belongs here rather than in the constructor.
-    gm_cdo.set_editor_property("default_pawn_class", ship_bp.generated_class())
+    gm_cdo.set_editor_property("default_pawn_class", player_bp.generated_class())
     unreal.EditorAssetLibrary.save_loaded_asset(gm_bp)
-    log(f"OK    {GM_PATH}/BP_HyperlaneGameMode")
+    log(f"OK    {GM_PATH}/BP_HyperlaneGameMode flies {PLAYER_PAWN_BP}")
 
 # ------------------------------------------------------------------- level
 MAP_PATH = "/Game/Maps/L_TestFlight"
